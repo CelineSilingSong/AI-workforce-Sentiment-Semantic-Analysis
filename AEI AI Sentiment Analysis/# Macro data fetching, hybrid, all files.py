@@ -22,6 +22,26 @@ import time
 import random
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException 
 
+
+# Function to flatten JSON data
+def flatten_json(y):
+    out = {}
+
+    def flatten(x, name=''):
+        if type(x) is dict:
+            for a in x:
+                flatten(x[a], name + a + '_')
+        elif type(x) is list:
+            i = 0
+            for a in x:
+                flatten(a, name + str(i) + '_')
+                i += 1
+        else:
+            out[name[:-1]] = x
+
+    flatten(y)
+    return out
+
 # Function to scrape meta data using Selenium and BeautifulSoup
 def scrape_news_article(url):
     # Path to the ChromeDriver executable
@@ -60,14 +80,14 @@ def scrape_news_article(url):
                 metadata[main_tag] = tag['content']
             else:
                 metadata[main_tag] = 'N/A'
-        
+
         # Extracting keywords
         tag = soup.find('meta', attrs={'name': 'keywords'})
         if tag and 'content' in tag.attrs:
             metadata['keywords'] = tag['content']
         else:
             metadata['keywords'] = 'N/A'
-        
+
         # Extract Open Graph tags
         og_tags = ['og:title', 'og:description', 'og:type', 'og:url', 'og:site_name', 'og:locale']
         for og_tag in og_tags:
@@ -78,7 +98,7 @@ def scrape_news_article(url):
                 metadata[og_tag] = tag['content']
             else:
                 metadata[og_tag] = 'N/A'
-        
+
         # Extract Twitter Card tags
         twitter_tags = ['twitter:card', 'twitter:site', 'twitter:title', 'twitter:description']
         for twitter_tag in twitter_tags:
@@ -89,12 +109,15 @@ def scrape_news_article(url):
                 metadata[twitter_tag] = tag['content']
             else:
                 metadata[twitter_tag] = 'N/A'
-        
+
         # Extract Schema.org markup (example)
+        schema_data = []
         for tag in soup.find_all('script', type='application/ld+json'):
             try:
                 json_data = json.loads(tag.string)
                 if '@context' in json_data and 'schema.org' in json_data['@context']:
+                    flattened_data = flatten_json(json_data)
+                    schema_data.append(flattened_data)
                     metadata.update(json_data)
             except json.JSONDecodeError:
                 continue
