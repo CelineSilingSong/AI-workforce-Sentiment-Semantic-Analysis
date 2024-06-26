@@ -54,36 +54,42 @@ def scrape_news_article(url):
         main_tags = ['title', 'description']
         for main_tag in main_tags:
             tag = soup.find('meta', attrs={'property': main_tag})
-            if tag and 'content' in tag:
+            if not tag:
+                tag = soup.find('meta', attrs={'name': main_tag})
+            if tag and 'content' in tag.attrs:
                 metadata[main_tag] = tag['content']
             else:
                 metadata[main_tag] = 'N/A'
-
+        
         # Extracting keywords
         tag = soup.find('meta', attrs={'name': 'keywords'})
-        if tag and 'content' in tag:
+        if tag and 'content' in tag.attrs:
             metadata['keywords'] = tag['content']
         else:
             metadata['keywords'] = 'N/A'
-
+        
         # Extract Open Graph tags
         og_tags = ['og:title', 'og:description', 'og:type', 'og:url', 'og:site_name', 'og:locale']
         for og_tag in og_tags:
             tag = soup.find('meta', attrs={'property': og_tag})
-            if tag and 'content' in tag:
+            if not tag:
+                tag = soup.find('meta', attrs={'name': og_tag})
+            if tag and 'content' in tag.attrs:
                 metadata[og_tag] = tag['content']
             else:
                 metadata[og_tag] = 'N/A'
-
+        
         # Extract Twitter Card tags
         twitter_tags = ['twitter:card', 'twitter:site', 'twitter:title', 'twitter:description']
         for twitter_tag in twitter_tags:
             tag = soup.find('meta', attrs={'name': twitter_tag})
-            if tag and 'content' in tag:
+            if not tag:
+                tag = soup.find('meta', attrs={'property': twitter_tag})
+            if tag and 'content' in tag.attrs:
                 metadata[twitter_tag] = tag['content']
             else:
                 metadata[twitter_tag] = 'N/A'
-
+        
         # Extract Schema.org markup (example)
         for tag in soup.find_all('script', type='application/ld+json'):
             try:
@@ -92,19 +98,17 @@ def scrape_news_article(url):
                     metadata.update(json_data)
             except json.JSONDecodeError:
                 continue
-
+            
         # Extract additional custom tags
         article_tags = ['article:type', 'article:section', 'article:summary']
         for article_tag in article_tags:
             tag = soup.find('meta', attrs={'name': article_tag})
-            if tag and 'content' in tag:
+            if not tag:
+                tag = soup.find('meta', attrs={'property': article_tag})
+            if tag and 'content' in tag.attrs:
                 metadata[article_tag] = tag['content']
             else:
-                tag = soup.find('meta', attrs={'property': article_tag})
-                if tag and 'content' in tag:
-                    metadata[article_tag] = tag['content']
-                else:
-                    metadata[article_tag] = 'N/A'
+                metadata[article_tag] = 'N/A'
 
         # Find all <p> tags
         #paragraphs = soup.find_all('p')
