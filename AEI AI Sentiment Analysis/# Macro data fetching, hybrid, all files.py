@@ -171,8 +171,7 @@ def main():
 
     for file in files:
         file_path = os.path.join(directory_path, file)
-        df = pd.read_csv(file_path)
-        
+        df = pd.read_csv(file_path)  
         all_metadata = []
 
         for index, row in df.iterrows():
