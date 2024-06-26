@@ -113,14 +113,15 @@ def scrape_news_article(url):
         # Extract Schema.org markup (example)
         schema_data = []
         for tag in soup.find_all('script', type='application/ld+json'):
-            try:
-                json_data = json.loads(tag.string)
-                if '@context' in json_data and 'schema.org' in json_data['@context']:
-                    flattened_data = flatten_json(json_data)
-                    schema_data.append(flattened_data)
-                    metadata.update(json_data)
-            except json.JSONDecodeError:
-                continue
+            if tag.string:
+                try:
+                    json_data = json.loads(tag.string)
+                    if '@context' in json_data and 'schema.org' in json_data['@context']:
+                        flattened_data = flatten_json(json_data)
+                        schema_data.append(flattened_data)
+                        metadata.update(json_data)
+                except json.JSONDecodeError:
+                    continue
             
         # Extract additional custom tags
         article_tags = ['article:type', 'article:section', 'article:summary']
@@ -138,8 +139,8 @@ def scrape_news_article(url):
         #content = ''
 
         # Loop through each <p> tag and print its text content
-        #for paragraph in paragraphs:
-        #    print(paragraph)
+        # Dor paragraph in paragraphs:
+        # print(paragraph)
 
         print(metadata)
         return metadata
@@ -162,7 +163,7 @@ def scrape_news_article(url):
 #print(metadata)
 
 # Path to directory:
-directory_path = '/Users/LindaSong/Desktop/AI job 3'
+directory_path = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/AI Job To Fetch Meta 2020 Jan'
 
 def main():
     
@@ -187,7 +188,7 @@ def main():
         if all_metadata:
             meta_data_df = pd.DataFrame(all_metadata)
             df = pd.concat([df, meta_data_df], axis=1)
-            df.to_csv(f'/Users/LindaSong/Desktop/AI job 5/meta_{file}', index=False)
+            df.to_csv(f'/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/AI Job Meta Data Fetched 2020 Jan/meta_{file}', index=False)
         else:
             print(f"No metadata collected for {file}")
 
