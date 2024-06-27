@@ -11,7 +11,7 @@ def detect_encoding(file_path):
         confidence = result['confidence']
         return encoding, confidence
 
-file_path = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/AI Job To Fetch Meta 2020 Jan/AI_Job2020-01-09 copy.csv'
+file_path = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/AI Job To Fetch Meta 2020 Jan/AI_Job2020-01-09 copy 1.csv'
 encoding, confidence = detect_encoding(file_path)
 print(f"Detected encoding: {encoding} (confidence: {confidence * 100:.2f}%)")
 
@@ -29,8 +29,10 @@ try:
     df = pd.read_csv(temp_file_path)
 
     # Save the DataFrame to a new CSV file with utf-8 encoding
-    output_path = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/AI Job To Fetch Meta 2020 Jan/AI_Job2020-01-09 copy 1.csv'
+    output_path = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/AI Job To Fetch Meta 2020 Jan/AI_Job2020-01-09 copy 2.csv'
     df.to_csv(output_path, encoding='utf-8', index=False)
+    df_2 = pd.read_csv(output_path)
+    print(df_2)
 
     print(f"File has been re-encoded to UTF-8 and saved as {output_path}")
 except Exception as e:

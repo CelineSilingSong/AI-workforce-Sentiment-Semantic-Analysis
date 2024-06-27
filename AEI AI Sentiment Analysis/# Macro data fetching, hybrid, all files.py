@@ -138,6 +138,14 @@ def scrape_news_article(url):
         #paragraphs = soup.find_all('p')
         #content = ''
 
+        # extract article body:
+        article_body = soup.find('article') or soup.find('div', class_ = 'content')
+        if article_body:
+            text = article_body.get_text()
+            metadata['article text'] = text
+        else:
+            metadata['article text'] = 'N/A'
+
         # Loop through each <p> tag and print its text content
         # Dor paragraph in paragraphs:
         # print(paragraph)
@@ -169,7 +177,10 @@ def main():
     
     files = os.listdir(directory_path)
 
-    for file in files:
+    # Filter only the files that end with .csv
+    csv_files = [file for file in files if file.endswith('.csv')]
+
+    for file in csv_files:
         file_path = os.path.join(directory_path, file)
         df = pd.read_csv(file_path)  
         all_metadata = []
