@@ -26,12 +26,13 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException,
 ssl_context = ssl.create_default_context(cafile=certifi.where())
 
 class GoogleNewsFeedScraper:
-    def __init__(self, query, start_date, end_date, language, region, topic):
+    def __init__(self, query, start_date, end_date, language, region, ceid, topic):
         self.query = query
         self.start_date = start_date
         self.end_date = end_date
         self.language = language
         self.region = region
+        self.ceid = ceid
         self.topic = topic
 
     def scrape_google_news_feed(self):
@@ -57,7 +58,7 @@ class GoogleNewsFeedScraper:
                         formatted_query += f'"{elem}"+OR+' 
 
         # ("AI"+OR+"artificial+intelligence")+AND+("jobs"+OR+"employment"+OR+"workforce")
-        response = requests.get(f'https://news.google.com/rss/search?q={formatted_query}+after:{start_date}+before:{end_date}&hl=en-IN&gl=IN&ceid=IN:en', verify=certifi.where())
+        response = requests.get(f'https://news.google.com/rss/search?q={formatted_query}+after:{start_date}+before:{end_date}&hl={self.language}&gl={self.region}&ceid={self.ceid}', verify=certifi.where())
         feed = feedparser.parse(response.content)
         print(feed)
         titles = []
@@ -231,10 +232,10 @@ class GoogleNewsFeedScraper:
             driver.quit()
 
     def convert_data_to_csv(self,start_date):
-        directory = '/Users/LindaSong/Desktop/AI job 4'
+        directory = '/Users/LindaSong/Desktop/test'
         d1 = self.scrape_google_news_feed()
         df = pd.DataFrame(d1)
-        csv_name = self.query + f"{start_date}.csv"
+        csv_name = f"{self.topic} {self.language} {start_date}.csv"
         csv_name_new = csv_name.replace(" ", "_")
         csv_path = os.path.join(directory,csv_name_new)
         df.to_csv(csv_path, index=False)
