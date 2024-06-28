@@ -58,7 +58,7 @@ class GoogleNewsFeedScraper:
                         formatted_query += f'"{elem}"+OR+' 
 
         # ("AI"+OR+"artificial+intelligence")+AND+("jobs"+OR+"employment"+OR+"workforce")
-        response = requests.get(f'https://news.google.com/rss/search?q={formatted_query}+after:{start_date}+before:{end_date}&hl={self.language}&gl={self.region}&ceid={self.ceid}', verify=certifi.where())
+        response = requests.get(f'https://news.google.com/rss/search?q="{self.topic}"+AND+{formatted_query}+after:{start_date}+before:{end_date}&hl={self.language}&gl={self.region}&ceid={self.ceid}', verify=certifi.where())
         feed = feedparser.parse(response.content)
         print(feed)
         titles = []
@@ -232,10 +232,9 @@ class GoogleNewsFeedScraper:
             driver.quit()
 
     def convert_data_to_csv(self,start_date):
-        directory = '/Users/LindaSong/Desktop/test'
+        directory = '/Users/LindaSong/Desktop/test 2'
         d1 = self.scrape_google_news_feed()
         df = pd.DataFrame(d1)
-        csv_name = f"{self.topic} {self.language} {start_date}.csv"
-        csv_name_new = csv_name.replace(" ", "_")
-        csv_path = os.path.join(directory,csv_name_new)
+        csv_name = f"{self.topic}_{self.language}_{self.region}_{start_date}.csv"
+        csv_path = os.path.join(directory,csv_name)
         df.to_csv(csv_path, index=False)

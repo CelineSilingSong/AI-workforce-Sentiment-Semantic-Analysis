@@ -12,6 +12,9 @@ periods_per_month = 6
 start_dates = []
 end_dates = []
 
+# translator
+translator = Translator()
+
 # Function to calculate date ranges for each period in a month
 def split_month_into_periods(year, month, periods):
     first_day_of_month = datetime(year, month, 1)
@@ -88,25 +91,55 @@ print(df_time)
 # Australia: gl=AU
 
 # to be fixed
-locale = {
-    'languages':['en-US', 'en-GB','es-ES','es-419','fr-FR','de-DE','it-IT','pt-BR','pt-PT','zh-CN','gl=TW','gl=JP','gl=KR', 'gl=RU', 'gl=IN', 'gl=MX', 'gl=CA','gl=AU'],
-    'regions':[],
-    'ceids':[]
-}
-languages = 'en-US'
-regions = 'US'
-ceids = 'US:en'
-topics = 'xx'
+languages_info = [
+    {'dest':'en','hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'},
+    {'dest':'en','hl': 'en-GB', 'gl': 'GB', 'ceid': 'GB:en'},
+    {'dest':'es','hl': 'es-ES', 'gl': 'ES', 'ceid': 'ES:es'},
+    {'dest':'es','hl': 'es-419', 'gl': 'MX', 'ceid': 'MX:es-419'},
+    {'dest':'fr','hl': 'fr-FR', 'gl': 'FR', 'ceid': 'FR:fr'},
+    {'dest':'de','hl': 'de-DE', 'gl': 'DE', 'ceid': 'DE:de'},
+    {'dest':'it','hl': 'it-IT', 'gl': 'IT', 'ceid': 'IT:it'},
+    {'dest':'pt','hl': 'pt-BR', 'gl': 'BR', 'ceid': 'BR:pt-BR'},
+    {'dest':'pt','hl': 'pt-PT', 'gl': 'PT', 'ceid': 'PT:pt'},
+    {'dest':'zh-cn','hl': 'zh-CN', 'gl': 'CN', 'ceid': 'CN:zh-CN'},
+    {'dest':'zh-tw','hl': 'zh-TW', 'gl': 'TW', 'ceid': 'TW:zh-TW'},
+    {'dest':'ja','hl': 'ja-JP', 'gl': 'JP', 'ceid': 'JP:ja-JP'},
+    {'dest':'ko','hl': 'ko-KR', 'gl': 'KR', 'ceid': 'KR:ko-KR'},
+    {'dest':'ru','hl': 'ru-RU', 'gl': 'RU', 'ceid': 'RU:ru-RU'},
+    {'dest':'hi','hl': 'hi-IN', 'gl': 'IN', 'ceid': 'IN:hi-IN'},
+    {'dest':'en','hl': 'en-IN', 'gl': 'IN', 'ceid': 'IN:en-IN'},
+    {'dest':'en','hl': 'en-CA', 'gl': 'CA', 'ceid': 'CA:en'},
+    {'dest':'en','hl': 'en-AU', 'gl': 'AU', 'ceid': 'AU:en'},
+    {'dest':'fr','hl': 'fr-CA', 'gl': 'CA', 'ceid': 'CA:fr'},
+    {'dest':'ar','hl': 'ar', 'gl': 'SA', 'ceid': 'SA:ar'}
+]
+
+topics = ['Education', 'Tech', 'Business', 'Politics', 'Regulation']
 
 query = [
-    [topic],
     ['AI', 'Artificial Intelligence', 'Large Language Models', 'Generative AI'],
     ['Job', 'Work', 'Workforce', 'employment']
 ]
 
+def translate_query(query, language):
+    # Translate each element in the nested array
+    translated_double_array = []
+    for inner_array in query:
+        translated_inner_array = []
+        for text in inner_array:
+            translated = translator.translate(text, dest=language)  # Translate to French as an example
+            translated_inner_array.append(translated.text)
+        translated_double_array.append(translated_inner_array)
+    return translated_double_array
+
+
 for index, row in df_time.iterrows():
     start_date = row[0]
     end_date = row[1]
-    scraper = GoogleNewsFeedScraper(query, start_date, end_date, language, region, ceid, topic)
-    scraper.convert_data_to_csv(start_date)
-    print("success")
+    for topic in topics:
+        for language_info in languages_info:
+            topic = translator.translate(topic, language_info['dest'])
+            query = translate_query(query,language_info['dest'])
+            scraper = GoogleNewsFeedScraper(query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], topic)
+            scraper.convert_data_to_csv(start_date)
+            print("success")
