@@ -5,6 +5,8 @@ from datetime import datetime, timedelta
 from DataScraper2 import GoogleNewsFeedScraper
 from googletrans import Translator
 
+# last scrape: KR 2022-04-05
+
 # Define number of periods per month
 periods_per_month = 6
 
@@ -37,7 +39,7 @@ def split_month_into_periods(year, month, periods):
         current_start_date = current_end_date + timedelta(days=1)
 
 # Loop through the years and months to generate date ranges
-for year in np.arange(2018, 2025):
+for year in np.arange(2019, 2024):
     if year == 2024:
         for month in np.arange(1,7):
             split_month_into_periods(year, month, periods_per_month)
@@ -59,25 +61,25 @@ print(df_time)
 
 # to be fixed
 languages_info = [
-    {'dest':'en','hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'},
-    {'dest':'en','hl': 'en-GB', 'gl': 'GB', 'ceid': 'GB:en'},
-    {'dest':'es','hl': 'es-ES', 'gl': 'ES', 'ceid': 'ES:es'},
-    {'dest':'es','hl': 'es-419', 'gl': 'MX', 'ceid': 'MX:es-419'},
-    {'dest':'fr','hl': 'fr-FR', 'gl': 'FR', 'ceid': 'FR:fr'},
-    {'dest':'de','hl': 'de-DE', 'gl': 'DE', 'ceid': 'DE:de'},
-    {'dest':'it','hl': 'it-IT', 'gl': 'IT', 'ceid': 'IT:it'},
-    {'dest':'pt','hl': 'pt-BR', 'gl': 'BR', 'ceid': 'BR:pt-BR'},
-    {'dest':'pt','hl': 'pt-PT', 'gl': 'PT', 'ceid': 'PT:pt'},
-    {'dest':'zh-cn','hl': 'zh-CN', 'gl': 'CN', 'ceid': 'CN:zh-CN'},
-    {'dest':'zh-tw','hl': 'zh-TW', 'gl': 'TW', 'ceid': 'TW:zh-TW'},
-    {'dest':'ja','hl': 'ja-JP', 'gl': 'JP', 'ceid': 'JP:ja-JP'},
+#    {'dest':'en','hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'},
+#    {'dest':'en','hl': 'en-GB', 'gl': 'GB', 'ceid': 'GB:en'},
+#    {'dest':'es','hl': 'es-ES', 'gl': 'ES', 'ceid': 'ES:es'},
+#   {'dest':'es','hl': 'es-419', 'gl': 'MX', 'ceid': 'MX:es-419'},
+#    {'dest':'fr','hl': 'fr-FR', 'gl': 'FR', 'ceid': 'FR:fr'},
+#   {'dest':'de','hl': 'de-DE', 'gl': 'DE', 'ceid': 'DE:de'},
+#    {'dest':'it','hl': 'it-IT', 'gl': 'IT', 'ceid': 'IT:it'},
+#    {'dest':'pt','hl': 'pt-BR', 'gl': 'BR', 'ceid': 'BR:pt-BR'},
+#    {'dest':'pt','hl': 'pt-PT', 'gl': 'PT', 'ceid': 'PT:pt'},
+#    {'dest':'zh-cn','hl': 'zh-CN', 'gl': 'CN', 'ceid': 'CN:zh-CN'},
+#    {'dest':'zh-tw','hl': 'zh-TW', 'gl': 'TW', 'ceid': 'TW:zh-TW'},
+#    {'dest':'ja','hl': 'ja-JP', 'gl': 'JP', 'ceid': 'JP:ja-JP'},
     {'dest':'ko','hl': 'ko-KR', 'gl': 'KR', 'ceid': 'KR:ko-KR'},
     {'dest':'ru','hl': 'ru-RU', 'gl': 'RU', 'ceid': 'RU:ru-RU'},
     {'dest':'hi','hl': 'hi-IN', 'gl': 'IN', 'ceid': 'IN:hi-IN'},
-    {'dest':'en','hl': 'en-IN', 'gl': 'IN', 'ceid': 'IN:en-IN'},
-    {'dest':'en','hl': 'en-CA', 'gl': 'CA', 'ceid': 'CA:en'},
-    {'dest':'en','hl': 'en-AU', 'gl': 'AU', 'ceid': 'AU:en'},
-    {'dest':'fr','hl': 'fr-CA', 'gl': 'CA', 'ceid': 'CA:fr'},
+#    {'dest':'en','hl': 'en-IN', 'gl': 'IN', 'ceid': 'IN:en-IN'},
+#    {'dest':'en','hl': 'en-CA', 'gl': 'CA', 'ceid': 'CA:en'},
+#    {'dest':'en','hl': 'en-AU', 'gl': 'AU', 'ceid': 'AU:en'},
+#    {'dest':'fr','hl': 'fr-CA', 'gl': 'CA', 'ceid': 'CA:fr'},
     {'dest':'ar','hl': 'ar', 'gl': 'SA', 'ceid': 'SA:ar'}
 ]
 
