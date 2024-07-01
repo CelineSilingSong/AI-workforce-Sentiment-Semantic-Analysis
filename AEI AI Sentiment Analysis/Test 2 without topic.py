@@ -1,7 +1,9 @@
+# Scraping Articles by Language & Region:
+
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
-from DataScraper import GoogleNewsFeedScraper
+from DataScraper2 import GoogleNewsFeedScraper
 from googletrans import Translator
 
 # Define number of periods per month
@@ -81,7 +83,7 @@ languages_info = [
     {'dest':'ar','hl': 'ar', 'gl': 'SA', 'ceid': 'SA:ar'}
 ]
 
-topics = ['Education', 'Tech', 'Business', 'Politics', 'Regulation']
+# topics = ['Education', 'Tech', 'Business', 'Politics', 'Regulation']
 
 query = [
     ['Artificial Intelligence', 'Large Language Models', 'Generative AI'],
@@ -104,19 +106,11 @@ def translate_query(query, language):
         print (translated_double_array)
     return translated_double_array
 
-
-for index, row in df_time[::-1].iterrows():
-    start_date = row[0]
-    end_date = row[1]
-    for language_info in languages_info:
-        translated_query = translate_query(query,language_info['dest'])
-        for topic in topics:
-            try:
-                translated_topic = translator.translate(topic, language_info['dest']).text
-            except Exception as e:
-                translated_topic = topic
-                print(f"An error has occured translating {topic} into {language_info['dest']}: {e}")
-            
-            scraper = GoogleNewsFeedScraper(translated_query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], translated_topic)
-            scraper.convert_data_to_csv(start_date)
-            print("success")
+for language_info in languages_info:
+    translated_query = translate_query(query,language_info['dest'])     
+    for index, row in df_time[::-1].iterrows():
+        start_date = row[0]
+        end_date = row[1]
+        scraper = GoogleNewsFeedScraper(translated_query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], translated_topic)
+        scraper.convert_data_to_csv(start_date)
+        print("success")
