@@ -1,5 +1,4 @@
 # Scraping Articles by Language & Region:
-
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
@@ -55,7 +54,6 @@ print(df_time)
 #     ['AI', 'Artificial Intelligence', 'Large Language Models', 'LLM', 'Generative AI', 'Machine Learning', 'Neural Network', 'Deep Learning'],
 #     ['Job', 'Work', 'Workforce', 'Occupation', 'Career', 'Labor Market', 'Labor'],
 # ])
-
 # https://news.google.com/rss/search?q=(%22AI%22+OR+%22Artificial+Intelligence%22+OR+%22Large+Language+Models%22+OR+%22Machine+Learning%22)+AND+(%22Job%22+OR+%22Work%22+OR+%22Workforce%22+OR+%22Occupation%22+OR+%22Career%22)+after:2018-02-01+before:2018-02-08&hl=en-IN&gl=IN&ceid=IN:en
 
 
@@ -111,6 +109,6 @@ for language_info in languages_info:
     for index, row in df_time[::-1].iterrows():
         start_date = row[0]
         end_date = row[1]
-        scraper = GoogleNewsFeedScraper(translated_query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], translated_topic)
+        scraper = GoogleNewsFeedScraper(translated_query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'])
         scraper.convert_data_to_csv(start_date)
         print("success")

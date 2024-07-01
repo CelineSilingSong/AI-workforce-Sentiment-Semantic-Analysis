@@ -32,7 +32,6 @@ class GoogleNewsFeedScraper:
         self.language = language
         self.region = region
         self.ceid = ceid
-        self.topic = topic
 
     def scrape_google_news_feed(self):
         start_date = self.start_date
