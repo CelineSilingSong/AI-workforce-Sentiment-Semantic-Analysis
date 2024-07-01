@@ -80,34 +80,39 @@ languages_info = [
 topics = ['Education', 'Tech', 'Business', 'Politics', 'Regulation']
 
 query = [
-    ['AI', 'Artificial Intelligence', 'Large Language Models', 'Generative AI'],
+    ['Artificial Intelligence', 'Large Language Models', 'Generative AI'],
     ['Job', 'Work', 'Workforce', 'employment']
 ]
 
 def translate_query(query, language):
     # Translate each element in the nested array
-
     translated_double_array = []
     for inner_array in query:
         translated_inner_array = []
         for text in inner_array:
             try:
-                translated = translator.translate(text, dest=language)  # Translate to French as an example
+                translated = translator.translate(text, dest=language).text
             except Exception as e:
                 print(f"Error occured when translating {text} into {language}:{e} ")
-            translated_inner_array.append(translated.text)
+                translated = text
+            translated_inner_array.append(translated)
         translated_double_array.append(translated_inner_array)
         print (translated_double_array)
     return translated_double_array
 
 
-for index, row in df_time.iterrows():
+for index, row in df_time[::-1].iterrows():
     start_date = row[0]
     end_date = row[1]
-    for topic in topics:
-        for language_info in languages_info:
-            translated_topic = translator.translate(topic, language_info['dest']).text
-            translated_query = translate_query(query,language_info['dest'])
+    for language_info in languages_info:
+        translated_query = translate_query(query,language_info['dest'])
+        for topic in topics:
+            try:
+                translated_topic = translator.translate(topic, language_info['dest']).text
+            except Exception as e:
+                translated_topic = topic
+                print(f"An error has occured translating {topic} into {language_info['dest']}: {e}")
+            
             scraper = GoogleNewsFeedScraper(translated_query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], translated_topic)
             scraper.convert_data_to_csv(start_date)
             print("success")

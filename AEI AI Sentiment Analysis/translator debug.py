@@ -2,7 +2,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-text = 'Tech'
+text = 'Artificial Intelligence'
 translated = translator.translate(text, dest='pt').text
 print(translated)
 
