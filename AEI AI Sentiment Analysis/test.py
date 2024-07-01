@@ -37,8 +37,12 @@ def split_month_into_periods(year, month, periods):
 
 # Loop through the years and months to generate date ranges
 for year in np.arange(2018, 2025):
-    for month in np.arange(1, 13):
-        split_month_into_periods(year, month, periods_per_month)
+    if year == 2024:
+        for month in np.arange(1,7):
+            split_month_into_periods(year, month, periods_per_month)
+    else:
+        for month in np.arange(1, 13):
+            split_month_into_periods(year, month, periods_per_month)
 
 # Create a DataFrame to display the date ranges
 df_time = pd.DataFrame({'Start Dates': start_dates, 'End Dates': end_dates})
