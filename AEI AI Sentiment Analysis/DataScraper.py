@@ -58,7 +58,9 @@ class GoogleNewsFeedScraper:
                         formatted_query += f'"{elem}"+OR+' 
 
         # ("AI"+OR+"artificial+intelligence")+AND+("jobs"+OR+"employment"+OR+"workforce")
-        response = requests.get(f'https://news.google.com/rss/search?q="{self.topic}"+AND+{formatted_query}+after:{start_date}+before:{end_date}&hl={self.language}&gl={self.region}&ceid={self.ceid}', verify=certifi.where())
+        rss_url = f'https://news.google.com/rss/search?q="{self.topic}"+AND+{formatted_query}+after:{start_date}+before:{end_date}&hl={self.language}&gl={self.region}&ceid={self.ceid}'
+        print(rss_url)
+        response = requests.get(rss_url, verify=certifi.where())
         feed = feedparser.parse(response.content)
         print(feed)
         titles = []

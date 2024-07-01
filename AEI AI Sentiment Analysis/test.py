@@ -4,7 +4,6 @@ from datetime import datetime, timedelta
 from DataScraper import GoogleNewsFeedScraper
 from googletrans import Translator
 
-
 # Define number of periods per month
 periods_per_month = 6
 
@@ -53,42 +52,6 @@ print(df_time)
 
 # https://news.google.com/rss/search?q=(%22AI%22+OR+%22Artificial+Intelligence%22+OR+%22Large+Language+Models%22+OR+%22Machine+Learning%22)+AND+(%22Job%22+OR+%22Work%22+OR+%22Workforce%22+OR+%22Occupation%22+OR+%22Career%22)+after:2018-02-01+before:2018-02-08&hl=en-IN&gl=IN&ceid=IN:en
 
-# Language Codes:
-# English (US): hl=en-US
-# English (UK): hl=en-GB
-# Spanish (Spain): hl=es-ES
-# Spanish (Latin America): hl=es-419
-# French (France): hl=fr-FR
-# German (Germany): hl=de-DE
-# Italian (Italy): hl=it-IT
-# Portuguese (Brazil): hl=pt-BR
-# Portuguese (Portugal): hl=pt-PT
-# Chinese (Simplified): hl=zh-CN
-# Chinese (Traditional): hl=zh-TW
-# Japanese (Japan): hl=ja-JP
-# Korean (Korea): hl=ko-KR
-# Russian (Russia): hl=ru-RU
-# Arabic (Middle East): hl=ar
-# Hindi (India): hl=hi-IN
-
-# Region Codes:
-# United States: gl=US
-# United Kingdom: gl=GB
-# Spain: gl=ES
-# France: gl=FR
-# Germany: gl=DE
-# Italy: gl=IT
-# Brazil: gl=BR
-# Portugal: gl=PT
-# China: gl=CN
-# Taiwan: gl=TW
-# Japan: gl=JP
-# Korea: gl=KR
-# Russia: gl=RU
-# India: gl=IN
-# Mexico: gl=MX
-# Canada: gl=CA
-# Australia: gl=AU
 
 # to be fixed
 languages_info = [
@@ -123,13 +86,18 @@ query = [
 
 def translate_query(query, language):
     # Translate each element in the nested array
+
     translated_double_array = []
     for inner_array in query:
         translated_inner_array = []
         for text in inner_array:
-            translated = translator.translate(text, dest=language)  # Translate to French as an example
+            try:
+                translated = translator.translate(text, dest=language)  # Translate to French as an example
+            except Exception as e:
+                print(f"Error occured when translating {text} into {language}:{e} ")
             translated_inner_array.append(translated.text)
         translated_double_array.append(translated_inner_array)
+        print (translated_double_array)
     return translated_double_array
 
 
@@ -138,8 +106,8 @@ for index, row in df_time.iterrows():
     end_date = row[1]
     for topic in topics:
         for language_info in languages_info:
-            topic = translator.translate(topic, language_info['dest'])
-            query = translate_query(query,language_info['dest'])
-            scraper = GoogleNewsFeedScraper(query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], topic)
+            translated_topic = translator.translate(topic, language_info['dest']).text
+            translated_query = translate_query(query,language_info['dest'])
+            scraper = GoogleNewsFeedScraper(translated_query, start_date, end_date, language_info['hl'], language_info['gl'], language_info['ceid'], translated_topic)
             scraper.convert_data_to_csv(start_date)
             print("success")
