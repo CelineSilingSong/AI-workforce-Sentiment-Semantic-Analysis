@@ -152,7 +152,7 @@ class MacroDataFetcher:
             metadata = {}
 
             # Extracting main meta tags:
-            main_tag = ['description']
+            main_tag = 'description'
             tag = soup.find('meta', attrs={'property': main_tag})
             if not tag:
                 tag = soup.find('meta', attrs={'name': main_tag})
@@ -169,7 +169,7 @@ class MacroDataFetcher:
                 metadata['keywords'] = 'N/A'
 
             # Extract Open Graph tags
-            og_tag = ['og:description']
+            og_tag = 'og:description'
             tag = soup.find('meta', attrs={'property': og_tag})
             if not tag:
                 tag = soup.find('meta', attrs={'name': og_tag})
@@ -179,7 +179,7 @@ class MacroDataFetcher:
                 metadata[og_tag] = 'N/A'
 
             # Extract Twitter Card tags
-            twitter_tag = ['twitter:description']
+            twitter_tag = 'twitter:description'
             tag = soup.find('meta', attrs={'name': twitter_tag})
             if not tag:
                 tag = soup.find('meta', attrs={'property': twitter_tag})
@@ -202,7 +202,7 @@ class MacroDataFetcher:
                         continue
                     
             # Extract additional custom tags
-            article_tags = ['article:type', 'article:section', 'article:summary']
+            article_tags = ['article:section', 'article:summary']
             for article_tag in article_tags:
                 tag = soup.find('meta', attrs={'name': article_tag})
                 if not tag:

@@ -3,11 +3,11 @@
 # By Siling Song
 
 import os
-from DataScraper2 import GoogleNewsFeedScraper
+from DataScraper2 import MacroDataFetcher
 import pandas as pd
 
 # Path to directory:
-directory_path = '/Users/LindaSong/Desktop/test 2 reorganized'
+directory_path = '/Users/LindaSong/Desktop/fr-FR'
 
 def main():
     
@@ -23,8 +23,9 @@ def main():
 
         for index, row in df.iterrows():
             url = row[0]
-
-            meta_data = GoogleNewsFeedScraper.fetch_des_section(url)
+            chrom_path = '/Users/LindaSong/Downloads/chromedriver-mac-arm64/chromedriver'
+            metadatafetcher = MacroDataFetcher(chrom_path)
+            meta_data = metadatafetcher.fetch_des_section(url)
             if meta_data:
                 print(f"Obtained metadata successfully for {url}")
                 all_metadata.append(meta_data)
