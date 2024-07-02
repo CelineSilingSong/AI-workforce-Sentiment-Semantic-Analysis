@@ -39,7 +39,7 @@ def split_month_into_periods(year, month, periods):
         current_start_date = current_end_date + timedelta(days=1)
 
 # Loop through the years and months to generate date ranges
-for year in np.arange(2019, 2024):
+for year in np.arange(2022, 2025):
     if year == 2024:
         for month in np.arange(1,7):
             split_month_into_periods(year, month, periods_per_month)
@@ -73,7 +73,7 @@ languages_info = [
 #    {'dest':'zh-cn','hl': 'zh-CN', 'gl': 'CN', 'ceid': 'CN:zh-CN'},
 #    {'dest':'zh-tw','hl': 'zh-TW', 'gl': 'TW', 'ceid': 'TW:zh-TW'},
 #    {'dest':'ja','hl': 'ja-JP', 'gl': 'JP', 'ceid': 'JP:ja-JP'},
-    {'dest':'ko','hl': 'ko-KR', 'gl': 'KR', 'ceid': 'KR:ko-KR'},
+#    {'dest':'ko','hl': 'ko-KR', 'gl': 'KR', 'ceid': 'KR:ko-KR'},
     {'dest':'ru','hl': 'ru-RU', 'gl': 'RU', 'ceid': 'RU:ru-RU'},
     {'dest':'hi','hl': 'hi-IN', 'gl': 'IN', 'ceid': 'IN:hi-IN'},
 #    {'dest':'en','hl': 'en-IN', 'gl': 'IN', 'ceid': 'IN:en-IN'},

@@ -99,7 +99,7 @@ class GoogleNewsFeedScraper:
         data = {'URL link': links, 'Title': titles, 'Date': pubdates, 'Source': source_names, 'Source Link': source_urls}
         return data
     
-    def flatten_json(y):
+    def flatten_json(self, y):
         out = {}
 
         def flatten(x, name=''):
@@ -119,7 +119,7 @@ class GoogleNewsFeedScraper:
 
     
     # Function to scrape meta data using Selenium and BeautifulSoup
-    def fetch_article_metadata(url):
+    def fetch_article_metadata(self, url):
         # Path to the ChromeDriver executable
         chrome_driver_path = '/Users/LindaSong/Downloads/chromedriver-mac-arm64/chromedriver'
 
@@ -193,7 +193,7 @@ class GoogleNewsFeedScraper:
                     try:
                         json_data = json.loads(tag.string)
                         if '@context' in json_data and 'schema.org' in json_data['@context']:
-                            flattened_data = flatten_json(json_data)
+                            flattened_data = self.flatten_json(json_data)
                             schema_data.append(flattened_data)
                             metadata.update(json_data)
                     except json.JSONDecodeError:

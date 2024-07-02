@@ -95,11 +95,27 @@ class GoogleNewsFeedScraper:
             print("Nothing Found!")
 
         data = {'URL link': links, 'Title': titles, 'Date': pubdates, 'Source': source_names, 'Source Link': source_urls}
-        return data
-    
-    def flatten_json(y):
-        out = {}
+        return data  
 
+    def convert_data_to_csv(self,start_date):
+        directory = '/Users/LindaSong/Desktop/test 2'
+        d1 = self.scrape_google_news_feed()
+        df = pd.DataFrame(d1)
+        csv_name = f"{self.language}_{self.region}_{start_date}.csv"
+        csv_path = os.path.join(directory,csv_name)
+        df.to_csv(csv_path, index=False)
+
+
+class MacroDataFetcher:
+    def __init__(self, chrom_driver_path): 
+        # Path to the ChromeDriver executable
+        self.chrom_driver_path = chrom_driver_path
+        # Configure Chrome options (optional)
+        Chrome_options = Options()
+        Chrome_options.add_argument("--headless")  # Optional: run Chrome in headless mode
+
+    def flatten_json(self, y):
+        out = {}
         def flatten(x, name=''):
             if type(x) is dict:
                 for a in x:
@@ -113,17 +129,109 @@ class GoogleNewsFeedScraper:
                 out[name[:-1]] = x
 
         flatten(y)
-        return out
+        return out    
 
-    
-    # Function to scrape meta data using Selenium and BeautifulSoup
-    def fetch_article_metadata(url):
+    def fetch_des_section(self,url):
+        # Initialize Chrome WebDriver using Service and Options
+        driver = webdriver.Chrome(service=Service(self.chrom_driver_path))
+
+        try:
+            # Navigate to the news article page
+            driver.get(url)
+
+            # Wait for some time to ensure page is fully loaded
+            time.sleep(5)  
+
+            # Get the page source after JavaScript execution
+            page_source = driver.page_source
+
+            # Use BeautifulSoup to parse the page source
+            soup = BeautifulSoup(page_source, 'html.parser')
+
+            # Extract meta tags
+            metadata = {}
+
+            # Extracting main meta tags:
+            main_tag = ['description']
+            tag = soup.find('meta', attrs={'property': main_tag})
+            if not tag:
+                tag = soup.find('meta', attrs={'name': main_tag})
+            if tag and 'content' in tag.attrs:
+                metadata[main_tag] = tag['content']
+            else:
+                metadata[main_tag] = 'N/A'
+
+            # Extracting keywords
+            tag = soup.find('meta', attrs={'name': 'keywords'})
+            if tag and 'content' in tag.attrs:
+                metadata['keywords'] = tag['content']
+            else:
+                metadata['keywords'] = 'N/A'
+
+            # Extract Open Graph tags
+            og_tag = ['og:description']
+            tag = soup.find('meta', attrs={'property': og_tag})
+            if not tag:
+                tag = soup.find('meta', attrs={'name': og_tag})
+            if tag and 'content' in tag.attrs:
+                metadata[og_tag] = tag['content']
+            else:
+                metadata[og_tag] = 'N/A'
+
+            # Extract Twitter Card tags
+            twitter_tag = ['twitter:description']
+            tag = soup.find('meta', attrs={'name': twitter_tag})
+            if not tag:
+                tag = soup.find('meta', attrs={'property': twitter_tag})
+            if tag and 'content' in tag.attrs:
+                metadata[twitter_tag] = tag['content']
+            else:
+                metadata[twitter_tag] = 'N/A'
+
+            # Extract Schema.org markup (example)
+            schema_data = []
+            for tag in soup.find_all('script', type='application/ld+json'):
+                if tag.string:
+                    try:
+                        json_data = json.loads(tag.string)
+                        if '@context' in json_data and 'schema.org' in json_data['@context']:
+                            flattened_data = self.flatten_json(json_data)
+                            schema_data.append(flattened_data)
+                            metadata.update(json_data)
+                    except json.JSONDecodeError:
+                        continue
+                    
+            # Extract additional custom tags
+            article_tags = ['article:type', 'article:section', 'article:summary']
+            for article_tag in article_tags:
+                tag = soup.find('meta', attrs={'name': article_tag})
+                if not tag:
+                    tag = soup.find('meta', attrs={'property': article_tag})
+                if tag and 'content' in tag.attrs:
+                    metadata[article_tag] = tag['content']
+                else:
+                    metadata[article_tag] = 'N/A'
+
+            # extract article body:
+            article_body = soup.find('article') or soup.find('div', class_ = 'content')
+            if article_body:
+                text = article_body.get_text()
+                metadata['article text'] = text
+            else:
+                metadata['article text'] = 'N/A'
+
+            print(metadata)
+            return metadata
+        
+        finally:
+            # Close the WebDriver
+            driver.quit()
+
+
+        # Function to scrape meta data using Selenium and BeautifulSoup
+    def fetch_article_metadata(self, url):
         # Path to the ChromeDriver executable
-        chrome_driver_path = '/Users/LindaSong/Downloads/chromedriver-mac-arm64/chromedriver'
-
-        # Configure Chrome options (optional)
-        # Chrome_options = Options()
-        # Chrome_options.add_argument("--headless")  # Optional: run Chrome in headless mode
+        chrome_driver_path = self.chrom_driver_path
 
         # Initialize Chrome WebDriver using Service and Options
         driver = webdriver.Chrome(service=Service(chrome_driver_path))
@@ -191,7 +299,7 @@ class GoogleNewsFeedScraper:
                     try:
                         json_data = json.loads(tag.string)
                         if '@context' in json_data and 'schema.org' in json_data['@context']:
-                            flattened_data = flatten_json(json_data)
+                            flattened_data = self.flatten_json(json_data)
                             schema_data.append(flattened_data)
                             metadata.update(json_data)
                     except json.JSONDecodeError:
@@ -230,11 +338,5 @@ class GoogleNewsFeedScraper:
         finally:
             # Close the WebDriver
             driver.quit()
-
-    def convert_data_to_csv(self,start_date):
-        directory = '/Users/LindaSong/Desktop/test 2'
-        d1 = self.scrape_google_news_feed()
-        df = pd.DataFrame(d1)
-        csv_name = f"{self.language}_{self.region}_{start_date}.csv"
-        csv_path = os.path.join(directory,csv_name)
-        df.to_csv(csv_path, index=False)
+    
+    
