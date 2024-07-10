@@ -7,7 +7,7 @@ from DataScraper2 import MacroDataFetcher
 import pandas as pd
 
 # Path to directory:
-directory_path = '/Users/LindaSong/Desktop/fr-FR'
+directory_path = '/Users/LindaSong/Desktop/test 2'
 
 def main():
     
@@ -15,6 +15,7 @@ def main():
 
     # Filter only the files that end with .csv
     csv_files = [file for file in files if file.endswith('.csv')]
+    csv_files = sorted(csv_files)
 
     for file in csv_files:
         file_path = os.path.join(directory_path, file)
@@ -35,7 +36,7 @@ def main():
         if all_metadata:
             meta_data_df = pd.DataFrame(all_metadata)
             df = pd.concat([df, meta_data_df], axis=1)
-            df.to_csv(f'/Users/LindaSong/Desktop/test 2 with macrodata/{file} macro.csv', index=False)
+            df.to_csv(f'/Users/LindaSong/Desktop/macroed/{file} macro.csv', index=False)
         else:
             print(f"No metadata collected for {file}")
 
