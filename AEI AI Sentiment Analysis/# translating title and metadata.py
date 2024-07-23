@@ -8,7 +8,7 @@ import re
 
 translator = Translator()
 
-directory = 'the directory path'
+directory = 'AEI AI Sentiment Analysis/To Translate'
 
 files = []
 for file in os.listdir(directory):
@@ -50,7 +50,8 @@ for file in sorted_files:
         # geeting the longest description
         for column_name in df.columns:
             if 'description' in column_name:
-                description_length = len(row[1][column_name])
+                print(str(row[1][column_name]))
+                description_length = len(str(row[1][column_name]))
                 if description_length > max_length:
                     max_length = description_length
                     max_descr = row[1][column_name]
@@ -67,7 +68,7 @@ for file in sorted_files:
         data_translated['Original Title'].append(title)
         data_translated['Original Description'].append(max_descr)
     
-    translated_df = pd.DataFrame(data_translated, index = False)
+    translated_df = pd.DataFrame(data_translated)
 
-    translated_df.to_csv('output path')
+    translated_df.to_csv(f'Translated/translated {file_name}', index = False)
 
