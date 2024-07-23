@@ -1,0 +1,1525 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,mainEntityOfPage,headline,image,datePublished,dateModified,author,publisher,name,url,potentialAction,logo,sameAs,isAccessibleForFree,itemListElement,@id,dateCreated,copyrightYear,articleSection,articleBody,sourceOrganization,copyrightHolder,alternativeHeadline,hasPart,isPartOf
+https://news.google.com/rss/articles/CBMifmh0dHBzOi8vZnJlZGNhdmF6emEubmV0LzIwMTgvMTIvMTQvaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1ldC1tYWNoaW5lLWxlYXJuaW5nLXNpbnN0YWxsZW50LWR1cmFibGVtZW50LWRhbnMtbm90cmUtcXVvdGlkaWVuL9IBggFodHRwczovL2ZyZWRjYXZhenphLm5ldC8yMDE4LzEyLzE0L2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtZXQtbWFjaGluZS1sZWFybmluZy1zaW5zdGFsbGVudC1kdXJhYmxlbWVudC1kYW5zLW5vdHJlLXF1b3RpZGllbi9hbXAv?oc=5,Intelligence artificielle et machine learning s’installent durablement dans notre quotidien - FredCavazza.net,2018-12-14,FredCavazza.net,https://fredcavazza.net,"Aviez-vous remarqué que l'intelligence artificielle n'était plus un sujet, mais une fatalité ? Plus les mois passent et plus les médias et spécialistes continuent de nous dresser un tableau toujours plus noir sur ces méchantes machines qui vont nous piquer notre travail et asservir l'humanité. S'il apparait comme évident que les IA et le machine…",N/A,"Aviez-vous remarqué que l’intelligence artificielle n’était plus un sujet, mais une fatalité ? Plus les mois passent et plus les médias et spécialistes continuent de nous dresser un tab…",N/A,N/A,N/A,"
+
+Intelligence artificielle et machine learning s’installent durablement dans notre quotidien  
+
+Fred Cavazza 
+
+Analyses 
+
+14/12/2018 
+10 Minutes 
+
+Aviez-vous remarqué que l’intelligence artificielle n’était plus un sujet, mais une fatalité ? Plus les mois passent et plus les médias et spécialistes continuent de nous dresser un tableau toujours plus noir sur ces méchantes machines qui vont nous piquer notre travail et asservir l’humanité. S’il apparait comme évident que les IA et le machine learning sont des solutions évidentes au déluge de données auquel nous devons faire face, mais il y a manifestement un effort pédagogique qui n’a pas été fait.
+
+
+Voilà près de deux ans que j’ai publié mon panorama des solutions d’intelligence artificielle pour le marketing. Depuis, j’ai eu de nombreuses occasions de reparler des intelligences artificielles, et notamment de l’importance des experts métiers, du rôle qu’elles jouent dans le bouleversement de notre économie, de leur nécessaire banalisation, de leur apport dans la quatrième révolution industrielle…  Avec ce nouvel article, je vous propose un point à date sur le sujet et j’apporte ma modeste contribution à l’évangélisation d’un sujet qui va prendre énormément d’importance.
+L’IA fascine toujours autant qu’elle fait peur
+Nous sommes à la fin de l’année 2018 et l’intelligence artificielle est un sujet toujours aussi chaud, comme en témoigne la seconde édition de l’AI Index report (The AI boom is happening all over the world, and it’s accelerating quickly).
+Il existe en fait quantité de publications sur le sujet, preuve que les ambitions des uns et des autres sont bien réelles et que les IA sont en train de devenir une partie intégrante de notre vie quotidienne et de notre économie : Artificial Intelligence Software Market to Reach $105.8 Billion in Annual Worldwide Revenue by 2025. Comme ils disent par chez moi : deal with it!
+
+Mais cette progression à marche forcée ne se fait pas sans contrepartie. Nous pouvons ainsi constater une défiance généralisée vis-à-vis des algorithmes (Public Attitudes Toward Computer Algorithms). Cette défiance est un réflexe naturel pour toutes celles et ceux qui voient leur quotidien (personnel ou professionnel) bouleversé par des machines sans qu’on leur explique les tenants et les aboutissants. En France, ceci se traduit par une opinion publique plutôt défavorable : une récente étude nous montre ainsi que plus d’1/4 des sondés pensent que l’intelligence artificielle aura un impact négatif sur la société (Les Français, réfractaires à l’innovation ?). Un sentiment encore plus présent au sein de la population IT : 37% of technologists don’t think AI will improve lives by 2030. Cette dernière statistique est particulièrement inquiétante, et surtout révélatrice d’une course à l’armement qui néglige le facteur humain (psychologique et émotionnel).
+Usages concrets vs. reality check
+Si l’adoption de l’intelligence artificielle dans tous les secteurs d’activité est aussi rapide, c’est qu’elle autorise des gains de productivité énormes (Instagram is using machine learning to kill off your fake followers), de même que des usages très concrets que personne n’avait envisagés. Par exemple l’identification d’individus malveillants dans une foule (Taylor Swift tracked stalkers with facial recognition tech at her concert) ou le recours à des technologies comme DeepFake pour fournir une éternelle jeunesse aux acteurs et actrices (What if AI made actors immortal?) ou pour injecter de la diversité dans les castings (Hollywood Won’t Cast Asian-American Stars, but A.I. Machine Learning Can). Ça aurait été vachement pratique pour finir Le jeu de la mort malgré le décès prématuré de Bruce Lee… Ces usages peuvent vous faire sourire, mais ils apportent des opportunités / solutions là où il n’y en avait pas.
+
+
+De même, les progrès constants de l’IA stimulent leur adoption, et ceux dans différents secteurs d’activité : dans l’apprentissage multiple (Move over AlphaGo: AlphaZero taught itself to play three different games), dans le secteur pharmaceutique (How a Pharma Company Applied Machine Learning to Patient Data), dans le traitement du langage (Researchers develop offline speech recognition that’s 97% accurate), avec les réseaux génératifs (AI software can dream up an entire digital world from a simple sketch)…
+
+Il y a aussi des utilisations particulièrement inquiétantes comme ce modèle universel d’empreintes digitales capable de déjouer les scanners digitaux : Fake fingerprints can imitate real ones in biometric systems.
+Outre toutes ces beaux exploits techniques, nous commençons à voir apparaitre des articles très critiques qui relatent la face cachée de l’intelligence artificielle, et notamment ces usines à « petites mains » en Chine chargées de superviser l’apprentissage des machines : How Cheap Labor Drives China’s A.I. Ambitions.
+
+Ou encore le constat que les véhicules autonomes sont somme toute assez décevants à utiliser, trop lents : Waymo’s so-called robo-taxi launch reveals a brutal truth et We finally talked to an actual Waymo passenger, here’s what he told us. Bref, il y a un début de maturité chez certains médias ou analystes, mais dans l’ensemble, ça reste très approximatif.
+Un réel besoin de pédagogie
+Nous sommes bientôt en 2019, soit 4 ans après l’emballement généralisé pour le machine learning. Quatre ans, à l’échelle de l’internet, c’est long. en tout cas suffisamment pour se renseigner un minimum et essayer de comprendre le fonctionnement, les tenants et aboutissants. Pourtant, je constate toujours autant d’amalgames et d’incompréhensions auprès de mes différents interlocuteurs. Le problème vient sans doute du fait que ce sujet impressionne et que l’on n’ose pas mettre son nez dedans de peur de ne rien comprendre, et de se sentir trop vieux ou stupide. Pourtant, je peux vous assurer qu’il n’y a rien que vous ne puissiez comprendre avec un minimum de temps et d’attention.
+Cette méconnaissance du sujet se fait ressentir à tous les niveaux, ne serait-ce que sur une compréhension très basique : L’intelligence artificielle n’est pas une technologie ou un algorithme, c’est un concept, une vue de l’esprit, au même titre que le développement durable (chacun y met ce qu’il veut). Les intelligences artificielles sont en fait des programmes informatiques qui simulent l’intelligence humaine. Pour bien comprendre la différence entre une intelligence humaine et une simulation, j’utilise toujours la métaphore de l’avion utilisée par Yann LeCun (cf. l’interview ici : la prochaine révolution en IA viendra de l’apprentissage non supervisé). À la question « un avion sait-il voler ?« , il répond « non » : il est possible de faire voler un avion en réunissant un certain nombre de conditions (des moteurs en état de marché, du carburant, un plan de vol, un pilote expérimenté…), mais il ne va pas voler tout seul (ça reste une machine) et ne sait pas ce que c’est de voler, contrairement aux oiseaux qui volent de façon instinctive. Gardez cette métaphore à l’esprit quand vous vous demanderez si une IA est intelligente.
+
+Si vous avez besoin d’un document vraiment complet, je vous recommande vivement la nouvelle version du livret blanc d’Olivier Ezratty : Les usages de l’intelligence artificielle 2018. Cette bible de plus de 500 pages d’explications détaillées peut impressionner, mais elle a le mérite de proposer une vision exhaustive.
+Sinon, je peux vous proposer ma modeste contribution sous la forme d’un schéma d’ensemble qui résume les différents concepts :
+
+J’utilise ce schéma dans mes formations pour lier entre-elles les différentes définitions, il se lit de haut en bas : les entreprises collecte différents types de données auprès de différentes sources, elles les injectent dans des outils informatiques conçus pour gérer de grands volumes de données (big data) et appliquent dessus des traitements automatisés plus ou moins sophistiqués. Le niveau 0 correspond aux moteurs de règles, mais il est également possible de mettre au point des systèmes apprenant qui utilisent différentes méthodes d’apprentissage et différentes familles d’algorithmes (généralement combinés entre eux). Tout ceci permet de réaliser un certain nombre de traitements (reconnaissance d’images, traitement naturel du langage, classification…) correspondant à différents usages (reconnaissance de caractères, traduction, segmentation…). Et voilà, ce n’est pas plus compliqué ! De moins, vous n’avez pas forcément besoin d’en savoir plus, simplement de bien appréhender les enjeux et de comprendre les points forts et limitations du machine learning et du deep learning.
+Un débat sur l’éthique qui tourne en rond
+S’il y a bien une préoccupation que l’on me ressort quasi systématiquement, c’est la nécessité (visiblement) absolue d’enseigner l’éthique aux machines. Ce qui est très surprenant, d’une part, car la très large majorité des entreprises insiste pour déshumaniser les opérations (il faut appliquer la procédure, suivre le processus et ne surtout pas improviser et essayer de comprendre les problèmes des clients). Et d’autre part, car l’éthique est une notion subjective.
+Des chercheurs du MIT ont ainsi mené une expérience à grande échelle l’année dernière pour essayer d’identifier les règles de bonne moralité à appliquer aux véhicules autonomes. L’idée était de soumettre des utilisateurs à des choix impossibles : En cas de freinage d’urgence, faut-il sacrifier les passagers ou les piétons ? S’il l’accident est inévitable, faut-il éviter de percuter une femme enceinte au risque d’écraser une mamie ? Je vous invite fortement à faire le test, car il est extrêmement perturbant (il faut cliquer sur le bouton « Start judging« ) : Moral Machine.
+
+Les conclusions de cette étude sont équivoque : il n’existe pas de consensus sur la bonne moralité, les résultats diffèrent d’un pays à l’autre en fonction de leur culture (How should autonomous vehicles be programmed?).
+L’éthique des machines, et des véhicules en particulier est un faux débat, car ces dernières ne sont pas autonomes, elles sont programmées / entrainées par des hommes et femmes (lire à ce sujet : « On ne peut pas imposer de morale à un humain, alors à une machine… ») et parce que les véhicules sont très loin d’avoir les capacités d’analyse d’image suffisante pour identifier les piétons et prendre une décision sur qui doit être évité ou non. Essayez donc de vous imaginer ce que cela pourrait donner à Halloween, avec des centaines de personnes déguisées en sorcières ou en zombies dans les rues !
+Je ne m’attarderai pas sur ce point, car c’est un (faux) débat sans fin et que ce n’est pas le sujet principal de cet article.
+Une nécessité pour rester dans le game
+Comme nous venons de le voir, des progrès considérables ont été faits en matière de machine learning, et il reste encore une énorme marge de progression, notamment sur toutes les activités qui reposent sur l’analyse de grandes quantités de données et l’automatisation de traitements. Si l’on considère les enjeux de la quatrième révolution industrielle et que l’on met de côté les considérations émotionnelles (la peur de perdre son emploi), l’intelligence artificielle n’apparait pas comme une option ou une orientation stratégique, c’est une nécessité pour rester dans la course et maintenir la compétitivité (garantir sa survie à moyen terme).
+Exemple concret : la startup Shift Technology qui propose une solution de détection des fraudes aux compagnies d’assurance (Avec Shift Technology, l’intelligence artificielle s’invite chez les assureurs). Partant du principe que près de 85% des déclarations frauduleuses ne sont pas détectées, les assureurs ayant recours à cette société dispose d’un avantage compétitif décisif vis-à-vis des autres compagnies. Adopter des solutions reposant sur l’IA et la machine learning, c’est se prémunir contre une concurrence toujours plus féroce. D’autant plus qu’à mesure où les années passent, il y a toujours plus de données disponibles, donc d’opportunités à saisir pour les entreprises qui savent exploiter cette manne à l’aide des bons outils.
+N’allez pas penser que le machine learning est la chasse gardée des data scientists ou des marketing technologists, car si vous utilisez Office 365, SalesForce ou les outils d’Adobe, vous bénéficiez déjà de l’apport de l’intelligence artificielle. Quelque part, l’IA est le Clippy du XXIe siècle.
+L’IA est donc LE levier de productivité du XXIe siècle. Problème : le domaine est largement dominé par les sociétés américaines et chinoises (China could lead world in AI research in coming years, Elsevier report finds). Même s’il y a un montant conséquent d’investissements en Europe (Venture Capital for European AI startups tripled in 2017 to $2.3bn. Is it enough to compete with China and Silicon Valley?), nous ne luttons pas à armes égales : China and US compete to dominate big data.
+Le sujet est réellement préoccupant, en tout cas suffisamment pour que les pays s’unissent (EU Member States sign up to cooperate on Artificial Intelligence, Canada and France plan global panel to study the effects of AI) et que les pouvoirs publics décident d’investir : Comment Mounir Mahjoubi veut intégrer l’intelligence artificielle dans l’administration française.
+Je veux bien entendre que, travaillant dans le numérique depuis plus de 20 ans, j’ai une vision déformée de la réalité, mais je ne peux m’empêcher d’être convaincu que nous traversons une période critique de l’histoire de notre civilisation. La quatrième révolution industrielle est en marche, un nouvel ordre mondial est en train de se mettre en place. De nouvelles super-puissances numériques sont en train d’émerger (GAFAMI, BATXH…), ce n’est vraiment, VRAIMENT pas le moment de faire de la résistance au changement et de freiner l’adoption de ces nouvelles technologies (big data, machine learning…) sous prétexte que c’était mieux avant ou que l’on a pas le temps de se former ou à minima de se renseigner sur les enjeux posés par le numérique. Tant pis pour les grincheux et nostalgiques, nous ne pouvons pas nous permettre de faire du sur-place, il faut continuer à aller de l’avant.
+Une série de conférences en Chine en janvier 2019
+C’est dans ce cadre là que je suis invité par l’Ambassade de France à donner une série de conférences en Chine le mois prochain. Plus précisément, c’est à l’initiative de l’Institut Français (l’organisme chargé du rayonnement culturel et intellectuel français dans le monde) que je vais pouvoir rencontrer et échanger avec différents représentants du secteur privé, d’université et du secteur public dans différentes grandes villes (Pékin, Wuhan, Shenzhen, Canton, Hong Kong et Shanghai).
+Autant vous dire que je suis très honoré de pouvoir faire cette série de conférences et rencontre, d’autant plus que d’autres intervenants prestigieux vont me succéder tout au long de l’année (Gilles Babinet, Nicolas Colin, Sylvie Faucheux, Dominique Cardon…).
+Bien évidemment, je vous ferai des comptes-rendus de mon séjour pour résumer les échanges et vous donner une vision « terrain » de la transformation numérique de la Chine.
+Stay tuned…
+Partager :Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur Pocket(ouvre dans une nouvelle fenêtre)J’aime ça :J’aime chargement… 
+
+Taguéintelligence artificiellemachine learning 
+
+
+Published
+14/12/2018 
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5sYWRuLmV1L2VudHJlcHJpc2VzLWlubm92YW50ZXMvbm91dmVsbGVzLWdvdXZlcm5hbmNlcy9wb3VycXVvaS12b3VzLW5lLWRldnJpZXotcGFzLXBhc3Nlci1kZW50cmV0aWVuLXZpZGVvLWF2ZWMtcm9ib3Qv0gEA?oc=5,Entretiens RH en vidéo avec une intelligence artificielle : quelles sont les dérives ? - L'ADN,2018-12-12,L'ADN,https://www.ladn.eu,"Convaincre un recruteur en 3 minutes et en vid&eacute;o, ce n'est pas simple. Encore moins quand celui-ci est un robot&hellip; Et pourtant, la pratique se r&eacute;pand.&nbsp; Passer un entretien vid&eacute;o, ce n&rsquo;est pas forc&eacute;ment un cadeau. Tout d&rsquo;abord, parce que tout le monde n&rsquo;est pas acteur studio. Mais aussi parce que de plus en plus [&amp;hellip;]",N/A,De plus en plus d'entreprises font appel à des solutions d'intelligence artificielle pour faire passer des entretiens vidéo aux candidats. Ce n'est pas toujours une bonne idée.,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+Nouvelles gouvernances
+
+
+#Intelligence artificielle
+
+
+#nouveaux modes de travail
+
+
+#RH
+
+
+#robot
+
+
+
+Passer un entretien avec une intelligence artificielle : mauvaise idée ? 
+
+
+                                        Par Mélanie Roosen - Le 12 décembre 2018 
+
+
+
+
+
+© wonry via Getty Images
+
+
+
+
+Accueil > Entreprises innovantes > Nouvelles gouvernances > Passer un entretien avec une intelligence artificielle : mauvaise idée ? 
+
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+flipboard
+
+ 
+
+
+
+
+
+
+
+Convaincre un recruteur en 3 minutes et en vidéo, ce n'est pas simple. Encore moins quand celui-ci est un robot… Et pourtant, la pratique se répand. 
+Passer un entretien vidéo, ce n’est pas forcément un cadeau. Tout d’abord, parce que tout le monde n’est pas acteur studio. Mais aussi parce que de plus en plus de directeurs de ces étranges castings s'avèrent être des machines.
+Certaines portent des petits noms sympas, comme Vera. D’autres ne se donnent même pas cette peine, comme HireVue.
+La promesse est alléchante. Vera se vante ainsi de pouvoir trouver des « top candidats » 10 fois plus rapidement qu’un humain. Comment ? En se montrant impitoyable et en disséquant tous nos mots et nos moindres expressions faciales. Et la démarche séduit déjà de grands noms :  IKEA, PepsiCo, Vodafone, Intel, Unilever, Goldman Sachs… 
+Et c'est un problème, car ces méthodes s'avèrent être complètement biaisées.
+
+Ben non, ce n’est pas parce que quelqu’un parle vite qu’il est enthousiaste
+Édouard Saulnier-Arrighi travaille chez CleverConnect, une entreprise qui entend bien révolutionner les procédés de recrutement. S’il est persuadé que l’intelligence artificielle jouera un rôle décisif dans les ressources humaines, il reste perplexe quant à la capacité des machines à établir le potentiel d’un candidat à travers une vidéo de 3 minutes.
+ « Je n’y crois pas à cause des critères d’analyse qui sont pris en compte », explique-t-il. Le premier, c’est la prosodie, le rythme de la voix. « On ne peut pas faire de déduction sur la personnalité ou la motivation de quelqu’un en l’écoutant sur une courte durée. Ce n’est pas parce que quelqu’un parle vite qu’il est de nature enthousiaste : il peut être pressé, tout simplement !  » 
+Les machines analysent aussi la diversité du vocabulaire. Sauf que pour être pertinente, une telle analyse devrait se baser sur un échantillon de 10 000 mots. « Autant dire que ce n’est pas le cas lors d’une vidéo de présentation. » Ces deux méthodes sont d'habitude plutôt utilisées pour décortiquer les discours des hommes et femmes politiques, lors d’allocutions publiques ou de débats. « On veut calquer des technologies qui ne sont pas adaptées au CV vidéo. » 
+Enfin, les machines analysent les émotions, mais uniquement les émotions de base ! La colère, l’angoisse… « Elles sont assez faciles à lire sur un visage mais elles n’ont aucun intérêt dans une situation de recrutement. Il faudrait pouvoir analyser des émotions plus subtiles. Qu’évoque le candidat quand il parle de son expérience précédente ? Du mépris ? De la fierté ?  »
+
+Et si on a des tatouages ? Des cicatrices ? Un handicap ? 
+Minda Zetlin, co-autrice de The Geek Gap, détaillait dans Inc. son point de vue sur la question. « Nos humeurs peuvent changer, et ces changements n’ont parfois rien à voir avec le poste pour lequel nous postulons. Quelqu’un qui vient de se faire quitter ou qui a, disons, une rage de dents pourra avoir l’air malheureux, fâché ou confus. Ça n’aura rien à voir avec sa personnalité ou sa capacité à bien faire son job. Si vous passez un entretien avec un humain, vous pouvez l’informer que quelque chose ne va pas dans votre vie, et que ça peut impacter votre comportement. Vous pouvez aussi le dire lors d'un entretien vidéo… mais l’intelligence artificielle pourra éliminer votre candidature avant même qu’un humain ne puisse l’entendre. » 
+Autre sujet à considérer : il existe tout un tas de caractéristiques physiques qui peuvent affecter nos expressions. « Que se passe-t-il si la personne qui postule a des tatouages sur le visage ? Des cicatrices ? A fait un AVC ? Ou des injections de Botox ? » 
+
+C’est plus facile de savoir ce qu’attend une personne qu’un robot
+Nathan Mondragon est psychologue et travaille chez HireVue. Dans un entretien accordé au Guardian, il explique que les entretiens vidéos donnent matière à analyser des milliers de données. Ces données sont traduites en un score, qui est ensuite comparé à ceux obtenus par les personnes identifiées comme étant de supers employés. Mais que faire si vous êtes discriminé par un algorithme ? Quels sont les recours ? Pour lui ce n'est pas le débat. Le dispositif permet de gagner du temps - et potentiellement, de l'argent.
+Pourtant, l'expérience de Deborah Caldeira prête à réfléchir. La jeune femme est diplômée de la London School of Economics et a postulé à 86 offres d’emploi en deux ans. Elle est passée par le processus vidéo de HireVue et depuis, elle déchante quand on lui parle de solutions automatisées. Quand on n’a pas quelqu’un en face de soi, on ne peut pas avoir de « vraie conversation ou d’échange », explique-t-elle au journaliste du Guardian. Par ailleurs, elle trouve difficile de savoir « ce que le robot attend. »  
+Sortir du cauchemar des DRH ? 
+Que l’on adhère ou non à ces solutions, elles sont développées en réaction à une situation de plus en plus tendue pour les recruteurs, quels que soient les secteurs. The Guardian rapporte qu’en 2016, Tesco a reçu plus de trois millions de CV. La même année, plus de 250 000 personnes ont postulé pour un stage d’été chez Goldman Sachs – c’est 40% de plus qu’en 2012, selon le Financial Times.  « Plus il y a de demandes, plus les recruteurs cherchent à automatiser les process », poursuit Nathan Mondragon. Le constat est partagé par Mathieu Lemonnier, co-fondateur de Kick My Bot. Sa solution a pour ambition de débarrasser les RH de tous les « irritants » de la vie quotidienne. Traiter inlassablement les mêmes questions, compiler des centaines de CV… « C’est très répétitif, et l’I.A. peut gérer toutes ces tâches. » 
+Preuve s'il en était besoin que quand on parle de tech en RH, c'est surtout pour faciliter la vie du recruteur plus que celle du candidat.
+
+
+
+
+
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+flipboard
+
+ 
+
+
+
+
+",http://schema.org/,"[{'@type': 'Organization', '@id': 'https://www.ladn.eu/#organization', 'name': ""L'ADN Groupe"", 'url': 'https://www.ladn.eu/', 'sameAs': ['https://www.facebook.com/ladn.eu', 'https://www.instagram.com/ladneu/', ""https://www.linkedin.com/company/9424705?trk=tyah&amp;amp;amp;amp;amp;amp;trkInfo=clickedVertical:company,clickedEntityId:9424705,idx:1-1-1,tarId:1466001973653,tas:l'adn"", 'https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A', 'https://twitter.com/LADN_EU'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/#logo', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2021/09/logo-LADN-bleu-270x73-1.jpg', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2021/09/logo-LADN-bleu-270x73-1.jpg', 'width': 270, 'height': 73, 'caption': ""L'ADN Groupe""}, 'image': {'@id': 'https://www.ladn.eu/#logo'}}, {'@type': 'WebSite', '@id': 'https://www.ladn.eu/#website', 'url': 'https://www.ladn.eu/', 'name': 'L&#039;ADN', 'description': 'TENDANCES &amp; MUTATIONS', 'publisher': {'@id': 'https://www.ladn.eu/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://www.ladn.eu/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#primaryimage', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2018/12/video-analyse-emotion.jpg', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2018/12/video-analyse-emotion.jpg', 'width': 1140, 'height': 480, 'caption': 'Un homme en train de se filmer avec son téléphone portable'}, {'@type': 'WebPage', '@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#webpage', 'url': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/', 'name': 'Entretiens RH en vidéo avec une intelligence artificielle : quelles sont les dérives ?', 'isPartOf': {'@id': 'https://www.ladn.eu/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#primaryimage'}, 'datePublished': '2018-12-12T17:50:43+00:00', 'dateModified': '2020-11-09T13:27:30+00:00', 'description': ""De plus en plus d'entreprises font appel à des solutions d'intelligence artificielle pour faire passer des entretiens vidéo aux candidats. Ce n'est pas toujours une bonne idée."", 'breadcrumb': {'@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/', 'url': 'https://www.ladn.eu/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/entreprises-innovantes/', 'url': 'https://www.ladn.eu/entreprises-innovantes/', 'name': 'Entreprises innovantes'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/', 'url': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/', 'name': 'Nouvelles gouvernances'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/', 'url': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/', 'name': 'Passer un entretien avec une intelligence artificielle : mauvaise idée ?'}}]}, {'@type': 'Article', '@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#article', 'isPartOf': {'@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#webpage'}, 'author': {'@id': 'https://www.ladn.eu/#/schema/person/72a75a4c370cf7ed8ba19feb15a60ce6'}, 'headline': 'Passer un entretien avec une intelligence artificielle&nbsp;: mauvaise idée&nbsp;?', 'datePublished': '2018-12-12T17:50:43+00:00', 'dateModified': '2020-11-09T13:27:30+00:00', 'mainEntityOfPage': {'@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#webpage'}, 'commentCount': 0, 'publisher': {'@id': 'https://www.ladn.eu/#organization'}, 'image': {'@id': 'https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#primaryimage'}, 'keywords': 'Intelligence artificielle,nouveaux modes de travail,RH,robot', 'articleSection': 'Nouvelles gouvernances', 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/#respond']}]}, {'@type': 'Person', '@id': 'https://www.ladn.eu/#/schema/person/72a75a4c370cf7ed8ba19feb15a60ce6', 'name': 'Mélanie Roosen', 'image': {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/#personlogo', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2023/02/empty-120x120.png', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2023/02/empty-120x120.png', 'caption': 'Mélanie Roosen'}, 'description': ""Mélanie Roosen est rédactrice en chef web pour L'ADN. Ses sujets de prédilection ? L'innovation et l'engagement des entreprises, qu'il s'agisse de problématiques RH, RSE, de leurs missions, leur organisation, leur stratégie ou leur modèle économique."", 'sameAs': ['https://www.linkedin.com/in/melanieroosen/', 'https://twitter.com/https://twitter.com/melanie_rsn']}]",Article,https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/pourquoi-vous-ne-devriez-pas-passer-dentretien-video-avec-robot/,Passer un entretien avec une intelligence artificielle&amp;nbsp;: mauvaise id&eacute;e&amp;nbsp;? ,"{'@type': 'ImageObject', 'url': 'https://www.ladn.eu/wp-content/uploads/2018/12/video-analyse-emotion-600x315.jpg', 'height': '315px', 'width': '600px'}",2018-12-12T18:50:43+01:00,2020-11-09T14:27:30+01:00,"{'@type': 'Person', 'name': 'Mélanie Roosen', 'url': 'https://www.ladn.eu/author/melanie/'}","{'@type': 'Organization', 'name': ""L'ADN"", 'logo': {'@type': 'ImageObject', 'url': 'https://www.ladn.eu/wp-content/themes/ladn/assets/gfx/logo-adn.jpg', 'height': '77px', 'width': '275px'}, 'url': 'https://www.ladn.eu/', 'sameAs': ['https://twitter.com/ladn_eu', 'https://fr-fr.facebook.com/ladn.eu', 'https://www.linkedin.com/company/9424705']}",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lmxlc2VjaG9zLmZyL2lkZWVzLWRlYmF0cy9jZXJjbGUvb3Bpbmlvbi1pYS1yZXNwb25zYWJsZS1jb3JyaWdlci1sZXMtYmlhaXMtZGUtbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtMjM4MTEz0gEA?oc=5,Comment corriger les biais de l'intelligence artificielle ? - Les Échos,2018-12-12,Les Échos,https://www.lesechos.fr,LE CERCLE/POINT DE VUE - Il y a un côté obscur dans l'univers de l'intelligence artificielle : celui des biais indésirables. Ils peuvent reproduire des discriminations envers des catégories de la population qui sont déjà mises à l'écart.,N/A,LE CERCLE/POINT DE VUE - Il y a un côté obscur dans l'univers de l'intelligence artificielle : celui des biais indésirables. Ils peuvent reproduire des discriminations envers des catégories de la population qui sont déjà mises à l'écart.,LE CERCLE/POINT DE VUE - Il y a un côté obscur dans l'univers de l'intelligence artificielle : celui des biais indésirables. Ils peuvent reproduire des discriminations envers des catégories de la population qui sont déjà mises à l'écart.,Idées & Débats,N/A,"TribuneComment corriger les biais de l'intelligence artificielle ?LE CERCLE/POINT DE VUE - Il y a un côté obscur dans l'univers de l'intelligence artificielle : celui des biais indésirables. Ils peuvent reproduire des discriminations envers des catégories de la population qui sont déjà mises à l'écart.Ajouter à mes articlesCommenterPartagerPartagerCerclePar Patrick Darmon (Directeur d'Accenture Applied Intelligence en France et au Benelux)Publié le 12 déc. 2018 à 18:31Mis à jour le 12 déc. 2018 à 18:32Les intelligences artificielles (IA) portent de grands espoirs. Elles autorisent une prise de décision plus rapide et objective que celle de nos seuls jugements humains. Elles formulent des promesses de compétitivité inédites pour les entreprises. Un bon mot de Woody Allen souligne avec ironie que ""   "".Or, si elle est souvent vraie, cette remarque admet également une limite indépassable : les IA sont aujourd’hui dépendantes du contexte social et culturel de leurs concepteurs et des données qui les alimentent. En somme, aucune intelligence artificielle n’est vraiment objective. Heureusement, face à ces nouveaux biais algorithmiques, des outils et des méthodologies émergent.​Vers une IA responsableEn 1971, le philosophe John Rawls proposait une expérience de pensée appelée le voile d’ignorance (""veil of ignorance"") pour illustrer le concept d’équité. Il imaginait une objectivité absolue, résultat de la ""réinitialisation"" de nos cerveaux, débarrassés de toute notion d’identité : origine ethnique, niveau de revenus, profession, et tout autre élément susceptible d’influencer notre opinion. Aujourd’hui, nous sommes loin d’être en mesure d’appliquer ce ""voile d’ignorance"" à nos intelligences artificielles, dépendantes de jeux de données orientés et de concepteurs ""trop humains"".PublicitéCertaines expériences démontrent même que les IA peuvent perpétuer certains préjugés ou encourager des traitements inégalitaires. En témoigne l’échec de Tay, une intelligence artificielle conçue par Microsoft et ""devenue"" raciste en quelques heures suite à l’absorption de données issues des réseaux sociaux ou encore l'expérience édifiante d’un logiciel de reconnaissance d’image qui associait les images de cuisine avec les femmes…Lire aussi :biais algorithmiques> La discrimination, côté obscur de l’intelligence artificielleCe constat appelle à la construction d’une IA responsable et équitable, toujours sous le contrôle moral d’une autorité humaine.Au-delà des acteurs technologiques, ces développements impliquent des philosophes, des juristes ou des spécialistes des sciences humaines. Dans cette optique, l’Université de Montréal a récemment publié une déclaration pour un développement responsable de l'intelligence artificielle, qui va dans le sens d’un contrôle des IA et intègre par exemple les notions d’équité, d’autonomie, de solidarité ou d’inclusion.Des outils face aux biaisCes grands principes donnent également lieu à la construction d’outils dédiés. L’Institut Alan Turing a ainsi contribué à mettre au point un outil pour comprendre et corriger les biais qui discriminent en fonction du genre ou de l'origine. Concrètement, il fonctionne en trois étapes.La première consiste à analyser les données afin d’identifier les influences cachées entre variables. Des études montrent par exemple que le genre et l’origine ethnique sont corrélés avec le niveau de salaire et les décisions de promotion : un biais invisible qu’il est important de mettre à jour. Il doit ensuite examiner la manière dont sont distribuées les potentielles erreurs dans le modèle. Si un biais est identifié, l’outil applique une distorsion statistique pour les corriger. Le degré de correction est déterminé par l’utilisateur.Lire aussi :> Le Canada et la France donnent le coup d'envoi d'un « GIEC » de l'intelligence artificielle> Rapport Villani : qu'en pensent les experts ?Enfin, l’outil analyse le taux de faux positifs dans les différents groupes. Les faux positifs sont une forme particulière d’erreur de modèle : des situations dans lesquelles un modèle dit ""oui"" alors que la réponse aurait dû être ""non"". Si par exemple une personne est considérée comme présentant un risque de crédit faible, obtient un prêt, puis se met en situation de défaut de paiement, alors on se trouve dans une situation de faux positifs. Le modèle aura en effet, dans ce cas, incorrectement prédit que la personne présentait un risque de crédit faible.À terme, ce type d’outil dessine une collaboration plus rassurante entre humains et machines dans la mise en place de dispositifs d’intelligence artificielle. L’utilisateur est toujours en mesure de corriger les biais, d’exercer son esprit critique, et de comprendre le fonctionnement intrinsèque de l’IA, trop souvent décrite comme une boîte noire.Patrick Darmon est directeur d'Accenture Applied Intelligence en France et au BeneluxNouveau : découvrez nos offres Premium !Vos responsabilités exigent une attention fine aux événements et rapports de force qui régissent notre monde. Vous avez besoin d’anticiper les grandes tendances pour reconnaitre, au bon moment, les opportunités à saisir et les risques à prévenir.C’est précisément la promesse de nos offres PREMIUM : vous fournir des analyses exclusives et des outils de veille sectorielle pour prendre des décisions éclairées, identifier les signaux faibles et appuyer vos partis pris. N'attendez plus, les décisions les plus déterminantes pour vos succès 2024 se prennent maintenant !Je découvre les offresFace à l’incertitude, choisissez la fiabilité des EchosJe profite du mois offertNos VidéosParis sportifs en ligne : qui sont les vrais gagnants ?Il y a 14 ans, la Française des Jeux (FDJ) perdait son monopole sur les paris sportifs en ligne. Aujourd’hui, 15 opérateurs se partagent ce marché toujours en croissance. Mais est-il si rentable que cela pour eux ? On vous explique.Portugal, Espagne, Grèce : la revanche des « pays du Club Med »Les jeunes ont-ils vraiment un problème avec le travail ?SNCF : la concurrence peut-elle faire baisser les prix des billets de train ?PublicitéLes plus lusTribuneOpinion | Législatives : le programme économique du NFP manque-t-il vraiment de sérieux ?TribuneOpinion | « Ils sont fous, ces Français ? » TribuneOpinion | Législatives : unis contre toutes discriminations PublicitéÀ la UneLégislatives 2024 : six questions sur le second tour de dimancheFusion nucléaire : la facture d'Iter glisse vers les 25 milliards d'euros DirectLégislatives : « pas question » de gouverner avec LFI, lance Macron en Conseil des ministresPublicité",http://schema.org,,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lesechos.fr/idees-debats/cercle/opinion-ia-responsable-corriger-les-biais-de-lintelligence-artificielle-238113'}",Comment corriger les biais de l'intelligence artificielle ?,"{'@type': 'ImageObject', 'url': 'https://media.lesechos.com/api/v1/images/view/5cb5ca778fe56f1b0a484099/1280x720/2229082-comment-corriger-les-biais-de-lintelligence-artificielle-189843-1.jpg', 'height': '720', 'width': '1280'}",2018-12-12T18:31:06+01:00,2018-12-12T18:32:03+01:00,"[{'@type': 'Person', 'name': 'Patrick Darmon', 'jobTitle': ""Directeur d'Accenture Applied Intelligence en France et au Benelux"", 'sameAs': ['https://www.lesechos.fr/@patrick-darmon', 'https://www.linkedin.com/in/patrick-darmon-7365765/']}]","{'@type': 'Organization', 'name': 'Les Echos', 'logo': {'@type': 'ImageObject', 'url': 'https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp', 'width': 200, 'height': 38}}",Les Echos,https://www.lesechos.fr,"{'@type': 'SearchAction', 'target': 'https://www.lesechos.fr/recherche?q={query}', 'query-input': 'required name=query'}",https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp,"['https://www.facebook.com/lesechos/', 'https://x.com/LesEchos?lang=fr', 'https://www.linkedin.com/company/les-echos']",True,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lesechos.fr/', 'name': 'Les Echos'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lesechos.fr/idees-debats', 'name': 'Idées & Débats'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lesechos.fr/idees-debats/cercle', 'name': 'Cercle'}}]",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vZ2VuZXJhdGlvbi5oYXV0c2RlZnJhbmNlLmZyL3NhbG9uLWRlLWxldHVkaWFudC1kZS1saWxsZS_SAQA?oc=5,Salon de l'Étudiant de Lille - Génération #HDF - Génération #HDF,2018-12-13,Génération #HDF,https://generation.hautsdefrance.fr,N/A,N/A,"Trouver sa formation Études courtes ou longues, généralistes ou spécialisées, formation initiale ou alternance/apprentissage ? Le Salon de l’Étudiant et du Lycéen de Lille est un évènement incontournable dans la région pour trouver sa formation. Avec une devise simple : « bien choisir ses études et son métier », c’est un rendez-vous unique qui permet […]",N/A,N/A,N/A,"
+
+
+
+
+
+
+
+ Du 10/01/2019 au 12/01/2019
+Salon de l’Étudiant de Lille
+Publié le 13/12/2018
+
+
+EtudiantsLycéensMétiers 
+
+
+
+
+
+
+
+partager partager 
+
+
+
+
+
+
+
+Trouver sa formation
+Études courtes ou longues, généralistes ou spécialisées, formation initiale ou alternance/apprentissage ? Le Salon de l’Étudiant et du Lycéen de Lille est un évènement incontournable dans la région pour trouver sa formation.
+Avec une devise simple : « bien choisir ses études et son métier », c’est un rendez-vous unique qui permet aux étudiants de la région de réussir leur parcours.
+Plus de 330 établissements
+Le début d’année est une période cruciale pour votre orientation ! Le Salon de l’Étudiant et du Lycéen de Lille est l’occasion de découvrir des centaines de formations de bac à Bac+5, en formation initiale ou en alternance, proposées au sein d’établissements publics ou privés dans tous les domaines d’activité.
+Des informations précises et précieuses
+Le salon vous permettra de rencontrer les représentants (responsables de formations, chefs d’établissement, professeurs, étudiants…) des universités du Nord – Pas de Calais, des écoles d’ingénieurs, des écoles de commerce, des lycées de la région avec prépas ou BTS, des écoles spécialisées, des établissements internationaux, des métiers qui recrutent… afin d’obtenir de précieuses informations sur les programmes, les conditions d’admission, les cursus et diplômes proposés ou encore les débouchés.
+Des institutions régionales, des banques ou encore des organismes de service aux étudiants seront également au rendez-vous pour vous permettre de profiter pleinement de votre vie étudiante !
+Des secteurs pour mieux s’y retrouver
+Pour vous aider dans votre visite, le salon est divisé en plusieurs secteurs : Alternance ; Artistique ; Beauté & bien être ; BTS – Bac+2 /+3 ; Commerce Gestion ; Communication ; Ingénieur ; International ; Métiers ; Prépas ; Santé ; Social ; Universités ; Vie quotidienne.
+Le Village de l’Intelligence Artificielle
+Chaque année, le Salon de l’Etudiant de Lille mets en valeur un secteur d’activité porteur. Cette année, le domaine de l’intelligence artificielle sera mis à l’honneur sur le salon, au sein d’un espace qui lui sera entièrement dédié.
+Technologie qui se diffuse à grande vitesse et très prometteuse en terme d’emploi, l’intelligence artificielle sera, très prochainement, au cœur de nombreuses formations dans des domaines aussi variés que l’industrie, les jeux vidéo, la santé, le commerce, le droit ou encore la banque…
+Le Village de l’Intelligence Artificielle, dédié à cette technologie, regroupera de nombreux établissements spécialisées (universités, grandes écoles du numérique, écoles d’ingénieurs) mais aussi des start-up qui recrutent ou encore des centres de recherche comme le CRIL ! Les visiteurs auront également la possibilité d’assister à des conférences et de participer à des ateliers pour échanger avec des experts de ce domaine.
+Retrouvez le programme des conférences et des ateliers dans l’onglet « Temps Forts »
+Les conférences
+42 conférences sont proposées durant les 3 jours du salon. Animées par un journaliste, en collaboration avec des responsables de formations, chefs d’établissement, des professeurs ou des spécialistes, les conférences sont l’occasion d’obtenir des précisions aux questions qui vous préoccupent. A l’issue de chaque conférence, les participants sont invités à poser directement leurs questions aux intervenants et à échanger sur la thématique abordée. Objectif : vous aider à choisir votre future formation !
+
+
+Proposé par La Voix l'Etudiant
+
+
+
+
+Articles liés
+
+
+
+
+
+
+Alternance Apprentissage Enseignement supérieur Etudiants
+
+
+Industrie : Feignies se met à l’apprentissage
+2,4 millions d’euros sont engagés dans l’extension du CFAI de Feignies pour permettre l’accueil d’apprentis.
+
+ 
+
+
+
+
+Lycéens
+
+
+Du bon et du local : le challenge de la restauration collective en Hauts-de-France !
+Le Challenge Approlocal, qui s'est déroulé en Hauts-de-France, vise à reconnaître l'engagement des établissements pour l'approvisionnement local dans leur restauration collective. Ce concours, notamment destiné aux lycées dont la gestion relève de la Région, a été relevé avec succès. Zoom sur ce défi remporté haut la main !
+
+ 
+
+
+
+
+Lycéens S'engager
+
+
+Lutte contre la harcèlement scolaire : les lycées mobilisés
+Afin d’agir contre le harcèlement scolaire, la Région avait lancé en octobre 2023 un appel à manifestation d’intérêt à destination des établissements des Hauts-de-France. En voici quelques exemples.
+
+ 
+
+
+
+
+Alternance Apprentissage Enseignement supérieur Etudiants Formation
+
+
+Deviens fleuriste avec la CMA de Beauvais !
+Toi aussi, deviens fleuriste ! La CMA Formation de Beauvais est heureuse de vous accueillir dans ses locaux le mercredi 3 juillet à 14h pour une découverte du métier de fleuriste.
+
+ 
+
+
+
+
+
+
+",https://schema.org,"[{'@type': 'Article', '@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#article', 'isPartOf': {'@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/'}, 'author': {'name': 'nico', '@id': 'https://generation.hautsdefrance.fr/#/schema/person/a7ca4ee9c26265c2eb36f6b781e3950f'}, 'headline': 'Salon de l&#8217;Étudiant de Lille', 'datePublished': '2018-12-13T13:47:37+00:00', 'dateModified': '2024-02-06T10:00:00+00:00', 'mainEntityOfPage': {'@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/'}, 'wordCount': 574, 'commentCount': 0, 'publisher': {'@id': 'https://generation.hautsdefrance.fr/#organization'}, 'image': {'@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#primaryimage'}, 'thumbnailUrl': 'https://generation.hautsdefrance.fr/wp-content/uploads/2018/12/salon-etudiant-lille-2019.jpg', 'keywords': ['Etudiants', 'Lycéens', 'Métiers'], 'articleSection': ['Actualités', 'Agenda'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#respond']}]}, {'@type': 'WebPage', '@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/', 'url': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/', 'name': ""Salon de l'Étudiant de Lille - Génération #HDF"", 'isPartOf': {'@id': 'https://generation.hautsdefrance.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#primaryimage'}, 'image': {'@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#primaryimage'}, 'thumbnailUrl': 'https://generation.hautsdefrance.fr/wp-content/uploads/2018/12/salon-etudiant-lille-2019.jpg', 'datePublished': '2018-12-13T13:47:37+00:00', 'dateModified': '2024-02-06T10:00:00+00:00', 'breadcrumb': {'@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#primaryimage', 'url': 'https://generation.hautsdefrance.fr/wp-content/uploads/2018/12/salon-etudiant-lille-2019.jpg', 'contentUrl': 'https://generation.hautsdefrance.fr/wp-content/uploads/2018/12/salon-etudiant-lille-2019.jpg', 'width': 780, 'height': 1170}, {'@type': 'BreadcrumbList', '@id': 'https://generation.hautsdefrance.fr/salon-de-letudiant-de-lille/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://generation.hautsdefrance.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Salon de l&#8217;Étudiant de Lille'}]}, {'@type': 'WebSite', '@id': 'https://generation.hautsdefrance.fr/#website', 'url': 'https://generation.hautsdefrance.fr/', 'name': 'Génération #HDF', 'description': 'Génération Hauts-de-France', 'publisher': {'@id': 'https://generation.hautsdefrance.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://generation.hautsdefrance.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://generation.hautsdefrance.fr/#organization', 'name': 'Région Hauts-de-France', 'url': 'https://generation.hautsdefrance.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://generation.hautsdefrance.fr/#/schema/logo/image/', 'url': 'https://generation.hautsdefrance.fr/wp-content/uploads/2018/02/logoHDFinventaire.jpg', 'contentUrl': 'https://generation.hautsdefrance.fr/wp-content/uploads/2018/02/logoHDFinventaire.jpg', 'width': 110, 'height': 110, 'caption': 'Région Hauts-de-France'}, 'image': {'@id': 'https://generation.hautsdefrance.fr/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/regionhautsdefrance/', 'https://twitter.com/hautsdefrance']}, {'@type': 'Person', '@id': 'https://generation.hautsdefrance.fr/#/schema/person/a7ca4ee9c26265c2eb36f6b781e3950f', 'name': 'nico', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://generation.hautsdefrance.fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/5dc1ddd63fb450d4224124d8f8838d4d?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/5dc1ddd63fb450d4224124d8f8838d4d?s=96&d=mm&r=g', 'caption': 'nico'}}]",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHA6Ly93d3cuaWN0am91cm5hbC5jaC9hcnRpY2xlcy8yMDE4LTExLTI5L2xpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWVubmVtaWUtb3UtYWxsaWVlLWRlcy1mZW1tZXPSAQA?oc=5,L'intelligence artificielle: ennemie ou alliée des femmes? - ICTjournal,2018-12-12,ICTjournal,http://www.ictjournal.ch,L’intelligence artificielle prend une place de plus en plus importante dans l’informatique d’entreprise et le numér,N/A,"L’intelligence artificielle prend une place de plus en plus importante dans l’informatique d’entreprise et le numérique. Pour empêcher des algorithmes biaisés, il importe que des femmes participent à leur conception, sans compter qu’elles ont des prédispositions pour le domaine.",N/A,N/A,N/A,"
+
+
+Articles
+
+
+
+Femmes dans l'IT
+
+L’intelligence artificielle: ennemie ou alliée des femmes? 
+
+
+
+Mer 12.12.2018 - 09:07
+
+                par
+  Rodolphe Koller
+
+
+
+
+
+
+
+
+
+
+
+
+L’intelligence artificielle prend une place de plus en plus importante dans l’informatique d’entreprise et le numérique. Pour empêcher des algorithmes biaisés, il importe que des femmes participent à leur conception, sans compter qu’elles ont des prédispositions pour le domaine.
+
+
+
+
+
+
+
+
+
+
+
+
+(Source: Pixabay)
+(Source: Pixabay)
+
+
+
+En 2014, l’équipe derrière les logiciels intelligents d'Amazon a été chargée de créer un algorithme capable d’identifier les meilleurs talents parmi les tonnes de CV que reçoit l’entreprise de Jeff Bezos. Problème: l’intelligence artificielle qui attribuait de une à cinq étoiles aux candidats n’aimait pas les femmes, révèle Reuters.Comme tout algorithme apprenant, ce software RH a été entraîné sur des jeux de données existantes, en l’occurrence les CV reçus par l’entreprise sur 10 ans et ceux qui ont été retenus. Comme la tech est un secteur très masculin, la machine n’a vu passer que très peu d’embauches féminines sur les postes de développeurs et autres métiers techniques. Et elle en a déduit que son job était de sélectionner des hommes. Le géant du e-commerce s’est rendu compte de ce biais sexiste dès 2015. Le logiciel pénalisait les candidatures qui contenaient le mot femme ou ses dérivés comme les termes «capitaine de club d’échecs féminin», selon les sources anonymes de Reuters qui indiquent aussi qu’il avait laissé de côté deux CV envoyés par des diplômées d’écoles réservées aux femmes. Après une tentative d’ajustement, l’entreprise de Seattle a finalement abandonné ce projet au début de l’année 2017.Les atouts des femmes dans l’IAL’anecdote du robot recruteur d’Amazon montre combien les systèmes intelligents reproduisent les biais présents dans leurs données d’entraînement. D’où l’importance que des femmes participent à leur conception, ainsi qu’à la sélection et à l’étiquetage des exemples qu’ils ingurgitent. Par ailleurs, les femmes disposent de compétences sociales et de communication particulièrement utiles dans le domaine de l’IA. «La conception d’applications intelligentes de type chatbot demande à la fois un développement informatique et un développement cognitif, pour donner un côté plus humain à l’app», relève Anaig Maréchal, Artificial Intelligence Technical Specialist chez Microsoft. Une étude récente menée par Microsoft et EY dans 15 pays européens dont la Suisse, montre ainsi qu’il existe une corrélation entre la maturité des entreprises en matière d’intelligence artificielle et les compétences émotionnelles et sociales dont elles disposent en leur sein.Les atouts de l’IA pour les femmesSi le développement de l’intelligence artificielle nécessite des femmes, c’est aussi une opportunité pour ces dernières de faire carrière dans un domaine en plein essor et peu stéréotypé. Comme l’illustrent les témoignages de data scientists épanouies rassemblés dans cette édition. En outre, l’intelligence artificielle n’étant pas réservée aux diplômés en informatique, elle pourrait attirer davantage de femmes. En effet, selon une étude qui a analysé les parcours de 1000 data scientists sur Linkedin, 31% d’entre eux ont suivi des cursus en sciences économiques et sociales ou en sciences naturelles, des branches où l’on trouve autant d’étudiantes que d’étudiants dans les universités suisses (voir graphique). Enfin, en s’engageant dans le domaine, les femmes peuvent contribuer à ce que les algorithmes deviennent leurs alliés et prenne des décisions équitables dans leurs innombrables applications.
+
+Tags
+
+Transformation
+
+
+
+Webcode
+DPF8_118103
+
+
+
+Partager l'article:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dossier
+
+
+
+Les femmes dans l'informatique
+
+
+        08.03.2023 - 17:10   
+      
+
+
+
+
+
+
+Lire aussi
+
+
+
+
+Swiss IT Job Market Report
+
+
+Ce que les développeurs suisses pensent de l'IA
+
+
+
+
+
+
+
+Marché du travail
+
+
+Selon l’OIT, l'IA crée plus d'emplois qu'elle n'en supprime
+
+
+
+
+
+
+
+Human-in-the-Loop
+
+
+Comment les radiologues s’appuient sur l’IA pour analyser les mammographies
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vcGVyZWxhZm91aW5lLmNvbS9lbWx5b24tYnVzaW5lc3Mtc2Nob29sLWxhbmNlLWxhaW0taW5zdGl0dXRlL9IBAA?oc=5,emlyon business school lance l'AIM INSTITUTE - PèreLaFouine,2018-12-14,PèreLaFouine,https://perelafouine.com,"L’Intelligence Artificielle au service des décideurs de demain emlyon business school inaugure l’Artificial Intelligence in Management (AIM) Institute, premier institut dédié à la compréhension des op","ecole,entreprise,IA","L’Intelligence Artificielle au service des décideurs de demain emlyon business school inaugure l’Artificial Intelligence in Management (AIM) Institute, premier institut dédié à la compréhension des opportunités et des impacts de l’intelligence artificielle sur les éléments sociaux-économiques, organisationnels et business des entreprises et des institutions. S’appuyant sur des équipes de chercheurs en management, en sciences sociales …",N/A,N/A,N/A,"
+
+ Accueil/Actualités/emlyon business school lance l’AIM INSTITUTE
+
+Actualités
+
+			emlyon business school lance l’AIM INSTITUTE		
+perlafouine14 décembre 2018Dernière mise à jour: 14 décembre 20180 3 minutes de lecture  
+
+
+
+
+ Facebook
+
+
+ X
+
+
+ Linkedin
+
+
+ Partager par email
+
+
+ Imprimer
+ 
+
+
+L’Intelligence Artificielle au service des décideurs de demain
+emlyon business school inaugure l’Artificial Intelligence in Management (AIM) Institute, premier institut dédié à la compréhension des opportunités et des impacts de l’intelligence artificielle sur les éléments sociaux-économiques, organisationnels et business des entreprises et des institutions. S’appuyant sur des équipes de chercheurs en management, en sciences sociales et en technologies, venus du monde entier, l’institut entend développer les savoirs et les solutions pour accompagner les décideurs de demain.
+Renaud Champion, Directeur des Nouvelles Intelligences, membre du comité exécutif emlyon business school, explique les ambitions de l’AIM Institute : « L’Intelligence Artificielle change déjà la façon dont nous vivons et travaillons. Elle redessine profondément les contours de l’entreprise : le travail, les ressources humaines, la gouvernance et même les business models. Pour accompagner les décideurs de demain dans cette mutation bouillonnante, l’AIM Institute entend comprendre ses impacts pour construire un socle de connaissances et de solutions applicatives d’une envergure inédite. »
+Une action articulée autour de 3 pivots : RECHERCHE / INNOVATION / DIFFUSION
+La RECHERCHE constitue le pivot central de l’institut. Elle est organisée autour de deux centres de recherche en sciences sociales distincts :
+
+Un centre, dirigé par le Professeur Ruthanne Huising, examinant les implications de l’intelligence artificielle sur le travail et la gouvernance des entreprises et des institutions,
+Un centre, dirigé par le Professeur Margherita Pagani, étudiant les impacts de l’intelligence artificielle sur la création de valeur dans les entreprises et sur l’émergence de nouveaux business models.
+
+Les projets, qui réunissent des équipes de chercheurs interdisciplinaires (management, ingénierie, sociologie et éthique) sont menés en mode collaboratif, en partenariat avec des universités du monde entier (MIT, Stanford, VU Amsterdam, Ecole Polytechnique Fédérale de Lausanne).
+Parce qu’ils doivent répondre, in fine, aux problématiques concrètes des futurs décideurs, les travaux se caractérisent par leur ancrage dans le réel : un pool d’entreprises partenaires est mobilisé pour valider l’intérêt des sujets et pour accueillir des équipes de chercheurs pour des expérimentations « in situ ».
+L’INNOVATION est la concrétisation directe des travaux de recherche en solutions ou applications pédagogiques et économiques. Travaillant en symbiose avec l’emlyon business school, l’institut entend s’appuyer sur la recherche pour développer des modules, certificats ayant vocation à être intégrés dans les parcours de formation de l’école de management.
+Sur le plan économique, la démarche de l’institut consiste à interroger systématiquement le potentiel de transfert technologique des recherches menées.
+Renaud Champion ajoute : « Pour tous nos projets de recherche, nous poserons systématiquement la question de l’existence d’une Propriété Intellectuelle qui pourrait être exploitée sous la forme d’un modèle. Un modèle codé pour créer une application qui répondrait aux besoins d’une entreprise partenaire ou qui pourrait être l’innovation justifiant la création d’une startup que l’AIM Institute accompagnerait ! »
+LA DIFFUSION des connaissances en IA par l’AIM Institute est un enjeu extrêmement fort, pensé sur 3 niveaux d’audience :
+
+en premier lieu les étudiants de l’emlyon business school afin de les préparer à l’intégration de l’IA dans leur quotidien de futur décideur ;
+le grand public néophyte auprès de qui il est nécessaire de mener des actions de vulgarisation pour donner à voir la réalité des applications quotidiennes de l’intelligence artificielle, loin des fantasmes et discours alarmistes ;
+les institutions territoriales, nationales et internationales afin de participer aux débats publics en apportant une expertise technique et éthique.
+
+A propos de l’AIM Institute : L’AIM Institute de l’emlyon business school est un projet multilatéral consacré à la compréhension des opportunités et des impacts liés à l’Intelligence Artificielle pour le management des entreprises, des industries et des écosystèmes de business. L’institut agit sur 3 piliers : la recherche, l’innovation pédagogique et économique, et la diffusion des connaissances. L’institut ambitionne de s’imposer comme centre névralgique pour tous les sujets d’impacts d’IA sur les entreprises, stratégie, business model, gouvernance, emploi et ressources humaines.
+A propos de l’emlyon business school : Fondée en 1872, emlyon business school accueille chaque année 5 750 étudiants de plus de 83 nationalités et 5 500 participants à des programmes de formation continue. L’école compte cinq campus dans le monde (Lyon, Saint-Étienne, Casablanca, Shanghai, Paris), s’appuie sur un réseau de 160 partenaires académiques internationaux et anime une communauté de 31 000 diplômés dans 121 pays.
+La mission d’emlyon business school est de révéler des « makers », des acteurs de la transformation qui anticipent, relient des mondes, construisent et positivent, privilégient le passage à l’acte, apprennent l’action, portent des valeurs, dans une démarche collaborative.  Cette notion de « maker » reflète la vision de l’entrepreneur d’emlyon business school, qui essaie, expérimente, se trompe, recommence, apprend en marchant. emlyon business school propose de développer ces compétences dans le cadre d’un enseignement de nouvelle génération, qui associe la production et la diffusion d’une recherche académique d’excellence et l’élaboration de parcours d’apprentissage innovants.
+Partager :
+
+
+
+
+ShareE-mailSaveJ’aime ça :J’aime chargement…
+ Tagsecole entreprise IA
+
+
+
+perlafouine14 décembre 2018Dernière mise à jour: 14 décembre 20180 3 minutes de lecture 
+
+
+
+ Facebook
+
+
+ X
+
+
+ Linkedin
+
+
+ Partager par email
+
+
+ Imprimer
+ 
+
+
+
+
+
+",http://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://perelafouine.com/emlyon-business-school-lance-laim-institute/', 'breadcrumb': {'@id': '#Breadcrumb'}}",emlyon business school lance l’AIM INSTITUTE,"{'@type': 'ImageObject', 'url': 'https://perelafouine.com/wp-content/uploads/2018/12/aim_logo.jpg', 'width': 1200, 'height': 149}",2018-12-14T09:21:14+01:00,2018-12-14T09:21:14+01:00,"{'@type': 'Person', 'name': 'perlafouine', 'url': 'https://perelafouine.com/author/perlafouine/'}","{'@id': '#Publisher', '@type': 'Organization', 'name': 'PereLaFouine', 'logo': {'@type': 'ImageObject', 'url': 'https://perelafouine.com/wp-content/uploads/2020/09/perelafouine_logo984x165.jpg'}, 'sameAs': ['https://www.facebook.com/olivier.kauf', 'https://twitter.com/Olivier_Kauf', 'https://www.linkedin.com/in/riskassurnotresiecle/', 'https://www.tiktok.com/@oliviermoimeme']}",emlyon business school lance l’AIM INSTITUTE,https://perelafouine.com/emlyon-business-school-lance-laim-institute/,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Accueil', '@id': 'https://perelafouine.com/'}}, {'@type': 'ListItem', 'position': 2, 'item': {'name': 'Actualités', '@id': 'https://perelafouine.com/category/communiques/'}}]",#Breadcrumb,2018-12-14T09:21:14+01:00,2018,Actualités,"L’Intelligence Artificielle au service des décideurs de demain
+emlyon business school inaugure l’Artificial Intelligence in Management (AIM) Institute, premier institut dédié à la compréhension des opportunités et des impacts de l’intelligence artificielle sur les éléments sociaux-économiques, organisationnels et business des entreprises et des institutions. S’appuyant sur des équipes de chercheurs en management, en sciences sociales et en technologies, venus du monde entier, l’institut entend développer les savoirs et les solutions pour accompagner les décideurs de demain.
+Renaud Champion, Directeur des Nouvelles Intelligences, membre du comité exécutif emlyon business school, explique les ambitions de l’AIM Institute : « L’Intelligence Artificielle change déjà la façon dont nous vivons et travaillons. Elle redessine profondément les contours de l’entreprise : le travail, les ressources humaines, la gouvernance et même les business models. Pour accompagner les décideurs de demain dans cette mutation bouillonnante, l’AIM Institute entend comprendre ses impacts pour construire un socle de connaissances et de solutions applicatives d’une envergure inédite. »
+Une action articulée autour de 3 pivots : RECHERCHE / INNOVATION / DIFFUSION
+La RECHERCHE constitue le pivot central de l’institut. Elle est organisée autour de deux centres de recherche en sciences sociales distincts :
+
+
+ 	Un centre, dirigé par le Professeur Ruthanne Huising, examinant les implications de l’intelligence artificielle sur le travail et la gouvernance des entreprises et des institutions,
+ 	Un centre, dirigé par le Professeur Margherita Pagani, étudiant les impacts de l’intelligence artificielle sur la création de valeur dans les entreprises et sur l’émergence de nouveaux business models.
+
+Les projets, qui réunissent des équipes de chercheurs interdisciplinaires (management, ingénierie, sociologie et éthique) sont menés en mode collaboratif, en partenariat avec des universités du monde entier (MIT, Stanford, VU Amsterdam, Ecole Polytechnique Fédérale de Lausanne).
+Parce qu’ils doivent répondre, in fine, aux problématiques concrètes des futurs décideurs, les travaux se caractérisent par leur ancrage dans le réel : un pool d’entreprises partenaires est mobilisé pour valider l’intérêt des sujets et pour accueillir des équipes de chercheurs pour des expérimentations « in situ ».
+L’INNOVATION est la concrétisation directe des travaux de recherche en solutions ou applications pédagogiques et économiques. Travaillant en symbiose avec l’emlyon business school, l’institut entend s’appuyer sur la recherche pour développer des modules, certificats ayant vocation à être intégrés dans les parcours de formation de l’école de management.
+Sur le plan économique, la démarche de l’institut consiste à interroger systématiquement le potentiel de transfert technologique des recherches menées.
+Renaud Champion ajoute : « Pour tous nos projets de recherche, nous poserons systématiquement la question de l’existence d’une Propriété Intellectuelle qui pourrait être exploitée sous la forme d’un modèle. Un modèle codé pour créer une application qui répondrait aux besoins d’une entreprise partenaire ou qui pourrait être l’innovation justifiant la création d’une startup que l’AIM Institute accompagnerait ! »
+LA DIFFUSION des connaissances en IA par l’AIM Institute est un enjeu extrêmement fort, pensé sur 3 niveaux d’audience :
+
+
+ 	en premier lieu les étudiants de l’emlyon business school afin de les préparer à l’intégration de l’IA dans leur quotidien de futur décideur ;
+ 	le grand public néophyte auprès de qui il est nécessaire de mener des actions de vulgarisation pour donner à voir la réalité des applications quotidiennes de l’intelligence artificielle, loin des fantasmes et discours alarmistes ;
+ 	les institutions territoriales, nationales et internationales afin de participer aux débats publics en apportant une expertise technique et éthique.
+
+A propos de l’AIM Institute : L’AIM Institute de l’emlyon business school est un projet multilatéral consacré à la compréhension des opportunités et des impacts liés à l’Intelligence Artificielle pour le management des entreprises, des industries et des écosystèmes de business. L’institut agit sur 3 piliers : la recherche, l’innovation pédagogique et économique, et la diffusion des connaissances. L’institut ambitionne de s’imposer comme centre névralgique pour tous les sujets d’impacts d’IA sur les entreprises, stratégie, business model, gouvernance, emploi et ressources humaines.
+A propos de l’emlyon business school : Fondée en 1872, emlyon business school accueille chaque année 5 750 étudiants de plus de 83 nationalités et 5 500 participants à des programmes de formation continue. L’école compte cinq campus dans le monde (Lyon, Saint-Étienne, Casablanca, Shanghai, Paris), s’appuie sur un réseau de 160 partenaires académiques internationaux et anime une communauté de 31 000 diplômés dans 121 pays.
+La mission d’emlyon business school est de révéler des « makers », des acteurs de la transformation qui anticipent, relient des mondes, construisent et positivent, privilégient le passage à l’acte, apprennent l’action, portent des valeurs, dans une démarche collaborative.  Cette notion de « maker » reflète la vision de l’entrepreneur d’emlyon business school, qui essaie, expérimente, se trompe, recommence, apprend en marchant. emlyon business school propose de développer ces compétences dans le cadre d’un enseignement de nouvelle génération, qui associe la production et la diffusion d’une recherche académique d’excellence et l’élaboration de parcours d’apprentissage innovants.",{'@id': '#Publisher'},{'@id': '#Publisher'},,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vaWF0cmFuc2h1bWFuaXNtZS5jb20vMjAxOC8xMi8xMi9yb2JvdHMtdHVldXJzLXF1ZS1zZXJvbnQtbGVzLXNvbGRhdHMtZGUtZGVtYWluL9IBXWh0dHBzOi8vaWF0cmFuc2h1bWFuaXNtZS5jb20vMjAxOC8xMi8xMi9yb2JvdHMtdHVldXJzLXF1ZS1zZXJvbnQtbGVzLXNvbGRhdHMtZGUtZGVtYWluLz9hbXA9MQ?oc=5,Robots tueurs. Que seront les soldats de demain ? - Transhumanisme et intelligence artificielle,2018-12-12,Transhumanisme et intelligence artificielle,https://iatranshumanisme.com,"Robots tueurs, le terme à la mode fausse d'emblée toute réflexion sur le sujet. Car ce seront des robots soldats qui combattront peut-être dans le futur",N/A,"Robots tueurs, le terme à la mode fausse d'emblée toute réflexion sur le sujet. Car ce seront des robots soldats qui combattront peut-être dans le futur","Robots tueurs, le terme à la mode fausse d'emblée toute réflexion sur le sujet. Car ce seront des robots soldats qui combattront peut-être dans le futur",Armée Défense,N/A,"Robots tueurs. Que seront les soldats de demain ?
+
+
+Jaesa			
+
+
+
+
+12/12/2018				
+
+ 1 Comment« Robots tueurs », le terme est à la mode mais il fausse d’emblée toute réflexion sur le sujet. Car ce seront des robots soldats qui combattront peut-être dans le futur, non des exterminateurs de la race humaine. Or, qui dit soldat dit faiblesses et vertus au combat. Pour que ces machines soient moralement acceptables, il faut donc qu’elles puissent agir au moins aussi bien qu’un soldat humain, qu’elles puissent « raisonner » d’elles-mêmes sur le plan moral. En d’autres termes, ces robots doivent être dotés d’une éthique artificielle.Les robots soldats, ces machines pleinement autonomes qui seront employées sur le champ de bataille, sortiront bientôt des industries d’armement. Ces robots peuvent-ils être la promesse de guerres plus propres ou au contraire dénuées de toute humanité ? Alors que les débats portent sur l’éventuel bannissement de cette technologie et sur la moralité de son emploi, le livre définit ce qui serait nécessaire à une telle machine pour qu’elle soit « acceptable » sur le champ de bataille.Quelles seraient les conséquences sociologiques et tactiques de sa présence en zone de guerre ? L’analyse de la psychologie humaine au combat, ce que les hommes font mal et ce qu’ils font bien, permet de définir les formes que prendrait l’intelligence artificielle du robot, le rendant apte à prendre les bonnes décisions dans le feu de l’action.LIRE AUSSI   La Chine a dévoilé le premier réseau informatique infalsifiable au mondeQuels sont alors les objectifs d’une « éthique artificielle » qu’il faut réussir à programmer ? En décrivant le processus décisionnel de l’homme au combat lorsqu’il est amené à ouvrir le feu, le livre propose, à partir des techniques de programmation actuelles de la morale, un modèle d’éthique artificielle qui rendrait le robot moralement autonome.Brice Erbland analyse la psychologie humaine au combat afin de mieux proposer ce que pourrait être la programmation d’une éthique artificielle pour les futurs robots de combat. Une approche originale qui n’est ni celle d’un philosophe, ni celle d’un roboticien, mais celle d’un soldat.Table des matièresConséquences de l’emploi de robots
+Rupture sociologique de la guerre
+Biais stratégique et conséquences tactiques
+Émotions vs algorithmes
+Faiblesses humaines au combat
+Vertus humaines au combat
+Objectifs d’une éthique artificielle
+Programmation d’une éthique artificielle
+Le processus décisionnel humain
+Proposition d’architecture d’un module d’éthique artificielle
+Quel test pour valider cette éthique ?
+Que nous apprend la littérature ?﻿Articles similairesRobots tueurs, des armes aux mains de l’IAL'intelligence artificielle progresse à une vitesse fulgurante dans tous les domaines, et celui de l'armement, loin d'être en reste, fait partie des terrains d'expérimentation pionniers. Drones kamikazes, chiens-robots démineurs ou patrouilleurs, ciblage par reconnaissance faciale ou dômes de défense antiaérienne… : souvent sous les radars du grand public, ces technologies…Éthique sur le champ de bataille dans un futur procheLe récent rapport de l'armée américaine ""Visualizing the Tactical Ground Battlefield in the Year 2050"" décrit un certain nombre de scénarios de guerre qui soulèvent des dilemmes éthiques épineux. Parmi les nombreux développements tactiques envisagés par les auteurs, un groupe d'experts réunis par le laboratoire de recherche de l'armée américaine,…La menace des robots tueursL’intelligence artificielle connaît de nombreuses applications dans la sécurité et le domaine militaire. Sur le terrain, elle facilite les manœuvres et permet de sauver des vies en cas d’avaries. Elle accroît la performance des armées, en fournissant des alliés robots aux combattants. Selon certains experts, les armes létales automatiques (SALA)…------VOIR AUSSI Les 10 technologies émergentes en 2023Bus autonomes de la RATP : Une révolution dans les…L'intelligence artificielle remplace des emplois…Finternet : le système financier du futurRafale F5 : Un bijou technologique en devenirSurveillance des messages des employés via l'IAEU AI Act : La loi européenne sur l'IA
+ Armée Défense algorithmes, éthique, champ de bataille, combat, défense, futur, guerre, Intelligence artificielle, livre, militaire, robots tueurs autonomes, soldat, soldat augmenté, soldat du futur
+
+",https://schema.org,"[{'@type': 'NewsArticle', '@id': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/#newsarticle', 'url': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/', 'headline': 'Robots tueurs. Que seront les soldats de demain ?', 'mainEntityOfPage': {'@type': 'WebPage', 'url': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/'}, 'datePublished': '2018-12-12T20:15:19+00:00', 'dateModified': '2019-02-07T22:01:37+00:00', 'author': {'@type': 'Person', '@id': 'https://iatranshumanisme.com/#person', 'url': 'https://iatranshumanisme.com/', 'name': 'Jaesa'}, 'publisher': {'@type': 'Organization', '@id': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/#Organization', 'url': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/', 'name': 'Intelligence Artificielle et Transhumanisme', 'logo': {'@type': 'ImageObject', 'url': 'https://iatranshumanisme.com/wp-content/uploads/2019/01/logo-iatranshumanisme-logo-rezize.jpg', '@id': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/#logo', 'width': '720', 'height': '509', 'caption': 'Intelligence Artificielle et Transhumanisme'}, 'description': 'Le transhumanisme est un mouvement radical qui favorise la transformation de la condition humaine. Le transhumanisme cherche à développer les possibilités techniques qui nous permettrons de surmonter nos limites biologiques par les progrès technologiques.', 'sameAs': ['https://www.facebook.com/iatranshumanisme', 'https://twitter.com/iatranshumanism', 'https://www.pinterest.fr/iatranshumanism/pins/', 'https://www.youtube.com/c/IATranshumanisme']}}, {'@type': 'BreadcrumbList', '@id': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/#breadcrumblist', 'itemListElement': [[{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://iatranshumanisme.com', 'name': 'Intelligence Artificielle et Transhumanisme'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://iatranshumanisme.com/category/armee-defense/', 'name': 'Armée Défense'}}, {'@type': 'ListItem', 'position': '3', 'item': {'@id': 'https://iatranshumanisme.com/2018/12/12/robots-tueurs-que-seront-les-soldats-de-demain/', 'name': 'Robots tueurs. Que seront les soldats de demain ?'}}]]}]",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sZW1vbmRlaW5mb3JtYXRpcXVlLmZyL2FjdHVhbGl0ZXMvbGlyZS1uZXh0aGluay1sZXZlLTg1LW0kLXBvdXItZG9wZXItbGEtcHJvZHVjdGl2aXRlLWR1LWRpZ2l0YWwtd29ya3BsYWNlLTczNzA3Lmh0bWzSAYQBaHR0cHM6Ly93d3cubGVtb25kZWluZm9ybWF0aXF1ZS5mci9hY3R1YWxpdGVzL2xpcmVhbXAtbmV4dGhpbmstbGV2ZS04NS1tJC1wb3VyLWRvcGVyLWxhLXByb2R1Y3Rpdml0ZS1kdS1kaWdpdGFsLXdvcmtwbGFjZS03MzcwNy5odG1s?oc=5,Nexthink lève 85 M$ pour doper la productivité du digital workplace - LeMondeInformatique,2018-12-13,LeMondeInformatique,https://www.lemondeinformatique.fr,"Financement : En combinant l'analyse des postes de travail et la correction automatique des incidents IT, la plateforme de Nexthink permet aux départements IT de...",N/A,"En combinant l'analyse des postes de travail et la correction automatique des incidents IT, la plateforme de Nexthink permet aux départements IT de...",N/A,N/A,N/A,"
+
+
+
+
+Toute l'actualité /
+Business / Financement
+
+Nexthink lève 85 M$ pour doper la productivité du digital workplace
+
+
+Maryse Gros,
+
+publié le 13 Décembre 2018
+
+
+
+
+
+
+
+
+
+
+
+
+0
+Réaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Livres blancs
+
+GMAO, gestion des actifs dans le secteur public : 2 retours d'expérience
+3 avantages à adopter une solution de digitalisation et d'automatisation des processus financiers
+Un groupe de Distribution améliore ses résultats financiers grâce à la BI
+
+
+
+
+
+
+En combinant l'analyse des postes de travail et la correction automatique des incidents IT, la plateforme de Nexthink permet aux départements IT de réduire les coûts de support en améliorant la satisfaction des utilisateurs. L'éditeur vient de lever 85 M$ en série C dans un tour de table mené par Index Ventures. Parmi les investisseurs figure Olivier Pomel, CEO de Datadog.
+
+Co-fondé en 2004 à Prilly (Suisse) par Pedro Bados, avec Patrick Hertzog et Vincent Bieri, Nexthink aide les équipes IT à renforcer l'efficacité des utilisateurs sur leurs postes de travail. (Crédit : Nexthink)
+
+
+Inspiré à l’origine d’un projet en intelligence artificielle mené par l’EPFL, l’Ecole polytechnique fédérale de Lausanne, Nexthink développe une solution de gestion de l’expérience utilisateur centrée sur l’environnement de travail numérique, le digital workplace. Cette solution est aujourd’hui déployée sur 7 millions de postes par 900 entreprises qui cherchent ainsi à réduire le coût de leur support IT et à augmenter la productivité de leurs employés en réduisant le nombre d’incidents sur les postes de travail. Basée à Lausanne, Nexthink a été co-fondée en 2004 par Pedro Bados, avec Patrick Hertzog et Vincent Bieri. La société vient de lever 85 millions de dollars dans un tour de table de série C mené par Index Ventures avec l’arrivée d’investisseurs comme Olivier Pomel, co-fondateur de Datadog, et TOP Funds, ainsi que la participation des investisseurs existants, Highland Europe, Forestay Capital, VI Partners, Auriga Partners et Galéo Capital.
+La plateforme de Nexthink permet aux départements IT d’améliorer l’environnement de travail numérique en combinant des analyses en temps réel de son utilisation (métriques sur les postes de travail) avec des actions automatisées de correction rapide des problèmes. La plateforme s’appuie aussi sur le recueil contextualisé des feedbacks des utilisateurs. La mise au point du logiciel a donné lieu au dépôt de deux brevets, l’un portant sur la visualisation en temps réel, l’autre sur l’utilisation de l’IA et de l’auto-apprentissage pour déterminer les comportements inhabituels.
+Safran, Commerzbank ou Western Union parmi les clients
+Le cabinet Forrester Research a récemment consacré un rapport à l’expérience employé, constatant que la qualité d'utilisation du digital workplace jouait un rôle important dans la satisfaction des collaborateurs et dans leur sentiment de travailler de façon efficace. « Délivrer des services de qualité aux utilisateurs est la mission principale des départements informatiques », souligne Pedro Bados, CEO de Nexthink, en rappelant la difficulté à y parvenir en gardant la maîtrise des coûts. C’est tout l’objectif de la plateforme mise en place par des groupes tels que Safran, Commerzbank, Adobe, Tiffany & Co, Wipro ou Western Union. Selon Nexthink, ses clients ont constaté une baisse du nombre d'incidents IT et une réduction de la frustration des utilisateurs. Le financement que vient de réaliser l'éditeur suisse lui permettra de renforcer son offre et de doper sa stratégie commerciale en augmentant ses ventes au niveau mondial, notamment en Amérique du Nord.
+Depuis sa création, la société basée à Lausanne a levé plus de 150 M$, la dernière, de série B, en avril 2016. Elle compte actuellement 370 collaborateurs et table sur un effectif de 400 personnes d’ici la fin de l’année. Nexthink a également installé un siège aux Etats-Unis, à Boston, et dispose de bureaux à Paris, Zurich, Dubai, Londres, Francfort, Madrid et Mumbai.
+Une erreur dans l'article? Proposez-nous une correction
+
+
+Article rédigé par
+Maryse GrosJournaliste, chef de rubrique LMI 
+
+
+
+Cet article vous a plu? Partagez le !
+
+
+
+
+
+
+
+
+
+
+
+Newsletter LMI
+Recevez notre newsletter comme plus de 50000 abonnés
+
+
+
+OK
+
+
+
+
+
+
+
+
+Commentaire 
+
+
+
+
+
+
+
+
+							Commenter cet article en tant que 
+							visiteur ou connectez-vous 
+
+
+
+Renseignez votre email pour être prévenu d'un nouveau commentaire
+Pour tout savoir sur la manière dont nous traitons vos données personnelles, consultez notre Charte de Confidentialité.
+
+
+
+Le code HTML est interdit dans les commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suivre toute l'actualité
+Newsletter
+Recevez notre newsletter comme plus de 50 000 professionnels de l'IT!
+Je m'abonne
+
+
+
+ 
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc2llY2xlZGlnaXRhbC5mci8yMDE4LzEyLzE0L3Zpc2FnZXMtYXJ0aWZpY2llbHMtbnZpZGlhL9IBAA?oc=5,"Ces visages n'existent pas, ils ont été créés par une intelligence artificielle - Siècle Digital",2018-12-14,Siècle Digital,https://siecledigital.fr,Une équipe de chercheurs travaillant chez Nvidia a élaboré un programme capable de créer des visages qui n’existent pas.,N/A,Une équipe de chercheurs travaillant chez Nvidia a élaboré un programme capable de créer des visages qui n’existent pas.,N/A,N/A,N/A,"
+
+
+Intelligence artificielle
+
+Ces visages n’existent pas, ils ont été créés par une intelligence artificielle
+Nvidia a créé une IA capable de créer des visages artificiels, à partir de celui de vraies personnes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+En 2018, Nvidia a créé une intelligence artificielle capable de générer des visages de personnes qui n'existent pas. Crédit : Nvidia
+
+
+
+Par Valentin Blanchot
+
+					- @vblanchot
+
+
+
+Publié le 14 décembre 2018 à 15h45
+ - Mis à jour le 29 mai 2019 à 08h08
+
+
+
+Une équipe de chercheurs travaillant chez Nvidia a élaboré un programme capable de créer des visages qui n’existent pas. Pour cela, il s’inspire de plusieurs personnes réelles, pour ensuite créer un portrait très réaliste, mais artificiel. 
+Les chercheurs ont publié leurs travaux sur Arvix et détaillent la façon dont ils ont construit leur système. En mélangeant les images de portraits, leur IA a été en mesure d’en générer un nouveau. Les caractéristiques des visages créés sont assez impressionnantes car ils sont renseignés en amont comme importants. Dans un précédent travail, les chercheurs généraient deux portraits différents, mais avec un rendu loin d’être naturel. Tantôt les oreilles disparaissaient, tantôt la couleur du vêtement changeait. 
+
+
+Inscrivez-vous à la newsletter
+
+
+
+
+En vous inscrivant vous acceptez notre politique de protection des données personnelles.
+
+
+
+La technique employée est la même que pour la duplication d’un style créatif. Lorsque vous utilisez un logiciel ou une application pour transformer votre photo en une peinture de Van Gogh ou Monet, c’est la même approche qui est utilisée. À l’image de l’oeuvre Edmond de Belamy créé par une IA. Néanmoins, ici, ce ne sont pas les couleurs ou les traits de pinceaux qui ont été adaptés. L’IA a  repris les éléments importants des portraits qui lui ont été présentés. D’abord la construction de la photo avec l’angle du visage, le sens du regard, etc. Ensuite, et surtout, les caractères physiques des personnes : couleur de la peau, grains de beauté, nez, oreilles, joues, etc. Enfin, le programme créé par les chercheurs de Nvidia a associé des lots de caractéristiques dans le but de créer plusieurs variantes. 
+
+Au final, aucun des visages générés n’existe. Cependant, il y a de fortes chances qu’ils ressemblent à quelqu’un existant, ou ayant existé. Ce serait du pur hasard. Maintenant, imaginons qu’une personne sur Tinder, ou sur Instagram ait un de ces visages en photo de profil. Impossible de faire la distinction avec une vraie personne. Associé à d’autres outils permettant de créer des deep fakes, la supercherie serait très élaborée, et ses effets conséquents.
+
+Dans une époque de fake news et de campagne d’influence lors de mouvements sociaux, des organes pourraient créer des profils à tour de bras. Ils simuleraient de vraies personnes, avec leurs opinions bien tranchées, et personne ne pourrait dire qu’il s’agit d’un robot derrière. C’est une des utilisations malhonnêtes possibles. D’autres, plus intéressantes, permettraient d’entrainer des systèmes de reconnaissance faciale.
+Nvidia est une société surprenante. Elle démontre, travaux après travaux, qu’elle est pionnière dans l’utilisation de l’intelligence artificielle dans un cadre visuel. Récemment, elle avait présenté un programme capable de simuler un monde virtuel directement à partir d’images réelles. Sur le domaine de la santé, une équipe de chercheurs a créé des IRM de synthèse afin de fournir plus d’éléments pour améliorer les IA. D’autres travaux sur les GANs permettent de générer des images là où il n’y en a pas. Par exemple, pour réparer une photo, ou simplement pour ajouter une image entre deux autres images et créer un slow motion.
+
+
+
+
+
+Pour aller plus loin
+France : Nvidia dans le viseur de l’Autorité de la ConcurrenceNvidia passe devant Apple et est désormais valorisée a plus de 3000 milliards de dollarsElon Musk détourne des puces Nvidia de Tesla vers XLa fortune de Jensen Huang, co-fondateur de Nvidia, est passée de 3 à 90 milliards de dollars en cinq ansDans le monde des puces IA, Nvidia domine, Intel et AMD se disputent les miettesAu cœur du boom de l’IA, Nvidia multiplie ses bénéfices par sept 
+
+
+deepfake
+
+Nvidia
+ 
+
+
+
+
+
+
+
+
+À lire aussi
+
+
+
+
+Google révèle une hausse de 13% de ses émissions de CO2, l’IA pointée du doigt
+Lire l'article
+
+
+SK Hynix met le paquet sur les composants dont dépend Nvidia
+Lire l'article
+
+
+La MNH et la FHF dévoilent les lauréats des Prix de la Communication Hospitalière
+Lire l'article
+
+
+Équilibrer la sécurité et l’autonomie : stratégies pour les RSSI à l’ère de l’informatique dématérialisée
+Lire l'article
+
+
+France : Nvidia dans le viseur de l’Autorité de la Concurrence
+Lire l'article
+
+
+L’intelligence artificielle révolutionne le monde de la traduction web
+Lire l'article
+
+
+
+
+ 
+
+
+
+
+",https://schema.org,"[{'@type': 'NewsArticle', '@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#article', 'isPartOf': {'@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/'}, 'author': {'name': 'Valentin Blanchot', '@id': 'https://siecledigital.fr/#/schema/person/a15ed9d2e7a9891e21c572456b5cca9b'}, 'headline': 'Ces visages n&rsquo;existent pas, ils ont été créés par une intelligence artificielle', 'datePublished': '2018-12-14T14:45:04+00:00', 'dateModified': '2019-05-29T06:08:36+00:00', 'mainEntityOfPage': {'@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/'}, 'wordCount': 583, 'commentCount': 0, 'publisher': {'@id': 'https://siecledigital.fr/#organization'}, 'image': {'@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#primaryimage'}, 'thumbnailUrl': 'https://siecledigital.fr/wp-content/uploads/2018/12/visages-artificiels-nvidia.jpg', 'keywords': ['deepfake', 'Nvidia'], 'articleSection': ['Intelligence artificielle'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#respond']}], 'copyrightYear': '2018', 'copyrightHolder': {'@id': 'https://siecledigital.fr/#organization'}}, {'@type': 'WebPage', '@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/', 'url': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/', 'name': ""Ces visages n'existent pas, ils ont été créés par une intelligence artificielle"", 'isPartOf': {'@id': 'https://siecledigital.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#primaryimage'}, 'image': {'@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#primaryimage'}, 'thumbnailUrl': 'https://siecledigital.fr/wp-content/uploads/2018/12/visages-artificiels-nvidia.jpg', 'datePublished': '2018-12-14T14:45:04+00:00', 'dateModified': '2019-05-29T06:08:36+00:00', 'description': 'Une équipe de chercheurs travaillant chez Nvidia a élaboré un programme capable de créer des visages qui n’existent pas.', 'breadcrumb': {'@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#primaryimage', 'url': 'https://siecledigital.fr/wp-content/uploads/2018/12/visages-artificiels-nvidia.jpg', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2018/12/visages-artificiels-nvidia.jpg', 'width': 1500, 'height': 844, 'caption': ""En 2018, Nvidia a créé une intelligence artificielle capable de générer des visages de personnes qui n'existent pas. Crédit : Nvidia""}, {'@type': 'BreadcrumbList', '@id': 'https://siecledigital.fr/2018/12/14/visages-artificiels-nvidia/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://siecledigital.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Intelligence artificielle', 'item': 'https://siecledigital.fr/intelligence-artificielle/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Ces visages n&rsquo;existent pas, ils ont été créés par une intelligence artificielle'}]}, {'@type': 'WebSite', '@id': 'https://siecledigital.fr/#website', 'url': 'https://siecledigital.fr/', 'name': ""Siècle Digital - L'actualité internationale de l'économie du numérique"", 'description': 'Siècle Digital l’actualité de l’économie du numérique', 'publisher': {'@id': 'https://siecledigital.fr/#organization'}, 'alternateName': 'Siècle Digital', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://siecledigital.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://siecledigital.fr/#organization', 'name': 'Siècle Digital', 'url': 'https://siecledigital.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/#/schema/logo/image/', 'url': 'https://siecledigital.fr/wp-content/uploads/2019/10/logo-horizontal-dark.png', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2019/10/logo-horizontal-dark.png', 'width': 843, 'height': 142, 'caption': 'Siècle Digital'}, 'image': {'@id': 'https://siecledigital.fr/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/siecledigital/', 'https://x.com/siecledigital', 'https://www.instagram.com/siecledigital/', 'https://www.linkedin.com/company/sicle-digital', 'https://www.pinterest.fr/siecledigital/']}, {'@type': 'Person', '@id': 'https://siecledigital.fr/#/schema/person/a15ed9d2e7a9891e21c572456b5cca9b', 'name': 'Valentin Blanchot', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/#/schema/person/image/', 'url': 'https://siecledigital.fr/wp-content/uploads/2016/10/14257491_1138398872894470_3592467536838694301_o-copie.jpg', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2016/10/14257491_1138398872894470_3592467536838694301_o-copie.jpg', 'caption': 'Valentin Blanchot'}, 'description': ""Valentin Blanchot a fondé Siècle Digital et en assure la direction éditoriale depuis 2013. Il supervise la publication du média, gère les évolutions de la ligne éditoriale, s'occupe des podcasts et s'assure de la couverture de tous les sujets, quel que soit leur domaine. Il est curieux et passionné par de nombreuses thématiques, mais vous remarquerez surtout ses commentaires sur les matchs de football de l'Olympique Lyonnais ou de Tottenham sur Twitter."", 'sameAs': ['https://siecledigital.fr', 'https://www.facebook.com/valentin.blanchot', 'fr.linkedin.com/in/valentinblanchot/', 'https://x.com/vblanchot'], 'birthDate': '1988-03-10', 'gender': 'male', 'knowsLanguage': ['French', 'English'], 'url': 'https://siecledigital.fr/author/valentinblanchot/'}]",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmpldW5lYWZyaXF1ZS5jb20vNjg1Njg4L3NvY2lldGUvaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1sZS1wbGFpZG95ZXItZGUtbHVuZXNjby1wb3VyLWxlLWRldmVsb3BwZW1lbnQtZW4tYWZyaXF1ZS_SAQA?oc=5,Intelligence artificielle : le plaidoyer de l'Unesco pour le développement en Afrique - Jeune Afrique,2018-12-13,Jeune Afrique,https://www.jeuneafrique.com,"L’intelligence artificielle pose de nombreux défis aux acteurs du privé et aux institutions africaines. Promesse pour des lendemains meilleurs, elle pose surtout des questions d’éthique et de formation, dont l’Unesco a tenté de répondre lors d’un forum organisé au Maroc.",N/A,"L’intelligence artificielle pose de nombreux défis aux acteurs du privé et aux institutions africaines. Promesse pour des lendemains meilleurs, elle pose surtout des questions d’éthique et de formation, dont l’Unesco a tenté de répondre lors d’un forum organisé au Maroc.","L’intelligence artificielle pose de nombreux défis aux acteurs du privé et aux institutions africaines. Promesse pour des lendemains meilleurs, elle pose surtout des questions d’éthique et de formation, dont l’Unesco a tenté de répondre lors d’un forum organisé au Maroc.",N/A,N/A,"
+
+
+
+Les fidèles d’Abdourahamane Tiani, le général à l’épreuve du pouvoir nigérien
+
+
+
+
+						Coup d’État au Niger
+					
+
+						3 juil. 2024
+					
+
+
+",https://schema.org,"[{'@type': 'WebSite', 'url': 'https://www.jeuneafrique.com/', 'name': 'JeuneAfrique.com', 'mainEntityOfPage': {'@context': 'https://schema.org', '@type': 'WebPage', '@id': 'https://www.jeuneafrique.com/'}}, {'@type': 'NewsMediaOrganization', 'url': 'https://www.jeuneafrique.com/', 'name': 'Jeune Afrique', 'logo': {'@type': 'ImageObject', 'width': {'@type': 'QuantitativeValue', 'value': 512}, 'height': {'@type': 'QuantitativeValue', 'value': 512}, 'url': 'https://www.jeuneafrique.com/images-default/ja.svg'}, 'sameAs': ['https://www.facebook.com/jeuneafrique1', 'https://twitter.com/Jeune_Afrique', 'https://www.youtube.com/channel/UCWkbzzrku8lwKK6DoBl4yTg', 'https://www.linkedin.com/company/jeune-afrique/mycompany/', 'https://www.pinterest.fr/jeuneafrique/']}, {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'url': 'https://www.jeuneafrique.com/rubriques/sciences/', 'item': 'https://www.jeuneafrique.com/rubriques/sciences/', 'name': 'Sciences', 'position': 2}, {'@type': 'ListItem', 'url': 'https://www.jeuneafrique.com/rubriques/societe/', 'item': 'https://www.jeuneafrique.com/rubriques/societe/', 'name': 'Société', 'position': 1}]}, {'@type': 'NewsArticle', 'url': 'https://www.jeuneafrique.com/685688/societe/intelligence-artificielle-le-plaidoyer-de-lunesco-pour-le-developpement-en-afrique/', 'description': 'L’intelligence artificielle pose de nombreux défis aux acteurs du privé et aux institutions africaines. Promesse pour des lendemains meilleurs, elle pose surtout des questions d’éthique et de formation, dont l’Unesco a tenté de répondre lors d’un forum organisé au Maroc. – Jeune Afrique', 'mainEntityOfPage': {'@context': 'https://schema.org/', '@type': 'WebPage', 'url': 'https://www.jeuneafrique.com/685688/societe/intelligence-artificielle-le-plaidoyer-de-lunesco-pour-le-developpement-en-afrique/'}, 'author': 'Jules Crétois', 'headline': 'Intelligence artificielle : le plaidoyer de l’Unesco pour le développement en Afrique', 'dateCreated': '2018-12-13T17:00:35+00:00', 'datePublished': '2018-12-13T17:00:35+00:00', 'dateModified': '2018-12-13T17:00:35+00:00', 'articleSection': [], 'keywords': ['Société', 'Sciences'], 'publisher': {'@type': 'NewsMediaOrganization', 'url': 'https://www.jeuneafrique.com/', 'name': 'Jeune Afrique', 'description': ""Toute l'actualité en Afrique"", 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.jeuneafrique.com/medias/default/default-thumbnail-200x200.png', 'height': 200, 'width': 200}, 'sameAs': ['https://www.facebook.com/jeuneafrique1', 'https://twitter.com/Jeune_Afrique', 'https://www.youtube.com/channel/UCWkbzzrku8lwKK6DoBl4yTg', 'https://www.linkedin.com/company/jeune-afrique/mycompany/', 'https://www.pinterest.fr/jeuneafrique/']}, 'isAccessibleForFree': 'True', 'image': {'@type': 'ImageObject', 'url': 'https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover/https://prod.cdn-medias.jeuneafrique.com/medias/2018/11/02/artificial-intelligence-3382507_1920.jpg', 'caption': 'Pixabay/Creative Commons', 'width': 1280, 'height': 960}, 'hasPart': {'@context': 'https://schema.org', '@type': 'WebPageElement', 'isAccessibleForFree': 'True'}}]",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzaW5lLWRpZ2l0YWxlLmZyL2FydGljbGUvZ2UtaGVhbHRoY2FyZS1hcHBvcnRlLXNlcy1zZXJ2aWNlcy1kZS1nZXN0aW9uLWRlcy1mbHV4LWF1eC1ob3BpdGF1eC1ldXJvcGVlbnMuTjc4MjkzOdIBAA?oc=5,Comment l'IA de GE Healthcare améliore la gestion des flux de patients à l'hôpital - Usine Digitale,2018-12-13,Usine Digitale,https://www.usine-digitale.fr,"
+	Le syst&egrave;me de gestion des flux de patients dans les h&ocirc;pitaux, propos&eacute; par GE Healthcare depuis deux ans, arrive en Europe, dans le Bradford...-Santé",N/A,"
+	Le syst&egrave;me de gestion des flux de patients dans les h&ocirc;pitaux, propos&eacute; par GE Healthcare depuis deux ans, arrive en Europe, dans le Bradford...-Santé","
+	Le syst&egrave;me de gestion des flux de patients dans les h&ocirc;pitaux, propos&eacute; par GE Healthcare depuis deux ans, arrive en Europe, dans le Bradford...-Santé",N/A,N/A,"
+
+
+
+
+
+                Santé
+            
+
+
+
+            Intelligence artificielle
+        
+
+
+
+            Innovation
+        
+
+
+
+
+
+
+
+Comment l'IA de GE Healthcare améliore la gestion des flux de patients à l'hôpital
+
+	Le système de gestion des flux de patients dans les hôpitaux, proposé par GE Healthcare depuis deux ans, arrive en Europe, dans le Bradford Royal Infirmary en Angleterrre. Cette solution, basée sur l’agrégation des applications internes à l’hôpital et l’intelligence artificielle, permet de réduire le temps d’attente des patients et d’augmenter la capacité des hôpitaux.
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gautier Virol
+
+
+
+
+                        13 décembre 2018
+                    
+
+ \
+16h16
+
+
+
+
+ 
+
+                                            2
+                                        min. de lecture
+                
+
+
+
+
+
+
+
+
+                            Réagir
+                        
+
+
+
+
+
+Mon actualité personnalisable
+
+Profitez à tout moment des informations clés selon vos intérêts.
+
+
+            Sélectionnez les thèmes qui vous intéressent :
+        
+
+Label tag qualité
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag principal
+
+
+ Gérer mes thèmes favoris
+
+Valider la sélection
+
+
+
+
+
+
+
+
+
+ 
+
+                                                    2 min.
+                                            
+de lecture
+
+
+
+
+
+
+
+
+                            Réagir
+                        
+
+
+
+
+
+
+
+
+Gautier Virol
+
+
+
+
+
+                    13 décembre 2018
+                
+
+ \
+16h16
+
+
+
+
+
+
+
+
+Partager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© GE Healthcare
+
+
+
+
+
+
+
+
+""Les flux d’un hôpital sont très complexes"", explique à l’Usine Digitale Laurent Dubois, CEO de GE Healthcare Partners. ""C’est comme un aéroport où les gens arriveraient à n’importe quelle heure, sans savoir quel vol ils prennent."" Pour simplifier cette gestion des flux, GE Healthcare a développé une solution qui offre une vision en temps réel des différentes données d’un hôpital et qui les analyse pour aider les personnels de santé à les gérer et augmenter la capacité de l'établissement.
+
+
+	Le premier ""centre de commande de capacité"" a ouvert à l’hôpital John Hopkins de Baltimore, en décembre 2016. La solution arrive aujourd'hui en Angleterre, au sein du Bradford Royal Infirmary, pour gérer en temps réel les 800 lits de l'hôpital.
+
+
+
+Jumeau virtuel
+
+	Pour optimiser la gestion des flux, GE Healthcare installe un poste de commande dans l’hôpital. ""Je préfère l’appeler centre de transparence et de coordination"", précise Laurent Dubois. Ce QG permet de centraliser les nombreuses applications déjà présentes dans les hôpitaux, comme celles relatives aux transports et aux soins, et celle apportées par l’entreprise, qui permettent notamment d’augmenter virtuellement la capacité du centre de soins.
+
+
+
+
+	Cette technologie passe par la création d’un ""jumeau virtuel"" de l’hôpital, avant même l’installation du centre de commandement. C’est un double parfait qui utilise les données récupérées en temps réel par les applications de l’hôpital et qui permet d’analyser les changements produits dans tout le centre de soins par la modification de certains paramètres, comme les heures de repas ou même le degré de prise de décision des infirmières. Une fois le système intégré à l’hôpital, ce jumeau virtuel permet d’anticiper certains événements, grâce au machine learning.
+
+
+
+
+Logiciel et conseil
+
+""On arrive à créer des lits virtuels"", explique le CEO de GE Healthcare Partners. Deux ans après avoir équipé l’hôpital de Baltimore, l’entreprise annonce qu’il a réduit les temps d’attente de 25% à l’admission et de 75% pour les lits post-opératoires. Ces temps d’attente réduits, ainsi que les différentes aides apportées par le système aux personnels de soins, permettent d’accueillir plus de personnes par jour.
+
+
+
+""À partir d’une certaine fréquentation de l’hôpital, on arrive à un niveau d’héroïsme des personnels de santé"", remarque Laurent Dubois. ""Notre solution vient en support à ces personnels, ne leur ajoute pas de charge de travail et est créée en dialogue avec lui. On est sur une double solution, software et conseil."" Car lors de l’installation de sa solution dans un hôpital, qui dure de 9 à 18 mois, une dizaine d’employés de GE Healthcare ""travaille de manière extrêmement proche avec les personnels de santé pour créer sur place l’application qui répond à leurs besoins, qui sont différents selon les hôpitaux, et pour ensuite les former"".
+
+
+
+""On parle avec de nombreux hôpitaux en Europe""
+
+	Si la solution de GE Healthcare a été développée dans une dizaine de centres hospitaliers, son implantation dans le Bradford Royal Infimary anglais est un premier pas de son arrivée en Europe. Facturée à environ 5 millions d’euros, pour une plateforme de petite envergure, jusqu’à 25 millions pour un système qui intègre plusieurs hôpitaux, la solution intéresse de nombreux hôpitaux européens.
+
+
+
+""On parle avec de nombreux hôpitaux en Europe – en Allemagne, en Scandinavie, au Benelux ou en France"", annonce Laurent Dubois, sans donner d’information sur le prochain hôpital qui sera équipé de l’innovation de GE Healthcare.
+
+
+
+
+
+
+Sélectionné pour vous
+
+
+
+
+
+
+
+
+
+                                    Cybersécurité : Baisse de 40% des ransomwares déclarés en 2024
+                                                                                                        
+
+
+
+
+
+
+
+                                    ""Mon Espace Santé est la pierre angulaire de l'usage des données de santé"", Hela Ghariani (DNS)
+                                                                                                                                                        
+
+
+
+
+
+
+
+
+                                    L'Hôpital Américain de Paris veut créer un jumeau numérique pour chacun de ses patients
+                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+
+SUR LE MÊME SUJET
+
+
+
+                            GE Healthcare veut connecter cliniciens et radiologues par le cloud
+                        
+
+
+
+                            E-commandes chez GE Healthcare
+                        
+
+
+
+                            [En images] A quoi ressemblera l’hôpital du futur ?
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 Commentaire
+
+
+
+
+
+
+
+
+
+                Comment l'IA de GE Healthcare améliore la gestion des flux de patients à l'hôpital
+            
+
+
+
+
+
+
+Tous les champs sont obligatoires
+
+
+
+
+
+
+Votre
+                                nom
+
+
+
+
+
+
+Votre
+                                e-mail
+
+
+
+
+Votre email ne sera pas publié
+
+
+
+Votre
+                            commentaire
+
+
+
+
+
+
+
+Envoyer
+
+
+
+
+
+
+
+
+
+
+
+
+Votre commentaire a bien été envoyé
+                        à la rédaction, celui-ci peut être soumis à modération, auquel cas il
+                        n'apparaitra pas immédiatement sur le site.
+
+
+
+
+
+
+
+Commenter
+
+
+
+
+
+
+
+
+
+
+
+            Participez à la discussion !
+        
+
+
+Commenter
+
+
+
+
+
+
+
+        0Commentaire
+
+Réagir
+
+
+
+Partager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sujets associés
+Santé
+Intelligence artificielle
+Innovation
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sdW5pb24uZnIvaWQyMjQxOS9hcnRpY2xlLzIwMTgtMTItMTQvZGVzLW1vbnRyZXMtY29ubmVjdGVlcy1pbnZlbnRlZXMtcmVpbXMtc29udC11dGlsaXNlZXMtZGFucy1kaXZlcnMtY2VudHJlcy1kZS10cmnSAQA?oc=5,"Des montres connectées, inventées à Reims, sont utilisées dans divers centres de tri pour détecter les troubles ... - L'Union",2018-12-14,L'Union,https://www.lunion.fr,"Une start-up rémoise vient de lancer une montre connectée pour détecter les troubles musculo-squelettiques, première maladie professionnelle en France.",['[node:field_freetags]'],"Une start-up rémoise vient de lancer une montre connectée pour détecter les troubles musculo-squelettiques, première maladie professionnelle en France.",N/A,Reims,N/A,"
+ Des montres connectées, inventées à Reims, sont utilisées dans divers centres de tri pour détecter les troubles musculo-squelettiques
+Une start-up rémoise vient de lancer une montre connectée pour détecter les troubles musculo-squelettiques, première maladie professionnelle en France.
+
+ Article réservé aux abonnés
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Article réservé aux abonnés
+
+Pour lire la suite de cet article :
+Abonnez-vous à notre offre numérique. 
+
+
+
+
+En profiter
+
+
+Vous êtes déjà abonné ou inscrit ?
+Connectez-vous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org,,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lunion.fr/id22419/article/2018-12-14/des-montres-connectees-inventees-reims-sont-utilisees-dans-divers-centres-de-tri'}","Des montres connectées, inventées à Reims, sont utilisées dans divers centres de tri pour détecter les","[{'@type': 'ImageObject', 'url': 'https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2018/12/14/node_22419/942531/public/2018/12/14/B9717947194Z.1_20181214185503_000%2BGLLCK6V6A.1-0.jpg?itok=ey-vqMId1544812289', 'width': '1350', 'height': '759'}]",2018-12-14T18:34:55+01:00,2018-12-14T18:34:55+01:00,"{'@type': 'Person', 'name': 'Par Caroline Garnier'}","{'@type': 'Organization', 'name': ""Journal L'Union "", 'sameAs': '[""https:\\/\\/fr.wikipedia.org\\/wiki\\/L%27Union_(journal_fran%C3%A7ais)""]', 'logo': {'@type': 'ImageObject', 'url': 'https://www.lunion.fr/sites/all/themes/enabootstrap_rem_lunion/images/logo_lunion.svg ', 'width': 400, 'height': 600}}","Des montres connectées, inventées à Reims, sont utilisées dans divers centres de tri pour détecter les",,,,,FALSE,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lunion.fr/112/sections/marne', 'name': 'Marne'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lunion.fr/113/sections/reims', 'name': 'Reims'}}]",,,,Reims,,,,"Une start-up rémoise vient de lancer une montre connectée pour détecter les troubles musculo-squelettiques, première maladie professionnelle en France.","{'@type': 'WebPageElement', 'isAccessibleForFree': 'FALSE', 'cssSelector': '#main > section.r-section--principale > article > div'}","{'@type': ['CreativeWork', 'Product'], 'name': ""Journal L'Union "", 'productID': 'lunion.fr:ena', 'sku': 'https://espace-abonnement.lunion.fr/abonnement/lunion-de-reims'}"
+https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5kYWthcmFjdHUuY29tL1Byb2YtU291bGV5bWFuZS1CYWNoaXItRGlhZ25lLXN1ci1sZXMtY29uc2VxdWVuY2VzLWRlLWxhLXJldm9sdXRpb24tZGUtbC1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLU5vdXMtbi1hdXJvbnMtcGx1c19hMTYxNzAzLmh0bWzSAQA?oc=5,"Prof Souleymane Bachir Diagne sur les conséquences de la révolution de l'intelligence artificielle : "" Nous n'aurons ... - DakarActu",2018-12-12,DakarActu,https://www.dakaractu.com,"À l'occasion du colloque international sur la vision prospective de la formation pour les métiers du futur dans l'enseignement supérieur, initié par l'université de Thiès, le professeur d...","sénégal , presse , chronique , dakar , afrique , abdoulaye wade , election 2012 , karim wade  , pds , Macky Sall , apr, aliou cissé ","À l'occasion du colloque international sur la vision prospective de la formation pour les métiers du futur dans l'enseignement supérieur, initié par l'université de Thiès, le professeur de philosophie à l'université de Columbia à New York, s'est penché sur les métiers de l'avenir qui vont changer...","À l'occasion du colloque international sur la vision prospective de la formation pour les métiers du futur dans l'enseignement supérieur, initié par l'université de Thiès, le professeur d...",N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxhZG4uZXUvYXJjaGl2ZXMvcG93ZXJpbmctcGVvcGxlL3RvcHMtZXQtZmxvcHMtZGUtbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUv0gEA?oc=5,Tops et flops des dernières nouveautés en matière d'intelligence artificielle - L'ADN,2018-12-14,L'ADN,https://www.ladn.eu,"Surveiller sa sant&eacute; et pr&eacute;venir les maladies&amp;nbsp;? On adh&egrave;re. Vendre des donn&eacute;es tr&egrave;s priv&eacute;es aux compagnies d&rsquo;assurance pour p&eacute;naliser les gens&amp;nbsp;? On est moins fans&hellip; Preuve que ce n&rsquo;est pas tant l&rsquo;I.A. qu&rsquo;il faut craindre, mais son usage. C&ocirc;t&eacute; pile, une innovation qui redonne autonomie et mobilit&eacute; &agrave; des personnes handicap&eacute;es. C&ocirc;t&eacute; face, la m&ecirc;me [&amp;hellip;]",N/A,"Surveiller sa santé et prévenir les maladies ? On adhère. Vendre des données très privées aux compagnies d’assurance pour pénaliser les gens ? On est moins fans… Preuve que ce n’est pas tant l’I.A. qu’il faut craindre, mais son usage.",N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+Powering people
+
+
+#Exosquelette
+
+
+#Intelligence artificielle
+
+
+
+Tops et flops de l’intelligence artificielle
+
+
+                                        Par Sandrine Cochard - Le 14 décembre 2018 
+
+
+                                    Avec Mastercard
+
+
+
+
+
+© Getty Images
+
+
+
+
+Accueil > Archives > Powering people > Tops et flops de l’intelligence artificielle 
+
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+flipboard
+
+ 
+
+
+
+
+
+
+
+Surveiller sa santé et prévenir les maladies ? On adhère. Vendre des données très privées aux compagnies d’assurance pour pénaliser les gens ? On est moins fans… Preuve que ce n’est pas tant l’I.A. qu’il faut craindre, mais son usage.
+Côté pile, une innovation qui redonne autonomie et mobilité à des personnes handicapées. Côté face, la même innovation, conçue pour l’armée cette fois, à des visées nettement moins pacifistes. C’est là toute l'ambiguïté de la technologie : elle échappe à toute morale. « Elle n’est ni bonne, ni mauvaise, seul compte l’usage qui en est fait», selon Alexandre Cadain, cofondateur et CEO d’ANIMA.ai, invité au Mastercard Innovation Forum à défendre sa vision d’une « intelligence artificielle positive » capable de construire le monde de demain, un monde meilleur. Mais pas question d’être naïf quant aux dérives possibles.
+Démonstration en 5 exemples d’innovations qui reflètent cette schizophrénie technologique, capable du meilleur comme du pire.
+
+
+Les dispositifs médicaux connectés
+
+
+Top :  défibrillateur cardiaque implantable, bracelet électronique, prothèse de genou connectée ou algorithme calculant les doses d’un traitement… les dispositifs médicaux connectés sont variés ! Ils permettent aux médecins de suivre précisément leurs patients, sur de longues périodes. Parce qu’ils ont un objectif médical, ces dispositifs doivent répondre à des standards et sont rigoureusement encadrés par la Haute autorité de santé. Le récent scandale des Implant files a toutefois révélé d’importantes failles au niveau européen et international.
+Flop :  ces dispositifs connectés sont des mines d’informations très personnelles qui peuvent se retourner contre leur porteur. Ainsi les compagnies d’assurance pourraient s’appuyer sur les données collectées pour revoir le montant de leurs contrats, invoquant la (mauvaise) santé du patient. Vous pensez que c’est de la science-fiction ? Plus tout à fait : aux États-Unis, un assureur américain propose à ses assurés de porter un tracker d’activité connecté, officiellement pour promouvoir des habitudes de vie saines. Ceux qui acceptent peuvent obtenir une réduction des cotisations. Serons-nous bientôt obligés de dévoiler nos données de santé ? En poussant ce raisonnement à l’extrême, on pourrait imaginer se voir refuser un prêt bancaire pour cause d’apnée du sommeil, de diabète ou d’intolérance au gluten !  Bienvenue à Gattaca...
+
+
+
+Les bracelets connectés
+
+
+Top :  On s’en sert pour compter nos pas ou pour optimiser une séance de sport. Pratique et ludique, les bracelets et montres connectés nous obligent à nous bouger, quitte à parfois tricher (un peu), pour garder la forme.
+Flop :  Et si votre patron surveillait vos pauses pipi ou café à la minute près ?  C’est ce que craignent des employés d’Amazon, qui se sont indignés du bracelet électronique développé par la firme, officiellement pour suivre leur travail et développer leur productivité. Certains y ont vu un outil de surveillance traquant leurs moindres faits et gestes. Face à la polémique qui a éclaté en février dernier, Amazon a réagi en évoquant des « spéculations erronées ». Mais le débat sur la robotisation de l’humain au travail ne fait que commencer.
+ 
+
+
+Les exosquelettes 
+
+
+Top :  Les exosquelettes sont l’une des innovations les plus prometteuses. La marque française Wandercraft a développé un exosquelette capable de reproduire la marche, permettant ainsi à des handicapés de se mouvoir à nouveau.
+Flop : Mais les exosquelettes peuvent avoir aussi des applications militaires. États-Unis, Russie, France… de nombreux pays allient science et robotique dans une nouvelle course à l’armement tech. Plusieurs exosquelettes militaires ont vu le jour ces deux dernières années, pour aider ou protéger les soldats dans leurs missions, à l’image de cette tenue de combat russe façon Stormtrooper ou de sa rivale américaine ultraconnectée baptisée Talos. Les conflits du futur auront des allures de guerre de droïdes.
+
+
+
+Les satellites
+
+
+Top : Ils scrutent la Terre et l’espace 24h/24 et sont les témoins des grands bouleversements climatiques et sociétaux de notre planète. Les satellites permettent d’observer les inondations, la déforestation, le déclin des glaciers dans les Pyrénées ou encore de protéger l’agriculture africaine. Ils sont également essentiels pour notre société moderne qui repose sur les télécommunications.
+Flop : Les satellites sont les yeux et les grandes oreilles du monde, avec quelques abus. La NSA (l’agence américaine de renseignement) a été épinglée après la révélation par Edward Snowden d’un vaste programme d’espionnage des citoyens américains, mais aussi des chefs d’État étrangers (dont le président français François Hollande et la chancelière allemande, Angela Merkel). Les satellites jouent également un rôle éminemment stratégique en matière de renseignement et dans les conflits. La militarisation de l’espace, qui s’est accélérée ces dernières années, les destructions de satellites par la Chine et les États-Unis, et l’incident récent entre un satellite français et un satellite russe illustrent bien les enjeux et les tensions de cette nouvelle guerre des étoiles.
+ 
+
+
+Les puces RFID
+
+
+Top : La puce RFID, nouveau sac à main de la taille d’un grain de riz ? En Suède où quelques milliers de personnes ont opté pour ce système, une puce implantée dans la peau remplace clés, badge, cartes de visite et billets de train. Pour entrer au bureau, il suffit de glisser sa main sur un petit boitier. La puce peut aussi prendre en charge les billets de train de la société ferroviaire nationale suédoise. Pratique pour ceux qui veulent bouger léger ou qui ont toujours peur d’oublier quelque chose.
+Flop : Plusieurs entreprises ont implanté des puces électroniques à leurs salariés. A l’instar des bracelets connectés d’Amazon, ces puces posent la question du respect de la vie privée, mais également du vol de données qui correspondent directement à notre identité : nom, prénom, date de naissance, adresse... Autant d’informations qui composent notre ADN numérique et qui sont reliées à un identifiant unique, véritable clé d’accès à notre existence (travail, loisirs, maisons, etc).
+
+Les intelligences artificielles sont autant porteuses d’espoirs que de craintes. Pour ne pas se réveiller demain dans une société à la Black Mirror, il faut agir dès aujourd’hui. Pour Alexandre Cadain, cela passe par « un nouvel humanisme technologique » capable d’impacter positivement des milliards de personnes : « Le vrai défi aujourd’hui est de trouver les zones de collaboration humain-machines qui nous permettront de résoudre les grands défis de notre époque », conclut-il.
+
+
+
+
+Sandrine Cochard 
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+flipboard
+
+ 
+
+
+
+
+",http://schema.org/,"[{'@type': 'Organization', '@id': 'https://www.ladn.eu/#organization', 'name': ""L'ADN Groupe"", 'url': 'https://www.ladn.eu/', 'sameAs': ['https://www.facebook.com/ladn.eu', 'https://www.instagram.com/ladneu/', ""https://www.linkedin.com/company/9424705?trk=tyah&amp;amp;amp;amp;amp;amp;trkInfo=clickedVertical:company,clickedEntityId:9424705,idx:1-1-1,tarId:1466001973653,tas:l'adn"", 'https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A', 'https://twitter.com/LADN_EU'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/#logo', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2021/09/logo-LADN-bleu-270x73-1.jpg', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2021/09/logo-LADN-bleu-270x73-1.jpg', 'width': 270, 'height': 73, 'caption': ""L'ADN Groupe""}, 'image': {'@id': 'https://www.ladn.eu/#logo'}}, {'@type': 'WebSite', '@id': 'https://www.ladn.eu/#website', 'url': 'https://www.ladn.eu/', 'name': 'L&#039;ADN', 'description': 'TENDANCES &amp; MUTATIONS', 'publisher': {'@id': 'https://www.ladn.eu/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://www.ladn.eu/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#primaryimage', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2018/12/top-flop-IA.jpg', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2018/12/top-flop-IA.jpg', 'width': 1200, 'height': 540, 'caption': 'Sourire triste'}, {'@type': 'WebPage', '@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#webpage', 'url': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/', 'name': 'Tops et flops des dernières nouveautés en matière d’intelligence artificielle', 'isPartOf': {'@id': 'https://www.ladn.eu/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#primaryimage'}, 'datePublished': '2018-12-14T13:29:28+00:00', 'dateModified': '2018-12-17T12:23:00+00:00', 'description': 'Surveiller sa santé et prévenir les maladies ? On adhère. Vendre des données très privées aux compagnies d’assurance pour pénaliser les gens ? On est moins fans… Preuve que ce n’est pas tant l’I.A. qu’il faut craindre, mais son usage.', 'breadcrumb': {'@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/', 'url': 'https://www.ladn.eu/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/archives/', 'url': 'https://www.ladn.eu/archives/', 'name': 'Archives'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/archives/powering-people/', 'url': 'https://www.ladn.eu/archives/powering-people/', 'name': 'Powering people'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/', 'url': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/', 'name': 'Tops et flops de l’intelligence artificielle'}}]}, {'@type': 'Article', '@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#article', 'isPartOf': {'@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#webpage'}, 'author': {'@id': 'https://www.ladn.eu/#/schema/person/d2e7efa491cff895c3233e19ecad5f3b'}, 'headline': 'Tops et flops de l’intelligence artificielle', 'datePublished': '2018-12-14T13:29:28+00:00', 'dateModified': '2018-12-17T12:23:00+00:00', 'mainEntityOfPage': {'@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#webpage'}, 'commentCount': 1, 'publisher': {'@id': 'https://www.ladn.eu/#organization'}, 'image': {'@id': 'https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#primaryimage'}, 'keywords': 'Exosquelette,Intelligence artificielle', 'articleSection': 'Powering people', 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/#respond']}]}, {'@type': 'Person', '@id': 'https://www.ladn.eu/#/schema/person/d2e7efa491cff895c3233e19ecad5f3b', 'name': 'Nathalie Hoyon', 'image': {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/#personlogo', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2023/02/empty-120x120.png', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2023/02/empty-120x120.png', 'caption': 'Nathalie Hoyon'}}]",Article,https://www.ladn.eu/archives/powering-people/tops-et-flops-de-lintelligence-artificielle/,Tops et flops de l&rsquo;intelligence artificielle,"{'@type': 'ImageObject', 'url': 'https://www.ladn.eu/wp-content/uploads/2018/12/top-flop-IA.jpg', 'height': '540px', 'width': '1200px'}",2018-12-14T14:29:28+01:00,2018-12-17T13:23:00+01:00,"{'@type': 'Person', 'name': 'Nathalie Hoyon', 'url': 'https://www.ladn.eu/author/nathalie/'}","{'@type': 'Organization', 'name': ""L'ADN"", 'logo': {'@type': 'ImageObject', 'url': 'https://www.ladn.eu/wp-content/themes/ladn/assets/gfx/logo-adn.jpg', 'height': '77px', 'width': '275px'}, 'url': 'https://www.ladn.eu/', 'sameAs': ['https://twitter.com/ladn_eu', 'https://fr-fr.facebook.com/ladn.eu', 'https://www.linkedin.com/company/9424705']}",,,,,,,,,,,,,,,,,

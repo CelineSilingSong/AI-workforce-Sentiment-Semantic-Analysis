@@ -1,0 +1,202 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,url,datePublished,dateModified,headline,articleBody,author,image,isAccessibleForFree,mainEntityOfPage,publisher,wordCount,itemListElement,numberOfItems,@graph
+https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdGF6LmRlL0t1ZW5zdGxpY2hlLUludGVsbGlnZW56LWluLWRlci1LdW5zdC8hNTc3ODgwMC_SAQA?oc=5,Künstliche Intelligenz in der Kunst: Tanzen nach Zahlen - taz.de,2021-06-26,taz.de,https://taz.de,Wenn Künstliche Intelligenz die Schritte lenkt: Die Choreografie für das Stück „Deep Dance“ stammt von einem neuronalen Netzwerk.,"Zeitgenössischer Tanz, künstliche Intelligenz, Choreografie, Mensch-Maschine-Beziehung , Nord, taz, tageszeitung ",Wenn Künstliche Intelligenz die Schritte lenkt: Die Choreografie für das Stück „Deep Dance“ stammt von einem neuronalen Netzwerk., Wenn Künstliche Intelligenz die Schritte lenkt: Die Choreografie für das Stück „Deep Dance“ stammt von einem neuronalen Netzwerk.,N/A,N/A,"
+Künstliche Intelligenz in der Kunst: Tanzen nach Zahlen
+
+Wenn Künstliche Intelligenz die Schritte lenkt: Die Choreografie für das Stück „Deep Dance“ stammt von einem neuronalen Netzwerk.
+Maschinendenken für Menschen verstehbar gemacht: Strichmännchen zeigen die Bewegungsfolgen  Foto: Erik Kundt/Lea Schorling/Nikolas Zöller
+Dass menschengemachte Maschinen unterhaltsam tanzen können, hat der US-Roboterhersteller Boston Dynamics gerade erst bewiesen: Zwei Humanoide, ein Roboterhund und ein Logistikroboter hüpfen in einem Video vom vergangenen Dezember munter zu schmissiger Musik herum, damit bloß keiner denkt, die Dinger und ihre immer autonomer und dabei auch noch vernetzt entscheidenden Elektronenhirne seien irgendwie bedrohlich.
+Und dass künstliche Intelligenz zwar noch ziemlich schlecht darin ist, aus Bewegungsmustern von Tanzenden ein bestimmtes Musikgenre abzuleiten, dafür aber überraschenderweise in der Lage ist, einzelne Menschen an ihren charakteristischen Tanzbewegungen zu erkennen, haben finnische For­sche­r:in­nen schon ein Jahr zuvor herausgefunden. Nur beim Heavy Metal klappt das nicht. Zumindest im finnischen Sample gilt also offenbar: Beim Headbangen gibt es keine Individuen mehr.
+Anzeige
+Noch ein Jahr zuvor haben For­sche­r:in­nen der University of California ein Deep-Learning-System entwickelt, das auf der Grundlage relativ mies getanzter Laien-Performances und großartig getanzter Videosequenzen professioneller Tän­ze­r:in­nen den ungelenken Laien-Stil ganz massiv verbessern kann – jedenfalls im dann errechneten Video. Dafür muss man allerdings damit leben können, dass dabei zumindest vorübergehend und virtuell auch mal ein Körperteil verloren geht.
+Mit dem Zusammenhang von Tanz, Software und Technologie beschäftigt sich auch der Hamburger Choreograf Jascha Viehstädt schon länger, gemeinsam mit der offenen Formation Costa Compagnie, dem Regisseur Felix Meyer-Christian und dem Künstler und Ingenieur Erik Kundt.
+Tän­ze­r:in­nen befolgen digitale Befehle
+2018 entwickelten sie zusammen etwa die Performance „Ok, Google“ rund um den und mit dem Stimm­assistenten des Tech-Konzerns. Fünf Per­for­me­r:in­nen unterhalten sich in einer Choreografie live auf der Bühne mit Googles Servern über alle möglichen Aspekte eines immer technoider werdenden Alltags, Googles Smart-Home-Assistent steuert dazu Licht und Ton der Performance.
+Für „Deep.Dance“ nun hat Viehstädt gemeinsam mit einem Team von Künst­le­r:in­nen eine komplette Choreografie durch ein künstliches neuronales Netzwerk erstellen lassen, das sie eigens dafür programmiert haben. Drei Tän­ze­r:in­nen führen sie bis ins letzte Detail aus.
+
+Schritte, Armbewegungen, Drehungen. Nichts lässt erkennen, dass diese Bewegungsabfolgen künstlich konzipiert wurden
+
+Auf diese Weise werde ein eindringlicher Blick auf eine sonst hermetisch abgeschlossen scheinende „hyperlogische Welt des Codes“ möglich, erklärt die Webseite zum Projekt. Auf der finden sich neben einem Video der einstündigen Performance, das noch bis Sonntag, 27. Juni, 23.59 Uhr zu sehen ist, auch Texte über die Beziehungen zwischen künstlicher Intelligenz und Tanz sowie Erklärungen, wie Maschinen eigentlich Tanz und Choreografie lernen können. Nerds finden zudem Schnipsel des selbstgeschriebenen Codes.
+Die hinterm Projekt steckenden Fragen: Wie nützlich und realistisch ist die Nutzung der viel gehypten künstlichen Intelligenz in künstlerischer Arbeit – und wie wünschenswert ist das? Kann eine Software, kann eine Maschine im eigentlichen Sinn kreativ sein? Merkt man dem Ergebnis an, dass Unorganisches dahintersteckt? Und was unterscheidet ein menschliches Wesen dann überhaupt vom künstlichen?
+
+Technisch geht das Ganze so: Ein System nutzt Maschinenlernen, um Bewegungssequenzen zu studieren und neue Sequenzen zu entwickeln. Visualisiert, also für Menschen leichter erkenn- und umsetzbar, werden diese Sequenzen anschließend mit einer Software. Eine weitere Software hat das Team noch entwickelt, die ein LED-Licht-Setup auf einer Bühne kontrolliert.
+Für die Daten, mit denen das neuronale Netzwerk gefüttert wurde, haben Tän­ze­r:in­nen eine Reihe von vordefinierten Bewegungen ausgeführt. Bild für Bild wurden diese mit Software in eine Sequenz von Schlüsselpunkten verwandelt. Neue Bewegungen entstanden dann, weil ein rekurrierendes neuronales Netzwerk in der Lage ist, aus der Abfolge einer Schlüsselpunktserie Aussagen über den wahrscheinlichsten nächsten Wert zu treffen.
+Tanz der künstlichen Synapsen
+Damit die Per­for­me­r:in­nen die so entstandene Choreografie exakt nachstellen können, hat das Team die Sequenzen mit Strichmännchen darstellen lassen: ein einfaches Tool mit Play-, Pause- und Stopp-Taste, das die einzelnen Tän­ze­r:in­nen ganz unterschiedlich genutzt haben, um die KI-Bewegungen in einen Audiocode zu übersetzen. Der enthält Anweisungen in Form von Countdowns, gesprochenen Bildern oder rhythmischen Klängen, die je­de:r der drei bei der Live-Performance – wieder mit der KI synchronisiert – über Kopfhörer umgesetzt hat.
+Das Ergebnis wirkt dann erstaunlich organisch und lebendig. Auf einem Quadrat mit weichen Matten, von der Seite mit LED-Leisten beleuchtet, tanzen die Per­for­me­r:in­nen zu dritt, zu zweit, allein ein ganz typisches Repertoire, das auch ein:e Cho­reo­gra­f:in hätte vorgeben können: Schrittfolgen, Armbewegungen, Drehungen, Rollen und Liegen auf dem Boden. Nichts lässt erkennen, dass diese Bewegungsfolgen künstlich erzeugt wurden. Nichts wirkt ungewöhnlich, nichts unpassend.
+
+Deep DanceDas Video der Performance ist noch bis So, 27.6., 23.59 Uhr, zu sehen: https://deep.dance. Die Homepage bleibt auch danach online.
+
+Aber es ist interessant, sich das Ganze mit dieser Frage anzusehen: Wo ist da etwas Künstliches? Wo entlarvt sich die KI sozusagen, wo zeigt sie vielleicht Mängel? Aber erst später gibt es kürzere Sequenzen zu sehen, die sich mit nur minimalen Nuancen wiederholen. Das wirkt dann analytischer, stockt im Fluss. Aber das tut menschliche Intelligenz ja auch. Noch später kommen die Audiocodes dazu. Wirkt das nun roboterhaft, wie die Anweisungen sich da so schnell immer wiederholen?
+Aber schauen Sie selbst, langweilig wird Ihnen bestimmt nicht. Denn eines kann dieses bedrohlich gut gelungene Zusammenspiel von künstlicher konzeptioneller und menschenkörperlich-motorischer Intelligenz genauso gut wie eine von einem lebenden Wesen erdachte Performance: für eine Stunde einen Raum eröffnen, in dem sich in Auseinandersetzung mit all diesen zumindest nicht alltäglichen Bewegungen und all den ausufernden Fragen im Angesicht des unbestritten immer technoider werdenden Alltags ein unterhaltsamer Tanz der Synapsen im eigenen Kopf einstellt. Man hätte jetzt zum Beispiel noch so gern gesehen, wie die putzigen Roboter von Boston Dynamics das Ganze aufführen.
+",,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZhei5uZXQvYWt0dWVsbC9rYXJyaWVyZS1ob2Noc2NodWxlL3dpZS1tYW4tc2ljaC1hdWYta2ktc3BlemlhbGlzaWVyZW4ta2Fubi0xNzM4ODYxMi5odG1s0gEA?oc=5,Technische Trendfächer Wie man sich auf KI spezialisieren kann - FAZ - Frankfurter Allgemeine Zeitung,2021-06-28,FAZ - Frankfurter Allgemeine Zeitung,https://www.faz.net,"Digitalisierung und KI werden immer wichtiger, aber Fachleute fehlen – dabei ist der Weg geebnet. Denn passende Studiengänge gibt es auch an deutschen Hochschulen.",N/A,"Digitalisierung und KI werden immer wichtiger, aber Fachleute fehlen – dabei ist der Weg geebnet. Denn passende Studiengänge gibt es auch an deutschen Hochschulen.",N/A,N/A,N/A,"Technische Trendfächer : Wie man sich auf KI spezialisieren kannVon Lilian Fiala, Selma Schmitt28.06.2021, 22:59Lesezeit: 3 Min.Quantencomputer  von IBM in der Nähe von StuttgartGraham Carlow PhotographyDigitalisierung und KI werden immer wichtiger, aber Fachleute fehlen – dabei ist der Weg geebnet. Denn passende Studiengänge gibt es auch an deutschen Hochschulen.TeilenMerkenDruckenUm auch in zehn oder zwanzig Jahren noch relevant zu sein, müssen Unternehmen sich ständig weiterentwickeln. Neue Ideen, Projekte und Technologien sind gefragt – und müssen betreut und gefördert werden. Genau das ist die Aufgabe eines Innovationsmanagers: „Als Innovationsmanager begleitet man neue Projekte von der ersten Idee hin bis zur Markteinführung“, sagt Steffen Strese, Professor für Innovationsmanagement an der Technischen Universität Dortmund.
+
+
+
+
+
+Ohne Abo weiterlesen
+Dies ist kein Abo. Ihre Registrierung ist komplett kostenlos,
+    ohne
+    versteckte Kosten.
+
+Registrieren und
+        weiterlesen
+
+
+Login
+
+
+
+Oder 3 Monate für 1 € pro Monat Zugang zu allen FAZ+ Beiträgen
+    erhalten
+    und immer aktuell informiert bleiben.
+
+Jetzt Angebot
+        sichern
+
+
+
+Quelle: F.A.S.Artikelrechte erwerben Zur Startseite Schlagworte: TU MünchenAlle Themen",https://schema.org,BreadcrumbList,"['https://www.faz.net/aktuell/politik/', 'https://www.faz.net/aktuell/wirtschaft/', 'https://www.faz.net/aktuell/finanzen/', 'https://www.faz.net/aktuell/feuilleton/', 'https://www.faz.net/aktuell/karriere-hochschule/', 'https://www.faz.net/aktuell/sport/', 'https://www.faz.net/aktuell/jahresrueckblick/', 'https://www.faz.net/aktuell/gesellschaft/', 'https://www.faz.net/aktuell/stil/', 'https://www.faz.net/aktuell/rhein-main/', 'https://www.faz.net/aktuell/technik-motor/', 'https://www.faz.net/aktuell/wissen/', 'https://www.faz.net/aktuell/reise/', 'https://www.faz.net/aktuell/leserdebatte/', 'https://www.faz.net/aktuell/fotografie/', 'https://www.faz.net/aktuell/zukunft-gestalten-75-jahre-faz/', 'https://www.faz.net/aktuell/faz-kongress-zwischen-den-zeilen/', 'https://www.faz.net/aktuell/das-beste-von-faz-plus/', 'https://www.faz.net/aktuell/spiele/', 'https://www.faz.net/aktuell/edition/']",2021-06-28T09:32:08Z,2021-06-28T20:59:37Z,Wie man sich auf KI spezialisieren kann,"Um auch in zehn oder zwanzig Jahren noch relevant zu sein, müssen Unternehmen sich ständig weiterentwickeln. Neue Ideen, Projekte und Technologien sind gefragt – und müssen betreut und gefördert werden. Genau das ist die Aufgabe eines Innovationsmanagers: „Als Innovationsmanager begleitet man neue Projekte von der ersten Idee hin bis zur Markteinführung“, sagt Steffen Strese, Professor für Innovationsmanagement an der Technischen Universität Dortmund. Nicht jede neue Idee wird zum Erfolg, aber Innovationsmanager wissen mit dieser Unsicherheit umzugehen – und wie man im Unternehmen trotzdem Ressourcen bekommt, um solche Projekte anzugehen. Aber wie erlernt man die richtigen Fähigkeiten, und wie zukunftsfähig ist die Ausbildung zum Innovationsmanager? „Das Thema ist wichtig, egal in welchem Bereich die Leute später arbeiten“, sagt Strese. Weil digitale Technologien und Künstliche Intelligenz rapide an Relevanz gewinnen, werden Leute gebraucht, die wissen, wie sie aus einer Idee ein Produkt entwickeln. Die Spezialisierung auf Innovationsmanagement, die eng mit Unternehmertum, also „Entrepreneurship“ verknüpft ist, erfolgt meist über den Master. Aber auch im Grundstudium können Studierende entsprechende Kurse belegen. „Im BWL-Bachelor gibt es Studiengänge, die Kurse im Bereich Innovationsmanagement anbieten, während andere eher den Schwerpunkt auf Finance und Accounting legen“, sagt Strese. „Quantenwissenschaften müssen in Praxis übertragen werden“ Auch im Wirtschaftswissenschaftsstudium lassen sich an einigen Unis entsprechende Schwerpunkte setzen. Master im Bereich Innovationsmanagement werden bislang vor allem von Business Schools wie der TUM School of Management Heilbronn oder der Munich Business School angeboten. Strese rechnet aber damit, dass künftig mehr Universitäten entsprechende Master in ihr Programm aufnehmen werden. Wer lieber selbst die Technologien der Zukunft entwickeln möchte, wird früher oder später auf die Quantentechnologie stoßen. Die Wissenschaft ist mehr als 100 Jahre alt, hat aber die Phantasie zuletzt enorm beflügelt. Deshalb liefern sich Spitzenlabore und Firmen wie Google, Microsoft und IBM ein Wettrennen um die Entwicklung von Quantencomputern. Die TU München bietet seit 2020 gemeinsam mit der Ludwig-Maximilians-Universität München den Studiengang „Quantum Science &amp; Technology“ an. „Die Quantenwissenschaften müssen in die Praxis übertragen werden, das ist das Ziel des Studiengangs“, sagt Alexander Holleitner, Beauftragter für den Master-Studiengang und Leiter des Lehrstuhls für Nanotechnologie und Nanomaterialien an der TU München. Derzeit bemühen sich viele Unternehmen, Quantentechnologien aus den wissenschaftlichen Laboren in die Industrie zu überführen. „Ein prominentes Beispiel ist der Quantencomputer, aber dies gilt genauso für Quantensensoren und die Quantenkommunikation“, sagt Holleitner. Quantensensoren können am quantenphysikalischen Limit Magnetfelder messen, erklärt er. Die Quantenkommunikation ist eine abhörsichere Art der Kommunikation auf Basis der Quantenmechanik. KI-Fachleute gesucht „Es geht uns auch darum, deutschen Technologiefirmen, die in der ein oder anderen Abteilung in Quantentechnologien investieren, das notwendige Know-how anzubieten“, so Holleitner. Die Nachfrage ist also vorhanden, und auch das Studienangebot ist verhältnismäßig breit. So bietet die Universität Würzburg einen Bachelor- und einen Master-Studiengang in Quantentechnologie an. An der RWTH Aachen und der Universität Stuttgart gibt es Master-Studiengänge. Eines der wohl größten Trendthemen der vergangenen Jahre ist die Künstliche Intelligenz (KI). Die Technologie hat das Potenzial, Bereiche unseres Lebens zu revolutionieren, von der Gesundheitsbranche über die Art und Weise, wie wir kommunizieren, bis hin zur Produktion. Laut einer Studie der Wirtschaftsprüfer von PwC schätzen 31 Prozent der Unternehmen ihr Wettbewerbsrisiko gegenüber Konkurrenten, die KI einsetzen, als groß ein. Gleichzeitig nutzen erst vier Prozent der hiesigen Unternehmen KI. Das liegt auch daran, dass Nachwuchs mit entsprechendem Wissen fehlt. „Data Science“ lässt sich vielerorts studieren Um genau dieses Wissen zu erlangen, haben Studierende die Möglichkeit, sich auf unterschiedlichen Wegen zu spezialisieren. Wer sich mit Künstlicher Intelligenz beschäftigen will, muss unter anderem mit großen Datenmengen arbeiten. Der Bachelor-Studiengang „Data Science“ wird an diversen Universitäten angeboten, etwa in Stuttgart, Marburg und Göttingen. Studierende lernen die wichtigsten Grundkenntnisse aus Informatik, Statistik und Mathematik. An der Universität Marburg können sie einen Schwerpunkt in Software-Entwicklung, skalierbarem Datenmanagement, maschinellem Lernen, statistischer Analyse sowie angewandter Mathematik wählen. Auch entsprechende Master-Programme unter dem Namen „Data Science“ gibt es an einigen Universitäten. Der Studiengang ist jedoch nicht der einzige Weg, um später mal im Bereich der Künstlichen Intelligenz zu arbeiten. Auch wer sich für ein reguläres Informatik- oder Mathematikstudium entscheidet, kann mit den richtigen Schwerpunkten im KI-Bereich durchstarten. Es führen viele Wege in die Zukunft.","{'@type': 'Organization', 'name': 'F.A.S.'}","['https://media0.faz.net/ppmedia/aktuell/3658643887/1.7394972/default-retina/quantencomputer-von-ibm-in-der.jpg.webp', 'https://media0.faz.net/ppmedia/aktuell/3658643887/1.7394972/format_jsonld_1x1/quantencomputer-von-ibm-in-der.jpg.webp', 'https://media0.faz.net/ppmedia/aktuell/3658643887/1.7394972/format_jsonld_4x3/quantencomputer-von-ibm-in-der.jpg.webp', 'https://media0.faz.net/ppmedia/aktuell/3658643887/1.7394972/format_jsonld_16x9/quantencomputer-von-ibm-in-der.jpg.webp']",False,"{'@type': 'WebPage', '@id': 'https://www.faz.net/aktuell/karriere-hochschule/wie-man-sich-auf-ki-spezialisieren-kann-17388612.html', 'relatedLink': ['https://www.faz.net/aktuell/karriere-hochschule/buero-co/online-stellenangebote-wenn-die-ki-den-neuen-job-findet-17395094.html', 'https://www.faz.net/aktuell/karriere-hochschule/wie-man-sich-auf-das-ki-zeitalter-vorbereiten-kann-17395086.html', 'https://www.faz.net/pro/d-economy/wie-steht-es-um-die-zukunft-der-industrie-4-0-17394627.html', 'https://www.faz.net/aktuell/karriere-hochschule/hoersaal/wie-deutschland-die-lehre-ueber-und-mit-ki-an-unis-foerdern-will-17395099.html', 'https://www.faz.net/aktuell/karriere-hochschule/thema/studenten', 'https://www.faz.net/aktuell/karriere-hochschule/thema/universitaet', 'https://www.faz.net/aktuell/karriere-hochschule/thema/asta', 'https://www.faz.net/aktuell/karriere-hochschule/thema/resilienz', 'https://www.faz.net/aktuell/karriere-hochschule/thema/medizinstudium', 'https://www.faz.net/aktuell/karriere-hochschule/thema/personalabteilung', 'https://www.faz.net/aktuell/karriere-hochschule/thema/rwth-aachen', 'https://www.faz.net/aktuell/karriere-hochschule/thema/gehalt', 'https://www.faz.net/aktuell/karriere-hochschule/thema/universitaet-mannheim', 'https://www.faz.net/aktuell/karriere-hochschule/thema/kuenstler', 'https://www.faz.net/aktuell/karriere-hochschule/thema/ausbildung', 'https://www.faz.net/aktuell/karriere-hochschule/thema/arbeitsrecht', 'https://www.faz.net/aktuell/karriere-hochschule/thema/hasso-plattner-institut', 'https://www.faz.net/aktuell/karriere-hochschule/thema/pflegekraft', 'https://www.faz.net/aktuell/karriere-hochschule/thema/fachkraeftemangel', 'https://www.faz.net/aktuell/karriere-hochschule/thema/universitaet-passau', 'https://www.faz.net/aktuell/karriere-hochschule/thema/ueberstunden', 'https://www.faz.net/aktuell/karriere-hochschule/thema/grundgehalt', 'https://www.faz.net/aktuell/karriere-hochschule/thema/grundschule', 'https://www.faz.net/aktuell/karriere-hochschule/thema/heinrich-heine-universitaet-duesseldorf']}","{'@type': 'Organization', 'name': 'Frankfurter Allgemeine Zeitung', 'url': 'https://www.faz.net/aktuell/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.faz.net/faz_black-360x60.webp'}}",677.0,"[{'@type': 'ListItem', 'position': 1, 'name': 'FAZ.NET', 'item': 'https://www.faz.net/aktuell/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Karriere & HochSchule', 'item': 'https://www.faz.net/aktuell/karriere-hochschule/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Wie man sich auf KI spezialisieren kann', 'item': 'https://www.faz.net/aktuell/karriere-hochschule/wie-man-sich-auf-ki-spezialisieren-kann-17388612.html'}]",3.0,
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvbmV3cy9wcmVzc2VtaXR0ZWlsdW5nL2NhcGdlbWluaS11bmQtZGFzc2F1bHQtc3lzdGVtZXMtdmVydGllZmVuLXBhcnRuZXJzY2hhZnQv0gEA?oc=5,Capgemini und Dassault Systèmes vertiefen ihre Partnerschaft - Capgemini,2021-06-30,Capgemini,https://www.capgemini.com,N/A,N/A,N/A,N/A,N/A,N/A,"
+
+
+
+
+					Seite nicht gefunden				
+
+					Es tut uns leid, diese Seite wurde entfernt oder umbenannt. Bitte folgen Sie einem der unten stehenden Links oder verwenden Sie die Suche.				
+
+
+
+Insights
+Branchen
+Services
+Karriere
+News
+Über Uns
+ 
+
+
+
+
+
+ 
+Suche
+Suche
+
+
+
+
+
+
+Capgemini entdecken
+
+
+
+ 
+
+
+
+Über Uns
+
+Wir sind einer der weltweit führenden Partner für Unternehmen bei der Steuerung und Transformation ihres Geschäfts durch den Einsatz von Technologie.
+
+
+
+
+ 
+
+
+
+Karriere
+
+Werde Teil von Capgemini! Wir bieten dir ein inspirierendes Team, flexible Karrieremöglichkeiten sowie die Freiheit, mit deiner Arbeit für dich und andere Perspektiven zu schaffen.
+
+
+
+
+
+
+
+
+Kontakt
+
+Für alle anderen Anfragen sowie Fragen zu unserem Portfolio, Projektausschreibungen, Kooperationen etc. nutzen Sie bitte dieses Formular und wir werden uns mit Ihnen in Verbindung setzen.
+
+
+
+
+
+",https://schema.org,,,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]"
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvbmV3cy9wcmVzc2VtaXR0ZWlsdW5nL3N0dWRpZS13b3JsZC13ZWFsdGgtcmVwb3J0LTIwMjEv0gEA?oc=5,World Wealth Report 2021 - Capgemini,2021-06-29,Capgemini,https://www.capgemini.com,N/A,N/A,N/A,N/A,N/A,N/A,"
+
+
+
+
+					Seite nicht gefunden				
+
+					Es tut uns leid, diese Seite wurde entfernt oder umbenannt. Bitte folgen Sie einem der unten stehenden Links oder verwenden Sie die Suche.				
+
+
+
+Insights
+Branchen
+Services
+Karriere
+News
+Über Uns
+ 
+
+
+
+
+
+ 
+Suche
+Suche
+
+
+
+
+
+
+Capgemini entdecken
+
+
+
+ 
+
+
+
+Über Uns
+
+Wir sind einer der weltweit führenden Partner für Unternehmen bei der Steuerung und Transformation ihres Geschäfts durch den Einsatz von Technologie.
+
+
+
+
+ 
+
+
+
+Karriere
+
+Werde Teil von Capgemini! Wir bieten dir ein inspirierendes Team, flexible Karrieremöglichkeiten sowie die Freiheit, mit deiner Arbeit für dich und andere Perspektiven zu schaffen.
+
+
+
+
+
+
+
+
+Kontakt
+
+Für alle anderen Anfragen sowie Fragen zu unserem Portfolio, Projektausschreibungen, Kooperationen etc. nutzen Sie bitte dieses Formular und wir werden uns mit Ihnen in Verbindung setzen.
+
+
+
+
+
+",https://schema.org,,,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]"

@@ -1,0 +1,509 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,itemListElement,article:section,article:summary,article text,mainEntityOfPage,headline,datePublished,dateModified,publisher,articleSection,articleBody,author,image,isAccessibleForFree,publicAccess,@graph,url
+https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5qb3VybmFsZHVuZXQuY29tL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUvMTUwNjI5NS1jb21tZW50LWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1wZXV0LWFpZGVyLWEtcHJldmVuaXItbGEtZnJhdWRlLWVuLWVudHJlcHJpc2Uv0gEA?oc=5,Comment l'intelligence artificielle peut aider à prévenir la fraude en entreprise - JDN,2021-10-27,JDN,https://www.journaldunet.com,"La fraude financière représente une menace constante pour les entreprises. Selon l'enquête 2020 de PwC sur la criminalité économique et la fraude, 47 % des entreprises dans le monde ont déjà été victimes de fraude – parmi elles, 13 % ont déclaré avoir subi des pertes de plus de 50 millions de dollars.",N/A,"La fraude financière représente une menace constante pour les entreprises. Selon l'enquête 2020 de PwC sur la criminalité économique et la fraude, 47 % des entreprises dans le monde ont déjà &...","La fraude financière représente une menace constante pour les entreprises. Selon l'enquête 2020 de PwC sur la criminalité économique et la fraude, 47 % des entreprises dans le monde ont déjà été victimes de fraude – parmi elles, 13 % ont déclaré avoir subi des pertes de plus de 50 millions de dollars.",http://schema.org,BreadcrumbList,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.journaldunet.com/', 'url': 'https://www.journaldunet.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.journaldunet.com/intelligence-artificielle/', 'url': 'https://www.journaldunet.com/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",N/A,N/A,"
+
+
+
+                                        Comment l'intelligence artificielle peut aider à prévenir la fraude en entreprise                
+
+
+
+
+
+
+
+
+
+Chronique de Ronan Kerouedan
+Coupa Software
+
+
+
+
+
+                                 
+                                Mis à jour le 27/10/21 15:24
+
+
+
+
+
+
+
+
+Twitter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn 
+
+
+
+Facebook 
+
+
+
+Whatsapp 
+
+
+
+Email
+
+
+
+
+
+
+            La fraude financière représente une menace constante pour les entreprises. Selon l'enquête 2020 de PwC sur la criminalité économique et la fraude, 47 % des entreprises dans le monde ont déjà été victimes de fraude – parmi elles, 13 % ont déclaré avoir subi des pertes de plus de 50 millions de dollars.        
+Bien qu'il existe de nombreux types de fraude, la fraude en entreprise (comme la double facturation, les dépenses frauduleuses ou encore le détournement d'actifs) représente un risque majeur. Selon un rapport de l'Association of Certified Fraud Examiners, le détournement d'actifs - à savoir, la perte ou le vol accidentel ou intentionnel de revenus par des employés - représente 86 % des cas de fraude. Elle est également à l’origine de la perte de 5 % des revenus des entreprises ce qui impacte considérablement leur capacité à se développer et à atteindre leurs objectifs.
+Bien que la fraude en entreprise entraine la perte de millions de dollars de revenus chaque année, les tentatives pour l’éradiquer ont jusqu'à présent échoué. En effet, la détection de la fraude s’avère être un véritable défi, d'autant plus qu'une grande partie de ce travail est encore effectuée manuellement. L’erreur est humaine et il est tout à fait possible qu’une facture ou une note de frais suspecte ne soit pas repérée, surtout lorsqu’il y a des centaines ou des milliers de documents à traiter. L'intelligence artificielle (IA) peut cependant aider les entreprises à mettre un terme à ce fléau. En effet, l’adoption de l'IA permet à l’entreprise d’assainir la situation grâce à un impact substantiel, immédiat et tangible.
+La lutte contre la fraude : un véritable défi
+La détection de la fraude financière est un exercice difficile, coûteux et long. De plus, les techniques traditionnelles de surveillance posent de gros problèmes. La double facturation par exemple, qui se produit lorsque plusieurs factures incluant des éléments légèrement différents (nom du fournisseur, numéros de facture, dates et parfois les montants) sont soumises pour les mêmes biens ou services. Non détectées, des paiements multiples sont alors traités, et des sommes importantes dépensées.
+Rien qu'au sein de la communauté Coupa, nous avons détecté une moyenne de 1,7 million de dollars par an de dépenses liées à des factures dupliquées par client.
+La plupart des technologies utilisées pour détecter les factures en double sont basées sur des règles, ce qui les rend difficiles à maintenir. Elles recherchent des correspondances exactes entre les éléments énumérés ci-dessus. Malheureusement, de nombreux doublons ne sont alors pas détectés, car ces factures peuvent comporter des noms et des informations légèrement différentes. Cela est souvent dû à de multiples erreurs lors du processus de saisie des données de la facture dans le système à partir des images de la facture.
+Certaines de ces solutions technologiques utilisent déjà des systèmes d'IA, mais qui sont souvent très basiques et incapables de traiter le langage naturel nécessaire pour signaler les doublons. Les entreprises qui utilisent une IA non spécialisée pour la détection des fraudes continueront de passer à côté des factures frauduleuses et de perdre de l’argent.
+Les équipes financières ont également du mal à surveiller et à identifier avec précision les dépenses non conformes. Les plus souvent concernées sont les entreprises qui se sont progressivement développées avec des débuts plus modestes, où les processus sont manuels : des feuilles de calcul ou du papier. Néanmoins, à mesure qu'une entreprise se développe, ces processus ne s'adaptent pas forcément et peuvent rapidement devenir chronophages et entrainer des erreurs.
+En outre, les méthodes d'audit existantes obligent généralement les entreprises à contrôler un échantillon aléatoire de données. Cela ne permet pas une visibilité complète de leurs données, car elles n'examinent qu'un petit segment, ce qui signifie qu'elles peuvent passer à côté des erreurs ou des fraudes. De plus, l'audit détecte généralement la fraude après coup, ce qui signifie que les clients doivent consacrer du temps et des efforts pour récupérer les paiements, et cet argent manquant peut avoir un impact sur la trésorerie.
+Le problème des silos
+L'un des résultats directs de l'expansion d'une entreprise et du développement des processus manuels avec lesquels elle a démarré est que des fonctions clés telles que l'approvisionnement, les finances, les comptes fournisseurs et la trésorerie deviennent cloisonnées.
+La fraude d'entreprise prospère dans l'ombre créée par les silos d'une entreprise, car les lacunes entre les systèmes qui ne peuvent pas communiquer entre eux forment des couloirs sombres qui profitent aux criminels.
+Les entreprises doivent décloisonner ces silos pour détecter les fraudes. Comme cela demande beaucoup de ressources, elles adoptent souvent une approche manuelle pour se concentrer sur un seul domaine, comme la gestion des dépenses. En conséquence, elles risquent de passer à côté des fraudes qui se produisent ailleurs, par exemple dans la facturation ou les achats.
+De même, les entreprises peuvent se tourner vers des produits anti-fraude conçus pour un silo spécifique, mais il manquera toujours la vue d'ensemble, sans compter que ces produits sont trop coûteux et pas assez efficaces pour être appliqués à tous les domaines de dépenses.
+La première étape de la lutte contre la fraude doit consister à démanteler les silos et à rassembler toutes les données relatives aux dépenses sur une plateforme unique et unifiée. Cela permet aux systèmes distincts de travailler de manière beaucoup plus intelligente les uns avec les autres, et aux entreprises de mettre de la lumière dans les allées sombres. 
+L'intelligence artificielle entre en action
+Grâce à la disponibilité des données sur une seule plateforme, il est beaucoup plus facile de mettre en œuvre la technologie de l'IA. Celle-ci a la vitesse et la puissance nécessaires pour analyser et auditer automatiquement 100 % des transactions, plutôt qu'un petit échantillon. 
+Par ailleurs, les progrès réalisés en matière de langage naturel et de machine learning permettent d'entraîner l'IA à comprendre la sémantique. Ainsi, au lieu d'identifier les factures en double en recherchant des correspondances d’éléments exactes, l'IA peut rechercher des modèles et des variations pour repérer les doublons. Les humains ne sont tout simplement pas aussi doués que l'IA pour déterminer les schémas, ce qui signifie que la technologie peut mieux identifier la fraude. L'IA peut également repérer les fraudes en temps réel, ce qui permet de prévenir ou d'intercepter les paiements suspects avant qu'ils ne soient effectués.
+Des systèmes de détection des fraudes alimentés par l'IA ont été développés pour repérer et identifier les dépenses suspectes avant que les factures ne soient approuvées.  
+Alors que l'économie se remet encore des difficultés de la pandémie, la prévention de la fraude doit devenir une priorité absolue pour les entreprises qui cherchent à renforcer leur résilience. L'IA a le potentiel d'éliminer presque totalement la fraude dans l’entreprise - pas dans 10 ans, mais dès aujourd’hui. La technologie est efficace et peut détecter une grande majorité des fraudes commerciales presque immédiatement, aidant ainsi les entreprises à économiser de l'argent.
+
+
+",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNhcmRpby1vbmxpbmUuZnIvQWN0dWFsaXRlcy9BLWxhLXVuZS9BSEEtMjAyMC1TQ0FQSVPSAQA?oc=5,SCAPIS : le scanner coronaire et l'intelligence artificielle : des outils pour améliorer la prévention cardiovasculaire - Cardio Online,2021-10-27,Cardio Online,https://www.cardio-online.fr,N/A,N/A,N/A,N/A,,,,N/A,N/A,N/A,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmxlLXBheXMuZnIvc2FpbnQtZXRpZW5uZS00MjAwMC9lY29ub21pZS9zaWxlYW5lLWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWF1LXNlcnZpY2UtZGUtbGEtcm9ib3RpcXVlXzE0MDM2MjM4L9IBAA?oc=5,Siléane : l'intelligence artificielle au service de la robotique - Le Pays Roannais,2021-10-28,Le Pays Roannais,https://www.le-pays.fr, 800 millions d&#39;euros seront investis dès 2022 pour soutenir la production de machines intelligentes et la transformation de sites industriels dans le cadre du plan France 2030. Emmanuel Macron en a fait l&#39;annonce ce 25 octobre en matinée dans les locaux de Siléane&#44; à...,"['Economie', 'BTP - Industrie', 'Innovation']",Siléane : l’intelligence artificielle au service de la robotique,Siléane : l’intelligence artificielle au service de la robotique,https://schema.org,NewsArticle,,Economie,N/A,N/A,"{'@type': 'WebPage', '@id': 'https://www.le-pays.fr/saint-etienne-42000/economie/sileane-lintelligence-artificielle-au-service-de-la-robotique_14036238/'}",Siléane : l’intelligence artificielle au service de la robotique,2021-10-28T03:00:00.000Z,2021-10-28T03:05:00.000Z,"{'@type': 'Organization', 'name': 'Le Pays', 'logo': {'@type': 'ImageObject', 'url': 'https://www.le-pays.fr/static/bloc/ripolinage/logos/logo-PR.svg', 'width': '226', 'height': '26'}}","['Economie', 'BTP - Industrie', 'Innovation']","800 millions d'euros seront investis dès 2022 pour soutenir la production de machines intelligentes et la transformation de sites industriels dans le cadre du plan France 2030. Emmanuel Macron en a fait l'annonce ce 25 octobre en matinée dans les locaux de Siléane, à Saint-Étienne, choisie pour son exemplarité. « On est ici dans une exception française », a dit le Président. 150 robots de précision sortent annuellement des locaux de Siléane : destinés au conditionnement de poches de perfusion, au traitement des déchets nucléaires, au démantèlement des centrales, à l'horlogerie ou au traitement de surface. La PME, qui fêtera ses 20 ans en 2022, emploie 120 salariés, dont 85 à Saint-Étienne, le marché français représentant 70 % de son chiffre d'affaires (14 millions d'euros). Elle compte bénéficier des crédits France 2030 pour booster sa production, l'Hexagone devant rattraper son retard sur l'Allemagne ou l'Asie en matière de robotisation (on estime le parc français constitué de 40.000 robots ; ils sont dix fois plus nombreux outre-Rhin). « On a longtemps pensé que la robotique allait à l'encontre de l'embauche, indique Julien Reynard, directeur technique. Les études prouvent que ce n'est pas le cas. Elle contribue à donner de la valeur ajoutée à l'emploi. » Confrontée, comme beaucoup, à la pénurie de main-d'œuvre (17 postes restent à pourvoir cette année), Siléane a entrepris de former ses collaborateurs en interne. Une « academy » est sur les rails.","{'@type': 'Organization', 'name': 'Le Pays'}","{'@type': 'ImageObject', 'url': 'https://img.lamontagne.fr/o71pw9b0rHgf7OIEnrefQmCfXFW3J1FBkws_52fZxT8/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDUvNzMvNjcvMjAwMDAwNTczNjcyOA.jpg', 'width': '657', 'height': '438'}",True,True,,
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFjdHVpYS5jb20vYWN0dWFsaXRlL3VuaXRlZC1yb2JvdGljcy1lbnZpc2FnZXJhaXQtbGFjaGF0LWRlLXBlcHBlci1kaXZpc2lvbi1mcmFuY2Fpc2UtZGUtc29mdGJhbmsv0gEA?oc=5,"United Robotics envisagerait l'achat de Pepper, division française de Softbank. - Intelligence artificielle - Actu IA",2021-10-27,Intelligence artificielle - Actu IA,https://www.actuia.com,"Selon Reuters, Softbank, après avoir donné un coup d'arrêt à la production des robots Peppers créés en 2014, a engagé des pourparlers avec United Robotics",N/A,"Selon Reuters, Softbank, après avoir donné un coup d'arrêt à la production des robots Peppers créés en 2014, a engagé des pourparlers avec United Robotics","Selon Reuters, Softbank, après avoir donné un coup d'arrêt à la production des robots Peppers créés en 2014, a engagé des pourparlers avec United Robotics",,,,N/A,N/A,"
+
+United Robotics envisagerait l’achat de Pepper, division française de Softbank.
+
+
+Le 27 octobre 2021, par
+Marie-Claude Benoit.
+
+
+
+
+Selon Reuters, Softbank, après avoir donné un coup d’arrêt à la production des robots Peppers créés en 2014, a engagé des pourparlers avec United Robotics pour lui céder sa division de robotique française. Le robot humanoïde Pepper n’a pas connu le succès commercial escompté et Softbank a dû se séparer de la moitié de ses collaborateurs. La transaction reste problématique et pourrait ne pas aboutir.
+Pourtant, le robot humanïde Pepper était l’un des symboles de la French Tech…Imaginé par la société Aldebaran de Bruno Maisonnier, qui est également à l’origine du robot Nao, il est surtout prévu pour l’accueil où assiste les clients, les informe, les oriente via un écran tactile sur son torse. Il a été expérimenté dans de grands magasins comme Darty, Carrefour, dans certaines gares SNCF mais aussi dans des maisons de retraite pour tenir compagnie aux personnes âgées esseulées. Mais il n’a pas répondu aux espoirs de Masayoshi Son, directeur général de Softbank qui a racheté Aldebaran en 2015,
+puisque seulement 27000 robots Peppers auraient été vendus. Pepper exécute des tâches assez sommaires et beaucoup de sociétés se satisfont d’une borne tactile d’accueil.
+Le principal distributeur européen des robots Pepper et Nao est actuellement United Robotics Group épaulé par Hahn Robotics, spécialisé dans la robotique collaborative. Toutefois, la production localisée en Chine a cessé en 2020 et Softbank a confirmé un plan social en fin mai 2021 qui entraîne une réduction d’environ 40% des 330 employés, principalement dans les services vente, qualité et SAV. Le paradoxe est que, suite à la démission d’autres collaborateurs, Softbank a publié des offres d’emploi pour des postes essentiels.
+D’après Reuters, les ingénieurs de Softbank travaillent actuellement sur un projet confidentiel de robot de service (Plato) que les responsables japonais n’ont pas encore commandés et d’autre part, Softbank aurait passé des accords commerciaux avec des entreprises extérieures. Softbank se déclare toujours engagé dans le projet Pepper.
+ 
+
+
+
+
+Recevez gratuitement l'actualité de l'intelligence artificielle
+Suivez la Newsletter de référence sur l'intelligence artificielle (+ de 18 000 membres), quotidienne et 100% gratuite.  
+
+Adresse e-mail 
+
+
+
+Prénom
+
+
+
+Nom
+
+
+
+Organisme/Société
+
+
+Fréquence
+
+ Quotidienne
+
+
+ Hebdomadaire - lundi matin
+
+
+ Hebdomadaire - vendredi après-midi
+
+
+
+
+
+
+Tout comme vous, nous n'apprécions pas le spam. Vos coordonnées ne seront transmises à aucun tiers.Laissez ce champ vide si vous êtes humain :  
+ ",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZ3VzYW5kY28ubmV0LzIwMjEvMTAvMjcvaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1qZXV4LXJlY2hlcmNoZS1hbnRpcXVpdGUv0gEA?oc=5,"L'intelligence artificielle, une opportunité pour les jeux de société - Gus and Co",2021-10-27,Gus and Co,https://gusandco.net,"L'intelligence Artificielle, au service des jeux de société. Une recherche tente de reconstruire les jeux de l'Antiquité.",N/A,"L'intelligence Artificielle, au service des jeux de société. Une recherche tente de reconstruire les jeux de l'Antiquité.",N/A,https://schema.org,,,N/A,N/A,"
+
+ 
+
+Jeux de plateau 
+L’intelligence artificielle, une opportunité pour les jeux de société
+
+27 octobre 2021
+/
+1 Comment 
+
+
+L’intelligence Artificielle, créée par nous, pour nous, et pour les jeux de société.
+
+ 
+Table des matières 
+masquer
+
+
+
+ 
+1
+Jeux de société et IA
+
+ 
+2
+Cette intelligence artificielle ressuscite d’anciens jeux de société et vous permet d’y jouer
+
+ 
+2.1
+J’aime ça :
+
+
+Jeux de société et IA
+
+Rappelez-vous, en août 2019 nous avons publié un article sur un projet de recherche de l’Université de Maastricht aux Pays-Bas. Ce projet avait but de développer des techniques informatiques et une intelligence artificielle pour recréer les règles des jeux de société anciens. 
+Les chercheurs ont mis alors en place un système pour modéliser des jeux anciens, générer des ensembles de règles plausibles et les évaluer. Ils ont baptisé ce système Ludii, de ludus, le jeu (mais pas que). Bref, d’utiliser l’intelligence artificielle pour recomposer, revitaliser les jeux de société de l’Antiquité, pour mieux comprendre leurs règles de jeu.
+Hier, mardi 26 octobre, le célèbre magazine américain WIRED s’est penché sur cette recherche, et ses résultats en 2021, deux ans plus tard. Nous vous proposons ici la traduction de l’article, ça pourrait vous intéresser autant que nous.
+Cette intelligence artificielle ressuscite d’anciens jeux de société et vous permet d’y jouer
+WIRED, Samantha HuiQi Yow, 26.10.21
+En 1901, lors d’un voyage de fouilles en Crète, l’archéologue britannique Arthur Evans a découvert des objets qu’il croyait appartenir à un jeu royal datant de plusieurs millénaires : une planche façonnée à partir d’ivoire, d’or, d’argent et de cristaux de roche, et quatre pièces coniques à proximité, supposées être les jetons. En y jouant, cependant, Evans n’a rien compris, et beaucoup d’autres qui lui ont emboité le pas ont fait pareil. Il n’y avait pas de livre de règles, pas d’indices, et aucune autre copie n’a jamais été trouvée. Les jeux doivent être accompagnés d’un livret de règles. Sans cela, impossible d’y jouer. Enfin, jusqu’à récemment.
+Et c’est ainsi que l’intelligence artificielle entre en scène, avec un groupe de chercheurs de l’Université de Maastricht aux Pays-Bas. Grâce à un algorithme qu’ils ont développé, les doutes ont pu être levés sur le jeu Knossos. Aujourd’hui, non seulement le jeu est complet avec l’ensemble de règles le plus probable déterminé à partir de millions de possibilités, mais il est également jouable en ligne. Et pour la première fois, il en va de même pour des centaines d’autres jeux que l’on pense avoir perdus au cours de l’histoire.
+Les jeux de société remontent à loin. Il y a des siècles, avant les échecs que nous connaissons aujourd’hui, il y avait le Chaturanga en Inde, le Shogi au Japon et le Xiangqi en Chine. Bien avant eux il y avait le Senet, l’un des premiers jeux connus, qui, avec d’autres, étaient joués dans l’Égypte ancienne, et qui a peut-être finalement inspiré le backgammon. « Les jeux sont sociaux », explique Cameron Browne, informaticien à l’université qui a obtenu son doctorat en intelligence artificielle et en conception de jeux. « Même si deux cultures ne parlent pas la même langue, elles peuvent partager un jeu. Cela s’est produit tout au long de l’histoire. Partout où les gens se sont répandus, partout où les soldats étaient stationnés, partout où les marchands faisaient du commerce. Quiconque avait du temps à tuer enseignait souvent à ceux qui l’entouraient les jeux qu’ils connaissaient. »
+
+Qu’elles soient découvertes enfouies dans les décombres, cachées dans des tombes ou inscrites sur des tablettes, les preuves archéologiques laissées derrière révèlent que presque toutes les cultures ont créé et joué à des jeux. Mais comme beaucoup d’éléments excavés, notre connaissance des jeux anciens est fragmentée. Nous connaissons leurs origines, mais le gameplay a longtemps été un mystère, car les règles étaient généralement transmises par le bouche à oreille et non écrites. Le peu que l’on sait est laissé ouvert à l’interprétation moderne.
+Ce sont ces lacunes dans l’histoire du jeu de société qui ont motivé le projet Digital Ludeme de cinq ans, que Browne dirige. « Les jeux sont une excellente ressource culturelle qui a été largement sous-utilisée. Nous ne savons même pas comment autant d’entre eux ont été joués, surtout quand on remonte plus loin dans le temps », explique-t-il. « La question pour moi était donc : pouvons-nous utiliser des techniques d’intelligence artificielle modernes pour mieux comprendre comment ces jeux anciens ont été joués et, avec les informations disponibles, aider à les reconstruire ? »
+Il s’avère que la réponse est un oui retentissant. Cela fait trois ans que Browne et ses collègues se sont mis au travail, et ils ont déjà mis en ligne près d’un millier de jeux de société, couvrant trois périodes et neuf régions. Grâce à eux, les jeux autrefois populaires dans les deuxième et premier millénaires avant JC, comme le 58 trous, sont maintenant disponibles en quelques clics pour n’importe qui sur Internet.
+Il est intéressant de noter que ce processus de reconstruction commence par le contraire. Les jeux sont d’abord décomposés en unités d’information fondamentales appelées ludèmes, qui font référence à des éléments de jeu tels que le nombre de joueurs, le mouvement des pièces ou les critères de victoire. Une fois qu’un jeu est codifié de cette manière, l’équipe remplit ensuite les pages manquantes de son livre de règles à l’aide d’informations historiques pertinentes, comme quand ce jeu ou un autre jeu avec des ludèmes similaires a été joué, et par qui.
+L’énigme n’est cependant que partiellement résolue à ce stade. D’autres chercheurs qui effectuent un travail similaire, à la main, se retrouvent alors généralement dans une impasse. Ce qui semble possible, sur le papier, pourrait ne pas se traduire aussi bien dans la réalité, explique Browne. « Les règles peuvent avoir du sens lorsque vous les lisez, mais vous ne savez pas à quel point elles fonctionnent bien, à moins d’y jouer. Très souvent, dans notre recherche, les règles qui ont du sens donnent des jeux calamiteux. »
+Et ainsi l’intelligence artificielle moderne peut dépasser cette impasse. Chaque hypothèse de l’équipe sur un jeu qu’elle étudie est ensuite alimentée par le logiciel Ludii, où, après des milliers de tests de jeu, sa jouabilité est évaluée en quelques heures seulement. L’algorithme est cependant un « work in progress » constant. Une étape suivante consiste à le peaufiner afin de déterminer également la qualité d’un jeu : si oui ou non une itération serait amusante à jouer, assez intéressante et facile à apprendre. Plusieurs réponses positives signifient qu’il est susceptible de survivre aux assauts du temps, et donc un ensemble de règles pertinent peut être confirmé.
+Mais les ordinateurs peuvent aussi avoir des angles morts. Ils ne mesurent que ce qui est mesurable. C’est là qu’intervient Walter Crist. Crist, l’anthropologue de l’équipe, apporte une touche humaine au projet informatique. Il tient compte des éléments intangibles que l’algorithme ne peut pas calculer, comme l’aspect social des jeux. Bien que les règles puissent être intégrales, elles ne prennent pas en compte tous les scénarios possibles, contrairement au décorum. Un joueur, par exemple, pourrait faire le même mouvement encore et encore et empêcher la fin du jeu. Mais les gens ne le font généralement pas, à cause de la pression sociale et du désir de construire des relations, selon Crist. « Toutes les situations n’ont pas toujours de règle ; parfois, c’est ce qui a fonctionné entre les deux joueurs. »
+
+Mis à part les reconstructions, les chercheurs font également des redécouvertes passionnantes. Peu importe si un artefact ressemble à un jeu, il pourrait être tout sauf ça. Les motifs trouvés sur les surfaces des sites antiques qui semblent faire partie d’un jeu pourraient également être simplement de la décoration. Pour le distinguer, Crist se penche sur le contexte social et spatial. La gravure était-elle située dans un lieu public, loin du mouvement, où les jeux étaient traditionnellement appréciés ? Y avait-il des preuves de socialisation, comme manger et boire, ce que les gens faisaient couramment en faisant la fête ?
+Encore une fois, la technologie est d’une grande aide pour reconstituer le puzzle. Prenez une ancienne planche romaine par exemple. Bien que cela ne ressemble à rien de ce que Browne et son équipe avaient vu auparavant, les scans 3D et la fluorescence des rayons X « ont révélé des rainures cohérentes avec celles fabriquées lorsque des pièces de jeu sont traînées à plusieurs reprises le long d’un plateau de pierre ». Ce n’est toujours pas concluant, mais utiliser le logiciel Ludii pourrait aider, et cela signifierait que le plateau de jeu actuellement exposé au ThermenMuseum aux Pays-Bas pourrait bientôt avoir une version jouable en ligne. C’est un aperçu prometteur de ce qui va arriver dans les deux prochaines années, et au-delà.
+En fin de compte, les chercheurs de Maastricht veulent dresser un tableau plus complet de la façon dont les jeux ont évolué au fil du temps. L’objectif est que tout ce travail aboutisse à un arbre généalogique « remontant aussi loin que l’histoire enregistrée elle-même », en plus d’une carte du monde en pleine croissance. Les jeux de société n’ont pas seulement commencé à un moment donné, mais plutôt dans de nombreux endroits à des moments différents, dit Browne, et les deux projets généalogiques peuvent aider à retracer les voies qu’ils ont parcourues et les façons dont ils se sont développés les uns des autres. En même temps, le projet fait partie d’une mission culturelle plus vaste. Suivre comment ils se sont dispersés à travers l’histoire peut révéler comment les humains et les cultures ont fait de même. Par exemple, voir des jeux similaires joués dans des zones géographiques très différentes pourrait indiquer comment les cultures interagissaient. Comme le dit Crist : « Il faut avoir un mouvement de personnes pour avoir un mouvement de jeux. »
+Pendant ce temps, le projet Digital Ludeme jette les bases de choses plus vastes. D’une part, le logiciel Ludii, gratuit pour tous, a le potentiel d’aider les éditeurs de jeux et les développeurs indépendants à tester et à affiner leurs jeux. Tout aussi important est qu’il est le fer de lance d’un nouveau domaine d’étude: l’archéoludologie numérique.
+« Nous en sommes encore à la phase expérimentale, mais ce projet s’est attaqué à des problèmes qui n’avaient pas encore été résolus ou même abordés auparavant », explique Browne. « Maintenant, nous avons développé les outils, nous avons les preuves, et nous aurons encore plus de résultats dans les années à venir. Cela pourrait faire progresser l’avancée vers une véritable intelligence artificielle. »
+  Votre réaction sur l'article ?   +1   0   +1   0   +1   0   +1   0   +1   0   +1   0        PartagezFacebookMastodonE-mailWhatsAppPocketTwitterJ’aime ça :J’aime chargement…
+
+Articles similaires
+Stratego, nouvelle victime de l’intelligence artificielleDeepNash, une intelligence artificielle a appris à jouer, et à gagner à un autre jeu de société, le Stratego.Cicero 1 – Humains 0. Une IA capable de gagner à DiplomacyMeta, la maison-mère de Facebook, vient de créer Cicero, une intelligence artificielle capable de gagner à... Diplomacy.Les intelligences artificielles s’intéressent aux jeux de société modernes. Le cas avec HanabiOn savait que les IA avaient battu des humains aux échecs, puis au Go, au Poker, et même récemment au jeu vidéo Starcraft Des chercheurs de la prestigieuse université de Cornell aux USA s'intéressent à présent à Hanabi, pour trouver le moyen de programmer une IA capable d'y jouer Hanabi?… 
+
+antiquitéintelligence artificielle
+By Gus
+
+
+
+
+
+
+",,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#article', 'isPartOf': {'@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/'}, 'author': {'name': 'Gus', '@id': 'https://gusandco.net/#/schema/person/6f3df1f7b5819b6eae161d0cde3fad96'}, 'headline': 'L&rsquo;intelligence artificielle, une opportunité pour les jeux de société', 'datePublished': '2021-10-27T08:47:19+00:00', 'dateModified': '2021-10-27T08:47:21+00:00', 'mainEntityOfPage': {'@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/'}, 'wordCount': 1914, 'commentCount': 1, 'publisher': {'@id': 'https://gusandco.net/#organization'}, 'image': {'@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#primaryimage'}, 'thumbnailUrl': 'https://i0.wp.com/gusandco.net/wp-content/uploads/2021/10/intelligence-artificielle.gif?fit=600%2C338&ssl=1', 'keywords': ['antiquité', 'intelligence artificielle'], 'articleSection': ['Jeux de plateau'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#respond']}], 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://gusandco.net/#organization'}}, {'@type': 'WebPage', '@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/', 'url': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/', 'name': ""L'intelligence artificielle, une opportunité pour les jeux de société - Gus &amp; Co"", 'isPartOf': {'@id': 'https://gusandco.net/#website'}, 'primaryImageOfPage': {'@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#primaryimage'}, 'image': {'@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#primaryimage'}, 'thumbnailUrl': 'https://i0.wp.com/gusandco.net/wp-content/uploads/2021/10/intelligence-artificielle.gif?fit=600%2C338&ssl=1', 'datePublished': '2021-10-27T08:47:19+00:00', 'dateModified': '2021-10-27T08:47:21+00:00', 'description': ""L'intelligence Artificielle, au service des jeux de société. Une recherche tente de reconstruire les jeux de l'Antiquité."", 'breadcrumb': {'@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#primaryimage', 'url': 'https://i0.wp.com/gusandco.net/wp-content/uploads/2021/10/intelligence-artificielle.gif?fit=600%2C338&ssl=1', 'contentUrl': 'https://i0.wp.com/gusandco.net/wp-content/uploads/2021/10/intelligence-artificielle.gif?fit=600%2C338&ssl=1', 'width': 600, 'height': 338}, {'@type': 'BreadcrumbList', '@id': 'https://gusandco.net/2021/10/27/intelligence-artificielle-jeux-recherche-antiquite/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://gusandco.net/'}, {'@type': 'ListItem', 'position': 2, 'name': 'L&rsquo;intelligence artificielle, une opportunité pour les jeux de société'}]}, {'@type': 'WebSite', '@id': 'https://gusandco.net/#website', 'url': 'https://gusandco.net/', 'name': 'Gus and Co', 'description': 'Agitateurs d&#039;Imaginaire', 'publisher': {'@id': 'https://gusandco.net/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://gusandco.net/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://gusandco.net/#organization', 'name': 'Gus&Co', 'url': 'https://gusandco.net/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://gusandco.net/#/schema/logo/image/', 'url': 'https://i0.wp.com/gusandco.net/wp-content/uploads/2017/06/logo-gusco.jpg?fit=1110%2C495&ssl=1', 'contentUrl': 'https://i0.wp.com/gusandco.net/wp-content/uploads/2017/06/logo-gusco.jpg?fit=1110%2C495&ssl=1', 'width': '1110', 'height': '495', 'caption': 'Gus&Co'}, 'image': {'@id': 'https://gusandco.net/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/gusandco/', 'https://x.com/devoreur', 'https://www.youtube.com/user/echomag1242']}, {'@type': 'Person', '@id': 'https://gusandco.net/#/schema/person/6f3df1f7b5819b6eae161d0cde3fad96', 'name': 'Gus', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://gusandco.net/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/e854b197640e8ee63374955d3f4aa78d?s=96&d=identicon&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/e854b197640e8ee63374955d3f4aa78d?s=96&d=identicon&r=g', 'caption': 'Gus'}, 'description': 'Article écrit par Gus. Rédacteur-en-chef de Gus&amp;Co. Enseigne à l’École supérieure de bande dessinée et d’illustration, travaille dans le monde du jeu depuis 1989 comme auteur et journaliste.'}]",
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5jbmV0ZnJhbmNlLmZyL25ld3MvY29uZmVyZW5jZS1hZG9iZS1tYXgtZGUtbm91dmVsbGVzLWZvbmN0aW9ubmFsaXRlcy1wb3VyLWZhY2lsaXRlci1sYS12aWUtZGVzLWNyZWF0ZXVycy0zOTkzMTQzMS5odG3SAQA?oc=5,Conférence Adobe Max : de nouvelles fonctionnalités pour faciliter la vie des créateurs - CNET France,2021-10-27,CNET France,https://www.cnetfrance.fr,"Chaque année, Adobe tient sa conférence « MAX ». Dans cette édition 2021, l’entreprise revient sur les nouvelles fonctions apportées à sa suite Adobe Creative Cloud.",N/A,"Chaque année, Adobe tient sa conférence « MAX ». Dans cette édition 2021, l’entreprise revient sur les nouvelles fonctions apportées à sa suite Adobe Creative Cloud.",N/A,https://schema.org,,,N/A,N/A,"
+ Accueil News Conférence Adobe Max : de nouvelles fonctionnalités pour faciliter la vie des créateurs
+Chaque année, Adobe tient sa conférence « MAX ». Dans cette édition 2021, l’entreprise revient sur les nouvelles fonctions apportées à sa suite Adobe Creative Cloud.
+
+
+
+Par Romain Vandevelde 
+Publié le 27/10/2021 à 10:00                    | Mis à jour le 27/10/2021            
+
+
+3 min
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+ 
+
+Pour cette édition 2021, la société annonce de nouvelles fonctionnalités pour ses logiciels Photoshop, Illustrator, Lightroom… Des outils basés sur l’intelligence artificielle, le travail collaboratif, et le confort de l’utilisateur. Voici un résumé des nouveautés annoncées. PhotoshopTout d'abord, et c'est sans doute la nouveauté la plus importante : le célèbre logiciel de retouche photo va être décliné en version web. Vous pourrez bientôt l'utiliser à partir d'un simple navigateur Internet. Il s'agira cependant d'une version allégée, mais pas au point d'un Photoshop Express sur smartphone. La logique de calques sera conservée par exemple. Photoshop ne sera pas le seul logiciel de la suite à s'offrir une version web, mais nous y reviendrons.   Le logiciel reçoit également une amélioration importante sur son outil de sélection d’objet. La fameuse baguette magique reçoit une mise à jour appuyée par une intelligence artificielle plus performante afin de détecter et sélectionner un objet de manière plus simple et plus précise. Cet outil est conçu pour reconnaître la plupart des éléments d’une image et faciliter leur sélection. Il devrait être plus précis, notamment sur les contours et offrira une nouvelle option particulièrement intéressante. En effet, il reçoit une fonctionnalité permettant de créer un masque sur chaque objet présent dans le calque sélectionné. De quoi faciliter le travail de retouche pour le graphiste.
+
+
+
+
+
+Télécharger
+
+
+
+
+
+                    Adobe Photoshop                    
+
+
+Adobe Photoshop est LE logiciel de retouche, de traitement et de dessin assisté par ordinateur le plus connu et le plus convoité, il vous permet de réaliser toutes vos envies et même plus.
+
+Téléchargements : 276382
+Date de sortie : 2024-05-02
+Auteur : Adobe Systems Incorporated
+Licence : Démonstration
+Catégories : 
+Multimédia
+Photo
+
+Système d'exploitation :  
+                    Service en ligne - Windows 7/8/8.1/10/11 - iOS iPad - macOS                    
+
+
+
+Le logiciel dispose également d’un nouveau filtre permettant d’ajuster la palette de couleur afin de créer simplement une variation dans les saisons (ou le moment de la journée). Autre nouveauté notable, la version iPad supporte maintenant l’édition en direct du format RAW, que l’image vienne d’un appareil photo numérique ou d’un iPhone 13, comme si vous étiez sur un ordinateur.LightroomTout comme Photoshop, Lightroom et Lightroom Classic profitent de nouvelles fonctions d’intelligence artificielle. Il sera plus facile pour l’utilisateur de réaliser différents masques et ainsi extraire des zones afin de les traiter séparément : sujet de la photo, arrière-plan, ciel…Une série de préréglages permettra également à l’utilisateur de traiter ses photos d’un seul clic et un outil collaboratif, Community Remix, permettra aux autres utilisateurs de proposer des retouches sur vos photos, afin d'avoir un point de vue différent sur vos réalisations.À lire aussi :  5 logiciels photo pour réussir facilement vos retouches et montages  IllustratorAdobe a ajouté une fonction pour le travail collaboratif à son logiciel, tant pour ordinateur que pour iPad. Cette nouvelle option permet de partager sa création afin de recueillir les commentaires des personnes associées au projet. Les espaces Creative Cloud regroupent tous les travaux au même endroit et Canvas permet, de son côté, une vue globale du projet. De quoi simplifier le travail collaboratif et le rendre plus réactif.
+
+
+
+
+
+Télécharger
+
+
+
+
+
+                    Adobe Creative Cloud                    
+
+
+Creative Cloud rassemble tout ce dont vous avez besoin pour créer votre plus belle œuvre. Une simple adhésion vous permet, à vous et à votre équipe, d'accéder aux toutes dernières versions de toutes les applications professionnelles de création d'Adobe.
+
+Téléchargements : 466
+Date de sortie : 2024-05-22
+Auteur : Adobe
+Licence : Démonstration
+Catégories : 
+Video
+Photo
+
+Système d'exploitation :  
+                    Android - Service en ligne - Windows - iOS iPhone / iPad - macOS                    
+
+
+
+Le panneau 3D a également été remanié et permet d’ajouter de la profondeur au dessin tout en profitant d’un nouveau moteur de traitement pour un rendu en temps réel.Concernant l’iPad, il permet maintenant de convertir une image en graphique vectoriel, pour que l’utilisateur puisse gagner du temps quand il travaille à partir d’un croquis fait à la main. Il sera également possible d’importer directement des fichiers de Photoshop (en .PSD) dans un document Illustrator.Enfin, comme pour Photoshop, Adobe a annoncé une version web du logiciel. Il s'agira également d'une version allégée. D’autres mises à jourAdobe a décidé d’ajouter des informations dans les metadonnées des images générées dans Photoshop afin de simplifier la reconnaissance du travail tant des professionnels que des amateurs. Concernant les autres logiciels, on peut noter la prise en charge du mouvement dans l’application gratuite Fresco qui permet maintenant de créer des petites animations. Premiere Pro reçoit une amélioration du Speech to Text et une nouvelle gestion des couleurs pour les formats H.264 et HEVC. De son côté, After Effects sera jusqu’à 4 fois plus performant sur son rendu Multi-Frame et pourra profiter des périodes creuses de votre système pour préparer une estimation de rendu, permettant un gain de temps notable.Il s’agit ici d’un résumé des principaux changements effectués par Adobe. Pour plus d'informations, rendez-vous sur le site de la marque.Source : macrumors
+
+
+
+À lire également
+
+Client Freebox Pop ? Ce nouveau forfait Free 5G illimité est à vous pour 9,99€
+
+
+
+
+Adobe
+
+
+Intelligence artificielle (IA)
+
+
+Logiciel
+
+
+Photo-vidéo
+
+
+",,,,,,,,,,,,"[{'@type': 'NewsArticle', '@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#article', 'isPartOf': {'@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm'}, 'author': {'name': 'Romain Vandevelde', '@id': 'https://www.cnetfrance.fr/#/schema/person/9c6d1141da06517237ce1caa924c0c9b'}, 'headline': 'Conférence Adobe Max : de nouvelles fonctionnalités pour faciliter la vie des créateurs', 'datePublished': '2021-10-27T10:00:00+00:00', 'dateModified': '2021-10-27T12:05:00+00:00', 'mainEntityOfPage': {'@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm'}, 'wordCount': 779, 'commentCount': 0, 'publisher': {'@id': 'https://www.cnetfrance.fr/#organization'}, 'image': {'@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#primaryimage'}, 'thumbnailUrl': 'https://sf1.cnetfrance.fr/wp-content/uploads/cnet/2023/05/adobecreativecloud-1200.jpg', 'keywords': ['Adobe', 'Intelligence artificielle (IA)', 'Logiciel', 'Photo-vidéo'], 'articleSection': ['Internet', 'News'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm', 'url': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm', 'name': 'Conférence Adobe Max : de nouvelles fonctionnalités pour faciliter la vie des créateurs - CNET France', 'isPartOf': {'@id': 'https://www.cnetfrance.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#primaryimage'}, 'image': {'@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#primaryimage'}, 'thumbnailUrl': 'https://sf1.cnetfrance.fr/wp-content/uploads/cnet/2023/05/adobecreativecloud-1200.jpg', 'datePublished': '2021-10-27T10:00:00+00:00', 'dateModified': '2021-10-27T12:05:00+00:00', 'description': 'Chaque année, Adobe tient sa conférence « MAX ». Dans cette édition 2021, l’entreprise revient sur les nouvelles fonctions apportées à sa suite Adobe Creative Cloud.', 'breadcrumb': {'@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#primaryimage', 'url': 'https://sf1.cnetfrance.fr/wp-content/uploads/cnet/2023/05/adobecreativecloud-1200.jpg', 'contentUrl': 'https://sf1.cnetfrance.fr/wp-content/uploads/cnet/2023/05/adobecreativecloud-1200.jpg', 'width': 1200, 'height': 900}, {'@type': 'BreadcrumbList', '@id': 'https://www.cnetfrance.fr/news/conference-adobe-max-de-nouvelles-fonctionnalites-pour-faciliter-la-vie-des-createurs-39931431.htm#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.cnetfrance.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Conférence Adobe Max : de nouvelles fonctionnalités pour faciliter la vie des créateurs'}]}, {'@type': 'WebSite', '@id': 'https://www.cnetfrance.fr/#website', 'url': 'https://www.cnetfrance.fr/', 'name': 'CNET France', 'description': 'Tests produits, news high tech et logiciels', 'publisher': {'@id': 'https://www.cnetfrance.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.cnetfrance.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.cnetfrance.fr/#organization', 'name': 'CNET France', 'url': 'https://www.cnetfrance.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.cnetfrance.fr/#/schema/logo/image/', 'url': 'https://sf1.cnetfrance.fr/wp-content/uploads/cnet/2023/07/cnet-logo-red.png', 'contentUrl': 'https://sf1.cnetfrance.fr/wp-content/uploads/cnet/2023/07/cnet-logo-red.png', 'width': 300, 'height': 78, 'caption': 'CNET France'}, 'image': {'@id': 'https://www.cnetfrance.fr/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.cnetfrance.fr/#/schema/person/9c6d1141da06517237ce1caa924c0c9b', 'name': 'Romain Vandevelde', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.cnetfrance.fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/acded5fcd42028f86b493622f4d46050?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/acded5fcd42028f86b493622f4d46050?s=96&d=mm&r=g', 'caption': 'Romain Vandevelde'}, 'url': 'https://www.cnetfrance.fr/auteur/romain-vandevelde-39060217'}]",
+https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vaGVsbG9iaXouZnIvMjAyMS8xMC8yOC9jZXR0ZS1pYS1saXQtbGUtbGl2cmUtYS12b3RyZS1wbGFjZS1ldC12b3VzLWxlLXJlc3VtZS_SAQA?oc=5,Cette IA lit le livre à votre place et vous le résume - HelloBiz.fr,2021-10-28,HelloBiz.fr,https://hellobiz.fr,"Si vous manquez de temps pour vous adonner à la lecture, et que vous avez envie de vous faciliter la tâche, nous avons trouvé l'innovation idéale. En effet, c'est une entreprise américaine qui vient de mettre au point une intelligence artificielle capable de résumer un livre. D'après les premiers tests réalisés, le résumé de ces",N/A,"Si vous manquez de temps pour vous adonner à la lecture, et que vous avez envie de vous faciliter la tâche, nous avons trouvé l'innovation idéale. En effet, c'est une entreprise américaine qui vient de mettre au point une intelligence artificielle capable de résumer un livre. D'après les premiers tests réalisés, le résumé de ces","Si vous manquez de temps pour vous adonner à la lecture, et que vous avez envie de vous faciliter la tâche, nous avons trouvé l'innovation idéale. En effet, c'est une entreprise américaine qui vient de mettre au point une intelligence artificielle capable de résumer un livre. D'après les premiers tests réalisés, le résumé de ces",https://schema.org,BreadcrumbList,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://hellobiz.fr/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://hellobiz.fr/idees-business/pratique/', 'name': 'Pratique'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/', 'name': 'Cette IA lit le livre à votre place et vous le résume'}}]",N/A,N/A,"
+
+
+
+
+Voici pourquoi GPT-5 pourrait changer votre perception de l’intelligence artificielle actuelle08/07/2024
+
+","{'@type': 'WebPage', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/'}",Cette IA lit le livre à votre place et vous le résume,2021-10-28T12:33:28+02:00,2021-10-19T09:50:06+02:00,"{'@type': 'Organization', 'name': 'HelloBiz', 'sameAs': 'https://hellobiz.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://hellobiz.fr/wp-content/uploads/2024/04/logo_hellobiz_1.png'}}",,,"{'@type': 'Person', 'name': 'Marc de Zordo', 'url': 'https://hellobiz.fr/author/marc/'}","{'@type': 'ImageObject', 'url': 'https://hellobiz.fr/wp-content/uploads/2021/10/Cette-IA-lit-le-livre-a-votre-place-et-vous-le-resume-1.jpg', 'width': 1920, 'height': 1080}",,,"[{'@type': 'BreadcrumbList', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#breadcrumblist', 'itemListElement': [{'@type': 'ListItem', '@id': 'https://hellobiz.fr/#listItem', 'position': 1, 'name': 'Domicile', 'item': 'https://hellobiz.fr/', 'nextItem': 'https://hellobiz.fr/2021/#listItem'}, {'@type': 'ListItem', '@id': 'https://hellobiz.fr/2021/#listItem', 'position': 2, 'name': '2021', 'item': 'https://hellobiz.fr/2021/', 'nextItem': 'https://hellobiz.fr/2021/10/#listItem', 'previousItem': 'https://hellobiz.fr/#listItem'}, {'@type': 'ListItem', '@id': 'https://hellobiz.fr/2021/10/#listItem', 'position': 3, 'name': 'October', 'item': 'https://hellobiz.fr/2021/10/', 'nextItem': 'https://hellobiz.fr/2021/10/28/#listItem', 'previousItem': 'https://hellobiz.fr/2021/#listItem'}, {'@type': 'ListItem', '@id': 'https://hellobiz.fr/2021/10/28/#listItem', 'position': 4, 'name': '28', 'item': 'https://hellobiz.fr/2021/10/28/', 'nextItem': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#listItem', 'previousItem': 'https://hellobiz.fr/2021/10/#listItem'}, {'@type': 'ListItem', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#listItem', 'position': 5, 'name': 'Cette IA lit le livre à votre place et vous le résume', 'previousItem': 'https://hellobiz.fr/2021/10/28/#listItem'}]}, {'@type': 'NewsArticle', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#newsarticle', 'name': 'Cette IA lit le livre à votre place et vous le résume - HelloBiz', 'headline': 'Cette IA lit le livre à votre place et vous le résume', 'author': {'@id': 'https://hellobiz.fr/author/marc/#author'}, 'publisher': {'@id': 'https://hellobiz.fr/#organization'}, 'image': {'@type': 'ImageObject', 'url': 'https://hellobiz.fr/wp-content/uploads/2021/10/Cette-IA-lit-le-livre-a-votre-place-et-vous-le-resume-1.jpg', 'width': 1920, 'height': 1080, 'caption': 'Canva'}, 'datePublished': '2021-10-28T12:33:28+02:00', 'dateModified': '2021-10-19T09:50:06+02:00', 'inLanguage': 'fr-FR', 'mainEntityOfPage': {'@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#webpage'}, 'isPartOf': {'@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#webpage'}, 'articleSection': 'Pratique', 'dateline': 'Publié le octobre 28, 2021.'}, {'@type': 'Organization', '@id': 'https://hellobiz.fr/#organization', 'name': 'DIGINOV', 'description': 'Idées de business, tendances et innovations', 'url': 'https://hellobiz.fr/', 'logo': {'@type': 'ImageObject', 'url': 'https://hellobiz.fr/wp-content/uploads/2024/04/hellobiz@2.png', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#organizationLogo', 'width': 400, 'height': 114, 'caption': 'HelloBiz.fr'}, 'image': {'@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#organizationLogo'}, 'sameAs': ['https://facebook.com/hellobizfrance']}, {'@type': 'Person', '@id': 'https://hellobiz.fr/author/marc/#author', 'url': 'https://hellobiz.fr/author/marc/', 'name': 'Marc de Zordo', 'image': {'@type': 'ImageObject', 'url': 'https://hellobiz.fr/wp-content/uploads/2024/04/1666252800770-96x96.jpeg'}}, {'@type': 'WebPage', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#webpage', 'url': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/', 'name': 'Cette IA lit le livre à votre place et vous le résume - HelloBiz', 'description': ""Si vous manquez de temps pour vous adonner à la lecture, et que vous avez envie de vous faciliter la tâche, nous avons trouvé l'innovation idéale. En effet, c'est une entreprise américaine qui vient de mettre au point une intelligence artificielle capable de résumer un livre. D'après les premiers tests réalisés, le résumé de ces"", 'inLanguage': 'fr-FR', 'isPartOf': {'@id': 'https://hellobiz.fr/#website'}, 'breadcrumb': {'@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#breadcrumblist'}, 'author': {'@id': 'https://hellobiz.fr/author/marc/#author'}, 'creator': {'@id': 'https://hellobiz.fr/author/marc/#author'}, 'image': {'@type': 'ImageObject', 'url': 'https://hellobiz.fr/wp-content/uploads/2021/10/Cette-IA-lit-le-livre-a-votre-place-et-vous-le-resume-1.jpg', '@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#mainImage', 'width': 1920, 'height': 1080, 'caption': 'Canva'}, 'primaryImageOfPage': {'@id': 'https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/#mainImage'}, 'datePublished': '2021-10-28T12:33:28+02:00', 'dateModified': '2021-10-19T09:50:06+02:00'}, {'@type': 'WebSite', '@id': 'https://hellobiz.fr/#website', 'url': 'https://hellobiz.fr/', 'name': 'HelloBiz', 'description': 'Idées de business, tendances et innovations', 'inLanguage': 'fr-FR', 'publisher': {'@id': 'https://hellobiz.fr/#organization'}}]",https://hellobiz.fr/2021/10/28/cette-ia-lit-le-livre-a-votre-place-et-vous-le-resume/
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXVqb3VyZGh1aS5tYS9lY29ub21pZS9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWxlLWdyYW5kLWRlZmktZGVzLWVudHJlcHJpc2VzLW1hcm9jYWluZXPSAQA?oc=5,Intelligence artificielle : Le grand défi des entreprises marocaines - Aujourd'hui Le Maroc,2021-10-30,Aujourd'hui Le Maroc,https://aujourdhui.ma,Les articles du journal et toute l'actualité en continu,N/A,Les articles du journal et toute l'actualité en continu,N/A,,,,N/A,N/A,N/A,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vaXNhcnRhLmNvbS9pbmZvcy9sYS1wYW5kZW1pZS1hLWJvdWxldmVyc2UtbGUtcmVjcnV0ZW1lbnQv0gEA?oc=5,La pandémie a bouleversé le recrutement et les attentes des candidats - Isarta,2021-10-27,Isarta,https://isarta.com,La pénurie de main-d'œuvre affecte particulièrement les employeurs. Mais la pandémie a amené son nouveau lot d'habitudes en terme de recrutement et de recherche d’emploi. Compte-rendu d'un sondage.,"isarta,marque employeur,Pénurie de talents,recrutement,",,N/A,http://schema.org,NewsArticle,,N/A,N/A,"
+La pandémie a bouleversé le recrutement et les attentes des candidats
+Par La Rédaction
+
+
+
+27 octobre 2021 
+Après la pandémie liée au virus, place à la pandémie liée aux pénuries ! Celle qui touche plus précisément les employeurs – la pénurie de main-d’œuvre – affecte particulièrement et soudainement le Québec, et plus globalement, une majorité de pays occidentaux à travers la planète.
+Avec le vieillissement de la population et les départs à la retraite de la génération des baby-boomers, la pénurie de main-d’oeuvre sera encore dans le viseur des recruteurs pour un moment, mais son ampleur est d’autant plus exacerbée par les effets secondaires de la pandémie virale qui a soudainement fait changer les priorités des candidats.
+C’est notamment ce que révèle et confirme les résultats d’un sondage(1) mené auprès d’employeurs et de candidats à propos des nouvelles habitudes de recrutement et de recherche d’emploi après la pandémie. Et le moins que l’on puisse dire, c’est qu’il y a très clairement eu un avant et un après COVID-19 !
+Des employeurs en difficulté pour trouver des candidats
+Les employeurs interrogés sont une écrasante majorité (95 %) à constater que le recrutement en général est plus difficile aujourd’hui via l’ensemble des plateformes qu’ils utilisent qu’il ne l’était avant la pandémie.
+
+Parmi les raisons évoquées : les plus grandes exigences des candidats désormais. Près de 8 employeurs sur 10 (87,5 %) font en effet cette observation.
+
+En corollaire, il semble y avoir un désintérêt de plus en plus marqué des candidats pour les offres d’emplois proposées. 82 % des employeurs estiment ainsi recevoir moins de candidatures quand ils ont un poste à combler, comparativement à avant la pandémie. Seulement 7,7% en reçoivent plus.
+
+La pandémie : un électrochoc pour les candidats
+Pour vérifier et affiner ces données, le sondage s’est aussi intéressé au point de vue des candidats. Et le constat semble se confirmer : la pandémie a ouvert les yeux de certains d’entre eux, qui ne souhaitent plus repartir sur les mêmes conditions de travail qu’auparavant. 
+Deux tiers des répondants indiquent ainsi être plus difficiles dans leurs choix quand vient le temps de postuler, dont plus d’un tiers du fait de la pandémie qui a changé leurs exigences.
+
+Parmi les informations les plus importantes à leurs yeux lorsqu’ils postulent à une offre d’emploi désormais, la description de poste reste bien entendu au sommet des priorités. Très loin devant le salaire ou le lieu de travail.
+Les employeurs savent à quoi s’en tenir : mieux qu’une table de ping pong, il faut des missions qui ont du sens et qui motivent pour attirer des candidats !
+
+Et pour donner quelques pistes de solutions supplémentaires pour les employeurs, notons les avantages sociaux privilégiés des candidats :
+
+La possibilité du télétravail
+La conciliation travail et vie personnelle
+Les horaires flexibles
+La rémunération compétitive
+
+Les employeurs doivent indéniablement mettre ces éléments en avant s’ils veulent attirer les regards des candidats.
+Les autres considérations comme les activités sociales organisées par l’entreprise, les congés ou les assurances santé semblent reléguées au second plan. 
+
+
+
+
+
+Ce sondage permet de prendre conscience de toute l’ampleur qu’a eu la pandémie notamment dans l’esprit et le comportement des candidats. Les employeurs n’ont plus le choix : pour attirer des talents, ils doivent s’adapter et proposer des conditions de travail en adéquation avec les attentes du moment”, déclare Martin Shamlou, directeur du marketing chez Isarta.
+
+Méthodologie :
+(1) Sondage mené par Isarta auprès de 450 candidats et employeurs au Québec du 4 au 30 août 2021. La marge d’erreur est de 5%, avec un niveau de confiance de 95%. 
+A propos :
+Créé en 2003, Isarta est la référence dans le secteur de l’emploi dans les domaines de la communication, du marketing, du numérique et de la vente. 
+Plus d’informations sur isarta.com
+J'aime çaJe n'aime plus Aimer / Partager100%
+
+
+ 
+
+Sur le même thème
+isarta • marque employeur • Pénurie de talents • recrutement
+
+
+
+
+
+
+
+ 
+Recrutement : peut-on donner une chance à la « contre-offre »?
+
+
+
+
+
+
+
+ 
+Le difficile équilibre entre les besoins d’une équipe… et ceux d’un individu!
+
+
+
+
+
+
+
+ 
+Isarta lance ses nouvelles formations du printemps
+
+
+
+
+
+
+
+ 
+Ralentissement économique : quel impact pour le recrutement?
+
+
+
+ 
+
+
+
+
+","{'@type': 'WebPage', '@id': 'https://isarta.com/infos/la-pandemie-a-bouleverse-le-recrutement/'}",La pandémie a bouleversé le recrutement et les attentes des candidats,2021-11-04T16:55:00-0400,2021-11-08T14:35:37-0500,"{'@type': 'Organization', 'name': 'Isarta Infos'}",,,"{'@type': 'Person', 'name': 'La Rédaction'}","{'@type': 'ImageObject', 'url': 'https://isarta.com/infos/wp-content/uploads/2021/10/evangeline-shaw-VLkoOabAxqw-unsplash-scaled.jpg', 'width': 2560, 'height': 1707}",,,,
+https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFjdHVpYS5jb20vYWN0dWFsaXRlL2ZvY3VzLXN1ci1sZS1yb2JvdC1zYW1pLTQtMC1jb21tZS1zb2x1dGlvbi1hLWxhLXBlbnVyaWUtZGUtbWFpbi1kb2V1dnJlLWFncmljb2xlLWF1LXF1ZWJlYy_SAQA?oc=5,Focus sur le robot SAMI 4.0 comme solution à la pénurie de main-d'œuvre agricole au Québec - Intelligence artificielle - Actu IA,2021-10-30,Intelligence artificielle - Actu IA,https://www.actuia.com,"Il y a une dizaine de jours, M. Pierre Fitzibbon, ministre de l’Économie et de l'Innovation, accompagné de Mme Danielle McCann, ministre de l'Enseignement",N/A,"Il y a une dizaine de jours, M. Pierre Fitzibbon, ministre de l’Économie et de l'Innovation, accompagné de Mme Danielle McCann, ministre de l'Enseignement","Il y a une dizaine de jours, M. Pierre Fitzibbon, ministre de l’Économie et de l'Innovation, accompagné de Mme Danielle McCann, ministre de l'Enseignement",,,,N/A,N/A,"
+
+Focus sur le robot SAMI 4.0 comme solution à la pénurie de main-d’œuvre  agricole au Québec
+
+
+Le 30 octobre 2021, par
+Aurélie Lorot.
+
+
+
+
+Il y a une dizaine de jours, M. Pierre Fitzibbon, ministre de l’Économie et de l’Innovation, accompagné de Mme Danielle McCann, ministre de l’Enseignement Supérieur et de M. André Lamontagne, est venu voir à l’œuvre un prototype de SAMI 4.0 conçu pour la récolte de brocolis, dans un champ des Jardins Coustineau, à Saint-Constant, au Québec. M. Fitzibbon a souligné le caractère innovant et pionnier de SAMI (Système agricole multifonctionnel intelligent) et annoncé que le gouvernement québécois soutiendrait ce projet qui, en robotisant la cueillette des fruits et des légumes, va pallier la pénurie de main-d’œuvre dans le secteur.
+Le robot SAMI 4.0 est conçu pour automatiser la récolte des fruits et légumes. Grâce à l’intelligence artificielle, la robotique et son système de vision avancé, il repère, identifie les fruits et légumes à maturité et ne cueillent que ceux-ci, sur une largeur de quarante rangées. Avec lui, le manque de main-d’œuvre n’est plus un problème et mieux encore, il augmente les performances, la productivité et la gestion des récoltes. Il serait rentabilisé au bout de deux ans seulement.
+Conçu par l’entreprise Lapalme Conception mécanique, située à Varennes, en Montérégie, il a bénéficié d’une application adaptée au milieu agricole à la suite d’une collaboration avec Centris Technologies, l’Institut national d’optique (INO) et le Centre de robotique et de vision industrielles (CRVI), laquelle a mené à un projet d’automatisation d’un procédé manuel capable de répondre à des besoins précis.
+Au Québec, l’intelligence artificielle a permis des gains de productivité, d’innovation et d’efficacité grâce aux machines intelligentes, comme celle conçue par Lapalme Conception mécanique.
+Le gouvernement du Québec va donc aider à la réalisation de ce projet de plus de 2 660 000 $ (1 856 000 euros) à hauteur de 1 375 700 $ soit environ 960 000 euros. Le Programme Innovation accorde 1 275 700 $ (890 000 euros) dans le cadre d’un AAP alors que les 100 000 $ restants proviennent des fonds propres d’Investissement Québec.
+Le programme Innovation a été créé pour appuyer les entreprises, en particulier les PME, dans la réalisation de leurs projets d’innovation et de commercialisation de ces innovations, que les projets soient réalisés au Québec ou avec des partenaires situés à l’étranger.
+Les objectifs de l’appel à projets sont les suivants :
+
+Assurer le développement et la consolidation d’efforts d’innovation dans le domaine de l’IA.
+Encourager les collaborations entre les entreprises (de toute taille, y compris les startups) ainsi qu’avec les milieux de la recherche et l’innovation pour accélérer l’intégration de technologies d’intelligence artificielle dans les milieux d’affaires et dans la société.
+Appuyer les projets structurants visant l’adoption massive de l’IA dans un ou des secteurs de l’économie.
+Supporter la réalisation de projets débouchant sur des retombées économiques importantes et immédiates.
+Contribuer au positionnement du Québec comme chef de file en matière de développement de l’IA.
+
+M. Fitzibon a déclaré :
+« Voilà une démonstration concrète d’un projet où l’on applique l’intelligence artificielle à une technologie d’avenir qui pourra être déployée à grande échelle. C’est le genre d’initiative que nous devons prioriser afin d’optimiser la productivité des entreprises québécoises. On doit combiner notre savoir en intelligence artificielle et notre talent en innovation pour transformer la recherche en des applications en entreprise. »
+André Lamontagne a expliqué quant à lui que :
+« Avec des recettes monétaires qui dépassent le demi-milliard de dollar et une croissance soutenue, le secteur maraîcher contribue à la saine alimentation de la population québécoise et à la vitalité des régions. La rareté de la main-d’œuvre représente cependant un enjeu de taille pour l’ensemble de la filière bioalimentaire. Afin d’atteindre l’objectif gouvernemental d’accroître l’autonomie alimentaire du Québec, il s’avère essentiel de relever ce défi majeur. À cet égard, SAMI recèle un fort potentiel pour améliorer la productivité et la compétitivité des entreprises maraîchères et fruitières. »
+Guy LeBlanc, PDG d’Investissement Québec a conclu ainsi :
+« Investissement Québec est heureux de soutenir des entrepreneurs et des dirigeants d’entreprise qui font preuve d’innovation pour assurer leur croissance et leur pérennité. Le concept développé par Lapalme Conception mécanique est unique : il n’existe aucun produit comparable sur le marché. De plus, il allie gain de productivité et potentiel de commercialisation à l’international. Voilà deux éléments phares du mandat confié à Investissement Québec pour contribuer à l’essor économique durable du Québec. »
+
+
+
+
+Recevez gratuitement l'actualité de l'intelligence artificielle
+Suivez la Newsletter de référence sur l'intelligence artificielle (+ de 18 000 membres), quotidienne et 100% gratuite.  
+
+Adresse e-mail 
+
+
+
+Prénom
+
+
+
+Nom
+
+
+
+Organisme/Société
+
+
+Fréquence
+
+ Quotidienne
+
+
+ Hebdomadaire - lundi matin
+
+
+ Hebdomadaire - vendredi après-midi
+
+
+
+
+
+
+Tout comme vous, nous n'apprécions pas le spam. Vos coordonnées ne seront transmises à aucun tiers.Laissez ce champ vide si vous êtes humain :  
+ ",,,,,,,,,,,,,

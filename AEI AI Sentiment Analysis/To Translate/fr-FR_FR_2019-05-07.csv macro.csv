@@ -1,0 +1,909 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,mainEntityOfPage,headline,dateCreated,datePublished,dateModified,publisher,articleSection,author,image,itemListElement,article:section,article:summary,article text,@graph,alternativeHeadline,name,speakable,isAccessibleForFree,url,potentialAction,logo,sameAs,countryOfOrigin,inLanguage,isFamilyFriendly,articleBody,aggregateRating
+https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5sZW1vbmRlLmZyL3NjaWVuY2VzL2FydGljbGUvMjAxOS8wNS8wNy9jb21tZW50LWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS12YS1ib3VsZXZlcnNlci1sZXMtcHJvZmVzc2lvbnMtZGUtc2FudGVfNTQ1OTM4N18xNjUwNjg0Lmh0bWzSAQA?oc=5,Comment l'intelligence artificielle va bouleverser les professions de santé - Le Monde,2019-05-07,Le Monde,https://www.lemonde.fr,"Ces nouveaux outils peuvent s’avérer d’une aide considérable pour le diagnostic ou l’orientation thérapeutique, sans pour autant remplacer le médecin. A Montpellier, le mardi 14 mai 2019, les Rencontres économiques et sociétales d’Occitanie (RESO) exploreront le futur de l’emploi à l’heure de la transformation numérique.","['O21', 'Intelligence artificielle', 'Médecine', 'Sciences']","Ces nouveaux outils peuvent s’avérer d’une aide considérable pour le diagnostic ou l’orientation thérapeutique, sans pour autant remplacer le médecin. A Montpellier, le mardi 14 mai 2019, les Rencontres économiques et sociétales d’Occitanie (RESO) exploreront le futur de l’emploi à l’heure de la transformation numérique.","Ces nouveaux outils peuvent s’avérer d’une aide considérable pour le diagnostic ou l’orientation thérapeutique, sans pour autant remplacer le médecin. A Montpellier, le mardi 14 mai 2019, les Rencontres économiques et sociétales d’Occitanie (RESO) exploreront le futur de l’emploi à l’heure de la transformation numérique.",https://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lemonde.fr/sciences/article/2019/05/07/comment-l-intelligence-artificielle-va-bouleverser-les-professions-de-sante_5459387_1650684.html'}",Comment l’intelligence artificielle va bouleverser les professions de santé,2019-05-07T16:01:31+02:00,2019-05-07T16:01:31+02:00,2023-02-24T12:46:54+01:00,"{'@type': 'Organization', 'name': 'Le Monde', 'logo': {'@type': 'ImageObject', 'url': 'https://asset.lemde.fr/medias/img/logos/lemonde.png', 'width': '240', 'height': '55'}}","['Sciences', 'O21']","[{'@type': 'Person', 'name': 'Florence Rosier'}]","{'@type': 'ImageObject', 'url': 'https://img.lemde.fr/2019/05/03/248/0/5120/2560/1342/671/60/0/4a98352_QLGitkTXEZkNfN12r9x6Uay6.jpg', 'width': '1342', 'height': '696'}","[{'@type': 'ListItem', 'position': 1, 'name': 'A la une', 'item': {'@id': 'https://www.lemonde.fr'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Sciences', 'item': {'@id': 'https://www.lemonde.fr/sciences/'}}, {'@type': 'ListItem', 'position': 3, 'name': 'O21', 'item': {'@id': 'https://www.lemonde.fr/o21/'}}]",N/A,N/A,"         L’intelligence artificielle (IA), domaine de recherche en plein essor, est au cœur de la médecine du futur. Ses applications concerneront d’abord le traitement des données de l’imagerie médicale, mais aussi les opérations assistées, les prothèses intelligentes... A terme, elle ouvre l’espoir d’une médecine prédictive, préventive et personnalisée, grâce à l’analyse et au recoupement d’un très grand nombre de données de santé (big data).  JAVIER LARREA / GETTY IMAGES/AGE FOTOSTOCK RM   « D’ici à cinq ans, le deep learning (“apprentissage profond”) fera mieux qu’un radiologue », affirmait Geoffrey Hinton, un des pionniers du secteur, lors d’une conférence à Toronto en 2016. Vision prémonitoire ou pur effet d’annonce ? « Dans les vingt prochaines années, l’IA va changer la médecine, c’est une certitude. Mais les outils d’IA ne remplaceront jamais la décision du médecin », rétorque aujourd’hui Alain Livartowski, oncologue et directeur des data de l’Institut Curie (Paris). L’exemple de la radiologie ne doit rien au hasard. C’est en effet dans le domaine de la reconnaissance d’images que les promesses de l’intelligence artificielle (IA) se concrétiseront en premier, « pour analyser des images de radiologie ou d’anatomopathologie [sur des coupes de tissus], précise Alain Livartowski. Cela permettra des économies de coûts, un gain de temps et peut-être de précision ». L’Organisation mondiale de la santé, par ailleurs, recense pas moins de 55 000 types de maladies, syndromes et lésions uniques. Une vertigineuse complexité, qui surpasse de loin les capacités de lecture humaines. « Pour la radiologie, l’IA est la solution », juge Francis Besse, radiologue au Centre cardiologique du Nord à Saint-Denis.   Lire aussi  Article réservé à nos abonnés L’intelligence artificielle, as du diagnostic médical      Ajouter à vos sélections    Révolution radiologique « L’interprétation des images reste un goulot d’étranglement dans la chaîne des soins, renchérit Anne-Laure Rousseau, médecin vasculaire spécialisée en échographie à l’hôpital Georges-Pompidou et à l’hôpital Robert-Debré (APHP), à Paris, et présidente de Nhance, une ONG consacrée à l’IA dans la santé. Prenons l’échographie : les sondes, aujourd’hui miniaturisées, sont peu coûteuses et transportables jusqu’au lit des patients. Si un algorithme pouvait aider des médecins non radiologues à interpréter les images obtenues, cette technique pourrait être accessible à 5 milliards de personnes dans le monde, qui aujourd’hui ne bénéficient d’aucune technique d’imagerie. » Une révolution : « Chacun de nous subira une erreur de diagnostic dans sa vie », estime l’Académie américaine des sciences. Et le taux d’erreurs, pour l’ensemble des techniques d’imagerie médicale, serait actuellement de 30 %, selon un bilan des analyses rétrospectives de ces examens (Bruno et al., « Understanding and Confronting Our Mistakes », RadioGraphics, 14 octobre 2015).  « Le métier va changer mais ne disparaîtra pas. Plus l’imagerie médicale sera performante, plus on aura besoin de radiologues compétents. »  Cela mettra-t-il pour autant les radiologues – et les anatomopathologistes – au chômage ? Francis Besse n’en croit rien. « Le métier va changer mais ne disparaîtra pas. Plus l’imagerie médicale sera performante, plus on aura besoin de radiologues compétents. » Les radiologues, explique-t-il, passent énormément de temps à des tâches ingrates, répétitives et chronophages. « Sur 400 coupes, seules 10 présentent des images suspectes. L’opérateur passe un temps fou à faire le tri. Si un outil d’IA parvenait à distinguer ces 10 images, cela libérerait le radiologue d’un temps considérable. » Dès lors, le radiologue pourrait se consacrer à deux missions essentielles : dialoguer avec le patient, et mieux guider les thérapeutes – par exemple, l’IA pourrait affiner la délimitation des bords d’une tumeur, ce qui permettrait de mieux cibler les traitements (chirurgie, radiothérapie).   Lire aussi  Intelligence artificielle et médecine : des promesses et beaucoup de questions      Ajouter à vos sélections    Les promesses de la « 4P » Les promesses de l’IA en santé ne se limitent pas à l’imagerie médicale. Ce qui se profile, c’est l’espoir d’une médecine dite « 4P » – prédictive, préventive, personnalisée et participative. « L’IA peut “mouliner” des données de nature très différente : des données de génomique, des marqueurs sanguins, des signaux physiologiques, des données d’imagerie, des données sur l’histoire médicale du patient et ses modes de vie, parfois enregistrés à l’aide d’objets connectés… Sans compter la masse colossale des données épidémiologiques », explique le professeur Nicholas Ayache, spécialiste des images médicales numériques à l’Institut national de recherche en informatique et automatique (Inria).  « D’ici quinze à vingt ans, chaque patient aura son propre traitement » Nikos Paragios, PDG de la société TheraPanacea et professeur de mathématiques à CentraleSupélec  « Sans aucune hypothèse biologique de départ, l’IA change de paradigme. Elle découvrira des associations particulières. Quand, chez un patient donné, certaines variables seront réunies, elle pourra prédire que tel traitement sera le plus bénéfique. D’ici quinze à vingt ans, chaque patient aura son propre traitement », anticipe Nikos Paragios, fondateur, PDG de la société TheraPanacea et professeur de mathématiques à CentraleSupélec – université de Paris –Saclay. « Je me suis récemment retrouvé face à un patient atteint d’une maladie dégénérative. J’avais sur mon bureau les données cliniques, les imageries biologiques, le profil génétique. Mon cerveau a dû brasser ces multiples informations afin de définir la pathologie et son traitement. Demain, ça sera fini. Un algorithme m’apportera une aide à la décision », témoignait pour sa part Olivier Véran, neurologue, député (LREM) de l’Isère, lors du Forum Data & Santé le 26 mars. Irremplaçable intelligence naturelle La machine dépossédera-t-elle le médecin d’un certain pouvoir ? Il faut relativiser. Car d’ores et déjà, dans bien des spécialités, le médecin ne décide pas seul des traitements. En cancérologie, par exemple, « la décision thérapeutique relève d’un arbre décisionnel rigide, établi à la suite de nombreuses études, selon les critères d’une “médecine fondée sur les preuves”. Dans ces protocoles très standardisés, le niveau d’initiative du médecin reste très limité », explique Francis Besse. L’IA devrait aussi aider le médecin à mieux cibler ses conseils d’hygiène de vie, ses messages de prévention. Et « grâce à un recueil pertinent de données, notamment par des objets connectés, l’IA pourrait aussi prédire la survenue d’accidents aigus (infarctus, AVC, etc.) », espère Francis Besse.  « L’IA ne remplace pas aujourd’hui la connaissance globale que peut avoir le médecin de son patient » Nicholas Ayache, spécialiste des images médicales numériques à l’Inria  L’IA, remède à tout ? Pas encore. « Plus de 3 000 études ont été publiées en 2017. Mais aujourd’hui, personne ou presque n’a l’expérience de l’utilisation de l’IA en médecine », affirme Alain Livartowski. En outre, toute une dimension humaine essentielle lui échappe : le vécu, l’environnement, l’état psychique des personnes… « L’IA ne remplace pas aujourd’hui la connaissance globale que peut avoir le médecin de son patient, certifie Nicholas Ayache. L’intelligence naturelle a encore toute sa place dans l’exercice de la médecine. »  Dossier réalisé en partenariat avec la Région Occitanie.     Florence Rosier      L’espace des contributions est réservé aux abonnés. Abonnez-vous pour accéder à cet espace d’échange et contribuer à la discussion.    S’abonner     Voir les contributions Réutiliser ce contenu  ",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmFjdHVpYS5jb20vYWN0ZXVyL2RhbmllbC1kaW5lcy_SAQA?oc=5,Daniel Dines - Intelligence artificielle - Intelligence artificielle - Actu IA,2019-05-10,Intelligence artificielle - Actu IA,https://www.actuia.com,"Daniel Dines est le fondateur et le PDG d’UiPath, le fournisseur de logiciels d’automatisation de processus (RPA) et de logiciels d’intelligence artificielle qui connaît la croissance la plus rapide et la plus rapide au monde. Dines a lancé UiPath en 2005 dans le but de mettre au point une solution pouvant aider les humains à réduire le temps et le stress liés aux tâches administratives banales. Aujourd’hui, la vision de Dines est de rendre les robots logiciels, basés sur la vision par ordinateur et l’IA, aussi communs que les ordinateurs personnels sur le lieu de travail – une vision baptisée Un robot pour chaque personne.",N/A,"Daniel Dines est le fondateur et le PDG d’UiPath, le fournisseur de logiciels d’automatisation de processus (RPA) et de logiciels d’intelligence artificielle qui connaît la croissance la plus rapide et la plus rapide au monde. Dines a lancé UiPath en 2005 dans le but de mettre au point une solution pouvant aider les humains à réduire le temps et le stress liés aux tâches administratives banales. Aujourd’hui, la vision de Dines est de rendre les robots logiciels, basés sur la vision par ordinateur et l’IA, aussi communs que les ordinateurs personnels sur le lieu de travail – une vision baptisée Un robot pour chaque personne.",N/A,http://schema.org,BreadcrumbList,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://www.actuia.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.actuia.com/acteur/daniel-dines/', 'name': 'Daniel Dines'}}]",N/A,N/A,N/A,"[{'@type': 'Organization', '@id': 'https://www.actuia.com/#organization', 'name': 'ActuIA', 'url': 'https://www.actuia.com/', 'sameAs': ['https://www.facebook.com/Actu-IA-1105067856282712/', 'https://www.linkedin.com/company/18523131/', 'https://twitter.com/ActuIAFr'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.actuia.com/#logo', 'inLanguage': 'fr-FR', 'url': 'https://www.actuia.com/wp-content/uploads/2017/02/actuia_square2.png', 'width': 200, 'height': 200, 'caption': 'ActuIA'}, 'image': {'@id': 'https://www.actuia.com/#logo'}}, {'@type': 'WebSite', '@id': 'https://www.actuia.com/#website', 'url': 'https://www.actuia.com/', 'name': 'ActuIA', 'description': 'Actualité de l&#039;intelligence artificielle', 'publisher': {'@id': 'https://www.actuia.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://www.actuia.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'CollectionPage', '@id': 'https://www.actuia.com/acteur/daniel-dines/#webpage', 'url': 'https://www.actuia.com/acteur/daniel-dines/', 'name': 'Daniel Dines - Intelligence artificielle', 'isPartOf': {'@id': 'https://www.actuia.com/#website'}, 'description': 'Daniel Dines est le fondateur et le PDG d&#8217;UiPath, le fournisseur de logiciels d&#8217;automatisation de processus (RPA) et de logiciels d&#8217;intelligence artificielle qui connaît la croissance la plus rapide et la plus rapide au monde. Dines a lancé UiPath en 2005 dans le but de mettre au point une solution pouvant aider les humains à réduire le temps et le stress liés aux tâches administratives banales. Aujourd&#8217;hui, la vision de Dines est de rendre les robots logiciels, basés sur la vision par ordinateur et l&#8217;IA, aussi communs que les ordinateurs personnels sur le lieu de travail &#8211; une vision baptisée Un robot pour chaque personne.', 'breadcrumb': {'@id': 'https://www.actuia.com/acteur/daniel-dines/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.actuia.com/acteur/daniel-dines/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.actuia.com/acteur/daniel-dines/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://www.actuia.com/', 'url': 'https://www.actuia.com/', 'name': 'Intelligence artificielle'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.actuia.com/acteur/daniel-dines/', 'url': 'https://www.actuia.com/acteur/daniel-dines/', 'name': 'Daniel Dines'}}]}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm91ZXN0LWZyYW5jZS5mci9jdWx0dXJlL2Jlcm5hcmQtbWluaWVyLW5vdXMtcGxvbmdlLWF1LWNvZXVyLWRlLWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS02MzQ0NTgz0gEA?oc=5,Bernard Minier nous plonge au cœur de l'intelligence artificielle - Ouest-France,2019-05-11,Ouest-France,https://www.ouest-france.fr,"Bernard Minier, intelligent et pas artificiel. L’auteur est l’invité de dimanche Ouest-France. Dans son dernier roman, il embarque ses lecteurs à Hong Kong, où le crime se mêle aux nouvelles technologies.","['Culture', 'Actualité en continu', 'Une', 'Livres', 'People']","Bernard Minier, intelligent et pas artificiel. L’auteur est l’invité de dimanche Ouest-France. Dans son dernier roman, il embarque ses lecteurs à Hong Kong, où le crime se mêle aux nouvelles technologies.","Bernard Minier, intelligent et pas artificiel. L’auteur est l’invité de dimanche Ouest-France. Dans son dernier roman, il embarque ses lecteurs à Hong Kong, où le crime se mêle aux nouvelles technologies.",https://schema.org,NewsArticle,"{'@id': 'https://www.ouest-france.fr/culture/bernard-minier-nous-plonge-au-coeur-de-l-intelligence-artificielle-6344583', '@type': 'WebPage'}",Bernard Minier nous plonge au cœur de l’intelligence artificielle,,2019-05-11T13:33:01+02:00,2019-05-12T08:09:02+02:00,"{'@type': 'Organization', 'name': 'Ouest-France', 'url': 'https://www.ouest-france.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://media.ouest-france.fr/v1/pictures/7856ef084164c8f5002a882c557b04df-ouest-france-couleur-170x56.png', 'width': 170, 'height': 56}, 'sameAs': ['https://www.facebook.com/ouest.france', 'https://twitter.com/ouestfrance']}",Culture,"[{'@type': 'Person', 'name': 'Philippe LEMOINE', 'url': 'https://www.ouest-france.fr/redaction/philippe-lemoine/'}]","[{'@type': 'ImageObject', 'url': 'https://media.ouest-france.fr/v1/pictures/MjAxOTA1ZDI4NDYwNzAyODEyYTIxZTIyMjY0YWQ4M2RiYWRhNjE?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=94d1e407da1efd9d244a630699fe977d387dec6f1db444489b48e6f264ffeaad', 'width': 1260, 'height': 708}]","[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Culture', '@id': 'https://www.ouest-france.fr/culture/'}}]",Culture,N/A,"
+
+
+
+Bernard Minier nous plonge au cœur de l’intelligence artificielle
+
+Bernard Minier, intelligent et pas artificiel. L’auteur est l’invité de dimanche Ouest-France. Dans son dernier roman, il embarque ses lecteurs à Hong Kong, où le crime se mêle aux nouvelles technologies.
+
+
+
+
+
+Bernard Minier, invité de dimanche Ouest-France. | PHILIPPE RENAULT / OUEST-FRANCE
+
+
+Voir en plein écran
+
+
+
+
+
+fermer
+
+
+
+Bernard Minier, invité de dimanche Ouest-France. | PHILIPPE RENAULT / OUEST-FRANCE 
+
+
+
+
+
+
+
+Ouest-France
+
+Philippe LEMOINE.
+                        
+
+
+Modifié le 12/05/2019  à 08h09
+Publié le 11/05/2019  à 13h33
+
+
+
+
+
+
+Abonnez-vous
+
+
+
+
+
+
+Lire plus tard
+
+
+
+
+
+Partager
+
+
+
+
+
+Newsletter La Matinale
+Chaque matin, l’actualité du jour sélectionnée par Ouest-France
+
+
+
+
+Merci de saisir votre adresse e-mail
+
+
+
+
+
+OK
+
+
+
+
+
+Votre e-mail, avec votre consentement, est utilisé par Ouest-France pour recevoir notre newsletter. En savoir plus.
+
+
+
+
+
+
+
+
+
+On savait Bernard Minier plutôt adepte des terres gelées des Pyrénées, au cœur des enquêtes du commandant Servaz. Cette fois, ce spécialiste du thriller à la française plonge ses lecteurs dans l’univers de la très interlope ville de Hong Kong.
+
+
+
+
+Bernard Minier était jeudi l’invité du journal. « Pour écrire ce livre, je suis parti trois semaines pour m’imprégner de cette ville sidérante, inquiétante, nous a-t-il confiés. J’ai fui tous les sites touristiques pour m’intéresser à la vie des habitants, des immeubles dortoirs aux lieux mal famés. » C’est la patte Minier. Celle d’un auteur efficace, respectant les codes du genre, mais sachant aussi s’inspirer des décors pour créer de véritables atmosphères.
+
+
+
+
+« J’écris depuis l’âge de 10 ans »Écrire est un besoin chez lui. Une envie, « née dès l’âge de 10 ans. J’écrivais des histoires pour moi ou mes potes. » Puis il est devenu douanier. « Je ne savais pas vraiment quoi faire de ma vie, j’ai passé plein de concours administratifs… » L’envie de raconter des histoires était toujours là, elle a fini par triompher. Le manuscrit de Glacé son premier roman a séduit quatre éditeurs. Il a choisi XO après une rencontre avec le patron de cette maison d’édition, Bernard Fixot. Depuis le succès est au rendez-vous. Ce bourreau de travail écrit sept jours sur sept et vit pleinement de cette passion dévorante.
+
+
+
+
+
+Curieux de tout, il s’est passionné pour ce monde qui se construit aujourd’hui autour de l’intelligence artificielle. Quelle est sa réalité concrète, son impact sur notre vie privée ? Dans une société où l’on dit beaucoup de nous sur les réseaux sociaux serons-nous toujours libres ? Cette plongée très documentée dans ce qui fait déjà partie du présent fait froid dans le dos, comme l’histoire de crimes odieux qui bouscule les pages de polar haletant.
+
+
+
+
+
+
+
+
+M, le bord de l’abîme, XO, 21,90€ 576 pages
+
+
+
+
+Culture
+Actualité en continu
+Livres
+People
+gauchedroite
+
+
+
+
+",,"Bernard Minier, intelligent et pas artificiel. L’auteur est l’invité de dimanche Ouest-France. Dans son dernier roman, il embarque ses lecteurs à Hong Kong, où le crime se mêle aux nouvelles technologies.",Bernard Minier nous plonge au cœur de l’intelligence artificielle,"{'@type': 'SpeakableSpecification', 'cssSelector': ['h1.titre', 'div#article-detail p.chapeau']}",True,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ3JvdXAuYm5wcGFyaWJhcy9hY3R1YWxpdGUvaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1wYXJ0aWNpcGUtcmVjcnV0ZW1lbnTSAQA?oc=5,Quand l'Intelligence Artificielle participe au recrutement - BNP Paribas - BNP Paribas,2019-05-10,BNP Paribas,https://group.bnpparibas,10/05/2019 - Découvrez notre actualité sur Quand l’Intelligence Artificielle participe au recrutement - La banque d'un monde qui change - BNP Paribas,N/A,10/05/2019 - Découvrez notre actualité sur Quand l’Intelligence Artificielle participe au recrutement - La banque d'un monde qui change - BNP Paribas,10/05/2019 - Découvrez notre actualité sur Quand l’Intelligence Artificielle participe au recrutement - La banque d'un monde qui change - BNP Paribas,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+                                                                    Rapport intégré du Groupe
+                                                            
+Lire le Rapport intégré
+
+
+(Ce lien s'ouvre dans un nouvel onglet)
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYWN0dS5mci9vY2NpdGFuaWUvZ3JhbWF0XzQ2MTI4L2xvdC1jZWRyaWMtdmlsbGFuaS1lc3QtdmVudS1wYXJsZXItaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1jZWEtZ3JhbWF0XzIzNjEzMDI2Lmh0bWzSAQA?oc=5,Lot. Cédric Villani est venu parler « Intelligence Artificielle » au CEA de Gramat - actu.fr,2019-05-09,actu.fr,https://actu.fr,"Cédric Villani, mathématicien et député, a été accueilli au CEA de Gramat le vendredi 26 avril 2019.",N/A,"Cédric Villani, mathématicien et député, a été accueilli au CEA de Gramat le vendredi 26 avril 2019.",N/A,,,,,,,,,,,,,N/A,N/A,"
+
+
+                                                                        Lot. Cédric Villani est venu parler « Intelligence Artificielle » au CEA de Gramat                    
+Cédric Villani, mathématicien et député, a été accueilli au CEA de Gramat le vendredi 26 avril 2019.
+
+
+Cédric Villani lors de sa conférence sur l’intelligence artificielle au CEA de Gramat. (©Roland Puech) 
+
+
+
+            Par
+        
+Rédaction Cahors
+
+
+        Publié le
+        
+            9 mai 2019 à 14h02        
+
+
+Voir mon actu
+Suivre Actu Lot
+
+Cédric Villani, mathématicien et député La République en Marche, est venu parler « intelligence artificielle » au CEA de Gramat. Mme Bénédicte Guilpart, directrice du CEA de Gramat, l’a accueilli le vendredi 26 avril 2019.Les activités du CEA Gramat lui ont été présentées. M. Villani a visité deux sites expérimentaux où sont conduits des travaux dans les domaines de l’électromagnétisme et des matériaux. Il s’est montré particulièrement intéressé par l’aspect très scientifique des activités conduites au Centre. Les réponses à ses questions ayant trait, entre autres, aux enjeux, aux différents jalons des travaux de recherche et d’expertise réalisés à Gramat, ont conduit à des échanges très fructueux avec les ingénieurs chercheurs impliqués dans cette visite.Plus de 140 personnes à la conférence de Cédric VillaniÀ partir de 10 h 15 et jusqu’à la fin de la matinée, M. Villani a animé et donné une conférence sur l’Intelligence Artificielle (IA). Plus d’une centaine de salariés du CEA Gramat était présente ainsi qu’un grand nombre de personnalités extérieures parmi lesquelles nous avons reconnu M. Fillippini, préfet du Lot, M. Tarrega, sous-préfet de Gourdon, Mme Tiégna, députée du lot, M. Lacouture, secrétaire général de la préfecture du Lot, Mme Mey-Fau et M. Verdier, conseiller départementaux, M. Sylvestre, maire de Gramat, M. Mellinger, maire de Figeac et président du syndicat « Lot Numérique », M. Deleuze, président de Cauvaldor Expansion, les maires des communes du canton de Gramat. Des professeurs d’université (Clermont-Ferrand, Limoges) et des industriels locaux complétaient le parterre des personnalités.M. Villani a rappelé les enjeux stratégiques, environnementaux, sociologiques et stratégiques de l’IA. « C’est parti, l’IA contribue à des avancées en physique avec l’identification des ondes gravitationnelles par exemple. Elle est aussi présente en médecine, dans l’agriculture, dans des problématiques des transports et de la connexion entre objets. Des tâches sont d’ores et déjà exécutées via l’IA » a-t-il précisé.La Chine, les États-Unis investissent massivement tant sur le plan financier qu’humain, dans ce domaine, l’Europe peine à trouver sa voie mais la France a une carte certaine à jouer avec la qualité de sa formation et de sa recherche. « L’IA n’a aucune idée de ce qu’elle fait » ajoute-il, « c’est la raison pour laquelle il est impératif d’éviter les dérives et d’introduire de l’éthique dans ces nouvelles pratiques ».L’intelligence artificielle face à l’emploiM. Villani consacra plus d’une heure à répondre aux nombreuses questions des participants se rapportant à différents domaines d’application de l’IA : la santé (les prothèses intelligentes, l’aide au diagnostic…), les transports avec la voiture autonome, la cybersécurité, la protection des données personnelles, la place de l’intelligence biologique face à l’IA, l’homme et l’emploi face aux robots (M. Villani rétorque : l’Allemagne est beaucoup plus « robotisée » que la France et le taux de chômage y est beaucoup plus faible), une agriculture s’appuyant sur l’IA, l’épineuse question de la consommation en énergie des ordinateurs et les enjeux environnementaux qui en résultent, les travaux à conduire pour disposer d’ordinateurs quantiques efficaces et intelligents…Vidéos : en ce moment sur ActuLes auditeurs attentifs auront pu remarquer que deux mots ont souvent été prononcés par M. Villani : il s’agit du nom commun « combinaison » et de l’adjectif « humain ». Un mathématicien familier avec les combinaisons est aussi un être humain !À l’issue de la conférence, les invités extérieurs ont partagé avec les cadres du CEA Gramat, un cocktail déjeunatoire avec M. Villani.Le plaisir d’être là et la fierté affichés par un élu local et son épouse, tous deux professeurs de mathématiques de surcroît, pris en photo en compagnie de M. Villani résument peut-être au mieux l’état d’esprit des participants à cette conférence et plus globalement à cette journée de visite de M. Villani au CEA de Gramat.Une conférence instructive où l’IA, l’un des enjeux majeurs de notre devenir et de notre vivre ensemble, a été abordé par un conférencier prestigieux et commenté par des participants fort intéressés.R. P. 
+
+Biographie succincte de Cédric Villani
+M. C. Villani est mathématicien, médaille Fields en 2010, décernée lors du Congrès International des Mathématiciens à Hyderabad (Inde). De 2000 à 2010, il occupa le poste d’enseignant-chercheur à l’École Normale Supérieure de Lyon, il est maintenant professeur de l’Université Claude Bernard Lyon 1. De 2009 à 2017, il fut codirecteur de l’Institut Henri Poincaré.
+En juin 2017, il est élu député pour le mouvement « La République en Marche » dans la 5e circonscription de l’Essonne. Il a été chargé de mission auprès du Gouvernement pour les Fondements d’une stratégie nationale et européenne sur l’intelligence artificielle. Il rendit en mars 2018 au Premier ministre le rapport « Donner un sens à l’intelligence artificielle ? pour une stratégie nationale et européenne ».
+M. Villani est le 1er vice-président « affaires culturelles et éducation » de l’OPECST (Office parlementaire d’évaluation des choix scientifiques et technologiques), office où siègent deux parlementaires lotois, Mme Huguette Tiegna, députée de la 2e circonscription du Lot (vice-présidente « affaires économiques ») et Mme Angèle Préville, sénatrice du Lot (membre de l’OPECST).
+
+Suivez toute l’actualité de vos villes et médias favoris en vous inscrivant à Mon Actu.
+
+
+Partagez
+
+
+Partagez sur Facebook
+
+
+Partagez sur Twitter
+
+
+Partagez par Mail
+
+
+Copiez/Collez le Lien
+Copié !
+https://actu.fr/occitanie/gramat_46128/lot-cedric-villani-est-venu-parler-intelligence-artificielle-cea-gramat_23613026.html
+
+
+
+
+    Découvrez les newsletters
+ 
+
+
+
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lmxlc2VjaG9zLmZyL3RoZW1hL2ZpbmFuY2UtZW50cmVwcmlzZS1tZXRpZXJzL2xlLW1hY2hpbmUtbGVhcm5pbmctcmV2b2x1dGlvbm5lLWxhLWdlc3Rpb24tZHUtY3ljbGUtY2xpZW50LTEwMTY3MTfSAQA?oc=5,Philippe Gangneux : « Le 'machine learning' révolutionne la gestion du cycle client » - Les Échos,2019-05-07,Les Échos,https://www.lesechos.fr,"Le CFO de Sidetrade, Philippe Gangneux, explique aux Echos comment l'intelligence artificielle et le machine learning peuvent permettre d'améliorer le cycle client.",N/A,"Le CFO de Sidetrade, Philippe Gangneux, explique aux Echos comment l'intelligence artificielle et le machine learning peuvent permettre d'améliorer le cycle client.","Le CFO de Sidetrade, Philippe Gangneux, explique aux Echos comment l'intelligence artificielle et le machine learning peuvent permettre d'améliorer le cycle client.",http://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lesechos.fr/thema/finance-entreprise-metiers/le-machine-learning-revolutionne-la-gestion-du-cycle-client-1016717'}",Philippe Gangneux : « Le 'machine learning' révolutionne la gestion du cycle client »,,2019-05-07T08:36:55+02:00,2019-05-07T18:05:12+02:00,"{'@type': 'Organization', 'name': 'Les Echos', 'logo': {'@type': 'ImageObject', 'url': 'https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp', 'width': 200, 'height': 38}}",,"[{'@type': 'Person', 'name': 'Cécile Desjardins', 'sameAs': ['https://www.lesechos.fr/@cecile-desjardins']}]","{'@type': 'ImageObject', 'url': 'https://media.lesechos.com/api/v1/images/view/5cd1275cd286c20f8b45dd25/1280x720/0601154470811-web-tete.jpg', 'height': '720', 'width': '1280'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lesechos.fr/', 'name': 'Les Echos'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lesechos.fr/thema', 'name': 'Théma'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lesechos.fr/thema/finance-entreprise-metiers/', 'name': ""Les métiers de la finance d'entreprise accélèrent leur transformation""}}]",Théma,N/A,"InterviewPhilippe Gangneux : « Le 'machine learning' révolutionne la gestion du cycle client »Le CFO de Sidetrade, Philippe Gangneux, explique aux Echos comment l'intelligence artificielle et le machine learning peuvent permettre d'améliorer le cycle client.Ajouter à mes articlesCommenterPartagerPartagerLes métiers de la finance d'entreprise accélèrent leur transformationPhilippe Gangneux. (Kayee Chiu)Par Cécile DesjardinsPublié le 7 mai 2019 à 08:36Mis à jour le 7 mai 2019 à 18:05Pourquoi les directeurs financiers doivent-ils s'intéresser à l'ensemble du cycle client ?On comprend le comportement de paiement, et le cas échéant les retards ou litiges, en s'intéressant à l'expérience business tout entière : de la relation commerciale à la réalisation des prestations, du service client à la facturation. Ces phases successives sont indissociables et, en analysant ce cycle dans sa globalité, le directeur financier est à même d'apporter de la valeur ajoutée dans ses différentes composantes, de proposer la meilleure offre de services ou de produits à ses clients actuels, d'éviter les résiliations ou également cibler plus efficacement de nouveaux clients. A chacune de ces étapes, l'impact financier est bien réel ! Cette connaissance du client permet, bien sûr, au directeur financier d'accélérer la génération de cash en réduisant le DSO (délai de règlement client).Qu'est-ce que l'intelligence artificielle peut apporter ?L'intelligence artificielle et le prédictif révolutionnent la gestion du cycle client dans sa globalité. Concernant les délais de paiement, l'intelligence artificielle offre une vision prédictive sur l'échéance à laquelle un client devrait régler son fournisseur en se basant sur des algorithmes et des centaines de millions d'expériences de paiement. Chaque directeur financier compare ainsi sa performance avec un score de comportement de paiement, lui permettant d'identifier les opportunités de cash additionnel. Que l'écart soit lié à des litiges, à des problèmes de production ou administratifs, l'entreprise agit alors de manière tangible : sur des faits et non plus sur des opinions. L'IA permet également d'améliorer l'efficacité des équipes en préconisant les meilleures stratégies de relance, en prenant en compte la disponibilité des équipes et en automatisant les actions. L'optimisation des actions de recouvrement par l'intelligence artificielle est continue. En fonction des taux de réussite, la mécanique d'autoapprentissage et d'ajustement permanent de la technologie d'IA ouvre la voie à une amélioration continue de la productivité, alors que les courbes de progrès offertes jusqu'ici par les logiciels traditionnels étaient marquées par des plateaux.PublicitéUne fois que l'intelligence artificielle comprend la relation financière, le logiciel fait des recommandations et propose des plans d'action simples à engager et immédiatement exécutablesQuel est le coût de ces solutions ?Le prix est lié au périmètre retenu ainsi qu'à la taille de l'entreprise et à son chiffre d'affaires. Au-delà du prix, ces solutions sont pragmatiques et opérationnelles, avec des retours sur investissement élevés. En outre, on peut facilement tester l'intelligence artificielle en « back-test », sur une partie d'un groupe, une division, pour évaluer la pertinence des résultats. La plate-forme s'implémente selon les fonctionnalités choisies, en seulement quelques mois. Une fois que l'intelligence artificielle comprend la relation financière, le logiciel fait des recommandations et propose des plans d'action simples à engager et immédiatement exécutables.Est-ce réservé aux grandes entreprises ?Ces offres concernent plutôt les grands groupes parce que la courbe d'apprentissage de la machine est plus rapide si l'entreprise a des milliers de comptes clients que si elle n'en a qu'une centaine. Tout l'intérêt du prédictif et de l'intelligence artificielle est de trouver les bons paramétrages et les bonnes segmentations pour proposer les bons plans d'action. Plus il y a de données, mieux les algorithmes fonctionnent. Il n'est pas nécessaire de réaliser un chiffre d'affaires de 10 milliards d'euros, mais il faut totaliser suffisamment d'expériences client pour que la plate-forme puisse identifier les comportements avec pertinence…Cécile DesjardinsNos VidéosParis sportifs en ligne : qui sont les vrais gagnants ?Il y a 14 ans, la Française des Jeux (FDJ) perdait son monopole sur les paris sportifs en ligne. Aujourd’hui, 15 opérateurs se partagent ce marché toujours en croissance. Mais est-il si rentable que cela pour eux ? On vous explique.Portugal, Espagne, Grèce : la revanche des « pays du Club Med »Les jeunes ont-ils vraiment un problème avec le travail ?SNCF : la concurrence peut-elle faire baisser les prix des billets de train ?PublicitéPublicitéÀ la UneLégislatives 2024 : six questions sur le second tour de dimancheFusion nucléaire : la facture d'Iter glisse vers les 25 milliards d'euros DirectLégislatives : « pas question » de gouverner avec LFI, lance Macron en Conseil des ministresPublicité",,,Les Echos,,True,https://www.lesechos.fr,"{'@type': 'SearchAction', 'target': 'https://www.lesechos.fr/recherche?q={query}', 'query-input': 'required name=query'}",https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp,"['https://www.facebook.com/lesechos/', 'https://x.com/LesEchos?lang=fr', 'https://www.linkedin.com/company/les-echos']",,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vc2llY2xlZGlnaXRhbC5mci8yMDE5LzA1LzA4L2xlLW1pdC12ZXV0LW1ldHRyZS1hdS1wb2ludC1kZXMtc291cy1yZXNlYXV4LWRlLW5ldXJvbmVzLXBvdXItYW1lbGlvcmVyLWxpYS_SAQA?oc=5,Le MIT veut mettre au point des sous-réseaux de neurones pour améliorer l'IA - Siècle Digital,2019-05-08,Siècle Digital,https://siecledigital.fr,"De nouveaux réseaux neuronaux, imaginés par le MIT pourraient faire progresser l'intelligence artificielle.",N/A,"De nouveaux réseaux neuronaux, imaginés par le MIT pourraient faire progresser l'intelligence artificielle.",N/A,https://schema.org,,,,,,,,,,,,N/A,N/A,"
+
+
+Intelligence artificielle
+
+Le MIT veut mettre au point des sous-réseaux de neurones pour améliorer l’IA
+Pour remplacer les réseaux de neurones profonds, le MIT espère pouvoir développer des sous-réseaux, moins coûteux et bien plus performants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+Carte 3D de réseaux neuronaux
+
+
+
+
+Par Valentin Cimino
+
+					- @ciminix
+
+
+
+Publié le 8 mai 2019 à 15h30
+
+
+
+« Lottery Ticket », voici le nom des nouveaux réseaux neuronaux, imaginés par le MIT pour continuer de faire progresser l’intelligence artificielle. Aussi appelés sous-réseaux, ces systèmes sont plus petits que ceux avec lesquels les chercheurs travaillent actuellement et pourraient bien accélérer la recherche dans le domaine.
+En effet, les spécialistes de l’intelligence artificielle travaillent habituellement sur des réseaux neuronaux dits « profonds ». Ils sont extrêmement complexes à créer et coûtent beaucoup d’argent. Avec cette découverte, le MIT espère bien disrupter le marché de l’intelligence artificielle. Alors qu’il y a quelques jours, Google AI mettait une base de données en open source, pour faire progresser les recherches, une petite révolution pourrait voir le jour dans le secteur.
+
+
+Inscrivez-vous à la newsletter
+
+
+
+
+En vous inscrivant vous acceptez notre politique de protection des données personnelles.
+
+
+D’après le MIT, il serait envisageable de créer des réseaux neuronaux, jusqu’à 10 fois plus petits que ceux existants pour accélérer le développement de l’IA. Habituellement, la conception d’un réseau neuronal peut prendre plusieurs jours, le temps d’envoyer un ensemble de données dans le système et coûter très cher. Le CSAIL, division de recherche dédiée à l’intelligence artificielle du MIT, s’est aperçu que de plus petits réseaux pouvaient être aussi performants que ceux dits « profonds ».
+Si les chercheurs ont appelé ce nouveau système « Lottery Ticket », vous vous en doutez, ce n’est pas par hasard. Pour bien comprendre, imaginez une comparaison avec une loterie géante. Le schéma de travail d’un réseau neuronal profond consisterait à acheter tous les billets pour s’assurer de tomber sur les gagnants. L’hypothèse faite avec les réseaux de neurones plus petits consiste à n’acheter que les tickets gagnants.
+Tout le travail repose donc sur la capacité de l’intelligence artificielle à pouvoir trier les parties utiles des parties inutiles d’un réseau neuronal et de ne garder que celles utiles. Pour le moment, le MIT n’a fait qu’émettre des hypothèses et n’a pas encore réussi à créer ces sous-réseaux. Pourtant, ils en sont convaincus : s’ils arrivent à fabriquer des sous-réseaux, ils pourront faire progresser l’intelligence artificielle.
+
+
+
+
+
+
+MIT
+
+réseau de neurones
+ 
+
+
+
+
+
+
+
+
+À lire aussi
+
+
+
+
+Google révèle une hausse de 13% de ses émissions de CO2, l’IA pointée du doigt
+Lire l'article
+
+
+SK Hynix met le paquet sur les composants dont dépend Nvidia
+Lire l'article
+
+
+La MNH et la FHF dévoilent les lauréats des Prix de la Communication Hospitalière
+Lire l'article
+
+
+Équilibrer la sécurité et l’autonomie : stratégies pour les RSSI à l’ère de l’informatique dématérialisée
+Lire l'article
+
+
+France : Nvidia dans le viseur de l’Autorité de la Concurrence
+Lire l'article
+
+
+L’intelligence artificielle révolutionne le monde de la traduction web
+Lire l'article
+
+
+
+
+ 
+
+
+
+
+","[{'@type': 'NewsArticle', '@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#article', 'isPartOf': {'@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/'}, 'author': {'name': 'Valentin Cimino', '@id': 'https://siecledigital.fr/#/schema/person/300c61e3434318775c9f8785a08168a0'}, 'headline': 'Le MIT veut mettre au point des sous-réseaux de neurones pour améliorer l&rsquo;IA', 'datePublished': '2019-05-08T13:30:31+00:00', 'dateModified': '2019-05-08T13:30:31+00:00', 'mainEntityOfPage': {'@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/'}, 'wordCount': 372, 'commentCount': 0, 'publisher': {'@id': 'https://siecledigital.fr/#organization'}, 'image': {'@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#primaryimage'}, 'thumbnailUrl': 'https://siecledigital.fr/wp-content/uploads/2019/05/image.jpg', 'keywords': ['MIT', 'réseau de neurones'], 'articleSection': ['Intelligence artificielle'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#respond']}], 'copyrightYear': '2019', 'copyrightHolder': {'@id': 'https://siecledigital.fr/#organization'}}, {'@type': 'WebPage', '@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/', 'url': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/', 'name': ""Le MIT veut mettre au point des sous-réseaux de neurones pour améliorer l'IA"", 'isPartOf': {'@id': 'https://siecledigital.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#primaryimage'}, 'image': {'@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#primaryimage'}, 'thumbnailUrl': 'https://siecledigital.fr/wp-content/uploads/2019/05/image.jpg', 'datePublished': '2019-05-08T13:30:31+00:00', 'dateModified': '2019-05-08T13:30:31+00:00', 'description': ""De nouveaux réseaux neuronaux, imaginés par le MIT pourraient faire progresser l'intelligence artificielle."", 'breadcrumb': {'@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#primaryimage', 'url': 'https://siecledigital.fr/wp-content/uploads/2019/05/image.jpg', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2019/05/image.jpg', 'width': 1920, 'height': 1484, 'caption': 'Carte 3D de réseaux neuronaux'}, {'@type': 'BreadcrumbList', '@id': 'https://siecledigital.fr/2019/05/08/le-mit-veut-mettre-au-point-des-sous-reseaux-de-neurones-pour-ameliorer-lia/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://siecledigital.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Intelligence artificielle', 'item': 'https://siecledigital.fr/intelligence-artificielle/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Le MIT veut mettre au point des sous-réseaux de neurones pour améliorer l&rsquo;IA'}]}, {'@type': 'WebSite', '@id': 'https://siecledigital.fr/#website', 'url': 'https://siecledigital.fr/', 'name': ""Siècle Digital - L'actualité internationale de l'économie du numérique"", 'description': 'Siècle Digital l’actualité de l’économie du numérique', 'publisher': {'@id': 'https://siecledigital.fr/#organization'}, 'alternateName': 'Siècle Digital', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://siecledigital.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://siecledigital.fr/#organization', 'name': 'Siècle Digital', 'url': 'https://siecledigital.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/#/schema/logo/image/', 'url': 'https://siecledigital.fr/wp-content/uploads/2019/10/logo-horizontal-dark.png', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2019/10/logo-horizontal-dark.png', 'width': 843, 'height': 142, 'caption': 'Siècle Digital'}, 'image': {'@id': 'https://siecledigital.fr/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/siecledigital/', 'https://x.com/siecledigital', 'https://www.instagram.com/siecledigital/', 'https://www.linkedin.com/company/sicle-digital', 'https://www.pinterest.fr/siecledigital/']}, {'@type': 'Person', '@id': 'https://siecledigital.fr/#/schema/person/300c61e3434318775c9f8785a08168a0', 'name': 'Valentin Cimino', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/#/schema/person/image/', 'url': 'https://siecledigital.fr/wp-content/uploads/2018/09/valentin-cimino-150x150.jpg', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2018/09/valentin-cimino-150x150.jpg', 'caption': 'Valentin Cimino'}, 'description': ""Valentin Cimino est rédacteur web indépendant. Il collabore avec Siècle Digital, ainsi que Agorapulse et Welcome to the Jungle. Il couvre les sujets d'actualités en lien avec les nouvelles technologies."", 'sameAs': ['https://x.com/ciminix'], 'url': 'https://siecledigital.fr/author/valentincimino/'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZnIvc3RvcnkvMjAxOS8wNS8xMDQzMTIx0gEA?oc=5,100 ans de l'Organisation internationale du travail : Guterres souligne l'importance du dialogue social - ONU Info,2019-05-08,ONU Info,https://news.un.org,Le chef de l’ONU a salué mercredi la « remarquable » contribution de l’Organisation internationale du travail (OIT) aux droits des travailleuses et des travailleurs dans le monde à l’occasion des célébrations à Genève du centenaire de l’agence onusienne. |,N/A,Le chef de l’ONU a salué mercredi la « remarquable » contribution de l’Organisation internationale du travail (OIT) aux droits des travailleuses et des travailleurs dans le monde à l’occasion des célébrations à Genève du centenaire de l’agence onusienne.,Le chef de l’ONU a salué mercredi la « remarquable » contribution de l’Organisation internationale du travail (OIT) aux droits des travailleuses et des travailleurs dans le monde à l’occasion des célébrations à Genève du centenaire de l’agence onusienne.,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnVzaW5lbm91dmVsbGUuY29tL2FydGljbGUvcXVlbGxlcy1jb21wZXRlbmNlcy1wb3VyLWwtYWNoZXRldXItZHUtZnV0dXItZmFjZS1hLWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS5OODM4NDUw0gEA?oc=5,Quelles compétences pour l'acheteur du futur face à l'Intelligence Artificielle ? - L'Usine Nouvelle,2019-05-09,L'Usine Nouvelle,https://www.usinenouvelle.com,"
+	À l’ère de la révolution digitale, les compétences demandées aux équipes Achats sont en pleine mutation. Aujourd’hui, la question...-Optimisation des achats",N/A,"
+	À l’ère de la révolution digitale, les compétences demandées aux équipes Achats sont en pleine mutation. Aujourd’hui, la question...-Optimisation des achats","
+	À l’ère de la révolution digitale, les compétences demandées aux équipes Achats sont en pleine mutation. Aujourd’hui, la question...-Optimisation des achats",,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+La Rédaction n'a pas participé à la réalisation de ce contenu.
+
+
+
+
+
+Publi-rédactionnel
+
+
+                Optimisation des achats
+            
+
+
+
+
+
+
+
+
+
+
+Quelles compétences pour l’acheteur du futur face à l’Intelligence Artificielle ?
+
+
+
+
+
+À l’ère de la révolution digitale, les compétences demandées aux équipes Achats sont en pleine mutation. Aujourd’hui, la question majeure qui se pose est : quelles compétences seront, à terme, prises en charge par les nouvelles technologies et quelles sont celles sur lesquelles les acheteurs doivent miser dès aujourd’hui ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        09 mai 2019
+                    
+
+ \
+12h17
+
+
+
+
+ 
+
+                                            2
+                                        min. de lecture
+                
+
+
+
+
+Mon actualité personnalisable
+
+Profitez à tout moment des informations clés selon vos intérêts.
+
+
+            Sélectionnez les thèmes qui vous intéressent :
+        
+
+Label tag qualité
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag principal
+
+
+ Gérer mes thèmes favoris
+
+Valider la sélection
+
+
+
+
+
+
+
+
+
+ 
+
+                                                    2 min.
+                                            
+de lecture
+
+
+
+
+
+
+
+
+
+
+
+
+                    09 mai 2019
+                
+
+ \
+12h17
+
+
+
+
+
+
+
+
+Partager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les compétences potentiellement automatisables 
+
+
+	À ce jour, certains processus achats sont déjà automatisés grâce par exemple aux solutions « Source to Contrat », et cela n’est qu’un début. Avec le développement de l’Intelligence Artificielle (IA), et notamment de l’automatisation robotique des processus (RPA), l’analyse prédictive et le traitement automatique du langage naturel (NLP), les experts prédisent désormais l’automatisation de certaines compétences achats.
+
+	Leur conclusion est surprenante : les nouvelles technologies pourraient remplacer autant le savoir-être que le savoir-faire (la collecte et l’analyse des données, les études de marché, l’utilisation des outils et technologies dédiés aux achats, la communication, le leadership…).
+
+Les compétences clés pour l’acheteur du futur
+
+	Bien que le savoir-faire reste encore prioritaire en matière d’investissement, le savoir-être est une notion de plus en plus recherchée par les recruteurs. Il est vrai qu’à l’heure où notre environnement et les technologies se développent à une vitesse folle, le savoir-faire peut devenir obsolète, a contrario des qualités personnelles et comportementales.
+
+
+
+	Selon le mapping inspiré du rapport corédigé par Procurious et Michael Page*, huit compétences vont s’avérer indispensables pour l’acheteur, d’ici dix ans :
+
+Côté savoir-être… :
+
+
+Le relationnel, le travail en équipe/en collaboration et l’influence sont des compétences quasi exclusivement dédiées aux parties prenantes avec pour objectif de créer des liens pérennes, de les convaincre des stratégies adoptées et de travailler efficacement.
+
+La créativité/innovation et la flexibilité/adaptabilité permettront, elles, de répondre aux défis à venir tout en devenant acteur du changement.
+
+
+Côté savoir-faire… : 
+
+
+déterminer les besoins clients, créer de la valeur pour les parties prenantes et développer une stratégie d’approvisionnement conjuguent habilement l’ensemble des qualités personnelles évoquées.
+
+
+In fine, l’intelligence émotionnelle et relationnelle, combinée à certaines compétences techniques et une vision stratégique, représenteront les futures pierres angulaires du métier d’acheteur. L’avenir s’annonce lumineux pour la fonction Achats qui, en confiant ses tâches à faible valeur ajoutée et quelques compétences ciblées aux machines, pourra se positionner comme un véritable business partner et acteur de la stratégie d’entreprise.
+
+*Procurement 2030 – Level 3 – Human vs. AI skill sets 
+
+
+
+
+
+
+
+
+						Pour en savoir plus sur les achats (actualités, stratégies, solutions d’optimisation…), vous pouvez vous abonner à la newsletter mensuelle de notre blog en cliquant ici.
+
+
+
+
+
+
+Contenu proposé par Manutan.
+
+
+
+
+
+
+
+
+
+
+
+Partager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sujets associés
+Publi-rédactionnel
+Optimisation des achats
+
+
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJhZGlvZnJhbmNlLmZyL2ZyYW5jZWN1bHR1cmUvYWRhLWxvdmVsYWNlLWxhLXByZW1pZXJlLWNvZGV1c2UtZGUtbC1oaXN0b2lyZS0xMzM2OTIw0gEA?oc=5,"Ada Lovelace, la première codeuse de l'histoire - France Culture",2019-05-07,France Culture,https://www.radiofrance.fr,"Le premier codeur au monde est... une codeuse. Ada Lovelace, la seule enfant légitime du poète Lord Byron, a créé le 1er programme informatique, en 1842. Voici son histoire, alors que la Gaîté Lyrique à Paris consacre une exposition à ce que les femmes ont apporté au numérique, ""Computer Grrrls"".",N/A,"Le premier codeur au monde est... une codeuse. Ada Lovelace, la seule enfant légitime du poète Lord Byron, a créé le 1er programme informatique, en 1842. Voici son histoire, alors que la Gaîté Lyrique à Paris consacre une exposition à ce que les femmes ont apporté au numérique, ""Computer Grrrls"".","Le premier codeur au monde est... une codeuse. Ada Lovelace, la seule enfant légitime du poète Lord Byron, a créé le 1er programme informatique, en 1842. Voici son histoire, alors que la Gaîté Lyrique à Paris consacre une exposition à ce que les femmes ont apporté au numérique, ""Computer Grrrls"".",https://schema.org,,,,,,,,,,,,Sciences et Savoirs,N/A,"Publicité   Tech – Web Ada Lovelace, la première codeuse de l'histoire Par  Camille Renard   Publié le mardi 7 mai 2019 à 14h42      Partager    Le premier codeur au monde est... une codeuse. Ada Lovelace, la seule enfant légitime du poète Lord Byron, a créé le 1er programme informatique, en 1842. Voici son histoire, alors que la Gaîté Lyrique à Paris consacre une exposition à ce que les femmes ont apporté au numérique, ""Computer Grrrls"". Génie visionnaire, fille du poète Lord Byron, elle invente le premier algorithme logiciel, soit le premier programme publié destiné à être exécuté par une machine. Voici son parcours, spectaculaire et inattendu, dans la bonne société britannique sexiste de la révolution industrielle.  À la conquête d'une ""science poétique""Comtesse de Lovelace, elle naît Ada Byron, d’une relation scandaleuse entre le poète Lord Byron et une aristocrate érudite. À 12 ans, elle écrit déjà un traité dédié aux ailes des volatiles.  Publicité  Sa mère, férue de mathématiques, surnommée “princesse des parallélogrammes” par Byron, veut contrecarrer la fascination d’Ada pour son père absent et son inclination pour la passion amoureuse en focalisant son attention sur les sciences dures. Ses tuteurs, parmi les plus brillants scientifiques, l’éduquent dans la rigueur et l'exigence. À 16 ans, Ada rencontre Mary Somerville, éminente astronome du XIXe siècle, qui l'encourage et l'aide à progresser en mathématiques. Ada veut déjà développer une “science poétique”, germe d’une future intelligence artificielle.  “Mon travail mathématique implique une imagination considérable.” Ada Lovelace À 17 ans, Ada rencontre dans un salon mondain le mathématicien Charles Babbage, inventeur de la calculatrice mécanique. Il écrira à son propos : “Cette enchanteresse des nombres a jeté son sort magique autour de la plus abstraite des sciences et l’a saisie avec une force que peu d’intellects masculins - dans notre pays au moins - auraient pu exercer.” Pendant 20 ans, ils amélioreront constamment ensemble “la machine analytique”, l’ancêtre de l’ordinateur moderne, avec 100 ans d’avance.  “Son rôle est de nous aider à effectuer ce que nous savons déjà dominer” écrira-t-elle. Ada pressent tout l’impact que pourra avoir l’informatique sur la société. Elle veut faire des calculateurs des “partenaires de l’imagination” en programmant musique, poésie ou peinture. Selon Nicolas Witkowski, physicien et auteur de l'essai d'histoire des sciences au féminin Trop belles pour le Nobel (Le Seuil), interviewé dans l'émission ""La Marche des sciences"", consacrée à Ada Lovelace en 2016 : ""Ce qu’elle cherche, c’est plus une métaphysique qu’une science ou une technique. Une façon de vivre. À un moment, elle propose d’utiliser son propre corps comme laboratoire moléculaire. Non seulement elle anticipe l’informatique et l’ordinateur, mais elle anticipe les neurosciences quelque part"".  Le 1er programme informatiqueÀ 27 ans, Ada traduit un article d’un ingénieur italien consacré aux machines à calculer. Dans ses longues notes de traduction, elle esquisse ce qui permettrait à une machine d’agir seule. Elle décrit l’enchaînement d’instructions qu’il faut donner pour réaliser une suite mathématique, jusqu’à la position des rouages.  Selon elle, la machine pourrait manipuler des nombres mais aussi des lettres et des symboles, au-delà du calcul numérique. La machine “tisse des motifs algébriques comme le métier de Jacquard tisse des fleurs et des feuilles”. La première programmation informatique est née. Comme les autres femmes scientifique de son temps, elle signe son article de ses seules initiales.  Alternant phases d’exaltation et de dépression, Ada s’adonne aux paris hippiques pour financer ses recherches et celles de Babbage. Malgré ses efforts pour concevoir un algorithme servant ses paris, elle dilapide son argent.  À 36 ans, elle meurt d’un cancer de l’utérus. Son ami Charles Dickens lit un texte à son enterrement.  Négligences et postéritéIl faudra attendre 1930 pour qu’Alan Turing formalise à son tour un calculateur universel manipulant des symboles. Ada est restée longtemps oubliée, négligée, malgré une reconnaissance progressive et inattendue :  En 1979, le département de la Défense américain appelle de son nom un langage de programmation “Ada”, de même, le CNRS nomme en son hommage un de ses supercalculateurs. Tilda Swinton interprète son rôle dans dans Conceiving Ada, un film indépendant sélectionné au festival de Sundance 1997, de l'artiste Lynn Hershmann Leeson, pionnière du media art :  Pour afficher ce contenu Youtube, vous devez accepter les cookies Publicité.Ces cookies permettent à nos partenaires de vous proposer des publicités et des contenus personnalisés en fonction de votre navigation, de votre profil et de vos centres d'intérêt.    Gérer mes choix     J'autorise  En savoir plus :  Les femmes et les sciences La Conversation scientifique     Écouter plus tard     écouter  59 min  Vous trouvez cet article intéressant ? Faites-le savoir et partagez-le.     Références Sciences et Savoirs Société Tech – Web Révolution industrielle Culture Prime Féminisme   Publicité    Publicité   Sur le même thème   Passer cette liste           Législatives 2024... Notre vote est-il sous influences ?  Lecture   Le Débat de midi Aujourd'hui  •  54 min        Multi-Purpose Tap : Une nouvelle norme pour combiner le paiement sans contact avec d'autres transactions Lecture   Aujourd'hui c'est demain Aujourd'hui  •  2 min        Norman 'GEN1US' Chatrier : ""Il y a de plus en plus de femmes dans le jeu vidéo"" Lecture   On n'est pas fatigué... même l'été Aujourd'hui  •  19 min        Les propositions de Terra Nova pour mieux encadrer l'intelligence artificielle dans le domaine de la santé Lecture   L'info de France Inter Aujourd'hui  •  1 min        Le Tahziomètre : le petit sorcier vert star d'internet et les déclarations de Trump emballent les réseaux Lecture   La chronique de Tahzio Hier  •  5 min        Cinéma : des écrans de télévision vont bientôt remplacer les toiles de vidéoprojection Lecture   Aujourd'hui c'est demain Hier  •  2 min     ","[{'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://www.radiofrance.fr', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.radiofrance.fr/franceculture', 'name': 'France Culture'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.radiofrance.fr/franceculture/ada-lovelace-la-premiere-codeuse-de-l-histoire-1336920', 'name': ""Ada Lovelace, la première codeuse de l'histoire""}}]}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRmMWluZm8uZnIvdmllLXByby9tb2RlcmF0ZXVyLWxlLW1ldGllci1sZS1wbHVzLWVwcm91dmFudC1kdS1uZXQtMjEyMDgwNC5odG1s0gFdaHR0cHM6Ly93d3cudGYxaW5mby5mci9hbXAvdmllLXByby9tb2RlcmF0ZXVyLWxlLW1ldGllci1sZS1wbHVzLWVwcm91dmFudC1kdS1uZXQtMjEyMDgwNC5odG1s?oc=5,Modérateur : le métier le plus éprouvant du net - TF1 INFO,2019-05-10,TF1 INFO,https://www.tf1info.fr,"[VIDÉO] ▶️ JT 20H - Les géants du net ont une armée de modérateurs censés surveiller les vidéos et les propos qui sont postés. Ce travail est loin d'être inutile, mais surtout, il est très éprouvant. - Modérateur : le métier le plus éprouvant du net (Vie pro et emploi) - TF1 INFO","LE WE 20H,Le WE,Internet,Emploi et chômage,Emploi,vidéo Vie pro et emploi, article-video, vidéo, actualités, info, actu","[VIDÉO] JT 20H - Les géants du net ont une armée de modérateurs censés surveiller les vidéos et les propos qui sont postés. Ce travail est loin d'être inutile, mais surtout, il est très éprouvant. - Modérateur : le métier le plus éprouvant du net (Vie pro et emploi) - TF1 INFO","[VIDÉO] JT 20H - Les géants du net ont une armée de modérateurs censés surveiller les vidéos et les propos qui sont postés. Ce travail est loin d'être inutile, mais surtout, il est très éprouvant. - Modérateur : le métier le plus éprouvant du net (Vie pro et emploi) - TF1 INFO",https://schema.org,BreadcrumbList,,,,,,"{'@type': 'NewsMediaOrganization', 'name': 'TF1 Info', 'alternateName': 'Télévision Française 1 Info', 'parentOrganization': {'@type': 'Organization', 'name': 'Groupe TF1', 'foundingDate': '1987-04-16', 'url': 'https://groupe-tf1.fr/', 'sameAs': ['https://fr.wikipedia.org/wiki/Groupe_TF1', 'https://www.linkedin.com/company/groupetf1', 'https://twitter.com/GroupeTF1', 'https://www.wikidata.org/wiki/Q2412906']}, 'url': 'https://www.tf1info.fr', 'foundingDate': '2022-01-24', 'logo': {'@type': 'ImageObject', 'url': 'https://www.tf1info.fr/images/tf1info-logo-line.png', 'encodingFormat': 'image/png', 'width': '861', 'height': '150'}, 'address': {'@type': 'PostalAddress', 'addressCountry': 'France', 'addressLocality': 'Boulogne-Billancourt', 'postalCode': '92100', 'streetAddress': '1 Quai du Point du Jour'}, 'sameAs': ['https://www.facebook.com/TF1Info/', 'https://twitter.com/TFIINFO', 'https://news.google.com/publications/CAAqBwgKMNDhsQEw-fUJ', 'https://www.wikidata.org/wiki/Q111191650', 'https://www.youtube.com/channel/UCsrPUA0ZSDCNZC6wyRlR7ZA', 'https://www.tiktok.com/@tf1info', 'https://www.instagram.com/tf1info/', 'https://fr.wikipedia.org/wiki/TF1_INFO'], 'masthead': 'https://www.tf1info.fr/tf1-info/redaction/', 'actionableFeedbackPolicy': 'https://www.tf1info.fr/la-mediatrice-vous-repond/', 'correctionsPolicy': 'https://www.tf1info.fr/tf1-info/charte-editoriale/', 'publishingPrinciples': 'https://www.tf1info.fr/tf1-info/charte-editoriale/', 'ethicsPolicy': 'https://www.tf1info.fr/tf1-info/charte-editoriale/', 'verificationFactCheckingPolicy': 'https://www.tf1info.fr/tf1-info/les-verificateurs-fact-checking/', 'potentialAction': {'@type': 'SearchAction', 'target': 'https://www.tf1info.fr/recherche/?query={query}', 'query-input': {'@type': 'PropertyValueSpecification', 'valueRequired': True, 'valueName': 'query'}}}",,,,"[{'@type': 'ListItem', 'name': 'Accueil', 'position': 1, 'item': 'https://www.tf1info.fr'}, {'@type': 'ListItem', 'name': 'Vie pro et emploi', 'position': 2, 'item': 'https://www.tf1info.fr/vie-pro/'}, {'@type': 'ListItem', 'name': 'Modérateur : le métier le plus éprouvant du net', 'position': 3}]",Vie pro et emploi,N/A,"JT 20H - Les géants du net ont une armée de modérateurs censés surveiller les vidéos et les propos qui sont postés. Ce travail est loin d'être inutile, mais surtout, il est très éprouvant.Suivez la couverture complèteLE WE 20HLes modérateurs sont indispensables. Ce sont eux qui contrôlent les contenus publiés en ligne et suppriment ceux qui sont jugés choquants. Leur tâche est éprouvante et très répétitive. À terme, l'intelligence artificielle se chargera de ce travail ingrat. Mais pour le moment, elle n'est pas encore tout à fait au point. Alors en attendant, des humains regardent ces vidéos pour que vous n'ayez pas à les voir.
+
+Ce sujet a été diffusé dans le journal télévisé de 20H du 10/05/2019 présenté par Anne-Claire Coudray sur TF1. Vous retrouverez au programme du JT de 20H du 10 mai 2019 des reportages sur l'actualité politique économique, internationale et culturelle, des analyses et rebonds sur les principaux thèmes du jour, des sujets en régions ainsi que des enquêtes sur les sujets qui concernent le quotidien des Français.La rédaction de TF1info",,,TF1 Info,,True,https://www.tf1info.fr,,,,"{'@type': 'Country', 'name': 'France'}",fr,True,,
+https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VtcGxvaS9hcnRpY2xlLzIwMTkvMDUvMDcvcGF0cmljZS1mbGljaHktbGEtcXVlc3Rpb24tZHUtc2Vucy1hdS10cmF2YWlsLXMtZXN0LXRvdWpvdXJzLXBvc2VlXzU0NTkzOTNfMTY5ODYzNy5odG1s0gEA?oc=5,Patrice Flichy : « La question du sens au travail s'est toujours posée » - Le Monde,2019-05-07,Le Monde,https://www.lemonde.fr,"Le sociologue Patrice Flichy, spécialiste de notre rapport au travail, participera aux Rencontres économiques et sociétales d’Occitanie, le 14 mai à Montpellier.","['O21', 'Avenir numérique', 'Emploi', 'Économie', 'Débats']","Le sociologue Patrice Flichy, spécialiste de notre rapport au travail, participera aux Rencontres économiques et sociétales d’Occitanie, le 14 mai à Montpellier.","Le sociologue Patrice Flichy, spécialiste de notre rapport au travail, participera aux Rencontres économiques et sociétales d’Occitanie, le 14 mai à Montpellier.",https://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lemonde.fr/emploi/article/2019/05/07/patrice-flichy-la-question-du-sens-au-travail-s-est-toujours-posee_5459393_1698637.html'}",Patrice Flichy : « La question du sens au travail s’est toujours posée »,2019-05-07T16:03:46+02:00,2019-05-07T16:03:46+02:00,2019-05-07T16:24:31+02:00,"{'@type': 'Organization', 'name': 'Le Monde', 'logo': {'@type': 'ImageObject', 'url': 'https://asset.lemde.fr/medias/img/logos/lemonde.png', 'width': '240', 'height': '55'}}","['Emploi', 'O21']","[{'@type': 'Person', 'name': 'Julia Zimmerlich'}]","{'@type': 'ImageObject', 'url': 'https://img.lemde.fr/2019/05/07/1064/0/4252/2126/1342/671/60/0/586dd45_KxEW4PuZZWd5bW_kvDAc2NB5.jpg', 'width': '1342', 'height': '696'}","[{'@type': 'ListItem', 'position': 1, 'name': 'A la une', 'item': {'@id': 'https://www.lemonde.fr'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Emploi', 'item': {'@id': 'https://www.lemonde.fr/emploi/'}}, {'@type': 'ListItem', 'position': 3, 'name': 'O21', 'item': {'@id': 'https://www.lemonde.fr/o21/'}}]",N/A,N/A,"         Le sociologue Patrice Flichy, en 2017.  DR   Patrice Flichy est professeur émérite de sociologue à l’université Paris-Est Marne-la-Vallée. Dernier ouvrage paru : Les Nouvelles frontières du travail à l’ère numérique (Seuil, 2017). Comment se définit le travail aujourd’hui ? C’est bien plus que le salariat. La rupture du capitalisme a été de séparer un travail professionnel salarié de ce que j’appelle l’« autre travail », qui recouvre loisirs, passions, bricolage, jardinage, cuisine… Avec le numérique on retrouve cette idée de continuum entre les tâches professionnelles et l’« autre travail ». Sur les plates-formes, chaque individu peut nouer des contacts avec des pairs inconnus et distants, mobiliser de nouvelles compétences acquises par autodidaxie. Autant d’expériences et de compétences que l’on peut réutiliser dans son activité salariée. Les frontières deviennent plus poreuses. Plutôt que de nous libérer du travail, nous tentons de libérer le travail.   Lire aussi  Emery Jacquillat : « Le capitalisme responsable, c’est le capitalisme qui a tout compris »      Ajouter à vos sélections    Certaines entreprises ont du mal à recruter des jeunes diplômés, en quête de sens dans leur travail. Le numérique y est-il pour quelque chose ? La question du sens au travail s’est toujours posée. Dans la culture ouvrière, il y avait un sentiment d’appartenance très fort, une culture de la réalisation de l’objet technique. Aujourd’hui, on est dans une société où les emplois de service dominent. Les emplois industriels font face à l’automatisation. Là où l’ouvrier avait un rapport direct à la matière, aujourd’hui il est face à des systèmes qu’il doit surveiller.  La nécessité de produire de plus en plus vite et l’intensification de la concurrence ont sacrifié le travail bien fait  Au lieu de parler de sens, je préfère parler d’investissement ou d’engagement dans le travail. Dans de nombreux champs de l’économie, la nécessité de produire de plus en plus vite et l’intensification de la concurrence ont sacrifié le travail bien fait. C’est l’un des grands reproches qui sont faits aujourd’hui par les salariés, et c’est la source de nombreuses insatisfactions : on n’a plus le temps de bien faire les choses. Or on sait que c’est une dimension essentielle de l’investissement dans le travail.  Ce qui a changé aussi c’est que le compromis salarial n’est plus le même. On acceptait un travail moyennement satisfaisant contre la promesse d’une sécurité et d’une rémunération stable. Aujourd’hui, lorsque les jeunes entrent sur le marché du travail, ils savent qu’ils vont enchaîner les CDD avant d’espérer décrocher un CDI. Face à cet itinéraire très précaire, beaucoup font le choix de l’indépendance, tout aussi précaire, mais source d’un sentiment d’autonomie.   Lire aussi  Article réservé à nos abonnés Prix du livre RH: L’individu ballotté par les mutations du travail      Ajouter à vos sélections    Dans votre livre vous parlez d’un grand désir de réalisation et d’affirmation de soi de la part des travailleurs… Oui, cette demande d’autonomie est considérable. Elle est liée à l’absence de démocratie dans l’entreprise. Les travailleurs sont peu consultés, peu associés à l’organisation du travail, et souhaitent une modification majeure des règles du jeu dans l’entreprise. Dans une enquête réalisée par la CFDT, un quart des salariés estiment qu’ils travailleraient mieux « sans chef », et près des deux tiers que la hiérarchie ne leur apporte rien. Aussi, les trois quarts d’entre eux souhaiteraient avoir plus d’autonomie. Dans ces conditions, il n’est pas étonnant que le travail indépendant suscite un tel engouement. Le numérique apporte les moyens de mettre en place cette revendication. On voit ainsi apparaître de nouvelles formes de travail extérieures au salariat qui permettent à des outsiders, à des amateurs en voie de professionnalisation de court-circuiter largement l’organisation des professions : chauffeur VTC, livreur à vélo, plombier ou jardinier amateur, logeur Airbnb, etc. Sommes-nous tous égaux face à ces nouvelles formes de travail ? Non, pour les développeurs Web ou les professions intellectuelles, le statut de free-lance est très positif. Mais pour les ouvriers et les employés, les opportunités du travail ouvert sont beaucoup plus restreintes. Les chauffeurs d’Uber sont un bon exemple des ambivalences du numérique. Ils apprécient cette autonomie, de travailler simultanément pour plusieurs employeurs. Il y a chez eux un non-attachement à l’employeur.  Mais il est urgent que ces travailleurs aient les mêmes droits sociaux que les salariés, notamment pour être couverts en cas d’accident du travail ou de chômage. Il est fondamental que ces travailleurs puissent s’organiser. C’est uniquement à travers les organisations de travailleurs et la prise en compte des conflits sociaux que les droits augmentent.  Les Nouvelles Frontières du travail à l’ère numérique, de Patrice Flichy, Seuil, 2017, 432 pages, 24 €   Dossier réalisé en partenariat avec la région Occitanie     Julia Zimmerlich      L’espace des contributions est réservé aux abonnés. Abonnez-vous pour accéder à cet espace d’échange et contribuer à la discussion.    S’abonner     Voir les contributions Réutiliser ce contenu  ",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFjdHVpYS5jb20vYWN0dWFsaXRlL21pY3Jvc29mdC1idWlsZC0yMDE5LXJldHJvdXZlei1sZXMtYW5ub25jZXMtZGUtbGEtcHJlbWllcmUtam91cm5lZS_SAQA?oc=5,Microsoft Build 2019 : retrouvez les annonces de la première journée - Intelligence artificielle - Actu IA,2019-05-07,Intelligence artificielle - Actu IA,https://www.actuia.com,"Du 6 au 8 mai se tient à Seattle la conférence Microsoft Build. L'occasion pour le groupe de faire de grandes annonces, notamment autour de l'intelligence",N/A,"Du 6 au 8 mai se tient à Seattle la conférence Microsoft Build. L'occasion pour le groupe de faire de grandes annonces, notamment autour de l'intelligence","Du 6 au 8 mai se tient à Seattle la conférence Microsoft Build. L'occasion pour le groupe de faire de grandes annonces, notamment autour de l'intelligence",,,,,,,,,,,,,N/A,N/A,"
+
+Microsoft Build 2019 : retrouvez les annonces de la première journée
+
+
+Le 7 mai 2019, par
+Thomas Calvi.
+
+
+
+
+Du 6 au 8 mai se tient à Seattle la conférence Microsoft Build. L’occasion pour le groupe de faire de grandes annonces, notamment autour de l’intelligence artificielle. Ce lundi, les participants ont pu assister au championnat du monde de Imagine Cup et suivre différentes keynotes pour découvrir les nouveautés concernant les plates-formes et les outils Microsoft.
+À l’occasion cette première journée Microsoft Build 2019 plusieurs annonces concernant notamment de nouveaux services de collaboration et de productivité dans les applications et sur le Web, ainsi que des fonctionnalités d’intelligence artificielle dans Microsoft 365 pour mieux répondre à la nature changeante du travail. De plus Microsoft a indiqué mettre à disposition de nouvelles technologies open source et de nouveaux outils Azure et Windows pour les développeurs.
+Dans son discours d’ouverture, le PDG de Microsoft, Satya Nadella, a présenté la vision de l’entreprise et les opportunités de développement offertes par Microsoft Azure, Microsoft Dynamics 365 et Power Platform, Microsoft 365 et Microsoft Gaming.
+“Au fur et à mesure que l’informatique s’intègre à tous les aspects de nos vies, les choix que font les développeurs vont définir le monde dans lequel nous vivons”, a-t-il déclaré. “Microsoft s’est engagé à fournir aux développeurs des outils et des plates-formes fiables couvrant toutes les couches de la pile technologique moderne, afin de créer des expériences magiques qui créent de nouvelles opportunités pour tous.”
+Les nouveautés Microsoft 365
+Microsoft Graph data connect
+Le service permet aux organisations de combiner les données de productivité de Microsoft Graph avec celles de leur propre entreprise et à grande échelle à l’aide d’Azure Data Factory. La connexion de données Microsoft Graph est désormais généralement disponible en tant que fonctionnalité dans Workplace Analytics et en tant que SKU autonome pour les éditeurs de logiciels indépendants (ISV).
+Fluid Framework
+Il s’agit d’une nouvelle plate-forme Web et d’un modèle de document pour des expériences interactives partagées. Elle devrait être disponible pour les développeurs plus tard cette année via un kit de développement logiciel. Elle permettra notamment de :
+
+déconstruire et de reconstituer le contenu, provenant par exemple d’applications Web ou d’applications de productivité, en composants modulaires afin que les utilisateurs puissent créer plus facilement ensemble.
+offrir des expériences de co-création multi-utilisateurs hautes performances.
+créer un espace permettant aux agents intelligents de collaborer avec l’humain pour co-écrire, récupérer du contenu, fournir des suggestions de photos, identifier des experts, traduire des données, etc.
+
+Microsoft Edge
+Une nouvelle version de Microsoft Edge a été annoncée avec un mode IE pour intégrer le navigateur dans Microsoft Edge via un onglet, des outils de confidentialité supplémentaires et le système Collections pour collecter, organiser, partager et exporter du contenu plus facilement, notamment via Office.
+Les agents intelligents
+Microsoft a également développé sa vision quant à l’avenir des agents intelligents. Cette nouvelle approche est axée sur la création d’interfaces de conversation puissantes à partir de données et du machine learning plutôt que de règles et de code.
+“Nous envisageons un monde où chaque organisation a un agent, comme aujourd’hui où chaque organisation a un site Web. Et l’expérience est tout à fait naturelle avec un dialogue multitours, couvrant plusieurs domaines et, surtout, utilisant plusieurs agents. Avec l’ajout de l’équipe Semantic Machines, nous accélérons notre travail ici. Cette technologie sera intégrée à nos expériences de conversation, y compris à Cortana, et sera mise à la disposition des développeurs dans Microsoft Bot Framework et Azure Bot Service”.
+Nouvelles technologies open source et outils de développement pour créer des applications intelligentes
+Azure Kubernetes Service (AKS) est l’un des services d’Azure à la croissance la plus rapide, utilisé par des sociétés mondiales comme ASOS pour gérer l’infrastructure de conteneur d’applications en nuage à grande échelle, offrant une fiabilité et une flexibilité accrues. Au moment de la construction, Microsoft fournit plusieurs nouvelles fonctionnalités afin d’alimenter et de protéger les charges de travail Kubernetes :
+KEDA ( Kubernetes Event-driven Autoscaling) est un composant open source qui prend en charge le déploiement de containers sans serveur pilotés par les événements sur Kubernetes, créés en collaboration avec Red Hat. KEDA présente désormais une nouvelle option d’hébergement pour Azure Functions qui peut être déployée en tant que container dans des clusters Kubernetes.
+Azure Policy for AKS applique les règles de sécurité et aide à protéger les clusters AKS de manière centralisée et cohérente. Azure Policy bloque toutes les violations se produisant au moment de l’exécution et effectue des évaluations de la conformité sur tous les clusters existants pour une visibilité à jour de l’environnement.
+Q#
+Microsoft a conçu Q# spécialement pour la programmation quantique, fournissant un langage de programmation accessible de haut niveau avec un système de type natif pour les qubits, les opérateurs et d’autres abstractions. Les développeurs passent la majeure partie de leur journée à naviguer entre applications, services et outils. Pour simplifier les choses, Microsoft a intégré Azure Active Directory (Azure AD) à GitHub. Cela permet aux clients de GitHub Enterprise de bénéficier des avantages de la gestion et de la sécurité des ID Azure AD, ainsi que de la synchronisation des comptes entre les systèmes. Les développeurs peuvent désormais également utiliser leur compte GitHub existant, notamment Azure Portal et Azure DevOps, pour se connecter à Azure. Cette mise à jour permet aux développeurs GitHub de passer du référentiel au déploiement avec seulement leur compte GitHub.
+Hyperscale (Citus)
+La nouvelle option Hyperscale (Citus) dans Azure Database for PostgreSQL rejoint Azure SQL Database Hyperscale pour permettre aux développeurs de créer des applications évolutives et à faible latence en utilisant leurs compétences existantes. Azure Database Hyperscale étend de manière significative les ressources de calcul, de stockage et de mémoire en fonction des besoins, permettant aux développeurs de se concentrer sur la création d’expériences d’application sans se soucier des performances et des limitations en termes d’échelle.
+
+
+
+
+Recevez gratuitement l'actualité de l'intelligence artificielle
+Suivez la Newsletter de référence sur l'intelligence artificielle (+ de 18 000 membres), quotidienne et 100% gratuite.  
+
+Adresse e-mail 
+
+
+
+Prénom
+
+
+
+Nom
+
+
+
+Organisme/Société
+
+
+Fréquence
+
+ Quotidienne
+
+
+ Hebdomadaire - lundi matin
+
+
+ Hebdomadaire - vendredi après-midi
+
+
+
+
+
+
+Tout comme vous, nous n'apprécions pas le spam. Vos coordonnées ne seront transmises à aucun tiers.Laissez ce champ vide si vous êtes humain :  
+ ",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZnIuYWZyaWNhbmV3cy5jb20vMjAxOC8xMC8xOS9pbnNwaXJlLW1pZGRsZS1lYXN0LWxlLW1veWVuLW9yaWVudC1hLWxhLXBvaW50ZS1kZXMtbm91dmVsbGVzLXRlY2hub2xvZ2llcy_SAXRodHRwczovL2ZyLmFmcmljYW5ld3MuY29tL2FtcC8yMDE4LzEwLzE5L2luc3BpcmUtbWlkZGxlLWVhc3QtbGUtbW95ZW4tb3JpZW50LWEtbGEtcG9pbnRlLWRlcy1ub3V2ZWxsZXMtdGVjaG5vbG9naWVzLw?oc=5,Inspire Middle East : le Moyen-Orient à la pointe des nouvelles technologies - Africanews Français,2019-05-09,Africanews Français,https://fr.africanews.com,"Inspire Middle East vous emmène cette semaine au salon GITEX de Dubaï, pour découvrir les dernières innovations technologiques à s'implanter dans la région.",N/A,"Inspire Middle East vous emmène cette semaine au salon GITEX de Dubaï, pour découvrir les dernières innovations technologiques à s'implanter dans la région.","Inspire Middle East vous emmène cette semaine au salon GITEX de Dubaï, pour découvrir les dernières innovations technologiques à s'implanter ...",http://schema.org,Article,,,,2018-10-19T15:50:04+02:00,,"{'@type': 'Organization', 'name': 'Africanews'}",Monde,,https://static.euronews.com/articles/569637/900x506_569637.jpg,,N/A,N/A,,,,Inspire Middle East : le Moyen-Orient à la pointe des nouvelles technologies,,,http://fr.africanews.com/2018/10/19/inspire-middle-east-le-moyen-orient-a-la-pointe-des-nouvelles-technologies/,,,,,,,,"{'@type': 'AggregateRating', 'ratingValue': ''}"
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc2llY2xlZGlnaXRhbC5mci8yMDE5LzA1LzA3L2lhLWdvb2dsZS1vdXZyZS1zYS1iYXNlLWRlLWRvbm5lZXMtYXZlYy1wbHVzLWRlLTUtbWlsbGlvbnMtZGltYWdlcy_SAQA?oc=5,IA : Google ouvre sa base de données avec plus de 5 millions d'images - Siècle Digital,2019-05-07,Siècle Digital,https://siecledigital.fr,La division de recherche sur l'IA de Google ouvre sa base de données au grand public pour partager l'étendue de son travail.,N/A,La division de recherche sur l'IA de Google ouvre sa base de données au grand public pour partager l'étendue de son travail.,N/A,https://schema.org,,,,,,,,,,,,N/A,N/A,"
+
+
+Intelligence artificielle
+
+IA : Google ouvre sa base de données avec plus de 5 millions d’images
+Le géant américain lance deux défis aux passionnés d'intelligence artificielle. Les concurrents auront le choix : soit ils devront concevoir des modèles d'IA , soit ils auront la tâche de détecter des points de repère.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+Par Valentin Cimino
+
+					- @ciminix
+
+
+
+Publié le 7 mai 2019 à 09h15
+
+
+
+La division de recherche sur l’intelligence artificielle de Google a décidé d’ouvrir sa base de données au grand public pour partager l’étendue de son travail. Si un système d’intelligence artificielle est capable de reconnaître avec précision tel ou tel point de repère à travers le monde, c’est bien parce que sa base de données est extrêmement riche. Google Landmarks V2, c’est son petit nom compte plus de 5 millions d’images et 200 000 points de repères.
+Carte thermique montrant les points de repère présents dans la base de données de Google.
+
+
+Inscrivez-vous à la newsletter
+
+
+
+
+En vous inscrivant vous acceptez notre politique de protection des données personnelles.
+
+
+Une intelligence artificielle est aujourd’hui capable de dire si la chute d’eau qu’elle aperçoit correspond plutôt aux chutes du Niagara ou aux chutes Victoria en Afrique. Pour réussir cette prouesse, elle se base sur des points de repère. En plus d’avoir ouvert ce vaste réseau, Google lance deux défis sur sa plateforme dédiée au machine learning, Kaggle.
+Pour participer à Landmark Recognition 2019, vous devrez concevoir des modèles d’intelligence artificielle capables de détecter des points de repère. Si vous souhaitez plutôt vous lancer dans le Landmark Retrieval 2019, vous pourrez utiliser un système d’IA pour trouver des images montrant un point de repère.
+Bingyi Cao et Tobias Weyand, ingénieurs logiciels chez Google AI expliquent que : « les méthodes de reconnaissance et de récupération d’images nécessitent des ensembles de données de plus en plus volumineux, tant au niveau du nombre d’images que dans la variété des points de repère, afin de former des systèmes plus complets et robustes. Nous souhaitons que cet ensemble de données aide à faire progresser l’intelligence artificielle ».
+Les ingénieurs espèrent qu’en ouvrant Google Landmarks V2 au grand public, la recherche sur l’IA continuera de progresser. Concernant les deux défis lancés sur Kaggle, ils précisent que les équipes gagnantes de leurs concours seront invitées à venir présenter leurs résultats à l’occasion d’une conférence organisée par Google à Long Beach en Californie, dans le courant de l’année 2019.
+
+
+
+
+
+
+Google
+
+machine learning
+ 
+
+
+
+
+
+
+
+
+À lire aussi
+
+
+
+
+Google révèle une hausse de 13% de ses émissions de CO2, l’IA pointée du doigt
+Lire l'article
+
+
+SK Hynix met le paquet sur les composants dont dépend Nvidia
+Lire l'article
+
+
+La MNH et la FHF dévoilent les lauréats des Prix de la Communication Hospitalière
+Lire l'article
+
+
+Équilibrer la sécurité et l’autonomie : stratégies pour les RSSI à l’ère de l’informatique dématérialisée
+Lire l'article
+
+
+France : Nvidia dans le viseur de l’Autorité de la Concurrence
+Lire l'article
+
+
+L’intelligence artificielle révolutionne le monde de la traduction web
+Lire l'article
+
+
+
+
+ 
+
+
+
+
+","[{'@type': 'NewsArticle', '@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#article', 'isPartOf': {'@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/'}, 'author': {'name': 'Valentin Cimino', '@id': 'https://siecledigital.fr/#/schema/person/300c61e3434318775c9f8785a08168a0'}, 'headline': 'IA : Google ouvre sa base de données avec plus de 5 millions d&rsquo;images', 'datePublished': '2019-05-07T07:15:09+00:00', 'dateModified': '2019-05-07T07:15:09+00:00', 'mainEntityOfPage': {'@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/'}, 'wordCount': 375, 'commentCount': 0, 'publisher': {'@id': 'https://siecledigital.fr/#organization'}, 'image': {'@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#primaryimage'}, 'thumbnailUrl': 'https://siecledigital.fr/wp-content/uploads/2019/05/n.jpg', 'keywords': ['Google', 'machine learning'], 'articleSection': ['Intelligence artificielle'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#respond']}], 'copyrightYear': '2019', 'copyrightHolder': {'@id': 'https://siecledigital.fr/#organization'}}, {'@type': 'WebPage', '@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/', 'url': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/', 'name': ""IA : Google ouvre sa base de données avec plus de 5 millions d'images"", 'isPartOf': {'@id': 'https://siecledigital.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#primaryimage'}, 'image': {'@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#primaryimage'}, 'thumbnailUrl': 'https://siecledigital.fr/wp-content/uploads/2019/05/n.jpg', 'datePublished': '2019-05-07T07:15:09+00:00', 'dateModified': '2019-05-07T07:15:09+00:00', 'description': ""La division de recherche sur l'IA de Google ouvre sa base de données au grand public pour partager l'étendue de son travail."", 'breadcrumb': {'@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#primaryimage', 'url': 'https://siecledigital.fr/wp-content/uploads/2019/05/n.jpg', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2019/05/n.jpg', 'width': 2522, 'height': 1244, 'caption': 'Google AI ouvre sa base de données.'}, {'@type': 'BreadcrumbList', '@id': 'https://siecledigital.fr/2019/05/07/ia-google-ouvre-sa-base-de-donnees-avec-plus-de-5-millions-dimages/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://siecledigital.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Intelligence artificielle', 'item': 'https://siecledigital.fr/intelligence-artificielle/'}, {'@type': 'ListItem', 'position': 3, 'name': 'IA : Google ouvre sa base de données avec plus de 5 millions d&rsquo;images'}]}, {'@type': 'WebSite', '@id': 'https://siecledigital.fr/#website', 'url': 'https://siecledigital.fr/', 'name': ""Siècle Digital - L'actualité internationale de l'économie du numérique"", 'description': 'Siècle Digital l’actualité de l’économie du numérique', 'publisher': {'@id': 'https://siecledigital.fr/#organization'}, 'alternateName': 'Siècle Digital', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://siecledigital.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://siecledigital.fr/#organization', 'name': 'Siècle Digital', 'url': 'https://siecledigital.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/#/schema/logo/image/', 'url': 'https://siecledigital.fr/wp-content/uploads/2019/10/logo-horizontal-dark.png', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2019/10/logo-horizontal-dark.png', 'width': 843, 'height': 142, 'caption': 'Siècle Digital'}, 'image': {'@id': 'https://siecledigital.fr/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/siecledigital/', 'https://x.com/siecledigital', 'https://www.instagram.com/siecledigital/', 'https://www.linkedin.com/company/sicle-digital', 'https://www.pinterest.fr/siecledigital/']}, {'@type': 'Person', '@id': 'https://siecledigital.fr/#/schema/person/300c61e3434318775c9f8785a08168a0', 'name': 'Valentin Cimino', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://siecledigital.fr/#/schema/person/image/', 'url': 'https://siecledigital.fr/wp-content/uploads/2018/09/valentin-cimino-150x150.jpg', 'contentUrl': 'https://siecledigital.fr/wp-content/uploads/2018/09/valentin-cimino-150x150.jpg', 'caption': 'Valentin Cimino'}, 'description': ""Valentin Cimino est rédacteur web indépendant. Il collabore avec Siècle Digital, ainsi que Agorapulse et Welcome to the Jungle. Il couvre les sujets d'actualités en lien avec les nouvelles technologies."", 'sameAs': ['https://x.com/ciminix'], 'url': 'https://siecledigital.fr/author/valentincimino/'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5sZW1vbmRlLmZyL3NjaWVuY2VzL2FydGljbGUvMjAxOS8wNS8wNy9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWV0LW1lZGVjaW5lLWRlcy1wcm9tZXNzZXMtZXQtYmVhdWNvdXAtZGUtcXVlc3Rpb25zXzU0NTkzOTBfMTY1MDY4NC5odG1s0gEA?oc=5,Intelligence artificielle et médecine : des promesses et beaucoup de questions - Le Monde,2019-05-07,Le Monde,https://www.lemonde.fr,"Ces nouveaux outils doivent encore faire la preuve de leur intérêt, et soulèvent des questions éthiques et pratiques, à la fois pour le pratiquant et le patient. A Montpellier, le mardi 14 mai 2019, les Rencontres économiques et sociétales d’Occitanie (RESO) exploreront le futur de l’emploi à l’heure de la transformation numérique.","['O21', 'Médecine', 'Sciences', 'Intelligence artificielle']","Ces nouveaux outils doivent encore faire la preuve de leur intérêt, et soulèvent des questions éthiques et pratiques, à la fois pour le pratiquant et le patient. A Montpellier, le mardi 14 mai 2019, les Rencontres économiques et sociétales d’Occitanie (RESO) exploreront le futur de l’emploi à l’heure de la transformation numérique.","Ces nouveaux outils doivent encore faire la preuve de leur intérêt, et soulèvent des questions éthiques et pratiques, à la fois pour le pratiquant et le patient. A Montpellier, le mardi 14 mai 2019, les Rencontres économiques et sociétales d’Occitanie (RESO) exploreront le futur de l’emploi à l’heure de la transformation numérique.",https://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lemonde.fr/sciences/article/2019/05/07/intelligence-artificielle-et-medecine-des-promesses-et-beaucoup-de-questions_5459390_1650684.html'}",Intelligence artificielle et médecine : des promesses et beaucoup de questions,2019-05-07T16:02:56+02:00,2019-05-07T16:02:56+02:00,2023-02-24T12:47:45+01:00,"{'@type': 'Organization', 'name': 'Le Monde', 'logo': {'@type': 'ImageObject', 'url': 'https://asset.lemde.fr/medias/img/logos/lemonde.png', 'width': '240', 'height': '55'}}","['Sciences', 'O21']","[{'@type': 'Person', 'name': 'Florence Rosier'}]","{'@type': 'ImageObject', 'url': 'https://img.lemde.fr/2019/05/06/0/0/5472/2733/1342/671/60/0/4c5368e_VCnCZlyn_ON27SoGuNFqK32k.jpg', 'width': '1342', 'height': '696'}","[{'@type': 'ListItem', 'position': 1, 'name': 'A la une', 'item': {'@id': 'https://www.lemonde.fr'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Sciences', 'item': {'@id': 'https://www.lemonde.fr/sciences/'}}, {'@type': 'ListItem', 'position': 3, 'name': 'O21', 'item': {'@id': 'https://www.lemonde.fr/o21/'}}]",N/A,N/A,"         Les chirurgiens utilisent un système de contrôle à distance pour opérer avec un système chirurgical robotique Da Vinci Xi à l’hôpital Robert-Debré, à Paris, le 5 avril 2019. 144 de ces robots ont déjà été installés en France.  THOMAS SAMSON / AFP   « Le développement de l’IA est appelé à transformer en profondeur les pratiques des professionnels de santé : aide au diagnostic, appui à la construction d’une thérapie, suivi évolutif du patient… », affirment les auteurs du rapport Villani, Donner un sens à l’intelligence artificielle (mars 2018). Mais à quelle échéance ? Pour l’heure, seuls les algorithmes développés au service de l’imagerie médicale devraient s’imposer rapidement. L’agence américaine du médicament, la FDA, a ainsi donné son feu vert, en avril 2018, à la mise sur le marché d’un premier logiciel capable de diagnostiquer, à partir d’une photo (le fond d’œil du patient), une déficience visuelle liée au diabète, la rétinopathie diabétique. Pour la première fois au monde, une IA était autorisée (aux Etats-Unis) à poser un diagnostic sans qu’un médecin intervienne.   Lire aussi  Comment l’intelligence artificielle va bouleverser les professions de santé      Ajouter à vos sélections     Les concepteurs de ces outils devront aussi convaincre les médecins de les adopter – et l’Assurance-maladie de les financer  Mais ces outils doivent encore faire la preuve de leur robustesse et de leur intérêt. « On manque d’études prospectives pour évaluer leur bénéfice net, s’il existe, dans la pratique clinique », admettent les auteurs d’un éditorial publié dans la revue Nature Medicine, le 7 janvier. « Le développement de ces nouveaux outils est plus complexe que prévu, confirme Francis Besse, radiologue au centre cardiologique du Nord à Saint-Denis. Mais les barrières tombent très vite. » On reproche ainsi un manque de transparence à ces algorithmes. « Mais les spécialistes du traitement du signal, comme le mathématicien Stéphane Mallat, du Collège de France, commencent à comprendre cette boîte noire. » Les concepteurs de ces outils devront aussi convaincre les médecins de les adopter – et l’Assurance-maladie de les financer. « Pour que ces algorithmes soient mieux acceptés des médecins, ils devront intégrer les règles et les contraintes de leur métier », souligne Nikos Paragios, professeur de mathématique à CentraleSupélec. Le problème de l’accès aux données Autre obstacle : les barrières réglementaires. « On ignore quelles seront les procédures d’homologation de ces logiciels », indique Alain Livartowski, directeur des data de l’Institut Curie (Paris). Un algorithme validé sur des populations américaines, par exemple, sera-t-il valable sur des populations européennes, asiatiques ou africaines ? Sans compter que, pour entraîner ces algorithmes à reconnaître des images médicales, il faut une masse considérable de données de santé. « Le principal problème des sociétés qui développent ces outils, c’est l’accès à ces données, témoigne Francis Besse, soulevant une vague de questions morales, éthiques et juridiques. Qui est propriétaire de ces données : le malade ? le médecin ? l’hôpital ? le data center ? les financeurs du système de santé ? Comment faire pour que la protection de l’individu ne s’oppose pas à l’intérêt collectif, en freinant l’avancée de la recherche ? »   Lire aussi  Article réservé à nos abonnés Révolutions numériques et des professions de santé : préparons-nous dès maintenant !      Ajouter à vos sélections    De fait, l’accès à ces données présente une vertigineuse asymétrie, de part et d’autre de l’Atlantique. En France et en Europe, ces données doivent être compatibles avec les règles posées par la CNIL et le RGPD, alors que, aux Etats-Unis, les Gafam en collectent à foison et sans états d’âme. Dernier casse-tête, et non des moindres, celui de la responsabilité. Si un logiciel d’IA fait une erreur, et si le médecin suit son « avis », qui sera responsable ? « Il est probable que le médecin ne sera pas dégagé de sa responsabilité, ce qui est une bonne chose », estime Alain Livartowski. Fl. R.  Dossier réalisé en partenariat avec la Région Occitanie.     Florence Rosier      L’espace des contributions est réservé aux abonnés. Abonnez-vous pour accéder à cet espace d’échange et contribuer à la discussion.    S’abonner     Voir les contributions  ",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5hY3R1aWEuY29tL2FjdHVhbGl0ZS9kZWNvdXZyZXotbGVzLTE1LXByb2pldHMtaW5ub3ZhbnRlcy1zZWxlY3Rpb25uZXMtZGFucy1sZS1jYWRyZS1kdS1zYWxvbi1oYW5kaWNhcC1lbXBsb2ktZXQtYWNoYXRzLXJlc3BvbnNhYmxlcy_SAQA?oc=5,"Découvrez les 15 projets innovants sélectionnés dans le cadre du Salon Handicap, Emploi et Achats Responsables - Intelligence artificielle - Actu IA",2019-05-09,Intelligence artificielle - Actu IA,https://www.actuia.com,"Le Salon Handicap, Emploi & Achats Responsables se tiendra le 28 mai prochain. Engagé en faveur du développement de l’innovation inclusive, il a",N/A,"Le Salon Handicap, Emploi & Achats Responsables se tiendra le 28 mai prochain. Engagé en faveur du développement de l’innovation inclusive, il a","Le Salon Handicap, Emploi & Achats Responsables se tiendra le 28 mai prochain. Engagé en faveur du développement de l’innovation inclusive, il a",,,,,,,,,,,,,N/A,N/A,"
+
+Découvrez les 15 projets innovants sélectionnés dans le cadre du Salon Handicap, Emploi et Achats Responsables
+
+
+Le 9 mai 2019, par
+Pierre-yves Gerlat.
+
+
+
+
+Le Salon Handicap, Emploi & Achats Responsables se tiendra le 28 mai prochain. Engagé en faveur du développement de l’innovation inclusive, il a sélectionné 15 projets innovants dans le cadre de son Programme Innovation & Start up suite à son appel à projets de mars dernier. Ils ont vocation à améliorer le quotidien des personnes en situation de handicap.
+Les porteurs de ces projets présenteront leur service ou produit lors du Salon le 28 mai prochain et tenteront de remporter un des trois trophées mis en compétition.
+Plus de 300 dossiers de candidature qui mettent en lumière des solutions innovantes au service de l’inclusion des personnes en situation de handicap, ont été reçus suite à l’appel à projets lancé en mars dernier. Les experts du comité de sélection, composé de représentants du groupe Les Echos Le Parisien, Société Générale, Handicap.fr, EY, Vivre FM, Agefiph, FIPHFP, APF Entreprises, Comptoir des solutions, CCAH, se sont réunis début avril pour choisir les 15 projets considérés comme les plus innovants.
+Ces 15 start up présenteront leurs innovations aux 4000 visiteurs attendus le 28 mai prochain et participeront à l’issue de la journée à un concours de pitch dont les lauréats se verront décerner les trophées suivants : « Trophée de l’Innovation 2019 », « Trophée AGEFIPH – Emploi et Formation », ou « Trophée APF France Handicap – Pouvoir d’agir ».
+Au travers de ce programme, la 4ème édition du Salon Handicap, Emploi & Achats Responsables met en avant sa volonté de placer son expertise au service du développement de l’innovation inclusive.
+Sophie Rouxel, Commissaire générale du Salon et membre du comité de sélection a indiqué :
+« Le Salon Handicap, Emploi & Achats responsables soutient et encourage l’innovation au service du bien-être et de l’amélioration du quotidien des personnes en situation de handicap. Les 15 projets retenus par le comité de sélection du Programme Innovation & Start up ont su faire des nouvelles technologies un véritable levier d’inclusion sociale. Nous sommes très heureux de les accueillir sur le Salon pour présenter leurs solutions à nos visiteurs et pour montrer que l’innovation est indispensable à l’inclusion ! ».
+Les projets sélectionnés
+Ils ont été sélectionnés par le Programme Innovation & Start up :
+
+AWABOT SOLUTIONS a mis au point un robot de téléprésence mobile BEAM permettant aux collaborateurs empêchés ou en situation de handicap de continuer à avoir accès à l’entreprise et à la vie sociale de celle-ci. Par rapport à un système de visioconférence classique, le robot de téléprésence mobile BEAM permet de communiquer et collaborer à distance mais aussi de se déplacer de manière autonome au sein même de l’espace distant, en pilotant le dispositif très simplement.
+Le logiciel EMOFACE s’adresse aux personnes atteintes de troubles du spectre autistique qui sont confrontées tous les jours à des difficultés de compréhension et d’acquisition des compétences sociales. Il s’agit d’une application pour tablette tactile qui utilise des personnages 3D expressifs et interactifs pour apprendre les émotions et les compétences sociales de manière ludique.
+WHEN YOUR EYES SPEAK (Impact for the people) est une technologie oculaire permettant aux personnes paralysées et dans l’incapacité de s’exprimer de pouvoir communiquer. Ce dispositif allie une paire de lunettes munies de capteurs infrarouges détectant les clignements volontaires, à une interface de communication enrichie d’une intelligence artificielle. Il s’adapte à toutes les pathologies paralysantes empêchant la communication, à l’état d’avancement de la maladie ainsi qu’à la fatigue oculaire du patient.
+
+Ont également été retenus :
+
+AIDODYS développe des outils numériques pour favoriser l’inclusion sociale. Ces ressources numériques sont à destination des personnes atteintes de troubles cognitifs, de déficiences visuelles ou de troubles DYS.
+BOOSTY+ (GYROBOOST) permet à un utilisateur, une fois installé sur son siège de voiture, de télécommander à son fauteuil électrique, muni de capteurs et de caméras d’aller de la portière de la voiture jusqu’à l’arrière pour qu’il monte et se fixe à l’aide d’un électro-aimant sur le porte-chariot.
+GYROLIFT est une technologie novatrice et universelle d’assise robotisée verticalisatrice qui s’adapte à une majorité de gyropodes. L’ensemble est un dispositif électrique de mobilité inclusive pour tout utilisateur, permettant de se déplacer aussi bien assis que debout.
+HELPICTO est un traducteur du langage oral en images pour les personnes présentant des troubles de la communication.
+L’application OTO (OTONOMY) permet au client en difficulté de régler un achat en espèces sans faire d’erreur, et propose aussi un assistant à la caisse enregistreuse qui permet de rendre la monnaie à un client sans faire d’erreur.
+ACCUEIL SMILE (Hangagés) est un e-learning destiné aux collaborateurs des commerces, administrations et établissements publics pour mieux accueillir les clients/usagers qui ont des besoins spécifiques.
+RÉALITÉ (BBIRD) est une expérience et une immersion en réalité virtuelle pour vivre, agir, sensibiliser et casser les préjugés sur le handicap.
+MON COPILOTE (Handivalise) aide les personnes handicapées et âgées à se déplacer plus facilement grâce à une plateforme de co-trajet solidaire.
+MYEYE (ORCAM) est une mini caméra à clipper sur n’importe quelle monture de lunette. Elle est munie d’un mini haut-parleur qui permet de restituer le texte (image/visage) photographié par la caméra, instantanément, simplement et discrètement.
+La BULLE ELIX (SIGNE DE SENS) est un outil permettant d’accéder, à partir de n’importe quelle page web, à la traduction de mots et à leurs définitions en langue des signes française.
+SMARTEAR est le fruit d’une Start up permettant aux personnes sourdes ou malentendantes de « voir les sons », grâce à un boitier mobile et indépendant qui “remplace l’oreille”.
+ZERO BARRIER (SOLI’VERS) favorise l’inclusion et la mobilité professionnelles des personnes en situation de handicap. Cette solution s’adresse aux structures employant des personnes en situation de handicap, et souhaitant les accompagner vers la reconnaissance sociale et professionnelle.
+
+
+
+
+
+Recevez gratuitement l'actualité de l'intelligence artificielle
+Suivez la Newsletter de référence sur l'intelligence artificielle (+ de 18 000 membres), quotidienne et 100% gratuite.  
+
+Adresse e-mail 
+
+
+
+Prénom
+
+
+
+Nom
+
+
+
+Organisme/Société
+
+
+Fréquence
+
+ Quotidienne
+
+
+ Hebdomadaire - lundi matin
+
+
+ Hebdomadaire - vendredi après-midi
+
+
+
+
+
+
+Tout comme vous, nous n'apprécions pas le spam. Vos coordonnées ne seront transmises à aucun tiers.Laissez ce champ vide si vous êtes humain :  
+ ",,,,,,,,,,,,,,

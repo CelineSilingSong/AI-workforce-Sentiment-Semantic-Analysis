@@ -1,0 +1,1506 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,name,potentialAction,logo,contactPoint,itemListElement,headline,publisher,about,abstract,author,datePublished,article:section,article:summary,article text,@graph,mainEntityOfPage,dateModified,speakable,image,alternativeHeadline,articleSection,isAccessibleForFree,thumbnailUrl
+https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5lZGYuZnIvZ3JvdXBlLWVkZi9pbnZlbnRlci1sLWF2ZW5pci1kZS1sLWVuZXJnaWUvci1kLXVuLXNhdm9pci1mYWlyZS1tb25kaWFsL3RvdXRlcy1sZXMtYWN0dWFsaXRlcy1kZS1sYS1yLWQvaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1ldC1leHBsaWNhYmlsaXRl0gEA?oc=5,Intelligence Artificielle et Explicabilité - EDF,2020-10-07,EDF,https://www.edf.fr,N/A,N/A,N/A,N/A,https://schema.org,Article,https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial/toutes-les-actualites-de-la-r-d/intelligence-artificielle-et-explicabilite,Intelligence Artificielle et Explicabilité,"{'@type': 'SearchAction', 'target': 'https://www.edf.fr/resultats?keywords={search_term_string}', 'query-input': 'required name=search_term_string'}",https://www.edf.fr/themes/custom/nova/assets/images/logos/logo_edf_carre.png,"[{'@type': 'ContactPoint', 'telephone': '+33 970 833 333', 'contactType': 'bill payment', 'areaServed': 'FR'}, {'@type': 'ContactPoint', 'telephone': '+339 69 32 15 15', 'contactType': 'customer support', 'areaServed': 'FR'}]","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.edf.fr/', 'name': 'EDF France'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.edf.fr/groupe-edf', 'name': 'Groupe EDF'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie', 'name': ""Inventer l'avenir de l'énergie""}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial', 'name': 'R&D : un savoir-faire mondial'}}, {'@type': 'ListItem', 'position': 5, 'item': {'@id': 'https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial/toutes-les-actualites-de-la-r-d', 'name': 'Toutes les actualités de la R&D'}}, {'@type': 'ListItem', 'position': 6, 'item': {'@id': '', 'name': 'Intelligence Artificielle et Explicabilité'}}]",Intelligence Artificielle et Explicabilité,"{'@type': 'Organization', 'name': 'EDF'}",[],,"{'@type': 'Organization', 'name': 'EDF'}",07/10/2020,N/A,N/A,"
+
+
+
+
+
+Intelligence Artificielle et Explicabilité
+
+
+Publié le 07/10/2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Cet entretien est réalisé avec la direction Recherche et Développement d’EDF, et notamment les chercheurs des centres de recherche EDF Lab Paris-Saclay et EDF Lab les Renardières, en collaboration avec la direction de l’Action Régionale  en Occitanie, partenaire du Cluster Digital 113. Il s’articule autour des différents projets menés par la R&D autour de l’intelligence artificielle dans le domaine de la relation client.
+Interview de David  MENGA, Ingénieur Chercheur à la R&D d'EDFDavid Menga, pouvez-vous vous présenter ? 
+Bonjour, je suis ingénieur chercheur au sein d’EDF Lab Paris-Saclay. J’ai fait une école d’informatique (ENSIMAG à Grenoble) et comme tous les informaticiens, je m’intéresse à d’autres choses. Aujourd’hui, je porte mon attention sur tous les environnements smart (smart home, building, city, port) et plus particulièrement sur la smart home. 
+Comment l’IA* s’inscrit-elle dans vos missions chez EDF ?
+Aujourd’hui, je travaille sur un projet de recherche baptisé SEIDO (ndlr : La R&D d’EDF et Télécom ParisTech collaborent depuis 2012 dans le cadre d’un laboratoire commun de recherche dont les travaux portent sur la thématique de l’Internet des Objets et la Cyber sécurité pour les systèmes électriques) et dans ce cadre, je co-dirige, avec Mathieu SCHUMANN, une thèse sur l’IA explicable dans le domaine de la « smart home » (maison intelligente). Comment EDF se positionne en IA ?
+EDF explore toutes les possibilités qu’offre l’IA pour l’ensemble de ses métiers.Pour ce qui concerne la relation client, domaine sur lequel je travaille, il y a 2 types d’IA : 
+ « L’aiguilleur » sous forme de BOT** qui assigne la bonne personne en fonction de la demande.
+« Le téléconseiller augmenté », ici l’IA assiste le conseiller dans son travail en interaction avec le client, en lui donnant au bon moment et en temps réel les infos dont il a besoin pour répondre efficacement à ses demandes.
+C’est l’IA qui assiste, conseille et recommande.
+Chez EDF, nous utilisons aussi l’IA pour optimiser, généralement nous optimisons des processus non critiques (comme l’approvisionnement ou la maintenance). L’enjeu de demain est de rentrer dans les processus critiques (comme le fonctionnement d’une centrale de production électrique) … Peut-on avoir confiance en l’IA ?
+
+ 
+ La notion de confiance s’appuie sur plusieurs éléments :
+Il faut d’abord s’assurer que l’IA fasse bien ce pour quoi elle est faite ! Il faudrait une sorte de certification comme pour un Airbus ! C’est une condition sine qua non pour l’utiliser en toute sérénité.
+Le deuxième point, c’est d’avoir une certaine compréhension du fonctionnement de l’IA pour éviter toute surprise.
+Enfin, l’IA doit être capable d’expliquer ses décisions et c’est là que la notion d’explicabilité intervient… IA & explicabilité : pouvez-vous nous en dire plus ?
+Quand une personne voit quelque chose qui ne correspond pas à ce qu’elle attendait, par exemple je n’ai pas la température demandée, la 1ère question qu’elle se pose est « pourquoi ça se passe comme cela ?». Un système intelligent doit être capable d’apporter des réponses soit à un professionnel, soit à un client ou un usager.D’une part, pour le rassurer, d’autre part et en cas de problème, pour pouvoir le gérer efficacement, par exemple en lui suggérant une action. L’IA ne se contente pas d’analyser, mais d’agir avec le consentement éclairé de l’utilisateur car nous lui avons expliqué pourquoi. Nous passons ainsi d’une IA d’analyse et d’optimisation à une IA d’action.
+L’explicabilité renvoie aux notions d’auditabilité et de gestion des risques. Nous allons vers plus de délégations d’actions, vers des systèmes autonomes. La crise sanitaire actuelle qui promeut les actions sans contact, à distance, renforce cette tendance. 
+Quels travaux sont menés au sein d’EDF sur ce thème ?
+  L’explicabilité vient augmenter la confiance qui est un élément important et indispensable dans les processus critiques. Nous travaillons donc à intégrer plus d’IA dans les processus critiques comme la production d’énergie.Et il y a également l’IA de confiance dans la maison.Nous avons besoin de satisfaire les besoins de confort d’une famille ; confort mis en œuvre par des équipements qui s’adaptent aux différents contextes. Par ex : Ma belle-mère qui est frileuse arrive, il faut adapter le chauffage et monter la température.
+Nous avons imaginé une IA capable de résoudre ces problèmes et qui est directement connectée aux équipements lourds en termes de valeur énergétique (comme la chaudière, la pompe à chaleur ou encore l’installation photovoltaïque). Ces équipements sont aussi ceux qui ont une haute valeur de confort pour le client, en fait cela correspond aux équipements critiques en production dans nos industries.Physiquement, cette IA se logera dans le tableau électrique qui est le hub énergétique numérique de la maison. 
+Qu’est-ce qui est innovant dans cette offre ? Il existe déjà des Alexa ou encore Google Home ?
+Effectivement avec Alexa ou Google Home, nous savons poser des questions et avoir des services, l’IA est déjà dans maison mais c’est une IA dans laquelle il y a peu de confiance. Aujourd’hui si nous voulons exister dans la maison, nous devons amener le conseiller et l’expert EDF dans chaque foyer comme un compagnon.Ce compagnon, sorte de majordome numérique, est capable d’anticiper, de donner des conseils et d’agir. Il est au service des habitants, il est discret, silencieux et ne se manifeste que quand l’habitant a besoin de lui. Dans un premier temps, il sera capable de répondre à toutes les questions posées qui concernent son périmètre, c’est-à-dire l’énergie dans la maison.
+Le client achète une tranquillité d’esprit et un fonctionnement sur mesure et au bon moment.Si le client le souhaite, il est possible de déléguer à l’IA un pouvoir d’action. Plusieurs modes d’interventions sont possibles. Par exemple, il est possible de lui demander de résoudre le problème avant même qu’il n’arrive. 
+Où en êtes-vous de sa conception ?
+Aujourd’hui, dans le cadre de la thèse sur l’IA explicable dans la smart home, nous défrichons le sujet de l’IA explicable et constituons un état de l’art. Nous commençons à émettre les premières hypothèses et à identifier des pistes. 
+Avez-vous quelques exemples de collaborations EDF / Start-up en IA ?
+Nous commençons à regarder une entreprise régionale ADAGOS avec son produit Neureco2. Son IA est « embarquable » et consomme peu d’énergie, ce qui est important pour nous. Notre IA n’est pas dans le cloud mais dans le tableau, d’où l’intérêt de la solution.
+Nous pensons aussi collaborer avec Métroscope, qui est aujourd’hui une filiale du Groupe EDF. Sa solution permet un diagnostic automatique et fiable d’une installation industrielle pour identifier, sans délai et avec une grande précision, un aléa affectant son process industriel et susceptible de générer une perte de production, une détérioration durable d’un composant, voire l’arrêt pur et simple de l’installation. Une innovation qui ne nécessite l’ajout d’aucun capteur supplémentaire. Sur quels sujets les entreprises innovantes peuvent-elles collaborer avec EDF ?
+Personnellement, j’aimerais bien travailler sur l’interaction naturelle et multimodale : geste, voix, image. Avoir une IA chez moi capable de dialoguer avec moi, de me comprendre et de savoir répondre à mes questions et agir de manière appropriée.
+Selon vous, comment sera utilisée l’IA dans 5 ans ? 
+L’IA va se développer et prendre de plus en plus d’importance, d’abord dans les métiers et ensuite chez soi, l’enjeu est sur le modèle économique. Les gens veulent du sur-mesure et chez eux, la pandémie liée à la COVID va accélérer cette tendance. Nous allons passer d’un temps subi à un temps choisi pour faire des choses qui nous intéressent en délégant au maximum à des machines. C’est le sens de l’histoire !
+ Que pensez-vous des instituts d’intelligence artificielle créés partout en France ? Comment collaborez-vous avec eux ?
+Ce qui est intéressant c’est le côté interdisciplinaire. L’IA l’est par nature, elle couvre tous les domaines et elle interagit avec les humains. Il est important de pouvoir faire travailler ensemble divers spécialistes (des sciences techniques aux sciences sociales…) sans oublier les experts métiers. Il faut que l’IA comprenne bien l’humain et réponde à des usages.Aujourd’hui nous sommes partenaires d’ANITI, l'Institut Interdisciplinaire d'Intelligence Artificielle de Toulouse. Je suis notamment en lien avec un chercheur spécialiste de l’abduction sur des travaux dans le cadre de l’explicabilité, le processus cognitif par lequel il est tenté d’expliquer une situation donnée par un ensemble de causes. 
+*Intelligence Artificielle** BOT : Un bot informatique est un agent logiciel automatique ou semi-automatique qui interagit avec des serveurs informatiques
+
+
+
+
+",,,,,,,,,
+https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vY29tYXJrZXRpbmctbmV3cy5mci9zdHJlc3MtYXUtdHJhdmFpbC1sZXMtc2FsYXJpZXMtcHJlZmVyZW50LXNlLWNvbmZpZXItYXV4LXJvYm90cy_SAQA?oc=5,Stress au travail : les salariés préfèrent se confier aux robots… - Comarketing-News,2020-10-08,Comarketing-News,https://comarketing-news.fr,2020 est perçue comme l’année la plus stressante de l’histoire selon les salariés du monde entier et nombreux sont ceux qui sont prêts à s’appuyer sur le soutien de robots pour y faire face,N/A,2020 est perçue comme l’année la plus stressante de l’histoire selon les salariés du monde entier et nombreux sont ceux qui sont prêts à s’appuyer sur le soutien de robots pour y faire face,2020 est perçue comme l’année la plus stressante de l’histoire selon les salariés du monde entier et nombreux sont ceux qui sont prêts à s’appuyer sur le soutien de robots pour y faire face,https://schema.org,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+Insights
+
+Stress au travail : les salariés préfèrent se confier aux robots…
+2020 est perçue comme l’année la plus stressante de l’histoire selon les salariés du monde entier et nombreux sont ceux qui sont prêts à s’appuyer sur le soutien de robots pour y faire face
+
+
+
+
+
+Date de publication :  8 octobre 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Reddit
+
+
+
+
+
+Pinterest
+
+
+
+
+
+Whatsapp
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+82% des salariés dans le monde préfèrent se tourner vers des robots pour préserver leur santé mentale plutôt que de solliciter l’aide de leur manager !
+C’est l’un des principaux enseignements d’une nouvelle étude d’Oracle et Workplace Intelligence, cabinet de recherche et de conseil en Ressources Humaines, menée auprès de 12 000 employés, cadres, responsables des ressources humaines et dirigeants de 11 pays, parmi lesquels la France.
+Elle révèle également que la pandémie de COVID-19 a apporté stress, anxiété et épuisement professionnel dans le monde entier, la technologie étant privilégiée pour solliciter de l’aide.
+De l’IA thérapeutique
+Alors qu’en 2019, seulement 8% des salariés en France étaient enthousiastes à l’idée d’avoir recours à l’IA, ils sont aujourd’hui 68% à se dire ouverts à l’idée d’avoir recours à un robot pour les écouter ou suivre une thérapie !
+Preuve que la pandémie de COVID-19 a vraiment bousculé les mentalités en peu de temps…
+Pandémie, stress et santé mentale
+En France, 75% des salariés affirment que la pandémie a eu des effets négatifs sur leur santé mentale
+Globalement, la santé mentale des salariés dans le monde se dégrade en raison de la pandémie. 
+Les salariés sont plus que jamais confrontés à des niveaux d’anxiété et de dépression sensiblement plus élevés qu’à l’accoutumée en raison de la COVID-19.
+71% des Français affirment avoir subi davantage de stress et d’anxiété au travail cette année par rapport aux années précédentes (70% au niveau mondial).
+La pandémie a eu des effets néfastes sur la santé mentale de 78% de la population active mondiale (75% en France). Les changements induits dans le monde du travail et auxquels les salariés ont été contraints de s’adapter au pied levé ont engendré davantage de stress (38%), un déséquilibre entre la vie professionnelle et la vie privée (35%), de l’épuisement professionnel (25%), une dépression due à l’absence de socialisation (25%) et de la solitude (14%).
+Les nouvelles pressions exercées par la pandémie mondiale se sont cumulées aux facteurs de stress quotidiens sur le lieu de travail comme la pression pour atteindre les objectifs de performance (42%), la gestion de tâches routinières et fastidieuses (41%) et la nécessité de jongler avec des charges de travail ingérables (41%).
+
+A noter : Si les salariés français peuvent se reconnaitre dans ces moyennes mondiales, les salariés allemands semblent avoir été moins affectés puisqu’ils ne sont que 52% à se déclarer plus stressés et anxieux au travail, les salariés indiens partageant les taux les plus élevés (84%).
+Une frontière de plus en plus fine entre vie professionnelle et vie privée
+86% des salariés en France déclarent que les problèmes de santé mentale au travail ont des répercussions négatives sur leur vie personnelle 
+La pandémie mondiale a exacerbé les problèmes de santé mentale au travail mais l’impact ne se limite pas à la vie professionnelle, les conséquences s’étendent aussi à la vie personnelle des salariés.
+86% des Français interrogés affirment que les problèmes de santé mentale au travail, comme le stress, l’anxiété ou la dépression affectent leur vie privée (85% au niveau mondial). Et ce sont les jeunes générations (22-25 ans) qui semblent en pâtir le plus avec 94% qui partagent ce sentiment.
+Les principales répercussions se traduisent par un manque de sommeil (40%), une santé physique détériorée (35%), une dégradation du sentiment de bonheur à la maison (33%), la complication des relations familiales (30%) et une forme d’isolement social (28%).
+Avec la généralisation du travail à distance, les frontières entre les sphères personnelles et professionnelles se réduisent toujours plus, d’ailleurs 35% des personnes interrogées au global affirment travailler 40 heures de plus chaque mois (29% en France) et 25% confient se sentir surmenés (27% en France).
+Malgré les inconvénients imputables au télétravail, 62% des répondants dans le monde et 64% en France, estiment que ce mode de travail est plus attrayant maintenant qu’avant la pandémie. Au global, ils affirment pouvoir consacrer plus de temps à leur famille (51%), à dormir (31%) et à leur travail (30%).
+
+De la Tech pour soulager les problèmes
+Les salariés ont besoin d’aide et préfèrent chercher du soutien auprès de la technologie plutôt que solliciter l’aide de leur manager… mais cette tendance ne se vérifie pas partout.
+Les salariés attendent plus de la technologie que la simple mise à disposition d’outils collaboratifs ; ils veulent pouvoir compter sur la technologie pour soulager leur santé mentale.
+Seulement 18% des répondants dans le monde se tourneraient vers leur manager plutôt que vers des robots pour préserver leur santé mentale car ils estiment que les robots ne peuvent pas faire preuve de jugement (34%), qu’ils représentent un moyen de partager les problèmes de façon impartiale (30%) et sont capables d’apporter des réponses rapides aux questions de santé (29%).
+68 % des répondants préfèreraient parler de leurs problèmes de stress et d’anxiété au travail à un robot plutôt qu’à leur manager (60% en France) et 80% sont favorables à l’idée d’avoir un robot comme thérapeute ou conseiller. En France cette tendance est moins flagrante mais 68% y seraient tout de même favorables. C’est en Chine où cela est beaucoup plus marqué car ils sont 97% à partager ce point de vue.
+75% affirment que l’intelligence artificielle a contribué à améliorer leur santé mentale au travail. Elle leur permettrait de disposer des informations nécessaires pour travailler de façon plus efficiente (pour 31% au global contre seulement 19% en France), d’automatiser certaines tâches et de diminuer la charge de travail pour prévenir les risques de surmenage (27% au global contre 24% en France) et 27% considèrent que l’IA peut contribuer à réduire leur stress en les aidant à prioriser leurs tâches (versus 19% en France)
+L’intelligence artificielle aurait déjà permis à la moitié des salariés de raccourcir la semaine de travail et de prendre de plus longues vacances (51% au global – 35% en France). Plus de la moitié des répondants indique que l’intelligence artificielle permet d’accroître la productivité des salariés (63% au global – 45% en France), contribue à l’amélioration de la satisfaction au travail (54% au global – 37% en France) et améliore le bien-être général (52% au global – 37% en France)
+
+Des problématiques amenées à perdurer…
+Les problèmes de santé mentale au travail vont perdurer et ne doivent pas être ignorés. 
+Dans le monde entier, les salariés souhaitent que les entreprises s’investissent davantage sur les problématiques de santé mentale au travail. 
+Si cette aide est inexistante alors cela pourrait bien avoir des répercussions sur la productivité globale et sur la vie personnelle et professionnelle des salariés. 
+Par ailleurs, la période de confinement a également démontré que le recours à la technologie (visioconférence, activités sportives en ligne, applications etc…) offrait une échappatoire dans une période de stress particulièrement éprouvante.
+76 % estiment que leur entreprise devrait en faire plus pour préserver la santé mentale des salariés, un sentiment partagé par 69% des salariés en France. 51% ont indiqué que leur entreprise avait mis en place des services dédiés ou une forme de soutien en matière de santé mentale suite à la pandémie de la COVID-19 (42% en France).
+83% des salariés dans le monde souhaiteraient que leur entreprise mette à disposition les technologies nécessaires pour soutenir leur santé mentale (77% en France) comme l’accès en libre-service à des ressources en matière de santé (36%), des services de conseil à la demande (35%), des outils de monitoring proactif de la santé (35%), l’accès à des applications dédiées au bien-être et à la méditation (35%) et des chatbots pour répondre aux questions de santé (28%).
+84% des salariés affirment avoir rencontré des difficultés engendrées par le travail à distance comme le déséquilibre entre la vie professionnelle et la vie personnelle (41% en moyenne – 45% en France) et les répercussions sur la santé mentale comme le stress et l’anxiété (33% en moyenne, 27% en France).
+42% indiquent que le stress, l’anxiété et la dépression font chuter leur productivité et 40% déclarent que cela les conduit à prendre de mauvaises décisions.
+
+
+« Avec la pandémie mondiale, la santé mentale est devenue non seulement un problème de société au sens large, mais aussi un défi majeur sur le lieu de travail. Elle a un impact profond sur les performances individuelles, l’efficacité des équipes et la productivité des organisations. Maintenant et plus que jamais, c’est une conversation qui doit avoir lieu et les employés se tournent vers les employeurs pour qu’ils prennent les devants et fournissent des solutions ».Il y a beaucoup à faire pour soutenir la santé mentale des salariés dans le monde et les technologies comme l’IA peuvent aider. Mais d’abord, les organisations doivent faire de la santé mentale une priorité. Si nous parvenons à lancer ces débats, tant au niveau des RH que des Directions, nous pourrons amorcer des changements. Et c’est maintenant qu’il faut s’y mettre ».déclare Emily He, senior vice president, Oracle Cloud HCM.
+
+
+Méthodologie
+Les résultats sont issus d’une étude menée par Savanta, Inc. entre le 16 juillet et le 4 août 2020. 
+Pour la réaliser, 12 347 personnes dans le monde ont été interrogées (aux Etats-Unis, au Royaume-Uni, aux Emirats Arabes Unis, en France, en Italie, en Allemagne, en Inde, au Japon, en Chine, au Brésil et en Corée) sur des questions d’ordre général pour comprendre les attitudes des dirigeants et des salariés en matière de santé mentale et concernant le rôle de l’intelligence artificielle, des assistants numériques, des chatbots et des robots dans le monde du travail. L’étude visait les personnes âgées de 22 à 74 ans. 
+Les répondants ont été recrutés par le biais de différents mécanismes et via différentes sources pour rejoindre les panels et participer à des études de marché. 
+Tous les panélistes ont passé un processus de double opt-in et ont renseigné en moyenne 300 paramètres de profilage avant de participer aux enquêtes. Les personnes interrogées ont été invitées à participer par courrier électronique et ont reçu une incitation financière pour les encourager à répondre. Les résultats de chaque échantillon sont sujets à des variations d’échantillonnage. 
+L’ampleur de la variation est mesurable et dépend du nombre d’entretiens et du niveau de pourcentage exprimant des résultats. 
+Dans le cadre de cette étude, les chances sont de l’ordre de 95% pour qu’un résultat d’enquête ne varie pas, en plus ou en mois, de plus de 0.9 point de pourcentage par rapport au résultat qui aurait été obtenu si les entretiens avaient été menés avec toutes les personnes de l’univers représenté par l’échantillon.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+#Newsletter
+ Chaque mardi, un concentré d'actus Marketing, Tech et Ebusiness directement dans votre boite mail !
+
+
+
+
+
+
+
+
+ 
+
+
+
+Dans cet article : confinement, emploi, Intelligence Artificielle, télétravail, transformation numerique
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+# TENDANCES
+
+
+
+
+
+ 
+
+
+Avis d'expert
+
+
+Relation Client : 6 critères pour définir le bon canal d’interaction au bon moment
+
+
+ 
+ 
+
+
+
+ 
+
+
+e-Commerce
+
+
+Les ratés de la livraison : quels impacts sur les clients ?
+
+
+ 
+ 
+
+
+
+ 
+
+
+Avis d'expert
+
+
+Google, le contenu et l’IA : risques et opportunités en SEO
+
+
+ 
+ 
+
+
+
+ 
+
+
+Data
+
+
+RGPD : 6 ans après, qu’en pensent les entreprises ?
+
+
+ 
+ 
+
+
+
+ 
+
+
+e-Commerce
+
+
+Les Français toujours plus adeptes du e-commerce
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+Digital
+
+
+Comment les professionnels du Digital utilisent l’IA ?
+
+
+Génération de textes ou de codes, création d'images ou de vidéos... Plus de 70% des professionnels du Digital utilisent déjà l'IA au quotidien...
+
+Comarketing-NewsIl y a 8 heures
+
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+Avis d'expert
+
+
+Quand l’IA et le machine learning transforment le e-commerce
+
+
+Les dernières innovations sont en passe de modifier jusqu'à notre façon d'acheter en ligne...
+
+Comarketing-NewsIl y a 1 jour
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Reddit
+
+
+
+
+
+Pinterest
+
+
+
+
+
+Whatsapp
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# A lire aussi ...
+
+
+
+
+
+
+
+  
+
+
+
+Digital
+
+
+Comment les professionnels du Digital utilisent l’IA ?
+
+
+Génération de textes ou de codes, création d'images ou de vidéos... Plus de 70% des professionnels du Digital utilisent déjà l'IA au quotidien...
+
+Comarketing-NewsIl y a 8 heures
+
+
+ 
+ 
+
+
+
+  
+
+
+
+Avis d'expert
+
+
+Quand l’IA et le machine learning transforment le e-commerce
+
+
+Les dernières innovations sont en passe de modifier jusqu'à notre façon d'acheter en ligne...
+
+Comarketing-NewsIl y a 1 jour
+
+
+ 
+ 
+
+
+
+  
+
+
+
+Insights
+
+
+Travail hybride et télétravail : quel état des lieux 4 ans plus tard ?
+
+
+La flexibilité semble être un critère moins déterminant qu'auparavant pour les salariés français...
+
+Comarketing-NewsIl y a 1 jour
+
+
+ 
+ 
+
+
+
+  
+
+
+
+Digital
+
+
+Ces 10 technologies émergentes qu’il faut suivre de près
+
+
+Forrester présente son top 10 des technologies émergentes pour 2024 : l'IA générative, les TuringBots et la sécurité IoT devraient générer le retour sur...
+
+Comarketing-NewsIl y a 2 jours
+
+
+ 
+  
+
+
+
+Publicité
+
+ 
+ ","[{'@type': 'Organization', '@id': 'https://comarketing-news.fr/#organization', 'name': 'Comarketing-News', 'url': 'https://comarketing-news.fr/', 'sameAs': ['https://www.linkedin.com/company/comarketing-news/', 'http://www.facebook.com/ComarketingNews', 'https://twitter.com/ComarketingNews'], 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://comarketing-news.fr/#/schema/logo/image/', 'url': 'https://comarketing-news.fr/wp-content/uploads/comk@2x.png', 'contentUrl': 'https://comarketing-news.fr/wp-content/uploads/comk@2x.png', 'width': 369, 'height': 120, 'caption': 'Comarketing-News'}, 'image': {'@id': 'https://comarketing-news.fr/#/schema/logo/image/'}}, {'@type': 'WebSite', '@id': 'https://comarketing-news.fr/#website', 'url': 'https://comarketing-news.fr/', 'name': 'Comarketing-News', 'description': 'Source d&#039;infos marketing : toute l&#039;actualité Digital, Email, E-commerce et Data', 'publisher': {'@id': 'https://comarketing-news.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://comarketing-news.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#primaryimage', 'url': 'https://comarketing-news.fr/wp-content/uploads/intelligence-artificielle-robot-humains.jpg', 'contentUrl': 'https://comarketing-news.fr/wp-content/uploads/intelligence-artificielle-robot-humains.jpg', 'width': 1776, 'height': 925}, {'@type': 'WebPage', '@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/', 'url': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/', 'name': 'Stress au travail : les salariés préfèrent se confier aux robots... | Comarketing-News', 'isPartOf': {'@id': 'https://comarketing-news.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#primaryimage'}, 'image': {'@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#primaryimage'}, 'thumbnailUrl': 'https://comarketing-news.fr/wp-content/uploads/intelligence-artificielle-robot-humains.jpg', 'datePublished': '2020-10-08T09:47:55+00:00', 'dateModified': '2020-10-28T13:30:09+00:00', 'description': '2020 est perçue comme l’année la plus stressante de l’histoire selon les salariés du monde entier et nombreux sont ceux qui sont prêts à s’appuyer sur le soutien de robots pour y faire face', 'breadcrumb': {'@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://comarketing-news.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Insights', 'item': 'https://comarketing-news.fr/chiffres-cles/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Stress au travail : les salariés préfèrent se confier aux robots&#8230;'}]}, {'@type': 'Article', '@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#article', 'isPartOf': {'@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/'}, 'author': {'name': 'Comarketing-News', '@id': 'https://comarketing-news.fr/#/schema/person/8f7f064b5f1fd5a2717dd197af979cb9'}, 'headline': 'Stress au travail : les salariés préfèrent se confier aux robots&#8230;', 'datePublished': '2020-10-08T09:47:55+00:00', 'dateModified': '2020-10-28T13:30:09+00:00', 'mainEntityOfPage': {'@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/'}, 'wordCount': 1891, 'publisher': {'@id': 'https://comarketing-news.fr/#organization'}, 'image': {'@id': 'https://comarketing-news.fr/stress-au-travail-les-salaries-preferent-se-confier-aux-robots/#primaryimage'}, 'thumbnailUrl': 'https://comarketing-news.fr/wp-content/uploads/intelligence-artificielle-robot-humains.jpg', 'keywords': ['confinement', 'emploi', 'Intelligence Artificielle', 'télétravail', 'transformation numerique'], 'articleSection': ['Insights'], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://comarketing-news.fr/#/schema/person/8f7f064b5f1fd5a2717dd197af979cb9', 'name': 'Comarketing-News', 'url': 'https://comarketing-news.fr/author/comarketwp/'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmVzYW51bS5mci90b2RheS9wb3N0cy9saWEtZW4tbWVkZWNpbmUtdGhlb3JpZS1ldC1wcmF0aXF1ZXMtMTLSAQA?oc=5,L'IA en médecine : théorie et pratiques (1/2) - Esanum,2020-10-07,Esanum,https://www.esanum.fr,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,
+https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jbHViaWMuY29tL25hc2EvYWN0dWFsaXRlLTE2MzY5LWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1haWRlLWxhLW5hc2EtYS1kZXRlY3Rlci1kZS1ub3V2ZWF1eC1jcmF0ZXJlcy1zdXItbWFycy5odG1s0gEA?oc=5,"L'intelligence artificielle aide la NASA à détecter de ""nouveaux"" cratères sur Mars - Clubic",2020-10-11,Clubic,https://www.clubic.com,"C’est la première fois qu'un outil de machine learning est utilisé pour identifier des cratères inconnus sur la planète rouge.
+
+Mars abrite de nombreux cratères issus de débris de météores. Pour les assister dans leurs recherches, les équipes du Jet Propulsion Laboratory ont entrainé une intelligence artificielle. Le résultat ne s'est pas fait attendre…",N/A,"C’est la première fois qu'un outil de machine learning est utilisé pour identifier des cratères inconnus sur la planète rouge.
+
+Mars abrite de nombreux cratères issus de débris de météores. Pour les assister dans leurs recherches, les équipes du Jet Propulsion Laboratory ont entrainé une intelligence artificielle. Le résultat ne s'est pas fait attendre…","C’est la première fois qu'un outil de machine learning est utilisé pour identifier des cratères inconnus sur la planète rouge.
+
+Mars abrite de nombreux cratères issus de débris de météores. Pour les assister dans leurs recherches, les équipes du Jet Propulsion Laboratory ont entrainé une intelligence artificielle. Le résultat ne s'est pas fait attendre…",https://schema.org,BreadcrumbList,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.clubic.com/', 'url': 'https://www.clubic.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/', 'url': 'https://www.clubic.com/technologies-d-avenir/', 'name': 'Science & Innovation'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.clubic.com/mag/sciences/conquete-spatiale/', 'url': 'https://www.clubic.com/mag/sciences/conquete-spatiale/', 'name': 'Espace'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.clubic.com/nasa/', 'url': 'https://www.clubic.com/nasa/', 'name': 'Nasa'}}]","L'intelligence artificielle aide la NASA à détecter de ""nouveaux"" cratères sur Mars","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Clubic.com', 'url': 'https://www.clubic.com', 'logo': {'@type': 'ImageObject', 'url': 'https://pic.clubic.com/v1/images/1932033/raw', 'width': '210', 'height': '60'}, 'sameAs': ['https://www.facebook.com/Clubic', 'https://twitter.com/clubic', 'https://www.youtube.com/user/Clubic', 'https://fr.linkedin.com/company/clubic', 'https://fr.wikipedia.org/wiki/Clubic']}",,,"{'@context': 'https://schema.org', '@type': 'Person', 'name': 'Edouard Luquet', 'url': 'https://www.clubic.com/auteur/2088-edouard-luquet.html', 'description': ""Rédacteur web, je suis de près le monde de la tech, les réseaux sociaux et les évolutions du numérique dans nos sociétés. Auteur en herbe, j'ai aussi co-fondé une revue littéraire où j'écris quelques histoires."", 'sameAs': ['https://www.twitter.com/Ed_Luquet', 'https://www.linkedin.com/in/edouard-luquet-5a44b99a/']}",2020-10-11T11:23:00+02:00,N/A,N/A,"C’est la première fois qu'un outil de machine learning est utilisé pour identifier des cratères inconnus sur la planète rouge.Mars abrite de nombreux cratères issus de débris de météores. Pour les assister dans leurs recherches, les équipes du Jet Propulsion Laboratory ont entrainé une intelligence artificielle. Le résultat ne s'est pas fait attendre…PublicitéDes cratères difficiles à identifierEntre mars 2010 et mars 2012, une météore traversa le ciel martien avant de se briser en morceaux. La chute de ces derniers sur le sol de la planète rouge est à l’origine de nombreux cratères, d’environ 4 mètres de diamètre. Ce qui les rend difficiles à repérer pour les scientifiques.Mais la donne a changé : près de Los Angeles, les équipes du Jet Propulsion Laboratory (JPL) de la NASA ont travaillé avec des chercheurs en intelligence artificielle pour développer un nouvel outil de machine learning. Son intérêt : identifier très rapidement les impacts des débris de la météore à partir d’une banque d’images de Mars.PublicitéAnalyser des images en quelques secondesJusqu’à présent, les chercheurs passent des heures chaque jour à étudier des images obtenues par le Mars Reconnaissance Orbiter (MRO) de la NASA. Après 14 années passées autour de Mars, les images du MRO ont permis de trouver 1 000 cratères. Pour les aider la Context Camera se charge d’identifier les marques d’impact en amont, grâce aux photographies couvrant des centaines de kilomètres.Mars Reconnaissance Orbiter (MRO)Passée cette étape les scientifiques doivent examiner de plus près les photographies via le High-Resolution Imaging Science Experiment (HiRISE). En tout, un chercheur doit compter 40 minutes pour analyser une seule photographie issue de la Context Camera.Afin d’automatiser ce processus, les équipes du JPL ont nourri leur outil avec 6 830 photographies de la Context Camera. C’est grâce à cette base de données que l’algorithme a « appris » à identifier les cratères sur les images. Une fois entrainé, l’algorithme s’est attelé à identifié de nouveaux cratères sur les 112 000 photos prises par la Context Camera. Pour aller plus vite, les équipes du JPL ont réparti la ""charge de travail"" sur douze ordinateurs, régis par un super-ordinateur. Résultat : l'IA réalise le même travail qu'un chercheur en seulement cinq secondes.PublicitéCombiner la puissance des algorithmes avec l'analyse humaineRapide, et fiable : fin août 2020, le HiRISE a confirmé l'existence d'un foyer de cratères dans une région martienne nommée Noctis Fossae. L'équipe du JPL a fourni une liste de 20 autres sites potentiels, tous identifié grâce à l'IA.Foyer de cratères identifié sur Mars, @NASA/JPL-Caltech/University of Arizona""Il y a probablement beaucoup d'autres impacts que nous n'avons pas encore trouvés,"" déclare Ingrid Daubar, collaboratrice au JPL. ""Cette avancée vous montre tout ce que vous pouvez faire avec en utilisant des techniques d'analyse moderne pour des missions plus anciennes.""Source : Jet Propulsion Laboratory",,https://www.clubic.com/nasa/actualite-16369-l-intelligence-artificielle-aide-la-nasa-a-detecter-de-nouveaux-crateres-sur-mars.html,2020-10-11T11:23:00+02:00,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}","{'@type': 'ImageObject', 'height': '450', 'width': '800', 'url': 'https://pic.clubic.com/v1/images/1829466/raw'}",,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm91ZXN0LWZyYW5jZS5mci9lY29ub21pZS9lbnRyZXByaXNlcy9yb2JvdGlxdWUtbC1hdXRvbWF0aXNhdGlvbi1jcmVlLWRlLWwtZW1wbG9pLTcwMDU5OTLSAQA?oc=5,Robotique. « L'automatisation crée de l'emploi » - Ouest-France,2020-10-08,Ouest-France,https://www.ouest-france.fr,"Non seulement les robots, et plus largement, l’automatisation ne tuent pas l’emploi dans l’industrie, mais ils le développent. C’est le résultat de plusieurs études dont l’une, sur des usines françaises, à laquelle a participé Céline Antonin, économiste à l’OFCE et chercheuse associée au Collège de France.","['Entreprises', 'Emploi', 'Industrie', 'Actualité en continu', 'Une']","Non seulement les robots, et plus largement, l’automatisation ne tuent pas l’emploi dans l’industrie, mais ils le développent. C’est le résultat de plusieurs études dont l’une, sur des usines françaises, à laquelle a participé Céline Antonin, économiste à l’OFCE et chercheuse associée au Collège de France.","Non seulement les robots, et plus largement, l’automatisation ne tuent pas l’emploi dans l’industrie, mais ils le développent. C’est le résultat de plusieurs études dont l’une, sur des usines françaises, à laquelle a participé Céline Antonin, économiste à l’OFCE et chercheuse associée au Collège de France.",https://schema.org,NewsArticle,,Robotique. « L’automatisation crée de l’emploi »,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Économie', '@id': 'https://www.ouest-france.fr/economie/'}}, {'@type': 'ListItem', 'position': 2, 'item': {'name': 'Entreprises', '@id': 'https://www.ouest-france.fr/economie/entreprises/'}}]",Robotique. « L’automatisation crée de l’emploi »,"{'@type': 'Organization', 'name': 'Ouest-France', 'url': 'https://www.ouest-france.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://media.ouest-france.fr/v1/pictures/7856ef084164c8f5002a882c557b04df-ouest-france-couleur-170x56.png', 'width': 170, 'height': 56}, 'sameAs': ['https://www.facebook.com/ouest.france', 'https://twitter.com/ouestfrance']}",,,"[{'@type': 'Person', 'name': 'André THOMAS', 'url': 'https://www.ouest-france.fr/redaction/andre-thomas/'}]",2020-10-08T07:03:10+02:00,Entreprises,N/A,"
+
+
+
+Robotique. « L’automatisation crée de l’emploi »
+
+Non seulement les robots, et plus largement, l’automatisation ne tuent pas l’emploi dans l’industrie, mais ils le développent. C’est le résultat de plusieurs études dont l’une, sur des usines françaises, à laquelle a participé Céline Antonin, économiste à l’OFCE et chercheuse associée au Collège de France.
+
+
+
+
+
+« 1 % d’automatisation supplémentaire crée 0,28 % d’emploi en plus », selon Céline Antonin. | GETTY IMAGES/ISTOCKPHOTO
+
+
+Voir en plein écran
+
+
+
+
+
+fermer
+
+
+
+« 1 % d’automatisation supplémentaire crée 0,28 % d’emploi en plus », selon Céline Antonin. | GETTY IMAGES/ISTOCKPHOTO 
+
+
+
+
+
+
+
+Ouest-France
+
+                            Recueilli par André THOMAS.
+                        
+
+
+Publié le 08/10/2020  à 07h03
+
+
+
+
+
+
+Abonnez-vous
+
+
+
+
+
+
+Lire plus tard
+
+
+
+
+
+Partager
+
+
+
+
+
+Newsletter Entreprises
+Du lundi au vendredi, l'actualité des entreprises vue par Ouest-France et API
+
+
+
+
+Merci de saisir votre adresse e-mail
+
+
+
+
+
+OK
+
+
+
+
+
+Votre e-mail, avec votre consentement, est utilisé par Ouest-France pour recevoir notre newsletter. En savoir plus.
+
+
+
+
+
+
+
+
+
+Les robots vont-ils détruire nos emplois ? Non, explique Céline Antonin, économiste à l’OFCE et chercheuse associée au Collège de France. Entretien.
+
+
+
+
+Vous avez participé à une récente étude sur la relation entre robotisation et emploi, que montre-t-elle ?
+
+
+
+
+Nous l’avons analysée dans 19 448 établissements représentatifs de l’industrie manufacturière française, entre 1994 à 2015. Je précise que nous ne nous sommes pas intéressés qu’aux robots – qui répondent à une définition restrictive – mais à l’automatisation en général. Le constat est clair : les entreprises qui se sont le plus automatisées sont celles qui ont le plus créé d’emplois.
+
+
+
+
+Cela va à l’encontre de l’idée reçue selon laquelle les machines tuent la main-d’œuvre…
+
+
+
+
+En effet, d’autres études ont tendu à dire l’inverse, dont une assure que l’intelligence artificielle doit détruire 47 % de l’emploi aux États-Unis d’ici à vingt ans. Ce que, pour notre part, nous observons – et que nous ne sommes pas les seuls à démontrer – c’est que si, de fait, l’automatisation réduit les besoins en main-d’œuvre, elle produit, par ailleurs, d’autres effets positifs plus importants.
+
+
+
+
+Lesquels ?
+
+
+
+
+
+
+Disons, pour résumer, qu’une entreprise plus automatisée est plus productive, ce qui lui permet d’abaisser ses coûts de revient, et donc ses prix de vente. Ce qui crée une hausse de la demande et, donc, de l’emploi. Nos calculs montrent que 1 % d’automatisation supplémentaire crée 0,28 % d’emploi en plus.
+
+
+
+
+
+
+
+
+Céline Antonin, économiste à l’Observatoire français des conjonctures économiques et chercheuse associée au Collège de France. | OFCE
+Voir en plein écran
+
+
+
+
+
+
+Céline Antonin, économiste à l’Observatoire français des conjonctures économiques et chercheuse associée au Collège de France. | OFCE
+
+
+
+Mais ne s’agit-il pas surtout d’emplois très qualifiés ?
+
+
+
+
+Non, contrairement à une autre idée reçue, tous les types d’emplois, très qualifiés ou peu qualifiés en profitent. Et c’est vrai, non seulement aussitôt après l’automatisation, que de façon pérenne.
+
+
+
+
+Si les entreprises qui se robotisent le plus se développent, n’est-ce pas parce qu’elles détruisent l’emploi chez les autres ?
+
+
+
+
+C’est ce que semble corroborer notre analyse : dans les secteurs soumis à la concurrence internationale, une hausse de l’automatisation entraîne des gains de marché à l’international et, par conséquent, une hausse de l’emploi, forcément au détriment des pays concurrents.
+
+
+
+
+Les statistiques de l’International Federation of Robotics (IFR) montrent que l’industrie française est peu robotisée. Pourquoi ?
+
+
+
+
+D’abord, parce que l’industrie manufacturière française a perdu de son importance dans l’économie : 10 % aujourd’hui, alors qu’elle est de 20 % en Allemagne. Il y a ensuite le poids de l’industrie automobile, très consommatrice de robots, et moins forte en France qu’en Allemagne, en Corée ou au Japon. Et il y a le fait que la France manque d’entreprises capables de robotiser l’industrie nationale.
+
+
+
+
+Qu’est-ce qui fait donc défaut ?
+
+
+
+
+
+
+
+
+À quelques exceptions près, les fabricants français de robots industriels sont des entreprises trop petites. S’y ajoute un déficit, en France, de ces entreprises capables d’intégrer les robots dans les chaînes de production, qu’on appelle des « intégrateurs ». Ce qui crée un vrai goulot d’étranglement.
+
+
+
+
+Entreprises
+Emploi
+Industrie
+Actualité en continu
+gauchedroite
+
+
+
+
+",,"{'@id': 'https://www.ouest-france.fr/economie/entreprises/robotique-l-automatisation-cree-de-l-emploi-7005992', '@type': 'WebPage'}",2020-10-08T07:03:10+02:00,"{'@type': 'SpeakableSpecification', 'cssSelector': ['h1.titre', 'div#article-detail p.chapeau']}","[{'@type': 'ImageObject', 'url': 'https://media.ouest-france.fr/v1/pictures/MjAyMDEwOTM3YThmZTFmZjkxOGM0ODVjOGI4Mzk1NzFjODhhZWY?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2700e70513494bde895306b66f12162a6bec97dcce4252c55c106d66b9a61fa5', 'width': 1260, 'height': 708}, {'@type': 'ImageObject', 'url': 'https://media.ouest-france.fr/v1/pictures/MjAyMDEwMjIwMDk0ODMyY2M5MTAyZDA3MjkwYTExN2U3ODU5ZjQ?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=929a7381f733fe1c15414f16b36e958fe1cb9a80b74987af5b2e7611b455f578', 'width': 1260, 'height': 708}]","Non seulement les robots, et plus largement, l’automatisation ne tuent pas l’emploi dans l’industrie, mais ils le développent. C’est le résultat de plusieurs études dont l’une, sur des usines françaises, à laquelle a participé Céline Antonin, économiste à l’OFCE et chercheuse associée au Collège de France.",Entreprises,True,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vaXRzb2NpYWwuZnIvY29udGVudXMvdHJpYnVuZXMvY2VydGlmaWNhdGlvbi1oZHMtbGEtZ2FyYW50aWUtZHVuLW5pdmVhdS1kZS1zZWN1cml0ZS1lbGV2ZS1wb3VyLWxlcy1kb25uZWVzLWRlLXNhbnRlL9IBAA?oc=5,Certification HDS : la garantie d'un niveau de sécurité élevé pour les données de santé - IT SOCIAL - IT Social,2020-10-09,IT Social,https://itsocial.fr,N/A,N/A,"Les données personnelles de santé sont des informations sensibles. Leur hébergement devant être réalisé dans des conditions de sécurité adaptées à leur criticité, les organisations traitant des données de santé doivent faire appel à un organisme tiers certifié « Hébergeur de Données de Santé » (HDS). Les données de santé sont des informations très sensibles et critiques […]",N/A,http://schema.org,BreadcrumbList,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://itsocial.fr/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://itsocial.fr/category/contenus/tribunes/tribunes-par-thematique/', 'name': 'Tribunes par thématique'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://itsocial.fr/category/contenus/tribunes/tribunes-par-thematique/ae-cybersecurite/', 'name': 'Cybersécurité'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://itsocial.fr/contenus/tribunes/tribunes-par-thematique/ae-cybersecurite/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/', 'name': 'Certification HDS : la garantie d’un niveau de sécurité élevé pour les...'}}]",,,,,,,N/A,N/A,"
+
+
+
+Tribunes par thématique  Cybersécurité  Certification HDS : la garantie d’un niveau de sécurité élevé pour les...
+Tribunes par thématiqueBases de donnéesData FabricCybersécuritéSécuritéCONTENUSTRIBUNES
+
+Certification HDS : la garantie d’un niveau de sécurité élevé pour les données de santé
+
+Par La rédaction -   09/10/2020 
+
+
+
+ 
+
+
+
+
+
+   
+Les données personnelles de santé sont des informations sensibles. Leur hébergement devant être réalisé dans des conditions de sécurité adaptées à leur criticité, les organisations traitant des données de santé doivent faire appel à un organisme tiers certifié « Hébergeur de Données de Santé » (HDS).
+
+
+Les données de santé sont des informations très sensibles et critiques pour le fonctionnement des établissements dans le secteur médical. Elles sont donc des cibles de choix pour les cyberattaquants, car plus rémunératrices que de simples données personnelles. Par exemple, pour communiquer avec d’autres établissements et organismes de santé sur l’avancée d’un dossier, le personnel doit régulièrement utiliser sa messagerie. Si un hacker venait à s’emparer de données confidentielles, dans le but de les rendre publiques ou de les revendre cela pourrait être dramatique pour l’établissement et son bon fonctionnement : divulgations d’informations personnelles sur les patients, perte d’informations…
+
+
+Si les hôpitaux et plus généralement les acteurs de la santé sont dans le viseur des cybercriminels, c’est parce qu’ils combinent plusieurs faiblesses : des systèmes informatiques hétérogènes et vieillissants, des logiciels pas forcément mis à jour, parfois une faible sensibilisation du personnel à des précautions en ligne et bien sûr, souvent, une urgence à vouloir rétablir la situation.
+
+
+La crise sanitaire a en effet accéléré le télétravail et les consultations à distance, plus ou moins bien sécurisées, des dossiers médicaux. Si ces pratiques ont permis d’éviter la paralysie d’un service, elles ont augmenté la surface d’attaque des Systèmes d’Information (SI) de ces établissements.
+
+
+Dans certains cas, des professionnels de santé se sont débrouillés par eux-mêmes. Ils utilisent des outils qu’ils connaissaient bien, mais qui ne sont ni contrôlés par leur DSI ni en accord avec la réglementation en vigueur. Quel praticien n’a jamais envoyé des données sensibles avec sa messagerie Gmail ou WeTransfer ? C’est le fameux phénomène du Shadow IT, propice aux fuites de données !
+
+
+Or, les établissements de santé ne sont pas des entreprises comme les autres. Du fait des informations sensibles qu’ils traitent en permanence, ils se doivent de respecter différents référentiels et réglementations comme le RGPD et la Directive NIS au niveau européen, le code de la santé publique, l’instruction interministérielle française n° 901 (relative à la protection des systèmes d’information sensibles) …
+
+
+Chiffrement, traçabilité, réversibilité…
+
+
+L’article L.1111-8 du code de la santé publique relatif à l’hébergement de données de santé a pour objectif d’organiser et d’encadrer la conservation et la restitution de ces données à caractère personnel, dans des conditions propres à garantir leur confidentialité et leur sécurité.
+
+
+Mais ces différentes obligations réglementaires ne sont pas toujours simples à maîtriser et donc à appliquer, surtout qu’elles présentent des subtilités récentes.
+
+
+C’est le cas pour le stockage des données de santé. Les hébergeurs de ces données sur support numérique (en dehors des services d’archivage électronique) doivent être certifiés (HDS - Hébergeurs de Données de Santé). Cette certification remplace, depuis fin 2019, l’agrément.
+
+
+Par contre, si un établissement du domaine médical décide de stocker en interne ses données, il n’est pas tenu d’être certifié HDS, selon le décret du 26 février 2018. Ce qui n’exclut pas de respecter une obligation de sécurité de telles données (article 32 du RGPD).
+
+
+Mais tous les acteurs de la santé disposent-ils de moyens en interne pour assurer correctement la protection de ce type de données ? Faire appel à un tiers certifié HDS offre plus de garanties : chiffrement des données et des flux, traçabilité, réversibilité… Ce tiers sous-traitant prend en charge la sécurité des données, qui sont ainsi placées sous sa responsabilité.
+
+
+« Étant certifié HDS, NetExplorer est habilité à stocker et à traiter des données de santé à caractère personnel. Notre structure recouvre la totalité des activités pour lesquelles un hébergeur peut être certifié, allant de la mise à disposition et au maintien en condition opérationnelle des sites physiques permettant d’héberger l’infrastructure matérielle du système d’information utilisé pour le traitement des données de santé, jusqu’à leur sauvegarde. »
+
+
+En centralisant l'ensemble de ces fichiers sur une seule et unique plateforme certifiée HDS, un établissement de santé optimise les échanges entre ses services. Il est possible d’envoyer des radiographies, des comptes rendus d’examens de patients ou des dossiers médicaux en toute sécurité puisque les droits d'accès des utilisateurs sont attribués par dossier. Cela s’avère utile à 3 niveaux : les patients accèdent à leur dossier n’importe où et n’importe quand. Les employés des différents services de l’établissement peuvent échanger facilement sur ces dossiers, même depuis chez eux. Enfin d’autres établissements de santé pourront collaborer sur un dossier médical en tout sécurité.  
+
+
+Cet exemple est l’occasion de rappeler que toute la « chaîne » doit être certifiée HDS pour respecter la réglementation concernant les données de santé. Par exemple, si un tiers non HDS propose d’héberger les données de santé sur un serveur externe certifié HDS, le montage proposé ne respecte par la réglementation, car un maillon de la « chaîne » n’est pas HDS.
+
+
+Par ailleurs, faire appel à une organisation tiers certifiée HDS permet de bénéficier d’un accompagnement personnalisé permettant de renforcer son niveau de sécurité en profitant de l’expertise “sécuritaire” du prestataire.
+
+
+Par Bertrand SERVARY, Directeur général fondateur Chez NetExplorer
+    
+
+
+MOTS CLESAvis ExpertTribunes 
+La rédactionEquipe rédactionnelle d'IT Social  
+ARTICLES SIMILAIRESPLUS DE L'AUTEUR
+
+
+
+
+ 
+
+Vers des Jeux Olympiques et Paralympiques de Paris 2024 et une IT durables : un engagement concret 
+
+ 
+
+
+
+ 
+
+Réglementation des datacenters : un cadre complexe et évolutif 
+
+ 
+
+
+
+ 
+
+Cloud de connectivité : une solution éprouvée pour améliorer la performance, la sécurité et la fiabilité 
+
+ 
+
+
+
+
+ 
+
+Les systèmes de stockage : le fondement d’une approche efficace pour l’analyse et le traitement de l’IA 
+
+ 
+
+
+
+ 
+
+Le cloud, atout clé pour les fabricants et leurs opérations de vision industrielle basées sur le Deep Learning ? 
+
+ 
+
+
+
+ 
+
+Utilités et contraintes de l’évolution vers le multi-gigabit 
+
+ 
+
+
+
+
+ 
+
+Non, les RSSI ne sont pas en train de perdre le contrôle ! 
+
+ 
+
+
+
+ 
+
+Déficit de compétences : Comment y faire face grâce à l’IA ? 
+
+ 
+
+
+
+ 
+
+Plus que quelques mois pour se mettre en conformité avec la directive NIS2 
+
+  
+
+ 
+
+
+
+
+Les vidéos Tech les plus waouh 
+Suivre sur LinkedIn✉️ Newsletter quotidienne
+	Recevez notre newsletter quotidienne comme 40,000 décideurs IT  et digital : articles de fond, actualités, interviews, tribunes... 
+
+
+Conférence | On Demand 
+
+
+
+Infographie – Zero Trust 
+
+
+Derniers articles de fond
+
+
+
+
+Intelligence artificielle : les Français restent méfiants 
+Intelligence Artificielle - Articles 03/07/2024 
+
+
+ 
+
+
+
+
+Les défis de sécurité croissants dans les environnements conteneurisés et Kubernetes 
+Cloud & Infrastructure IT - Articles 03/07/2024 
+
+
+ 
+
+
+
+
+La croissance du numérique fléchit en 2024 
+Transformation digitale - Articles 02/07/2024 
+
+
+ 
+
+
+
+
+L’impression 3D s’appuie sur l’intelligence artificielle 
+Intelligence Artificielle - Articles 02/07/2024 
+
+
+ 
+
+
+
+
+Plus de la moitié des dirigeants de TPE considèrent l’IA comme... 
+Intelligence Artificielle - Articles 01/07/2024 
+
+
+ Charger plus Derniers livres blancs
+
+
+
+
+Tirez parti de toute la puissance de l’IA pour les vendeurs 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Stimulez l’innovation avec Microsoft Power Platform et l’IA 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Accélérez votre chiffre d’affaires avec Microsoft Dynamics 365 Sales 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Pourquoi votre stratégie de tests end-to-end échoue ? 
+Logiciel & Agilité - Livres blancs 19/06/2024 
+
+
+ 
+
+
+
+
+Groupe Mane : Privileged Remote Access garantit la sécurité et la... 
+Cyberécurité - Livres blancs 19/06/2024 
+
+
+ Charger plus Dernières actualités
+
+
+
+
+LexisNexis lance sa solution d’IA générative pour professionnels du droit 
+Intelligence Artificielle - Actualités 03/07/2024 
+
+
+ 
+
+
+
+
+Orange Business SD-WAN Essentials, une offre de connectivité qui vise les... 
+Cloud & Infrastructure IT - Actualités 03/07/2024 
+
+
+ 
+
+
+
+
+Colt signe avec OVHCloud pour assurer la conformité de ses clients... 
+Cloud & Infrastructure IT - Actualités 02/07/2024 
+
+
+ 
+
+
+
+
+Denodo 9.0 simplifie l’accès et l’exploitation des données pour l’alimentation des... 
+Intelligence Artificielle - Actualités 02/07/2024 
+
+
+ 
+
+
+
+
+MicroStrategy One combine IA et analytique pour remonter les informations à... 
+Intelligence Artificielle - Actualités 01/07/2024 
+
+
+ Charger plus Social Attitude 
+
+ 
+","[{'@type': 'WebPage', '@id': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/', 'url': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/', 'name': 'Certification HDS : la garantie d’un niveau de sécurité élevé pour les données de santé - IT SOCIAL', 'isPartOf': {'@id': 'https://itsocial.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/#primaryimage'}, 'image': {'@id': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/#primaryimage'}, 'thumbnailUrl': 'https://itsocial.fr/wp-content/uploads/2020/10/Bertrand-SERVARY.jpg', 'datePublished': '2020-10-09T08:29:49+00:00', 'dateModified': '2021-02-12T12:38:13+00:00', 'author': {'@id': 'https://itsocial.fr/#/schema/person/a96874071c5a1dacce753f34870f5b1f'}, 'breadcrumb': {'@id': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/#primaryimage', 'url': 'https://itsocial.fr/wp-content/uploads/2020/10/Bertrand-SERVARY.jpg', 'contentUrl': 'https://itsocial.fr/wp-content/uploads/2020/10/Bertrand-SERVARY.jpg', 'width': 696, 'height': 440}, {'@type': 'BreadcrumbList', '@id': 'https://itsocial.fr/contenus/tribunes/certification-hds-la-garantie-dun-niveau-de-securite-eleve-pour-les-donnees-de-sante/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://itsocial.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Certification HDS : la garantie d’un niveau de sécurité élevé pour les données de santé'}]}, {'@type': 'WebSite', '@id': 'https://itsocial.fr/#website', 'url': 'https://itsocial.fr/', 'name': 'IT SOCIAL', 'description': 'Média IT, Tech et Innovation', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://itsocial.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://itsocial.fr/#/schema/person/a96874071c5a1dacce753f34870f5b1f', 'name': 'La rédaction', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://itsocial.fr/#/schema/person/image/', 'url': 'https://itsocial.fr/wp-content/uploads/avatars/404/2bfa6f46578b783888431373917efd15-bpfull.jpg', 'contentUrl': 'https://itsocial.fr/wp-content/uploads/avatars/404/2bfa6f46578b783888431373917efd15-bpfull.jpg', 'caption': 'La rédaction'}, 'description': ""Equipe rédactionnelle d'IT Social""}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiwQFodHRwczovL2ljaS5yYWRpby1jYW5hZGEuY2Evb2hkaW8vcHJlbWllcmUvZW1pc3Npb25zL3BlbmVsb3BlL3NlZ21lbnRzL2VudHJldnVlLzIwMzUzNS9hbnRpc3BlY2lzbWUtYW5pbWF1eC1kYXJ3aW4tdmVnYW5pc21lP2ZiY2xpZD1Jd0FSMlJYaEhodENiTmpxWHhDeEFaSmpMMUFQTEVZOXNEcXlJR0xLMUJsbzlWNTVFeVh6SlNuY0lsMFJj0gEA?oc=5,"L'antispécisme, de Darwin à l'intelligence artificielle - Radio-Canada.ca",2020-10-07,Radio-Canada.ca,https://ici.radio-canada.ca,"Pénélope | Soixante milliards d'animaux et mille milliards de poissons sont tués chaque année dans le monde. Au micro de Pénélope, le duo Science et foi formé de Matthieu Dugal et Alain Crevier se penche sur le livre de la juriste et docteure en philosophie Valéry Giroux L'antispécisme, publié l'été dernier. « Quels sont nos devoirs envers des êtres qui sentent grosso modo les mêmes choses que nous? » pose comme question Matthieu Dugal en citant l'autrice. Le point de vue de Darwin et de certaines religions sur cette idéologie sont aussi discutés.",N/A,"Pénélope | Soixante milliards d'animaux et mille milliards de poissons sont tués chaque année dans le monde. Au micro de Pénélope, le duo Science et foi formé de Matthieu Dugal et Alain Crevier se penche sur le livre de la juriste et docteure en philosophie Valéry Giroux L'antispécisme, publié l'été dernier. « Quels sont nos devoirs envers des êtres qui sentent grosso modo les mêmes choses que nous? » pose comme question Matthieu Dugal en citant l'autrice. Le point de vue de Darwin et de certaines religions sur cette idéologie sont aussi discutés.",N/A,,,,,,,,,,,,,,,N/A,N/A,"Soixante milliards d'animaux et mille milliards de poissons sont tués chaque année dans le monde. Au micro de Pénélope, le duo Science et foi formé de Matthieu Dugal et Alain Crevier se penche sur le livre de la juriste et docteure en philosophie Valéry Giroux L'antispécisme, publié l'été dernier. « Quels sont nos devoirs envers des êtres qui sentent grosso modo les mêmes choses que nous? » pose comme question Matthieu Dugal en citant l'autrice. Le point de vue de Darwin et de certaines religions sur cette idéologie sont aussi discutés.« Les corbeaux ont une conscience d’eux-mêmes qui est très proche de celle des humains. Chez les animaux de ferme, comme les cochons et les vaches, des études nous montrent la même chose. La conscience est plus partagée qu’on peut le penser. »— Une citation de  
+
+Matthieu Dugal, animateur",,,,,,,,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnNpbGljb24uZnIvZG9zc2llcnMvZGlnaXRhbC13b3JrcGxhY2UtY2hhbnRpZXItcHJpb3JpdGFpcmUtZHUtZHNp0gEA?oc=5,Digital Workplace : chantier prioritaire du DSI - Silicon France,2020-10-08,Silicon France,https://www.silicon.fr,,N/A,"Avec les contraintes imposées par la Covid-19, les entreprises doivent composer avec un ensemble disparate de solutions pour collaborer à distance.",N/A,https://schema.org,BreadcrumbList,,Digital Workplace : chantier prioritaire  du DSI,,,,"[{'@type': 'ListItem', 'position': 1, 'item': 'https://www.silicon.fr/', 'name': 'Accueil'}, {'@type': 'ListItem', 'position': 2, 'item': 'https://www.silicon.fr/dossiers', 'name': 'Dossiers'}, {'@type': 'ListItem', 'position': 2, 'item': 'https://www.silicon.fr/dossiers', 'name': 'Dossiers'}, {'@type': 'ListItem', 'position': 3, 'item': 'https://www.silicon.fr/dossiers/digital-workplace-chantier-prioritaire-du-dsi', 'name': 'Digital Workplace : chantier prioritaire du DSI'}]",Digital Workplace : chantier prioritaire  du DSI,"{'@type': 'Organization', 'name': 'Silicon', 'logo': {'@type': 'ImageObject', 'url': 'https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/mstile-70x70.png', 'width': '', 'height': ''}}",,,"{'@type': 'Person', 'name': 'Philippe Leroy'}",2020-10-06T13:59:50+02:00,N/A,N/A,"
+Table of content 2 milliards € : le marché français de la Digital WorkplaceUne surcouche à G Suite et Office 365Résister aux pure playersL’intelligence artificielle dans la boucleUn assistant virtuel corvéable à merci 
+
+
+
+Digital Workplace : chantier prioritaire  du DSI
+
+Xavier Biseul, 6 octobre 2020, 13:59 | Mis à jour le 8 octobre 2020, 19:50 
+
+
+
+ 
+
+
+
+
+                    0                
+
+
+
+
+
+
+
+
+
+                    0                
+
+
+
+Avec les contraintes imposées par la Covid-19, les entreprises doivent composer avec un ensemble disparate de solutions pour collaborer à distance. L’heure est aujourd’hui est à l’homogénéisation et au passage à un environnement de travail unifié.
+
+Publicité À quelque chose malheur est bon. La crise du Covid-19 aura rappelé aux entreprises l’importance de se doter d’une digital workplace, un environnement de travail unifié permettant à leurs employés de collaborer à distance. À défaut, les sociétés ont dû bricoler quand, mi-mars, à l’annonce du confinement, elles sont mas­si­vement passées au télétravail. Certaines ont souffert en mettant en place à la va-vite un tunnel sécurisé (VPN) pour offrir un accès distant au réseau d’entreprise. D’autres se sont ruées sur les solutions innovantes en mode SaaS.
+Courant mars, en l’espace d’une semaine, le nombre d’utilisateurs quotidiens de Microsoft Teams est passé de 32 à 44 millions, pour dépasser désormais la barre des 75 millions de membres. Workplace from Facebook et Slack ont aussi « profité » du contexte sanitaire, revendiquant respectivement 5 millions et 12,5 millions d’u­ti­li­sa­teurs. Mais c’est Zoom qui a battu tous les records avec 300 millions de participants quotidiens au plus fort de la crise.
+Si la pandémie a servi de « stress test » pour éprouver ces nouveaux modes de collaboration, il s’agira désormais d’en tirer tous les enseignements. « Les entreprises ont testé, pour le pire et le meilleur, des solutions de chat, de visioconférence ou de partage de documents, dont certaines issues de la sphère privée, » observe Jean-Denis Garo, directeur marketing de Mitel. « La bascule dans le télétravail s’étant faite du jour au lendemain, le DSI a dû laisser faire. Avec le retour à la normale, il va sûrement siffler la fin de la récréation. »
+Philippe Pinault, P.-D.G de Talkspirit
+Le DSI aura, en effet, fort à faire en sortie de crise. Il doit commencer par lutter contre le shadow IT, les équipes métiers s’étant emparées d’outils, souvent gratuits, comme WhatsApp, Skype ou Dropbox. Il renforcera ensuite sa politique de sécurité, la période ayant été propice à une recrudescence de cyberattaques. FLes vulnérabilités de Zoom ont été notamment pointées du doigt. Il s’agit surtout de se doter d’une solution pérenne, fiable et performante, le télétravail étant appelé à s’inscrire dans la durée. Des entreprises comme PSA ont même décidé d’en faire la règle.
+« Aujourd’hui, le DSI a besoin de rationaliser et de rassembler des outils épars de communication et de collaboration dans une suite intégrée », estime Philippe Pinault, P.-D.G. et cofondateur de Talkspirit. « C’est la condition sine qua non pour relever les défis de productivité et de sécurité. » L’enjeu d’une digital workplace consiste ainsi à consolider en un point unique les différentes briques pour travailler en mode remote : agenda, chat, téléphonie, visio, partage de fichiers, gestion de projets, etc.
+« Cet effort d’harmonisation est une tendance lourde, antérieure à la crise  » , observe Guillaume Charly, associé, conseil technology strategy & architecture au cabinet Deloitte. « De très nombreux projets de digital workplace partent des renégociations avec les fournisseurs de technologies. Les entreprises ne veulent plus remettre des millions d’euros au pot pour de simples évolutions technologiques. Elles souhaitent des projets qui donnent du sens, créent de la valeur. »Publicité
+Guillaume Charly – Conseil technology strategy & architecture chez DeloittePour atteindre cette homogénéisation, le DSI devra réaliser un gros travail d’intégration. « Une digital workplace suppose de « désiloter » les systèmes et espaces de travail existants pour partager et unifier les documents et données associées », note Aurélie Leleu, consultante senior chez Markess by exægis. La DSI n’est pas la seule direction concernée.Publicité
+Systémique, un projet de digital workplace comprend des volets RH (marque employeur), organisationnel (management à distance), financier (amélioration du TCO) et même immobilier, avec la réduction des mètres carrés qu’entraîne le recours accru au télétravail. Pour ces raisons, il doit être, selon Guillaume Charly, porté au plus haut, au niveau du Comex.
+ 2 milliards € : le marché français de la Digital Workplace
+En février, avant la crise, le cabinet d’études Markess by Exægis estimait la croissance annuelle du marché français de la digital workplace à près de 5 % par an avec un objectif de 2 milliards € en 2023. Depuis, Ronan Mevel, son directeur, a révisé à la hausse cette prévision. « La croissance devrait être supérieure à 5 % et plus proche de 10 %. »
+Dynamique, ce marché est aussi particulièrement fragmenté. On y trouve des acteurs issus d’horizons très divers, no­tamment des réseaux sociaux d’entreprise (Jalios, Jamespot…), de la virtualisation (Citix, VMware…) ou des communications unifiées (Mitel, Alcatel Lucent Enterprise…). Le marché reste toutefois dominé par les deux géants du collaboratif que sont Google et Microsoft, avec leurs suites G Suite et Office 365. Fortement ancré en entreprise, Microsoft croit avoir trouvé la martingale avec Teams, son arme anti-Slack.
+Pour Laurent Camus, senior product marketing manager de cette plateforme collaborative, Teams apporte une simplification dans l’expérience du collaborateur qui pouvait se trouver décontenancé par la richesse fonctionnelle d’Office 365. Quand utiliser Yammer ou Skype ? OneDrive ou SharePoint ? « Depuis une interface unique, l’utilisateur accède à tous ses outils de travail. Il n’est plus nécessaire de passer d’une fenêtre à l’autre. »
+Nadine Yahchouchi – Directrice de l’entité Microsoft 365
+Laurent Camus met aussi en avant la place de marché permettant d’intégrer à Teams plus de 300 applications tierces, comme l’outil de management visuel de la start-up rennaise Klaxoon. « Il est, par ailleurs, possible d’inviter des membres externes à une organisation, comme des fournisseurs, des partenaires ou des clients. »
+Directrice de l’entité Microsoft 365, Nadine Yahchouchi met, elle, en avant la dimension inclusive de la plateforme. « Teams reprend les codes d’ergonomie et d’usage de la sphère privée pour faciliter la prise en main des personnes moins acculturées au digital. C’est important, car le télétravail n’est plus réservé à des catégories socioprofessionnelles ou des secteurs activité spécifiques. » Selon un sondage d’OpinionWay pour Microsoft, 42 % des Français qui télétravaillaient lors des grèves de décembre et janvier découvraient cette pratique pour la première fois.
+Une surcouche à G Suite et Office 365
+LumApps propose un intranet social et une plateforme de partage de connaissances qui s’appuie sur G Suite et Office 365
+En dépit de cet effort de simplification, des acteurs se positionnent aujourd’hui pour apporter une surcouche applicative aux suites collaboratives, afin de fluidifier l’expérience utilisateur ou de combler une lacune fonctionnelle, comme l’absence de dimension sociale de G Suite depuis la fin de Google +. C’est sur ce créneau que s’inscrit LumApps qui compte Airbus, Etam, Air Liquide, Veolia ou Valeo comme clients.
+Fondé en 2012, cet éditeur français qui a dé­ve­loppé un intranet social et une plateforme de partage de connaissances s’appuie sur G Suite et Office 365 pour la dimension collaborative tout en la personnalisant.
+« En se connectant le matin à la plateforme, le collaborateur n’aura pas la même expérience que son collègue », avance Nour Idriss Bentoumi, son product director. « En fonction de son profil, elle lui remontera uniquement les informations utiles à sa journée de travail. Sur Teams ou Slack, un utilisateur est rapidement noyé par le flot de messages. »
+Issu du monde du réseau social d’entreprise (RSE), Talkspirit a suivi un développement comparable en s’enrichissant de fonctionnalités de travail collaboratif. La plateforme propose aussi des connecteurs pour se greffer aux différents « drives », dont ceux de Microsoft et Google.
+Talkspirit met en avant les enjeux de souveraineté et de localisation des données
+Créé en 2004, l’éditeur français se pose en alternative aux deux mastodontes américains, en mettant en avant les enjeux de souveraineté et de localisation des données (hébergement chez OVH).
+Pour encore plus d’indépendance, il intègrera à son offre, d’ici à cet été, une suite bureautique open source. L’origine historique de Talkspirit est un atout de plus aux yeux de Philippe Pinault, son P.-D.G. « Les acteurs venus du RSE ont nativement déployé leur solution sur l’ensemble d’une organisation. En ajoutant la dimension collaborative à leur arc, ils descendent au niveau des équipes. Pour des ChatOps comme Slack, c’est le chemin inverse. Ils partent d’une équipe, puis remontent au sein de l’organisation. »
+L’éditeur a pour clients des ministères ou la Société du Grand Paris et, dans le privé, des ESN pour qui la marque em­ployeur est importante comme Squad et Davricourt, primées dans le classement Great Place to Work, ou, encore, des entreprises multisites, comme Gîtes de France. Pour les grosses PME et les ETI,
+Talkspirit se retrouve en concurrence avec Workplace from Facebook qui rencontre un beau succès dans les pays an­glo-saxons. Sa version professionnelle intègre Rooms, fonctionnalité venue de Messenger qui permet de passer des appels vidéo jusqu’à 50 participants. Workplace Rooms peut être reliée à Portal, l’enceinte connectée maison, et au casque Oculus for Business, ouvrant la voie à des réunions de travail en réalité virtuelle.
+Résister aux pure players
+À côté de ces pure players du cloud, on trouve des acteurs plus traditionnels qui ont, eux aussi, migré dans le cloud. C’est le cas de l’équipementier canadien Mitel qui vient de lancer en France MiCloud Flex, son offre de communications et de collaboration hébergée sur Google Cloud. Il avait précédemment dévoilé MiCollab et MiTeam Meetings, des modules offrant des fonctionna­lités de chat, de vidéo ou de partage de documents.
+JD Garo – Mitel :  » La collaboration est, avant tout, portée par la voix et l’écrit « 
+Pour Jean-Denis Garo, un fournisseur de communications unifiées comme Mitel est par­ti­cu­liè­rement légitime à proposer une digital workplace. « La collaboration est, avant tout, portée par la voix et l’écrit, les employés travaillant essentiellement avec leur messagerie et le téléphone. » Sous-entendu : un acteur historique de la téléphonie d’entreprise est plus à même de proposer la qua­lité de service attendue.
+Spécialiste de la virtualisation du poste de travail, Citrix, qui a fêté ses 30 ans d’expérience l’an dernier, a aussi des arguments à faire valoir. « Certaines offres font table rase de l’existant, occultant la dette technique des entreprises », plaide Guillaume Reffet, ingénieur avant-vente. « Une digital workplace doit pouvoir intégrer des applications métiers vieilles de dix ou quinze ans. » Une approche qui a séduit, entre autres, Alstom, Société Générale, Berger Levrault ou le Conseil départemental de la Seine-et-Marne.
+À ses yeux, le volet sécurité prend aussi une importance particulière quand des télétravailleurs utilisent des ordinateurs familiaux plus vulnérables aux virus et aux malwares. « Une interface sécurisée permet alors de rendre étanche l’exécution en local d’applications métiers en bloquant, par exemple, le téléchargement de document », poursuit Guillaume Reffet.
+L’intelligence artificielle dans la boucle
+Citrix utilise l’intelligence artificielle pour enrichir l’expérience utilisateur de Intelligent Workspace
+Par ailleurs, Citrix a développé pendant des années des technologies d’optimisation de la bande passante qui permettent de manipuler des fichiers par­ti­cu­liè­rement gourmands en ressources, comme des objets 3D en CAO-DAO. Les ingénieurs du bureau d’études de PSA partagent ainsi à distance des fichiers Catia de plusieurs Go.
+Citrix met ces technologies au service de son partenaire Microsoft pour Windows Virtual Desktop, le service de virtualisation de bureaux et d’applications sur Azure.
+Enfin, avec son concept d’Intelligent Workspace, Citrix utilise l’intelligence artificielle pour enrichir l’expérience utilisateur. Un assistant virtuel fait remonter un fil d’actualité personnalisé ou envoie des notifications sur les actions à faire.
+L’apport de l’IA pourrait ainsi être un élément différenciant dans la guerre à laquelle se livrent les acteurs de la digital workplace.
+Dans Teams, l’IA sert à traduire les messages dans le chat, à planifier une réunion en coordonnant les agendas des différents participants ou à aller dénicher dans l’annuaire d’entreprise le collègue qui dispose de la bonne expertise.
+Un assistant virtuel corvéable à merci
+Éditeur spécialisé en intelligence artificielle, IPsoft va un cran plus loin avec le lancement, en février dernier, de DigitalWorkforce.ai, sa place de marché de collègues virtuels.
+Baptisé Amelia, son agent intelligent n’est pas qu’un simple chatbot ou une FAQ dynamique. Pour favoriser l’interaction avec les humains, Amelia capte les sentiments de son interlocuteur en analysant les mots-clés utilisés ou, en mode vocal, l’intonation de ses phrases.
+Au sein d’une digital workplace, Amelia va décharger ses collègues humains des tâches répétitives et chronophages. Affectée au help desk informatique, elle va, par exemple, assurer un support de premier niveau en expliquant à l’utilisateur comment réinitialiser son mot de passe. « Amelia rejoint une équipe et monte en compétences comme le ferait une recrue », estime Cyril Parcellier, directeur du développement d’IPsoft France. « Elle s’améliore avec le temps sur les principes de l’apprentissage supervisé. »
+Cette sorte d’Alexa version entreprise peut manipuler des données sensibles et exécuter des process de bout en bout. « Elle va invoquer des processus automatisés de RPA ou des systèmes de back-office via des APIs », complète Pierre-Boris Bonafous, ingénieur avant-vente. « Elle est aussi capable de passer d’un sujet à l’autre, c’est-à-dire organiser une réunion, puis réserver une salle. » Bref, la collègue idéale dans la future digital workplace. 
+Retrouvez toutes les sessions de Workplace Paris en vidéo : 10  webconférences consacrées aux enjeux de la  Digital Workplace et les workshops de nos partenaires
+PublicitéPublicitéLes Podcasts de SplunksponsoriséL’IA, un atout pour une continuité de service public p…00:0000:0000:0000:00L’IA, un atout pour une continuité de service public p…16:50Une cyber-résilience à l’aune de l’IA et des régulatio…19:25Decathlon : une culture agile à l’international20:08Comment Carrefour a transformé la crise sanitaire en t…12:48Comment Groupama s’assure d’être résilient face aux cr…13:48Comment impulser une culture data dans une grande entr…14:17Hors-série : La data du futur (Volume 1)08:28Cegid : la tête dans le Cloud22:16Hors-série : La data du futur (Volume 2)07:30La data au service des verres intelligents chez Essilo…09:42La vision conseil de Deloitte sur la data et l’IA19:04Data altruisme et IA responsable au Crédit Mutuel Arkéa11:54[BONUS] La Data Responsable : une vision écologique23:08S’abonnerEdisoundFlux RSSSpotifyDeezerAmazon MusicApple PodcastsPartager l'épisodeFacebookXLinkedInLien de l'épisodeCopié !
+							﻿                        						
+
+ 
+
+
+
+
+                    0                
+
+
+
+
+
+
+
+
+
+                    0                
+
+
+
+
+
+
+",,"{'@type': 'WebPage', 'id': 'https://www.silicon.fr/dossiers/digital-workplace-chantier-prioritaire-du-dsi'}",2020-10-08T19:50:49+02:00,,"{'@type': 'ImageObject', 'url': 'https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720.jpg', 'width': '720', 'height': '543'}",,Collaboration,,https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720.jpg
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LnRyeWFnYW1lLmZyL2xlcy1wZXJzb25uYWdlcy1kaXNuZXktZW4tdnJhaS1vdS1wcmVzcXVlL9IBAA?oc=5,"Les personnages Disney, en vrai (ou presque) – Try aGame - Try aGame!",2020-10-07,Try aGame!,https://www.tryagame.fr,"ToyBoyfan s'est amusé, avec une IA, à faire des photos très réalistes des personnages Disney. Retour en images sur son travail.",N/A,"ToyBoyfan s'est amusé, avec une IA, à faire des photos très réalistes des personnages Disney. Retour en images sur son travail.",N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les personnages Disney, en vrai (ou presque)
+
+svpl4y
+7 octobre 2020
+Aucun commentaire
+3123 vues
+Cinéma - Séries - Animes, GEEKERIES, Livres - Manga - Comics, NEWS
+
+
+
+
+
+
+
+
+Tous les 6 mois on vous fait le coup, avec des personnages rendus badass ou dessinés à la manière de. Mais cette fois-ci une IA semble avoir fait le travail de rendre les personnages Disney réels presque parfaitement.
+
+Ce n’est pas « juste » un travail de photographie ou de montage que propose l’artiste ToyBoyfan, toujours étudiant. C’est à travers un projet nommé « IRL » utilisant une intelligence artificielle qu’il a pu produire ces portraits.
+Ainsi s’exprimant auprès de nos confrères de BoredPanda :
+ 
+Pour ces modifications via l’IA, je commence généralement par une photo d’un personnage de Disney et une photo d’une personne réelle qui, je pense, ressemble à ce personnage, puis je place les deux dans le programme d’IA que j’utilise pour fusionner les deux ensemble. Ensuite, le résultat peut paraître un peu drôle, alors je prends la photo résultante et je la combine avec une autre photo et ainsi de suite jusqu’à ce que j’obtienne une photo quelque peu réaliste qui ressemble un peu au personnage. Ensuite, je prends la photo dans Photoshop et commence à faire des ajustements ici et là pour le faire ressembler encore plus au personnage, comme changer la couleur des yeux ou affiner le visage.
+Quant à savoir comment l’idée est née, j’ai d’abord voulu créer un portrait réel de Kristoff de Frozen, juste pour pratiquer mes compétences en montage. Je l’ai posté sur mon Tumblr et tout le monde m’a soudain demandé de faire les autres personnages de Frozen. Une fois crées et postés, j’ai commencé à voir les photos republiées partout sur Internet, beaucoup de gens en étant étonné. J’ai alors remarqué qu’ils se demandaient s’il y avait d’autres princesses Disney, alors j’ai décidé de commencer à les créer également. 
+ 
+Du coup saurez-vous mettre un nom sur chacun de ces visages ?  (réponse en fin d’article) Et si vous aimez le genre, retrouvez les Creepy Pokemons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suivez l’actualité du JV made in Try aGame, à travers nos réseaux sociaux Twitter, Facebook ou encore Instagram. Pour le contenu vidéo c’est sur Youtube mais aussi sur Twitch que ça se passe. En bonus, notre compte curateur steam pourra vous aider dans vos choix de jeu sur la plateforme de Valve.
+Réponses :
+
+Ryder – Anna – Elsa
+Tiana – Moana – Kristoff
+Honeymaren – Hans – Agnar
+Iduna – Belle – Ariel
+
+
+
+
+
+
+0
+0
+votes
+Évaluation de l'article
+
+FacebookTwitterGoogleEmail
+
+Disney IA personnages
+
+
+
+
+svpl4y 
+
+				Personne ne lis jamais ces encarts (mais tu peux cliquer sur les liens)			
+
+   
+
+
+
+ 
+
+
+
+
+
+ S’abonner
+
+
+
+
+
+
+
+
+
+Notifier de 
+
+
+nouveaux commentaires de suivi
+nouvelles réponses à mes commentaires
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Label
+
+
+   
+    
+   
+    
+        
+       
+     
+    
+    
+{}
+[+]
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom*
+
+
+
+
+E-mail
+
+
+
+
+Site Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+{}
+[+]
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom*
+
+
+
+
+E-mail
+
+
+
+
+Site Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 Commentaires                    
+
+
+
+
+
+
+
+
+
+ Inline Feedbacks                    
+View all comments
+
+
+ 
+
+
+
+
+
+
+
+","[{'@type': 'WebPage', '@id': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/', 'url': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/', 'name': 'Les personnages Disney, en vrai (ou presque) &ndash; Try aGame', 'isPartOf': {'@id': 'https://www.tryagame.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/#primaryimage'}, 'image': {'@id': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/#primaryimage'}, 'thumbnailUrl': 'https://www.tryagame.fr/wp-content/uploads/2020/10/disney.jpg', 'datePublished': '2020-10-07T11:50:27+00:00', 'dateModified': '2020-10-07T11:50:27+00:00', 'author': {'@id': 'https://www.tryagame.fr/#/schema/person/3e58ce154724504233e2c1c9264df845'}, 'description': ""ToyBoyfan s'est amusé, avec une IA, à faire des photos très réalistes des personnages Disney. Retour en images sur son travail."", 'breadcrumb': {'@id': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/#primaryimage', 'url': 'https://www.tryagame.fr/wp-content/uploads/2020/10/disney.jpg', 'contentUrl': 'https://www.tryagame.fr/wp-content/uploads/2020/10/disney.jpg', 'width': 780, 'height': 439}, {'@type': 'BreadcrumbList', '@id': 'https://www.tryagame.fr/les-personnages-disney-en-vrai-ou-presque/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.tryagame.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'GEEKERIES', 'item': 'https://www.tryagame.fr/geekeries/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Les personnages Disney, en vrai (ou presque)'}]}, {'@type': 'WebSite', '@id': 'https://www.tryagame.fr/#website', 'url': 'https://www.tryagame.fr/', 'name': 'Try aGame', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.tryagame.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://www.tryagame.fr/#/schema/person/3e58ce154724504233e2c1c9264df845', 'name': 'svpl4y', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.tryagame.fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/3e65a136b1453cb3f0c4bc61bbbea53b?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/3e65a136b1453cb3f0c4bc61bbbea53b?s=96&d=mm&r=g', 'caption': 'svpl4y'}, 'description': 'Personne ne lis jamais ces encarts (mais tu peux cliquer sur les liens)', 'sameAs': ['https://www.instagram.com/guigsounet/', 'https://twitter.com/https://twitter.com/SVPL4Y/', 'https://www.youtube.com/channel/UCuMRmiT3ag-x-N566yAlsQQ'], 'url': 'https://www.tryagame.fr/author/svpl4y/'}]",,,,,,,,

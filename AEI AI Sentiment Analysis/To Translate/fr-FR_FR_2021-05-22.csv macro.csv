@@ -1,0 +1,1008 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,mainEntityOfPage,headline,datePublished,dateModified,speakable,publisher,author,image,itemListElement,article:section,article:summary,article text,@graph,name,url,potentialAction,logo,sameAs,isAccessibleForFree,hasPart,articleSection,articleBody,copyrightYear,thumbnailUrl,@id,foundingDate
+https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5jbHViaWMuY29tL3RlY2hub2xvZ2llcy1kLWF2ZW5pci9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL2FjdHVhbGl0ZS0zNzI1MDMtcXVhbmQtbC1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWRldmllbnQtdW5lLWFsbGllZS1kZXMtYXJjaGVvbG9ndWVzLmh0bWzSAQA?oc=5,Quand l'intelligence artificielle devient une alliée des archéologues - Clubic,2021-05-25,Clubic,https://www.clubic.com,Deux chercheurs américains ont réussi à former un réseau de neurones artificiels au tri de fragments de poterie. Une avancée qui pourrait considérablement aider les archéologues.,N/A,Deux chercheurs américains ont réussi à former un réseau de neurones artificiels au tri de fragments de poterie. Une avancée qui pourrait considérablement aider les archéologues.,Deux chercheurs américains ont réussi à former un réseau de neurones artificiels au tri de fragments de poterie. Une avancée qui pourrait considérablement aider les archéologues.,https://schema.org,BreadcrumbList,https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-372503-quand-l-intelligence-artificielle-devient-une-alliee-des-archeologues.html,Quand l’intelligence artificielle devient une alliée des archéologues,2021-05-25T15:20:00+02:00,2021-05-25T15:20:00+02:00,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Clubic.com', 'url': 'https://www.clubic.com', 'logo': {'@type': 'ImageObject', 'url': 'https://pic.clubic.com/v1/images/1932033/raw', 'width': '210', 'height': '60'}, 'sameAs': ['https://www.facebook.com/Clubic', 'https://twitter.com/clubic', 'https://www.youtube.com/user/Clubic', 'https://fr.linkedin.com/company/clubic', 'https://fr.wikipedia.org/wiki/Clubic']}","{'@context': 'https://schema.org', '@type': 'Person', 'name': 'Mia Ogouchi', 'url': 'https://www.clubic.com/auteur/370489-mia-ogouchi.html', 'description': 'Mon parcours', 'sameAs': ['https://www.twitter.com/plume_pixel', 'https://www.linkedin.com/in/miaogouchi/']}","{'@type': 'ImageObject', 'height': '583', 'width': '1000', 'url': 'https://pic.clubic.com/v1/images/1690193/raw'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.clubic.com/', 'url': 'https://www.clubic.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/', 'url': 'https://www.clubic.com/technologies-d-avenir/', 'name': 'Science & Innovation'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/', 'url': 'https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",N/A,N/A,"© Shutterstock.comDeux chercheurs américains ont réussi à former un réseau de neurones artificiels au tri de fragments de poterie. Une avancée qui pourrait considérablement aider les archéologues.Trier des tessons de poterie ? Un travail fastidieux auquel tous les archéologues doivent se soumettre un jour. Cependant, cette tâche pourrait bientôt être de l’histoire ancienne. Dans une récente étude réalisée pour la Northern Arizona University, les archéologues Chris Downum et Lescek Pawlowicz dévoilent des résultats prometteurs. Ils ont, en effet, réussi à automatiser le tri et la classification de fragments de poterie découverts lors de fouilles.Lire aussi :Une IA décrypte les émotions dans les peintures célèbres, ses interprétations font sourirePublicitéLe tri des fragments de poterie, crucial pour mieux comprendre nos ancêtresDe prime abord, le sujet semble peu engageant. Il a pourtant une importance cruciale. Loin des crânes de cristal, arches légendaires et autres coups de fouet, le quotidien des archéologues est plutôt rythmé par la recherche de poteries.La vaisselle constitue, en effet, un excellent témoignage du passé. Les techniques employées pour créer les différents récipients et les décorer permettent bien souvent de mieux comprendre l’histoire des différentes civilisations qui nous ont précédés. Ces artefacts fourmillent d’indices passionnants sur notre Histoire.Bonne nouvelle, les différents sites archéologiques en regorgent. Mais voilà : comment trier et classifier tous les tessons retrouvés sans y perdre un temps considérable ? C’est la question que se sont posée Chris Downum et Lescek Pawlowicz, de la Northern Arizona University.Lire aussi :Un algorithme réussit à lire une lettre vieille de 350 ans sans l'ouvrirPublicitéUn gain de temps précieux pour les archéologuesLe tri des dizaines de milliers de fragments de poterie disponibles est, aujourd’hui encore, réalisé à la main. « Cela constitue des centaines d’heures de travail méticuleux et de longue haleine », indique Pawlowicz. De plus, les archéologues mettent des années pour apprendre à le faire de manière fiable et efficace.C’est pourquoi Pawlowciz et Downum ont décidé de mettre l’intelligence artificielle de leur côté. Ils ont soumis à un réseau neuronal à convolution plus de 3 000 photos de fragments de poterie Tuyasan, aux motifs caractéristiques. Certaines images étaient volontairement tronquées ou orientées dans le mauvais sens pour s’assurer que le réseau sache gérer les tâches plus ardues. Ils ont ensuite mis en concurrence l’intelligence artificielle avec quatre experts en archéologie.Surprise : la machine a surpassé deux d’entre eux et était à égalité avec les autres. Des résultats prometteurs qui pourraient, dans le futur, assurer un gain de temps considérable aux archéologues en automatisant cette tâche. Ce n’est pas la première fois qu’une expérience est réalisée dans le domaine : une autre équipe de chercheurs avait obtenu un taux de réussite de 96 % avec un programme différent.Bien sûr, il n’est pas question de remplacer le travail humain et l’expérience des archéologues reste encore particulièrement utile. Il faudrait également arriver à convaincre ces professionnels de partager leurs découvertes dans une base de données commune, ce qui est loin d’être gagné. Cependant, aidés d’une telle intelligence artificielle, les archéologues pourraient dévouer une plus grande partie de leur temps à des tâches moins rébarbatives. On n’arrête pas le progrès !Source : Ars Technica",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vb3BlcmF0aW9ubmVscy5jb20vMjAyMS8wNS8yNC9saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1hcHBsaXF1ZWUtYXV4LXN5c3RlbWVzLWRhcm1lcy1hdXRvbm9tZXMv0gEA?oc=5,L'intelligence artificielle appliquée aux systèmes d'armes autonomes - Opérationnels SLDS - Operationnels,2021-05-24,Operationnels,https://operationnels.com,"Traduction/ synthèse - Source : wired.com - En août dernier, plusieurs dizaines de drones terrestres et aériens ont été engagés à 40 miles au sud de",N/A,"Traduction/ synthèse - Source : wired.com - En août dernier, plusieurs dizaines de drones terrestres et aériens ont été engagés à 40 miles au sud de",N/A,https://schema.org,,,,,,,,,,,N/A,N/A,"
+
+
+ 
+
+
+Arquus pleinement engagé dans l’électrification du théâtre d’opérations
+
+Partenariat,
+juin 14, 2024
+
+
+","[{'@type': 'Article', '@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#article', 'isPartOf': {'@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/'}, 'author': {'name': 'Franck Rossi', '@id': 'https://operationnels.com/#/schema/person/6af3695f73e8e3289de162f6bd47f9a4'}, 'headline': 'L&#8217;intelligence artificielle appliquée aux systèmes d&#8217;armes autonomes', 'datePublished': '2021-05-24T18:29:35+00:00', 'dateModified': '2021-05-26T15:54:54+00:00', 'mainEntityOfPage': {'@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/'}, 'wordCount': 514, 'publisher': {'@id': 'https://operationnels.com/#organization'}, 'image': {'@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#primaryimage'}, 'thumbnailUrl': 'https://operationnels.com/wp-content/uploads/2021/05/drone-swarm.png', 'keywords': ['autonomie', 'DARPA', 'drones', 'essaim de drones', 'ethique', 'intelligence artificielle', 'Pentagon'], 'articleSection': ['2021', 'Air', 'Armées étrangères', 'Défense', 'Documentation thématique', 'Formation/Entraînement', 'Lu ailleurs', 'Revue de Presse', 'Terre', 'Web Review', 'ZOOM'], 'inLanguage': 'fr-FR'}, {'@type': 'WebPage', '@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/', 'url': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/', 'name': ""L'intelligence artificielle appliquée aux systèmes d'armes autonomes - Opérationnels SLDS"", 'isPartOf': {'@id': 'https://operationnels.com/#website'}, 'primaryImageOfPage': {'@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#primaryimage'}, 'image': {'@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#primaryimage'}, 'thumbnailUrl': 'https://operationnels.com/wp-content/uploads/2021/05/drone-swarm.png', 'datePublished': '2021-05-24T18:29:35+00:00', 'dateModified': '2021-05-26T15:54:54+00:00', 'description': 'Traduction/ synthèse - Source : wired.com - En août dernier, plusieurs dizaines de drones terrestres et aériens ont été engagés à 40 miles au sud de', 'breadcrumb': {'@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#primaryimage', 'url': 'https://operationnels.com/wp-content/uploads/2021/05/drone-swarm.png', 'contentUrl': 'https://operationnels.com/wp-content/uploads/2021/05/drone-swarm.png', 'width': 1605, 'height': 1073}, {'@type': 'BreadcrumbList', '@id': 'https://operationnels.com/2021/05/24/lintelligence-artificielle-appliquee-aux-systemes-darmes-autonomes/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://operationnels.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'L&#8217;intelligence artificielle appliquée aux systèmes d&#8217;armes autonomes'}]}, {'@type': 'WebSite', '@id': 'https://operationnels.com/#website', 'url': 'https://operationnels.com/', 'name': 'Opérationnels – Soutien, Logistique, Défense, Sécurité', 'description': '« Chacun est responsable de tous. Chacun est seul responsable. Chacun est seul responsable de tous » - Antoine de Saint-Exupéry', 'publisher': {'@id': 'https://operationnels.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://operationnels.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://operationnels.com/#organization', 'name': 'Opérationnels', 'url': 'https://operationnels.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://operationnels.com/#/schema/logo/image/', 'url': 'https://operationnels.com/wp-content/uploads/2020/11/ops-small.png', 'contentUrl': 'https://operationnels.com/wp-content/uploads/2020/11/ops-small.png', 'width': 515, 'height': 148, 'caption': 'Opérationnels'}, 'image': {'@id': 'https://operationnels.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/operationnels/', 'https://www.youtube.com/user/Operationnels']}, {'@type': 'Person', '@id': 'https://operationnels.com/#/schema/person/6af3695f73e8e3289de162f6bd47f9a4', 'name': 'Franck Rossi'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5sZW1vbmRlaW5mb3JtYXRpcXVlLmZyL2FjdHVhbGl0ZXMvbGlyZS1sLWVtLWx5b24tb3V2cmUtdW5lLWZvcm1hdGlvbi1ncmF0dWl0ZS1kZWRpZWUtYS1sYS1yZWNvbnZlcnNpb24taXQtODMwMjkuaHRtbNIBgwFodHRwczovL3d3dy5sZW1vbmRlaW5mb3JtYXRpcXVlLmZyL2FjdHVhbGl0ZXMvbGlyZWFtcC1sLWVtLWx5b24tb3V2cmUtdW5lLWZvcm1hdGlvbi1ncmF0dWl0ZS1kZWRpZWUtYS1sYS1yZWNvbnZlcnNpb24taXQtODMwMjkuaHRtbA?oc=5,L'EM Lyon ouvre une formation gratuite dédiée à la reconversion IT - LeMondeInformatique,2021-05-25,LeMondeInformatique,https://www.lemondeinformatique.fr,"Formation : Financée par l'école de management EM Lyon, la formation gratuite la toile s'adresse s'adresse à des jeunes en décrochage scolaire et à des personnes...",N/A,"Financée par l'école de management EM Lyon, la formation gratuite la toile s'adresse s'adresse à des jeunes en décrochage scolaire et à des personnes...",N/A,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+Toute l'actualité /
+Emploi / Formation
+
+L'EM Lyon ouvre une formation gratuite dédiée à la reconversion IT
+
+
+Véronique Arène,
+
+publié le 25 Mai 2021
+
+
+
+
+
+
+
+
+
+
+
+
+0
+Réaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyberattaques : ces ransomwares qui terrassent les hôpitaux 
+
+
+1L'hôpital sous tension
+2Des SI particulièrement à risques
+3...
+
+Lire le dossier 
+
+
+
+
+Financée par l'école de management EM Lyon, la formation gratuite la toile s'adresse s'adresse à des jeunes en décrochage scolaire et à des personnes éloignées de l'emploi pour acquérir des qualifications de base aux métiers IT. Installé à Lyon-Ecully, Saint Etienne et Paris, ce programme accessible sans condition de ressources se compose de quatre parcours axés développement web, intelligence artificielle, objets connectés et fabrication numérique.
+
+Le programme de formation la toile (ci dessus le campus de Lyon-Ecully) vise à accompagner l'insertion professionnelle dans quatre domaines technologiques. (Crédit photo EM Lyon)
+
+
+Les parcours pédagogiques visant à accompagner des personnes éloignées de l’emploi vers les métiers IT continuent à se développer en France. L’EM Lyon business school a décidé de suivre le mouvement en créant une école de qualification au numérique, baptisée la toile, cette formation gratuite est accessible sans pré-requis de diplôme ou d'expérience professionnelle. Pour y avoir accès les candidats doivent-être des décrocheurs scolaire (sans diplôme) ou des demandeurs d’emploi de longue durée (inscrits à Pôle emploi depuis plus d’un an). Une fois ce statut vérifié, ils sont sélectionnés uniquement sur leur motivation pour suivre ce parcours entièrement financé par l’école de commerce lyonnaise. Installée sur les campus de Lyon-Écully, et également à Saint-Étienne et Paris, cette école  s’est donné plusieurs objectifs. Réduire les inégalités sociales et culturelles en permettant à tous d’acquérir des compétences en informatique, mais aussi contribuer au dynamisme économique du territoire.  
+Pour cela, un programme intensif de neuf semaines permet une reconversion professionnelle dans quatre domaines technologiques au choix : la conception web, la fabrication numérique, les objets connectés et l’intelligence artificielle. A l’arrivée, une réorientation vers une vaste palette de métiers, tels que développeur de sites web, opérateur en fabrication additive, prototypiste, fab manager, maquettiste en électronique, architecte internet des objets ou encore développeur en intelligence artificielle, Un certificat d’établissement spécifique au parcours choisi, sera délivré à l’issue du cursus. En option, les participants pourront accéder à 1 à 2 mois d’immersion professionnelle avec le suivi d’un coach, ou à 5 jours de pré-incubation de start-up pour celles et ceux ayant un projet de création d’entreprise. Le parcours est enseigné en français et sur site (3 ou 4 jours par semaine).
+Un objectif de 150 personnes formées par an 
+Las personnes sélectionnées seront accueillies dans les laboratoires de fabrication (maker’s labs) de l'école de commerce sur les campus de Lyon-Écully, de Saint-Étienne et Paris (pour ce dernier, à partir de novembre 2021). Après l’étude de leur dossier, 22 participantes et participants suivent la première session du parcours développeur/concepteur web, qui se déroule en ce moment et jusqu’au mardi 13 juillet 2021 à Lyon-Ecully. 46% des candidates sont des jeunes décrocheurs scolaires majeurs sans qualification (bacheliers ou infrabac). Les autres sont des personnes éloignées de l’emploi, ou en reconversion professionnelle, avec des parcours très différents
+En complément des cours, l'EM Lyon fournit le matériel informatique requis et propose un accompagnement de carrière pour mettre en avant les compétences des étudiants de la toile sur le marché du travail : au menu, des ateliers de rédaction de CV et des lettres de motivation, ainsi que des cours de développement personnel. Dans le cadre d’un programme de parrainage, les collaboratrices et collaborateurs de l’école de commerce peuvent s’impliquer dans le dispositif et proposer un soutien hebdomadaire d’1h30 à chaque participant au cours des 9 semaines d’apprentissage. A compter de la prochaine année scolaire, l’objectif est de former 150 personnes par an. Les rentrées ont lieu deux fois par an.  
+Une erreur dans l'article? Proposez-nous une correction
+
+
+Article rédigé par
+Véronique ArèneJournaliste 
+
+
+
+Cet article vous a plu? Partagez le !
+
+
+
+
+
+
+
+
+
+
+
+Newsletter LMI
+Recevez notre newsletter comme plus de 50000 abonnés
+
+
+
+OK
+
+
+
+
+
+
+
+
+Commentaire 
+
+
+
+
+
+
+
+
+							Commenter cet article en tant que 
+							visiteur ou connectez-vous 
+
+
+
+Renseignez votre email pour être prévenu d'un nouveau commentaire
+Pour tout savoir sur la manière dont nous traitons vos données personnelles, consultez notre Charte de Confidentialité.
+
+
+
+Le code HTML est interdit dans les commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suivre toute l'actualité
+Newsletter
+Recevez notre newsletter comme plus de 50 000 professionnels de l'IT!
+Je m'abonne
+
+
+
+ 
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMilwFodHRwczovL21ldGEtZGVmZW5zZS5mci8yMDIxLzA1LzI1L2Ryb25lcy1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLW51bWVyaXNhdGlvbi1sYS1ydXNzaWUtYXVzc2ktZXN0LWEtbGEtcG9pbnRlLWRlcy1ub3V2ZWxsZXMtdGVjaG5vbG9naWVzLWRlLWRlZmVuc2Uv0gEA?oc=5,"Drones, Intelligence Artificielle, numérisation : La Russie aussi est à la pointe des nouvelles technologies de Défense - Meta-Defense.fr",2021-05-25,Meta-Defense.fr,https://meta-defense.fr,"In recent years, the American armed forces have undertaken a profound transformation in order to integrate new technologies such as the use",N/A,"In recent years, the American armed forces have undertaken a profound transformation in order to integrate new technologies such as the use","In recent years, the American armed forces have undertaken a profound transformation in order to integrate new technologies such as the use",https://schema.org,BreadcrumbList,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://meta-defense.fr/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://meta-defense.fr/classifications/', 'name': 'classifications'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://meta-defense.fr/classifications/actualites-defense/', 'name': 'Defense News'}}]",Actualités Défense,N/A,"
+
+
+
+
+HomeclassificationsDefense News
+
+
+
+
+Defense NewsArmy budgets and defense effortDefense Research and Development
+Drones, Artificial Intelligence, digitization: Russia is also at the forefront of new defense technologies
+About Fabrice Wolf
+25th May 2021 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+FacebookLinkedInTwitterPinterestWhatsAppReddItTelegramEmailCopy url
+
+
+
+
+
+NEWSLETTER SUBSCRIBENewsletter subscription
+
+
+First name
+
+E-mail
+
+ Newsletter Quotidienne (fr)
+ Newsletter Hebdomadaire (fr)
+By subscribing to the newsletter, you accept the terms of use and confidentiality agreement Meta-defense.fr
+
+
+
+
+
+
+
+CHANGER OF LANGUAGEChange language
+
+
+ 
+In recent years, the American armed forces have undertaken a profound transformation in order to integrate new technologies such as the massive use of drones, the digitization of the battlefield and cooperative engagement, and attempting to regain the military ascendancy over its potential adversaries, and in particular over China, which now occupies most of the attention of Pentagon strategists. The announced objective is to compensate for the numerical advantage linked to the PLA's omnipotence and the probable proximity to Chinese soil in a hypothetical engagement against Chinese forces in the Western Pacific, and in particular around Taiwan. A report published by the American Naval Analysis Center recalls that while China is indeed a major adversary that should be taken seriously, thehe Russia also remains a very serious competitor, especially since, like the United States, it is deploying significant efforts in these disruptive technological fields., likely to neutralize the advantage hoped for by American and Western forces.
+The 286-page report details the many Russian efforts in these new technologies and doctrines. Thus, in the field of drones, and after a late start, the country has been able to catch up to the point of becoming probably the first to implement a heavy combat drone, the S70 Okhotnik B, from the middle of the decade. It has also considerably increased the integration of drones in its decision-making and command chain, after numerous experiments carried out in Syria in particular, both in the conventional fields and in more innovative fields, such as robotics. Clearly, the Syrian conflict has been, and remains, for Russian forces, a great laboratory for experimenting with weapon systems but also its doctrines of engagement.
+The modernized version of the Mi-28NM integrates several tools allowing cooperative combat and interaction with drones and vagrant ammunition which crisscross the battlefield. 
+The Russian armies have also made immense progress in the field of cooperative engagement in recent years, again relying in part on the advances made in drones, but also in space, and several flagship programs, in the aerial domain (Su-57, Mi-28NM, Ka-52M..) as in the naval field (Gorshkov frigates, Iassen submarines, Bastion coastal defense batteries ..), now include tools allowing this form of cooperation. These same tools are found in the field of land combat with the new version of the Ratnik combat outfit and new features incorporated into the modernized T-90M, T80BVM and T-72B3M tanks, as well as the Tornado S / G, MSta and Koalitsya-sv artillery systems, and the imminent arrival of the new generation of armored vehicles of the Armata family. 
+
+There are 75% of this article left to read, Subscribe to access it!
+
+
+
+
+
+
+
+
+
+
+
+
+The Classic subscriptions provide access to articles in their full version, and without advertising, from 1,99 €.
+
+
+
+
+
+Log in
+
+
+
+
+Subscribe
+
+
+
+
+ 
+Defense NewsArmy budgets and defense effortDefense Research and DevelopmentDefense Communication and NetworksMilitary Drones and RoboticsNagorno-Karabakh conflictNATO vs Russia tensionsCombat dronesNaval dronesTerrestrial dronesCooperative engagementthe Artificial intelligenceMulti-domain commitmentsHigh Intensity WarfareRussian FederationMilitary planning and plans
+KeywordsT-14 Armata tankUAV S-70 Okhotnik-BMIL Mi-28 Havoc helicopter
+Previous ArticleUS Air Force begins resistance and wants to reduce F35A orders by 10%Next articleThe US Air Force wants to get rid of its first F35As
+For further
+
+
+
+
+ 
+
+Naval drones
+Why is the technology of the large XLUUV underwater drone strategic for military navies?
+
+
+
+
+
+
+
+ 
+
+Fighters aircrafts
+Half of the fighter planes in Europe will have been built by Lockheed-Martin in 2035.
+
+
+
+
+
+
+
+ 
+
+Aircraft carrier
+The construction of the 4th Chinese aircraft carrier has reportedly started
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+SOCIAL MEDIA
+FacebookLinkedInTwitterYoutuberss
+
+
+
+Last articles
+
+
+
+
+ 
+
+Defense News
+The arrival of the J-31B Gyrfalcon in the Chinese air forces is taking shape
+
+
+
+
+
+
+
+ 
+
+Naval drones
+Why is the technology of the large XLUUV underwater drone strategic for military navies?
+
+
+
+
+
+
+
+ 
+
+Fighters aircrafts
+Half of the fighter planes in Europe will have been built by Lockheed-Martin in 2035.
+
+
+
+
+
+
+
+ 
+
+Aircraft carrier
+The construction of the 4th Chinese aircraft carrier has reportedly started
+
+
+
+
+
+
+
+ 
+
+Combat drones
+Dassault combat drone vs Airbus DS: the battle of the European Loyal Wingmen is launched
+
+
+
+
+
+
+
+
+
+Discount summer 2024
+Enjoy 10% off your subscription Premium or classic, annual or monthly, to Meta-defense to take advantage of articles in full version and without advertising.
+Coupon Code : Metadef
+
+I take advantage of it
+
+
+
+
+
+
+ ","[{'@type': 'Organization', '@id': 'https://meta-defense.fr/#organization', 'name': 'Meta-Defense.fr', 'sameAs': ['https://www.facebook.com/metadefense.fr/'], 'logo': {'@type': 'ImageObject', '@id': 'https://meta-defense.fr/#logo', 'url': 'https://meta-defense.fr/wp-content/uploads/2022/03/cropped-LOGO-meta-defense-512.png', 'contentUrl': 'https://meta-defense.fr/wp-content/uploads/2022/03/cropped-LOGO-meta-defense-512.png', 'caption': 'Meta-Defense.fr', 'inLanguage': 'fr-FR', 'width': '512', 'height': '512'}}, {'@type': 'WebSite', '@id': 'https://meta-defense.fr/#website', 'url': 'https://meta-defense.fr/en/', 'name': 'Meta-Defense.fr', 'alternateName': 'Meta-Defense', 'publisher': {'@id': 'https://meta-defense.fr/#organization'}, 'inLanguage': 'en'}, {'@type': 'ImageObject', '@id': 'https://h2f9q8w3.rocketcdn.me/wp-content/uploads/2020/12/okhotnik_Su57-e1606912042742.jpg', 'url': 'https://h2f9q8w3.rocketcdn.me/wp-content/uploads/2020/12/okhotnik_Su57-e1606912042742.jpg', 'width': '800', 'height': '450', 'inLanguage': 'fr-FR'}, {'@type': 'BreadcrumbList', '@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://meta-defense.fr', 'name': 'Home'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://meta-defense.fr/classifications/', 'name': 'classifications'}}, {'@type': 'ListItem', 'position': '3', 'item': {'@id': 'https://meta-defense.fr/classifications/actualites-defense/', 'name': 'Defense News'}}, {'@type': 'ListItem', 'position': '4', 'item': {'@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/', 'name': 'Drones, Artificial Intelligence, digitization: Russia is also at the forefront of new defense technologies'}}]}, {'@type': 'WebPage', '@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#webpage', 'url': 'https://meta-defense.fr/en/2021/05/25/drones-artificial-intelligence-digitization-russia-is-also-at-the-forefront-of-new-defense-technologies/', 'name': 'Drones, Artificial Intelligence, digitization: Russia is also at the forefront of new defense technologies', 'datePublished': '2021-05-25T14:16:41+02:00', 'dateModified': '2021-10-10T14:51:23+02:00', 'isPartOf': {'@id': 'https://meta-defense.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://h2f9q8w3.rocketcdn.me/wp-content/uploads/2020/12/okhotnik_Su57-e1606912042742.jpg'}, 'inLanguage': 'en', 'breadcrumb': {'@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#breadcrumb'}}, {'@type': 'Person', '@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#author', 'name': 'Fabrice Wolf', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/088f3c13a2c5d5e9e3131106b54364c8?s=96&amp;d=blank&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/088f3c13a2c5d5e9e3131106b54364c8?s=96&amp;d=blank&amp;r=g', 'caption': 'Fabrice Wolf', 'inLanguage': 'fr-FR'}, 'sameAs': ['https://meta-defense.fr/fabrice-wolf/', 'https://www.facebook.com/metadefense.fr', 'https://twitter.com/https://twitter.com/MetadefenseF'], 'worksFor': {'@id': 'https://meta-defense.fr/#organization'}}, {'@type': 'NewsArticle', 'headline': 'Drones, Artificial Intelligence, digitization: Russia is also at the forefront of new technologies', 'datePublished': '2021-05-25T14:16:41+02:00', 'dateModified': '2021-10-10T14:51:23+02:00', 'articleSection': 'Defense News, Armed Forces Budgets and Defense Effort, Defense Communication and Networks, Nagorno-Karabakh conflict, Combat drones, Military drones and robotics, Naval drones, Land drones, Cooperative engagement, Multi-domain engagements, Russian Federation, High War Intensity, Artificial Intelligence, Military planning and plans, Defense Research and Developments, NATO vs Russia tensions', 'author': {'@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#author', 'name': 'Fabrice Wolf'}, 'publisher': {'@id': 'https://meta-defense.fr/#organization'}, 'description': 'In recent years, the American armed forces have undertaken a profound transformation in order to integrate new technologies such as the use', 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://meta-defense.fr/#organization'}, 'name': 'Drones, Artificial Intelligence, digitization: Russia is also at the forefront of new technologies', '@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#richSnippet', 'isPartOf': {'@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#webpage'}, 'image': {'@id': 'https://h2f9q8w3.rocketcdn.me/wp-content/uploads/2020/12/okhotnik_Su57-e1606912042742.jpg'}, 'inLanguage': 'en', 'mainEntityOfPage': {'@id': 'https://meta-defense.fr/2021/05/25/drones-intelligence-artificielle-numerisation-la-russie-aussi-est-a-la-pointe-des-nouvelles-technologies-de-defense/#webpage'}}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5sZXNlY2hvcy5mci9wbWUtcmVnaW9ucy9pbm5vdmF0ZXVycy9iZWFjaGJvb2tlci1sYW5jZS1sZS1wcmVtaWVyLW91dGlsLWRlLXJlc2VydmF0aW9uLWVuLWxpZ25lLWRlcy1wbGFnZXMtcHJpdmVlcy0xMzE3NTgx0gEA?oc=5,Beachbooker lance le premier outil de réservation en ligne des plages privées - Les Échos,2021-05-25,Les Échos,https://www.lesechos.fr,"Fin mai, Beachbooker lance la première plateforme de réservation en ligne pour les plages privées, dont les établissements accusent un retard en matière de digitalisation. Recourant à l'intelligence artificielle, ses algorithmes promettent d'optimiser le remplissage des parcs de transats, désormais gérés en temps réel.",N/A,"Fin mai, Beachbooker lance la première plateforme de réservation en ligne pour les plages privées, dont les établissements accusent un retard en matière de digitalisation. Recourant à l'intelligence artificielle, ses algorithmes promettent d'optimiser le remplissage des parcs de transats, désormais gérés en temps réel.","Fin mai, Beachbooker lance la première plateforme de réservation en ligne pour les plages privées, dont les établissements accusent un retard en matière de digitalisation. Recourant à l'intelligence artificielle, ses algorithmes promettent d'optimiser le remplissage des parcs de transats, désormais gérés en temps réel.",http://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lesechos.fr/pme-regions/innovateurs/beachbooker-lance-le-premier-outil-de-reservation-en-ligne-des-plages-privees-1317581'}",Beachbooker lance le premier outil de réservation en ligne des plages privées,2021-05-25T08:00:34+02:00,2021-05-25T07:59:11+02:00,,"{'@type': 'Organization', 'name': 'Les Echos', 'logo': {'@type': 'ImageObject', 'url': 'https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp', 'width': 200, 'height': 38}}","[{'@type': 'Person', 'name': 'Hubert Vialatte', 'jobTitle': 'Correspondant à Montpellier', 'sameAs': ['https://www.lesechos.fr/@hubert-vialatte']}]","{'@type': 'ImageObject', 'url': 'https://media.lesechos.com/api/v1/images/view/60ac926fd286c2451f432f14/1280x720/0611053972409-web-tete.jpg', 'height': '720', 'width': '1280'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lesechos.fr/', 'name': 'Les Echos'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lesechos.fr/pme-regions', 'name': 'PME-Régions'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lesechos.fr/pme-regions/innovateurs', 'name': 'Innovateurs'}}]",PME-Régions,N/A,"ExclusifBeachbooker lance le premier outil de réservation en ligne des plages privéesFin mai, Beachbooker lance la première plateforme de réservation en ligne pour les plages privées, dont les établissements accusent un retard en matière de digitalisation. Recourant à l'intelligence artificielle, ses algorithmes promettent d'optimiser le remplissage des parcs de transats, désormais gérés en temps réel.Ajouter à mes articlesCommenterPartagerPartagerHéraultInnovateursLa plage privée Les Salines à Sète, dans l'Hérault. (DR)Par Hubert VialattePublié le 25 mai 2021 à 08:00Réserver en ligne son transat sur une plage privée . Ce sera possible fin mai grâce à Beachbooker, qui lance la première plateforme digitale de réservation. Chaque jour, en haute saison, les paillotes reçoivent toujours des centaines d'appels téléphoniques de clients en quête de transats. Un modèle encore archaïque : « Ces appels sont une perte de temps, à la fois pour les professionnels et les vacanciers, constate Maxime Ducloux, président et fondateur de Beachbooker. Notre technologie vient fluidifier les demandes. »En quelques clics, le client pourra visualiser les transats disponibles et les réserver en prépayant, et même commander en amont des boissons. Une vingtaine de plages privées de la côte méditerranéenne sont déjà partenaires.Sécuriser les professionnelsLe prépaiement sécurise aussi les revenus pour les professionnels, même en cas - fréquent - de défection du client. Et cet outil leur permet de connaître l'historique des clients : venues fréquentes, habitudes d'emplacement et de consommation … « Ils pourront mettre en place des suivis et des opérations de fidélisation, adapter les équipes en fonction du taux de remplissage prévisionnel calculé sur la base des années précédentes », détaille Philippe Lécouvé, directeur général.PublicitéRecourant à l'intelligence artificielle, les algorithmes de Beachbooker promettent d'optimiser le remplissage des parcs de transats, désormais gérés en temps réel. « Les plages privées ne sont pas toujours pleines l'été. Faute de solutions technologiques, des transats sont non occupés à cause de défections, malgré la demande forte. Il y a une déperdition », observe-t-il. Beachbooker vise toute la côte méditerranéenne et un développement international à terme.Travail de pédagogiePour l'instant, la start-up se rémunère en louant son logiciel BtoB, déjà utilisé depuis trois ans en interne par les plagistes. Avec cette nouvelle version BtoC, elle percevra un pourcentage sur les réservations de transats. L'accueil des plagistes ? « Plutôt chaleureux, même s'il y a un travail de pédagogie à faire », concède Philippe Lécouvé. « De plus en plus de gérants viennent de l'hôtellerie, complète Maxime Ducloux. Ils ont l'habitude d'imposer une rigueur de travail aux collaborateurs avec des outils CRM. » Le site et l'application beachbooker.fr sont conçus par l'agence digitale Genia Media.Le serviceBeachbookerDate de création : 2019Président : Maxime DuclouxEffectif : 2 personnesSecteur : TourismeHubert Vialatte (Correspondant à Montpellier)Nouveau : découvrez nos offres Premium !Vos responsabilités exigent une attention fine aux événements et rapports de force qui régissent notre monde. Vous avez besoin d’anticiper les grandes tendances pour reconnaitre, au bon moment, les opportunités à saisir et les risques à prévenir.C’est précisément la promesse de nos offres PREMIUM : vous fournir des analyses exclusives et des outils de veille sectorielle pour prendre des décisions éclairées, identifier les signaux faibles et appuyer vos partis pris. N'attendez plus, les décisions les plus déterminantes pour vos succès 2024 se prennent maintenant !Je découvre les offresNos VidéosParis sportifs en ligne : qui sont les vrais gagnants ?Il y a 14 ans, la Française des Jeux (FDJ) perdait son monopole sur les paris sportifs en ligne. Aujourd’hui, 15 opérateurs se partagent ce marché toujours en croissance. Mais est-il si rentable que cela pour eux ? On vous explique.Portugal, Espagne, Grèce : la revanche des « pays du Club Med »Les jeunes ont-ils vraiment un problème avec le travail ?SNCF : la concurrence peut-elle faire baisser les prix des billets de train ?PublicitéLes plus lusOverseed lève 4,7 millions pour produire une huile de cannabis médical 100 % française Boarding Ring voit son dispositif anti mal de mer validé par la science Miraïa relance le charbon végétal dans l'agriculture et l'industrie PublicitéÀ la UneDécryptageRésultats des législatives : les neuf points clefs du second tourDirectRésultats des législatives : les tractations sont lancées pour trouver une majoritéZoomLa carte des résultats : qui a été élu au second tour ?Publicité",,Les Echos,https://www.lesechos.fr,"{'@type': 'SearchAction', 'target': 'https://www.lesechos.fr/recherche?q={query}', 'query-input': 'required name=query'}",https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp,"['https://www.facebook.com/lesechos/', 'https://x.com/LesEchos?lang=fr', 'https://www.linkedin.com/company/les-echos']",True,,,,,,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNvdXJyaWVyaW50ZXJuYXRpb25hbC5jb20vYXJ0aWNsZS9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWlibS1ldC1sYS1zYW50ZS1yZWNpdC1kdW4tZmlhc2Nv0gEA?oc=5,"IBM et la santé, récit d'un fiasco - Courrier international",2021-05-25,Courrier international,https://www.courrierinternational.com,"Le géant américain de l’informatique a investi une fortune dans sa filiale d’intelligence artificielle médicale Watson Health, supposée guérir le cancer. Des ch...",N/A,"Le géant américain de l’informatique a investi une fortune dans sa filiale d’intelligence artificielle médicale Watson Health, supposée guérir le cancer. Des ch...","Le géant américain de l’informatique a investi une fortune dans sa filiale d’intelligence artificielle médicale Watson Health, supposée guérir le cancer. Des ch...",,,,,,,,,,,,N/A,N/A,"   Économie États-Unis Médecine   Intelligence artificielle. IBM et la santé, récit d’un fiasco  Le géant américain de l’informatique a investi une fortune dans sa filiale d’intelligence artificielle médicale Watson Health, supposée guérir le cancer. Des choix désastreux l’ont conduit à la mettre en vente. Le magazine STAT, spécialisé dans la santé, a mené l’enquête sur cette descente aux enfers.     STAT    Réservé aux abonnés Lecture 13 min. Publié le 25 mai 2021 à 06h00, mis à jour le 23 février 2022 à 17h48               
+Dessin de Cristina Sampaio, Portugal.      Partager    À l’été 2018, l’horizon de Watson Health, filiale d’IBM censée révolutionner la médecine grâce à l’intelligence artificielle (IA), pouvait difficilement paraître plus sombre. L’entreprise chancelait sous le poids des licenciements et des critiques acerbes des médias, et plusieurs de ses produits ne remplissaient pas les objectifs de vente. Mais lors d’une visioconférence avec des centaines de collaborateurs, Lisa Rometty, [alors] vice-présidente de Watson Health, se dit “ravie” par son dernier voyage d’affaires et décrit un produit soi-disant capable d’aider à sauver des vies, bien qu’aucune donnée ne vienne étayer cette affirmation. Elle justifie son optimisme par une scène dont elle a été témoin dans un hôpital chinois qui utilise [le programme d’intelligence artificielle d’IBM] Watson pour soigner ses patients atteints de cancer. Elle raconte que la femme d’un malade a demandé aux médecins de prolonger la vie de son mari, ne serait-ce que d’un jour ou deux. “Le médecin l’a regardée dans les yeux et a dit : ‘Absolument, en utilisant cette technologie IBM, nous pensons que nous pouvons vous aider, vous et votre mari’”, raconte Lisa Rometty à son équipe. Spirale infernale Pendant des années, le groupe avait enchaîné les campagnes     La suite est réservée aux abonnés... Déjà abonné ? Se connecter      Accédez à tous les contenus abonnés Soutenez une rédaction indépendante Recevez le Réveil Courrier chaque matin    Offre d’été numérique :  2,99 € / mois ou 34 € / an S’abonner avec  -50% la 1re annéeEn choisissant ce parcours d’abonnement promotionnel, vous acceptez le dépôt d’un cookie d’analyse par Google.                            Casey Ross et Mario Aguilar   Lire l’article original   Sur le même sujet          Algorithmes. L’Europe veut limiter le côté obscur de l’intelligence artificielle            Social. La Silicon Valley en pointe pour limiter le télétravail      Amériques Économie Sciences & Techno Réveil Intelligence artificielle (IA) Médecine États-Unis    Source de l’article   STAT (Boston)  Lancé en novembre 2015 par John W. Henry, propriétaire du quotidien The Boston Globe, STAT – aussi appelé Statnews – est un site d’informations américain spécialisé dans la santé, la médecine, les biotechnologies ainsi que dans les découvertes scientifiques dans ces domaines.“Dans le jargon médical, ‘stat’ signifie important et urgent, et c’est ce que nous faisons – livrer rapidement et intelligemment de bonnes histoires”, annonce le site dans sa présentation.
+Extrêmement rigoureux, STAT propose des articles d’actualités quotidiens en particulier sur la politique et le système de santé aux États-Unis, mais aussi, dans des formats plus longs, des portraits d’entreprises pharmaceutiques, des décryptages sur des innovations comme les techniques d’édition des gènes, des reportages dans des laboratoires, des enquêtes fouillées et des contenus multimédias parfois interactifs.
+Plusieurs newsletters thématiques, quotidiennes ou hebdomadaires sont également proposées. L’essentiel de ces articles est disponible gratuitement.
+Une formule payante baptisée STAT Plus donne un accès exclusif à des sujets présentés de manière encore plus approfondie.
+Basée à Boston, la rédaction dispose aussi de bureaux à New York, San Francisco, Cleveland ou encore Los Angeles.   Lire la suite    
+
+
+
+Contenus sponsorisés
+
+Recommandé par
+
+ 
+
+
+
+
+
+
+   Nos services          Hors-série : Villes, tout ce qui vibre    Des nuits de Lisbonne à celles de Medellín, des rues de Shanghai aux toits d’Alger, des bars de Prague aux plages de Dubaï, un tour du monde des cultures urbaines.    Je commande mon hors-série →            The Wall Street Journal    Recevez un an d’abonnement numérique offert.    Je reçois mon abonnement →            Boutique    Cinq merveilleux albums à découvrir dès 9 ans sur ces grands philosophes au format poche.    Je commande →            Gymglish et le Tour de France    Commencez par « ciao » et finissez par « bonjour » avec les cours d’italien et de français Gymglish.    Je profite de l’offre     
+
+
+     Les plus lus     Politique.  Les résultats du second tour des législatives 2024 commentés par la presse étrangère       Politique.  Législatives 2024 : les analyses de la presse étrangère au lendemain du second tour       Vu de l’étranger.  Législatives 2024 : la gauche en tête, le RN en recul, “un miracle politique”       Vu du Royaume-Uni.  Législatives : les résultats du 7 juillet sont “du pain bénit pour Marine Le Pen”             Nos services          Hors-série : Villes, tout ce qui vibre    Des nuits de Lisbonne à celles de Medellín, des rues de Shanghai aux toits d’Alger, des bars de Prague aux plages de Dubaï, un tour du monde des cultures urbaines.    Je commande mon hors-série →            The Wall Street Journal    Recevez un an d’abonnement numérique offert.    Je reçois mon abonnement →            Boutique    Cinq merveilleux albums à découvrir dès 9 ans sur ces grands philosophes au format poche.    Je commande →            Gymglish et le Tour de France    Commencez par « ciao » et finissez par « bonjour » avec les cours d’italien et de français Gymglish.    Je profite de l’offre     
+
+
+   
+
+
+
+Contenus sponsorisés
+
+Recommandé par
+
+ 
+
+
+
+
+   ",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYWdlbmNlLWFwaS5vdWVzdC1mcmFuY2UuZnIvYXJ0aWNsZS9tdWxsaWV6LWZsb3J5LW1pc2UtcGx1cy1xdWUtamFtYWlzLXN1ci1sZS12ZXRlbWVudC1jb25uZWN0ZdIBAA?oc=5,Mulliez-Flory mise plus que jamais sur le vêtement connecté - Agence API - Agence API,2021-05-26,Agence API,https://agence-api.ouest-france.fr,,N/A,"Mulliez-Flory, spécialiste du vêtement de travail et d’image, lancera en juillet la production d’un t-shirt connecté pour la medtech parisienne Chronolife. La société de Sevremoine (49) assurera l’intégralité de la confection de ce vêtement en coton élasthanne et l’intégration de...",N/A,https://schema.org,NewsArticle,,Mulliez-Flory mise plus que jamais sur le vêtement connecté,2021-05-26T04:00:00+02:00,2021-05-26T08:57:35+02:00,,,,['https://agence-api.ouest-france.fr/uploads/article/00f1281e3e92f5b4036c0c0808b005dc5a336bd4.jpg'],,N/A,N/A,"
+
+Textile
+Mulliez-Flory mise plus que jamais sur le vêtement connecté
+
+
+
+
+
+
+
+Imprimer
+
+
+
+Envoyer
+
+
+
+Twitter
+
+
+
+Facebook
+
+
+
+Linkedin
+
+
+
+
+                      	                Maine-et-Loire
+	        	 | 
+                    26/05/21
+
+
+
+
+              Le système Wip permet une remontée d’informations sur les mouvements du porteur et l'ergonomie de son poste.
+                              ©Mulliez-Flory
+                          
+
+
+
+
+
+
+
+Mulliez-Flory, spécialiste du vêtement de travail et d’image, lancera en juillet la production d’un t-shirt connecté pour la medtech parisienne Chronolife. La société de Sevremoine (49) assurera l’intégralité de la confection de ce vêtement en coton élasthanne et l’intégration des composants électroniques dont les capteurs permettant la remontée des paramètres physiologiques du porteur (électrocardiogramme, température, respiration, quantité d’eau dans les poumons…). Ces informations seront renvoyées par une application puis traitées par l’intelligence artificielle.
+ 
+Marché sportif
+Le t.shirt intègre aussi une carte électronique encapsulée avec fils textiles conducteurs, batterie, interface radio, système de communication BLE (Bluetooth low energy). Le vêtement pourra supporter jusqu’à 50 lavages. Ce produit, classé dispositif médical, pourra être prescrit mais Chronolife vise aussi le marché des sportifs. Le produit représente « des quantités intéressantes » pour l’activité de Mulliez-Flory, précise Thomas Poulin, responsable R&D de l’entreprise.
+ 
+Le drap médical connecté
+Chronolife n’a pas retenu Mulliez-Flory par hasard. L’entreprise travaille depuis 2015 sur des programmes visant « à marier le textile à l’électronique », poursuit Thomas Poulin. Ce fut d’abord le programme collaboratif Autonotex, lequel a donné naissance au produit Securedrap, Mulliez-Flory étant également un spécialiste du linge médical. Il s’agit là d’un drap connecté pour le couchage sécurisé des personnes désorientées et permettant d’alerter les soignants en cas de problèmes. Ce produit en est actuellement au stade des études cliniques.
+ 
+Analyser les mouvements
+Mulliez-Flory avance aussi sur la gamme Wip (""Workwear intelligence and prevention""). Cet autre produit connecté inséré dans le vêtement de travail permet une remontée d’informations sur l’amplitude articulaire et les mouvements des salariés sur le poste de travail pour prévenir notamment les troubles musculo-squelettiques.
+ 
+Croissance
+L’autre usage de Wip est la prévention des collisions entre l’homme et la machine, notamment sur les centres logistiques. En cas de risque, la personne est automatiquement signalée par un éclairage Led. Le système Wip est déjà utilisé par Arkema ou FM Logistic et bientôt par Mulliez-Flory dans ses propres entrepôts. Mulliez-Flory, qui emploie 250 salariés en France, a réalisé l’an dernier un chiffre d’affaires de 112 M€, en croissance du fait notamment de la demande hospitalière liée à la Covid.
+
+
+
+
+
+
+
+Le contenu de cet article est réservé à nos abonnés.
+
+
+Lire cet article gratuitement
+
+
+
+
+
+ ",,,,,,,False,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.js-data-poool'}",,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNhcGl0YWwuZnIvdm90cmUtY2FycmllcmUvNy1jb25zZWlscy1wb3VyLXJldHJvdXZlci1sZS1nb3V0LWRlLW1hbmFnZXItMTQwNDM0N9IBAA?oc=5,7 conseils pour retrouver le goût de manager - Capital.fr,2021-05-26,Capital.fr,https://www.capital.fr,"Pour remettre un peu de piment dans son management, il suffit de renouveler ses façons de faire. Nos pistes pour secouer un peu l'ambiance et les pratiques au sein d’une équipe. ",",soft skills,Management,","Pour remettre un peu de piment dans son management, il suffit de renouveler ses façons de faire. Nos pistes pour secouer un peu l'ambiance et les pratiques au sein d’une équipe. ","Pour remettre un peu de piment dans son management, il suffit de renouveler ses façons de faire. Nos pistes pour secouer un peu l'ambiance et les pratiques au sein d’une équipe. ",http://schema.org,NewsArticle,https://www.capital.fr/votre-carriere/7-conseils-pour-retrouver-le-gout-de-manager-1404347,7 conseils pour retrouver le goût de manager,2021-05-26T16:44:58+02:00,2021-05-26T16:44:58+02:00,,"{'@type': 'Organization', 'name': 'Capital.fr', 'url': 'https://www.capital.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.capital.fr/assets/capital/modern/images/logo_capital.5e6f8109c8f4ffb474a4.png', 'height': 60, 'width': 175}}","[{'@type': 'Person', 'name': 'Gaëlle Ginibrière'}]","{'url': 'https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2021.2F05.2F26.2F1825c035-f5e3-4b5d-aa34-67cfeab92e42.2Ejpeg/1200x630/focus-point/731%2C232/cr/wqkgV2F2ZWJyZWFrMy9BZG9iZSBTdG9jayAvIENBUElUQUw%3D/7-conseils-pour-retrouver-le-gout-de-manager-1404347.jpg', 'width': 1200, 'height': 630, '@type': 'ImageObject'}","[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Accueil', '@id': 'https://www.capital.fr/'}}]",vie-au-travail,N/A,"
+
+
+
+ 
+
+
+			6 conseils pour devenir un manager “climat friendly”
+									
+		
+
+
+
+
+				MANAGEMENT
+			
+
+",,,,,,,,,vie-au-travail,"Les managers interm&eacute;diaires, &agrave; qui l'on promettait une disparition certaine il y a sept ou huit ans en raison du d&eacute;veloppement de l'intelligence artificielle, sortent grands gagnants des p&eacute;riodes de confinement. &laquo;Ils se sont r&eacute;v&eacute;l&eacute;s des acteurs cl&eacute;s&nbsp;: en premi&egrave;re ligne pour coordonner les &eacute;quipes et s'assurer des bonnes conditions de travail, ils &eacute;taient les mieux pr&eacute;par&eacute;s pour faire face&raquo;, observe Ricardo Azambuja, enseignant-chercheur en management &agrave; Rennes School of Business. Pour continuer &agrave; tenir ce r&ocirc;le, ils vont cependant devoir muscler certaines de leurs comp&eacute;tences. Et se montrer toujours plus acteurs de leurs pratiques manag&eacute;riales, &agrave; l'instar d'ailleurs de tous les &eacute;chelons de la hi&eacute;rarchie. &laquo;Les managers fran&ccedil;ais se montrent souvent assez frileux face au changement. Mais la crise sanitaire a vu se multiplier les innovations et a fait bouger les lignes&raquo;, veut croire l'universitaire. Alors, puisque le contexte fournit une occasion r&ecirc;v&eacute;e de r&eacute;inventer nos pratiques, si on en profitait pour redonner &agrave; notre travail ce go&ucirc;t de nouveaut&eacute; qu'il avait un peu perdu ? Les suggestions de nos experts pour vous inspirer dans votre mise &agrave; jour.Passer en mode VicaD&eacute;clin&eacute;e depuis les ann&eacute;es 1990, la notion d&rsquo;un monde Vica &ndash;&nbsp;Vuln&eacute;rable, Incertain, Complexe et Ambigu&nbsp;&ndash; a pris tout son sens avec la crise sanitaire. Convaincu qu'il s'agit l&agrave; d'une grille de lecture incontournable pour l'avenir, le coach Nad Philips a lanc&eacute; un programme de formation destin&eacute; &agrave; pr&eacute;parer les managers &agrave; ce tournant. &laquo;Ces derni&egrave;res ann&eacute;es, la recherche en management s'est largement pench&eacute;e sur les comp&eacute;tences requises dans un monde Vica. Nous travaillons sur les savoir-&ecirc;tre essentiels pour diriger en mode adaptatif&nbsp;: travail en &eacute;quipe, recherche de diversit&eacute; et de compl&eacute;mentarit&eacute;, esprit critique&raquo;, d&eacute;veloppe Nad Philips. Pour C&eacute;cile Dejoux, professeure des universit&eacute;s au Conservatoire national des arts et m&eacute;tiers (Cnam), manager dans l'incertitude suppose &eacute;galement de changer son mode de fonctionnement&nbsp;: &laquo;Dans un environnement impr&eacute;visible, le probable devient possible. Jusqu'alors, le management se situait dans une perspective probabiliste o&ugrave; le risque de survenue d'un &eacute;v&eacute;nement &eacute;tait quantifiable. Il lui faut d&eacute;sormais s'inscrire dans une logique cr&eacute;ative de storytelling, pour imaginer des sc&eacute;narios et cr&eacute;er des mod&egrave;les multidimensionnels&raquo;, observe la professeure au Cnam, &eacute;galement professeure affili&eacute;e &agrave; l' ESCP Europe et autrice de Ce sera l'IA ET moi (Vuibert). Bienvenue dans le monde de la pens&eacute;e holistique&nbsp;!&gt;&gt; A lire aussi - T&eacute;l&eacute;travail, coworking... comment r&eacute;inventer son travail sans changer de job Conjuguer savoir-faire et savoir-&ecirc;trePremi&egrave;re cons&eacute;quence de cette situation&nbsp;: l'hybridation. Plus question de faire tous la m&ecirc;me chose au m&ecirc;me endroit. Des collaborateurs au bureau, d'autres en visio, &agrave; en croire les experts, cette situation perdurera une fois la crise sanitaire derri&egrave;re nous. &laquo;L'heure est &agrave; l'hybridation du management entre le distanciel et le pr&eacute;sentiel, mais aussi entre le formel et l'informel, c'est-&agrave;-dire le travail op&eacute;rationnel d'un c&ocirc;t&eacute; et les relations qui se nouent au sein de l'&eacute;quipe de l&rsquo;autre&raquo;, souligne Jean-Michel Philippon, coach. Si la distance &eacute;loigne, elle peut aussi rapprocher. La disparition de la machine &agrave; caf&eacute; laisse place &agrave; d'autres styles de convivialit&eacute;. Directrice marketing au sein du cabinet de conseil et d'audit PwC, C&eacute;cile de Lasteyrie dirige une &eacute;quipe d'une centaine de personnes. Avec la crise, elle a &eacute;volu&eacute; vers un style de management o&ugrave; l'efficacit&eacute; va de pair avec le respect de la temporalit&eacute; de chacun. &laquo;A distance, il faut &ecirc;tre plus explicite sur ses attentes et formaliser un mode de fonctionnement en n'h&eacute;sitant pas &agrave; se mettre d'accord sur les moments et les fa&ccedil;ons dont on pr&eacute;f&egrave;re &ecirc;tre contact&eacute;&raquo;, reconna&icirc;t-elle. Rien &agrave; voir donc avec les brefs &eacute;changes qui permettent de faire avancer un dossier lors de rencontres impromptues dans le couloir. Entre la r&eacute;union envisageable en visio selon son th&egrave;me et le nombre de participants et le feed-back individuel &agrave; privil&eacute;gier sur site, l'heure est au pilotage fin. &gt;&gt; A lire aussi - En pr&eacute;sentiel, en distanciel : ces expressions sont-elles correctes&nbsp;?Favoriser la polyvalenceLa communication de l'assembl&eacute;e g&eacute;n&eacute;rale annuelle confi&eacute;e &agrave; un salari&eacute; f&eacute;ru de r&eacute;seaux sociaux&nbsp;; une charg&eacute;e de communication passionn&eacute;e par les Etats-Unis associ&eacute;e &agrave; l'&eacute;quipe projet sur la fusion de la filiale am&eacute;ricaine avec son principal concurrent&hellip; Les 130 employ&eacute;s du d&eacute;partement corporate communication de Deutsche Telekom exp&eacute;rimentent la pool organisation, soit la combinaison, au sein d'&eacute;quipes &eacute;ph&eacute;m&egrave;res, de comp&eacute;tences et de savoir-faire adapt&eacute;s &agrave; chaque projet. La m&eacute;thode cr&eacute;e de la disruption et apporte un regard neuf sur les sujets. Lorsqu'en outre des experts externes sont associ&eacute;s aux &eacute;quipes maison, on parle de flash organisation. &laquo;Pour le manager, cela implique d'&eacute;tablir une cartographie des comp&eacute;tences, internes et externes, pour y piocher les plus ad&eacute;quates, en associant &eacute;galement les styles de travail compatibles. Et il faut avoir une intelligence &eacute;motionnelle suffisamment fine pour &ecirc;tre en mesure de s'adapter rapidement au fonctionnement de chacun&raquo;, recommande Bernhard Ney, directeur g&eacute;n&eacute;ral France du r&eacute;seau de consultants Comatch. Indispensable &eacute;galement de faire preuve d'humilit&eacute; et d'accepter de faire appel &agrave; un expert plus cap&eacute; que soi ! &gt;&gt; Notre service - Trouvez la formation professionnelle qui dopera ou r&eacute;orientera votre carri&egrave;re gr&acirc;ce &agrave; notre moteur de recherche sp&eacute;cialis&eacute; (Commercial, Management, Gestion de projet, Langues, Sant&eacute; &hellip;) et entrez en contact avec un conseiller pour vous guider dans votre choixJouer le r&ocirc;le de coachPlus que jamais, le management passe par la confiance et l'autonomie.  &laquo;Les &eacute;quipes, surtout &agrave; distance, sont dans l'op&eacute;rationnel. Le manager, lui, doit se  positionner comme un facilitateur : il doit s'imposer comme une ressource pour ses collaborateurs, ne pas &ecirc;tre forc&eacute;ment celui qui sait, mais leur donner les moyens de r&eacute;ussir&raquo;, estime C&eacute;cile Dejoux. Un positionnement que C&eacute;line de Lasteyrie a d&eacute;j&agrave; adopt&eacute;. &laquo;J'ai par exemple banni les points r&eacute;guliers avec mes collaborateurs, pr&eacute;f&eacute;rant me rendre disponible d&egrave;s qu'ils en font la demande&raquo;, souligne-t-elle. Au suivi pointilleux, la dirigeante pr&eacute;f&egrave;re le r&ocirc;le de coach : &laquo;Mon r&ocirc;le, t&eacute;moigne-t-elle, est de rester attentive aux personnes en les aidant &agrave; trouver la place &agrave; laquelle elles exprimeront tout leur potentiel.&raquo;&gt;&gt; A lire aussi - Managers, 10 fa&ccedil;ons de mobiliser l'intelligence collective de votre &eacute;quipe pour surmonter la criseFaire phosphorer ses &eacute;quipesRien de plus naturel que d'apprendre tout au long de sa vie professionnelle. Pourtant, la culture de l'apprentissage n'a rien d'&eacute;vident en entreprise. &laquo;Se former suppose d'accepter l'&eacute;chec et de sortir de la stricte logique d&rsquo;efficience qui incite &agrave; reproduire ce que l'on sait d&eacute;j&agrave; faire. Pour innover, il faut savoir s'attaquer &agrave; des sujets dans lesquels on est moins bon et pour lesquels monter en comp&eacute;tences repr&eacute;sente du temps et des ressources&raquo;, explique La&euml;titia Vitaud, pr&eacute;sidente de Cadre Noir Ltd, un think tank sp&eacute;cialis&eacute; dans la recherche sur le futur du travail, et auteure de Du labeur &agrave; l'ouvrage (Calmann-L&eacute;vy), une passionnante analyse de l'&eacute;volution du monde du travail. Pour favoriser cet &eacute;tat d'esprit, les studios Pixar ont syst&eacute;matis&eacute; un processus dont vous pouvez librement vous inspirer pour revitaliser vos rendez-vous en visio : la session post-mortem. L'id&eacute;e est de r&eacute;unir son &eacute;quipe apr&egrave;s la r&eacute;alisation d'un projet pour d&eacute;terminer ce qui a &eacute;chou&eacute;, ce qui a r&eacute;ussi et pour quelles raisons. Pour que l'exercice porte ses fruits, veillez toutefois &agrave; respecter quelques r&egrave;gles&nbsp;: &laquo;Encouragez chaque participant &agrave; faire preuve de sinc&eacute;rit&eacute;. Evitez de pointer du doigt les responsables des erreurs. Incitez chacun &agrave; rechercher des solutions&raquo;, recommande La&euml;titia Vitaud. Plus largement, montrez que vous consacrez vous-m&ecirc;me du temps &agrave; vous former et laissez &agrave; vos &eacute;quipes le temps d'assister &agrave; des webinaires et des colloques, ou de suivre des formations.&gt;&gt; A lire aussi - 8 m&eacute;thodes &eacute;prouv&eacute;es pour &ecirc;tre un super manager dans le ""monde d'apr&egrave;s""Adopter le &laquo;Un pour tous, tous pour un&raquo;Vous &eacute;tiez d&eacute;j&agrave; un adepte de l'intelligence collaborative ? Passez &agrave; l'intelligence coop&eacute;rative. &laquo;L'intelligence collective consiste &agrave; faire l'addition des comp&eacute;tences et &agrave; multiplier les talents. L'intelligence coop&eacute;rative y ajoute un atout suppl&eacute;mentaire en introduisant la question de la solidarit&eacute; entre les acteurs et de leur responsabilit&eacute; les uns envers les autres. Il s'agit d'inciter les coll&egrave;gues &agrave; s'entraider : la r&eacute;ussite de l'un devient la r&eacute;ussite de tous&raquo;, explique Jean-Michel Philippon. Dans ce cadre, les objectifs &agrave; atteindre ne sont pas forc&eacute;ment collectifs. Ils peuvent concerner un seul collaborateur. &laquo;Des probl&egrave;mes individuels peuvent tr&egrave;s bien affecter n&eacute;gativement une &eacute;quipe, poursuit le coach. Dans l'intelligence coop&eacute;rative, la r&eacute;ussite individuelle conditionne la r&eacute;ussite du groupe. Le probl&egrave;me de l'un devient le probl&egrave;me de tous, donc aussi le probl&egrave;me de chacun. La coop&eacute;ration vise &agrave; concilier r&eacute;ussite individuelle et r&eacute;ussite collective, l'une et l'autre se nourrissant mutuellement.&raquo; Un m&eacute;canisme qui encourage la g&eacute;n&eacute;rosit&eacute;, la gratitude et l'altruisme. De quoi changer durablement l'ambiance au sein de votre &eacute;quipe.&gt;&gt; A lire aussi - Retour au bureau : managers, voici comment remotiver vos &eacute;quipesRester &agrave; l&rsquo;&eacute;couteC'est le principe de tout processus it&eacute;ratif : exp&eacute;rimenter des pratiques &eacute;loign&eacute;es de votre champ habituel, les &eacute;valuer, avant de d&eacute;cider de les adopter ou de les enterrer d&eacute;finitivement. Pour cela, laissez libre cours aux initiatives de votre &eacute;quipe &ndash;&nbsp;sans pour autant brider les v&ocirc;tres. A l'issue du second confinement, en novembre 2019, C&eacute;line de Lasteyrie se demandait comment remonter le moral de ses collaborateurs &agrave; l'approche des f&ecirc;tes de No&euml;l. &laquo;Plusieurs d'entre eux m'ont spontan&eacute;ment propos&eacute; de faire des mailings sympathiques et positifs, d'organiser un escape game en ligne et de pr&eacute;parer un livre de cuisine avec les recettes des collaborateurs. L'effet a &eacute;t&eacute; bluffant&nbsp;! J&rsquo;ai vraiment pris conscience de l'enrichissement qu&rsquo;on ressent &agrave; s'&eacute;couter les uns les autres&raquo;, t&eacute;moigne-t-elle. Et si l'initiative avait fait flop ? Si les animations en ligne avaient &eacute;t&eacute; vraiment trop nazes pour susciter l'int&eacute;r&ecirc;t de l'&eacute;quipe ? Eh bien, on repasse illico en mode Vica, en prenant acte du ratage&nbsp;: on en rigole ensemble et on passe &agrave; autre chose.""Un espace de libert&eacute; &agrave; saisir""Olivia Grangerodet, directrice de l'Urssaf d'Auvergne&laquo;D&egrave;s ma prise de poste de directrice en 2016, j'ai suivi un programme de leadership. Mon management est d&eacute;l&eacute;gatif et fond&eacute; sur la confiance. Je t&acirc;che de l&acirc;cher prise pour ne pas &ecirc;tre trop intrusive dans les missions de mes collaborateurs. Sur le principe, les managers de l'Urssaf ont des attentes qui correspondent &agrave; ce sch&eacute;ma. Pourtant, il existe encore une r&eacute;sistance, une appr&eacute;hension &agrave; se saisir de cet espace de libert&eacute;. Avec Jean-Michel Philippon, coach d'&eacute;quipe, un collectif de managers a planch&eacute; pour d&eacute;ployer des m&eacute;thodes de travail collaboratif. La d&eacute;marche est appr&eacute;ci&eacute;e, mais insuffisante. Pour que les managers franchissent un cap suppl&eacute;mentaire et s'autorisent &agrave; prendre des initiatives qui sortent des sentiers battus, nous travaillons avec l'&eacute;quipe de direction sur la fa&ccedil;on de lever les obstacles ancr&eacute;s dans l'inconscient de l'entreprise. Pour des raisons culturelles, ils craignent en effet que leurs propositions ne soient pas en phase avec la hi&eacute;rarchie et s'autocensurent. Il nous faut donc donner l'exemple.&raquo;",2021,,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnNpbGljb24uZnIvY2hhdGJvdC1yZXRvdXItZXhwZXJpZW5jZS1hc3N1cmFuY2UtbWFsYWRpZS00MDgxMTguaHRtbNIBUmh0dHBzOi8vd3d3LnNpbGljb24uZnIvY2hhdGJvdC1yZXRvdXItZXhwZXJpZW5jZS1hc3N1cmFuY2UtbWFsYWRpZS00MDgxMTguaHRtbC9hbXA?oc=5,Chatbot : le retour d’expérience de l’Assurance Maladie - Silicon.fr,2021-05-25,Silicon.fr,https://www.silicon.fr,"En France, l'Assurance Maladie mise sur un agent conversationnel pour accueillir des millions d’utilisateurs du site ameli.fr. Pour quels résultats ? ",N/A,"En France, l'Assurance Maladie mise sur un agent conversationnel pour accueillir des millions d’utilisateurs du site ameli.fr. Pour quels résultats ?",N/A,https://schema.org,BreadcrumbList,"{'@type': 'WebPage', 'id': 'https://www.silicon.fr/chatbot-retour-experience-assurance-maladie-408118.html'}",Chatbot : le retour d&#039;expérience de l&#039;Assurance Maladie,2021-05-25T10:21:41+02:00,2021-05-25T13:56:08+02:00,,"{'@type': 'Organization', 'name': 'Silicon', 'logo': {'@type': 'ImageObject', 'url': 'https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/mstile-70x70.png', 'width': '', 'height': ''}}","{'@type': 'Person', 'name': 'Ariane Beky'}","{'@type': 'ImageObject', 'url': 'https://www.silicon.fr/wp-content/uploads/2020/11/Health-Data-Hub-Cnil-Olivier-Véran.jpeg', 'width': '1000', 'height': '749'}","[{'@type': 'ListItem', 'position': 1, 'item': 'https://www.silicon.fr/', 'name': 'Accueil'}, {'@type': 'ListItem', 'position': 2, 'item': 'https://www.silicon.fr/actualites/software', 'name': 'Logiciels'}, {'@type': 'ListItem', 'position': 3, 'item': 'https://www.silicon.fr/chatbot-retour-experience-assurance-maladie-408118.html', 'name': 'Chatbot : le retour d&rsquo;expérience de l&rsquo;Assurance Maladie'}]",N/A,N/A,"
+
+
+Chatbot : le retour d’expérience de l’Assurance Maladie
+
+Ariane Beky, 25 mai 2021, 10:21 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+En France, l’Assurance Maladie mise sur un agent conversationnel pour accueillir des millions d’utilisateurs du site ameli.fr. Pour quels résultats ? 
+
+  Principale branche de la sécurité sociale française, l’Assurance Maladie mise sur un chatbot pour accueillir une partie des 37 millions d’utilisateurs de son site Ameli.fr.
+Un an après le déploiement de cet agent conversationnel, Sophie Martin, responsable du département optimisation de la relation client et du marketing (DRCM) de l’Assurance Maladie, et Catherine Duyck-Bagot, responsable maîtrise d’ouvrage DRCM, font le point.
+Silicon.fr – Quels étaient les objectifs à l’origine de ce déploiement ?
+L’Assurance Maladie « protège » la santé de plus de 60 millions de personnes, en prenant en charge le remboursement des soins et les indemnités en cas d’arrêt de travail. En complément de ses centres d’accueil physiques, téléphoniques et courriels, l’Assurance Maladie propose depuis plus de 13 ans à ses assuré(e)s de se connecter à Ameli.fr.
+Pour traiter un plus grand nombre de demandes (41 millions de contacts en moyenne chaque mois), réduire les délais de réponse, et prioriser les requêtes les plus urgentes, l’Assurance Maladie a décidé de lancer un chatbot début 2020, nommé AmeliBot.
+
+Pourquoi avoir opté pour un agent conversationnel « intelligent » ?
+Nous avons vite compris que pour absorber tous les flux entrants, nous aurions à déployer une plateforme d’intelligence artificielle conversationnelle, permettant de répondre 24h/24, 7jour/7, tout en améliorant la connaissance des usagers. Cependant, notre objectif avec ce chabot n’était pas de remplacer nos agents humains, mais de lui permettre de se concentrer sur les demandes les plus urgentes, pour fournir un meilleur service.
+Nous avons entamé les discussions avec DigitalCX, avant son rachat par CM.com, et conclu que ce prestataire répondait à nos attentes, aussi bien quant aux performances, que de la sécurité ou du respect du cadre législatif européen sur la protection des données.
+Qu’en est-il du retour sur investissement pour cette solution ?
+Nous avons lancé ameliBot début 2020, juste avant la pandémie de Covid-19. Cet outil nous a permis d’absorber une partie du pic de demandes de nos assurés pendant la crise. Les premiers résultats sont très encourageants. Sans action de communication particulière, ameliBot a géré plus d’un million de conversations chaque mois, se hissant au niveau du courrier électronique, que nous proposons depuis 10 ans. Le taux de satisfaction de l’outil progresse, tout comme son taux d’usage, et nous allons continuer à investir dans cette solution, qui a vocation à devenir un point de contact numérique majeur avec nos assurés.
+(photo de une © REDPIXEL – stock.adobe.com)
+PublicitéPublicité
+ Lire aussi : 
+Chatbot : LumApps acquiert Vizir
+Les Podcasts de SplunksponsoriséL’IA, un atout pour une continuité de service public p…00:0000:0000:0000:00L’IA, un atout pour une continuité de service public p…16:50Une cyber-résilience à l’aune de l’IA et des régulatio…19:25Decathlon : une culture agile à l’international20:08Comment Carrefour a transformé la crise sanitaire en t…12:48Comment Groupama s’assure d’être résilient face aux cr…13:48Comment impulser une culture data dans une grande entr…14:17Hors-série : La data du futur (Volume 1)08:28Cegid : la tête dans le Cloud22:16Hors-série : La data du futur (Volume 2)07:30La data au service des verres intelligents chez Essilo…09:42La vision conseil de Deloitte sur la data et l’IA19:04Data altruisme et IA responsable au Crédit Mutuel Arkéa11:54[BONUS] La Data Responsable : une vision écologique23:08S’abonnerEdisoundFlux RSSSpotifyDeezerAmazon MusicApple PodcastsPartager l'épisodeFacebookXLinkedInLien de l'épisodeCopié !
+ 
+
+
+
+
+ 
+Recommander cet article :
+
+
+
+
+                    0                
+
+
+
+
+
+
+
+
+
+                    0                
+
+
+
+
+					﻿                        				
+
+
+
+
+Publicité
+
+
+					﻿                                
+
+
+ NEWSLETTER 
+ Abonnez-vous pour recevoir nos meilleurs articles 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ Facebook
+                            
+
+
+
+
+  Twitter
+
+
+
+
+  Linkedin
+
+
+
+
+
+
+
+
+ Abonnez-vous 
+
+
+
+
+
+
+
+
+
+
+
+Recevez le magazine directement chez vous, et en version numérique
+97 € / an
+Je m'abonne
+
+
+
+
+Nos Événements 
+
+
+ Replay 
+
+
+
+                            Le grand dîner de gala de la Communauté                        
+
+
+Voir le Replay
+
+
+
+
+
+
+
+
+
+
+
+ Replay 
+
+
+
+                            La Matinale Silicon : IA & Cybersécurité                        
+
+
+Voir le Replay
+
+
+
+
+
+
+
+
+
+
+
+ Replay 
+
+
+
+                            Silicon Day Cybersécurité et Data                        
+
+
+Voir le Replay
+
+
+
+
+
+
+
+
+
+Tous nos événements
+
+Publicité 
+",,Chatbot : le retour d&#039;expérience de l&#039;Assurance Maladie,,,,,,,Logiciels,,,https://www.silicon.fr/wp-content/uploads/2020/11/Health-Data-Hub-Cnil-Olivier-Véran.jpeg,,
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmxhcHJlc3NlLmNhL2FmZmFpcmVzL3BtZS8yMDIxLTA1LTI0L3BtZS1pbm5vdmF0aW9uL3BvdXItc3VydmVpbGxlci1zYS1zYW50ZS1lbW90aW9ubmVsbGUtYXUtdHJhdmFpbC5waHDSAQA?oc=5,PME Innovation | Pour surveiller sa santé émotionnelle au travail - La Presse,2021-05-24,La Presse,https://www.lapresse.ca,"Grâce à la reconnaissance et à l’analyse des émotions exprimées par le visage, les travailleurs devant leur ordinateur pourront obtenir un diagnostic de leur bien-être émotionnel et réagir en conséquence. ﻿",,"Grâce à la reconnaissance et à l’analyse des émotions exprimées par le visage, les travailleurs devant leur ordinateur pourront obtenir un diagnostic de leur bien-être émotionnel et réagir en conséquence. ﻿","Grâce à la reconnaissance et à l’analyse des émotions exprimées par le visage, les travailleurs devant leur ordinateur pourront obtenir un diagnostic de leur bien-être émotionnel et réagir en conséquence. ﻿",https://schema.org,NewsMediaOrganization,,,,,,,,,,PME,N/A,"
+
+
+
+
+
+
+
+        PME
+    
+
+
+
+
+
+            PME Innovation 
+        
+
+        Pour surveiller sa santé émotionnelle au travail 
+    
+
+
+
+
+
+
+
+
+
+
+                    PHOTO MARCO CAMPANOZZI, LA PRESSE
+                
+
+                    Devant, deux des trois fondateurs d’EmoScienS : Pierrich Plusquellec et Nathe François. À gauche, leur partenaire, Vincent Denault. À droite, leur mentor, Jean-François Grou. Le troisième cofondateur, Ed Hill, était absent.
+                
+
+
+
+
+
+Grâce à la reconnaissance et à l’analyse des émotions exprimées par le visage, les travailleurs devant leur ordinateur pourront obtenir un diagnostic de leur bien-être émotionnel et réagir en conséquence. ﻿
+
+
+
+Publié le 24 mai 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marc Tison
+                    
+La Presse
+                    
+
+
+
+
+À l’heure du télétravail et des considérations de santé mentale, le logiciel d’EmoScienS est avant tout un outil de prévention, font valoir ses créateurs, qui placent l’éthique au premier rang de leurs préoccupations. 
+L’innovation
+EmoScienS a mis au point un logiciel qui mesure automatiquement et en continu la santé émotionnelle des travailleurs devant leur ordinateur. 
+À l’aide de la caméra de l’écran, l’outil enregistre les expressions faciales des travailleurs, pour en déduire les émotions vécues au long de la journée. 
+
+
+
+
+
+
+
+
+
+Après l’analyse de ces données, le travailleur reçoit un rapport sur sa santé émotionnelle, accompagné d’outils pour mieux gérer ses émotions. 
+Selon l’expression de Pierrich Plusquellec, cofondateur d’EmoScienS, cet outil est une sorte de Fitbit émotionnel, qui permet au travailleur de mesurer et de gérer son bien-être mental. 
+Qui 
+Professeur à l’École de psychoéducation de l’Université de Montréal et codirecteur du Centre d’études sur le stress humain, Pierrich Plusquellec est également cofondateur du Centre d’études en sciences de la communication non verbale. 
+Interpellé par les applications intrusives de reconnaissance d’émotions sur les appareils mobiles, il a profité d’une année sabbatique pour suivre une formation en intelligence artificielle à l’École de technologie supérieure (ETS). 
+Avec Nathe François, spécialiste du transfert de connaissances dans le domaine de la santé mentale, et Ted Hill, expert dans la reconnaissance automatique d’émotions, il a fondé EmoScienS en novembre 2019. 
+
+
+J’ai fait l’incubateur de l’ETS, qui s’appelle le Centech, pour créer cette entreprise, qui a pour objectif d’utiliser la reconnaissance automatique d’émotions afin d’aider les gens à prendre conscience de leurs émotions et à mieux les réguler.
+
+
+            Pierrich Plusquellec
+        
+
+Tableaux de bord des émotions
+Pierrich Plusquellec voulait mettre au point une « IA [intelligence artificielle] bienveillante pour les utilisateurs ». 
+Le logiciel d’EmoScienS prend une centaine de photos par jour du travailleur avec la caméra de son écran – toujours sous le contrôle de celui-ci. Ces photos sont envoyées au serveur d’EmoScienS, dont le programme d’intelligence artificielle décrypte chaque image pour en déduire les émotions vécues. 
+L’information est agrégée pour esquisser après quelques jours un profil émotionnel du travailleur et créer des indicateurs du degré et du type d’émotions ressenties durant la semaine. 
+
+
+
+
+
+
+
+
+
+                    IMAGE FOURNIE PAR EMOSCIENS
+                
+
+                    Exemple préliminaire d’un des tableaux de bord personnels qui rendent compte des émotions vécues au travail, produits par l’application d’EmoScienS
+                
+
+
+
+Ces indicateurs sont retournés au travailleur sous la forme de tableaux de bord. 
+Les résultats s’accompagnent d’outils qui permettent au travailleur de comprendre et gérer ses émotions, notamment si elles sont négatives. 
+
+
+
+
+
+
+
+
+
+                    IMAGE FOURNIE PAR EMOSCIENS
+                
+
+                    Autre exemple d’une courbe produite par l’application d’EmoScienS
+                
+
+
+
+Un système d’alerte pourra le prévenir lorsque des réactions extrêmes se produisent. 
+« Tant que vous comprenez vos émotions, c’est correct, souligne Pierrich Plusquellec. Mais le jour où vous ne comprenez plus, où vous ne pouvez plus infléchir ces trajectoires émotionnelles, c’est là que vous êtes peut-être à risque d’épuisement émotionnel, d’anxiété ou de dépression. » 
+Mesurer le climat émotionnel
+Le logiciel s’adresse aux entreprises, qui la proposeront à leurs employés. L’employeur pourra leur demander l’autorisation d’accéder à leurs données, qui seront dépersonnalisées et agglomérées par groupes de 10 travailleurs anonymes. Il pourra ainsi évaluer le climat émotionnel de son équipe en fonction de ses décisions ou des évènements qui touchent l’entreprise. 
+Pierrich Plusquellec rappelle que de nombreuses entreprises proposent des activités pour maintenir la santé émotionnelle de leurs employés, mais ils en ignorent l’efficacité « parce qu’il n’y a pas de mesure du bien-être qui soit immédiate, en continu, objective ». 
+L’innovante question éthique
+Le jury d’investisseurs qui a clos le parcours d’incubation avait dénoncé l’approche éthique et socialement responsable d’EmoScienS, jugée non rentable dans un secteur d’activité où les données des utilisateurs sont vendues à d’autres parties. « Nous, on prend les données et on les rend aux utilisateurs, exprime Pierrich Plusquellec. Les utilisateurs décident de ce qu’ils font avec leurs données, ce qui est complètement innovant et ne correspond pas au modèle traditionnel. » 
+Détenues sur le serveur d’EmoScienS, les données sont protégées par un garde-fou d’« outils d’éthique et de responsabilité sociale ». 
+Le contrat précisera par exemple que l’entreprise ne pourra en aucun cas demander une quelconque information individuelle sur les émotions de ses employés. 
+L’avenir
+EmoScienS a commencé la commercialisation de son logiciel auprès d’entreprises d’au moins 50 employés. 
+Elle vise d’abord les secteurs de l’éducation, de la santé et des technologies de l’information. 
+L’entreprise a déjà mené des approches dans le milieu bancaire – « séduit » – et celui des jeux vidéo – « intéressé parce que dans sa manière de fonctionner, il y a beaucoup de hauts et de bas en matière d’émotions ». 
+Un premier client en éducation lui a permis de valider le concept. 
+« On a déjà analysé 45 000 photos venant de ce client, informe Pierrich Plusquellec. Une quinzaine de personnes ont utilisé EmoScienS. » 
+Un projet de recherche lié à l’utilisation du logiciel, tant sous les aspects d’efficacité que d’éthique, vient d’être financé par le ministère de l’Économie et de l’Innovation du Québec. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,La Presse,https://www.lapresse.ca,,"{'@type': 'ImageObject', 'url': 'https://static.lpcdn.ca/lpweb/lapresse/img/lp_facebook_1.91x1.png', 'width': 1203, 'height': 630}","['https://www.facebook.com/LaPresseFB', 'https://twitter.com/lp_lapresse', 'https://www.linkedin.com/company/la-presse', 'https://www.instagram.com/lp_lapresse', 'https://fr.wikipedia.org/wiki/La_Presse_(Montr%C3%A9al)']",,,,,,,https://www.lapresse.ca/#organization,1884-10-20
+https://news.google.com/rss/articles/CBMigAFodHRwczovL2Jsb2d1ZS5zb3F1aWoucWMuY2EvMjAyMS8wNS8yNi9jb21tZW50LWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLXBvdXJyYWl0LXJldm9sdXRpb25uZXItdm90cmUtcHJhdGlxdWUtcHJvZmVzc2lvbm5lbGxlL9IBAA?oc=5,Comment l'intelligence artificielle pourrait révolutionner votre pratique professionnelle. - Blogue SOQUIJ,2021-05-26,Blogue SOQUIJ,https://blogue.soquij.qc.ca,"L'intelligence artificielle aura des répercussions formidables sur votre pratique: elle vous fera sauver du temps, raffinera vos recherches et améliorera votre efficacité. Mais elle peut aussi reproduire des «biais» et des discriminations. Tour d'horizon de ses promesses et de ses dangers.",N/A,"L'intelligence artificielle aura des répercussions formidables sur votre pratique: elle vous fera sauver du temps, raffinera vos recherches et améliorera votre efficacité. Mais elle peut aussi reproduire des «biais» et des discriminations. Tour d'horizon de ses promesses et de ses dangers.",N/A,https://schema.org,,,,,,,,,,,N/A,N/A,N/A,"[{'@type': 'Article', '@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#article', 'isPartOf': {'@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/'}, 'author': {'name': 'Observatoire international sur les impacts sociétaux de l’IA et du numérique', '@id': 'https://blogue.soquij.qc.ca/#/schema/person/819aaabad1950108ba36183b84e69fcd'}, 'headline': 'Comment l&rsquo;intelligence artificielle pourrait révolutionner votre pratique professionnelle.', 'datePublished': '2021-05-26T11:00:00+00:00', 'dateModified': '2021-12-16T15:29:11+00:00', 'mainEntityOfPage': {'@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/'}, 'wordCount': 1297, 'commentCount': 0, 'publisher': {'@id': 'https://blogue.soquij.qc.ca/#organization'}, 'image': {'@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#primaryimage'}, 'thumbnailUrl': 'https://blogue.soquij.qc.ca/wp-content/uploads/2021/05/intelligence_artificielle_avocat_1200x630.jpg', 'keywords': ['intelligence artificielle', 'pratique du droit'], 'articleSection': ['Chroniques juridiques', 'Invités'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#respond']}]}, {'@type': 'WebPage', '@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/', 'url': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/', 'name': ""Comment l'intelligence artificielle pourrait révolutionner votre pratique professionnelle. - Blogue SOQUIJ - Actualités juridiques et judiciaires du Québec"", 'isPartOf': {'@id': 'https://blogue.soquij.qc.ca/#website'}, 'primaryImageOfPage': {'@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#primaryimage'}, 'image': {'@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#primaryimage'}, 'thumbnailUrl': 'https://blogue.soquij.qc.ca/wp-content/uploads/2021/05/intelligence_artificielle_avocat_1200x630.jpg', 'datePublished': '2021-05-26T11:00:00+00:00', 'dateModified': '2021-12-16T15:29:11+00:00', 'description': ""L'intelligence artificielle aura des répercussions formidables sur votre pratique: elle vous fera sauver du temps, raffinera vos recherches et améliorera votre efficacité. Mais elle peut aussi reproduire des «biais» et des discriminations. Tour d'horizon de ses promesses et de ses dangers."", 'breadcrumb': {'@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#primaryimage', 'url': 'https://blogue.soquij.qc.ca/wp-content/uploads/2021/05/intelligence_artificielle_avocat_1200x630.jpg', 'contentUrl': 'https://blogue.soquij.qc.ca/wp-content/uploads/2021/05/intelligence_artificielle_avocat_1200x630.jpg', 'width': 1200, 'height': 630}, {'@type': 'BreadcrumbList', '@id': 'https://blogue.soquij.qc.ca/2021/05/26/comment-lintelligence-artificielle-pourrait-revolutionner-votre-pratique-professionnelle/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://blogue.soquij.qc.ca/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Comment l&rsquo;intelligence artificielle pourrait révolutionner votre pratique professionnelle.'}]}, {'@type': 'WebSite', '@id': 'https://blogue.soquij.qc.ca/#website', 'url': 'https://blogue.soquij.qc.ca/', 'name': 'Blogue SOQUIJ - Actualités juridiques et judiciaires du Québec', 'description': 'Le blogue juridique des juristes de SOQUIJ. Le droit sous tous ses angles depuis 2011.', 'publisher': {'@id': 'https://blogue.soquij.qc.ca/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://blogue.soquij.qc.ca/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://blogue.soquij.qc.ca/#organization', 'name': ""Société québécoise d'information juridique"", 'url': 'https://blogue.soquij.qc.ca/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://blogue.soquij.qc.ca/#/schema/logo/image/', 'url': 'https://blogue.soquij.qc.ca/wp-content/uploads/2022/02/soquij-logo-couleurs.png', 'contentUrl': 'https://blogue.soquij.qc.ca/wp-content/uploads/2022/02/soquij-logo-couleurs.png', 'width': 850, 'height': 400, 'caption': ""Société québécoise d'information juridique""}, 'image': {'@id': 'https://blogue.soquij.qc.ca/#/schema/logo/image/'}, 'sameAs': ['https://facebook.com/soquij', 'https://x.com/soquij', 'https://instragam.com/soquij_exp', 'https://linkedin.com/company/soquij', 'https://youtube.com/soquij']}, {'@type': 'Person', '@id': 'https://blogue.soquij.qc.ca/#/schema/person/819aaabad1950108ba36183b84e69fcd', 'name': 'Observatoire international sur les impacts sociétaux de l’IA et du numérique', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://blogue.soquij.qc.ca/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/cbac34bea0a9d5eb81a40490314daf8f?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/cbac34bea0a9d5eb81a40490314daf8f?s=96&d=mm&r=g', 'caption': 'Observatoire international sur les impacts sociétaux de l’IA et du numérique'}, 'description': 'Soutenu financièrement par les Fonds de recherche du Québec, l’Observatoire international sur les impacts sociétaux de l’IA et du numérique (OBVIA) est un réseau de recherche ouvert qui fédère les expertises de 240 chercheurs en sciences humaines et sociales, en sciences et génie et en santé, et qui aide les communautés, les organisations et les particuliers à maximiser les retombées positives de l’IA et du numérique et à minimiser les effets négatifs des technologies. Pour en savoir plus, visitez https://observatoire-ia.ulaval.ca/', 'url': 'https://blogue.soquij.qc.ca/auteur/obvia/'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1laWxsZXVyZS1pbm5vdmF0aW9uLmNvbS9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLXZvaXR1cmUtYXV0b25vbWUv0gEA?oc=5,Intelligence Artificielle : où en sont les voitures autonomes ? - Meilleure-Innovation,2021-05-26,Meilleure-Innovation,https://www.meilleure-innovation.com,"Si des voitures partiellement autonomes existent déjà, elles exigent toujours la présence d’un conducteur. Où en sommes-nous en 2024 ?",N/A,"Si des voitures partiellement autonomes existent déjà, elles exigent toujours la présence d’un conducteur. Où en sommes-nous en 2024 ?","Si des voitures partiellement autonomes existent déjà, elles exigent toujours la présence d’un conducteur. Où en sommes-nous en 2024 ?",https://schema.org,,,,,,,,,,,Intelligence Artificielle,N/A,"
+
+
+L‘intelligence artificielle en général connaît une évolution permanente depuis plusieurs décennies. Cette progression touche de nombreux domaines et notamment celui des transports. Si toujours plus d’aides à la conduite l’utilisent pour fonctionner, s’approche-t-on pour autant de l’existence de voitures complètement autonomes ?SommaireL’intelligence artificielle pour l’aide à la conduiteUne voiture autonome c’est quoi ?Un classement pour les capacités autonome d’une voitureDes voitures autonomes concrètes en développementLa voiture complètement autonome c’est pour quand ?Quels sont les bénéfices apportés par les voitures autonomes ?Voiture autonome :  qui est responsable en cas d’accident ?
+
+Cet article succède à celui où nous définissons ce qu’est l’intelligence artificielle
+
+
+L’intelligence artificielle pour l’aide à la conduite
+Pour les voitures, aucun modèle entièrement autonome n’est encore accessible au public. Le développement d’un tel type de véhicule demande de longues phases de test. Celles-ci ne sont pas arrivées à leurs termes pour le moment. Toutefois, cela fait plusieurs années que l’IA a fait irruption dans les habitacles récents. Le deeplearning permet d’améliorer plusieurs fonctionnalités des systèmes ADAS (Advanced Driver Assistance Systems). Prenons par exemple le régulateur de vitesse intelligent. Cette fonctionnalité adapte l’allure de la voiture lorsqu’elle détecte un panneau de limitation. Grâce aux réseaux de neurones artificiels profonds, le système « apprend » à identifier ces objets. Pour cela, on l’abreuve d’une multitude de données récoltées par des capteurs. Nul besoin de coder cette reconnaissance à la main, ce qui facilite grandement l’élaboration de ce genre de technologie. 
+Un exemple : Tesla Autopilot
+La jeune entreprise intègre cette fonction avec options supplémentaires payantes dans toutes ses voitures. Elle permet entre autres de :
+
+Maintenir sa trajectoire
+Se garer toute seule
+Prendre une sortie d’autoroute
+Changer de voie pour doubler ( avec une autorisation préalable du conducteur)
+
+Précisons que ce mode ne marche qu’une fois rendu sur une route avec deux voix et un itinéraire rentré dans le GPS. En outre, toutes ces fonctionnalités exigent l’attention du conducteur. Ce dernier doit valider certaines actions et surtout garder les mains sur le volant. Dans le cas contraire, la voiture lui fera signe de différente manière jusqu’à bloquer l’autopilot pour le trajet. Si faire un véhicule entièrement autonome représente l’une des ambitions de Tesla, la marque n’a pas encore atteint ce stade. Elle précise cependant sur son site que tous ses modèles possèdent le matériel nécessaire pour cela. Serait-ce pour bientôt ?
+
+
+
+Une voiture autonome c’est quoi ?
+C’est un véhicule qui combine des capteurs, des caméras et des radars avec une intelligence artificielle pour rouler sans aucun humain aux commandes. Cette dernière bénéficie donc d’un ensemble de données hétéroclites pour apprendre et s’adapter à toutes les situations de conduite possibles. Si cette idée faisait partie de la science-fiction quelques décennies auparavant c’est à présent un domaine de recherche en pleine effervescence. En plus de contribuer au développement des aides à la conduite. L‘intelligence artificielle ouvre le chemin vers la voiture autonome.
+
+Un classement pour les capacités autonome d’une voiture
+On ne compte pas encore de réglementation officielle à proprement parler. Pour le moment, ces véhicules se classent dans une échelle définis par SAE International en 2014. Cette organisation spécialisée dans l’ingénierie automobile les hiérarchise sur 6 niveaux (0-5). Les voitures où le conducteur garde le contrôle sur tout appartiennent au niveau 0. Quant au mode autopilot, ses fonctionnalités oscillent entre le second et le troisième. Pour atteindre le quatrième niveau, une voiture doit pouvoir se déplacer sans son propriétaire dans certaines situations. Enfin, une voiture autonome en toutes circonstances avec un ordinateur qui a les pleins pouvoirs correspond au dernier stade de cette échelle : le niveau 5. Nous abordons ce sujet plus en détail dans notre article sur les 6 niveaux d’autonomie d’un véhicule.
+Le début d’une règlementation internationale pour les voitures autonomes
+En juin 2020, l’ONU annonce une première fondation partagée par soixante pays sur les systèmes automatisés de maintien dans la voie. 
+
+« Ce règlement international concerne les véhicules autonomes de niveau 3 SAE. Ils sont équipés de systèmes automatisés, principalement en charge du maintien de la trajectoire, qui peuvent être activités sous certaines conditions. Un conducteur doit être présent et en capacité de reprendre le contrôle du véhicule, les piétons et les cyclistes ne doivent pas avoir le droit de circuler à cet endroit, et la route doit être dotée d’une séparation physique entre les deux sens de circulation. La vitesse maximale autorisée à laquelle peuvent aller ces systèmes est de 60 km/h. » L’usine digitale – article sur cette réglementation publié le 25 juin 2020 par Léna Corot
+
+Afin de s’assurer que le conducteur soit apte à reprendre rapidement le contrôle, la règle stipule que son véhicule doit pouvoir contrôler sa présence et son niveau d’attention. En mesurant par exemple, le clignement de ses yeux et les mouvements de sa tête. En plus de ce dispositif, ces voitures autonomes de niveaux 3 devront inclure une boîte noire.
+Des voitures autonomes concrètes en développement
+Une multitude d’acteurs se sont lancés dans cette épreuve ambitieuse depuis quelques années avec un optimisme certain. Cependant, la tâche se révèle plus difficile que prévu et la démocratisation de ces véhicules ne semble pas être pour tout de suite. Prenons l’exemple de l’entreprise américaine Waymo et de ses taxis déployé dans la ville de Phoenix. Si ces derniers possèdent des caractéristiques de niveau 4 sur l’échelle SAE, ils ne sont pas encore exempts de toutes coquilles. En effet, le Youtubeur américain JJRicks Studios a récemment trouvé un bug en empruntant un de ces véhicules. Au moment de s’engager sur une route à plusieurs voies, la voiture s’est immobilisée à la vue de cônes de circulation dessus. En résulte un blocage du trafic qui dure plusieurs minutes et un passager qui doit appeler l’assistance technique.
+
+Même si ces taxis font correctement leurs courses dans l’espace réduit qu’offre la capitale de l’Arizona, ils demandent encore des améliorations pour être déployés en dehors. Si ce sujet vous intéresse, consultez également : Waymo : Tout savoir sur la Google Car.
+
+
+Le concurrent de Waymo : Cruise
+Les taxis de Phoenix sont loin d’être la seule initiative de véhicule autonome dédié au transport de personnes. En effet, c’est dans les rues de San Francisco que l’on peut croiser d’étrange voitures sans conducteur qui arborent l’écriteau « Cruise ». Cette startup créée en 2013 et rachetée par General Motors en mars 2016 se concentre elle aussi sur cette technologie. Ses véhicules construits sur la base de la citadine Chevrolet Bolt sillonnent la ville et accumulent des données pour s’améliorer. À terme, l’objectif est de lancer la Cruise Origin : un véhicule dépourvu de volant et de pédales avec un grand espace pouvant accueillir jusqu’à six passagers. L’entreprise souhaite introduire une nouvelle expérience de transport grâce à cette voiture. Notons qu’elle a reçu des investissements de la part de Microsoft et Walmart entre autres.
+
+Quelques projets de voitures autonomes sur le vieux continent
+L’Europe et ses constructeurs automobiles ne sont pas en reste pour les projets ambitieux de ce type. En effet, l’année 2018 marque l’arrivée d’une série de concept car électrique autonome :
+
+La E-Legend de Peugeot qui reprend le design du coupé 504 vieux de 50 ans. Celui-ci risque de ne jamais voir le jour. En effet, le PDG a expliqué en 2019 que sa production n’était pas prévue pour le moment compte tenu de son coût élevé.
+Le SUV Vision iNext de BMW qui montre un design que la marque a repris pour sa nouvelle gamme électrique iX.
+Volvo et sa voiture sans chauffeur : le Volvo 360 c. Avec ce concept, l’entreprise affiche sa vision du véhicule autonome : un moyen de transport confortable où l’on fait tout sauf conduire.
+La Mercedes Vision Urbanetic qui présente un châssis adapté à différentes carrosseries et utilisations.
+
+
+Renault EZ PRO : la voiture autonome au service la livraison
+La firme au losange a également montré sa vision de la chose en 2018. Celle-ci a donc dévoilé trois concepts différents : le EZ-GO pour la mobilité dite partagée, le EZ-ULTIMO pour une expérience premium et luxueuse et le EZ-PRO pour la livraison en milieu urbain. Ce dernier permet à la fois au livreur de mieux organiser son travail sans se soucier de la conduite et de stocker une quantité importante de marchandises. Ce concept inclut deux types de véhicules. Le premier ouvre la marche et peut accueillir le professionnel dans un cockpit avec tout un panel de commande pour gérer les livraisons. Quant au second, il suit scrupuleusement les ordres donnés par le chef d’orchestre pour amener les colis à bon port. 
+
+La voiture complètement autonome c’est pour quand ?
+Si les fonctions autonomes de niveau 2 ou 3 devaient se répandre de plus en plus dans les années à venir, ce n’est pas vraiment le cas pour les deux chiffres au-dessus. Le chemin pour passer d’un concept au véhicule de série fiable et sûr demeure plutôt long. Difficile en effet de concevoir des capteurs qui fonctionnent en toute circonstance et des intelligences artificielles qui répondent parfaitement face aux situations les plus complexes. Idem pour les routes et les législations qui vont devoir s’adapter. Pourtant attendue au tournant en 2021, nous risquons de ne pas voir la démocratisation des voitures autonomes avant plusieurs années.
+Quels sont les bénéfices apportés par les voitures autonomes ?
+Parmi eux, on peut citer la suppression des erreurs humaines pendant la conduite et donc la diminution des accidents par exemple. Grâce à ces véhicules, il sera également possible pour les personnes à mobilité réduite d’avoir accès à un moyen de transport individuel malgré leurs handicaps. Plus largement, les routes et ceux qui les empruntent devraient observer une réduction importante des embouteillages et des ralentissements. On vous laisse avec une vidéo explicative à ce sujet de la chaîne CGP Grey.
+
+
+
+Voiture autonome :  qui est responsable en cas d’accident ?
+Une ordonnance publiée en avril 2021 explique que le conducteur n’est pas responsable « pour les infractions résultant d’une manœuvre d’un véhicule dont les fonctions de conduite sont déléguées à un système de conduite automatisé, lorsque ce système exerce, au moment des faits […] le contrôle dynamique du véhicule ». Dans le cas des rares voitures sans chauffeur comme les taxis Waymo ou les navettes autonomes, les concepteurs sont en tort. Pour les autres, la réponse à cette question n’est pas aussi simple. Tout d’abord, rappelons que des systèmes répandus comme Tesla Autopilot oscillent entre les 3 premiers niveaux d’autonomie et ne sont pas véritablement automatisés. Par conséquent, ils exigent que le conducteur garde ses mains sur le volant et reste alerte. La responsabilité risque donc de ne pas être manichéenne. Pour connaître le rôle de l’automobiliste et de l’IA dans un accident, un examen des données enregistrées par la voiture sera nécessaire. 
+
+D’ailleurs, la même ordonnance stipule que le conducteur doit se tenir prêt pour reprendre la main si besoin.
+
+
+
+
+
+","[{'@type': ['NewsMediaOrganization', 'Organization'], '@id': 'https://www.meilleure-innovation.com/#organization', 'name': 'Meilleure-Innovation.com', 'url': 'https://www.meilleure-innovation.com', 'sameAs': ['https://www.facebook.com/meilleureinnovation/', 'https://twitter.com/meilleureinnov'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.meilleure-innovation.com/#logo', 'url': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/12/logo-meilleure-innovation-com-2022-retina.png', 'contentUrl': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/12/logo-meilleure-innovation-com-2022-retina.png', 'caption': 'Meilleure-Innovation', 'inLanguage': 'fr-FR', 'width': '316', 'height': '114'}}, {'@type': 'WebSite', '@id': 'https://www.meilleure-innovation.com/#website', 'url': 'https://www.meilleure-innovation.com', 'name': 'Meilleure-Innovation', 'alternateName': 'Meilleure Innovation', 'publisher': {'@id': 'https://www.meilleure-innovation.com/#organization'}, 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', '@id': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/05/ia-1-1.png', 'url': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/05/ia-1-1.png', 'width': '1078', 'height': '516', 'caption': 'Intelligence artificielle voitures autonomes', 'inLanguage': 'fr-FR'}, {'@type': 'BreadcrumbList', '@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://www.meilleure-innovation.com', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://www.meilleure-innovation.com/informatique/', 'name': 'High-Tech'}}, {'@type': 'ListItem', 'position': '3', 'item': {'@id': 'https://www.meilleure-innovation.com/informatique/intelligence-artificielle/', 'name': 'Intelligence Artificielle'}}, {'@type': 'ListItem', 'position': '4', 'item': {'@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/', 'name': 'Intelligence Artificielle (IA) : les voitures autonomes sont-elles bientôt une réalité ?'}}]}, {'@type': 'WebPage', '@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#webpage', 'url': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/', 'name': 'Intelligence Artificielle : où en sont les voitures autonomes ?', 'datePublished': '2021-05-26T19:35:54+02:00', 'dateModified': '2022-05-10T17:11:16+02:00', 'isPartOf': {'@id': 'https://www.meilleure-innovation.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/05/ia-1-1.png'}, 'inLanguage': 'fr-FR', 'breadcrumb': {'@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#breadcrumb'}}, {'@type': 'Person', '@id': 'https://www.meilleure-innovation.com/author/theob-21/', 'name': 'Théo Brajard', 'url': 'https://www.meilleure-innovation.com/author/theob-21/', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/87c781ab464927a01438368db449c61c?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/87c781ab464927a01438368db449c61c?s=96&amp;d=mm&amp;r=g', 'caption': 'Théo Brajard', 'inLanguage': 'fr-FR'}, 'worksFor': {'@id': 'https://www.meilleure-innovation.com/#organization'}}, {'headline': 'Intelligence Artificielle : où en sont les voitures autonomes ?', 'description': 'Si des voitures partiellement autonomes existent déjà, elles exigent toujours la présence d’un conducteur. Où en sommes-nous en 2024 ?', 'datePublished': '2021-05-26T19:35:54+02:00', 'dateModified': '2022-05-10T17:11:16+02:00', 'image': {'@id': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/05/ia-1-1.png'}, 'author': {'@id': 'https://www.meilleure-innovation.com/author/theob-21/', 'name': 'Théo Brajard'}, '@type': 'NewsArticle', 'copyrightYear': '2022', 'name': 'Intelligence Artificielle : où en sont les voitures autonomes ?', 'articleSection': 'Intelligence Artificielle, Véhicules électriques', '@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#schema-873091', 'isPartOf': {'@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#webpage'}, 'publisher': {'@id': 'https://www.meilleure-innovation.com/#organization'}, 'inLanguage': 'fr-FR', 'mainEntityOfPage': {'@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#webpage'}}, {'@type': 'VideoObject', 'name': 'Model 3 Guide | Navigate on Autopilot', 'description': 'Navigate on Autopilot (Beta) is designed to get you to your destination more efficiently by actively guiding your car from on-ramp to off-ramp including lane...', 'uploadDate': '2018-10-27', 'thumbnailUrl': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/10/maxresdefault-131.jpg', 'embedUrl': 'https://www.youtube.com/embed/IkSw2SZQENU', 'duration': 'PT1M17S', 'width': '1280', 'height': '720', 'isFamilyFriendly': 'True', '@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#schema-873092', 'isPartOf': {'@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#webpage'}, 'publisher': {'@id': 'https://www.meilleure-innovation.com/#organization'}, 'inLanguage': 'fr-FR'}, {'@type': 'VideoObject', 'name': 'The Simple Solution to Traffic', 'description': 'New to the channel?  Start here: https://www.youtube.com/playlist?list=PLqs5ohhass_STBfubAdle9dsyWrqu6G6rSpecial Thanks to:Mark Govea, Thomas J Miller Jr MD,...', 'uploadDate': '2016-08-31', 'thumbnailUrl': 'https://www.meilleure-innovation.com/wp-content/uploads/2021/10/maxresdefault-132.jpg', 'embedUrl': 'https://www.youtube.com/embed/iHzzSao6ypE', 'duration': 'PT4M30S', 'width': '1280', 'height': '720', 'isFamilyFriendly': 'True', '@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#schema-873093', 'isPartOf': {'@id': 'https://www.meilleure-innovation.com/intelligence-artificielle-voiture-autonome/#webpage'}, 'publisher': {'@id': 'https://www.meilleure-innovation.com/#organization'}, 'inLanguage': 'fr-FR'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vaWNpLnJhZGlvLWNhbmFkYS5jYS9yY2kvZnIvbm91dmVsbGUvMTc5NTY1NS9xdWViZWMtdGVjaG5vbG9naWVzLWluZm9ybWF0aW9uLWNvbW11bmljYXRpb24tZm9ybWF0aW9uLXBheWVl0gEA?oc=5,Québec va payer pour former des candidats aux technologies de l'information | RCI - Radio-Canada.ca,2021-05-24,Radio-Canada.ca,https://ici.radio-canada.ca,N/A,N/A,"Ils seront payés 650 $ par semaine, avec une bourse de 1950 $ une fois la formation terminée avec succès.","Ils seront payés 650 $ par semaine, avec une bourse de 1950 $ une fois la formation terminée avec succès.",,,,,,,,,,,,N/A,N/A,"AccueilPolitiquePolitique provincialeQuébec va payer pour former des candidats aux technologies de l'informationQuébec crée un programme pour les personnes voulant se requalifier dans les technologies de l'information; celles-ci auront accès à une formation payée. Photo : getty images/istockphoto / oatawaLa Presse canadiennePublié le 24 mai 2021 à 13 h 11Québec sort un appât de taille dans l'espoir d'attirer 2500 personnes pour combler une partie de la pénurie de main-d'oeuvre dans le domaine des technologies de l'information et des communications.Il y a à peu près 10 000 postes vacants en technologies de l'information et des communications qui doivent être comblés. C'est devenu un manque d'effectifs qui a des impacts sur la reprise économique, a plaidé le ministre du Travail, de l'Emploi et de la Solidarité sociale, Jean Boulet, en annonçant lundi le lancement du Programme pour la requalification et l'accompagnement en technologie de l'information et des communications (PRATIC).
+En vertu de ce programme, les personnes voulant se requalifier dans ce domaine auront accès à une formation accélérée durant laquelle elles seront payées 650 $ par semaine, avec une bourse de 1950 $ une fois la formation terminée avec succès.
+Ce sont des emplois qui sont bien rémunérés avec de belles conditions de travail, des perspectives d'avenir qui sont reluisantes, a fait valoir le ministre Boulet.
+Ce sont des formations en robotique, en automatisation industrielle, en intelligence artificielle, en conception de logiciels, en programmation de sites web. Les formations vont être extrêmement variées, vont être concrètes, vont permettre de répondre à des besoins concrets du marché du travail.
+Chômeurs pandémiques : fin de la PCRE en vueLe programme, qui est doté d'une enveloppe de près de 40 millions de dollars, s'adresse spécifiquement aux chômeurs pandémiques et aux personnes qui n'ont pas été aux études à temps complet dans les 12 derniers mois. Les inscriptions se feront à partir du 1er juillet et les formations se donneront à temps plein à la rentrée de septembre.
+Jean Boulet n'a pas manqué de rappeler que le soutien fédéral à ces chômeurs pandémiques tirait à sa fin et que ceux-ci n'auraient guère d'autre choix que de se trouver un nouveau travail : La PCRE (Prestation canadienne de la relance économique) va se terminer le 25 septembre. Le montant va diminuer à la fin août. C'est un incitatif additionnel pour intéresser les personnes qui veulent se requalifier et répondre à nos besoins de main-d'œuvre.
+Les formations ciblées seront de courte durée et mèneront soit à une attestation d'études collégiales, soit à des certificats ou à des microprogrammes universitaires. Certaines formations sur mesure menant à un emploi sont également admissibles. 
+Les étudiants qui suivent présentement une formation admissible à ce programme, et qui sont déjà soutenus par le Programme d'aide à la relance par l'augmentation de la formation (PARAF), pourront aussi recevoir, à compter du 1er juillet, une majoration de leur soutien financier de 650 $ par semaine pour le reste de leur formation.
+Au-delà des technologies de l'information, les besoins sont aussi gigantesques, a rappelé le ministre : Au quatrième trimestre de l'année dernière, il y avait un peu plus de 148 000 postes vacants et quand on a fait le bilan du PARAF – parce que les dernières inscriptions ont été faites le 30 avril – on avait à peu près 20 500 personnes qui participaient à ce programme, qui vise essentiellement aux gens de se requalifier.
+À lire aussi :La requalification professionnelle en tout temps serait la solution gagnant-gagnant (nouvelle fenêtre)Québec consacre 19 millions à dénicher des spécialistes en TI (nouvelle fenêtre)
+",,,,,,,,,,,,,,

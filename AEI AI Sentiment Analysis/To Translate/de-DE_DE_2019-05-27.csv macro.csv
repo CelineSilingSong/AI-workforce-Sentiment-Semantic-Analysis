@@ -1,0 +1,337 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,mainEntityOfPage,publisher,author,headline,image,datePublished,dateModified,url,articleBody,name,isAccessibleForFree,isPartOf,itemListElement
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vaGVhbHRoY2FyZS1pbi1ldXJvcGUuY29tL2RlL25ld3MvZGVlcC1sZWFybmluZy1iZWktbXVza3Vsb3NrZWxldHRhbGVyLXJvZW50Z2VuYmlsZGdlYnVuZy5odG1s0gEA?oc=5,Deep Learning bei muskuloskelettaler Röntgenbildgebung • healthcare-in-europe.com - healthcare-in-europe.com,2019-05-30,healthcare-in-europe.com,https://healthcare-in-europe.com,"Im Rahmen einer Arbeit hat Dr. Maximilian Russe, Oberarzt Schnittbilddiagnostik an der Klinik für Diagnostische und Interventionelle Radiologie des Universitätsklinikums Freiburg, eine Künstliche Intelligenz für die Erkennung von Körperregionen eingesetzt. Im Interview berichtet er über Zielsetzung und Ergebnisse, die er auf dem Deutschen Röntgenkongress präsentieren wird.",N/A,"Im Rahmen einer Arbeit hat Dr. Maximilian Russe, Oberarzt Schnittbilddiagnostik an der Klinik für Diagnostische und Interventionelle Radiologie des Universitätsklinikums Freiburg, eine Künstliche Intelligenz für die Erkennung von Körperregionen eingesetzt. Im Interview berichtet er über Zielsetzung und Ergebnisse, die er auf dem Deutschen Röntgenkongress präsentieren wird.","Im Rahmen einer Arbeit hat Dr. Maximilian Russe, Oberarzt Schnittbilddiagnostik an der Klinik für Diagnostische und Interventionelle Radiologie des Universitätsklinikums Freiburg, eine Künstliche Intelligenz für die Erkennung von Körperregionen eingesetzt. Im Interview berichtet er über Zielsetzung und Ergebnisse, die er auf dem Deutschen Röntgenkongress präsentieren wird.",N/A,N/A,"
+
+
+Zielstellung des Projektes: Sortierung von Röntgenbildern in definierte Körperregionen.Quelle: Dr. Maximilian Russe
+
+
+
+
+Interview • Künstliche Intelligenz
+Deep Learning bei muskuloskelettaler Röntgenbildgebung
+Im Rahmen einer Arbeit hat Dr. Maximilian Russe, Oberarzt Schnittbilddiagnostik an der Klinik für Diagnostische und Interventionelle Radiologie des Universitätsklinikums Freiburg, eine Künstliche Intelligenz für die Erkennung von Körperregionen eingesetzt. Im Interview berichtet er über Zielsetzung und Ergebnisse, die er auf dem Deutschen Röntgenkongress präsentieren wird.
+Interview: Sascha Keutel
+
+
+
+
+
+Sie haben Künstliche Intelligenz für eine Studie eingesetzt. Welches Erkenntnisinteresse haben Sie dabei verfolgt?Die Aufgabe bestand darin, einen Erkennungsalgorithmus für Bilddaten zu erzeugen und zu trainieren. Hierfür haben wir ein sogenanntes neuronales Netz verwendet. Dieses Netz musste mittels Deep Learning anhand eines Datensatzes lernen, Körperregionen zu differenzieren, um so beispielsweise das Schultergelenk vom Kniegelenk zu unterscheiden. Zudem wurde das so trainierte neuronale Netz durch einen ihm unbekannten Datensatz auf Genauigkeit in der Bilderkennung geprüft.Welche Ziele haben Sie mit der Studie verfolgt? Haben Sie diese auch erreicht?Ziel dieser Studie ist die vollautomatisierte Erkennung von Körperregionen in Röntgenaufnahmen, was wir für alle Körperregionen auch erreicht haben. Problematisch ist derzeit noch die Erkennung von Körperregionen, die in dem verwendeten Datensatz selten vorkommen oder aufgrund der Komplexität der verschiedenen Röntgenprojektionen nur heterogen im Datenkollektiv abgebildet sind. Besonders gut funktioniert die Erkennung von Wirbelsäulen, Schultergelenken und Kniegelenken. Insgesamt ist das ein sehr positives Ergebnis.
+
+
+
+Dieser Artikel könnte Sie auch interessieren
+
+
+
+Artikel • Interventionelle Radiologie
+Pain Points – Die MRT zeigt den Weg vom Symptom zur Quelle
+
+Haben Sie die Videos gesehen? Oder den 20-seitigen Artikel in Radiology gelesen? Dann wissen Sie, dass Sie auf dem MR 2017 Garmisch einen ausgewiesenen Experten des hoch spezialisierten Bereichs „Wirbelsäulenintervention“ treffen werden: Dr. William Palmer, Leiter der Abteilung Muskuloskelettale Radiologie & Intervention am Massachusetts General Hospital, einem Lehrkrankenhaus der…#Bildgebung#MRT#Rehabilitation#Schmerz#Therapie
+
+
+
+
+
+
+Welche Schlussfolgerungen konnten Sie aus Ihrer Studie ziehen?Wir konnten zeigen, dass mittels Künstlicher Intelligenz neben nicht-medizinischen Bildern auch radiologische Aufnahmen kategorisiert werden können. Die durchschnittliche Erkennungsgenauigkeit von 95% zeigt, dass mit neuronalen Netzen eine Auswertung von Röntgenaufnahmen erfolgen kann. Einzelne Körperregionen wurden nahezu fehlerlos erkannt. Dies zeigt, dass bessere Trainingsdaten auch bessere Ergebnisse in den aktuell geplanten Projekten erwarten lassen.Bei der Verwendung solcher Algorithmen ist es wichtig, die Ergebnisse auf die klinische Applikationstauglichkeit hin zu überprüfen. Daher hoffen wir, dass uns der Deutsche Röntgenkongress die Möglichkeit bietet, die vorhandenen Kontakte zu anderen Hochschulen weiter auszubauen, um unsere Ergebnisse auch mit externen Datensätzen zu validieren. Außerdem möchten wir die Applikationsmöglichkeiten unseres Algorithmus und dessen Weiterentwicklungen im Rahmen von aktuellen Problemfeldern der Radiologie einsetzen. Hierbei gilt es insbesondere, Prozesse wie die Befunddokumentation, die Befundzuordnung und das Dosis Monitoring zu verbessern.
+
+
+
+Dieser Artikel könnte Sie auch interessieren
+
+
+
+Artikel • Ganz schön sportlich
+So werden Kniegelenksknorpel wieder fit
+
+Gerade bei sportlich aktiven Menschen gehören Knieschmerzen zum festen Beschwerde-Repertoire. Eine häufige Ursache der Schmerzen sind Knorpelschäden, die jede Bewegung des Kniegelenks zur Last werden lassen. Welche Therapiemöglichkeiten es gibt und wie sich Knorpelschäden am Kniegelenk vor und nach einem Eingriff im MRT-Bild darstellen, zeigt Dr. Oliver Meyer, Chefarzt des Zentrums für…#Chirurgie#Intervention#MRT#muskuloskelettal#Radiologie
+
+
+
+
+
+
+Welche Fortschritte im Bereich der KI werden die größten Auswirkungen auf das Gesundheitssystem haben? Künstliche Intelligenz wird häufig als eine Schlüsseltechnologie der Zukunft bezeichnet. Sie ist aber heute schon, wenn auch noch in den Anfängen, in der medizinischen und radiologischen Software im Einsatz und findet aktuell den Weg in die klinische Routine.KI wird sich in allen Bereichen des Gesundheitssystems, die über maschinenlesbare Daten verfügen, schnell verbreiten. Viele Arbeitsschritte in der diagnostischen und therapeutischen Kette im Krankenhaus werden vereinfacht. Die Bewertung der Versorgungsdringlichkeit wird automatisiert ermittelt werden, basierend auf Laborparametern, Daten aus medizinischen Dokumentationen und Daten aus Überwachungsgeräten. Dies wird zur besseren Priorisierung in der Patientenversorgung führen.KI wird auch beim Indikationsmanagement für diagnostische Verfahren eingesetzt werden, um unnötige diagnostische Schritte sinnvoll zu reduzieren und die Gesamtversorgung aller Patienten zu verbessern. Radiologische Verfahren wie Röntgen, CT oder MRT werden dank KI verbessert und beschleunigt werden. Und sie wird die radiologische Befunderstellung durch Mustererkennung, Abweichungen und Strukturen unterstützen. Das wird in Summe zu einer verbesserten, präziseren und schnelleren Befunderstellung führen. Die so aufbereiteten Daten werden mittels KI an die zuweisenden Kollegen weitergeleitet und außerdem im Rahmen von prognostischen Parametern für das Patientenkollektiv bewertet. Aus diesen Daten können dann für den Patienten individuelle, aus den Gesamtdaten ermittelte, optimierte Behandlungskonzepte erstellt werden.Was sind oder sollten die Einschränkungen von KI sein?Alle Verfahrensschritte, die mittels Künstliche Intelligenz vereinfacht oder verbessert werden, müssen weiterhin einer Kontrolle unterliegen. KI ist nicht unfehlbar und neigt insbesondere dann zu Fehlern, wenn die Anforderungen vom gelernten Datensatz abweichen. Eine noch ungelöste Frage ist, wie man diese in einer Blackbox stattfindenden Fehler auswertet und künftig verhindert. Einmalige, seltene und komplizierte Ereignisse können das Verfahren überfordern, sodass weiterhin eine Kontrolle durch einen Arzt erfolgen sollte.
+
+
+
+Dieser Artikel könnte Sie auch interessieren
+
+
+
+Artikel • Maschinelles Lernen
+Radiologie der Zukunft: Mensch und Maschine
+
+Künstliche Intelligenz ist nach wie vor eines der heißesten Themen in der Radiologie. „Die Auswertung von Mustern in Daten aus bildgebenden Untersuchungen und klinischen Informationen zu Patienten mittels Maschinellem Lernen wird unser Verständnis von Erkrankungen, deren Behandlung sowie deren Verlaufsabschätzung fundamental verändern“, davon ist Assoc. Prof. Dipl.-Ing. Dr. Georg Langs,…#KI#Machine Learning#Radiologie
+
+
+
+
+
+
+Es gibt nicht wenige Stimmen, die vorhersagen, dass KI den Mediziner vollständig ersetzen wird, insbesondere in der Radiologie. Wie stehen Sie dazu?KI wird den Mediziner, insbesondere den Radiologen, nie vollständig ersetzen können. Durch ihren Einsatz wird sich jedoch der Arbeitsalltag von Medizinern und Radiologen langfristig wandeln. Redundante Aufgaben, einfache medizinische Arbeiten und Dokumentationen werden wegfallen. Die hierdurch gewonnene Zeit kann für die Patienten verwendet werden. Die Erkennung von Lungenrundherden wird uns künftig abgenommen, dafür haben wir mehr Zeit für die komplizierte perioperative Bildgebung, um die Qualität der Befundung weiter zu steigern. Auch werden Radiologen noch einige Zeit mit der Validierung der Ergebnisse solcher Algorithmen beschäftigt sein, besonders bei der Bearbeitung seltener Fälle, interventioneller Eingriffe und bei patientenindividuellen Therapieentscheidungen.Müssen wir Angst vor Künstlicher Intelligenz in der Medizin haben?Angst müssen Mediziner vor künstlicher Intelligenz nur dann haben, wenn sie nicht bereit sind, sich mit dieser aufstrebenden Technik auseinanderzusetzen. Im Zentrum unserer Arbeit sollte immer der Patient stehen und seine bestmögliche radiologische Versorgung; ob diese mittels künstlicher oder menschlicher Intelligenz gewährleistet wird, sollte nebensächlich sein – am wahrscheinlichsten wird es eine Verbindung von beidem sein.Veranstaltungshinweis:Donnerstag, 30.05.2019, 15:20-15:30 UhrRaum HellmannSession: Künstliche IntelligenzDeep Learning für eine automatisierte Erkennung von Körperregionen in muskuloskelettaler RöntgenbildgebungDr. Maximilian Russe (Freiburg)
+
+
+
+29.05.2019
+
+Mehr zu den Themen:Bildgebung (1090)
+Deep Learning (77)
+KI (400)
+muskuloskelettal (134)
+Radiologie (585)
+Röntgen (162)
+Kontakt …Mehr aktuelle Beiträge lesen",,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZGUuZXVyb25ld3MuY29tL2J1c2luZXNzLzIwMTkvMDUvMzAvZHViYWktemVudHJ1bS1mdXIta3Vuc3RsaWNoZS1pbnRlbGxpZ2VuetIBAA?oc=5,Dubai - Zentrum für Künstliche Intelligenz - Euronews,2019-05-30,Euronews,https://de.euronews.com,"Auf der diesjährigen Veranstaltung ""AI Everything"" diskutieren Experten, Politiker und Wissenschaftler über die Zukunft der neuen Technologie.","Messe,Künstliche Intelligenz,Neue Technologien,Dubai Vereinigte Arabische Emirate","Auf der diesjährigen Veranstaltung ""AI Everything"" diskutieren Experten, Politiker und Wissenschaftler über die Zukunft der neuen Technologie.","Auf der diesjährigen Veranstaltung ""AI Everything"" diskutieren Experten, Politiker und Wissenschaftler über die Zukunft der neuen Technologie.",N/A,N/A,"
+                Läuft gerade
+                
+              Weiter
+          
+                          Gesponsert
+                        
+                                                    
+                              In Dubai floriert der Medizintourismus
+                                  
+GESPONSERTER ARTIKEL, PRÄSENTIERT VON DEPARTMENT OF TOURISM AND COMMERCE MARKETING DUBAI",https://schema.org/,"[{'@type': 'NewsArticle', 'mainEntityOfPage': {'@type': 'Webpage', 'url': 'https://de.euronews.com/business/2019/05/30/dubai-zentrum-fur-kunstliche-intelligenz'}, 'headline': 'Dubai - Zentrum für Künstliche Intelligenz', 'description': 'Auf der diesjährigen Veranstaltung ""AI Everything"" diskutieren Experten, Politiker und Wissenschaftler über die Zukunft der neuen Technologie.', 'articleBody': 'Wie nutzt man Künstliche Intelligenz, um unser Leben zu verbessern? Welche Umwälzungen stehen uns bevor und in welchen Bereichen sollte man vorsichtig vorgehen? Nach Antworten auf diese Fragen sucht man in Dubai, einem Zentrum für die Entwicklung und Anwendung Künstlicher Intelligenz.  ""Künstliche Intelligenz bestimmt bereits unseren Alltag, sei es beim Stöbern in Social Media Feeds oder wie man sich durch eine Stadt bewegt. Kommende Innovationen werden uns vorkommen wie wahr gewordene Science Fiction"" , meint euronews-Reporter James O\'Hagan. Er hat in Dubai den diesjährigen \' AI Everything \'- Gipfel besucht.\xa0  Omar bin Sultan Al Olama ist Staatsminister für künstliche Intelligenz in den Vereinigten Arabischen Emiraten:\xa0 ""Es ist die größte Veranstaltung über Künstliche Intelligenz in der Region, es gibt mehr als 20.000 Besucher. Jeder kann mit uns diskutieren, wie die Zukunft dieser Technologie aussehen sollte - und wie nicht. Für den ersten KI-Minister der Welt spielt die Regelung der neuen Technologie eine große Rolle:  ""Es ist von größter Bedeutung, Verständnis für die Künstliche Intelligenz bei offiziellen Stellen zu schaffen, wenn man Teil der Städte oder Länder sein will, die diese Revolution anführen. Meiner Meinung nach werden besonders bestimmte Bereiche von KI profitieren zum Beispiel die Diagnostik. Es ist extrem wichtig, Krankheiten zuverlässig diagnostizieren zu können. Ärzte werden ihre Patienten heilen können, es geht um die soziale Bindung."" Das Gesundheitswesen steht kurz vor einer KI-Revolution ""KI wird im Bereich des Gesundheitswesens für dramatische Veränderungen sorgen"" , meint Lord Timothy Clement-Jones, Sprecher des digitalen Wirtschaftsausschusses der britischen House of Lords.  ""Hier in Dubai gab es auf dem \' World Government Summit \' eine wundervolle Ausstellung, die erklärte, welche Veränderungen KI bewirken und wie sich KI dank neuer Technologien auf die Lebenserwartung von Menschen bis 2090 auswirken wird. Und man kennt beispielsweise bereits das Potenzial von KI im Bereich der Diagnostik und Behandlung."" Dr. Goh Eng Lim von Hewlett Packard Enterprises kann bereits von einer Anwendung berichten:  ""Einer unserer Kunden war ein städtisches Krankenhaus in einem Ort mit hoher Tuberkulosequote. Man wollte einen großen Teil der Bevölkerung röntgen. Wir brachten dem neuronalen Netzwerk bei, TB auf Röntgenbildern zu erkennen. Mit dem Erfolg, dass man jetzt beim Röntgen einer Person sofort innerhalb weniger Sekunden sagen kann, dass sie gesund ist. Man muss noch zwei Wochen warten, bis der Arzt das Ergebnis bestätigt, aber bisher lag die Maschine mit ihrer Diagnose nicht falsch."" Werden durch KI Arbeitsplätze vernichtet? Existenzielle Sorgen um die Zukunft der Arbeit gäbe es sicher, meint Lord Clement-Jones, aber:  ""Man muss den Menschen die Zuversicht geben, dass es Umschulungsmöglichkeiten gibt sowie staatliche Ressourcen, die dabei helfen, einen neuen Lebensweg einzuschlagen. Und ich persönlich glaube nicht, dass Menschen durch KI ersetzt werden. Ich glaube, KI erweitert unsere Fähigkeiten, d.h. sie hilft einem, seine Arbeit zu erledigen, sie nimmt sie einem nicht weg.""  Und Kevin Dallas von Microsoft sagt:  ""Manche haben diese Einstellung Mensch gegen Maschine. Aber diese Ansicht stimmt nicht. Man sollte bedenken, dass wir als Menschen einzigartige Fähigkeiten haben, wir haben Gaben wie Kreativität, Fantasie, Emotionen. Das sind Fähigkeiten, die Maschinen nie haben werden. Die Frage ist, wie man diese einzigartigen menschlichen Talente mit den Möglichkeiten Künstlicher Intelligenz verbindet, um der Gesellschaft Nutzen zu bringen."" Ethischer Rahmen und gemeinsame Maßstäbe Voraussetzung für KI sind riesige Datenmengen. Aber wie schützt man die Privatsphäre angesichts häufiger Skandale in den Schlagzeilen über Missbrauch, Hacking und die Weitergabe persönlicher Daten. Welche ethischen Grundsätze sollte es geben?  Wenn wir als Menschheit also in der Lage sein wollen, die wirklichen Vorteile der KI zu erkennen, müssen wir das offen und kooperativ tun, um sicherzustellen, dass wir gemeinsame Datenstandards, gemeinsame Datenschutzgesetze und gemeinsame Maßstäbe haben werden"" , meint Dr. Noah Radford von der  Dubai Future Foundation .  Und für Lord Clement-Jones ist ein weiterer Punkt wichtig:  ""Für mich besteht die absolute Priorität darin, jetzt an einem ethischen Rahmen zu arbeiten, sei es national, aber der vor allem international sein muss. Und ich hoffe, dass beim G20-Treffen in Osaka tatsächlich mehr als nur Data Governance auf der Tagesordnung steht, dass man in den Bereich der ethischen Rahmenbedingungen für KI einsteigen wird. Das wäre meiner Meinung nach ein großer internationaler Vorteil, da das gleiche Wettbewerbsbedingungen für die Entwicklung von KI schaffen würde."" In Bezug auf die Ethik ist der Vorschlag von Dr. Goh Eng Lim "" dass wir zuerst einmal die Unterschiede verstehen, wie ein Mensch denkt oder eine Entscheidung trifft und wie eine Maschine eine Entscheidung trifft. Eine Maschine wird, je intelligenter sie wird, immer mehr richtige Entscheidungen für uns treffen. Aber es muss immer noch uns Menschen geben, um sicherzustellen, dass es auch die richtige Entscheidung ist, denn was korrekt ist, ist vielleicht nicht immer richtig.""  ', 'dateCreated': '2019-05-20 12:23:59 +02:00', 'dateModified': '2023-06-02 01:34:44 +02:00', 'datePublished': '2019-05-30 18:30:14 +02:00', 'image': {'@type': 'ImageObject', 'url': 'https://static.euronews.com/articles/stories/03/90/28/44/1440x810_cmsv2_f73feb8d-e81d-51f8-a227-0a5e5e5d8e2f-3902844.jpg', 'width': '1440px', 'height': '810px', 'caption': 'Auf der diesjährigen Veranstaltung ""AI Everything"" diskutieren Experten, Politiker und Wissenschaftler über die Zukunft der neuen Technologie.', 'thumbnail': 'https://static.euronews.com/articles/stories/03/90/28/44/385x202_cmsv2_f73feb8d-e81d-51f8-a227-0a5e5e5d8e2f-3902844.jpg', 'publisher': {'@type': 'Organization', 'name': 'euronews', 'url': 'https://static.euronews.com/website/images/euronews-logo-main-blue-403x60.png'}}, 'author': {'@type': 'Person', 'name': 'Euronews', 'url': 'https://de.euronews.com/', 'sameAs': 'https://twitter.com/euronews'}, 'publisher': {'@type': 'Organization', 'name': 'Euronews', 'legalName': 'Euronews', 'url': 'https://de.euronews.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://static.euronews.com/website/images/euronews-logo-main-blue-403x60.png', 'width': '403px', 'height': '60px'}, 'sameAs': ['https://www.facebook.com/de.euronews', 'https://twitter.com/euronewsde', 'https://flipboard.com/@euronewsde', 'https://www.linkedin.com/company/euronews', 'https://www.instagram.com/euronews_deutsch/', 'https://t.me/euronewsde']}}, {'@type': 'WebSite', 'name': 'Euronews.com', 'url': 'https://de.euronews.com/', 'potentialAction': {'@type': 'SearchAction', 'target': 'https://de.euronews.com/search?query={search_term_string}', 'query-input': 'required name=search_term_string'}, 'sameAs': ['https://www.facebook.com/de.euronews', 'https://twitter.com/euronewsde', 'https://flipboard.com/@euronewsde', 'https://www.linkedin.com/company/euronews', 'https://www.instagram.com/euronews_deutsch/', 'https://t.me/euronewsde']}]",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmR3LmNvbS9kZS9kaWUta3Vuc3QtdW5kLWRpZS1rJUMzJUJDbnN0bGljaGUtaW50ZWxsaWdlbnovYS00ODkzMTgxNNIBTmh0dHBzOi8vYW1wLmR3LmNvbS9kZS9kaWUta3Vuc3QtdW5kLWRpZS1rJUMzJUJDbnN0bGljaGUtaW50ZWxsaWdlbnovYS00ODkzMTgxNA?oc=5,Die Kunst und die künstliche Intelligenz - DW (Deutsch),2019-05-29,DW (Deutsch),https://www.dw.com,Was darf ein Roboter? Wie verändert er den Kunstbegriff? Chancen und Gefahren künstlicher Intelligenz waren Themen auf dem Global Media Forum der DW. ,N/A,Was darf ein Roboter? Wie verändert er den Kunstbegriff? Chancen und Gefahren künstlicher Intelligenz waren Themen auf dem Global Media Forum der DW. ,Was darf ein Roboter? Wie verändert er den Kunstbegriff? Chancen und Gefahren künstlicher Intelligenz waren Themen auf dem Global Media Forum der DW. ,N/A,N/A,"KulturDie Kunst und die künstliche Intelligenz Bettina  Baumann29.05.201929. Mai 2019Was darf ein Roboter? Wie verändert er den Kunstbegriff? Chancen und Gefahren künstlicher Intelligenz waren Themen auf dem Global Media Forum der DW. https://p.dw.com/p/3JJOoLink kopierenBild: Imago Images/Itar-Tass/M. TereshchenkoAnzeigeIn zahlreichen Lebensbereichen haben wir uns längst an die Präsenz von künstlicher Intelligenz (KI) gewöhnt: Sie steckt in Handys, Staubsaugern, Autos oder setzt in Fabriken Teile zu neuen Produkten zusammen. 
+Bereiche wie Kreativität und Kunst galten lange als Hoheitsgebiet der menschlichen Schöpferkraft. Doch längst hat KI auch hier Einzug gehalten. Ganze Musikalben wurden bereits von ihr komponiert, Drehbücher geschrieben, Bilder gemalt. Ende vergangenen Jahres kam das erste durch einen Algorithmus geschaffene Gemälde sogar bei Christie's unter den Hammer: ""Edmond de Belamy"" ging für 430.000 US-Dollar über den Auktionstisch. 
+Ist das Kunst? ""Edmond de Belamy"" wurde von einem Algorithmus gemaltBild: Getty Images/AFP/T.A. ClaryDer Einsatz künstlicher Intelligenz im Kreativbereich wirft zahlreiche Fragen auf: rechtliche, wie die nach der Urheberschaft; Fragen des verantwortungsvollen Umgangs mit der Technologie, sowie die grundlegenden Fragen, wie Kunst und Kreativität überhaupt zu definieren sind und ob Maschinen dem gerecht werden können. 
+DW-Moderatorin Karin Helmstaedt diskutierte Fragen wie diese im Rahmen der Veranstaltung ""Arts on the Edge - Can AI be truly creative?"" (Kunst am Scheideweg - Kann KI wirklich kreativ sein?) beim Global Media Forum in Bonn mit der äthiopischen Tech-Pionierin Betelhem Dessie, dem indischen Künstler und Kurator Raghava KK, der in London lebenden Filmemacherin Karen Palmer, Holger Volland, Autor und Vizepräsident der Frankfurter Buchmesse, sowie dem deutschen Philosophen Markus Gabriel. Diskussionsteilnehmer: Betelhem Dessie, Raghava KK, Holger Volland, Karin Helmstaedt, Karen Palmer, Markus Gabriel (v.l.n.r.)Bild: DW/B. Baumann
+Kunst von Robotern? 
+Markus Gabriel, der sich in seiner jüngsten Publikation ""Der Sinn des Denkens"" (2018) auch mit den Folgen von KI auseinandersetzte, schlägt Alarm. Er hält es für einen ""Fehler"", ein von Robotern erschaffenes Gemälde ""als Kunst zu bezeichnen"". Kunstwerke seien allein Ergebnisse autonomer Individuen, sagte Gabriel. Die Essenz der Kunst sei es, dass sie keine besitze. Kunst sei nicht wiederholbar, sondern ""radikal einzigartig"". 
+Auch Holger Volland, Autor von ""Die kreative Macht der Maschinen"" (2018), hält ein von Robotern produziertes Gemälde lediglich für ""eine Imitation von Kunst und Kreativität"". Programmierte Maschinen besäßen keinen eigenen Willen, kreativ zu sein. 
+Ganz anders sieht das der zwischen Indien und den USA pendelnde Künstler Raghava KK, der sich der KI für seine Arbeiten selbst bedient. ""Diejenigen, die sagen, das sei keine Kunst, haben im Grunde einen sehr materialistischen Blick auf Kunst."" Für ihn sei Kunst eine ""transzendentale Erfahrung"".  
+KI und Demokratie 
+Aber mehr noch als die Frage, ob das, was unter Hinzunahme von Algorithmen ensteht, als Kunst oder kreativ zu bezeichnen ist, beschäftigte die Diskussionsteilnehmer die Frage, welchen Einfluss KI auf Mensch und Gesellschaft hat, und wie ein verantwortungsvoller Umgang mit ihr aussehen könnte.  
+Karen Palmer und Betelhem Dessie betonten, dass die Technologie für alle zugänglich gemacht werden müsse und das Know-how nicht in der Hand von Wenigen bleiben dürfe. Die Technologie könne auch missbraucht werden, so Palmer, die KI u.a. in Form von automatischer Gesichtserkennung für ihr Filmprojekt ""RIOT"" einsetzte.
+Dessie, die schon im Alter von neun Jahren das Programmieren erlernte, die Techfirma iCog gründete, neun Patente besitzt und an der Entwicklung des humanoiden Roboters Sophia mitgewirkt hat, macht sich genau dafür stark. Ihr Motto: ""ACC - anyone can code"" - jeder kann programmieren. 
+Sie bringt Kindern ab acht Jahren das Kodieren bei, um insbesondere Mädchen frühzeitig Möglichkeiten aufzuzeigen, die nicht ins typische Geschlechterschema passen. ""Die Gendergap ist besonders im Technologiebereich sehr groß"", erklärte Dessie. Es sei aber wichtig, dass diejenigen, die Programme schreiben und KI entwickeln möglichst divers sind. ""Bei den Programmierern liegt eine hohe Verantwortung"", so die 20-Jährige.   
+KI versus Mensch
+Was KI bereits heute kann, zeigt Sophia, die 2017 von einem Hongkonger Unternehmer entwickelte humanoide Roboterdame. Sie wirkt in ihrer Mimik und Gestik schon weit entwickelt. Sophia hat ein menschliches Gesicht und kann auf Fragen in ganzen Sätzen antworten. Blick in die Schaltzentrale des humanoiden Roboters namens SophiaBild: DW/B. Baumann
+Sogenannte humanoide Roboter sieht der Philosoph Markus Gabriel jedoch kritisch. Er denkt nicht, dass sie einmal an die Fähigkeiten des menschlichen Bewusstseins herankommen werden oder es gar übertrumpfen könnten. Die Stärke des Menschen liegt gerade in seiner Imperfektion, in seiner Dummheit, nicht immer logisch zu denken und zu handeln, so seine These. 
+Für Gabriel ist KI wie ""eine neue Droge"", und so betonte er in der Diskussionsrunde, dass der Umgang mit ihr geregelt werden müsse. Er fordert: ""Eine digitale Revolution im Dienste der menschlichen Moral.""
+Schicken Sie uns Ihr Feedback!Ihr FeedbackAnzeige",https://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.dw.com/de/die-kunst-und-die-künstliche-intelligenz/a-48931814'}","{'@type': 'Organization', 'name': 'Deutsche Welle', 'logo': {'@type': 'ImageObject', 'url': 'https://dw.com/images/icons/favicon-180x180.png', 'width': '180', 'height': '180'}}","[{'@type': 'Person', 'name': 'Bettina  Baumann'}]",Die Kunst und die künstliche Intelligenz ,"['https://static.dw.com/image/48615993_804.jpg', 'https://static.dw.com/image/48615993_604.jpg']",2019-05-28T18:43:03.2Z,2019-06-05T12:24:16.773Z,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbWVkaWVucG9ydGFsLnVuaXZpZS5hYy5hdC91bml2aWV3L3VuaWJsaWNrZS9kZXRhaWxhbnNpY2h0L2FydGlrZWwvZGllLXp1a3VuZnQtZGVyLWFyYmVpdC1iZWdpbm50LWhldXRlL9IBAA?oc=5,Die Zukunft der Arbeit beginnt heute - Universität Wien - Medienportal,2019-05-28,Universität Wien - Medienportal,https://medienportal.univie.ac.at,"Die Podiumsdiskussion zur ""Semesterfrage 2019: Wie werden wir morgen arbeiten?"" am gestrigen Montag, 27. Mai 2019, entwickelte sich schnell zur Bildungsdebatte. Denn ob wir uns auf unvorhersehbare Veränderungen am Arbeitsmarkt bestmöglich vorbereiten oder diese aktiv mitgestalten wollen: Bildung sei der Schlüssel.",N/A,"Die Podiumsdiskussion zur ""Semesterfrage 2019: Wie werden wir morgen arbeiten?"" am gestrigen Montag, 27. Mai 2019, entwickelte sich schnell zur Bildungsdebatte. Denn ob wir uns auf unvorhersehbare Veränderungen am Arbeitsmarkt bestmöglich vorbereiten oder diese aktiv mitgestalten wollen: Bildung sei der Schlüssel.","Die Podiumsdiskussion zur ""Semesterfrage 2019: Wie werden wir morgen arbeiten?"" am gestrigen Montag, 27. Mai 2019, entwickelte sich schnell zur Bildungsdebatte. Denn ob wir uns auf unvorhersehbare Veränderungen am Arbeitsmarkt bestmöglich vorbereiten oder diese aktiv mitgestalten wollen: Bildung sei der Schlüssel.",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+Uni:Blicke
+Die Zukunft der Arbeit beginnt heute
+ Redaktion (uni:view) | 28. Mai 2019
+
+
+
+Die Podiumsdiskussion zur ""Semesterfrage 2019: Wie werden wir morgen arbeiten?"" am gestrigen Montag, 27. Mai 2019, entwickelte sich schnell zur Bildungsdebatte. Denn ob wir uns auf unvorhersehbare Veränderungen am Arbeitsmarkt bestmöglich vorbereiten oder diese aktiv mitgestalten wollen: Bildung sei der Schlüssel.
+
+
+
+
+
+
+Am 27. Mai fand im Großen Festsaal die Abschlussveranstaltung zur Semesterfrage ""Wie werden wir morgen arbeiten?"" statt. (© Universität Wien/derknopfdruecker.at)
+
+
+
+Ja, wir werden morgen arbeiten! In neuen Berufen - ja auch, aber vor allem in bestehenden, die sich verändern. Wie? Flexibler, digitaler, internationaler. So fasst Johannes Kopf, Mitglied im Vorstand des Arbeitsmarktservice Österreich (AMS) und Absolvent der Uni Wien (Rechtswissenschaften), seine Antwort auf die Semesterfrage ""Wie werden wir morgen arbeiten?"" in seinem Einstiegsreferat zur anschließenden Paneldiskussion zusammen. Der Große Festsaal ist voll – ""Sie haben sich für das wichtigere Thema entschieden"", so Rektor Engl in seiner Begrüßung in Anspielung auf die aktuellen innenpolitischen Ereignisse, die zwar den Standard-Chefredakteur Martin Kotynek davon abhielten, wie geplant den Abend zu moderieren – es übernahm seine Stellvertreterin Nana Siebert – nicht aber zahlreiche Studierende und Interessierte vom Besuch der Semesterfrage-Abschlussveranstaltung. Sie waren nicht dabei? Hier können Sie die gesamte Veranstaltung nachschauen.Wie immer bildet die Podiumsdiskussion den Höhepunkt bzw. Abschluss der Semesterfrage – die Zukunft der Arbeit steht schon seit März 2019 im Mittelpunkt der Berichterstattung auf allen Kanälen der Uni Wien; in Kooperation mit ""Der Standard"" konnten UserInnen mit Uni Wien-ExpertInnen diskutieren. Zum Einstieg in die heutige ""analoge"" Diskussion wird ein Video-Zusammenschnitt der Antworten von Wissenschafterinnen auf die Frage ""Wie werden wir morgen arbeiten?"" gezeigt.
+
+""Je höher die Bildung, desto niedriger die Arbeitslosigkeit"", die Zukunft am Arbeitsmarkt sei ""dunkel für jene, die nichts gelernt haben"", ""Jobs für Menschen ohne Ausbildung verschwinden"", erklärt Johannes Kopf in seinem Impulsreferat und eröffnet damit den inhaltlichen Fokus des Abends: die Rolle von Bildung in der Diskussion zur Zukunft der Arbeit. Seine Empfehlung an Politik und Gesellschaft: in Frühförderung investieren, den Zugang zu Bildung für alle sicherstellen, Lernfähigkeit aufrechterhalten und, ganz konkret, auf das Modell ""Lehre nach Matura"" setzen.Das Podium des Abends im Kurzporträt (v.l.n.r.): Neben Johannes Kopf (li.) sitzt Laura Wiesböck – sie ist Universitätsassistentin am Institut für Soziologie der Uni Wien und forscht schwerpunktmäßig u.a. zu Migration und zur Transnationalisierung von Arbeit. Annika Schönauer (3.v.li.) ist Mitglied des Leitungsteams der Forschungs- und Beratungsstelle Arbeitswelt (FORBA), hat an der Uni Wien Soziologie und Ethnologie studiert und arbeitet u.a. zur Flexibilisierung, Digitalisierung und Zukunft von Arbeit. Zur Rechten der Moderatorin Nana Siebert (Bildmitte) hat Whatchado-Co-Founder, Autor des ""Work Report 2019"" und Europäischer Jugendbotschafter Ali Mahlodji Platz genommen. Auch Eva Zehetner (2.v.re.), Personalchefin der A1 Telekom Austria Group, ist Alumna der Uni Wien, und zwar der Internationalen Betriebswirtschaft. Mark Coeckelbergh (re.) ist Professor für Medien- und Technikphilosophie an der Uni Wien; seine Arbeitsgebiete sind Robotics und Künstliche Intelligenz.Angesprochen auf den Bestseller ""Homo Deus. Eine Geschichte von morgen"" des israelischen Historikers Yuval Harari, kritisiert Annika Schönauer den darin geprägten Begriff ""Klasse der Nutzlosen"". Anerkennung könne man nicht nur aus der Erwerbsarbeit, sondern auch aus anderen Bereichen schöpfen: ""Soziale Teilhabe muss auch außerhalb der Erwerbsarbeit möglich sein"". Dass sich die (im Wohlstand aufgewachsene) Jugend sowieso über andere Werte definiere, zum Beispiel der Freizeitgestaltung viel Gewicht beimesse, kein Interesse an Work-Life-Balance habe, sondern an einer klaren Trennung von Arbeit und Freizeit (Ali Mahlodji), und schon mal im Bewerbungsgespräch nach dem CSR-Konzept der Firma frage (Johannes Kopf), sind weitere Aspekte dieses Themas, die im Laufe des Panel-Gesprächs diskutiert werden.Außerdem müsse die Frage gestellt werden, wie Leistung definiert wird, betont Laura Wiesböck. ""Wir sprechen nur von Erwerbsarbeit, aber wir müssen auch über Vermögen sprechen: Erben und Schenken sind leistungslose Transfers"". Für den Europäischen Jugendbotschafter Ali Mahlodji, der viel in Schulen unterwegs ist, dort aber ""vor allem mit den Erwachsenen arbeiten muss"", liegt die Zukunft der Arbeit in unseren Kindern, die noch Fragen stellen – diese Neugierde und Lernfreude werde ihnen von Schule und Erwachsenen genommen. Aber heute wollen auch UnternehmerInnen, dass ihre MitarbeiterInnen Fragen stellen, Risiken eingehen, eine ""Fehlerkultur"" haben. Der Unterricht ziele hingegen darauf ab, Fehler zu vermeiden. Das bestätigt Personalchefin Eva Zehetner: In jedem Menschen sei eine Lernfähigkeit angelegt, irgendwann gehe diese aber verloren. Unternehmen müssen die Fähigkeit wieder wecken. Das könne u.a. über viele Angebote von Seiten des Arbeitgebers passieren. ""Wir lernen auch voneinander und das wird verstärkt, indem wir immer mehr in Teams arbeiten."" Den Unis komme hier eine wichtige Rolle zu: ""Hier lernt man, sich selbst und die eigenen Stärken kennen und sich selbst zu organisieren.""""Warum sind manche Berufe ""wertvoller"" als andere, sprich besser bezahlt? Diese Frage stellt sich u.a. Laura Wiesböck in ihrer Forschung. Beispielsweise KindergartenpädagogInnen – obwohl wie bereits angesprochen gerade die Frühförderung für die Zukunft der Arbeit eine Rolle spielt – verdienen sehr schlecht. Ein anderes Beispiel ist der Pflegebereich. Johannes Kopf überlegt laut, ob sich dies ändern würde, wären mehr Männer in diesen Jobs beschäftigt. Laura Wiesböck widerspricht: Diese Jobs seien schlecht bezahlt, weil sich damit kein Gewinn machen lasse: ""Hier zählen vor allem wirtschaftliche Interessen"". Die Soziologin betont, und erntet dafür Applaus: ""Die Zukunft der Arbeit können wir nicht prognostizieren. Doch bestimmt wird sie heute, durch den politischen Gestaltungswillen der Gegenwart."" Lesen Sie hier das Interview zur Semesterfrage mit Laura Wiesböck: ""Arbeit schützt nicht mehr vor Armut"".Auch der technologische Wandel sei eine politische Problemstellung, so Mark Coeckelbergh, der die Themen künstliche Intelligenz und Automatisierung in die Diskussion einbringt. Denn nicht alle werden davon profitieren. Wie gehen wir mit neuen Formen von Ungleichheit und mit ethischen Fragen im Kontext von künstlicher Intelligenz um? Unser Arbeitsleben werde in Zukunft zunehmend abhängig von neuen Technologien sein, so der Technikphilosoph. Sie gehen mit dem Versprechen einher, uns die Arbeit zu erleichtern – häufig werde sie aber komplexer. Lesen Sie hier den Artikel ""Neue Technik, neue Fragezeichen"" über die Forschung von Mark Coeckelbergh.Eine visuelle Zusammenfassung der angeregten Diskussion gibt das  Scribble von Kathrin Gusenbauer, Studentin im Masterprogramm  Science-Technology-Society an der Uni Wien, die die Veranstaltung live  zeichnerisch dokumentiert hat. ""Über die angesprochenen Themen mache ich mir selbst auch viel Gedanken. Darum war es umso spannender, die Diskussion live zu erfassen und zu versuchen, sie grafisch wiederzugeben"", so die Studentin. Im Laufe der eineinhalbstündigen Gesprächsrunde werden noch viele weitere spannende Aspekte angeschnitten und Fragen aus dem Publikum beantwortet. Die Diskussion entspannt sich dabei vor allem entlang des Spannungsfelds Individuum versus Gesellschaft – geht es darum, sich in der Schule optimal auf eine sich verändernde Arbeitswelt vorzubereiten, seine Potenziale auszuschöpfen, sich selbst zu verwirklichen, oder darum, kritikfähige, mündige Menschen heranzubilden, die die Arbeitswelt umgestalten? Aus dem Publikum kommt etwa die Frage, ob das Bedürfnis nach Sicherheit, das auch die junge Generation habe, in Zukunft erfüllt werden könne. Kopf meint, dass es bereits viele entsprechende Gesetze gäbe und in den letzten Jahrzehnten einiges passiert sei. ""Heute ist vieles nicht mehr möglich, das zu meiner Studienzeit noch normal war. Damals waren die meisten StudentInnenjobs noch Schwarzarbeit"". Heute gäbe es einen gewissen sozialen Schutz. ""Doch die Digitalisierung läuft dem zuwider – Stichwort 'Gig Economy' oder 'Crowdworking'. Hier gibt es kaum Chancen, rechtlich einzugreifen"", so Kopf. Mahlodji meint, dass es heute im Vergleich zu der Elterngeneration keine sicheren Jobs mehr gäbe. ""Die Sicherheit liegt bei einem selber und der eigenen Lernfähigkeit."" (Text: Redaktion/Fotos: © Universität Wien/derknopfdruecker.at)
+
+
+teilentweet
+
+
+
+ Links:
+  SEMESTERFRAGE 2019: Wie werden wir morgen arbeiten?   Semesterfrage in ""Der Standard"" 
+
+
+ Verwandte Artikel:
+
+
+
+Wissenschaft & Gesellschaft
+
+
+
+20.05.2019
+
+
+""Arbeit schützt nicht mehr vor Armut""
+
+
+
+Wissenschaft & Gesellschaft
+
+
+
+08.05.2019
+
+
+Warum überhaupt arbeiten?
+
+
+
+Wissenschaft & Gesellschaft
+
+
+
+29.04.2019
+
+
+Wie künstliche Intelligenz unsere Arbeit verändert
+
+
+
+
+ Zur Liste
+
+
+
+
+
+
+
+
+
+
+
+
+",http://schema.org,,NewsArticle,https://medienportal.univie.ac.at//uniview/uniblicke/detailansicht/artikel/die-zukunft-der-arbeit-beginnt-heute/,"{'@type': 'Organization', 'name': 'Universität Wien', 'url': 'https://www.univie.ac.at/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.univie.ac.at/fileadmin/templates/Startseite/assets/uni_logo_220@2x.jpg', 'width': 440, 'height': 122}}","{'@type': 'Person', 'name': 'Redaktion (uni:view)'}",Die Zukunft der Arbeit beginnt heute,"{'@type': 'ImageObject', 'url': 'https://medienportal.univie.ac.at/typo3temp/pics/38e10f7f9e.jpg'}",2019-05-28T14:48:53+02:00,2019-05-29T09:19:37+02:00,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy5taWNyb3NvZnQuY29tL2RlLWNoLzIwMTkvMDUvMjcvZGllLWt1ZW5zdGxpY2hlLWludGVsbGlnZW56LXdpcmQtYmFsZC1hdWYtZGllLXNjaHVsZW4tenVrb21tZW4v0gEA?oc=5,Bildungsinitiative Schweiz: «Die künstliche Intelligenz wird bald auf die Schulen zukommen» - Microsoft Switzerland ... - Microsoft News,2019-05-27,Microsoft News,https://news.microsoft.com,N/A,N/A,"Claudia Balocco ist bei Microsoft für Bildungsinitiativen in der Schweiz zuständig. Sie sieht den Zugang der Lehrpersonen zu technologischen Mitteln als wichtigen Erfolgsfaktor für den Einsatz von digitalen Medien. Und sie erklärt, weshalb die Integration von Medien und Informatik im Unterricht zur Chancengleichheit beiträgt. Dieses Interview erschien im Magazin «Akzente», das von der Pädagogischen Hochschule […]",N/A,N/A,N/A,"
+
+
+		KPMG Schweiz gewinnt den Schweizer Microsoft Country Partner of the Year Award 2024	
+
+KPMG Schweiz ist für seinen wegweisenden Einsatz von künstlicher Intelligenz (KI) in der Dienstleistungsbranche ausgezeichnet worden und hat den renommierten Partner of the Year Award für seine innovative Partnerschaft mit Microsoft erhalten. Dank dieser Zusammenarbeit konnte KMPG seine Dienstleistungen mithilfe modernster KI-Technologie, darunter Azure OpenAI und Copilot für Microsoft 365, entscheidend ausbauen.
+
+
+",https://schema.org,"[{'@type': 'Article', '@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#article', 'isPartOf': {'@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/'}, 'author': {'name': 'Microsoft Switzerland', '@id': 'https://news.microsoft.com/de-ch/#/schema/person/ccbc68971fe67c7352faaa7ab48ccb15'}, 'headline': 'Bildungsinitiative Schweiz: «Die künstliche Intelligenz wird bald auf die Schulen zukommen»', 'datePublished': '2019-05-27T06:14:15+00:00', 'dateModified': '2019-05-30T06:16:12+00:00', 'mainEntityOfPage': {'@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/'}, 'wordCount': 1350, 'publisher': {'@id': 'https://news.microsoft.com/de-ch/#organization'}, 'image': {'@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#primaryimage'}, 'thumbnailUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/418/2019/05/WIN19_BTS_SurfaceGo_0131.jpg', 'keywords': ['Aus- und Weiterbildung', 'Digitale Transformation', 'Schule'], 'articleSection': ['Media releases'], 'inLanguage': 'de-CH'}, {'@type': 'WebPage', '@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/', 'url': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/', 'name': 'Bildungsinitiative Schweiz: «Die künstliche Intelligenz wird bald auf die Schulen zukommen» - Microsoft Switzerland News Center', 'isPartOf': {'@id': 'https://news.microsoft.com/de-ch/#website'}, 'primaryImageOfPage': {'@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#primaryimage'}, 'image': {'@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#primaryimage'}, 'thumbnailUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/418/2019/05/WIN19_BTS_SurfaceGo_0131.jpg', 'datePublished': '2019-05-27T06:14:15+00:00', 'dateModified': '2019-05-30T06:16:12+00:00', 'breadcrumb': {'@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#breadcrumb'}, 'inLanguage': 'de-CH', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-CH', '@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#primaryimage', 'url': 'https://news.microsoft.com/wp-content/uploads/prod/sites/418/2019/05/WIN19_BTS_SurfaceGo_0131.jpg', 'contentUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/418/2019/05/WIN19_BTS_SurfaceGo_0131.jpg', 'width': 4800, 'height': 3200, 'caption': 'Schüler sitzen am Tisch'}, {'@type': 'BreadcrumbList', '@id': 'https://news.microsoft.com/de-ch/2019/05/27/die-kuenstliche-intelligenz-wird-bald-auf-die-schulen-zukommen/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://news.microsoft.com/de-ch/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Alle Releases', 'item': 'https://news.microsoft.com/de-ch/alle-releases/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Bildungsinitiative Schweiz: «Die künstliche Intelligenz wird bald auf die Schulen zukommen»'}]}, {'@type': 'WebSite', '@id': 'https://news.microsoft.com/de-ch/#website', 'url': 'https://news.microsoft.com/de-ch/', 'name': 'Microsoft Schweiz Newsroom', 'description': 'Microsoft news and media materials in Switzerland.', 'publisher': {'@id': 'https://news.microsoft.com/de-ch/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://news.microsoft.com/de-ch/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-CH'}, {'@type': 'Organization', '@id': 'https://news.microsoft.com/de-ch/#organization', 'name': 'Microsoft Schweiz', 'url': 'https://news.microsoft.com/de-ch/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'de-CH', '@id': 'https://news.microsoft.com/de-ch/#/schema/logo/image/', 'url': 'https://news.microsoft.com/wp-content/uploads/prod/sites/418/2018/06/Logo.jpg', 'contentUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/418/2018/06/Logo.jpg', 'width': 1202, 'height': 432, 'caption': 'Microsoft Schweiz'}, 'image': {'@id': 'https://news.microsoft.com/de-ch/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/microsoftschweiz/', 'https://x.com/microsoft_ch', 'https://www.instagram.com/microsoftch/', 'https://www.linkedin.com/company/microsoft/', 'https://www.youtube.com/channel/UCpl5scPSpZ4XzN0eWAeMXyw']}, {'@type': 'Person', '@id': 'https://news.microsoft.com/de-ch/#/schema/person/ccbc68971fe67c7352faaa7ab48ccb15', 'name': 'Microsoft Switzerland', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-CH', '@id': 'https://news.microsoft.com/de-ch/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/6828d92d209d4db63c3c91ffd143a769?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/6828d92d209d4db63c3c91ffd143a769?s=96&d=mm&r=g', 'caption': 'Microsoft Switzerland'}, 'url': 'https://news.microsoft.com/de-ch/author/microsoftschweiz/'}]",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtsZWluZXplaXR1bmcuYXQvd2lydHNjaGFmdC81NjM0ODg4L1ZpZW5uYS1CaWVubmFsZV9Tby1lbnRzY2hsZWllcm4tS3VlbnN0bGVyLUt1ZW5zdGxpY2hlLUludGVsbGlnZW560gEA?oc=5,Vienna Biennale: So entschleiern Künstler Künstliche Intelligenz - Kleine Zeitung,2019-05-27,Kleine Zeitung,https://www.kleinezeitung.at,"Künstliche Intelligenz, Treibstoff der Innovation,  steht auf der Vienna Biennale auf dem Prüfstand. Kuratoren Marlies Wirth und Paul Feigelfeld über Uncanny Values, unheimliche Werte.",N/A,"Künstliche Intelligenz, Treibstoff der Innovation, steht auf der Vienna Biennale auf dem Prüfstand. Kuratoren Marlies Wirth und Paul Feigelfeld über Uncanny Values, unheimliche Werte.","Künstliche Intelligenz, Treibstoff der Innovation, steht auf der Vienna Biennale auf dem Prüfstand. Kuratoren Marlies Wirth und Paul Feigelfeld über Uncanny Values, unheimliche Werte.",wirtschaft,N/A,"
+
+
+
+Vienna Biennale
+
+
+
+
+          So entschleiern Künstler Künstliche Intelligenz
+        
+
+
+
+  Künstliche Intelligenz, Treibstoff der Innovation,  steht auf der Vienna Biennale auf dem Prüfstand. Kuratoren Marlies Wirth und Paul Feigelfeld über Uncanny Values, unheimliche Werte.
+
+
+
+
+
+
+
+
+
+
+					©					WINKLER
+				
+
+
+
+
+				©				WINKLER
+			
+
+
+
+
+
+
+
+
+
+
+							Adolf Winkler
+						
+
+
+
+
+
+
+
+				27. Mai 2019, 
+				 10:43 Uhr
+			
+
+
+
+
+
+
+Artikel kommentierenauf Facebook teilenauf X teilenLink kopierenArtikel kommentieren
+
+
+
+
+
+
+Politische Vorhersage geschieht heute unter Zuhilfenahme künstlicher Intelligenz (KI). Hätte Political Prediction mit Einsatz eines starken Algorithmus die Regierungskrise in Österreich vorhersehen müssen?
+
+
+PAUL FEIGELFELD: Dazu hätte es keinen besonderen Algorithmus gebraucht. MARLIES WIRTH: Vorhersagealgorithmen machen außerdem eher Political Production. Fake-Profile, die Wirklichkeiten herstellen und Stimmung machen. Sehr problematisch! Damit kommen wir gleich zu den Werten, die im Ausstellungstitel ""Uncanny Values"", unheimliche Werte, enthalten sind. Welche sind vor und mit KI zu schützen?
+
+FEIGELFELD: Neutralität von Technologie ist nicht gegeben. Es geht daher darum, wie bei Daten, ihrer Kontrolle und Monetarisierung die Privatsphäre der Bürger und Regeln beachtet werden. Das Ausmaß von Technologie und künstlicher Intelligenz ist so weit fortgeschritten, dass niemand sagen kann, es betrifft ihn nicht. Daher ist wichtig, dass man partizipiert. Das bloße Nutzen von KI ohne diese Teilhabe ist gefährlich. Derzeit steht KI mit Maschinenlernen auf relativ einfacher Stufe, der nächste Level ist das Erfassen und Generieren von Emotionen und Sprache in Verbindung mit Gefühlen.WIRTH: Die Künstlerin Lynn Hershman Leeson zeigt dazu tiefer gehend einen interaktiven Sprachassistenten und einen ""Emotional Barometer"" aus Personendaten und Texteingaben. Jonas Lund lässt die Besucher mit einem ""Significant Other"" korrespondieren, einem Gegenüber in der Kunsthalle Wien, sowie mit einem Sprachbot wie Siri, der aber nach dem Künstler selbst gemodelt ist. FEIGELFELD: Der erste Chatbot, Eliza, aus dem Jahr 1966 hat schon erstaunliche Ergebnisse geliefert. Er wurde von einem Psychotherapeuten modelliert. WIRTH: Das weist auf Sigmund Freud, der 1919 über das Unbewusste, das Unvertraute geschrieben hat. Wir wissen ja selbst nicht, wie Intelligenz funktioniert. Wenn Technologie im Drei-Stunden-Durchlauf Muster besser erkennt als Wissenschaftler in Jahrzehnten, ist das auch unheimlich, eben wie das Unvertraute im Vertrauten. Damit sind wir beim Begriff Uncanny, der von „Uncanny Valley“ aus der Robotik- und Statistikforschung stammt.FEIGELFELD: Der japanische Robotiker Masahiro Mori hat 1970 den Begriff des „unheimlichen Tals“ geprägt. Er beschreibt die steigende Unsicherheit gegenüber Robotern, je menschenähnlicher sie sind. Das Unheimliche bei KI ergibt sich daraus, dass nur Softwareentwickler verstehen, was abläuft. Programmieren ist wenigen Spezialisten vorbehalten.FEIGELFELD: Als studierter Informatiker sage ich: Es schreit zum Himmel, dass die Spezialisten in keiner Weise ausgebildet werden über gesellschaftliche, soziale und kulturelle Relevanz. Sie sind reine Ingenieure. So sind ein Algorithmus und eine Atombombe ein interessantes Ingenieursproblem, nachgedacht wird erst danach. Bei welchen besonders gesellschaftsrelevanten Themen stellt Kunst auf der Vienna Biennale 2019 KI auf den Prüfstand?WIRTH: Viele Künstler und Designer, deren Arbeiten wir zum Teil auch in Auftrag gegeben haben, beschäftigen sich stark mit Ökologie und Klimaschutz. Was würde künstliche Intelligenz, wenn wir die Verantwortung an sie abgeben würden, tun, um positiv für das Klima zu wirken? In einer Live-Videoinstallation wird der Planet umgebaut. Da könnten nicht nachhaltige Städte wie Singapur oder Dubai von der Landkarte verschwinden. Oder KI greift gegen Flussregulierungen ein, um Arten zu schützen, das sieht man dann hier von Satellitenbildern aus. Auf der Kunstbiennale in Venedig beschäftigt sich eine der interessantesten Video-Installationen mit Vorhersage des Wachstums eines blühenden Gartens. Die Künstlerin Hito Steyerl sagt, die Natur ist für KI zu komplex.FEIGELFELD: Der Diskurs Vorhersagbarkeit oder nicht hat ein enormes theistisches Potenzial – bis zum Schöpfungsgedanken.Zum Beispiel bei Biogenics, wo KI die DNA des Menschen neu erfindet. Wo zieht man bei den vielen medizinischen Fortschritten einmal Grenzen? FEIGELFELD: Meine Einschätzung als Medienhistoriker ist: Alles, was implementiert werden kann, wird implementiert werden. Ethische Entscheidungen werden oft erst hinterher getroffen. Diese Dinge passieren. In den USA schwelt eine heftige Diskussion über rassistische Aspekte bei der KI-Anwendung bei Gesichtserkennung allein wegen der Hautfarbe. An der Debatte beteiligt sich Europa gar nicht.WIRTH: Gesichtserkennung macht die Ausstellung mit einer Installation von Heather Dewey-Hagborg und Chelsea E. Manning zum Thema. Mit Porträts, die KI anhand der DNA der Täter von einem Tatort entwirft. Die Installation zeigt, wie 30 Personen nach Größe, Hautfarbe und Gesicht aussehen könnten. Welchen besonderen Blickwinkel auf KI schafft Kunst?FEIGELFELD: Kunst ist eines der interessantesten Werkzeuge für die künstliche Intelligenz, weil sie selbst künstliche Intelligenz ist, als ""last refuge of a scoundrel"", ein letzter Schlupfwinkel. Als Anwender von KI-Technologie sorgt die Kunst für Transparenz, während KI sonst oft der Kontrolle und Machtverschleierung dient. Hier werden Bilder entschleiert, die uns die KI vermeintlich zum Verzücken liefert. WIRTH: Die hinter der KI stehenden bildgebenden Techniken kommen häufig über die Kultur, so wie auch der Switch von der analogen zur digitalen Fotografie. Der neuseeländische Künstler Mladen Bizumic, der in Wien lebt, beschäftigt sich mit dem Erfinder des Scanners, dessen Frau hochauflösende Bilder von Kunstwerken benötigte. Wie immer wurde dann von Militär und Medizin Geld hineingepumpt, um diese Entwicklung zu nutzen. Ein weites Feld für KI ist Gaming, Spiele, die jeder am Handy hat, um seine Zeit buchstäblich zu verspielen. Sie spielen mit KI-generierten Emojis darauf an?FEIGELFELD: Emojis wurden erfunden, um im Chat die fehlende Person sichtbar zu machen. Unser AImoji nimmt Kommunikation als Einladung zur Ausstellung auf, die auch die Website thispersondoesnotexist.com zeigt, die Gesichter von Personen generiert, die es nicht gibt. Vienna Biennale 2019 Das MAK, Museum für Angewandte Kunst in Wien, zeigt ab 29. Mai im Rahmen der Vienna Biennale 2019 die Ausstellung ""Uncanny Values – Künstliche Intelligenz & Du"". 
+
+
+Verantwortliche Kuratoren sind:Marlies Wirth, Kuratorin für digitale Kultur und Leiterin der Sammlung Design;Paul Feigelfeld, Medientheoretiker und Informatiker 
+
+
+
+
+
+
+Adolf Winkler
+
+
+
+
+
+
+ 0 Kommentare 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anzeige
+
+
+
+
+
+
+
+
+Anzeige
+
+
+
+
+
+ 
+",https://schema.org,,BreadcrumbList,https://www.kleinezeitung.at/wirtschaft/5634888/Vienna-Biennale_So-entschleiern-Kuenstler-Kuenstliche-Intelligenz,"{'@type': 'Organization', 'name': 'Kleine Zeitung', 'url': 'https://www.kleinezeitung.at', 'logo': {'@type': 'ImageObject', 'url': 'https://assets.kleinezeitung.at/layout/klz/files/global/header/Kleine_Zeitung.png'}}","[{'@type': 'Person', 'name': 'Adolf Winkler', 'url': '/autor/free/Adolf+Winkler', 'mainEntityOfPage': '/autor/free/Adolf+Winkler', 'image': {'@type': 'ImageObject'}}]",Vienna Biennale:So entschleiern Künstler Künstliche Intelligenz,"[{'@type': 'ImageObject', 'contentUrl': 'https://img.kleinezeitung.at/public/incoming/sv3qw5-IMG_6064_1558901413880981_v0_h.jpg/alternates/SQUARE_1000/IMG_6064_1558901413880981_v0_h.jpg', 'url': 'https://img.kleinezeitung.at/public/incoming/sv3qw5-IMG_6064_1558901413880981_v0_h.jpg/alternates/SQUARE_1000/IMG_6064_1558901413880981_v0_h.jpg'}, {'@type': 'ImageObject', 'contentUrl': 'https://img.kleinezeitung.at/public/incoming/sv3qw5-IMG_6064_1558901413880981_v0_h.jpg/alternates/ORIGINAL/IMG_6064_1558901413880981_v0_h.jpg', 'url': 'https://img.kleinezeitung.at/public/incoming/sv3qw5-IMG_6064_1558901413880981_v0_h.jpg/alternates/ORIGINAL/IMG_6064_1558901413880981_v0_h.jpg'}, {'@type': 'ImageObject', 'contentUrl': 'https://img.kleinezeitung.at/public/incoming/sv3qw5-IMG_6064_1558901413880981_v0_h.jpg/alternates/LANDSCAPE_1800/IMG_6064_1558901413880981_v0_h.jpg', 'url': 'https://img.kleinezeitung.at/public/incoming/sv3qw5-IMG_6064_1558901413880981_v0_h.jpg/alternates/LANDSCAPE_1800/IMG_6064_1558901413880981_v0_h.jpg'}]",2019-05-27T05:03:00+02:00,2019-05-27T10:43:39+02:00,https://www.kleinezeitung.at/wirtschaft/5634888/Vienna-Biennale_So-entschleiern-Kuenstler-Kuenstliche-Intelligenz,"Künstliche Intelligenz, Treibstoff der Innovation,  steht auf der Vienna Biennale auf dem Prüfstand. Kuratoren Marlies Wirth und Paul Feigelfeld über Uncanny Values, unheimliche Werte.",So entschleiern Künstler Künstliche Intelligenz,True,"{'@type': ['CreativeWork', 'Product'], 'name': 'Kleine Zeitung', 'productID': 'kleinezeitung.at:showcase'}","[{'@type': 'ListItem', 'position': 1, 'name': 'Wirtschaft', 'item': '/wirtschaft'}]"

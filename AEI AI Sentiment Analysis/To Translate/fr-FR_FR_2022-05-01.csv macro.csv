@@ -1,0 +1,2361 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,mainEntityOfPage,headline,image,author,publisher,datePublished,dateModified,itemListElement,url,@graph,dateCreated,isAccessibleForFree,speakable,articleSection,name,countryOfOrigin,inLanguage,isFamilyFriendly,genre,partOfSeries,video,duration,thumbnailUrl,uploadDate,embedURL
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LndvbHRlcnNrbHV3ZXIuY29tL2ZyLWZyL2V4cGVydC1pbnNpZ2h0cy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1mb3ItY29udHJhY3QtbWFuYWdlbWVudNIBAA?oc=5,Utilisation de l'intelligence artificielle pour la gestion des contrats - Wolters Kluwer,2022-05-02,Wolters Kluwer,https://www.wolterskluwer.com,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy50ZWNobmlxdWVzLWluZ2VuaWV1ci5mci9hY3R1YWxpdGUvYXJ0aWNsZXMvYnVybi1vdXQtbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtcG91cnJhaXQtcmVwZXJlci1wbHVzLWZhY2lsZW1lbnQtZGVzLXByZW1pZXJzLXNpZ25lcy0xMTEyMTMv0gGbAWh0dHBzOi8vd3d3LnRlY2huaXF1ZXMtaW5nZW5pZXVyLmZyL2FjdHVhbGl0ZS9hcnRpY2xlcy9idXJuLW91dC1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1wb3VycmFpdC1yZXBlcmVyLXBsdXMtZmFjaWxlbWVudC1kZXMtcHJlbWllcnMtc2lnbmVzLTExMTIxMy9hbXAv?oc=5,Burn-out : l’intelligence artificielle pourrait repérer plus facilement des premiers signes - Actualités Techniques de l'Ingénieur,2022-05-06,Actualités Techniques de l'Ingénieur,https://www.techniques-ingenieur.fr,"L’épuisement professionnel touche de nombreux salariés en France. Mais son identification est complexe, car les symptômes peuvent se superposer à d'autres maladies ou syndromes. Grâce à l’IA et au traitement du langage naturel, des chercheurs suisses ont obtenu un niveau élevé de détection.",N/A,"L’épuisement professionnel touche de nombreux salariés en France. Mais son identification est complexe, car les symptômes peuvent se superposer à d'autres maladies ou syndromes. Grâce à l’IA et au traitement du langage naturel, des chercheurs suisses ont obtenu un niveau élevé de détection.","L’épuisement professionnel touche de nombreux salariés en France. Mais son identification est complexe, car les symptômes peuvent se superposer à d'autres maladies ou syndromes. Grâce à l’IA et au traitement du langage naturel, des chercheurs suisses ont obtenu un niveau élevé de détection.",N/A,N/A,"
+
+
+
+L’épuisement professionnel touche de nombreux salariés en France. Mais son identification est complexe, car les symptômes peuvent se superposer à d'autres maladies ou syndromes. Grâce à l’IA et au traitement du langage naturel, des chercheurs suisses ont obtenu un niveau élevé de détection.
+
+
+Selon l’Institut de veille sanitaire, 480 000 personnes en France seraient en détresse psychologique au travail et le burn-out en concernerait 7 %, soit 30 000. Considérée par l’OMS comme un syndrome lié à un stress chronique au travail et non pas une maladie, cette détérioration de la santé psychique n’est pas sans répercussion.
+Elle a en effet des impacts forts sur la santé physique. Les personnes en détresse psychologique ont deux fois plus de risque de déclarer un problème somatique. Ainsi, 40 % des personnes interrogées font part de troubles du sommeil (+5 % en un an), selon la 7e édition du baromètre Empreinte Humaine, spécialiste de la prévention des risques psychosociaux, réalisée du 30 avril au 10 mai 2021 auprès de 2 007 personnes.
+Des résultats biaisés
+L’un des éléments clés de la prévention du burn-out est la rapidité avec laquelle il est détecté et donc traité. Divers signes avant-coureurs, tant émotionnels (irritabilité, émotivité accrue…) que physiques (douleurs et troubles divers, malaises, manque de sommeil), mais aussi des difficultés de concentration et des pertes de mémoire doivent être repérés le plus vite possible pour alerter la personne et son entourage.
+Actuellement, ces signaux d’alerte sont détectés via des tests psychologiques dans lesquels les patients remplissent un questionnaire à choix multiples. L’un des plus connus est le « Maslach Burnout Inventory », composé de 22 questions réparties en trois catégories : épuisement professionnel, dépersonnalisation/perte d’empathie et évaluation de la performance personnelle.
+Exemple de question-réponse type : « Je me sens à bout à la fin de ma journée de travail : jamais / quelquefois / chaque jour ». Certaines personnes n’osent pas cocher les réponses « jamais » et « chaque jour » ou alors sont tentées de mentir pour influencer les résultats.
+L’utilisation de méthodes de traitement du langage naturel (NLP) a le potentiel d’atténuer les limites de cette détection. Mascha Kurpicz-Briki, professeure en ingénierie des données à la Haute École Spécialisée Bernoise à Bienne en Suisse, et son équipe de scientifiques soutenus par le Fonds national suisse (FNS) ont mis au point une méthode basée sur l’analyse automatique de textes.
+93% des cas de burn-out ont été détectés
+Cette équipe a analysé de façon anonyme des textes issus de Reddit. Il s’agit d’un agrégateur d’actualités sociales, c’est-à-dire un mélange entre une plate-forme de discussion et un diffuseur de liens, qui est divisé en forums, les « subreddits ».
+Bien qu’il existe un subreddit dédié au burn-out, le nombre d’entrées a été considéré par les Suisses comme étant trop faible pour fournir un ensemble de données suffisamment volumineux. L’équipe a donc ajouté des textes provenant de forums thématiques variés. Et le résultat a été impressionnant : leur méthode a identifié correctement 93 % des cas de burn-out.
+Pour atteindre ce résultat, l’équipe a d’abord classé les extraits de texte récoltés. Ceux des fils de discussion sur le burn-out ont été classés manuellement, afin d’exclure ceux où le burn-out faisait référence à autre chose. Les textes provenant d’autres fils de discussion, non liés à la santé mentale, ont été étiquetés comme n’étant pas liés au burn-out.
+Sur la base de ces exemples, elle a entraîné plusieurs modèles. Chacun utilisait différentes configurations pour déterminer si un texte (jamais vu par le modèle) contenait des indications sur le burn-out ou non. Ces modèles ont ensuite été mis en commun dans le cadre de la méthode de diagnostic qui s’est donc révélée très efficace.
+L’équipe suisse précise cependant que la collaboration d’experts en IA et d’experts médicaux reste indispensable pour vérifier les conclusions de cette étude sur des cas réels de burn-out et sur un échantillon représentatif de la population.
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5hdGFsYXlhci5jb20vZnIvYXJ0aWN1bG8vZWNvbm9taWUtZXQtZW50cmVwcmlzZXMvbGF1dG9tYXRpc2F0aW9uLWV0LWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLXVuZS1vcHBvcnR1bml0ZS1wb3VyLXJlbmZvcmNlci1sZS1zZWN0ZXVyLzIwMjIwNTA0MTEwOTEwMTU2MjYzLmh0bWzSAbIBaHR0cHM6Ly93d3cuYXRhbGF5YXIuY29tL2ZyL2FydGljdWxvL2Vjb25vbWllLWV0LWVudHJlcHJpc2VzL2xhdXRvbWF0aXNhdGlvbi1ldC1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS11bmUtb3Bwb3J0dW5pdGUtcG91ci1yZW5mb3JjZXItbGUtc2VjdGV1ci8yMDIyMDUwNDExMDkxMDE1NjI2My5hbXAuaHRtbA?oc=5,"L'automatisation et l'intelligence artificielle, une opportunité pour renforcer le secteur public - Atalayar FR",2022-05-04,Atalayar FR,https://www.atalayar.com,"L'automatisation et l'intelligence artificielle (IA) ont fait naître de nouveaux défis pour les gouvernements et les pays, notamment le déve",América Latina,L'automatisation et l'intelligence artificielle (IA) ont fait naître d...,L'automatisation et l'intelligence artificielle (IA) ont fait naître d...,N/A,N/A,"
+
+
+
+
+
+Atalayar
+
+
+Économie et Entreprises
+
+
+
+
+
+Le CAF souligne que cela peut générer des effets de complémentarité, augmenter l'emploi dans un nombre significatif de tâches et générer des emplois dans le secteur public dans la région
+
+
+L'automatisation et l'intelligence artificielle, une opportunité pour renforcer le secteur public
+
+
+
+
++Info
+
+
+
+
+
+
+
+Économie et Entreprises
+
+
+
+La CAF encourage les alliances stratégiques dans le secteur de l'eau entre l'Espagne et l'Amérique latine
+
+
+
+
+
+
+
+
+
+
+Économie et Entreprises
+
+
+
+Le Honduras s'engage en faveur de l'intégration régionale avec sa demande d'adhésion à la CAF
+
+
+
+
+
+
+
+
+
+
+
+
+CAF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atalayar
+
+
+
+
+
+
+
+
+
+04/05/22 
+Mis à jour: 04/05/22 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suivant
+
+
+
+
+
+
+
+Mots clés:
+
+
+
+
+
+
+
+
+  
+
+
+L'automatisation et l'intelligence artificielle (IA) ont fait naître de nouveaux défis pour les gouvernements et les pays, notamment le développement d'une main-d'œuvre dotée des profils et des compétences adéquats pour s'adapter à la transformation que connaîtront les emplois dans différents secteurs à l'avenir.   
+Selon une étude réalisée par le CAF ""Impact potentiel de l'utilisation de l'intelligence artificielle dans l'emploi public en Amérique latine"", bien que certaines tâches au sein des professions puissent être automatisées, ce qui impliquerait un déplacement du travail humain, effet de l'automatisation, il en existe d'autres pour lesquelles la technologie, au lieu de se substituer, complète ou améliore le travail humain et permet d'augmenter la productivité des travailleurs.
+Les technologies émergentes et en particulier l'intelligence artificielle (IA) sont devenues des moteurs de la transformation économique dans de multiples secteurs et industries. Ils ont également un fort potentiel de rupture pour transformer les administrations publiques à l'ère numérique, en améliorant la définition des politiques publiques, la prestation de services aux citoyens et l'efficacité interne des administrations.  
+Les effets positifs de l'automatisation et de l'IA sur l'emploi peuvent être encore plus importants que les effets de déplacement du travail humain. Par exemple, des études sur la relation entre l'automatisation, la productivité et l'emploi dans 18 pays au cours de la période 1970-2007 ont conclu que le progrès technologique augmente l'emploi global, car les réductions d'emploi dans les industries automatisées (effet direct) sont compensées par des augmentations d'emploi dans d'autres industries de consommation connexes et par des augmentations de la demande globale dans l'économie (effet indirect).
+Cependant, les administrations publiques sont confrontées au défi de développer des stratégies globales de formation des talents numériques, couvrant tous les niveaux des organisations, avec des stratégies spécifiques pour des segments tels que l'équipe de direction, les domaines spécialisés (technologies de l'information et de la communication, science des données, innovation publique) et les domaines qui répondent aux objectifs de mission des entités.  
+""Les entreprises leaders mondiales en matière d'adoption de technologies, y compris l'IA, mettent en œuvre des stratégies pour s'assurer que leur main-d'œuvre actuelle et future possède les connaissances et les compétences nécessaires dans le nouvel environnement, et qu'elle est prête à tirer parti des nouvelles technologies grâce à quatre types de stratégies : des programmes de coaching et de formation, des systèmes de diagnostic des compétences de la main-d'œuvre, la création d'équipes interfonctionnelles pour favoriser l'adoption de l'IA, et la création de nouveaux rôles et d'initiatives d'autonomisation des employés pour réaliser un changement culturel"", explique Guillermo Cruz Alemán, auteur de l'étude.
+Les stratégies de développement des compétences en matière d'IA/4RI recommandées dans le rapport du CAF sont classées selon trois approches et différents profils de fonctionnaires : (i) le recyclage orienté vers les employés dont les tâches peuvent être remplacées par l'automatisation ou l'IA ; (ii) le perfectionnement des spécialistes de l'IA ou de l'informatique, des utilisateurs non spécialisés, des cadres et des autres travailleurs des entités avec un contenu personnalisé en fonction des profils respectifs ; et (iii) le recrutement de nouveaux employés possédant les compétences matérielles et immatérielles requises par les gouvernements.
+""L'IA a un fort potentiel disruptif pour réinitialiser les administrations publiques à l'ère numérique. À la CAF, nous encourageons la modernisation numérique pour favoriser des gouvernements plus agiles, ouverts et innovants, qui s'appuient sur les nouvelles technologies et l'intelligence des données et favorisent l'amélioration de l'efficacité des administrations et de la qualité des services aux citoyens "", a déclaré Antonio Silveira, responsable des infrastructures physiques et de la transformation numérique de la CAF.
+Ces dernières années, les gouvernements et les entreprises du monde entier ont pris conscience du potentiel perturbateur des technologies 4RI, notamment de l'IA. Ces technologies sont de plus en plus mises en œuvre pour accroître l'efficacité et la productivité, ainsi que pour améliorer la connaissance des entreprises et concevoir et mettre en œuvre de meilleurs services pour les utilisateurs. 
+La CAF a exprimé sa volonté de devenir la Banque verte de l'Amérique latine, un allié des gouvernements et du secteur privé pour atteindre les objectifs de développement dans tous les pays d'Amérique latine.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suivant
+
+
+
+
+
+
+
+Mots clés:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Nouvelles d'aujourd'hui 
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+Politique
+
+
+Le Maroc souligne l'importance de l'ONU pour légitimer tout processus de paix en Libye
+
+
+
+Margarita Arredondas
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+Économie et Entreprises
+
+
+SIA assure la transformation numérique sécurisée de l'Université Rey Juan Carlos grâce à la signature électronique qualifiée
+
+
+
+Atalayar
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+Économie et Entreprises
+
+
+Valence accueille l'événement ""Doing Business in Tanger-Tetouan-Al Hoceima Region""
+
+
+
+Atalayar
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+Économie et Entreprises
+
+
+Iberdrola acquiert 100% de Balantia pour accélérer la décarbonisation des entreprises
+
+
+
+Atalayar
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+Politique
+
+
+Hammouchi nomme de nouveaux responsables dans plusieurs villes marocaines
+
+
+
+Margarita Arredondas
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+  
+
+
+Le plus regardé
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+Politique
+
+
+Décès de Lalla Latifa, la mère du roi Mohammed VI du Maroc
+
+
+
+Atalayar
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+Sports
+
+
+Le Maroc dévoile le projet officiel du stade de Casablanca pour la Coupe du monde 2030
+
+
+
+Raúl Redondo
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+Politique
+
+
+La Corée du Nord met en garde les États-Unis, le Japon et la Corée du Sud contre des exercices militaires
+
+
+
+AFP
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+Politique
+
+
+Le roi Mohammed VI reçoit les témoignages d'affection et les condoléances des dirigeants du monde entier à l'occasion du décès de sa mère
+
+
+
+Raúl Redondo
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+Politique
+
+
+Un secouriste silencieux : le Maroc aide discrètement la bande de Gaza
+
+
+
+Daniel Abascal
+
+
+09/07/24 | 15:55
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFjdHUtanVyaWRpcXVlLmZyL2luZm9ybWF0aXF1ZS9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWV0LWp1c3RpY2UtYS1sYS1yZWNoZXJjaGUtZHVuLW5vdXZlYXUtbW9kZWxlLWV0aGlxdWUv0gEA?oc=5,Intelligence artificielle et justice : à la recherche d'un nouveau modèle éthique - Actu-Juridique.fr,2022-05-02,Actu-Juridique.fr,https://www.actu-juridique.fr,"L’intelligence artificielle « est une technologie générique qui a pour vocation d’améliorer le bien-être des individus, de contribuer à une activité",N/A,"L’intelligence artificielle « est une technologie générique qui a pour vocation d’améliorer le bien-être des individus, de contribuer à une activité",N/A,N/A,N/A,"
+
+
+
+
+
+Informatique 
+Abonnés
+
+
+Partager cet article
+
+
+
+
+
+Imprimer 
+
+
+
+
+
+
+Partager par email 
+
+
+
+
+
+
+Partager sur facebook 
+
+
+
+
+
+
+Partager sur twitter 
+
+
+
+
+
+
+Partager sur Linkedin 
+
+
+
+
+
+Intelligence artificielle et justice : à la recherche d’un nouveau modèle éthique 
+
+
+Publié le 02/05/2022 
+
+
+
+slide 1  of 1     Tifany Labatut   docteure en droit privé   
+
+
+
+xa3/AdobeStock
+L’intelligence artificielle « est une technologie générique qui a pour vocation d’améliorer le bien-être des individus, de contribuer à une activité économique mondiale dynamique et durable, de stimuler l’innovation et la productivité, et d’aider à affronter les grands défis planétaires ». Appliquée au domaine de la justice, l’intelligence artificielle est le plus souvent associée à la justice prévisionnelle et aurait pour finalité la création d’une nouvelle forme de justice. Il va sans dire que les enjeux sont de taille et requièrent, par conséquent, un certain nombre de garanties pour pouvoir être bénéfiques à l’ensemble des citoyens. Se posent alors les questions de la réglementation existante en ce domaine et de son contenu éthique : la réglementation, les projets ou propositions de réglementation actuels sont-ils à même de répondre à ces enjeux ou au contraire subsiste-t-il encore des failles ? Auquel cas, serait-il envisageable de les résorber à l’aide de nouveaux outils (élaboration d’un nouveau modèle éthique) ? Notre étude a pour objet de répondre à ces questions.
+1. Depuis ces dernières années, l’intelligence artificielle (IA)1 ne cesse de se développer : les États lui prêtent de nombreux avantages économiques et sociétaux. En effet, elle fournirait « de meilleures prédictions, en optimisant les processus et l’allocation des ressources »2 et permettrait « la prestation de services personnalisés »3. À ces dires, la promesse d’un futur meilleur, à portée de main, grâce à cette technologie serait bénéfique à tous. Pourtant, en pratique, l’IA fascine autant qu’elle suscite des craintes. Pour comprendre les raisons de l’existence de ces sentiments opposés chez les citoyens, il convient dès à présent d’éclaircir certaines notions, à commencer par l’IA. Celle-ci peut se définir comme « un ensemble de sciences, de théories et de techniques dont le but est de reproduire, par une machine, des capacités cognitives humaines afin de lui confier des tâches relativement complexes »4. Cette technologie peut se matérialiser « à travers une chose corporelle ou incorporelle comme un programme informatique »5. En ce sens, l’IA est liée aux algorithmes, qui sont un « ensemble de règles qui définit précisément une séquence d’opérations[,] de sorte que chaque règle soit effective et définie et que la séquence se termine dans un temps fini »6. Dans le domaine du droit, les méthodes de l’IA s’appuient sur des algorithmes prédictifs, qui s’insèrent dans le cadre d’un système dit de « justice prédictive » (nous pouvons mentionner Doctrine, Case Law Analytics, JurisData Analytics, Legalmetrics, Predictice, Captain contrat). Il convient de préciser, sur ce point, que les algorithmes prédictifs sont des algorithmes d’apprentissage, c’est-à-dire qu’ils sont capables d’apprendre d’eux-mêmes, en « améliorant [leur] algorithme »7. Ainsi, ils font preuve de « raisonnement autonome »8 (Deep learning, machine learning). Dans le domaine de la justice, les algorithmes prédictifs permettent « de générer un modèle prédictif basé sur un exemple validé par l’Homme »9. En général, les outils utilisant la justice prédictive sont développés par des entreprises privées nommées « legaltech »10. Ces dernières ont pour destinataires les juges, les avocats, les auxiliaires de justice, les assureurs, les arbitres ou encore les directeurs juridiques des grandes entreprises11.2. Actuellement, les outils de justice prévisionnelle sont capables de fournir en un temps record un grand nombre d’informations : statistiques (raisonnement algorithmique12), tendances jurisprudentielles, prédictions des décisions, chances de succès, revue des documents, analyses de données, recherche de jurisprudence. Ainsi, l’on prête généralement à ces outils de justice prédictive de nombreux atouts tels que « la promotion des modes alternatifs de règlement des conflits, le désengorgement des tribunaux, la prévisibilité juridique, l’accroissement de la qualité de la justice ou encore sa célérité »13. De manière plus spécifique, ces outils permettent d’aider les acteurs de la justice dans des tâches complexes. Pour les avocats, en leur apportant une aide en matière de conseils, de stratégie, de revue de documents ou de rédaction de convention d’arbitrage ; pour les arbitres, en leur fournissant des outils intelligents « de planification d’échanges et de communications en s’appuyant sur la technologie blockchain qui permet de garantir la confidentialité et l’inviolabilité des données »14. Enfin, dans le futur, les outils de justice prédictive auraient même pour ambition de se réaliser en tant que justice prédictive cognitive. Dans cette perspective, la justice prédictive cognitive ferait appel à une « intelligence artificielle [dite] forte (…) chargée de l’application du droit »15. De ce fait, la justice prédictive cognitive aurait vocation à « se substituer à l’Homme, engendrant [ainsi] la naissance d’un “juge-robot” »16.3. Bien que nous soyons encore loin de cette forme de justice, certains auteurs nous mettent en garde dès à présent contre le versant négatif de l’IA et des outils de justice prédictive. De manière générale, les critiques se rapportant à l’IA17 s’efforcent de mettre en évidence les éventuelles atteintes aux droits fondamentaux. Le droit au respect de la vie privée, la liberté d’expression, la liberté de circulation, la protection des données, des droits numériques ou encore des normes éthiques tel que le principe de non-discrimination sont généralement visés. D’autres commentaires questionnent également la licéité du recours à cette technologie, notamment en ce qui concerne la reconnaissance « faciale, visant à déterminer les caractéristiques (couleur de la peau, sexe, état de santé, etc.) ou affects d’une personne »18. Dans le domaine de la justice, les critiques de l’utilisation des outils de justice prédictive s’orientent dans le même sens et se concentrent donc essentiellement sur « les risques d’atteinte grave aux droits fondamentaux »19 (risques d’atteinte à l’indépendance du juge, au droit d’accès à un juge, et au droit à la protection des données à caractère personnel). Concernant plus particulièrement les bases de données de jurisprudence, certains auteurs avancent l’idée que le principal danger, sur le long terme, reposerait dans la constitution d’« une jurisprudence du fond »20, uniforme, de laquelle les juges ne voudraient pas s’écarter. Ce système les inciterait à appliquer le système dit « du précédent », utilisé par les pays de la Common law. À terme, l’IA modifierait la vision actuelle de la justice et participerait à créer une nouvelle forme de justice.Cette brève analyse nous conduit donc au constat suivant : l’utilisation de l’IA requiert une réglementation adaptée aux enjeux d’éthique, de confiance, de gestion des risques et de responsabilité qu’elle soulève.4. Consciente de cela, la Commission européenne a présenté le 21 avril 2021 son premier cadre juridique sur l’IA au sein de l’Union européenne. Cette proposition a pour objectif d’« asseoir une vision européenne de l’IA basée sur l’éthique en prévenant les risques inhérents à ces technologies »21, selon les domaines d’application. En droit interne, la France est également très active en ce domaine. Il est possible de citer à ce sujet la loi pour une République numérique du 7 octobre 2016. Cette loi a permis, entre autres, de mettre à disposition des citoyens, en ligne, les décisions des juridictions administratives et judiciaires grâce à l’open data22. La France a également publié la circulaire n° 6264/SG du 27 avril 2021 relative à la politique publique de la donnée, des algorithmes et des codes sources. Il s’agit là d’un bon début, mais nous pouvons nous demander si cela est suffisant. Certes, l’objectif éthique de l’IA23 doit « servir de colonne vertébrale aux technologies pour qu’elles soient jugées fiables par les individus et la société »24. Cependant, cela nécessite de bien déterminer ce que doit comprendre l’éthique et sous quelle forme elle devrait se matérialiser pour produire des effets désirables. Dès lors, les critères éthiques choisis et destinés à être développés au sein de la proposition de réglementation du Parlement européen sur l’IA sont-ils à même de répondre à ces objectifs ou, au contraire, laissent-ils subsister certaines lacunes qui, sur le long terme, empêcheraient un bon développement de l’IA ? Auquel cas, serait-il possible de combler ces lacunes à l’aide de nouveaux outils (élaboration d’un nouveau modèle éthique) ?5. Pour répondre à ces questions, il conviendra de porter notre attention, de prime abord, sur l’analyse de travaux établie à l’échelle européenne en ce domaine (I) afin de nous permettre de déterminer si les propositions effectuées et les avancées en la matière sont aptes à résorber les difficultés auxquelles font face les États. Ensuite, si nous arrivons au constat que certaines failles subsistent, notamment par rapport au domaine de la justice, nous porterons notre attention sur la création de nouveaux outils destinés à les résorber (II). Dans tous les cas, il convient de préciser, dès à présent, que les résultats trouvés seront applicables autant aux systèmes de l’IA, compris de manière générale, qu’à ceux qui se rapportent spécifiquement au domaine de la justice.
+I – L’approche horizontale de l’éthique adoptée par le Parlement européen en matière d’IA est-elle suffisante pour générer le degré nécessaire de confiance chez les citoyens ?
+6. L’étude annuelle menée par l’Ifop, pour l’Académie des technologies (2020), montre qu’actuellement, les Français se méfient des nouvelles technologies. Selon le communiqué de presse en date du 10 décembre 2020, 56 % des Français sont inquiets vis-à-vis des nouvelles technologies, ce qui représente une hausse de 18 points par rapport à 201825. Les raisons de cette méfiance seraient liées à des problèmes de communication, de perception, de conceptualisation ou encore de manque de transparence et de sécurité. Pour contrebalancer ce manque de confiance, certains promeuvent l’idée d’une « utilisation consciente des nouvelles technologies par une approche multilatérale et pragmatique »26 en donnant aux utilisateurs « plus d’informations sur les services numériques, en créant davantage de transparence et en garantissant le respect des valeurs éthiques »27. D’autres prônent la mise en place de labels, à l’image du label suisse de confiance numérique28. Et les États dans tout ça ? Comme nous l’avons vu, ils sont conscients des enjeux que soulève le développement des nouvelles technologies et c’est pourquoi certaines initiatives ont été entreprises tant à l’échelle européenne que nationale.
+7. À ce titre, le livre blanc publié le 19 février 202029 et le règlement du Parlement européen et du Conseil européen établissant des règles harmonisées sur l’intelligence artificielle du 21 avril 202130 prônent des objectifs et un raisonnement commun, à savoir la création d’un écosystème de confiance (élaboration d’un cadre réglementaire propre à l’IA suivant une approche horizontale de l’éthique) et d’excellence (en privilégiant la coopération entre les États membres, en ciblant les efforts de la communauté de la recherche et de l’innovation, etc.). Pour aboutir à ce résultat, le raisonnement adopté est celui de la création d’un cadre législatif unifié, respectueux des valeurs démocratiques, des droits fondamentaux (dignité humaine, protection de la vie privée) et de la sécurité des citoyens, tout au long du cycle de vie des systèmes d’IA. En ce sens, les lignes directrices du groupe d’experts se sont focalisées sur sept exigences : le facteur humain et le contrôle humain, la robustesse technique et la sécurité, le respect de la vie privée et la gouvernance des données, la transparence, la diversité, la non-discrimination et l’équité, le bien-être sociétal, environnemental et la responsabilisation. Cette logique31 permettrait de générer de la confiance chez les citoyens, les entreprises et les organismes publics et contribuerait à fournir un cadre éthique autour de l’IA (par exemple, la création d’un code de conduite pour les systèmes de l’IA – titre IX). Concrètement, pour établir et générer de la confiance chez les citoyens, le cadre législatif proposé suivrait une approche fondée sur les risques (à degré variable) dans l’utilisation de cette nouvelle technologie (risques inacceptables, élevés, limités, ou minimes).
+8. Au regard de cette analyse, il nous semble que l’approche horizontale de l’éthique sur l’IA adoptée par le Parlement européen est une bonne chose, tout comme les principes mis en avant au sein du livre blanc32. Toutefois, cela est-il suffisant pour générer le degré nécessaire de confiance chez les citoyens, les entreprises et les organismes publics ? Sur ce point, notre réponse doit être nuancée. En effet, d’un côté il est certain qu’une bonne réglementation, qui favorise l’uniformisation du droit en ce domaine et qui met en avant des principes régulateurs, est essentielle. De l’autre, la démarche adoptée ne nous semble pas la plus appropriée et c’est pourquoi nous émettons ici des réserves. Afin de comprendre nos raisons, il convient dès à présent de porter notre attention sur la notion même de confiance. Dans cette étude, nous mettons en évidence la difficile conceptualisation de cette notion et nous proposons un nouvel outil pour remédier à ce problème. Enfin, nous démontrerons que l’approche éthique actuellement adoptée peut conduire à certains effets indésirables.
+9. La notion de confiance peut s’analyser sous différentes facettes : c’est pourquoi de nombreux auteurs ont estimé nécessaire de l’approfondir et de la développer. De ce fait, la notion de confiance « incarnerait plutôt un ensemble de facteurs construit en couches, qui finit par former une dimension très “opaque” (“thick”) de la personnalité humaine »33. Pour d’autres, « la notion de confiance se précise (…) selon la portée qu’on veut bien lui donner »34 (éthique, conception des devoirs et obligations). Toutefois, de manière générale, lorsque la notion de confiance est appliquée au domaine du droit, elle vise un intérêt général et respectueux des droits des citoyens. C’est pourquoi la place de la confiance est primordiale dans le développement des nouvelles technologies. Cependant, au regard de nos propos précédents, il est certain que la notion de confiance est une notion confuse et difficile à appréhender. Or, ce manque de clarté peut conduire à différentes approches de l’éthique (créations d’outils, de valeurs, etc.) et donc à divers mécanismes de pensée qui, selon le domaine visé, ne sont pas forcément les plus appropriés. Ainsi, clarifier la conceptualisation de la notion de confiance pourrait remédier à cette difficulté. C’est sur ce point que nous allons nous concentrer à présent.
+10. Dans cette perspective, il serait intéressant d’élaborer un système (établi à l’aide d’un algorithme) permettant de visualiser la notion de confiance sous forme de jauge35 que nous pourrions intituler, par exemple, « baromètre de la confiance des citoyens dans l’IA ». Sommairement, au sens de notre proposition, la création d’un baromètre de confiance permettrait d’évaluer, en fonction de critères prédéfinis (selon un degré d’application plus ou moins souple) et d’un domaine choisi (ici, l’IA appliqué au domaine de la justice), le degré de confiance des citoyens, des entreprises et des organismes publics en ce domaine. Ainsi, selon le résultat figurant dans la jauge, nous pourrions savoir s’il serait envisageable de poursuivre le développement de cette technologie ou au contraire, s’il serait justifié de revoir certains critères (en modifiant son degré d’application) ou d’en élaborer de nouveaux. Enfin, si malgré tous ces efforts et modifications, les résultats obtenus étaient négatifs, il serait souhaitable de s’interroger sur le bien-fondé de la démarche adoptée. En ce sens, un seuil de confiance minimale en-dessous duquel une révision des critères choisis serait nécessaire pourrait être fixé. Ainsi, le baromètre de confiance aurait pour avantage d’évaluer concrètement le degré de confiance chez les citoyens, de visualiser plus facilement ses évolutions au fil des années mais aussi d’établir des pronostics. En effet, en fonction des résultats obtenus, des simulations seraient réalisables, notamment en modifiant certains critères ou en faisant varier le degré d’application des critères.
+11. En conclusion de ce point, nous commencerons par saluer l’initiative du Parlement européen pour avoir élaboré un premier cadre juridique sur l’IA. Toutefois, après une étude générale de la proposition, nous avons mis en évidence certains points de difficulté relatifs au manque de confiance des citoyens en ces technologies. C’est pourquoi nous pensons que la proposition actuelle gagnerait à être complétée. Selon nous, certaines données n’ont pas été assez approfondies (facteur temporel) ou tout simplement n’ont pas été traitées (éthique partagée, interdépendance, vision à long terme). Aussi, pour résoudre ce problème, il conviendrait de repenser le modèle éthique à partir de nouveaux critères afin de créer un chemin éthique conceptualisable. C’est ce que nous nous proposons d’approfondir à présent.
+
+II – Proposition d’élaboration d’un modèle éthique fondé sur de nouveaux critères : « temps incompressible », « vision à long terme » et « interdépendance »
+12. Sur la base des critères posés par le Parlement européen dans sa proposition d’un règlement propre à l’IA et de notre hypothèse consistant à établir un baromètre de la confiance des citoyens dans l’IA (applicable au domaine de la justice) sous forme de jauge, nous pensons qu’il conviendrait d’établir un nouveau modèle éthique basé sur de nouveaux critères, auxquels nous ajouterions ceux qui existent déjà. L’objectif recherché par ce nouveau modèle éthique serait de traiter, en adoptant un angle différent (sur la base d’un nouveau mécanisme de pensée), les divers points de blocage faisant obstacle aux développements de l’IA (manque de confiance, gestion des risques, responsabilité, etc.) en fournissant des clés permettant de résorber ces difficultés.
+13. Au sens de notre proposition, l’élaboration d’une réglementation spécifique à l’IA reposerait sur la prise en compte d’un modèle éthique global qui comprendrait un certain nombre de critères. Le premier d’entre eux se rapporterait au facteur « temps ». En effet, lorsque la question de l’IA est abordée, la notion de temps intervient sous deux perspectives. D’abord, elle s’attache au problème du retard du droit sur l’innovation de l’IA. En effet, cette dernière, comme toutes les nouvelles technologies, est soumise à une évolution constante. Or cette évolution technologique est porteuse d’innovation, et, par conséquent, « le droit intervient a posteriori étant donné que les effets des nouvelles technologies sont difficilement prévisibles en amont par manque de connaissance du juriste et/ou du concepteur »36. Dès lors, pour remédier au retard du droit sur l’innovation de l’IA, il faudrait procéder à une « synchronisation »37 entre le droit et l’innovation de l’IA. Cette synchronisation pourrait être obtenue si l’innovation technologique et la réglementation lui étant attachée étaient orientées vers une éthique protectrice dite du « temps incompressible » (proposition doctrinale) incombant à chaque être humain (une éthique partagée). Cela nous amène à l’étude de la seconde perspective en lien avec la notion de temps.
+14. Elle se rapporte à un « sentiment généralisé d’une accélération du temps »38 face aux évolutions de l’IA qui, comme l’ensemble des nouvelles technologies, nous donne l’impression que tout doit être fait au mieux et au plus vite. Bien entendu, « le temps réel ne se compresse ni ne se contracte, il ne s’accélère pas »39. En réalité, c’est « l’injonction à remplir au maximum les espaces de temps qui donne le sentiment d’une accélération : le bourrage du temps est la cause de l’impression de son accélération »40. Or il convient de remédier à cette conception du temps et de comprendre que l’IA doit avoir pour finalité de faciliter le travail de l’Homme, de venir à son soutien, sans pour autant lui demander davantage au prétexte qu’il aurait « gagné » du temps grâce à l’IA. Pour contrer ce phénomène de « bourrage du temps », nous prendrons en compte deux critères : le « temps incompressible » et la « vision à long terme ». Le premier critère est primordial, puisqu’il constitue une sorte de frontière entre les actions qualifiées d’indispensables (dormir, boire, manger, etc.) et les actions dites secondaires (ce sont sur ces actions que le bourrage du temps intervient). Dans nos sociétés actuelles, les actions indispensables qui ont une portée à long terme sont souvent délaissées au profit des actions secondaires, qui progressivement rythment davantage nos vies. Ces dernières ont souvent une portée à court terme. Or cette primauté des actions secondaires sur les actions indispensables est à l’origine de ce bourrage du temps et peut nous conduire, sur le long terme, à avoir une mauvaise appréhension du temps. En effet, « il y a une différence entre le temps vécu et le temps objectif »41, et, par conséquent, cela pourrait nous conduire à approcher d’une mauvaise manière le chemin que doit emprunter l’éthique dans l’innovation technologique. Au risque de simplifier, nous pouvons dire qu’en croyant faire bien, nous ferions mal. Actuellement, toutes les décisions éthiques sont prises en fonction d’un raisonnement humain qui fait primer les actions secondaires sur les actions indispensables et non en fonction d’un raisonnement humain recherchant un équilibre entre ces deux types d’action. Pour déterminer les composantes d’un tel équilibre, un dialogue multidisciplinaire s’imposerait. Cependant, une fois cette conversation terminée, une synchronisation entre le droit et l’innovation technologique, et donc les systèmes de l’IA, serait envisageable.
+15. À partir de là, de nouveaux outils éthiques pourraient alors être élaborés. Sur cette base, la confection des systèmes de l’IA, devrait prendre en compte ce nouveau raisonnement éthique afin de garantir cet équilibre (sur la base du critère de temps incompressible). Une fois le résultat obtenu, il conviendrait enfin de vérifier la capacité de l’innovation à conserver dans le temps une ligne éthique stable. Cela nous conduit à l’étude de notre second critère. En effet, comme nous l’avons vu, « les individus étant constamment incités à préférer le changement à la constance, l’évanescence à la pérennité »42, cela rend impossible l’élaboration de principes éthiques de l’IA pouvant s’appliquer sur le long terme. C’est ainsi que le professeur Zygmunt Bauman décrit notre « modernité liquide », précisant qu’à « l’état liquide, rien n’a de forme fixe, tout peut changer »43. Or, à l’aide de notre premier critère, qui est le temps incompressible, conjugué à une analyse sur le long terme, ces difficultés pourraient être surmontées. En effet, l’analyse à long terme de principes éthiques dédiés à l’IA impliquerait d’anticiper les difficultés et de s’adapter au mieux aux éventuelles mutations technologiques. Cela permettrait de faire des choix éthiques éclairés. Finalement, nous pourrions obtenir une éthique partagée de l’IA « fondée sur les notions d’interdépendance (…) de coresponsabilité et de liberté. L’éthique partagée se voudrait donc une éthique concrète et accessible »44 comprenant les différents facteurs d’influence temporels des systèmes de l’IA sur l’Homme. De cette manière, il serait plus aisé de déterminer avec précision ce vers quoi doit tendre l’IA (par ce biais, certains risques seraient naturellement écartés). Ainsi, notre proposition aurait vocation à s’appliquer de manière générale à tous les systèmes de l’IA, y compris à ceux qui s’intéressent au domaine de la justice. Enfin, en suivant une telle approche, il est certain que la confiance des citoyens dans les systèmes de l’IA serait renforcée.
+16. En conclusion, notre étude montre que la réglementation actuelle n’est pas suffisante pour faire face aux risques engendrés par l’utilisation des systèmes de l’IA. Une approche fondée sur l’éthique est primordiale, mais encore faut-il qu’elle repose sur de bons critères. Notre analyse nous a permis de mettre en évidence trois nouveaux critères (liste non exhaustive) : le « temps incompressible », la « vision à long terme » et l’« interdépendance ». Ceux-ci ont pour objectif de faire évoluer l’approche actuelle de l’éthique vers un nouveau modèle que nous avons appelé l’« éthique partagée de l’IA ». Enfin, il convient de se rassurer et de rappeler que l’IA, comme toute autre technologie, n’existe que parce que l’Homme l’a fait exister. Elle n’est ni autonome, ni indépendante. Elle ne possède pas de « dynamique qui lui est propre et qui échappe à toute stratégie raisonnée des citoyens »45. En ce sens, l’évolution de l’IA dépend et dépendra toujours d’un ensemble de facteurs qui trouvent leur source dans l’Homme et sa volonté de la développer, ou pas. Dès lors, ayons confiance en nous et nous ferons les bons choix !
+
+
+
+
+
+Notes de bas de pages 
+
+
+
+
+1.
+
+
+Référence de la définition donnée dans le chapeau : OCDE, « Recommandation du Conseil sur l’intelligence artificielle », OECD/LEGAL/0449 ; v. le Recueil des instruments juridiques de l’OCDE, http://legalinstruments.oecd.org. 
+
+
+
+2.
+
+
+V. Proposition de règlement du Parlement européen et du Conseil établissant des règles harmonisées concernant l’intelligence artificielle (législation sur l’intelligence artificielle) et modifiant certains actes législatifs de l’union, 21 avr. 2021, COM(2021) 206 final. 
+
+
+
+3.
+
+
+Proposition de règlement du Parlement européen et du Conseil établissant des règles harmonisées concernant l’intelligence artificielle (législation sur l’intelligence artificielle) et modifiant certains actes législatifs de l’union, 21 avr. 2021, https://lext.so/HkDvOn. 
+
+
+
+4.
+
+
+Charte éthique européenne d’utilisation de l’IA dans les systèmes judiciaires et leur environnement : CEPEJ, 4 déc. 2018, p. 55.6 ; v. not. JCP G 2018, act. 1331, note N. Fricero. 
+
+
+
+5.
+
+
+L. Wada, « De la machine à l’intelligence artificielle : vers un régime juridique dédié aux robots », LPA 26 déc. 2018, n° LPA140x0. 
+
+
+
+6.
+
+
+H. Stone, Introduction to Computer Organization and Data Structures, 1972, McGraw-Hill Book Company, note cité in L. Viaut, « Droit et algorithmes : réflexion sur les nouveaux processus décisionnels », LPA 4 sept. 2020, n° LPA155y3. 
+
+
+
+7.
+
+
+J. El Ahdab et M. Miranda, « Arbitrage international versus intelligence artificielle », Revue de droit des affaires déc. 2018, n° 15, p. 2. 
+
+
+
+8.
+
+
+Y. Gaudemet, « La justice à l’heure des algorithmes », RDP 2018, p. 651 ; v. également G. Teboul, « La justice prédictive : une actualité inquiétante, ou un pari exaltant ? », GPL 7 avr. 2020, n° GPL377f4. 
+
+
+
+9.
+
+
+L. Viaut, « Droit et algorithmes : réflexion sur les nouveaux processus décisionnels », LPA 4 sept. 2020, n° LPA155y3. 
+
+
+
+10.
+
+
+V. La rédaction du village, « Guide et observatoire permanent de la legaltech et des start-up du droit », 6 janv. 2022, https://lext.so/3Rh_TQ. 
+
+
+
+11.
+
+
+Y. Gaudemet, « La justice à l’heure des algorithmes », RDP 2018, p. 651. 
+
+
+
+12.
+
+
+L. Viaut, « Le raisonnement juridique algorithmique », LPA 21 août 2020, n° LPA153z6. 
+
+
+
+13.
+
+
+M.-C. Lasserre, « L’intelligence artificielle au service du droit : la justice prédictive, la justice du futur ? », LPA 30 juin 2017, n° LPA127v0. 
+
+
+
+14.
+
+
+J. El Ahdab et M. Miranda, « Arbitrage international versus intelligence artificielle », Revue de droit des affaires déc. 2018, n° 15, p. 2. 
+
+
+
+15.
+
+
+M.-C. Lasserre, « L’intelligence artificielle au service du droit : la justice prédictive, la justice du futur ? », LPA 30 juin 2017, n° LPA127v0. 
+
+
+
+16.
+
+
+M.-C. Lasserre, « L’intelligence artificielle au service du droit : la justice prédictive, la justice du futur ? », LPA 30 juin 2017, n° LPA127v0. 
+
+
+
+17.
+
+
+J.-G. Ganascia, « Peut-on contenir l’intelligence artificielle ? », Pouvoirs 2019, vol. 170, n° 3, p. 71-81 ; A. Hyde, « Droit et intelligence artificielle : quelle régulation du marché pour des outils de justice prévisionnelle dignes de confiance ? », JCP G 2021, 142 ; L. Archambault, « Vers une intelligence artificielle “éthique” : objectifs et enjeux de la stratégie européenne en préparation », GPL 8 juin 2021, n° GPL422k7 ; v. Proposition de règlement du Parlement européen et du Conseil établissant des règles harmonisées concernant l’intelligence artificielle (législation sur l’intelligence artificielle) et modifiant certains actes législatifs de l’union, 21 avr. 2021, https://lext.so/HkDvOn. 
+
+
+
+18.
+
+
+V. Proposition de règlement du Parlement européen et du Conseil établissant des règles harmonisées concernant l’intelligence artificielle (législation sur l’intelligence artificielle) et modifiant certains actes législatifs de l’union, 21 avr. 2021, https://lext.so/HkDvOn. 
+
+
+
+19.
+
+
+A. Hyde, « Droit et intelligence artificielle : quelle régulation du marché pour des outils de justice prévisionnelle dignes de confiance ? », JCP G 2021, 142. 
+
+
+
+20.
+
+
+P. Deumier, « La justice prédictive et les sources du droit : la jurisprudence du fond », in La Justice prédictive, t. 60, 2018, Archives de philosophie du droit, Dalloz, p. 49 et s. ; A. Hyde, « Droit et intelligence artificielle : quelle régulation du marché pour des outils de justice prévisionnelle dignes de confiance ? », JCP G 2021, 142. 
+
+
+
+21.
+
+
+La rédaction, « Intelligence artificielle : un nouveau règlement européen sur l’IA », 29 avr. 2021, https://lext.so/Yu8e2-. 
+
+
+
+22.
+
+
+M. Cassuto, « La justice à l’épreuve de sa prédictibilité », AJ pénal 2017, p. 334 et s. 
+
+
+
+23.
+
+
+V. École de droit de SciencesPo, Les enjeux éthiques de la justice prédictive, 2019, Predictice et Wolters Kluwer. 
+
+
+
+24.
+
+
+M. Coulaud, « Intelligence artificielle. Quelle place pour l’éthique et le droit en matière d’intelligence artificielle ? 3 questions à Mathieu Coulaud, directeur juridique, Microsoft France », Comm. com. électr. 2018, entretien 1. 
+
+
+
+25.
+
+
+F. Aufrechter, « Redonnons confiance aux nouvelles technologies ! », 18 mars 2021, https://lext.so/Cu2yP_. 
+
+
+
+26.
+
+
+S. Ibrahim, « Comment renforcer la confiance dans les nouvelles technologies ? », 22 sept. 2020, https://lext.so/-hN351. 
+
+
+
+27.
+
+
+S. Ibrahim, « Comment renforcer la confiance dans les nouvelles technologies ? », 22 sept. 2020, https://lext.so/-hN351. 
+
+
+
+28.
+
+
+S. Ibrahim, « Comment renforcer la confiance dans les nouvelles technologies ? », 22 sept. 2020, https://lext.so/-hN351. 
+
+
+
+29.
+
+
+Comm. UE, Livre blanc. Intelligence artificielle. Une approche européenne axée sur l’excellence et la confiance, 19 févr. 2020, https://lext.so/L7Ktiy. 
+
+
+
+30.
+
+
+V. Proposition de règlement du Parlement européen et du Conseil établissant des règles harmonisées concernant l’intelligence artificielle (législation sur l’intelligence artificielle) et modifiant certains actes législatifs de l’union, 21 avr. 2021, https://lext.so/HkDvOn. 
+
+
+
+31.
+
+
+La recommandation sur l’intelligence artificielle adoptée par le Conseil de l’OCDE, le 22 mai 2019, s’inscrit dans une logique similaire à celle du Parlement européen et du Conseil. En effet, elle a pour objectif de « bâtir un cadre d’action stable à l’échelle internationale afin de favoriser la confiance dans l’IA ». En ce sens, le projet de recommandation vise « à promouvoir une approche d’une IA digne de confiance qui soit centrée sur l’humain, favorise la recherche, préserve les incitations économiques en faveur de l’innovation, et vaille pour l’ensemble des parties prenantes ». 
+
+
+
+32.
+
+
+Comm. UE, Livre blanc. Intelligence artificielle. Une approche européenne axée sur l’excellence et la confiance, 19 févr. 2020, https://lext.so/L7Ktiy. 
+
+
+
+33.
+
+
+A. Guimond, « La notion de confiance et le droit du commerce électronique », Lex Electronica 2008, vol. 12, n° 3, https://lext.so/Cv26mt. 
+
+
+
+34.
+
+
+A. Guimond, « La notion de confiance et le droit du commerce électronique », Lex Electronica 2008, vol. 12, n° 3, https://lext.so/Cv26mt ; C. Lane et R. Bachmann, Trust within and between organizations: Conceptuals Issues and Empirical Applications, 1998, Oxford University Press, p. 276. 
+
+
+
+35.
+
+
+Cet outil aurait vocation à reprendre ce qui existe déjà, à l’image du baromètre de la confiance des Français dans le numérique (https://lext.so/xYkPfb) ; mais au sens de notre proposition, le baromètre serait plus performant (évolution en temps réel, possibilités de pronostiques, etc.). 
+
+
+
+36.
+
+
+C. Bernard et N. Burgur, « La synchronisation du droit et de l’innovation. Regard sur les objets connectés », 12 mars 2018, HAL, https://lext.so/Kk4x8U. 
+
+
+
+37.
+
+
+C. Bernard et N. Burgur, « La synchronisation du droit et de l’innovation. Regard sur les objets connectés », 12 mars 2018, HAL, https://lext.so/Kk4x8U. 
+
+
+
+38.
+
+
+J.-P. Bouilloud et O. Fournout, « Accélération et bourrage du temps : les enjeux de la perception du temps dans la modernité », in N. Aubert (dir.), @ la recherche du temps. Individus hyperconnectés, société accélérée : tensions et transformations, 2018, Érès, Sociologie clinique, p. 125-141. 
+
+
+
+39.
+
+
+N. Aubert, « Accélération et hyperconnexion à l’ère du capitalisme financier : accomplissement de soi ou dépossession de soi ? », in N. Aubert (dir.), @ la recherche du temps. Individus hyperconnectés, société accélérée : tensions et transformations, 2018, Érès, Sociologie clinique, p. 9-23. 
+
+
+
+40.
+
+
+J.-P. Bouilloud et O. Fournout, « Accélération et bourrage du temps : les enjeux de la perception du temps dans la modernité », in N. Aubert (dir.), @ la recherche du temps. Individus hyperconnectés, société accélérée : tensions et transformations, 2018, Érès, Sociologie clinique, p. 125-141. 
+
+
+
+41.
+
+
+P.-A. Chardel et C. Dartiguepeyrou, « Être, temps et différences : pour une approche différencialiste du temps à l’ère numérique », in N. Aubert (dir.), @ la recherche du temps. Individus hyperconnectés, société accélérée : tensions et transformations, 2018, Érès, Sociologie clinique, p. 95-110. 
+
+
+
+42.
+
+
+P.-A. Chardel et C. Dartiguepeyrou, « Être, temps et différences : pour une approche différencialiste du temps à l’ère numérique », in N. Aubert (dir.), @ la recherche du temps. Individus hyperconnectés, société accélérée : tensions et transformations, 2018, Érès, Sociologie clinique, p. 95-110. 
+
+
+
+43.
+
+
+P.-A. Chardel et C. Dartiguepeyrou, « Être, temps et différences : pour une approche différencialiste du temps à l’ère numérique », in N. Aubert (dir.), @ la recherche du temps. Individus hyperconnectés, société accélérée : tensions et transformations, 2018, Érès, Sociologie clinique, p. 95-110 ; Z. Bauman, La vie liquide, 2013, Fayard-Pluriel. 
+
+
+
+44.
+
+
+T. Labatut, « De nouveaux outils pour une éthique partagée des acteurs de l’arbitrage », LPA 13 nov. 2020, n° LPA156z2. 
+
+
+
+45.
+
+
+T. Ruckebusch, « Le monde du travail à l’ère de l’intelligence artificielle : menace ou opportunité ? », JCP S 2021, p. 1112. 
+
+
+
+
+
+
+
+
+Référence : AJU003x7
+
+
+
+Copier dans le presse-papier 
+
+
+
+
+Plan 
+I – L’approche horizontale de l’éthique adoptée par le Parlement européen en matière d’IA est-elle suffisante pour générer le degré nécessaire de confiance chez les citoyens ?II – Proposition d’élaboration d’un modèle éthique fondé sur de nouveaux critères : « temps incompressible », « vision à long terme » et « interdépendance »
+
+
+
+        À lire également    
+
+
+
+
+                            NTIC / Médias / Presse                        
+
+
+                    L’expansion du marché de l’intelligence artificielle et la confiance en « la justice »                
+
+
+
+
+                            NTIC / Médias / Presse                        
+
+
+                    Intelligence artificielle : qui sera responsable ?                
+
+
+
+
+                            Interview                        
+
+                            Professions                        
+
+
+                    L’intelligence des avocats doit s’emparer de l’intelligence artificielle                
+
+
+
+
+
+
+
+
+
+
+",http://schema.org/,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.actu-juridique.fr/informatique/intelligence-artificielle-et-justice-a-la-recherche-dun-nouveau-modele-ethique/'}",Intelligence artificielle et justice : à la recherche d’un nouveau modèle éthique,"{'@type': 'ImageObject', 'url': 'https://www.actu-juridique.frhttps://www.actu-juridique.fr/app/uploads/2022/05/AdobeStock_395022041-1-scaled.jpeg'}","{'@type': 'Person', 'name': 'Tifany Labatut'}","{'@type': 'Organization', 'name': 'Actu-juridique', 'logo': {'@type': 'ImageObject', 'url': 'https://www.actu-juridique.fr/app/themes/actu-juridique/images/logo-actu-black.png', 'width': '266', 'height': '40'}}",2022-05-02 00:00:00,2022-05-02 10:09:04,"[{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.actu-juridique.fr/'}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5ldXJvcGFybC5ldXJvcGEuZXUvdG9waWNzL2ZyL2FydGljbGUvMjAyMjA0MjJTVE8yNzcwNS9hdmVuaXItZGUtbC1pYS1sYS1mZXVpbGxlLWRlLXJvdXRlLWR1LXBhcmxlbWVudC1ldXJvcGVlbi1wb3VyLWwtdWXSAQA?oc=5,Avenir de l'IA : la feuille de route du Parlement européen pour l'UE | Thèmes | Parlement européen - europarl.europa.eu,2022-05-02,europarl.europa.eu,https://www.europarl.europa.eu,"Comment l'UE peut-elle améliorer sa position mondiale en matière d'IA ? En plénière en mai 2022, les députés ont adopté une série de propositions visant à développer l'IA à long terme.",productType:STORY,"Comment l'UE peut-elle améliorer sa position mondiale en matière d'IA ? En plénière en mai 2022, les députés ont adopté une série de propositions visant à développer l'IA à long terme.","Comment l'UE peut-elle améliorer sa position mondiale en matière d'IA ? En plénière en mai 2022, les députés ont adopté une série de propositions visant à développer l'IA à long terme.",N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZhYnVsYS5vcmcvYWN0dWFsaXRlcy8xMDc5MDYvdHJhZHVjdGlvbi1saXR0ZXJhaXJlLWV0LWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtLXRoZW9yaWUtcHJhdGlxdWUtY3JlYXRpb24uaHRtbNIBAA?oc=5,"Traduction littéraire et intelligence artificielle : théorie, pratique, création - Fabula",2022-05-03,Fabula,https://www.fabula.org," Les 20 et 21 octobre 2022 - Sorbonne Nouvelle Soumissions des résumés : 6 juin 2022 Notification d'acceptation : 1er juillet 2022  Conférence plénière :  Antonio Toral, Computational Linguistics Group, Center for Language and Cognition,...",N/A," Les 20 et 21 octobre 2022 - Sorbonne Nouvelle Soumissions des résumés : 6 juin 2022 Notification d'acceptation : 1er juillet 2022  Conférence plénière :  Antonio Toral, Computational Linguistics Group, Center for Language and Cognition,..."," Les 20 et 21 octobre 2022 - Sorbonne Nouvelle Soumissions des résumés : 6 juin 2022 Notification d'acceptation : 1er juillet 2022  Conférence plénière :  Antonio Toral, Computational Linguistics Group, Center for Language and Cognition,...",N/A,N/A,"
+
+
+
+ 
+
+
+
+
+Traduction littéraire et intelligence artificielle : théorie, pratique, création
+
+
+Date de tombée (deadline) : 06 Juin 2022
+À : Université Sorbonne Nouvelle, EA Prismes 
+
+
+
+
+
+
+
+
+
+
+                    Publié le 03 Mai 2022 par Marc Escola (Source : Carole Birkan-Berz)
+                
+
+
+
+
+ Les 20 et 21 octobre 2022 - Sorbonne NouvelleSoumissions des résumés : 6 juin 2022Notification d'acceptation : 1er juillet 2022 Conférence plénière : Antonio Toral, Computational Linguistics Group, Center for Language and Cognition, Université de Groningen IntroductionDébut 2020, nous avions évoqué l’opportunité d’organiser un cycle de séminaires du TRACT consacré à la traduction automatique (TA) des textes littéraires. Depuis, cette question fait l’objet d’un nombre toujours croissant de colloques, articles et autres monographies. Ce sont probablement les « progrès » fulgurants des outils de TA mis à la disposition du grand public — en particulier DeepL et Google Translate qui utilisent les avancées de la Traduction automatique neuronale (TAN) de la dernière décennie — qui ont rendu désormais incontournable la prise en compte de ce phénomène par le milieu de la traduction littéraire. En effet, ces outils, notamment en raison de leur capacité à traiter quasi instantanément une quantité de texte impressionnante, viennent renforcer dans l’imaginaire du public l’idée selon laquelle la traduction, le passage d’une langue à l’autre comme l’on dit communément, est « automatique », direct, manifestation d’un rapport biunivoque qui unirait deux langues entre elles. C’est revenir à une conception simpliste de la langue, vue comme un simple code, que les traducteurs se contenteraient de décoder puis ré-encoder, en suivant des règles de transformation ou algorithmes. C’est d’ailleurs ainsi que les premières machines à traduire ont été imaginées et conçues avant d’être supplantées par la traduction statistique puis par la traduction automatique dite « neuronale ». Cependant l’échec cuisant et patent des premières tentatives de traduction automatique conduisit à la suppression totale et subite du budget accordé à ces recherches en 1966 aux États-Unis suite aux conclusions du rapport ALPAC. De plus, les imperfections encore sensibles de la TA ne s’appuyant que sur le traitement statistique d’énormes corpus parallèles semblaient ne jamais pouvoir remettre en question le rôle des traducteurs humains (encore appelés « bio-traducteurs »). Jusqu’à une date récente, seuls les traducteurs spécialisés ou pragmatiques avaient souvent recours à la traduction assistée par ordinateur ou TAO. Pourtant, avec l’avènement rapide de la TAN, même les traducteurs littéraires craignent de voir leur autonomie, leur statut d’auteur (leur “agentivité”/agency) menacés. La dimension créative du travail, revendiquée par les traducteurs depuis tant d’années, serait oubliée pour laisser place à une activité ancillaire—de correcteur ou correctrice, dans le cadre de ce qu’on appelle désormais la post-édition. L’homme au service de la machine en quelque sorte. En effet, on voit bien quels avantages des éditeurs peu scrupuleux pourraient en tirer. Notamment s’agissant de la littérature dite de « genre », qui, de fait, s’inscrit souvent, dès l’écriture originale, dans des cadres assez « formatés » répondant à des schémas souvent répétitifs. La traduction automatique neuronale d’ouvrages de fantasy ou de romance, par exemple, permettrait un formidable gain de temps et donc d’argent qui ne manquerait pas de modifier les pratiques du monde de l’édition. Tout se passe donc comme si, face à cette situation, les praticiens et théoriciens de la traduction littéraire, ne pouvaient plus rester attentistes. L’Observatoire de la traduction automatique mis en place en 2019 par ATLAS, l’Association pour la promotion de la traduction littéraire, en est une des illustrations concrètes en France. Il ne s’agit pas d’adopter une position défensive, mais de tenir compte du changement de paradigme dans la traduction qu’implique l’émergence de la TAN. Celle-ci, de toute façon, ne disparaîtra pas et est même susceptible, selon certains spécialistes de l’I.A., de progrès qui, à terme, pourraient supplanter les bio-traducteurs. C’est pourquoi, au-delà des craintes suscitées par la TAN chez les professionnels de la traduction, et au-delà des critiques sur la qualité des traductions qu’elle produit, nous souhaitons nous interroger sur les déplacements que la TAN induit dans nos manières d’envisager la traduction. En d’autres termes, ce que fait la TAN au concept de traduction et, partant, à la théorie de la traduction. Comment notre expérience de la traduction, modifiée par la présence de la machine, infléchit nécessairement notre manière de réfléchir (sur) la traduction. La machine est-elle à même de saisir la singularité du style d’un auteur, de ce qu’il fait avec et à la langue ? Peut-elle trouver une stratégie capable de restituer cette transformation complexe, d’une manière ou d’une autre ? Cela nous conduit à une interrogation renouvelée sur ce que veut dire « comprendre » un texte, et plus généralement « lire » un texte, a fortiori si on considère avec G. Steiner que « comprendre c’est traduire ». Peut-on dire que la machine lit le texte pour le traduire comme le fait le bio-traducteur ? Traduire implique la mise en œuvre d’une forme extrêmement raffinée de la pensée. Or la question posée dès 1950 par Alan Turing, l’un des pères de l’intelligence artificielle (IA), n’était-elle pas « Can machines think? », c’est bien là toute la question en effet.Comment le traducteur humain appréhende-t-il le texte source ? La lecture du texte à traduire est-elle différente de la lecture plaisir ? Par quels chemins, hésitations, retours en arrière, consultations de dictionnaires etc., le traducteur aboutit-il au texte cible ? La machine peut-elle définir son texte cible et y adapter ses stratégies traductives ? Les recherches sur les processus cognitifs à l’œuvre chez les traducteurs humains peuvent-elles jeter un éclairage utile sur ces questions ?Notre colloque se propose de mener l’enquête selon trois axes (qui forcément se recoupent en certains points) : — Initier les traducteurs littéraires, traductologues, enseignants-chercheurs, étudiants aux nouveaux outils issus de l’IA, TAO, TAN, les éclairer sur leur fonctionnement, le rôle de la linguistique informatique, les sciences cognitives, les neurosciences, leur histoire, les perspectives de progrès, leurs limites, etc.— Comment la TAN se mesure-t-elle aux textes littéraires ; quels défis la littérature (en particulier la poésie), lui oppose-t-elle avec ses équivoques, ses ambiguïtés, ses significations énigmatiques, ses points d’intraduisible qui en sont souvent la signature ? Inversement, quelle part la TAN, la TAO, peuvent-elles prendre au renouvellement de la créativité littéraire ?— La TAN effectue-t-elle un changement de paradigme pour  la traduction ? En quoi l’omniprésence de la machine nous permet-elle de prendre conscience de l’automatisation de certains processus naguère effectués par des traducteurs experts ? Que devient la place du bio-traducteur: se voit-il libéré ou au contraire aliéné par la machine (qui ne peut fonctionner sans exploiter des données humaines) ? En quoi ces changements vécus par les traducteurs permettent-ils de dessiner un nouveau paradigme, incluant mais aussi excédant la dimension pragmatique de ce travail ?
+Dans ce cadre on pourra s’intéresser, entre autres,  aux questions suivantes : Les nouveaux outils de TA pourraient-ils, à terme, réellement remplacer les traducteurs humains ?Enseigner la traduction à l’université à l’ère de la TAN ?La traductologie de corpus, la TAO peuvent-elles améliorer la qualité des traductions ou retraductions littéraires ?Dans quelles mesures les pratiques des traducteurs pragmatiques sont-elles transférables aux traducteurs littéraires ? La machine fait-elle du bio-traducteur un traducteur augmenté ou un traducteur diminué ? Quel rôle pour la machine, quel rôle pour l’humain ? Comment la TAN et la TAO modifient le rapport du traducteur au texte littéraire, sa lecture du texte et donc son engagement avec le texte ?L’interaction humain/machine en traduction littéraire : la collaboration est-elle possible, souhaitable, ou dommageable ? Les traducteurs littéraires ne risquent-ils pas d’être fortement encouragés par les éditeurs à se transformer en réviseurs spécialisés (développement de la post-édition) ? La machine ne va-t-elle pas les réduire à une fonction ancillaire dont ils essaient de s’affranchir depuis des décennies ?La machine ne peut-elle pas se faire l’alliée de la créativité littéraire, par le biais de l’aléa qu’elle introduit dans la traduction, ou encore, par les contraintes formelles qu’on peut lui inculquer (rimes et pieds dans la traduction de la poésie, , par exemple) ? La littérature de genre, qui répond souvent à des formes d’écriture assez formatées (fantasy, romance, etc.) n’est-elle pas une cible idéale pour le développement de la TAN dans le domaine littéraire ? La machine « entend-elle » la voix de l’auteur.e ? Est-elle capable de faire entendre une voix singulière dans la traduction ?Quid du « projet » de traduction cher à Antoine Berman si l’on confie le texte à une machine ? La stylistique de corpus permet-elle de mieux étudier et comparer les stratégies de traduction mises en œuvre par les traducteurs humains ? Est-elle pertinente pour comparer la traduction automatique et la bio-traduction ? La réception par les lecteurs des textes littéraires diffère-t-elle selon les modalités de leur traduction ? 
+*
+Vous souhaitez contribuer ?Les propositions de contribution en français ou en anglais devront être adressées avant le 6 juin 2022 sur le site: https://lit-trans-ai.sciencesconf.org/
+(Au préalable, prière de créer un compte sur Sciences Conf).
+Il est également possible d'adresser toute question à Carole Birkan-Berz carole.birkan-berz@sorbonne-nouvelle.fr et/ou Bruno Poncharal bruno.poncharal@sorbonne-nouvelle.fr
+
+Les contributions doivent comporter : un titreun résumé de 300 mots5 mots-clésune courte bio-bibliographie La réponse parviendra aux auteurs des propositions au 1er juillet 2022.Une sélection de contributions sera publiée dans le 38e numéro de la revue Palimpsestes.
+
+
+
+
+
+
+Responsable :Groupe de recherche Tract, EA Prismes 4398 Url de référence :https://lit-trans-ai.sciencesconf.org/ Adresse :Université Sorbonne Nouvelle, EA Prismes  
+
+
+",https://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.fabula.org/actualites/107906/traduction-litteraire-et-intelligence-artificielle--theorie-pratique-creation.html'}","Traduction littéraire et intelligence artificielle : théorie, pratique, création",['https://www.fabula.org/actualites/documents/107906_088cca6446a5669015d2a6fc80ae33fd.png.webp'],"[{'@type': 'Person', 'name': 'Marc Escola'}]","{'@type': 'Organization', 'name': 'Fabula', 'logo': {'@type': 'ImageObject', 'url': 'https://www.fabula.org/medias/pwa/icon-120x120.png'}, 'sameAs': ['https://twitter.com/fabula', 'https://www.facebook.com/Fabula.org/', 'https://www.instagram.com/fabula_org/']}",2022-05-03T03:52:54+02:00,2022-05-03T17:36:05+02:00,,https://www.fabula.org/actualites/107906/traduction-litteraire-et-intelligence-artificielle--theorie-pratique-creation.html,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZnIuY3J5cHRvbmV3cy5jb20vbmV3cy91bmUtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1wb3VyLWFuYWx5c2VyLWxlcy1jcnlwdG9tb25uYWllcy5odG3SAQA?oc=5,Lutessia est une intelligence artificielle pour analyser les cryptomonnaies - Cryptonews FR,2022-05-03,Cryptonews FR,https://fr.cryptonews.com,Lutessia est une intelligence artificielle qui peut analyser des milliers de cryptomonnaies.,N/A,Lutessia est une intelligence artificielle qui peut analyser des milliers de cryptomonnaies.,Lutessia est une intelligence artificielle qui peut analyser des milliers de cryptomonnaies.,N/A,N/A,"
+
+
+
+
+
+Feb 8, 2024
+Podcast
+
+
+104# – Bénéficier de l’expertise d’un trader pro via le NFT de Clones Saga (podcast) 
+
+",http://schema.org/,BreadcrumbList,,,,,,,,"[[{'@type': 'ListItem', 'position': 1, 'name': 'Cryptonews France', 'item': 'https://fr.cryptonews.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'News', 'item': 'https://fr.cryptonews.com/news/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Une intelligence artificielle pour analyser les cryptomonnaies', 'item': 'https://fr.cryptonews.com/news/une-intelligence-artificielle-pour-analyser-les-cryptomonnaies.htm'}]]",,"[{'@type': 'NewsArticle', 'mainEntityOfPage': {'@id': 'https://fr.cryptonews.com/news/une-intelligence-artificielle-pour-analyser-les-cryptomonnaies.htm', '@type': 'WebPage'}, 'headline': 'Une intelligence artificielle pour analyser les cryptomonnaies', 'image': ['https://cimg.co/news/77721/188436/analyses-lutessia2-e1636370947504.jpeg'], 'author': [], 'datePublished': '2022-05-03T13:17:00+00:00', 'dateModified': '2023-06-26T11:08:23+00:00'}, {'@type': 'Organization', 'name': 'Cryptonews France', 'url': 'https://fr.cryptonews.com', 'logo': 'https://fr.cryptonews.com/wp-content/themes/cryptonews/images/crypto-news-logo-full.svg'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmxhcmVjaGVyY2hlLmZyL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtaW5mb3JtYXRpcXVlL3VuLWFsZ29yaXRobWUtcG91ci1jb250cmVyLWxlcy1taWNyb3Bob25lcy1pbmRpc2NyZXRz0gEA?oc=5,Un algorithme pour contrer les microphones indiscrets - La Recherche,2022-05-05,La Recherche,https://www.larecherche.fr,"N’avez-vous jamais eu l’impression d’être écouté ? Nombre d’entre nous reçoivent, après une discussion qu’ils viennent d’avoir, des publicités qui collent mystérieusement avec la conversation. C’est qu’aujourd’hui, les microphones sont partout : smartphones, ordinateurs, montres, assistants vocaux, etc.",N/A,"Une équipe d'informaticiens de l'université Columbia, aux États-Unis, a mis au point un algorithme d'intelligence artificielle capable de brouiller la compréhension des logiciels de reconnaissance vocale.
+&nbsp;
+",N/A,N/A,N/A,"
+
+
+
+ 
+
+
+
+
+
+
+
+Intelligence artificielle
+Informatique
+
+
+
+FacebookTwitterEmail
+
+
+
+Un algorithme pour contrer les microphones indiscrets
+
+
+            Jeudi 05 mai 2022
+          
+
+
+
+ 
+
+
+
+Une équipe d'informaticiens de l'université Columbia, aux États-Unis, a mis au point un algorithme d'intelligence artificielle capable de brouiller la compréhension des logiciels de reconnaissance vocale.
+ 
+
+
+
+N’avez-vous jamais eu l’impression d’être écouté ? Nombre d’entre nous reçoivent, après une discussion qu’ils viennent d’avoir, des publicités qui collent mystérieusement avec la conversation. C’est qu’aujourd’hui, les microphones sont partout : smartphones, ordinateurs, montres, assistants vocaux, etc. Pour pallier cette écoute intrusive, une équipe de trois spécialistes de l'apprentissage automatique de l’université Columbia a mis au point un algorithme qui génère des sons, presque inaudible pour l'humain, mais permettant de brouiller les fréquences et d’empêcher nos propres appareils de nous espionner. Ces travaux ont été présentés lors de la dernière conférence ICLR.
+Le traitement du langage naturel est un domaine de l'intelligence artificielle (IA). Il permet d’analyser la voix humaine pour la transcrire en texte, la comprendre, et formuler une demande ou répondre à interlocuteur, comme Siri ou Alexa. Les algorithmes d'IA sont principalement divisés en deux groupes : la reconnaissance et la génération. Dans le traitement du langage naturel, la reconnaissance consiste à analyser et comprendre le son, et la génération revient à la synthèse. Ces travaux couvrent les deux domaines, avec une touche particulièrement innovante : les attaques prédictives.
+Dans les logiciels précédents, les algorithmes utilisés afin de contrer l’espionnage n’étaient pas suffisamment efficaces dans les situations de conversation en temps réel. En effet, les caractéristiques du signal sonore varient au moment où l'attaque est exécutée. Ces altérations rendent presque impossible pour une machine de suivre le rythme du discours d’une personne. L'enjeu majeur c’est l’optimisation et la rapidité. L’algorithme doit pouvoir prédire un changement de ton et de vitesse de la parole. L’humain est imprévisible, et la machine doit s’y préparer et s’adapter.
+« Notre algorithme parvient à empêcher un microphone malveillant de saisir correctement vos paroles dans 80 % des cas. Il fonctionne même lorsque nous ne savons rien du microphone malveillant, comme son emplacement ou même le logiciel qui l'utilise », décrit Mia Chiquier, professeure adjoint d’informatique première autrice de cette étude.
+Un bruit qui s'adapte à la prédiction
+Comment parvenir à cette performance ? En créant des « attaques prédictives ».  Il s’agit d’un signal diffusé à l’aide d’un ordinateur, constitué de fréquences hertziennes qui varient en fonction des caractéristiques vocales de l’orateur (à une fréquence autour de 16 kHz ; un son légèrement audible). L’algorithme apprend d'abord à ""reconnaître"" la parole humaine et prédit ce qui va suivre. Ensuite, il ne lui reste qu’à engendrer un modèle de bruit parfait, adapté à la prédiction, qui s'ajoute au discours à venir pour le rendre méconnaissable par un outil de reconnaissance automatique de la parole.
+Pour mettre en œuvre ce système d'attaques prédictives, l’outil utilise l’apprentissage profond (deep learning) : un réseau de neurones artificiels qui crée une base de données permettant de faire correspondre les mots et les fréquences. Ce système s'améliore au fil du temps avec la multiplication des données étudiées.
+Cet algorithme reste pour l’instant au stade de prototype : beaucoup de travail est encore nécessaire pour que cette méthode soit démocratisée et accessible à tous. Dans l’idéal, l’équipe souhaite que cette technologie soit étendue à d’autres langues que l’anglais, et que le système fonctionne comme une application à télécharger sur n’importe quel appareil électronique que l’on souhaite protéger.
+Néanmoins, cette étude montre aussi certaines problématiques éthiques : on en est amené à devoir créer un algorithme qui nous protège d’un autre algorithme. « C'est comme si nous étions heureux d'avoir enfin fabriqué une voiture, mais que nous avions oublié de concevoir un volant et un frein », explique Jianbo Shi, informaticien à l'université de Pennsylvanie, à Philadelphie (États-Unis). Il s’agit bien de la preuve d'un échec systémique de la réglementation contre la collecte effrénée de données à des fins de marketing ciblé. Même si ces systèmes anti-espionnage sont largement utilisés à l'avenir, d’autres personnes tenteront presque certainement d'ajuster leurs méthodes de reconnaissance pour surmonter les chuchotements perturbateurs ou inverser leur effet.
+par Odyssée Piettre
+ 
+Image d'ouverture : Sonogramme d'exemple utilisé par les chercheurs (crédit Mia Chiquier/Université Columbia).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmxhZG4uZXUvbW9uZGVzLWNyZWF0aWZzL2xlbWlzc2lvbi1ob3RlbC1kdS10ZW1wcy1yZXNzdXNjaXRlLWRhbGlkYS1ldC1wcmVmaWd1cmUtbGEtcmV2b2x1dGlvbi1kZWVwLWZha2Uv0gEA?oc=5,« Hôtel du Temps » : Le deepfake entre dans le PAF - L'ADN,2022-05-06,L'ADN,https://www.ladn.eu,"Derri&egrave;re la performance d'Ardisson, les studios Mac Guff. Son cofondateur raconte comment le deep fake bouleverse le job de cr&eacute;ateur d'image : &laquo; Les m&eacute;tiers sont en train de s&rsquo;inventer. C&rsquo;est un nouvel eldorado, une jungle. &raquo;",N/A,On a discuté progrès du deep learning dans le monde des effets spéciaux. L'impact pour l'industrie du divertissement est colossal. Entretien.,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+Mondes créatifs
+
+
+#cinéma
+
+
+#Intelligence artificielle
+
+
+#télévision
+
+
+
+L’émission « Hôtel du Temps » ressuscite Dalida, et préfigure la révolution deep fake
+
+
+                                        Par Lila Meghraoua - Le 6 mai 2022 
+
+
+
+
+
+© Mac Guff / Troisième Oeil Production / Mediawan / Thierry Ardisson
+
+
+
+
+Accueil > Mondes créatifs > L’émission « Hôtel du Temps » ressuscite Dalida, et préfigure la révolution deep fake 
+
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+flipboard
+
+ 
+
+
+
+
+
+
+
+Derrière la performance d'Ardisson, les studios Mac Guff. Son cofondateur raconte comment le deep fake bouleverse le job de créateur d'image : « Les métiers sont en train de s’inventer. C’est un nouvel eldorado, une jungle. » 
+Et si on faisait revivre les défunts grâce à l’intelligence artificielle… pour les interviewer ? C’est le pari incroyable qu’a relevé le 2 mai dernier pendant une heure et demie Thierry Ardisson avec son émission « Hôtel du Temps » en « ressuscitant » un monstre sacré de la chanson française, Dalida. Pour rendre la chose possible, l’animateur s’est offert les services de mastodontes de la recherche française, l’IRCAM pour la voix et les studios Mac Guff pour l’image. À sa tête, Rodolphe Chabrier, l’un des briscards de l’imagerie numérique et des VFX. Avec ses studios, il a accompagné Gaspar Noé, Mathieu Kassovitz, Jan Kounen ou Michel Ocelot – et on doit au deuxième studio Illumination Mac Guff, filiale d'Universal, le carton d’animation Moi, Moche et Méchant.
+Le coup de maître technologique qu’est l’émission « L’Hôtel du Temps » n’est pas le premier fait d’armes des studios. Derrière le rajeunissement des visages de Mathieu Amalric et d’Aleksey Gorbunov dans la série Le Bureau des Légendes, aucun maquillage, mais un outil de deep learning développé par Rodolphe Chabrier et son équipe, le « Face Engine ». Une technologie qui rebat les cartes de la discipline. « Demain, on pourrait faire danser quelqu’un qui danse comme un pied, aussi bien que Michael Jackson », s’amuse Rodolphe Chabrier. Alors l’imagerie numérique est morte, vive le deep learning ? La réponse n’est pas si simple. En revanche, c’est bel et bien une révolution ! Entretien.
+Votre studio est spécialiste de l'imagerie numérique. Depuis quand utilisez-vous l’intelligence artificielle ?
+Rodolphe Chabrier : On s’intéresse au deep learning depuis 2018. Je ne sais pas vous dire quand on a basculé. Mais oui, maintenant, l’intelligence artificielle est en train de bouleverser durablement le métier, c'est surtout un sujet à tiroirs. Nous avons choisi de la prendre par le travail sur les visages en développant un modèle d’intelligence artificielle que nous avons baptisé « Face Engine ». Ce travail a d’abord été visible par le grand public, dans la dernière saison du Bureau des Légendes – pour lequel nous avons reçu un César technique. (JJA et Karlov, les personnages incarnés par Mathieu Amalric et Aleksey Gorbunov jouent leur propre rôle, rajeunis de 30 ans par les effets de la baguette magique du modèle développé par Mac Guff, ndlr). Leurs visages burinés sont rajeunis par le procédé.
+
+
+
+Il s’agit d’un outil de réseaux dit GAN qui permet de manipuler les visages. Nous avons développé nos propres outils sur nos fonds propres et avec une aide du CNC. Grâce à la mondialisation de la connaissance et l’open source, « Face Engine » est un agrégé de plein de modèles IA mis à disposition par la communauté de la recherche en IA et de nos savoir-faire d’imagerie numérique, développés en plus de 35 ans d’existence. Je ne doute pas qu’on se fasse rattraper par la patrouille, mais pour l’instant, on dispose d’une certaine avance technologique et organisationnelle. Le vieux monde consistait à faire des films comme The Irish Man avec des technologies 3D hyper sophistiquées, lourdes et extrêmement coûteuses. (Dans le film, Al Pacino et Robert de Niro sont rajeunis, ndlr). Notre parti a été de faire la même chose, mais avec des outils à base de deep learning. La chance qu’on a eue est qu’un peu avant le début de la pandémie, Thierry Ardisson est venu nous voir avec son idée d’émission, qui a confirmé que notre approche était bonne.
+Au départ, votre intérêt pour l'IA n'intéressait pas grand monde ?
+Rodolphe Chabrier : C'était perçu comme notre danseuse, un « truc d’Internet » qui ne serait jamais exploitable en mode broadcast (diffusion standard en TV ou Netflix, par exemple, ndlr). Pourtant, même sur les smartphones apparaissaient des applications basées sur des modèles d’IA. Bien sûr, ce qui est produit sur ces formats n’est pas exploitable sur une production cinéma, mais cela indique une tendance. Avec mon associé Martial Vallanchon, on s'y est lancé à corps perdu. Avec le COVID quand tout s'est arrêté pendant les trois premiers mois, cela nous a permis d’avancer en continu.
+Je ne peux pas trop entrer dans les détails de fabrication. Nous n’avons pas simplement un logiciel, on appuie sur un bouton et c’est parti. C’est tout le problème de l’intelligence artificielle. Ce sont des boîtes noires, on ne contrôle rien mais nous avons des procédés pour avoir un minimum de leviers de contrôle et surtout, pour pouvoir réaliser des choses exploitables et cohérentes pour le « broadcast ». En revanche, ça nous a demandé de beaucoup investir. Les besoins de calcul des CPU (unités centrales de traitement) sont conséquents, mais ceux de GPU, donc de traitement graphique, sont colossaux.
+Sur l’émission « Hôtel du Temps » de Thierry Ardisson, vous avez littéralement ressuscité Dalida. L'image est sidérante de réalisme. Le deepfake est appliqué sur le visage ?
+Rodolphe Chabrier : Oui, dans « Hôtel du Temps », il y a une base de deepfake (technique de synthèse multimédia reposant sur l'intelligence artificielle qui peut servir à superposer des fichiers vidéo ou audio existants sur d'autres fichiers vidéo ou audio, ndlr). Mais ce n’était pas si simple. Les modèles d’IA ont besoin de datasets conséquents. Pour obtenir un rendu très réaliste, c’est simple lorsqu’on dispose de quantité de sources d’images, de centaines d’heures d’images en 4K. Pour le projet, on parle de sources qui ont 50, 60 ans ; on a dû faire tout un travail de traitement en amont pour que les éléments dont on dispose soient compatibles avec les outils de deep learning. Et je ne parle pas là seulement de travail sur les pixels pour que les images deviennent exploitables, mais aussi sur ce qui fait un bon dataset, de quoi avons-nous besoin…
+
+
+
+Et concernant la question sur le fait qu’il s’agit d’un travail sur le visage, oui, pour l’instant, avec « Face Engine », l’IA agit sur le visage (à partir d’images issues d’un tournage avec l’animateur et une comédienne qui incarne Dalida et qui a appris la gestuelle de l’artiste, ndlr). Mais on travaille déjà à étendre le procédé au corps (Body Engine), et même à l’environnement (Global Engine). On voit déjà quelques séquences de jeu vidéo circuler : elles ont été passées dans des modèles IA, nourris de bases de données de la Ville de Paris. Le rendu est parfaitement réaliste. Demain, on pourrait faire danser quelqu’un qui danse comme un pied aussi bien que Michael Jackson. Ou récupérer toutes les données d’un James Dean et faire marcher un comédien comme lui en le passant à la moulinette de l’intelligence artificielle. Ce demain, c’est dans deux à trois ans. Et à plus long terme, on pourrait imaginer ne plus avoir de comédien du tout et avoir un personnage virtuel avec la gueule et la démarche de James Dean. Bon, ça demandera évidemment des moyens encore plus colossaux…
+ 
+En fait, ce qui est intéressant avec l’intelligence artificielle, c’est qu’on ne crée plus des objets. On crée des machines à créer des objets sur la base de règles. Il faut comprendre ces modèles au sens de modèles mathématiques ou climatiques, si vous voulez.
+Un peu comme un système d’exploitation ?
+Rodolphe Chabrier : Pas tout à fait. Ce ne sont pas des objets en soi, mais des modèles capables de comprendre le monde. « Face Engine » comprend ce qu’est un visage, par exemple. Pour le concevoir, on le nourrit de données, mais surtout, on doit l’entraîner. Plus qu’un entraînement, on doit l’éduquer. Tout comme lorsqu’on éduque des enfants, une mauvaise éducation les rendra malpolis ou bourrés de préjugés. C’est la même chose. On peut difficilement revenir en arrière avec un modèle d’IA ou bien il faut recommencer quasi à zéro, tant le nombre d’itérations est conséquent. Des millions de boucles se font. Ça peut prendre des heures, des jours, voire des semaines avant d’avoir un résultat détectable. Et on doit avoir l’œil pour comprendre si la voie prise est la bonne ou pas, pour mieux corriger le tir.
+Mais est-ce compatible avec les temps de production très serrés d’une émission de télé ou d’un film ?
+Rodolphe Chabrier : Au contraire ! C’est archi compatible. La preuve, on a réalisé plus d’une heure d’effets visuels pour l’émission de Thierry Ardisson. Ce qui prend du temps est la fabrication du modèle. Une fois qu’il est conçu, c’est facile de faire de la durée à une vitesse colossale. D’ordinaire, nous parlons de « secondes produites ». Un graphiste qui est seul à travailler sur une heure d’effets visuels mettrait un an. Une fois le modèle en place, on peut entrer 10 minutes et avoir le lendemain, un premier résultat. Je grossis le trait, évidemment. Mais ça change tout. Dans le cas du travail sur un visage, ça signifie qu’on peut commencer à travailler avant même le tournage ou la validation des plans.
+C’est un nouveau métier pour vous ?
+Rodolphe Chabrier : Les métiers sont en train de s’inventer. C’est un nouvel eldorado, une jungle. J’ai le sentiment de me retrouver 35 ans en arrière quand on faisait de la 3D avec des PC. On aura besoin de spécialistes des données, qui savent comment les récupérer, les traiter, les améliorer ; de graphistes ; de développeurs de ces outils, mais aussi d’opérateurs de calcul en IA qui seront des éducateurs, en fait, d’IA, capables d’observer et de rectifier. Quant à moi, je me vois un peu comme un chef cuisto qui aurait une brigade de multiples talents qui ont l’intelligence de traitement, de gestion de calcul, d’intégration de données. Je suggère qu’on prenne tel élément, qu’on le passe au four, puis à l’eau glacée ou au sèche-cheveux, et on voit si ça a fonctionné ou pas. Il y a quelque chose de très organique dans la manière dont ça fonctionne. Une fois qu’on a trouvé la recette, le modèle est trouvé. L’art, c’est de créer le modèle d’IA.
+
+
+
+
+Lila Meghraoua 
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+flipboard
+
+ 
+
+
+
+
+",http://schema.org/,Article,https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/,"L&rsquo;&eacute;mission &laquo;&amp;nbsp;H&ocirc;tel du Temps&amp;nbsp;&raquo; ressuscite Dalida, et pr&eacute;figure la r&eacute;volution deep fake","{'@type': 'ImageObject', 'url': 'https://www.ladn.eu/wp-content/uploads/2022/05/626a87fb2600000e088a749d-e1651672034156.jpeg', 'height': '763px', 'width': '1670px'}","{'@type': 'Person', 'name': 'Lila Meghraoua', 'url': 'https://www.ladn.eu/author/lilaladn-eu/'}","{'@type': 'Organization', 'name': ""L'ADN"", 'logo': {'@type': 'ImageObject', 'url': 'https://www.ladn.eu/wp-content/themes/ladn/assets/gfx/logo-adn.jpg', 'height': '77px', 'width': '275px'}, 'url': 'https://www.ladn.eu/', 'sameAs': ['https://twitter.com/ladn_eu', 'https://fr-fr.facebook.com/ladn.eu', 'https://www.linkedin.com/company/9424705']}",2022-05-06T14:38:53+02:00,2022-11-23T11:49:50+01:00,,,"[{'@type': 'Organization', '@id': 'https://www.ladn.eu/#organization', 'name': ""L'ADN Groupe"", 'url': 'https://www.ladn.eu/', 'sameAs': ['https://www.facebook.com/ladn.eu', 'https://www.instagram.com/ladneu/', ""https://www.linkedin.com/company/9424705?trk=tyah&amp;amp;amp;amp;amp;amp;trkInfo=clickedVertical:company,clickedEntityId:9424705,idx:1-1-1,tarId:1466001973653,tas:l'adn"", 'https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A', 'https://twitter.com/LADN_EU'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/#logo', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2021/09/logo-LADN-bleu-270x73-1.jpg', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2021/09/logo-LADN-bleu-270x73-1.jpg', 'width': 270, 'height': 73, 'caption': ""L'ADN Groupe""}, 'image': {'@id': 'https://www.ladn.eu/#logo'}}, {'@type': 'WebSite', '@id': 'https://www.ladn.eu/#website', 'url': 'https://www.ladn.eu/', 'name': 'L&#039;ADN', 'description': 'TENDANCES &amp; MUTATIONS', 'publisher': {'@id': 'https://www.ladn.eu/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://www.ladn.eu/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#primaryimage', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2022/05/626a87fb2600000e088a749d-e1651672034156.jpeg', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2022/05/626a87fb2600000e088a749d-e1651672034156.jpeg', 'width': 1670, 'height': 763, 'caption': 'Mac Guff / Troisième Oeil Production / Mediawan / Thierry Ardisson'}, {'@type': 'WebPage', '@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#webpage', 'url': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/', 'name': '« Hôtel du Temps » : Le deepfake entre dans le PAF', 'isPartOf': {'@id': 'https://www.ladn.eu/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#primaryimage'}, 'datePublished': '2022-05-06T12:38:53+00:00', 'dateModified': '2022-11-23T10:49:50+00:00', 'description': ""On a discuté progrès du deep learning dans le monde des effets spéciaux. L'impact pour l'industrie du divertissement est colossal. Entretien."", 'breadcrumb': {'@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/', 'url': 'https://www.ladn.eu/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/mondes-creatifs/', 'url': 'https://www.ladn.eu/mondes-creatifs/', 'name': 'Mondes créatifs'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/', 'url': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/', 'name': 'L’émission «&nbsp;Hôtel du Temps&nbsp;» ressuscite Dalida, et préfigure la révolution deep fake'}}]}, {'@type': 'Article', '@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#article', 'isPartOf': {'@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#webpage'}, 'author': {'@id': 'https://www.ladn.eu/#/schema/person/24c630664622bfd41bb316410a63a562'}, 'headline': 'L’émission «&nbsp;Hôtel du Temps&nbsp;» ressuscite Dalida, et préfigure la révolution deep fake', 'datePublished': '2022-05-06T12:38:53+00:00', 'dateModified': '2022-11-23T10:49:50+00:00', 'mainEntityOfPage': {'@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#webpage'}, 'commentCount': 1, 'publisher': {'@id': 'https://www.ladn.eu/#organization'}, 'image': {'@id': 'https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#primaryimage'}, 'keywords': 'cinéma,Intelligence artificielle,télévision', 'articleSection': 'Mondes créatifs', 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.ladn.eu/mondes-creatifs/lemission-hotel-du-temps-ressuscite-dalida-et-prefigure-la-revolution-deep-fake/#respond']}]}, {'@type': 'Person', '@id': 'https://www.ladn.eu/#/schema/person/24c630664622bfd41bb316410a63a562', 'name': 'Lila Meghraoua', 'image': {'@type': 'ImageObject', '@id': 'https://www.ladn.eu/#personlogo', 'inLanguage': 'fr-FR', 'url': 'https://www.ladn.eu/wp-content/uploads/2023/02/empty-120x120.png', 'contentUrl': 'https://www.ladn.eu/wp-content/uploads/2023/02/empty-120x120.png', 'caption': 'Lila Meghraoua'}}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnBsYW5ldGVncmFuZGVzZWNvbGVzLmNvbS90cmFuc3ZhbG9yLWNlbnRyYWxlc3VwZWxlYy1wYXJ0ZW5hcmlhdC1pbmVkaXQtYXV0b3VyLWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGXSAQA?oc=5,"Transvalor et CentraleSupélec, un partenariat inédit autour de l'Intelligence Artificielle - Planete Grandes Ecoles",2022-05-06,Planete Grandes Ecoles,https://www.planetegrandesecoles.com,"Transvalor et CentraleSupélec, un partenariat inédit autour de l’Intelligence Artificielle",N/A,CentraleSupélec et Transvalor s'allient pour révolutionner le monde industriel à travers des recherches autour de l'IA et ses applications.,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+ACTU ÉCOLES
+
+ÉCOLES D'INGÉNIEURS
+
+INTELLIGENCE ARTIFICIELLE
+ 
+Orphé Bignoumba
+
+                        6 mai 2022 
+
+		Transvalor et CentraleSupélec, un partenariat inédit autour de l’Intelligence Artificielle 
+    
+
+
+
+
+
+
+
+
+
+
+
+Courant Mars, Transvalor, leader de la simulation de mise en forme des matériaux et CentraleSupélec, école d’ingénieur d’excellence, se sont alliés pour créer une chaire industrielle dédiée à l’intelligence artificielle.La volonté des deux parties est d’explorer ensemble toutes les possibilités que peuvent offrir l’IA couplée à la simulation numérique afin d’innover dans le secteur de l’industrie. Lire plus :  Summer Camp CentraleSupélec : une édition 2022 sur fond de diversité  Explorer l’IA dans son ensembleVouloir explorer l’IA, c’est comme vouloir explorer l’immensité de l’espace, c’est une tâche qui ouvre des possibilités quasi-infinies d’application.Appliqué à la modélisation industrielle, cette exploration est permise grâce à la conjonction de 3 facteurs :La richesse et la variété de donnéesLa puissance des algorithmesUne capacité de calcul augmentéePour cela, des outils comme le machine learning ou la data permettent de réduire drastiquement la quantité de déchets produite ou encore gagner en efficience énergétique dans les processus de fabrication. L’IA peut donc être un moyen de rendre nos industries moins polluantes et de créer un cercle vertueux. Une coopération inéditeAvec ces 1700 chercheurs en IA, le Hub IA de CentraleSupélec est un pôle de recherche important. Il est partenaire avec Mila, l’un des plus grands centres américains en IA de l’université de MCGill de Montréal.Côté CentraleSupélec, Emmanuel Vasquez, Frédéric Magoulès et Francesca Bugiotti sont engagés directement dans ce partenariat. Frédéric Pascal (directeur adjoint de l’institut DATAIA de l’université Paris-Saclay) est également engagé dans cette collaboration scientifique inédite. « Avec le CEMEF et DATAIA, deux leaders scientifiques et technologiques fortement complémentaires, Transvalor est fier d’ouvrir de nouvelles voies pour ses logiciels de « material simulation ». Ainsi, notre coopération historique en sciences des matériaux avec l’Ecole des Mines de Paris s’enrichit à travers ce nouveau et puissant partenariat avec le leader de l’IA Industrie 4.0 en France, explique Robert Brunck, président de Transvalor.C’est l’expression de notre ambition pour servir nos clients fortement engagés dans leur transition numérique ».« Nous devons constamment être à la pointe de l’innovation en matière de simulation numérique pour apporter des solutions à nos clients : gagner du temps et optimiser les process de mise en forme des matériaux, précise Stéphane Heitz, directeur général de Transvalor. À leurs côtés, comme Safran, nous renforçons notre expertise technologique et créons des ponts entre les chercheurs de notre partenaire académique historique le CEMEF comme le professeur Elie Hachem et ceux de CentraleSupélec. » Ce projet allie chercheurs, doctorants, étudiants et plusieurs ingénieurs de Transvalor sur des axes scientifiques et spécifiques. Ce partenariat s’inscrit parfaitement dans la dynamique de France 2030, qui prévoit de soutenir significativement la recherche publique autour de l’IA. L’innovation au cœur de ce partenariat inéditCe rapprochement entre CentraleSupélec et Transvalor se matérialise par une recherche transversale et le développement de moyens pédagogiques innovants.Ce partenariat s’axe autour de deux axes de travail.Un programme de recherche inéditL’expertise avancée de CentraleSupélec en matière d’IA entérine une collaboration historique, favorise l’accélération de la recherche appliquée au secteur industriel et augure des perspectives durables avec Transvalor. Cette synergie des compétences respectives constitue ainsi une opportunité majeure pour l’Industrie du futur et s’inscrit pleinement dans le plan France 2030, initié fin 2021 par le Président de la République. Un programme pédagogique autour de l’IAEn complément de ce contrat de préfiguration, CS Exed, filiale de CentraleSupélec dédiée à la formation continue, formera à l’IA l’ensemble des collaborateurs de Transvalor, participant aux projets de recherche collaborative. Lire plus : L’intelligence artificielle, une solution viable ?  
+
+
+
+
+
+
+Orphé BignoumbaRédacteur en chef adjoint pour Planète Grandes Ecoles et Mister Prépa. J'aime écrire et si vous me lisez c'est que vous êtes au bon endroit :)
+
+
+
+
+
+
+
+  PARTAGER 
+
+
+
+
+
+
+
+ 
+ 
+ 
+",https://schema.org,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#article', 'isPartOf': {'@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle'}, 'author': {'name': 'Orphé Bignoumba', '@id': 'https://www.planetegrandesecoles.com/#/schema/person/0efa4bd99f82bc664f0e40d4d682f70b'}, 'headline': 'Transvalor et CentraleSupélec, un partenariat inédit autour de l’Intelligence Artificielle', 'datePublished': '2022-05-06T08:00:24+00:00', 'dateModified': '2022-05-05T15:04:52+00:00', 'mainEntityOfPage': {'@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle'}, 'wordCount': 692, 'publisher': {'@id': 'https://www.planetegrandesecoles.com/#organization'}, 'image': {'@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#primaryimage'}, 'thumbnailUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/05/Transvalor-et-CentraleSupelec-un-partenariat-inedit-autour-de-lIntelligence-Artificielle.jpg', 'articleSection': ['ACTU ÉCOLES', ""ÉCOLES D'INGÉNIEURS"", 'INTELLIGENCE ARTIFICIELLE'], 'inLanguage': 'fr-FR'}, {'@type': 'WebPage', '@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle', 'url': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle', 'name': 'Transvalor et CentraleSupélec, un partenariat inédit autour de l’Intelligence Artificielle - PGE', 'isPartOf': {'@id': 'https://www.planetegrandesecoles.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#primaryimage'}, 'image': {'@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#primaryimage'}, 'thumbnailUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/05/Transvalor-et-CentraleSupelec-un-partenariat-inedit-autour-de-lIntelligence-Artificielle.jpg', 'datePublished': '2022-05-06T08:00:24+00:00', 'dateModified': '2022-05-05T15:04:52+00:00', 'description': ""CentraleSupélec et Transvalor s'allient pour révolutionner le monde industriel à travers des recherches autour de l'IA et ses applications."", 'breadcrumb': {'@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#primaryimage', 'url': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/05/Transvalor-et-CentraleSupelec-un-partenariat-inedit-autour-de-lIntelligence-Artificielle.jpg', 'contentUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/05/Transvalor-et-CentraleSupelec-un-partenariat-inedit-autour-de-lIntelligence-Artificielle.jpg', 'width': 1000, 'height': 522}, {'@type': 'BreadcrumbList', '@id': 'https://www.planetegrandesecoles.com/transvalor-centralesupelec-partenariat-inedit-autour-intelligence-artificielle#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.planetegrandesecoles.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Transvalor et CentraleSupélec, un partenariat inédit autour de l’Intelligence Artificielle'}]}, {'@type': 'WebSite', '@id': 'https://www.planetegrandesecoles.com/#website', 'url': 'https://www.planetegrandesecoles.com/', 'name': 'Planète Grandes Écoles', 'description': 'Agence Média Grandes Écoles &amp; Marque Employeur', 'publisher': {'@id': 'https://www.planetegrandesecoles.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.planetegrandesecoles.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.planetegrandesecoles.com/#organization', 'name': 'planetegrandesecoles', 'url': 'https://www.planetegrandesecoles.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.planetegrandesecoles.com/#/schema/logo/image/', 'url': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/01/logo-planete-grandes-ecoles-1.png', 'contentUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/01/logo-planete-grandes-ecoles-1.png', 'width': 180, 'height': 90, 'caption': 'planetegrandesecoles'}, 'image': {'@id': 'https://www.planetegrandesecoles.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/PlaneteGE', 'https://x.com/PlaneteGe', 'https://www.instagram.com/planete_ge/', 'https://www.linkedin.com/company/planète-grandes-écoles/']}, {'@type': 'Person', '@id': 'https://www.planetegrandesecoles.com/#/schema/person/0efa4bd99f82bc664f0e40d4d682f70b', 'name': 'Orphé Bignoumba', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.planetegrandesecoles.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/d6f82352bd91655b003a8ad10373aabd?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/d6f82352bd91655b003a8ad10373aabd?s=96&d=mm&r=g', 'caption': 'Orphé Bignoumba'}, 'description': ""Rédacteur en chef adjoint pour Planète Grandes Ecoles et Mister Prépa. J'aime écrire et si vous me lisez c'est que vous êtes au bon endroit :)"", 'url': 'https://www.planetegrandesecoles.com/equipe/orphebignoumba'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMijwFodHRwczovL2l0c29jaWFsLmZyL2NvbnRlbnVzL2FydGljbGVzLWRlY2lkZXVycy9sZXMtaW5nZW5pZXVycy1sb2dpY2llbHMtYWltZXJhaWVudC1hdm9pci1wbHVzLWRlLXRlbXBzLXBvdXItZGVzLXRhY2hlcy1hLWZvcnRlLXZhbGV1ci1ham91dGVlL9IBAA?oc=5,Les ingénieurs logiciels aimeraient avoir plus de temps pour des taches à forte valeur ajoutée - IT SOCIAL - IT Social,2022-05-06,IT Social,https://itsocial.fr,N/A,N/A,Un rapport réalisé par Retool and Wakefield a permis de découvrir comment les ingénieurs gagnent du temps et augmentent leur productivité. Mais il met aussi en avant les pertes de temps. À quoi les ingénieurs logiciels consacrent-ils leur temps ? Avec une pénurie de talents qui n’a jamais été aussi importante et des changements non négligeables […],N/A,N/A,N/A,"
+
+
+
+Production  DevOps / DevSecOps  Les ingénieurs logiciels aimeraient avoir plus de temps pour des taches à...
+CONTENUSARTICLESProductionDevOps / DevSecOpsMétiersRessources Humaines
+
+Les ingénieurs logiciels aimeraient avoir plus de temps pour des taches à forte valeur ajoutée
+
+Par Philippe Richard -   06/05/2022 
+
+
+
+ 
+
+
+
+
+
+   
+Un rapport réalisé par Retool and Wakefield a permis de découvrir comment les ingénieurs gagnent du temps et augmentent leur productivité. Mais il met aussi en avant les pertes de temps.
+
+
+À quoi les ingénieurs logiciels consacrent-ils leur temps ? Avec une pénurie de talents qui n’a jamais été aussi importante et des changements non négligeables dans le lieu et la manière de travailler, tout le monde veut savoir si les ingénieurs sont satisfaits de leur travail.
+
+
+Pour avoir une idée plus précise, le cabinet d’analystes Retool and Wakefield a posé des questions à environ 600 ingénieurs en logiciel, comprenant à la fois des CI et des managers.
+
+
+
+
+
+Les ingénieurs partagent leur temps entre les responsabilités de codage de base, les processus de communication, les tests complexes et même l’aide à l’embauche, ce qui ne leur laisse qu’environ 10 heures de « travail approfondi » par semaine. Sans parler des mises à jour des bibliothèques qui ne sont pas faites en temps et en heure…
+
+
+Pour gagner du temps, ces professionnels se tournent plus que jamais vers l’open source. Près de 90 % des ingénieurs interrogés considèrent qui est essentiel à leur travail quotidien. Plus de 80 % des développeurs l’intègrent activement dans leur travail (via StackOverflow ou autre) au moins une fois par mois, et près de 50 % le font au moins une fois par semaine.
+
+
+
+
+
+Les responsabilités autres que le codage occupe également le temps des ingénieurs. Et plus d’un tiers d’entre eux disent qu’ils préféreraient consacrer moins de temps au recrutement et aux entretiens.
+
+
+L’élément humain de l’ingénierie collaborative est un autre problème. Il faut presque une semaine entière pour qu’un code passe de la conception à la production. Obtenir un simple retour d’information est tout aussi difficile : 57 % des développeurs affirment qu’il faut plus de quatre heures pour qu’une demande d’extraction soit examinée, et 26 % disent qu’il faut plus d’une journée.
+
+
+Le manque de clarté dans la répartition des responsabilités peut également ralentir les processus. Plus d’un tiers de ces professionnels affirment que la détermination de l’identité exacte du propriétaire d’un morceau de code - et le besoin connexe d’acquérir le contexte - peut prendre plus d’une journée de travail.
+
+
+Le télétravail n’a pas la cote
+
+
+Au fur et à mesure que ces processus de construction se complexifient, notamment avec l’augmentation du nombre de tests, les ingénieurs logiciels passent une plus grande partie de leur temps à attendre sur les machines.
+
+
+Les requêtes SQL prennent beaucoup de temps à s’exécuter sur de grandes tables, les synchronisations de bases de données sont lentes et la construction d’un dépôt monolithique peut prendre 20 minutes : tout cela réduit un temps précieux.
+
+
+Contrairement à l’idée reçue selon laquelle la plupart des employés veulent continuer à travailler à domicile, de nombreux ingénieurs logiciels préfèrent travailler au bureau.
+
+
+Les ingénieurs interrogés n’ont généralement pas constaté d’augmentation de la productivité en travaillant à domicile, et 68 % de ceux travaillant dans des entreprises ayant une politique de travail entièrement au bureau se sentent plus productifs en travaillant sur place.
+    
+
+
+MOTS CLESdataopen sourceSQLtélétravail 
+Philippe RichardJournaliste et reporter IT  
+ARTICLES SIMILAIRESPLUS DE L'AUTEUR
+
+
+
+
+ 
+
+Le marché noir de la cybercriminalité : une maturité alarmante 
+
+ 
+
+
+
+ 
+
+Le marketing et l’IA, oui, mais avec de l’éthique 
+
+ 
+
+
+
+ 
+
+Les applications restent toujours dans le collimateur des pirates 
+
+ 
+
+
+
+
+ 
+
+Trois domaines dans lesquels la GenAI devrait avoir le plus d’impact 
+
+ 
+
+
+
+ 
+
+La responsabilité écrasante des dirigeants sur les impacts d’lA 
+
+ 
+
+
+
+ 
+
+Les attaques se multiplient, mais les entreprises ne sont pas prêtes 
+
+ 
+
+
+
+
+ 
+
+NIS2 en approche : quelles mesures doivent être prises par les entités concernées ? 
+
+ 
+
+
+
+ 
+
+DPO : une profession en expansion, mais les profils non spécialistes fragilisent les entreprises 
+
+ 
+
+
+
+ 
+
+Intelligence artificielle : les Français restent méfiants 
+
+  
+
+ 
+
+
+
+
+Les vidéos Tech les plus waouh 
+Suivre sur LinkedIn✉️ Newsletter quotidienne
+	Recevez notre newsletter quotidienne comme 40,000 décideurs IT  et digital : articles de fond, actualités, interviews, tribunes... 
+
+
+Conférence | On Demand 
+
+
+
+Infographie – Zero Trust 
+
+
+Derniers articles de fond
+
+
+
+
+Le marché noir de la cybercriminalité : une maturité alarmante 
+Cyberécurité - Articles 09/07/2024 
+
+
+ 
+
+
+
+
+Le marketing et l’IA, oui, mais avec de l’éthique 
+Intelligence Artificielle - Articles 09/07/2024 
+
+
+ 
+
+
+
+
+Les applications restent toujours dans le collimateur des pirates 
+Cyberécurité - Articles 08/07/2024 
+
+
+ 
+
+
+
+
+Trois domaines dans lesquels la GenAI devrait avoir le plus d’impact 
+Articles Orange Business 08/07/2024 
+
+
+ 
+
+
+
+
+La responsabilité écrasante des dirigeants sur les impacts d’lA 
+Articles Orange Business 05/07/2024 
+
+
+ Charger plus Derniers livres blancs
+
+
+
+
+Tirez parti de toute la puissance de l’IA pour les vendeurs 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Stimulez l’innovation avec Microsoft Power Platform et l’IA 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Accélérez votre chiffre d’affaires avec Microsoft Dynamics 365 Sales 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Pourquoi votre stratégie de tests end-to-end échoue ? 
+Logiciel & Agilité - Livres blancs 19/06/2024 
+
+
+ 
+
+
+
+
+Groupe Mane : Privileged Remote Access garantit la sécurité et la... 
+Cyberécurité - Livres blancs 19/06/2024 
+
+
+ Charger plus Dernières actualités
+
+
+
+
+GitGuardian Confidence Scorer mêle probabilisme et déterminisme pour déceler les secrets... 
+Cyberécurité - Actualités 09/07/2024 
+
+
+ 
+
+
+
+
+Yext Listings Recommendations permet aux marques d’optimiser leur visibilité au quotidien 
+Intelligence Artificielle - Actualités 09/07/2024 
+
+
+ 
+
+
+
+
+Getac S510, un PC portable durci et AI-Ready 
+Intelligence Artificielle - Actualités 08/07/2024 
+
+
+ 
+
+
+
+
+Playground d’Elastic, une interface low code pour intégrer les LLM avec... 
+Intelligence Artificielle - Actualités 05/07/2024 
+
+
+ 
+
+
+
+
+DeepBrand Clustering de Check Point s’attaque à l’usurpation de marque 
+Cyberécurité - Actualités 04/07/2024 
+
+
+ Charger plus Social Attitude 
+
+ 
+",http://schema.org,BreadcrumbList,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://itsocial.fr/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://itsocial.fr/category/enjeux-it/enjeux-production/', 'name': 'Production'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://itsocial.fr/category/enjeux-it/enjeux-production/devops-devsecops/', 'name': 'DevOps / DevSecOps'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/', 'name': 'Les ingénieurs logiciels aimeraient avoir plus de temps pour des taches à...'}}]",,"[{'@type': 'WebPage', '@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/', 'url': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/', 'name': 'Les ingénieurs logiciels aimeraient avoir plus de temps pour des taches à forte valeur ajoutée - IT SOCIAL', 'isPartOf': {'@id': 'https://itsocial.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/#primaryimage'}, 'image': {'@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/#primaryimage'}, 'thumbnailUrl': 'https://itsocial.fr/wp-content/uploads/2022/05/1_3_mx23ClCiZ85Ka1nipvZQ.png', 'datePublished': '2022-05-06T13:00:00+00:00', 'dateModified': '2024-07-08T11:58:41+00:00', 'author': {'@id': 'https://itsocial.fr/#/schema/person/be2d3bcb4a25e26f96c4092a9d06449a'}, 'breadcrumb': {'@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/#primaryimage', 'url': 'https://itsocial.fr/wp-content/uploads/2022/05/1_3_mx23ClCiZ85Ka1nipvZQ.png', 'contentUrl': 'https://itsocial.fr/wp-content/uploads/2022/05/1_3_mx23ClCiZ85Ka1nipvZQ.png', 'width': 1000, 'height': 547}, {'@type': 'BreadcrumbList', '@id': 'https://itsocial.fr/enjeux-it/enjeux-production/devops-devsecops/les-ingenieurs-logiciels-aimeraient-avoir-plus-de-temps-pour-des-taches-a-forte-valeur-ajoutee/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://itsocial.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Les ingénieurs logiciels aimeraient avoir plus de temps pour des taches à forte valeur ajoutée'}]}, {'@type': 'WebSite', '@id': 'https://itsocial.fr/#website', 'url': 'https://itsocial.fr/', 'name': 'IT SOCIAL', 'description': 'Média IT, Tech et Innovation', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://itsocial.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://itsocial.fr/#/schema/person/be2d3bcb4a25e26f96c4092a9d06449a', 'name': 'Philippe Richard', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://itsocial.fr/#/schema/person/image/', 'url': 'https://itsocial.fr/wp-content/uploads/avatars/633/63d7c51fe70fd-bpfull.png', 'contentUrl': 'https://itsocial.fr/wp-content/uploads/avatars/633/63d7c51fe70fd-bpfull.png', 'caption': 'Philippe Richard'}, 'description': 'Journaliste et reporter IT'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiugFodHRwczovL2ZyYW5jZTMtcmVnaW9ucy5mcmFuY2V0dmluZm8uZnIvYnJldGFnbmUvaWxsZS1ldC12aWxhaW5lL3Jlbm5lcy9lbnF1ZXRlLWV4Y2x1c2l2ZS1tYWxhaXNlLWF1eC1pbXBvdHMtZGFucy1sZXMtY2VudHJlcy1kZXMtZmluYW5jZXMtcHVibGlxdWVzLWwtaHVtYWluLXBlcmQtZHUtdGVycmFpbi0yNTI5NTkyLmh0bWzSAQA?oc=5,"ENQUÊTE EXCLUSIVE. Malaise aux Impôts : dans les centres des Finances publiques, l'humain perd du terrain - France 3 Régions",2022-05-02,France 3 Régions,https://france3-regions.francetvinfo.fr,"Les contribuables ne sont pas tous égaux devant leur déclaration d'impôt. Certains ont les moyens de se faire aider par un avocat fiscaliste, quand d'autres doivent se tourner vers le service des impôts, une administration...",N/A,"Les contribuables ne sont pas tous égaux devant leur déclaration d'impôt. Certains ont les moyens de se faire aider par un avocat fiscaliste, quand d'autres doivent se tourner vers le service des impôts, une administration...","Les contribuables ne sont pas tous égaux devant leur déclaration d'impôt. Certains ont les moyens de se faire aider par un avocat fiscaliste, quand d'autres doivent se tourner vers le service des impôts, une administration...",N/A,N/A,N/A,http://schema.org/,NewsArticle,https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/enquete-exclusive-malaise-aux-impots-dans-les-centres-des-finances-publiques-l-humain-perd-du-terrain-2529592.html,"ENQUÊTE EXCLUSIVE. Malaise aux Impôts : dans les centres des Finances publiques, l'humain perd du terrain","[{'@type': 'ImageObject', 'url': 'https://france3-regions.francetvinfo.fr/image/ENzn9CJI8hKSvt5fPd3pGeCIRZg/930x620/regions/2022/04/26/6267fefff2469_illustration-principale-def.png', 'width': 930, 'height': 620, 'name': ""Finances Publiques : la machine s'enraye, les contribuables trinquent"", 'author': 'Charly Utecht'}, {'@type': 'ImageObject', 'url': 'https://france3-regions.francetvinfo.fr/image/cudqVtvGvUm77JdL23_R4eY54Qo/1200x675/regions/2022/04/26/6267fefff2469_illustration-principale-def.png', 'width': 1200, 'height': 675, 'name': ""Finances Publiques : la machine s'enraye, les contribuables trinquent"", 'author': 'Charly Utecht'}, {'@type': 'ImageObject', 'url': 'https://france3-regions.francetvinfo.fr/image/LdP2QLXObngoPQoYhhlR8oHhFgo/1200x900/regions/2022/04/26/6267fefff2469_illustration-principale-def.png', 'width': 1200, 'height': 900, 'name': ""Finances Publiques : la machine s'enraye, les contribuables trinquent"", 'author': 'Charly Utecht'}, {'@type': 'ImageObject', 'url': 'https://france3-regions.francetvinfo.fr/image/xXEzVk5q_9txXRvtTf_J_sgqRXc/1200x1200/regions/2022/04/26/6267fefff2469_illustration-principale-def.png', 'width': 1200, 'height': 1200, 'name': ""Finances Publiques : la machine s'enraye, les contribuables trinquent"", 'author': 'Charly Utecht'}]","{'@type': 'Person', 'name': 'Scandola Graziani et Théophile Steiner, Master de journalisme de Sciences po Rennes'}","{'@type': 'Organization', 'name': 'France 3 Bretagne', 'logo': {'@type': 'ImageObject', 'url': '/assets/img/logos/logo.png', 'width': 48, 'height': 75}}",2022-05-02T05:30:01+02:00,2022-05-09T11:59:10+02:00,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://france3-regions.francetvinfo.fr/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://france3-regions.francetvinfo.fr/bretagne/', 'name': 'Bretagne'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine', 'name': 'Ille-et-Vilaine'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes', 'name': 'Rennes'}}, {'@type': 'ListItem', 'position': 5, 'item': {'@id': '', 'name': 'ENQUÊTE EXCLUSIVE. Malaise aux Impôts : dans les centres des Finances publiques, l&#039;humain perd du terrain'}}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5mci9tZWRpYXMvYXJ0aWNsZS9kZXJyaWVyZS1sLWhvdGVsLWR1LXRlbXBzLWQtYXJkaXNzb24tbGVzLWNyZWF0ZXVycy1kZS1tb2ktbW9jaGUtZXQtbWVjaGFudF8xOTYwMjcuaHRtbNIBAA?oc=5,"""L'Hôtel du Temps” d'Ardisson, doit beaucoup au studio du 1er ""Moi, Moche et Méchant"" - Le HuffPost",2022-05-02,Le HuffPost,https://www.huffingtonpost.fr,Le studio français Mac Guff a réalisé les effets visuels de l'émission qui va redonner vie à Dalida grâce à l'intelligence artificielle.,"Télévision, France 3, Intelligence artificielle (IA), Thierry Ardisson, Médias",Le studio français Mac Guff a réalisé les effets visuels de l'émission qui va redonner vie à Dalida grâce à l'intelligence artificielle.,Le studio français Mac Guff a réalisé les effets visuels de l'émission qui va redonner vie à Dalida grâce à l'intelligence artificielle.,N/A,N/A,"     Médias  02/05/2022 19:30   Derrière ""L'Hôtel du Temps” d’Ardisson, les créateurs de ""Moi, Moche et Méchant"" Le studio français Mac Guff a réalisé les effets visuels de l'émission qui va redonner vie à Dalida grâce à l'intelligence artificielle.                  Par Clément Vaillant                      STUDIO MAC GUFF - 3E OEIL PRODUCTION / FRANCE 3 L'actrice Julie Chevallier, qui incarne Dalida, avant et après l'usage du ""face engine"" pour reproduire le visage de la chanteuse.   STUDIO MAC GUFF - 3E OEIL PRODUCTION / FRANCE 3  TÉLÉVISION - Retour dans le passé ce lundi 2 mai à 21h00 sur France 3. Thierry Ardisson présente L’Hôtel du Temps, un OVNI télévisuel dans lequel il va voyager dans le temps... pour interviewer des personnalités décédées, grâce à l’intelligence artificielle. Une prouesse rendue possible grâce à la société française Mac Guff. Ce studio fondé en 1986 est à l’origine du tout premier Moi, moche et méchant, sorti en 2010. Pour L’Hôtel du Temps, il a eu recours au “Face Engine” (ou deepfake). Un procédé développé en interne qui vise à collecter des centaines de milliers d’archives photos et vidéos dans le but de recréer un modèle de visage à l’aide de l’intelligence artificielle.          La lecture de ce contenu est susceptible d’entraîner un dépôt de cookies de la part de l’opérateur tiers qui l’héberge. Compte-tenu des choix que vous avez exprimés en matière de dépôt de cookies, nous avons bloqué l’affichage de ce contenu. Si vous souhaitez y accéder, vous devez accepter la catégorie de cookies “Contenus tiers” en cliquant sur le bouton ci-dessous.  Lire la Vidéo   C’est de cette manière que le visage de l’actrice Julie Chevallier (Cloclo, Les Mystères de l’Amour) a pu être remplacé par une copie bluffante du visage de Dalida, première personnalité “invitée” dans l’émission de Thierry Ardisson. Jean Gabin, Lady Diana ou François Mitterrand suivront. “Au début, je me suis dit: ‘il est fou lui!’” Ce procédé du deepfake a déjà été utilisé au cinéma ou à la télévision. Mac Guff s’était fait remarquer en 2020 en rajeunissant avec succès Mathieu Amalric dans l’ultime saison du Bureau des Légendes. Un procédé récompensé par le César de l’Innovation 2021, qui avait ainsi permis de rendre plus crédibles des scènes de flash-back dans la série, comme vous pouvez le voir ci-dessous.          La lecture de ce contenu est susceptible d’entraîner un dépôt de cookies de la part de l’opérateur tiers qui l’héberge. Compte-tenu des choix que vous avez exprimés en matière de dépôt de cookies, nous avons bloqué l’affichage de ce contenu. Si vous souhaitez y accéder, vous devez accepter la catégorie de cookies “Contenus tiers” en cliquant sur le bouton ci-dessous.  Lire la Vidéo     Mais l’usage était limité à de très courtes séquences. Bien loin du travail demandé pour réaliser une émission entière, comme pour France 3.      “Quand nous avons rencontré Thierry Ardisson je me suis dit: ‘il est fou lui!‘, et nous avions plutôt dit non au projet”, confie au HuffPost Rodolphe Chabrier, président et co-fondateur de Mac Guff. “Cela demandait un travail considérable: nous étions habitués à travailler sur des scènes de quelques secondes et d’un coup il fallait produire plus de 60 minutes d’émission”.  Rodolphe Chabrier a finalement profité de la période du Covid et de l’arrêt d’autres projets pour améliorer l’outil “Face Engine”, sur lequel il travaillait déjà depuis deux ans. “Je me suis mis à bosser jour et nuit pendant des mois et finalement ça a marché”, ajoute-t-il, soulignant le travail réalisé avec son associé Martial Vallanchon et une dizaine de personnes sur ce projet. Environ deux mois de travail par émission En améliorant sans cesse son intelligence artificielle (IA), le studio Mac Guff a réussi à réduire considérablement les temps de production, passant d’un an pour concevoir une émission-test avec Jean Gabin, à environ deux mois pour celle avec Dalida.      “Sans L’Hôtel du Temps, nous n’aurions jamais pu développer aussi vite notre outil maison”, ajoute Rodolphe Chabrier, qui travaille déjà sur des nouveaux usages pour le cinéma, comme le vieillissement de personnage, le remplacement de la silhouette d’un acteur (body engine), ou encore la création d’un “maquillage virtuel”. ″Ce qu’on est capable de faire maintenant n’a rien à voir avec ce qu’on faisait il y a six mois.” Une progression telle, que le studio français très réputé peine à recruter des spécialistes pour son département intelligence artificielle! L’usage d’une telle technologie pose évidemment des questions éthiques et juridiques. Il n’existe pas à l’heure actuelle de “droit d’image pour les morts”. Ainsi n’importe quelle personnalité pourrait être ressuscitée, dans la mesure où l’on dispose une base de photos et vidéos suffisante pour l’IA. Dans le cas de L’Hôtel du Temps, la production précise que par respect, les héritiers ont été informés et ont validé la modélisation numérique du visage ainsi que le scénario. Par ailleurs, les propos tenus par la “fausse Dalida” sont authentiques et issus d’interviews qu’elle a accordées de son vivant.      Une production “Made In France” Mac Guff n’est pas la seule fierté française qui a travaillé sur cette émission. L’Institut de recherche et coordination acoustique/musique (IRCAM) s’est aussi illustré via sa société Ircamamplify. Celle-ci s’est chargée de transformer la voix de Dalida grâce à son outil “Voice Cloning”, qui a également recours à l’IA. Pour couronner le tout, L’Hôtel du Temps a été co-produit par Troisième Œil production, une société de production française, à qui l’on doit notamment C à vous sur France 5. Une vraie réussite bleu blanc rouge. À voir également sur Le HuffPost:Il y avait un peu de Disney dans la soirée électorale de France 2          La lecture de ce contenu est susceptible d’entraîner un dépôt de cookies de la part de l’opérateur tiers qui l’héberge. Compte-tenu des choix que vous avez exprimés en matière de dépôt de cookies, nous avons bloqué l’affichage de ce contenu. Si vous souhaitez y accéder, vous devez accepter la catégorie de cookies “Contenus tiers” en cliquant sur le bouton ci-dessous.  Lire la Vidéo       Lire aussi     Avant la présidentielle 2022, Greenpeace dévoile une campagne choc sur le climat    ""The Mandalorian"": Un YouTubeur corrige la série, Lucasfilm l'embauche      plus :  Télévision France 3 Intelligence artificielle (IA) Thierry Ardisson Médias         Clément Vaillant     Envoyer une correction               Newsletter  Inscrivez-vous aux newsletters du HuffPost et recevez par email les infos les plus importantes et une sélection de nos meilleurs articles          En vous inscrivant à ce service, vous acceptez que votre adresse mail soit utilisée par le Huffington Post, responsable de traitement, pour la gestion de votre inscription à la newsletter.    Conformément à la loi du 06/01/1978 modifiée et au Règlement européen n°2016/679/UE du 27/04/2016, vous bénéficiez d’un droit d’accès, de modification, de portabilité, de suppression et d’opposition au traitement des informations vous concernant, que vous pouvez exercer auprès de dpo@groupelemonde.fr. Pour toute information complémentaire ou réclamation: CNIL                           ",https://schema.org,ItemList,"{'@type': 'WebPage', '@id': 'https://www.huffingtonpost.fr/medias/article/derriere-l-hotel-du-temps-d-ardisson-les-createurs-de-moi-moche-et-mechant_196027.html'}","Derrière ""L'Hôtel du Temps” d’Ardisson, les créateurs de ""Moi, Moche et Méchant""","{'@type': 'ImageObject', 'url': 'https://huffpost-focus.sirius.press/2022/07/23/0/69/1781/1002/1820/1023/75/0/c52f24b_1658620557331-626a87fb2600000e088a749d.jpg', 'width': 1820, 'height': 1024}","[{'@type': 'Person', 'name': 'Clément Vaillant', 'url': 'https://www.huffingtonpost.fr/author/clement-vaillant'}]","{'@type': 'NewsMediaOrganization', 'name': 'Le HuffPost', 'logo': {'@type': 'ImageObject', 'url': 'https://www.huffingtonpost.fr/dist/assets/img/socials/default-entry.jpg', 'width': 2000, 'height': 1333}}",2022-05-02T19:30:08+02:00,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'VideoObject', '@id': '#video-player-bQxFFlvDkh8', 'name': 'VFX Breakdown / De-Aging ""Le Bureau des Légendes"" / Mac Guff Paris', 'description': 'VFX Breakdown / De-Aging ""Le Bureau des Légendes"" / Mac Guff Paris', 'embedUrl': 'https://www.youtube.com/embed/bQxFFlvDkh8', 'thumbnailUrl': 'https://i.ytimg.com/vi/bQxFFlvDkh8/mqdefault.jpg', 'uploadDate': '2022-05-02T19:30:08+02:00', 'duration': 'PT43S'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'VideoObject', '@id': '#video-player-x89s7yr', 'name': 'Il y avait un peu de Disney dans la soirée électorale de France 2', 'description': 'Le service public va inaugurer ce dimanche 10 avril un dispositif de réalité étendue, notamment utilisé dans la série à succès ""The Mandalorian"".', 'embedUrl': 'https://www.dailymotion.com/embed/video/x89s7yr', 'thumbnailUrl': 'https://www.dailymotion.com/thumbnail/video/x89s7yr', 'uploadDate': '2022-05-02T19:30:08+02:00', 'duration': 'PT2M50S'}}]",,,2022-05-02T19:30:08+02:00,True,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.article-title .entry__header .headline', '.article-chapo .entry__header .dek', '.pageContent .entry__content-list']}","Télévision, France 3, Intelligence artificielle (IA), Thierry Ardisson, Médias",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy50ZjEuZnIvdG1jL3F1b3RpZGllbi1hdmVjLXlhbm4tYmFydGhlcy92aWRlb3MvbGEtc2VtYWluZS1kZXMtaW52ZW50ZXVycy15aW0tbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtYXUtc2VydmljZS1kZS1sYS1tdXNpcXVlLXBvdXItdG91cy0zNzc4ODQ4Ny5odG1s0gEA?oc=5,"La semaine des inventeurs : YIM, l'intelligence artificielle au service de la musique pour tous - TF1+",2022-05-04,TF1+,https://www.tf1.fr,"Toute la semaine, la Foire de Paris accueille le célèbre Concours Lépine et tous les soirs, Yann Barthès donne la parole aux inventeurs. Ce mercredi, il accueille Jean-Marie Lavallée, 63 ans, inventeur de YIM.","['quotidien-interview', '', '', 'yann barthes', '', 'quotidien', 'Interview']","Toute la semaine, la Foire de Paris accueille le célèbre Concours Lépine et tous les soirs, Yann Barthès donne la parole aux inventeurs. Ce mercredi, il accueille Jean-Marie Lavallée, 63 ans, inventeur de YIM.","Toute la semaine, la Foire de Paris accueille le célèbre Concours Lépine et tous les soirs, Yann Barthès donne la parole aux inventeurs. Ce mercredi, il accueille Jean-Marie Lavallée, 63 ans...",Quotidien,N/A,"La semaine des inventeurs : YIM, l’intelligence artificielle au service de la musique pour tousToute la semaine, la Foire de Paris accueille le célèbre Concours Lépine et tous les soirs, Yann Barthès donne la parole aux inventeurs. Ce mercredi, il accueille Jean-Marie Lavallée, 63 ans, inventeur de YIM.Ma listePartager3m134 mai 2022 à 20:10Quotidien",https://schema.org,BreadcrumbList,,,https://photos.tf1.fr/1200/720/la-semaine-des-inventeurs-yim-lintelligence-artificielle-au-service-de-la-musique-pour-tous-98039-a909d5-05d4f3-0@1x.jpg,,"{'@type': 'Organization', 'name': 'TF1+', 'alternateName': '', 'url': 'https://www.tf1.fr', 'foundingDate': '1975-01-06', 'parentOrganization': {'@type': 'Organization', 'name': 'Groupe TF1', 'foundingDate': '1987-04-16', 'url': 'https://groupe-tf1.fr/', 'sameAs': ['https://fr.wikipedia.org/wiki/Groupe_TF1', 'https://www.linkedin.com/company/groupetf1', 'https://twitter.com/GroupeTF1', 'https://www.wikidata.org/wiki/Q2412906']}, 'logo': {'@type': 'ImageObject', 'url': 'https://www.tf1.fr/public/3.27.1/tf1plus_picto_colored-DaCmxLf5.jpg', 'width': '1200', 'height': '630'}, 'address': {'@type': 'PostalAddress', 'streetAddress': '1 Quai du Point du Jour', 'addressLocality': 'Boulogne-Billancourt', 'postalCode': '92100', 'addressCountry': 'FR'}, 'sameAs': ['https://www.facebook.com/tf1plus', 'https://twitter.com/tf1plus', 'https://www.instagram.com/tf1plus', 'https://www.linkedin.com/company/groupetf1', 'https://fr.m.wikipedia.org/wiki/TF1%2B', 'https://www.wikidata.org/wiki/Q123485026']}",,,"[{'@type': 'ListItem', 'name': 'Accueil', 'position': 1, 'item': 'https://www.tf1.fr/'}, {'@type': 'ListItem', 'name': 'TMC', 'position': 2, 'item': 'https://www.tf1.fr/tmc'}, {'@type': 'ListItem', 'name': 'Quotidien', 'position': 3, 'item': 'https://www.tf1.fr/tmc/quotidien-avec-yann-barthes'}, {'@type': 'ListItem', 'name': 'Vidéos', 'position': 4, 'item': 'https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos'}, {'@type': 'ListItem', 'name': 'La semaine des inventeurs : YIM, l’intelligence artificielle au service de la musique pour tous', 'position': 5}]",https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/la-semaine-des-inventeurs-yim-lintelligence-artificielle-au-service-de-la-musique-pour-tous-37788487.html,,,True,,,"La semaine des inventeurs : YIM, l’intelligence artificielle au service de la musique pour tous","{'@type': 'Country', 'name': 'France'}",fr,True,"['Information', 'Talk Show', 'Actualité']","{'@type': 'TVSeries', 'name': 'Quotidien', 'url': 'https://www.tf1.fr/tmc/quotidien-avec-yann-barthes', 'image': 'https://photos.tf1.fr/1280/720/vignette-paysage-quotidien-2023-costume-a811cf-452b45-0@1x.jpg'}","{'@type': 'VideoObject', 'caption': 'La semaine des inventeurs : YIM, l’intelligence artificielle au service de la musique pour tous', 'name': 'La semaine des inventeurs : YIM, l’intelligence artificielle au service de la musique pour tous', 'description': 'Toute la semaine, la Foire de Paris accueille le célèbre Concours Lépine et tous les soirs, Yann Barthès donne la parole aux inventeurs. Ce mercredi, il accueille Jean-Marie Lavallée, 63 ans, inventeur de YIM.', 'thumbnailUrl': 'https://photos.tf1.fr/1200/720/la-semaine-des-inventeurs-yim-lintelligence-artificielle-au-service-de-la-musique-pour-tous-98039-a909d5-05d4f3-0@1x.jpg', 'embedUrl': 'https://www.tf1.fr/player/75894b69-a7e4-4a56-af45-2d8fdc955158', 'uploadDate': '2022-05-04T20:10:00+02:00', 'duration': 'PT3M13S', 'playerType': 'HTML5', 'inLanguage': 'fr', 'publisher': {'@type': 'Organization', 'name': 'TMC', 'alternateName': 'Télé Monte-Carlo', 'url': 'https://www.tf1.fr', 'foundingDate': '1975-01-06', 'parentOrganization': {'@type': 'Organization', 'name': 'Groupe TF1', 'foundingDate': '1987-04-16', 'url': 'https://groupe-tf1.fr/', 'sameAs': ['https://fr.wikipedia.org/wiki/Groupe_TF1', 'https://www.linkedin.com/company/groupetf1', 'https://twitter.com/GroupeTF1', 'https://www.wikidata.org/wiki/Q2412906']}, 'logo': {'@type': 'ImageObject', 'url': 'https://www.tf1.fr/public/3.27.1/tf1plus_picto_colored-DaCmxLf5.jpg', 'width': '1200', 'height': '630'}, 'address': {'@type': 'PostalAddress', 'streetAddress': '1 Quai du Point du Jour', 'addressLocality': 'Boulogne-Billancourt', 'postalCode': '92100', 'addressCountry': 'FR'}, 'sameAs': ['https://www.facebook.com/tf1plus', 'https://twitter.com/tf1plus', 'https://www.instagram.com/tf1plus', 'https://www.linkedin.com/company/groupetf1', 'https://fr.m.wikipedia.org/wiki/TF1%2B', 'https://www.wikidata.org/wiki/Q123485026']}, 'accessibilityFeature': [], 'isAccessibleForFree': True, 'requiresSubscription': False, 'keywords': ['quotidien-interview', '', '', 'yann barthes', '', 'quotidien', 'Interview']}",,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNhaGllcnMtdGVjaG5pcXVlcy1iYXRpbWVudC5mci9hcnRpY2xlL2wtaWEtbm91dmVhdS1jb3BpbG90ZS1kdS1jaGFudGllci42MDYyNtIBAA?oc=5,"L'IA, nouveau copilote du chantier - Cahiers Techniques du Bâtiment (CTB) - Cahiers Techniques du Bâtiment",2022-05-04,Cahiers Techniques du Bâtiment,https://www.cahiers-techniques-batiment.fr,"
+Les informations relatives &agrave; la gestion d&#39;un chantier emplissent une infinit&eacute; de documents. L&#39;intelligence artificielle (IA) est capable...-actualite",N/A,"
+Les informations relatives &agrave; la gestion d&#39;un chantier emplissent une infinit&eacute; de documents. L&#39;intelligence artificielle (IA) est capable...-actualite","
+Les informations relatives &agrave; la gestion d&#39;un chantier emplissent une infinit&eacute; de documents. L&#39;intelligence artificielle (IA) est capable...-actualite",N/A,N/A,"
+Accueil
+ ActualitéabonnéL'IA, nouveau copilote du chantier
+François Ploye
+
+Publié le 04/05/2022 à 00h01
+Sujets relatifs :
+Actualité
+
+
+
+
+
+Le logiciel PraDICT.io propose des suggestions de mutualisation de travaux avant que la collectivité ne contrôle et valide le plan de coordination.© Sogelink
+Pour lire l’intégralité de cet article,
+
+abonnez-vous aux Cahiers Techniques du Bâtiment - édition Abonné
+
+Pour lire l’intégralité de cet article,
+
+tester gratuitement Les Cahiers Techniques du Bâtiment - édition Abonné
+
+Les informations relatives à la gestion d'un chantier emplissent une infinité de documents. L'intelligence artificielle (IA) est capable d'agréger les données et de s'en servir pour optimiser la planification et le suivi.
+La planification, l'organisation et le suivi de chantiers ou de travaux sur voirie nécessitent de collecter et de compiler de nombreux documents de différente nature (emails, photos, tableaux, fiches techniques, etc.). L'intelligence artificielle (IA) et les algorithmes d'apprentissage automatique peuvent structurer ces données, éventuellement avec de l'analyse prédictive. Plusieurs éditeurs proposent déjà des solutions opérationnelles tels Wizzcad, Sogelink ou encore Oracle, qui développe une suite d'applications mêlant IA et analyse de données baptisée Construction Intelligence Cloud (CIC) Service, destinée au secteur de la construction et de l'ingénierie. Le recours au machine learning (ML) permet d'analyser les données de projets gérées par les solutions Oracle afin d'anticiper les défaillances et risques potentiels. La première application disponible, Advisor, est capable de prédire les retards dans les projets, d'en identifier les causes, d'analyser des retards similaires survenus sur des projets antérieurs et[…]Pour lire la totalité de cet article, abonnez-vousDéjà abonné ?
+Mot de passe perdu
+Besoin d’aide pour vous connecter ?Contactez-nous au +33 1 79 06 70 00 (du lundi au vendredi de 8h30 à 12h30et de 13h30 à 17h30) ou à l’adresse suivante : abonnement@groupemoniteur.fr.  
+
+
+
+Espace abonné
+
+ Consultez le magazine
+
+Abonnez-vous
+
+Abonnez-vous
+Archives
+Newsletter
+Sélection HLMRéservé aux abonnés
+La base Coûts de constructionRecherchez par type, surface, prix au m2, localisation, matériaux et labels
+
+
+Découvrir
+Les plus lus
+
+Assainissement : réglementation et bonnes pratiques
+
+
+Les menuiseries extérieures avec une ITE
+
+
+Que vaut l'injection face aux pieux et micropieux ?
+
+
+Couverture-étanchéité : deux normes remplacent trois DTU
+
+
+Loi Climat & Résilience : perméabiliser son parking de plus de 500 m²
+Nous vous recommandons
+
+CTICM : le référentiel pour le réemploi d'éléments structuraux en acier est disponibleAnnoncé en début d’année, le référentiel élaboré par le Centre Technique Industriel de la Construction Métallique pour favoriser le réemploi de matériaux en acier vient d’être publié sur le site Internet du centre.Le CTICM a...
+
+08/07/2024
+|
+Réemploi,                                         Acier
+
+Base Inies : 20 ans et de nouvelles fonctionnalités
+
+
+Un atelier de réemploi du second œuvre à Lyon
+
+
+Évaluer les risques du climat sur les bâtiments
+
+Plus d'articles",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbG9yaWVudC5tYXZpbGxlLmNvbS9hY3R1L2FjdHVkZXRfLWEtbG9yaWVudC1sYS1zY2llbmNlLXMtaW52aXRlLWF1dG91ci1kdS16aW5jLV8xMi01MjE0OTU5X2FjdHUuSHRt0gEA?oc=5,"A Lorient, la science s'invite autour du zinc ! - Maville.com : Lorient",2022-05-06,Maville.com : Lorient,https://lorient.maville.com,Info Lorient A Lorient la science sinvite autour du zinc - Une pinte de science Cest en... Lorient,"lorient,science,invite,autour,zinc",Info Lorient A Lorient la science sinvite autour du zinc - Une pinte de science Cest en... Lorient,Info Lorient A Lorient la science sinvite autour du zinc - Une pinte de science Cest en... Lorient,N/A,N/A,"
+
+
+
+
+
+
+
+Vendredi 06 mai 2022 15:57
+A Lorient, la science s’invite autour du zinc ! 
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+ Pint of Science, une occasion de discuter, autour d’un verre, de la science de demain avec ceux qui la font. Comme ici, à Rennes, en 2019.  ©  Archives Ouest-France  
+
+
+
+Une pinte de science. C’est en français le nom du festival national qui propose de rendre la science plus accessible, dans un cadre décontracté. A Lorient (Morbihan), les 9, 10 et 11 mai 2022, des chercheurs partageront les fruits de leurs recherches dans trois bars.
+
+
+« Une pinte de science, please ! » Du lundi 9 mai au mercredi 11 mai 2022, le festival Pint of Science propose de discuter avec des chercheurs dans des bars de Lorient (Morbihan).S’il existe depuis 2014 en France, ce festival de vulgarisation scientifique s’invite pour la première fois dans la ville aux six ports.Le 9 mai, à Code Zéro (rue de Carnel)Guillaume Barteau, bénévole de l’association Avenir climatique, évoquera l’influence des humains sur l’environnement et Jean-Christophe Bumel, doctorant à l’Université de Bretagne sud (UBS), les enjeux de l’intelligence artificielle face au climat. Résumé en une phrase : « Peut-on lutter contre le changement climatique sans retourner à la Préhistoire ? ». De 19 h 30 à 22 h.Le 10 mai, au Sur Mesure (rue Victor-Massé), bar à bièresOn y parlera logiquement du lin, du blé et du houblon ! Alain Bourmaud, ingénieur de recherche à l’UBS, expliquera son travail sur les secrets révélés par les fibres de lin de 4 000 ans.Carol-Anne Loher-Delalune, doctorante à l’UBS, parlera d’une « finance plus responsable ». De 19 h à 21 h.Le 11 mai, à Sale Histoire (rue Jules-Le-Grand)Morgan Deroiné, ingénieure de recherche à l’Irma et Tabatha Tiébaut-Rizzoni, doctorante à l’UBS aborderont le développement des engins de pêche de demain grâce aux plastiques biodégradables.Et pour Gabrielle Derippe, Thomas Fruleux, Aissata Bangoura et Flore Caudal, doctorantes et doctorants à l’UBS : « Avoir le bien de mer ! ». De 19 h à 22 h.Programme sur le site : www.pintofscience.fr/events/lorient
+ 
+ 
+
+
+
+		 Nadine BOURSIER.   
+		Ouest-France  
+
+
+
+Retrouvez d'autres actus sur la commune de :
+
+
+Lorient
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donnez votre avis
+
+...
+
+
+
+
+
+
+
+
+
+
+			Abonnez-vous 1er mois offert
+		
+
+
+			Acheter le journal du jour
+		
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnN0dWR5cmFtYS5jb20vcmV2aXNpb24tZXhhbWVuL2JhYy1yZXVzc2lyLWxhLXNwZWNpYWxpdGUtbnVtZXJpcXVlLWV0LXNjaWVuY2VzLTEwOTIyN9IBAA?oc=5,Nos conseils pour réussir la spécialité NSI au Bac - Studyrama,2022-05-03,Studyrama,https://www.studyrama.com,"Les épreuves de spécialité arrivent bientôt. En NSI, vous passerez une épreuve écrite et une épreuve orale. Deux professeurs vous prodiguent leurs conseils pour réussir le jour J !",bac conseils épreuves NSI informatique,N/A,La spécialité NSI est l'une des 13 spécialités proposées en fin de Seconde. Cet enseignement vous permet notamment d'approfondir vos connaissances théoriques et pratiques en informatique. Deux professeurs de NSI vous donnent leurs conseils pour réussir cette spécialité. Propos recueillis par Orane Dorr,N/A,N/A,"
+
+
+
+
+
+
+Le but de l’enseignement de la spécialité NSI est de vous faire comprendre le langage, les concepts et méthodes aux fondements de l’informatique. Vous explorerez tant l’aspect scientifique que l’aspect pratique de la discipline. Cédric Gourjon et Laurent Mongiat, deux professeurs de NSI au lycée Simone Veil de Valbonne (06) vous prodiguent leurs conseils pour appréhender cette spécialité et réussir le jour J !
+Pourquoi choisir la spé NSI ?
+ Tout simplement parce qu’on estime que 85% des emplois de 2030 n’existent pas encore (*) et que ces emplois seront majoritairement tournés vers le numérique, l’intelligence artificielle, la réalité virtuelle ou encore la robotique. On a pu voir avec le Covid l’accélération de l’utilisation des outils numériques dans les entreprises. La NSI fait partie de ces nouvelles spécialités qui ont été introduites avec la dernière réforme du Bac. Elle a pour objectif de donner aux élèves qui suivent la spécialité les connaissances de base sur les fondements de l’informatique.
+Parmi les principaux thèmes abordés, on retrouve l’apprentissage de langages de programmation, le fonctionnement des ordinateurs et réseaux, l’algorithmique et enfin la gestion des données. Un élève qui a suivi la spécialité NSI est capable de comprendre le fonctionnement d’un ordinateur, des communications sur internet, mais aussi de programmer des applications. Il acquiert au cours de ces deux années de Première  et Terminale  des connaissances solides sur le fonctionnement du monde informatique qui l’entoure et sera ainsi mieux armé pour s’adapter à ses différentes évolutions. Il aura aussi appris à s’organiser pour travailler en équipe sur des projets informatiques. (*) source : pole-emploi.fr
+Quelles sont les qualités requises pour étudier et réussir l’étude du numérique et des sciences informatiques ?
+Comme les autres spécialités, la spécialité Numérique et Sciences informatiques est exigeante et demande aux élèves qui la suivent une quantité de travail personnel importante. Les élèves sont évalués de différentes manières : il y a bien sûr les devoirs sur table, mais aussi des évaluations pratiques sur machine, ou encore des projets à mener seul ou en équipe. Les différentes modalités d’évaluation nécessitent une certaine capacité d’adaptation et surtout une bonne organisation de son travail personnel. Et puis, comme toutes les matières scientifiques, la NSI nécessite de la curiosité, de la rigueur  ainsi qu’une bonne qualité d’écoute et d’observation. Il n’est pas nécessaire d’avoir des connaissances en informatiques autres que celles acquises en SNT (Sciences Numériques et Technologie) en Seconde pour choisir la spécialité NSI. Souvent, les élèves ont cette idée erronée que ce sont les « geeks », passionnés de programmation, qui choisissent la spécialité NSI, mais cela est faux. Il n’est d’ailleurs pas rare de constater que les meilleurs élèves en fin de Terminale sont ceux qui n’avaient aucune connaissance avant de débuter la spécialité en Première.
+Quels sont les débouchés offerts par le Bac NSI ?
+ Les poursuites d’étude sont aussi nombreuses que variées. Le choix de la spécialité Numérique et Sciences informatiques en première semble être pertinent pour tous les bons élèves qui se destinent à des classes préparatoires scientifiques comme la MPSI et PCSI. En effet, l’informatique est une des matières présentes dans les enseignements proposés dans ces classes préparatoires ; les élèves qui ont suivi la spécialité NSI sont donc avantagés. Pour ceux qui poursuivent la spécialité NSI en terminale existe toujours la possibilité de poursuivre ses études en classe préparatoire MP2I, qui vient d’être créée et qui est résolument plus orientée vers l’informatique que les deux autres précédemment citées. De manière équivalente, les écoles d’ingénieurs avec prépa intégrée et des filières spécialisées en informatique recrutent aussi les élèves de NSI. De nombreux BUT, BTS ou licences à dominante informatique acceptent des élèves qui sont suivi la spécialité.
+Les élèves qui ont aussi choisi la spécialité Arts comme deuxième spécialité ont la possibilité de s’orienter vers des écoles de design graphique, animation et jeux vidéo. Le panel des métiers accessibles après avoir étudié dans ces écoles est très vaste, de l’ingénieur informatique à l’animateur 3D et dans des domaines divers en pleine expansion comme l’intelligence artificielle, la réalité virtuelle, avec cette facilité accrue en fonction de l’évolution des métiers en rapport avec l’informatique de se reconvertir en cours de carrière.
+
+À ne pas manquer
+
+Pour en savoir plus sur les spécialités du Bac de voie générale les plus adaptées à votre future formation, sur Parcoursup et sur les études supérieures en général, nous vous donnons RDV sur nos salons Studyrama des Études Supérieures organisés à travers toute la France.
+Une occasion unique de découvrir les établissements et d’échanger avec les responsables pédagogiques pour leur poser toutes vos questions !
+
+Comment réussir la partie écrite de l’épreuve ?  
+Contrairement aux autres spécialités, l’épreuve écrite n’est pas forcément la plus facile à appréhender pour les élèves. En effet, une bonne partie des cours de NSI se passe sur machine et non sur papier. Les professeurs de NSI ont l’habitude de faire travailler leurs élèves en informatique « débranchée » pour les entraîner à jouer le rôle de l’ordinateur et être capables d’écrire les séquences de programmes demandées sans avoir la possibilité de les vérifier sur machine. Il faut faire attention aux erreurs de syntaxe : un langage de programmation, comme tout autre langage, nécessite de connaître précisément la syntaxe et le vocabulaire qui lui sont propres. De même pour comprendre le fonctionnement des systèmes informatiques, il est important de bien connaître les définitions des éléments qui les composent et de bien avoir compris le rôle et le fonctionnement de chacun de ces éléments. Par exemple, le fonctionnement d’internet nécessite de connaître les différents étapes et protocoles qui interviennent lors de l’envoi d’une requête. Avec une bonne connaissance de tous les concepts vus en Première et en Terminale, la compréhension des énoncés de l’épreuve écrite sera facilitée.
+Enfin, ce n’est pas parce qu’il s’agit d’une épreuve de NSI qu’il ne faut pas rédiger ses réponses : des justifications exprimées dans un français clair et précis seront évidemment valorisées par le correcteur. Enfin, l’élève dispose des sujets de Bac des précédentes années qui lui permettront de s’entraîner. Evidemment, un simple bachotage n’est pas en soi une préparation efficace mais elle permet simplement à l’élève de se familiariser avec les attendus de l’épreuve.
+Quelles sont vos astuces pour réussir l’épreuve pratique ?
+ L’épreuve pratique est composée de deux exercices à faire sur machine en temps limité. Il faut savoir prendre son temps pour élaborer les programmes demandés et ne pas hésiter à les écrire au brouillon dans un premier temps plutôt que de se lancer directement en codant sur machine. Ecrire le programme sur feuille permettra de mieux conceptualiser le fonctionnement de celui-ci et d’être plus à même de comprendre les erreurs éventuelles qui seront renvoyées lors de l’exécution du programme une fois tapé sur machine. Ainsi, écrire la structure du programme sur feuille peut paraître une perte de temps pour les élèves, mais leur permettra en réalité d’en gagner par la suite, parce qu’une des difficultés de cette épreuve est de ne pas paniquer quand le programme ne fonctionne pas et qu’il ne reste plus beaucoup de temps pour le corriger. Comme pour l’épreuve écrite, il est nécessaire de bien maîtriser la syntaxe du langage python afin d’éviter les erreurs qui feront perdre un temps précieux. Sur une épreuve d’une heure, l’élève ne peut pas se permettre d’être hésitant sur ce point. Enfin, pour s’entraîner, les élèves ont accès à la liste des exercices qui seront proposés lors de l’épreuve pratique par les jurys qui les évalueront : ils ont donc la possibilité de les tester en temps limité pour, là encore, cerner les attendus de l’épreuve.
+Êtes vous fait pour suivre la spécialité Numérique et Sciences Informatiques ? Faites le test pour le savoir !
+Que préconisez-vous pour se préparer à l’épreuve tout au long de l’année ?
+Pour préparer le Bac dans les meilleures conditions, il est primordial de fournir un travail régulier qui permettra de bien assimiler les notions au fur et à mesure. A l’instar d’autres spécialités comme les mathématiques, les notions vues en Terminale s’appuient sur les notions vues en Première et constituent les bases d’un édifice qui sera d’autant plus solide que les savoirs auront été compris et bien assimilés. Par exemple, il est difficile de comprendre le fonctionnement d’un programme récursif en Terminale si l’on n’a pas compris comment programmer une fonction en python en Première. Il faut là encore insister sur l’importance de la maîtrise du vocabulaire et des définitions aussi bien dans l’apprentissage des langages de programmation que de la compréhension du fonctionnement des concepts informatiques.
+Le travail sur les projets qui sont proposés par le professeur plusieurs fois dans l’année sont un bon moyen de comprendre les notions dans un contexte différent de celui d’un exercice classique. Même si les modalités de travail sur un projet seul ou à plusieurs n’ont que peu de similitude avec les épreuves écrites et pratiques, elles permettent à l’élève de mieux assimiler les savoirs qui entrent en jeu sur un exercice plus ambitieux à résoudre et surtout sur un temps plus long. Evidemment, le travail du professeur de NSI permet aux élèves, à travers les différents exercices qu’il leur propose, de se préparer à l’épreuve tout au long de l’année en revenant régulièrement sur les notions déjà vues puisqu’il est très fréquent qu’elles soient réutilisées dans de nouveaux chapitres notamment pour la programmation en python.
+Un mot sur le Grand oral ?
+Le Grand oral est une épreuve très intéressante pour les élèves de NSI parce qu’elle leur permet de mettre en perspective toutes les connaissances qu’ils ont assimilées pendant leur scolarité au lycée. En effet, la spécificité de l’épreuve incite les élèves à préparer une réponse à la question qu’ils ont choisie qui puisse être accessible au moins en partie à un jury non spécialiste. C’est l’occasion pour les élèves qui ont choisi la spécialité Numérique et Sciences informatiques de parler de problèmes qui traitent de sujets d’actualité liés par exemple à l’intelligence artificielle avec une question qui demanderait « comment créer une machine intelligente ? », la sécurisation ou le stockage des données avec « comment sécuriser un paiement par carte bancaire ? », les interactions homme-machine avec « la voiture autonome, quels enjeux ? » ou encore un problème sociétal avec « l’informatique va-t-elle révolutionner l’art ? ». On peut ainsi constater que les questions ne manquent pas, notamment celles en rapport avec la place et l’évolution de l’informatique dans notre société. La préparation du Grand oral vient comme un aboutissement à la fin de la Terminale ; les questions choisies par les élèves permettent de donner du sens aux enseignements de NSI qu’ils ont suivis et la préparation du Grand oral vient replacer ces enseignements dans un cadre plus concret et plus appliqué.  Pour quel(s) métier(s) êtes-vous fait ? Faites le test pour le savoir !
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbGFjdHV0ZWNobm8uY29tL2RhbGlkYS1lbi1kZWVwZmFrZS1jaGV6LXRoaWVycnktYXJkaXNzb24vMTE0MjQ20gEA?oc=5,Dalida en deepfake chez Thierry Ardisson - L'Actu Techno,2022-05-03,L'Actu Techno,https://lactutechno.com,Une nouvelle émission est proposée sur France 3 par Thierry Ardisson appellée l'hôtel du temps et propose des interviews de personnes disparues comme Dalida en deep Fake,N/A,Une nouvelle émission est proposée sur France 3 par Thierry Ardisson appellée l'hôtel du temps et propose des interviews de personnes disparues comme Dalida en deep Fake,N/A,N/A,N/A,"
+
+
+
+
+
+AccueilActualitésDalida en deepfake chez Thierry Ardisson
+
+
+
+
+
+Dalida en deep fake sur france 3 chez Thierry Ardisson
+
+
+
+Actualités
+
+Dalida en deepfake chez Thierry Ardisson
+
+3 mai 2022 
+
+147
+
+0
+
+
+
+
+
+FacebookTwitterPinterestWhatsApp
+
+
+
+La tendance du moment est au métaverse et à la représentation des personnes réelles dans des univers virtuels. Mais il y a aussi l’intelligence artificielle et ses usages sur l’image. Nous vous avions parlé de Jasper Ai l’intelligence artificielle qui permet de rédiger des contenus, mais il y a également le traitement de vidéos et les deepfakes qui peuvent être produit avec cette technique.
+La tendance du moment est au métaverse et à la représentation des personnes réelles dans des univers virtuels. Mais il y a aussi l’intelligence artificielle et ses usages sur l’image. Nous vous avions parlé de Jasper Ai l’intelligence artificielle qui permet de rédiger des contenus, mais il y a également le traitement de vidéos et les deepfakes qui peuvent être produit avec cette technique.
+Qu’est-ce que la technologie deepfake et comment fonctionne-t-elle ?
+Le Deepfake est une technique permettant de créer des vidéos de personnes qui n’y figurent pas vraiment. Elle consiste à remplacer l’image originale par une nouvelle, après avoir été traitée par un algorithme d’intelligence artificielle. Cette technologie permet de mettre n’importe quelle personne dans n’importe quelle vidéo, avec un très haut degré de réalisme.
+Les deepfakes envahissent la TV
+Carl Zero utilisait déjà cette technique avec sa méthode FLAME il y a quelques années sur canal +, souvent en noir et blanc
+Mais les deepfake débarquent à la tv et deviennent de plus en plus réalistes.
+Il y a maintenant la quotidienne « C’est Canteloup’ sur Tf1 qui utilise le deep fake avec des personnes politiques.
+
+Président de la République cherche chaussure à son pied pour Premier Ministre à ses pieds.@CestCanteloup @CanteloupOff @TF1 @alsublet pic.twitter.com/DZhHakyTWQ
+— C'est Canteloup (@CestCanteloup) May 2, 2022
+
+ 
+Alors que la technologie continue d’évoluer à un rythme sans précédent, la frontière entre ce qui est réel et ce qui est faux devient de plus en plus floue. La tendance de la technologie deepfake, qui utilise l’intelligence artificielle pour créer des vidéos qui ont l’air vraies de manière convaincante, en est un exemple.
+La technologie Deepfake a été utilisée par le passé pour créer des vidéos de personnes qui ne sont pas réellement là. Elle consiste à remplacer l’image originale par une nouvelle, après avoir été traitée par un algorithme d’intelligence artificielle.
+Voici quelques exemples de l’utilisation de la technologie deepfake dans le passé :
+– La quotidienne ‘C’est Canteloup’ sur Tf1 qui utilise le deepfake avec des personnalités politiques
+– l’hôtel du temps sur France 3
+Hôtel du temps sur France 3
+
+Ce soir, à 21h10 sur @France3tv, j’ai rendez-vous avec #Dalida à l’""#HôtelduTemps"" 35 ans après sa disparition.Si-si. 😎 pic.twitter.com/oZbYqq4Vm1
+— Thierry Ardisson (@T_Ardisson) May 2, 2022
+
+ 
+Une nouvelle émission est proposée sur France 3 par Thierry Ardisson appellée l’hôtel du temps et propose des interviews de personnes disparues comme Dalida en deep Fake
+Thierry Ardisson a déclaré : je suis le premier et je le revendique, a faire une utilisation positive et culturelle du deep fake.
+Il n’en est pas a son coup d’essai car il avait déjà fait appel a des sosies pour faire ce genre d’interview.
+Dans un tweet vidéo, on le voit interviewer le président de la république François Mitterrand, la princesse Lady di, Jean Gabin, avec des choses qu’ils n’ont jamais dites, mais avec la même intonation de voix. On ne sait pas si c’est un doublage voix ou si l’intelligence artificielle a pu les reproduire, mais le résultat est bluffant.
+Il soulève la question de la légalité de faire des deep fakes avec les morts :
+– « …il n’y a pas de droits à l’image pour les morts, mais j’ai contacté les héritiés à chaque fois par respect, et par ethique… »
+Il a eu l’idée de créer un hôtel pour les interviewer, « l’hôtel du temps » dans lequel vivent toutes ces légendes disparues.
+– L’émission Hôtel du temps sur la chaîne de télévision france 3, présentée par thierry ardisson, qui présentait une interview de la chanteuse Dalida ramenée à la vie grâce à la technologie deepfake.
+Vous pouvez retrouver les vidéos sur sa chaine ina arditube
+ 
+https://youtube.com/c/InaArditube
+ 
+Quelles sont les implications de la technologie deepfake sur la société dans son ensemble ?
+Il existe un certain nombre d’applications potentielles pour la technologie deepfake, notamment la possibilité de créer des vidéos d’apparence réaliste à des fins de divertissement ou de marketing. Toutefois, les implications éthiques et juridiques de l’utilisation de cette technologie suscitent également des inquiétudes, en particulier lorsqu’elle est utilisée pour manipuler des images de personnes réelles. Certains se sont même inquiétés de son utilisation potentielle dans le cadre de fake news et de propagande. Comme la technologie deepfake continue d’évoluer, il sera important pour la société dans son ensemble de suivre le rythme de ces changements et de développer des stratégies pour faire face aux risques et défis associés.
+Comment devrions-nous penser à la technologie deepfake dans le cadre de notre travail ?
+La technologie deepfake ne cessant d’évoluer, il est important pour nous de nous tenir au courant des derniers développements. En même temps, nous devons réfléchir à la manière dont nous utilisons cette technologie dans notre travail.
+Nous devons tenir compte des implications éthiques et juridiques de l’utilisation de la technologie deepfake et nous assurer que nous l’utilisons de manière responsable.
+ 
+ 
+
+
+TagsDalidadeep fakeThierry Ardisson
+
+FacebookTwitterPinterestWhatsApp
+
+
+
+
+Article précédentUn bus électrique RATP prend feu à Paris : 149 véhicules retirés de la circulationArticle suivantFrench Days : les meilleures promos du web
+Laurent JEANLaurent Jean est un rédacteur technique passionné par les dernières innovations en matière de smartphones, de métavers et d'intelligence artificielle. Il a donné des conférences sur ces sujets lors de divers congrès et aime discuter des nouvelles technologies avec d'autres passionnés en ligne. Laurent est toujours prêt à en apprendre davantage sur les derniers gadgets et les dernières tendances dans le monde de la technologie.
+
+ARTICLES CONNEXES
+
+
+
+Actualités  
+
+Apple et Samsung n’ont rien vu venir ! Votre smartphone devient une centrale électrique avec ce matériau miracle
+
+
+
+
+
+
+
+
+
+
+Actualités  
+
+Guerre des voitures électriques : BYD détruit Tesla en Europe avec investissement massif pour dominer l’europe
+
+
+
+
+
+
+
+
+
+
+Actualités  
+
+Google déclare la guerre à Apple avec sa nouvelle Pixel Watch 3 : découvrez la fonction volée !
+
+
+
+
+
+
+
+
+
+
+
+ 
+LAISSER UN COMMENTAIRE Annuler la réponse
+
+
+Commenter :
+S'il vous plaît entrez votre commentaire!
+
+
+Nom :*
+S'il vous plaît entrez votre nom ici
+
+
+
+Email :*
+Vous avez entré une adresse email incorrecte!
+Veuillez entrer votre adresse email ici
+
+
+
+Site :
+
+
+
+Enregistrer mon nom, email et site web dans ce navigateur pour la prochaine fois que je commenterai.
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+Apple et Samsung n’ont rien vu venir ! Votre smartphone devient une centrale électrique avec ce matériau miracle
+
+Actualités
+
+Said -  9 juillet 2024 
+
+
+
+
+
+
+
+ 
+
+Guerre des voitures électriques : BYD détruit Tesla en Europe avec investissement massif pour dominer l’europe
+
+Actualités
+
+8 juillet 2024 
+
+
+
+
+
+
+
+ 
+
+Google déclare la guerre à Apple avec sa nouvelle Pixel Watch 3 : découvrez la fonction volée !
+
+Actualités
+
+8 juillet 2024 
+
+
+
+
+
+
+
+ 
+
+En quoi l’assurance micro entrepreneur est indispensable ?
+
+Actualités
+
+8 juillet 2024 
+
+
+
+
+
+
+
+ 
+
+Cette montre connectée indestructible utilisée par l’armée américaine est un carton absolu, découvrez ce modèle unique
+
+Actualités
+
+7 juillet 2024 
+
+
+
+
+  ",https://schema.org,BreadcrumbList,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://lactutechno.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://lactutechno.com/actualite', 'name': 'Actualités'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': '', 'name': 'Dalida en deepfake chez Thierry Ardisson'}}]",,"[{'@type': 'WebPage', '@id': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246', 'url': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246', 'name': 'Dalida en deepfake chez Thierry Ardisson', 'isPartOf': {'@id': 'https://lactutechno.com/#website'}, 'primaryImageOfPage': {'@id': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246#primaryimage'}, 'image': {'@id': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246#primaryimage'}, 'thumbnailUrl': 'https://lactutechno.com/wp-content/uploads/2022/05/lactutechno.com-dalida-en-deepfake-chez-ardisson-screenshot-2022-05-03-10-32-00-18-40deb401b9ffe8e1df2f1cc5ba480b12-e1651566809298.jpg', 'datePublished': '2022-05-03T08:39:49+00:00', 'dateModified': '2022-05-03T08:39:49+00:00', 'author': {'@id': 'https://lactutechno.com/#/schema/person/dfb9123a083b24de585692d0c3719104'}, 'description': ""Une nouvelle émission est proposée sur France 3 par Thierry Ardisson appellée l'hôtel du temps et propose des interviews de personnes disparues comme Dalida en deep Fake"", 'breadcrumb': {'@id': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246#primaryimage', 'url': 'https://lactutechno.com/wp-content/uploads/2022/05/lactutechno.com-dalida-en-deepfake-chez-ardisson-screenshot-2022-05-03-10-32-00-18-40deb401b9ffe8e1df2f1cc5ba480b12-e1651566809298.jpg', 'contentUrl': 'https://lactutechno.com/wp-content/uploads/2022/05/lactutechno.com-dalida-en-deepfake-chez-ardisson-screenshot-2022-05-03-10-32-00-18-40deb401b9ffe8e1df2f1cc5ba480b12-e1651566809298.jpg', 'width': 1200, 'height': 631, 'caption': 'Dalida en deep fake sur france 3 chez Thierry Ardisson'}, {'@type': 'BreadcrumbList', '@id': 'https://lactutechno.com/dalida-en-deepfake-chez-thierry-ardisson/114246#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://lactutechno.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Dalida en deepfake chez Thierry Ardisson'}]}, {'@type': 'WebSite', '@id': 'https://lactutechno.com/#website', 'url': 'https://lactutechno.com/', 'name': ""L'Actu Techno"", 'description': 'Vos news en continu !', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://lactutechno.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://lactutechno.com/#/schema/person/dfb9123a083b24de585692d0c3719104', 'name': 'Laurent JEAN', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://lactutechno.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/149ff143d0ed4f34395518fc1a987b2c?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/149ff143d0ed4f34395518fc1a987b2c?s=96&d=mm&r=g', 'caption': 'Laurent JEAN'}, 'description': ""Laurent Jean est un rédacteur technique passionné par les dernières innovations en matière de smartphones, de métavers et d'intelligence artificielle. Il a donné des conférences sur ces sujets lors de divers congrès et aime discuter des nouvelles technologies avec d'autres passionnés en ligne. Laurent est toujours prêt à en apprendre davantage sur les derniers gadgets et les dernières tendances dans le monde de la technologie."", 'sameAs': ['https://www.linkedin.com/in/laurentjeanmarseille/', 'https://x.com/@roiduecommerce'], 'url': 'https://lactutechno.com/auteur/jessy'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vYWZyaXF1ZS9tb25kZS02MTI0Mjc3MtIBLmh0dHBzOi8vd3d3LmJiYy5jb20vYWZyaXF1ZS9tb25kZS02MTI0Mjc3Mi5hbXA?oc=5,"Exercice physique : le ""miroir de fitness intelligent"" qui promet d'améliorer nos séances d'entraînement - BBC.com",2022-05-02,BBC.com,https://www.bbc.com,'Le sport m'a appris à être forte',N/A,Les dispositifs permettent à l'utilisateur de voir son reflet tout en regardant une séance d'entraînement avec un instructeur.,Les dispositifs permettent à l'utilisateur de voir son reflet tout en regardant une séance d'entraînement avec un instructeur.,N/A,N/A,N/A,http://schema.org,VideoObject,,,,,,,,,,"[{'@type': 'NewsArticle', 'url': 'https://www.bbc.com/afrique/monde-61242772', 'publisher': {'@type': 'NewsMediaOrganization', 'name': 'BBC News Afrique', 'publishingPrinciples': 'https://www.bbc.com/afrique/institutionelles-49283281', 'logo': {'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://news.files.bbci.co.uk/ws/img/logos/og/afrique.png'}}, 'thumbnailUrl': 'https://ichef.bbci.co.uk/news/1024/branded_afrique/D7B1/production/_124171255_ifit-proformvue2.jpg', 'image': {'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://ichef.bbci.co.uk/news/1024/branded_afrique/D7B1/production/_124171255_ifit-proformvue2.jpg'}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.bbc.com/afrique/monde-61242772', 'name': 'Exercice physique : le ""miroir de fitness intelligent"" qui promet d\'améliorer nos séances d\'entraînement'}, 'headline': 'Exercice physique : le ""miroir de fitness intelligent"" qui promet d\'améliorer nos séances d\'entraînement', 'description': ""Les dispositifs permettent à l'utilisateur de voir son reflet tout en regardant une séance d'entraînement avec un instructeur."", 'datePublished': '2022-05-02T11:53:13.000Z', 'dateModified': '2022-05-02T11:53:13.000Z', 'inLanguage': {'@type': 'Language', 'name': 'French', 'alternateName': 'fr'}, 'about': [{'@type': 'Thing', 'name': 'Technologie', 'sameAs': ['http://dbpedia.org/resource/Technology']}, {'@type': 'Thing', 'name': 'Le sport'}, {'@type': 'Thing', 'name': 'Bien-être', 'sameAs': ['http://dbpedia.org/resource/Wellness_(alternative_medicine)']}], 'author': {'@type': 'NewsMediaOrganization', 'name': 'BBC News Afrique', 'logo': {'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://news.files.bbci.co.uk/ws/img/logos/og/afrique.png'}, 'noBylinesPolicy': 'https://www.bbc.com/afrique/institutionelles-49283281#authorexpertise'}}]",,,,,'Le sport m'a appris à être forte',,,,,,,PT2M26S,https://ichef.bbci.co.uk/images/ic/1024x576/p063sk6m.jpg,2018-04-09T16:12:44.000Z,https://www.bbc.com/ws/av-embeds/cps/afrique/monde-61242772/p063sjmg/fr
+https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbHBvc3QuYmUvMjAyMi8wNS8wMi9pbWFnZXJpZS1tZWRpY2FsZS1vc2ltaXMtbm9tbWUtdW4tbm91dmVhdS1jZW8v0gEA?oc=5,Imagerie médicale : Osimis nomme un nouveau CEO - L-Post,2022-05-02,L-Post,https://lpost.be,N/A,N/A,"Un an après avoir pris la direction d’Osimis, Cédric Constant passe le relais à un nouveau CEO. Le conseil d’administration vient de nommer Peter Morel pour lui succéder. Le nouveau patron de la société spécialisée dans les échanges et les traitements de données d’imagerie médicale...",N/A,N/A,N/A,"
+
+
+
+ENTREPRISES
+ Imagerie médicale : Osimis nomme un nouveau CEO
+
+
+								Publié le lundi 02 mai 2022 à 22:38 | Temps de lecture estimé :   3  min.
+
+
+
+0  Likes 
+Share 
+Philippe LawsonJournaliste – Rédacteur en chef.
+
+
+De gauche à droite: Frédéric Lambrechts, cofondateur; Jacques Galloy, président du conseil d'administration; Peter Morel, CEO et Sergey Morozov, le futur CIO. D.R. 
+
+
+Un an après avoir pris la direction d’Osimis, Cédric Constant passe le relais à un nouveau CEO. Le conseil d’administration vient de nommer Peter Morel pour lui succéder. Le nouveau patron de la société spécialisée dans les échanges et les traitements de données d’imagerie médicale affiche plus de 30 ans d’expérience dans la vente de solutions logicielles et la création d’alliances. Titulaire d’un MBA à la Vlerick School et d’un diplôme d’ingénieur civil en logiciels de l’Université de Gand, il a cofondé Xenit Solutions, un fournisseur et intégrateur de solution de gestion de contenu intelligent pour des clients en Europe, aux USA et en Asie.
+Nouveau changement à la tête d’Osimis, la start-up liégeoise, spécialisée dans les échanges et les traitements de données d’imagerie médicale. Son conseil d’administration vient d’annoncer la nomination d’un nouveau CEO, en la personne du Flamand, Peter Morel. Il remplace Cédric Constant, arrivé à la tête de la société en mars 2021. « Après avoir levé 1,6 million d'euros début février, nous accueillons Peter, fort de son expérience dans le développement de modèles complexes de collaboration internationale sur le marché en pleine évolution de solutions informatiques aidant les entreprises à adopter les technologies numériques émergentes », déclare Jacques Galloy, président du conseil d’administration d’Osimis. « Nous tenons également à remercier chaleureusement Cédric Constant qui a mené le pivot stratégique d’Osimis en distributeur et intégrateur de solutions d’intelligence artificielle pour les flux de radiologie », poursuit-il. Osimis avait levé 2,3 millions d’euros, il y a 3 ans.
+
+
+Vous voulez lire la suite de cet article ?
+Cet article premium 
+est réservé à nos abonnés.
+Vous êtes déjà abonné ?
+Connectez-vous
+
+Pas encore abonné ?
+Abonnez-vousà L Post pour promouvoir la pluralité de la presse. L-Post n’est financé par aucun grand groupe et dépend uniquement des lecteurs. Informer avec rigueur et indépendance a un coût.
+Soutenez L Post et le journalisme indépendant : BE85 0689 4115 0106
+
+
+
+ 
+
+
+Nom d'utilisateur ou email
+
+
+
+
+
+Mot de passe
+
+
+
+
+ Se souvenir de moi
+
+ 
+
+
+
+
+
+
+
+ 
+
+Mot de passe oublié ?
+
+
+
+
+
+
+Vos commentaires
+ 
+ 
+
+
+
+
+
+
+ Connexion 
+
+
+
+
+
+
+
+
+ 
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom
+
+
+
+
+E-mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom
+
+
+
+
+E-mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 Commentaires                    
+
+
+
+
+
+ Commentaires en ligne
+Afficher tous les commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Téléchargez notre application
+	
+
+
+
+
+
+
+
+
+ 
+NEWSLETTER
+
+
+
+
+
+
+
+Inscrivez-vous pour recevoir chaque semaine dans votre boîte mail l’essentiel de l’actu sur L Post. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus d'articles d'économieMithra : les candidats repreneurs de l’usine CDMO se désistent entraînant la faillitelundi 8 juillet 2024Selon nos informations, un conseil d’entreprise extraordinaire s’est tenu ce lundi 8 juillet au CDMO à Flémalle lors duquel il a été communiqué aux représentants des travailleurs que les candidats …L’agence belge The Friends fête ses 75 ans ​en misant sur la diversificationlundi 8 juillet 2024The Friends by Verhulst, c’est l’exemple type d’une entreprise belge qui ne cesse d’évoluer depuis sa création. Forte de ses 40 collaborateurs et d’un chiffre d’affaires annuel de plus de …A la veille des congés de la construction, l’augmentation des vols sur chantiers reste une préoccupationjeudi 4 juillet 2024Les congés du bâtiment approchent à grands pas et de nombreux travailleurs du secteur de la construction les attendent avec impatience. Les choses ne se sont pas toujours bien passées …Sécurité privée/gardiennage : des amendes record qui risquent de discréditer un secteurjeudi 4 juillet 2024L’Autorité belge de la concurrence (ABC) a infligé ce mercredi 3 juillet des amendes de plus de 47 millions d’euros à trois acteurs importants du secteur de la sécurité privée …La Bulgarie, prochain Etat membre à rejoindre la zone Euro?dimanche 30 juin 2024La Commission européenne a publié cette semaine le rapport 2024 sur l’état de la convergence (ou «rapport de convergence»), dans lequel elle évalue les progrès accomplis par les États membres …
+
+
+
+",https://schema.org,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://lpost.be/#website', 'url': 'https://lpost.be/', 'name': 'L-Post', 'description': 'S&#039;informer pour être acteur du changement', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://lpost.be/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/#primaryimage', 'url': 'https://lpost.be/wp-content/uploads/2022/05/Osimis-Photo-1.jpg', 'contentUrl': 'https://lpost.be/wp-content/uploads/2022/05/Osimis-Photo-1.jpg', 'width': 490, 'height': 371}, {'@type': 'WebPage', '@id': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/', 'url': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/', 'name': 'Imagerie médicale : Osimis nomme un nouveau CEO - L-Post', 'isPartOf': {'@id': 'https://lpost.be/#website'}, 'primaryImageOfPage': {'@id': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/#primaryimage'}, 'image': {'@id': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/#primaryimage'}, 'thumbnailUrl': 'https://lpost.be/wp-content/uploads/2022/05/Osimis-Photo-1.jpg', 'datePublished': '2022-05-02T20:38:33+00:00', 'dateModified': '2022-05-03T08:51:13+00:00', 'author': {'@id': 'https://lpost.be/#/schema/person/0fdda934fb674094115afeaad3fa6913'}, 'breadcrumb': {'@id': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://lpost.be/2022/05/02/imagerie-medicale-osimis-nomme-un-nouveau-ceo/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://lpost.be/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Imagerie médicale : Osimis nomme un nouveau CEO'}]}, {'@type': 'Person', '@id': 'https://lpost.be/#/schema/person/0fdda934fb674094115afeaad3fa6913', 'name': 'Philippe Lawson', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://lpost.be/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/2024297eae6febf69103b932861f2414?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/2024297eae6febf69103b932861f2414?s=96&d=mm&r=g', 'caption': 'Philippe Lawson'}, 'description': 'Journaliste - Rédacteur en chef.', 'sameAs': ['https://twitter.com/Fil_law'], 'url': 'https://lpost.be/author/philippe-lawson/'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50ZjEuZnIvdG1jL3F1b3RpZGllbi1hdmVjLXlhbm4tYmFydGhlcy92aWRlb3MvbGVzLWludmVudGV1cnMtZGUtbGEtc2VtYWluZS1sYS1mb3VjbGV0dGUtcG91ci1uZS1wbHVzLWNob2lzaXItZW50cmUtcmFjbGV0dGUtZXQtZm9uZHVlLTc2NzQzMjE4Lmh0bWzSAQA?oc=5,"La Fouclette, pour ne plus choisir entre raclette et fondue - TF1+",2022-05-05,TF1+,https://www.tf1.fr,"Toute la semaine, la Foire de Paris accueille le Concours Lépine et tous les soirs Yann Barthès donne la parole aux inventeurs. Ce jeudi soir, il reçoit Marie-Christine Ribatto et Denis Flota, inventeurs de la Fouclette, le petit appareil qui peut tout faire ou presque.","['quotidien-interview', 'Replay', 'yann barthes', '', 'quotidien', 'Interview', '']","Toute la semaine, la Foire de Paris accueille le Concours Lépine et tous les soirs Yann Barthès donne la parole aux inventeurs. Ce jeudi soir, il reçoit Marie-Christine Ribatto et Denis Flota, inventeurs de la Fouclette, le petit appareil qui peut tout faire ou presque.","Toute la semaine, la Foire de Paris accueille le Concours Lépine et tous les soirs Yann Barthès donne la parole aux inventeurs. Ce jeudi soir, il reçoit Marie-Christine Ribatto et Denis Flota...",Quotidien,N/A,"Les inventeurs de la semaine : la Fouclette, pour ne plus choisir entre raclette et fondueToute la semaine, la Foire de Paris accueille le Concours Lépine et tous les soirs Yann Barthès donne la parole aux inventeurs. Ce jeudi soir, il reçoit Marie-Christine Ribatto et Denis Flota, inventeurs de la Fouclette, le petit appareil qui peut tout faire ou presque.Ma listePartager3m305 mai 2022 à 20:05Quotidien",https://schema.org,BreadcrumbList,,,https://photos.tf1.fr/1200/720/les-inventeurs-de-la-semaine-la-fouclette-pour-ne-plus-choisir-entre-raclette-et-fondue-98065-01129a-10e745-0@1x.jpg,,"{'@type': 'Organization', 'name': 'TF1+', 'alternateName': '', 'url': 'https://www.tf1.fr', 'foundingDate': '1975-01-06', 'parentOrganization': {'@type': 'Organization', 'name': 'Groupe TF1', 'foundingDate': '1987-04-16', 'url': 'https://groupe-tf1.fr/', 'sameAs': ['https://fr.wikipedia.org/wiki/Groupe_TF1', 'https://www.linkedin.com/company/groupetf1', 'https://twitter.com/GroupeTF1', 'https://www.wikidata.org/wiki/Q2412906']}, 'logo': {'@type': 'ImageObject', 'url': 'https://www.tf1.fr/public/3.27.1/tf1plus_picto_colored-DaCmxLf5.jpg', 'width': '1200', 'height': '630'}, 'address': {'@type': 'PostalAddress', 'streetAddress': '1 Quai du Point du Jour', 'addressLocality': 'Boulogne-Billancourt', 'postalCode': '92100', 'addressCountry': 'FR'}, 'sameAs': ['https://www.facebook.com/tf1plus', 'https://twitter.com/tf1plus', 'https://www.instagram.com/tf1plus', 'https://www.linkedin.com/company/groupetf1', 'https://fr.m.wikipedia.org/wiki/TF1%2B', 'https://www.wikidata.org/wiki/Q123485026']}",,,"[{'@type': 'ListItem', 'name': 'Accueil', 'position': 1, 'item': 'https://www.tf1.fr/'}, {'@type': 'ListItem', 'name': 'TMC', 'position': 2, 'item': 'https://www.tf1.fr/tmc'}, {'@type': 'ListItem', 'name': 'Quotidien', 'position': 3, 'item': 'https://www.tf1.fr/tmc/quotidien-avec-yann-barthes'}, {'@type': 'ListItem', 'name': 'Vidéos', 'position': 4, 'item': 'https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos'}, {'@type': 'ListItem', 'name': 'Les inventeurs de la semaine : la Fouclette, pour ne plus choisir entre raclette et fondue', 'position': 5}]",https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/les-inventeurs-de-la-semaine-la-fouclette-pour-ne-plus-choisir-entre-raclette-et-fondue-76743218.html,,,True,,,"Les inventeurs de la semaine : la Fouclette, pour ne plus choisir entre raclette et fondue","{'@type': 'Country', 'name': 'France'}",fr,True,"['Information', 'Talk Show', 'Actualité']","{'@type': 'TVSeries', 'name': 'Quotidien', 'url': 'https://www.tf1.fr/tmc/quotidien-avec-yann-barthes', 'image': 'https://photos.tf1.fr/1280/720/vignette-paysage-quotidien-2023-costume-a811cf-452b45-0@1x.jpg'}","{'@type': 'VideoObject', 'caption': 'Les inventeurs de la semaine : la Fouclette, pour ne plus choisir entre raclette et fondue', 'name': 'Les inventeurs de la semaine : la Fouclette, pour ne plus choisir entre raclette et fondue', 'description': 'Toute la semaine, la Foire de Paris accueille le Concours Lépine et tous les soirs Yann Barthès donne la parole aux inventeurs. Ce jeudi soir, il reçoit Marie-Christine Ribatto et Denis Flota, inventeurs de la Fouclette, le petit appareil qui peut tout faire ou presque.', 'thumbnailUrl': 'https://photos.tf1.fr/1200/720/les-inventeurs-de-la-semaine-la-fouclette-pour-ne-plus-choisir-entre-raclette-et-fondue-98065-01129a-10e745-0@1x.jpg', 'embedUrl': 'https://www.tf1.fr/player/104fb1c5-c7eb-4528-b4f9-65fa3726c029', 'uploadDate': '2022-05-05T20:05:00+02:00', 'duration': 'PT3M30S', 'playerType': 'HTML5', 'inLanguage': 'fr', 'publisher': {'@type': 'Organization', 'name': 'TMC', 'alternateName': 'Télé Monte-Carlo', 'url': 'https://www.tf1.fr', 'foundingDate': '1975-01-06', 'parentOrganization': {'@type': 'Organization', 'name': 'Groupe TF1', 'foundingDate': '1987-04-16', 'url': 'https://groupe-tf1.fr/', 'sameAs': ['https://fr.wikipedia.org/wiki/Groupe_TF1', 'https://www.linkedin.com/company/groupetf1', 'https://twitter.com/GroupeTF1', 'https://www.wikidata.org/wiki/Q2412906']}, 'logo': {'@type': 'ImageObject', 'url': 'https://www.tf1.fr/public/3.27.1/tf1plus_picto_colored-DaCmxLf5.jpg', 'width': '1200', 'height': '630'}, 'address': {'@type': 'PostalAddress', 'streetAddress': '1 Quai du Point du Jour', 'addressLocality': 'Boulogne-Billancourt', 'postalCode': '92100', 'addressCountry': 'FR'}, 'sameAs': ['https://www.facebook.com/tf1plus', 'https://twitter.com/tf1plus', 'https://www.instagram.com/tf1plus', 'https://www.linkedin.com/company/groupetf1', 'https://fr.m.wikipedia.org/wiki/TF1%2B', 'https://www.wikidata.org/wiki/Q123485026']}, 'accessibilityFeature': [], 'isAccessibleForFree': True, 'requiresSubscription': False, 'keywords': ['quotidien-interview', 'Replay', 'yann barthes', '', 'quotidien', 'Interview', '']}",,,,

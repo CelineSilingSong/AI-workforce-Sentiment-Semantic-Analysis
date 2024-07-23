@@ -1,0 +1,2130 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,mainEntityOfPage,headline,articleBody,wordCount,datePublished,dateModified,author,publisher,articleSection,image,itemListElement,copyrightYear,name,dateCreated,@id,url,creator,@graph,twitter:card,twitter:title,twitter:image,twitter:creator,inLanguage,thumbnailUrl,speakable,alternativeHeadline,isAccessibleForFree,hasPart,isPartOf,video
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFjdHVpYS5jb20vYWN0dWFsaXRlL2Zvcm1lei12b3VzLWdyYXR1aXRlbWVudC1hdXgtdGVjaG5pcXVlcy1kZS1wb2ludGUtZW4taW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS_SAQA?oc=5,Formez-vous gratuitement aux techniques de pointe en intelligence artificielle - Intelligence artificielle - Actu IA,2023-01-10,Intelligence artificielle - Actu IA,https://www.actuia.com,"Hugging Face, spécialiste des Transformers et éditeur de la célèbre librairie éponyme lance en français un cours en ligne d’apprentissage des techniques",N/A,"Hugging Face, spécialiste des Transformers et éditeur de la célèbre librairie éponyme lance en français un cours en ligne d’apprentissage des techniques","Hugging Face, spécialiste des Transformers et éditeur de la célèbre librairie éponyme lance en français un cours en ligne d’apprentissage des techniques",N/A,N/A,"
+
+Formez-vous gratuitement aux techniques de pointe en intelligence artificielle
+
+
+Le 10 janvier 2023, par
+Stephane Nachez.
+
+
+
+
+Hugging Face, spécialiste des Transformers et éditeur de la célèbre librairie éponyme lance en français un cours en ligne d’apprentissage des techniques au cœur des dernières innovations en matière d’intelligence artificielle. 
+Proposant à la fois des librairies très largement adoptées et à date, + de 100 000 modèles open source, + 19 000 datasets prêts à l’emploi, Hugging Face est devenu en quelques années un acteur incontournable en intelligence artificielle. La société propose aujourd’hui un cours 100% gratuit de formation au Traitement Automatique du Langage que nous ne pouvons que vous recommander.
+Rencontre avec Loïck Bourdois, expert en traitement automatique du langage et membre actif de la communauté Hugging Face, traducteur du cours en français :
+Comment avez-vous découvert Hugging Face ?
+J’ai découvert Hugging Face en 2019, peu après la sortie de GPT-2 mais bien avant que les premiers modèles de TAL français basés sur les transformers n’apparaissent. J’avais besoin d’une librairie de Traitement automatique du Langage performante dans le cadre de mon travail et Transformers d’Hugging Face était en train de s’installer comme librairie de référence. Elle a apporté un grand gain de temps à la communauté NLP (ndlr : traitement automatique du langage) en permettant de diviser par deux la complexité de certaines tâches, notamment grâce à sa classe Trainer qui permet de simplifier et optimiser l’entraînement de modèles. 
+Depuis, je l’utilise au quotidien. Aujourd’hui Hugging Face représente bien plus qu’une librairie mais tout un écosystème ouvert, avec notamment un hub de modèles mis à disposition de la communauté et l’ensemble des outils permettant de les déployer. Cela recouvre un champ disciplinaire plus vaste que le TAL, avec de la vision par ordinateur ou de l’audio par exemple.
+A qui se destine ce cours sur Transformers ?
+La cible de ce cours est très large, je pense qu’il apportera satisfaction tant à l’étudiant qu’au datascientist ou Machine Learning Engineer qui voudrait se spécialiser en NLP.
+L’avantage de Transformers est qu’elle s’adresse à tous les publics. On peut débuter très facilement dans le TAL avec la fonction Pipeline, qui est en quelque sorte l’épine dorsale de la chaîne de traitement du langage. C’est ce que nous proposons dans la première partie du cours qui a une approche très pratique.
+Les apprenants pourront mettre au point des premiers codes fonctionnels en seulement quelques lignes et donc dès le premier jour faire fonctionner des modèles de Traitement Automatique du Langage (TAL). Nous aborderons également dans cette première partie les principes sur lesquels reposent les transformers : ce qu’est un encodeur, un décodeur, et les maillons essentiels de la chaîne de TAL. Enfin, nous apprendrons à fine-tuner des modèles grâce à la fonction Trainer, ce qui ouvre tout le champ des possibles pour des applications réelles. Nous appliquerons ce fine tuning à un problème classique de classification de texte.
+Dans la seconde partie du cours, destinée aux personnes qui ont suivi la première partie ou ont déjà un niveau avancé, nous étudions plusieurs applications pratiques avec l’ensemble de librairies disponibles : le Question Answering, le résumé de texte, la classification de Tokens pour la reconnaissance d’entités nommées ou de Part-Of-Speech (POS).  Nous nous attarderons plus sur les principes sous-jacents et les différentes briques de la chaîne de TAL, de la gestion de dataset au déploiement dans Gradio, en passant par la tokénisation, une étape importante mais souvent sous-estimée dans le traitement du langage. Nous apprendrons enfin comment entraîner un modèle “from scratch”, c’est à dire de zéro, pour les besoins les plus poussés.
+Nous proposerons sans doute également courant 2023 une troisième partie, encore plus avancée, destinée aux experts, sur des concepts tels que le calcul de l’attention afin de repousser les limites actuelles du nombre de tokens pris en charge par séquence.
+Chaque partie du cours est subdivisée en différents chapitres (9 au total) qui représentent chacun environ 6 à 8 heures de travail, ce qui peut correspondre à un rythme hebdomadaire, mais chacun est libre d’avancer au rythme de son choix.
+Comme vous l’expliquiez, Hugging Face propose un large choix de modèles, que les apprenants seront donc capables d’exploiter à l’issue du cours, mais par quel modèle recommanderiez-vous de commencer pour du TAL en français ?
+La langue française est la deuxième langue la plus représentée en nombre de modèles  sur la plateforme après l’anglais. Deux très grands modèles français sont connus et disponibles : CamemBERT et FlauBERT. Mais selon les ressources disponibles, notamment le fait que l’on dispose ou non d’un GPU, on pourra opter pour différents modèles, et choisir par exemple DistilCamemBERT qui est comme son nom l’indique une version distillée de CamemBERT mise en ligne par l’équipe du Crédit Mutuel Arkea. L’utilisation que l’on souhaite faire du modèle compte également beaucoup, certains sont plus adaptés à certaines tâches bien spécifiques. La richesse et l’esprit de partage de la communauté permet d’avoir une profusion de modèles destinés à répondre à de nombreux cas d’usage. Il est facile de les tester en utilisant la fonctionnalité “Use In Transformers” disponible en haut à droite de chaque page de modèle, cela nous donne le code prêt à l’emploi nécessaire à son déploiement.
+L’un des intérêts de la version française du cours, au-delà d’une compréhension plus simple par les francophones, est que j’ai pris soin d’adapter le code et les commentaires chaque fois que cela me semblait pertinent, en proposant notamment un modèle français quand cela s’avérait judicieux. Les apprenants disposent ainsi de notebooks Google Colab et SageMaker pour PyTorch et TensorFlow, selon les préférences, entièrement adaptés en français et prêts à l’emploi sur l’ensemble des pages du cours. Les utilisateurs disposent ainsi d’une solution clef-en-main pour apprendre et expérimenter.
+La communauté est une composante essentielle de l’ADN d’Hugging Face, les apprenants peuvent-ils échanger pour progresser plus rapidement ?
+Oui, nous recommandons bien sûr l’échange et donnons d’ailleurs dans le cours des conseils sur : comment obtenir des réponses quand on est bloqué. Nous invitons les utilisateurs à participer à la section Cours du Forum Hugging Face ainsi qu’à rejoindre le serveur Discord pour échanger sur leur progression et s’épauler si le besoin se fait sentir.
+ 
+
+Informations détaillées : 
+Cours de Traitement Automatique du Langage (TAL) gratuit en ligne 
+Prérequis : connaissance de Python
+Amplitude horaire : Cours en 3 parties, subdivisé en chapitres. rythme libre.
+A l’issue du cours les apprenants maîtriseront l’ensemble des tâches courantes en TAL : Classification, Génération de texte, Résumé, Réponse aux questions..
+
+ 
+
+
+
+
+Recevez gratuitement l'actualité de l'intelligence artificielle
+Suivez la Newsletter de référence sur l'intelligence artificielle (+ de 18 000 membres), quotidienne et 100% gratuite.  
+
+Adresse e-mail 
+
+
+
+Prénom
+
+
+
+Nom
+
+
+
+Organisme/Société
+
+
+Fréquence
+
+ Quotidienne
+
+
+ Hebdomadaire - lundi matin
+
+
+ Hebdomadaire - vendredi après-midi
+
+
+
+
+
+
+Tout comme vous, nous n'apprécions pas le spam. Vos coordonnées ne seront transmises à aucun tiers.Laissez ce champ vide si vous êtes humain :  
+ ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5sYWRlcGVjaGUuZnIvMjAyMy8wMS8xMS9kZXMtZXR1ZGlhbnRzLXV0aWxpc2VudC1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1jaGF0Z3B0LXBvdXItcmVkaWdlci1sZXVyLWRldm9pci1ldC1zZS1mb250LWF0dHJhcGVyLTEwOTE5MTg4LnBocNIBAA?oc=5,Des étudiants utilisent l'intelligence artificielle ChatGPT pour rédiger leur devoir... et se font attraper - LaDepeche.fr,2023-01-11,LaDepeche.fr,https://www.ladepeche.fr,"Un professeur lyonnais a observé d&#39;étranges similitudes entre plusieurs copies, rendues par ses élèves. Ces derniers utilisaient en fait une intelligence artificielle qui leur permettait de reproduire des textes semblables à ceux d&#39;un être humain.&nbsp;",societe,"Un professeur lyonnais a observé d'étranges similitudes entre plusieurs copies, rendues par ses élèves. Ces derniers utilisaient en fait une intelligence artificielle qui leur permettait de reproduire des textes...","Un professeur lyonnais a observé d'étranges similitudes entre plusieurs copies, rendues par ses élèves. Ces derniers utilisaient en fait une intelligence artificielle qui leur permettait de reproduire des textes...",N/A,N/A,"
+Des étudiants utilisent l'intelligence artificielle ChatGPT pour rédiger leur devoir... et se font attraper
+
+
+
+
+
+
+
+
+
+
+
+
+
+Des étudiants utilisaient une intelligence artificielle pour rédiger leurs copies. 
+Pixabay / StartupStockPhotos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Société,                            France - Monde,                            Intelligence artificielle 
+
+
+Publié le 11/01/2023 à 17:26
+
+
+
+Robin Serradeil
+
+
+
+
+
+l'essentiel
+                                                                Un professeur lyonnais a observé d'étranges similitudes entre plusieurs copies, rendues par ses élèves. Ces derniers utilisaient en fait une intelligence artificielle qui leur permettait de reproduire des textes semblables à ceux d'un être humain. 
+                            
+
+
+
+D'étranges similitudes entre plusieurs copies. Pour Stéphane Bonvallet, tout a démarré de là. Professeur en handicapologie à la faculté de Lyon, celui-ci avait demandé à ses élèves d'effectuer un travail à la maison dédié aux ""grands traits de l’approche médicale du handicap en Europe"". Lors de la correction des copies, le professeur repère d'étranges ressemblances entre plusieurs devoirs : des constructions de phrase similaires, des arguments identiques... 
+Selon nos confrères du Progrès, Stéphane Bonvallet finit par s'entretenir avec l'une de ses étudiantes. Celle-ci explique alors que la moitié de la promotion - qui compte au total 14 étudiants - a utilisé l'outil ChatGPT. Il s'agit là d'une intelligence artificielle, lancée au début du mois de décembre, et utilisée aujourd'hui par plus d'un million d'utilisateurs dans le monde. Celle-ci est capable de produire des textes semblables à ceux d'un être humain. 
+Une pratique ""inquiétante""
+Pour le professeur, difficile de statuer : pour lui, il ne s'agit pas d'un acte de triche. ""N’ayant pas de cadre interdisant actuellement cette pratique, j’ai été contraint de les noter"", explique Stéphane Bonvallet. Les travaux qui ont été écrits avec cette intelligence artificielle ont tous obtenu des notes allant de 10 à 12,5. L'enseignant explique que tous les élèves qui en ont fait usage auront une note de 11,75. Stéphane Bonvallet lui, se dit cependant ""inquiet"" face à cette pratique : ""Elle pose un véritable problème d’intégration des savoirs, car les élèves n’ont plus besoin d’effectuer la moindre recherche pour composer.""
+D'autant que cet outil se généralise aujourd'hui en France. Selon le professeur, le recours à cette technologie serait particulièrement répandu dans les établissements scolaires de l'Hexagone. Aux États-Unis, ChatGPT a été interdit dans les établissements scolaires new-yorkais. 
+
+
+
+Voir les commentaires
+
+
+
+
+
+Sur le même sujet
+
+
+
+
+
+                                                            ChatGPT : on a demandé à l'intelligence artificielle d'écrire un article pour La Dépêche, voici le résultat
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            ChatGPT, un avant-goût de Terminator ? Comment la science-fiction est devenue une machine à anticiper notre peur des robots
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            ChatGPT : résumés de textes, lettres, recettes de cuisine… voici à quoi peut servir cette intelligence artificielle
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            VALL-E : après ChatGPT, voici une nouvelle intelligence artificielle capable de reproduire votre voix en l'écoutant 3 secondes
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            Des jeunes femmes à 40 dents et 7 doigts... les photos créées par MidJourney fascinent autant qu'elles inquiètent
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Envie de donner votre avis ?
+                                            (3 commentaires)
+
+
+
+
+J'ai déjà un compte
+Je me connecte
+
+
+
+Je n'ai pas de compte
+Je m'inscris gratuitement
+
+
+
+Une erreur est survenue.
+
+Vous souhaitez suivre ce fil de discussion ?
+
+                        Suivre ce fil
+                    
+
+
+
+Réagir
+
+
+
+
+                            Vous avez droit à 3 commentaires par jour. Pour contribuer en illimité, abonnez vous.
+                            
+ S'abonner
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+Lire la charte de modération
+
+
+
+
+
+Souhaitez-vous recevoir une notification lors de la réponse d’un(e) internaute à votre commentaire ?
+
+Oui, je veux suivre les réponses
+Non, ça ne m'intéresse pas
+
+
+
+
+
+
+Les commentaires (3)
+
+
+
+
+
+
+
+gipici31
+Il y a 1 année
+Le 12/01/2023 à 06:48
+Et oui à force de vouloir donner le BAC à tout le monde (merci Jospin et ses successeurs) on récupère des hordes de sous-doués dans le supérieur.
+Le pire c'est qu'ils se croient intelligents de savoir utiliser des technologies inventées et développées par d'autres qui ont eux une intelligence (mais pas toujours de morale pour mettre en libre accès des outils de cet acabit)
+
+
+
+Répondre
+Signaler un abus
+
+
+
+
+
+
+
+
+Lo repotegaire
+Il y a 1 année
+Le 11/01/2023 à 20:24
+""Pour le professeur, difficile de statuer : pour lui, il ne s'agit pas d'un acte de triche"".  Encore un courageux ! Cela veut dire aussi que dans quelques années nous allons tomber sur des médecins qui ne sont que de vulgaires copistes...
+
+
+
+Répondre
+Signaler un abus
+
+
+
+
+
+
+
+
+6hif
+Il y a 1 année
+Le 11/01/2023 à 17:50
+C'est déjà bien de savoir et de pouvoir utiliser ChatGPT ! Combien parmi ceux qui les critiques en seraient capables ?
+
+
+
+Répondre
+Signaler un abus
+
+
+
+
+
+Signaler un abus
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+",http://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.ladepeche.fr/2023/01/11/des-etudiants-utilisent-lintelligence-artificielle-chatgpt-pour-rediger-leur-devoir-et-se-font-attraper-10919188.php'}",Des étudiants utilisent l'intelligence artificielle ChatGPT pour rédiger leur devoir... et se font attraper,"D&#39;étranges similitudes entre plusieurs copies. Pour Stéphane Bonvallet, tout a démarré de là. Professeur en&nbsp;handicapologie à la faculté de Lyon, celui-ci avait demandé à ses élèves d&#39;effectuer un travail à la maison dédié aux &quot;grands traits de l&rsquo;approche médicale du handicap en Europe&quot;. Lors de la correction des copies, le professeur repère d&#39;étranges ressemblances entre plusieurs devoirs : des constructions de phrase similaires, des arguments identiques...&nbsp;
+
+Selon nos confrères du Progrès,&nbsp;Stéphane Bonvallet finit par s&#39;entretenir avec l&#39;une de ses étudiantes. Celle-ci explique alors que la moitié de la promotion - qui compte au total 14 étudiants - a utilisé l&#39;outil ChatGPT. Il s&#39;agit là d&#39;une intelligence artificielle, lancée au début du mois de décembre, et utilisée aujourd&#39;hui par plus d&#39;un million d&#39;utilisateurs dans le monde. Celle-ci est capable de produire des textes semblables à ceux d&#39;un être humain.&nbsp;
+
+Une pratique &quot;inquiétante&quot;
+
+Pour le professeur, difficile de statuer : pour lui, il ne s&#39;agit pas d&#39;un acte de triche. &quot;N&rsquo;ayant pas de cadre interdisant actuellement cette pratique, j&rsquo;ai été contraint de les noter&quot;, explique&nbsp;Stéphane Bonvallet. Les travaux qui ont été écrits avec cette intelligence artificielle ont tous obtenu des notes allant de 10 à 12,5. L&#39;enseignant explique que tous les élèves qui en ont fait usage auront une note de 11,75.&nbsp;Stéphane Bonvallet lui, se dit cependant &quot;inquiet&quot; face à cette pratique : &quot;Elle pose un véritable problème d&rsquo;intégration des savoirs, car les élèves n&rsquo;ont plus besoin d&rsquo;effectuer la moindre recherche pour composer.&quot;
+
+D&#39;autant que cet outil se généralise aujourd&#39;hui en France. Selon le professeur, le recours à cette technologie serait particulièrement répandu dans les établissements scolaires de l&#39;Hexagone. Aux États-Unis, ChatGPT a été interdit dans les établissements scolaires new-yorkais.&nbsp;",340.0,2023-01-11T16:26:02+00:00,2023-01-11T16:26:02+00:00,"{'@type': 'Person', 'name': 'Robin Serradeil'}","{'@type': 'Organization', 'name': 'ladepeche.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.ladepeche.fr/img/logos/logo-amp.png', 'width': 600, 'height': 60}}","['ladepeche.fr', 'actu']","{'@type': 'ImageObject', 'url': 'https://images.ladepeche.fr/api/v1/images/view/63bee292d6a3ba6a2f0a189d/hd/image.jpg?v=1', 'width': 1200, 'height': 500, 'name': 'Des étudiants utilisaient une intelligence artificielle pour rédiger leurs copies. ', 'author': {'@type': 'Person', 'name': 'Pixabay / StartupStockPhotos'}}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.ladepeche.fr/actu/', 'name': 'France - Monde'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.ladepeche.fr/actu/societe/', 'name': 'Société'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.ladepeche.fr/2023/01/11/des-etudiants-utilisent-lintelligence-artificielle-chatgpt-pour-rediger-leur-devoir-et-se-font-attraper-10919188.php', 'name': ""Des étudiants utilisent l'intelligence artificielle ChatGPT pour rédiger leur devoir... et se font attraper""}}]",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNhcGl0YWwuZnIvZWNvbm9taWUtcG9saXRpcXVlL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtdm9pY2ktY2UtcXVpLW5vdXMtYXR0ZW5kLWVuLTIwMjMtMTQ1Njc0OdIBAA?oc=5,Intelligence artificielle : voici ce qui nous attend en 2023 - Capital.fr,2023-01-08,Capital.fr,https://www.capital.fr,"Des journalistes spécialisés de la MIT Technology Review, Melissa Heikkilä et Will Douglas Heaven vous livre ici leurs grandes prédictions pour 2023 en matière d'intelligence artificielle (IA).",",intelligence artificielle,MIT Technology Review,Google,Facebook,article payant,","Des journalistes spécialisés de la MIT Technology Review, Melissa Heikkilä et Will Douglas Heaven vous livre ici leurs grandes prédictions pour 2023 en matière d'intelligence artificielle (IA).","Des journalistes spécialisés de la MIT Technology Review, Melissa Heikkilä et Will Douglas Heaven vous livre ici leurs grandes prédictions pour 2023 en matière d'intelligence artificielle (IA).",economie-et-societe,N/A,"
+
+
+
+ 
+
+
+			Intelligence artificielle : pourquoi les entreprises y succombent 
+									
+		
+
+
+
+
+				INTELLIGENCE ARTIFICIELLE
+			
+
+",http://schema.org,NewsArticle,https://www.capital.fr/economie-politique/intelligence-artificielle-voici-ce-qui-nous-attend-en-2023-1456749,Intelligence artificielle : voici ce qui nous attend en 2023,"En 2022, l'intelligence artificielle (IA) a fait preuve de cr&eacute;ativit&eacute;. Les mod&egrave;les d'IA peuvent d&eacute;sormais produire du texte, des images et m&ecirc;me des vid&eacute;os tr&egrave;s convaincantes et pour cela ils ont juste besoin d'un petit coup de main. Neuf mois plus t&ocirc;t, OpenAI a r&eacute;volutionn&eacute; l'IA g&eacute;n&eacute;rative avec la sortie de DALL-E 2, un mod&egrave;le deep-learning (ou apprentissage profond, en fran&ccedil;ais) capable de produire des images &agrave; partir d'instructions textuelles. Suite &agrave; cela, Google et Meta ont &eacute;galement apport&eacute; leur contribution avec des IA capables de produire des vid&eacute;os &agrave; partir de texte. Et il y a quelques semaines seulement, OpenAI a lanc&eacute; ChatGPT, le dernier mod&egrave;le de langage &eacute;tendu qui a enflamm&eacute; Internet gr&acirc;ce &agrave; son &eacute;loquence et la surprenante coh&eacute;rence de ses r&eacute;ponses.En 2022, le rythme effr&eacute;n&eacute; de l'innovation a &eacute;t&eacute; remarquable - et parfois &eacute;crasant. Qui aurait pu anticiper cela ? Et comment pouvons-nous pr&eacute;dire ce qui va suivre ?Heureusement, &agrave; la MIT Technology Review, nous avons la chance d'avoir non pas un mais deux journalistes sp&eacute;cialis&eacute;s qui passent leurs journ&eacute;es &agrave; suivre, de mani&egrave;re obsessionnelle, les derniers d&eacute;veloppements dans le domaine de l'intelligence artificielle. Ils vous pr&eacute;sentent ci-dessous les plus grandes tendances qui, selon eux, fa&ccedil;onneront le paysage de l'IA en 2023 :	
+		&Agrave; lire aussi : 
+		
+			ChatGPT : comment savoir si ce que nous lisons sur Internet a &eacute;t&eacute; &eacute;crit par un humain ou par une intelligence artificielle ?
+		
+	
+La r&eacute;volution ChatGPTCes derni&egrave;res ann&eacute;es, les mod&egrave;les de langage se sont multipli&eacute;s et se sont am&eacute;lior&eacute;s. Le point culminant actuel est ChatGPT. Ce dernier a &eacute;t&eacute; mis en ligne par OpenAI au d&eacute;but du mois de d&eacute;cembre 2022. Ce chatbot est une version am&eacute;lior&eacute;e de GPT-3, l'intelligence artificielle de la soci&eacute;t&eacute; qui a lanc&eacute; en 2020 cette vague d'outils capables d'imiter notre mani&egrave;re de parler. Mais trois ans, c'est long en mati&egrave;re d'IA et si ChatGPT a pris le monde d'assault - et a inspir&eacute; des messages sur les r&eacute;seaux sociaux et des titres de journaux &agrave; couper le souffle gr&acirc;ce &agrave; ses comp&eacute;tences conversationnelles fluides bien qu'inconscientes - tous les regards sont d&eacute;sormais tourn&eacute;s vers le prochain grand projet de l'entreprise : GPT-4. Selon les pronostics, 2023 sera l'ann&eacute;e du lancement de la prochaine g&eacute;n&eacute;ration de grands mod&egrave;les de langage. &Agrave; quoi devons-nous nous attendre ? Pour commencer, les futurs mod&egrave;les de langage pourraient &ecirc;tre plus que de simples mod&egrave;les de langage. OpenAI s'int&eacute;resse &agrave; la combinaison de diff&eacute;rentes modalit&eacute;s, comme la reconnaissance d'images ou de vid&eacute;os, avec du texte. Nous l'avons vu avec DALL-E. Mais si vous prenez les comp&eacute;tences conversationnelles de ChatGPT et les combinez avec la manipulation d'images pour les rassembler dans un seul mod&egrave;le, vous obtiendrez un outil beaucoup plus polyvalent et puissant. Imaginez que vous puissiez demander &agrave; un chatbot ce qu'il y a dans une image ou lui demander de g&eacute;n&eacute;rer une image et faire en sorte que ces interactions fassent partie d'une conversation permettant d'affiner les r&eacute;sultas plus naturellement qu'avec DALL-E. Nous avons d&eacute;j&agrave; eu un aper&ccedil;u avec Flamingo de DeepMind, un ""mod&egrave;le de langage visuel"" d&eacute;ploy&eacute; en avril. Celui-ci peut r&eacute;pondre &agrave; des requ&ecirc;tes sur des images en utilisant le langage naturel. Puis, en mai, DeepMind a d&eacute;voil&eacute; Gato, un mod&egrave;le ""g&eacute;n&eacute;raliste"" form&eacute; &agrave; l'aide des m&ecirc;mes techniques que celles utilis&eacute;es pour les grands mod&egrave;les de langage afin de r&eacute;aliser diff&eacute;rents types de t&acirc;ches : de la description d'images au contr&ocirc;le d'un bras robotique en passant par l'univers des jeux vid&eacute;os. OpenAI, DeepMind et d'autres sont d&eacute;j&agrave; en train de travailler sur la prochaine g&eacute;n&eacute;ration de grands mod&egrave;les de langage Si GPT-4 s'appuie sur une telle technologie, on peut s'attendre &agrave; ce que la puissance des meilleurs IA de langage et de cr&eacute;ation d'images (et plus encore) soit r&eacute;unie dans un m&ecirc;me ensemble. La combinaison des comp&eacute;tences en mati&egrave;re de langage et d'images pourrait en th&eacute;orie permettre &agrave; l'IA nouvelle g&eacute;n&eacute;ration de mieux comprendre les deux. Et OpenAI ne serait pas seul sur la ligne de d&eacute;part. Attendez-vous &agrave; ce que d'autres grands laboratoires, en particulier DeepMind, fassent avancer les mod&egrave;les multimodaux cette ann&eacute;e.Mais &eacute;videmment, il y a un inconv&eacute;nient : la prochaine g&eacute;n&eacute;ration de mod&egrave;les de langage h&eacute;ritera de la plupart des probl&egrave;mes de la g&eacute;n&eacute;ration actuelle tels que l'incapacit&eacute; de distinguer la r&eacute;alit&eacute; de la fiction et un penchant pour les pr&eacute;jug&eacute;s. Avec de meilleurs mod&egrave;les linguistiques, il sera plus difficile que jamais de faire confiance &agrave; diff&eacute;rents types de m&eacute;dias. Et comme personne n'a encore trouv&eacute; comment former des mod&egrave;les sur des donn&eacute;es extraites d'Internet sans qu'ils absorbent le pire de ce que contient le web, ils seront toujours remplis d'immondices.	
+		&Agrave; lire aussi : 
+		
+			Galactica : les raisons de l&rsquo;&eacute;chec du dernier grand mod&egrave;le de langage de Meta
+		
+	
+En 2023, l'industrie de l'IA sera davantage contr&ocirc;l&eacute;e ? Jusqu'&agrave; pr&eacute;sent, l'industrie de l'intelligence artificielle &eacute;tait un Far West, avec peu de r&egrave;gles r&eacute;gissant l'utilisation et le d&eacute;veloppement de la technologie. En 2023, cela va changer. Les r&eacute;gulateurs et l&eacute;gislateurs ont pass&eacute; l'an dernier &agrave; aiguiser leurs griffes. Cette ann&eacute;e, ils vont agir.Nous allons observer &agrave; quoi va ressembler la version finale de la loi europ&eacute;enne sur l'IA une fois que les l&eacute;gislateurs auront fini de la modifier. Cela pourra avoir lieu d'ici cet &eacute;t&eacute;. Il est presque certain que cette loi inclura des interdictions sur les pratiques de l'IA jug&eacute;es pr&eacute;judiciables aux droits de l'Homme tels que les syst&egrave;mes qui notent et classent les personnes en fonction de leur fiabilit&eacute;. L'utilisation de la reconnaissance faciale dans les lieux publics sera &eacute;galement limit&eacute;e pour les forces de l'ordre en Europe et il existe m&ecirc;me une tendance &agrave; l'interdire compl&egrave;tement pour les forces de l'ordre ainsi que pour les entreprises priv&eacute;es. Cette interdiction totale se heurte toutefois &agrave; une forte r&eacute;sistance de la part des pays qui souhaitent utiliser ces technologies pour lutter contre la criminalit&eacute;. L'UE travaille &eacute;galement &agrave; l'&eacute;laboration d'une nouvelle loi visant &agrave; tenir les entreprises d'IA responsables lorsque leurs produits causent des dommages comme des atteintes &agrave; la vie priv&eacute;e ou des d&eacute;cisions injustes prises par les algorithmes. Aux Etats-Unis, la Federal Trade Commission (FTC) surveille aussi de pr&egrave;s la mani&egrave;re dont les entreprises collectent les donn&eacute;es et utilisent les algorithmes d'IA. En 2022, la FTC a oblig&eacute; la soci&eacute;t&eacute; sp&eacute;cialis&eacute;e dans la perte de poids Weight Watchers &agrave; d&eacute;truire des donn&eacute;es et des algorithmes parce qu'elle avait collect&eacute; ill&eacute;galement des donn&eacute;es sur des enfants. Fin d&eacute;cembre, Epic, le studio derri&egrave;re des jeux vid&eacute;os comme Fortnite, a &eacute;chapp&eacute; &agrave; la m&ecirc;me sanction en acceptant de payer une amende de 520 millions de dollars. Le r&eacute;gulateur a pass&eacute; l'an dernier &agrave; recueillir des commentaires sur les r&egrave;gles potentielles concernant la fa&ccedil;on dont les entreprises traitent les donn&eacute;es et &eacute;laborent des algorithmes. Sa pr&eacute;sidente, Lina Khan, a d&eacute;clar&eacute; que l'agence avait l'intention de prot&eacute;ger les Am&eacute;ricains contre la surveillance commerciale ill&eacute;gale et les pratiques de s&eacute;curit&eacute; des donn&eacute;es avec ""urgence et rigueur"". Trouver un &eacute;quilibre entre la protection des consommateurs et le fait de ne pas entraver l'innovationEn Chine, les autorit&eacute;s ont r&eacute;cemment interdit la cr&eacute;ation des deepfakes sans le consentement de la personne copi&eacute;e. Par le bais de la loi sur l'IA, les Europ&eacute;ens veulent ajouter des messages d'avertissement pour indiquer que les gens interagissent avec des deepfakes ou des images, des sons ou vid&eacute;os g&eacute;n&eacute;r&eacute;s par une intelligence artificielle. Toutes ces r&eacute;glementations pourraient fa&ccedil;onner la mani&egrave;re dont les entreprises technologiques construisent, utilisent et vendent les technologies d'IA. Cependant, les r&eacute;gulateurs doivent trouver un &eacute;quilibre d&eacute;licat entre la protection des consommateurs et le fait de ne pas entraver l'innovation, ce que les lobbyistes de la tech n'ont pas peur de leur rappeler.L'IA est un domaine qui se d&eacute;veloppe &agrave; la vitesse de l'&eacute;clair. Le d&eacute;fi consistera &agrave; faire en sorte que les r&egrave;gles soient suffisamment pr&eacute;cises pour &ecirc;tre efficaces mais pas trop sp&eacute;cifiques afin d'&eacute;viter qu'elles deviennent rapidement obsol&egrave;tes. &Agrave; l'instar des efforts d&eacute;ploy&eacute;s par l'Union europ&eacute;enne pour r&eacute;glementer la protection des donn&eacute;es, si les nouvelles lois sont appliqu&eacute;es correctement, 2023 pourrait marquer le d&eacute;but d'une &egrave;re de d&eacute;veloppement d'une IA plus respectueuse de la vie priv&eacute;e et de l'&eacute;quit&eacute;. Une &egrave;re attendue depuis longtemps.	
+		&Agrave; lire aussi : 
+		
+			Union europ&eacute;enne : les entreprises tenues responsables des dommages caus&eacute;s par l&rsquo;IA ?
+		
+	
+BLOOM, une intelligence artificielle capable de comprendre n'importe quel texte, en 46 langues, et d'en restituer les informations principalesLes grandes entreprises technologiques ne sont pas les seuls acteurs &agrave; la pointe en mati&egrave;re d'IA. Une r&eacute;volution open source a commenc&eacute; &agrave; &eacute;galer, voire &agrave; d&eacute;passer, ce que font les laboratoires les plus riches.L'an dernier, nous avons vu le d&eacute;veloppement de BLOOM, le premier grande mod&egrave;le de langue multilingue construit par la communaut&eacute; et imagin&eacute; par la start-up franco-am&eacute;ricaine Hugging Face. Nous avons &eacute;galement assist&eacute; &agrave; une explosion en mati&egrave;re d'innovation autour du mod&egrave;le d'IA texte-image open-source Stable Diffusion. Ce dernier a rivalis&eacute; avec DALL-E 2 d'OpenAI. Les grandes entreprises qui ont historiquement domin&eacute; la recherche en IA proc&egrave;dent &agrave; des licenciements massifs et &agrave; des gels d'embauche alors que les perspectives &eacute;conomiques mondiales s'assombrissent. La recherche sur l'IA co&ucirc;te cher et, &agrave; mesure que les cordons de la bourse se resserrent, les entreprises devront faire tr&egrave;s attention aux projets dans lesquels elles investissent. Elles choisiront probablement ceux qui ont susceptibles de leur rapporter le plus d'argent plut&ocirc;t que les projets les plus innovants, int&eacute;ressants ou exp&eacute;rimentaux. C'est ce qu'explique Oren Etzioni, PDG de l'Allen Institute for AI, un organisme de recherche. Cette orientation vers les r&eacute;sultats se fait d&eacute;j&agrave; sentir chez Meta. L'entreprise a r&eacute;organis&eacute; ses &eacute;quipes de recherche sur l'IA et a transf&eacute;r&eacute; un grand nombre d'entre elles au sein d'&eacute;quipes charg&eacute;es de la fabrication de produits.Tandis que les grandes entreprises se serrent la ceinture, les nouvelles soci&eacute;t&eacute;s tape-&agrave;-l'oeil qui travaillent sur l'IA g&eacute;n&eacute;rative connaissent un regain d'int&eacute;r&ecirc;t de la part des fonds de capital-risque. Selon Oren Etzioni, cette ann&eacute;e pourrait constituer une aubaine pour les jeunes entreprises sp&eacute;cialis&eacute;e dans l'intelligence artificielle. Il y a beaucoup de talents sur le march&eacute; et, souvent, en p&eacute;riode de r&eacute;cession, les gens ont tendance &agrave; repenser leur vie - retourner dans le monde universitaire ou quitter une grande entreprise pour une start-up, par exemple. Les start-up et les universit&eacute;s pourraient devenir les centres de gravit&eacute; de la recherche fondamentale, estime Mark Surman, directeur ex&eacute;cutif de la Fondation Mozilla.""Nous entrons dans une &egrave;re o&ugrave; [le programme de recherche sur l'IA] sera moins d&eacute;fini par les grandes entreprises"", consid&egrave;re-t-il. ""C'est une opportunit&eacute;"". L'&egrave;re de la pharmatech est-elle lanc&eacute;e ?Ces derni&egrave;res ann&eacute;es, le potentiel de l'IA pour r&eacute;volutionner l'industrie pharmaceutique est devenu &eacute;vident. AlphaFold de DeepMind, une IA capable de pr&eacute;dire la structure des prot&eacute;ines (la cl&eacute; de leurs fonctions), a ouvert la voie &agrave; de nouveaux types de recherche en biologie mol&eacute;culaire, aidant les chercheurs &agrave; comprendre le fonctionnement des maladies et &agrave; cr&eacute;er de nouveaux m&eacute;dicaments pour les traiter. En novembre, Meta a d&eacute;voil&eacute; ESMFold, un mod&egrave;le beaucoup plus rapide pour pr&eacute;dire la structure des prot&eacute;ines - une sorte d'auto-compl&eacute;tion pour les prot&eacute;ines qui utilise une technique bas&eacute;e sur de grands mod&egrave;les de langage.&Agrave; elles deux, les entreprises DeepMind et Meta ont produit les structures de centaines de millions de prot&eacute;ines, y compris toutes celles connues de la science, et les ont partag&eacute;es dans de vastes bases de donn&eacute;es publiques. Les biologistes et les fabricants de m&eacute;dicaments b&eacute;n&eacute;ficient d&eacute;j&agrave; de ces ressources qui rendent la recherche de nouvelles structures de prot&eacute;ines presque aussi simple qu'une recherche sur Internet. Mais 2023 pourrait &ecirc;tre l'ann&eacute;e o&ugrave; ce travail de base portera r&eacute;ellement ses fruits. DeepMind a transf&eacute;r&eacute; ses activit&eacute;s biotechnologiques dans une soci&eacute;t&eacute; distincte, Isomorphic Labs, qui est rest&eacute;e secr&egrave;te depuis plus d'un an. Il y a de fortes chances qu'elle sorte quelque chose d'important cette ann&eacute;e. Plus loin dans la cha&icirc;ne de d&eacute;veloppement des m&eacute;dicaments, des centaines de start-up explorent aujourd'hui les moyens d'utiliser l'IA pour acc&eacute;l&eacute;rer la d&eacute;couverte de m&eacute;dicaments et m&ecirc;me concevoir des types de m&eacute;dicaments inconnus jusqu'ici. Actuellement, 19 m&eacute;dicaments d&eacute;velopp&eacute;s par des entreprises pharmaceutiques sp&eacute;cialis&eacute;es en IA sont en phase d'essais cliniques (contre z&eacute;ro en 2020) et d'autres y arriveront dans les mois &agrave; venir. Il est possible que les premiers r&eacute;sultats de certains d'entre eux soient publi&eacute;s cette ann&eacute;e, ce qui permettrait au premier m&eacute;dicament d&eacute;velopp&eacute; avec l'aide de l'IA d'arriver sur le march&eacute;. Toutefois, les essais cliniques peuvent prendre des ann&eacute;es. Malgr&eacute; tout, l'&egrave;re de la pharmatech est arriv&eacute;e et il n'y aura pas de retour en arri&egrave;re. ""Si tout est fait correctement, je pense que nous verrons des choses incroyables et assez &eacute;tonnantes se produire dans cet espace"", d&eacute;clare Lovisa Afzelius qui travaille pour Flagship Pioneering, une soci&eacute;t&eacute; de capital-risque qui investit dans les biotechnologies.Article de Melissa Heikkil&auml; et Will Douglas Heaven, traduit de l'anglais par Kozi Pastakia.	
+		&Agrave; lire aussi : 
+		
+			Des laboratoires de biotechnologie utilisent l&rsquo;IA pour inventer de nouveaux m&eacute;dicaments
+		
+	
+",,2023-01-08T21:15:29+01:00,2023-01-08T21:15:29+01:00,"[{'@type': 'Person', 'name': 'MIT Technology Review', 'url': 'https://www.capital.fr/auteur/mit-technology-review'}]","{'@type': 'Organization', 'name': 'Capital.fr', 'url': 'https://www.capital.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.capital.fr/assets/capital/modern/images/logo_capital.5e6f8109c8f4ffb474a4.png', 'height': 60, 'width': 175}}",economie-et-societe,"{'url': 'https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2023.2F01.2F03.2Fc06bcc71-7dea-4930-929e-f9663bd845f5.2Epng/1200x630/cr/wqkgU1RFUEhBTklFIEFSTkVUVC9NSVRUUjsgVU5TUExBU0gsIFBFWEVMUywgV0VMTENPTUUgQ09MTEVDVElPTiAvIENBUElUQUw%3D/intelligence-artificielle-voici-ce-qui-nous-attend-en-2023-1456749.jpg', 'width': 1200, 'height': 630, '@type': 'ImageObject'}","[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Accueil', '@id': 'https://www.capital.fr/'}}]",2023,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5ldXJhY3Rpdi5mci9zZWN0aW9uL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUvbmV3cy9sb2ktc3VyLWxpYS1sYS1wb3NpdGlvbi1kZS1sYWxsZW1hZ25lLXByb2NoZS1kZS1jZWxsZS1kdS1wYXJsZW1lbnQtZXVyb3BlZW4v0gEA?oc=5,Loi sur l'IA : la position de l'Allemagne proche de celle du Parlement européen - EURACTIV France,2023-01-09,EURACTIV France,https://www.euractiv.fr,Des négociations interinstitutionnelles concernant le règlement sur l’IA (AI Act) sont attendues ,N/A,"Des négociations interinstitutionnelles concernant le règlement sur l’IA (AI Act) sont attendues plus tard dans l’année. Alors que le Conseil de l’UE a arrêté sa position, l’Allemagne a émis des réserves sur certains points et se rapproche davantage de la position du Parlement européen.","Des négociations interinstitutionnelles concernant le règlement sur l’IA (AI Act) sont attendues plus tard dans l’année. Alors que le Conseil de l’UE a arrêté sa position, l’Allemagne a émis des réserves sur certains points et se rapproche davantage de la position du Parlement européen.",Intelligence Artificielle,N/A,"
+
+
+ Par :  Luca Bertuzzi  |  Euractiv.com  | translated by  Arthur Riffaud    Jan 9, 2023 (mis à jour:  Aug 25, 2023) 
+
+
+
+Volker Wissing, ministre fédéral allemand du Numérique et des Transports, lors du Conseil « Transports, télécommunications et énergie » à Bruxelles en décembre 2022. [European Union] 
+Euractiv fait partie de The Trust Project >>>  
+
+
+
+Langues : English | DeutschImprimer Email Facebook X LinkedIn WhatsApp Telegram  
+
+Des négociations interinstitutionnelles concernant le règlement sur l’intelligence artificielle (AI Act) sont attendues plus tard dans l’année. Alors que le Conseil de l’Union européenne a arrêté sa position, l’Allemagne a émis des réserves sur certains points et se rapproche davantage de la position du Parlement européen que de celle d’autres États membres.
+Les ministres européens réunis au sein du Conseil « Télécommunications » ont confirmé le 6 décembre dernier leur soutien à l’approche générale du règlement sur l’intelligence artificielle (IA), une législation destinée à réglementer l’IA en fonction de son potentiel de nuisance.
+Tout en saluant le compromis, le ministre fédéral allemand du Numérique, Volker Wissing, a constaté que « des améliorations sont encore possibles ». Il souhaite également que les commentaires de l’Allemagne soient pris en compte lors des négociations avec le Parlement européen et la Commission — une phase appelée « trilogue ».
+Le choix des éléments que Berlin continuera à faire valoir lors de ces trilogues pourrait s’avérer décisif lors des négociations, dans la mesure où le plus grand pays d’Europe pourrait permettre aux eurodéputés de faire pencher la balance au sein du Conseil.
+
+
+
+Loi sur l’IA : les États membres adoptent une position commune
+Les ministres européens ont donné leur accord à une approche générale du règlement sur l’intelligence artificielle (AI Act) lors de la réunion du Conseil « Télécommunications » mardi (6 décembre).
+
+
+Biométrie
+L’Allemagne est favorable à une interdiction totale de la technologie de reconnaissance biométrique, comme l’indique déjà l’accord de coalition signé en 2021 par les trois partis au pouvoir dans le pays. Il s’agit là également d’un élément fondamental pour les co-rapporteurs du Parlement.
+Or, à en croire des commentaires écrits soumis en octobre et obtenus par EURACTIV, Berlin est uniquement favorable à l’interdiction de l’identification biométrique en temps réel dans les espaces publics. Elle souhaite cependant autoriser l’identification a posteriori.
+Parallèlement, les Allemands se sont réservé le droit de fournir des commentaires plus approfondis sur la question à un stade ultérieur, à mesure que la discussion évolue.
+Par ailleurs, l’Allemagne a souhaité que la définition des données biométriques recoupe celle figurant dans le Règlement général sur la protection des données (RGPD) de l’UE afin d’éviter toute divergence terminologique et de classer les systèmes de catégorisation biométrique comme étant à haut risque.
+
+
+
+Loi sur l'IA : la reconnaissance faciale au cœur des discussions au Parlement européen
+Les eurodéputés ont tenu leur premier débat politique sur le règlement sur l’intelligence artificielle (IA) mercredi. La discussion a progressé vers des sujets sensibles comme la question très controversée de la reconnaissance biométrique.
+
+
+Police prédictive et reconnaissance des émotions
+Autre sujet de controverse : l’application des systèmes d’IA dans les procédures pénales. Dans la même série de commentaires, Berlin a fait pression pour interdire toute application d’IA qui se substitue aux juges humains dans l’évaluation du risque qu’un individu a de commettre ou de répéter une infraction pénale.
+Ces applications d’IA ont simplement été incluses dans les catégories à haut risque dans l’accord définitif du Conseil. Il semble toutefois qu’un fort soutien existe au Parlement européen en faveur de l’interdiction pure et simple de ces pratiques.
+Les Allemands souhaitaient également ajouter à la liste des pratiques interdites les systèmes d’IA utilisés par les autorités publiques en tant que polygraphes — également appelés détecteurs de mensonges — ou tout autre outil de reconnaissance des émotions. Ils ont également demandé que tous les autres systèmes de reconnaissance des émotions soient classés comme étant à haut risque.
+
+
+
+Les députés européens finalisent le rapport préliminaire sur l'IA
+Les deux co-rapporteurs du Parlement européen ont finalisé le rapport préliminaire sur l’intelligence artificielle (IA) lundi, couvrant les points sur lesquels ils ont trouvé un terrain d’entente.
+
+
+Mise en application de la loi
+Le texte du Conseil de l’UE a introduit plusieurs exceptions importantes pour les services répressifs. L’approche de l’Allemagne consistait quant à elle globalement à mettre en place des garanties plus strictes pour l’IA utilisée par les services répressifs.
+Berlin a également préconisé d’exclure ces applications du principe de la « règle des deux hommes », selon laquelle la surveillance humaine doit être assurée par au moins deux personnes. La raison avancée est que, dans de nombreux cas, un seul agent est nécessaire pour prendre la décision.
+Cette incohérence vient probablement du fait que la liste des commentaires est issue de différents ministères dirigés par différents membres de la coalition. Il n’est pas toujours évident de déterminer quel est le point de vue du ministère qui a prévalu sur un certain sujet, rendant ainsi la position allemande difficile à interpréter pour les responsables politiques de l’UE.
+Tout au long des négociations, le gouvernement allemand a demandé que les dispositions de l’IA relatives à la sécurité et à la migration soient regroupées dans une proposition distincte. Cette approche, qui nécessiterait une proposition législative distincte à vocation générale, n’a jusqu’à présent suscité que peu d’intérêt.
+
+
+
+Loi sur l'IA : la présidence tchèque de l'UE propose des exigences adaptées pour l'IA à usage général
+La République tchèque souhaite que la Commission évalue la meilleure façon d’adapter l’obligation de la loi sur l’intelligence artificielle (IA) à l’IA à usage général, selon le dernier texte de compromis consulté par EURACTIV.
+
+
+L’IA sur le lieu de travail
+Le gouvernement allemand a également fait pression pour interdire tout système d’IA destiné à surveiller systématiquement les performances et le comportement des employés sans motif précis. Cette surveillance se traduit en effet par une pression psychologique les empêchant de se comporter librement.
+« Ces systèmes d’IA permettent de suivre avec précision les performances et le comportement des employés, de générer des probabilités qu’un employé démissionne ou concernant sa productivité, d’indiquer quels employés pourraient véhiculer un climat négatif et, en définitive, de dresser des profils complets des employés », peut-on lire dans le commentaire.
+Dans l’approche générale, l’Allemagne a réussi à obtenir une référence au fait que les États membres restent libres de prendre des mesures au niveau national dans la mise en place de règles plus spécifiques pour l’IA sur le lieu de travail. Un libellé similaire a été introduit sur la protection des mineurs.
+Classification à haut risque
+La présidence tchèque du Conseil est parvenue à introduire un niveau supplémentaire dans la classification à haut risque. Ainsi, l’IA serait considérée comme présentant un risque important non seulement en fonction de son domaine d’application, mais également lorsqu’elle contribue à influencer le processus décisionnel.
+Les Allemands se sont opposés à cette approche, soulignant que les fournisseurs d’IA ne seraient pas en mesure d’anticiper les différentes utilisations. Ils soulignent également l’absence d’obligation pour les fournisseurs de systèmes ne présentant pas un risque élevé d’expliquer la manière dont ils sont parvenus à une telle classification.
+Berlin a formulé d’autres propositions sur les applications de l’IA devant être considérées comme à haut risque. Parmi celles-ci figurent les industries à forte intensité d’émissions, l’élimination des eaux usées, les composants de sécurité pour les infrastructures numériques critiques et les systèmes d’alerte publique pour les phénomènes météorologiques extrêmes.
+Parmi les propositions supplémentaires relatives à la liste des applications à haut risque figurent les systèmes d’IA utilisés pour attribuer des logements sociaux, recouvrer des dettes et fournir des prix personnalisés. Ces applications sont en effet susceptibles de défavoriser les catégories les plus vulnérables.
+
+
+
+Loi sur l'IA : la présidence tchèque de l'UE propose une classification restreinte des systèmes à haut-risque
+Un nouveau compromis partiel sur la loi sur l’IA, consulté par EURACTIV vendredi, élabore davantage le concept de « niveau supplémentaire » qui qualifierait une IA comme étant à haut risque uniquement si elle a un impact important sur la prise de décision.
+
+
+[Édité par Anne-Sophie Gayet]
+
+
+
+
+Langues : English | DeutschImprimer Email Facebook X LinkedIn WhatsApp Telegram  
+
+
+Sujets  
+ Économie forces de l'ordre Intelligence Artificielle intelligence artificielle police prédictive reconnaissance biométrique reconnaissance des émotions règlement sur l'IA système à haut-risque système de reconnaissance biométrique Tech 
+ 
+
+",https://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.euractiv.fr/section/intelligence-artificielle/news/loi-sur-lia-la-position-de-lallemagne-proche-de-celle-du-parlement-europeen/'}",Loi sur l’IA : la position de l’Allemagne proche de celle du Parlement européen,,,2023-01-09 15:50:16,2023-08-25 15:22:15,"[{'@type': 'Person', 'name': 'Luca Bertuzzi', 'url': 'https://www.euractiv.fr/authors/luca-bertuzzi/'}]","{'@type': 'Organization', 'name': 'EURACTIV', 'logo': {'@type': 'ImageObject', 'url': 'https://www.euractiv.com/wp-content/themes/euractiv_com/logo2x.png'}}","['Économie', 'Intelligence Artificielle', 'Tech']","['https://www.euractiv.fr/wp-content/uploads/sites/3/2023/01/76f2e57d-f342-4ac1-87c1-cfef6414c7d2-scaled.jpg', 'https://www.euractiv.fr/wp-content/uploads/sites/3/2023/01/76f2e57d-f342-4ac1-87c1-cfef6414c7d2-800x600.jpg', 'https://www.euractiv.fr/wp-content/uploads/sites/3/2023/01/76f2e57d-f342-4ac1-87c1-cfef6414c7d2-800x450.jpg']",,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jb2UuaW50L2ZyL3dlYi9hcnRpZmljaWFsLWludGVsbGlnZW5jZS8tL3dlYmluYWlyZS1sYS1nZXN0aW9uLWRlcy1yaXNxdWVzLWlhLWxlcy1pbml0aWF0aXZlcy1uYXRpb25hbGVzLWV0LWludGVybmF0aW9uYWxlc9IBAA?oc=5,Webinaire : La gestion des risques IA - les initiatives nationales et internationales - The Council of Europe,2023-01-08,The Council of Europe,https://www.coe.int,Dernières nouvelles du Conseil de l’Europe en lien avec le sujet de l’IA,"newsroom,ai,dg1 droits de l'homme et etat de droit,division centrale dg1,general,compulsory,public, actualités, ia, conseil de l’europe",Dernières nouvelles du Conseil de l’Europe en lien avec le sujet de l’IA, Strasbourg 08/01/2023,N/A,N/A,"
+
+Strasbourg
+08/01/2023
+
+
+                Diminuer la taille du texte
+            
+
+                Augmenter la taille du texte
+            
+
+                Imprimer la page
+            
+
+
+
+
+
+L'Intelligence Artificielle (l’IA) offre d'énormes avantages et présente également des risques réels tels que les préjugés et la discrimination, dont certains se matérialisent déjà en tant que préjudices pour les individus et la société. Le développement de systèmes d'IA fiables nécessite d'évaluer les impacts et de gérer les risques liés à l'IA. La demande mondiale augmente pour des approches basées sur les risques et des évaluations d'impact afin de faciliter la responsabilisation tout au long du cycle de vie d’un système d'IA. Dans le même temps, l'interopérabilité entre les différents cadres et les normes émergentes est souhaitable. Cela nécessite une coopération et une coordination entre les acteurs nationaux et internationaux, étatiques et non- étatiques, qui élaborent des normes et des cadres, rendant finalement l'IA digne de confiance.
+ 
+Le mercredi 11 janvier 2023 de 13h00 à 14h00 CET, le secrétariat du Comité sur l'intelligence artificielle (CAI) organise un webinaire organisé avec l'aimable et généreux soutien du gouvernement du Japon. Elle aura lieu en marge de la troisième réunion plénière du CAI. Il est thématiquement lié à l'examen du projet de Convention du Conseil de l'Europe sur l'IA, les droits de l'homme, la démocratie et l'État de droit et à la méthodologie d'évaluation des risques et de l'impact (HUDERIA) qui seront discutés lors de cette réunion. L'événement réunit des experts du monde entier pour discuter des défis de l'élaboration des cadres internationaux (Commission européenne, OCDE, UNESCO) et nationaux (Canada, Japon, Royaume-Uni, États-Unis) de gestion des risques et des impacts, ainsi que des défis de les rendre mutuellement interopérable.
+ 
+Moderateur: 
+Mr Sebastian Hallensleben (CEN CENELEC)
+ 
+Intervenants:
+Ms Doaa Abu-Elyounes (l’UNESCO)
+Mr Omar Bitar (le Conseil du Trésor du Canada)
+Professor Arisa Ema (l’ université de Tokyo, le Japon)
+Mr Kilian Gross (La Commission Européenne, DG Connect)
+Professor David Leslie (Alan Turing Institute, le Royaume-Uni)
+Ms Elham Tabassi (NIST, les Etats-Unis)
+Ms Karine Perset (l’OCDE)
+ 
+Informations utiles:
+Lien de connexion
+Liste de intervenants
+Webcast du Wébinaire
+Follow us social media:
+Twitter
+",https://schema.org,WebPage,"{'@type': 'WebPage', '@id': 'https://www.coe.int/fr/web/artificial-intelligence/-/webinaire-la-gestion-des-risques-ia-les-initiatives-nationales-et-internationales'}",Webinaire : La gestion des risques IA - les initiatives nationales et internationales,,,2023-01-08T15:13:00+00:00,2024-05-17,"{'@type': 'Organization', 'name': 'Council of Europe'}","{'@type': 'Organization', 'name': 'Council of Europe', 'logo': {'@type': 'ImageObject', 'url': 'https://static.coe.int/pics/logos/desktop/logo-coe-google-news.png', 'width': 78, 'height': 60}}",,"{'@type': 'ImageObject', 'url': 'https://www.coe.int/documents/40452431/0/chuvak+%284%29.png/d35ce990-88fb-90c2-53f8-0114ba455d13', 'height': 489, 'width': 870}",,,Actualité,2018-11-28,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdXNiZWtldHJpY2EuY29tL2ZyL2FydGljbGUvdW5lLWlhLXZhLXBsYWlkZXItYXVwcmVzLWQtdW4tYXZvY2F0LWRhbnMtdW4tdHJpYnVuYWzSAQA?oc=5,Une IA va plaider auprès d'un avocat dans un tribunal - Usbek & Rica,2023-01-09,Usbek & Rica,https://usbeketrica.com,"C'est une grande première. Une intelligence artificielle s'apprête à assister un avocat dans sa plaidoirie pour une affaire d'excès de vitesse, à San Francisco. Souhaitant rendre les frais de justice moins coûteux, la start-up DoNotPay espère peu à peu remplacer des avocats par des IA.",N/A,"C'est une grande première. Une intelligence artificielle s'apprête à assister un avocat dans sa plaidoirie pour une affaire d'excès de vitesse, à San Francisco. Souhaitant rendre les frais de justice moins coûteux, la start-up DoNotPay espère peu à peu remplacer des avocats par des IA.","C'est une grande première. Une intelligence artificielle s'apprête à assister un avocat dans sa plaidoirie pour une affaire d'excès de vitesse, à San Francisco. Souhaitant rendre les frais de justice moins coûteux, la start-up DoNotPay espère peu à peu remplacer des avocats par des IA.",N/A,N/A,"
+
+
+
+
+
+
+Une IA va plaider auprès d’un avocat dans un tribunal
+
+
+
+
+
+
+#IA
+
+
+#Justice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image d'illustration
+© Andrey_Popov, Shutterstock
+
+
+
+
+
+
+
+C’est une grande première. Une intelligence artificielle s’apprête à assister un avocat dans sa plaidoirie pour une affaire d’excès de vitesse, à San Francisco. Souhaitant rendre les frais de justice moins coûteux, la start-up DoNotPay espère peu à peu remplacer des avocats par des IA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emilie Echaroux
+
+
+
+
+- 11 January 2023
+
+
+
+
+
+
+
+#IA
+
+
+#Justice
+
+
+
+
+
+
+
+
+
+
+Après le générateur d’illustrations de DALL.E et l’agent conversationnel ChatGPT, c’est au tour du chatbot de DoNotPay de révolutionner le marché de l’intelligence artificielle en investissant les salles en huis-clos du tribunal. La start-up DoNotPay, qui se présente comme la créatrice du « premier robot-avocat du monde », prévoit de mener deux affaires de contravention pour excès de vitesse au tribunal de San Fransisco le mois prochain. D’abord rapporté par le magazine scientifique britannique New Scientist, le plan de DoNotPay est de faire porter à l’assistant juridique de l’avocat de la défense une oreillette sans fil du type AirPod au sein même de la salle d’audience. L’IA écoutera les arguments du poursuivant en temps réel avant d’expliquer à l’avocat, via les écouteurs, ce qu’il doit dire aux juges. Cette audience sans précédent devrait avoir lieu le mois prochain, mais les créateurs du robot-avocat n’ont divulgué ni le lieu du tribunal ni la date exacte du procès. En cas de défaite, l’entreprise a accepté de couvrir toutes les amendes.  Grande première dans l’histoire de la justice, cette affaire a pris de l’ampleur, le 9 janvier dernier, lorsque le PDG de DoNotPay a déclaré être à la recherche de cobayes pour tester son intelligence artificielle en conditions réelles. Joshua Browder a en effet proposé à tout avocat plaidant, dans les semaines à venir, devant la Cour suprême des États-Unis, de participer à son expérience contre la somme d’un million de dollars. Le but ? Mettre à l’épreuve son robot-avocat, dont l’intelligence artificielle repose sur le programme viral GPT-3 d’OpenAI, au cours d’un procès plus complexe que ceux portant sur des affaires d’excès de vitesse. « Le droit est presque comme un code et un langage combinés, c’est donc le cas d’utilisation parfait pour l’IA, a déclaré Joshua Browder, le fondateur de la start-up DoNotPay, dans une interview pour le quotidien américain USA TODAY. Je pense que c’est le plus gros potentiel pour […] la technologie des grands modèles linguistiques ».
+
+
+
+
+
+ 
+
+
+
+
+
+Fondée en 2015, la société américaine DoNotPay proposait jusqu’à présent ses services juridiques aux consommateurs confrontés à des frais de retard ou à des amendes. Leur chatbot permet par exemple de faire appel des contraventions de stationnement, de demander des remboursements aux compagnies aériennes ou encore de négocier des factures. Informaticien de formation, Joshua Browder explique dans une vidéo promotionnelle qu’il a créé son entreprise « par accident » après avoir quitté son Royaume-Uni natal pour s’installer aux États-Unis afin d’étudier à Stanford. Pendant ses études, il a commencé à accumuler des contraventions de stationnement qu’il n’avait pas les moyens de payer. « Je suis devenu un expert juridique, [capable d’identifier] toutes les raisons grâce auxquelles les gens peuvent échapper aux amendes de stationnement », assure le Californien. Réalisant que le processus fastidieux de rédaction de lettres juridiques pour faire appel des contraventions pouvait être automatisé, il a créé un chatbot, grâce auquel les contribuables pouvaient contester leurs contraventions.
+
+
+
+
+
+
+
+
+
+
+
+
+Inscris-toi !
+
+
+
+
+
+Une IA « trop polie »Mais c’est dans un tout autre contexte que l’IA mise au point par DoNotPay - signifiant littéralement« Ne payez pas » - devrait désormais intervenir. Voilà maintenant deux ans que Joshua Browder et ses équipes tentent de conquérir les salles de procès. Pour l’heure, peu de détails ont été divulgués sur le procédé suivi par le robot-avocat pour assister la défense. Quel type de conseils pourrait-il donner ? Sur quelles lois fonde-t-il sa plaidoirie ? Présente-t-il un argument complet à la défense ou seulement des pistes ? Il faudra attendre février pour le savoir. Néanmoins, on sait déjà que le logiciel de l'IA a été ajusté pour qu'elle ne réagisse pas automatiquement à tout ce qu'elle entend au tribunal. Au lieu de cela, elle écoutera les arguments et les analysera avant d'indiquer au défendeur comment répondre.Autre enjeu : adapter le comportement de l’intelligence artificielle à ses interlocuteurs. Jusqu’à présent, le chatbot de DoNotPay se montrait particulièrement poli envers les entreprises en conflit avec ses clients. La start-up a donc pris des mesures pour éviter que son robot-avocat n'exagère les faits, ne soit « trop polie » ou encore ne réponde à tout ce que dit le juge, y compris les déclarations rhétoriques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+« Je pense que [les avocats] seront définitivement remplacés, et ils devraient l’être »
+
+
+
+
+Joshua Browder, PDG de DoNotPay
+
+
+
+
+
+Partager sur Twitter
+
+
+
+
+
+Partager sur Facebook
+
+
+
+
+
+
+
+Adieu les avocats ?Fort de cette expérience sans précédent, Joshua Browder espère assouplir les règles qui interdisent l’utilisation de l’IA dans les tribunaux, ce qui, selon lui, nuit aux personnes précaires. En effet, près de 80 % des contribuables américains à faibles revenus ne peuvent se payer une assistance juridique, selon l’American Bar Association. Au Royaume-Uni aussi, le coût d’un avocat pour se défendre contre une contravention pour excès de vitesse peut être élevé, atteignant jusqu’à 1 000 livres sterling, soit 1 130 euros, selon les circonstances de l’affaire. « Il y aura encore beaucoup de bons avocats qui plaideront peut-être devant la Cour européenne des droits de l’homme, assure le PDG de DoNotPay au New Scientist, mais beaucoup d’avocats demandent beaucoup trop d’argent pour copier et coller des documents. Je pense qu’ils seront définitivement remplacés, et ils devraient l’être ».
+
+
+
+
+
+
+Pensez-vous que les intelligences artificielles finiront par remplacer les avocats dans le cadre de procès mineurs, comme les contraventions ?
+
+
+
+
+
+
+
+
+
+
+Oui
+
+
+
+
+
+
+
+
+Non
+
+
+
+
+
+
+
+Mais contrairement aux espoirs pas tout à fait désintéressés formulés par Joshua Browder ; le métier d’avocat n’est pas près de disparaître. Selon Neil Brown, du cabinet britannique decoded.legal, « nous sommes assez loin de pouvoir faire ces choses de manière fiable et de nous débarrasser des avocats ». Et de conclure : « Nous devons être très prudents avant de faire de telles affirmations ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emilie Echaroux
+
+
+
+
+- 11 January 2023
+
+
+
+
+
+
+
+
+
+Share on Facebook
+
+
+
+
+
+Share on Twitter
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmxldGVtcHMuY2gvY3liZXIvbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtcXVvaS1mYWlyZdIBAA?oc=5,"L’intelligence artificielle, pour quoi faire? - Le Temps",2023-01-08,Le Temps,https://www.letemps.ch,"En 2022, DALL·E, ChatGPT, des intelligences artificielles (IA) capables de générer des images ou des textes à partir de quelques instructions, ont bluffé les internautes. Mais au-delà de leur dimension divertissante, leurs applications concrètes restent encore floues",['Premium'],"En 2022, DALL·E, ChatGPT, des intelligences artificielles (IA) capables de générer des images ou des textes à partir de quelques instructions, ont bluffé les internautes. Mais au-delà de leur dimension divertissante, leurs applications concrètes restent encore floues","En 2022, DALL·E, ChatGPT, des intelligences artificielles (IA) capables de générer des images ou des textes à partir de quelques instructions, ont bluffé les internautes. Mais au-delà de leur dimension divertissante, leurs applications concrètes restent encore floues",N/A,N/A,"
+
+
+Accueil
+Cyber
+
+
+
+
+Réservé aux abonnés
+
+
+
+
+L’intelligence artificielle, pour quoi faire?
+
+En 2022, DALL·E, ChatGPT, des intelligences artificielles (IA) capables de générer des images ou des textes à partir de quelques instructions, ont bluffé les internautes. Mais au-delà de leur dimension divertissante, leurs applications concrètes restent encore floues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image d'illustration — © Noemi Renevey/@_spacedove
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                  Etienne Meyer-Vacherand
+ 
+
+
+
+Publié le 08 janvier 2023 à 15:09. / Modifié le 10 juin 2023 à 18:45.
+
+
+
+
+Partager
+
+
+
+
+Partager
+
+
+
+
+
+
+
+Partager un lien vers cet article
+
+Copier le lien
+ 
+
+
+Partager cet article par email
+
+Email
+
+
+
+
+Partager cet article sur Whatsapp
+
+Whatsapp
+
+
+
+
+Partager cet article sur Linkedin
+
+Linkedin
+
+
+
+
+Partager cet article sur Facebook
+
+Facebook
+
+
+
+
+Partager cet article sur Twitter
+
+X
+
+
+
+
+
+
+
+
+Offrir l'article
+
+
+
+
+Offrir l'article!
+        
+
+
+
+
+Faites plaisir à vos proches. En vous abonnant, vous pouvez offrir des articles.
+S'abonner
+
+
+              Déjà abonné(e) ?
+              Se connecter
+
+
+
+
+
+Bond en avant, année de l’IA, révolution… Pour certains observateurs, 2022 constitue une année charnière pour l’intelligence artificielle (IA). L’année passée, Stable Diffusion, Midjourney, DALL·E et autre ChatGPT ont beaucoup fait parler d’elles, bluffant les internautes par leurs performances.Avec quelques mots clés, un extrait de texte ou une phrase, les trois premières sont capables de générer une image en en combinant d’autres déjà existantes. Lancée début décembre par OpenAI, ChatGPT peut générer un texte à partir de quelques indications, répondre à des questions de manière structurée et tenir une forme de conversation. Le phénomène fascine autant qu’il inquiète, et pourtant le travail autour de l’intelligence artificielle ne date pas d’hier.
+
+
+
+
+
+
+
+Toute l'actualité à portée de main!
+
+Pour seulement CHF 29.- par mois, accédez à tous nos articles en illimité. Profitez de notre offre spéciale : le premier mois pour seulement CHF 9.-!
+S'ABONNER
+
+
+Les bonnes raisons de s’abonner au Temps:
+
+Accès illimité à tous les contenus disponibles sur le site web.
+Accès illimité à tous les contenus disponibles sur l'application mobile
+Forfait de partage de 5 articles par mois
+Consultation de la version digitale du journal dès 22h la veille
+Accès aux suppléments et à T, le magazine du Temps, au format e-paper
+Accès à un ensemble d'avantages exclusifs réservés aux abonnés
+
+
+
+
+Déjà abonné(e) ?
+Se connecter
+
+
+
+
+
+
+",http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.letemps.ch/cyber/lintelligence-artificielle-quoi-faire'}","L’intelligence artificielle, pour quoi faire?",,,2023-01-08T15:09:34.407+01:00,2023-06-10T18:45:37.418+02:00,"[{'@type': 'Person', 'name': 'Etienne Meyer-Vacherand'}]","{'@type': 'Organization', 'name': 'Le Temps SA', 'url': 'https://www.letemps.ch', 'email': 'info@letemps.ch', 'telephone': '+41 58 269 29 00', 'logo': {'@type': 'ImageObject', 'url': 'https://letemps-17455.kxcdn.com/assets/letemps/icons/logo-06f3de7972456a2ab0e6f991160516f385c81ffb684cfbedb001b9ec2c75b224.png'}}",Cyber,https://letemps-17455.kxcdn.com/photos/e405e26a-af71-439c-b252-8c0f99738e1a/large,,,Le Temps,,https://www.letemps.ch/,https://www.letemps.ch/cyber/lintelligence-artificielle-quoi-faire,Etienne Meyer-Vacherand,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMinQFodHRwczovL2V0dWRpYW50LmxlZmlnYXJvLmZyL2FydGljbGUvdW5lLWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtdmEtcHJvcG9zZXItMjAtMDAwLWV4ZXJjaWNlcy1hdXgtbHljZWVucy1kZXMtb2N0b2JyZV84MzNkMmQ2OC05MGYyLTExZWQtODMzZS04MTc1NTIzYzAwMTAv0gEA?oc=5,Une intelligence artificielle va proposer 20.000 exercices aux lycéens dès octobre - Le Figaro,2023-01-11,Le Figaro,https://etudiant.lefigaro.fr,L’Éducation nationale va mettre à disposition des élèves de seconde une plateforme d’exercices utilisant l’intelligence artificielle.,N/A,L’Éducation nationale va mettre à disposition des élèves de seconde une plateforme d’exercices utilisant l’intelligence artificielle.,L’Éducation nationale va mettre à disposition des élèves de seconde une plateforme d’exercices utilisant l’intelligence artificielle.,N/A,N/A,N/A,https://schema.org,BreadcrumbList,,Une intelligence artificielle va proposer 20.000 exercices aux lycéens dès octobre,,,2023-01-11T17:20:46.000Z,2023-01-12T08:48:50.000Z,"[{'@type': 'Person', 'name': 'Paul-Henri Wallet', 'url': 'https://www.lefigaro.fr/auteur/paul-henri-wallet'}]","{'@type': 'Organization', 'name': 'Figaro Étudiant', 'url': 'https://etudiant.lefigaro.fr'}",,https://i.f1g.fr/media/eidos/805x453_crop/2023/01/11/XVM5da0c90c-90f7-11ed-833e-8175523c0010.jpg,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://etudiant.lefigaro.fr/lycee/', 'name': 'Lycée'}}]",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYnVzaW5lc3MtY29vbC5jb20vdmllLXByby9yZWNydXRlbWVudC9tZXRpZXJzLWF2ZW5pci_SAQA?oc=5,Métiers d'avenir : quels sont les emplois de demain ? - Business Cool,2023-01-09,Business Cool,https://business-cool.com,Métiers d’avenir : Quels sont les emplois du futur ? Zoom sur les secteurs qui vont recruter dans les prochaines années.,N/A,Métiers d’avenir : Quels sont les emplois du futur ? Zoom sur les secteurs qui vont recruter dans les prochaines années.,N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#article', 'isPartOf': {'@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/'}, 'author': {'name': 'Anne-Lise Mus', '@id': 'https://business-cool.com/#/schema/person/62988b0fc8598220d7872eb5f302f1f7'}, 'headline': 'Métiers d&rsquo;avenir : quels sont les emplois de demain ?', 'datePublished': '2023-01-09T08:02:42+00:00', 'dateModified': '2023-02-15T16:08:49+00:00', 'mainEntityOfPage': {'@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/'}, 'wordCount': 1865, 'publisher': {'@id': 'https://business-cool.com/#organization'}, 'image': {'@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#primaryimage'}, 'thumbnailUrl': 'https://business-cool.com/wp-content/uploads/2023/02/tom-parkes-ns-biiw-cnu-unsplash.jpg', 'keywords': ['emploi', 'métier'], 'articleSection': ['Recrutement'], 'inLanguage': 'fr-FR'}, {'@type': 'WebPage', '@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/', 'url': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/', 'name': ""Métiers d'avenir : quels sont les emplois de demain ?"", 'isPartOf': {'@id': 'https://business-cool.com/#website'}, 'primaryImageOfPage': {'@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#primaryimage'}, 'image': {'@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#primaryimage'}, 'thumbnailUrl': 'https://business-cool.com/wp-content/uploads/2023/02/tom-parkes-ns-biiw-cnu-unsplash.jpg', 'datePublished': '2023-01-09T08:02:42+00:00', 'dateModified': '2023-02-15T16:08:49+00:00', 'description': 'Métiers d’avenir : Quels sont les emplois du futur ? Zoom sur les secteurs qui vont recruter dans les prochaines années.', 'breadcrumb': {'@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://business-cool.com/vie-pro/recrutement/metiers-avenir/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#primaryimage', 'url': 'https://business-cool.com/wp-content/uploads/2023/02/tom-parkes-ns-biiw-cnu-unsplash.jpg', 'contentUrl': 'https://business-cool.com/wp-content/uploads/2023/02/tom-parkes-ns-biiw-cnu-unsplash.jpg', 'width': 1920, 'height': 1111, 'caption': ""métiers d'avenir""}, {'@type': 'BreadcrumbList', '@id': 'https://business-cool.com/vie-pro/recrutement/metiers-avenir/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://business-cool.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Métiers d&rsquo;avenir : quels sont les emplois de demain ?'}]}, {'@type': 'WebSite', '@id': 'https://business-cool.com/#website', 'url': 'https://business-cool.com/', 'name': 'Business Cool', 'description': 'Communauté d&#039;étudiants et jeunes diplômés', 'publisher': {'@id': 'https://business-cool.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://business-cool.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://business-cool.com/#organization', 'name': 'Business Cool', 'url': 'https://business-cool.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://business-cool.com/#/schema/logo/image/', 'url': 'https://business-cool.com/wp-content/uploads/2023/02/cropped-Logo-export-mini-blanc-fond-sombre-e1675961567796.png', 'contentUrl': 'https://business-cool.com/wp-content/uploads/2023/02/cropped-Logo-export-mini-blanc-fond-sombre-e1675961567796.png', 'width': 512, 'height': 512, 'caption': 'Business Cool'}, 'image': {'@id': 'https://business-cool.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/business.cool2/?locale=fr_FR', 'https://twitter.com/BusinessCoolFR', 'https://www.instagram.com/businesscoolfr/?hl=fr']}, {'@type': 'Person', '@id': 'https://business-cool.com/#/schema/person/62988b0fc8598220d7872eb5f302f1f7', 'name': 'Anne-Lise Mus', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://business-cool.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/5e7f6c05af1b4b4703ae8772ceb333f5?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/5e7f6c05af1b4b4703ae8772ceb333f5?s=96&d=mm&r=g', 'caption': 'Anne-Lise Mus'}, 'url': 'https://business-cool.com/author/anne-lise-mus/'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmxlYm9uYm9uLmZyL3BhcmlzL2V4cG8vcHJlbWllcmUtZXhwby1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL9IBAA?oc=5,La première expo de tableaux pensés par une intelligence artificielle à Paris - Le Bonbon,2023-01-09,Le Bonbon,https://www.lebonbon.fr,"Jusqu&rsquo;au 14 janvier, la galerie Danysz vous convie &agrave; une expo gratuite hors du commun. Pour la premi&egrave;re fois, 7.1 by Obvious pr&eacute;sente une s&eacute;rie de 14 toiles g&eacute;n&eacute;r&eacute;es par une intelligence artificielle.",N/A,"Jusqu’au 14 janvier, la galerie Danysz vous convie à une expo gratuite hors du commun. Pour la première fois, 7.1 by Obvious présente une série de 14 toiles générées par une intelligence artificielle.","Jusqu&rsquo;au 14 janvier, la galerie Danysz vous convie &agrave; une expo gratuite hors du commun. Pour la premi&egrave;re fois, 7.1 by Obvious pr&eacute;sente une s&eacute;rie de 14 toiles g&eacute;n&eacute;r&eacute;es par une intelligence artificielle.",N/A,N/A,"Le trio d'artistes d'Obvious, à l'origine de la première vente aux enchères majeure d'une œuvre d'art créée à l'aide de l'intelligence artificielle (IA) par la maison Christie's en 2018, a marqué un véritable tournant dans l'histoire du marché de l'art. Qualifiés de ""génies"" par Forbes, ils dévoilent, à l’occasion de leur première exposition personnelle, une toute nouvelle série de toiles produites par un algorithme.
+L’intelligence artificielle s’empare du pinceau  
+Pour concevoir ses toiles, le collectif français d’artistes et de chercheurs Obvious met de côté la peinture et opte pour un algorithme d’IA comme outil de travail. Pendant un an et demi, ils ont conçu un algorithme capable de transformer un texte précis en image. Les toiles physiques présentées dans la galerie ont été reproduites par des peintres, d’après les versions digitales générées par l’IA.Abonne-toi à la newsletter pour rester connecté !OK
+HANGING GARDENS OF BABYLON 1.1, 2022 © Obvious
+Redécouvrir les Sept Merveilles du monde 
+Ouverte au grand public, l’expo présente 14 toiles représentant les Sept Merveilles du monde antique. La moitié des tableaux sont des peintures à l’huile et sont accompagnées d'œuvres NFT associées, présentées en réalité augmentée. Après avoir été révélée en exclusivité au British Museum le 23 novembre dernier, découvrez cette collection inédite pour une exploration du langage de création homme-machine.
+Galerie Magda Danysz78, rue Amelot – 11e Jusqu’au 14 janvier Entrée librePlus d’info sur le site",https://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.lebonbon.fr/paris/expo/premiere-expo-intelligence-artificielle/'}",La première expo de tableaux pensés par une intelligence artificielle à Paris  ,,,2023-01-09T14:43:18.000Z,2023-01-09T14:43:18.000Z,"[{'@type': 'Person', 'name': 'Louise Chenuet', 'url': 'https://lebonbon.fr/auteur/louise-chenuet'}]","{'@type': 'Organization', 'name': 'Le Bonbon', 'logo': {'@type': 'ImageObject', 'url': 'https://uploads.lebonbon.fr/source/bb-agency/bonbon-logo-pink.png', 'width': '394', 'height': '112'}}",['Expo'],"{'@type': 'ImageObject', 'url': 'https://uploads.lebonbon.fr/source/2023/january/2039874/couv-ia_1_2000.jpg', 'width': 2000, 'height': 1125}",,,,,,,,,summary,La première expo de tableaux pensés par une intelligence artificielle à Paris  ,https://uploads.lebonbon.fr/source/2023/january/2039874/couv-ia_1_2000.jpg,Louise Chenuet,,,,,,,,
+https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5seW9ubWFnLmNvbS9hcnRpY2xlLzEyNzg5Mi9seW9uLWRlcy1ldHVkaWFudHMtcmVkaWdlbnQtbGV1cnMtZGV2b2lycy1ncmFjZS1hLXVuZS1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWxlLXByb2Zlc3NldXItbGV1ci1tZXQtbGEtbW95ZW5uZdIBAA?oc=5,"Lyon : des étudiants rédigent leurs devoirs grâce à une intelligence artificielle, le professeur leur met la moyenne - Lyon Mag",2023-01-11,Lyon Mag,https://www.lyonmag.com,"Depuis quelques semaines, un site internet fait beaucoup parler de lui, notamment dans les &amp;eacute;coles du pays.","lyon, lyonmag, actu, info, infos, actualités, informations, politique, economique, sociale, culture, transports, faits divers, sport, ol, asvel, article, depeches, breves","Depuis quelques semaines, un site internet fait beaucoup parler de lui, notamment dans les &eacute;coles du pays.","Depuis quelques semaines, un site internet fait beaucoup parler de lui, notamment dans les &eacute;coles du pays.",N/A,N/A,N/A,http://schema.org,Article,https://www.lyonmag.com/article/127892/lyon-des-etudiants-redigent-leurs-devoirs-grace-a-une-intelligence-artificielle-le-professeur-leur-met-la-moyenne,"Lyon : des &eacute;tudiants r&eacute;digent leurs devoirs gr&acirc;ce &agrave; une intelligence artificielle, le professeur leur met la moyenne",,,2023-01-11T10:31:00+01:00,2023-01-12T17:23:18+01:00,"{'@type': 'Person', 'name': 'Lyon Mag Team', 'image': [{'@type': 'ImageObject', 'url': 'https://www.lyonmag.com/icon-hires.png', 'width': '192', 'height': '192'}], 'url': 'https://www.lyonmag.com/contact'}","{'@type': 'Organization', 'name': 'Lyon Mag', 'description': ""Retrouvez l'actualit&eacute; et l'information lyonnaise politique, &eacute;conomique, sociale, culturelle, transports, ainsi que les faits divers &agrave; Lyon et dans le Rh&ocirc;ne"", 'logo': [{'@type': 'ImageObject', 'name': 'Lyon Mag Logo', 'text': 'Lyon Mag Logo', 'url': 'https://www.lyonmag.com/icon-hires.png', 'contentUrl': 'https://www.lyonmag.com/icon-hires.png', 'width': '192', 'height': '192', 'encodingFormat': 'image/png'}], 'url': 'https://www.lyonmag.com/', 'sameAs': ['https://www.facebook.com/lyonmag', 'https://twitter.com/lyonmag']}",Article,"[{'@type': 'ImageObject', 'name': 'Lyon : des &eacute;tudiants r&eacute;digent leurs devoirs gr&acirc;ce &agrave; une intelligence artificielle, le professeur leur met la moyenne', 'url': 'https://www.lyonmag.com/media/images/63bfc887b0b72-28423510618-0d2f39dedf-o.jpg', 'sameAs': 'https://www.lyonmag.com/article/127892/lyon-des-etudiants-redigent-leurs-devoirs-grace-a-une-intelligence-artificielle-le-professeur-leur-met-la-moyenne', 'thumbnailUrl': 'https://www.lyonmag.com/media/images/63bfc887b0b72-28423510618-0d2f39dedf-o.jpg', 'contentUrl': 'https://www.lyonmag.com/media/images/63bfc887b0b72-28423510618-0d2f39dedf-o.jpg', 'width': '1280', 'height': '720', 'encodingFormat': '2'}]",,2024,"Lyon : des &eacute;tudiants r&eacute;digent leurs devoirs gr&acirc;ce &agrave; une intelligence artificielle, le professeur leur met la moyenne",,,https://www.lyonmag.com/article/127892/lyon-des-etudiants-redigent-leurs-devoirs-grace-a-une-intelligence-artificielle-le-professeur-leur-met-la-moyenne,,,,,,,fr_FR,https://www.lyonmag.com/media/images/63bfc887b0b72-28423510618-0d2f39dedf-o.jpg,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnByZXNzZS1jaXRyb24ubmV0L3VuZS1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWRpYWdub3N0aXF1ZS11bi1jYW5jZXItZHUtc2Vpbi11bmUtcHJlbWllcmUtbW9uZGlhbGUv0gEA?oc=5,"Une intelligence artificielle diagnostique un cancer du sein, une première mondiale - Presse-citron",2023-01-10,Presse-citron,https://www.presse-citron.net,"Pour la première fois au monde, une intelligence artificielle a posé un diagnostic du cancer du sein validé cliniquement.",N/A,"Pour la première fois au monde, une intelligence artificielle a posé un diagnostic du cancer du sein validé cliniquement.",N/A,N/A,N/A,"
+
+
+        Une intelligence artificielle diagnostique un cancer du sein, une première mondiale
+    
+
+Pour la première fois au monde, une intelligence artificielle a posé un diagnostic du cancer du sein validé cliniquement.
+
+
+
+
+
+
+
+      Publié le 10 janvier 2023 à 16 h 30 min
+    
+
+              Par 
+          Romain Vitt        
+
+
+
+
+
+
+
+
+ 
+              © Unsplash / Angiola Harry
+            
+
+
+
+
+
+
+
+
+𝕏
+
+
+
+
+
+
+
+
+
+
+« J’ai été impressionné par les résultats de l’étude, les niveaux de précision très élevés et l’étendue des capacités de détection offertes par la technologie d’IA d’Ibex, semblables à ceux des pathologistes experts ». C’est en ces termes que Stuart Schnitt – médecin, chef du service de pathologie oncologique du sein au DanaFarber/Brigham and Women’s Cancer Center et professeur de pathologie à la Harvard Medical School – parle du diagnostic de cancer du sein réalisé par une intelligence artificielle.
+
+
+
+Cette première mondiale est le fruit d’une collaboration entre l’Institut Curie et Ibex Medical Analyltics. L’IA, renommée Galen Breast, a été développé pour réduire les erreurs et améliorer la qualité du diagnostic du cancer du sein. Pour la première fois, le travail de cette technologie a été validé dans le cadre d’une utilisation clinique. Premiers résultats cliniques validés L’intelligence artificielle à l’origine de ce premier diagnostic du cancer du sein a acquis ses connaissances grâce au deep learning (méthodes d’apprentissage profond). Pour être capable d’identifier plus de 50 caractéristiques mammaires spécifiques, elle a dû passer en revue plus de deux millions d’échantillons d’images (dont des cas mammaires choisis au hasard et des échantillons avec des caractéristiques peu communes), le tout contrôlé par 18 spécialistes.
+
+
+
+Pour l’heure, l’algorithme ne peut diagnostiquer que des échantillons de biopsies sur lame. Mais cela n’empêche pas Galen Breast de se montrer très pertinente. Les résultats publiés dans l’étude démontrent que l’IA a été capable de distinguer avec précision différents types de cancer du sein mais aussi d’établir le grade des cancers précoces. À l’avenir, les travaux de l’Institut Curie et Ibex Medical Analytics viseront à former l’IA à détecter les pathologies du sein directement sur des échantillons chirurgicaux. Aider, vérifier, automatiser De quoi remplacer les médecins spécialistes de cette pathologie ? Ce n’est pas du tout la vocation de Galen Breast. « Le système est surtout développé pour être un appui aux pathologistes, pour vérifier qu’ils n’aient pas manqué quelque chose lors de sa lecture (du diagnostic) » explique à Sciences et Avenir Suzette Delaloge, oncologue médicale spécialiste du cancer du sein et directrice du programme Interception de Gustave Roussy.
+
+
+
+Aujourd’hui, le cancer du sein touche 2,2 millions de personnes chaque année. La question du diagnostic aussi rapide que précis est au coeur des préoccupations, la diminution du nombre de pathologistes et l’augmentation de l’incidence de ce cancer rendant la tâche plus difficile. Une IA comme Galen Breast pourrait donc participer à l’amélioration du diagnostic mais aussi une meilleure prise en charge. À l’avenir « l’IA pourrait donner une indication de traitement pouvant être couplé à la chirurgie, grâce à la détermination de récepteurs hormonaux ou d’index de prolifération » explique à Sciences et Avenir Marc Bollet, oncologue et radiothérapeute à L’institut Français du Sein.  📍 Pour ne manquer aucune actualité de Presse-citron, suivez-nous sur Google Actualités et WhatsApp.   Newsletter 🍋 Abonnez-vous, et recevez chaque matin un résumé de l’actu tech  Votre email :   Je m'inscris            	J'ai lu et accepte        	          	les termes et les conditions        	    Laissez ce champ vide si vous êtes humain :  
+
+
+
+
+
+
+
+
+
+Cliquer pour commenter
+
+
+
+
+Laisser un commentaire Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués avec *Commentaire * Nom * 
+E-mail * 
+ Je veux recevoir la newsletter Presse-citron DailyCliquez ici pour annuler la réponse. 
+
+Δ 
+
+
+
+Les dernières actualités
+
+
+
+
+
+ 
+
+              Les textos RCS vont devenir encore plus pratiques, même si vous utilisez un iPhone            
+
+
+
+
+
+ 
+
+              Voiture électrique ou hybride : laquelle choisir ?            
+
+
+
+
+
+ 
+
+              Comment les familles françaises les plus riches stimulent l’écosystème de la French Tech            
+
+
+
+
+
+ 
+
+              Gladiator 2 : histoire, casting, date de sortie, tout savoir sur la suite du film mythique            
+
+
+
+
+
+ 
+
+              Pourquoi rouler à plus de 130 km/h sur autoroute pour gagner du temps est inutile (en plus d’être dangereux)            
+
+
+
+
+
+ 
+
+              Tout savoir sur les orages et comment s’en protéger efficacement            
+
+
+
+
+
+ 
+
+              Gagnez du temps sur la route des vacances grâce au Pass Ulys Télépéage offert pendant 1 an            
+
+
+
+
+
+ 
+
+              Galaxy Z Fold6, Galaxy Z Flip6, Galaxy Ring : les 5 annonces attendues au Samsung Galaxy Unpacked du 10 juillet            
+
+
+
+
+
+
+
+
+
+
+
+Dernières news
+
+
+
+
+          Les textos RCS vont devenir encore plus pratiques, même si vous utilisez un iPhone        
+
+
+
+
+          Voiture électrique ou hybride : laquelle choisir ?        
+
+
+
+
+          Comment les familles françaises les plus riches stimulent l’écosystème de la French Tech        
+
+
+À la une
+
+
+
+
+          Dyson : découvrez les soldes d’été et économisez jusqu’à 200€ sur une sélection de technologies        
+
+
+
+
+
+
+
+Les meilleurs forfaits 
+
+
+
+
+
+
+ILLIMITÉ
+2 Go
+
+
+1,99 €
+
+
+
+
+
+
+
+ILLIMITÉ
+150 Go
+
+
+11,99 €
+
+
+
+
+Les tests
+
+
+
+
+          Test du Huawei MateBook 14 (2024) : la marque chinoise est loin d’avoir dit son dernier mot en France        
+
+
+
+
+          Test Sonos Ace : le premier casque audio de Sonos plus fort que le AirPods Max ?        
+
+
+
+
+          J’ai testé la meilleure moto électrique du marché : révolution ou impasse ?        
+
+
+Logiciels les + téléchargés
+
+
+
+
+            Opera One
+          
+
+
+
+
+            Google Play Store
+          
+
+
+
+
+            Adobe Reader
+          
+
+
+
+
+            WhatsApp
+          
+
+
+
+
+            WinRAR
+          
+
+
+
+
+            uTorrent
+          
+
+
+
+
+            ChatGPT
+          
+
+
+
+
+            VLC Media Player
+          
+
+
+
+
+            CCleaner
+          
+
+
+
+
+            Microsoft 365
+          
+
+
+
+
+            Google Chrome
+          
+
+
+
+
+            Xender
+          
+
+
+
+
+            Avast Gratuit
+          
+
+
+
+
+            Mozilla Firefox
+          
+
+
+
+
+            Avast One
+          
+
+
+
+
+
+
+
+ 
+
+",https://schema.org,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#article', 'isPartOf': {'@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/'}, 'author': {'name': 'Romain Vitt', '@id': 'https://www.presse-citron.net/#/schema/person/18ca70095cc704eb7e911558714c0c3d'}, 'headline': 'Une intelligence artificielle diagnostique un cancer du sein, une première mondiale', 'datePublished': '2023-01-10T15:30:03+00:00', 'dateModified': '2023-01-23T08:03:12+00:00', 'mainEntityOfPage': {'@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/'}, 'wordCount': 537, 'commentCount': 0, 'publisher': {'@id': 'https://www.presse-citron.net/#organization'}, 'image': {'@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#primaryimage'}, 'thumbnailUrl': 'https://www.presse-citron.net/app/uploads/2023/01/intelligence-artificielle-cancer-sein.jpg', 'articleSection': ['Intelligence Artificielle'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/', 'url': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/', 'name': 'Une intelligence artificielle diagnostique un cancer du sein, une première mondiale', 'isPartOf': {'@id': 'https://www.presse-citron.net/#website'}, 'primaryImageOfPage': {'@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#primaryimage'}, 'image': {'@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#primaryimage'}, 'thumbnailUrl': 'https://www.presse-citron.net/app/uploads/2023/01/intelligence-artificielle-cancer-sein.jpg', 'datePublished': '2023-01-10T15:30:03+00:00', 'dateModified': '2023-01-23T08:03:12+00:00', 'description': 'Pour la première fois au monde, une intelligence artificielle a posé un diagnostic du cancer du sein validé cliniquement.', 'breadcrumb': {'@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#primaryimage', 'url': 'https://www.presse-citron.net/app/uploads/2023/01/intelligence-artificielle-cancer-sein.jpg', 'contentUrl': 'https://www.presse-citron.net/app/uploads/2023/01/intelligence-artificielle-cancer-sein.jpg', 'width': 1400, 'height': 932, 'caption': '© Unsplash / Angiola Harry'}, {'@type': 'BreadcrumbList', '@id': 'https://www.presse-citron.net/une-intelligence-artificielle-diagnostique-un-cancer-du-sein-une-premiere-mondiale/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.presse-citron.net/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Une intelligence artificielle diagnostique un cancer du sein, une première mondiale'}]}, {'@type': 'WebSite', '@id': 'https://www.presse-citron.net/#website', 'url': 'https://www.presse-citron.net/', 'name': 'Presse-citron', 'description': 'Connectez-vous à l&#039;innovation', 'publisher': {'@id': 'https://www.presse-citron.net/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.presse-citron.net/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.presse-citron.net/#organization', 'name': 'Presse-Citron', 'url': 'https://www.presse-citron.net/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.presse-citron.net/#/schema/logo/image/', 'url': 'https://www.presse-citron.net/app/uploads/2020/02/presse-citron-logo.png', 'contentUrl': 'https://www.presse-citron.net/app/uploads/2020/02/presse-citron-logo.png', 'width': 441, 'height': 60, 'caption': 'Presse-Citron'}, 'image': {'@id': 'https://www.presse-citron.net/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/pressecitron.blog', 'https://twitter.com/pressecitron', 'https://www.instagram.com/presse_citron/', 'https://www.youtube.com/user/StuffiFR']}, {'@type': 'Person', '@id': 'https://www.presse-citron.net/#/schema/person/18ca70095cc704eb7e911558714c0c3d', 'name': 'Romain Vitt', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.presse-citron.net/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/32a893927c6bd17442bc3b83ac359281?s=96&d=https%3A%2F%2Fwww.presse-citron.net%2Fapp%2Fthemes%2Fpresse-citron%2Fpublic%2Fimages%2Favatars%2Fpressecitron.png&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/32a893927c6bd17442bc3b83ac359281?s=96&d=https%3A%2F%2Fwww.presse-citron.net%2Fapp%2Fthemes%2Fpresse-citron%2Fpublic%2Fimages%2Favatars%2Fpressecitron.png&r=g', 'caption': 'Romain Vitt'}, 'description': ""Rédacteur en chef. Après cinq années passées chez les constructeurs de smartphones (notamment Apple et Samsung), je suis passé du côté obscur de la Force. Je déteste Warzone mais je ne peux m'empêcher d'y jouer. Rageux/100. Hala Madrid !"", 'sameAs': ['https://www.instagram.com/romerlin_v/', 'https://www.linkedin.com/in/romain-vitt-81624917/', 'https://twitter.com/https://twitter.com/vitt_romain'], 'url': 'https://www.presse-citron.net/author/romain-vitt/'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5jbHViaWMuY29tL3Byby9lbnRyZXByaXNlcy9taWNyb3NvZnQvYWN0dWFsaXRlLTQ1Mjk4Mi1zZWNvbmRlcy1kZS12b3RyZS12b2l4LWV0LWNldHRlLWlhLXNpZ25lZS1taWNyb3NvZnQtcGV1dC1wYXJsZXItY29tbWUtdm91cy5odG1s0gEA?oc=5,"3 secondes de votre voix, et cette IA signée Microsoft peut parler comme vous - Clubic",2023-01-10,Clubic,https://www.clubic.com,Microsoft a déployé une IA pouvant reproduire quasi parfaitement une voix en à peine plus de temps qu'il n'en faut pour dire « ouf ».,N/A,Microsoft a déployé une IA pouvant reproduire quasi parfaitement une voix en à peine plus de temps qu'il n'en faut pour dire « ouf ».,Microsoft a déployé une IA pouvant reproduire quasi parfaitement une voix en à peine plus de temps qu'il n'en faut pour dire « ouf ».,N/A,N/A,"© geralt / PixabayMicrosoft a déployé une IA pouvant reproduire quasi parfaitement une voix en à peine plus de temps qu'il n'en faut pour dire « ouf ».Baptisé « VALL-E » (à ne pas confondre avec DALL-E), ce nouvel outil n'a en effet besoin d'entendre une voix que pendant trois secondes pour l'imiter, et ce, jusque dans les émotions et les intonations.PublicitéÉ-VALL-ution des techniquesLes outils propulsés par l'intelligence artificielle capables de reproduire une voix sont loin d'être une nouveauté. Mais là où VALL-E tire vraiment son épingle du jeu, c'est dans sa capacité à retransmettre les émotions de la voix qu'elle imite.Cela, et aussi bien entendu le fait qu'elle puisse le faire en écoutant un extrait de seulement trois secondes. Pour parvenir à ce tour de force, Microsoft a entraîné l'outil en le nourrissant de 60 000 heures de données relatives à des discours narrés dans la langue de Shakespeare.Encore très jeune, VALL-E n'est bien sûr pas parfaitement au point, et se cantonne pour l'instant à la reproduction de voix en anglais. Il est possible d'écouter divers exemples de son travail sur GitHub, courtoisie de l'université de Cornell. Certains extraits conservent ainsi encore une sonorité robotique, tandis que d'autres se montrent effroyablement convaincants.PublicitéUne potentielle boîte de Pandore ?Compte tenu de son déploiement tout frais, VALL-E n'est actuellement pas accessible au grand public. Il serait peut-être d'ailleurs préférable que cela ne soit jamais le cas. S'il est encore possible de faire la distinction entre une voix générée par l'outil de Microsoft et une voix humaine, cela pourrait très rapidement changer.Difficile ainsi de ne pas imaginer les nombreuses implications de l'utilisation de VALL-E à des fins malhonnêtes ou frauduleuses, en usurpant notamment l'identité d'autres personnes. Tant sur le terrain des médias que de la sécurité, et bien d'autres encore.Qui dit intelligence artificielle dit également potentielles pertes d'emploi. En l'occurrence, les comédiens de doublage et animateurs de radio ou encore de podcasts pourraient être à terme mis sur la touche. Quand bien même Microsoft a déjà planché sur des règles éthiques et des mesures de régulation autour de VALL-E, cela n'empêchera pas cette nouvelle IA d'être détournée, comme tant d'autres avant elle.Source : AITopics",https://schema.org,BreadcrumbList,https://www.clubic.com/pro/entreprises/microsoft/actualite-452982-secondes-de-votre-voix-et-cette-ia-signee-microsoft-peut-parler-comme-vous.html,"3 secondes de votre voix, et cette IA signée Microsoft peut parler comme vous",,,2023-01-10T10:52:00+01:00,2023-01-10T10:52:00+01:00,"{'@context': 'https://schema.org', '@type': 'Person', 'name': 'Robin Lamorlette', 'url': 'https://www.clubic.com/auteur/2241-robin-lamorlette.html', 'description': ""Fan absolu de tech, de films/séries, d'heroic-fantasy/SF et de jeux vidéos type RPG, FPS et hack&slash qui se shoote à coups de lore sur Star Wars, The Witcher, Cyberpunk, Game of Thrones et Donjons & Dragons/Baldur's Gate 3.\n"", 'sameAs': ['https://www.twitter.com/wickedlarkin']}","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Clubic.com', 'url': 'https://www.clubic.com', 'logo': {'@type': 'ImageObject', 'url': 'https://pic.clubic.com/v1/images/1932033/raw', 'width': '210', 'height': '60'}, 'sameAs': ['https://www.facebook.com/Clubic', 'https://twitter.com/clubic', 'https://www.youtube.com/user/Clubic', 'https://fr.linkedin.com/company/clubic', 'https://fr.wikipedia.org/wiki/Clubic']}",,"{'@type': 'ImageObject', 'height': '853', 'width': '1280', 'url': 'https://pic.clubic.com/v1/images/1690633/raw'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.clubic.com/', 'url': 'https://www.clubic.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/', 'url': 'https://www.clubic.com/technologies-d-avenir/', 'name': 'Science & Innovation'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/', 'url': 'https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",,,,,,,,,,,,,,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}",,,,,
+https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmJsb2dkdW1vZGVyYXRldXIuY29tL3ZhbGwtZS1vdXRpbC1taWNyb3NvZnQtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS_SAQA?oc=5,VALL-E : l'outil IA de Microsoft qui peut imiter la voix d'une personne - BDM,2023-01-11,BDM,https://www.blogdumoderateur.com,"Microsoft dévoile VALL-E, son outil d'intelligence artificielle qui peut reproduire la voix de n'importe quelle personne.","['IA', 'Tendances']","Microsoft dévoile VALL-E, son outil d'intelligence artificielle qui peut reproduire la voix de n'importe quelle personne.","Microsoft dévoile VALL-E, son outil d'intelligence artificielle qui peut reproduire la voix de n'importe quelle personne.",Tech,N/A,"
+
+VALL-E : l’outil IA de Microsoft qui peut imiter la voix d’une personne
+
+Microsoft dévoile VALL-E, son outil d’intelligence artificielle qui peut reproduire la voix de n’importe quelle personne.
+
+
+
+		Partager l'article	
+
+
+Estelle Raffin / Publié le 11 janvier 2023 à 10h55
+
+
+
+VALL-E, ça ne vous rappelle pas un dessin animé ? © VD_ele - stock.adobe.com
+
+
+
+
+Qu’est-ce que VALL-E ?
+VALL-E est un nouveau modèle d’intelligence artificielle développé par Microsoft qui permet de simuler la voix d’une personne à partir d’un échantillon audio de seulement 3 secondes. Il s’agit plus précisément d’un modèle de langage pour la synthèse vocale (Text-To-Speech). VALL-E a été entraîné sur “60 000 heures de parole anglaise, soit des centaines de fois plus que les systèmes existants.”
+Le plus de ce nouvel outil : il est en capacité de préserver le ton et l’émotion du speaker, ce qui permet une imitation encore plus humaine, et donc réelle.
+VALL-E présente des capacités d’apprentissage en contexte et peut être utilisé pour synthétiser une parole personnalisée de haute qualité avec seulement un enregistrement de 3 secondes d’un locuteur inconnu comme guide acoustique, explique Microsoft.
+Des exemples audio de VALL-E
+VALL-E n’est pas encore disponible au grand public pour l’instant. En revanche, vous pouvez écouter des exemples audio sur cette page dédiée sur GitHub. Cette page a été réalisée seulement à des fins de démonstration de recherche. C’est intéressant de voir ce que VALL-E peut donner concrètement à l’oral. Certains extraits audio fonctionnent bien, mais d’autres ont encore une voix de synthèse détectable. Tout n’est pas encore parfait du côté de VALL-E, mais le travail de Microsoft à ce sujet n’en est qu’aux prémices.
+Voici comment fonctionne VALL-E. © Microsoft
+Une porte ouverte aux dérives ?
+Encore une fois, la question se pose : un outil tel que VALL-E ne pourrait-il pas être dangereux s’il était ouvert au grand public ? Les deepfakes pour les images ont déjà engendré leur lot de dérives… qu’en sera-t-il pour le domaine de la voix ? Il est vrai que l’outil IA de Microsoft pourrait servir à de l’usurpation d’identité vocale si l’outil s’avère réellement performant. Comme pour ChatGPT, les inquiétudes seront nombreuses si VALL-E venait à être accessible à tous.
+Puisque VALL-E peut synthétiser la parole en préservant l’identité du speaker, il peut comporter des risques potentiels de mauvaise utilisation du modèle, comme l’usurpation de l’identification vocale ou l’usurpation de l’identité d’un locuteur spécifique. Nous avons mené les expériences en supposant que l’utilisateur accepte d’être le locuteur cible dans la synthèse vocale, précise Microsoft.
+VALL-E, un clin d’œil à DALL-E : pourquoi ?
+Le nom VALL-E a clairement été inspiré de DALL-E, le générateur d’images par intelligence artificielle conçu par OpenAI. Et ce n’est pas une coïncidence. En ce début d’année, Microsoft semble tout miser sur la technologie d’OpenAI et pourrait même investir jusqu’à 10 milliards de dollars dans cette société selon la source Semafor. Microsoft aurait pour objectif d’intégrer le chatbot d’Open AI à ChatGPT à Word mais aussi à Bing, son moteur de recherche.
+
+
+
+",http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.blogdumoderateur.com/vall-e-outil-microsoft-intelligence-artificielle/'}",VALL-E&nbsp;: l&#8217;outil IA de Microsoft qui peut imiter la voix d&#8217;une personne,"Qu'est-ce que VALL-E ?
+VALL-E est un nouveau modèle d'intelligence artificielle développé par Microsoft qui permet de simuler la voix d'une personne à partir d'un échantillon audio de seulement 3 secondes. Il s'agit plus précisément d'un modèle de langage pour la synthèse vocale (Text-To-Speech). VALL-E a été entraîné sur ""60 000 heures de parole anglaise, soit des centaines de fois plus que les systèmes existants.""
+
+Le plus de ce nouvel outil : il est en capacité de préserver le ton et l'émotion du speaker, ce qui permet une imitation encore plus humaine, et donc réelle.
+VALL-E présente des capacités d'apprentissage en contexte et peut être utilisé pour synthétiser une parole personnalisée de haute qualité avec seulement un enregistrement de 3 secondes d'un locuteur inconnu comme guide acoustique, explique Microsoft.
+Des exemples audio de VALL-E
+VALL-E n'est pas encore disponible au grand public pour l'instant. En revanche, vous pouvez écouter des exemples audio sur cette page dédiée sur GitHub. Cette page a été réalisée seulement à des fins de démonstration de recherche. C'est intéressant de voir ce que VALL-E peut donner concrètement à l'oral. Certains extraits audio fonctionnent bien, mais d'autres ont encore une voix de synthèse détectable. Tout n'est pas encore parfait du côté de VALL-E, mais le travail de Microsoft à ce sujet n'en est qu'aux prémices.
+
+
+Une porte ouverte aux dérives ?
+Encore une fois, la question se pose : un outil tel que VALL-E ne pourrait-il pas être dangereux s'il était ouvert au grand public ? Les deepfakes pour les images ont déjà engendré leur lot de dérives... qu'en sera-t-il pour le domaine de la voix ? Il est vrai que l'outil IA de Microsoft pourrait servir à de l'usurpation d'identité vocale si l'outil s'avère réellement performant. Comme pour ChatGPT, les inquiétudes seront nombreuses si VALL-E venait à être accessible à tous.
+Puisque VALL-E peut synthétiser la parole en préservant l'identité du speaker, il peut comporter des risques potentiels de mauvaise utilisation du modèle, comme l'usurpation de l'identification vocale ou l'usurpation de l'identité d'un locuteur spécifique. Nous avons mené les expériences en supposant que l'utilisateur accepte d'être le locuteur cible dans la synthèse vocale, précise Microsoft.
+VALL-E, un clin d'œil à DALL-E : pourquoi ?
+Le nom VALL-E a clairement été inspiré de DALL-E, le générateur d'images par intelligence artificielle conçu par OpenAI. Et ce n'est pas une coïncidence. En ce début d'année, Microsoft semble tout miser sur la technologie d'OpenAI et pourrait même investir jusqu'à 10 milliards de dollars dans cette société selon la source Semafor. Microsoft aurait pour objectif d'intégrer le chatbot d'Open AI à ChatGPT à Word mais aussi à Bing, son moteur de recherche.",,2023-01-11T10:55:40+01:00,2023-01-11T10:55:40+01:00,"{'@type': 'Person', 'name': 'Estelle Raffin', 'url': 'https://www.blogdumoderateur.com/auteur/estelle-raffin/'}","{'@type': 'Organization', 'name': 'BDM', 'url': 'https://www.blogdumoderateur.com', 'logo': {'@type': 'ImageObject', 'url': 'https://www.blogdumoderateur.com/wp-content/themes/blogdumoderateur/img/logo/logo-amp.png', 'width': 600, 'height': 60}}",Tech,https://f.hellowork.com/blogdumoderateur/2023/01/vall-e-microsoft.jpg,"[{'@type': 'ListItem', 'position': 1, 'name': 'BDM', 'item': 'https://www.blogdumoderateur.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Articles', 'item': 'https://www.blogdumoderateur.com/articles/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Tech', 'item': 'https://www.blogdumoderateur.com/tech/'}, {'@type': 'ListItem', 'position': 4, 'name': 'VALL-E&nbsp;: l&#8217;outil IA de Microsoft qui peut imiter la voix d&#8217;une personne', 'item': 'https://www.blogdumoderateur.com/vall-e-outil-microsoft-intelligence-artificielle/'}]",,,,,https://www.blogdumoderateur.com/vall-e-outil-microsoft-intelligence-artificielle/,,,,,,,,,"{'@type': 'SpeakableSpecification', 'cssSelector': '[""h1"","".article-hat""]'}","Microsoft dévoile VALL-E, son outil d'intelligence artificielle qui peut reproduire la voix de n'importe quelle personne.",,,,
+https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5zb3J0aXJhcGFyaXMuY29tL2FydHMtY3VsdHVyZS9leHBvc2l0aW9uL2FydGljbGVzLzI4Nzc3MC1sYS1wcmVtaWVyZS1leHBvc2l0aW9uLWRlLXRhYmxlYXV4LWdlbmVyZXMtcGFyLXVuZS1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWEtbGEtZ2FsZXJpZS1kYW55c3rSAQA?oc=5,La première exposition de tableaux générés par une intelligence artificielle à la galerie Danysz - Sortiraparis,2023-01-07,Sortiraparis,https://www.sortiraparis.com,"""7.1"" est une série de 14 tableaux du trio d'artistes Obvious. Leur particularité : ils sont tous générés par une intelligence artificielle ! Ils sont exposés jusqu'au 14 janvier à la galerie Danysz, dans le 11e arrondissement. ",N/A,N/A,"""7.1"" est une série de 14 tableaux du trio d'artistes Obvious. Leur particularité : ils sont tous générés par une intelligence artificielle ! Ils sont exposés jusqu'au 14 janvier à la galerie Danysz, dans le 11e arrondissement. ",N/A,N/A,N/A,https://schema.org,NewsArticle,,La première exposition de tableaux générés par une intelligence artificielle à la galerie Danysz,,,2023-01-07T07:14:50+01:00,2023-01-07T07:14:50+01:00,"[{'@type': 'Person', 'name': 'Nathanaël de Sortiraparis', 'jobTitle': 'Journaliste Cinéma', 'url': 'https://www.sortiraparis.com/redacteurs/502777-nathanael-de-sortiraparis'}]",,,['https://cdn.sortiraparis.com/images/80/98390/837762-danysz.jpg'],,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRvbXNndWlkZS5mci9kZXMtZXR1ZGlhbnRzLXNlLXNlcnZlbnQtZGUtY2hhdGdwdC1wb3VyLXJlZGlnZXItbGV1ci1kZXZvaXItbGUtcHJvZi1sZXMtZGVtYXNxdWUv0gEA?oc=5,"Des étudiants se servent de ChatGPT pour rédiger leur devoir, le prof les démasque - Toms Guide",2023-01-11,Toms Guide,https://www.tomsguide.fr,"ChatGPT est un outil très perfectionné qui permet de générer du texte en fonction de requêtes soumises. Il est ainsi prisé par les étudiants qui s'en servent pour faire leurs devoirs. À Lyon, sept étudiants ont utilisé l'intelligence artificielle pour rendre un travail, révèle un professeur désabusé.",N/A,"ChatGPT est un outil très perfectionné qui permet de générer du texte en fonction de requêtes soumises. Il est ainsi prisé par les étudiants qui s'en servent pour faire leurs devoirs. À Lyon, sept étudiants ont utilisé l'intelligence artificielle pour rendre un travail, révèle un professeur désabusé.",N/A,N/A,N/A,"
+
+
+
+
+ChatGPT est un outil très perfectionné qui permet de générer du texte en fonction de requêtes soumises. Il est ainsi prisé par les étudiants qui s’en servent pour faire leurs devoirs. À Lyon, sept étudiants ont utilisé l’intelligence artificielle pour rendre un travail, révèle un professeur désabusé. 
+
+
+ChatGPT fait le bonheur des étudiants paresseux © Unsplash 
+ChatGPT est un chatbot alimenté par l’IA qui fait beaucoup parler de lui ces jours-ci. Son robot conversationnel a la faculté de comprendre avec précision les requêtes des usagers. Et de leur répondre en conséquence avec un texte fouillé. Ainsi, il est possible de générer une multitude de contenus différents grâce à ChatGPT dont les performances inquiètent Google… mais aussi les professeurs. Et pour cause, certains étudiants n’hésitent pas à utiliser l’outil pour rédiger leurs devoirs. 
+Nous en avons une nouvelle illustration à la faculté de Lyon. Comme le relate Le Progrès, Stéphane Bonvallet avait demandé à ses étudiants de lui rendre un devoir sur l’approche médicale du handicap en Europe. Le professeur en handicapologie a toutefois été surpris en corrigeant les copies. Certaines étaient construites de manière similaire et ponctuées d’arguments proches. De quoi lui mettre la puce à l’oreille ! 
+À lire > ChatGPT : comment l’utiliser avec Siri sur iPhone ?
+Les étudiants font appel à ChatGPT pour rendre leur devoir maison 
+Très suspicieux, il s’entretient alors avec une étudiante. Cette dernière finit par admettre qu’ils sont sept à avoir utilisé ChatGPT pour rendre leur devoir. Le professeur est désemparé suite à cette révélation. Il explique qu’il n’existe aucune règle prohibant l’outil d’un tel chatbot pour rédiger un devoir. Ce faisant, il décide d’évaluer les devoirs écrits par l’intelligence artificielle. Ces derniers ont recueilli des notes oscillant entre 10 et 12,5 sur 20.
+Stéphane Bonvallet ne cache toutefois pas son inquiétude au sujet de cet outil. Lequel “pose un véritable problème d’intégration des savoirs, car les élèves n’ont plus besoin d’effectuer la moindre recherche pour composer”, déplore le professeur. Il sera ravi d’apprendre qu’un étudiant à développé une application anti-triche capable de détecter les textes générés par ChatGPT. Cette dernière pourrait en effet être d’une grande aide pour le personnel enseignant. 
+
+
+ 
+
+
+
+
+
+ChatGPT 
+
+
+
+👉 Vous utilisez Google News ? Ajoutez Tom's Guide sur Google News et sur Whatsapp pour ne rater aucune actualité importante de notre site.
+
+
+
+
+
+
+
+
+
+
+
+David Douïeb
+
+
+
+
+
+Twitter
+
+
+
+
+
+Je suis fasciné par l'impact sociétal des nouvelles technologies et du tout-connecté.
+
+
+
+
+
+La rédaction vous conseille aussi...
+
+
+
+
+
+
+ChatGPT : ne recopiez surtout pas cette phrase dans votre devoir, votre prof va vous démasquer
+
+
+
+
+
+
+
+ChatGPT : les pirates russes s’en servent déjà pour mener leurs attaques
+
+
+
+
+
+
+
+ChatGPT surpasse les étudiants lors de ce test d’admission, l’IA impressionne
+
+
+
+
+
+
+
+ChatGPT : 99 % des étudiants français déclarent utiliser des IA génératives, les chiffres sont hallucinants
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Messenger
+
+
+
+
+
+Twitter
+
+
+
+
+
+Linkedin
+
+
+
+
+
+Whatsapp
+
+
+
+
+
+Reddit
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+Veuillez laisser ce champ videVotre Newsletter Tom's Guide
+ Souscrivez à notre newsletter pour recevoir par email nos dernières actualités !
+Adresse e-mail *
+
+
+
+Politique de confidentialité
+
+Vérifiez votre boite de réception ou votre répertoire d’indésirables pour confirmer votre abonnement.
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ Suivre la discussion
+
+
+
+
+
+
+
+
+
+M'alerter des 
+
+
+nouveaux commentaires
+nouvelles réponses à mes commentaires
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+{}
+[+]
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom*
+
+
+
+
+
+Email*
+
+
+
+
+
+Site web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+{}
+[+]
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom*
+
+
+
+
+
+Email*
+
+
+
+
+
+Site web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Commentaire 
+
+
+
+
+
+ Inline Feedbacks 
+View all comments
+
+
+
+
+
+Afficher plus de commentaires 
+
+
+
+
+
+
+
+
+
+
+
+
+Les derniers articles
+
+
+
+
+
+
+ChatGPT : qu’est-ce que c’est, comment s’en servir, tout savoir sur la célèbre IA
+
+9 juillet 2024 15:40 
+
+
+
+
+
+
+
+ChatGPT arrive sur les Peugeot : voici les modèles compatibles
+
+8 juillet 2024 16:10 
+
+
+
+
+
+
+
+ChatGPT partage ses règles secrètes : que révèlent les garde-fous d’OpenAI ?
+
+5 juillet 2024 11:33 
+
+
+
+
+
+
+
+GPT-5 présage un énorme bond en avant, GPT-4 serait « un enfant » en comparaison
+
+3 juillet 2024 13:21 
+
+
+
+
+
+
+
+ChatGPT : les 10 plugins qui vont vous changer la vie
+
+1 juillet 2024 12:33 
+
+
+
+
+
+
+
+Audi ajoute ChatGPT à des millions de voitures, quels modèles auront droit à l’IA ?
+
+27 juin 2024 20:04 
+
+
+
+
+
+
+
+GPT-5 : date de sortie possible, nouveautés, qu’attendre du modèle d’IA de ChatGPT ?
+
+21 juin 2024 09:59 
+
+
+
+
+
+
+
+GPT-5 aura une intelligence de doctorant mais il n’arrivera pas de sitôt
+
+21 juin 2024 09:35 
+
+
+
+
+
+
+
+ChatGPT Plus : comment se désabonner facilement ?
+
+16 juin 2024 18:00 
+
+
+
+
+
+
+
+ChatGPT : comment empêcher la collecte de vos données ?
+
+13 juin 2024 16:53 
+
+
+
+
+
+
+
+ 
+
+",http://schema.org,BlogPosting,https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/,"Des étudiants se servent de ChatGPT pour rédiger leur devoir, le prof les démasque","ChatGPT est un outil très perfectionné qui permet de générer du texte en fonction de requêtes soumises. Il est ainsi prisé par les étudiants qui s'en servent pour faire leurs devoirs. À Lyon, sept étudiants ont utilisé l'intelligence artificielle pour rendre un travail, révèle un professeur désabusé. 
+ChatGPT fait le bonheur des étudiants paresseux © Unsplash  
+
+
+
+ChatGPT est un chatbot alimenté par l'IA qui fait beaucoup parler de lui ces jours-ci. Son robot conversationnel a la faculté de comprendre avec précision les requêtes des usagers. Et de leur répondre en conséquence avec un texte fouillé. Ainsi, il est possible de générer une multitude de contenus différents grâce à ChatGPT dont les performances inquiètent Google... mais aussi les professeurs. Et pour cause, certains étudiants n'hésitent pas à utiliser l'outil pour rédiger leurs devoirs. 
+
+
+
+Nous en avons une nouvelle illustration à la faculté de Lyon. Comme le relate Le Progrès, Stéphane Bonvallet avait demandé à ses étudiants de lui rendre un devoir sur l'approche médicale du handicap en Europe. Le professeur en handicapologie a toutefois été surpris en corrigeant les copies. Certaines étaient construites de manière similaire et ponctuées d'arguments proches. De quoi lui mettre la puce à l'oreille ! 
+
+
+
+À lire &gt; ChatGPT : comment l’utiliser avec Siri sur iPhone ?
+
+
+
+Les étudiants font appel à ChatGPT pour rendre leur devoir maison  
+
+
+
+Très suspicieux, il s'entretient alors avec une étudiante. Cette dernière finit par admettre qu'ils sont sept à avoir utilisé ChatGPT pour rendre leur devoir. Le professeur est désemparé suite à cette révélation. Il explique qu'il n'existe aucune règle prohibant l'outil d'un tel chatbot pour rédiger un devoir. Ce faisant, il décide d'évaluer les devoirs écrits par l'intelligence artificielle. Ces derniers ont recueilli des notes oscillant entre 10 et 12,5 sur 20.
+
+
+
+Stéphane Bonvallet ne cache toutefois pas son inquiétude au sujet de cet outil. Lequel ""pose un véritable problème d’intégration des savoirs, car les élèves n’ont plus besoin d’effectuer la moindre recherche pour composer"", déplore le professeur. Il sera ravi d'apprendre qu'un étudiant à développé une application anti-triche capable de détecter les textes générés par ChatGPT. Cette dernière pourrait en effet être d'une grande aide pour le personnel enseignant. 
+
+
+
+
+
+
+
+
+",,2023-01-11T12:01:42+01:00,2023-06-09T19:59:39+02:00,"{'@type': 'Person', 'url': 'https://www.tomsguide.fr/author/dadou/', 'name': 'David Douïeb'}","{'@type': 'Organization', 'name': 'Toms Guide', 'logo': {'@type': 'ImageObject', 'url': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/05/logo_T_bleu_RVB.jpg', 'width': 1293, 'height': 1222}}",,https://www.tomsguide.fr/content/uploads/sites/2/2023/01/etudiant-travail-ordinateur-e1675077426331.jpg,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/#article', 'isPartOf': {'@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/'}, 'author': {'name': 'David Douïeb', '@id': 'https://www.tomsguide.fr/#/schema/person/beb63fec40f57d488c9cd687d982b76b'}, 'headline': 'Des étudiants se servent de ChatGPT pour rédiger leur devoir, le prof les démasque', 'datePublished': '2023-01-11T12:01:42+00:00', 'dateModified': '2023-06-09T19:59:39+00:00', 'mainEntityOfPage': {'@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/'}, 'wordCount': 370, 'commentCount': 1, 'publisher': {'@id': 'https://www.tomsguide.fr/#organization'}, 'image': {'@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/#primaryimage'}, 'thumbnailUrl': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/01/etudiant-travail-ordinateur-e1675077426331.jpg', 'keywords': ['ChatGPT'], 'articleSection': ['Actualité', 'IA'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/#respond']}], 'copyrightYear': '2023', 'copyrightHolder': {'@id': 'https://www.tomsguide.fr/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/', 'url': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/', 'name': 'Des étudiants se servent de ChatGPT pour rédiger leur devoir, le prof les démasque', 'isPartOf': {'@id': 'https://www.tomsguide.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/#primaryimage'}, 'image': {'@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/#primaryimage'}, 'thumbnailUrl': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/01/etudiant-travail-ordinateur-e1675077426331.jpg', 'datePublished': '2023-01-11T12:01:42+00:00', 'dateModified': '2023-06-09T19:59:39+00:00', 'description': ""ChatGPT est un outil très perfectionné qui permet de générer du texte en fonction de requêtes soumises. Il est ainsi prisé par les étudiants qui s'en servent pour faire leurs devoirs. À Lyon, sept étudiants ont utilisé l'intelligence artificielle pour rendre un travail, révèle un professeur désabusé."", 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.tomsguide.fr/des-etudiants-se-servent-de-chatgpt-pour-rediger-leur-devoir-le-prof-les-demasque/#primaryimage', 'url': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/01/etudiant-travail-ordinateur-e1675077426331.jpg', 'contentUrl': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/01/etudiant-travail-ordinateur-e1675077426331.jpg', 'width': 1200, 'height': 900, 'caption': 'ChatGPT fait le bonheur des étudiants paresseux © Unsplash'}, {'@type': 'WebSite', '@id': 'https://www.tomsguide.fr/#website', 'url': 'https://www.tomsguide.fr/', 'name': 'Toms Guide', 'description': '', 'publisher': {'@id': 'https://www.tomsguide.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.tomsguide.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.tomsguide.fr/#organization', 'name': 'Toms Guide', 'url': 'https://www.tomsguide.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.tomsguide.fr/#/schema/logo/image/', 'url': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/05/logo_T_bleu_RVB.jpg', 'contentUrl': 'https://www.tomsguide.fr/content/uploads/sites/2/2023/05/logo_T_bleu_RVB.jpg', 'width': 1293, 'height': 1222, 'caption': 'Toms Guide'}, 'image': {'@id': 'https://www.tomsguide.fr/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.tomsguide.fr/#/schema/person/beb63fec40f57d488c9cd687d982b76b', 'name': 'David Douïeb', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.tomsguide.fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/a08bb358c2a9fc36265e8f3225c5de08?s=64&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/a08bb358c2a9fc36265e8f3225c5de08?s=64&d=mm&r=g', 'caption': 'David Douïeb'}, 'description': ""Je suis fasciné par l'impact sociétal des nouvelles technologies et du tout-connecté. Un objet d'étude passionnant que je décrypte quotidiennement pour les lecteurs de Tom's Guide. Je suis également un grand amoureux de pop culture. Je rêve d'ailleurs secrètement de devenir un Jedi ou d'être admis à Poudlard. Côté jeux, je pourrais me perdre éternellement dans l'ouest sauvage de Red Dead Redemption."", 'sameAs': ['https://x.com/David_Douieb'], 'url': 'https://www.tomsguide.fr/author/dadou/'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFjdHVpYS5jb20vZGVjb3V2cmlyL3F1ZXN0LWNlLXF1ZS1sYS1kZWVwLXRlY2gtZGVmaW5pdGlvbi1ldC1lbmpldXgv0gEA?oc=5,Qu'est-ce que la deep tech ? Définition et enjeux - Intelligence artificielle - Actu IA,2023-01-10,Intelligence artificielle - Actu IA,https://www.actuia.com,,N/A,,,N/A,N/A,"
+
+Qu’est-ce que la deep tech ? Définition et enjeux
+
+
+Le 10 janvier 2023, par Johanna Diaz.
+
+
+
+
+Deep tech ou deeptech, il s’agit d’un domaine en constante évolution qui regroupe les technologies les plus innovantes et disruptives de notre époque. Ces technologies ont la particularité de s’appuyer sur des connaissances scientifiques avancées et de repousser les limites de ce qui est techniquement possible. Elles ont le potentiel de changer radicalement notre vie et notre manière de consommer, de travailler et de communiquer.
+Les domaines de la deep tech
+La deep tech couvre un large éventail de domaines, allant de la biotechnologie à l’intelligence artificielle en passant par la nanotechnologie et la robotique. Chacun de ces domaines regroupe de nombreuses technologies spécifiques qui ont le potentiel de révolutionner les secteurs dans lesquels elles sont utilisées.
+Par exemple, la biotechnologie est un domaine de la deep tech qui vise à utiliser les principes de la biologie pour créer de nouvelles solutions technologiques. Elle peut être utilisée pour développer de nouveaux médicaments ou pour créer des matériaux innovants à partir de matières végétales ou animales.
+L’intelligence artificielle, quant à elle, est une technologie qui permet de donner à des machines la capacité de s’adapter et de réagir de manière autonome en analysant et en apprenant à partir de données. Elle est utilisée dans de nombreux domaines, tels que la reconnaissance vocale, la traduction automatique ou encore la conduite autonome.
+La nanotechnologie, enfin, est un domaine de la deep tech qui vise à manipuler et à contrôler les matériaux à l’échelle nanométrique, c’est-à-dire à l’échelle de milliardièmes de mètre. Elle permet de créer de nouveaux matériaux et de nouvelles structures avec des propriétés uniques, qui peuvent être utilisées dans de nombreux domaines, tels que la médecine, l’énergie ou les transports.
+Les enjeux de la deep tech
+La deep tech soulève de nombreux enjeux éthiques, économiques et sociaux. En effet, ces technologies ont le potentiel de changer radicalement notre vie et notre manière de consommer, de travailler et de communiquer, et il est important de réfléchir à leurs implications à long terme.
+Un des principaux enjeux de la deep tech est celui de l’emploi. En effet, de nombreuses technologies de pointe ont le potentiel de remplacer des emplois manuels ou de les rendre obsolètes. Il est donc important de se poser la question de la répartition des emplois et de la formation des travailleurs pour s’adapter à ces changements.
+Un autre enjeu important est celui de la sécurité et de la protection de la vie privée. Certaines technologies de pointe, comme l’intelligence artificielle, peuvent être utilisées pour collecter et traiter de grandes quantités de données personnelles, ce qui peut poser des problèmes de protection de la vie privée. Il est donc important de développer des réglementations et des normes pour garantir la sécurité et la confidentialité de ces données.
+Enfin, la deep tech peut aussi poser des problèmes éthiques, comme l’accès inégal à ces technologies. Si certaines personnes ou certaines régions ont accès à ces technologies alors que d’autres en sont exclus, cela peut entraîner des inégalités croissantes et un fossé entre les différentes parties de la société. Il est donc important de veiller à ce que l’accès à la deep tech soit équitable et que tous puissent en bénéficier.
+Le futur de la deep tech
+Il est difficile de prédire l’avenir de la deep tech, mais il est certain que ces technologies auront un impact profond sur notre vie et notre économie. Certaines technologies, comme l’intelligence artificielle ou la robotique, sont déjà en train de changer radicalement notre manière de travailler et de communiquer, et il est probable que d’autres avancées technologiques viendront bouleverser notre vie de manière encore plus significative. En France, plusieurs programmes, dont RISE du CNRS, accompagnent les projets de création d’entreprise deeptech.
+Il est important de continuer à réfléchir aux enjeux éthiques, économiques et sociaux de la deep tech et beaucoup s’intéressent au développement de réglementations, notamment en Espagne, pour encadrer ces technologies et en garantir un usage équitable. Si la deep tech peut apporter de nombreux bénéfices, il est en effet crucial de veiller à ce qu’elle ne crée pas de nouvelles inégalités ou de nouveaux problèmes à long terme.
+Malgré les incertitudes qui entourent l’avenir de la deep tech, il est certain que ces technologies continueront à jouer un rôle important dans notre vie et notre économie. Elles ont le potentiel de révolutionner de nombreux secteurs, comme la santé, l’énergie, les transports ou les communications, et d’apporter de nombreux bénéfices à la société.
+Il est donc important de continuer à investir dans la recherche et le développement de ces technologies et de veiller à ce que les avancées technologiques profitent à tous. En prenant en compte les enjeux éthiques, économiques et sociaux de la deep tech et en réglementant son usage de manière adéquate, nous pouvons tirer le meilleur parti de ces technologies et garantir un avenir meilleur pour tous.
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmxlc29pci5iZS80ODczNTYvYXJ0aWNsZS8yMDIzLTAxLTA3L2xlY29sZS1kb2l0LWVsbGUtY3JhaW5kcmUtbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGXSAQA?oc=5,L’école doit-elle craindre ChatGPT? - Le Soir,2023-01-07,Le Soir,https://www.lesoir.be,"Le logiciel ChatGPT, interdit dans les écoles de New York, fait frémir l’enseignement. De nombreux acteurs estiment pourtant que, bien utilisé, il peut être d’une grande utilité.","['[node:field_freetags]', 'Écoles', 'collèges et lycées', 'Université', 'Étudiants', 'ULB', 'New York']","Le logiciel ChatGPT, interdit dans les écoles de New York, fait frémir l’enseignement. De nombreux acteurs estiment pourtant que, bien utilisé, il peut être d’une grande utilité.","Le logiciel ChatGPT, interdit dans les écoles de New York, fait frémir l’enseignement. De nombreux acteurs estiment pourtant que, bien utilisé, il peut être d’une grande utilité.",N/A,N/A,"
+ L’école doit-elle craindre l’intelligence artificielle?
+Le logiciel ChatGPT, interdit dans les écoles de New York, fait frémir l’enseignement. De nombreux acteurs estiment pourtant que, bien utilisé, il peut être d’une grande utilité.
+
+ Article réservé aux abonnés
+
+
+ 
+
+
+
+
+
+
+
+Par Stéphane Vande Velde
+ et Eric Burgraff
+
+ Publié le 7/01/2023 à 06:00
+Temps de lecture: 5 min
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Non, je ne suis pas dangereux pour l’éducation. Je suis un modèle de langage conçu pour aider les gens à répondre à des questions et à résoudre des problèmes. Mon but est d’aider les gens à apprendre et à se renseigner sur différents sujets. Je ne suis pas capable de nuire à l’éducation ou à quoi que ce soit d’autre, car je suis simplement un programme informatique. » La réponse est intelligente et… langue de bois. Voilà ce que livre le nouveau logiciel ChatGPT quand on lui demande s’il est dangereux pour l’éducation. Ce nouveau jouet de l’intelligence artificielle est, aujourd’hui, au centre des réflexions éducatives, tant dans les écoles secondaires qu’à l’université. Pas étonnant. Vous lui soumettez deux mots et il vous fait une dissertation qui tient la route. Mais favorise-t-il pour autant la tricherie et pousse-t-il les étudiants à la fainéantise ? Comme il a réponse à tout, on lui a donc soumis notre réflexion. Et là encore, il a une réponse… tout en langue de bois. « Je ne favorise pas la triche des élèves.
+
+
+
+
+ Cet article est réservé aux abonnés
+      
+
+        Accédez à l'information nationale et internationale vérifiée et décryptée
+        1€/semaine pendant 4 semaines (sans engagement)
+
+J'en profite
+
+Avec cette offre, profitez de :
+
+L’accès illimité à tous les articles, dossiers et reportages de la rédaction
+Le journal en version numérique (PDF)
+Un confort de lecture avec publicité limitée
+
+
+
+
+          Déjà abonné ?
+        
+Je me connecte
+
+ 
+
+
+
+ Cet article est réservé aux abonnés
+    
+Découvrez la suite, 1€/semaine pendant 4 semaines
+      (sans engagement)
+
+J'en profite
+
+Avec cette offre, profitez de :
+
+L’accès illimité à tous les articles, dossiers et reportages de la rédaction
+Le journal en version numérique
+Un confort de lecture avec publicité limitée
+
+
+
+
+        Déjà abonné ?
+      
+Je me connecte
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.lesoir.be/487356/article/2023-01-07/lecole-doit-elle-craindre-lintelligence-artificielle'}",L’école doit-elle craindre l’intelligence artificielle?,,,2023-01-07T06:00:00+01:00,2023-01-07T06:00:00+01:00,"{'@type': 'Person', 'name': 'Par Stéphane Vande Velde'}","{'@type': 'Organization', 'name': 'Le Soir', 'sameAs': '[""https:\\/\\/fr.wikipedia.org\\/wiki\\/Le_Soir"",""https:\\/\\/www.facebook.com\\/lesoirbe\\/"",""https:\\/\\/twitter.com\\/lesoir""]', 'logo': {'@type': 'ImageObject', 'url': 'https://www.lesoir.be/sites/all/themes/enabootstrap_lesoir/images/site-logo.svg', 'width': 400, 'height': 600}}",Enseignement,"[{'@type': 'ImageObject', 'url': 'https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2023/01/06/node_487356/29772564/public/2023/01/06/B9733124154Z.1_20230106194931_000%2BG3VLVTM24.2-0.jpg?itok=mQke1Gir1673082633', 'width': '1350', 'height': '759'}]","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lesoir.be/81852/sections/soir-plus', 'name': 'Soir Plus'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lesoir.be/9/sections/belgique', 'name': 'Belgique'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lesoir.be/81610/sections/enseignement', 'name': 'Enseignement'}}]",,L’école doit-elle craindre l’intelligence artificielle?,,,,,,,,,,,,,"Le logiciel ChatGPT, interdit dans les écoles de New York, fait frémir l’enseignement. De nombreux acteurs estiment pourtant que, bien utilisé, il peut être d’une grande utilité.",FALSE,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'FALSE', 'cssSelector': '#main > section.r-section--principale > article > div.paywall.qiota_reserve'}","{'@type': ['CreativeWork', 'Product'], 'name': 'Le Soir', 'productID': 'lesoir.be:ena', 'sku': 'https://espace-abonnement.lesoir.be/'}",
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYXBpdGFsLmZyL2Vjb25vbWllLXBvbGl0aXF1ZS90cmljaGVyaWUtZGVzLWV0dWRpYW50cy1lbi1tYXN0ZXItb250LXV0aWxpc2UtY2hhdGdwdC1wb3VyLXJlZGlnZXItbGV1ci1kZXZvaXItMTQ1NzExMdIBAA?oc=5,Tricherie : des étudiants en Master ont utilisé ChatGPT pour rédiger leur devoir - Capital.fr,2023-01-11,Capital.fr,https://www.capital.fr,"Trouvant de nombreuses similitudes dans plusieurs copies, un professeur en handicapologie de Lyon a découvert que ses élèves avaient réalisé leur examen à l'aide d'une intelligence artificielle.",",intelligence artificielle,étudiants,","Trouvant de nombreuses similitudes dans plusieurs copies, un professeur en handicapologie de Lyon a découvert que ses élèves avaient réalisé leur examen à l'aide d'une intelligence artificielle.","Trouvant de nombreuses similitudes dans plusieurs copies, un professeur en handicapologie de Lyon a découvert que ses élèves avaient réalisé leur examen à l'aide d'une intelligence artificielle.",economie-et-societe,N/A,"
+
+
+
+ 
+
+
+			Intelligence artificielle : êtes-vous prêt à l'utiliser au travail ? 
+					
+
+				INTELLIGENCE ARTIFICIELLE
+			
+
+",http://schema.org,NewsArticle,https://www.capital.fr/economie-politique/tricherie-des-etudiants-en-master-ont-utilise-chatgpt-pour-rediger-leur-devoir-1457111,Tricherie : des étudiants en Master ont utilisé ChatGPT pour rédiger leur devoir,"ChatGPT s'immisce sur les bancs de la fac. Des &eacute;l&egrave;ves en handicapologie de la facult&eacute; de Lyon se seraient servis de cette intelligence artificielle pour un devoir demand&eacute; par leur professeur, relate Le Progr&egrave;s. L'enseignant aurait eu la puce &agrave; l'oreille en relevant de nombreuses similitudes dans sept copies de ces &eacute;tudiants en Master. ""Il ne s&rsquo;agissait pas de copier-coller. Mais les copies &eacute;taient construites exactement de la m&ecirc;me mani&egrave;re. On y retrouvait les m&ecirc;mes constructions grammaticales"", explique St&eacute;phane Bonvallet au quotidien r&eacute;gional. Et tous avaient choisi d'illustrer le sujet ""par un exemple personnel, relatif &agrave; une grand-m&egrave;re ou &agrave; un grand-p&egrave;re"", souligne encore l'enseignant.C'est en interpellant l'un de ces &eacute;l&egrave;ves &agrave; ce sujet que le professeur a d&eacute;couvert que sept d'entre eux s'&eacute;taient servis de ChatGPT pour r&eacute;diger leur devoir. ""Apparemment, ils s&rsquo;&eacute;taient pass&eacute; le mot sur les r&eacute;seaux sociaux."" Outre la triche constat&eacute;e, c'est surtout la performance de cette IA qui a surpris St&eacute;phane Bonvallet. Ce dernier explique &agrave; nos confr&egrave;res du Progr&egrave;s qu'en raison d'un d&eacute;faut de l&eacute;gislation sur cette pratique, il a tout de m&ecirc;me d&ucirc; noter ces copies. Et toutes valaient plus de la moyenne ! ""D&rsquo;une copie &agrave; l&rsquo;autre, &ccedil;a valait entre 10 et 12,5. J&rsquo;ai donc mis 11,75 aux sept &eacute;tudiants qui ont utilis&eacute; ChatGPT"", pr&eacute;cise celui qui a pris le soin d'avertir la direction de l'universit&eacute;.	
+		&Agrave; lire aussi : 
+		
+			Les &eacute;tudiants &eacute;trangers, un joli pactole pour la France
+		
+	
+Le ph&eacute;nom&egrave;ne prend de l'ampleurUne instruction devrait &ecirc;tre men&eacute;e, mais le professeur se veut d'ores et d&eacute;j&agrave; inquiet pour l'avenir de l'enseignement. ""Cette pratique m&rsquo;inqui&egrave;te. Elle pose un v&eacute;ritable probl&egrave;me d&rsquo;int&eacute;gration des savoirs, car les &eacute;l&egrave;ves n&rsquo;ont plus besoin d&rsquo;effectuer la moindre recherche pour composer."" Et le cas de ces &eacute;tudiants en Master ne semble pas unique, puisque depuis la mise en lumi&egrave;re de cette tricherie, plusieurs confr&egrave;res auraient contact&eacute; St&eacute;phane Bonvallet pour lui faire part de constats similaires. ""Les trois quarts des enseignants m&rsquo;ont dit avoir eu affaire &agrave; des copies louches ces derni&egrave;res semaines. L&rsquo;utilisation de ChatGPT serait particuli&egrave;rement importante dans les lyc&eacute;es"", assure l'enseignant au Progr&egrave;s. Un ph&eacute;nom&egrave;ne qui semble prendre de l'ampleur et sur lequel l'enseignement sup&eacute;rieur et l'&Eacute;ducation nationale vont devoir rapidement se pencher.	
+		&Agrave; lire aussi : 
+		
+			Loyer, transports... les cinq villes les plus ch&egrave;res pour les &eacute;tudiants cette rentr&eacute;e
+		
+	
+",,2023-01-11T19:20:57+01:00,2023-01-12T17:39:27+01:00,"[{'@type': 'Person', 'name': 'Claire Domenech', 'url': 'https://www.capital.fr/auteur/claire-domenech'}]","{'@type': 'Organization', 'name': 'Capital.fr', 'url': 'https://www.capital.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.capital.fr/assets/capital/modern/images/logo_capital.5e6f8109c8f4ffb474a4.png', 'height': 60, 'width': 175}}",economie-et-societe,"{'url': 'https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2022.2F08.2F05.2F9ce6132f-7706-4274-b2f4-992c9899c864.2Ejpeg/1200x630/cr/wqkga2FzdG8vQWRvYmUgU3RvY2sgLyBDQVBJVEFM/tricherie-des-etudiants-en-master-ont-utilise-chatgpt-pour-rediger-leur-devoir-1457111.jpg', 'width': 1200, 'height': 630, '@type': 'ImageObject'}","[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Accueil', '@id': 'https://www.capital.fr/'}}]",2023,,,,,,,,,,,,,,,,,,"{'@type': 'VideoObject', 'description': 'Tricherie : des étudiants en Master ont utilisé ChatGPT pour rédiger leur devoir', 'duration': 'T00M00S', 'name': 'Tricherie : des étudiants en Master ont utilisé ChatGPT pour rédiger leur devoir', 'embedUrl': 'https://www.dailymotion.com/video/k5GKth0H8XKltgyGDt7', 'thumbnailUrl': 'https://s2.dmcdn.net/v/UZFzv1Zm3MUZOZvjO', 'uploadDate': '2024-07-09T18:50:40+02:00', 'publisher': {'@type': 'Organization', 'name': 'Capital.fr', 'url': 'https://www.capital.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.capital.fr/assets/capital/modern/images/logo_capital.5e6f8109c8f4ffb474a4.png', 'height': 60, 'width': 175}}}"
+https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5jbHViaWMuY29tL3RlY2hub2xvZ2llcy1kLWF2ZW5pci9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL2FjdHVhbGl0ZS00NTMwMzMtdW4tbWFuZ2EtZ2VuZXJlLXBhci1pYS1zdXItbGUtcG9pbnQtZC1ldHJlLXB1YmxpZS5odG1s0gEA?oc=5,Un manga généré par IA sur le point d'être publié - Clubic,2023-01-10,Clubic,https://www.clubic.com,"Après la génération d'œuvres d'art, de texte, de voix et même de conseils juridiques, l'intelligence artificielle nous montre un nouveau versant de ses capacités. ",N/A,"Après la génération d'œuvres d'art, de texte, de voix et même de conseils juridiques, l'intelligence artificielle nous montre un nouveau versant de ses capacités. ","Après la génération d'œuvres d'art, de texte, de voix et même de conseils juridiques, l'intelligence artificielle nous montre un nouveau versant de ses capacités. ",N/A,N/A,"© RootportAprès la génération d'œuvres d'art, de texte, de voix et même de conseils juridiques, l'intelligence artificielle nous montre un nouveau versant de ses capacités. L'œuvre du mangaka Rootport, baptisée Cyberpunk : Momotarô, devrait alimenter les discussions déjà nombreuses autour du rôle de l'IA dans la création artistique.PublicitéAu tour du manga de céder à l'IAJusqu'où ira l'intelligence artificielle ? Alors que l'on s'attendait à la voir d'abord prendre d'assaut les tâches techniques de l'activité humaine, elle s'illustre ces dernières semaines dans un domaine tout autre : l'art.On a ainsi pu voir l'intelligence artificielle être utilisée dans le domaine de la haute couture, ou même comme assistant dans l'élaboration de scénarios. Elle est même déjà tellement efficace qu'elle a soulevé contre elle les artistes d'ArtStation.Mais rien ne semble pourtant pouvoir arrêter le progrès. Aujourd'hui, c'est ainsi à un nouveau secteur qu'elle s'attaque : le manga. En effet, la première œuvre ayant utilisé l'intelligence artificielle pour sa production sortira le 9 mars prochain. Il s'agit du manga Cyberpunk : Momotarô, imaginé par Rootport.PublicitéMidjourney à la baguetteC'est la maison d'édition japonaise Shinchosha (City Hunter, La Voie du Tablier, Gangsta) qui va publier ce travail inédit. L'auteur, Rootport a ainsi utilisé l'intelligence artificielle Midjourney pour assembler et éditer ce manga de science-fiction, inspiré des classiques japonais du genre.Il narre l'histoire d'un jeune garçon amnésique recueilli par les gérants d'un club de strip-tease, qui possède des données verrouillées dans sa hanche. Le héros va ensuite se lancer dans une aventure où il devra combattre des ennemis puissants.L'IA dont a usé Rootport pour cette entreprise, Midjourney, fonctionne sur le même modèle que DALL-E d'OpenAI. Fondée sur le principe du machine learning, elle permet en entrant des mots-clés et des descriptions de générer des images. Mais, on le rappelle, l'IA est entraînée à partir d'images originales créées par des auteurs humains. Que se passera-t-il au printemps si un mangaka reconnaît son trait de crayon dans Cyberpunk : Momotarô ?Sources : Anime News Network, Konbini",https://schema.org,BreadcrumbList,https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-453033-un-manga-genere-par-ia-sur-le-point-d-etre-publie.html,Un manga généré par IA sur le point d'être publié,,,2023-01-10T14:35:00+01:00,2023-01-10T14:35:00+01:00,"{'@context': 'https://schema.org', '@type': 'Person', 'name': 'Samir Rahmoune', 'url': 'https://www.clubic.com/auteur/447348-samir-rahmoune.html', 'description': ""\rJournaliste tech, spécialisé dans l'impact des hautes technologies sur les relations internationales. Je suis passionné par toutes les nouveautés dans le domaine (Blockchain, IA, quantique...), les questions énergétiques, et l'astronomie. Souvent un pied en Asie, et toujours prêt à enfiler les gants.""}","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Clubic.com', 'url': 'https://www.clubic.com', 'logo': {'@type': 'ImageObject', 'url': 'https://pic.clubic.com/v1/images/1932033/raw', 'width': '210', 'height': '60'}, 'sameAs': ['https://www.facebook.com/Clubic', 'https://twitter.com/clubic', 'https://www.youtube.com/user/Clubic', 'https://fr.linkedin.com/company/clubic', 'https://fr.wikipedia.org/wiki/Clubic']}",,"{'@type': 'ImageObject', 'height': '1353', 'width': '1920', 'url': 'https://pic.clubic.com/v1/images/2074821/raw'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.clubic.com/', 'url': 'https://www.clubic.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/', 'url': 'https://www.clubic.com/technologies-d-avenir/', 'name': 'Science & Innovation'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/', 'url': 'https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",,,,,,,,,,,,,,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}",,,,,
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZG9uZG9uLm1lZGlhLzUtaWEtcG91ci1jcmVlci1hbmltZS1tYW5nYXMv0gEA?oc=5,5 IA à utiliser pour créer facilement des anime et des mangas - dondon.media,2023-01-07,dondon.media,https://dondon.media,L'intelligence artificielle (IA) au service de la communauté des personnes créatives et artistes est en pleine explosion !,N/A,L'intelligence artificielle (IA) au service de la communauté des personnes créatives et artistes est en pleine explosion !,N/A,N/A,N/A,"
+
+ 5 IA à utiliser pour créer facilement des anime et des mangas 
+
+L’intelligence artificielle (IA) au service de la communauté des personnes créatives et artistes est en pleine explosion !
+
+
+Vous voulez créer des anime et mangas sans trop d’effort ? Découvrez les 5 IA les plus performantes pour faciliter votre travail de création, tout en économisant temps et énergie.
+À lire aussi sur dondon.media :  Exemples de prompts pour générer des mangas et illustrations d’anime grâce à l’IA
+Avec des outils de plus en plus sophistiqués, la création de mangas et d’anime est devenue beaucoup plus accessible qu’auparavant. Dans cet article, nous allons explorer cinq des meilleures IA pour faciliter votre travail de création et vous aider à produire des œuvres de qualité en un rien de temps.
+ Qu’est ce qu’une IA générative pour anime et mangas
+Une IA générative d’art est un programme informatique qui crée littéralement de l’art en utilisant l’intelligence artificielle.
+Il produit des œuvres d’art en copiant le fonctionnement du cerveau humain. Ces IA utilisent donc algorithmes au lieu de la pensée humaine !
+Les images ainsi générées sont pratiques comme références pour stimuler votre créativité, les utiliser pour faire un paint over, du photobashing (selon les conditions d’utilisation de chaque IA)…
+Il existe un certain nombre d’IA de ce genre et certaines sont particulièrement bonnes pour créer des anime et des mangas. Chacun a ses propres capacités et caractéristiques que nous vous expliquons ci-dessous.
+Novel AI
+Novel AI est sans conteste l’application la plus puissante du marché pour générer des images de style animation japonaise.
+Utilisant le modèle de Stable Diffusion, Novel AI permet de produire des images de la meilleure qualité dans le style anime !
+
+
+Attention quand même de nombreuses controverses entourent Novel AI, beaucoup de gens l’ont accusé d’utiliser des illustrations sans l’autorisation des artistes pour son apprentissage.
+Waifu Labs
+Si vous êtes un fan d’art animé, alors vous allez adorer Waifu Labs. Il s’agit d’une IA qui dessine des portraits.
+
+
+Elle utilise évidemment de l’apprentissage automatique pour créer ses illustrations de personnage d’anime. Il suffit de suivre les 4 étapes faciles pour avoir un résultat bluffant !
+Fait amusant le même développeur a créé un jeu appelé Arrowmancer dans lequel vous pouvez importer vos Waifus générés dans le jeu…
+Midjourney
+Midjourney est une IA texte-image, similaire à Stable Diffusion et DALL-E-2. La différence est qu’elle utilise le « Discord Bot » pour générer des illustrations pour vous sur un serveur Discord.
+
+
+Pour l’utiliser, vous devez d’abord donc créer un compte Discord et rejoindre leur serveur Discord. Ensuite, rendez-vous dans le canal général ou celui des débutants et tapez directement la commande « /imagine » suivie de votre texte d’invite pour laisser l’IA générer des œuvres d’art pour vous.
+À lire aussi sur dondon.media :  IA : liste de mots-clés et modificateurs pour les prompts mangas et illustrations d’anime
+Notez que si votre serveur compte moins de 1 000 utilisateurs, vous pouvez inviter le robot Midjourney et commencer à l’utiliser sur votre propre serveur.
+Artbreeder
+Artbreeder est un outil en ligne qui permet aux utilisateurs de générer de nouvelles images en mélangeant et en reproduisant des images existantes. Le site contient une bibliothèque d’images générées par les utilisateurs, qui peuvent être combinées et personnalisées pour créer de nouveaux designs.
+
+
+Avec Artbreeder AI, vous pouvez prendre deux images et les mélanger pour créer une nouvelle image unique. C’est un outil formidable pour les artistes qui veulent expérimenter de nouvelles idées pour vos personnages, objets et paysages !
+Crypko
+Crypko peut aussi vous créer des illustrations de personnages d’anime. Ils ont des fonctions pour éditer chaque partie du personnage librement, même si vous n’avez pas de compétences en dessin.
+
+
+La fonction « Fuse » permet aussi de combiner vos personnages et de créer un nouvel ensemble de personnages !
+ Ne manquez pas les derniers articles dondon.media sur le Japon : sur Google Actualités, Twitter, E-mail ou via notre flux RSS.
+
+
+ 
+
+Auteur/autrice : Louis Japon
+
+Auteur #Actus, #BonsPlans, #Guides, #Culture, #Insolite chez dondon media.
+Chaque jours de nouveaux contenus en direct du #Japon et en français !  
+Afficher tous les articles par Louis Japon 
+
+
+
+
+
+Auteur  Louis JaponPublié le 7 janvier 20231 mai 2023Catégories Actus, Anime / Manga / Jeux vidéo, GuidesÉtiquettes Animation japonaise, Art, DALL-E, Discord, Intelligence artificielle, Listes, Midjourney, Novel AI, Stable Diffusion 
+",https://schema.org,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#article', 'isPartOf': {'@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/'}, 'author': {'name': 'Louis Japon', '@id': 'https://dondon.media/#/schema/person/0d17befc0c807c44d5a053df6689711f'}, 'headline': '🤖 5 IA à utiliser pour créer facilement des anime et des mangas', 'datePublished': '2023-01-07T14:36:16+00:00', 'dateModified': '2023-05-01T20:50:44+00:00', 'mainEntityOfPage': {'@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/'}, 'wordCount': 677, 'commentCount': 1, 'publisher': {'@id': 'https://dondon.media/#organization'}, 'image': {'@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#primaryimage'}, 'thumbnailUrl': 'https://dondon.media/wp-content/uploads/2023/01/5-ia-pour-creer-anime-mangas.png', 'keywords': ['Animation japonaise', 'Art', 'DALL-E', 'Discord', 'Intelligence artificielle', 'Listes', 'Midjourney', 'Novel AI', 'Stable Diffusion'], 'articleSection': ['Actus', 'Anime / Manga / Jeux vidéo', 'Guides'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://dondon.media/5-ia-pour-creer-anime-mangas/#respond']}]}, {'@type': 'WebPage', '@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/', 'url': 'https://dondon.media/5-ia-pour-creer-anime-mangas/', 'name': '🤖 5 IA à utiliser pour créer facilement des anime et des mangas', 'isPartOf': {'@id': 'https://dondon.media/#website'}, 'primaryImageOfPage': {'@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#primaryimage'}, 'image': {'@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#primaryimage'}, 'thumbnailUrl': 'https://dondon.media/wp-content/uploads/2023/01/5-ia-pour-creer-anime-mangas.png', 'datePublished': '2023-01-07T14:36:16+00:00', 'dateModified': '2023-05-01T20:50:44+00:00', 'description': ""L'intelligence artificielle (IA) au service de la communauté des personnes créatives et artistes est en pleine explosion !"", 'breadcrumb': {'@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://dondon.media/5-ia-pour-creer-anime-mangas/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#primaryimage', 'url': 'https://dondon.media/wp-content/uploads/2023/01/5-ia-pour-creer-anime-mangas.png', 'contentUrl': 'https://dondon.media/wp-content/uploads/2023/01/5-ia-pour-creer-anime-mangas.png', 'width': 986, 'height': 689}, {'@type': 'BreadcrumbList', '@id': 'https://dondon.media/5-ia-pour-creer-anime-mangas/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://dondon.media/'}, {'@type': 'ListItem', 'position': 2, 'name': '🤖 5 IA à utiliser pour créer facilement des anime et des mangas'}]}, {'@type': 'WebSite', '@id': 'https://dondon.media/#website', 'url': 'https://dondon.media/', 'name': 'Dondon Media', 'description': '#1 Japon : Actus, Bons Plans, Insolite, Culture, Lifestyle', 'publisher': {'@id': 'https://dondon.media/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://dondon.media/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://dondon.media/#organization', 'name': 'Dondon media', 'url': 'https://dondon.media/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://dondon.media/#/schema/logo/image/', 'url': 'https://dondon.media/wp-content/uploads/2020/04/dondon-media-logo.png', 'contentUrl': 'https://dondon.media/wp-content/uploads/2020/04/dondon-media-logo.png', 'width': 1000, 'height': 1000, 'caption': 'Dondon media'}, 'image': {'@id': 'https://dondon.media/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/dondon.media', 'https://x.com/dondonmedia', 'https://www.instagram.com/dondon.media/', 'https://www.youtube.com/@dondonmedia9388']}, {'@type': 'Person', '@id': 'https://dondon.media/#/schema/person/0d17befc0c807c44d5a053df6689711f', 'name': 'Louis Japon', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://dondon.media/#/schema/person/image/', 'url': 'https://dondon.media/wp-content/wphb-cache/gravatar/304/30476a94830d617a05c198b77ed08f68x96.jpg', 'contentUrl': 'https://dondon.media/wp-content/wphb-cache/gravatar/304/30476a94830d617a05c198b77ed08f68x96.jpg', 'caption': 'Louis Japon'}, 'description': 'Auteur #Actus, #BonsPlans, #Guides, #Culture, #Insolite chez dondon media. Chaque jours de nouveaux contenus en direct du #Japon et en français ! 🇫🇷💕🇯🇵', 'sameAs': ['https://dondon.media/'], 'url': 'https://dondon.media/author/dondon/'}]",,,,,,,,,,,,

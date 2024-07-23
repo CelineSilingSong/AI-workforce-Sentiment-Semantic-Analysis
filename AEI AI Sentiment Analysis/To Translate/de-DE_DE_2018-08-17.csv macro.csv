@@ -1,0 +1,124 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text
+https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy50ZWxla29tLmNvbS9kZS9rb256ZXJuL2RpZ2l0YWxlLXZlcmFudHdvcnR1bmcva3VlbnN0bGljaGUtaW50ZWxsaWdlbnotYWxsZXMtZ3V0LW9kZXItd2FzL2RldGFpbHMvenVyLXBlcnNvbi1zdXNhbi1zY2huZWlkZXItNTM0NTgy0gEA?oc=5,Zur Person: Susan Schneider - Deutsche Telekom,2018-08-20,Deutsche Telekom,https://www.telekom.com,"
+Susan Schneider, Director, AI, Mind and Society (""AIMS"") Group","Digitale Verantwortung,Alexander Mankowsky,Konzern","Susan Schneider, Director, AI, Mind and Society (""AIMS"") Group",N/A,N/A,N/A,"
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Podcasts
+
+
+
+
+
+"
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm1wZy5kZS8xMjIxMTQyOC9zeW5jaHJvbmlzYXRpb24tZ2VzaWNodHNhdXNkcnVjay12aWRlb9IBAA?oc=5,Künstliche Intelligenz passt die Gesichtsausdruck in synchronisierten Videos an - mpg.de,2018-08-20,mpg.de,https://www.mpg.de,Mithilfe künstlicher Intelligenz wird der Gesichtsausdruck einer Person bei der Synchronisation eines Films angepasst. Die Technik zur Modifizierung der Mimik in einem Video hat ein Team um C. Theobalt vom Max-Planck-Institut für Informatik entwickelt.,"synchronisation, mimik, gesichtsausdruck, video, film, künstliche intelligenz, max-planck-institut für informatik, theobalt",Mithilfe künstlicher Intelligenz wird der Gesichtsausdruck einer Person bei der Synchronisation eines Films angepasst. Die Technik zur Modifizierung der Mimik in einem Video hat ein Team um C. Theobalt vom Max-Planck-Institut für Informatik entwickelt.,N/A,N/A,N/A,"
+
+
+
+
+
+
+Startseite
+
+
+
+
+
+Newsroom
+
+
+
+
+
+News
+
+
+
+
+Künstliche Intelligenz passt die Gesichtsausdruck in synchronisierten Videos an
+
+
+
+
+
+
+
+Künstliche Intelligenz synchronisiert Lippen
+Eine neue Software passt den Gesichtsausdruck von Personen in Videos an eine über den Film gelegte Tonspur an
+
+
+
+
+
+
+
+
+
+
+
+
+20. August 2018
+
+
+
+Digitalisierung
+
+
+Informatik
+
+
+Künstliche Intelligenz
+
+
+
+Filme zu synchronisieren könnte künftig deutlich einfacher werden. Ein Softwarepaket, das ein Team um Forscher des Max-Planck-Instituts für Informatik in Saarbrücken entwickelt hat, kann die Mundbewegungen sowie den kompletten Gesichtsausdruck von Schauspielern an die Übersetzung eines Films anpassen. Die Technik, die Methoden der künstlichen Intelligenz nutzt, könnte die Kosten und den Zeitaufwand der Filmindustrie für die Synchronisation von Filmen erheblich senken. Die Software kann zudem die Blicke und die Kopfhaltung von Teilnehmern an Videokonferenzen korrigieren, damit der Eindruck einer natürlichen Gesprächssituation verstärkt wird.
+
+
+
+
+
+
+
+
+
+
+Synchronisierte Mimik: Der Gesichtsausdruck sowie die Blickrichtung und die Kopfhaltung einer Person (Input) lassen… [mehr]Synchronisierte Mimik: Der Gesichtsausdruck sowie die Blickrichtung und die Kopfhaltung einer Person (Input) lassen sich mithilfe der Deep-Video-Portraits-Technik, die mit 3D-Gesichtsmodellen arbeitet (Mitte) auf eine andere Person übertragen (Output). [weniger]
+
+          © MPI für Informatik
+        
+
+          Synchronisierte Mimik: Der Gesichtsausdruck sowie die Blickrichtung und die Kopfhaltung einer Person (Input) lassen sich mithilfe der Deep-Video-Portraits-Technik, die mit 3D-Gesichtsmodellen arbeitet (Mitte) auf eine andere Person übertragen (Output).
+        
+
+          © MPI für Informatik
+        
+
+
+Übersetzer von Filmen und Synchronsprecher arbeiten mit einer rigiden Einschränkung. Denn was sie Schauspielern in den Mund legen, muss nicht nur den Inhalt des Gesagten richtig wiedergeben, es muss auch zu den Lippenbewegungen und zur Mimik der Akteure passen. Ein internationales Team um Forscher des Max-Planck-Instituts für Informatik hat nun auf der Computergrafik-Konferenz SIGGRAPH in Vancouver eine Technik namens Deep Video Portraits vorgestellt, dank derer die übersetzte Tonspur nicht mehr unbedingt mit dem Gesichtsausdruck der Filmaufnahmen synchronisiert werden muss. Vielmehr kann die Software die Mimik und vor allem die Lippenbewegungen von Schauspielern an die Übersetzung anpassen.
+An der Entwicklung des Softwarepakets waren neben den Saarbrücker Max-Planck-Forschern Wissenschaftler der University of Bath, von Technicolor, der TU München und der Stanford University beteiligt. Im Gegensatz zu bestehenden Methoden, die in Videos nur den Gesichtsausdruck animieren können, passt die neue Technik neben der Mimik die Kopfhaltung, den Blick und das Augenzwinkern an. Sie kann sogar einen plausiblen statischen Videohintergrund synthetisieren, wenn der Kopf bewegt wird.
+Die Technik könnte die visuelle Unterhaltungsindustrie verändern
+Um die Merkmale realistisch wiederzugeben, nutzen die Forscher ein Modell des Gesichts und Verfahren der künstlichen Intelligenz. „Wir arbeiten mit modellbasierten 3D-Gesichtsaufnahmen, um die detaillierten Bewegungen der Augenbrauen, des Mundes, der Nase und der Kopfposition des Synchronsprechers in einem Video aufzuzeichnen“, erklärt Hyeongwoo Kim, Forscher am Max-Planck-Institut für Informatik. „Das System überträgt diese Bewegungen auf den Ziel-Akteur im Film, um die Lippen und Gesichtsbewegungen exakt mit dem neuen Ton zu synchronisieren.“
+Die aktuelle Forschungsarbeit demonstriert zunächst ein neues Konzept, die Methode und muss noch in die Praxis umgesetzt werden. Doch die Forscher gehen davon aus, dass die Technik Teile der visuellen Unterhaltungsindustrie massiv verändern könnte. „Trotz umfangreicher Postproduktionsanstrengungen produziert die Synchronisation von Filmen in Fremdsprachen noch immer ein Missverhältnis zwischen dem Schauspieler auf der Leinwand und der synchronisierten Stimme“, sagt Christian Theobalt, der am Max-Planck-Institut für Informatik eine Forschungsgruppe leitet und an der aktuellen Arbeit maßgeblich beteiligt war. „Unser neuer Ansatz Deep Video Portraits ermöglicht es uns, das Aussehen des gezeigten Schauspielers realistisch zu verändern, indem wir Kopfhaltung, Mimik und Augenbewegungen übertragen.“
+Natürlichere Gesprächssituationen in Videokonferenzen
+Neben einer realistischeren Übertragung von Filmen in andere Sprachen ermöglicht die Methode noch andere Anwendungen in der Filmproduktion. „Die Technik könnte auch für die Postproduktion in der Filmindustrie eingesetzt werden, wo die computergrafische Bearbeitung von Gesichtern in den heutigen Spielfilmen bereits weit verbreitet ist“, sagt Christian Richardt, der seitens des Motion-Capture-Forschungszentrums CAMERA der University of Bath an der Arbeit beteiligt war. Ein Beispiel für eine derartige Bearbeitung ist Der seltsame Fall des Benjamin Button, in dem das Gesicht von Brad Pitt in fast jedem Frame des Films durch eine modifizierte Computergrafikversion ersetzt wurde. Bislang erforderten solche Eingriffe oft viele Wochen Arbeit von ausgebildeten Künstlern. „Deep Video Portraits zeigt, wie ein solcher visueller Effekt in Zukunft mit weniger Aufwand erzeugt werden kann“, sagt Richardt. Mit dem neuen Ansatz könnten die Platzierung des Kopfes eines Schauspielers und sein Gesichtsausdruck problemlos verändert werden, um den Kamerawinkel oder den Rahmen einer Szene subtil zu verändern und die Geschichte so besser zu erzählen.
+Darüber hinaus kann die neue Technik zum Beispiel auch in Video- und VR-Telekonferenzen eingesetzt werden. Dabei blicken Menschen meist auf den Bildschirm und nicht in die Kamera, sodass die Personen am anderen Ende der Videoleitung einen Gesprächspartner sehen, der ihnen nicht in die Augen guckt. Mit Deep Video Portraits ließen sich der Blick und die Kopfhaltung korrigieren, um die Gesprächssituation natürlicher zu gestalten.
+Neuronale Netze detektieren bearbeitete Videos
+Die Software ermöglicht viele neue kreative Anwendungen in der visuellen Medienproduktion, aber die Autoren sind sich auch über das Missbrauchspotenzial moderner Videobearbeitungstechnologie im Klaren. Während die Medienindustrie Fotos schon lange bearbeitet, wird das nun auch mit Videos immer einfacher und überzeugender möglich. Mit der ständigen Verbesserung der Videobearbeitungstechnologie müsse man daher Videoinhalte, genauso wie heute schon Fotos, kritischer betrachten, insbesondere wenn es keinen Herkunftsnachweis gebe, sagt Michael Zollhöfer von der Stanford University. „Wir glauben, dass der Bereich der digitalen Forensik in Zukunft viel mehr Aufmerksamkeit erhalten sollte und auch erhalten wird, um Ansätze zu entwickeln, die die Authentizität eines Videoclips automatisch nachweisen können.“
+Zollhöfer ist überzeugt, dass sich mit besseren Methoden künftig auch solche Veränderungen aufdecken ließen, die Menschen nicht mit eigenen Augen erkennen können. Daran arbeiten auch die Forscher, die jetzt das Softwarepaket zur Bearbeitung von Videos vorgestellt haben. Sie entwickeln neuronale Netze, die darauf trainiert sind, synthetisch erzeugte oder bearbeitete Videos mit hoher Präzision zu detektieren; Fälschungen lassen sich dadurch viel leichter erkennen.
+Derzeit haben die Wissenschaftler nicht vor, die Software zur Anpassung von Videos öffentlich zugänglich zu machen. Zudem erklären sie, dass jede Software dieser Art in Videos Wasserzeichen hinterlassen sollte, um Änderungen klar zu kennzeichnen.
+BS/PH
+
+"

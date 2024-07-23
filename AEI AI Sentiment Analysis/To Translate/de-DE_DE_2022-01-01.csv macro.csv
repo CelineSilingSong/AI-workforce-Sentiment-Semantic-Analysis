@@ -1,0 +1,938 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,mainEntityOfPage,datePublished,name,author,publisher,image,headline,@type,hasPart,isAccessibleForFree,@context,article:section,article:summary,article text,@graph,mainEntity,breadcrumb,numberOfItems,itemListElement,alternateName,url,sameAs,logo,telephone,address,contactPoint,masthead,diversityPolicy,diversityStaffingReport,ownershipFundingInfo,publishingPrinciples,missionCoveragePrioritiesPolicy,verificationFactCheckingPolicy,ethicsPolicy,correctionsPolicy,unnamedSourcesPolicy,actionableFeedbackPolicy,alternativeHeadline,dateModified,articleSection,articleBody,isPartOf
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNvbXB1dGVyd2Vla2x5LmNvbS9kZS9tZWludW5nL0t1ZW5zdGxpY2hlLUludGVsbGlnZW56LVRyYWluaW5nc2RhdGVuLXNpbmQtZW50c2NoZWlkZW5k0gEA?oc=5,Künstliche Intelligenz: Trainingsdaten sind entscheidend - Computer Weekly,2022-01-05,Computer Weekly,https://www.computerweekly.com,"Unternehmen, die heute und in Zukunft wettbewerbsfähig sein wollen, kommen um Systeme auf Basis künstlicher Intelligenz (KI) nicht mehr herum. Doch wie wird eine KI intelligent?",N/A,"Unternehmen, die wettbewerbsfähig sein wollen, kommen um Systeme auf Basis künstlicher Intelligenz nicht mehr herum. Doch wie wird eine KI intelligent?","Unternehmen, die wettbewerbsfähig sein wollen, kommen um Systeme auf Basis künstlicher Intelligenz nicht mehr herum. Doch wie wird eine KI intelligent?","{'@type': 'WebPage', '@id': 'https://www.computerweekly.com/de/meinung/Kuenstliche-Intelligenz-Trainingsdaten-sind-entscheidend'}",2022-01-05T00:30Z,Künstliche Intelligenz: Trainingsdaten sind entscheidend,"[{'name': 'Christophe Bourguignat, Zelros', '@type': 'Person'}]","{'name': 'ComputerWeekly.com/de', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_cw_german_logo_266x60.png', 'height': 60, 'width': 266, '@type': 'ImageObject'}, '@type': 'Organization'}",https://cdn.ttgtmedia.com/visuals/German/article/brain-artificial-intelligence-adobe.jpg,Künstliche Intelligenz: Trainingsdaten sind entscheidend,Article,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",False,https://schema.org,N/A,N/A,"
+
+
+sarayut_sy - stock.adobe.com
+sarayut_sy - stock.adobe.com
+
+
+
+
+
+Meinung
+
+
+Künstliche Intelligenz: Trainingsdaten sind entscheidend
+
+
+Unternehmen, die heute und in Zukunft wettbewerbsfähig sein wollen, kommen um Systeme auf Basis künstlicher Intelligenz (KI) nicht mehr herum. Doch wie wird eine KI intelligent?
+
+
+
+
+
+Teilen Sie diesen Inhalt mit Ihrem Netzwerk:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+von
+
+
+Christophe Bourguignat, Zelros
+
+
+Zuletzt aktualisiert:05 Jan. 2022
+
+
+ 
+Künstliche Intelligenz (KI) zu entwickeln ist meist nur die halbe Miete, wenn es darum geht, effiziente Ergebnisse und Vorhersagen zu generieren. Entscheidend ist, wie das verantwortliche Entwicklungsteam die jeweilige KI trainiert und überwacht. Denn das größte Risiko in der Anwendung ist die Entstehung sogenannter Bias. Ein Bias sind unverhältnismäßige und damit unfaire Gewichtungen zugunsten einer Gruppe oder einzelner Personen innerhalb eines Systems. Jede KI kann Bias entwickeln und daraus diskriminierend Vorhersagen und Ergebnisse errechnen – der Hauptgrund sind ineffiziente Trainingsdaten.
+
+
+
+
+
+
+
+Künstliche Intelligenz braucht eine Basis, die Trainingsdaten, aus der sie lernen und von der aus sie sich entwickeln kann. Sind bereits diese Daten fehlerhaft oder unausgeglichen, ist es nur logisch, dass die KI fehlerhafte Schlüsse, also Bias, daraus ziehen wird, die langfristig zu verfälschten Ergebnissen führen. Diese können Unternehmen nicht nur durch ineffiziente Empfehlungen schaden, sie können im schlimmsten Fall auch das Verhältnis zu Kunden und Partnern stören.
+Ein bekanntes Beispiel ist Apple, die vor zwei Jahren einen weltweiten Shitstorm erlebte, als seine Apple Card Frauen bei der Vergabe von Krediten systematisch benachteiligte. Sogar Frauen mit hohem Einkommen und hoher Kreditwürdigkeit wurden gegenüber Männern mit niedrigeren Einstufungen abgewertet, Kredite wurden durch den Algorithmus verweigert.
+Der Fehler lag nicht in der KI selbst, sondern in den zuvor ausgewählten Trainingsdaten. Das System war mit unzeitgemäßen Daten über die Einkommens- und Kreditverteilung zwischen Frauen und Männern aus einer Zeit gefüttert worden, in der Frauen aufgrund veralteter Rollenbilder grundsätzlich weniger arbeiteten und verdienten als Männer. Die Konsequenz war, dass sie auch weniger Kredite aufnahmen und zurückzahlten als Männer. Diese Informationen führten dazu, dass der Algorithmus Frauen grundsätzlich für weniger kreditwürdig und zuverlässig hielt, egal, wie hoch ihr tatsächliches Vermögen und ihre tatsächliche Kreditwürdigkeit waren.
+Die gute Nachricht ist, dass suboptimale Trainingsdaten jederzeit korrigiert werden können. Im Idealfall sollte das allerdings passieren, bevor der Bias sich auf die Zufriedenheit von Nutzerinnen und Nutzern auswirken.
+Verzerrungen können relativ einfach vermieden oder ausgemerzt werden, wenn Unternehmen einige wichtige Punkte beachten: Wenn die Entwicklerinnen und Entwickler wissen, woher ein Bias stammt, kann ein Algorithmus korrigiert werden. Deshalb ist es wichtig, die KI während der gesamten Laufzeit zu überwachen und zu prüfen. Professionelle KI-Anbieter setzen dies als Standard voraus und sorgen dafür, dass Anwendungen stetig optimiert werden und dauerhaft nach den festgelegten Richtlinien arbeiten und funktionieren. Grundsätzlich sollten Trainingsdaten immer wieder kritisch überprüft und regelmäßig hinterfragt werden.
+Weiterhin wichtig ist schon von Anfang an die Auswahl des richtigen Entwicklerteams. Ein großer Indikator zur Einordnung von Trainingsdaten sind schützenswerte persönliche Merkmale wie Geschlecht, Herkunft oder Muttersprache. Hier spielt der Faktor Mensch eine entscheidende Rolle: Je diverser ein Team in der Entwicklung aufgestellt ist, desto höher ist die Wahrscheinlichkeit, dass eine suboptimale Datenauswahl schon früh auffällt.
+Grund sind die unterschiedlichen Perspektiven, die fehlen können, wenn ein Team zu homogen ist (wenn es zum Beispiel ausschließlich aus weißen Europäern besteht, oder nur eine bestimmte Altersgruppe vertreten ist). Ein großes Problem stellten in der Vergangenheit sogenannte Weird Samples dar. Sie beschreiben die Daten von Menschen, die aus der westlichen Welt stammen, gebildet sind und Industrienationen und Demokratien entstammen (Western, educated, industrialized, rich and democratic). WEIRD – eine Gruppe, die in Studien meist überrepräsentiert ist, obwohl sie nur einen geringen Teil der Weltbevölkerung ausmacht. Hier ist es wichtig, dass Entwicklerinnen und Entwickler gezielt gegensteuern.
+Mindestens genauso entscheidend ist die Nachvollziehbarkeit bei der Auswahl der Methodik: Stehen die Trainingsdaten bereit, muss das Team die passende Methodik auswählen, um die Daten zu verarbeiten. Dabei muss schon zu Beginn klar sein, welche Parameter am Ende die Effizienz des Modells bestimmen. Die Herausforderung ist, eine ausgewogene Entscheidung zwischen besonders effizienten und nachvollziehbaren Modellen zu finden.
+
+
+
+
+„Grundsätzlich sollten Trainingsdaten immer wieder kritisch überprüft und regelmäßig hinterfragt werden.“
+Christophe Bourguignat, Zelros
+
+Modelle, die in ihrem Ablauf und der Herleitung der Ergebnisse zu 100 Prozent eindeutig und für die Entwicklerinnen und Entwickler nachvollziehbar sind, sind häufig deutlich weniger effizient, als sogenannte Black-Box-Modelle. Diese Modelle basieren auf Deep Learning und sind so intelligent, dass sich ihre Ergebnisse im Nachgang meistens nicht mit traditionellen Methoden nachvollziehen lassen. Die Entwicklerinnen und Entwickler können zwar nachrechnen, ob die Ergebnisse stimmen beziehungsweise realistisch sind – sie können aber nicht verstehen, wie genau die KI darauf gekommen ist. Die Herleitung liegt im Dunkeln, ist also eine Black Box. Geht es um das Ausmerzen von Bias, ist es allerdings in der Regel klüger, eine Methodik zu wählen, deren Entscheidungsgrundlage Entwicklerinnen und Entwickler vollständig nachvollziehen können.
+Fazit
+Das potenzielle Risiko des Entstehens einer Bias sollte Unternehmen nicht von dem Einsatz von KI abhalten. Mit dem richtigen Team, einer nachvollziehbaren Methodik und gut ausgewählten Trainingsdaten kann Fehlern frühzeitig entgegengewirkt werden. Verzerrungen, die trotz aller Vorsicht doch entstehen, sind durch konstante Kontrolle des laufenden Systems und entsprechende Korrekturen auch im Nachgang immer behebbar.
+Über den Autor:
+Christophe Bourguignat ist Chief Executive Officer und Co-Founder von Zelros. Er gründete das Unternehmen 2016 in Paris zusammen mit Fabien Vauchelles und Damien Philippon mit der Vision, ein auf die Versicherungsbranche spezialisiertes Softwareunternehmen aufzubauen. Sein Ziel ist es, die Digitalisierung in Versicherungsunternehmen voranzutreiben, deren Vertrieb sowie die Customer Journey zu optimieren. Bourguignat gründete zudem FrenchData im Jahr 2016, einen einflussreichen Think Tank zur Förderung der französischen Datenszene. Zuvor war er unter anderem bei der Versicherungsgruppe AXA als Big Data Lead tätig. Er besitzt eine rund 20-jährige Expertise im IT-Bereich, mit besonderem Fokus auf künstlicher Intelligenz, maschinellem Lernen, Cyber Security und Big-Data-Technologien. Christophe verfügt zudem über einen Master of Science in Ingenieurwissenschaften von der französischen Ingenieurschule CentraleSupelec.
+ 
+Die Autoren sind für den Inhalt und die Richtigkeit ihrer Beiträge selbst verantwortlich. Die dargelegten Meinungen geben die Ansichten der Autoren wieder.
+
+
+
+
+Erfahren Sie mehr über Künstliche Intelligenz (KI) und Machine Learning (ML)
+
+
+
+So gestalten Tech-Unternehmen erfolgreiche Gender Equality
+
+
+
+
+
+Technologietrends 2024: Die Entwicklungen der nahen Zukunft
+
+
+
+
+
+5 Herausforderungen bei der KI-Implementierung
+
+
+
+
+
+Wie Unternehmen vielfältige Datenteams aufbauen
+
+
+
+
+
+
+
+
+News
+
+
+Biden-Ersatz könnte US-Regulierung von Big Tech verändern
+
+
+Problematische 2-Faktor-Authentifizierung per SMS
+
+
+Die Cyberangriffe der KW27/2024 im Überblick
+
+
+Alle News ansehen
+
+
+
+
+
+Ähnliche Inhalte
+
+
+Wie Entwickler Verzerrungen in KI-Algorithmen ...
+– ComputerWeekly.de
+
+
+IT-Gehaltsumfrage 2022: So steht es um ...
+– ComputerWeekly.de
+
+
+IT-Gehaltsumfrage 2021: Frauen nach wie vor ...
+– ComputerWeekly.de
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmRldXRzY2hsYW5kZnVuay5kZS9raS1rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei13YWZmZW5zeXN0ZW1lLTEwMC5odG1s0gEA?oc=5,Kalter intelligenter Krieg - Wie Algorithmen die geostrategische Lage verändern - Deutschlandfunk,2022-01-02,Deutschlandfunk,https://www.deutschlandfunk.de,"Mit massiven Investitionen in Künstliche Intelligenz wollen die USA ihre militärische Vorherrschaft gegen China sichern. Auch andere Staaten bringen Algorithmen in Stellung - in Waffensystemen, bei der Planung, für Spionage. Ausgerechnet Diktaturen könnten im neuen Rüstungswettlauf im Vorteil sein.  ","Künstliche Intelligenz,Cyberabwehr,Cyberkrieg","Mit massiven Investitionen in Künstliche Intelligenz wollen die USA ihre militärische Vorherrschaft gegen China sichern. Auch andere Staaten bringen Algorithmen in Stellung - in Waffensystemen, bei der Planung, für Spionage. Ausgerechnet Diktaturen könnten im neuen Rüstungswettlauf im Vorteil sein.  ","Mit massiven Investitionen in Künstliche Intelligenz wollen die USA ihre militärische Vorherrschaft gegen China sichern. Auch andere Staaten bringen Algorithmen in Stellung - in Waffensystemen, bei der Planung, für Spionage. Ausgerechnet Diktaturen könnten im neuen Rüstungswettlauf im Vorteil sein.  ",,,,,,,,,,,,N/A,N/A,"
+
+
+
+Nahostkonflikt
+Aktuelle Lage und Hintergründe
+Der Überfall der palästinensischen Terrororganisation Hamas im Oktober 2023 auf Israel hat in der Region wieder die Gewalt entfacht. Israel möchte die Hamas zerstören. Diese wird wie die Hisbollah im Libanon vom Iran unterstützt.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmluZ2VuaWV1ci5kZS90ZWNobmlrL2ZhY2hiZXJlaWNoZS9pdHRrL3dhcnVtLWdlaXN0ZXN3aXNzZW5zY2hhZnRsZXItZGllLWtpLWZvcnNjaHVuZy1iZXNzZXItbWFjaGVuL9IBAA?oc=5,Warum Geisteswissenschaftler die KI-Forschung besser machen - ingenieur.de,2022-01-04,ingenieur.de,https://www.ingenieur.de,Was haben Geisteswissenschaftler mit KI zu tun? Warum die Zusammenarbeit entscheidend für die KI-Forschung sein kann.,N/A,Was haben Geisteswissenschaftler mit KI zu tun? Warum die Zusammenarbeit entscheidend für die KI-Forschung sein kann.,N/A,,,,,,,,,,,https://schema.org,N/A,N/A,"
+
+
+Menschenzentrierte Digitalisierung
+04.01.2022, 09:42 Uhr
+
+Warum Geisteswissenschaftler die KI-Forschung besser machen
+
+
+
+Was haben Geisteswissenschaftler mit KI und Informatik zu tun? Im besten Fall eine ganze Menge. Warum die Zusammenarbeit entscheidend für die KI-Forschung sein kann, erklärt Experte Christoph Bieber. 
+
+
+
+Wenn es um das Material geht, mit dem eine KI lernt, macht es Sinn, interdisziplinär zu arbeiten, sagt Politikwissenschaftler Christoph Bieber.
+Foto: panthermedia.net/KirillM
+
+
+Und dann steht das Auto irgendwann vor der Frage: Wen soll ich jetzt töten? Das Szenario ist ein Klassiker, wenn es ums Autonome Fahren geht. Wie soll die Künstliche Intelligenz im Fahrzeug reagieren, wenn ein Unfall nicht mehr vermeidbar ist? Soll es die Fußgänger vor uns überfahren oder ausweichen und gegen einen Mauer krachen – und damit womöglich uns Insassen töten?
+Künstliche Intelligenz gehört zur Informatik und Geisteswissenschaften haben damit nichts zu tun – das sieht nur auf den ersten Blick plausibel aus. Wenn es um die Bedeutung technologischer Innovationen für die Gesellschaft und um ethische Erwägungen im KI-Kontext geht, vertreten viele die Position, das Feld nicht rein den Technologen zu überlassen. Das sieht auch Christoph Bieber so. Er ist seit  seit Oktober 2021 Forschungsprofessor Digitale Demokratische Innovationen am Center for Advanced Internet Studies in Bochum. Zudem lehrt er an der Fakultät für Gesellschaftswissenschaften an der Universität Duisburg-Essen am Institut für Politikwissenschaften. 2011 hat er die Welker-Stiftungsprofessur für „Ethik in Politikmanagement und Gesellschaft“ an der NRW School of Governance der Universität Duisburg-Essen übernommen und forscht unter anderem zu den Auswirkungen der sogenannten Neuen Medien auf die Gesellschaft. Im Interview erklärt er, warum die Zusammenarbeit von Natur-, Geistes- und Gesellschaftswissenschaften wertvoll sein kann.
+Stellenangebote im Bereich IT/TK-Projektmanagement
+IT/TK-Projektmanagement Jobs
+
+
+
+
+
+Slider zurück scrollen
+
+
+
+
+
+Slider weiter scrollen
+
+
+
+
+
+
+
+
+
+
+Abschnittsleitung (m/w/d) im Bereich bauliche und technische Dokumentation
+Gottfried Wilhelm Leibniz Universität Hannover
+
+
+
+                                    Hannover
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+Wissenschaftliche:r Angestellte:r - Transfermanager:in (w/m/d) mit dem Schwerpunkt Logistik
+Universität Bremen
+
+
+
+                                    Bremen
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ingenieurin / Ingenieur mit Bachelor (m/w/d)
+Bundeswehr
+
+
+
+                                    keine Angabe
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projektleiter (m/w/d) Entwicklung
+Diehl Aerospace GmbH
+
+
+
+                                    Nürnberg, Überlingen, Frankfurt am Main, Rostock
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entwicklungsingenieur (m/w/d)
+DWA GmbH & Co. KG
+
+
+
+                                    Ubstadt-Weiher
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projektleiter (m/w/d) im Bereich Netzleit- und Fernwirktechnik
+VIVAVIS AG
+
+
+
+                                    Bochum, Berlin, Ettlingen
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abschnittsleitung (m/w/d) im Bereich bauliche und technische Dokumentation
+Gottfried Wilhelm Leibniz Universität Hannover
+
+
+
+                                    Hannover
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wissenschaftliche:r Angestellte:r - Transfermanager:in (w/m/d) mit dem Schwerpunkt Logistik
+Universität Bremen
+
+
+
+                                    Bremen
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ingenieurin / Ingenieur mit Bachelor (m/w/d)
+Bundeswehr
+
+
+
+                                    keine Angabe
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+Projektleiter (m/w/d) Entwicklung
+Diehl Aerospace GmbH
+
+
+
+                                    Nürnberg, Überlingen, Frankfurt am Main, Rostock
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+ingenieur.de: Welchen Beitrag können Geisteswissenschaftler zur KI-Forschung leisten?
+Bieber: KI-Forschung ist ja nicht nur Informatikern vorbehalten. Zunächst bedarf es Daten, damit künstliche Intelligenz funktioniert und da braucht es nicht zwingend nur eine technisch-mathematische Kompetenz. KI-Forschung sehe ich flexibler, sodass sich auch eine Philosophin oder ein Philosoph Gedanken machen kann, womit wir es genau zu tun haben. Wie gehe ich ein digitales Gegenüber an? Ist es ein Objekt oder ein Subjekt? Man kann auch Sprachwissenschaftler mit hinzuziehen, die sich Kommunikationsprozesse zwischen menschlichen und nicht-menschlichen Akteuren anschauen. Und in meinem Fall, also in den Politik- und Sozialwissenschaften, überlegt man sich auch, in welchen Bereichen KI überhaupt eingesetzt werden sollte und welche gesellschaftlichen Folgen daraus resultieren.
+
+            Lesen Sie auch:
+        
+
+
+
+
+Anzeige:
+
+
+                                Willkommen in der Industrie der Zukunft
+                            
+
+
+
+
+
+
+Ranking
+
+
+                                Das sind die schnellsten Züge der Welt
+                            
+
+
+
+
+
+
+IT-Gehälter
+
+
+                                Was Informatiker und IT-Fachkräfte wirklich verdienen
+                            
+
+
+
+
+
+Lesen Sie auch: Wie künstliche Intelligenz das Schriftdesign revolutionieren könnte
+
+Politische Meinungsbildung durch KI: „Wollen wir das?“
+Bei Wahlen zum Beispiel?
+Wenn man sich das Superwahljahr 2021 anschaut und wo KI-Systeme zum Einsatz kommen können, geht es um Fragen von Information oder, viel stärker noch, Desinformation. Aber auch Deepfakes, die Kommunikation verfälschen und stören können. Aus sozialwissenschaftlicher und auch juristischer Sicht kann man durchaus den Zeigefinger heben und sagen, dass Algorithmen hier nichts zu suchen haben. In Zukunft wird das Überangebot an Informationen wohl noch stärker durch automatisierte Prozesse personalisiert an Wählerinnen und Wähler weitergegeben. Da muss man sich die Frage stellen: Wollen wir das? Und zu welchen Konditionen? Oder soll die politische Meinungsbildung nur Menschen vorbehalten bleiben?
+Vorurteile sind auch bei KI-Algorithmen eine Herausforderung. Fälle von rassistischen oder sexistischen KIs gibt es bereits. Nützt es aus Ihrer Sicht interdisziplinäre Teams zusammenzubringen, um solche Vorfälle zu vermeiden?
+Wenn es um die Eingangsdaten geht, also dem Material, mit dem eine KI lernt, macht es Sinn, das mindestens arbeitsteilig anzugehen. Die Daten sind ja der Ausgangspunkt für solche Probleme. Ein Briefing für Programmierer und Programmierinnen mit welchen Daten sie es hier zu tun haben und inwiefern sie ihre eigene Rolle reflektieren sollten, ist wichtig. Die Komplexität bei der Modellierung von KI-Systemen kann fachübergreifend auch besser abgebildet werden.
+Podcast-Tipp zum Thema KI:
+
+
+Hier wird Ihnen ein externer Inhalt von Podigee angezeigt.
+            Mit der Nutzung des Inhalts stimmen Sie der Datenschutzerklärung
+            von youtube.com zu.
+
+
+
+
+                    Alle Inhalte von Podigee auf dieser Seite freischalten.
+                
+
+
+
+                    Inhalte freischalten
+                
+
+
+
+
+
+
+
+Künstliche Intelligenz: Neue Studiengänge als Treiber
+Wie können sich Geisteswissenschaftler das nötige Know-how über KI aneignen?
+Da kann man sich erstmal selbst helfen, zum Beispiel mit Online-Tutorials. Um eine Sicherheit bei der Begrifflichkeit zu erhalten, liest man am besten auch viel. Es gibt immer mehr Möglichkeiten, sich direkt auszutauschen wie in spezialisierten Forschungseinrichtungen, Konferenzen oder neuen, disziplinübergreifend organisierten Fachzeitschriften. Auch viele Hochschulleitungen und Wissenschaftsförderer regen solche Annäherungen an. Ein Beispiel ist etwa die Plattform Lernende Systeme, die unter anderem von acatech unterstützt wird. Treiber sind auch neue Studiengänge, die schon mal „Data Science“ oder „Künstliche Intelligenz“ im Titel führen. Im Lehrprogramm ist eine Verzahnung von fächerübergreifenden Inhalten vorgesehen. Wir kommen so langsam in eine Kippphase, in der Studierende mehr interdisziplinäre Angebote erhalten.
+Kleiner Roboter kommt zum Reinigen und Desinfizieren
+Mit KI verbinden viele Menschen immer noch Datenkraken. Skepsis herrscht gegenüber einem möglichen Datenklau. Wie sollten Geisteswissenschaftler und Informatiker diesen Sorgen begegnen?
+Das betrifft nicht nur die Forschung mit digitalen Daten. Wissenschaftler tendieren häufig selbst dazu, sehr datengierig vorzugehen, denn je mehr Informationen sie bekommen können, umso besser ist es für die daraus entwickelten Auswertungen. Das Feld der KI-Ethik hat aber in den letzten Jahren stark an Bedeutung gewonnen. Es gilt explizit danach zu fragen, wo Daten herkommen, wie sie erhoben, verarbeitet und gespeichert werden. Das Bewusstsein ist da und wird immer öfter auch aktiv eingefordert. Wissenschaftler und Wissenschaftlerinnen – egal aus welcher Fachrichtung – müssen Konzepte zum Forschungsdatenmanagement mitliefern. Zugleich entsteht ein Zwiespalt – denn an viele wichtige, für eine gute Forschung notwendige Daten kommen Wissenschaftlerinnen und Wissenschaftler kaum noch heran, da die großen Datenkonzerne darauf sitzen. Diese betreiben zwar oft auch eigene Forschung, doch das hat häufig nicht viel mit einer freien Wissenschaft zu tun.
+Menschenzentrierte Digitalisierung voranbringen
+Bei der KI-Entwicklung ist China Vorreiter. Ethik und staatlicher Zugriff auf Daten kann ja durchaus zum Problem werden. Wie bewerten Sie das?
+Der staatliche Zugriff auf Daten ist dort sehr viel einfacher. In Europa versucht man ja die Bürgerinnen und Bürger in den Fokus zu stellen, um die sogenannte menschenzentrierte Digitalisierung voranzubringen. Das ist aus moralischer Perspektive sicher wünschenswert, einen Vorteil verschafft man sich damit im Augenblick sicher nicht, wenn es um die Entwicklung von KI geht.
+Weitere Themen:
+KI: Mit magnetischen Nano-Scheiben das menschliche Gehirn nachahmen
+Künstliche Intelligenz: Forscher schützen Patienten mit einer genialen Idee
+
+Ein Beitrag von:
+
+
+
+
+                    Peter Sieben
+                
+
+
+
+
+
+
+
+Peter Sieben schreibt über Forschung, Politik und Karrierethemen. Nach einem Volontariat bei der Funke Mediengruppe war er mehrere Jahre als Redakteur und Politik-Reporter in verschiedenen Ressorts von Tageszeitungen und Online-Medien unterwegs.
+
+
+
+
+
+
+
+                    Sarah Janczura
+                
+
+
+
+
+
+
+
+Sarah Janczura schreibt zu den Themen Technik, Forschung und Karriere. Nach einem Volontariat mit dem Schwerpunkt Social Media war sie als Online-Redakteurin in einer Digitalagentur unterwegs. Aktuell arbeitet sie als Referentin für Presse und Kommunikation beim VDI e.V.
+
+
+
+
+
+
+
+Themen im Artikel
+
+
+
+
+
+ Künstliche Intelligenz (KI)
+
+
+
+
+
+
+
+
+
+Empfehlung der Redaktion
+
+
+
+
+
+
+
+
+Projektmanagement
+
+
+
+Die 11 besten Projektmanagement-Tools
+
+
+
+
+
+
+
+
+
+
+Kryptowährung
+
+
+
+Bitcoin: Wie umweltschädlich ist die Kryptowährung wirklich?
+
+
+
+
+
+
+
+
+
+
+Messenger-Dienst
+
+
+
+WhatsApp-Tricks, die Sie noch nicht kannten
+
+
+
+
+
+
+
+
+
+
+Bildbearbeitung
+
+
+
+Photoshop und Lightroom: Diese Alternativen sollten Sie sich anschauen
+
+
+
+
+
+
+
+
+
+
+Ranking
+
+
+
+Die 10 größten Städte der Welt
+
+
+
+
+
+
+
+
+
+
+Messe
+
+
+
+Hannover Messe Special
+
+
+
+
+","[{'@type': 'Article', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#article', 'isPartOf': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/'}, 'author': [{'@type': 'Person', 'name': 'Peter Sieben', 'url': 'https://www.ingenieur.de/autor/peter-sieben/'}, {'@type': 'Person', 'name': 'Sarah Janczura', 'url': 'https://www.ingenieur.de/autor/sarah-janczura/'}], 'headline': 'Warum Geisteswissenschaftler die KI-Forschung besser machen', 'datePublished': '2022-01-04T08:42:19+00:00', 'dateModified': '2022-09-01T19:20:55+00:00', 'mainEntityOfPage': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/'}, 'wordCount': 988, 'commentCount': 0, 'publisher': {'@id': 'https://www.ingenieur.de/#organization'}, 'image': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#primaryimage'}, 'thumbnailUrl': 'https://www.ingenieur.de/wp-content/uploads/2022/01/KI-und-Geisteswissenschaften-e1641217994374.jpg', 'keywords': ['Künstliche Intelligenz (KI)'], 'articleSection': ['IT &amp; TK'], 'inLanguage': 'de-DE', 'copyrightYear': '2022', 'copyrightHolder': {'@id': 'https://www.ingenieur.de/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/', 'url': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/', 'name': 'Warum Geisteswissenschaftler die KI-Forschung besser machen - ingenieur.de', 'isPartOf': {'@id': 'https://www.ingenieur.de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#primaryimage'}, 'image': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#primaryimage'}, 'thumbnailUrl': 'https://www.ingenieur.de/wp-content/uploads/2022/01/KI-und-Geisteswissenschaften-e1641217994374.jpg', 'datePublished': '2022-01-04T08:42:19+00:00', 'dateModified': '2022-09-01T19:20:55+00:00', 'description': 'Was haben Geisteswissenschaftler mit KI zu tun? Warum die Zusammenarbeit entscheidend für die KI-Forschung sein kann.', 'breadcrumb': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#primaryimage', 'url': 'https://www.ingenieur.de/wp-content/uploads/2022/01/KI-und-Geisteswissenschaften-e1641217994374.jpg', 'contentUrl': 'https://www.ingenieur.de/wp-content/uploads/2022/01/KI-und-Geisteswissenschaften-e1641217994374.jpg', 'width': 1000, 'height': 500, 'caption': 'Wenn es um das Material geht, mit dem eine KI lernt, macht es Sinn, interdisziplinär zu arbeiten, sagt Politikwissenschaftler Christoph Bieber. Foto: panthermedia.net/KirillM'}, {'@type': 'BreadcrumbList', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/warum-geisteswissenschaftler-die-ki-forschung-besser-machen/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': 'https://www.ingenieur.de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Warum Geisteswissenschaftler die KI-Forschung besser machen'}]}, {'@type': 'WebSite', '@id': 'https://www.ingenieur.de/#website', 'url': 'https://www.ingenieur.de/', 'name': 'ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure', 'description': '', 'publisher': {'@id': 'https://www.ingenieur.de/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ingenieur.de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Organization', '@id': 'https://www.ingenieur.de/#organization', 'name': 'ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure', 'url': 'https://www.ingenieur.de/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.ingenieur.de/#/schema/logo/image/', 'url': 'https://www.ingenieur.de/wp-content/uploads/2017/12/og.png', 'contentUrl': 'https://www.ingenieur.de/wp-content/uploads/2017/12/og.png', 'width': 1200, 'height': 630, 'caption': 'ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure'}, 'image': {'@id': 'https://www.ingenieur.de/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/Ingenieurde/', 'https://x.com/ingenieur_de']}]",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5tZXJrdXIuZGUvbG9rYWxlcy9nYXJtaXNjaC1wYXJ0ZW5raXJjaGVuL2tyZWlzYm90ZS9nZWJ1cnRzdGFnLXZvbi1sb3Vpcy1icmFpbGxlLWVyZmluZGVyLWRlci1ibGluZGVuc2NocmlmdC05MTIwMjgzMS5odG1s0gEA?oc=5,Geburtstag von Louis Braille – Erfinder der Blindenschrift - Merkur.de,2022-01-04,Merkur.de,https://www.merkur.de,Geburtstag von Louis Braille – Erfinder der Blindenschrift,N/A,N/A,N/A,,,,,,,,WebPage,,,http://schema.org,N/A,N/A,"StartseiteLokalesGarmisch-PartenkirchenKreisboteGeburtstag von Louis Braille – Erfinder der BlindenschriftStand: 04.01.2022, 11:00 UhrKommentareDruckenTeilenLouis Braille, Erfinder der Blindenschrift, wurde am 4. Januar 1809 geboren. © (Symbolbild) CanvaLouis Braille (1809–1852) gilt als Erfinder der Blindenschrift. Heutzutage behelfen sich blinde und sehbehinderte Menschen mit Apps und Vorlesefunktionen, die das Leben erleichtern. Der Bayerische Blin-den- und Sehbehindertenbund e.V. beschäftigt sich unter anderem damit, Dokumente, Texte und Zeichnungen in barrierefreie, blinden- und sehbehindertengerechte Formate umzusetzen.Als Jugendlicher beschäftigte Braille sich damit, ein System mit Hilfe von sechs Punkten zu entwickeln, um das ganze Alphabet darzustellen. Eine großartige Erfindung, die blinde Menschen geschriebenes ertasten lässt. Die Technik ist über die Zeit weit vorangeschritten, und so gibt es Apps, die den Alltag von blinden und sehbehinderten Menschen vereinfachen. Beispielsweise kann beim Lebensmittelein-kauf ein Handy den QR-Code eines Produktes scannen, und dem Ein-kaufenden Auskunft über die Inhaltsstoffe geben. Da es so gut wie keine Produktkennzeichnung in Braille gibt, ist dies eine große Erleichterung. Aber es gibt Bereiche, in denen die Brailleschrift nach wie vor ihre Berechtigung hat. Berufstätigen blinden Menschen wird die Möglichkeit eröffnet, am PC mithilfe eines tastbaren Braille-Displays zu arbeiten.Auf die Frage, ob Künstliche Intelligenz die Brailleschrift ersetzen kann, äußert sich Dr. Aleksander Pavkovic, Mitglied des siebenköpfigen Brailleschriftkomitees der deutschsprachigen Länder: „Nein, ganz im Gegenteil. Blinde Menschen können mithilfe des Braille Displays am Computer arbeiten. Dies ist ein wichtiger Schritt in Richtung Inklusion am Arbeitsplatz“, erklärt Aleksander Pavkovic. „Eine Vorlese- oder Diktierfunktion alleine kann das nicht leisten.“ Pavkovic ist seit Geburt an blind und ist beim BBSB auch als Berater für digitale Barrierefreiheit tätig.Erfahrungsgemäß erlernen Kinder die Brailleschrift leichter als Erwachsene. „Aus diesem Grund ist es für die Entwicklung der blinden und sehbehinderten Kinder immens wichtig, dass sie von Kindesbeinen an Braille lernen. Nur so kann ihre Zukunft gesichert werden, um Teilhabe am Leben zu erfahren“, erklärt Steffen Erzgraber, Landesgeschäftsführer beim BBSB e.V. Es gibt Untersuchungen, die zeigen, dass Lesen die Rechtschreibung fördert. Flüssiges Lesen ist die Voraussetzung für ein gutes Textverständnis. Wer zügig und schnell lesen kann, versteht besser was er liest, da das Gehirn nicht mit Lesen beschäftigt ist. Der Bayerische Blinden- und Sehbehindertenbund e.V. unterstützt blinde und sehbehinderte Menschen in vielen Belangen des Lebens und setzt sich für Inklusion ein. Neben vielen Beratungsangeboten für Betroffene bietet der BBSB über 1.500 Veröffentlichungen in Blindenschrift, als Großdruck oder Hörbuch, Fortsetzungsromane, Zeitschriften und Fachliteratur. Informationen unter bit-bestellservice@bbsb.org .   kbAuch interessant
+
+
+
+Das könnte Sie auch interessieren
+
+Empfohlen von
+
+ 
+
+
+
+
+
+
+
+
+KommentareTeilen",,"{'@type': 'NewsArticle', 'mainEntityOfPage': 'https://www.merkur.de/lokales/garmisch-partenkirchen/kreisbote/geburtstag-von-louis-braille-erfinder-der-blindenschrift-91202831.html', 'headline': 'Geburtstag von Louis Braille – Erfinder der Blindenschrift', 'datePublished': '2022-01-04T11:00:00+0100', 'description': 'Geburtstag von Louis Braille – Erfinder der Blindenschrift', 'publisher': {'@type': 'Organization', 'name': 'Merkur.de', 'logo': 'https://idcdn.de/west/assets/merkur-de/img/logo.svg'}, 'author': {'@type': 'Organization', 'name': 'Merkur.de', 'logo': 'https://idcdn.de/west/assets/merkur-de/img/logo.svg'}, 'image': ['https://www.merkur.de/assets/images/27/773/27773594-blindenschrift-2CTd2PZx3dea.jpg', 'https://www.merkur.de/assets/images/27/773/27773594-blindenschrift-2CTd2PZx3de9.jpg', 'https://www.merkur.de/assets/images/27/773/27773594-blindenschrift-2CTd2PZx3dec.jpg']}","{'@type': 'BreadcrumbList', 'name': 'BreadCrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': {'@type': 'WebPage', '@id': 'https://www.merkur.de/'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Lokales', 'item': {'@type': 'WebPage', '@id': 'https://www.merkur.de/lokales/'}}, {'@type': 'ListItem', 'position': 3, 'name': 'Garmisch-Partenkirchen', 'item': {'@type': 'WebPage', '@id': 'https://www.merkur.de/lokales/garmisch-partenkirchen/'}}, {'@type': 'ListItem', 'position': 4, 'name': 'Kreisbote', 'item': {'@type': 'WebPage', '@id': 'https://www.merkur.de/lokales/garmisch-partenkirchen/kreisbote/'}}]}",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5lcGZsLmNoL2VkdWNhdGlvbi9iYWNoZWxvci9kZS93YWhsLWRlcy1zdHVkaWVuZ2FuZ3MvdGhlbWF0aXNjaGVzLW9yaWVudGllcnVuZ3N0b29sL3RoZW1hdGlzY2hlLW9yaWVudGllcnVuZy1rdW5zdGxpY2hlLWludGVsbGlnZW56L9IBAA?oc=5,Thematische Orientierung: künstliche Intelligenz ‒ Bachelor ‐ EPFL - EPFL,2022-01-05,EPFL,https://www.epfl.ch,N/A,N/A,"Wie können wir die medizinische Diagnostik für alle Kranken verbessern? Wie können wir Infrastrukturen ausbauen, um autonome Fahrzeuge sicher zu integrieren? Wie können wir die Entwicklung neuer Moleküle beschleunigen und schneller Therapien vorschlagen?","Wie können wir die medizinische Diagnostik für alle Kranken verbessern? Wie können wir Infrastrukturen ausbauen, um autonome Fahrzeuge sicher zu integrieren? Wie können wir die Entwicklung neuer Moleküle beschleunigen und schneller Therapien vorschlagen?",,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+Ich interessiere mich für künstliche Intelligenz…
+Wie können wir die medizinische Diagnostik für alle Kranken verbessern? Wie können wir Infrastrukturen ausbauen, um autonome Fahrzeuge sicher zu integrieren? Wie können wir die Entwicklung neuer Moleküle beschleunigen und schneller Therapien vorschlagen?
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Shutterstock
+
+
+
+
+
+…ich studiere an der EPFLKünstliche Intelligenz hat sich innerhalb weniger Jahre zu einer der wichtigsten Technologien des 21. Jahrhunderts entwickelt. Durch die Entwicklung von Lernalgorithmen bzw. die Konzeption sicherer Umgebungen, in denen Maschinen selbstständig lernen können, tragen Ingenieurinnen und Ingenieure der EPFL nicht nur massgeblich zum Aufschwung der künstlichen Intelligenz bei, sondern auch zur Erstellung unübertroffen leistungsfähiger Analyse- und Vorhersagetools, welche in zahlreichen wissenschaftlichen und technischen Bereichen zum Einsatz kommen.
+
+
+
+
+
+
+
+
+
+
+
+            Fakultät für Informatik und Kommunikation          
+
+Zur Fakultät
+
+
+
+            Unter künstlicher Intelligenz versteht man sämtliche Anwendungen, bei denen Maschinen menschliche kognitive Funktionen wie z. B. Lernen und Problemlösung imitieren. Ursprünglich auf die Ausführung von Anweisungen beschränkt, können Maschinen heutzutage Muster erkennen sowie auf der Grundlage riesiger Datenmengen selbstständig lernen, um Vorhersagen zu treffen und dementsprechend zu handeln. Die zunehmende Autonomie von auf Deep Learning basierenden Systemen, die Leistungsfähigkeit dieser Tools und ihre mittlerweile vorherrschende Stellung in unserer Gesellschaft erfordern jedoch eine erhöhte Aufmerksamkeit bei deren Konzeption. So müssen Informatik- bzw. Kommunikationssystemingenieurinnen und -ingenieure die Begrenzung der sich aus den eingespeisten Datensätzen ergebenden Verzerrungen sicherstellen, dafür sorgen, dass diese Mechanismen nicht zu Manipulationszwecken missbraucht werden, und – falls nötig – die betreffenden Algorithmen korrigieren.          
+
+
+Zur Fakultät
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fakultät für Grundlagenwissenschaften          
+
+Zur Fakultät
+
+
+
+            Lineare Algebra, Vektoranalyse, analytische Geometrie oder auch Statistik: Machine Learning beruht auf zahlreichen mathematischen Werkzeugen. Zwar ist in diesem Bereich ein Aufschwung zu verzeichnen, jedoch sind die ihm zugrunde liegenden Theorien noch weitgehend ungeklärt, weshalb sich zahlreiche mathematische Forschungsprojekte auf dieses Thema konzentrieren. Parallel dazu stützen sich viele Wissenschaftlerinnen und Wissenschaftler auf künstliche Intelligenz, um ihre eigene Forschung voranzutreiben. Chemikerinnen und Chemiker entwickeln neue Moleküle mithilfe von computergestützten Vorhersagen, während automatische Bildanalysen auf der Grundlage von Machine Learning die Arbeit von Physikerinnen und Physikern auf der Suche nach Gravitationslinsen erleichtern.          
+
+
+Zur Fakultät
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fakultät für Lebenswissenschaften          
+
+Zur Fakultät
+
+
+
+            Die beim Deep Learning verwendeten, ursprünglich vom menschlichen Gehirn inspirierten neuronalen Netzwerke ermöglichen inzwischen eine bessere Erforschung von dessen Aufbau und Funktionsweise. Die Arbeit an Lernprozessen für Maschinen verdichtet ebenso das Verständnis unserer eigenen kognitiven Fertigkeiten sowie unserer Fähigkeit, neue Aufgaben zu bewältigen. Darüber hinaus hat Machine Learning im medizinischen Bereich grosse Fortschritte bei der Bildanalyse und der Vorhersage ermöglicht: Mit riesigen Datenmengen gespeist, können Maschinen Ärztinnen und Ärzte bei der Diagnosestellung unterstützen, Details aufzeigen, um Krankheiten frühzeitig zu erkennen, oder personalisierte Behandlungsmethoden vorschlagen.          
+
+
+Zur Fakultät
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fakultät für Bau, Architektur und Umwelt          
+
+Zur Fakultät
+
+
+
+            Die Fortschritte in der Bildanalyse und -klassifizierung ermöglichen mittlerweile die automatische Extraktion georäumlicher Informationen, um umwelt- und raumbezogene Vorhersagen zu treffen. Zudem ist die Entwicklung autonomer Fahrzeuge eine der meistgenannten Herausforderungen, wenn von künstlicher Intelligenz die Rede ist. Jedoch müssen sich auch die Infrastrukturen weiterentwickeln, um diese Fahrzeuge einbinden und ihr Zusammenleben mit anderen Verkehrsteilnehmenden ermöglichen zu können. Autonome Busse, Robotertaxis und Radfahrende müssen miteinander kommunizieren, einander verstehen und sicher navigieren können. In den Städten der Zukunft sind Maschinen zudem in der Lage, Energiesynergien aufzuspüren und zu nutzen, während sie mithilfe des generativen Designs – einer iterativen Methode, die unter Einhaltung festgelegter Auflagen die Prüfung zahlreicher Konzepte ermöglicht – neue, an unsere Bedürfnisse angepasste Wohnformen vorschlagen.          
+
+
+Zur Fakultät
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fakultät für Ingenieurwissenschaften          
+
+Zur Fakultät
+
+
+
+            Ob nun humanoide Roboter oder autonome Fahrzeuge, künstliche Intelligenz zielt stets darauf ab, ihnen die Fähigkeit zu verleihen, ihre Umgebung wahrzunehmen und zu verstehen sowie zu lernen und dementsprechend zu handeln. Obwohl Maschinen Analysen mit unübertroffener Präzision und Geschwindigkeit durchführen, sind sie nach wie vor zahlreichen Wahrnehmungsproblemen (Sonnenreflexe, Nebel oder auch starker Schneefall) ausgesetzt und haben noch immer Schwierigkeiten bei der Interpretation von Gesichtsausdrücken und menschlichen Verhaltensweisen, welche mitunter an lokale Sitten und Gebräuche gebunden sind. In einem industriellen Rahmen leistet die Nutzung von Machine Learning jedoch einen erheblichen Beitrag zur Entwicklung neuer Produktionsverfahren, welche den Ressourceneinsatz rationalisieren und die Arbeit an den vielversprechendsten Designs sowie die Durchführung vorbeugender Wartungen ermöglichen.          
+
+
+Zur Fakultät
+
+
+
+
+
+
+Orientierungstools
+
+
+
+
+ 
+
+
+
+Thematisches Orientierungstool
+
+Der Einbezug bestimmter Fachkenntnisse in aktuelle Themen mag mitunter überraschen. Um die globalen Herausforderungen gemeinsam anzugehen, müssen verschiedenste Fachpersonen ihr Wissen einbringen.
+
+
+Zu den anderen Themenbereichen
+
+
+
+
+
+ 
+
+
+
+Bachelor-Angebot der EPFL
+
+Die EPFL bietet Zugang zu den meisten Fachgebieten der Ingenieurwissenschaften, der exakten Wissenschaften sowie der Architektur. Auf Bachelor-Ebene werden 13 verschiedene Studiengänge angeboten.
+
+
+Zu den Studiengängen
+
+
+
+
+
+ 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5ldHp3ZWx0LmRlL25ld3MvMTk3OTk4LWNlcy1yYXVtZmFocnQtYWJ3YXNjaGJlb21uaS0xMC1lcnN0ZS1lY2h0ZS1hbGx6d2Vjay1yb2JvdGVyLmh0bWzSAQA?oc=5,CES: Von Raumfahrt bis Abwasch - Beomni 1.0 soll der erste echte Allzweck-Roboter sein - NETZWELT,2022-01-06,NETZWELT,https://www.netzwelt.de,Auf der CES in Las Vegas stellt die US-Firma Beyond Imagination den Humanoiden Beomni 1.0 vor. Der Roboter soll im Haushalt helfen - oder beim Errichten einer Raumstation.,N/A,Auf der CES in Las Vegas stellt die US-Firma Beyond Imagination den Humanoiden Beomni 1.0 vor. Der Roboter soll im Haushalt helfen - oder beim Errichten einer Raumstation.,Auf der CES in Las Vegas stellt die US-Firma Beyond Imagination den Humanoiden Beomni 1.0 vor. Der Roboter soll im Haushalt helfen - oder beim Errichten einer Raumstation.,"{'@type': 'WebPage', '@id': 'https://www.netzwelt.de/news/197998-ces-raumfahrt-abwaschbeomni-10-erste-echte-allzweck-roboter.html'}",2022-01-06T14:53:32+01:00,netzwelt GmbH,"{'@type': 'Person', 'name': 'Michael Knott', 'url': 'https://www.netzwelt.de/team/mknott.html'}","{'@type': 'Organization', 'name': 'NETZWELT', 'logo': {'@type': 'ImageObject', 'url': 'https://www.netzwelt.de/assets/redesign/logos/nw-logo-330x60-transparent.png', 'height': 60, 'width': 330}}","[{'@type': 'ImageObject', 'url': 'https://img.netzwelt.de/dw1600_dh900_sw2000_sh1125_sx5_sy4_sr16x9_nu2/picture/original/2022/01/selbst-filigrane-bewegungsablaeufe-machbar-mensch-ferne-steuerung-uebernimmt-329532.png', 'width': 1600, 'height': 900}, {'@type': 'ImageObject', 'url': 'https://img.netzwelt.de/dw1200_dh900_sw1508_sh1131_sx251_sy1_sr4x3_nu2/picture/original/2022/01/selbst-filigrane-bewegungsablaeufe-machbar-mensch-ferne-steuerung-uebernimmt-329532.png', 'width': 1200, 'height': 900}]",CES: Von Raumfahrt bis Abwasch - Beomni 1.0 soll der erste echte Allzweck-Roboter sein,NewsArticle,,True,https://schema.org,N/A,N/A,"  Startseite CES CES: Von Raumfahrt bis Abwasch - Beomni 1.0 soll der erste echte Allzweck-Roboter sein     06. Januar 2022 um 14:53 Uhr      Michael Knott   
+Auf der CES in Las Vegas stellt die US-Firma Beyond Imagination den Humanoiden Beomni 1.0 vor. Der Roboter soll im Haushalt helfen - oder beim Errichten einer Raumstation.        
+Selbst filigrane Bewegungsabläufe sind machbar - wenn ein Mensch aus der Ferne die Steuerung übernimmt. (Quelle: Screenshot)   Beomni 1.0 soll der erste Roboter sein, der universell einsetzbar ist. Er lässt sich von Menschenhand fernsteuern und lernt, Arbeitsabläufe zu automatisieren. Treppensteigen kann er nicht.  
+Geht es nach Vorstellungen von Tesla-Gründer Elon Musk, ermöglichen uns humanoide Roboter bald das bedingungslose Grundeinkommen und nehmen uns sämtliche lästigen Arbeiten ab. Klingt nach Science-Fiction. Auf der CES zeigt ein US-Unternehmen, dass dieser Schritt näher liegt, als viele dachten.
+       Externer Inhaltvon Youtube  An dieser Stelle findet ihr ein Video von Youtube, das den Artikel ergänzt. Mit einem Klick könnt ihr euch dieses anzeigen lassen.      Externen Inhalt anzeigen  Ich bin damit einverstanden, dass mir externe Inhalte angezeigt werden. Damit können personenbezogene Daten an Drittplattformen übermittelt werden. Mehr dazu in unseren Datenschutzbestimmungen.    
+Wer die Bilder des Beomni 1.0 getauften Roboter der Firma Beyond Imagination sieht, muss unweigerlich an Roboter aus Filmen denken. Die menschenähnliche Maschine kann zwar nicht laufen, ist auf einen elektrischen Antrieb mit Rädern angewiesen. Diese sollen dafür für sicheres Fortkommen selbst auf schwierigem Gelände wie Schlamm oder Sand sorgen.
+ 
+Motorik und Sensorik sind derart fein ausgeprägt, dass filigrane Arbeiten wie das Hinzufügen der Prise Salz in eine Suppe genauso problemlos machbar sind, wie das Anheben schwerer Gegenstände. Pro Arm schafft Beomni 1.0 rund 16 Kilogramm.
+ 
+Fernsteuerbar aus dem Home Office
+ 
+In einer Anlernzeit wird Beomni 1.0 auf die (Fern)-Steuerung von Menschenhand setzen. Arbeitnehmer können den Roboter vom Home Office aus steuern. Dabei soll dem Roboter Künstliche Intelligenz helfen, wiederkehrende Abläufe zu erkennen. Nach einer Weile sollen diese dann autonom vom Roboter ausführbar sein und nur noch vom Menschen kontrolliert werden. Irgendwann könnte auch dieser Schritt wegfallen.
+       
+Unsere CES-Highlights des Tages: Razer, BMW und Samsung lassen es knistern
+ Von wegen nichts los in Las Vegas! Pandemie hin, Omikron her: Auf der CES 2022 werden trotz schwieriger Umstände zahlreiche Innovationen präsentiert. Wir stellen euch die Highlights vor.    
+Der Roboter feierte auf der CES in Las Vegas Premiere. Daten zu Verfügbarkeit und Preis hält der Hersteller noch unter Verschluss. Weitere Neuigkeiten der CES findet ihr im verlinkten Übersichtsartikel.
+  » Tipp: Die besten VPN-Anbieter für mehr Sicherheit und Datenschutz » Balkonkraftwerk kaufen: Vergleich der besten Solaranlagen       Meistgelesene Artikel      Carrera-Bahn bringt KI ins Kinderzimmer Hybrid-Sets ohne Schienen brechen mit Traditionen   EcoFlow auf der CES 2024 Delta Pro Ultra Hybrid-Batteriegenerator für die Stromversorgung   Die 5 Top-Highlights von der CES 2024 Von Fliegenden Autos und einem Kindheitstraum   Intelligente Haushaltshilfen Ecovacs zeigt die nächste Generation seiner Haushaltsroboter auf der CES 2024   Fernseher-Highlights auf der CES 2024 Neue Superglotzen von Samsung, LG, TCL und Co.      Mehr zum Thema      Carrera-Bahn bringt KI ins Kinderzimmer Hybrid-Sets ohne Schienen brechen mit Traditionen   EcoFlow auf der CES 2024 Delta Pro Ultra Hybrid-Batteriegenerator für die Stromversorgung   Die 5 Top-Highlights von der CES 2024 Von Fliegenden Autos und einem Kindheitstraum   Intelligente Haushaltshilfen Ecovacs zeigt die nächste Generation seiner Haushaltsroboter auf der CES 2024   Fernseher-Highlights auf der CES 2024 Neue Superglotzen von Samsung, LG, TCL und Co.      Aktuelle Meldungen      Dyn via Apple TV schauen So streamt ihr auf eurem Fernseher und mit der AirPlay-Funktion   Spanien gegen Frankreich So schaut ihr das Halbfinale der Fußball-EM 2024 gratis im TV und Live-Stream   Nach RockYou2024-Datenleck Darum solltet ihr jetzt all eure Passwörter ändern   Diese Woche bei Aldi Motorola-Handy mit großem Display und KI-Kamera für unter 100 Euro   WhatsApp setzt auf Künstliche Intelligenz So soll sie den Messenger verbessern                        Nichts verpassen mit dem NETZWELT-Newsletter Jeden Freitag: Die informativste und kurzweiligste Zusammenfassung aus der Welt der Technik!   Deine E-Mail-Adresse Jetzt anmelden!             Tinder-Match anschreiben Tipps für die erste Nachricht      Diese Woche bei Aldi Motorola-Handy mit großem Display und KI-Kamera für unter 100 Euro      House of the Dragon Was bedeuten Daemons Visionen mit der jungen Rhaenyra (Milly Alcock)?       Google Maps Neue Werbeanzeigen sorgen für Sicherheitsbedenken      Größtes Datenleck aller Zeiten 10 Milliarden Passwörter frei zugänglich - jetzt müsst ihr handeln      Volleyball bei Dyn Welche Turniere und Spiele zeigt der Anbieter? Das seht ihr im Live-Stream      
+7.9 / 10
+  Dyn Die neue Bühne für alle Sportarten abseits des Fußballs      Marktübersicht E-Bikes mit wartungsarmem Pinion-Motor      Dyn via Apple TV schauen So streamt ihr auf eurem Fernseher und mit der AirPlay-Funktion                  CES auch interessant Roku TV Entertainment Technik im Urlaub Black Friday 2023  ",,,,2,"[{'@type': 'ListItem', 'position': '1', 'item': {'name': 'Startseite', '@id': 'https://www.netzwelt.de/'}}, {'@type': 'ListItem', 'position': '2', 'item': {'name': 'CES', '@id': 'https://www.netzwelt.de/ces/index.html'}}]",NETZWELT,https://www.netzwelt.de,"['https://facebook.com/netzwelt', 'https://twitter.com/netzwelt', 'https://instagram.com/netzwelt', 'https://youtube.com/netzwelt']",https://www.netzwelt.de/assets/redesign/logos/nw-logo-512.png,+49-40-22859090,"{'@type': 'PostalAddress', 'addressLocality': 'Hamburg, Germany', 'postalCode': '20095', 'streetAddress': 'Dornbusch 2'}","{'@type': 'ContactPoint', 'contactType': 'customer service', 'email': 'redaktion@netzwelt.de', 'url': 'https://www.netzwelt.de/kontakt/index.html', 'areaServed': 'DE', 'availableLanguage': 'German'}",https://www.netzwelt.de/team/index.html,https://www.netzwelt.de/diversitaet.html,https://www.netzwelt.de/diversitaet.html,https://www.netzwelt.de/transparenz.html#ueber-netzwelt-gmbh,https://www.netzwelt.de/transparenz.html,https://www.netzwelt.de/transparenz.html#leitbild,https://www.netzwelt.de/transparenz.html#redaktionelle-inhalte-netzweltde,https://www.netzwelt.de/transparenz.html#ethikrichtlinie,https://www.netzwelt.de/transparenz.html#aenderungen-korrekturen-bestehenden-texten,https://www.netzwelt.de/transparenz.html#quellen,https://www.netzwelt.de/transparenz.html#kritik--verbesserungsvorschlaege,Beomni 1.0,2022-01-06T14:53:32+01:00,['CES'],"Beomni 1.0 soll der erste Roboter sein, der universell einsetzbar ist. Er lässt sich von Menschenhand fernsteuern und lernt, Arbeitsabläufe zu automatisieren. Treppensteigen kann er nicht. Geht es nach Vorstellungen von Tesla-Gründer Elon Musk , ermöglichen uns humanoide Roboter bald das bedingungslose Grundeinkommen und nehmen uns sämtliche lästigen Arbeiten ab. Klingt nach Science-Fiction. Auf der CES zeigt ein US-Unternehmen, dass dieser Schritt näher liegt, als viele dachten. Wer die Bilder des Beomni 1.0 getauften Roboter der Firma Beyond Imagination sieht, muss unweigerlich an Roboter aus Filmen denken. Die menschenähnliche Maschine kann zwar nicht laufen, ist auf einen elektrischen Antrieb mit Rädern angewiesen. Diese sollen dafür für sicheres Fortkommen selbst auf schwierigem Gelände wie Schlamm oder Sand sorgen. Motorik und Sensorik sind derart fein ausgeprägt, dass filigrane Arbeiten wie das Hinzufügen der Prise Salz in eine Suppe genauso problemlos machbar sind, wie das Anheben schwerer Gegenstände. Pro Arm schafft Beomni 1.0 rund 16 Kilogramm. Fernsteuerbar aus dem Home Office. In einer Anlernzeit wird Beomni 1.0 auf die (Fern)-Steuerung von Menschenhand setzen. Arbeitnehmer können den Roboter vom Home Office aus steuern. Dabei soll dem Roboter Künstliche Intelligenz helfen, wiederkehrende Abläufe zu erkennen. Nach einer Weile sollen diese dann autonom vom Roboter ausführbar sein und nur noch vom Menschen kontrolliert werden. Irgendwann könnte auch dieser Schritt wegfallen. Der Roboter feierte auf der CES in Las Vegas Premiere. Daten zu Verfügbarkeit und Preis hält der Hersteller noch unter Verschluss. Weitere Neuigkeiten der CES findet ihr im verlinkten Übersichtsartikel.","{'@type': ['CreativeWork', 'Product'], 'name': 'Netzwelt', 'productID': 'netzwelt.de:basic'}"
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm1lcmt1ci5kZS93ZWx0L3NwcmFjaC1mb3JlbnNpay13ZW5uLWRlci10ZXh0LWRlbi10YWV0ZXItdmVycmFldC16ci05MTIxNzM2NS5odG1s0gEA?oc=5,Sprach-Forensik: Wenn der Text den Täter verrät - Merkur.de,2022-01-05,Merkur.de,https://www.merkur.de,"Im Bundeskriminalamt arbeiten nicht nur Polizisten, sondern auch Germanisten. Das Team hat den mutmaßlichen Absender der „NSU 2.0“-Briefe überführt und den Bombenleger vom Dortmunder Stadion: durch Textanalyse.",N/A,N/A,N/A,,,,,,,,WebPage,,,http://schema.org,N/A,N/A,"StartseiteWeltSprach-Forensik: Wenn der Text den Täter verrätStand: 05.01.2022, 08:13 UhrKommentareDruckenTeilenEine Sprachforensikerin des Bundeskriminalamtes hat mit farbigen Markierungen dieses handschriftliche Schreiben eines Mannes, der sich anonym an die Polizei gewendet hatte, versehen. © Boris Roessler/dpaIm Bundeskriminalamt arbeiten nicht nur Polizisten, sondern auch Germanisten. Das Team hat den mutmaßlichen Absender der „NSU 2.0“-Briefe überführt und den Bombenleger vom Dortmunder Stadion: durch Textanalyse.Wiesbaden - Auf Sabine Ehrhardts Schreibtisch stehen Bücher, die wohl die wenigsten beim Bundeskriminalamt erwarten würden: die gesammelten Werke des Duden-Verlags.Die BKA-Mitarbeiterin arbeitet mit Sprache, sie und ihr Team analysieren Texte, um den Autor zu ermitteln und damit zu helfen, Kriminalfälle zu lösen. Forensische Linguistik heißt dieses Fachgebiet, auf Deutsch hat sich der Begriff Autorenerkennung eingebürgert.Ehrhardt leitet den Fachbereich Sprache und Audio am Kriminaltechnischen Institut des BKA. „Bei jeder Straftat kann Text eine Rolle spielen“, sagt Ehrhardt. Der Klassiker ist das Erpresserschreiben, aber Briefe spielen heute eher eine untergeordnete Rolle. „Geschriebene Texte sind vielfältiger geworden“, sagt die promovierte Sprachwissenschaftlerin. Schreibmaschine und ausgeschnittene Buchstaben haben Seltenheitswert.Es ist ein Kampf gegen die TextflutDafür gibt es SMS, Mails, Chats, Tweets, Posts. Die Ermittler kämpfen seitdem gegen eine Textflut - aber das hat Vorteile, wie die Fachfrau erklärt: „Die Sprache ist spontaner.“ Als man noch Briefe schrieb, vermied man Fehler, las sie vor dem Absenden Korrektur, machte sich Gedanken über die Gestaltung. Elektronisch wird getippt und schwupp: senden. „Je mehr man schreibt, desto weniger kann man sich Mühe geben und desto mehr Individuelles enthält die Sprache.“Um herauszufinden, wer einen Text geschrieben hat oder ob mehrere Texte vom gleichen Autor stammen, schauen die Mitarbeiter auf die „sprachlichen Merkmale“ des Textes: Welche Fehler macht der Autor? Gibt es Wörter, die aus einem Dialekt oder einer anderen Muttersprache stammen? Manchmal lässt der Wortschatz Rückschlüsse auf das Alter zu, einen Beruf oder ein Hobby. „Dadurch kann man der Einstellung des Autors sehr nahe kommen“, sagt Ehrhardt, die seit 17 Jahren beim BKA arbeitet.Wer zum Beispiel das Wort „Nestbeschmutzer“ verwende, habe die Vorstellung, dass es einen geschützten, sauber zu haltenden Bereich gibt, der durch Einwirkung von außen gefährdet ist. Wer „ungläubig“ sage, stamme eher nicht aus einem säkularen christlichen Umfeld.Auch Emojis gelten übrigens als Sprache. „Sie sind eine bewusste Entscheidung des Absenders“, erklärt die Sprachwissenschaftlerin. Damit gehören sie zum „Zeichencharakter eines Textes“, ähnlich wie das Layout. Die optische Gestaltung eines Textes spielt in Zeiten elektronischer Kommunikation aber nur noch eine untergeordnete Rolle. Am Ende der Analyse steht meist ein Gutachten, das bei den Ermittlungen weiterhilft oder vor Gericht verwendet wird.„Wir dürfen keine Form von Jagdeifer entwickeln“Wenn die Sprach-Forensiker beim BKA einen Fall bearbeiten, wissen sie aber oft gar nicht, worum es im Detail geht. „Wir brauchen keine Fall-Informationen“, sagt Ehrhardt, „das ist sogar eher hinderlich“. Als Sachverständige müssten die Sprachanalytiker so neutral und unvoreingenommen wie möglich sein. „Wir dürfen keine Form von Jagdeifer entwickeln.“Der jüngste große Erfolg: Der Fachbereich Sprache konnte zur Identifizierung des mutmaßlichen Autors der Drohschreiben mit dem Absender „NSU 2.0“ beitragen. Der Mann wurde im Mai in Berlin festgenommen und steht demnächst in Frankfurt vor Gericht. Er soll zwischen August 2018 und März 2021 insgesamt 116 Drohschreiben verschickt haben, unter anderem an die Anwältin Seda Basay Yildiz, die beim NSU-Prozess als Nebenklageanwältin Angehörige von Mordopfern der Terrorzelle vertrat.Dass der Mann identifiziert werden konnte, war zunächst einem Beamten des Landeskriminalamts zu verdanken. Es überwacht rechte Blogs und Foren und stieß dabei auf einen User, „dessen Beiträge in Form und Duktus der Äußerungen Ähnlichkeiten mit den Drohschreiben des sogenannten „NSU 2.0“ aufwiesen“, wie das Landeskriminalamt Hessen (LKA) nach der Festnahme berichtete.Verdächtiger User im Schach-ForumIn einem Schach-Forum verwendete der Mann nicht nur den gleichen User-Namen, sondern auch das gleiche Profilbild und postete laut LKA „wortgleiche Beleidigungen in der Chatfunktion“. Linguistische Begutachtungen erhärteten den Verdacht, dass es sich um die gleiche Person handelte. Über den Betreiber der Schach-Plattform kamen die Ermittler schließlich an Namen und Adresse.„Bei jeder Straftat kann Text eine Rolle spielen“, erklärt Ehrhardt. Schon mehrfach kam ihr Team einem Mörder oder Entführer auf die Spur, der das Handy seines Opfers an sich nahm und damit SMS verschickte, um die Tat zu verschleiern. Weil die Nachrichten für die Empfänger „falsch“ klangen, lag der Verdacht nahe, dass hier jemand anders tippte - und sich so verriet.2011 drohte ein Unbekannter mit einem Sprengstoff-Anschlag auf das Fußballstadion von Borussia Dortmund. Die Explosion konnte vereitelt werden - ein Hinweisgeber hatte die Behörden auf die Gefahr hingewiesen. Die Sprachwissenschaftler nahmen das Schreiben unter die Lupe und glichen es mit der Nationalen Tatschreibensammlung ab. Die Sammlung wurde schon in den 1980er Jahren angelegt und enthält aktuell rund 6000 Texte. Dabei stellte sich heraus, dass der Hinweisgeber selbst derjenige war, der die Sprengsätze gelegt hatte.Manchmal geht es um Kaufverhandlungen im Darknet, wo sich Kriminelle Drogen, Waffen oder Kinderpornos besorgen. Sprachanalysen können hier helfen, Fälle zusammenzulegen: Der Käufer kann verschiedene Spitznamen oder Adressen verwenden, wenn seine Sprache ihn verrät, liegt es nahe, dass es sich um ein und dieselbe Person handelt. Juristisch entscheiden dürfen die Sprach-Forensiker das allerdings nicht, das Team liefert nur eine Wahrscheinlichkeits-Einschätzung.Auftraggeber solcher Analysen sind beim BKA ausschließlich Polizei, Gerichte und Staatsanwaltschaften. Für die Verteidigung oder Privatleute darf das Team nicht tätig werden - dafür gibt es private Anbieter. Eines davon ist das Privat Institut für Forensische Textanalyse in München. Die meisten Aufträge kommen von Unternehmen, wie Geschäftsführer Leo Martin sagt. Häufig geht es dabei um Verleumdungen, falsche Behauptungen, üble Nachrede, „zum Beispiel, wenn eine Führungskraft demontiert werden soll“.„Die führende Instanz in Europa“Auch Privatpersonen beauftragen das Institut, etwa um die Echtheit eines Testaments überprüfen zu lassen - oder die Polizei fragt an, wenn der Fall unterhalb der Schwelle ist, bei der das BKA tätig wird. Von Konkurrenz ist nichts zu spüren: Das Sprachteam im BKA sei „die führende Instanz in Europa“, sagt Leo Martin. „Sie nehmen uns nichts weg“, sagt BKA-Mitarbeiterin Ehrhardt, es gebe ohnehin viel mehr Anfragen, als ihr Team bewältigen kann.Mehr zum ThemaBetrugsmasche: BKA warnt vor trügerischen Kinderporno-MailsBei starkem Regen: Wo Wasser langsam versickern kannWas Sie bei Testamenten besser vermeidenEin prominenter Fall der Münchner Sprachprofiler spielte in Mainz: Während des Oberbürgermeister-Wahlkampfs 2019 erhielten Medien einen anonymen Brief, der den Amtsinhaber in Misskredit bringen sollte. Auch der damalige Direktor der Universitätsmedizin sollte durch ähnliche Schreiben diskreditiert werden, berichtet Martin. Eine vergleichende Sprachanalyse brachte ans Licht, dass hinter beiden Fällen derselbe Absender steckte.Sprache kann extrem verräterisch sein„Zeig mir, was du schreibst, und ich sage dir, wer du bist“, sagt Leo Martins Kollege Patrick Rottler. Auch er hält Sprache für extrem verräterisch. „Verstellung funktioniert nur in eine Richtung: Der Täter kann sich nicht schlauer stellen, als er ist“, sagt der Kommunikationswissenschaftler. Dass künstliche Intelligenz den Sprachprofilern die Arbeit abnehmen könnten, erwartet Martin nicht: „Dazu ist Sprache zu individuell.“ Unterstützende Systeme gebe es schon heute, sie würden zum Beispiel Listen erzeugen, die helfen, signifikante Muster zu erkennen. „Aber die Hauptarbeit wird noch lange beim menschlichen Experten bleiben.“An der Ruhr-Universität Bochum gibt es im Germanistischen Institut einen Forschungsschwerpunkt „Digitale forensische Linguistik“. Die Wissenschaftler entwickeln auf künstlicher Intelligenz basierende Methoden, um sprachliche Charakteristika herauszuarbeiten. „Diese linguistische Grundlagenforschung wenden wir an, um Hassreden und Desinformation in sozialen Medien aufzudecken“, sagt Junior-Professorin Tatjana Scheffler.Ihr Team leistet vor allem Grundlagenforschung „zur Variabilität von Sprache“, etwa zu der Frage, wie sich der Stil ändert, wenn man das Medium wechselt. Mit dem BKA läuft im Institut ein Forschungsprojekt zu IT in der Autorenerkennung. Trotz der Nachfrage eröffnet kriminaltechnische Arbeit nicht gerade eine Riesenchance für arbeitslose Germanisten: Die Zahl der Stellen ist überschaubar. Einen Ausbildungsweg oder ein Studienfach gibt es nicht. dpaAuch interessant
+
+
+
+Das könnte Sie auch interessieren
+
+Empfohlen von
+
+ 
+
+
+
+
+
+
+
+
+KommentareTeilen",,"{'@type': 'NewsArticle', 'mainEntityOfPage': 'https://www.merkur.de/welt/sprach-forensik-wenn-der-text-den-taeter-verraet-zr-91217365.html', 'headline': 'Sprach-Forensik: Wenn der Text den Täter verrät', 'datePublished': '2022-01-05T08:13:09+0100', 'description': 'Im Bundeskriminalamt arbeiten nicht nur Polizisten, sondern auch Germanisten. Das Team hat den mutmaßlichen Absender der „NSU 2.0“-Briefe überführt und den Bombenleger vom Dortmunder Stadion: durch Textanalyse.', 'publisher': {'@type': 'Organization', 'name': 'Merkur.de', 'logo': 'https://idcdn.de/west/assets/merkur-de/img/logo.svg'}, 'author': {'@type': 'Organization', 'name': 'Merkur.de', 'logo': 'https://idcdn.de/west/assets/merkur-de/img/logo.svg'}, 'image': ['https://www.merkur.de/assets/images/27/816/27816731-sprach-forensik-9ea.jpg', 'https://www.merkur.de/assets/images/27/816/27816731-sprach-forensik-9e9.jpg', 'https://www.merkur.de/assets/images/27/816/27816731-sprach-forensik-9ec.jpg']}","{'@type': 'BreadcrumbList', 'name': 'BreadCrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': {'@type': 'WebPage', '@id': 'https://www.merkur.de/'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Welt', 'item': {'@type': 'WebPage', '@id': 'https://www.merkur.de/welt/'}}]}",,,,,,,,,,,,,,,,,,,,,,,,,

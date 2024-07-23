@@ -1,0 +1,718 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,article:section,article:summary,article text,@type,itemListElement,name,url,datePublished,dateCreated,dateModified,sameAs,potentialAction,breadcrumb
+https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vYWZyaXF1ZS81ODMzMTkxOdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vYWZyaXF1ZS81ODMzMTkxOS5hbXA?oc=5,Intelligence artificielle: laisseriez-vous un robot avocat vous défendre ? - BBC.com,2021-08-27,BBC.com,https://www.bbc.com,Pourquoi l'intelligence artificielle est de plus en plus utilisée par la profession juridique?,N/A,Pourquoi l'intelligence artificielle est de plus en plus utilisée par la profession juridique?,Pourquoi l'intelligence artificielle est de plus en plus utilisée par la profession juridique?,http://schema.org,"[{'@type': 'NewsArticle', 'url': 'https://www.bbc.com/afrique/58331919', 'publisher': {'@type': 'NewsMediaOrganization', 'name': 'BBC News Afrique', 'publishingPrinciples': 'https://www.bbc.com/afrique/institutionelles-49283281', 'logo': {'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://news.files.bbci.co.uk/ws/img/logos/og/afrique.png'}}, 'thumbnailUrl': 'https://ichef.bbci.co.uk/news/1024/branded_afrique/12CB3/production/_119897967_gettyimages-946828612.jpg', 'image': {'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://ichef.bbci.co.uk/news/1024/branded_afrique/12CB3/production/_119897967_gettyimages-946828612.jpg'}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.bbc.com/afrique/58331919', 'name': 'Intelligence artificielle: laisseriez-vous un robot avocat vous défendre ?'}, 'headline': 'Intelligence artificielle: laisseriez-vous un robot avocat vous défendre ?', 'description': ""Pourquoi l'intelligence artificielle est de plus en plus utilisée par la profession juridique?"", 'datePublished': '2021-08-27T11:07:26.000Z', 'dateModified': '2021-08-27T11:07:26.000Z', 'inLanguage': {'@type': 'Language', 'name': 'French', 'alternateName': 'fr'}, 'author': {'@type': 'NewsMediaOrganization', 'name': 'BBC News Afrique', 'logo': {'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://news.files.bbci.co.uk/ws/img/logos/og/afrique.png'}, 'noBylinesPolicy': 'https://www.bbc.com/afrique/institutionelles-49283281#authorexpertise'}}]",N/A,N/A,N/A,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmxlbW9uZGUuZnIvYmxvZy9iaW5haXJlLzIwMjEvMDgvMzEvZGVzLWJpYWlzLWRlLXJlcHJlc2VudGF0aXZpdGUtZW4taW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS_SAQA?oc=5,Des biais de représentativité en intelligence artificielle - Le Monde,2021-08-31,Le Monde,https://www.lemonde.fr,N/A,N/A,"Nous vous avions parlé de datacraft dans un article précédent ""L’artisanat de la science des données avec datacraft"" . En les rencontrant, nous avions été  intéressés par des ateliers qu'ils organisaient pour échanger sur des sujets délicats. Ils ont organisé en particulier une série de discussions autour des thématiques de l'équité et de la confiance … <p class=""link-more""><a href=""https://www.lemonde.fr/blog/binaire/2021/08/31/des-biais-de-representativite-en-intelligence-artificielle/"" class=""more-link"">Continuer la lecture<span class=""screen-reader-text""> de « Des biais de représentativité en intelligence artificielle »</span></a></p>",N/A,,,Ethique,N/A,"
+
+Publié le 31 août 202131 août 2021 par binaireDes biais de représentativité en intelligence artificielle 
+
+Nous vous avions parlé de datacraft dans un article précédent « L’artisanat de la science des données avec datacraft » . En les rencontrant, nous avions été  intéressés par des ateliers qu’ils organisaient pour échanger sur des sujets délicats. Ils ont organisé en particulier une série de discussions autour des thématiques de l’équité et de la confiance en intelligence artificielle. Nathan Noiry nous parle ici d’un de ces ateliers qu’il a animé avec Yannick Guyonvarch.  L’objectif était d’introduire la notion de « biais de représentativité » et de proposer une méthodologie pour les détecter et les corriger. Bonne lecture ! Serge Abiteboul
+Nathan Noiry
+En janvier 2020, l’erreur d’un algorithme de reconnaissance faciale des services de police de Détroit (Michigan) a conduit à l’arrestation injustifiée de Robert Williams [1], [2]. Identifié à tort avec un voleur de montres, il passera trente heures en détention. Si la confiance aveugle des policiers dans leur technologie explique en grande partie l’injustice (une simple vérification humaine aurait sans doute suffi à éviter l’incident), cette faute a permis de mettre en lumière les biais raciaux des algorithmes de reconnaissance faciale. Malgré leur redoutable précision biométrique, ces derniers ont en effet tendance à se tromper plus souvent sur certains sous-groupes démographiques, les noirs et les femmes notamment, comme le décrit le rapport [3] du National Institute of Standard and Technology. Au delà de cet exemple frappant, la problématique des biais est aujourd’hui centrale dans le développement des outils d’intelligence artificielle : leur présence insidieuse conduit bien souvent à des prises de décisions discriminatoires et font d’eux un enjeu majeur pour les années à venir. Voir par exemple le désormais célèbre ouvrage Weapons of Math Destruction de Cathy O’Neil.
+Qu’est-ce qu’un biais ?
+Le terme est omniprésent mais parfois mal compris tant il recouvre de réalités différentes. Les auteurs de l’article de synthèse Algorithmes : Biais, Discrimination et Équité [4] définissent un biais comme une « déviation par rapport à un résultat censé être neutre, loyal ou encore équitable » et en distinguent deux grandes familles. Les biais cognitifs, d’abord, qui irriguent tous les autres : biais de confirmation, tendance à détecter de fausses corrélations entre évènements… Nous renvoyons le lecteur au livre Thinking, Fast and Slow de Daniel Kahneman décrivant ses nombreux travaux avec Amos Tversky sur le sujet. La deuxième grande famille de biais est de nature statistique et correspond à ce que l’on appelle communément biais des données ou biais de représentativité. Ces derniers désignent une situation d’inadéquation entre données utilisées pour l’entraînement d’un algorithme et données cibles sur lesquelles l’algorithme sera déployé. Un tel exemple est fourni par la surreprésentation des afro-américains dans les bases de données de photos d’identité judiciaires américaines [5], expliquant en partie les biais raciaux mentionnés précédemment.
+ 
+Biais et équité
+À ce stade, il nous semble important de souligner que les problèmes de représentativité se superposent seulement en partie avec les problèmes d’équité. Afin d’illustrer notre propos, imaginons vouloir développer un algorithme de gestion de carrière dans le secteur numérique en France, où la part des femmes est d’environ 20%. À cet effet, on collecte des données d’entraînement en réalisant un sondage auprès de certains employés de ce secteur : ci-dessus, on distingue deux situations (fictives) correspondant respectivement à une proportion de femmes de 20% ou de 50% dans l’échantillon interrogé. Le premier échantillon, non-équitable du point de vue de la parité homme/femme, est cependant représentatif puisque la proportion des femmes coïncide avec celle de la population totale. Au contraire, le deuxième échantillon, bien que paritaire, n’est pas représentatif. De cet exemple, on retiendra qu’un biais de représentativité se définit par rapport à une population cible observée, tandis qu’un biais inhérent (de genre, de race…) se définit par rapport à des caractéristiques cibles que l’on souhaite atteindre et pouvant différer de celles de la population observée.
+D’où viennent les biais ?
+La problématique des biais n’est pas nouvelle : les instituts de sondages s’escriment depuis des décennies à concevoir des enquêtes permettant d’obtenir un échantillon représentatif de la population étudiée. Elle a néanmoins pris une tournure plus systématique depuis l’avènement du Big Data. Notre faculté d’acquérir et de stocker des bases de données toujours plus massives a en effet opéré un changement de paradigme dans leur utilisation : l’information est aujourd’hui disponible avant même de se poser une question spécifique. Cet état de fait permet bien souvent au praticien de s’affranchir de la délicate étape (souvent coûteuse) de collecte des données, mais l’absence de contrôle sur le processus d’acquisition l’expose à de nombreux problèmes de représentativité. À titre d’exemple, une entreprise agroalimentaire possédant un modèle pré-entraîné sur le marché français et souhaitant développer son activité en Chine prendra le risque d’effectuer de mauvaises prédictions du fait d’une différence significative entre les comportements des consommateurs.
+Modéliser les biais
+Le processus même de collecte des données, en ce qu’il déforme bien souvent les caractéristiques de la population d’intérêt, peut altérer l’information que l’on souhaite acquérir. Les données observées ne sont alors que des versions imparfaites des données cibles originelles, immaculées mais inaccessibles. Aussi, la première étape de l’étude statistique des biais consiste à modéliser de manière adéquate les mécanismes de sélection à l’œuvre, miroirs déformants responsables de la transformation des données. De manière schématique, on en distinguera deux grandes instances.
+
+La sélection stricte, qui permet principalement de modéliser l’absence de réponse dans des sondages. Celle-ci est généralement endogène : un individu ne répond pas à une ou des questions selon ses propres caractéristiques. Par exemple, l’INSEE reporte un faible taux de réponse (d’environ 50%) parmi les petites et moyennes entreprises interrogées lors de son enquête annuelle sur la santé économique française [7], quand les grandes entreprises répondent systématiquement.
+La sélection douce, qui correspond à une déformation continue des données. La courbe de répartition de l’âge des répondants à une enquête en ligne (en rouge) aura par exemple tendance à être décalée vers les jeunes, comparativement à la courbe de répartition des âges de la population de référence (en bleu). Ce phénomène est également présent, de manière plus pernicieuse, dans le secteur industriel où le vieillissement du matériel électronique (capteurs aéronautiques de pression, par exemple) peut engendrer de légères déformations dans les mesures effectuées.
+
+Dans le cas de la sélection stricte, on modélise la propension d’un individu à répondre au sondage. Pour la sélection douce, on modélisera plutôt la fonction de déformation, dans notre exemple, le ratio entre courbe rouge et courbe bleue. Le choix du modèle est une étape cruciale et doit être effectué en étroite collaboration avec des experts du domaine afférent.
+Peut-on détecter et corriger les biais ?
+Une fois passée l’étape de modélisation, il est possible de tester la pertinence du modèle sélectionné. C’est à ce stade que la connaissance d’information auxiliaire sur la population cible s’avère déterminante. Celle-ci prend souvent la forme de caractéristiques moyennes issues d’enquêtes pré-existantes et de large ampleur – il est par exemple aisé d’obtenir des informations agrégées telles que l’âge moyen ou le salaire moyen, tandis que les données individuelles sont parfois difficiles d’accès pour des raisons de confidentialité. La méthode la plus simple de détection des biais consiste alors à comparer les moyennes de la base de données à disposition avec les moyennes cibles de la population d’intérêt. D’autres techniques plus élaborées peuvent être mises en place, mais leurs descriptions dépassent largement le cadre de cet article. Une fois qu’un biais est détecté, il est possible de le corriger, au moins en partie. Nous nous bornerons à mentionner les deux méthodes les plus utilisées en pratique. La première, appelée imputation, est spécifique à la sélection stricte et consiste à remplir les réponses absentes dans un questionnaire – en ajoutant la réponse la plus probable au vu des réponses des autres individus, par exemple. La seconde méthode, plus adaptée à la sélection douce, consiste à affecter un poids à chacune des données de manière à ce que les moyennes re-pondérées qui en résultent s’approchent des moyennes auxiliaires cibles. Avec Patrice Bertail, Stéphan Clémençon et Yannick Guyonvarch, nous avons récemment proposé une telle méthode de re-pondération [7].
+Et pour conclure
+Les biais de représentativité sont omniprésents et peuvent être à l’origine de nombreuses erreurs, trop souvent discriminatoires. Développer une intelligence artificielle éthique et de confiance passera nécessairement par une prise en charge systématique de ces biais, dont l’importance grandit avec l’avènement de l’ère des données massives. De nombreuses méthodes existent déjà, mais les problématiques de représentativité restent largement ouvertes et demeurent un sujet de recherche actif. Un changement de point de vue est d’ailleurs en cours et de nombreux chercheurs (voir notamment [8]) incitent à recentrer les efforts sur la compréhension fine des données plutôt que sur le développement de modèles algorithmiques toujours plus coûteux.
+Nathan Noiry, Télécom Paris
+Postscriptum : Merci à Yannick Guyonvarch ainsi qu’à toute l’équipe de datacraft et à Victor Storchan pour ses précieux conseils.
+Pour aller plus loin
+[1] Un américain noir arrêté à tort à cause de la technologie de reconnaissance faciale, Le Monde ; 2020.
+[2] Wrongfully Accused by an Algorithm, New York Times ; 2020.
+[3] Face Recognition Vendor Test, Part 3: Demographic Effects, Grother, Ngan, Hanaoka, 2019.
+[4] Algorithmes : Biais, Discrimination et Équité, Bertail, Bounie, Clémençon, Waelbroeck ; 2019.
+[5] Facial Recognition Is Accurate, If you’re a White Guy, New York Times ; 2018.
+[6] La correction de la non-réponse par repondération, Thomas Deroyon (Insee) ; 2017.
+[7] Learning from Biased Data: A Semi-Parametric Approach, International Conference on Machine Learning ;  Bertail, Clémençon, Guyonvarch, Noiry ; 2021.
+[8] Andrew Ng Launches A Campaign For Data-Centric AI, Forbes ; 2021.
+ 
+ 
+ 
+ 
+ 
+0
+
+0
+0
+
+
+
+
+
+
+Share 
+  CatégoriesEthique, Intelligence artificelle 
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5hY3R1aWEuY29tL2FjdHVhbGl0ZS9hbGdlcmllLWluYXVndXJhdGlvbi1kZXMtZWNvbGVzLXN1cGVyaWV1cmVzLWRlcy1tYXRoZW1hdGlxdWVzLWV0LWRlLWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL9IBAA?oc=5,Algérie : inauguration des écoles supérieures des mathématiques et de l'intelligence artificielle - Intelligence artificielle - Actu IA,2021-08-27,Intelligence artificielle - Actu IA,https://www.actuia.com,"Tandis qu'en République du Congo, un atelier a été lancé pour accélérer la mise en place d'un centre africain pour la recherche en intelligence",N/A,"Tandis qu'en République du Congo, un atelier a été lancé pour accélérer la mise en place d'un centre africain pour la recherche en intelligence","Tandis qu'en République du Congo, un atelier a été lancé pour accélérer la mise en place d'un centre africain pour la recherche en intelligence",,,N/A,N/A,"
+
+Algérie : inauguration des écoles supérieures des mathématiques et de l’intelligence artificielle
+
+
+Le 27 août 2021, par
+Zacharie Tazrout.
+
+
+
+
+Tandis qu’en République du Congo, un atelier a été lancé pour accélérer la mise en place d’un centre africain pour la recherche en intelligence artificielle, l’Algérie annonce la création et l’inauguration des écoles supérieures des mathématiques et de l’intelligence artificielle. Pour cette année universitaire 2021-2022, les premières promotions accueilleront 200 étudiants chacune, selon le ministre algérien de l’Enseignement supérieur et de la Recherche Abdelbaqi Benziane. Les deux établissements se situeront dans la banlieue ouest d’Alger, au sein du cyberparc de Sidi Abdellah.
+Deux écoles supérieures : une pour les mathématiques et l’autre spécialisée dans l’intelligence artificielle
+C’est dans le cadre de la prochaine année universitaire 2021-2022 que l’école nationale supérieure des mathématiques et l’école de l’intelligence artificielle seront inaugurées. Ce sont près de 9 000 demandes qui ont été formulées (8 000 pour l’école d’IA et 1 000 pour l’école supérieure des mathématiques) afin d’intégrer l’un de ces deux nouveaux établissements d’enseignement supérieur. Malgré la forte demande, seulement 400 places (200 pour chaque école) sont disponibles.
+En avril dernier, le président de la République, Abdelmadjid Tebboune avait approuvé la création de ces deux nouveaux établissements consacrés à l’IA et aux mathématiques. Il avait alors souligné ceci :
+“Il est important de réunir toutes les conditions pédagogiques et de service pour encourager les inscrits des deux écoles et leur accorder toutes les incitations nécessaires pour développer le niveau d’apprentissage scientifique et faciliter leur intégration professionnelle plus tard.”
+Une équipe pédagogique choisie minutieusement, des étudiants diplômés à conserver
+Abdelbaqi Benziane fait ensuite référence à l’encadrement des étudiants et à l’équipe pédagogique soigneusement recrutée pour ces deux écoles :
+“Il y a eu la formation d’une équipe complète regroupant des compétences scientifiques issues de différents établissements universitaires à travers le pays, chargées de la mission d’élaborer des programmes de formation susceptibles d’assurer un niveau d’enseignement exceptionnel, la capacité d’encadrement étant fixée à dix étudiants pour chaque enseignant.”
+Les cours seront assurés en arabe, en français et en anglais, une volonté du ministre qui a souhaité souligner la sollicitation de compétences nationales établies à l’étranger pour participer à l’enseignement, voire à la formation à distance ou en présentiel selon l’amélioration ou non des conditions sanitaires actuelles.
+Le président a mis l’accent sur les mécanismes qui permettraient d’encadrer les diplômés de ces écoles afin qu’ils puissent trouver du travail dans le secteur des mathématiques ou de l’IA et éviter “le phénomène de fuite des cerveaux”. Il souhaite néanmoins favoriser les échanges d’expérience dans le domaine de la formation avec des partenaires étrangers.
+
+
+
+
+Recevez gratuitement l'actualité de l'intelligence artificielle
+Suivez la Newsletter de référence sur l'intelligence artificielle (+ de 18 000 membres), quotidienne et 100% gratuite.  
+
+Adresse e-mail 
+
+
+
+Prénom
+
+
+
+Nom
+
+
+
+Organisme/Société
+
+
+Fréquence
+
+ Quotidienne
+
+
+ Hebdomadaire - lundi matin
+
+
+ Hebdomadaire - vendredi après-midi
+
+
+
+
+
+
+Tout comme vous, nous n'apprécions pas le spam. Vos coordonnées ne seront transmises à aucun tiers.Laissez ce champ vide si vous êtes humain :  
+ ",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBsYW5ldGVncmFuZGVzZWNvbGVzLmNvbS9sZS10ZXNsYS1ib3QtbGUtcm9ib3QtaHVtYW5vaWRlLWRlLWVsb24tbXVza9IBAA?oc=5,"Le Tesla Bot, le robot humanoïde de Elon Musk - Planete Grandes Ecoles",2021-08-27,Planete Grandes Ecoles,https://www.planetegrandesecoles.com,"Le Tesla Bot, le robot humanoïde de Elon Musk",N/A,"Elon Musk présente le Tesla Bot, un robot humanoïde et amical qui prendra en charges les tâches dangereuses et répétitives.",N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#article', 'isPartOf': {'@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk'}, 'author': {'name': 'Elise Casado', '@id': 'https://www.planetegrandesecoles.com/#/schema/person/9631b14c0176a26166430fb70c5c7a67'}, 'headline': 'Le Tesla Bot, le robot humanoïde de Elon Musk', 'datePublished': '2021-08-27T10:12:57+00:00', 'dateModified': '2021-08-27T10:12:57+00:00', 'mainEntityOfPage': {'@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk'}, 'wordCount': 890, 'publisher': {'@id': 'https://www.planetegrandesecoles.com/#organization'}, 'image': {'@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#primaryimage'}, 'thumbnailUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2021/08/Article-TeslaBot-scaled-1.jpg', 'articleSection': ['ACTU BUSINESS', 'INTELLIGENCE ARTIFICIELLE'], 'inLanguage': 'fr-FR'}, {'@type': 'WebPage', '@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk', 'url': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk', 'name': 'Le Tesla Bot, le robot humanoïde de Elon Musk - PGE', 'isPartOf': {'@id': 'https://www.planetegrandesecoles.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#primaryimage'}, 'image': {'@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#primaryimage'}, 'thumbnailUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2021/08/Article-TeslaBot-scaled-1.jpg', 'datePublished': '2021-08-27T10:12:57+00:00', 'dateModified': '2021-08-27T10:12:57+00:00', 'description': 'Elon Musk présente le Tesla Bot, un robot humanoïde et amical qui prendra en charges les tâches dangereuses et répétitives.', 'breadcrumb': {'@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#primaryimage', 'url': 'https://www.planetegrandesecoles.com/wp-content/uploads/2021/08/Article-TeslaBot-scaled-1.jpg', 'contentUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2021/08/Article-TeslaBot-scaled-1.jpg', 'width': 2560, 'height': 1920}, {'@type': 'BreadcrumbList', '@id': 'https://www.planetegrandesecoles.com/le-tesla-bot-le-robot-humanoide-de-elon-musk#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.planetegrandesecoles.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Le Tesla Bot, le robot humanoïde de Elon Musk'}]}, {'@type': 'WebSite', '@id': 'https://www.planetegrandesecoles.com/#website', 'url': 'https://www.planetegrandesecoles.com/', 'name': 'Planète Grandes Écoles', 'description': 'Agence Média Grandes Écoles &amp; Marque Employeur', 'publisher': {'@id': 'https://www.planetegrandesecoles.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.planetegrandesecoles.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.planetegrandesecoles.com/#organization', 'name': 'planetegrandesecoles', 'url': 'https://www.planetegrandesecoles.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.planetegrandesecoles.com/#/schema/logo/image/', 'url': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/01/logo-planete-grandes-ecoles-1.png', 'contentUrl': 'https://www.planetegrandesecoles.com/wp-content/uploads/2022/01/logo-planete-grandes-ecoles-1.png', 'width': 180, 'height': 90, 'caption': 'planetegrandesecoles'}, 'image': {'@id': 'https://www.planetegrandesecoles.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/PlaneteGE', 'https://x.com/PlaneteGe', 'https://www.instagram.com/planete_ge/', 'https://www.linkedin.com/company/planète-grandes-écoles/']}, {'@type': 'Person', '@id': 'https://www.planetegrandesecoles.com/#/schema/person/9631b14c0176a26166430fb70c5c7a67', 'name': 'Elise Casado', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.planetegrandesecoles.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/57f86ec15cee31a939d43bf83452dc5e?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/57f86ec15cee31a939d43bf83452dc5e?s=96&d=mm&r=g', 'caption': 'Elise Casado'}, 'description': ""Rédactrice en chef de Planète Grandes Ecoles et étudiante en école, j'ai à coeur d'aider les étudiants à mettre toutes les chances de leur côté pour réussir !"", 'url': 'https://www.planetegrandesecoles.com/equipe/elisecasado'}]",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+ACTU BUSINESS
+
+INTELLIGENCE ARTIFICIELLE
+ 
+Elise Casado
+
+                        27 août 2021 
+
+		Le Tesla Bot, le robot humanoïde de Elon Musk 
+    
+
+
+
+
+
+
+
+
+
+
+
+Lors du Tesla AI Day, le 20 août dernier, Elon Musk a présenté sa nouvelle invention : le Tesla Bot. Après avoir mis en avant la présence de l’intelligence artificielle utilisée par l’entreprise Tesla, notamment en citant le système de conduite semi-autonome au sein de ses voitures, Elon Musk termine son discours en annonçant sa volonté de créer un robot « amical » qui aiderait les humains dans leurs tâches répétitives et dangereuses. Le robot se présenterait sous forme humaine, afin de s’intégrer parfaitement dans un monde humain. Elon Musk compte doter son Tesla Bot de la même technologie déjà utilisée dans les voitures Tesla : des caméras similaires à celles utilisées pour l’Autopilot des voitures seront placées dans la tête du robot, un réseau neuronal qui exploitera l’intelligence artificielle, entre autres technologies qu’Elon Musk n’a pas encore dévoilées. Le projet n’en est pour l’instant qu’au stade expérimental et ne prévoit pas d’être commercialisé avant plusieurs années. Un robot « amical » et humain Pour les plus grands fans de science-fiction, Elon Musk a tenu à préciser directement qu’il sera possible de « lui échapper en courant plus vite que lui a priori ». En effet, le Tesla Bot pourra se déplacer à une vitesse maximale de 8 km/h. Quant à sa forme humanoïde, Elon Musk décrit un robot d’1m70-1m75, pesant 56kg. L’aspect humain est souhaité pour permettre une bonne adaptation au monde du travail actuel et créer une symbiose entre humains et robots. Le PDG de Tesla précise que le robot servira surtout à faire les tâches « répétitives, ennuyeuses et dangereuses ». Il cite certains exemples : on pourra lui demander d’aller faire les courses et de nous ramener un produit en particulier, ou encore lui dire « attrape ça, accroche-le là-bas » et le Tesla Bot comprendra les tâches et les exécutera.  Après des voitures connectées semi-autonomes, Elon Musk pense que la suite logique est d’utiliser ces technologies dans les robots. Il commence sa présentation en précisant que « Tesla est certainement l’entreprise de robotique la plus importante au monde, parce que les voitures sont des robots semi-conscients sur roues, avec un ordinateur de bord dédié à la conduite autonome ».  Les questions économiques autour de la présence des robots dans le travail Lors de sa présentation du Tesla Bot, Elon Musk en a profité pour faire part de sa vision économique de l’impact du robot sur le travail. Il précise que « l’économie est fondée sur le travail ». Ainsi, créer un robot qui prendra en charge les tâches les plus ennuyeuses du travail offre une infinité de possibilités pour le développement de l’économie. Il explique clairement que l’objectif du Tesla Bot est que le travail physique devienne un choix : que ceux qui aiment le faire puissent continuer, et que ceux qui n’aiment pas cela soient libres de s’en détourner. Il pose clairement la question « Quel est le travail que les gens aiment le moins faire ? ». Le Tesla Bot le fera à leur place. Voilà l’objectif de ce nouveau robot. Cependant, Musk est conscient qu’une telle nouveauté tend à entraîner la suppression d’emplois et précise donc qu’il soutient l’idée d’un revenu universel pour compenser cela. Cependant, il est à noter qu’Elon Musk n’a pas décrit l’usage qui pourrait être fait de cette technologie. Il ne parle pas non plus de sa volonté de commercialiser un tel robot, même si on peut se douter que l’objectif final est de le vendre. En termes d’usage professionnel, on ne sait pas encore si ce robot serait strictement à usage industriel, ou s’il peut servir à des particuliers. En effet, le PDG de Tesla cite plusieurs applications, sans définir clairement un secteur particulier : il explique que le Tesla Bot pourrait soulever jusqu’à 68kg, ou déplacer des objets pesant jusqu’à 20kg. Il parle aussi du robot comme une sorte d’assistant, qui se retrouverait plutôt dans un cadre d’usage particulier : faire les courses pour quelqu’un, aller lui chercher des produits, etc. Cependant, le coût d’un tel robot semble disproportionné pour l’usage qu’en ferait un particulier. Précisons qu’un usage industriel du Tesla Bot paraît bien plus réalisable dans un futur proche que pour un usage personnel. En effet, nombre de limites devraient alors être surmontées dans l’exemple d’aller faire les courses pour un particulier : être capable de sélectionner les bons articles, prendre la décision de substituer un article si la référence exacte n’existe pas dans le magasin, interagir avec le personnel, attendre en caisse, etc. Un usage industriel, où les tâches sont claires et les limites visibles, est bien plus probable.  Elon Musk n’a pas encore donné de date concernant l’éventuelle commercialisation du Tesla Bot. Il estime qu’un prototype sera disponible courant 2022, bien que le projet ne soit encore qu’au stade de recherche et développement. 
+
+
+
+
+
+
+Elise CasadoRédactrice en chef de Planète Grandes Ecoles et étudiante en école, j'ai à coeur d'aider les étudiants à mettre toutes les chances de leur côté pour réussir !
+
+
+
+
+
+
+
+  PARTAGER 
+
+
+
+
+
+
+
+ 
+ 
+ 
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lmx5ZnR2bmV3cy5jb20vdDYxNTEtbGVzLWFwcG9ydHMtZGUtbC1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWRhbnMtbGEtdmVpbGxlLWVjb25vbWlxdWUtZGVzLWVudHJlcHJpc2Vz0gEA?oc=5,Les apports de l'Intelligence Artificielle dans la veille économique des entreprises - LYFtvNews - Actualités générales,2021-08-31,LYFtvNews - Actualités générales,https://www.lyftvnews.com,"Pas un métier néchappe à linfluence directe ou indirecte à court, moyen ou long terme de lintelligence artificielle. Et les métiers de lintelligence économi",N/A,"Pas un métier néchappe à linfluence directe ou indirecte à court, moyen ou long terme de lintelligence artificielle. Et les métiers de lintelligence économi",N/A,https://schema.org,,N/A,N/A,"Pas un métier n’échappe à l’influence directe ou indirecte à court, moyen ou long terme de l’intelligence artificielle. Et les métiers de l’intelligence économique ne font pas exception à la règle.Agrandir cette imageRéduire cette image Cliquez ici pour la voir à sa taille originale.L’intelligence artificielle ou “IA” est aujourd’hui sur toutes les lèvres. De toutes les questions stratégiques auxquelles la veille fait face, l’IA se démarque, tant ses apports ont une incidence sur la manière d’exercer cette expertise. Mais le veilleur doit-il en avoir peur pour autant ? Les deux formes “d’intelligence”, artificielle et économique, font-elles bon ménage ? La première a-t-elle un effet sur la seconde ?L’IA impacte chacune des étapes du cycle de veilleDans un futur plus ou moins proche, il est admis que l’intelligence artificielle et ses technologies sous-jacentes apporteront une vraie valeur ajoutée à chaque niveau du cycle de la veille. Et plus particulièrement dans les quatre missions journalières du veilleur et de l’analyste.1.     Collecte·      Identification de nouvelles sources : une exploration intelligente (Smart Crawling) des sources d’information permet à l’outil d’identifier des sources pertinentes qui ne sont jusqu’alors pas suivies. En fonction de l’intérêt du sujet exploré et du périmètre préalablement défini de sa veille, l’IA aide le veilleur à élargir son spectre de recherche.·      Vérification de l’information et de sa qualité : une autre fonctionnalité consiste à filtrer la pertinence des informations recueillies en fonction de différents critères qui peuvent être pondérés. L’outil pourra ainsi juger de la qualité des données par rapport à la construction du site de la source, de son niveau de référencement, des avis qui y sont laissés, du nombre d’articles publiés, etc.2.     Traitement·      Reconnaissance vocale (Speech-to-Text) : transformation, découpage et analyse automatique d’enregistrements audios en formats texte.·      Reconnaissance visuelle : conversion de fichiers image en formats texte avec détection d’éléments visuels (logo de marque, produit, personne, etc.).3.     Analyse·      Révélation de nouveaux éléments clés : un autre apport de l’IA repose sur l’identification active de signaux faibles. Un recueil et une contextualisation de ces informations permettent par exemple de détecter les nouvelles entreprises, personnes, technologies, etc., pouvant être citées.·      Synthèse automatisée de contenus : l’outil génère automatiquement un résumé de l’article en ne conservant que les idées les plus importantes.·      Analyse prédictive : l’IA, via une analyse prospective, permet aux décideurs d’identifier plus facilement les futures tendances de marché (ex. : consommation, innovations, évolutions réglementaires, etc.).4.     Diffusion·      Validation de l’information par apprentissage (Machine Learning) : l’outil apprend au fur et à mesure de son expérience. Il analyse les données dans le temps et anticipe les comportements en s’adaptant à l’utilisateur.·      Ciblage amélioré des contenus : l’étude approfondie des statistiques de consultations permet à l’IA de favoriser la diffusion des contenus les plus pertinents pour chaque lecteur.Quel avenir pour l’homme face aux contributions de l’IA ?C’est certainement la question qui revient le plus souvent lorsque l’intelligence artificielle est évoquée. Et ce quel que soit le domaine ou le métier abordé. Cette problématique n’est pas nouvelle : depuis l’amélioration des procédés techniques et l’apparition des premières machines, l’homme a toujours craint pour son avenir. Une peur de ne plus se savoir utile sans doute ?Alors qu’en est-il vraiment pour la veille ?Tout d’abord, précisons que l’IA n’en est encore qu’à ses prémices en matière d’intelligence économique. Aujourd’hui, on parle davantage de Machine Learning ou de Deep Learning, qui ne sont finalement qu’une des formes de ce que pourrait être l’IA. La véritable intelligence artificielle, c’est-à-dire celle qui serait parfaitement autonome et qui constituerait une entité à part entière, n’existe pas encore pour le moment.Enfin, il ne s’agit pas de remplacer le veilleur. Le fruit de son expertise, son esprit critique, et l’intelligence humaine au sens large continuent d’apporter de la valeur à chaque stade du processus de veille. En revanche, l’IA offre des méthodes et des outils qui viennent en appui du travail quotidien assuré par le veilleur. Elle lui simplifie ses tâches journalières afin qu’il reste au cœur des actions de veille et lui garantisse une meilleure visibilité dans ses prises de décisions. Face aux contributions de l’IA, « l’homme augmenté » a donc encore un bel avenir devant lui. Ne faudrait-il pas mieux parler d’intelligence augmentée que d’intelligence artificielle ?Arnaud MarquantDirecteur des opérationsKB Crawl",BreadcrumbList,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lyftvnews.com/', 'name': 'LYFtvNews'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lyftvnews.com/f29-sommaire-lyftvnews-a-z', 'name': 'Sommaire LYFtvNews A -> Z'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lyftvnews.com/f2-archives-lyftvnews-articles-de-90-jours', 'name': 'Archives LYFtvNews -  articles + de 90 jours'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.lyftvnews.com/t6151-les-apports-de-l-intelligence-artificielle-dans-la-veille-economique-des-entreprises', 'name': ""Les apports de l'Intelligence Artificielle dans la veille économique des entreprises""}}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdHJ1c3RteXNjaWVuY2UuY29tL3NvY2lldGUtdXRpbGlzZS12aXNhZ2UtdnJhaWVzLXBlcnNvbm5lcy1wb3VyLWNyZWVyLXZpZGVvcy12aWEtaWEv0gEA?oc=5,Une société utilise le visage de vraies personnes pour créer des vidéos via une IA - Trust My Science,2021-08-30,Trust My Science,https://trustmyscience.com,"Trust me, I&#039;m Science",N/A,Une société propose des vidéos promotionnelles ou éducatives générées automatiquement par une IA à partir d'images de vraies personnes.,N/A,http://schema.org,"[{'@type': 'Article', '@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#article', 'isPartOf': {'@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/'}, 'author': {'name': 'Fleur Brosseau', '@id': 'https://trustmyscience.com/#/schema/person/1ef50edd8f49f6bc4198aa695e9da5a8'}, 'headline': 'Une soci&eacute;t&eacute; utilise le visage de vraies personnes pour cr&eacute;er des vid&eacute;os via une IA', 'datePublished': '2021-08-30T08:34:43+00:00', 'dateModified': '2021-08-30T08:36:35+00:00', 'mainEntityOfPage': {'@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/'}, 'wordCount': 1121, 'commentCount': 0, 'publisher': {'@id': 'https://trustmyscience.com/#organization'}, 'image': {'@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#primaryimage'}, 'thumbnailUrl': 'https://trustmyscience.com/wp-content/uploads/2021/08/videos-promos-AI.jpeg', 'keywords': ['deepfake', 'IA', 'intelligence artificielle', 'personnages virtuels'], 'articleSection': ['Technologie'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#respond']}]}, {'@type': 'WebPage', '@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/', 'url': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/', 'name': 'Une soci&eacute;t&eacute; utilise le visage de vraies personnes pour cr&eacute;er des vid&eacute;os via une IA', 'isPartOf': {'@id': 'https://trustmyscience.com/#website'}, 'primaryImageOfPage': {'@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#primaryimage'}, 'image': {'@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#primaryimage'}, 'thumbnailUrl': 'https://trustmyscience.com/wp-content/uploads/2021/08/videos-promos-AI.jpeg', 'datePublished': '2021-08-30T08:34:43+00:00', 'dateModified': '2021-08-30T08:36:35+00:00', 'description': ""Une soci&eacute;t&eacute; propose des vid&eacute;os promotionnelles ou &eacute;ducatives g&eacute;n&eacute;r&eacute;es automatiquement par une IA &agrave; partir d'images de vraies personnes."", 'breadcrumb': {'@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#primaryimage', 'url': 'https://trustmyscience.com/wp-content/uploads/2021/08/videos-promos-AI.jpeg', 'contentUrl': 'https://trustmyscience.com/wp-content/uploads/2021/08/videos-promos-AI.jpeg', 'width': 1350, 'height': 672, 'caption': '| Hour One'}, {'@type': 'BreadcrumbList', '@id': 'https://trustmyscience.com/societe-utilise-visage-vraies-personnes-pour-creer-videos-via-ia/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://trustmyscience.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Une soci&eacute;t&eacute; utilise le visage de vraies personnes pour cr&eacute;er des vid&eacute;os via une IA'}]}, {'@type': 'WebSite', '@id': 'https://trustmyscience.com/#website', 'url': 'https://trustmyscience.com/', 'name': 'Trust My Science', 'description': 'Trust me, I&#039;m Science', 'publisher': {'@id': 'https://trustmyscience.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://trustmyscience.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://trustmyscience.com/#organization', 'name': 'Trust My Science', 'url': 'https://trustmyscience.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://trustmyscience.com/#/schema/logo/image/', 'url': 'https://trustmyscience.com/wp-content/uploads/2016/01/TMS-Main-logo-Retina.png', 'contentUrl': 'https://trustmyscience.com/wp-content/uploads/2016/01/TMS-Main-logo-Retina.png', 'width': 351, 'height': 120, 'caption': 'Trust My Science'}, 'image': {'@id': 'https://trustmyscience.com/#/schema/logo/image/'}, 'sameAs': ['https://facebook.com/trustmyscience', 'https://x.com/trustmyscience', 'https://instagram.com/trustmyscience', 'https://www.linkedin.com/company/trust-my-science', 'https://youtube.com/trustmyscience']}, {'@type': 'Person', '@id': 'https://trustmyscience.com/#/schema/person/1ef50edd8f49f6bc4198aa695e9da5a8', 'name': 'Fleur Brosseau', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://trustmyscience.com/#/schema/person/image/', 'url': 'https://trustmyscience.com/wp-content/uploads/2021/10/fbros-profile-pic-96x96.jpg', 'contentUrl': 'https://trustmyscience.com/wp-content/uploads/2021/10/fbros-profile-pic-96x96.jpg', 'caption': 'Fleur Brosseau'}, 'description': ""Journaliste ind&eacute;pendante depuis 2015, Fleur Brosseau &eacute;crit des articles li&eacute;s aux domaines des sciences, de la sant&eacute;, de l'informatique et des technologies. Elle &eacute;tait auparavant r&eacute;dactrice en chef du magazine Linux Pratique."", 'url': 'https://trustmyscience.com/author/fbrosseau/'}]",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Des physiciens ont conçu le labyrinthe le plus « complexe » au
+monde
+
+
+
+",WebPage,,Trust My Science,https://trustmyscience.com/,2021-08-30T10:34:43+02:00,2021-08-30T10:34:43+02:00,2021-08-30T10:36:35+02:00,"['https://facebook.com/trustmyscience', 'https://twitter.com/trustmyscience']","{'@type': 'SearchAction', 'target': 'https://trustmyscience.com/?s=&#123;search_term&#125;', 'query-input': 'required name=search_term'}","{'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://trustmyscience.com', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://trustmyscience.com/categories/actus-science/', 'name': 'Actualit&eacute;s - Science'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://trustmyscience.com/categories/actus-science/technologie/', 'name': 'Technologie'}}]}"
+https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5sZWFkZXJzLmNvbS50bi9hcnRpY2xlLzMyMzQ5LWZha2hyZWRkaW5lLWthcnJheS1ub21tZS1yZWN0ZXVyLWEtbC11bml2ZXJzaXRlLW1vaGFtZWQtYmluLXpheWVkLWRlLWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1hLWFidS1kaGFiadIBAA?oc=5,Fakhreddine Karray nommé recteur à l'Université Mohamed bin Zayed de l'intelligence artificielle à Abu Dhabi - Leaders Tunisie,2021-08-31,Leaders Tunisie,https://www.leaders.com.tn,"Précieuse recrue pour l’Université Mohamed bin Zayed de l’intelligence artificielle (MBZUAI) à Abu Dhabi. Le Tunisien Fakhreddine Karray, chercheur de renommée ","journal en ligne, média en ligne, leaders, dirigeants, personnalités, tunisie","Leaders :  Précieuse recrue pour l’Université Mohamed bin Zayed de l’intelligence artificielle (MBZUAI) à Abu Dhabi. Le Tunisien Fakhreddine Karray, chercheur de ",,,,N/A,N/A,"
+
+
+
+
+Accueil
+News
+
+
+
+ Partager
+ tweeter
+
+
+
+
+
+
+News - 31.08.2021
+Fakhreddine Karray nommé recteur à l’Université Mohamed bin Zayed de l’intelligence artificielle à Abu Dhabi
+
+
+
+
+Précieuse recrue pour l’Université Mohamed bin Zayed de l’intelligence artificielle (MBZUAI) à Abu Dhabi. Le Tunisien Fakhreddine Karray, chercheur de renommée mondiale spécialisé en automatisme, robotique et intelligence artificielle vient d’être nommé recteur au sein de cette université. Première au monde entièrement dédiée à l'intelligence artificielle (IA) basée sur la recherche et destinée aux étudiants diplômés, elle est implantée dans des locaux avant-gardistes sur le campus futuritse d'Abu Dhabi. La première cohorte comprend 100 étudiants sélectionnés parmi un groupe de haut calibre de 2 223 candidats de 97 nationalités différentes. Les étudiants admis viennent de 31 pays, la majorité d'entre eux de l'extérieur de la région MENA.  Jusque-là, Professeur Fakhreddine Karray était co-directeur fondateur de l’Institut d’intelligence artificielle de l’Université de Waterloo dans l'Ontario au Canada, près des frontières avec les Etats-Unis. Cette unité collabore avec le secteur privé pour mettre au point des systèmes intelligents dans des domaines de pointe tels que la détection et le traitement des maladies, la navigation automobile ou encore le langage et les émotions. L'université de Waterloo possède le plus grand programme d'enseignement coopératif au monde, qui associe la théorie théorique à un apprentissage pratique par le biais d'un emploi à temps plein avant l'obtention du diplôme. Le professeur Karray a déclaré vouloir ""importer"" ces pratiques dans la région, afin de créer des partenariats avec des entreprises et des gouvernements et d'offrir une expérience concrète aux étudiants. Parmi les projets de recherche les plus récents du professeur Karray figurent les systèmes autonomes de détection des distractions au volant, la surveillance à distance des patients âgés grâce à des systèmes de capteurs à domicile et la prévision des fluctuations de prix dans les chaînes d'approvisionnement alimentaire. Il est impatient de reproduire et de développer ces travaux à Abu Dhabi.    
+
+
+
+Envoyer à un ami
+ Imprimer
+
+
+Vous aimez cet article ? partagez-le avec vos amis !
+ Partager
+ tweeter
+ Abonnez-vous
+
+
+commenter cet article
+1 Commentaire
+Ecrire un commentaire
+Ecrire un commentaire
+Commenter
+
+
+
+
+
+
+
+Nom
+ 
+
+Email
+ 
+
+Message
+ 
+
+
+
+Envoyer
+
+
+
+
+
+
+
+
+
+
+
+
+Les Commentaires
+
+
+
+Slim Karray - 31-08-2021 17:57 
+Felicitations cher cousin 
+
+
+
+
+Vous avez aimé cet article  ?
+
+
+ Partager
+ tweeter
+ Partager
+
+
+
+
+
+
+
+
+
+
+News - 08.07.2024
+Hydrogène vert: Des partenariats prometteurs
+
+
+
+
+
+
+
+
+
+
+
+News - 08.07.2024
+Ils font tout pour cacher le génocide à Gaza
+
+
+
+
+
+
+
+
+
+
+
+News - 08.07.2024
+Stratégie nationale de la jeunesse : Les cinq objectifs fixés
+
+
+
+
+
+
+Ne plus afficher
+
+ 
+
+
+
+
+
+
+Vient de paraître
+ 
+Commandez-le dès aujourd'hui
+
+
+Les + lus
+
+
+
+
+
+
+
+Abdelkrim Hizaoui: Une lecture analytique du livre de Abdelaziz Kacem ‘’A la recherche d’un humanisme perdu’’
+09.06.2024
+
+
+
+
+
+
+
+
+
+Rwanda: Récit d’un engagement héroïque du contingent tunisien lors du génocide (1993-1995)
+09.06.2024
+
+
+
+
+
+
+
+
+
+Les nouvelles mutations géopolitiques au Moyen Orient (Album photos)
+19.06.2024
+
+
+
+
+
+
+
+
+
+Visite : Hassan Massoudy, le calligraphe fraternel
+10.06.2024
+
+
+
+
+
+
+
+
+
+Bernard Kouchner, pris en embuscade au Rwanda en 1994: ""Les Tunisiens m’ont sauvé la vie""!
+10.06.2024
+
+
+
+ 
+Les + commentés
+
+
+
+
+
+
+
+
+Le professeur Samir Hamza, directeur de l’INSAT, est décédé
+10.06.2024
+
+
+
+
+
+
+
+
+
+L’amandier: Arbre mythique, symbole de renouveau et d’immortalité
+17.06.2024
+
+
+
+
+
+
+
+
+
+Il y a 50 ans naissait la CNEL (BH Bank): le témoignage de Mohamed Kilani
+19.06.2024
+
+
+
+
+
+
+
+
+
+En deux tomes, une œuvre très riche de Foued Lakhoua: Les Premiers ministres tunisiens
+20.06.2024
+
+
+
+
+
+
+
+
+
+Une milice kabyle au service des beys: Les Zwâwa-s
+28.06.2024
+
+
+
+ 
+
+
+
+PARTENAIRES
+
+
+
+
+
+
+
+
+08.07.2024
+
+Green Hydrogen: TotalEnergies H2 s'associe ...
+
+
+
+
+
+
+
+
+
+
+07.07.2024
+
+La Fondation Arts et Culture by UIB: un soutien ...
+
+
+
+
+
+
+
+
+
+
+05.07.2024
+
+La stratégie de maitrise de l’énergie du Rose ...
+
+
+
+
+
+
+
+
+
+
+04.07.2024
+
+Tunisie Telecom reçoit le major de promotion du ...
+
+
+
+
+
+lu pour vous
+
+
+
+
+
+
+
+
+15.05.2024
+
+Vient de paraître: Des sardines de Mahdia à la ...
+
+
+
+
+
+
+
+
+
+
+09.05.2024
+
+Quand Mohamed El Aziz Ben Achour revisite la ...
+
+
+
+
+
+
+
+
+
+
+07.05.2024
+
+L’économie tunisienne à l’épreuve de la  ...
+
+
+
+
+
+
+
+
+
+
+03.05.2024
+
+«La Quête de l’Espoir Sublime» de Héla ...
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Article précédent Rencontre entre Marouane El Abassi et Ferid ... Article suivant Le système éducatif Tunisien: benchmarking et ... 
+
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8veW9wLmwtZnJpaS5jb20vYXN0dWNlcy9lbXBsb2ktdG9wLTctZGVzLW1ldGllcnMtZGF2ZW5pci1xdWktbmV4aXN0ZW50LXBhcy1lbmNvcmUv0gEA?oc=5,Emploi : top 7 des métiers d’avenir qui n’existent pas encore - YOP L-FRII,2021-08-30,YOP L-FRII,https://yop.l-frii.com,"Il y’a quelques années de cela, nombre de métiers qui existent aujourd’hui, n’avaient pas encore vu le jour. Si vous pensez que",N/A,"Il y’a quelques années de cela, nombre de métiers qui existent aujourd’hui, n’avaient pas encore vu le jour. Si vous pensez que",N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/', 'url': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/', 'name': 'Emploi : top 7 des métiers d’avenir qui n’existent pas encore - YOP L-FRII', 'isPartOf': {'@id': 'https://yop.l-frii.com/#website'}, 'primaryImageOfPage': {'@id': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/#primaryimage'}, 'image': {'@id': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/#primaryimage'}, 'thumbnailUrl': 'https://yop.l-frii.com/wp-content/uploads/2021/08/Emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore.jpg', 'datePublished': '2021-08-30T16:01:45+00:00', 'dateModified': '2021-08-30T16:01:45+00:00', 'description': 'Il y’a quelques années de cela, nombre de métiers qui existent aujourd’hui, n’avaient pas encore vu le jour. Si vous pensez que', 'breadcrumb': {'@id': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/#primaryimage', 'url': 'https://yop.l-frii.com/wp-content/uploads/2021/08/Emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore.jpg', 'contentUrl': 'https://yop.l-frii.com/wp-content/uploads/2021/08/Emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore.jpg', 'width': 800, 'height': 477}, {'@type': 'BreadcrumbList', '@id': 'https://yop.l-frii.com/astuces/emploi-top-7-des-metiers-davenir-qui-nexistent-pas-encore/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://yop.l-frii.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Emploi : top 7 des métiers d’avenir qui n’existent pas encore'}]}, {'@type': 'WebSite', '@id': 'https://yop.l-frii.com/#website', 'url': 'https://yop.l-frii.com/', 'name': 'YOP L-FRII', 'description': 'Le Média du Jeune Africain', 'publisher': {'@id': 'https://yop.l-frii.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://yop.l-frii.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://yop.l-frii.com/#organization', 'name': 'YOP L-FRII', 'url': 'https://yop.l-frii.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://yop.l-frii.com/#/schema/logo/image/', 'url': 'https://yop.l-frii.com/wp-content/uploads/2021/06/Logo-YOP-L-FRII.png', 'contentUrl': 'https://yop.l-frii.com/wp-content/uploads/2021/06/Logo-YOP-L-FRII.png', 'width': 1080, 'height': 413, 'caption': 'YOP L-FRII'}, 'image': {'@id': 'https://yop.l-frii.com/#/schema/logo/image/'}}]",N/A,N/A,"
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Canada : calendrier d’initiatives de recrutement de travailleurs africains 2024 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Canada : calendrier d’initiatives de recrutement de travailleurs africains 2024 
+
+
+
+
+
+
+
+",,,,,,,,,,

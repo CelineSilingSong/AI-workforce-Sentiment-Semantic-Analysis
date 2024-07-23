@@ -1,0 +1,630 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,article:section,article:summary,article text,@type,about,alternativeHeadline,articleSection,author,commentCount,copyrightHolder,copyrightYear,dateModified,datePublished,discussionUrl,headline,identifier,image,inLanguage,isAccessibleForFree,isFamilyFriendly,isPartOf,mainEntityOfPage,provider,publisher,sourceOrganization,thumbnailUrl,timeRequired,url,version,wordCount,@id,additionalType,itemListElement,dateCreated,pagination,name
+https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFwcGxhdXNlLmNvbS9kZS9ibG9nLzUtYmVzdC1wcmFjdGljZXMtYmVpbS10ZXN0ZW4tdm9uLWtpL9IBAA?oc=5,5 Best Practices beim Testen von AI-Anwendungen - Applause,2021-11-17,Applause,https://www.applause.com,Infolge der neuen EU-Richtlinien zu künstlicher Intelligenz sollten Entwickler jetzt ihre Teststrategie von KI-Anwendungen überdenken.,N/A,Infolge der neuen EU-Richtlinien zu künstlicher Intelligenz sollten Entwickler jetzt ihre Teststrategie von KI-Anwendungen überdenken.,N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#article', 'isPartOf': {'@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/'}, 'author': {'name': 'Tammy', '@id': 'https://www.applause.com/de/#/schema/person/b4894cfdf6882e05cf5efcd033823391'}, 'headline': '5 Best Practices beim Testen von KI-Anwendungen', 'datePublished': '2021-11-17T10:00:00+00:00', 'dateModified': '2024-06-10T17:44:29+00:00', 'mainEntityOfPage': {'@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/'}, 'wordCount': 2085, 'publisher': {'@id': 'https://www.applause.com/de/#organization'}, 'image': {'@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#primaryimage'}, 'thumbnailUrl': 'https://www.applause.com/wp-content/uploads/EU-AI-Act-scaled.jpg', 'keywords': ['Artificial Intelligence'], 'articleSection': ['Blog Topics (DE)', 'Entwicklungs- und Qualitätssicherungstrends'], 'inLanguage': 'de-DE'}, {'@type': 'WebPage', '@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/', 'url': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/', 'name': '5 Best Practices beim Testen von AI-Anwendungen', 'isPartOf': {'@id': 'https://www.applause.com/de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#primaryimage'}, 'image': {'@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#primaryimage'}, 'thumbnailUrl': 'https://www.applause.com/wp-content/uploads/EU-AI-Act-scaled.jpg', 'datePublished': '2021-11-17T10:00:00+00:00', 'dateModified': '2024-06-10T17:44:29+00:00', 'description': 'Infolge der neuen EU-Richtlinien zu künstlicher Intelligenz sollten Entwickler jetzt ihre Teststrategie von KI-Anwendungen überdenken.', 'breadcrumb': {'@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#primaryimage', 'url': 'https://www.applause.com/wp-content/uploads/EU-AI-Act-scaled.jpg', 'contentUrl': 'https://www.applause.com/wp-content/uploads/EU-AI-Act-scaled.jpg', 'width': 2880, 'height': 1620, 'caption': 'Blog - 5 Best Practices beim Testen von KI-Anwendungen'}, {'@type': 'BreadcrumbList', '@id': 'https://www.applause.com/de/blog/5-best-practices-beim-testen-von-ki/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Blog', 'item': 'https://www.applause.com/de/'}, {'@type': 'ListItem', 'position': 2, 'name': '5 Best Practices beim Testen von KI-Anwendungen'}]}, {'@type': 'WebSite', '@id': 'https://www.applause.com/de/#website', 'url': 'https://www.applause.com/de/', 'name': 'Applause App Quality, Inc', 'description': 'Release Faster, With Confidence', 'publisher': {'@id': 'https://www.applause.com/de/#organization'}, 'alternateName': 'Applause', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.applause.com/de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Organization', '@id': 'https://www.applause.com/de/#organization', 'name': 'Applause App Quality, Inc', 'alternateName': 'Applause', 'url': 'https://www.applause.com/de/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.applause.com/de/#/schema/logo/image/', 'url': 'https://www.applause.com/wp-content/uploads/applause-logo-1.svg', 'contentUrl': 'https://www.applause.com/wp-content/uploads/applause-logo-1.svg', 'width': '1024', 'height': '1024', 'caption': 'Applause App Quality, Inc'}, 'image': {'@id': 'https://www.applause.com/de/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/applause', 'https://x.com/applause', 'https://www.linkedin.com/company/applause', 'https://www.instagram.com/applause_inc/']}, {'@type': 'Person', '@id': 'https://www.applause.com/de/#/schema/person/b4894cfdf6882e05cf5efcd033823391', 'name': 'Tammy', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.applause.com/de/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/bc535d91d9c4b0756a4a2f29e7f88537?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/bc535d91d9c4b0756a4a2f29e7f88537?s=96&d=mm&r=g', 'caption': 'Tammy'}}]",N/A,N/A,"10 Top Trends, die Retail-Unternehmen in 2021 im Blick haben solltenKundengeschichten und ErkenntnisseE-commerce an Spitze der Retail Trends 2021",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5oYW5kZWxzYmxhdHQuY29tL3RlY2huaWsvaXQtaW50ZXJuZXQvZGlnaXRhbGUtZXRoaWstYmVhY2h0ZW4td2VsY2hlLWZvbGdlbi1raS1mdWVyLWRlbi1tZW5zY2hlbi1oYXQtZGllc2UtZnJhdS1tb2VjaHRlLWRlbi11bWdhbmctbWl0LWtpLXJlZ2Vsbi0vMjc4MDMxMzYuaHRtbNIBAA?oc=5,Digitale Ethik: Sarah Spiekermann legt fest was KI darf - Handelsblatt,2021-11-16,Handelsblatt,https://www.handelsblatt.com,"Die Wissenschaftlerin Sarah Spiekermann stellt einen weltweiten Standard vor, mit dem Unternehmen Technologien menschenfreundlich bauen sollen. Die EU-Kommission prüft das Regelwerk bereits.",N/A,"Sarah Spiekermann stellt einen weltweiten Standard vor, mit dem Unternehmen Technologien menschenfreundlich bauen sollen. Die EU-Kommission prüft das Regelwerk bereits.",N/A,,,Technologie - IT + Telekommunikation,N/A,"Digitale Ethik„Beachten, welche Folgen KI für den Menschen hat” – Diese Frau möchte den Umgang mit KI regeln Sarah Spiekermann stellt einen weltweiten Standard vor, mit dem Unternehmen Technologien menschenfreundlich bauen sollen. Die EU-Kommission prüft das Regelwerk bereits.Melanie Raidl 16.11.2021 - 17:00 Uhr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Wissenschaftlerin setzt mit ihrer Organisation neue Standards. Foto: David Payr Düsseldorf. Nach sechs Jahren Arbeit, mit 34 Informatikern aus sechs Kontinenten war es für die KI-Forscherin Sarah Spiekermann endlich so weit. Am Dienstag stellte sie an der Wirtschaftsuniversität Wien das 83 Seiten dicke Handbuch vor, mithilfe dessen Unternehmen und Softwareentwickler ethisch vertretbare Technologien bauen können.Zusammen mit dem weltweiten Ingenieurverband IEEE entwickelte Spiekermann Regeln für Softwareentwickler, Unternehmen und Start-ups. Sie sollen mithilfe dieses Standardwerks digitale Technologien möglichst so entwickeln können, dass sie keine negativen Einflüsse und Auswirkungen auf die Menschen haben, die sie anwenden.Der IEEE 7000, so heißt das Regelwerk, sei „der erste global anwendbare Prozessstandard“, sagt Wirtschaftsinformatikerin Spiekermann, die die Erstellung des Standards leitete. „Eine wesentliche Säule ist, die Kontrolle über Datenverarbeitungspartner, insbesondere KI-Partner, zu haben“, erklärt sie. „Eine andere Säule ist: zu beachten, welche Folgen eine KI auf den Menschen hat, wenn er sie anwendet.“In anderen Worten: Etwa wie bei den Warnhinweisen auf einer Zigarettenpackung, soll auch bei digitalen Produkten klar sein, welche Folgen sie bergen. Fälle, in denen Technologie, wie etwa Künstliche Intelligenz, unerwünschte Nebenwirkungen mit sich brachte, gab es bis heute zahlreiche. Bekannt ist etwa der Bewerbungs-Bot von Amazon
+
+
+ vor einigen Jahren, der Frauen benachteiligt einstellen ließ, weil er hauptsächlich mit Daten über Männer gefüttert wurde.Oder aber auch Erzählungen von Whistleblowern: Jüngst machte Ex-Facebook-Mitarbeiterin Frances Haugen öffentlich, Facebook
+
+
+ hätte durch Studien lange gewusst, dass seine Dienste psychische Folgen für seine Nutzer haben können.Auch die EU arbeitet daran, einen kontrollierten Umgang mit Künstlicher Intelligenz zu finden. „Die Kommission prüft derzeit den neuen IEEE-Standard“, bestätigt ein Kommissionsbeamter der EU. „Wir begrüßen die Bemühungen von IEEE, die ethischen Überlegungen in das Design der Künstlichen Intelligenz zu integrieren.“ Der Standard stehe im Einklang mit einer vorgeschlagenen Verordnung über KI, gezielte Regeln für die Gestaltung, Entwicklung und Nutzung von KI-Anwendungen zu schaffen, heißt es.Menschliches Wohlergehen soll im Vordergrund stehenSpiekermann, geboren in Düsseldorf, leitete nicht nur die Arbeitsgruppe, sie entwickelte bereits zuvor das Grundgerüst für den neuen IEEE-Standard. Sie nennt es auf Englisch „Value based Engineering“, also wertebasierte Bautechnik, nachdem die IT-Entwicklung vor allem auf menschliches Wohlergehen abzielen soll.Verwandte Themen
+ Big Data
+
+
+
+ Folgen  Künstliche Intelligenz
+
+
+
+ Folgen  Digitalisierung
+
+
+
+ Folgen  Europäische Union
+
+
+
+ Folgen  OECD
+
+
+
+ Folgen 
+
+
+
+
+
+Die 48-Jährige selbst war für Technologieunternehmen tätig, beispielsweise für Openwave Systems in den USA. Sie arbeitete bereits in unterschiedlichen Arbeitsgruppen an EU-Datenschutzbestimmungen mit oder für einen Report der OECD zum Thema Big Data.Rund 14 Jahre lang forschte sie zum Thema „Privatsphäre gegenüber Maschinen“, seit 2014 zur Ethik in der IT-Systemgestaltung. An der Wirtschaftsuniversität Wien leitet sie seit 2009 das Institut für Wirtschaftsinformatik und Gesellschaft. „Im Moment wird immer noch gesagt, eine KI muss datenschutzfreundlich, transparent und verlässlich sein“, kritisiert Spiekermann. „Das sind aber Anforderungen, die man von einem funktionierenden System sowieso erwartet, also dass man als Käufer weiß, was es tut.“In den IEEE-7000-Standard eingebracht habe sie nun, welche Folgen die Technologie für die Gesellschaft und für den einzelnen Menschen haben kann. „Etwa wie die Technik den Charakter oder die Tugenden eines Menschen verändern kann“, sagt Spiekermann.Auch EU arbeitet an „digitalen Grundsätzen“Auch Stefan Ullrich von der Fachgruppe Ethik von der Gesellschaft für Informatik hat sich den Standard bereits angesehen. „Ich kann mir schon vorstellen, dass Entwicklerteams mit diesem Standard viel diverser sein werden und dass auch die Frage wichtiger wird, auf welche Art und Weise wir Software bauen.“Die EU arbeitet derzeit am sogenannten Digitalen Kompass, der genaue Digitalziele der EU umsetzen soll. Eins davon: Bis 2030 sollen drei von vier Unternehmen Cloud-Computing-Dienste, Big Data und Künstliche Intelligenz nutzen. Dafür sollen auch „digitale Grundsätze“ geschaffen werden, sagt ein Kommissionsbeamter. „Die Vorbereitungsarbeiten dauern noch an, und die Kommission wird den Erklärungsentwurf bis Ende 2021 veröffentlichen.“Abgesehen davon, ob Spiekermanns Regelwerk seinen Weg in die Gesetzgebung finden wird, können Unternehmen den Standard beim Ingenieurverband erwerben. Die Wirtschaftsinformatikerin hat dazu auch weitere Pläne: „Wir fangen jetzt an, eine erste Generation von Coaches und Beratern auszubilden, die den Standard in die Unternehmen hineintragen können.“ Zudem, sagt Spiekermann, werde bereits auch schon über die Vergabe von Lizenzen nachgedacht.Mehr: Ethik im Digitalzeitalter – Warum wir ein Biosiegel für Software brauchenZur StartseiteNachricht an die Redaktion",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmhlaXNlLmRlL25ld3MvS3VlbnN0bGljaGUtSW50ZWxsaWdlbnotU3ByYWNobW9kZWxsLUdQVC0zLW9obmUtV2FydGVsaXN0ZS12ZXJmdWVnYmFyLTYyNzE4NjguaHRtbNIBAA?oc=5,Künstliche Intelligenz: Sprachmodell GPT-3 ohne Warteliste verfügbar - heise online,2021-11-19,heise online,https://www.heise.de,AdModule,"ChatGPT, Künstliche Intelligenz, Machine Learning, OpenAI","OpenAI gibt das Sprachmodell nun öffentlich frei, nachdem das Unternehmen einen eigenen Sicherheitsprozess eingeführt hat, der Missbrauch verhindern soll.","OpenAI gibt das Sprachmodell nun öffentlich frei, nachdem das Unternehmen einen eigenen Sicherheitsprozess eingeführt hat, der Missbrauch verhindern soll.",https://schema.org,,N/A,N/A,,ItemList,"[{'@id': 'https://www.heise.de/thema/ChatGPT', '@type': 'Thing', 'name': 'ChatGPT'}, {'@id': 'https://www.heise.de/thema/K%C3%BCnstliche-Intelligenz', '@type': 'Thing', 'name': 'Künstliche Intelligenz'}, {'@id': 'https://www.heise.de/thema/Machine-Learning', '@type': 'Thing', 'name': 'Machine Learning'}, {'@id': 'https://www.heise.de/thema/OpenAI', '@type': 'Thing', 'name': 'OpenAI'}, {'@id': 'https://www.heise.de/thema/Unternehmen', '@type': 'Thing', 'name': 'Unternehmen'}, {'@id': 'https://www.heise.de/thema/Wirtschaft', '@type': 'Thing', 'name': 'Wirtschaft'}]",Künstliche Intelligenz: Sprachmodell GPT-3 ohne Warteliste verfügbar,IT,"[{'@id': '2608389', '@type': 'Person', 'name': 'Rainald Menge-Sonnentag', 'url': '/autor/Rainald-Menge-Sonnentag-4582362'}]",17,"{'@id': 'https://www.heise.de', '@type': 'Organization', 'name': 'Heise Medien'}",2021,2021-11-19T12:27:00+01:00,2021-11-19T12:27:00+01:00,/forum/heise-online/Kommentare/Kuenstliche-Intelligenz-Sprachmodell-GPT-3-ohne-Warteliste-verfuegbar/forum-485244/comment/,Künstliche Intelligenz: Sprachmodell GPT-3 ohne Warteliste verfügbar,3217464.0,"{'@type': 'ImageObject', 'height': 4214, 'url': 'https://www.heise.de/imgs/18/3/2/1/7/4/6/4/Vernunft.jpg-3607755083737b7e.jpeg', 'width': 7500}",de,True,True,"{'@type': ['Product'], 'name': 'heise online', 'productID': 'heise.de:basic'}","{'@id': 'https://www.heise.de/news/Kuenstliche-Intelligenz-Sprachmodell-GPT-3-ohne-Warteliste-verfuegbar-6271868.html', '@type': 'WebPage', 'breadcrumb': {'@context': 'http://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'item': {'@id': 'https://www.heise.de/', '@type': 'WebPage', 'name': 'heise online'}, 'position': 1}, {'@type': 'ListItem', 'item': {'@id': 'https://www.heise.de/newsticker/it/', '@type': 'WebPage', 'name': 'IT'}, 'position': 2}, {'@type': 'ListItem', 'item': {'@id': 'https://www.heise.de/news/Kuenstliche-Intelligenz-Sprachmodell-GPT-3-ohne-Warteliste-verfuegbar-6271868.html', '@type': 'WebPage', 'name': 'Künstliche Intelligenz: Sprachmodell GPT-3 ohne Warteliste verfügbar'}, 'position': 3}]}}",,"{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'url': 'https://www.heise.de/icons/ho/opengraph/opengraph.png'}, 'name': 'heise online', 'url': 'https://www.heise.de'}","{'@id': 'https://www.heise.de/developer', '@type': 'Organization', 'identifier': 'developer', 'name': 'Developer'}",https://www.heise.de/imgs/18/3/2/1/7/4/6/4/Vernunft.jpg-3607755083737b7e.jpeg,PT4M,https://www.heise.de/news/Kuenstliche-Intelligenz-Sprachmodell-GPT-3-ohne-Warteliste-verfuegbar-6271868.html,,614.0,3632786,AdModule,"[{'@type': 'ListItem', 'position': 0, 'item': {'@type': 'WPAdBlock', '@id': '3631856', 'additionalType': 'StickyFooterAd'}}]",,,
+https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5hbGwtZWxlY3Ryb25pY3MuZGUvZWxla3Ryb25pay1lbnR3aWNrbHVuZy9mdW5rdGlvbmFsZS1zaWNoZXJoZWl0LXVuZC1rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1pbi1pbmR1c3RyaWVsbGVuLWFud2VuZHVuZ2VuLTEzLTY2Mi5odG1s0gEA?oc=5,Funktionale Sicherheit und künstliche Intelligenz in der Industrie - All-Electronics,2021-11-17,All-Electronics,https://www.all-electronics.de,Das Interesse von KI in der funktionalen Sicherheit steigt. Im Automotive-Bereich ist sie vorhanden. Warum also nicht auch in der industriellen Automatisierung?,"Sicherheit,Funktionale Sicherheit,Industrial",Das Interesse von KI in der funktionalen Sicherheit steigt. Im Automotive-Bereich ist sie vorhanden. Warum also nicht auch in der industriellen Automatisierung?,N/A,https://schema.org,,N/A,N/A,"
+
+
+
+
+                                                            Im Rahmen der Automatisierung sollen Roboter und Menschen künftig auch zusammenarbeiten. KI in der funktionalen Sicherheit ist auch hier möglich, aber dafür Bedarf es noch ein paar Schritte.                                                                                        (Bild: kora_ra_123 @ AdobeStock)
+
+
+
+
+
+
+Funktionssicherheit ist bei elektromechanischen Geräten allgegenwärtig. Sie schützt uns vor Schäden in unseren Wohnungen, sie schützt die Arbeitnehmer in einer Fabrik und sie schützt beim Autofahren. Es gibt regionale und internationale Normen zur funktionalen Sicherheit, um Anwender vor Fehlbedienung, Geräteausfall oder unvorhergesehenem Systemverhalten zu schützen. Die Notwendigkeit von Normen zur funktionalen Sicherheit besteht schon seit Jahren. Der Automatisierungsgrad und der Einsatz von Industrierobotern ist im industriellen Bereich, insbesondere in Smart Factories, stetig gestiegen. Initiativen zur Verbesserung der Betriebseffizienz, wie etwa Industrie 4.0, erhöhen die Anzahl der eingesetzten elektronisch gesteuerten Geräte und lassen die physischen Grenzen zu menschlichen Mitarbeitern verschwimmen. Das Hybridmodell, bei dem qualifizierte menschliche Mitarbeiter neben so genannten Cobots (kollaborierende Roboter) arbeiten, vergrößert die potenziellen Sicherheitsrisiken. Früher wurden in vielen Fertigungsprozessen Sicherheitskäfige und mechanische Verriegelungen eingesetzt, um eine Gefährdung der Mitarbeiter zu verhindern. In der Fabrik von heute bieten Industrieroboter und Automatisierung enorme Flexibilität und eine 360-Grad-Reichweite, was eine bessere Nutzung der teuren Fabrikfläche ermöglicht, aber gleichzeitig den Wirkungsbereich von Sicherheitsbarrieren reduziert. Sicherheit muss daher integraler Bestandteil einer industriellen Produktionsanlage sein, anstatt sich auf eine physische Trennung zu verlassen.
+Die Hauptanforderung an alle funktionalen Sicherheitsfunktionen besteht darin, die Anlage unmittelbar daran zu hindern, bei einem ungeplanten Ereignis oder einer ungeplanten Aktion Schäden am Bediener und an anderen Geräten oder Materialien zu verursachen. Die hierfür erforderlichen Sicherheitsfunktionen werden durch die Bewertung der potenziellen Risiken während des normalen oder anormalen Betriebs abgeleitet und dienen dazu, das Gerät sicher anzuhalten.
+
+
+
+
+
+
+
+KI in der Funktionalen Sicherheit
+
+
+
+Der Einsatz von KI-basierter Funktionssicherheit bringt eine Fülle neuer Möglichkeiten zur Risikoerkennung und zum Sicherheitsmanagement in die Welt der industriellen Automatisierung. Dies wiederum macht die Einhaltung von Hardware-Designverifizierung und formalen Softwareentwicklungsarchitekturen und -methodiken unabdingbar. Die Einhaltung etablierter Standards für die Funktionssicherheit von Systemen ist unerlässlich, und dabei kann die Halbleiterindustrie helfen. Die Halbleiterhersteller sind sich des Vertrauens in ihre Produkte bereits bewusst, und viele Hersteller implementieren Entwicklungswerkzeuge für die Funktionssicherheit. 
+
+
+
+
+
+
+Normen für Funktionssicherheit
+
+Es gibt mehrere Normen zur Funktionssicherheit, die für industrielle Geräte gelten. Die IEC 61508 ist eine grundlegende Norm für Funktionssicherheit, die elektrische, elektromechanische und elektronisch betriebene Geräte abdeckt. Von ihr wurden marktspezifische Normen abgeleitet. Die IEC 60601 deckt medizinische Geräte ab, die ISO 26262 gilt für Systeme im Automobilbereich. Für industrielle Geräte gilt die IEC 62061, die durch einige weitere gerätespezifische Normen ergänzt wird. Zu diesen Normen zählen IEC 61131 für SPSen, IEC 61511 für Prozesssteuerungsanwendungen und IEC 61800-5 für Antriebe mit variabler Drehzahl. Die ISO 13849 ist eine weitere Sicherheitsnorm, die für industrielle Geräte gilt. Sie hat einen breiteren Anwendungsbereich, der jede Form des Betriebs von Sicherheitsfunktionen einschließt, nicht nur elektrisch betriebene.
+Der zunehmende Einsatz von Robotern und von Cobots für Industrieapplikationen hat zur Entwicklung einer relativ neuen Norm von Funktionssicherheit geführt, der ISO 10218. Ebenso behandelt die technische Spezifikation ISO/TS 15066 das Verhalten von Cobots.
+Grundkonzepte der Funktionssicherheit
+Es gibt zwei grundlegende Aspekte der Funktionssicherheit: Sicherheitsfunktionen und Sicherheitsintegrität. Eine Sicherheitsfunktion definiert ein Merkmal, das dazu dient, den sicheren Betrieb einer Maschine zu gewährleisten. Beispielsweise kann eine Fotodiode das Vorhandensein einer Verriegelungsvorrichtung erkennen, die einen Bediener daran hindert, auf ein sich bewegendes Band zuzugreifen. Wenn die Fotodiode anzeigt, dass die Sicherheitsfunktion nicht aktiviert ist, muss sie die Bewegung des Bandes sofort stoppen. Die Metrik der Sicherheitsintegrität ist ein Maß für die Sicherheit, dass das Band seine Bewegung sofort stoppt. Die IEC 62061 legt vier verschiedene Sicherheitsintegritätsstufen (SIL1, SIL2, SIL3 und SIL4) fest, die definieren, wie sich potenzielle Sicherheitsrisiken auf ein akzeptables Maß minimieren lassen. Die ISO 13849 verfolgt einen etwas anderen Ansatz für SILs und weist fünf Sicherheitsstufen zu (PL A, PL B, PL C, PL D und PL E).
+
+
+
+
+
+Die IEC 61508 ist eine grundlegende Norm für Funktionssicherheit, die elektrische, elektromechanische und elektronisch betriebene Geräte abdeckt. (Bild: Mouser)
+
+
+
+
+Implementierung von Funktionssicherheit
+
+Eingebettete Systeme sind das Herzstück der meisten industriellen Automatisierungsanwendungen. Jede Erfüllung der Funktionssicherheit muss sowohl Hardware- als auch Softwaretechniken umfassen. Mikrocontroller, Mikroprozessoren und programmierbare Logikbausteine können den Kern der Verarbeitung innerhalb der Hardware-Domäne darstellen. Die Hersteller von Halbleitern sind zunehmend in der Lage, Verarbeitungsgeräte und Sensoren anzubieten, die Elemente der Funktionssicherheit in ihre Architektur integrieren. Für den Hersteller von Industrieanlagen bedeutet die Integration solcher Geräte in ein Design eine Beschleunigung des Entwicklungs- und Validierungsprozesses. Ein Beispiel ist der Dual-Lockstep-MicroBlaze-Prozessor von Xilinx. Eine Lockstep-Architektur bietet zwei ausfallsichere, redundante Prozessoren, die den gleichen Code parallel zueinander ausführen und sich den Speicher teilen.
+Ein formaler Ansatz für das Design eingebetteter Software wird von der IEC 61508 vorgegeben. Sie sieht eine strukturierte Entwurfsarchitektur, Validierungs- und Testmethoden als ein Hauptelement für die Integration funktionaler Sicherheitsfunktionen vor. Die Anwendung einer formalen Kodierungsmethodik wird ebenfalls empfohlen, aber abgesehen von MISRA-C für Automobilanwendungen gibt es keine Standards für funktionale Sicherheit oder für industrielle Anwendungen. Xilinx beispielsweise empfiehlt einen Isolation Design Flow, um sicherheitsrelevante und nicht sicherheitsrelevante Funktionen zu trennen.
+Industrieapplikationen mit KI
+KI wird in zahlreichen industriellen Anwendungen eingesetzt, von der Bildverarbeitung bis zur Schwingungsüberwachung. KI arbeitet auf Basis von Wahrscheinlichkeiten. So lassen sich z. B. bei einer Aufgabe zur Objekterkennung verschiedene Obstsorten unterscheiden. Eine fortgeschrittenere Anwendung kann den Zustand einer bestimmten Frucht erkennen. Ist die Frucht gerade reif oder überreif? In beiden Fällen erfolgt die Bestimmung auf Basis der Wahrscheinlichkeit, mit der die Frucht und ihr Zustand korrekt identifiziert wurden, entsprechend den beim Training des neuronalen Netzwerks verwendeten Referenzbilddaten.
+Auf den ersten Blick könnte die nicht-binäre Welt der wahrscheinlichkeitsbasierten KI mit der binären Welt in Konflikt geraten, die traditionell hardwarebasierte Sicherheitssysteme bieten. Die Grundgedanken der funktionalen Sicherheit haben ihren Ursprung in mechanischen Verriegelungsmethoden. Selbst wenn dieser Ansatz mit einem Prozessor implementiert wird, beruht er auf einer „OK/Nicht-OK“-Reaktion auf eine vordefinierte Menge von Risiken.
+Die geltenden Normen zur Funktionssicherheit unterstreichen die Notwendigkeit, alle potenziellen Risiken bei der Verwendung einer Maschine zu ermitteln, und typischerweise bezieht sich dies ausschließlich auf den Bediener. Die Risiken können für jede einzelne Phase des Maschinenbetriebs bestimmt werden. Dies setzt jedoch voraus, dass die Maschine an einer festen Position in der Fertigungshalle montiert ist. Daher kann die Anzahl der ermittelten Risiken begrenzt sein. Was aber, wenn sich die Maschine bewegen kann?
+Eine weitere mögliche Überlegung ist ein zuvor nicht erkannter Gerätezustand, der ein Risiko für den Bediener darstellen könnte. Lagerverschleiß bedeutet zum Beispiel, dass die physische Ausdehnung eines gefährlichen Werkzeugs über den Sicherheitsbereich hinausgeht.
+
+
+
+
+
+Bild 2: Sicherheitsintegritätsstufen nach 61508. (Bild: Mouser)
+
+
+
+
+Umgang mit einer exponentiellen Zunahme potenzieller Risiken
+
+Wie Entwickler von autonomen Fahrzeugen wissen, ist die Anzahl der potenziellen Risiken, die mit dem autonomen Fahren eines Fahrzeugs bei Geschwindigkeit in einer städtischen Umgebung einhergehen, zu groß, um sie zu quantifizieren. KI-Systeme mit Vision-, Lidar- und Radar-Sensorsubsystemen werden zu Augen des autonomen Fahrzeugs. Gemeinsam scannen die Erkennungsfunktionen ständig nach potenziellen Risiken und visuellen Hinweisen, Fußgängern, Objekten auf der Fahrbahn oder Ampeln. Die Funktionssicherheit basiert auf der Zuverlässigkeit und Integrität der Systeme, die das Auto steuern. Zweifach- und Dreifach-Lockstep-Prozessoren und Systemredundanz sind von größter Bedeutung.
+KI-basierte Funktionssicherheit in der Industrie
+Wird KI die Basis der Funkionssicherheit in der Industrie bilden? Ja. KI kann lernen, sich an eine sich verändernde Produktionsumgebung anzupassen. KI wird bereits in der vorausschauenden Wartung eingesetzt, wo beispielsweise veränderte Schwingungssignaturen auf möglichen Verschleiß oder unterschiedliche Motorlastzustände hinweisen. Der Anlagenzustand ist für die Funktionssicherheit höchst relevant. Daher ist der Einsatz von KI sinnvoll, um sowohl den Anlagenzustand als auch Sicherheitsrisiken zu überwachen. KI kann auch lernen, indem sie verschiedene Bedienermuster beobachtet und den Standort und die Bewegung menschlicher Mitarbeiter ständig überwacht. Darüber hinaus kann sich nur KI kontinuierlich an eine Flut von Daten anpassen, diese verarbeiten und einen Sinn darin erkennen.
+
+
+
+
+
+
+Mark Patrick
+Technical Marketing bei Mouser
+
+
+
+
+
+
+
+
+
+Sie möchten gerne weiterlesen?
+
+Jetzt kostenlos registrieren oder einloggen:
+
+
+
+
+
+
+
+
+
+",BreadcrumbList,"{'@type': 'Thing', 'name': 'Elektronik-Entwicklung'}",Funktionale Sicherheit und künstliche Intelligenz in der Industrie,Elektronik-Entwicklung,"{'@type': 'Person', 'name': 'Mark Patrick'}",,,,2021-11-17T08:00:00+00:00,2021-11-17T08:00:00+00:00,,Funktionale Sicherheit und künstliche Intelligenz in der Industrie,,"{'@type': 'ImageObject', 'url': 'https://www.all-electronics.de/assets/images/4/AdobeStock_271596364-f3a5c312.jpg', 'width': 1200, 'height': 369, 'text': 'Im Rahmen der Automatisierung sollen Roboter und Menschen künftig auch zusammenarbeiten. KI in der funktionalen Sicherheit ist auch hier möglich, aber dafür Bedarf es noch ein paar Schritte.'}",,,,,"[{'@type': 'WebPage', '@id': 'https://www.all-electronics.de/elektronik-entwicklung/funktionale-sicherheit-und-kuenstliche-intelligenz-in-industriellen-anwendungen-13-662.html'}, 'https://www.all-electronics.de/elektronik-entwicklung/funktionale-sicherheit-und-kuenstliche-intelligenz-in-industriellen-anwendungen-13-662.html']",,"{'@type': 'Organization', 'name': 'all-electronics.de', 'logo': {'@type': 'ImageObject', 'url': 'https://www.all-electronics.de/assets/images/8/logo_all-c42d5138.svg', 'width': 500, 'height': 156}, 'sameAs': ['https://www.linkedin.com/company/18129625/', 'https://twitter.com/aeaktuell', 'https://www.facebook.com/allelectronics.de/', 'https://www.xing.com/news/pages/all-electronics-de-661']}",,,,https://www.all-electronics.de/elektronik-entwicklung/funktionale-sicherheit-und-kuenstliche-intelligenz-in-industriellen-anwendungen-13-662.html,,1318.0,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://www.all-electronics.de', 'name': 'all-electronics.de'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.all-electronics.de/elektronik-entwicklung.html', 'name': 'Elektronik-Entwicklung'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.all-electronics.de/elektronik-entwicklung/funktionale-sicherheit-und-kuenstliche-intelligenz-in-industriellen-anwendungen-13-662.html', 'name': 'Funktionale Sicherheit und künstliche Intelligenz in der Industrie'}}]",2021-11-17T08:00:00+00:00,1.0,
+https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmhsLWxpdmUuZGUvdGV4dC5waHA_aWQ9MTQ4NDgy0gEsaHR0cHM6Ly93d3cuaGwtbGl2ZS5kZS9hbXB0ZXh0LnBocD9pZD0xNDg0ODI?oc=5,Ein feierlicher Abend rund um KI in Lübeck - HL-live.de,2021-11-18,HL-live.de,https://www.hl-live.de,"Lübeck: Archiv - 18.11.2021, 12.01 Uhr: 200 zufriedene Gäste, 4 Millionen Euro für ein Lübecker KI-Med-Ökosystem und eine Preisträgerin – das","['Millionen', 'Lübecker', 'KI-Med-Ökosystem', 'Preisträgerin', 'Künstliche', 'Intelligenz', 'Forschungsvielfalt', 'Hansestadt', 'Lübeck', 'Wirtschaft']","Lübeck: Archiv - 18.11.2021, 12.01 Uhr: 200 zufriedene Gäste, 4 Millionen Euro für ein Lübecker KI-Med-Ökosystem und eine Preisträgerin – das",N/A,http://schema.org,,N/A,N/A,"Ein feierlicher Abend rund um KI in LübeckLübeck: Archiv - 18.11.2021, 12.01 Uhr: 200 zufriedene Gäste, 4 Millionen Euro für ein Lübecker KI-Med-Ökosystem und eine Preisträgerin – das ist die Bilanz eines Abends, der die Künstliche Intelligenz in Lübeck gefeiert hat und wieder einmal mehr herausstellen konnte, welch beeindruckende Forschungsvielfalt die norddeutsche Hansestadt zu bieten hat.Es war eine Premiere: Der ""Norddeutsche Zukunftspreis für Künstliche Intelligenz"", gestiftet von Axel Junge, Inhaber der Junge GmbH, wurde dieses Jahr zum ersten Mal vergeben und ist mit 10.000 Euro dotiert. Entgegennehmen durfte ihn Dr. Andrea Schenk, die damit für Ihre langjährigen wichtigen Beiträge zur medizinischen Bildverarbeitung mit künstlicher Intelligenz gewürdigt wurde. Sie ist Vorstandsmitglied des Fraunhofer-Instituts für Digitale Medizin MEVIS in Bremen und ist hauptsächlich im Bereich der Leberforschung tätig.    
+Überreicht wurde er von den Sprechern des Zentrums für KI Lübeck, Prof. Dr. Jörg Barkhausen und Prof. Dr. Thomas Martinetz: ""Wir freuen uns sehr, dass Herr Junge das Zentrum für Künstliche Intelligenz der Universität zu Lübeck mit diesem hochdotierten Preis ausstattet, um herausragende KI-Beiträge aus Norddeutschland zu prämieren. Mit Frau Dr. Schenk haben wir eine ideale erste Preisträgerin. Die Ergebnisse ihrer Arbeiten zur KI-basierten Bildverarbeitung ermöglichen es komplexe operative und interventionelle Lebereingriffe an dreidimensionalen Bilddaten schnell und extrem genau zu planen. Dieses Vorgehen verbessert die Patientenversorgung, da optimale Behandlungsergebnisse erreicht und Komplikationen vermieden werden"".
+Norddeutschland hat sich in den Augen von Prof. Dr. Stefan Fischer, Vizepräsident für Transfer und Digitalisierung der Universität zu Lübeck, in den vergangenen Jahren zu einer führenden Region, vor allem im Bereich KI und Medizin entwickelt. Und so freute er sich auch über zwei Förderbescheide über insgesamt vier Millionen Euro für ein KI-Med-Ökosystem, die Ministerpräsident Daniel Günther für die Uni Lübeck im Gepäck hatte.   Günther sagte: ""Mit Künstlicher Intelligenz können wir Krankheiten früher entdecken, Patientinnen und Patienten gezielter und wirksamer behandeln sowie die Gesundheitsversorgung noch besser machen."" In Lübeck entstehe ein KI-Handelsplatz und eine Plattform für Technologietransfer: ""In diesem KI-Med-Ökosystem können Ideen entstehen und wachsen. Daten werden sinnvoll verbunden, Algorithmen trainiert, Lösungen entwickelt und angeboten. Das ist eine gute Grundlage für eine moderne Gesundheitswirtschaft im Norden"", so der Ministerpräsident.    
+Und auch ein Rückblick durfte nicht fehlen: so sprach Prof. Dr. Claudia Schmidtke, die als Patientenbeauftragte der Bundesregierung und Mitglied der Enquette-Kommission Künstliche Intelligenz die Idee zur Lübecker DFKI-Außenstelle hatte, in einem kurzen Grußwort über die Bedeutung der Weiterentwicklung von KI in Lübeck: ""Ich werbe dafür, den Möglichkeiten von KI offen gegenüberzutreten. Ich bin der Überzeugung, dass die Digitalisierung in der Medizin viele Vorteile bietet. Ein digital vernetztes Gesundheitssystem zeigt gerade in dieser Pandemie am Beispiel Israel, dass Daten Leben retten können. In Lübeck wurden die Zeichen der Zeit bereits erkannt.""    
+Abgerundet wurde der Abend durch einen Festvortrag von Prof. Dr. Paul Lukowicz vom Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI), der humorvoll beleuchtete, was KI überhaupt ist: ""Symbolische KI ist eigentlich nur: Wissen darstellen und Wissen suchen. Das Zusammenspiel aus Suche, Statistik und Analyse ist eigentlich nur einfache, simple Mathematik."" Dass es sich trotz allem lohnt, in die Weiterentwicklung von Künstlicher Intelligenz zu investieren, hat die Woche der KI in Lübeck eindrucksvoll bewiesen.Zum feierlichen Abend rund um KI wurde ins Audimax geladen. Foto: Olaf Malzahn/Hanse Innovation Campus LübeckText-Nummer: 148482   Autor: Uni Lübeck/Red.   vom 18.11.2021 um 12.01 Uhr",NewsArticle,,,,,,,,2021-11-18T12:01:00+01:00,2021-11-18T12:01:00+01:00,,Ein feierlicher Abend rund um KI in Lübeck,,"{'@type': 'ImageObject', 'url': 'https://www.HL-live.de/aktuell/bilder/KIAbendUni_18_11_2021.jpg', 'height': 399, 'width': 600}",,,,,https://www.HL-live.de/text.php?id=148482,,"{'@type': 'Organization', 'name': 'HL-live.de', 'logo': {'@type': 'ImageObject', 'url': 'https://www.hl-live.de/img/testlogo1110.png', 'width': 440, 'height': 100}}",,https://www.HL-live.de/aktuell/klein/KIAbendUni_18_11_2021.jpg,,,,,,,,,,148482
+https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vc3RhcnR1cHZhbGxleS5uZXdzL2RlL2tsYW5naW8v0gEA?oc=5,Klangio Audio und Musik Analyse mit künstlicher Intelligenz - StartupValley,2021-11-16,StartupValley,https://startupvalley.news,"Klangio Audio und Musik Analyse mit künstlicher Intelligenz- Musikaufnahmen analysieren, Töne heraushören und in einen musikalischen Kontext einzuordnen",N/A,"Klangio Audio und Musik Analyse mit künstlicher Intelligenz- Musikaufnahmen analysieren, Töne heraushören und in einen musikalischen Kontext einzuordnen",N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://startupvalley.news/de/klangio/#article', 'isPartOf': {'@id': 'https://startupvalley.news/de/klangio/'}, 'author': {'name': 'Quepatagra', '@id': 'https://startupvalley.news/de/#/schema/person/a3e5761b960e16f2555479f2a17b2d08'}, 'headline': 'Perfekt ist das Gegenteil von Gut', 'datePublished': '2021-11-16T07:18:51+00:00', 'dateModified': '2021-11-16T07:18:51+00:00', 'mainEntityOfPage': {'@id': 'https://startupvalley.news/de/klangio/'}, 'wordCount': 820, 'commentCount': 0, 'publisher': {'@id': 'https://startupvalley.news/de/#organization'}, 'image': {'@id': 'https://startupvalley.news/de/klangio/#primaryimage'}, 'thumbnailUrl': 'https://startupvalley.news/de/wp-content/uploads/sites/2/2021/11/klangio.jpg', 'keywords': ['Klangio', 'künstliche Intelligenz', 'Musik', 'Noten', 'Piano2Notes'], 'articleSection': ['GründerTalk'], 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://startupvalley.news/de/klangio/#respond']}]}, {'@type': 'WebPage', '@id': 'https://startupvalley.news/de/klangio/', 'url': 'https://startupvalley.news/de/klangio/', 'name': 'Klangio Audio und Musik Analyse mit künstlicher Intelligenz', 'isPartOf': {'@id': 'https://startupvalley.news/de/#website'}, 'primaryImageOfPage': {'@id': 'https://startupvalley.news/de/klangio/#primaryimage'}, 'image': {'@id': 'https://startupvalley.news/de/klangio/#primaryimage'}, 'thumbnailUrl': 'https://startupvalley.news/de/wp-content/uploads/sites/2/2021/11/klangio.jpg', 'datePublished': '2021-11-16T07:18:51+00:00', 'dateModified': '2021-11-16T07:18:51+00:00', 'description': 'Klangio Audio und Musik Analyse mit künstlicher Intelligenz- Musikaufnahmen analysieren, Töne heraushören und in einen musikalischen Kontext einzuordnen', 'breadcrumb': {'@id': 'https://startupvalley.news/de/klangio/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://startupvalley.news/de/klangio/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://startupvalley.news/de/klangio/#primaryimage', 'url': 'https://startupvalley.news/de/wp-content/uploads/sites/2/2021/11/klangio.jpg', 'contentUrl': 'https://startupvalley.news/de/wp-content/uploads/sites/2/2021/11/klangio.jpg', 'width': 1200, 'height': 675, 'caption': 'klangio'}, {'@type': 'BreadcrumbList', '@id': 'https://startupvalley.news/de/klangio/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://startupvalley.news/de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Perfekt ist das Gegenteil von Gut'}]}, {'@type': 'WebSite', '@id': 'https://startupvalley.news/de/#website', 'url': 'https://startupvalley.news/de/', 'name': 'Startups, Gründer, Web3, NFT, Krypto & Metaverse', 'description': 'StartupValley', 'publisher': {'@id': 'https://startupvalley.news/de/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://startupvalley.news/de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Organization', '@id': 'https://startupvalley.news/de/#organization', 'name': 'StartupValley Media', 'url': 'https://startupvalley.news/de/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://startupvalley.news/de/#/schema/logo/image/', 'url': 'https://startupvalley.news/de/wp-content/uploads/sites/2/2020/12/StartupValley-LOGO-neu-retina.png', 'contentUrl': 'https://startupvalley.news/de/wp-content/uploads/sites/2/2020/12/StartupValley-LOGO-neu-retina.png', 'width': 460, 'height': 180, 'caption': 'StartupValley Media'}, 'image': {'@id': 'https://startupvalley.news/de/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/startupvalleynews', 'https://x.com/startup_valley', 'https://www.twitch.tv/startupvalley', 'https://www.linkedin.com/company/startupvalleymagazine', 'https://www.instagram.com/startup_valley']}, {'@type': 'Person', '@id': 'https://startupvalley.news/de/#/schema/person/a3e5761b960e16f2555479f2a17b2d08', 'name': 'Quepatagra', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://startupvalley.news/de/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/f0365a0f162360d93d83f11c8f29c28c?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/f0365a0f162360d93d83f11c8f29c28c?s=96&d=mm&r=g', 'caption': 'Quepatagra'}, 'sameAs': ['https://startupvalley.news'], 'url': 'https://startupvalley.news/de/author/quepatagra/'}]",N/A,N/A,"
+
+
+
+
+
+
+
+
+StartGründerTalkPerfekt ist das Gegenteil von Gut
+
+
+GründerTalk
+Perfekt ist das Gegenteil von Gut
+
+By Quepatagra
+16. November 2021 
+
+
+
+
+Teilen
+FacebookTwitterPinterestWhatsAppLinkedinReddItEmailTelegram
+
+
+
+
+
+
+
+
+Klangio: Audio und Musik Analyse mit künstlicher Intelligenz
+Stellen Sie sich und das Startup Klangio doch kurz unseren Lesern vor!
+Bei Klangio beschäftigen wir uns mit der automatisierten Musiktranskription und wie wir mit Künstlicher Intelligenz das Leben von Musizierenden erleichtern können.
+Mit der Klangio KI haben wir ein System entwickelt, mit dem sich vollautomatisch Notenblätter aus Audiodaten generieren lassen und mit Piano2Notes stellen wir für Musizierende weltweit ein Tool zur Verfügung, das speziell für die Transkription von Klavierstücken geeignet ist.
+Wir sind Sebastian Murgul und Alexander Lüngen, die beiden Gründer von Klangio.
+
+Sebastian hat am Karlsruhe Institut für Technologie (KIT) Elektrotechnik im Master mit Schwerpunkt Signalverarbeitung studiert und promoviert dort derzeit zum Thema der Musikanalyse. Alexander hat ebenfalls am KIT studiert und seinen Informatik-Master abgeschlossen. Noch während dem Studium haben wir uns über einen gemeinsamen Freund kennengelernt und arbeiten seitdem zusammen an unserer Vision.
+Warum haben Sie sich entschieden, ein Unternehmen zu gründen?
+Es hat sich schon früh das Bauchgefühl breit gemacht, das die Klangio KI kein Hobbyprojekt bleiben soll, sonder das von der Technologie mehr Musizierende weltweit davon profitieren könnten. So stand für uns die Frage im Raum: “Sind Musizierende bereit ein KI basiertes Transkriptionssystem zu benutzen? Und wenn Ja, wie muss dieses gestaltet werden?” Einen ersten Prototypen haben wir mit “Melody Scanner” 2017 als Webanwendung  einfach mal veröffentlicht, damals noch komplett kostenlos.
+Die ersten Kunden haben sich schnell gefunden und waren zu unserer Überraschung ziemlich begeistert. Wir haben viel konstruktives Feedback und Verbesserungswünsche erhalten. Einige Nutzer haben uns sogar empfohlen damit Geld zu verdienen, was uns letztendlich den Ausschlag dafür gab, das Unternehmen Melody Scanner UG zu gründen.
+Neben dem Studium haben wir dann, angespornt durch die positive Rückmeldung der Nutzer, weiter an dem Prototypen und dem KI-System gearbeitet. Nach erfolgreichem Studienabschluss von uns beiden hatten wir dann auch die Finanziellen Mittel zusammen um letztendlich die Klangio GmbH zu gründen.
+Welche Vision steckt hinter Klangio?
+Künstliche Intelligenz für die Musikwelt zu etablieren und Musizierenden weltweit die Arbeit erleichtern, das ist unsere Vision. KI soll Seite an Seite mit Musizierenden für mehr Freiheit in der Kreativität sorgen. Um das zu erreichen möchten wir ein kleines Klangio-App-Universum schaffen, bei dem es gezielt Anwendungen für jedes Instrument geben wird, um Noten einfach und intuitiv aus Audio generieren zu lassen. 
+Von der Idee bis zum Start was waren bis jetzt die größten Herausforderungen und wie haben Sie sich finanziert?
+Eine der wesentlichen Herausforderungen für uns ist es mit Geduld und Ausdauer an unserer Vision weiter zu arbeiten. Mit der Musiktranskription sind wir mit einem unter Startups exotischen Thema unterwegs. Um während und nach dem Studium weiter an unserer Vision arbeiten zu können, haben wir seit 2020 gebootstrappet. Da die Umsätze mit unserem MVP noch nicht unseren Unterhalt decken, haben wir uns mit Projektarbeit noch ein wenig dazu verdient. 
+
+Wer ist die Zielgruppe von Klangio?
+Zur Zielgruppe unserer Apps gehören Musizierende weltweit. Im wesentlichen sprechen wir Hobbymusizierende an, aber auch Musiklehrer*innen, Komponist*innen und Songwriter*innen zählen wir zu unseren Kunden.
+Wie funktioniert Klangio? Wo liegen die Vorteile? Was unterscheidet Sie von anderen Anbietern?
+Die Magie hinter unseren Apps ist unser selbst entwickeltes Klangio KI-System. Dieses ist in der Lage automatisiert Musikaufnahmen zu analysieren, Töne herauszuhören und in einen musikalischen Kontext einzuordnen. Besonders wichtig ist uns dabei les- und spielbare Notenblätter zu erzeugen, die dann in Form von PDF-Dateien oder speziellen digitalen Musikformaten exportiert werden können.
+Das Klangio KI-System benötigt nur wenige Minuten für eine Transkription und erfordert kein musikalisches Vorwissen bei den Nutzern.
+Klangio, wo geht der Weg hin? Wo sehen Sie sich in fünf Jahren?
+Wir haben zunächst mal vor unser App-Universum weiter auszubauen und für weitere Instrumente bspw. Guitare dedizierte Anwendungen bereit zu stellen. Auch die Transkription der Melody aus einem beliebigen Song ist ein interessanter Anwendungsfall. Ein Tool für professionelle Anwender steht ebenso auf unserer Agenda wie die Kooperation mit großen Musikhäusern und internationalen Künstler*innen. In 5 Jahren wollen wir uns einen festen Platz im Alltag von Musizierenden sichern.
+Zum Schluss: Welche 3 Tipps würden Sie angehenden Gründern mit auf den Weg geben?
+Geht möglichst früh an Kunden mit eurem Produkt/eurem Service raus um schnell Feedback zu erhalten.Perfekt ist das Gegenteil von Gut, in kurzer Zeit können sich die Umstände verändern und eine Gute Lösung zu Perfektionieren ist plötzlich überflüssigEinfach mal machen, statt alles zu zerdenken
+Wir bedanken uns bei  Alexander Lüngen und Sebastian Murgul für das Interview
+Aussagen des Autors und des Interviewpartners geben nicht unbedingt die Meinung der Redaktion und des Verlags wieder
+
+
+
+
+
+
+Teilen
+FacebookTwitterPinterestWhatsAppLinkedinReddItEmailTelegram
+
+
+
+
+Vorheriger ArtikelHolt euch Leute mit dem gleichen Mindset an BordNächster ArtikelKeine Angst vor „das gibt’s doch schon“
+
+Quepatagrahttps://startupvalley.news
+
+
+
+
+WhatsApp Newsletter
+NEU: Die wichtigsten News des Tages, im StartupValley WhatsApp Newsletter!
+
+
+
+Zum WhatsApp Newsletter!
+
+
+
+
+
+
+
+
+
+
+
+
+Bitte dieses Feld leer lassenStartupValley Newsletter
+Erhalte regelmäßig die wichtigsten internationalen Startup-News in dein Postfach!
+eMail *
+
+
+Prüfe deinen Posteingang oder Spam-Ordner, um dein Abonnement zu bestätigen.
+        
+ 
+
+
+
+
+
+- Advertisement -
+
+
+
+- Advertisement -
+
+
+- Advertisment -
+
+- Advertisment -
+
+Neueste Beiträge
+
+
+
+ 
+
+Wie verändert dieser Schmuck unser tägliches Leben?
+
+
+11. Juli 2024 
+
+
+
+
+
+
+
+ 
+
+Warum innovative Finanzierungslösungen der Schlüssel zum Immobilien-Erfolg sind
+
+
+11. Juli 2024 
+
+
+
+
+
+
+
+ 
+
+Was genau bedeutet SCORM und wie funktioniert dieses Format? 
+
+
+11. Juli 2024 
+
+
+
+
+
+
+
+ 
+
+Wie gelingt kleinen Firmen die digitale Selbstständigkeit?
+
+
+10. Juli 2024 
+
+
+
+
+
+
+
+ 
+
+Wie verändert eine Kindheitsliebe den Pferdemarkt?
+
+
+10. Juli 2024 
+
+
+
+
+
+
+
+ 
+
+Welche Vorteile bieten moderne Technologien für Ihr Start-up?
+
+
+10. Juli 2024 
+
+
+
+
+
+
+
+ 
+
+Wie verändert diese Marke die Outdoor-Bekleidung für Frauen?
+
+
+9. Juli 2024 
+
+
+
+
+
+- Advertisement -
+
+
+
+
+Das könnte dir auch gefallen!
+
+
+
+
+ 
+Wie verändert dieser Schmuck unser tägliches Leben?
+
+Sabine Elsässer -  11. Juli 2024 0 
+
+ 
+
+
+
+ 
+Warum innovative Finanzierungslösungen der Schlüssel zum Immobilien-Erfolg sind
+
+StartupValley -  11. Juli 2024 0 
+
+ 
+
+
+
+ 
+Was genau bedeutet SCORM und wie funktioniert dieses Format? 
+
+StartupValley -  11. Juli 2024 0 
+
+ 
+
+
+
+
+ 
+Wie gelingt kleinen Firmen die digitale Selbstständigkeit?
+
+Sabine Elsässer -  10. Juli 2024 0 
+
+ 
+
+
+
+ 
+Wie verändert eine Kindheitsliebe den Pferdemarkt?
+
+StartupValley -  10. Juli 2024 0 
+
+ 
+
+
+
+ 
+Welche Vorteile bieten moderne Technologien für Ihr Start-up?
+
+StartupValley -  10. Juli 2024 0 
+
+ 
+
+
+
+
+ 
+Wie verändert diese Marke die Outdoor-Bekleidung für Frauen?
+
+Sabine Elsässer -  9. Juli 2024 0 
+
+ 
+
+
+
+ 
+Wie kann Hardware-Miete Ihr Unternehmen flexibler machen?
+
+StartupValley -  9. Juli 2024 0 
+
+ 
+
+
+
+ 
+Wie diese Preisverleihung die Zukunft der Nachhaltigkeit verändert!
+
+StartupValley -  9. Juli 2024 0 
+
+ 
+
+
+
+
+ 
+Beiräte in Start-Ups… oft unterschätzt
+
+StartupValley -  9. Juli 2024 0 
+
+ 
+
+
+
+ 
+Wie verändern neue Ansätze unser Arbeitsumfeld?
+
+StartupValley -  8. Juli 2024 0 
+
+ 
+
+
+
+ 
+Wie schafft es dieses Start-up, den Weinmarkt aufzumischen?
+
+StartupValley -  8. Juli 2024 0 
+
+ 
+
+
+
+
+ 
+Welche Strategien helfen, Kunden langfristig zu begeistern?
+
+StartupValley -  8. Juli 2024 0 
+
+ 
+
+
+
+ 
+Wie macht dieses Start-up die Sanierung von Gebäuden einfacher und effizienter?
+
+StartupValley -  5. Juli 2024 0 
+
+ 
+
+
+
+ 
+Was ist das Besondere an der Idee hinter dieser neuen Plattform?
+
+StartupValley -  5. Juli 2024 0 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bitte dieses Feld leer lassenStartupValley Newsletter
+Erhalte regelmäßig die wichtigsten internationalen Startup-News in dein Postfach!
+eMail *
+
+
+Prüfe deinen Posteingang oder Spam-Ordner, um dein Abonnement zu bestätigen.
+        
+ 
+
+
+
+
+
+  ",BreadcrumbList,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://startupvalley.news/de/', 'name': 'Start'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://startupvalley.news/de/category/gruendertalk/', 'name': 'GründerTalk'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': '', 'name': 'Perfekt ist das Gegenteil von Gut'}}]",,,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbGl2ZS5oYW5kZWxzYmxhdHQuY29tL2Vpbi1zbWFydC1ob3NwaXRhbC1pc3QtbWVoci1hbHMtbnVyLXBhcGllcmxvcy_SAQA?oc=5,Ein Smart Hospital ist mehr als nur papierlos - Handelsblatt,2021-11-16,Handelsblatt,https://live.handelsblatt.com,N/A,N/A,"von Peter Vullinghs, CEO, Philips GmbH Market DACH Krankenhäuser übernehmen eine zentrale Rolle in der Gesundheitsversorgung. Wirtschaftlich sind sie jedoch vielerorts angeschlagen. Laut Krankenhaus Rating Report 2019 ist fast jede fünfte Klinik in Deutschland von der Insolvenz bedroht. Gleichzeitig macht ihnen der immer dramatischer werdende Personalmangel zu schaffen. In dieser Situation bietet die Digitalisierung wichtige Möglichkeiten. Mit...",N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#article', 'isPartOf': {'@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/'}, 'author': {'name': 'hetty.faatz@extern.euroforum.com', '@id': 'https://live.handelsblatt.com/#/schema/person/c4703083ee5a8d6f6742db99ad62067b'}, 'headline': 'Ein Smart Hospital ist mehr als nur papierlos', 'datePublished': '2019-10-01T06:45:00+00:00', 'dateModified': '2021-11-16T07:46:13+00:00', 'mainEntityOfPage': {'@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/'}, 'wordCount': 343, 'publisher': {'@id': 'https://live.handelsblatt.com/#organization'}, 'image': {'@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#primaryimage'}, 'thumbnailUrl': 'https://149848515.v2.pressablecdn.com/wp-content/uploads/2021/11/Infografik_scr03_print.jpg', 'inLanguage': 'de-DE'}, {'@type': 'WebPage', '@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/', 'url': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/', 'name': 'Ein Smart Hospital ist mehr als nur papierlos - Handelsblatt Live', 'isPartOf': {'@id': 'https://live.handelsblatt.com/#website'}, 'primaryImageOfPage': {'@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#primaryimage'}, 'image': {'@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#primaryimage'}, 'thumbnailUrl': 'https://149848515.v2.pressablecdn.com/wp-content/uploads/2021/11/Infografik_scr03_print.jpg', 'datePublished': '2019-10-01T06:45:00+00:00', 'dateModified': '2021-11-16T07:46:13+00:00', 'breadcrumb': {'@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#primaryimage', 'url': 'https://149848515.v2.pressablecdn.com/wp-content/uploads/2021/11/Infografik_scr03_print.jpg', 'contentUrl': 'https://149848515.v2.pressablecdn.com/wp-content/uploads/2021/11/Infografik_scr03_print.jpg', 'width': 800, 'height': 512}, {'@type': 'BreadcrumbList', '@id': 'https://live.handelsblatt.com/ein-smart-hospital-ist-mehr-als-nur-papierlos/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://live.handelsblatt.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Ein Smart Hospital ist mehr als nur papierlos'}]}, {'@type': 'WebSite', '@id': 'https://live.handelsblatt.com/#website', 'url': 'https://live.handelsblatt.com/', 'name': 'Handelsblatt Live', 'description': 'Die Plattform für Business Events', 'publisher': {'@id': 'https://live.handelsblatt.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://live.handelsblatt.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Organization', '@id': 'https://live.handelsblatt.com/#organization', 'name': 'Handelsblatt Live', 'url': 'https://live.handelsblatt.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://live.handelsblatt.com/#/schema/logo/image/', 'url': 'https://149848515.v2.pressablecdn.com/wp-content/uploads/2022/02/hb-live-og.png', 'contentUrl': 'https://149848515.v2.pressablecdn.com/wp-content/uploads/2022/02/hb-live-og.png', 'width': 1280, 'height': 630, 'caption': 'Handelsblatt Live'}, 'image': {'@id': 'https://live.handelsblatt.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://live.handelsblatt.com/#/schema/person/c4703083ee5a8d6f6742db99ad62067b', 'name': 'hetty.faatz@extern.euroforum.com', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://live.handelsblatt.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/526efb716088a80a91fdbe15819845b4?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/526efb716088a80a91fdbe15819845b4?s=96&d=mm&r=g', 'caption': 'hetty.faatz@extern.euroforum.com'}}]",N/A,N/A,"
+
+Ein Smart Hospital ist mehr als nur papierlos 
+16.11.2021 - 08:46 Uhr aktualisiert 
+
+
+
+ 
+
+
+
+von Peter Vullinghs, CEO, Philips GmbH Market DACH
+Krankenhäuser übernehmen eine zentrale Rolle in der Gesundheitsversorgung. Wirtschaftlich sind sie jedoch vielerorts angeschlagen. Laut Krankenhaus Rating Report 2019 ist fast jede fünfte Klinik in Deutschland von der Insolvenz bedroht. Gleichzeitig macht ihnen der immer dramatischer werdende Personalmangel zu schaffen. In dieser Situation bietet die Digitalisierung wichtige Möglichkeiten. Mit papierlosem Arbeiten alleine ist es allerdings nicht getan.
+Ein Smart Hospital organisiert seine Abläufe intelligent um den Patienten herum und sichert so Qualität und Effizienz. Bei Philips sehen wir dafür die folgenden Faktoren als zentral an: Telemedizin muss konsequent eingesetzt werden, um Standorte miteinander zu vernetzen und Personal zu entlasten. Krankenhäuser brauchen eine IT-Infrastruktur, in der Informationen ungehindert fließen und nicht in Silos, wie einzelnen Abteilugen oder inkompatiblen Systemen, festhängen. Künstliche Intelligenz bietet das enorme Potential, Arbeitsschritte zu automatisieren, Analysen zu vereinfachen und klinische Entscheidungen zu unterstützen. Sie wird stärker und sehr granular in die Prozesse des Krankenhauses integriert werden. Ein effizientes Workflow-Management schafft Rahmenbedingungen für wirtschaftliches Arbeiten und trägt den Bedürfnissen von Patienten und Mitarbeitern in gleicher Weise Rechnung.
+Insgesamt werden Krankenhäuser Patienten zukünftig viel aktiver als bisher in die Behandlungsprozesse einbeziehen. Patient Engagement ist hier das Stichwort. Dafür werden Patienten schon vor dem Krankenhausaufenthalt über Apps oder Patientenportale mit relevanten Informationen versorgt. Auch die Einbeziehung von Angehörigen spielt eine große Rolle. Ziel ist es, den Besuch in einem Krankenhaus möglichst angst- und stressfrei zu gestalten und ein größtmögliches Maß an Selbst- bzw. Mitbestimmung zu ermöglichen.
+Insbesondere bei chronischen Erkrankungen hält ein Smart Hospital auch nach dem Krankenhausaufenthalt Kontakt zu seinen Patienten. Durch Gesundheitscoaching und telemedizinische Angebote können Krankenhäuser so im Netzwerk mit anderen Leistungserbringern die Verantwortung für Gesundheit der Bevölkerung in ihrer Region übernehmen. Für alle diese Aufgaben bietet Philips eine Vielzahl von Lösungen an, die gemeinsam mit unseren Kunden auf deren individuelle Digitalisierungsstrategie zugeschnitten werden.
+
+
+
+
+Unsere Event Empfehlungen
+
+
+
+
+
+ 
+
+
+        05.11.2024 (mehrtägig), Berlin    
+
+      Health 2024    
+
+    Frühbucherpreis verfügbar  
+
+Handelsblatt
+Jahrestagung
+ 
+ 
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

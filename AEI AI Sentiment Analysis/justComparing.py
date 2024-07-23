@@ -27,8 +27,8 @@ def compare_folders(folder1, folder2, remove_str):
     
     return unique_to_folder1, unique_to_folder2
 
-folder1 = '/Users/LindaSong/Desktop/macroed'
-folder2 = '/Users/LindaSong/Desktop/test 2 Fr fetched'
+folder1 = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/AEI AI Sentiment Analysis/To Translate'
+folder2 = '/Users/LindaSong/Desktop/done'
 remove_str = 'macro.csv'
 
 unique_to_folder1, unique_to_folder2 = compare_folders(folder1, folder2, remove_str)

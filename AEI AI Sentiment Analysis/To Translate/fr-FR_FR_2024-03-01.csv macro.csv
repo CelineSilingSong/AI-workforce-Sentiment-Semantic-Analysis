@@ -1,0 +1,2605 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,itemListElement,article:section,article:summary,article text,@graph,mainEntityOfPage,headline,articleBody,wordCount,datePublished,dateModified,author,publisher,articleSection,image,isAccessibleForFree,hasPart,isPartOf,Image,inLanguage,name,url
+https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5qb3VybmFsZHVuZXQuY29tL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUvMTUyODY3My1sZS1kZXZlbG9wcGVtZW50LWV0LWxlLWRlcGxvaWVtZW50LWRlLWwtaWEtc3VyLWxlcy1zdGF0aW9ucy1kZS10cmF2YWlsLXVuZS1yZXZvbHV0aW9uLWluY29udG91cm5hYmxlL9IBAA?oc=5,Le développement et le déploiement de l'IA sur les stations de travail : une révolution incontournable ? - JDN,2024-03-05,JDN,https://www.journaldunet.com,Les stations de travail évoluent indéniablement pour devenir des piliers essentiels à l'ère de l'intelligence artificielle.,N/A,Les stations de travail évoluent indéniablement pour devenir des piliers essentiels à l'ère de l'intelligence artificielle.,Les stations de travail évoluent indéniablement pour devenir des piliers essentiels à l'ère de l'intelligence artificielle.,http://schema.org,BreadcrumbList,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.journaldunet.com/', 'url': 'https://www.journaldunet.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.journaldunet.com/intelligence-artificielle/', 'url': 'https://www.journaldunet.com/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",N/A,N/A,"
+
+
+
+                                        Le développement et le déploiement de l'IA sur les stations de travail : une révolution incontournable ?                
+
+
+
+
+
+
+
+
+
+Chronique de Julien Vinel
+Dell Technologies
+
+
+
+
+
+                                 
+                                Mis à jour le 05/03/24 17:04
+
+
+
+
+
+
+
+
+Twitter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn 
+
+
+
+Facebook 
+
+
+
+Whatsapp 
+
+
+
+Email
+
+
+
+
+
+
+            Les stations de travail évoluent indéniablement pour devenir des piliers essentiels à l'ère de l'intelligence artificielle.        
+Elles ont la capacité de traiter des charges de travail complexes et variées dans des domaines tels que l’ingénierie de haut niveau, la médecine de pointe, l’architecture, l’analyse financière ou statistique, le design, ou encore le multimédia.
+Ce virage stratégique transcende les acteurs du marché, faisant écho à la nécessité croissante d'une polyvalence technologique et souligne l'évolution naturelle de ces dispositifs vers des centres d'innovation à part entière.
+ 
+La croissance généralisée des projets d'IA à l'échelle mondiale 
+L'évolution rapide des projets d'IA constitue le fer de lance d'une ère technologique nouvelle, façonnant la manière dont les entreprises et les organisations abordent l'innovation. À l'échelle mondiale, on assiste à une prolifération sans précédent des initiatives centrées sur l'IA, transcendant toutes les industries et redéfinissant les normes de performance.  La croissance mondiale des projets d'IA s'accompagne d'une diversité extraordinaire dans les applications et les objectifs. Des systèmes de recommandation alimentés par l'IA dans le e-commerce aux modèles prédictifs dans l'agriculture. Chaque secteur exploite les avantages de l'IA pour résoudre des défis spécifiques. Les stations de travail permettent ainsi une grande diversité d'innovations et offrent un espace où les idées convergent. 
+Selon IDC, un indicateur clé de cette dynamique est l'investissement substantiel, censé atteindre 34,6 milliards de dollars d'ici 2026, que les entreprises et les fournisseurs de services cloud s'apprêtent à faire sur des serveurs dédiés au développement et à l'exécution de l'IA. Ce chiffre représente près de 22% des dépenses totales mondiales du marché des serveurs. Cette croissance exponentielle s'inscrit dans un contexte où les stations de travail jouent un rôle central, transformant radicalement la manière dont les projets d'IA sont conceptualisés, développés et déployés. 
+
+Le déploiement de l'IA à la périphérie  
+Les recherches d'IDC illustrent une croissance fulgurante du déploiement de l'IA à la périphérie, avec des investissements atteignant 2,9 milliards de dollars en 2023, une valeur projetée à 6,9 milliards de dollars en 2026. Cette tendance ne se limite pas aux investissements généraux, mais englobe également les charges de travail de calcul haute performance (HPC), avec des prévisions indiquant près de 1 milliard de dollars d'investissements en 2027. La station de travail d'IA émerge comme une solution essentielle pour les domaines en plein essor, renforçant son rôle central dans l'évolution du paysage technologique. 
+Lorsque vient le moment de déployer un modèle d'IA sur une station de travail à la périphérie, il devient évident que l'utilisation de GPU haut de gamme n'est pas toujours nécessaire, contrairement aux exigences de développement d'IA. Des GPU plus légers, voire l'exclusivité de l'utilisation de CPU, peuvent suffire pour effectuer l'inférence, notamment avec l'intégration d'optimisations telles qu'Intel DL Boost. Les stations de travail sont idéalement adaptées à la périphérie, où des considérations cruciales telles que la consommation d'énergie, la mobilité et la gestion thermique exigent des niveaux de puissance adaptés. Cette flexibilité positionne les stations de travail comme des outils polyvalents, capables de répondre aux besoins variés du déploiement de l'IA à la périphérie. 
+
+Le rôle crucial des stations de travail dans les avancées de l'IA 
+Les stations de travail sont désormais incontournables dans le domaine de l'IA, offrant une polyvalence et une puissance de calcul qui les placent au cœur des avancées technologiques. Ces environnements décentralisés fournissent des laboratoires d'innovation agiles, agissant en tant que catalyseurs de l'innovation quotidienne pour les chercheurs, scientifiques et développeurs travaillant sur des modèles d'IA avant-gardistes, dans des domaines tels que l'AIOps, la gestion des risques liés aux catastrophes, la recherche médicale ou la surveillance du trafic. 
+Le développement et le déploiement de technologies d'IA sur les stations de travail offrent des avantages stratégiques et opérationnels significatifs. Stratégiquement, ces stations offrent une flexibilité accrue, avec notamment le traitement des données des centres de développement. Les processeurs haut de gamme et les GPU puissants intégrés aux stations permettent d'explorer des modèles d'IA complexes, favorisant l'itération rapide sur les prototypes.  
+D'un point de vue opérationnel, les stations fournissent une solution intégrée pour l'ensemble du processus de développement, de la préparation des données à l'entraînement du modèle et de son déploiement. Les performances, le stockage étendu et la mémoire conséquente permettent de manipuler efficacement de grandes quantités de données accélérant le cycle de développement. La capacité des stations de travail à effectuer des tâches d'inférence en production renforce leur utilité au-delà du développement, contribuant à une mise en œuvre rapide des solutions d'IA dans des environnements réels. Ainsi, les stations de travail deviennent des outils essentiels, offrant agilité stratégique et efficacité opérationnelle, positionnant les organisations à la pointe de l'innovation dans le domaine de l’intelligence artificielle. 
+Le développement et le déploiement des technologies d'IA sur les stations de travail ouvrent de nouvelles perspectives pour l'environnement professionnel. Ces avancées offrent des avantages considérables en termes d'amélioration de la productivité, de personnalisation des expériences de travail, d'optimisation des processus métier, d'analyse avancée des données, de renforcement de la sécurité et de développement de solutions sur mesure. L'adoption judicieuse de ces technologies est essentielle pour les entreprises qui souhaitent rester compétitives et innovantes dans un monde en constante évolution.  
+
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZW5jb21tdW4ubW9udHBlbGxpZXIuZnIvYXJ0aWNsZXMvMjAyNC0wMy0wMS1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLW1pc3Npb24tYWNjb21wbGllLXBvdXItbGEtcHJlbWllcmUtY29udmVudGlvbtIBAA?oc=5,Intelligence Artificielle : mission accomplie pour la première Convention citoyenne - En Commun - En Commun,2024-03-01,En Commun,https://encommun.montpellier.fr,"Permettre aux citoyens de s’emparer des enjeux liés à l’Intelligence Artificielle, à ses applications au service des habitants et du territoire, c’était tout l’enjeu de la Convention Citoyenne mise en place par la Métropole. Après trois mois de travail, cette convention, première du genre, vient de rédiger son avis qui sera présenté prochainement au Conseil de Métropole.",N/A,"Permettre aux citoyens de s’emparer des enjeux liés à l’Intelligence Artificielle, à ses applications au service des habitants et du territoire, c’était tout l’enjeu de la Convention Citoyenne mise en place par la Métropole. Après trois mois de travail, cette convention, première du genre, vient de rédiger son avis qui sera présenté prochainement au Conseil de Métropole.","Permettre aux citoyens de s’emparer des enjeux liés à l’Intelligence Artificielle, à ses applications au service des habitants et du territoire, c’était tout l’enjeu de la Convention Citoyenne mise en place par la Métropole. Après trois mois de travail, cette convention, première du genre, vient de rédiger son avis qui sera présenté prochainement au Conseil de Métropole.",,,,N/A,N/A,"
+Citoyenneté
+Intelligence Artificielle : mission accomplie pour la première Convention citoyenne
+
+
+01-03-24 - 09:00
+05-04-24 - 09:41
+
+ Imprimer
+
+
+Permettre aux citoyens de s’emparer des enjeux liés à l’Intelligence Artificielle, à ses applications au service des habitants et du territoire, c’était tout l’enjeu de la Convention Citoyenne mise en place par la Métropole. Après trois mois de travail, cette convention, première du genre, vient de rédiger son avis qui sera présenté prochainement au Conseil de Métropole.
+
+ 
+
+
+
+
+
+
+
+Les membres de la Convention citoyenne -  ©L. Severac
+
+
+
+
+
+
+
+
+
+
+
+Innovation
+Intelligence artificielle
+Démocratie - Citoyenneté
+Métropole
+Montpellier
+
+
+
+
+
+Temps de lecture : 5min 30s
+Écouter
+
+
+ 
+Trois mois de travail pour 40 habitants de la MétropolePremière expérience du genre menée sur le territoire français, la Convention citoyenne sur l’Intelligence Artificielle initiée par la Métropole de Montpellier a tenu sa dernière réunion jeudi 1er février. Une séance organisée en salle du conseil municipal de l’hôtel de Ville et réunissant les représentants de cette instance composée d’une quarantaine de citoyens, recrutés par tirage au sort. Avec au programme, la dernière validation de l’avis rédigé sur les usages souhaités de l’IA au service des habitants et du territoire, fruit d’un travail mené sur plusieurs week-ends, mêlant formations et rencontres, avec l’appui d’un comité d’expert et de grands témoins, au rang desquels figuraient le mathématicien Cédric Villani, auteur d’une mission parlementaire sur l’Intelligence Artificielle. Cet avis éclairé va être transmis prochainement au conseil de Métropole et nourrira la stratégie Données et IA en cours de développement qui sera finalisée en juin.
+
+
+ 
+
+
+
+
+
+
+10 novembre - séance inaugurale en présence de Michaël Delafosse, président de la Métropole et Cédric Villani - ©F. Damerdji
+
+
+
+
+
+
+Débats, rencontres, ateliers : pour permettre aux panel citoyen de rendre un avis éclairé - ©F. Damerdji
+
+
+
+
+
+
+
+
+
+01
+
+
+
+
+
+ 
+10 novembre - séance inaugurale en présence de Michaël Delafosse, président de la Métropole et Cédric Villani - ©F. Damerdji
+
+
+
+
+
+ 
+Débats, rencontres, ateliers : pour permettre aux panel citoyen de rendre un avis éclairé - ©F. Damerdji
+
+
+
+
+
+
+
+
+Précédent
+
+
+Pause
+
+
+Suivant
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Pour le déploiement d'I.A. publique de confiance au service du territoire et des habitantsDécidée par Michaël Delafosse en juin 2023, cette convention citoyenne se sera réunie le temps de trois week-ends, entre le 10 novembre 2023 et le 20 janvier 2024. Elle a rassemblé à parité égale, hommes et femmes de tous horizons et de tous âges (le plus jeune avait 18 ans, le plus âgé 76 ans) et mêlé débats, rencontres et temps d’ateliers. Des sujets divers ont été abordés autour de l’impact et des enjeux de l’Intelligence Artificielle, notamment en terme d’emploi, d’environnement, de sécurité, de service public…participer.montpellier.fr
+
+
+ 
+
+
+
+
+
+
+
+ ©Métropole de Montpellier
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+Anne Noyer Burdloff, 34 ansCouturière, auto-entrepreneur« La vision du citoyen a été prise en compte »« Je trouvais le sujet très intéressant. J’avais un avis assez neutre au départ lorsque j’ai accepté de prendre part au Conseil citoyen. Pour moi, une I.A., c’est un outil et tout dépend comment il va être utilisé. Et c’est là que le débat est devenu intéressant, en parlant d’éthique, d’impact, d’application concrète… Certaines thématiques nous étaient suggérées, mais d’autres questions ont émergé progressivement. Et c’est vraiment la vision du citoyen qui a été prise en compte dans le cadre du Conseil citoyen et dans l’avis final que nous allons présenter. Les deux points qui me tenaient à cœur concernaient la mise en place d’un comité d’éthique, pour veiller à des usages de l’I.A. respectueux de la vie des citoyens et de ses utilisateurs. Et aussi à garantir un impact environnemental maîtrisé. »
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+Fabrice Bourrier, 56 ansProfesseur de physique-chimie« Faire partie d’un comité de suivi »« Le plus surprenant en fin de compte, c’est que les 40 membres du Conseil citoyen aient réussi à se mettre d’accord sur des points essentiels. Nous étions tous à peu près vierges sur le domaine. Moi j’avais entendu parler de Chat GPT, mais c’est tout. Et à partir de là, nous avons pu échanger avec des experts qui nous ont apporté des informations synthétiques, claires, neutres, pour nous permettre de formuler nos propres opinions, les thématiques sur lesquelles on souhaitait insister. Je suis préoccupé bien sûr sur l’impact environnemental des I.A. et les questions liées à la sécurité. J’attends maintenant avec impatience de voir comment notre travail va être repris par la Métropole, en partie ? En totalité ? J’aimerais beaucoup en tout cas faire partie d’un comité de suivi. » 
+
+
+
+
+
+
+
+
+
+
+
+Calendrier10-11 novembre 2023 : séance inaugurale en présence de Michaël Delafosse, maire de Montpellier et président de la Métropole ; suivi du premier week-end de réflexion et d’échanges, avec notamment un débat animé par Cédric Villani8-9 décembre 2023 : 2e week-end de travail, en présence d’experts et témoins (dont Juliette Fropier, chef de projet intelligence artificielle et transition écologique, ministère Écologie Énergie Territoires ; Sandrine Mathon, spécialiste de droit de l’informatique à Toulouse ; Stéphanie Portier, directrice générale déléguée à la qualité des services à la population à la Ville et Métropole de Montpellier.19-20 janvier 2024 : 3e week-end de travail et sprint d’écriture pour la rédaction de l’avis de la convention citoyenne sur l’IA au service des habitants et du territoire. 1er février 2024 : soirée de validation de la version finale, désignation des membres chargés d’en rapporter le contenu devant le Conseil de Métropole. 
+
+
+
+
+
+
+
+
+
+Le Comité d’expertsAfin d’accompagner les membres de la Convention Citoyenne et pour veiller à son indépendance, un comité d’experts et de garants a été désigné :Cédric Villani : enseignant-chercheur à l’Université de Lyon. Titulaire de la médaille Fields (2010), ancien directeur de l’Institut Poincarré.Anne Laurent : vice-présidente déléguée à la science ouverte et aux données de la recherche de l’Université de Montpellier (ISDM), professeur des universités en informatique dans les domaines des bases de données et de l’intelligence artificielleGilles Babinet : président du Conseil national du Numérique (CNNum), professeur à Science Po Paris (« Numérique et politiques publiques ») et président de Digital Champion de la France auprès de la Commission européenneEmmanuelle Rial-Sebbag : responsable de l’éthique – EkitiaBertrand Monthubert : président d’EkitiaArnault Ioualalen : président directeur général de l’entreprise Numals
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Autour de Manu Reynaud, adjoint au maire délégué à la Ville numérique et Séverine Saint-Martin, adjointe au Renouveau démocratique et à l'Innovation sociale, les membres du Conseil Citoyen pour leur dernière réunion à l'hôtel de Ville -  ©S.M.
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vaWF0cmFuc2h1bWFuaXNtZS5jb20vMjAyNC8wMy8wNS9qcG1vcmdhbi11bmUtaWEtcmVkdWl0LWxlLXRyYXZhaWwtbWFudWVsLWRlLTkwL9IBXWh0dHBzOi8vaWF0cmFuc2h1bWFuaXNtZS5jb20vMjAyNC8wMy8wNS9qcG1vcmdhbi11bmUtaWEtcmVkdWl0LWxlLXRyYXZhaWwtbWFudWVsLWRlLTkwLz9hbXA9MQ?oc=5,JPMorgan : une IA réduit le travail manuel de 90% - Transhumanisme et intelligence artificielle,2024-03-05,Transhumanisme et intelligence artificielle,https://iatranshumanisme.com,"La révolution de l'intelligence artificielle chez JPMorgan : Comment le logiciel de gestion des flux de trésorerie réduit le travail manuel de près de 90% Dans le monde de la finance, JPMorgan fait un pas de géant vers l'avenir avec son outil révolutionnaire Cash Flow Intelligence, alimenté par","Cash Flow Intelligence,JPMorgan ,IA ,travail manuel","La révolution de l'intelligence artificielle chez JPMorgan : Comment le logiciel de gestion des flux de trésorerie réduit le travail manuel de près de 90% Dans le monde de la finance, JPM","La révolution de l'intelligence artificielle chez JPMorgan : Comment le logiciel de gestion des flux de trésorerie réduit le travail manuel de près de 90% Dans le monde de la finance, JPMorgan fait un pas de géant vers l'avenir avec son outil révolutionnaire Cash Flow",https://schema.org,,,Disruption Hausse du chômage,N/A,"JPMorgan : une IA réduit le travail manuel de 90%
+
+
+Jaesa			
+
+
+
+
+05/03/2024				
+
+ Leave a CommentLa révolution de l’intelligence artificielle chez JPMorgan : Comment le logiciel de gestion des flux de trésorerie réduit le travail manuel de près de 90%Dans le monde de la finance, JPMorgan fait un pas de géant vers l’avenir avec son outil révolutionnaire Cash Flow Intelligence, alimenté par l’intelligence artificielle. Ce logiciel de gestion des flux de trésorerie a permis de réduire de manière significative le travail manuel de près de 90 % de certains clients de la banque, ouvrant ainsi la voie à une nouvelle ère de l’automatisation.Lancé l’année dernière, Cash Flow Intelligence a été conçu pour permettre aux trésoreries d’entreprises d’analyser et de prévoir les flux de trésorerie grâce à des algorithmes d’intelligence artificielle sophistiqués. Selon Bloomberg, cet outil a suscité un énorme intérêt de la part des clients de JPMorgan, démontrant ainsi son impact positif sur les opérations financières des entreprises.Avec environ 2 500 clients utilisant déjà cet outil, JPMorgan se rapproche de la possibilité de facturer ce service. Bien que la date de disponibilité de Cash Flow Intelligence pour un abonnement mensuel ne soit pas encore claire, cette avancée marque une étape majeure dans l’adoption de technologies innovantes dans le secteur financier.LIRE AUSSI   Une IA a réalisé 360 000 heures de travail en quelques secondesJPMorgan © Thomas BelknapDerrière le développement de cet outil révolutionnaire se trouvent plus de 150 data scientists et ingénieurs travaillant sans relâche pour affiner les solutions d’apprentissage automatique de la banque. Cette équipe a pour objectif de perfectionner Cash Flow Intelligence afin de maximiser son impact et d’optimiser les processus financiers pour les clients de JPMorgan.En novembre dernier, JPMorgan a révélé que l’IA avait déjà commencé à générer des revenus pour la banque, avec un objectif ambitieux de produire 1 milliard de dollars de « valeur commerciale » entièrement grâce à l’IA d’ici 2023. Ce chiffre a même été revu à la hausse, passant à 1,5 milliard de dollars lors de la journée des investisseurs en mai, selon Bloomberg.Cette avancée vers une utilisation plus étendue de l’intelligence artificielle dans le secteur financier souligne l’engagement de JPMorgan à rester à la pointe de l’innovation technologique. Alors que le potentiel de l’IA pour transformer les opérations bancaires est indéniable, il est essentiel de rester conscient des défis et des risques associés à cette technologie émergente.Le PDG de JPMorgan, Jamie Dimon, s’est montré optimiste quant à l’avenir de l’IA pour accroître la productivité tout en réduisant les coûts et a prédit qu’elle pourrait conduire à une semaine de travail de 3,5 jours.Articles similairesJPMorgan : Les nouveaux employés recevront une formation en IAJPMorgan intègre l'IA dans ses opérations et ses programmes de formation, soulignant ainsi la façon dont l'IA est appelée à transformer l'avenir de l'entreprise. JPMorgan offre une formation rapide en ingénierie à tous ses nouveaux employés afin de les préparer à l'avenir de l'IA, soulignant ainsi l'importance croissante de cette…L’intelligence artificielle remplace des emplois chez OnclusiveL'entreprise Onclusive, basée à Courbevoie dans les Hauts-de-Seine, a annoncé récemment son intention de mettre en place un plan social sans précédent en France. Spécialisée dans la veille médiatique, cette entreprise internationale prévoit de licencier 217 employés sur un total de 380 d'ici juin 2024. Ces emplois seront remplacés par…Une IA a réalisé 360 000 heures de travail en quelques secondesJPMorgan Chase & Co. est la plus grande banque aux États-Unis. C'est l'un des plus importants employeurs du secteur bancaire américain, avec plus de 240 000 employés desservant des millions de clients. Certains de ces employés sont des avocats et des agents de crédit qui passent un total de 360…------VOIR AUSSI Finternet : le système financier du futurLinkedIn dévoile de puissants outils d'IAL'assistant virtuel de Klarna a fait plonger…Bus autonomes de la RATP : Une révolution dans les…JPMorgan : Les nouveaux employés recevront une…Rafale F5 : Un bijou technologique en devenirFigure va accélérer le déploiement commercial des…
+ Disruption Hausse du chômage, Intelligence artificielle automatisation, banque, chomage, data scientist, destruction d'emplois, disparition d’emplois qualifiés, disruption, emplois, emplois automatisables, Intelligence artificielle, machines intelligentes, quatrième révolution industrielle, secteur bancaire
+
+","[{'@type': 'NewsArticle', '@id': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/#newsarticle', 'url': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/', 'headline': 'JPMorgan : une IA réduit le travail manuel de 90%', 'mainEntityOfPage': {'@type': 'WebPage', 'url': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/'}, 'datePublished': '2024-03-05T17:47:59+00:00', 'dateModified': '2024-03-05T17:48:42+00:00', 'author': {'@type': 'Person', '@id': 'https://iatranshumanisme.com/#person', 'url': 'https://iatranshumanisme.com/', 'name': 'Jaesa'}, 'publisher': {'@type': 'Organization', '@id': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/#Organization', 'url': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/', 'name': 'Intelligence Artificielle et Transhumanisme', 'logo': {'@type': 'ImageObject', 'url': 'https://iatranshumanisme.com/wp-content/uploads/2019/01/logo-iatranshumanisme-logo-rezize.jpg', '@id': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/#logo', 'width': '720', 'height': '509', 'caption': 'Intelligence Artificielle et Transhumanisme'}, 'description': 'Le transhumanisme est un mouvement radical qui favorise la transformation de la condition humaine. Le transhumanisme cherche à développer les possibilités techniques qui nous permettrons de surmonter nos limites biologiques par les progrès technologiques.', 'sameAs': ['https://www.facebook.com/iatranshumanisme', 'https://twitter.com/iatranshumanism', 'https://www.pinterest.fr/iatranshumanism/pins/', 'https://www.youtube.com/c/IATranshumanisme']}, 'keywords': 'Cash Flow Intelligence,JPMorgan ,IA ,travail manuel'}, {'@type': 'BreadcrumbList', '@id': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/#breadcrumblist', 'itemListElement': [[{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://iatranshumanisme.com', 'name': 'Intelligence Artificielle et Transhumanisme'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://iatranshumanisme.com/category/disruption-hausse-du-chomage/', 'name': 'Disruption Hausse du chômage'}}, {'@type': 'ListItem', 'position': '3', 'item': {'@id': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/', 'name': 'JPMorgan : une IA réduit le travail manuel de 90%'}}], [{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://iatranshumanisme.com', 'name': 'Intelligence Artificielle et Transhumanisme'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://iatranshumanisme.com/category/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}, {'@type': 'ListItem', 'position': '3', 'item': {'@id': 'https://iatranshumanisme.com/2024/03/05/jpmorgan-une-ia-reduit-le-travail-manuel-de-90/', 'name': 'JPMorgan : une IA réduit le travail manuel de 90%'}}]]}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnZiby1mZWIuYmUvZnIvbm91dmVsbGVzL2xpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWV0LWxlcy1pbnRlcmltYWlyZXMtZGUtZGVtYWluL9IBAA?oc=5,L’intelligence artificielle et les intérimaires de demain - VBO FEB,2024-03-06,VBO FEB,https://www.vbo-feb.be,N/A,N/A,"L’utilisation de l’intelligence artificielle fait désormais partie intégrante de notre société et s’est frayé un chemin dans de nombreux secteurs. Nous observons que cette technologie innovante suscite un intérêt croissant également auprès du secteur de l’intérim. La vitesse à laquelle cette évolution se poursuivra est difficile à évaluer. Une chose est sûre : le sujet sera au centre des discussions sur l’emploi, la qualité des emplois et le bien-être des employés dans les années à venir. Ce constat a poussé Prévention et Intérim, le service central de prévention pour le secteur du travail intérimaire qui œuvre sans relâche depuis 25 ans pour la sécurité et la santé des intérimaires, à choisir l’intelligence artificielle comme thématique centrale de son événement organisé le 28 février à l’occasion de son anniversaire. Dans quelle mesure les lieux de travail dans lesquels l’intelligence artificielle a fait ou fera sa place sont-ils des environnements sûrs et sains pour les salariés et les intérimaires ? Aujourd’hui, les intérimaires et les salariés ont-ils connaissance de l’impact potentiel de l’IA sur le lieu de travail ? Est-il possible que certains ne retrouvent jamais un emploi ? Devons-‑nous adopter ou repousser l’intelligence artificielle ? Ces lieux de travail évoluent-ils vers des environnements axés sur le...",N/A,https://schema.org,,,N/A,N/A,"
+
+
+
+
+
+
+VBO FEB - Verbond van Belgische Ondernemingen - Fédération des Entreprises de Belgique
+
+
+
+
+
+
+
+Changer la langue vers
+
+            fr
+        
+
+
+
+
+
+
+
+
+Chercher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fermer la navigation
+
+
+
+
+
+
+
+
+
+        Positions
+        
+
+
+
+
+
+
+
+        Actualités
+        
+
+
+
+
+
+
+
+        Regarder, lire & écouter
+        
+
+
+
+
+
+
+
+        Événements
+        
+
+
+
+
+
+
+
+        À propos de nous
+        
+
+
+
+
+
+
+
+        Contact
+        
+
+
+
+
+
+
+
+        Pour la presse
+        
+
+
+
+
+
+
+
+        Offres d’emploi
+        
+
+
+
+
+
+
+
+        Extranet
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VBO FEB - Verbond van Belgische Ondernemingen - Fédération des Entreprises de Belgique
+
+
+
+
+
+
+
+
+                                    Contact
+                                
+
+
+
+                                    Pour la presse
+                                
+
+
+
+                                    Offres d’emploi
+                                
+
+
+
+                                    Extranet
+                                
+
+
+
+
+
+Changer la langue vers
+
+            fr
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positions
+
+
+
+
+Actualités
+
+
+
+
+Regarder, lire & écouter
+
+
+
+
+Événements
+
+
+
+
+À propos de nous
+
+
+
+
+
+
+
+
+Chercher
+
+
+Chercher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ouvrir la navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Actualités
+•
+06 mars 2024
+
+L’intelligence artificielle et les intérimaires de demain
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+Actualités
+
+
+
+
+
+
+L’intelligence artificielle et les intérimaires de demain
+
+
+
+
+
+L’utilisation de l’intelligence artificielle fait désormais partie intégrante de notre société et s’est frayé un chemin dans de nombreux secteurs. Nous observons que cette technologie innovante suscite un intérêt croissant également auprès du secteur de l’intérim. La vitesse à laquelle cette évolution se poursuivra est difficile à évaluer. Une chose est sûre : le sujet sera au centre des discussions sur l’emploi, la qualité des emplois et le bien-être des employés dans les années à venir.
+Ce constat a poussé Prévention et Intérim, le service central de prévention pour le secteur du travail intérimaire qui œuvre sans relâche depuis 25 ans pour la sécurité et la santé des intérimaires, à choisir l’intelligence artificielle comme thématique centrale de son événement organisé le 28 février à l’occasion de son anniversaire.
+Dans quelle mesure les lieux de travail dans lesquels l’intelligence artificielle a fait ou fera sa place sont-ils des environnements sûrs et sains pour les salariés et les intérimaires ? Aujourd’hui, les intérimaires et les salariés ont-ils connaissance de l’impact potentiel de l’IA sur le lieu de travail ? Est-il possible que certains ne retrouvent jamais un emploi ? Devons-‑nous adopter ou repousser l’intelligence artificielle ? Ces lieux de travail évoluent-ils vers des environnements axés sur le contrôle et la performance ?
+Un éminent panel réunissant Filip Van den Abeele (spécialiste de la communication scientifique & auteur du livre « Technologie twijfelt ook »), Lode Lauwaert (professeur de philosophie de la technologie à la KU Leuven & auteur du livre primé « Wij, robots ») et Sébastien Bellin (ancien capitaine des Belgian Lions et survivant des attaques terroristes de 2016), et modéré par Frédéric Deborsu, a apporté des réponses et partagé ses idées. Les partenaires sociaux ont ensuite pu alimenter la réflexion.
+
+Kris De Meester (FEB) a plaidé en faveur d’une approche axée sur l’exploitation des opportunités qu’offrent la digitalisation et l’intelligence artificielle pour améliorer la productivité, la qualité des emplois, les conditions, le cadre et les relations de travail, ainsi que l’organisation du travail, sans fermer les yeux sur les défis et les risques que cela implique. Il a renvoyé à cet effet à l’accord-cadre des partenaires sociaux européens sur la numérisation, qui établit un cadre géré conjointement et orienté vers l’action permettant aux employeurs et aux travailleurs de saisir ces opportunités et de relever les défis de la transformation numérique dans le monde du travail. Quoi qu’il en soit, le dialogue social, qui s’inscrit dans un esprit de confiance mutuelle, apparaît ici comme un bien meilleur procédé que l’alternative proposant des mesures et des « solutions » imposées par la législation.
+
+
+
+Partagez cette page:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lire plus d'articles sur:
+
+
+                            Politique RH
+                        
+
+                            Sécurité et bien-être
+                        
+
+
+A propos des auteurs
+
+
+
+
+
+
+
+            Kris De Meester
+        
+Centre de compétence Emploi & Sécurité sociale
+
+
+
+
+
+
+
+
+
+
+
+Articles liés
+
+
+
+
+
+S’inscrire à la newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Presse
+                                    
+La carte de contrôle chômage temporaire digitale : un bon pas vers la simplification administrative
+28 juin 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Actualités
+                                    
+Rendre l’utilisation des contrats de travail électroniques plus conviviale
+19 juin 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Actualités
+                                    
+Fluvius désigné Ambassadeur RH 2024
+23 mai 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Actualités
+                                    
+Nouvel AR sur l’ergonomie au travail
+22 mai 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Actualités
+                                    
+International HR DAY – 20 May 2024 – two free webinars
+07 mai 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Actualités
+                                    
+Augmentation des forfaits d’intervention de l’employeur dans les frais de déplacements
+10 avril 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Presse
+                                    
+Federal Learning Account – Les employeurs ne soutiennent pas son déploiement
+29 mars 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Actualités
+                                    
+Heure d’été 2024
+20 mars 2024
+
+
+
+
+
+
+
+
+
+
+
+                                            Presse
+                                    
+Le Federal Learning Account est irréalisable — Les employeurs tirent la sonnette d’alarme
+05 mars 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Actualités dans votre boîte e-mail
+                    
+
+
+
+Découvrez chaque semaine nos dernières opinions, analyses et données socio-économiques
+
+
+
+Tous les jeudis dans votre boîte e-mail
+
+
+
+
+
+Restez informé
+
+
+
+                Vous pouvez également nous suivre sur
+                                    
+
+X (Twitter)
+
+                                            et
+                                                        
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regarder, lire & Ecouter
+
+
+Actualités
+
+
+
+Publications
+
+
+
+Positions
+
+
+
+Opinions
+
+
+
+Podcasts
+
+
+
+Pour la presse
+
+
+
+A propos de nous
+
+
+Contact
+
+
+
+Fédérations sectorielles
+
+
+
+Structure
+
+
+
+Offres d’emploi
+
+
+
+Ce que nous faisons
+
+
+
+Qui est qui
+
+
+
+Plus
+
+
+Pour les annonceurs
+
+
+
+Young Talent in Action
+
+
+
+BeVenue
+
+
+
+
+Nous suivre
+
+
+X (Twitter)
+
+
+
+LinkedIn
+
+
+
+Facebook
+
+
+
+Youtube
+
+
+
+
+
+
+
+
+
+
+
+        © 2024
+        
+
+        VBO FEB - Verbond van Belgische Ondernemingen - Fédération des Entreprises de Belgique  
+    
+
+
+
+                        Politique en matière de cookies
+                    
+
+
+
+
+
+                        Privacy policy
+                    
+
+
+
+
+
+                        Disclaimer
+                    
+
+
+
+
+
+                        Statuts FEB
+                    
+
+
+
+
+
+                        Conditions générales FEB asbl
+                    
+
+
+
+
+Préférances cookies
+
+
+
+
+
+
+
+
+
+
+
+        Artikel geprint op 09/07/2024 om 08:24. Voor de laatste versie bekijk https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/
+    
+
+","[{'@type': 'WebPage', '@id': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/', 'url': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/', 'name': 'L’intelligence artificielle et les intérimaires de demain - VBO FEB - Verbond van Belgische Ondernemingen - Fédération des Entreprises de Belgique', 'isPartOf': {'@id': 'https://www.vbo-feb.be/fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/#primaryimage'}, 'image': {'@id': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/#primaryimage'}, 'thumbnailUrl': 'https://www.vbo-feb.be/uploads/2024/03/PreventieInterim-1024x768.jpg', 'datePublished': '2024-03-06T10:14:20+00:00', 'dateModified': '2024-05-23T15:53:36+00:00', 'author': {'@id': 'https://www.vbo-feb.be/fr/#/schema/person/fe37df0d9db65bc1b2acedc1f426266f'}, 'breadcrumb': {'@id': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/#primaryimage', 'url': 'https://www.vbo-feb.be/uploads/2024/03/PreventieInterim-1024x768.jpg', 'contentUrl': 'https://www.vbo-feb.be/uploads/2024/03/PreventieInterim-1024x768.jpg'}, {'@type': 'BreadcrumbList', '@id': 'https://www.vbo-feb.be/fr/nouvelles/lintelligence-artificielle-et-les-interimaires-de-demain/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.vbo-feb.be/fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Actualités', 'item': 'https://www.vbo-feb.be/fr/actualites/'}, {'@type': 'ListItem', 'position': 3, 'name': 'L’intelligence artificielle et les intérimaires de demain'}]}, {'@type': 'WebSite', '@id': 'https://www.vbo-feb.be/fr/#website', 'url': 'https://www.vbo-feb.be/fr/', 'name': 'VBO FEB - Verbond van Belgische Ondernemingen - Fédération des Entreprises de Belgique', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.vbo-feb.be/fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://www.vbo-feb.be/fr/#/schema/person/fe37df0d9db65bc1b2acedc1f426266f', 'name': 'anne', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.vbo-feb.be/fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/3f50cec1241ec9231f5664f091f701b5?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/3f50cec1241ec9231f5664f091f701b5?s=96&d=mm&r=g', 'caption': 'anne'}, 'url': 'https://www.vbo-feb.be/fr/author/anne/'}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMijQFodHRwczovL2ljaS5yYWRpby1jYW5hZGEuY2Evb2hkaW8vcHJlbWllcmUvZW1pc3Npb25zL3Bhbm9yYW1hL3NlZ21lbnRzL2VudHJldnVlLzQ4Mjc5MS9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLXJlY3J1dGV1cnMtZGVtYW5kZXVycy1lbXBsb2nSAQA?oc=5,Comment utiliser l'IA pour optimiser sa recherche d'emploi? - Radio-Canada.ca,2024-03-05,Radio-Canada.ca,https://ici.radio-canada.ca,"Panorama | L'équipe de Panorama tente de démystifier l'intelligence artificielle pour que vous puissiez l'apprivoiser et l'utiliser pour améliorer la gestion de différentes tâches dans votre vie personnelle et professionnelle. Dans sa chronique, Jehan Laliberté, entrepreneur en intelligence artificielle, discute de l'utilisation de l'IA pour optimiser la recherche d'emploi.",N/A,"Panorama | L'équipe de Panorama tente de démystifier l'intelligence artificielle pour que vous puissiez l'apprivoiser et l'utiliser pour améliorer la gestion de différentes tâches dans votre vie personnelle et professionnelle. Dans sa chronique, Jehan Laliberté, entrepreneur en intelligence artificielle, discute de l'utilisation de l'IA pour optimiser la recherche d'emploi.",N/A,,,,N/A,N/A,"L'équipe de Panorama tente de démystifier l'intelligence artificielle pour que vous puissiez l'apprivoiser et l'utiliser pour améliorer la gestion de différentes tâches dans votre vie personnelle et professionnelle. Dans sa chronique, Jehan Laliberté, entrepreneur en intelligence artificielle, discute de l'utilisation de l'IA pour optimiser la recherche d'emploi.L’intégration de l’IA dans le processus de recherche d’emploi peut vraiment être un moyen efficace de maximiser ses chances de trouver son travail de rêve. C’est de plus en plus utilisé du côté des recruteurs, comme pour la rédaction d'offres d’emploi. Du côté des demandeurs d’emploi, l’utilisation est encore assez limitée. L’IA peut aider à gagner en efficacité dans toutes les étapes de la recherche d’emploi et les gens peuvent même l’utiliser pour négocier leur salaire, explique Jehan Laliberté.",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMi0AFodHRwczovL3d3dy5qb3VybmFsZHVuZXQuY29tL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUvMTUyODcwOS1jb250cmFkaWN0aW9ucy1kZXMtZnJhbmNhaXMtZmFjZS1hLWwtaWEtYWxvcnMtcXVlLTY3LWRlcy1wZXJzb25uZXMtaW50ZXJyb2dlZXMtY3JhaWduZW50LWRlLXBlcmRyZS1sZXVyLWVtcGxvaS01OS1hbnRpY2lwZW50LXVuZS12aWUtcGx1cy1mYWNpbGUv0gEA?oc=5,"Contradictions des Français face à l'IA : alors que 67 % des personnes interrogées craignent de perdre leur emploi, 59 ... - JDN",2024-03-05,JDN,https://www.journaldunet.com,La troisième étude mondiale MARCO sur les nouveaux comportements des consommateurs en 2024 vient d'être dévoilée.,N/A,La troisième étude mondiale MARCO sur les nouveaux comportements des consommateurs en 2024 vient d'être dévoilée.,La troisième étude mondiale MARCO sur les nouveaux comportements des consommateurs en 2024 vient d'être dévoilée.,http://schema.org,BreadcrumbList,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.journaldunet.com/', 'url': 'https://www.journaldunet.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.journaldunet.com/intelligence-artificielle/', 'url': 'https://www.journaldunet.com/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",N/A,N/A,"
+
+
+
+                                        Contradictions des Français face à l'IA : alors que 67 % des personnes interrogées craignent de perdre leur emploi, 59 % anticipent une vie plus facile                
+
+
+
+
+
+
+
+
+
+Chronique de Duncan Clark
+Canva
+
+
+
+
+
+                                 
+                                Mis à jour le 05/03/24 11:47
+
+
+
+
+
+
+
+
+Twitter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn 
+
+
+
+Facebook 
+
+
+
+Whatsapp 
+
+
+
+Email
+
+
+
+
+
+
+            La troisième étude mondiale MARCO sur les nouveaux comportements des consommateurs en 2024 vient d'être dévoilée.        
+
+72 % des consommateurs s'inquiètent des préjudices potentiels créés par l'IA.
+63% des consommateurs considèrent que l’IA représente une menace pour l’humanité.
+
+Dans une enquête inédite menée par l'agence globale de communication MARCO en partenariat avec le pionnier dans la recherche Cint, le paysage complexe des opinions et des appréhensions entourant l'IA apparaît au grand jour. Le 3e rapport mondial MARCO New Consumer Report 2024 révèle un contraste saisissant : les craintes liées à la perte d'emploi d'une part, et l'anticipation d'une vie plus facile d'autre part, soulignent la complexité des sentiments autour de l'intelligence artificielle. L'enquête a été réalisée de décembre 2023 à janvier 2024 auprès d'un échantillon total de 7 300 consommateurs de 11 pays différents (France, Brésil, Allemagne, Italie, Mexique, Maroc, Portugal, Afrique du Sud, Espagne, Royaume-Uni et États-Unis) en partenariat avec Cint qui a joué un rôle essentiel dans l'échantillonnage de l’étude et dans la collecte de données.
+Contrairement à l'enquête de l'année précédente, portant également sur les tendances des consommateurs, cette nouvelle édition marque un changement significatif en introduisant une enquête complète sur l'intelligence artificielle. Les résultats de cette année fournissent une analyse inédite de l'évolution de l’opinion des consommateurs à l'égard de cette technologie en constante évolution. 
+Les résultats soulignent les préoccupations prédominantes des consommateurs français. Une grande majorité de Français s’inquiète des préjudices potentiels créés par l'IA (72 %) par rapport à la moyenne mondiale (58%), ce qui souligne la nécessité d'un  déploiement responsable de l'IA afin de tenir compte des considérations éthiques.
+""L'IA peut sembler intimidante, et sa compréhension nécessite un apprentissage et une sensibilisation approfondis. Comprendre la technologie et ses implications permet aux individus de se familiariser et de dissiper la peur qui entoure l'IA. À mesure que nous avançons, encourager l’apprentissage deviendra essentiel afin de découvrir pleinement les possibilités offertes par l'IA pour améliorer nos vies"", souligne Didier Lagae, fondateur de MARCO.
+Malgré ces inquiétudes, une majorité de 59 % reste optimiste quant au potentiel de l'IA pour simplifier et améliorer leur vie. Cependant, les Français figurent parmi les plus prudents par rapport à la plupart des pays, témoignant ainsi d’une plus grande réticence à l’égard de l’intelligence artificielle.  
+La France n’est pas non plus très au fait des applications de l'IA, notamment dans la création d'images et la rédaction de textes, avec respectivement 41 % et 44 % des sondés connaissant ces utilisations, soit un peu moins que les moyennes mondiales respectivement de 58 % et 59 %. De plus, les sondés sont peu conscients de l’impact de l'IA sur l’ensemble des secteurs économiques, tels que l'agriculture et l'élevage (16 %), et sont encore moins nombreux (15 %) à citer d'autres applications. Ces chiffres reflètent une faible familiarité avec le rôle de l'IA dans les activités quotidiennes.
+Méthodologie :
+L’enquête vise à explorer et analyser les attitudes des consommateurs à l’égard de plusieurs thématiques dans 11 pays clés : la France, le Brésil, l’Allemagne, l’Italie, le Mexique, le Maroc, le Portugal, l’Afrique du Sud, l’Espagne, le Royaume-Uni et les États-Unis. L’étude a été menée de décembre 2023 à janvier 2024, offrant un aperçu complet des opinions contemporaines sur différents sujets.
+L’enquête a été menée sur un échantillon représentatif de plus de 7300 participants, représentant des pays aux paysages culturels, économiques et technologiques distincts. Cette sélection diversifiée vise à capturer une image globale du comportement des consommateurs à l'échelle mondiale.
+Un questionnaire structuré a été conçu pour couvrir différents aspects de la consommation de médias, de l'engagement envers les marques, des applications de l'IA, de la durabilité et de la culture du travail. Les participants ont été invités à répondre à des questions fermées et ouvertes, permettant ainsi une analyse quantitative et qualitative.
+ 
+
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5hbm5haGFyLmNvbS9hcmFiaWMvc2VjdGlvbi8yMzctJUQ4JUFEJUQ4JUIxJUQ4JUIxLSVEOSU4MSVEOSU4MyVEOCVCMSVEOSU4My8zMDg4NTEvSW50ZWxsaWdlbmNlLUFydGlmaWNpZWxsZS0tRW50cmUtVHJhbnNmb3JtYXRpb24tZXQtRGZpLXBvdXItbGUtRnV0dXItZHUtVHJhdmFpbNIBAA?oc=5,Intelligence Artificielle : Entre Transformation et Défi pour le Futur du Travail - annahar.com,2024-03-04,annahar.com,https://www.annahar.com,"Intelligence Artificielle : Entre Transformation et Défi pour le Futur du Travail
+","Intelligence,Artificielle,:,Entre,Transformation,et,Défi,pour,le,Futur,du,Travail
+","L'intelligence artificielle (IA) marque une transformation technologique sans précédent, avec le potentiel de booster la productivité et la croissance à une échelle globale. Cet enjeu majeur a été l'un des quatre thèmes centraux abordés...","L'intelligence artificielle (IA) marque une transformation technologique sans précédent, avec le potentiel de booster la productivité et la croissance à une échelle globale. Cet enjeu majeur a été l'un des quatre thèmes centraux abordés...",,,,N/A,N/A,"
+
+
+
+
+
+
+
+                                    الثلاثاء - 09 تموز 2024
+                                
+
+
+
+
+                                                تسجيل الدخول
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    اشترِك في نشرتنا الإخبارية
+                                
+
+                                        إشترك الأن
+                                    
+
+
+
+
+
+
+
+
+الجريدة
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										الرئيسية
+									
+
+
+
+										طوفان الأقصى
+									
+
+
+
+										أخبار
+									
+
+
+
+
+
+
+الأكثر قراءة
+
+
+لبنان
+
+
+أسرار الآلهة 
+
+
+العالم العربي
+
+
+دوليات
+
+
+كاريكاتور
+
+
+
+
+
+
+
+
+
+
+""هدهد"" حزب الله يحطّ في الجولان... والجولة الثالثة المرتقبة تكشف مفاجآت من منطقتي صفد وطبريّا  (فيديو)
+
+
+
+
+
+
+
+صباح ""النهار""- خريطة رئاسيّة للمعارضة ورياح تطوّرات مرتقبة... شينكر: تفاهم ""حزب الله"" وإسرائيل ممكن
+
+
+
+
+
+
+
+مسؤول يغادر المطعم
+
+
+
+
+
+
+
+العقار من 3 ملايين إلى 200 ألف
+
+
+
+
+
+
+
+
+
+
+										اقتصاد
+									
+
+
+
+
+
+
+أحدث الأخبار
+
+
+تقارير وتحاليل
+
+
+
+
+
+
+
+
+
+
+""الكازينو أونلاين"" والسوق السوداء: منافسة غير متكافئة...  
+خوري لـ""النهار"": نلاحقهم قضائياً ولكنّهم يتكاثرون كالفطر!
+
+
+
+
+
+
+
+10 شركات أوروبية تسيطر على قطاع صناعة الأمونيا الخضراء في العالم
+
+
+
+
+
+
+
+بين الطاقة و""المركزي"": أولوية  التيّار الكهربائي للمرافق الحيويّة الأساسيّة فقط
+
+
+
+
+
+
+
+مشروعا بايدن وترامب: رؤى متعارضة في مواجهة تحدّيات الاقتصاد الأميركي
+
+
+
+
+
+
+
+
+
+
+										مقالات
+									
+
+
+
+
+
+
+كتّاب النهار
+
+
+قضايا
+
+
+منبر
+
+
+آراء
+
+
+حرر فكرك
+
+
+
+
+
+
+
+
+
+
+البطريرك ودوره في الخروج من التكاذب الوطني
+
+
+
+
+
+
+
+انتهت صلاحية جامعة الدول العربية... أسِّسوا غيرها
+
+
+
+
+
+
+
+قدرة الخارج على التغيير تتضاءل؟
+
+
+
+
+
+
+
+لئلّا ""يطير"" لبنان""
+
+
+
+
+
+
+
+
+
+
+										صحة
+									
+
+
+
+										لايف ستايل
+									
+
+
+
+
+
+
+فن ومشاهير
+
+
+موضة وجمال
+
+
+طبخ
+
+
+سياحة وسفر
+
+
+حول العالم
+
+
+حياتنا
+
+
+
+
+
+
+
+
+
+
+وفاة الشاعر الكويتي يعقوب السبيعي
+
+
+
+
+
+
+
+نسليهان أتاغول وقادير دوغلو في ذكرى زواجهما: ""معاً إلى الأبد"" (صور)
+
+
+
+
+
+
+
+محمد عبده محاطاً بالمعجبين في بريطانيا (فيديو)
+
+
+
+
+
+
+
+بعد 18 عاماً... جزء ثانٍ من ""The Devil Wears Prada""
+
+
+
+
+
+
+
+
+
+
+										علوم وتكنولوجيا
+									
+
+
+
+										رياضة
+									
+
+
+
+										ألعاب
+									
+
+
+
+
+
+
+سودوكو - سهل
+
+
+سودوكو - متوسط
+
+
+سودوكو - صعب
+
+
+
+
+
+
+
+
+
+المزيد
++
+
+
+
+
+
+
+
+
+
+
+
+
+مطلوب 3 أحرف كحد أدنى
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+الذكاء الاصطناعي 
+
+
+
+ثقافة 
+
+
+
+بودكاست 
+
+
+مانشيت النهار  القصة وما فيا  صفحات من لبنان  عبالي أعرف ليه  
+
+
+التغيّر المناخي 
+
+
+
+أعداد خاصة 
+
+
+الرئيس الجديد  دليل حماية الصحافيين  لصحافة مصفّحة… ذكرى جبران الـ 18  #جريدة_بقلب_جريدة  #RedressLebanon  بلد عن ضائع  الحقيقة_البريئة#  #جمعيات_لبنان  #حرّروا_القضاء  #خلصنا_نزيف  مبدعون من لبنان  إنهيار  Blue Dawn  النهار_جامعة  جيشنا والقلم  خيط الأمل  #بدأ_العمل  بكرا_أحلى#  الكل في جريدة  
+
+
+#النهار_تتحقق 
+
+
+
+ملفات 
+
+
+كانّ 77  برلين 74  آسيا-أفريقيا  2023-2024  طوفان الأقصى  البندقية 80  صيف 2023  أزعور-فرنجية  كانّ 76  رمضان  الرياض-طهران  الذكاء الاصطناعي  الزلزال  22-23  كأس العالم 2022  نهاية عهد  البندقية 79  كانّ 75  رمضان 2022  بيتنا اللبناني  قصة امرأة  حرب أوكرانيا  بيروت الحب والدمع... والحرية  رمضان 2021  2020  جبران... 15 عاماً  Coronavirus  كورونا لبنان  انتخابات 2022  قسماً بالعشرة  وقفات النهار  
+
+
+جريدة النهار 
+
+
+
+الاسئلة المتداولة 
+
+
+
+خدمات 
+
+
+الوفيات   أسعار الاعلانات  إعلانات مبوبة  
+
+
+
+
+الجريدة
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmVjaG9zLWp1ZGljaWFpcmVzLmNvbS9hY3R1YWxpdGVzL3V0aWxpc2F0aW9uLWRlLWxpYS1wYXItbGVzLXNhbGFyaWVzLXVuLWVuY2FkcmVtZW50LW5lY2Vzc2FpcmUv0gEA?oc=5,Utilisation de l'IA par les salariés : un encadrement nécessaire - Échos Judiciaires Girondins,2024-03-02,Échos Judiciaires Girondins,https://www.echos-judiciaires.com,"L’utilisation des outils d’intelligence artificielle par les salariés, surtout si elle est effectuée à l’insu de leur employeur, n’est pas sans poser des",N/A,"L’utilisation des outils d’intelligence artificielle par les salariés, surtout si elle est effectuée à l’insu de leur employeur, n’est pas sans poser des","L’utilisation des outils d’intelligence artificielle par les salariés, surtout si elle est effectuée à l’insu de leur employeur, n’est pas sans poser des",https://schema.org,,,Le cercle des Experts,N/A,"
+
+
+Le cercle des Experts
+
+
+Utilisation de l’IA par les salariés : un encadrement nécessaire
+
+Publié le 02/03/2024
+
+
+       AddToAny (share) is disabled.                  Allow         
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNE - Près d’un an après le lancement de ChatGPT 4, face à l’accélération de l’utilisation de ces outils par leurs salariés, il devient indispensable pour les entreprises d’en encadrer la pratique.
+
+
+Elissaveta Petkova © Louis Piquemil - Echos Judiciaires Girondins
+
+
+Il s’avère que 22 % des salariés ont déjà utilisé un outil d’intelligence artificielle dans le cadre professionnel. 55 % l’ont fait sans en informer leur responsable. (Étude IFOP pour LearnThings du 21 décembre 2023 au 3 janvier 2024).
+Depuis le développement d’outils d’intelligence artificielle accessibles pour le grand public, celle-ci est en train de s’introduire dans l’entreprise, les salariés étant tentés de tester ces nouvelles fonctionnalités pour gagner du temps.
+Près d’un an après le lancement de ChatGPT 4, face à l’accélération de l’utilisation de ces outils par leurs salariés, il devient indispensable pour les entreprises d’en encadrer la pratique :
+
+La nécessité d’encadrer l’utilisation de l’intelligence artificielle dans l’entreprise pour se protéger
+
+L’utilisation des outils d’intelligence artificielle par les salariés, surtout si elle est effectuée à l’insu de leur employeur, n’est pas sans poser des problématiques en termes de confidentialité des données et de respect du Règlement Général de Protection des Données (RGPD).
+En effet, si le salarié traite de données confidentielles ou à caractère personnel dans le cadre de ses fonctions et qu’il utilise l’intelligence artificielle à l’insu de son employeur, il peut lui faire prendre des risques. L’entreprise doit assurer une traçabilité de leur utilisation et respecter ses obligations en matière d’information et de sécurité informatique. Selon l’adaptation plus ou moins importante de textes créés par l’intelligence artificielle, se posera également la question du droit d’auteur. L’entreprise doit savoir à quels risques elle s’expose face à ses concurrents.
+Face à l’introduction de l’intelligence artificielle dans l’entreprise, celle-ci n’a pas d’autre choix que d’encadrer ses règles d’utilisation. Plusieurs options s’offrent à elle :
+
+Interdire l’usage de l’intelligence artificielle
+
+Selon l’activité de la société, ses problématiques de protection de données personnelles et les postes occupés, une posture prudente à l’égard de l’intelligence artificielle peut être appropriée. Dans ce cas, il serait nécessaire de procéder à la fixation de règles d’interdiction de l’usage de l’intelligence artificielle dans la charte informatique si elle existe ou dans le règlement intérieur.
+En effet, pour que ces règles soient opposables aux salariés et qu’en cas de violation ils puissent être sanctionnés, il est nécessaire de respecter les mêmes règles d’adoption et d’affichage que celles du règlement intérieur.
+Cela implique soit une modification de celui-ci, soit la rédaction d’une note de service qui sera soumise aux mêmes modalités de publicité d’affichage que le règlement intérieur (consultation préalable du CSE, envoi du document à l’inspection du travail, respect d’un délai d’un mois en attendant les observations de l’inspection du travail, envoi au Conseil de Prud’hommes et communication aux salariés).
+ 
+
+Autoriser l’utilisation de l’intelligence artificielle par les salariés uniquement en ce qui concerne certaines tâches.
+
+ 
+Devant le gain de temps et de productivité permis par l’intelligence artificielle, il pourrait être encouragé que certaines tâches soient réalisées par les salariés, grâce à l’aide de l’intelligence artificielle. Par exemple la rédaction de comptes rendus de réunion, de rapports sur certains sujets, la synthèse de textes, etc.
+En revanche pour d’autres tâches, il pourrait être interdit de faire appel à l’intelligence artificielle pour qu’il soit clairement établi que le travail fourni est réalisé entièrement par le salarié.
+Dans ce cas, il pourrait être nécessaire de consulter de manière préalable le CSE dans les entreprises de plus de 50 salariés. Au titre de l’article L. 2312-8 4° du Code du travail, l’employeur doit le consulter en cas d’introduction de nouvelles technologies.
+La loi n’exige pas une rupture totale avec les méthodes de production antérieures, la nouveauté est constatée en cas de changement des techniques qui modifient l’organisation du travail et les conditions de travail des salariés concernés.
+Ce sera nécessairement le cas s’il y a utilisation de l’intelligence artificielle.
+Par ailleurs, l’encadrement précis des tâches pour lesquelles le recours à l’intelligence artificielle sera possible ou imposé devra également inciter à une mise à jour de la charte informatique si elle existe ou du règlement intérieur.
+ 
+
+L’autorisation pure et simple du recours à l’intelligence artificielle par les salariés
+
+L’entreprise peut tolérer ce recours ou voire l’imposer à ses salariés dès lors que cette utilisation d’une nouvelle technologie leur permet une meilleure productivité et rend l’entreprise plus compétitive.
+Les mêmes précautions en matière de mise à jour de la charte informatique et de consultation du CSE seront nécessaires, ainsi que l’encadrement précis en termes de respect des règles de sécurité informatique et de confidentialité des données utilisées.
+Si l’entreprise clarifie les règles d’utilisation de l’intelligence artificielle dans l’entreprise, elle pourra ensuite, en cas de violation de celles-ci, pouvoir envisager des sanctions disciplinaires à leur égard de manière assez simple.
+En revanche, si l’entreprise reste passive malgré l’utilisation de plus en plus fréquente de l’intelligence artificielle, il y aurait un doute sur la possibilité de sanctionner un salarié qui l’utiliserait ou en abuserait, en l’absence de règles claires sur le sujet.
+Ainsi, un salarié qui utiliserait ChatGPT sans en informer son employeur peut-il actuellement se le voir reprocher de manière disciplinaire ?
+Le caractère dissimulé de cette utilisation pourrait constituer une violation de l’obligation de loyauté inhérente au contrat de travail, mais cela restera à apprécier le cas échéant par les juges lors d’un contentieux inédit.
+© Shutterstock
+2. La nécessaire clarification des règles d’utilisation de l’intelligence artificielle pour objectiver l’évaluation et l’égalité de traitement entre salariés
+ 
+L’employeur doit savoir précisément quel salarié utilise ou non l’intelligence artificielle et dans et pour quoi faire. En effet, il est redevable d’un certain nombre d’obligations et notamment d’appliquer le principe : à travail égal / salaire égal.
+Or comment est-ce qu’il peut apprécier si un travail est égal si deux salariés occupant les mêmes fonctions utilisent pour l’un l’intelligence artificielle pour obtenir des résultats plus performants et rapides alors que son collègue ne le fait pas ? Il est donc nécessaire de redéfinir le contour de la notion de travail égal à l’aune du développement de l’intelligence artificielle. L’adaptation et la mise à jour des règles de calcul de la rémunération variable en fonction de l’atteinte d’objectifs doivent également être envisagées.
+Il est possible pour l’entreprise de prévoir soit que les objectifs sont fixés d’un commun accord entre l’employeur et le salarié, soit qu’ils sont fixés de manière unilatérale par l’employeur en chaque début de période de référence. Dans ce cas l’employeur aurait intérêt, si l’utilisation de l’intelligence artificielle peut faire évoluer de manière importante la performance du salarié, se réserver cette possibilité de modification unilatérale. Il pourrait ainsi adapter les objectifs à la meilleure productivité permise par l’utilisation de l’intelligence artificielle.
+ 
+Enfin, il est nécessaire de pouvoir justifier les futurs licenciements pour insuffisance professionnelle. Un des critères qui peut être pris en compte dans ce cas est la comparaison avec les résultats des collègues pour montrer qu’un salarié est défaillant et incompétent.
+Cependant comment cette comparaison pourra-t-elle être effectuée si certains salariés utilisent l’intelligence artificielle et pas d’autres ?
+Par ailleurs, sur des postes dont la productivité peut être améliorée par l’intelligence artificielle, un salarié ne pourrait-il pas reprocher à son employeur de ne pas l’avoir autorisé à utiliser celle-ci pour obtenir de meilleurs résultats ?
+Pour éviter les contentieux sur ce sujet, il paraît dès lors important dans la fiche de fonctions de tout poste susceptible d’utiliser l’intelligence artificielle de prévoir clairement les tâches pour lesquelles le salarié peut ou doit utiliser l’intelligence artificielle.
+ 
+3. La prise en compte de l’intelligence artificielle par l’entreprise pour respecter ses obligations en matière d’adaptabilité des compétences des salariés
+Seuls 10 % des salariés ont reçu une formation sur l’utilisation de l’intelligence artificielle, 27 % espèrent en bénéficier mais 63 % ne le souhaitent pas. (Étude IFOP pour LearnThings du 21 décembre 2023 au 3 janvier 2024).
+En effet, l’employeur est soumis à une obligation de formation : il doit à la fois assurer l’adaptation des salariés à leur poste de travail et veiller à leur employabilité à l’extérieur de l’entreprise (Code du travail article L. 6321-1).
+C’est à lui qu’il appartient de prendre l’initiative des actions de formation nécessaires. Il ne saurait se prévaloir de l’absence de demande du salarié (Cass. Soc. 5 juin 2013 n° 11-21.255).
+C’est à l’employeur d’apporter la preuve qu’il a loyalement exécuté son obligation de formation et d’adaptation (Cass. Soc. 13 juin 2019 n° 17-31.295). À défaut, il peut être condamné à la réparation du préjudice subi par le salarié à savoir au titre de la perte de chance d’évoluer professionnellement et de retrouver un emploi.
+Par ailleurs, le Code du travail dispose que le licenciement pour motif économique d’un salarié ne peut intervenir que lorsque tous les efforts de formation et d’adaptation ont été réalisés, que le reclassement s’avère impossible (article L. 1233-4 du Code du travail). Si l’employeur ne prouve pas avoir rempli son obligation en la matière, le licenciement économique se trouverait sans cause réelle et sérieuse.
+Le développement de l’intelligence artificielle va nécessairement entraîner la suppression de certains postes de travail et à terme le licenciement pour motif économique des salariés en question. Pour se protéger et anticiper sur cette évolution possible, l’employeur a donc tout intérêt à, d’ores et déjà, mettre en place des formations pour les salariés concernés. Soit pour assurer une reconversion sur d’autres postes de travail, soit pour faire évoluer leur poste en intégrant l’utilisation de l’intelligence artificielle.
+Ces questions pourront être abordées de manière utile lors des entretiens professionnels qui sont obligatoires tous les deux ans pour chaque salarié quels que soient son poste dans l’entreprise et ses perspectives d’évolution.
+Qu’elle le veuille ou non, l’entreprise doit d’ores et déjà s’emparer de la question de l’utilisation de l’intelligence artificielle par ses salariés et anticiper sur les évolutions des métiers et des postes pour éviter de futurs contentieux.
+ 
+Si le salarié traite de données confidentielles et qu’il utilise l’intelligence artificielle à l’insu de son employeur, il peut lui faire prendre des risques
+
+
+
+
+
+       AddToAny (share) is disabled.                  Allow         
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publié par
+
+
+
+
+
+Elissaveta PETKOVA, avocate directrice du département Droit social, cabinet Lexymore-Bordeaux
+
+
+
+
+
+
+
+
+
+
+Voir les articles
+
+
+
+
+
+
+
+
+
+
+Article précédent
+                                    Bordeaux Métropole – Une troisième agence pour In Extenso
+
+
+                                    Article suivant
+
+
+Bordeaux : Hillary Clinton présente au World Impact Summit
+
+
+
+","[{'@type': ['Organization'], '@id': 'https://www.echos-judiciaires.com/#organization', 'name': 'Échos Judiciaires Girondins', 'url': 'https://www.echos-judiciaires.com', 'logo': {'@type': 'ImageObject', '@id': 'https://www.echos-judiciaires.com/#logo', 'url': 'https://www.echos-judiciaires.com/wp-content/uploads/2020/06/pwa-logo-w512-echos-judicaires.png', 'contentUrl': 'https://www.echos-judiciaires.com/wp-content/uploads/2020/06/pwa-logo-w512-echos-judicaires.png', 'caption': 'Échos Judiciaires Girondins', 'inLanguage': 'fr-FR'}, 'priceRange': 'barney'}, {'@type': 'WebSite', '@id': 'https://www.echos-judiciaires.com/#website', 'url': 'https://www.echos-judiciaires.com', 'name': 'Échos Judiciaires Girondins', 'publisher': {'@id': 'https://www.echos-judiciaires.com/#organization'}, 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', '@id': 'https://www.echos-judiciaires.com/wp-content/uploads/2024/02/TRIBUNES-ELISAVETA-ORIGINALEDIT-scaled-e1709560730815.jpg', 'url': 'https://www.echos-judiciaires.com/wp-content/uploads/2024/02/TRIBUNES-ELISAVETA-ORIGINALEDIT-scaled-e1709560730815.jpg', 'width': '1907', 'height': '1066', 'caption': 'Elissaveta Petkova, IA, intelligence artificielle, droit', 'inLanguage': 'fr-FR'}, {'@type': 'WebPage', '@id': 'https://www.echos-judiciaires.com/actualites/utilisation-de-lia-par-les-salaries-un-encadrement-necessaire/#webpage', 'url': 'https://www.echos-judiciaires.com/actualites/utilisation-de-lia-par-les-salaries-un-encadrement-necessaire/', 'name': 'Utilisation de l&#039;IA par les salariés\xa0: un encadrement nécessaire', 'datePublished': '2024-03-02T08:00:00+01:00', 'dateModified': '2024-03-04T14:59:00+01:00', 'isPartOf': {'@id': 'https://www.echos-judiciaires.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.echos-judiciaires.com/wp-content/uploads/2024/02/TRIBUNES-ELISAVETA-ORIGINALEDIT-scaled-e1709560730815.jpg'}, 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://www.echos-judiciaires.com/auteurs/cyrielle/', 'name': 'cyrielle', 'url': 'https://www.echos-judiciaires.com/auteurs/cyrielle/', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/d5b30e511bceaa3436cfc85586c2fa04?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/d5b30e511bceaa3436cfc85586c2fa04?s=96&amp;d=mm&amp;r=g', 'caption': 'cyrielle', 'inLanguage': 'fr-FR'}, 'worksFor': {'@id': 'https://www.echos-judiciaires.com/#organization'}}, {'@type': 'BlogPosting', 'headline': 'Utilisation de l&#039;IA par les salariés\xa0: un encadrement nécessaire', 'keywords': 'IA,droit', 'datePublished': '2024-03-02T08:00:00+01:00', 'dateModified': '2024-03-04T14:59:00+01:00', 'articleSection': 'Le cercle des Experts', 'author': {'@id': 'https://www.echos-judiciaires.com/auteurs/cyrielle/', 'name': 'cyrielle'}, 'publisher': {'@id': 'https://www.echos-judiciaires.com/#organization'}, 'description': 'L’utilisation des outils d’intelligence artificielle par les salariés, surtout si elle est effectuée à l’insu de leur employeur, n’est pas sans poser des', 'name': 'Utilisation de l&#039;IA par les salariés\xa0: un encadrement nécessaire', '@id': 'https://www.echos-judiciaires.com/actualites/utilisation-de-lia-par-les-salaries-un-encadrement-necessaire/#richSnippet', 'isPartOf': {'@id': 'https://www.echos-judiciaires.com/actualites/utilisation-de-lia-par-les-salaries-un-encadrement-necessaire/#webpage'}, 'image': {'@id': 'https://www.echos-judiciaires.com/wp-content/uploads/2024/02/TRIBUNES-ELISAVETA-ORIGINALEDIT-scaled-e1709560730815.jpg'}, 'inLanguage': 'fr-FR', 'mainEntityOfPage': {'@id': 'https://www.echos-judiciaires.com/actualites/utilisation-de-lia-par-les-salaries-un-encadrement-necessaire/#webpage'}}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxhLWNyb2l4LmNvbS9hLXZpZi9hLWwtZXJlLWRlLWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWxlLWpvdXJuYWxpc21lLWVzdC11bi1tZXRpZXItZGF2ZW5pci0yMDI0MDMwMtIBcmh0dHBzOi8vYW1wLmxhLWNyb2l4LmNvbS9hLXZpZi9hLWwtZXJlLWRlLWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWxlLWpvdXJuYWxpc21lLWVzdC11bi1tZXRpZXItZGF2ZW5pci0yMDI0MDMwMg?oc=5,"« À l’ère de l’intelligence artificielle, le journalisme est un métier d’avenir » - La Croix",2024-03-02,La Croix,https://www.la-croix.com,"Pour Aur&eacute;lie Jean, scientifique en mod&eacute;lisation algorithmique, si l&rsquo;intelligence artificielle repr&eacute;sente bien pour les journalistes un nouveau d&eacute;fi, elle peut les aider &agrave; rendre leur travail encore &laquo;&nbsp;plus pr&eacute;cis et plus pertinent&nbsp;&raquo;. Face &agrave; l&rsquo;avalanche de donn&eacute;es et d&rsquo;informations, leur r&ocirc;le demeure...","intelligence artificielle (ia), opinions et débats, médias et presse, réseaux sociaux, intelligence, artificielle, tech et web, journalisme, Éthique, métier","Pour Aurélie Jean, scientifique en modélisation algorithmique, si l’intelligence artificielle représente bien pour les journalistes un nouveau défi, elle peut les aider à rendre leur travail encore « plus précis et plus pertinent ». Face à l’avalanche de données et d’informations, leur rôle demeure primordial.","Pour Aurélie Jean, scientifique en modélisation algorithmique, si l’intelligence artificielle représente bien pour les journalistes un nouveau défi, elle peut les aider à rendre leur travail encore « plus précis et plus pertinent ». Face à l’avalanche de données et d’informations, leur rôle demeure primordial.",,,,Not found,N/A,"
+
+
+
+
+
+Tribune
+
+
+Aurélie Jean
+Scientifique en modélisation algorithmique, entrepreneure et autrice
+
+
+
+
+
+
+                Pour Aurélie Jean, scientifique en modélisation algorithmique, si l’intelligence artificielle représente bien pour les journalistes un nouveau défi, elle peut les aider à rendre leur travail encore « plus précis et plus pertinent ». Face à l’avalanche de données et d’informations, leur rôle demeure primordial.
+            
+
+
+
+Aurélie Jean,
+                    
+
+
+                le 02/03/2024 à 11:13
+
+
+
+
+
+
+
+
+
+Lecture en 3 min.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Pour la chercheuse Aurélie Jean, l’intelligence artificielle ne diminuera pas la demande pour du journalisme de qualité (Photo d’illustration)
+                                                                Stevica Mrdja / Microgen/StockAdobe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commenter
+Réagir
+
+
+
+
+
+
+
+Envoyer par mail
+Envoyer
+
+
+
+
+
+
+
+Partager sur Facebook
+Partager
+
+
+
+
+
+
+
+Partager sur Twitter
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commenter
+Réagir
+
+
+
+
+
+
+
+Envoyer par mail
+Envoyer
+
+
+
+
+
+
+
+Partager sur Facebook
+Partager
+
+
+
+
+
+
+
+Partager sur Twitter
+Twitter
+
+
+
+
+
+
+
+Série
+
+L’intelligence artificielle peut-elle nous remplacer ?
+
+Épisode 6/12
+
+
+Beaucoup d’individus, dont la vision apocalyptique résiste à la raison et au débat méthodique, aimeraient nous faire croire qu’à l’ère de l’intelligence artificielle (IA) l’information n’a plus aucune valeur et que le journalisme et ses acteurs deviennent obsolètes. Et pourtant, en analysant les enjeux et les défis scientifiques, économiques et sociétaux, on en capture des solutions à explorer qui constituent la matrice à construire dans l’objectif de protéger l’information véritable et de garantir son accès libre et généralisé. Contre toute attente, le journaliste est un élément essentiel de cette matrice dont le métier va immanquablement se transformer… grâce aussi à l’IA.La question de la valeur du journalisme n’est pas récente. Deux décennies auparavant, la distribution de journaux gratuits puis la numérisation de l’information ont d’une certaine manière contribué à dévaloriser la presse et à affaiblir les journalistes au point de modifier notre rapport à l’information. En 2024, nous recevons de l’actualité en apparence gratuite sur nos téléphones portables via des notifications, alors que nous devions auparavant nous déplacer pour aller acheter le journal a fortiori tangible. Un changement de paradigme (1) dans l’accès à l’information s’installe alors dans notre société, dont la distribution de quotidiens gratuits à la volée dans la rue, vingt ans auparavant, n’était qu’un signal faible.Un bouc émissaireL’IA est à la fois une discipline scientifique et un ensemble de méthodes permettant de modéliser un phénomène dans l’objectif de résoudre un problème ou de répondre à une question. Embarquée dans de nombreuses technologies que nous utilisons au quotidien pour se déplacer, communiquer, se soigner, apprendre ou encore construire et créer, elle est pourtant aujourd’hui systématiquement associée – à tort – aux réseaux sociaux dans l’objectif de s’informer et de s’exprimer. Souvent identifiée comme bouc émissaire de tous les maux sur ces nouveaux médias, elle n’en est en réalité que l’outil mal conçu et mal utilisé qui soutient délibérément un modèle économique de l’attention (2) de ces plateformes. Par un tel dimensionnement, les fausses nouvelles, les contenus transgressifs et polémiques, dont des théories du complot en tout genre, se propagent à une vitesse vertigineuse (3), au point de perdre le contrôle sur la vérification et la modération.À lire aussiChatGPT : le « New York Times » se lance dans un duel judiciaireEn réponse à une telle dynamique pourtant insoutenable, les journalistes ont un rôle précieux, comme jamais auparavant, dans la collecte, la vérification, la traduction intelligible ainsi que la hiérarchisation de l’information. Le journaliste doit se distinguer dans chacune de ces dimensions qui peuvent par ailleurs être assistées, facilitées ou tout simplement rendues possibles grâce à l’IA. Internet, les objets connectés et les réseaux de communication (dont les réseaux sociaux) permettent d’accéder plus facilement à des données brutes sur un événement, une population, ou un individu souvent en temps réel. La vérification quant à elle peut être assistée par des modèles qui croisent les données pour mesurer leur niveau de pertinence, qui détectent des signaux faibles et forts propres à leur véracité, ou encore tracent la justesse et l’efficacité des sources.On se souvient tous du journaliste américain Matt Carroll, de l’équipe d’investigation Spotlight racontée sur grand écran dans le film du même nom, qui a permis de démanteler une affaire mondiale de pédocriminalité dans l’Église catholique grâce aux croisements de données à grande échelle sur les paroisses, les prêtres, les plaintes et les victimes, qu’aucune méthode journalistique traditionnelle n’aurait pu rendre possible. Le journaliste hiérarchise l’information en mettant en avant son importance intrinsèque, en opposition à la hiérarchisation orientée par les algorithmes de recommandation sur les réseaux sociaux dont la viralité en est l’unique décisionnaire. En cela, l’apport du journaliste dans la mise en relief des actualités au regard de leur véritable importance est une évidence.Un challengeLe journaliste détient un argument d’autorité par lequel il doit se distinguer davantage, en convainquant au lieu de persuader, en démontrant au lieu de montrer, ou encore en se posant au lieu de se précipiter. Le journaliste doit en effet prescrire son échelle de temps d’observation et d’analyse, en contraste avec l’IA qui fournit des données instantanées brutes et non de l’information journalistique de facto validée. La traduction intelligible est un différenciateur indéniable chez le journaliste, qui a cette capacité de jouer le messager de nouvelles souvent complexes en direction d’un auditoire souvent hétérogène. Il se distingue alors des réseaux sociaux sur lesquels chacun traduit à sa sauce l’actualité, voire la crée de toutes pièces, par sa propre interprétation sans l’intention de nuire (on parle de mésinformation), ou servant dans certains cas un agenda personnel (on parle de désinformation).Au risque de vous surprendre, l’IA challenge de toute évidence le journaliste pour le rendre encore plus juste, plus vrai, plus précis et plus pertinent, dans l’objectif de valoriser encore davantage son travail et son rôle dans la société. Une société qui, sans journalistes, deviendrait un monde dangereusement imaginé et extrapolé où le pire serait la référence, et le malheur des autres le divertissement. Ce serait le début d’un récit dystopique que je devrais peut-être me mettre à écrire…Aurélie Jean a écrit Algorithmes, bientôt maîtres du monde ? (coll. « Alt », Éd. La Martinière, 2023, 3,50 €).(1) S’informer, à quoi bon ?, Bruno Patino (coll. « Alt », Éd. La Martinière jeunesse, 2023).(2) How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist, Tristan Harris, Medium, 2016.(3) Propagations. Un nouveau paradigme pour les sciences sociales, Dominique Boullier, chez Armand Colin, 2023.
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxhZGVwZWNoZS5mci8yMDI0LzAzLzA2L3VuZS1jb25mZXJlbmNlLXN1ci1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS0xMTgwNzI5MS5waHDSAQA?oc=5,Revel. Une conférence sur l'intelligence artificielle - LaDepeche.fr,2024-03-06,LaDepeche.fr,https://www.ladepeche.fr,,"haute-garonne,revel,education","Jeudi 14 mars prochain à 18 h 30 au Ciné Get, le club d’entreprise revélois de l’ARDIAC organise une conférence sur l’intelligence artificielle (I.A.), dirigée par Yann Ferguson, docteur en sociologie de l’université...","Jeudi 14 mars prochain à 18 h 30 au Ciné Get, le club d’entreprise revélois de l’ARDIAC organise une conférence sur l’intelligence artificielle (I.A.), dirigée par Yann Ferguson, docteur en sociologie de l’université...",http://schema.org,NewsArticle,,N/A,N/A,"
+Revel. Une conférence sur l’intelligence artificielle
+
+
+
+
+Abonnés
+
+
+
+
+
+
+
+
+
+
+
+Conférence sur l’intelligence artificielle le jeudi 14 mars au Ciné Get de Revel. Photo DDM archives, Th. G-M.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Éducation,                            Colloques et conférences,                            Revel 
+
+
+Publié le 06/03/2024 à 05:12
+
+
+Th. G-M
+
+
+
+
+
+
+
+
+
+
+
+Écouter cet article
+
+Powered
+by
+
+ETX Studio
+
+
+
+
+
+00:00/01:24
+
+
+
+
+
+
+
+
+
+Jeudi 14 mars prochain à 18 h 30 au Ciné Get, le club d’entreprise revélois de l’ARDIAC organise une conférence sur l’intelligence artificielle (I.A.), dirigée par Yann Ferguson, docteur en sociologie de l’université de Toulouse Jean-Jaurès et directeur scientifique du LaborlA, institut national de recherche en sciences et technologies du numérique. Lauréat de la Fondation pour les Sciences Sociales, il a été classé par L’Usine Nouvelle parmi les 200 Français qui font avancer l’intelligence artificielle en France et dans le monde. Au programme, une démystification de l’I.A. De quoi parle-t-on, quelle est l’ambition de cette discipline et quelles sont les limites des technologies actuelles ? Le conférencier détaillera également les effets de l’intelligence artificielle sur le travail, les métiers, les organisations à partir des études de référence et de nombreux exemples concrets. Enfin, il traitera de la maturité de l’intelligence artificielle dans le milieu des petites et moyennes entreprises qui s’en emparent de plus en plus suite à l’explosion de l’I.A générative et de l’une de ses applications, ChatGPT.La soirée se poursuivra avec un lunch convivial.
+
+Le programme LaborlA entend être un centre de ressources et d’expérimentations sur l’intelligence artificielle dans le milieu professionnel.Tarifs : adhérent : 15 €, non adhérent 25 €. Inscription obligatoire sur www.ardiac.com/contact
+
+
+
+
+
+
+Cet article est réservé aux abonnés
+ 
+Accédez immédiatement à cet article
+2 semaines offertes
+Je m'abonne pour lire la suite
+
+                        Déjà abonné(e) ?
+                        Connectez-vous
+
+
+
+
+
+
+
+        Contenus illimités
+    
+
+
+        Sans engagement
+    
+
+
+        Sans publicité    
+ 
+
+
+
+Cet article est réservé aux abonnés
+ 
+Accédez immédiatementà cet article à partir de
+3€/mois
+
+
+            Déjà abonné(e) ?
+            Connectez-vous
+
+
+
+
+
+
+
+        Contenus illimités
+    
+
+
+        Sans engagement
+    
+
+
+        Sans publicité    
+
+
+ 
+
+Voir les commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Envie de donner votre avis ?
+                                    
+
+
+
+J'ai déjà un compte
+Je me connecte
+
+
+
+Je n'ai pas de compte
+Je m'inscris gratuitement
+
+
+
+
+
+Réagir
+
+
+
+
+                            Vous avez droit à 3 commentaires par jour. Pour contribuer en illimité, abonnez vous.
+                            
+ S'abonner
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+Lire la charte de modération
+
+
+
+
+
+Souhaitez-vous recevoir une notification lors de la réponse d’un(e) internaute à votre commentaire ?
+
+Oui, je veux suivre les réponses
+Non, ça ne m'intéresse pas
+
+
+
+
+
+
+
+
+",,"{'@type': 'WebPage', '@id': 'https://www.ladepeche.fr/2024/03/06/une-conference-sur-lintelligence-artificielle-11807291.php'}",Revel. Une conférence sur l’intelligence artificielle,"Jeudi 14 mars prochain à 18 h 30 au Ciné Get, le club d’entreprise revélois de l’ARDIAC organise une conférence sur l’intelligence artificielle (I.A.), dirigée par Yann Ferguson, docteur en sociologie de l’université de Toulouse Jean-Jaurès et directeur scientifique du LaborlA, institut national de recherche en sciences et technologies du numérique. Lauréat de la Fondation pour les Sciences Sociales, il a été classé par L’Usine Nouvelle parmi les 200 Français qui font avancer l’intelligence artificielle en France et dans le monde. Au programme, une démystification de l’I.A. De quoi parle-t-on, quelle est l’ambition de cette discipline et quelles sont les limites des technologies actuelles ? Le conférencier détaillera également les effets de l’intelligence artificielle sur le travail, les métiers, les organisations à partir des études de référence et de nombreux exemples concrets. Enfin, il traitera de la maturité de l’intelligence artificielle dans le milieu des petites et moyennes entreprises qui s’en emparent de plus en plus suite à l’explosion de l’I.A générative et de l’une de ses applications, ChatGPT.La soirée se poursuivra avec un lunch convivial.Le programme LaborlA entend être un centre de ressources et d’expérimentations sur l’intelligence artificielle dans le milieu professionnel.Tarifs : adhérent : 15 €, non adhérent 25 €. Inscription obligatoire sur www.ardiac.com/contact",236.0,2024-03-06T04:12:06+00:00,2024-03-06T04:12:06+00:00,"{'@type': 'Person', 'name': 'Th. G-M'}","{'@type': 'Organization', 'name': 'ladepeche.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.ladepeche.fr/img/logos/logo-amp.png', 'width': 600, 'height': 60}}","['ladepeche.fr', 'haute-garonne', 'actu']","{'@type': 'ImageObject', 'url': 'https://images.ladepeche.fr/api/v1/images/view/65e7ee8bb8ab2914c27807dc/hd/image.jpg?v=1', 'width': 1200, 'height': 500, 'name': 'Conférence sur l’intelligence artificielle le jeudi 14 mars au Ciné Get de Revel. Photo DDM archives, Th. G-M.', 'author': {'@type': 'Person', 'name': ''}}",False,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.article-paywall'}","{'@type': ['CreativeWork', 'Product'], 'name': 'La Dépêche du Midi', 'productID': 'ladepeche.fr:basic'}",,,,
+https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5sb3Bpbmlvbi5mci9lY29ub21pZS9tYW5hZ2VyLWF2ZWMtZm9jdXMtZXQtY29udHJvbGUtYS1saGV1cmUtZGUtbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtZ2VuZXJhdGl2ZS1wYXItY2VjaWxlLWRlam91eNIBAA?oc=5,Manager avec focus et contrôle à l'heure de l'intelligence artificielle générative – par Cécile Dejoux - L'Opinion,2024-03-04,L'Opinion,https://www.lopinion.fr,"Cécile Dejoux&nbsp;: «&nbsp;Au lieu d’accepter les réunions qui s’inscrivent automatiquement dans nos agendas, osons remettre en cause notre présence, si nous ne sommes pas indispensables ou si la valeur apportée par l’exercice est inférieure à celle d’une autre activité&nbsp;»",N/A,"Cécile Dejoux&nbsp;: «&nbsp;Au lieu d’accepter les réunions qui s’inscrivent automatiquement dans nos agendas, osons remettre en cause notre présence, si nous ne sommes pas indispensables ou si la valeur apportée par l’exercice est inférieure à celle d’une autre activité&nbsp;»","Cécile Dejoux&nbsp;: «&nbsp;Au lieu d’accepter les réunions qui s’inscrivent automatiquement dans nos agendas, osons remettre en cause notre présence, si nous ne sommes pas indispensables ou si la valeur apportée par l’exercice est inférieure à celle d’une autre activité&nbsp;»",http://schema.org,NewsArticle,"[{'@context': 'http://schema.org', '@type': 'ListItem', 'item': 'https://www.lopinion.fr/', 'name': ""Actualité économique, politique et internationale - l'Opinion"", 'position': 1}, {'@context': 'http://schema.org', '@type': 'ListItem', 'item': 'https://www.lopinion.fr/economie', 'name': ""Economie : actualité économique par l'Opinion"", 'position': 2}, {'@context': 'http://schema.org', '@type': 'ListItem', 'item': 'https://www.lopinion.fr/economie/manager-avec-focus-et-controle-a-lheure-de-lintelligence-artificielle-generative-par-cecile-dejoux', 'name': ""Manager avec focus et contrôle à l’heure de l’intelligence artificielle générative – par Cécile Dejoux - l'Opinion"", 'position': 3}]",Economie,N/A,N/A,,"{'@type': 'WebPage', '@id': 'https://www.lopinion.fr/economie/manager-avec-focus-et-controle-a-lheure-de-lintelligence-artificielle-generative-par-cecile-dejoux'}",Manager avec focus et contrôle à l’heure de l’intelligence artificielle générative – par Cécile Dejoux,,,2024-03-04T05:38:59-0500,2024-03-04T06:41:43-0500,"[{'@context': 'http://schema.org', '@type': 'Person', 'name': 'Cécile Dejoux'}]","{'@type': 'Organization', 'name': ""l'Opinion"", 'logo': {'@type': 'ImageObject', 'url': 'https://beymedias.brightspotcdn.com/dims4/default/8e099bb/2147483647/strip/false/crop/600x60+0+0/resize/600x60!/quality/90/?url=http%3A%2F%2Fl-opinion-brightspot.s3.amazonaws.com%2F9e%2Ffb%2F413642af4cf6be9f8c99be547ff6%2Flogo-opinion-gnews.jfif', 'width': 600, 'height': 60}}",,"[{'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 991, 'url': 'https://beymedias.brightspotcdn.com/dims4/default/8836abb/2147483647/strip/false/crop/5000x3333+0+0/resize/1486x991!/quality/90/?url=http%3A%2F%2Fl-opinion-brightspot.s3.amazonaws.com%2Fee%2F05%2F77fb88268c12ca7072b219d435d5%2Fcecile-dejoux-sandrine-villain.jpg', 'width': 1486}, {'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 675, 'url': 'https://beymedias.brightspotcdn.com/dims4/default/76b7320/2147483647/strip/false/crop/5000x2813+0+124/resize/1200x675!/quality/90/?url=http%3A%2F%2Fl-opinion-brightspot.s3.amazonaws.com%2Fee%2F05%2F77fb88268c12ca7072b219d435d5%2Fcecile-dejoux-sandrine-villain.jpg', 'width': 1200}]",False,"{'isAccessibleForFree': 'False', '@type': 'WebPageElement', 'cssSelector': '.Article-content'}",,https://l-opinion-brightspot-lower.s3.amazonaws.com/1f/79/ded626d44c19a3dab6e6bc185ab3/logo.svg,fr,Manager avec focus et contrôle à l’heure de l’intelligence artificielle générative – par Cécile Dejoux - l'Opinion,https://www.lopinion.fr/economie/manager-avec-focus-et-controle-a-lheure-de-lintelligence-artificielle-generative-par-cecile-dejoux
+https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy54ZXJmaWNhbmFsLmNvbS9lY29ub21pZS9lbWlzc2lvbi9DYXRoeS1BbGVncmlhLUxlcy1lbnRyZXByaXNlcy1kZS1zZXJ2aWNlcy1udW1lcmlxdWVzLWZhY2UtYS1sLWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGVfMzc1MjUyMi5odG1s0gEA?oc=5,"Cathy Alegria, Xerfi - Les entreprises de services numériques face à l'intelligence artificielle - Intelligence sectorielle ... - Xerfi Canal",2024-03-06,Xerfi Canal,https://www.xerficanal.com,N/A,"Mutation digitale, Services aux entreprises, Conseil, Conseil, Numérique, Cloud, Digital, Cybersécurité, Service, IT, IA",N/A,"L'intelligence artificielle générative bouscule le marché des services numériques. D’après la dernière Xerfi Precepta, les entreprises du...",,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnByZXNzZS1jaXRyb24ubmV0L2EtcXVlbC1wb2ludC1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS12YS10LWVsbGUtY3JldXNlci1sZXMtaW5lZ2FsaXRlcy_SAQA?oc=5,À quel point l'Intelligence Artificielle va-t-elle creuser les inégalités ? - Presse-citron,2024-03-04,Presse-citron,https://www.presse-citron.net,"L'IA soulève de nombreux questionnements, et parmi ceux-ci, celui de son impact sur l'économie et les inégalités mérite d'être considéré.",N/A,"L'IA soulève de nombreux questionnements, et parmi ceux-ci, celui de son impact sur l'économie et les inégalités mérite d'être considéré.",N/A,https://schema.org,,,N/A,N/A,"
+
+
+        À quel point l’Intelligence Artificielle va-t-elle creuser les inégalités ?
+    
+
+L’IA soulève de nombreux questionnements, et parmi ceux-ci, celui de son impact sur l’économie et les inégalités mérite d’être considéré.
+
+
+
+
+
+
+
+      Publié le 4 mars 2024 à 15 h 04 min
+    
+
+              Par 
+          Camille Coirault        
+
+
+
+
+
+
+
+
+ 
+              ©  DALL-E pour Presse-Citron
+            
+
+
+
+
+
+
+
+
+𝕏
+
+
+
+
+
+
+
+
+
+
+Kristalina Georgieva, directrice générale du FMI, n’est pas des plus optimistes concernant la question. Selon ses propres dires : « Dans la plupart des scénarios, l’IA risque d’aggraver les inégalités globales ». Une épine de plus dans le pied de nos sociétés, alors même que les inégalités à l’intérieur des pays sont plus fortes d’années en années, selon le Rapport sur les inégalités mondiales 2022. L’IA s’infiltre de partout, et ses bénéfices potentiels s’accompagnent de risques significatifs, notamment sur le marché du travail et la distribution des richesses.
+
+
+
+Un impact disparate sur le marché du travail Selon ce rapport récent du FMI (Fonds Monétaire International), 60 % des emplois dans les économies avancées (pays avec un niveau de revenu par habitant élevé) pourraient être affectés par l’IA. Cet impact, en revanche, ne se traduira pas de la même manière selon les emplois. Si certains travailleurs vont tirer bénéfice des apports de l’IA en augmentant leur productivité, pour d’autres, le constat est plus morose. L’IA pourrait remplacer la main de l’homme dans certaines tâches spécifiques. Les conséquences pourraient être très négatives, avec une réduction de la demande de main d’œuvre dans certains secteurs. Dans certains cas, cela pourrait même provoquer des réductions de salaire, voire la disparition de certains emplois.
+
+
+
+Dans les pays à plus faible revenu, cet impact serait moindre, car 26 % des emplois seulement seraient concernés. Des inégalités croissantes Georgieva met en garde : « De nombreux pays ne disposent pas des infrastructures ou des forces de travail qualifiées nécessaires pour exploiter pleinement les avantages de l’IA, ce qui augmente le risque qu’avec le temps, cette technologie creuse davantage le fossé des inégalités entre les nations ». Le risque que la fracture numérique s’élargisse est aujourd’hui très important. Après l’intégration de l’IA à certains secteurs, les plus jeunes et les travailleurs déjà à hauts revenus pourraient bénéficier d’une hausse complètement disproportionnée de leurs salaires. A contrario, les travailleurs plus âgés et/ou moins rémunérés pourraient se retrouver à la traîne. Quelle est la solution ?
+
+
+
+Pour Georgieva, « il est essentiel que les pays déploient des filets de sécurité sociaux étendus et proposent des programmes de formation continue pour les travailleurs exposés […] En procédant ainsi, nous pouvons rendre la transition vers l’IA plus inclusive, protégeant les moyens de subsistance et réduisant les inégalités ». Un discours on ne peut plus réel, mais qui peut presque passer pour utopiste tant les décideurs et forces politiques peinent à réguler l’usage de l’intelligence artificielle. Ce processus de régulation avance tant en Europe qu’aux États-Unis, mais les entreprises privées, majoritairement détentrices des technos d’IA, progressent, elle aussi, à toute vitesse.  Le FMI met en garde contre l’impact de l’IA sur les inégalités au niveau mondial. Les conséquences sur les emplois dans les pays développés pourraient être très importantes, avec 60 % des emplois concernés. Dans les économies plus modestes, l’impact est moindre, mais existe tout de même.   📍 Pour ne manquer aucune actualité de Presse-citron, suivez-nous sur Google Actualités et WhatsApp.   Newsletter 🍋 Abonnez-vous, et recevez chaque matin un résumé de l’actu tech  Votre email :   Je m'inscris            	J'ai lu et accepte        	          	les termes et les conditions        	    Laissez ce champ vide si vous êtes humain :  
+
+
+                [ SOURCE ]
+              
+
+intelligence artificielle 
+
+
+
+
+
+
+
+Sur le même sujet
+
+
+
+
+
+
+Incroyable ! Cette IA peut recréer des images à partir de vos pensées
+
+
+
+
+
+
+
+Zuckerberg tacle Google et OpenAI : l’IA pour tous ou seulement pour quelques-uns ?
+
+
+
+
+
+
+
+Deux graves failles de sécurité ont touché OpenAI cette semaine
+
+
+
+
+
+
+
+5 choses à savoir sur Kyutai, le labo tricolore de Xavier Niel qui veut révolutionner les assistants vocaux grâce à l’IA
+
+
+
+
+
+
+1 commentaire
+
+
+
+
+
+        1 commentaire
+        
+
+
+
+
+
+
+ Patrick dit : 
+
+4 mars 2024 à 15 h 46 min 
+
+
+Formations continue ou changer de métier.? ..parce que l’utilisation de l’IA ça s’apprend en une journée.
+
+Répondre 
+
+
+
+Laisser un commentaire Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués avec *Commentaire * Nom * 
+E-mail * 
+ Je veux recevoir la newsletter Presse-citron DailyCliquez ici pour annuler la réponse. 
+
+Δ 
+
+
+
+Les dernières actualités
+
+
+
+
+
+ 
+
+              Pourquoi l’été n’est-il pas encore arrivé ?            
+
+
+
+
+
+ 
+
+              Les textos RCS vont devenir encore plus pratiques, même si vous utilisez un iPhone            
+
+
+
+
+
+ 
+
+              Voiture électrique ou hybride : laquelle choisir ?            
+
+
+
+
+
+ 
+
+              Comment les familles françaises les plus riches stimulent l’écosystème de la French Tech            
+
+
+
+
+
+ 
+
+              Gladiator 2 : histoire, casting, date de sortie, tout savoir sur la suite du film mythique            
+
+
+
+
+
+ 
+
+              Pourquoi rouler à plus de 130 km/h sur autoroute pour gagner du temps est inutile (en plus d’être dangereux)            
+
+
+
+
+
+ 
+
+              Tout savoir sur les orages et comment s’en protéger efficacement            
+
+
+
+
+
+ 
+
+              Gagnez du temps sur la route des vacances grâce au Pass Ulys Télépéage offert pendant 1 an            
+
+
+
+
+
+
+
+
+
+
+
+Dernières news
+
+
+
+
+          Pourquoi l’été n’est-il pas encore arrivé ?        
+
+
+
+
+          Les textos RCS vont devenir encore plus pratiques, même si vous utilisez un iPhone        
+
+
+
+
+          Voiture électrique ou hybride : laquelle choisir ?        
+
+
+À la une
+
+
+
+
+          Dyson : découvrez les soldes d’été et économisez jusqu’à 200€ sur une sélection de technologies        
+
+
+
+
+
+
+
+Les meilleurs forfaits 
+
+
+
+
+
+
+ILLIMITÉ
+2 Go
+
+
+1,99 €
+
+
+
+
+
+
+
+ILLIMITÉ
+150 Go
+
+
+11,99 €
+
+
+
+
+Les tests
+
+
+
+
+          Test du Huawei MateBook 14 (2024) : la marque chinoise est loin d’avoir dit son dernier mot en France        
+
+
+
+
+          Test Sonos Ace : le premier casque audio de Sonos plus fort que le AirPods Max ?        
+
+
+
+
+          J’ai testé la meilleure moto électrique du marché : révolution ou impasse ?        
+
+
+Logiciels les + téléchargés
+
+
+
+
+            Opera One
+          
+
+
+
+
+            Google Play Store
+          
+
+
+
+
+            Adobe Reader
+          
+
+
+
+
+            WhatsApp
+          
+
+
+
+
+            WinRAR
+          
+
+
+
+
+            uTorrent
+          
+
+
+
+
+            ChatGPT
+          
+
+
+
+
+            VLC Media Player
+          
+
+
+
+
+            CCleaner
+          
+
+
+
+
+            Microsoft 365
+          
+
+
+
+
+            Google Chrome
+          
+
+
+
+
+            Xender
+          
+
+
+
+
+            Avast Gratuit
+          
+
+
+
+
+            Mozilla Firefox
+          
+
+
+
+
+            Avast One
+          
+
+
+
+
+
+
+
+ 
+
+","[{'@type': 'Article', '@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#article', 'isPartOf': {'@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/'}, 'author': {'name': 'Camille Coirault', '@id': 'https://www.presse-citron.net/#/schema/person/4e36d6c6093b7fd5b3f9d183b6c1c1b1'}, 'headline': 'À quel point l&#8217;Intelligence Artificielle va-t-elle creuser les inégalités&nbsp;?', 'datePublished': '2024-03-04T14:04:38+00:00', 'dateModified': '2024-03-04T14:04:38+00:00', 'mainEntityOfPage': {'@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/'}, 'wordCount': 578, 'commentCount': 1, 'publisher': {'@id': 'https://www.presse-citron.net/#organization'}, 'image': {'@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#primaryimage'}, 'thumbnailUrl': 'https://www.presse-citron.net/app/uploads/2024/03/df770397-4551-408c-aac6-92556193bf54-1.jpg', 'keywords': ['intelligence artificielle'], 'articleSection': ['Intelligence Artificielle'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/', 'url': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/', 'name': ""À quel point l'Intelligence Artificielle va-t-elle creuser les inégalités ?"", 'isPartOf': {'@id': 'https://www.presse-citron.net/#website'}, 'primaryImageOfPage': {'@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#primaryimage'}, 'image': {'@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#primaryimage'}, 'thumbnailUrl': 'https://www.presse-citron.net/app/uploads/2024/03/df770397-4551-408c-aac6-92556193bf54-1.jpg', 'datePublished': '2024-03-04T14:04:38+00:00', 'dateModified': '2024-03-04T11:21:32+00:00', 'description': ""L'IA soulève de nombreux questionnements, et parmi ceux-ci, celui de son impact sur l'économie et les inégalités mérite d'être considéré."", 'breadcrumb': {'@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#primaryimage', 'url': 'https://www.presse-citron.net/app/uploads/2024/03/df770397-4551-408c-aac6-92556193bf54-1.jpg', 'contentUrl': 'https://www.presse-citron.net/app/uploads/2024/03/df770397-4551-408c-aac6-92556193bf54-1.jpg', 'width': 1500, 'height': 1000, 'caption': '© DALL-E pour Presse-Citron'}, {'@type': 'BreadcrumbList', '@id': 'https://www.presse-citron.net/a-quel-point-lintelligence-artificielle-va-t-elle-creuser-les-inegalites/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.presse-citron.net/'}, {'@type': 'ListItem', 'position': 2, 'name': 'À quel point l&#8217;Intelligence Artificielle va-t-elle creuser les inégalités&nbsp;?'}]}, {'@type': 'WebSite', '@id': 'https://www.presse-citron.net/#website', 'url': 'https://www.presse-citron.net/', 'name': 'Presse-citron', 'description': 'Connectez-vous à l&#039;innovation', 'publisher': {'@id': 'https://www.presse-citron.net/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.presse-citron.net/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.presse-citron.net/#organization', 'name': 'Presse-Citron', 'url': 'https://www.presse-citron.net/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.presse-citron.net/#/schema/logo/image/', 'url': 'https://www.presse-citron.net/app/uploads/2020/02/presse-citron-logo.png', 'contentUrl': 'https://www.presse-citron.net/app/uploads/2020/02/presse-citron-logo.png', 'width': 441, 'height': 60, 'caption': 'Presse-Citron'}, 'image': {'@id': 'https://www.presse-citron.net/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/pressecitron.blog', 'https://twitter.com/pressecitron', 'https://www.instagram.com/presse_citron/', 'https://www.youtube.com/user/StuffiFR']}, {'@type': 'Person', '@id': 'https://www.presse-citron.net/#/schema/person/4e36d6c6093b7fd5b3f9d183b6c1c1b1', 'name': 'Camille Coirault', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.presse-citron.net/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/77d23f34949d862aa1304d623e95f1d0?s=96&d=https%3A%2F%2Fwww.presse-citron.net%2Fapp%2Fthemes%2Fpresse-citron%2Fpublic%2Fimages%2Favatars%2Fpressecitron.png&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/77d23f34949d862aa1304d623e95f1d0?s=96&d=https%3A%2F%2Fwww.presse-citron.net%2Fapp%2Fthemes%2Fpresse-citron%2Fpublic%2Fimages%2Favatars%2Fpressecitron.png&r=g', 'caption': 'Camille Coirault'}, 'url': 'https://www.presse-citron.net/author/camillecoirault/'}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNoYWxsZW5nZS5tYS9tZW5hY2VzLXBhci1saWEtbGVzLWNvZGV1cnMtYmllbnRvdC1zYW5zLWVtcGxvaS12aWRlby0yNzc0MDUv0gEA?oc=5,"Menacés par l'IA, les codeurs bientôt sans emploi, estime le patron d'NVIDIA [Vidéo] - Challenge.ma",2024-03-04,Challenge.ma,https://www.challenge.ma,"Une déclaration fracassante vient de secouer le monde de la technologie : selon Jensen Huang, PDG de NVIDIA, savoir coder ne garantira plus un emploi.",N/A,"Une déclaration fracassante vient de secouer le monde de la technologie : selon Jensen Huang, PDG de NVIDIA, savoir coder ne garantira plus un emploi. L’homme à la tête de l’une des entreprises les plus prospères ces dernières années, notamment grâce à la demande croissante en intelligence artificielle et l’utilisation","Une déclaration fracassante vient de secouer le monde de la technologie : selon Jensen Huang, PDG de NVIDIA, savoir coder ne garantira plus un emploi.",https://schema.org,,,N/A,N/A,"
+intelligence artificielle
+Menacés par l’IA, les codeurs bientôt sans emploi, estime le patron d’NVIDIA [Vidéo]
+Reda Mouhsine
+2024-03-04
+
+
+
+
+Reda Mouhsine
+
+·
+4 mars 2024
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Une déclaration fracassante vient de secouer le monde de la technologie : selon Jensen Huang, PDG de NVIDIA, savoir coder ne garantira plus un emploi.
+L’homme à la tête de l’une des entreprises les plus prospères ces dernières années, notamment grâce à la demande croissante en intelligence artificielle et l’utilisation intensive de ses GPU, semble également jouer le rôle de visionnaire en matière d’orientation professionnelle. Lors du Sommet mondial des gouvernements à Dubaï, qui s’est tenu du 12 au 14 février 2024, Huang a surpris en déconseillant aux parents d’encourager leurs enfants à apprendre la programmation.
+Lire aussi | Offshoring : les premiers coups de l’IA font mal !
+Au cours des dernières décennies, la programmation a été considérée comme une voie sûre vers l’emploi. Cependant, Huang rompt avec cette perception en prédisant que l’intelligence artificielle rendra bientôt cette compétence obsolète. Il explique que NVIDIA développe des technologies permettant à chacun de coder en langage naturel, rendant ainsi les compétences en programmation moins essentielles. Huang va même jusqu’à affirmer que bientôt, « n’importe qui dans le monde sera un programmeur », car l’IA sera capable de générer du code aussi efficacement qu’un humain. En somme, l’IA pourrait bien signer l’arrêt de mort de la programmation telle que nous la connaissons.
+
+
+
+Une menace à relativiser 
+Cette vision n’est pas partagée par tous. Patrick Moorhead, analyste chez Forbes, a répondu aux déclarations de Huang en soulignant que malgré les prédictions récurrentes sur la fin du codage, la demande en programmeurs reste forte. Il estime que l’IA ne remplacera pas le codage de sitôt, mais plutôt le mettra à la portée d’un plus grand nombre de personnes, tout comme la publication assistée par ordinateur a démocratisé la créativité. En outre, les développeurs eux-mêmes ne semblent pas encore se sentir menacés par l’IA, car ses capacités actuelles restent limitées.
+Lire aussi | L’intelligence artificielle. Vecteur d’innovation pour la PME
+En fin de compte, l’impact réel de l’IA sur le marché du travail reste à déterminer. Certains la voient comme une menace pour l’emploi, tandis que d’autres y voient une opportunité de productivité accrue. Une récente étude de Bloomberry aux États-Unis indique une augmentation de la demande de programmeurs depuis l’avènement de ChatGPT, illustrant ainsi la prépondérance continue des compétences en programmation sur le marché de l’emploi.
+
+
+
+   FacebookTwitterWhatsAppLinkedInGmail
+Tags:codingIAinformatiqueIntelligence artificielleprogrammation
+","[{'@type': 'WebPage', '@id': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/', 'url': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/', 'name': ""Menacés par l'IA, les codeurs bientôt sans emploi, estime le patron d'NVIDIA [Vidéo] | Challenge.ma"", 'isPartOf': {'@id': 'https://www.challenge.ma/#website'}, 'primaryImageOfPage': {'@id': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/#primaryimage'}, 'image': {'@id': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/#primaryimage'}, 'thumbnailUrl': 'https://www.challenge.ma/wp-content/uploads/2024/03/4ea4efc3-3488-41ab-8fed-efd7a2bc7b3_mid.jpg', 'datePublished': '2024-03-04T12:38:25+00:00', 'dateModified': '2024-03-04T12:55:24+00:00', 'author': {'@id': 'https://www.challenge.ma/#/schema/person/e82e078c4b03c14da94c3273900001b3'}, 'breadcrumb': {'@id': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/#primaryimage', 'url': 'https://www.challenge.ma/wp-content/uploads/2024/03/4ea4efc3-3488-41ab-8fed-efd7a2bc7b3_mid.jpg', 'contentUrl': 'https://www.challenge.ma/wp-content/uploads/2024/03/4ea4efc3-3488-41ab-8fed-efd7a2bc7b3_mid.jpg', 'width': 700, 'height': 394}, {'@type': 'BreadcrumbList', '@id': 'https://www.challenge.ma/menaces-par-lia-les-codeurs-bientot-sans-emploi-video-277405/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.challenge.ma/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Sample Blog', 'item': 'https://www.challenge.ma/sample-blog/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Menacés par l&rsquo;IA, les codeurs bientôt sans emploi, estime le patron d&rsquo;NVIDIA [Vidéo]'}]}, {'@type': 'WebSite', '@id': 'https://www.challenge.ma/#website', 'url': 'https://www.challenge.ma/', 'name': 'Challenge.ma', 'description': 'L&#039;actualité économique au Maroc.', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.challenge.ma/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://www.challenge.ma/#/schema/person/e82e078c4b03c14da94c3273900001b3', 'name': 'Reda Mouhsine', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.challenge.ma/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/5f667f267329fe6ef499e89d6a821c22?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/5f667f267329fe6ef499e89d6a821c22?s=96&d=mm&r=g', 'caption': 'Reda Mouhsine'}, 'sameAs': ['http://challenge.ma'], 'url': 'https://www.challenge.ma/author/reda-mouhsine/'}]",,,,,,,,,,,,,,,,,

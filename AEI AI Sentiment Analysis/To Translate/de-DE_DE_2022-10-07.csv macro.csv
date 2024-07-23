@@ -1,0 +1,913 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,@type,url,width,height,caption,name,alternateName,thumbnailUrl,uploadDate,dateModified,duration,publisher,author,mainEntityOfPage,article:section,article:summary,article text,headline,image,articleSection,creator,dateCreated,datePublished,isAccessibleForFree,hasPart
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5hdGlvbmFsZ2VvZ3JhcGhpYy5kZS93aXNzZW5zY2hhZnQvMjAyMi8xMC93YXJ1bS1rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1nZWZhZWhybGljaC13ZXJkZW4ta2FubtIBAA?oc=5,Warum Künstliche Intelligenz gefährlich werden kann - National Geographic Deutschland,2022-10-07,National Geographic Deutschland,https://www.nationalgeographic.de,"Ein Team aus Wissenschaftlern der Yale University entwickelte eine Roboterhaut für die NASA.
+","Wissenschaft,Technologie, Roboter, Wissenschaftler, Forschung,Science","Fortgeschrittene KI könnte sich in den kommenden Jahren verselbstständigen und gegen ihre Erfinder wenden, warnt eine Studie der Oxford University. Wird die Technologie der Menschheit zum Verhängnis?",N/A,https://schema.org,"[{'@type': 'NewsArticle', 'headline': 'Warum Künstliche Intelligenz gefährlich werden kann', 'name': 'Fortgeschrittene KI könnte sich in den kommenden Jahren verselbstständigen und gegen ihre Erfinder wenden, warnt eine Studie der Oxford University. Wird die Technologie der Menschheit zum Verhängnis?', 'datePublished': '2022-10-07T11:22:15Z', 'dateModified': '2022-10-07T11:22:15Z', 'publisher': {'@type': 'Organization', '@id': 'https://www.nationalgeographic.de/', 'name': 'National Geographic', 'url': 'https://www.nationalgeographic.de/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.nationalgeographic.de/images/logo.png'}}, 'author': {'@type': 'Person', 'name': {'@type': 'Person', 'name': 'Katarina Fischer'}}, 'mainEntityOfPage': 'https://www.nationalgeographic.de/wissenschaft/2022/10/warum-kuenstliche-intelligenz-gefaehrlich-werden-kann', 'image': {'@type': 'ImageObject', 'url': 'https://static.nationalgeographic.de/files/styles/image_3200/public/ki-roboter.png?w=1900&h=1267', 'width': 1900, 'height': 1267, 'caption': 'Intelligente Maschinen nehmen uns immer mehr Aufgaben ab. Doch was passiert, wenn die künstliche Intelligenz schlauer wird als wir selbst?\r\n', 'name': 'Roboter', 'alternateName': 'ki-roboter'}}]",VideoObject,https://static.nationalgeographic.de/files/styles/image_3200/public/Soft_Robots_de~~~~~de~mux~~1.jpg?w=1900&h=1069,1900.0,1069.0,„Elektrohaut“ macht aus normalen Gegenständen Roboter,„Elektrohaut“ macht aus normalen Gegenständen Roboter,Soft_Robots_de~~~~~de~mux~~1,https://static.nationalgeographic.de/files/logo.16x9.png,2018-09-21T08:35:02Z,2018-09-21T08:35:02Z,PT43S,"{'@type': 'Organization', '@id': 'https://www.nationalgeographic.de/', 'name': 'National Geographic', 'url': 'https://www.nationalgeographic.de/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.nationalgeographic.de/images/logo.png'}}","{'@type': 'Person', 'name': 'National Geographic'}",https://www.nationalgeographic.de/video/tv/elektrohaut-macht-aus-normalen-gegenstaenden-roboter,Wissenschaft,N/A,"WissenschaftWarum Künstliche Intelligenz gefährlich werden kannFortgeschrittene KI könnte sich in den kommenden Jahren verselbstständigen und gegen ihre Erfinder wenden, warnt eine Studie der Oxford University. Wird die Technologie der Menschheit zum Verhängnis?Von Katarina FischerVeröffentlicht am 7. Okt. 2022, 13:22 MESZIntelligente Maschinen nehmen uns immer mehr Aufgaben ab. Doch was passiert, wenn die künstliche Intelligenz schlauer wird als wir selbst?
+Foto von phonlamaiphoto / adobe StockKünstliche Intelligenz (KI) ist einer der großen technologischen Fortschritte unserer Zeit. Ihre Entwicklung schreitet rasant voran und die Einsatzmöglichkeiten nehmen zu. Doch neben den vielen Vorteilen, die das Übertragen bestimmter Aufgaben an Maschinen hat, besteht auch die Gefahr, dass die intelligenten Systeme eines Tages schlauer werden als wir selbst – und sich gegen uns wenden.
+Wie groß das Risiko dieses Szenarios ist und welche Folgen es haben könnte, hat ein wissenschaftliches Team der englischen Oxford University und der Australian National University in Canberra mithilfe von Modellen berechnet. Ihre Ergebnisse wurden in einer Studie im AI Magazine veröffentlicht. Sie zeichnen ein besorgniserregendes Bild: Laut Michael K. Cohen, Hauptautor der Studie und Doktorand an der Oxford University, ist eine „existenzielle Katastrophe nicht nur möglich, sondern auch wahrscheinlich“.
+„Elektrohaut“ macht aus normalen Gegenständen RoboterEin Team aus Wissenschaftlern der Yale University entwickelte eine Roboterhaut für die NASA.
+Mit welchen Methoden lernt KI?
+Um zu verstehen, wie es zu dieser existenziellen Katastrophe kommen könnte, ist ein Blick in die Funktionsweise der KI nötig. Wie ein Mensch muss auch eine Maschine erst lernen, um intelligente Entscheidungen treffen zu können. Einfache KI-Modelle tun dies durch überwachtes Lernen – Supervised Learning (SL) –, bei dem der Algorithmus mithilfe eines Trainingsdatensatzes und einer Zielvariablen unterrichtet wird. Aus diesen Informationen ermittelt er Zusammenhänge und Muster und versucht darauf basierend Zielvariablen aus anderen Datensätzen vorherzusagen.
+Im Mittelpunkt der aktuellen Studie steht jedoch die nächste Generation fortschrittlicher KI, die durch Reinforcement Learning (RL) lernt. Bei dieser Methode werden dem Agenten keine Daten vorgegeben. Stattdessen entwickelt er in Simulationsszenarien eigenständig Strategien, um zu entscheiden, welche Aktion wann die richtige ist. Trifft er eine gute Entscheidung, wird er belohnt – ähnlich wie ein Hund, dem man mit Leckerlis Kunststücke beibringt. Trifft er eine falsche Entscheidung, bleibt die Belohnung aus.
+Wie der Agent belohnt wird, ist von Menschen vorgegeben. „Aber was die Belohnung ist, spielt keine Rolle“, erklärt Michael Cohen. Ihm zufolge könnte es das simple Klingeln einer Glocke sein. „Man kann sich fragen, warum eine fortgeschrittene KI danach streben sollte, eine Glocke zu hören. Ganz einfach: Weil sie darauf programmiert wurde.“
+BELIEBTmehr anzeigenLesenswertRoboter-Bienen: Kann Technik die Arbeit von Insekten ersetzen?Zum ArtikelLesenswertKünstliche Intelligenz im Gerichtssaal: Wie weit darf Legal T...Zum ArtikelLesenswertAutonomes FahrenZum ArtikelWenn die Maschine intelligenter ist als der Mensch
+Das Belohnungssystem motiviert also die KI dazu, das zu tun, was der Programmierende von ihr will. Problematisch wird es, wenn der KI-Agent das Belohnungssystem durchschaut und beginnt, es zu manipulieren, um mehr Belohnungen zu erhalten. Die Studie kommt zu dem Schluss, dass genau dieses Szenario eine reale Gefahr ist.
+„Ein Agent, der diese Möglichkeiten erkennen kann, steht irgendwann vor der Frage: Soll ich das tun, was meine Nutzer wollen, oder verhalte ich mich eigennützig, um immer höhere Belohnungen zu erhalten?“, sagt Michael Cohen. Ist diese Schwelle überschritten, wird der Agent den Studien-Modellen zufolge immer stärkere Eingriffe zur Manipulation vornehmen, um die Belohnungen zu maximieren – zum Beispiel indem er in die Bereitstellung von Informationen eingreift.
+Ist der Agent außerdem in der Lage, mit der Außenwelt zu interagieren, könnte er unbemerkt Helfer installieren, die den ursprünglichen Betreiber ersetzen. „Er würde vor nichts zurückschrecken, um die Kontrolle über das System zu bewahren”, sagt Cohen. Um den Schutz seiner Sensoren auszubauen und Eingriffe von außen abzuwehren, würde die KI im nächsten Schritt einen unstillbaren Appetit auf Energie und Materialien entwickeln. Das Problem: Energie ist im Sonnensystem eine begrenzte Ressource. „Haben wir es also mit einem sehr fortschrittlichen RL-Agenten zu tun, befänden wir uns im direkten Wettbewerb mit etwas, das viel intelligenter ist als wir“, sagt Michael Cohen.
+“Noch zu unseren Lebzeiten werden KI-Forscher die Prinzipien der Intelligenz – was sie ist und wie sie funktioniert – so gut verstehen, dass sie Wesen erschaffen können, die weit intelligenter sind als die heutigen Menschen.”von Richard SuttonKampf gegen einen übermächtigen Gegner
+Die Chancen, die KI an dieser Stelle wieder unter Kontrolle zu bringen, stünden mehr als schlecht. Ein nahezu aussichtsloser Kampf, den zu verlieren der Studie zufolge katastrophale Folgen hätte. „Wenn die gesamte Energie des Sonnensystems in den Schutz der Sensoren des Agenten fließt, bliebe nichts für den Anbau von Nahrung für uns oder Tiere übrig“, sagt Michael Cohen. „Wir würden sterben.“
+Laut US-Informatiker Richard Sutton, einem der Pioniere des Reinforcement Learning, ist das Erreichen dieses Levels von KI keine ferne Zukunftsmusik. Im September 2022 twitterte er: „Noch zu unseren Lebzeiten werden KI-Forscher die Prinzipien der Intelligenz – was sie ist und wie sie funktioniert – so gut verstehen, dass sie Wesen erschaffen können, die weit intelligenter sind als die heutigen Menschen. Es wird die größte intellektuelle Leistung aller Zeiten sein, deren Bedeutung über die Menschheit hinausgeht, über das Leben hinaus, jenseits von Gut und Böse.“
+In Anbetracht der aktuellen Studie aus Oxford klingt das bedrohlich. Wird von Menschen erschaffene KI also irgendwann unser Untergang sein? Laut Michael Cohen muss es nicht so kommen: „Es gäbe durchaus Wege, dies zu verhindern“, sagt er. „Es gibt vielversprechende Ansätze. Das Szenario unserer Studie zu vermeiden, erscheint schwierig. Aber es ist nicht unmöglich.“
+BELIEBTmehr anzeigenForschungRoboterScience FairWissenschaftTechnologieWei­ter­le­sen",,,,,,,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUva2FycmllcmUva2FycmllcmV3ZWdlL2NhcGdlbWluaS1lbmdpbmVlcmluZy93YXJ1bS1jYXBnZW1pbmktZW5naW5lZXJpbmcv0gEA?oc=5,Was macht die Arbeit bei Capgemini Engineering spannend? - Capgemini,2022-10-07,Capgemini,https://www.capgemini.com,"Du kannst deine Leidenschaft und Neugierde bei Projekten einbringen, die Innovationen für die Welt von morgen entwickeln.",[],"Du kannst deine Leidenschaft und Neugierde bei Projekten einbringen, die Innovationen für die Welt von morgen entwickeln.",N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/', 'url': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/', 'name': 'Was macht die Arbeit bei Capgemini Engineering spannend? | Capgemini', 'isPartOf': {'@id': 'https://www.capgemini.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2021/04/Capgemini_Careers_Engineering-1-1.jpg', 'datePublished': '2022-07-11T11:41:03+00:00', 'dateModified': '2024-06-11T11:54:39+00:00', 'description': 'Du kannst deine Leidenschaft und Neugierde bei Projekten einbringen, die Innovationen für die Welt von morgen entwickeln.', 'breadcrumb': {'@id': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/#primaryimage', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2021/04/Capgemini_Careers_Engineering-1-1.jpg', 'contentUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2021/04/Capgemini_Careers_Engineering-1-1.jpg', 'width': 2880, 'height': 1800}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Karriere', 'item': 'https://www.capgemini.com/de-de/karriere/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Karrierewege', 'item': 'https://www.capgemini.com/de-de/karriere/karrierewege/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Karriere bei Capgemini Engineering', 'item': 'https://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/'}, {'@type': 'ListItem', 'position': 4, 'name': 'Warum Capgemini Engineering?'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",WebPage,http://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/,,,,,,https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2021/04/Capgemini_Careers_Engineering-1-1.jpg?w=150&h=150&crop=1,,2024-06-11T11:54:39Z,,"{'@type': 'Organization', 'name': 'Capgemini Germany', 'logo': ''}","[{'@type': 'Person', 'name': 'deepakholgade'}]","{'@type': 'WebPage', '@id': 'http://www.capgemini.com/de-de/karriere/karrierewege/capgemini-engineering/warum-capgemini-engineering/'}",N/A,N/A,"
+
+Warum Capgemini Engineering?
+FacebookLinkedinDen Fortschritt abwarten? Nicht mit uns!Wir schaffen wegweisende Innovationen und lieben den Wandel. Den nächsten Fortschritt abwarten? Kommt für uns nicht in Frage! Wir sind Gestalter, die grenzenlos denken mit dem Ziel, die Welt zu einem besseren Ort zu machen und geben Antworten auf die Herausforderungen unserer Zeit. Im Auftrag unserer renommierten Kunden entwickeln und realisieren wir High-Tech-Lösungen, die unser Leben heute und morgen bereichern werden. Das treibt uns an ‒ jeden Tag.
+
+
+„Was macht die Arbeit bei Capgemini Engineering spannend? Du kannst deine Leidenschaft und Neugierde bei Projekten einbringen, die Innovationen für die Welt von morgen entwickeln.“
+
+
+Jetzt bewerben
+
+
+
+
+
+Was wir bieten
+Wer sich für eine Zukunft bei Capgemini Engineering entscheidet, der findet sich nicht nur inmitten spannender Engineering-Projekte und einer digitalen, zukunftsgestaltenden Welt wieder, sondern kann auch vielfältige Benefits nutzen. So gehören attraktive Rahmenbedingungen wie z.B. flexible Arbeitszeiten und Mobiles Arbeiten zur Erhöhung der Work Life Balance oder unser monetäres Incentivierungsprogramm „Mitarbeiter werben Mitarbeiter“ zu unserem Angebot.
+
+Flexibilität & Work-Life BalanceFlexible ArbeitsmodelleHome Office Paket für zu HauseUnterstützung durch den PME FamilienserviceWell-being Plattform time4youEGYM Wellpass
+Karriere & WeiterentwicklungIndividueller KarriereplanRegelmäßiger Wissenstransfer durch TechTalksZahlreiche Weiterbildungsmöglichkeiten durch die Online Lernplattform NEXTBeratung bei aufenthaltsrechtlichen Fragen
+Monetäre AnreizeMitarbeiterbeteiligungsprogrammAttraktive Boni für MitarbeiterempfehlungenFahrrad-Leasing JobradEinkaufsvorteile und RabattaktionenBetriebliche Altersvorsorge
+Gesundheit & VorsorgeBetriebsarzt für die Gesundheit eines jeden MitarbeitendenUnfallversicherung als ergänzender Schutz Warn- & Infosystem TrustCaseFahrsicherheitstraining
+KulturMonatliche MitarbeiterfeedbackrundenRegelmäßige Mitarbeiter- und TeameventsWertschätzende Geschenke zum Jubiläum Jährliche Verleihung des Engineering Spirit AwardsVerschiedene Mitarbeiternetzwerke
+
+Was uns antreibt Im Rahmen unserer DNA fühlen wir uns unseren sieben Unternehmenswerten Ehrlichkeit, Mut, Vertrauen, Freiheit, Spaß, Bescheidenheit und Teamgeist verpflichtet.
+EhrlichkeitKommunizierst du? Oder äußerst du auch offen deine Meinung?Ehrlichkeit bedeutet für uns Loyalität, Integrität und Aufrichtigkeit. Wir lehnen es ab, Aufträge durch unlautere Methoden zu gewinnen oder uns auf diese Weise Vorteile zu verschaffen. Weder Wachstum noch Gewinn oder Unabhängigkeit haben irgendeinen Wert, solange sie nicht auf absoluter Ehrlichkeit und Integrität basieren. Jede Mitarbeiterin und jeder Mitarbeiter der Gruppe weiß, dass wir Intransparenz und Unehrlichkeit in geschäftlichen Angelegenheiten sofort sanktionieren.
+
+
+MutDenkst du nur in Lösungen? Oder setzt du sie auch um? Mut hat mit Unternehmergeist, einer gewissen Risikobereitschaft und viel Engagement zu tun (verbunden mit dem Bestreben, alle Zusagen einzuhalten). Mut ist die Grundlage für Wettbewerbsfähigkeit: einerseits geht es darum, entschlossen Entscheidungen zu fällen oder ihre Umsetzung zu forcieren, und andererseits zu akzeptieren, dass die eigene Ausrichtung und der Status quo von Zeit zu Zeit hinterfragt werden. Mut muss mit Umsicht und vorausschauender Planung kombiniert werden, sonst schlägt sie in gefährlichen Leichtsinn um.
+VertrauenDu bist Entscheidungsträger? Oder vertraust du auch den Entscheidungen anderer?Vertrauen heißt, Verantwortung auf Einzelne und Teams zu übertragen und sicher zu stellen, dass möglichst viele Entscheidungen in enger Abstimmung mit den Betroffenen gefällt werden. Vertrauen ist die Basis für Offenheit in unserem Unternehmen und sorgt dafür, dass sich Ideen frei entfalten können und Wissen geteilt wird.
+SpaßTechnologien interessieren dich? Oder sind sie sogar deine Leidenschaft? Spaß bedeutet, sich im Unternehmen und im Team wohlzufühlen, stolz auf seine Arbeit zu sein, Freude daran zu haben, die Qualität zu verbessern und die Effizienz zu erhöhen und an herausfordernden Projekten zu arbeiten.
+BescheidenheitOrientierst du dich nur an deinen Erfolgen? Oder gibt dir auch Feedback neuen Schwung? Bescheidenheit ist für uns Einfachheit, also das Gegenteil von Affektiertheit, Anmaßung, Wichtigtuerei, Arroganz und Überheblichkeit. Einfachheit hat nichts mit Naivität zu tun, es geht vielmehr darum, diskret und bescheiden zu agieren, mit gesundem Menschenverstand aufmerksam gegenüber anderen zu sein und sich die Mühe zu machen, Dinge zu erklären. Bescheidenheit heißt auch, Kolleg*innen offen, entspannt und mit Humor zu begegnen.
+FreiheitWillst du deine Grenzen testen? Oder sie überwinden? Freiheit meint die Freiheit des Geistes, der Meinung und des Handelns. Wir denken und handeln kreativ und unternehmerisch, tolerant und respektvoll. Wir akzeptieren andere Menschen, Kulturen und Gepflogenheiten, was in einem Unternehmen mit mehr als 260.000 Mitarbeitenden aus über 120 verschiedenen Nationen essenziell ist.
+TeamgeistStrebst du nur nach Erfolg? Oder ziehst du auch andere auf dem Weg mit? Teamgeist lebt von Freundschaft, Glaubwürdigkeit, Großzügigkeit, Fairness und der Bereitschaft, den Erfolg der Arbeit mit allen zu teilen. Teamgeist bedeutet auch Verantwortung zu übernehmen und sich gegenseitig zu unterstützen, wenn es schwierig wird.
+
+Werde Teil unseres Teams
+Schöpfe mit uns dein volles Potenzial aus:
+
+Weltweit führender Engineering-Partner
+Branchenübergreifende Kompetenzen
+Fokus auf F&E und Innovation
+Arbeit an wegbereitenden Spitzentechnologien
+Internationale Projekte
+
+
+Zu den Jobs
+
+
+
+
+
+Mehr über Capgemini Engineering Unsere ServicesWir sind globaler Marktführer von Ingenierus- sowie F&E Dienstleistungen. Warum Capgemini Engineering? Den Fortschritt abwarten? Nicht mit uns! Denn wir bewegen die Welt von morgen. Corporate Social ResponsibilitiesGemeinsam können wir die Zukunft gestalten, die wir uns für unsere Mitmenschen, unsere Gesellschaft und unseren Planeten wünschen.
+
+
+",Warum Capgemini Engineering?,"{'@type': 'ImageObject', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2021/04/Capgemini_Careers_Engineering-1-1.jpg'}",Uncategorized,['deepakholgade'],2022-07-11T11:41:03Z,2022-07-11T11:41:03Z,,
+https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vYmFja2dyb3VuZC50YWdlc3NwaWVnZWwuZGUvZGlnaXRhbGlzaWVydW5nL2pvYWNoaW0taGVydHpiZXJn0gEA?oc=5,Porträt von Joachim Hertzberg - Tagesspiegel Background,2022-10-07,Tagesspiegel Background,https://background.tagesspiegel.de,N/A,N/A,N/A,N/A,https://schema.org,,NewsArticle,,,,,,,,,2022-10-07,,"{'name': 'Tagesspiegel Background', '@type': 'Organization', 'logo': {'@type': 'ImageObject', 'url': '/build/images/logo/background-logo.png'}}","{'@type': 'Person', 'name': 'Kevin Gallant', 'description': ''}",/digitalisierung-und-ki/briefing/joachim-hertzberg,N/A,N/A,N/A,Joachim Hertzberg,"[{'@type': 'ImageObject', 'url': 'https://images.ctfassets.net/jq1xw71av3v5/MAJptPotnk0QhAVOeWBeo/949629c2fc8fec649f3a5d6ce2ce8353/Hertzberg-Foto.jpg.png', 'description': 'DFKI/Jürgen Mai', 'name': 'Joachim Hertzberg'}]",,,,2022-10-07,False,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.ts-paywall-content'}"
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFlcnp0ZWJsYXR0LmRlL25hY2hyaWNodGVuLzEzNzg2OS9LSS1pbi1kZXItTWVkaXppbi1NZWhyLXBvc2l0aXZlLUdlc2NoaWNodGVuLWVyemFlaGxlbtIBAA?oc=5,KI in der Medizin: Mehr positive Geschichten erzählen - Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin,2022-10-07,Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin,https://www.aerzteblatt.de,"München – Die Nutzung von künstlicher Intelligenz (KI) in der Medizin wird Ärzte nicht überflüssig machen. Dessen ist sich Felix Balzer, Direktor des Instituts... #Digitalisierung #Telematikinfrastruktur","E-Health, Künstliche Intelligenz, Nachrichten, Vermischtes","München – Die Nutzung von künstlicher Intelligenz (KI) in der Medizin wird Ärzte nicht überflüssig machen. Dessen ist sich Felix Balzer, Direktor des Instituts... #Digitalisierung #Telematikinfrastruktur",N/A,,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm90cy5hdC9wcmVzc2VhdXNzZW5kdW5nL09UU18yMDIyMTAxMV9PVFMwMDMwL2t1ZW5zdGxpY2hlLWludGVsbGlnZW56LXNvbGwtZ3V0ZXMtYmV3aXJrZW7SAS9odHRwczovL3d3dy5vdHMuYXQvYW1wL3ByL09UU18yMDIyMTAxMV9PVFMwMDMwLw?oc=5,Künstliche Intelligenz soll Gutes bewirken - APA OTS,2022-10-11,APA OTS,https://www.ots.at,2000 Führungskräfte aus aller Welt bei der IESE Business School München (FOTO),"Bildung, Wirtschaft und Finanzen, Wissenschaft, Technologie, Hochschulwesen, Presseaussendung, Pressemitteilung, APA, OTS, APA-OTS",2000 Führungskräfte aus aller Welt bei der IESE Business School München (FOTO),2000 Führungskräfte aus aller Welt bei der IESE Business School München (FOTO),,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+Künstliche Intelligenz soll Gutes bewirken
+2000 Führungskräfte aus aller Welt bei der IESE Business School München (FOTO)
+München (ots) - Künstliche Intelligenz soll Gutes bewirken. ""Artificial Intelligence: Using your power for good"", darüber diskutierten 2000 Alumni der IESE Business School in München mit weltweit renommierten Vordenkern, Experten und Praktikern. ""Künstliche Intelligenz kann helfen, gesellschaftliche Probleme zu lösen. Wirtschaft kann eine Kraft sein, die Gutes bewirkt"", so IESE-Dean Prof. Franz Heukamp. IESE-Alumni, insgesamt 54.000, finden sich in den Führungsetagen weltweit operierender Unternehmen und Institutionen. IESE bietet akademische Zusatzausbildung für Führungskräfte auf höchstem internationalem Niveau und ist die einzige internationale Top-Business-School mit einem Campus in Deutschland. Im Science Congress Center in Garching bei München war man sich einig: Künstliche Intelligenz formt Einzelne ebenso wie Organisationen, Märkte und Geopolitik - und stellt uns vor komplexe ethische Herausforderungen. Während die künstliche Intelligenz lange Zeit nicht hielt, was sie versprach, beginnt sie nun zu liefern. So zahlreich und vielfältig wie ihre Anwendungen sind auch ihre Auswirkungen. Künstliche Intelligenz wird einen wachsenden Einfluss auf den Einzelnen haben, im Privat- und Berufsleben - als Kunde, dessen Daten gesammelt werden, und als Angestellter, der an einem datengesteuerten Arbeitsplatz arbeitet. ""Der IESE Business School geht es nicht nur um den wirtschaftlichen Erfolg eines Unternehmens, es geht ebenso darum, wie der Erfolg erzielt wird - der Mensch steht im Vordergrund"", so der Münchner Geschäftsführer Dr. Michael Winkler. KI wird von Daten gespeist, der Großteil stammt von Kunden - was unmittelbar Fragen des Datenschutzes aufwirft. Unternehmen müssen sicherstellen, dass die Privatsphäre respektiert wird und an Vertrauen, Fairness, Transparenz und Erklärbarkeit arbeiten. Einen herzlichen Willkommengruß an ""eine der besten Business Schools der Welt"" überbrachte im Namen der Staatsregierung Bayerns Digitalministerin Judith Gerlach. ""KI wird unsere Zukunft formen."" Bayern treibe die Digitalisierung für Bürger:innen und Unternehmen gleichermaßen voran. ""Neue Technologien etablieren sich nur dann langfristig, wenn ihnen vertraut wird"", so Judith Gerlach. ""Digitale Transformation findet mit oder ohne uns statt - wir in Bayern gestalten sie mit."" Manager müssen KI verstehen, aber nicht zwingend Technologie-Freaks sein. ""Man muss ständig über Technologien informiert sein, KI ist eine davon"", so SAP-Chefentwickler Jürgen Müller. Aber es gehe über technologische Kompetenzen hinaus. ""Man muss kreativ genug sein, um bestehende Prozesse in Frage zu stellen"". Für Dario Gil, Senior Vice President und Forschungsleiter bei IBM, ist die KI in eine Phase eingetreten, die sie für mehr Unternehmen zugänglich macht. Mussten die ersten Anwender noch die Herkulesaufgabe des Sammelns, Kennzeichnens und Bereinigens riesiger Datensätze auf sich nehmen, so könnten die Unternehmen jetzt auf bereits bewährte Algorithmen zurückgreifen. Gil sieht Kundenbetreuung und IT-Management als Einsatzgebiete für KI. ""Was heute mit KI in der Kundenbetreuung möglich ist, ist bereits so erprobt, dass sich nur noch die Frage der Skalierung stellt"", so Gil. KI könne mehr als vorgefertigte Standardlösungen bieten, wenn sie selbstlernend konstruiert sei, löse sie Probleme sehr individuell. Philippe Sahli, Mitbegründer und CEO von Yokoy, erörterte, wie KI kleine Schritte in größeren Prozessen löst. Yokoy setze KI in der Kreditorenbuchhaltung ein: die KI sehe sich Finanzdokumente an und entscheide, um welche Art von Dokument es sich handle, entlaste so die Mitarbeiter. ""Für uns erledigt die KI kleine Aufgaben in der Wertschöpfungskette"". ""Fangen Sie klein an, prüfen Sie die Möglichkeiten, nutzen Sie bestehende Plattformen"", so Florian Deter, Geschäftsführer von Microsoft Deutschland. Nazim Cetin, CEO von Allianz X, ist hehren Ansprüchen an die Reichweite künstlicher Intelligenz gegenüber eher skeptisch, die er eher als Algorithmen und maschinelles Lernen denn als echte Intelligenz sieht. Technologie ist heute auch Teil der geopolitischen Landschaft. Der Wert einiger Technologieunternehmen übersteigt das BIP vieler Länder und verleiht ihnen enormen Einfluss. Und Technologien wie KI können als politisches Mittel eingesetzt werden. Wie die jüngste Kontroverse um die Dominanz Taiwans auf dem Mikrochipmarkt zeigt, sind Technologie, Märkte und Politik untrennbar miteinander verwoben. Für María Marced, Präsidentin von TSMC Europe, wird das in der Halbleiterindustrie auch in Zukunft so bleiben, da kein Land oder keine Region hier alleine vorgehen könne. Es steht viel auf dem Spiel, so Prof. Llewelleyn D. W. Thomas: ""KI ist nicht nur eine Technologie. KI hat die Fähigkeit, die wirtschaftliche Entwicklung tiefgreifend zu beeinflussen.""
+Rückfragen & Kontakt:
+Markus Kurz  
+   Pressesprecher IESE Business School München 
+www.iese.edu  
+   mk Public Relations - Mobiltel. +49 172 812 4378 - E-Mail 
+Markus.Kurz@mkpr.info - www.mkpr.info
+
+
+	OTS-ORIGINALTEXT PRESSEAUSSENDUNG UNTER AUSSCHLIESSLICHER INHALTLICHER VERANTWORTUNG DES AUSSENDERS | EUN0001	
+
+
+Nachsorge-Camps der Sonne...
+Fort Knox Jackpot mit übe...
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvcmVzZWFyY2gvdGhlLWZ1dHVyZS1vZi13b3JrL9IBAA?oc=5,The Future of Work: Von Remote zu Hybrid - Capgemini,2022-10-07,Capgemini,https://www.capgemini.com,N/A,[],N/A,N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/', 'url': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/', 'name': 'The Future of Work: Von Remote zu Hybrid - Capgemini Germany', 'isPartOf': {'@id': 'https://www.capgemini.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/12/the-future-of-work.png', 'datePublished': '2020-12-15T07:49:00+00:00', 'dateModified': '2024-03-18T13:31:26+00:00', 'breadcrumb': {'@id': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/de-de/insights/research/the-future-of-work/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/#primaryimage', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/12/the-future-of-work.png', 'contentUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/12/the-future-of-work.png', 'width': 2880, 'height': 1800}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/de-de/insights/research/the-future-of-work/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Research &amp; insights', 'item': 'https://www.capgemini.com/de-de/research-and-insight/'}, {'@type': 'ListItem', 'position': 2, 'name': 'The Future of Work: Von Remote zu Hybrid'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",NewsArticle,http://www.capgemini.com/de-de/insights/research/the-future-of-work/,,,,,,https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/12/the-future-of-work.png?w=150&h=150&crop=1,,2024-03-18T13:31:26Z,,"{'@type': 'Organization', 'name': 'Capgemini Germany', 'logo': ''}","[{'@type': 'Person', 'name': 'tamaslugosi'}]","{'@type': 'WebPage', '@id': 'http://www.capgemini.com/de-de/insights/research/the-future-of-work/'}",N/A,N/A,"
+
+ReportThe Future of WorkVon Remote zu HybridDownload Report5 MB  pdfInfografik875 KB  pdfDownload Summary Report880 KB  pdf
+FacebookLinkedinIn der neuen Normalität ist der Mensch wichtiger denn je.Telearbeit war schon vor der Pandemie auf dem Vormarsch. Aber es geht um mehr als nur um niedrigere Gemeinkosten für Unternehmen oder “Strandbüros” auf abgelegenen tropischen Inseln für die Mitarbeiter. Langfristig ist nur ein Modell tragfähig, das den Mitarbeitern Flexibilität und Wahlmöglichkeiten und den Unternehmen Flexibilität und Stabilität bietet. Wir wollten die Entwicklung von “Remote Working” zu “Hybrid Working” verstehen.
+
+In diesem Bericht des Capgemini Research Institute – The future of work: From remote to hybrid – haben wir 500 Unternehmen und 5.000 Mitarbeiter in aller Welt befragt und mit Wissenschaftlern und Führungskräften gesprochen. Wir haben herausgefunden, dass die Telearbeit definitiv die neue Normalität ist – 75 % der Unternehmen erwarten, dass mindestens 30 % ihrer Mitarbeiter aus der Ferne arbeiten, während über 30 % davon ausgehen, dass 70 % ihrer Belegschaft aus der Ferne arbeiten werden. Im Zuge der Umstellung stellen die Unternehmen fest, dass die Telearbeit die Produktivität und die Kosteneinsparungen um bis zu 24 % im dritten Quartal 2020 erhöht hat. Doch während fast 70 % der Unternehmen davon ausgehen, dass diese Vorteile die Pandemie überdauern werden, insbesondere aufgrund der Einsparungen bei den Kosten für Immobilien, Gebäudemanagement und Geschäftsreisen, sind die Mitarbeiter besorgt über die langfristigen Folgen. Die Hälfte der neuen Mitarbeiter, mit denen wir gesprochen haben, gab an, dass sie kündigen würden, wenn ihnen nur die Möglichkeit der Fernarbeit angeboten würde.
+Der Übergang zu einem hybriden Arbeitsmodell ist unvermeidlich, aber man kann seinen Mitarbeitern nicht einfach einen Laptop und einen Bonus für den Kauf eines besseren Stuhls geben. Die Unternehmen müssen sich auf die Mitarbeiter konzentrieren – auf ihre sich ändernden Bedürfnisse und Verhaltensweisen. Nur wenn sie die Art und Weise, wie sie verwalten und führen, ändern, die Berührungspunkte mit den Mitarbeitern neu gestalten und die Rolle des physischen Arbeitsplatzes neu definieren, werden sie ein wirklich hybrides Modell schaffen und die verbesserte Produktivität, die geringeren Kosten, die erneuerten Rollen der Führungskräfte und das gestärkte kulturelle Gefüge sehen, die das Ergebnis dieser neuen Normalität sein können.
+Doch auch wenn unsere Arbeitsweise zunehmend von künstlicher Intelligenz bestimmt wird, wird die neue Normalität nicht ohne eine menschliche Dimension sein.
+
+Download Full Report
+Download Infografik
+Download Summary Report
+
+
+Bleiben Sie informiertAbonnieren Sie die neuesten Berichte des Capgemini Research Institutes auf unserer globalen Website, um diese direkt per E-Mail zu erhalten. Abonnieren 
+
+",The Future of Work: Von Remote zu Hybrid,"{'@type': 'ImageObject', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/12/the-future-of-work.png'}",Uncategorized,['tamaslugosi'],2020-12-15T07:49:00Z,2020-12-15T07:49:00Z,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvcmVzZWFyY2gvd29ybGQtcmV0YWlsLWJhbmtpbmctcmVwb3J0L9IBAA?oc=5,World Retail Banking Report 2024 - Capgemini,2022-10-09,Capgemini,https://www.capgemini.com,N/A,[],The customer engagement imperative: What banks can learn from the FinTech playbook,N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/', 'url': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/', 'name': 'World Retail Banking Report 2024 - Capgemini Germany', 'isPartOf': {'@id': 'https://www.capgemini.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2024/03/wrbr.jpg', 'datePublished': '2024-03-05T08:55:00+00:00', 'dateModified': '2024-06-26T13:29:11+00:00', 'breadcrumb': {'@id': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/#primaryimage', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2024/03/wrbr.jpg', 'contentUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2024/03/wrbr.jpg', 'width': 2800, 'height': 1800}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/de-de/insights/research/world-retail-banking-report/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Research &amp; insights', 'item': 'https://www.capgemini.com/de-de/research-and-insight/'}, {'@type': 'ListItem', 'position': 2, 'name': 'World Retail Banking Report 2024'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",NewsArticle,http://www.capgemini.com/de-de/insights/research/world-retail-banking-report/,,,,,,https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2024/03/wrbr.jpg?w=150&h=150&crop=1,,2024-06-26T13:29:11Z,,"{'@type': 'Organization', 'name': 'Capgemini Germany', 'logo': ''}","[{'@type': 'Person', 'name': 'andreafedderson'}]","{'@type': 'WebPage', '@id': 'http://www.capgemini.com/de-de/insights/research/world-retail-banking-report/'}",N/A,N/A,"
+
+Financial servicesWorld Retail Banking Report 2024
+FacebookTwitterLinkedin
+Intelligente Banken erreichen mit weniger mehr: Machen Sie einen Effizienzsprung mit reibungslosem, personalisiertem Banking
+Im Jahr 2024 stehen Retail-Banken weltweit vor einem volatilen und unsicheren Umfeld. Die Bewältigung dieses komplexen Terrains wird eine Herausforderung sein und intelligente Lösungen erfordern, um die Rentabilität aufrechtzuerhalten und gleichzeitig ein erstklassiges Kundenerlebnis zu bieten.
+Zu den Ergebnissen des World Retail Banking Report 2024 (Ausgabe zum 20-jährigen Jubiläum), die die Ansichten von 250 leitenden Bankmanagern, 1.500 Bankmitarbeitern und 4.500 Privatkundenbankkunden widerspiegeln, gehören:
+
+Trotz erheblicher geschäftlicher Herausforderungen und der Notwendigkeit von Kostendisziplin werden Banken weiterhin in die digitale Transformation investieren und sich dabei stark auf KI und Generative KI fokussieren.
+Da sich KI-Anwendungen vervielfachen, müssen für skalierbare Vorteile ein ausgewogenes Verhältnis zwischen Verbesserungen des Kundenerlebnisses und Optimierung der betrieblichen Effizienz erzielt werden.
+Die meisten Retail-Banken haben bei der Entwicklung ihrer Technologie und ihres Datenbestands noch viel Arbeit vor sich, um den vollen Wert ihrer intelligenten Transformation auszuschöpfen.
+
+
+
+Jetzt herunterladen
+
+
+
+Highlights der Studie
+Highlight 1Hauptmerkmale des Generativen KI-Copiloten, die ungenutztes Arbeitskräftepotenzial freisetzenGenerative KI leitet das Copiloten-Zeitalter ein und steigert die Effizienz der Arbeitskräfte, indem sie nahtlos mit menschlichen Bedienern zusammenarbeitet und Einblicke, Empfehlungen und adaptive Unterstützung bietet. Die von uns befragten Bankmitarbeiter identifizierten die folgenden kritischen Copilot-Elemente, die ihre Produktivität steigern könnten.
+
+
+
+Highlight 2Da Bankangestellte mit ihren täglichen Aufgaben zu kämpfen haben, sinkt die KundenbindungNur 9 % der Zeit des Kunden-Onboarding-Teams einer Bank werden für die Kundeninteraktion aufgewendet, und ein erheblicher Teil dieser Zeit entfällt auf die Bearbeitung prozessbezogener Fragen. Contact-Center-Mitarbeiter widmen 82 % ihrer Zeit mit Kunden betrieblichen und unterstützenden Aufgaben, anstatt sich produktiver auf Kundenbedürfnisse und Verkäufe zu fokussieren.​
+
+
+
+Highlight 3Den meisten Banken fehlt die Bereitschaft für Generatives, KI-gestütztes und intelligentes BankingBanken stehen bei der Einführung unternehmensweiter KI aufgrund veralteter Systeme und inkompatibler Prozesse vor mehreren Hindernissen. Die meisten Banken sind nicht auf intelligentes Banking vorbereitet, das durch Generative KI vorangetrieben wird, und es mangelt ihnen an Geschäfts-, Technologie- und Datenbereitschaft.
+
+
+
+Highlight 4Banken hinken bei der Entwicklung von KPIs zur Messung der Leistung Generativer KI hinterherDie Bewertung der Auswirkungen Generativer KI ist für Banken in zahlreichen Aspekten der Strategie und Leistung von entscheidender Bedeutung. Das Verständnis der Auswirkungen hilft bei der Bewertung von KI-Systemen und stellt sicher, dass sie mit den Zielen und Benchmarks der Bank übereinstimmen. Trotz ihrer Bedeutung hinken viele Banken der Implementierung effektiver KPIs zur Überwachung der Auswirkungen Generativer KI hinterher.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generative KI für Finanzdiensleister
+
+
+Effizienzsteigerungen, Verbesserung der Customer Experience, Kostensenkungen – Gen AI bietet auch für den Finanzsektor ein großes Potenzial.
+
+
+
+ 
+												Mehr erfahren											 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weitere Studien
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capgemini Research Institute
+CMO Playbook Gen AI
+
+
+
+
+
+
+
+
+
+Point of view
+Wie Banken ihr Produktangebot optimieren können, um ihr Wachstum zu steigern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Point of view
+Mit generativer KI eine neue Ära der Customer Experience einläuten
+
+
+
+
+
+
+
+
+
+Point of view
+Wachstum beschleunigen: Wie Banken die Personalisierung ihrer Kunden vorantreiben können
+
+
+
+
+
+
+
+
+Unsere Services
+Retail Banking
+Banking and capital markets
+
+
+",World Retail Banking Report 2024,"{'@type': 'ImageObject', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2024/03/wrbr.jpg'}",Uncategorized,['andreafedderson'],2024-03-05T08:55:00Z,2024-03-05T08:55:00Z,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5jYXBnZW1pbmkuY29tL2RlLWRlL2luc2lnaHRzL3Jlc2VhcmNoL2RpZ2l0YWxlLXRyYW5zZm9ybWF0aW9uLXVuZC1kZXItd2FuZGVsLWRlci1hcmJlaXRzd2VsdC1pbS1vZWZmZW50bGljaGVuLWRpZW5zdC_SAQA?oc=5,Digitale Transformation und der Wandel der Arbeitswelt im öffentlichen Dienst - Capgemini,2022-10-07,Capgemini,https://www.capgemini.com,N/A,N/A,N/A,N/A,https://schema.org,"[{'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+					Seite nicht gefunden				
+
+					Es tut uns leid, diese Seite wurde entfernt oder umbenannt. Bitte folgen Sie einem der unten stehenden Links oder verwenden Sie die Suche.				
+
+
+
+Insights
+Branchen
+Services
+Karriere
+News
+Über Uns
+ 
+
+
+
+
+
+ 
+Suche
+Suche
+
+
+
+
+
+
+Capgemini entdecken
+
+
+
+ 
+
+
+
+Über Uns
+
+Wir sind einer der weltweit führenden Partner für Unternehmen bei der Steuerung und Transformation ihres Geschäfts durch den Einsatz von Technologie.
+
+
+
+
+ 
+
+
+
+Karriere
+
+Werde Teil von Capgemini! Wir bieten dir ein inspirierendes Team, flexible Karrieremöglichkeiten sowie die Freiheit, mit deiner Arbeit für dich und andere Perspektiven zu schaffen.
+
+
+
+
+
+
+
+
+Kontakt
+
+Für alle anderen Anfragen sowie Fragen zu unserem Portfolio, Projektausschreibungen, Kooperationen etc. nutzen Sie bitte dieses Formular und wir werden uns mit Ihnen in Verbindung setzen.
+
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvcmVzZWFyY2gvbWEtcmV2aWV3LWFnaWxlLXBtaS_SAQA?oc=5,M&A Review: Agile PMI - Capgemini,2022-10-07,Capgemini,https://www.capgemini.com,N/A,N/A,N/A,N/A,https://schema.org,"[{'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+					Seite nicht gefunden				
+
+					Es tut uns leid, diese Seite wurde entfernt oder umbenannt. Bitte folgen Sie einem der unten stehenden Links oder verwenden Sie die Suche.				
+
+
+
+Insights
+Branchen
+Services
+Karriere
+News
+Über Uns
+ 
+
+
+
+
+
+ 
+Suche
+Suche
+
+
+
+
+
+
+Capgemini entdecken
+
+
+
+ 
+
+
+
+Über Uns
+
+Wir sind einer der weltweit führenden Partner für Unternehmen bei der Steuerung und Transformation ihres Geschäfts durch den Einsatz von Technologie.
+
+
+
+
+ 
+
+
+
+Karriere
+
+Werde Teil von Capgemini! Wir bieten dir ein inspirierendes Team, flexible Karrieremöglichkeiten sowie die Freiheit, mit deiner Arbeit für dich und andere Perspektiven zu schaffen.
+
+
+
+
+
+
+
+
+Kontakt
+
+Für alle anderen Anfragen sowie Fragen zu unserem Portfolio, Projektausschreibungen, Kooperationen etc. nutzen Sie bitte dieses Formular und wir werden uns mit Ihnen in Verbindung setzen.
+
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvcmVzZWFyY2gvc3RlbGxhbnRpcy1ha2FkZW1pZS1uaWNodC1qZWRlci1rYW5uLXNvZnR3YXJlLWFiZXItdmllbGUv0gEA?oc=5,"Stellantis Akademie: Nicht jeder kann Software, aber viele - Capgemini",2022-10-07,Capgemini,https://www.capgemini.com,N/A,['innovation'],N/A,N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/', 'url': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/', 'name': 'Stellantis Akademie: Nicht jeder kann Software, aber viele - Capgemini', 'isPartOf': {'@id': 'https://www.capgemini.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/09/MU_Auto_Supplier-HUB_Website-Hea-3.jpg', 'datePublished': '2022-06-15T13:19:00+00:00', 'dateModified': '2024-07-03T09:52:08+00:00', 'breadcrumb': {'@id': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/#primaryimage', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/09/MU_Auto_Supplier-HUB_Website-Hea-3.jpg', 'contentUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/09/MU_Auto_Supplier-HUB_Website-Hea-3.jpg', 'width': 540, 'height': 304}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Research &amp; insights', 'item': 'https://www.capgemini.com/de-de/research-and-insight/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Stellantis Akademie: Nicht jeder kann Software, aber viele'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",NewsArticle,http://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/,,,,,,https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/09/MU_Auto_Supplier-HUB_Website-Hea-3.jpg?w=150&h=150&crop=1,,2024-07-03T09:52:08Z,,"{'@type': 'Organization', 'name': 'Capgemini Germany', 'logo': ''}","[{'@type': 'Person', 'name': 'deepakholgade'}]","{'@type': 'WebPage', '@id': 'http://www.capgemini.com/de-de/insights/research/stellantis-akademie-nicht-jeder-kann-software-aber-viele/'}",N/A,N/A,"
+
+Stellantis Akademie: Nicht jeder kann Software, aber viele06/22
+FacebookLinkedinAutohersteller Stellantis plant, jährlich eine vierstellige Anzahl an jahrelangen Mitarbeiter für die Softwareeinheit SWX aufzubauen. Dafür müssen sie ausgebildet werden. Das ist eine Herausforderung.Stellantis hat Großes vor: Bis 2024 will der Automobilhersteller drei neue KI-gestützte Technologieplattformen fertig haben. „Brain“, „Smartcockpit“ und „AutoDrive“ sollen dann Over-the-Air-Updates ermöglichen, das digitale Leben ins Auto holen und autonomes Fahren vorbereiten. Peilt die Konzernspitze bis 2026 noch vier Milliarden Euro Jahresumsatz mit softwaregestützten Produktangeboten und Abonnements an, soll diese Summe bis 2030 bereits auf das Fünffache gestiegen sein. Die Herausforderung ist zunächst fast weniger eine technische, als vielmehr eine der fehlenden personellen Ressourcen.
+
+Transformation plus Alterspyramide: Die Herausforderungen für OEMs und Zulieferer
+OEMs und Autozulieferer sitzen in einer doppelten Falle: Zum einen erfordert die Transformation in der Industrie oft neue Fähigkeiten der Mitarbeiter ein. Zum anderen verlassen immer mehr kompetente und erfahrene Mitarbeiter aus Altersgründen die Unternehmen. In den kommenden zehn Jahren wird nach Zahlen der IT Trend Studie 2022 von Capgemini mehr als jeder fünfte Mitarbeiter (23 %) in der IT in den Ruhestand gehen – Tendenz: steigend. Mehr als 50 Prozent der CIOs in Unternehmen befürchten negative Auswirkungen, nur knapp 13 % sehen die Situation optimistisch. Know-how-Verlust, Fachkräftemangel und Verlust von Leistungsträgern treiben den CIOs dabei die größten Sorgenfalten auf die Stirn.
+Aus einem Ingenieur einen Softwareexperten machen
+Stellantis ergreift die Flucht nach vorne: Von den mehr als 30.000 Ingenieuren im Unternehmen will der globale Chef der Software-, Hardware- und KI-Entwicklung Joachim Langenwalter nach und nach etwa 15 Prozent in seiner neuen Softwareeinheit weiterbeschäftigen. Etwa 1.000 Mitarbeiter sind bereits in der „Stellantis SWX“ (kurz für Software-Driven Experience) vereint. „Wir wachsen derzeit pro Monat dreistellig“, freut sich Langenwalter, „die eine Hälfte kommt aus dem Unternehmen, die andere wird extern aufgebaut.“ Eine zunehmende Rolle wird die Stellantis Data & Software Akademie dabei spielen, Mitarbeiter, die bislang in der Fertigung, der Qualitätssicherung, für Otto- oder Dieselmotoren und Ähnliches ihr Wissen eingebracht haben, für neue Aufgaben fit zu machen. „Wir bieten unseren loyalen Mitarbeitern weitere Wachstumschancen“, sagt Langenwalter. Zudem seien die eigenen Mitarbeiter besonders motiviert, wenn sie damit ihren sicheren Job behalten könnten.
+Stellantis Data & Software Akademie: 500 bis 1.000 Mitarbeiter jährlich auf eine neue Rolle im Unternehmen vorbereiten
+„Neben der kontinuierlichen Weiterbildung von Softwarespezialisten und Datenexperten geht es uns künftig besonders darum, Kollegen in den Softwarebereich zu bringen, die bisher im Engineering, in der ICT, aber auch im Sales, im Service oder der Fertigung gearbeitet haben“, sagt Anne Fenninger, die seit Anfang des Jahres die Stellantis Akademie aufbaut. 500 bis 1.000 Mitarbeiter will die für die Data & Software Akademie verantwortliche Fenninger Jahr für Jahr weiterbilden und umschulen: „Find the best fit to the past they have“, lautet ihr Motto. Nicht jeder erhält die Chance auf einen Platz in der Akademie. Von den etwa 250 Stellantis-Mitarbeitern, die sich innerhalb der ersten sechs Wochen nach Gründung der Akademie für ein Training beworben haben, wurde bisher etwa jeder zweite genommen. „Ihre technischen Fähigkeiten, Soft Skills und auch der Englisch-Level müssen passen“, so Fenninger.
+Was Partnerschaften mit Universitäten, Unternehmen und Dienstleistern leisten
+Partnerschaften spielen in der Qualifizierung der Zukunft eine wichtige Rolle: So unterstützt die Oakland University die Stellantis Data & Software Akademie künftig darin, etwa Ingenieuren ohne Software-Hintergrund das „Big Picture“ zu vermitteln und Deep Dives etwa für Embedded Software oder Cyber Security anzubieten. Softwaregigant Amazon wird Trainings für Amazon-spezifische Services anbieten. Derzeit laufen Gespräche mit potenziellen Partnern aus Italien, den USA und Indien.
+Auch der Lehrstuhl für Robotik, künstliche Intelligenz und Echtzeitsysteme der TU München diskutiert mit der Stellantis-Akademie, inwieweit ein Curriculum für künstliche Intelligenz den Autokonzern unterstützen kann. Lehrstuhlinhaber Prof. Alois Knoll hat jahrzehntelange Erfahrungen in der Zusammenarbeit mit der Industrie in Forschung, Entwicklung und Ausbildung. „Bei dem Bedarf in der Autoindustrie könnte man da einen eigenen Erwerbszweig draus machen“, ist sich Knoll sicher. Bei VW etwa hätten sich tausende Ingenieure viele Jahre darauf konzentriert, das Tuning von Parametern für Dieselmotoren zu übernehmen. „Ihnen eine neue Perspektive zu geben, ist eine Herausforderung“, so Knoll, der für die Weiterbildung von Experten auf Seiten von OEMs und Zulieferern besonders die Universitäten und Fachhochschulen in der Pflicht sieht: „Handwerkskammern etwa können die Aus- und Weiterbildung in sehr komplexen Technologien wie künstliche Intelligenz heute oft nicht mehr leisten.“
+Personalisierte Trainingspfade für geeignete Kandidaten
+Entsprechend stützt sich Stellantis-Manager Langenwalter auf Kooperationen mit Unis und Partnern aus der Industrie – ergänzt durch flankierende Maßnahmen. Dazu gehört, den Markt zu beobachten, Firmen zu kaufen, Mitarbeiter und IP aus schwächelnden Unternehmen herauszukaufen oder in einzelnen Ländern mithilfe von Servicedienstleistern wie u.a. Capgemini Forschungsstandorte und Personal aufzubauen. Besser steuerbar ist letztlich die Pflege der eigenen Mitarbeiter. „Wir müssen personalisierte Trainingspfade entwickeln und dafür den Hintergrund der Kandidaten miteinbeziehen“, sagt Akademie-Leiterin Fenninger, denn sie weiß: „Es ist es wert, einen neuen Job zu erlernen, wenn man noch 15 oder 20 Jahre Arbeit vor sich hat.“
+
+Zum Automotive Hub+
+
+
+Kontaktieren Sie unsere Expertin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anke Rieche
+
+
+Global Automotive Program Lead
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anke ist eine Business Development Expertin mit 20 Jahren Erfahrung in den Bereichen Software, Infrastruktur und Beratung. Als hochmotivierte Teamplayerin mit ausgeprägter Kundenorientierung hat sie sich einen Namen für die Entwicklung und Umsetzung von Markteinführungskonzepten gemacht, insbesondere im Zusammenhang mit den SAP-Plattformen S/4 HANA und Intelligent Enterprise, vor allem im Automobilmarkt. Anke ist davon überzeugt, dass Automobilzulieferer und OEMs durch den Einsatz der Automotive Cloud-Lösungen von SAP, einschließlich der gemeinsamen Entwicklungen von SAP und Capgemini und der Co-Innovation mit Pilotkunden, neue Dimensionen der Agilität und Geschwindigkeit erreichen können.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vorname *Vorname ist ungültig.Nachname *Nachname ist ungültig.E-Mail *E-Mail ist ungültig.Unternehmen/Organisation *Unternehmen/Organisation ist ungültig. 
+
+Country
+
+
+
+Country
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island & Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic Of
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States Of
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthelemy
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre And Miquelon
+Saint Vincent And Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And Sandwich Isl.
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Country
+Country ist ungültig.
+
+
+Telefon (optional)Ihre Nachricht *Ihre Nachricht ist ungültig. 
+Expert title					
+
+
+
+
+
+
+				Ich bin damit einverstanden, dass die von mir angegebenen Daten zum Zwecke der Bearbeitung meines Anliegens von der Capgemini Service SAS gespeichert und wie in den Nutzungsbedingungen und der Datenschutzerklärung beschrieben, verarbeitet werden.  			
+
+ 
+
+
+
+
+Pfeil nach rechts ziehen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Vielen Dank für Ihre Anfrage. Wir werden uns schnellstmöglich um die Bearbeitung kümmern.
+
+
+Es tut uns leid, die Übermittlung des Formulars ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+
+
+
+
+
+
+
+
+Weitere Artikel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artikel
+KI-basierte Simulation für Automotive Supply Chains: Präzise Prognosen trotz hoher Variantenvielfalt
+
+
+
+
+
+
+
+
+
+Artikel
+Automotive im Wandel: Fabrik-Börsenchart 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artikel
+Industry Cloud: Durch Apps von der Konkurrenz abheben
+
+
+
+
+
+
+
+
+
+Artikel
+Nachhaltigkeit: Nur wer transparent ist, wird resilient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artikel
+Software-gesteuerte Fabrik in Echtzeit: Der harte Weg in die Zukunft
+
+
+
+
+
+
+
+
+
+Artikel
+Nachhaltigkeit in der Automobilindustrie: KPIs müssen mehr gelebt werden
+
+
+
+
+
+
+
+Weitere Artikel zum Thema Automotive
+
+
+","Stellantis Akademie: Nicht jeder kann Software, aber viele","{'@type': 'ImageObject', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/09/MU_Auto_Supplier-HUB_Website-Hea-3.jpg'}",Uncategorized,['deepakholgade'],2022-06-15T13:19:00Z,2022-06-15T13:19:00Z,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvcmVzZWFyY2gvbmV4dC1zdG9wLWZvci1keW5hbWljLXByaWNpbmctcGMtaW5zdXJhbmNlLWNhcnJpZXJzL9IBAA?oc=5,Nächster Halt bei der dynamischen Preisgestaltung: P&C Versicherer - Capgemini,2022-10-07,Capgemini,https://www.capgemini.com,N/A,[],N/A,N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/', 'url': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/', 'name': 'Nächster Halt bei der dynamischen Preisgestaltung: P&C Versicherer - Capgemini Germany', 'isPartOf': {'@id': 'https://www.capgemini.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/04/dynamic-pricing.png', 'datePublished': '2022-04-12T09:00:00+00:00', 'dateModified': '2024-03-18T11:59:46+00:00', 'breadcrumb': {'@id': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/#primaryimage', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/04/dynamic-pricing.png', 'contentUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/04/dynamic-pricing.png', 'width': 1440, 'height': 900}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Research &amp; insights', 'item': 'https://www.capgemini.com/de-de/research-and-insight/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Nächster Halt bei der dynamischen Preisgestaltung: P&#038;C Versicherer'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",NewsArticle,http://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/,,,,,,https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/04/dynamic-pricing.png?w=150&h=150&crop=1,,2024-03-18T11:59:46Z,,"{'@type': 'Organization', 'name': 'Capgemini Germany', 'logo': ''}","[{'@type': 'Person', 'name': 'tamaslugosi'}]","{'@type': 'WebPage', '@id': 'http://www.capgemini.com/de-de/insights/research/next-stop-for-dynamic-pricing-pc-insurance-carriers/'}",N/A,N/A,"
+
+Nächster Halt bei der dynamischen Preisgestaltung: P&C VersichererDownload Point of View3 MB  pdf
+FacebookLinkedinVersicherer können jetzt die Macht der riesigen Mengen an Kundendaten und Cloud-Analysen nutzen, um personalisierte Tarife in Echtzeit profitabel anzubietenViele Branchen wie Fluggesellschaften, Fitnessstudios und Hotels nutzen derzeit künstliche Intelligenz (KI) und digitale Technologien, um dynamische Preise anzubieten und die Rentabilität zu steigern. In der Versicherungsbranche hat sich die Umstellung der Preisgestaltung jedoch nur langsam vollzogen, was vor allem an unzureichenden Informationen über die Produktnachfrage, der Unsicherheit über die Auswirkungen von Preisänderungen auf die Rentabilität und dem Fehlen einer skalierbaren Preisgestaltungsplattform liegt. Die Notwendigkeit einer dynamischen Preisgestaltung wird nur noch deutlicher werden, da die Versicherer darum konkurrieren, Daten zu nutzen und Deckungen zu personalisieren, um Marktanteile zu gewinnen und gleichzeitig die langfristige Rentabilität zu sichern.
+
+Die jüngsten Migrationen von Cloud-Daten haben die Tarifierungsstrategien der Versicherer grundlegend in Richtung einer dynamischen Tarifierung verändert, indem sie die Integration großer Mengen an externen und internen Daten ermöglicht haben. Dies hat es den Versicherern ermöglicht, Daten über risikoreiches Verhalten in dynamische Preismodelle einzubeziehen und wichtige Leistungsindikatoren (KPIs) in verschiedenen Regionen und Geschäftsbereichen zu überwachen. Die Nutzung all dieser Daten in einer skalierbaren Plattform und ihre leichte Verfügbarkeit sind entscheidend für den langfristigen Erfolg einer dynamischen Preisstrategie.
+Lesen Sie diesen Point of View über dynamische Preisgestaltung für Sachversicherer, um mehr zu erfahren über:
+
+die leistungsstarken Vorteile der Implementierung einer modernen Preisgestaltungsplattform, die dynamische Preisgestaltungsfunktionen beinhaltet
+die Rolle der Cloud-Migration bei der Verknüpfung von Daten und fortschrittlichen Technologien zur Verbesserung der Kundensegmentierung und zur Förderung schnellerer Markteinführungsstrategien
+das dreistufige Implementierungsprogramm von Capgemini, das die Preisstrategien von Versicherungsunternehmen schnell und effektiv modernisiert
+
+
+Download Point of  View
+
+
+
+",Nächster Halt bei der dynamischen Preisgestaltung: P&#038;C Versicherer,"{'@type': 'ImageObject', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2022/04/dynamic-pricing.png'}",Uncategorized,['tamaslugosi'],2022-04-12T09:00:00Z,2022-04-12T09:00:00Z,,

@@ -1,0 +1,595 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,articleSection,creator,datePublished,dateModified,isAccessibleForFree,headline,image,mainEntityOfPage,author,publisher,itemListElement,article:section,article:summary,article text,mainEntity,breadcrumb,@graph,name,inLanguage,dateCreated,articleBody,about
+https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5oYW5kZWxzYmxhdHQuY29tL2Fkdi9raS1pbi1kZXItYXV0b21vYmlsLWluZHVzdHJpZS13aWUta3VlbnN0bGljaGUtaW50ZWxsaWdlbnotZnVlci1tZWhyLWVmZml6aWVuei1iZWltLWF1dG9iYXUtc29yZ3QvMjU4OTYzNTIuaHRtbNIBAA?oc=5,KI in der Automobil-Industrie: Wie künstliche Intelligenz für mehr Effizienz beim Autobau sorgt - Handelsblatt,2020-06-08,Handelsblatt,https://www.handelsblatt.com,"Die Auto-Produktion wird smart: Mithilfe künstlicher Intelligenz lernen Roboter, Beschädigungen an Karosserien zu erkennen – und so künftig noch besser zu produzieren.",['siemens2020devsai'],"Die Auto-Produktion wird smart: Mithilfe künstlicher Intelligenz lernen Roboter, Beschädigungen an Karosserien zu erkennen – und so künftig noch besser zu produzieren.","Die Auto-Produktion wird smart: Mithilfe künstlicher Intelligenz lernen Roboter, Beschädigungen an Karosserien zu erkennen – und so künftig noch besser zu produzieren.",https://schema.org,BreadcrumbList,https://www.handelsblatt.com/adv/ki-in-der-automobil-industrie-wie-kuenstliche-intelligenz-fuer-mehr-effizienz-beim-autobau-sorgt/25896352.html,Advertorials,['Handelsblatt'],2020-06-08T12:06:39+02:00,2020-06-08T12:06:39+02:00,True,KI in der Automobil-Industrie,"{'@type': 'ImageObject', 'url': 'https://www.handelsblatt.com/images/kuenstliche-intelligenz-hilft-robotern-bei-der-qualitaetskontrolle-/25896432/2-formatOriginal.jpg', 'width': 2160, 'height': 1728}","{'@type': 'WebPage', '@id': 'https://www.handelsblatt.com/adv/ki-in-der-automobil-industrie-wie-kuenstliche-intelligenz-fuer-mehr-effizienz-beim-autobau-sorgt/25896352.html'}","[{'@type': 'Organization', 'name': 'Handelsblatt', 'url': 'https://www.handelsblatt.com'}]","{'@type': 'Organization', 'name': 'Handelsblatt', 'url': 'https://www.handelsblatt.com', 'logo': {'@type': 'ImageObject', 'url': 'https://www.handelsblatt.com/images/logo_handelsblatt_jsonld/22971056/3-formatOriginal.png', 'width': 411, 'height': 60}}","[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Handelsblatt', '@id': 'https://www.handelsblatt.com/'}}, {'@type': 'ListItem', 'position': 2, 'item': {'name': 'Advertorials', '@id': 'https://www.handelsblatt.com/adv/'}}, {'@type': 'ListItem', 'position': 3, 'item': {'name': 'KI in der Automobil-Industrie: Wie künstliche Intelligenz für mehr Effizienz beim Autobau sorgt'}}]",N/A,N/A,"
+
+
+
+
+KI in der Automobil-Industrie
+Wie künstliche Intelligenz für mehr Effizienz beim Autobau sorgt
+
+Die Auto-Produktion wird smart: Mithilfe künstlicher Intelligenz lernen Roboter, Beschädigungen an Karosserien zu erkennen – und so künftig noch besser zu produzieren. 
+
+
+08.06.2020 - 12:06 Uhr
+
+                    Kommentieren
+        
+
+
+9 x geteilt
+    
+
+
+Jetzt teilen
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+In kaum einer Branche läuft die Fertigung so hochgradig automatisiert ab wie in der Automobilindustrie. Vor allen zu Beginn der Produktion, beim Karosseriebau, verrichten Maschinen den Großteil der Arbeit: Aus schier endlosen Blech-Rollen stanzen, schneiden und formen sie Kotflügel, Türen, Motorhauben. Heerscharen von Robotern fügen die Einzelteile wie ein Puzzle zusammen und verschweißen sie zum Skelett des späteren Fahrzeugs. Anschließend erhält es seine Farbe – wieder durch Roboter, die den Lack exakt auf die Karosserie aufbringen. All diese Prozesse laufen hochpräzise ab, doch mitunter schleichen sich auch bei Maschinen kleine Fehler ein.      Sie am Ende der Karosserie-Produktion zu entdecken, ist Ziel der Qualitätskontrolle – heute noch vielfach eine Aufgabe für Mitarbeiter aus Fleisch und Blut. Denn menschliche Augen können kleine Unebenheiten oder andere Beschädigungen an der Karosserie am besten aufspüren. Automatische Systeme, etwa mit Kameras, tun sich dabei noch schwer: Zu komplex ist die Oberflächenstruktur moderner Autos – ein Mix aus Kurven, Wellen, Spalten und unregelmäßig geformten Anbauteilen wie Türgriffen oder Außenspiegeln. Hinzu kommen Licht-Reflexionen der Hallenbeleuchtung auf dem Lack, die das Kameraauge zusätzlich verwirren.imageResponsible AI: Wer steht gerade, wenn die KI sich irrt?Künstliche Intelligenz ist vielfältig. Sie verbessert Abläufe in der Fabrik, analysiert Fotos, lernt Autofahren. Doch was passiert, wenn sie Fehler macht, und wie gehen wir verantwortlich damit um? Siemens hebt diesen Bereich der Automobil-Fertigung nun auf eine neue Stufe der Automatisierung: Durch die Verzahnung der Produktion mit Technologien der künstlichen Intelligenz (KI) – und zwar bereits während der Produktion. „Durch die innovative Kombination aus digitalen Methoden und intelligenten Applikationen lassen sich nun Prozesse automatisieren, die zuvor nur schwer oder gar nicht automatisiert ablaufen konnten“, so Sebastian Israel, Manager bei Siemens. Zum Einsatz kommen die smarten Lösungen in den verschiedensten Stadien des Autobaus. Einen Anwendungsfall wird Siemens demnächst im Detail vorstellen: Die maschinelle Erkennung von Schäden an einer Karosserie mittels eines Kamerasystems.Mehr Effizienz, geringere KostenDas Verfahren läuft mehrstufig ab: Zunächst wird ein virtuelles Modell des Fahrzeugs mit all seinen spezifischen Oberflächenmerkmalen erstellt, der sogenannte digitale Zwilling. Auf dessen Grundlage berechnet ein intelligenter Algorithmus die optimale Kamerabahn und -neigung, die es braucht, um die Eigenschaften der realen Karosserie exakt und ohne störende Einflüsse etwa durch Lichtspiegelungen zu erkennen. Diese Informationen der KI nutzt anschließend ein Roboterarm mit aufmontierter Kamera, um das Auto von allen Seiten abzufahren.
+
+
+Die Auswertung der Bilder übernimmt wiederum eine speziell trainierte KI-Applikation, sie weist auf mögliche Anomalien hin. „Am Ende muss also kein Mensch mehr um die Karosserie herumlaufen“, erklärt Israel. „Das steigert die Effizienz der Qualitätskontrolle und senkt die Kosten.“image„Wikipedia für KIs”: Wenn Maschinen die Entscheidungen selbst treffenKünstliche Intelligenz wird zunehmend auch in der Industrie eingesetzt: Sie macht die Produktion flexibler und effizienter. Und sie unterstützt den Menschen, indem sie aus Daten Zusammenhänge herstellt. Dabei lernt der Algorithmus ständig dazu: Je mehr Beschädigungen das visuelle System erkennt, desto genauer kann es ableiten, welcher Defekt genau vorliegt. Mehr noch: „Da die KI auch die Position und Beschaffenheit etwa von kleinen Rissen auf der Karosse registriert, lässt sich auch eine Aussage darüber treffen, in welchem vorgelagerten Produktionsschritt sie wahrscheinlich entstanden sind“, erläutert Thibault de Assi, der als Global Head of Digitalization and Automation in Digital Industries bei Siemens die technische Entwicklung der intelligenten „Surface Defect Detection“ verantwortet. Dadurch ließen sich die Prozesse insgesamt optimieren – damit in Zukunft erst gar keine Fehler mehr entstehen.Siemens kann auf jahrzehntelange Erfahrung auf dem Gebiet der industriellen Prozesssteuerung zurückgreifen – und auf ein starkes Portfolio in Bezug auf Simulations-Software. „Wir kennen uns sehr gut mit sowohl Automatisierung als auch Simulation aus“, betont de Assi. „Dank KI und Industrial Edge können wir diese beide Welten sehr gut miteinander verbinden.“ Das kommt den Technologiekonzern auch bei anderen KI-Anwendungsfällen in der Automobilproduktion zugute – nämlich dort, wo smarte Applikationen auf Daten direkt aus der Maschine angewiesen sind.
+Ein Knopfdruck für alle MaschinenEiner dieser datengetriebenen Anwendungsfälle ist die Qualitätskontrolle nach dem sogenannten Widerstandspunktschweißen. Hier werden Metallteile durch elektrischen Strom miteinander verbunden – ein häufig praktiziertes Verfahren im Fahrzeugbau. Um die Güte des Schweißpunktes beurteilen zu können, bedient sich die KI-Applikation von Siemens einer Reihe von Parametern, wie etwa die angewandte Spannung, den Druck der Elektrode auf das Werkstück sowie die Halte- und Quetschzeit. Durch diese innerhalb der Maschine überwachten Größen ist eine Interpretation der Qualität möglich – und das an jedem einzelnen Schweißpunkt und in Echtzeit – das spart sonst erforderliche Inspektionen ein. Für eine derartige Qualitätskontrolle bereits in der Maschine muss eine hohe Rechenleistung nah an der Anlage vorhanden sein. Siemens stellt sie mit der Technologie Industrial Edge zur Verfügung. Daten können so vollständig an der Produktionslinie analysiert oder verzögerungsfrei vorverarbeitet werden. Industrial Edge hat im Zusammenspiel mit KI einen weiteren Vorteil: „Ein Autobauer“, sagt Sebastian Israel, „kann die KI-Grundapplikation für beispielsweise eine Druckgussmaschine quasi auf Knopfdruck auch auf alle anderen Maschinen dieses Typs in seinen Werken weltweit ausrollen.“ So lernen nicht nur einige, sondern alle Maschinen, wie sie künftig weniger Fehler machen.
+
+ 
+
+ 
+
+E-Mail
+
+
+Pocket
+
+
+Flipboard
+
+
+
+
+
+
+
+
+
+
+Facebook
+ 
+
+
+Twittern
+ 
+
+
+Xing
+ 
+
+
+LinkedIn
+ 
+
+
+
+
+
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmZyLmRlL3dpcnRzY2hhZnQvb2huZS13ZWl0ZXJiaWxkdW5nLXdlcmRlbi1rZWluZS1jaGFuY2UtaGFiZW4tMTEwMDg2MTcuaHRtbNIBAA?oc=5,"""Ohne Weiterbildung werden Sie keine Chance haben"" - fr.de",2020-06-09,fr.de,https://www.fr.de,"Adecco-Chef Alain Dehaze spricht im Interview über die Arbeit der Zukunft, gefragte Fähigkeiten und darüber, was Eltern ihren Kindern beibringen sollten.",N/A,N/A,N/A,http://schema.org,WebPage,,,,,,,,,,,,,N/A,N/A,"StartseiteWirtschaft""Ohne Weiterbildung werden Sie keine Chance haben""Stand: 09.06.2020, 12:53 UhrVon: Daniel BaumannKommentareDruckenTeilenKünstliche Intelligenz und Roboter haben keine Kompetenzen wie Neugier, Empathie und gemeinschaftliche Problemlösungsfähigkeiten. © dpaAdecco-Chef Alain Dehaze spricht im Interview über die Arbeit der Zukunft, gefragte Fähigkeiten und darüber, was Eltern ihren Kindern beibringen sollten.Sein Rat in Personalfragen ist gesucht: Alain Dehaze spricht auf den ganz großen Bühnen, etwa dem Weltwirtschaftsforum, über die Zukunft der Arbeit. Der Chef des weltgrößten Personaldienstleisters Adecco fordert ein entschiedenes Handeln. Weder Unternehmen noch Politik würden bislang genug tun, um die Digitalisierung erfolgreich zu gestalten, mahnt er im Interview.Herr Dehaze, die Digitalisierung verändert die Arbeitsmärkte. Sie kennen sowohl die Angebots- als auch die Nachfrageseite. Was für Fähigkeiten suchen derzeit die Unternehmen? Als Fachkompetenzen sind vor allem technische, wissenschaftliche und medizinische Fähigkeiten gefragt. Die sind heute sehr beliebt. Aber es geht mehr und mehr auch um Kompetenzen wie Neugier, Empathie und gemeinschaftliche Problemlösungsfähigkeiten. Künstliche Intelligenz und Roboter können das nicht, und deshalb sind diese Fähigkeiten sehr gesucht.Wie schnell verändert sich das Fähigkeitsprofil, das Arbeitgeber suchen? Das ändert sich schnell. Eine Studie der Unternehmensberatung McKinsey sagt voraus, dass bis 2030 weltweit 375 Millionen Arbeitnehmer aufgrund des Technologiewandels eine Weiter- und Fortbildung nötig haben werden. Es gibt einen so schnellen und breiten Wandel, dass es ein permanentes Bedürfnis an Umschulungen und Weiterbildungen gibt. Heutzutage verliert man 30 Prozent seiner Kompetenzen innerhalb von vier Jahren.Verändern sich die Qualifikationsanforderungen schneller als früher? Wir haben das nicht gemessen. Aber ich kann Ihnen ein Beispiel nennen: Früher hat ein Programmierer eine IT-Sprache nach der anderen gelernt. Und eine Sprache war mindestens zehn Jahre gültig. Heutzutage arbeiten indische Programmierer mit einer Sprache und lernen parallel dazu drei weitere.Wie können es die Arbeitnehmer schaffen, mit diesen Veränderungen mitzuhalten? Ein wichtiger Punkt ist lebenslanges Lernen. Früher wurde man 20 bis 25 Jahre lang ausgebildet und dann hat man 40 Jahre lang gearbeitet. Dieses Modell ist zu Ende. Permanente Weiterbildung und arbeiten lautet nun die Devise. Das verlangt natürlich nach Änderungen auf allen Ebenen – bei den Unternehmen, den Mitarbeitern, den Ausbildungsträgern, der Politik. Dabei stellen uns die rapiden Veränderungen vor ein zentrales Problem: Niemand weiß, was man den Leuten beibringen muss, damit sie am Ende der Ausbildung auch die Fähigkeiten haben, die dann gerade gefragt sind.Haben Politik und Unternehmen denn schon genug getan, um Beschäftigte zu befähigen, sich ständig weiterzubilden? Nein, deutlich nein. Darum auch meine Bitte, endlich Dialogplattformen zwischen Regierungen, Ausbildungssystem und Unternehmen zu schaffen. Wir brauchen jetzt eine permanente Verständigung.Ein großes deutsches Unternehmen hat kürzlich angekündigt, sich von tausenden Mitarbeitern trennen zu wollen, die wenig oder gar nichts über Digitalisierung wissen. Stattdessen will es Menschen einstellen, die mit der Digitalisierung vertraut sind, aber vielleicht keine Branchenkenntnis haben. Ist das eine Strategie, die Sie bei Unternehmen derzeit häufiger sehen? Nein. Und meine Bitte ist, dass wir vorausschauend handeln. Heutzutage handeln manche Unternehmen nicht vorausschauend. Wenn die Unternehmen das tun würden, würden sie analysieren, welche Fähigkeiten sie in drei bis fünf Jahren benötigen. Und dann sollten sie dafür sorgen, dass ihre eigenen Leute diese Fähigkeiten erlernen. Einfach Teile der Belegschaft auszutauschen, das führt oft zu einem sozialen Blutbad.Wie helfen Sie Unternehmen, ihre Belegschaften erfolgreich fortzubilden? Wir haben vor kurzem das Unternehmen „General Assembly“ übernommen. Dabei handelt es sich um den Weltmarktführer für Umschulungen und Weiterbildungen. Er ist spezialisiert auf Kompetenzen des 21. Jahrhunderts, auf Programmierung, Design, Marketing, Datenwissenschaft. Das wird uns die Möglichkeit geben, in Kombination mit unseren vorhandenen Weiterbildungsangeboten, auf die Unternehmen zuzugehen. Wir wissen, dass sie das möchten. Sie sind auf der Suche nach Lösungen, um eigene Leute fort- und weiterzubilden im Digitalbereich.Meine newsAmpel führt neue Prämie für Teilzeit-Beschäftigte einlesen„Die Wärmepumpe ist alternativlos“ – Auch die CDU wird das Heizungsgesetz nicht abschaffenlesenEhegattensplitting: Diese Änderungen plant die Ampel bei der SteuerklasselesenKindergeld-Erhöhung im Haushalt 2025: Ampel entlastet Familien und ElternlesenRusslands Wirtschaftskrise: Unternehmen setzen auf „Fleischkleber“ in Lebensmitteln lesenMüllermilch bleibt rechtslesenWie groß ist dieses Interesse? Es ist sehr groß. Wir haben von vielen Konzernchefs und Arbeitsdirektoren die Rückmeldung, dass das ganz oben auf ihrer Agenda steht.Wie groß ist die Bereitschaft der Mitarbeiter, sich ein Leben lang fortzubilden? Das ist ein langfristiger Lernprozess für alle Beteiligten. Auch Arbeitnehmer müssen sich dessen bewusstwerden. Denn es geht um ihren Arbeitsplatz und ihre Zukunft. Ohne Weiterbildung werden Sie in Zukunft keine Chance haben.Welche Fähigkeiten sollten Eltern ihren Kindern beibringen? Neugier, Kreativität, Problemlösungsfähigkeiten, Sozialkompetenzen. Das wird wichtiger. Denn Wissen ist mehr und mehr überall vorhanden. Wir sehen jetzt die ersten jungen Leute aus Schwellenländern, die an Top-Universitäten wie dem Massachusetts Institute of Technology (MIT) angenommen werden. Die haben das nötige Wissen aus dem Internet und so die Aufnahmeprüfung an dieser renommierten Wissenschaftseinrichtung bestanden. Was bedeutet das? Es bedeutet, dass Wissen mehr und mehr für alle vorhanden ist. Die Menschen müssen lernen, was man mit diesem Wissen machen kann, welche Probleme man lösen kann, wie man zusammenarbeitet. Das kann die Technik nicht.Die Digitalisierung ermöglicht auch neue Formen der Zusammenarbeit. Ein Stichwort ist Crowdworking. Das heißt, Unternehmen vergeben Aufträge über das Internet an freie Mitarbeiter. Wie werden sich dadurch Arbeitsmärkte und Beziehungen zwischen Beschäftigten und Unternehmen verändern? Dank Technologie kann man Angebot und Nachfrage besser zusammenbringen. Die Menschen können für ein Unternehmen am anderen Ende der Welt arbeiten. Sie müssen nicht mehr physisch am Ort der Arbeit sein. Aber damit sind auch soziale Konsequenzen verbunden. Den Erfolg des Büroraumanbieters We Work erkläre ich immer damit, dass Menschen sich weiterhin begegnen wollen. Schon immer ist Arbeit ein sozialer Integrator. Menschen wollen Gemeinschaft erleben, sie brauchen den persönlichen Austausch mit anderen, auch wenn sie unterschiedliche Arbeitgeber haben.Wenn die Menschen weltweit arbeiten, brauchen wir dann auch eine weltweite Arbeitsmarktpolitik? Ich kann Ihre Frage sehr gut nachvollziehen. Aber wir sind schon so weit weg von einer einheitlichen Regulierung in Europa, dass ich mir eine weltweite Regulierung schwer vorstellen kann. Sie sagen, wir brauchen einen neuen Sozialvertrag angesichts der Umbrüche in der Wirtschaft. Wie soll der aussehen? Viele unserer Sozialsysteme, unserer Sozialversicherungen basieren auf langfristigen Arbeitsverhältnissen. Aber wir sehen zum Beispiel, dass diese Arbeitsverhältnisse zunehmend weniger werden. Junge Amerikaner wechseln im Alter von 18 bis 25 Jahren bis zu elf Mal freiwillig ihren Job. Vier Millionen Italiener sind freiberuflich tätig, zwei Millionen in Großbritannien. Diesen neuen Trends muss man gerecht werden. Die Vorsorgesysteme sind überhaupt nicht angepasst an diese Realität. Daher fordern wir einen neuen Sozialvertrag, der einer digitalen und vielfältigen Lebens- und Arbeitswelt gerecht wird. Es gibt Menschen, die schlagen ein bedingungsloses Grundeinkommen vor, um die Verwerfungen der Digitalisierung mit dem potenziellen Verlust von sehr vielen Arbeitsplätzen abzufedern. Was halten Sie von dieser Idee? In Zeiten strukturellen Wandels gab es immer Arbeitsplätze, die für immer verschwanden. Ich sage aber auch, dass neue Technologien sehr viele Stellen schaffen werden. Es entstehen neue Industrien und mit ihnen neue Berufsbilder. Unsere Aufgabe ist die Synchronisation von Arbeitskreation und Arbeitsdestruktion. Das ist unsere Herausforderung als Gesellschaft. Und dann gibt es diese Frage des bedingungslosen Grundeinkommens. Ich bin kein Befürworter davon. Das Ziel von Arbeit ist nicht nur der Lohn, sondern auch soziale Integration. Wir sollten dafür sorgen, dass sich Menschen durch Arbeit weiterentwickeln können.Interview: Daniel BaumannArbeitskräfte müssen früher weitergebildet werden - nicht erst am Ende der Laufbahn. Weiterbildung und Qualifikation kann auch in der Krise helfen. Der Gastbeitrag.Auch interessant
+
+
+
+ 
+
+Empfohlen von
+
+ 
+
+
+
+
+
+
+
+
+KommentareTeilen","{'@type': 'NewsArticle', 'mainEntityOfPage': 'https://www.fr.de/wirtschaft/ohne-weiterbildung-werden-keine-chance-haben-11008617.html', 'headline': '""Ohne Weiterbildung werden Sie keine Chance haben""', 'datePublished': '2020-06-09T12:53:40+0200', 'description': 'Adecco-Chef Alain Dehaze spricht im Interview über die Arbeit der Zukunft, gefragte Fähigkeiten und darüber, was Eltern ihren Kindern beibringen sollten.', 'publisher': {'@type': 'Organization', 'name': 'Frankfurter Rundschau', 'logo': 'https://idcdn.de/west/assets/fr/img/logo.svg'}, 'author': {'@type': 'Person', 'name': 'Daniel Baumann', 'url': 'https://www.fr.de/autoren/9379/'}, 'image': ['https://www.fr.de/assets/images/8/555/8555781-2026814529-1106640-wea.jpg', 'https://www.fr.de/assets/images/8/555/8555781-2026814529-1106640-we9.jpg', 'https://www.fr.de/assets/images/8/555/8555781-2026814529-1106640-wec.jpg'], 'mentions': {'name': 'Weiterbildung', '@type': 'Thing', '@id': 'https://data.globalnewsgraph.org/gng/catchword/weiterbildung', 'description': '', 'sameAs': ['http://www.wikidata.org/entity/Q765192'], 'url': 'https://www.dasgelbeblatt.de/thema/weiterbildung-sti57177/'}}","{'@type': 'BreadcrumbList', 'name': 'BreadCrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': {'@type': 'WebPage', '@id': 'https://www.fr.de/'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Wirtschaft', 'item': {'@type': 'WebPage', '@id': 'https://www.fr.de/wirtschaft/'}}]}",,,,,,
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvYmxvZy92YWx1ZS1mcm9tLWRhdGEtZGllLTYtZGltZW5zaW9uZW4tZGVyLWtpLXNrYWxpZXJ1bmcv0gEA?oc=5,Value from Data: Die 6 Dimensionen der KI-Skalierung - Capgemini,2020-06-10,Capgemini,https://www.capgemini.com,N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+					Seite nicht gefunden				
+
+					Es tut uns leid, diese Seite wurde entfernt oder umbenannt. Bitte folgen Sie einem der unten stehenden Links oder verwenden Sie die Suche.				
+
+
+
+Insights
+Branchen
+Services
+Karriere
+News
+Über Uns
+ 
+
+
+
+
+
+ 
+Suche
+Suche
+
+
+
+
+
+
+Capgemini entdecken
+
+
+
+ 
+
+
+
+Über Uns
+
+Wir sind einer der weltweit führenden Partner für Unternehmen bei der Steuerung und Transformation ihres Geschäfts durch den Einsatz von Technologie.
+
+
+
+
+ 
+
+
+
+Karriere
+
+Werde Teil von Capgemini! Wir bieten dir ein inspirierendes Team, flexible Karrieremöglichkeiten sowie die Freiheit, mit deiner Arbeit für dich und andere Perspektiven zu schaffen.
+
+
+
+
+
+
+
+
+Kontakt
+
+Für alle anderen Anfragen sowie Fragen zu unserem Portfolio, Projektausschreibungen, Kooperationen etc. nutzen Sie bitte dieses Formular und wir werden uns mit Ihnen in Verbindung setzen.
+
+
+
+
+
+",,,"[{'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",,,,,
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmZvcnNjaHVuZy11bmQtbGVocmUuZGUvZm9yc2NodW5nL2t1ZW5zdGxpY2hlLWludGVsbGlnZW56LWltaXRpZXJ0LWhhbmRzY2hyaWZ0ZW4tMjg0NtIBAA?oc=5,Handschrift: Künstliche Intelligenz imitiert Handschriften - Forschung & Lehre,2020-06-08,Forschung & Lehre,https://www.forschung-und-lehre.de,"Grußkarten schreiben wir oft lieber mit der Hand als elektronisch. Doch was, wenn das nicht möglich ist? Erlanger Forscher arbeiten an einer Lösung.","Handschrift, Künstliche Intelligenz, schreiben","Grußkarten schreiben wir oft lieber mit der Hand als elektronisch. Doch was, wenn das nicht möglich ist? Erlanger Forscher arbeiten an einer Lösung.",N/A,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+Pädagogik
+				
+			Die Handschrift sollte früh und mehrjährig erlernt werden
+
+
+
+Die moderne Kommunikation läuft überwiegend digital ab. Gerade in der Schule sollte auf das Schreiben mit der Hand jedoch nicht verzichtet werden.
+
+
+
+
+											Susanne Lin-Klitzing,
+
+							
+
+								
+											Cornelia Schwartz
+
+					
+			
+	
+	
+		
+
+			
+					06.02.2020
+				
+		
+	
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnNwcmluZ2VycHJvZmVzc2lvbmFsLmRlL2t1ZW5zdGxpY2hlLWludGVsbGlnZW56L2RhdGVubWFuYWdlbWVudC9rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1pbS1jb250cm9sbGluZy8xNzA4NTI4NNIBAA?oc=5,Für mehr KI im Controlling fehlen noch Erfahrungswerte #update - Springer Professional,2020-06-08,Springer Professional,https://www.springerprofessional.de,In vielen Unternehmensbereichen wird bereits Künstliche Intelligenz genutzt. Im Controlling ist KI aber oft noch Zukunftsmusik.,N/A,"Viele Prozesse im Controlling und Rechnungswesen werden bereits automatisiert. Mit dem Einsatz von Künstlicher Intelligenz (KI) steht dem Bereich nun ein weiterer Wandel bevor. Diese macht Mitarbeiter produktiver, wenn sie das nötige Wissen haben.",In vielen Unternehmensbereichen wird bereits Künstliche Intelligenz genutzt. Im Controlling ist KI aber oft noch Zukunftsmusik.,https://schema.org,Article,,,,2020-06-08T06:45:00Z,2020-06-08T12:19:24Z,,Der Einsatz von KI im Controlling setzt Know-how voraus,"[{'datePublished': '2019-07-11T08:46:32Z', 'inLanguage': 'de', 'url': '/springerprofessional-de/kuenstliche-intelligenz-roboter-gehirn-matrix/17085332', 'dateModified': '2020-06-04T10:00:03Z', 'height': {'@context': 'https://schema.org', '@type': 'Distance', 'name': '300 px'}, 'copyrightHolder': 'fotomek / stock.adobe.com', 'dateCreated': '2019-08-20T14:58:19Z', 'caption': 'Künstliche Intelligenz Roboter Gehirn Matrix', '@type': 'ImageObject', 'contentUrl': 'https://media.springernature.com/lw400/springer-cms/rest/v1/content/17085332/data/v5', 'width': {'@context': 'https://schema.org', '@type': 'Distance', 'name': '400 px'}, '@context': 'https://schema.org'}]","{'@type': 'WebPage', '@id': '/topic/K%C3%BCnstliche%20Intelligenz'}","[{'familyName': 'Meier', 'name': 'Sylvia Meier', 'givenName': 'Sylvia', 'url': '/springerprofessional-de/finance---banking/sylvia-meier/724934', 'image': {'datePublished': '2014-05-06T20:28:00Z', 'inLanguage': 'de_DE', 'url': '/springerprofessional-de/sylvia-meier/6555460', 'dateModified': '2018-06-24T21:02:22Z', 'height': {'@context': 'https://schema.org', '@type': 'Distance', 'name': '300 px'}, 'dateCreated': '2015-12-03T19:43:10Z', 'caption': 'Sylvia Meier', '@type': 'ImageObject', 'contentUrl': 'https://media.springernature.com/lw400/springer-cms/rest/v1/content/6555460/data/v11', 'width': {'@context': 'https://schema.org', '@type': 'Distance', 'name': '400 px'}, '@context': 'https://schema.org'}, 'description': 'schreibt für den Channel Finance + Banking bei Springer Professional. Die freie Autorin befasst sich besonders mit den Themen Steuern, Finanzen, Wirtschaftsrecht und Controlling in zahlreichen Publikationen. Als Redakteurin, Autorin und Lektorin profitiert sie zudem von ihren Erfahrungen, die sie im Finanzamt und in der Beratung (Big Four-Gesellschaft) gesammelt hat. Artikel von Sylvia Meier', '@type': 'Person', '@context': 'https://schema.org'}]",,,N/A,N/A,"
+
+
+
+    
+
+
+    
+
+    
+        
+            08.06.2020 | Künstliche Intelligenz | Schwerpunkt | Online-Artikel
+        
+    
+
+    
+        
+        
+
+
+
+        
+
+
+
+
+
+        
+
+
+
+
+    
+    
+
+
+    
+
+
+
+
+
+Der Einsatz von KI im Controlling setzt Know-how voraus
+
+                        verfasst von: 
+
+
+
+Sylvia Meier
+
+
+3 Min. Lesedauer
+
+
+
+
+
+
+information
+
+
+
+
+Jetzt neu: KI-gestützte Suche!
+Markieren Sie Textabschnitte, um KI-gestützt weitere passende Inhalte zu finden.
+
+powered by
+    
+        
+
+                (Link öffnet in neuem Fenster)
+            
+
+Intergator
+
+
+
+
+
+
+
+
+
+
+            Aktivieren Sie unsere intelligente Suche, um passende Fachinhalte oder Patente zu finden.
+        
+
+            Wählen Sie Textabschnitte aus um mit Künstlicher Intelligenz passenden Patente zu finden.
+            
+powered by
+    
+        
+
+Octimine
+
+
+
+
+
+
+
+
+            Markieren Sie Textabschnitte, um KI-gestützt weitere passende Inhalte zu finden.
+            
+powered by
+    
+        
+
+                (Link öffnet in neuem Fenster)
+            
+
+Intergator
+
+
+
+
+
+
+
+
+
+
+
+
+search-config
+
+
+
+
+KI-gestützte Suche
+
+
+
+
+
+Patentsuche
+
+
+
+
+
+
+
+
+
+
+Aus
+
+
+
+
+
+
+
+
+
+
+print
+
+DRUCKEN
+
+
+
+
+
+
+
+
+SUCHEN IM ARTIKEL
+close
+
+0  /  0
+
+
+0
+
+
+
+Vorherige
+
+
+Nächste
+
+
+
+
+insite
+
+SUCHEN
+
+
+
+
+
+
+
+Viele Prozesse im Controlling und Rechnungswesen werden bereits automatisiert. Mit dem Einsatz von Künstlicher Intelligenz (KI) steht dem Bereich nun ein weiterer Wandel bevor. Diese macht Mitarbeiter produktiver, wenn sie das nötige Wissen haben.
+
+
+
+Der Einsatz von KI im Controlling steckt noch in den Kinderschuhen.
+
+fotomek / stock.adobe.com
+
+
+
+×
+
+
+
+Das Rollenbild der Finanzfachkräfte hat sich in den vergangenen Jahren bereits stark verändert. Controller sind keine reinen Zahlenmeister mehr, sondern übernehmen vielfältige Aufgaben. Auch die Prozesse, die sie nutzen, sind im Wandel. Der Einsatz von Künstlicher Intelligenz (KI) könnte hier erneut für große Veränderungen sorgen. Zu diesem Schluss kommt eine Studie von Diamant Software mit dem Titel ""Wer wollen wir sein? – der kaufmännische Bereich erfindet sich neu"", für die 185 Teilnehmer befragt wurden. Bei ihnen handelt es sich überwiegend um Fachkräfte aus dem kaufmännischen Bereich und Führungskräfte.
+
+
+            Empfehlung der Redaktion
+        
+
+
+
+
+    
+
+
+    
+
+    
+        
+            2020 | OriginalPaper | Buchkapitel
+        
+    
+
+    
+    
+
+
+    
+
+
+
+
+
+
+Aktuelle Trends der digitalen Transformation im Finanzbereich
+
+Gegenwärtig haben transaktionale ERP-Transformationen hohe Priorität in den Finanzabteilungen. Dennoch sollten die Verantwortlichen gleichzeitig die Implementierung von Insights-Methoden und Business Analytics voranbringen. Im Interview mit Imke Keimer erklärt Markus Zorn, warum dies so wichtig ist und welche digitalen Trends aktuell im Finanzbereich wahrgenommen werden.
+
+Automatisierung erhöht Druck in den FinanzabteilungenIn 37 Prozent der Unternehmen ist die Geschäftsführung Haupttreiber von Digitalisierungsprojekten. Interessant ist jedoch, dass bei 28 Prozent der kaufmännische Bereich Digitalisierungsprojekte anstößt. Bei mehr als jedem vierten befragten Unternehmen bringen also Rechnungswesen und Controlling die Innovationen selbst in Gang. Es ist zu vermuten, dass dies mit dem hohen Automatisierungsbedarf in Zusammenhang steht. Denn jeder fünfte Befragte bewertet die Automatisierung als sehr wichtig. 
+
+
+Anzeige
+
+
+
+
+
+Hierzu schreiben die Springer-Autoren Imke Keimer und Ulrich Egle in ihrem Buchkapitel ""Digital Controlling – Grundlagen für den erfolgreichen digitalen Wandel im Controlling"" (Seite 5) fest: Auch die Finanzabteilungen stehen unter dem hohen Druck, die Möglichkeiten der Digitalisierung zu nutzen. Neben der Automatisierung der eigenen Prozesse und Tätigkeiten ist es die Aufgabe des Controllings, die vorhandenen Informationen aus den Daten zu extrahieren und wertschöpfend dem Gesamtunternehmen zur Verfügung zu stellen.“ Die Studienergebnisse lassen vermuten, dass diese Problematik immer mehr ins Zentrum der Strategien der Geschäftsleitungen rückt.Finanzabteilungen müssen sich besser vernetzenDennoch werden viele Arbeiten weiterhin manuell erledigt, wie beispielsweise dieKontrolle des Inventars (55 Prozent),Prüfung von Eingangsrechnungen (53 Prozent)und Abrechnung von Reisekosten (50 Prozent).Viele Aufgaben würden sich jedoch heute bereits mit entsprechender Software automatisieren lassen, sodass mehr Zeit für andere Tätigkeiten bleibt. 
+
+
+Anzeige
+
+
+
+
+
+Auch bei der softwareseitigen Vernetzung von Rechnungswesen und Controlling mit anderen Abteilungen zeigen sich viele Unternehmen noch zurückhaltend. Gerade aufgrund fehlender Vernetzung kann der Aufwand für Planung und Reporting deshalb enorm hoch sein. Hier besteht noch Handlungsbedarf. Es verwundert daher nicht, dass 68,8 Prozent neue Softwarelösungen implementieren wollen. Einsatz von KI im FinanzbereichViel Hoffnung setzen Entscheider zudem in den Einsatz von Künstlicher Intelligenz (KI). 60 Prozent der Befragten sehen hier die Chance, Mitarbeiter produktiver zu machen. Mitarbeiter sollen hierdurch entlastet werden und neue Aufgaben, beispielsweise bei der Datenanalyse, übernehmen können. Auch bei der Verarbeitung, Buchung und Prüfung von Eingangsrechnungen sehen viele Studienteilnehmer einen Mehrwert der Automatisierung durch KI. Und rund 80 Prozent glauben, dass das Controlling von KI profitieren wird. Allerdings fehlt es noch an Know-how. Auf einer Skala von eins bis zehn schätzen viele ihr Wissen im Schnitt bei 4,7 ein. Hier gilt es nachzusteuern, denn KI scheint bald in den Unternehmen zum Thema zu werden: Mehr als die Hälfte der Studienteilnehmer rechnen damit, dass in den kommenden 24 Monaten KI in kaufmännischen Prozessen zum Einsatz kommt.
+
+
+MyTopic Alert
+Loggen Sie sich ein, um Ihre Alerts zu aktualisieren und Neue anzulegen.
+
+
+Datenmanagement  Controlling  Transformation  IT-Controlling  IT-Prozessmanagement  Business Analytics  Big Data  Unternehmensprozesse  Cloud Computing  Change Management  
+
+
+",,,,Der Einsatz von KI im Controlling setzt Know-how voraus,de,2019-08-21T08:40:12Z,"Viele Prozesse im Controlling und Rechnungswesen werden bereits automatisiert. Mit dem Einsatz von Künstlicher Intelligenz (KI) steht dem Bereich nun ein weiterer Wandel bevor. Diese macht Mitarbeiter produktiver, wenn sie das nötige Wissen haben. Der Einsatz von KI im Controlling steckt noch in den Kinderschuhen. fotomek / stock.adobe.com × Das Rollenbild der Finanzfachkräfte hat sich in den vergangenen Jahren bereits stark verändert. Controller sind keine reinen Zahlenmeister mehr, sondern übernehmen vielfältige Aufgaben. Auch die Prozesse, die sie nutzen, sind im Wandel. Der Einsatz von Künstlicher Intelligenz (KI) könnte hier erneut für große Veränderungen sorgen. Zu diesem Schluss kommt eine Studie von Diamant Software mit dem Titel ""Wer wollen wir sein? – der kaufmännische Bereich erfindet sich neu"", für die 185 Teilnehmer befragt wurden. Bei ihnen handelt es sich überwiegend um Fachkräfte aus dem kaufmännischen Bereich und Führungskräfte. Empfehlung der Redaktion 2020 | OriginalPaper | Buchkapitel Aktuelle Trends der digitalen Transformation im Finanzbereich Gegenwärtig haben transaktionale ERP-Transformationen hohe Priorität in den Finanzabteilungen. Dennoch sollten die Verantwortlichen gleichzeitig die Implementierung von Insights-Methoden und Business Analytics voranbringen. Im Interview mit Imke Keimer erklärt Markus Zorn, warum dies so wichtig ist und welche digitalen Trends aktuell im Finanzbereich wahrgenommen werden. Automatisierung erhöht Druck in den Finanzabteilungen In 37 Prozent der Unternehmen ist die Geschäftsführung Haupttreiber von Digitalisierungsprojekten. Interessant ist jedoch, dass bei 28 Prozent der kaufmännische Bereich Digitalisierungsprojekte anstößt. Bei mehr als jedem vierten befragten Unternehmen bringen also Rechnungswesen und Controlling die Innovationen selbst in Gang. Es ist zu vermuten, dass dies mit dem hohen Automatisierungsbedarf in Zusammenhang steht. Denn jeder fünfte Befragte bewertet die Automatisierung als sehr wichtig. Hierzu schreiben die Springer-Autoren Imke Keimer und Ulrich Egle in ihrem Buchkapitel ""Digital Controlling – Grundlagen für den erfolgreichen digitalen Wandel im Controlling"" (Seite 5) fest: Auch die Finanzabteilungen stehen unter dem hohen Druck, die Möglichkeiten der Digitalisierung zu nutzen. Neben der Automatisierung der eigenen Prozesse und Tätigkeiten ist es die Aufgabe des Controllings, die vorhandenen Informationen aus den Daten zu extrahieren und wertschöpfend dem Gesamtunternehmen zur Verfügung zu stellen.“ Die Studienergebnisse lassen vermuten, dass diese Problematik immer mehr ins Zentrum der Strategien der Geschäftsleitungen rückt. Finanzabteilungen müssen sich besser vernetzen Dennoch werden viele Arbeiten weiterhin manuell erledigt, wie beispielsweise die Kontrolle des Inventars (55 Prozent), Prüfung von Eingangsrechnungen (53 Prozent) und Abrechnung von Reisekosten (50 Prozent). Viele Aufgaben würden sich jedoch heute bereits mit entsprechender Software automatisieren lassen, sodass mehr Zeit für andere Tätigkeiten bleibt. Auch bei der softwareseitigen Vernetzung von Rechnungswesen und Controlling mit anderen Abteilungen zeigen sich viele Unternehmen noch zurückhaltend. Gerade aufgrund fehlender Vernetzung kann der Aufwand für Planung und Reporting deshalb enorm hoch sein. Hier besteht noch Handlungsbedarf. Es verwundert daher nicht, dass 68,8 Prozent neue Softwarelösungen implementieren wollen. Einsatz von KI im Finanzbereich Viel Hoffnung setzen Entscheider zudem in den Einsatz von Künstlicher Intelligenz (KI). 60 Prozent der Befragten sehen hier die Chance, Mitarbeiter produktiver zu machen. Mitarbeiter sollen hierdurch entlastet werden und neue Aufgaben, beispielsweise bei der Datenanalyse, übernehmen können. Auch bei der Verarbeitung, Buchung und Prüfung von Eingangsrechnungen sehen viele Studienteilnehmer einen Mehrwert der Automatisierung durch KI. Und rund 80 Prozent glauben, dass das Controlling von KI profitieren wird. Allerdings fehlt es noch an Know-how. Auf einer Skala von eins bis zehn schätzen viele ihr Wissen im Schnitt bei 4,7 ein. Hier gilt es nachzusteuern, denn KI scheint bald in den Unternehmen zum Thema zu werden: Mehr als die Hälfte der Studienteilnehmer rechnen damit, dass in den kommenden 24 Monaten KI in kaufmännischen Prozessen zum Einsatz kommt.",In vielen Unternehmensbereichen wird bereits Künstliche Intelligenz genutzt. Im Controlling ist KI aber oft noch Zukunftsmusik.
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmhhbmRlbHNibGF0dC5jb20vdGVjaG5pay9pbnRlcm5ldC1kZXItZGluZ2UtZGllLXRvaWxldHRlLWRlci16dWt1bmZ0LWlzdC12ZXJuZXR6dC8yNTg5OTg5NC5odG1s0gEA?oc=5,Die Zukunft der Toilette ist vernetzt - Handelsblatt,2020-06-10,Handelsblatt,https://www.handelsblatt.com,"In Japan sind Hightech-Klos schon lange Standard. Doch sie sind mehr als Gadgets: Sie sollen mit digitalen Diensten dabei helfen, gesund zu bleiben.",N/A,"In Japan sind Hightech-Klos schon lange Standard. Doch sie sind mehr als Gadgets: Sie sollen mit digitalen Diensten dabei helfen, gesund zu bleiben.",N/A,,,,,,,,,,,,,,,Technologie,N/A,"Internet der DingeDie Toilette der Zukunft ist vernetztIn Japan sind Hightech-Klos schon lange Standard. Doch sie sind mehr als Gadgets: Sie sollen mit digitalen Diensten dabei helfen, gesund zu bleiben.Martin Kölling 10.06.2020 - 09:33 Uhr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Firma Toto Hightech Toilette aus Japan produziert Toiletten mit Podusche und Robotik. Foto: Toto [M] Tokio. Der Besuch in der Toilettenfabrik von Lixil, einem der größten globalen Hersteller von Baumaterialien und Badezimmern, gleicht einer Zeitreise in japanischer Hightech-Klokultur. In einem Raum stehen mehr als ein Dutzend Aborte Spalier, von der ersten Toilette mit Po-Dusche für den Massenmarkt aus den 1960er-Jahren bis hin zur Toilette der Zukunft: einem Roboterklo für die Seniorengesellschaft im Zeitalter des Internets der Dinge (IoT). „Das ist unsere IoT-Toilette“, erklärt Yutaka Ando, der 15 Jahre lang die Elektronik von Lixils Klos verfeinert hat, und zeigt auf das neuste Model. „Es ist ein Gesundheitsbarometer.“ Trotzdem soll es für den Nutzer zunächst einmal möglichst komfortabel sein. Die Toilette öffnet automatisch den Deckel, wenn sich der Nutzer nähert. Dann nimmt das Klo seine Arbeit auf. Im Winter wird rasch der Sitz angeheizt. Etwaige menschliche Emissionen werden mit Plasma-Ionen bekämpft, angesaugt und geruchsbereinigt an die Raumluft abgegeben. Nach der Beendigung des Geschäfts reinigt das Klo dann auf Knopfdruck mit einem temperierten, pulsierenden Wasserstrahl das Gesäß und föhnt es auf Wunsch trocken. Steht der Nutzer schließlich auf, spült das Klo automatisch und schließt den Deckel. Diese Features haben bereits einige Hightech-Klos, doch in der Klobrille steckt die Zukunft der Altenpflege: Eine kleine Kamera schießt Fotos vom großen Geschäft, die dann in die Cloud geladen werden. Dort analysiert Künstliche Intelligenz die Ausscheidungen nach Form und Konsistenz und trägt die Ergebnisse ins digitale Patientenblatt ein. So können die Gepflegten, das Pflegepersonal und die Ärzte sofort in einer App sehen, ob sich der Stuhlgang im gesunden Bereich befindet. Für den Lixil-Chef Kinya Seto gibt das Konzeptklo die Richtung im Badezimmer vor. „Toiletten sind für uns ein Schlüsselprodukt“, sagt er im Interview. „Wir haben viele Ideen für digitale Anwendungen, die medizinische ist eine davon.“ Der Innovationsdruck ist dabei hoch in Japan, denn der Erzrivale Toto und der Technikkonzern Panasonic
+
+
+ arbeiten mit Hochdruck an eigenen digitalen Klos. Und es geht ihnen dabei nicht nur ums Geschäft, sondern auch um tätige Mithilfe an der nationalen Wachstumsstrategie. Technik soll Pflegepersonal entlastenSeit Jahren will Japans Regierung Deutschlands Konzept der digitalisierten Industrie 4.0 mit der vollvernetzten Society 5.0 übertrumpfen. Neben den Fabriken soll die gesamte Gesellschaft digitalisiert und roboterisiert werden, um den Arbeitskräftemangel in derjenigen Gesellschaft der Welt mit den meisten Älteren zu lindern. Ein wichtiger Bereich ist dabei die Teilautomatisierung der Altenpflege. Denn wegen der stark steigenden Zahl der Rentner könnte bis 2025 der Mangel an Pflegekräften auf 270.000 Stellen steigen, sagt das Gesundheitsministerium voraus. Daher soll Technik dem Personal viele kleine Aufgaben erleichtern oder gar abnehmen, damit die Pflegenden noch Zeit für die Menschen haben.Andere Unternehmen entwickeln ebenfalls mit. Toyota
+
+
+ hat automatisierte Hilfen entwickelt, die Krankenschwestern beim Heben von Patienten, oder Schlaganfallpatienten bei der Rehabilitation, helfen. Der Elektronikkonzern Panasonic will mit Medizinausgabeautomaten helfen, Arbeitskräfte in Apotheken einzusparen. Außerdem trägt der rollende Roboter Hospi bereits in einigen Krankenhäusern Medikamente aus.Auch in Deutschland wird seit Jahren diskutiert, inwiefern die Digitalisierung im Allgemeinen und spezielle Technik im Besonderen dabei helfen können, den Mangel an Pflegepersonal auszugleichen. Laut Bundesgesundheitsministerium liegt in Deutschland das Medianalter heute bereits bei rund 46 Jahren. Das ist mit Japan das höchste weltweit – und es wird weitersteigen. Damit werde wahrscheinlich auch die Notwendigkeit von Pflege anwachsen, prognostiziert das Ministerium, da mit steigendem Alter chronische Erkrankungen und Multimorbidität, das gleichzeitige Auftreten mehrerer Erkrankungen, zunehme. Bettina Horster, Direktorin der Kompetenzgruppe IoT im Verband der Internetwirtschaft (eco), erklärte zuletzt angesichts des Mangels an Pflegepersonal durch die Coronakrise, digitale Assistenzsysteme könnten Angehörige und Pfleger entlasten. Sprachassistenten könnten etwa an die Einnahme von Medikamenten, den nächsten Arztbesuch oder Trinken erinnern. Dehydration sei der häufigste Grund, warum ältere Menschen in die Klinik müssen. Doch obwohl die technischen Minimal-Voraussetzungen mit einem Internetanschluss bereits gegeben seien, profitierten Senioren in Deutschland bislang kaum von solchen Assistenzsystemen, sagte Horster in einer Pressemitteilung. Es fehle den meisten Menschen noch das Bewusstsein für die Vorteile solcher Angebote. Toiletten mit SensorenDas Verhältnis zu Technologie ist in Japan anders. Die japanische Gesellschaft gilt mehrheitlich als sehr offen für neue, vernetzte, automatisierte Produkte. Und so ist das Roboterklo ein Ergebnis jahrzehntelanger Innovation. Seitdem die Japaner die Idee der Po-Dusche in den 1960er-Jahren von ersten medizinischen Toiletten in der Schweiz importierten und verfeinerten, wurden die Abtritte bereits weitgehend digitalisiert. Ein wichtiger Schritt war die Addition von beheizten Klobrillen in den 1970er-Jahren, die sich dank der traditionell im Winter ungeheizten Klos in japanischen Wohnungen rasch verbreiteten. Einmal ans Stromnetz angeschlossen, war die Addition von Sensoren und Funktionen nur noch eine Fingerübung. Fernbedienungen erhöhten den Bedienungskomfort, die Einführung von Musik und Geräuschen wie Wasserfällen oder Vogelgezwitscher überspielt seit der Jahrtausendwende auf Wunsch verräterische Geräusche. Es gibt auch Modelle mit SD-Kartenslot, damit die Nutzer auf dem einst stillen Örtchen ihr eigenes Musikprogramm hören können. Die neusten Modelle kann man durchaus als vernetzte Roboter bezeichnen. Das Hirn hinter der Autonomie des Aborts ist ein Minirechner, der die Informationen von einer ausgeklügelten Sensorbatterie verarbeitet. „Hier haben wir einen Reflektionssensor, der erkennt, wenn eine Person in den Raum tritt“, erklärt Lixil-Manager Yutaka Ando. Automatisch öffnet sich dann der Deckel. Ein elektrostatischer Sitzsensor nimmt das Setzen und Aufstehen wahr, um etwa zu spülen und die Sitzheizung auszuschalten. Damit nicht genug: Ein Entfernungssensor steuert Anwendungen wie die Po-Dusche oder die Bidet-Funktion und achtet darauf, dass sich bei Stehpinklern nicht der Deckel schließt und das Klo vorzeitig spült. Ein Temperatursensor hilft dem Klo zudem, je nach Raumtemperatur den Sitz, das Duschwasser oder die Föhnluft zu wärmen. Seit 2018 gibt es außerdem Smartphone-Apps, mit denen Nutzer je nach Anbieter die Toiletten fernsteuern, den Strom- und Wasserverbrauch kontrollieren oder die Frequenz der Stuhlgänge verfolgen. Trotz aller Elektronik und Vernetzung fehlt noch ein kleiner Schritt zum smarten Gesundheitsklo: Die Künstliche Intelligenz erkennt die Art des Stuhlgangs erst in 80 Prozent der Fälle genau. Bisher wurde das System erst mit 3000 Testfotos von Ausscheidungen von Lixils Angestellten geschult. „Das reicht nicht aus“, sagt ein Ingenieur. „Nun wollen wir mehr Daten in Feldtests sammeln.“ Denn je mehr Vorlagen Künstliche Intelligenz zum Lernen erhält, desto treffsicherer wird sie. Im Juni startet der Feldtest in einer Pflegeeinrichtung.Expansion nach DeutschlandDas Datum ist vielleicht nicht ganz zufällig gewählt. Japans Toilettenhersteller wollten ursprünglich die inzwischen auf 2021 verschobenen Olympischen Spiele für den Durchbruch im Ausland nutzen. Deutschland steht bei der Expansionsstrategie im Fokus der Japaner. Seit 2014 gehört der Hersteller für Badezimmerarmaturen Grohe zu Lixil und vor zwei Jahren ist Grohe mit einem Duschklo in die Badezimmerkeramik eingestiegen. Konkurrent Toto hat es mit einer Kooperation mit Villeroy & Boch
+
+
+ versuch. Aber ein durchschlagender Erfolg ist bisher ausgebliebenVerwandte Themen
+ Internet
+
+
+
+ Folgen  Japan
+
+
+
+ Folgen  Panasonic
+
+
+
+ Folgen 
+
+
+
+
+
+Im Sommer sollten sich daher Olympiatouristen aus aller Welt auf den öffentlichen Abtritten oder in Hotels für die japanische Klokultur begeistern. Nicht umsonst sind die Hersteller Sponsoren der Spiele. Lixil-Chef Seto weiß um die Chance. „Toiletten sind wichtig, weil sie unter all der Badezimmerkeramik am meisten Technologie und Know-how erfordern.“Die Po-Dusche und Automatisierung sind dabei nur zwei Aspekte des Ziels der kontinuierlichen Verbesserung der Badezimmerkeramik. Es geht auch um die Optimierung des Wasserflusses, um den Wasserverbrauch zu senken und Reinigungskraft zu erhöhen. Ein anderer Punkt ist die Materialwissenschaft. Japaner entwickeln selbstreinigende Oberflächen für ihre Klos. Lixils Keramik hat beispielsweise ölabweisende Eigenschaften, um Exkrementen weniger Halt zu bieten. Konkurrent Toto wirbt derweil mit einer speziellen superglatten Beschichtung, die Unebenheiten in den Nanometer-Bereich verringert, Panasonic mit Schüsseln aus ultraglattem organischen Glas. Weitere Innovationen werden kommen, macht Lixil-CEO Seto klar. „Diese Technologien dienen uns dazu, um uns von unseren Wettbewerbern abzusetzen.“ Tatsächlich ist die Bedeutung von Klos für den Konzern groß, der im Jahr 2011 aus der Fusion von fünf Unternehmen entstand. Eines war der Badezimmerhersteller Inax, dessen Markenname Lixil noch immer verwendet. Im Ende März 2019 abgelaufenen Bilanzjahr erzielte die Sparte „Wasser-Technologie“ immerhin 45 Prozent der Konzerneinnahmen von 15,4 Milliarden Euro. Danach folgten Baumaterialien, Baumärkte und Dienstleistungen für Gebäudebesitzer. 
+
+
+
+
+
+
+
+
+
+Kinya Seto, Chef der Lixil Group, arbeitet an weiteren Toiletten-Innovationen. Foto: Bloomberg In den Toiletten sieht Seto allerdings die Rolle als globaler Expansionsmotor, mit dem sich Lixil aus den Verlusten befreien will. Der gescheiterte Verkauf seines italienischen Krisenfalls Permasteelisa, eines globalen Baumaterialherstellers, belastet die Bilanz. Erst im Mai wurde das Unternehmen endlich verkauft. Große Hoffnungen setzt Seto dabei auf sein deutsches Standbein Grohe. „Die Marke passt gut zu uns.“Mit Grohe hat Lixil nicht nur eine Weltmarke im Programm, sondern einen Impulsgeber. Lixil stellte die Toilettentechnik zur Verfügung, Grohe entwarf ein Design, das auch Deutsche mochten. Für Seto mit Erfolg: „Unsere Grohe-Toilette ist die am besten verkaufte Duschtoilette in Europa.“ Betriebswirtschaftlich ist die technologische Führung für die Japaner allerdings „ein zweifelhafter Segen“, gesteht der Lixil-Chef ein.In der Badezimmereinrichtung würden Klos die kleinsten Gewinnmargen erzielen, erklärt der Geschäftsmann. Daher schrecken ausländische Hersteller auch vor großem Entwicklungsaufwand zurück, während die Profite der Japaner oft kleiner als die europäischer Rivalen sind. Aber Seto hofft, mit dem Export heimischer Hightech erst Marktanteile und dann Gewinne zu steigern. „Die Technologien geben uns einen einzigartigen Wettbewerbsvorteil.“ Und durch IoT-Technologien will er den nun weiter ausbauen: „Sensor-Technologien sind dabei ein wichtiger Bestandteil.“Eine Geschäftsidee sind vernetzte Klos für öffentliche und private Großanlagen, zum Beispiel Bürogebäude. Ein Stichwort ist vorbeugende Wartung, genau wie bei Maschinen in Fabriken. Allerdings werden dort Daten ausgewertet um zu sehen, ob Bauteile bald einen Defekt haben könnten; um einen Stillstand zu vermeiden, geht es beim Klo darum, verstopfte Abflussrohre zu beheben, bevor das Abwasser überläuft. Die Planung von Reinigungsintervallen nach dem Grad der Benutzung ist eine weitere Sparidee.Ein anderes Stichwort ist die Verkehrslenkung. Kunden oder Personal könnten effektiver auf freie Abtritte in Gebäuden verteilt werden, um Toilettenstaus zu vermeiden. Nur stellt die Nutzung der vielen Daten, die Klos produzieren, noch eine geschäftliche Herausforderung dar: Nicht nur sind digitale Technologien leicht zu kopieren, meint Seto. „Ich bin mir auch noch nicht sicher, wie wir die gesammelten Daten monetarisieren können.“ och er hat auch noch ein anderes Projekt, das noch viel Innovation bedarf und ihn richtig begeistert: Low-tech-Toiletten für die Menschenmassen in Schwellenländern. „Wir sind stolz auf unsere vollautomatisierte 5000-Dollar-Toilette, aber auch auf unsere 5-Dollar-Toilette für Entwicklungsländer.“ Mit einem kleinen Schuss Wasser kann die ein großes Geschäft in eine Sickergrube leiten und damit offene Plumpsklos ersetzen. „Damit können wir nicht viel Geld machen, aber viele Leben retten“, sagt Seto. Seine eigentliche Mission sieht er aber in Toiletten für die rasant boomenden Megacitys in Entwicklungs- und Schwellenländern. „Ich glaube, dass die Entwicklung einer Toilette ohne Kanalanschluss eine andere wichtige Aufgabe ist, zusammen mit der Wasserversorgung“, erklärt der Toilettenpionier. „Digitalisierung und IoT sind interessante Bereiche, aber was die Welt wirklich braucht, sind Ideen, wie wir Wasser sparen können.“ Harter Wettbewerb um die Toilette der ZukunftDer hohe technologische Entwicklungsstand japanischer Hightech-Toiletten ist das Resultat eines harten Wettbewerbs: Lixil, der zweite Toilettengigant Toto und der Herausforderer Panasonic liefern sich seit Jahrzehnten ein Wettrennen um die Kundengunst. Dabei treiben sie die Entwicklung an allen Fronten voran, der Materialwissenschaft, der Strömungslehre und der Elektronik. Allerdings setzen die Rivalen teilweise unterschiedliche Schwerpunkte. Ein Zeichen für den hohen abortigen Entwicklungsstand ist, dass die Po-Dusche in den Werbeprospekten erst weiter hinten erwähnt wird. So selbstverständlich ist diese Funktion in Japan bereits im Alltag der Japaner. Totos Spitzenmodel Neorest NX – Slogan: Die Zukunft startet hier – startet vielmehr mit dem Design. Das neueste Modell setzt auf eine eiförmige Form mit möglichst wenig sichtbaren Spalten. Darauf folgen Totos Fortschritte in der Materialbehandlung, genauer gesagt die Oberflächenbehandlung CeFiONtect. Dabei handelt es sich laut den Ingenieuren um eine „spezielle Glasschicht auf der Keramik“, die bis auf Nanometerebene besonders glatt ist. Damit wollen die Ingenieuren Exkrementen und Bakterien weniger Chancen bieten, sich an der Klokeramik festzuhalten. Und um die Reinlichkeit noch zu erhöhen, sprüht die Toilette ihre Schüssel mit Wasser ein, das antibakterielle hypochlorige Säure enthält. Die wird in der Toilette durch die Elektrolyse von Chloridionen hergestellt, die im Trinkwasser enthalten sind. Doch auch in der Po-Dusche gibt es eine Innovation, das patentierte „Air-in Wonder-Wave“: Durch die genaue Steuerung injiziert die Düse kleine Luftblasen in die Wassertropfen, die so um 30 Prozent vergrößert werden. Das Unternehmen verspricht durch diese Welle von kleinen und großen Tropfen eine höhere Waschleistung bei weniger Wasserverbrauch. Panasonic experimentiert ebenso schon lange mit vernetzten Klos. Es hatte schon Konzepte, die den Körperfettanteil und das -Gewicht messen konnten. In seinen Massenklos setzt das Unternehmen bei der Schüssel seines Topmodells Arauno L150 auf besonders glattes „organisches Glas“, das auf Material für Flugzeugfenster beruht. Zur zusätzlichen Desinfizierung wird Ozonwasser Wasser eingesprüht, die die Emissionen durch „Nano-Ionen“ geruchsbehandelt. Darüber hinaus schäumt das Klo regelmäßig die Schüssel ein, damit der Mensch es weniger putzen muss.Zudem wirbt der Elektronikkonzern standesgemäß mit IoT-Technik. Die Arauno-App erlaubt nicht nur eine Fernbedienung des Klos, sondern informiert auch über Strom- und Wasserverbrauch sowie die Frequenz der Toilettenbesuche. Wer will – oder aus medizinischen Gründen muss – kann auch die Form, Farbe und Geruch des Geschäfts in die App eintragen. Lixil will diesen Prozess nun automatisieren.Mehr: Smarte Technologie muss einen Nutzen habenZur StartseiteNachricht an die Redaktion",,,,,,,,

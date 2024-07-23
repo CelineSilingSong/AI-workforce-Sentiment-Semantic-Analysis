@@ -1,0 +1,335 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,headline,datePublished,dateModified,mainEntityOfPage,image,publisher,isAccessibleForFree,hasPart,@graph
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vaGVhbHRoY2FyZS1pbi1ldXJvcGUuY29tL2RlL25ld3Mva2ktdW50ZXJzdWNodC1yb2VudGdlbmJpbGRlci1hdWYtY292aWQtYW56ZWljaGVuLmh0bWzSAQA?oc=5,KI untersucht Röntgenbilder auf COVID-Anzeichen • healthcare-in-europe.com - healthcare-in-europe.com,2020-07-09,healthcare-in-europe.com,https://healthcare-in-europe.com,"Ein Notfallpatient mit Verdacht auf eine Coronavirus-Infektion trifft in einer Klinik ein. Für den weiteren Behandlungsverlauf ist die Einschätzung, ob es sich tatsächlich um eine COVID-19-Infektion handelt, essentiell.",N/A,"Ein Notfallpatient mit Verdacht auf eine Coronavirus-Infektion trifft in einer Klinik ein. Für den weiteren Behandlungsverlauf ist die Einschätzung, ob es sich tatsächlich um eine COVID-19-Infektion handelt, essentiell.","Ein Notfallpatient mit Verdacht auf eine Coronavirus-Infektion trifft in einer Klinik ein. Für den weiteren Behandlungsverlauf ist die Einschätzung, ob es sich tatsächlich um eine COVID-19-Infektion handelt, essentiell.",N/A,N/A,"
+
+
+Doktorand Daniel Schaudt (links) und Facharzt Dr. Christopher Kloth analysieren eine Röntgenaufnahme einer Lunge.Bildquelle: Universitätsklinikum Ulm
+
+
+
+
+News • Deep Learning-Forschung
+KI untersucht Röntgenbilder auf COVID-Anzeichen
+Ein Notfallpatient mit Verdacht auf eine Coronavirus-Infektion trifft in einer Klinik ein. Für den weiteren Behandlungsverlauf ist die Einschätzung, ob es sich tatsächlich um eine COVID-19-Infektion handelt, essentiell.
+
+
+
+
+
+Dabei könnte in Zukunft Künstlicher Intelligenz (KI) eine wesentliche Rolle zukommen: Sie soll Mediziner bei der Ersteinschätzung der vorliegenden Erkrankung unterstützen. Im Rahmen eines gemeinsamen Projekts erforschen Wissenschaftler des Universitätsklinikums Ulm und der Technischen Hochschule Ulm (THU), inwiefern sich mit Hilfe von KI und Röntgenaufnahmen der Lunge Aussagen über eine vorliegende Coronavirus-Infektion treffen lassen. „Unser Ziel ist es, die Künstliche Intelligenz so zu trainieren, dass sie feststellen kann, ob die Patientin oder der Patient an einer Lungeninfektion leidet, ob es sich dabei um COVID-19 handelt und falls ja, wie schwer die Infektion ist und welcher Teil der Lunge befallen ist“, erklärt Professor Dr. Meinrad Beer, Ärztlicher Direktor der Klinik für Diagnostische und Interventionelle Radiologie am Universitätsklinikum Ulm. „Röntgenaufnahmen bieten bei der Versorgung von Lungeninfektionen wie COVID-19 große Vorteile. Sie sind schneller als die meisten anderen Verfahren, flexibel einsetzbar und nur mit einer geringen Strahlenexposition verbunden. Die Bildanalyse mittels Künstlicher Intelligenz wird diese Vorteile noch weiter verstärken zum Wohl unserer Patientinnen und Patienten“, so Professor Beer weiter, der die Studie leitet.
+
+
+
+Im Kampf gegen das Coronavirus arbeiten THU und Uniklinik Ulm eng zusammen: (von links) Doktorand Andreas Hinteregger (UKU), Facharzt Dr. Christopher Kloth (UKU), Prof. Dr. Meinrad Beer, Ärztlicher Direktor der Klinik für Diagnostische und Interventionelle Radiologie (UKU), Professor Dr. Reinhold von Schwerin (THU) und Doktorand Daniel Schaudt (THU).Bildquelle: Universitätsklinikum Ulm
+
+
+
+Für die Auswertung der Röntgenaufnahmen trainieren Professor Dr. Reinhold von Schwerin und Doktorand Daniel Schaudt von der THU eine KI, die mithilfe eines besonderen Deep Learning Verfahrens, dem sogenannten Transfer Learning, bereits mit wenigen Trainingsdaten vielversprechende Ergebnisse liefern kann. Bei dieser Technik werden vortrainierte vielschichtige (auch: tiefe) Netze, die bereits gelernt haben, welche Merkmale in einem Bild wichtig sind, auf ein spezielles Problem adaptiert. „Die stetig steigenden Möglichkeiten der durch Künstliche Intelligenz gestützten Bildanalyse sind auch auf Röntgenbilder anwendbar. Erste Versuche an der THU mittels Convolutional Neural Networks, einem speziellen, in der Bildanalyse häufig eingesetzten Deep Learning Verfahren, haben gezeigt, dass Künstliche Intelligenz eine erste Einschätzung über das Vorliegen einer Coronavirus-Erkrankung geben kann“, sagt Professor von Schwerin.
+
+
+
+Wir werden die Lungenkonturen und die Infiltrate, also die entzündlichen Veränderungen des Lungengewebes durch COVID-19 auf den Röntgenbildern einzeichnen, damit die Software daraus lernt und anschließend diese jeweils selbstständig erkennen kannChristopher KlothFür das Training der KI ist ein zeitnahes Heranziehen von  anonymisierten Röntgenaufnahmen der Lunge von 1500 Patienten der Klinik für Diagnostische und Interventionelle Radiologie in den nächsten Monaten geplant. Bevor die KI mithilfe der Aufnahmen lernen kann, ist aber medizinisches Wissen gefragt. Die klinischen Informationen zu den Röntgenbildern sollen von Doktorand Andreas Hinteregger und Facharzt Dr. Christopher Kloth aus der Klinik für Diagnostische und Interventionelle Radiologie zusammengetragen werden. „Wir werden die Lungenkonturen und die Infiltrate, also die entzündlichen Veränderungen des Lungengewebes durch COVID-19 auf den Röntgenbildern einzeichnen, damit die Software daraus lernt und anschließend diese jeweils selbstständig erkennen kann“, erläutert Dr. Kloth.Doktorand Daniel Schaudt beschäftigt sich bereits seit Ende 2019 mit dem Netzwerk, das nun zum Einsatz kommt. „Momentan prüfen wir, welche Möglichkeiten zur Strukturierung der Röntgenaufnahmen für das Training zielführend sind. Dazu zählt beispielsweise eine Strukturierung nach bestimmten Sektoren der Lunge. Wir hoffen so, den Infektionsherd einer COVID-19-bedingten Lungenentzündung genauer lokalisieren zu können“, erklärt der Informatiker. Mit ersten Ergebnissen rechnen die Wissenschaftler in den nächsten Monaten.Quelle: Universitätsklinikum Ulm Profil:Prof. Meinrad Beer legte seinen Schwerpunkt schon früh nach seinem Studium der Humanmedizin und seiner Promotion an den Universitäten Regensburg und Würzburg auf den Bereich der Diagnostischen Radiologie. Seit 2013 ist Beer Ärztlicher Direktor der Klinik für Diagnostische und Interventionelle Radiologie in Ulm. Seine Forschungsschwerpunkte liegen in der kardialen, der onkologischen sowie der muskuloskeletalen Bildgebung.
+
+
+
+09.07.2020
+
+Mehr zu den Themen:Coronavirus (631)
+Deep Learning (77)
+KI (400)
+Röntgen (162)
+Kontakt …Mehr aktuelle Beiträge lesen",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm9uZXR6LmRlL2RldXRzY2hsYW5kLXdlbHQvd2VpZGVuLW9iZXJwZmFsei90aWtpLXdlaWRlbi1lbnRzdGVodC1rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1pZDMwNTcwMjYuaHRtbNIBAA?oc=5,Tiki: In Weiden entsteht Künstliche Intelligenz - Onetz.de,2020-07-09,Onetz.de,https://www.onetz.de,"Was sich im futuristischen Gebäude Space Office der Samhammer-Group seit zwei Jahren abspielt, wissen oft nur Experten. Das Technologische Institut für angewandte Künstliche Intelligenz (TIKI) steht immer mehr im Mittelpunkt der Szene.","Weiden in der Oberpfalz,Digitalisierung,OnetzPlus,Region Weiden/Neustadt a.d.Waldnaab,Wirtschaft","Was sich im futuristischen Gebäude Space Office der Samhammer-Group seit zwei Jahren abspielt, wissen oft nur Experten. Das Technologische Institut für angewandte Künstliche Intelligenz (TIKI) steht immer mehr im Mittelpunkt der Szene.",N/A,N/A,N/A,"
+
+
+",https://schema.org,NewsArticle,Tiki: In Weiden entsteht Künstliche Intelligenz,2020-07-09T18:34:42+02:00,2020-07-13T18:58:16+02:00,"{'@type': 'WebPage', '@id': 'https://www.onetz.de/deutschland-welt/weiden-oberpfalz/tiki-weiden-entsteht-kuenstliche-intelligenz-id3057026.html'}",['https://www.onetz.de/sites/default/files/ic/og-pl/articlemedia/2020/07/09/620a1ba2-8845-4365-92de-3f628d047366_0.jpg'],"{'@type': 'Organization', 'name': 'Oberpfalz Medien', '@logo': {'@type': 'ImageObject', 'url': 'https://www.onetz.de/sites/all/themes/dnt_onet/images/onetz_logo.png'}}",false,"[{'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.authors'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.field-addthis-toolbox'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.field-dnt-marker-comment'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.field-terms-8'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.field-body'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.pane-node-comment-form'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.pane-node-comments'}, {'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.primary-image .gallery-carousel'}]",
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbmV3cy5taWNyb3NvZnQuY29tL2RlLWRlL2dla29tbWVuLXVtLXp1LWJsZWliZW4tbmV1ZS1mdW5rdGlvbmVuLWZ1ZXItbWljcm9zb2Z0LXRlYW1zL9IBAA?oc=5,Neue Funktionen für Microsoft Teams | News Center Microsoft - Microsoft News,2020-07-09,Microsoft News,https://news.microsoft.com,"Die neuen Funktionen in Microsoft Teams ermöglichen es uns, uns miteinander zu verbinden und unterstützen dabei effizienter und produktiver zu sein.",N/A,"Die neuen Funktionen in Microsoft Teams ermöglichen es uns, uns miteinander zu verbinden und unterstützen dabei effizienter und produktiver zu sein.",N/A,N/A,N/A,"
+
+
+			14. April 2020		
+
+		Work Trend Index: Wie sich COVID-19 auf die Arbeitswelt auswirkt	
+
+Im ersten Bericht des Work Trend Index zeigen wir, wie sich die Arbeitswelt und auch das Lernen in Zeiten von COVID-19 verändert und wie Menschen unsere Produktivitätslösung Microsoft Teams nutzen.
+
+
+",https://schema.org,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/', 'url': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/', 'name': 'Neue Funktionen für Microsoft Teams | News Center Microsoft', 'isPartOf': {'@id': 'https://news.microsoft.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/#primaryimage'}, 'image': {'@id': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/#primaryimage'}, 'thumbnailUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/40/2020/07/Togther-Mode_Header.png', 'datePublished': '2020-07-09T06:57:16+00:00', 'dateModified': '2021-03-16T14:16:11+00:00', 'author': {'@id': 'https://news.microsoft.com/de-de/#/schema/person/fdb4bbf78df04e5d5bb374d4955943bc'}, 'description': 'Die neuen Funktionen in Microsoft Teams ermöglichen es uns, uns miteinander zu verbinden und unterstützen dabei effizienter und produktiver zu sein.', 'breadcrumb': {'@id': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/#primaryimage', 'url': 'https://news.microsoft.com/wp-content/uploads/prod/sites/40/2020/07/Togther-Mode_Header.png', 'contentUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/40/2020/07/Togther-Mode_Header.png', 'width': 1920, 'height': 1080, 'caption': 'Das GIF zeigt die Funktion des Together Mode: Verschiedene Teams-Teilnehmer*innen befinden sich virtuell in einem Raum.'}, {'@type': 'BreadcrumbList', '@id': 'https://news.microsoft.com/de-de/gekommen-um-zu-bleiben-neue-funktionen-fuer-microsoft-teams/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://news.microsoft.com/de-de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Recent News', 'item': 'https://news.microsoft.com/de-de/recent-news/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Gekommen, um zu bleiben: Neue Funktionen für Microsoft Teams'}]}, {'@type': 'WebSite', '@id': 'https://news.microsoft.com/de-de/#website', 'url': 'https://news.microsoft.com/de-de/', 'name': 'Newsroom Microsoft Deutschland', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://news.microsoft.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Person', '@id': 'https://news.microsoft.com/de-de/#/schema/person/fdb4bbf78df04e5d5bb374d4955943bc', 'name': 'Charlotte Reimann', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://news.microsoft.com/de-de/#/schema/person/image/125c84252c9f0688c84f54b8dd7d5670', 'url': 'https://secure.gravatar.com/avatar/21f1dc5a090f9cc0bfc6660c5b15e51c?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/21f1dc5a090f9cc0bfc6660c5b15e51c?s=96&d=mm&r=g', 'caption': 'Charlotte Reimann'}, 'url': 'https://news.microsoft.com/de-de/author/charlottereimann/'}]"
+https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbGl0ZXJhdHVya3JpdGlrLmRlL3ByZWNodC1rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei11bmQtZGVyLXNpbm4tZGVzLWxlYmVucy1kaWUtcmlzaWtlbi1kZXItZGlnaXRhbGlzaWVydW5nLDI2OTYwLmh0bWzSAQA?oc=5,Die Risiken der Digitalisierung - Richard David Precht plädiert in „Künstliche Intelligenz und der Sinn des Lebens“ für ... - literaturkritik.de,2020-07-08,literaturkritik.de,https://literaturkritik.de,Die Risiken der DigitalisierungRichard David Precht plädiert in „Künstliche Intelligenz und der Sinn des Lebens“ für Philosophie,N/A,N/A,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+ ZURÜCKBLÄTTERN
+ 
+VORBLÄTTERN 
+
+
+
+Die Risiken der Digitalisierung
+Richard David Precht plädiert in „Künstliche Intelligenz und der Sinn des Lebens“ für Philosophie
+Von Thorsten Paprotny
+ 
+Besprochene Bücher / Literaturhinweise
+Zum Handwerk des Denkens gehört die harte, geduldige und ausdauernde Arbeit am Begriff und die kritische Reflexion von Argumenten. Die Lektüre philosophischer Werke – von Kants Kritik der reinen Vernunft über Hegels Phänomenologie des Geistes und Heideggers Sein und Zeit bis hin zu Adornos Ästhetische Theorie – gleicht einem Ausflug ins Hochgebirge des Geistes. In der Moderne plädierten prominente Philosophen wie Karl R. Popper mit dem Diktum „Alle Menschen sind Philosophen!“ für Nachvollziehbarkeit und Verständlichkeit. Unter diesem Motto könnte auch das Schaffen des Philosophen Richard David Precht stehen, der 2007 mit dem Bestseller Wer bin ich – wenn ja, wie viele? bekannt wurde. Seither verfasste er zahlreiche zeitdiagnostische Streitschriften, effektvoll platziert in vielen Bereichen des Wissens, ebenso leicht verständliche Einführungen in die Geschichte der Philosophie.
+
+Weniger die filigrane Feinarbeit des philosophischen Denkens ist Prechts Metier, sondern die pointierte Lust am Widerspruch gegenüber einem vermeintlichen oder tatsächlichen Mainstream, die politische Profilierung und die ungeniert vorgebrachte Meinung. Zudem nutzt der Philosoph mit Vorliebe schlagkräftige, zuweilen auch sehr farbenfrohe Metaphern, um die Gedanken, die ihn zuinnerst bewegen, markant vorzubringen. In seinem neuen Buch äußert er sich eloquent über die Digitalisierung und ihre Folgen. Er beschreibt eine Art gesellschaftspolitische Krise und entwirft ein umfassendes ökonomisches Bedrohungsszenario:
+
+
+
+Kontrolliert wird der Markt nicht durch staatliche Ordnungspolitik, sondern durch eine Reihe subtiler Methoden wie Interfaces, Ratings und Trackings, durch die sich Nutzerverhalten steuern und Daten schöpfen lassen.
+
+Die „KI“, die „künstliche Intelligenz“, dringe nun in die „feine Unterwäsche des Bewusstseins“ ein: „Textilien mit Sensoren nehmen Emotionen wahr, scannen und vermessen sie. Hirn- und Körperscanner durchpflügen die Gefühlswelt. Jeglicher Verhaltensimpuls, auch die feinsten emotionalen Regungen sollen ebenso kommerzialisiert werden wie jedes etwaige zukünftige Verlangen.“ Schneidig spricht er über eine „hochexpansive Ökonomie“ und beklagt den „Abbau der Humanität“ heute.
+
+Precht sieht die Autonomie des Menschen in Gefahr und fürchtet, dass die Selbstverwirklichung der Person, die er existenzphilosophisch begreift, von den Plänen und Absichten der „IT-Visionäre“ bedroht ist. Die Vordenker der „Künstlichen Intelligenz“ hätten eine „Maschinenreligion“ entworfen:
+
+
+
+Die Zukunftswelt gleicht einem entfesselten Finanzmarkt, jenem Nicht-Ort, an dem schon jetzt geschieht, was irgendwann überall passieren soll. Eine schier allmächtige Quantum-Intelligenz dreht von einer Cloud aus die Welt, sieht alles, was in finsterster Nacht passiert, hält alle Fäden mit Wertpapieren in der Hand, jagt Finanzströme um den Globus und optimiert sich dabei ins Unendliche.
+
+Der Mensch sei nicht mehr als ein „kleines hilfreiches Werkzeug“, eine „Trägerrakete für die Erleuchtung des Universums mit der KI“. Gesetzt, diese Weltbeschreibung oder Prognose würde zutreffen, warum bleibt ein Korrektiv aus – etwa auf politischem Weg? Precht bemerkt resignierend: „In der Politik … haben hochbegabte Menschen in der Regel kaum eine Chance.“
+
+Ein philosophisch kundiger Leser mag an den Dialog „Politeia“ denken, an das „Höhlengleichnis“, in dem Platon aufzeigt, dass weltliches Wissen nur eine Täuschung ist und dass jene Personen, die den Weg zur Wahrheit suchen und finden, von den Mächtigen – wie Sokrates – getötet würden. Dieses Beispiel führt Precht nicht an, aber über die griechische Philosophie äußert er sich gelegentlich, zumindest in Andeutungen. Es ist erlaubt, die Antike wert- und hochzuschätzen und angemessen zu würdigen. So schreibt der Verfasser über die Philosophen der Antike:
+
+
+
+Geist, Denken, Vernunft und Kalkül waren jene Eigenschaften, die Männer an der schönen Küste Kleinasiens unweit des Ägäischen Meeres im 5. und 4. vorchristlichen Jahrhundert zu den Wesensmerkmalen des Menschlichen erklärten. Der Logos schenkte ihnen die Teilhabe an einer höheren Sphäre des Seins, die größer ist als der Mensch selbst. Vom Himmel ins Bewusstsein geholt, wird sie zur Allzweckwaffe. Sie ist Denkmethode, Instanz, Sinnstiftung – aber vielleicht auch nur eine Fiktion, geboren in den Bewusstseinszimmern enger Wirbeltiergehirne.
+
+Precht übertreibt absichtlich und blendet den historischen Kontext vollständig aus: Die Wiege des abendländischen Denkens, in Athen und anderswo, stand aber in einer Sklavenhaltergesellschaft, gegen die nicht ein einziger von jenen bis heute verehrten Philosophen opponierte, in einer Zeit, in der ausschweifende Lustbarkeiten unter Männern und Knaben stattfanden und in der Frauen zu Objekten des Hausstandes gehörten. Der Kontext schmälert vielleicht nicht die Ingeniösität des Denkens, aber berücksichtigt, zumindest erwähnt werden, könnten die gesellschaftlichen wie kulturellen Zeitumstände, unter denen philosophische Werke entstanden sind, durchaus. 
+
+Precht lobt, wie viele andere, das antike Denken konsequent und setzt die Besinnung darauf gegen die Strömungen der Moderne: „Der Ehrgeiz der antiken Griechen war das souveräne Sich-Abfinden; Optimierung bedeutete, gelassener zu werden. Wie weit haben wir uns inzwischen davon entfernt, wenn Glück stets einen Kick bedeuten muss, eine challenge und wenn es stets im Neuen liegen soll und nicht im Gewohnten, Bekannten und Vertrauten?“
+
+Precht sagt, die „heutige Generation der Logos-Sekte“ träume von etwas anderem: „Hohepriester des Silicon Valley lehren uns, in Menschen unvollständige Maschinen zu sehen, statt in Maschinen unvollständige Menschen.“ Den eilfertigen Gehorsam gegenüber den „Spielregeln unserer Ökonomie“ weist Precht ab. Der „Drang zum Mehr“ sei „kein Urtrieb“, sondern dem Ökonomismus der Gesellschaft geschuldet. Er fordert eine Besinnung auf „Lebensqualitäten“ ein, die „im antiken Griechentum“ etwa in dem „Gleichgewicht der Seelenkräfte“ wie in einer „wachen Sinnlichkeit“ ebenso vorfindlich gewesen seien wie in „fernöstlichen Glaubensrichtungen“.
+
+Denkt Precht hier an Epikurs Philosophie der Freude? Oder orientiert er sich an der Vorstellung der Seelenruhe, wie sie in der römischen Stoa von Seneca dargelegt wurde? Das bleibt offen.
+
+Die Stoiker etwa hegten keine Sympathien für Sinnlichkeit und Emotionen, sondern forderten die innere Haltung der Apathie – im Gegensatz zu Precht, der die „emotionale Sensitivität“ mit Recht als wichtiges Merkmal des Menschen ansieht. Dieses Bedürfnis, so der Philosoph, wollen die „IT-Apostel“ heute scheinbar nicht wahrnehmen, weil die Konstrukteure der KI in anderen Kategorien dächten und das Leben technisch als „Problemlösen“ begreifen würden. Precht fürchtet, dass eine „technische Allproblemlösungsgesellschaft“ entstehen könnte: „Die sinnfälligste Neuerung des Digitalzeitalters ist die inflationäre Vermehrung von Problemen. Was nicht der Norm entspricht oder prinzipiell optimierbar ist, wird sofort als Problem identifiziert.“ Er behauptet indessen: „Leben ist kein schablonenhaftes Problemlösen. Wenn wir die Welt erfassen, so stellen wir Beziehungen zwischen den Dingen her. Wir denken nicht in Begriffen, sondern in Relationen. Jedes Denken steht in Beziehungen und ist damit relativ. … Das Denken ist das, was sich zwischen den Wörtern und Sätzen abspielt, eine Bewegung, die sich nicht dingfest machen lässt. Insofern bildet das Denken die Welt auch nicht ab – es erzeugt sie.“
+
+Auch in früheren Büchern hat Richard David Precht Sympathien für den Konstruktivismus gezeigt. Diese Auffassung kann philosophisch heute vertreten und angefochten werden, ebenso wie zahlreiche Philosophen – ohne deswegen wissenschaftsgläubige Positivisten sein zu müssen – den objektiven Wahrheitsbegriff nicht aufzugeben bereit wären und den postmodernen Relativismus abweisen würden, den Precht in gleicher Weise entschlossen vertritt, wie er sich zu Werten wie „Menschenwürde“ bekennt.
+
+Als „Quintessenz aus zweieinhalbtausend Jahren abendländischer Moralphilosophie“ zieht der Philosoph die Einsicht, „dass zumindest situativ immer unsere Gefühle entscheiden“. Moralisches Handeln sei intuitiv und gefühlsorientiert, aber die Intuitionen des Menschen seien „lernfähig“: „Vernunft alleine gebiert dagegen keine Moral. … Moral ohne Subjektivität ist keine Moral und Subjektivität ohne Moral keine Subjektivität.“ Diese apodiktisch formulierten Setzungen müssten kritisch diskutiert werden, weil etwa die von Precht massiv gescholtenen Nützlichkeitsphilosophen dieser Ansicht zustimmen könnten. Die „KI-Visionäre“ seien nämlich Utiliaristen, und den Utilitarismus – trivial zusammengefasst der maximale Nutzen und das größtmögliche Glück für die größtmögliche Zahl von Menschen – lehnt Precht ab.
+
+Wenn Moral und Subjektivität einhergehen, was spricht dagegen, dass Wohlergehen, Selbstverwirklichung und materieller Reichtum für viele Menschen als subjektiv sinnvoll und moralisch akzeptabel angesehen werden könnten? Immer wieder greift Precht die Sinnfrage auf: „Sinn ist eine höchst subjektive Kategorie, keine objektive. Mein Lebenssinn lässt sich nirgends vorfinden. Zu einem bestimmten Sinn bekennt man sich oder nicht, man wählt ihn aus, man interpretiert ihn. Sinn ist immer individuell und damit das Gegenteil von allgemein.“
+
+Was aber bedeutet das genau? Precht beharrt auf einem Verständnis von Sinn, an dem „nichts logisch“ sei: „Alles Sinnbedürfnis geht von der Psychologie aus, aller Lebenssinn ist irrational. Und kein Depressiver lässt sich durch logische Argumente dazu bringen, seinem Leben wieder einen Sinn abzugewinnen.“ Weder mit „KI“ noch mit Philosophie und Lebenskunst, sondern mithilfe von erprobten Therapien und geeigneten Antidepressiva könnte es vielleicht nicht aussichtslos sein, einen depressiven Menschen vor dem Suizid zu bewahren.
+
+Richard David Precht nimmt einen bedrohlichen Weltzustand wahr, wesentlich bedingt durch die „KI-Systeme der Hightech-Oligarchen“, und fürchtet die Entstehung „privatisierter Märkte in den Händen weniger IT-Konzerne“. Seine kritische Analyse der Gegenwart mündet eher in einen Appell, der offenbar als Resümee der Reflexionen verstanden werden könnte:
+
+
+
+Millionen Jahre der Evolution haben den Menschen ziemlich gut an die Lebensbedingungen unseres Planeten angepasst, wenige Jahrzehnte der KI werden ihm kein besseres Paradies bauen können, eher eine Hölle. … Die Versprechen vom Überwinden des Menschen durch Superintelligenz und Raumfahrt sind nicht entfernt so aufregend wie das verlockende Ziel einer intakten Erde. Wie wenig haben wir von der Natur verstanden, der wir so leichtfertig eine vorbestimmte Richtung, einen objektiven Entwicklungssinn andichten, der den größten Konzernen in den Kram passt.
+
+Der Philosoph Precht formuliert bisweilen zwar sehr salopp, aber er verfügt über eine Reihe von unbestreitbaren Vorzügen. Vor allem: Er löst, auch durch seine durchaus in einem anregenden Sinn ganz eigene Zugangsweise, Diskussionen aus und vermag denkend zu provozieren. Darum verdient dieses populärphilosophische Buch weder euphorische Zustimmung noch empörte Abweisung, sondern eine substanziell fundierte, kontroverse Diskussion – vielleicht mit Bezug auf die Frage, die Platon in der Politeia als wesentlich benannt hat: In der Philosophie gelte es nämlich darüber nachzudenken, auf welche Weise wir leben wollen.
+
+
+
+
+
+
+
+ 
+
+Richard David Precht: Künstliche Intelligenz und der Sinn des Lebens. Ein Essay.  Goldmann Verlag, München 2020. 256 Seiten ,  18,00 EUR.ISBN-13: 9783442315611Weitere Rezensionen und Informationen zum Buch
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LESERBRIEF SCHREIBEN
+DIESEN BEITRAG WEITEREMPFEHLEN
+DRUCKVERSION
+NEWSLETTER BESTELLEN
+
+
+
+
+
+
+
+
+
+ ZURÜCKBLÄTTERN
+ 
+VORBLÄTTERN 
+
+
+
+
+
+https://literaturkritik.de/public/rezension.php?rez_id=26960
+Letzte Änderung: 22.07.2020 - 11:54:46Erschienen am: 08.07.2020
+	Lesungen: 14669
+	© beim Autor und bei literaturkritik.de
+Lizenzen zur Nachpublikation
+
+
+
+Anzeigen
+
+
+Ergebnisse einer internationalen Tagung zu einem Forschungsprojekt über Heimat, Raum und Emotion in der Literatur seit 1945 bis zur GegenwartVerlag LiteraturWissenschaft.de
+„Ich habe die Portraits mit großem Vergnügen gelesen, sie sind gescheit, wohl abgewogen und sachlich.“ (Per Wästberg, Mitglied der Schwedischen Akademie)Verlag LiteraturWissenschaft.de
+Der Physiker Richard M. Weiner setzt seine literarischen Denkexperimente über die Beziehungen zwischen Menschen und Künstlicher Intelligenz fort.Neu im Verlag LiteraturWissenschaft.de 
+
+Anzeigenangebote bei literaturkritik.de hier!
+
+
+
+
+",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVuaXRlLmFpL2RlL1BlbnRhZ29ucy1nZW1laW5zYW1lcy1LSS1aZW50cnVtLUphaWMtdGVzdGV0LWVyc3RlLXQlQzMlQjZkbGljaGUtS0ktUHJvamVrdGUv0gEA?oc=5,Das Joint AI Center (JAIC) des Pentagon testet erste tödliche KI-Projekte - Unite.AI,2020-07-11,Unite.AI,https://www.unite.ai,N/A,N/A,"Der neue amtierende Direktor des Joint Artificial Intelligence Center (JAIC), Nand Mulchandani, gab am 8. Juli seine allererste Pentagon-Pressekonferenz, in der er darlegte, was dem JAIC bevorsteht und wie sich aktuelle Projekte entwickeln. Die Pressekonferenz findet zwei Jahre nach dem Rückzug von Google aus Project Maven statt, auch bekannt als […]","Der neue amtierende Direktor des Joint Artificial Intelligence Center (JAIC), Nand Mulchandani, gab am 8. Juli seine allererste Pentagon-Pressekonferenz, in der er darlegte, was dem JAIC bevorsteht ...",Regulation,N/A,"   Rechtliches  Das Joint AI Center (JAIC) des Pentagon testet erste tödliche KI-Projekte Veröffentlicht 4 Jahren on  11. Juli 2020 By  Alex McFarland  Inhaltsverzeichnis Der neue amtierende Direktor des Joint Artificial Intelligence Center (JAIC), Nand Mulchandani, gab sein allererstes Pentagon Pressekonferenz am 8. Juli, wo er darlegte, was dem JAIC bevorsteht und wie sich aktuelle Projekte entwickeln.Die Pressekonferenz findet zwei Jahre nach dem Rückzug von Google aus Project Maven, auch bekannt als Algorithmic Warfare Cross-Functional Team, statt. Nach Angaben des Pentagon zielte das im April 2017 gestartete Projekt darauf ab, „Computer-Vision-Algorithmen zu entwickeln, die benötigt werden, um militärische und zivile Analysten zu unterstützen, die durch die schiere Menge an Full-Motion-Videodaten belastet sind, die das Verteidigungsministerium täglich zur Unterstützung der Aufstands- und Terrorismusbekämpfung sammelt.“ Operationen.“ Eines der Hauptziele des Pentagons war es, bis Ende 2017 Algorithmen in „Kriegsführungssysteme“ zu implementieren.Dem Vorschlag wurde entsprochen starker Widerstand, darunter 3,000 Google-Mitarbeiter, die eine Petition unterzeichnet haben, um gegen die Beteiligung des Unternehmens an dem Projekt zu protestieren.Laut Mulchandani hat sich diese Dynamik geändert und die JAIC erhält nun Unterstützung von Technologiefirmen, darunter Google.„Wir haben überwältigende Unterstützung und Interesse aus der Technologiebranche an der Zusammenarbeit mit der JAIC und dem Verteidigungsministerium erhalten“, sagte Mulchandani. „[wir] haben kommerzielle Verträge und arbeiten mit allen großen Technologie- und KI-Unternehmen – einschließlich Google – und vielen anderen.“ Mulchandani ist in einer viel besseren Position als sein Vorgänger, Generalleutnant Jack Shanahan, wenn es um die Beziehung zwischen der JAIC und dem Silicon Valley geht. Shanahan gründete die JAIC im Jahr 2018 und hatte ein angespanntes Verhältnis zur Technologiebranche, während Mulchandani einen Großteil seines Lebens in dieser Branche verbrachte. Er war Mitbegründer und Leiter mehrerer Startup-Unternehmen. Die JAIC 2.0Das JAIC wurde 2018 mit dem Schwerpunkt auf Bereichen mit geringem Technologierisiko wie Katastrophenhilfe und vorausschauende Wartung gegründet. Da diese Projekte nun voranschreiten, wird daran gearbeitet, sie in die Produktion zu überführen. Der neue Plan mit der Bezeichnung JAIC 2.0 umfasst sechs Missionsinitiativen, die alle im Gange sind, darunter gemeinsame Kampfeinsätze, die Gesundheit von Kampfflugzeugen, die Transformation von Geschäftsprozessen, die Reduzierung und den Schutz von Bedrohungen, gemeinsame Logistik und die neueste, gemeinsame Informationskriegsführung. Die neueste Ergänzung umfasst Cyber-Operationen.Ein besonderer Schwerpunkt liegt nun auf der gemeinsamen Kriegsführungsmission, die die Prioritäten der Nationalen Verteidigungsstrategie im Hinblick auf den technologischen Fortschritt des US-Militärs übernimmt.Die JAIC hat nicht viele Einzelheiten zu dem neuen Projekt dargelegt, aber Mulchandani bezeichnete es als „taktische Spitzen-KI“ und sagte, dass es vollständig von Menschen kontrolliert werden werde. Mulchandani beantwortete eine Frage eines Reporters zu den Aussagen von General Shanahan als Direktor über den Einsatz tödlicher KI bis 2021, die „die erste tödliche KI in der Branche sein könnte“. So antwortete er: „Ich möchte mich nicht auf Themen rund um Autonomie und Tödlichkeit im Vergleich zu Tödlichkeit – oder Tödlichkeit selbst – konzentrieren. Es stimmt also, dass viele der Produkte, an denen wir arbeiten, in Waffensysteme einfließen werden.“„Keines davon wird derzeit ein autonomes Waffensystem sein. Wir werden immer noch regiert 3000.09, dieser Grundsatz bleibt weiterhin bestehen. Keine der Arbeiten oder irgendetwas, das General Shanahan erwähnt hat, überschreitet diesen Grenzzeitraum.“„Jetzt haben wir Projekte im Rahmen des Joint Warfighting, die tatsächlich in die Testphase gehen. Sie sind sehr taktisch geprägt. KI, so beschreibe ich es. Und diese Arbeit wird getestet, es ist tatsächlich eine sehr vielversprechende Arbeit, wir sind sehr gespannt darauf. Es ist – es ist eines der, als ich über den Schwenk von der vorausschauenden Wartung und anderen hin zu Joint Warfighting gesprochen habe, das – wahrscheinlich das Flaggschiffprodukt, über das wir nachdenken und über das wir reden, das auf den Markt kommen wird.“„Aber es wird, wie Sie wissen, Bediener, Menschen auf dem Laufenden und vollständige menschliche Kontrolle erfordern, all diese Dinge sind immer noch absolut gültig.“Andere ProjekteIn seiner Erklärung sprach Mulchandani auch über das „enorme Potenzial für den Einsatz von KI in offensiven Fähigkeiten“ wie der Cybersicherheit.„Sie können die Nachrichten im Hinblick darauf lesen, was unsere Gegner da draußen tun, und Sie können sich vorstellen, dass es in diesem Bereich viel Raum für Wachstum gibt“, sagte er.Mulchandani enthüllte, was die JAIC im Hinblick auf die durch die COVID-19-Pandemie verursachten Herausforderungen unternimmt, und zwar durch einen kürzlich abgeschlossenen 800-Millionen-Dollar-Vertrag mit Booz Allen Hamilton und Project Salus. JAIC hat eine Reihe von Algorithmen für NORTHCOM- und Nationalgarde-Einheiten entwickelt, um Ressourcenherausforderungen in der Lieferkette vorherzusagen.          Verwandte Themen:AIkünstliche Intelligenzder RegierungMilitär  Als nächstesUS-Vertreter veröffentlichen parteiübergreifenden Plan für KI und nationale Sicherheit     Verpassen Sie nichtAI Research Cloud Bill im US-Kongress erhält Unterstützung von mehr als 20 Organisationen    Alex McFarland  Alex McFarland ist ein KI-Journalist und Autor, der sich mit den neuesten Entwicklungen in der künstlichen Intelligenz beschäftigt. Er hat mit zahlreichen KI-Startups und Publikationen weltweit zusammengearbeitet.  Vielleicht gefällt dir   OpenAIs Suche nach AGI: GPT-4o vs. das nächste Modell    KI in der Fertigung: Daten- und Talentbarrieren überwinden    Optimierung von KI-Workflows: Einsatz von Multi-Agenten-Systemen zur effizienten Aufgabenausführung    Mit KI-Kopfhörern können Sie einer Person in einer Menschenmenge zuhören    Der Einfluss von KI und LLMs auf die Zukunft der Arbeitsplätze    Demokratisierung der KI: Untersuchung der Auswirkungen von Low/No-Code-KI-Entwicklungstools      Neueste Beiträge Lokale generative KI: Die Zukunft der intelligenten Bereitstellung gestalten Code-Einbettung: Eine umfassende Anleitung Dr. Stavros Papadopoulos, Gründer und CEO, TileDB – Interviewreihe Deepfakes und der Umgang mit der neuen Ära synthetischer Medien Brasilien stoppt Metas KI-Training anhand lokaler Daten durch Regulierungsmaßnahmen",https://schema.org,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#article', 'isPartOf': {'@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/'}, 'author': {'name': 'Alex McFarland', '@id': 'https://www.unite.ai/#/schema/person/b68082e79ef4c95981e36e13ae962d8c'}, 'headline': 'Das Joint AI Center (JAIC) des Pentagon testet erste tödliche KI-Projekte', 'datePublished': '2020-07-11T14:11:08+00:00', 'dateModified': '2020-07-11T14:11:08+00:00', 'mainEntityOfPage': {'@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/'}, 'wordCount': 744, 'publisher': {'@id': 'https://www.unite.ai/#organization'}, 'image': {'@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#primaryimage'}, 'thumbnailUrl': 'https://www.unite.ai/wp-content/uploads/2020/07/pentagon-80394__480.jpg', 'keywords': ['AI', 'artificial intelligence', 'Government', 'Military'], 'articleSection': ['Regulation'], 'inLanguage': 'de'}, {'@type': 'WebPage', '@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/', 'url': 'https://www.unite.ai/de/Pentagons-gemeinsames-KI-Zentrum-Jaic-testet-erste-t%C3%B6dliche-KI-Projekte/', 'name': 'Das Joint AI Center (JAIC) des Pentagon testet erste tödliche KI-Projekte – Unite.AI', 'isPartOf': {'@id': 'https://www.unite.ai/#website'}, 'primaryImageOfPage': {'@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#primaryimage'}, 'image': {'@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#primaryimage'}, 'thumbnailUrl': 'https://www.unite.ai/wp-content/uploads/2020/07/pentagon-80394__480.jpg', 'datePublished': '2020-07-11T14:11:08+00:00', 'dateModified': '2020-07-11T14:11:08+00:00', 'breadcrumb': {'@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#breadcrumb'}, 'inLanguage': 'de', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#primaryimage', 'url': 'https://www.unite.ai/wp-content/uploads/2020/07/pentagon-80394__480.jpg', 'contentUrl': 'https://www.unite.ai/wp-content/uploads/2020/07/pentagon-80394__480.jpg', 'width': 736, 'height': 480}, {'@type': 'BreadcrumbList', '@id': 'https://www.unite.ai/pentagons-joint-ai-center-jaic-testing-first-lethal-ai-projects/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': 'https://www.unite.ai/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Das Joint AI Center (JAIC) des Pentagon testet erste tödliche KI-Projekte'}]}, {'@type': 'WebSite', '@id': 'https://www.unite.ai/#website', 'url': 'https://www.unite.ai/de/', 'name': 'Unite.AI', 'description': '- KI-Nachrichten', 'publisher': {'@id': 'https://www.unite.ai/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.unite.ai/de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de'}, {'@type': 'Organization', '@id': 'https://www.unite.ai/#organization', 'name': 'Unite.AI', 'url': 'https://www.unite.ai/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.unite.ai/#/schema/logo/image/', 'url': 'https://www.unite.ai/wp-content/uploads/2022/01/1200-630b.png', 'contentUrl': 'https://www.unite.ai/wp-content/uploads/2022/01/1200-630b.png', 'width': 1196, 'height': 628, 'caption': 'Unite.AI'}, 'image': {'@id': 'https://www.unite.ai/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/uniteai', 'https://x.com/UniteAI', 'https://www.linkedin.com/company/unite-ai']}, {'@type': 'Person', '@id': 'https://www.unite.ai/#/schema/person/b68082e79ef4c95981e36e13ae962d8c', 'name': 'Alex McFarland', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.unite.ai/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/c4ac96bf597ebdfa4ba98ae3ce76ec21?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/c4ac96bf597ebdfa4ba98ae3ce76ec21?s=96&d=mm&r=g', 'caption': 'Alex McFarland'}, 'description': 'Alex McFarland ist ein KI-Journalist und Autor, der sich mit den neuesten Entwicklungen in der künstlichen Intelligenz beschäftigt. Er hat mit zahlreichen KI-Startups und Publikationen weltweit zusammengearbeitet.', 'sameAs': ['https://www.linkedin.com/in/alex-mcfarland-03b7bb189/', 'https://x.com/https://twitter.com/AlxMcFarland'], 'url': 'https://www.unite.ai/de/Autor/alexmcfarland/'}]"
+https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5ldXJvcGVhbnNjaWVudGlzdC5jb20vZGUvdm9uLWRlci1yZWRha3Rpb24tYXVzZ2V3YWhsdC9yb2JvdGVyLXdpc3NlbnNjaGFmdGxlci1leHBlcmltZW50aWVydC1laWdlbnN0YWVuZGlnLWF1dG9tYXRpc2llcnVuZy1pbi1kZXItZm9yc2NodW5nL9IBAA?oc=5,Roboter-Wissenschaftler experimentiert eigenständig – Automatisierung in der Forschung - European Scientist,2020-07-09,European Scientist,https://www.europeanscientist.com,N/A,N/A,"Künstliche Intelligenz, Digitalisierung und Automatisierung sind Gebiete, mit denen sich Forschende aus unterschiedlichen Disziplinen beschäftigen. Künftig könnten Roboter selbst für wissenschaftlichen Erkenntnisgewinn sorgen. Forscher der University of Liverpool stellten in der Zeitschrift „Nature“ den „ersten Roboter-Wissenschaftler seiner Art“ vor. Hierbei handelt es sich um einen Roboter, welcher Arbeiten im Chemie-Labor übernehmen soll. Er könne eigenständig […]",N/A,N/A,N/A,"
+
+
+Home » Von der Redaktion ausgewählt » Roboter-Wissenschaftler experimentiert eigenständig – Automatisierung in der Forschung
+- Von der Redaktion ausgewählt -
+
+
+								Roboter-Wissenschaftler experimentiert eigenständig – Automatisierung in der Forschung							
+
+
+Von Raphael Lulay
+ - 09.07.2020
+
+
+
+
+
+Künstliche Intelligenz, Digitalisierung und Automatisierung sind Gebiete, mit denen sich Forschende aus unterschiedlichen Disziplinen beschäftigen. Künftig könnten Roboter selbst für wissenschaftlichen Erkenntnisgewinn sorgen. Forscher der University of Liverpool stellten in der Zeitschrift „Nature“ den „ersten Roboter-Wissenschaftler seiner Art“ vor.
+Hierbei handelt es sich um einen Roboter, welcher Arbeiten im Chemie-Labor übernehmen soll. Er könne eigenständig entscheiden, welche Experimente er durchführt. Die Universität teilte ferner mit, dass der Prototyp bereits einen neuen Katalysator entdeckt habe. Obgleich der Roboter 400 Kilogramm auf die Waage bringt, kann er sich in einem Standardlabor frei bewegen. Er ist ausgestattet mit einer Kombination aus Laserabtastung und Berührungsrückmeldung. Dadurch ist es ihm möglich, sich flexibel an die Labormerkmale anzupassen und auch menschlichen Kollegen auszuweichen.
+Zwar übernehmen Roboter bereits heute Aufgaben in Forschungslaboren – allerdings nur einfache mechanische Tätigkeiten. Der Ansatz der Forschenden sei hingegen ein anderer: „Unser Ziel war es nun hingegen, eine gewisse Automatisierung des Forschens zu erreichen und nicht nur der Instrumente“, so Andrew Cooper von der Universität Liverpool. Hierfür zweckentfremdeten die Wissenschaftler einen Roboter aus der Automobilfertigung und statteten ihn mit neuen Fähigkeiten aus.
+Künstliche Intelligenz 
+Der Roboter-Wissenschaftler ist in der Lage, eigenständig verschiedene Geräte und Reagenzien im Raum zu finden. Auch für alle weiteren Schritte wie das Wiegen von Feststoffen und Dosieren von Flüssigkeiten ist er nicht auf externe Hilfe angewiesen. Das besondere sei hierbei die Tatsache, dass er nicht nach einem festen Schema vorgehe. Vielmehr entscheide er sich immer in Abhängigkeit von den Vorergebnissen für den nächsten Schritt respektive das nächste Experiment. Co-Autor Benjamin Burger äußerte, dass der Roboter „weit weniger Fehler als ein menschlicher Laborant“ mache. Auch in puncto Ausdauer übertrifft die Maschine seine menschlichen Kollegen: insgesamt könne er täglich 21,5 Stunden lang arbeiten. In der restlichen Zeit muss er pausieren, um den Akku aufzuladen.
+Bisher führte der Roboter im Laufe von acht Tagen 688 Experimente durch, wobei 6.500 Einzeltätigkeiten vonnöten waren. Die Roboter könnten vielfältig eingesetzt werden, so die Studienautoren. Allerdings betonten sie, dass Wissenschaftler aus Fleisch und Blut auf absehbare Zeit noch nicht ersetzbar seien. Die grundlegende Konzeption der Experimente sowie die Hypothesenbildung müsste nach wie vor von Menschen erledigt werden.
+Roboter in der Medizin
+Indes sehen andere auch ein großes Potenzial bei dem Roboter-Einsatz in der Medizin. Das Schweizer Start-up AOT zählt hierzu. Dieses entwickelte einen OP-Roboter namens „Carlo“. Geht es nach CEO Cyrill Bätscher, dann läute jener Roboter einen Paradigmenwechsel ein. Zum ersten Mal konnte das Start-up in einer Studie beweisen, dass die Technologie nicht nur auf dem Papier, sondern auch am Menschen funktioniert. Innerhalb von einem Jahr operierte der Roboter 28 Patienten, wobei er Fehlstellungen an Ober- und Unterkiefer korrigierte. Die Ärzte mussten hierbei nicht eingreifen. Allerdings – so der bisherige Stand der Forschung – ist es dieser Tage noch vonnöten, dass der Chirurg die durchzuführenden Schnitte auf einem Computertomografie-Bild vorzeichnet.
+Wann die Roboter in der Breite zum Einsatz kommen, scheint bis dato noch schwer abschätzbar zu sein. Insgesamt verzeichnet die Forschung im Bereich Robotik und Automatisierung wie dargestellt durchaus beachtliche Fortschritte.
+ShareKlick, um über Twitter zu teilen (Wird in neuem Fenster geöffnet)Klick, um auf Facebook zu teilen (Wird in neuem Fenster geöffnet)Gefällt mir:Gefällt mir Wird geladen... 
+
+
+Forschung KI robotik
+
+
+
+
+
+
+
+                                                Raphael Lulay                                                |View all posts by Raphael Lulay
+
+
+
+
+
+
+
+Vorheriger ArtikelDes questions sur Crispr et le génome humainNächster ArtikleCOVID-19 has exposed critical flaws in UN Sustainable Development Goals 
+
+
+
+
+
+Hinterlasse eine Antwort
+Hier klicken, um das Antworten abzubrechen.
+
+
+
+Name*
+
+
+
+Email*
+
+
+
+Website
+
+
+
+Comment
+
+
+
+
+Δ 
+
+
+
+
+
+
+
+
+
+
+
+Editor's corner
+
+
+Himmelsleuchten: Wie künstliches Licht unseren Nachthimmel erhellt
+
+
+- Aus der Redaktion -
+
+
+
+
+Nussknacker in Afrika: Schimpansen nutzen vielseitiges Steinwerkzeug
+
+
+- Aus der Redaktion -
+
+
+
+
+Delfine unterscheiden sich im Sozialverhalten nur wenig von den Menschen
+
+
+- Aus der Redaktion -
+
+
+
+    - Wöchentlichen European Scientist Newsletter abonnieren -
+Top article this week
+
+
+KI-Studie zu Verkehrssicherheit: Bürgersteige reduzieren Anzahl der Autounfälle um 70 %
+
+
+- Von der Redaktion ausgewählt -
+
+Unfälle im Straßenverkehr gehören zu den modernen Lebensrisiken. Eine neue Studie der University of Maryland untersucht, wie die Gestaltung der Straßenumgebung die Sicherheit beeinflussen kann. Mithilfe von künstlicher Intelligenz und
+
+
+
+ 
+
+
+
+
+Unterstütze unsEuropean Scientist gibt den Akteuren der Wissenschaftspolitik eine Stimme.
+Um die Debatten und die Meinungsfreiheit zu fördern, denken Sie über eine Spende.
+ 
+
+
+
+
+",https://schema.org,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/', 'url': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/', 'name': 'Roboter-Wissenschaftler experimentiert eigenständig – Automatisierung in der Forschung', 'isPartOf': {'@id': 'https://www.europeanscientist.com/en/#website'}, 'primaryImageOfPage': {'@id': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/#primaryimage'}, 'image': {'@id': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/#primaryimage'}, 'thumbnailUrl': 'https://www.europeanscientist.com/wp-content/uploads/2018/07/robot-hand.jpg', 'datePublished': '2020-07-09T09:41:53+00:00', 'dateModified': '2020-07-09T09:41:53+00:00', 'author': {'@id': 'https://www.europeanscientist.com/en/#/schema/person/ba773e97ad07f503677f1059f99cfe1f'}, 'breadcrumb': {'@id': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/#primaryimage', 'url': 'https://www.europeanscientist.com/wp-content/uploads/2018/07/robot-hand.jpg', 'contentUrl': 'https://www.europeanscientist.com/wp-content/uploads/2018/07/robot-hand.jpg', 'width': 1200, 'height': 650}, {'@type': 'BreadcrumbList', '@id': 'https://www.europeanscientist.com/de/von-der-redaktion-ausgewahlt/roboter-wissenschaftler-experimentiert-eigenstaendig-automatisierung-in-der-forschung/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.europeanscientist.com/de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Roboter-Wissenschaftler experimentiert eigenständig – Automatisierung in der Forschung'}]}, {'@type': 'WebSite', '@id': 'https://www.europeanscientist.com/en/#website', 'url': 'https://www.europeanscientist.com/en/', 'name': 'European Scientist', 'description': 'Scientific News', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.europeanscientist.com/en/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Person', '@id': 'https://www.europeanscientist.com/en/#/schema/person/ba773e97ad07f503677f1059f99cfe1f', 'name': 'Raphael Lulay', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.europeanscientist.com/en/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/56d1315ef39ff27b74d048a706e4b525?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/56d1315ef39ff27b74d048a706e4b525?s=96&d=mm&r=g', 'caption': 'Raphael Lulay'}, 'url': 'https://www.europeanscientist.com/de/author/raphael-lulay/'}]"

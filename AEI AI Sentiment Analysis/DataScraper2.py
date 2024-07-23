@@ -194,7 +194,7 @@ class MacroDataFetcher:
                 if tag.string:
                     try:
                         json_data = json.loads(tag.string)
-                        if '@context' in json_data and 'schema.org' in json_data['@context']:
+                        if isinstance(json_data, dict) and '@context' in json_data and 'schema.org' in json_data['@context']:
                             flattened_data = self.flatten_json(json_data)
                             schema_data.append(flattened_data)
                             metadata.update(json_data)

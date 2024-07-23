@@ -1,0 +1,171 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,mainEntityOfPage,headline,datePublished,dateModified,publisher,articleSection,articleBody,author,image,isAccessibleForFree,publicAccess
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1jb21tZS1vdXRpbC1kZS1sdXR0ZS1jb250cmUtbGVzLWluY2VuZGllcy0xNDM1NjLSAQA?oc=5,L'intelligence artificielle comme outil de lutte contre les incendies - The Conversation Indonesia,2020-08-11,The Conversation Indonesia,https://theconversation.com,"Grâce à l’IA, en prévoyant la survenue des incendies, on peut anticiper leur gestion et les maîtriser avant qu’ils ne dégénèrent, en tenant compte de leur rôle naturel de régulation de la végétation.",N/A,"Grâce à l’IA, en prévoyant la survenue des incendies, on peut anticiper leur gestion et les maîtriser avant qu’ils ne dégénèrent, en tenant compte de leur rôle naturel de régulation de la végétation.",N/A,N/A,N/A,"
+
+
+
+
+
+
+        Incendie en Thaïlande.
+        Sippakorn Yamkasikorn / Unsplash, CC BY-SA
+
+
+
+
+
+
+
+
+
+            L’intelligence artificielle comme outil de lutte contre les incendies
+          
+
+
+
+
+Published: August 11, 2020 4:16pm EDT
+
+
+
+
+
+
+
+
+
+
+
+
+Eunice Okome Obiang, Université d'Angers
+
+
+
+Author
+
+
+
+
+
+        Eunice Okome Obiang
+      
+
+
+      Doctorante en Statistiques - Data scientist, Université d'Angers
+    
+
+
+
+
+
+Disclosure statement
+Eunice Okome Obiang does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+
+
+Partners
+
+Université d'Angers provides funding as a member of The Conversation FR.
+View all partners
+
+We believe in the free flow of informationRepublish our articles for free, online or in print, under a Creative Commons license.Republish this article
+
+
+
+
+
+ Email
+
+
+ X (Twitter)38
+
+
+ Facebook505
+
+
+ LinkedIn
+
+
+ WhatsApp
+
+
+ Messenger
+
+ Print
+
+
+Intuitivement, on devine facilement que le réchauffement climatique est une cause essentielle de l’augmentation de la fréquence et de l’intensité des feux de forêt. Ce qui est moins évident en revanche, c’est que la gestion qui a été faite jusqu’à présent de ces catastrophes naturelles a également joué un rôle dans cette intensification. En prévenant et en éteignant très efficacement tous les feux de forêt, les pompiers ont, bien malgré eux, créé les conditions idéales pour une telle amplification du phénomène. 
+En effet, ce que nous ne savions pas il y a quelques années, c’est que le feu joue un rôle primordial dans la régénération de l’écosystème. Il s’agit d’un processus naturel se produisant périodiquement dans le cycle de succession de la végétation : les végétaux les plus âgés et donc plus inflammables sont brûlés, ce qui laisse place à de nouveaux individus. Le caractère périodique de ce phénomène a été perturbé par l’activité humaine, y compris la lutte contre les incendies : le développement excessif du sous-bois, protégé des feux par les interventions des pompiers, perturbe l’écosystème et favorise des incendies plus nombreux et plus étendus.
+Aujourd’hui, les professionnels de la lutte contre les incendies font un constat alarmant : les feux, toujours plus nombreux, toujours plus intenses, sont devenus très difficiles à maîtriser. On parle de mégafeux, presque impossibles à éteindre. 2019 a été l’année de tous les records et les récentes catastrophes en Amazonie, Indonésie, Australie et même en Arctique ont permis au monde entier de réaliser que les incendies sont désormais un enjeu sécuritaire et écologique majeur.
+
+
+
+
+      Read more:
+      Un méga-incendie en Méditerranée, est-ce possible ?
+
+
+
+
+Face à ces phénomènes devenus ingérables, la prévention devient la solution idéale : en prévoyant la survenue des incendies, on peut anticiper leur gestion et les maîtriser avant qu’ils ne dégénèrent, tout en prenant en compte leur rôle naturel de régulation de la végétation.
+Forts de ces expériences, pompiers et scientifiques travaillent désormais main dans la main à des solutions préventives qui tentent de prendre tous les paramètres en compte afin de mettre en place une gestion de court et long termes des feux de forêt. Ils s’offrent à cet effet les services d’un allié de poids : l’intelligence artificielle.
+Quelle est la plus-value de l’intelligence artificielle ?
+Dans un laps de temps très court, elle va être capable de réaliser des milliards de calculs qui seraient inaccessibles autrement pour une équipe de recherche, permettant aux scientifiques de comprendre et caractériser très rapidement les différents feux de forêt.
+
+Quels feux sont nuisibles ? Lesquels sont nécessaires ? Où et quand vont-ils se déclencher ? Quelles seront leurs caractéristiques (vitesse de propagation, surface, volume, etc.) ?
+
+L’interprétation par les scientifiques des résultats de ces calculs va leur permettre de donner de précieuses informations aux équipes de lutte sur le terrain.
+Concrètement, comment ça marche ?
+Tout comme l’Homme apprend à partir d’expériences, les modèles d’IA reposent sur l’apprentissage d’évènements passés.
+Dans un premier temps, les chercheurs donnent à l’algorithme un historique des données décrivant les caractéristiques des incendies passés ainsi que les conditions météorologiques et de végétation qui y étaient associées.
+
+
+
+Schéma de fonctionnement d’une IA.
+Author provided
+
+
+À travers des principes mathématiques, et en s’appuyant sur cet ensemble de données, l’algorithme va rechercher des corrélations entre ces facteurs environnementaux et les différents types de feux. Il construit ainsi ce qu’on appelle un modèle, qui va servir de référence aux scientifiques pour faire des prédictions quant aux incendies à venir. Pour cela, ils indiquent au modèle les prévisions et estimations concernant les conditions météorologiques et végétales dans les zones observées. Sur cette base, l’IA retourne la probabilité de survenue d’un incendie, ainsi que ses caractéristiques.
+
+
+L’intelligence artificielle contre les feux/ICI Alberta.
+
+Deux remarques importantes s’imposent. Tout d’abord, les performances d’un modèle d’IA reposent principalement sur la qualité, la fiabilité et la quantité de données à sa disposition. Ainsi, la création de ce genre de modèle demande au préalable aux scientifiques un travail colossal d’acquisition de l’information. Ils ont par exemple recours aux outils classiques de la météorologie et de la topographie, à des caméras à infrarouge, ou même des drones.
+Par ailleurs, le modèle d’IA n’est pas infaillible et peut parfois commettre des erreurs. Ainsi pour le perfectionner, il est recommandé aux chercheurs de confirmer ou infirmer son appréciation à chaque prédiction. En cas d’erreur, le modèle l’intègre et affine son approche pour la suite.
+Dans les faits, de nombreuses unités de recherche se sont lancées dans la création de tels modèles d’IA, utilisant différents types d’algorithmes. En voici quelques exemples :
+Wifire Lab, une équipe américaine, a élaboré un logiciel d’IA qui utilise des techniques de traitement du signal pour modéliser des incendies en fonction des conditions météorologiques et de la combustibilité de la végétation.
+Des chercheurs de l’Université de l’Alberta (Canada) et de l’Université de l’Oklahoma (États-Unis) utilisent des algorithmes de réseaux de neurones artificiels pour prédire le lieu et la date de survenue des conditions météorologiques extrêmes qui sont à l’origine des incendies les plus dévastateurs.
+Des chercheurs de l’Université de Californie (États-Unis) utilisent un algorithme d’arbre de décision pour prédire la dimension finale d’un incendie.
+Que faire de ces prédictions ?
+Riches de ces prédictions, les équipes de lutte contre les incendies vont pouvoir adapter leurs interventions sur le terrain. Pour cela, elles peuvent effectuer des brûlages dirigés de sorte à protéger les espèces animales et végétales présentes sur les zones concernées tout en respectant le cycle naturel du feu. Elles peuvent également anticiper une évacuation des populations et/ou se munir en avance du matériel adapté aux caractéristiques du feu qu’elles attendent.
+Ces dernières années, un changement a été amorcé dans l’approche de la gestion des incendies. Elle s’est enrichie d’une compréhension plus profonde des phénomènes à l’œuvre, et l’intelligence artificielle s’est révélée être un allié précieux pour l’Homme dans cette démarche. Sans pour autant pouvoir le remplacer, elle l’accompagne vers plus d’harmonie avec son environnement.
+
+
+
+
+
+intelligence artificielle (IA)
+
+
+incendies
+
+
+feu
+
+
+prévention
+
+
+modèles
+
+
+pompiers
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmxhcmVwLmZyL29ybGVhbnMtNDUwMDAvcG9saXRpcXVlL2lscy1zb250LWpldW5lcy1ldHVkaWFudHMtZXQtYXVzc2ktZWx1cy1tdW5pY2lwYXV4LWEtb3JsZWFuc18xMzgxOTU2MS_SAQA?oc=5,"Ils sont jeunes, étudiants... et aussi élus municipaux à Orléans - Orléans (45000) - La République du Centre",2020-08-10,La République du Centre,https://www.larep.fr,"Quatre élus de la majorité municipale, à Orléans, sont aussi étudiants. S'ils devront mener leur apprentissage politique, ils croient dans les qualités de la jeunesse.","['Politique', 'municipales 2020']","Quatre élus de la majorité municipale, à Orléans, sont aussi étudiants. S'ils devront mener leur apprentissage politique, ils croient dans les qualités de la jeunesse.","Quatre élus de la majorité municipale, à Orléans, sont aussi étudiants. S'ils devront mener leur apprentissage politique, ils croient dans les qualités de la jeunesse.",Politique,N/A,N/A,https://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.larep.fr/orleans-45000/politique/ils-sont-jeunes-etudiants-et-aussi-elus-municipaux-a-orleans_13819561/'}","Ils sont jeunes, étudiants... et aussi élus municipaux à Orléans",2020-08-10T15:02:00.000Z,2020-08-10T15:02:27.000Z,"{'@type': 'Organization', 'name': 'La République du Centre', 'logo': {'@type': 'ImageObject', 'url': 'https://www.larep.fr/static/bloc/ripolinage/logos/logo-RC.svg', 'width': '226', 'height': '26'}}","['Politique', 'municipales 2020']","Fanny Picard, Hugues de Rosny, Tiphaine Mignonneaud et Gauthier Dabout sont de jeunes adultes pressés. Avec seulement une vingtaine d'années de moyenne d'âge au compteur, ils ont déjà remporté une course : les élections municipales du mois de juin dernier. Désormais conseillers délégués au sein de la majorité du maire d'Orléans, Serge Grouard, les élus entament maintenant un marathon. Car ces quatre vingtenaires compilent, avec leurs nouvelles responsabilités politiques, des études à l’université. Pour l'heure, Tiphaine Mignonneaud profite de ces derniers jours de vacances. Prologue avant son entrée en fonction, à compter du mois d'août. Mais aussi épilogue d'une campagne électorale où la jeune femme de 21 ans s'est montrée acrobate dans son emploi du temps. ""Je ne soufflais pas. Je travaillais le soir à la faculté ou à l'entreprise, où je faisais mon alternance, pour libérer du temps pour la campagne, se rappelle-t-elle. J'ai mené tout cela de front, car je sais que je peux apporter ma pierre à l'édifice."" Les atouts de la jeunesse Toutefois, ils anticipent les critiques, la vingtaine n'étant pas souvent synonyme d'écharpe tricolore. La jeunesse recèle pourtant bien selon eux plusieurs atouts : ""On est peut-être guidé par la naïveté d'avoir envie et de pouvoir changer les choses. Il n'y pas d'autocensure"", lance Gauthier Dabout. ""On fait confiance aux jeunes pour accompagner le changement."" Le regard neuf de ces néophytes de la politique a sans doute joué en leur faveur. Les thématiques, dont la génération à laquelle ils appartiennent est le porte-étendard, leur ont été confiées : l'égalité hommes-femmes et la lutte contre le harcèlement sont les axes de travail de Tiphaine Mignonneaud ; l'intelligence artificielle celui de Hugues de Rosny. ""C'est un sujet dont nous ne pouvons pas nous départir pour l'avenir. Cela prouve aussi que l'on fait confiance aux jeunes pour accompagner le changement"", appuie ce dernier. Reste aux étudiants à faire leurs classes.   Hugo Roux","{'@type': 'Person', 'name': 'Hugo Roux'}","{'@type': 'ImageObject', 'url': 'https://img.lamontagne.fr/lYlzP_CNXWix-mHFCFvhGFqJs3yER0ADL_xGJ1Rbo3g/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDQvODYvOTAvMjAwMDAwNDg2OTA4MQ.jpg', 'width': '657', 'height': '438'}",True,True

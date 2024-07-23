@@ -1,0 +1,646 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,mainEntityOfPage,headline,image,author,publisher,datePublished,dateModified
+https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vYWxnb3JpdGhtd2F0Y2gub3JnL2RlL3N0ZWxsdW5nbmFobWUta2ktZW5xdWV0ZS_SAQA?oc=5,Stellungnahme zum Abschlussbericht der Enquete-Kommission “Künstliche Intelligenz” - AlgorithmWatch - AlgorithmWatch,2020-11-04,AlgorithmWatch,https://algorithmwatch.org,N/A,N/A,"Der Abschlussbericht der Enquete-Kommission Künstliche Intelligenz ist eine hilfreiche Bestandsaufnahme, aber leider nicht viel mehr. Konkrete Vorschläge, was zu tun ist, fehlen weitgehend. Dabei liegen bereits zahlreiche Handlungsempfehlungen vor.","Der Abschlussbericht der Enquete-Kommission Künstliche Intelligenz ist eine hilfreiche Bestandsaufnahme, aber leider nicht viel mehr. Konkrete Vorschläge, was zu tun ist, fehlen weitgehend. Dabei liegen bereits zahlreiche Handlungsempfehlungen vor.",N/A,N/A,N/A,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vMWU5LmNvbW11bml0eS90L2tpLWthbm4tb2huZS1zaWNoZXJoZWl0c2NoZWNrLWF1Zi1kaWUtbWVuc2NoaGVpdC1sb3NnZWxhc3Nlbi13ZXJkZW4tZGFzLXNvbGwtc2ljaC1hZW5kZXJuLzU3NTjSAQA?oc=5,KI kann ohne Sicherheitscheck auf die Menschheit losgelassen werden – das soll sich ändern - 1E9,2020-11-05,1E9,https://1e9.community,"Noch gleicht die Welt der Künstlichen Intelligenz dem Wilden Westen. Wir haben zwar täglich mit Systemen zu tun, die wir als KI bezeichnen. Aber niemand kann uns eindeutig sagen, ob diese sicher, vorurteils- und fehler&hellip;",N/A,"Noch gleicht die Welt der Künstlichen Intelligenz dem Wilden Westen. Wir haben zwar täglich mit Systemen zu tun, die wir als KI bezeichnen. Aber niemand kann uns eindeutig sagen, ob diese sicher, vorurteils- und fehlerfrei arbeiten. Denn es gibt weder Normen noch Standards. Tarek Besold vom Berliner Start-up Neurocat möchte das ändern.  Von Wolfgang Kerler  Es ist gar nicht so selten, dass Künstliche Intelligenzen nicht immer wie geplant funktionieren. Bisher merken wir das aber oft spät. Zu ...","Noch gleicht die Welt der Künstlichen Intelligenz dem Wilden Westen. Wir haben zwar täglich mit Systemen zu tun, die wir als KI bezeichnen. Aber niemand kann uns eindeutig sagen, ob diese sicher, vorurteils- und fehlerfrei arbeiten. Denn es gibt weder Normen noch Standards. Tarek Besold vom Berliner Start-up Neurocat möchte das ändern.  Von Wolfgang Kerler  Es ist gar nicht so selten, dass Künstliche Intelligenzen nicht immer wie geplant funktionieren. Bisher merken wir das aber oft spät. Zu ...",N/A,N/A,"WolfgangChefredakteur2Nov. '20GettyImages-12055388881500×650 267 KB
+Noch gleicht die Welt der Künstlichen Intelligenz dem Wilden Westen. Wir haben zwar täglich mit Systemen zu tun, die wir als KI bezeichnen. Aber niemand kann uns eindeutig sagen, ob diese sicher, vorurteils- und fehlerfrei arbeiten. Denn es gibt weder Normen noch Standards. Tarek Besold vom Berliner Start-up Neurocat möchte das ändern.
+Von Wolfgang Kerler
+Es ist gar nicht so selten, dass Künstliche Intelligenzen nicht immer wie geplant funktionieren. Bisher merken wir das aber oft spät. Zu spät. Amazon musste feststellen, dass ein Algorithmus, der Jobbewerbungen einschätzen sollte, systematisch Frauen benachteiligte. Ein Chatbot von Microsoft verwandelte sich zum Holocaust-Leugner 2. Und die Bilderkennung von Google hielt Menschen mit dunkler Hautfarbe für Gorillas 2.
+Momentan kann Künstliche Intelligenz auf die Menschheit losgelassen werden, ohne dass sie vorher einen Sicherheitscheck durchlaufen muss. Einen KI-TÜV gibt es nicht. Doch das soll in ein paar Jahren anders aussehen. In internationalen Arbeitsgruppen wird bereits um einheitliche Sicherheitsstandards gerungen. Und auch das Deutsche Institut für Normierung, kurz: DIN, hat im vergangenen Jahr eine „Steuerungsgruppe für die Normungsroadmap zu Künstlicher Intelligenz“ 4 ins Leben gerufen. Sie soll Vorarbeit leisten, damit später Richtlinien erlassen werden können, die unsichere, angreifbare oder diskriminierende KI untersagen.
+Mitglied in der Steuerungsgruppe ist auch Tarek Besold vom Berliner Start-up Neurocat, dessen CTO er ist. Er leitet außerdem den DIN-Normungsausschuss für KI 6. Und er hat dieses Amt nicht ohne Grund. Neurocat hat inzwischen ein 30-köpfiges Team und beschäftigt sich seit seiner Gründung vor drei Jahren fast ausschließlich mit der Frage, wie sich eigentlich feststellen lässt, welche Qualität Künstliche Intelligenz hat.
+Kann ein Roboterauto Fußgänger in jeder Situation erkennen?
+„Ganz am Anfang kam ein großer deutscher Autobauer auf uns zu, damit wir testen, ob das selbstfahrende Auto, an dem die Firma gerade arbeitete, Fehler macht“, sagt Tarek Besold im Gespräch mit 1E9. Erkennt die KI des Fahrzeugs auch bei tiefstehender Sonne, bei Nebel oder bei Wasser auf der Kameralinse einen Fußgänger? Lässt sich das System vielleicht sogar durch das Tragen von bunten T-Shirts bewusst manipulieren 1?
+„Es stellte sich heraus, dass man so etwas testen kann“, erinnert sich Tarek. „Aber nicht so, wie man klassische Software oder Geräte testet.“ Denn die meisten der heutigen KI-Systeme basieren auf maschinellem Lernen. Das heißt: Sie wurden nicht einfach programmiert. Sie wurden trainiert – mit Trainingsdaten, die oft von Menschen vorbereitet werden mussten 2. Im Fall von selbstfahrenden Autos werden die KI-Modelle mit unzähligen Video- und Sensoraufnahmen gefüttert, auf denen Menschen zu sehen sind. So lange, bis sie diese möglichst zuverlässig erkennen.
+Daraus ergeben sich zwei Schwierigkeiten, wenn man die Qualität so einer KI feststellen will. „Einerseits wissen wir nicht wirklich, wie die Software funktioniert“, sagt Tarek. „Wir haben schließlich keinen expliziten Programmcode mehr, sondern nur noch statistische Beziehungen, die maschinell erlernt wurden.“ Zum anderen lässt sich selbst mit gigantischen Datensets nicht alles vorab trainieren, was in der chaotischen echten Welt passiert. Und das gilt auch fürs Testen.
+„Noch kann niemand eine Verifikation liefern, dass die KI funktioniert. Für die müssten wir jeden möglichen Programmablauf testen“, erklärt Tarek. „Aber wir können versuchen, so viele Testfälle wie möglich zu erzeugen und uns damit einer Validierung annähern.“ Neurocat entwickelte also verschiedene Werkzeuge, mit denen sich solche Tests durchführen lassen – nicht nur für selbstfahrende Autos, sondern für eine ganze Reihe von KI-Systemen. „Für uns macht es wenig Unterschied, ob es um Scoring-Algorithmen, Sprachassistenten oder smarte Wasserkocher geht“, sagt Tarek. „Die Machine-Learning-Modelle sehen dabei sowieso immer nur Daten.“
+Wie lässt sich der Smart-Home-Assistent austricksen?
+Nicht immer bekommt Neurocat von seinen Kunden, zu denen deutsche und internationale Konzerne gehören, die kompletten KI-Modelle inklusive Quellcode und Datensets. Oft haben sie es mit Black Boxes zu tun – etwa, weil ein Kunde des Start-ups komplette Teile bei Drittanbietern zukauft, und selbst keinen Einblick in die Software hat. „Dann können wir natürlich nur das Input-Output-Verhalten testen“, sagt Tarek.
+So lief das auch, als sein Team Smart-Home-Assistenten untersuchten, die sogar die Haustür öffnen können. „Durch maschinelles Lernen kann der Assistent dein Audiosignal – zum Beispiel, wenn du ,Öffne die Tür!‘ sagst – in das entsprechende Kommando übersetzen“, erklärt der CTO. „Wir wissen aber nicht, auf was genau die KI reagiert – den Sprachrhythmus, die Hertz-Frequenz oder den Pitchverlauf.“ Doch das ließ sich mit den richtigen Testwerkzeugen herausfinden – und im nächsten Schritt konnte überprüft werden, wie leicht sich die KI täuschen lässt.
+„Wenn das System nur auf den Rhythmus reagiert, könnte ich den richtigen Rhythmus von außen an die Tür klopfen – und der Assistent würde mir öffnen“, erklärt Tarek. „Wenn die Stimme ausschlaggebend ist, kann man mit Melodien unterhalb der Wahrnehmungsschwelle die Stimmintonation nachbilden und diese für uns nicht hörbaren Melodien in YouTube-Videos schmuggeln.“ Der Nutzer des Smart-Home-Assistenten muss also nur dazu gebracht werden, das Video anzuschauen – und die Tür geht auf. „Das hat bei unseren Tests zwar nicht immer funktioniert“, erinnert sich Tarek. „Aber es war reproduzierbar.“
+Nicht jede KI, die solche Schwächen hat, ist gleich gefährlich. Reagiert ein angeblich smarter Seifenspender nicht bei einem Nutzer mit dunkler Haut, weil er nur mit Daten von hellhäutigen Menschen entwickelt wurde, ist das ärgerlich. Übersieht ein Industrieroboter einen schwarzen Mitarbeiter kann das tödlich sein. Je nach Risikoklasse bräuchte es also eigentlich Richtlinien, wie gut oder schlecht KI-Systeme bei bestimmten, ebenfalls noch zu definierenden Tests abschneiden müssen oder dürfen.
+
+
+
+Werde jetzt Mitglied von 1E9!
+Als Mitglied unterstützt Du unabhängigen, zukunftsgerichteten Tech-Journalismus, der für und mit einer Community aus Idealisten, Gründerinnen, Nerds, Wissenschaftlerinnen und Kreativen entsteht. Außerdem erhältst Du vollen Zugang zur 1E9-Community, exklusive Newsletter und kannst bei 1E9-Events dabei sein. Schon ab 2,50 Euro im Monat!
+Jetzt Mitglied werden!
+
+
+
+
+
+
+Was ist eigentlich Künstliche Intelligenz?
+Doch bevor die zulässigen Testansätze definiert werden, mit denen sich etwa rassistischer Bias von KI messen lässt, müssen sich die internationalen und nationalen Arbeitsgruppen, an denen sich auch Neurocat beteiligt, noch auf viel Grundsätzlicheres einigen. „Momentan gibt es noch nicht einmal einen allgemein akzeptierten Begriff dessen, was maschinelles Lernen oder Künstliche Intelligenz überhaupt sind“, sagt Tarek. Zumal ISO oder DIN am Ende auch nur Normen oder Standards definieren, aber keine zulässigen Maximalwerte. „Die müssen sich dann noch der Gesetzgeber oder die Regulierungsbehörde überlegen.“
+Trotzdem ist er zuversichtlich, dass einheitliche Standards kommen werden. Denn vom derzeitigen Wild-West-Zustand, wie Tarek die Situation beschreibt, sind längst nicht alle Unternehmen begeistert. „Viele europäische Konzerne kommen gerade auf den Trichter, dass sie gerne zu Musterschüler werden würden“, sagt er, „die im Kontrast zu Firmen aus den USA und China nur KI von höchster Qualität anbieten.“
+Industrieunternehmen, die KI-Systeme für ihre Fabriken zukaufen, wollen sich außerdem auf deren Sicherheit verlassen. Und auch Versicherungen spielen eine Rolle: „Keine Versicherung wird ein selbstfahrendes Auto versichern, wenn sie keinen Risikokoeffizienten berechnen kann.“
+Inzwischen möchte sich Neurocat deshalb auch nicht mehr nur darauf spezialisieren, im Auftrag von Unternehmen KI auf ihre funktionale und Cybersicherheit, ihre Robustheit und Verständlichkeit, ihre Performance und Transparenz zu testen. „Wir wollen die ganzen Werkzeuge, die wie für einzelne Firmen entwickelt haben, in einem Framework zusammenführen“, sagt Tarek. Und das, so der Anspruch des Start-ups, soll sich dann als anerkanntes Prüf- und Testwerkzeug etablieren. „Wir wollen, dass der TÜV oder die Dekra in Zukunft nicht nur Autos oder Wasserkochern ihren Stempel verpassen können, sondern mit unserem Framework auch KI-Plattformen.“
+Tarek Besold bei der 1E9-Konferenz 2020!
+1400×1400 540 KB
+Tarek Besold von neurocat gehört zu den Speakern der digitalen 1E9-Konferenz 2020 18, die am 11. und 12. November stattfindet. Er nimmt dort am Panel „Corporate Digital Responsibility: Künstliche Intelligenz funktioniert nicht ohne Verantwortung“ teil. Du willst das nicht verpassen – und auch nicht den Rest der Konferenz? Dann informiere dich hier über das Programm und werde 1E9-Mitglied. 18
+Titelbild: Getty Images4
+Der TÜV startet ein Labor zur Prüfung von Künstlicher Intelligenz1Wenn wir KI verantwortungsvoll einsetzen, müssen wir die Superintelligenz nicht fürchten1Das 1E9_Update vom 4. November 2020 // Die Konferenz rückt näher – und eure Visionen sind gefragt!Mathematik ersetzt endlose Tests: So will das Start-up Safe Intelligence für sichere KI sorgenerstelltNov. '20letzte Antw.Nov. '201Antwort3,4 T.Aufrufe2Benutzer6„Gefällt mir“9Links",,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va2F0YXB1bHQtbWFnYXppbi5kZS9kZS9hcnRpa2VsL2RhdmlkLWJvd2llLWhpbGZ0LWdlZ2VuLWdlc2ljaHRzZXJrZW5udW5n0gEA?oc=5,David Bowie hilft gegen Gesichtserkennung – KATAPULT-Magazin - KATAPULT-Magazin,2020-11-02,KATAPULT-Magazin,https://katapult-magazin.de,"Staaten und Konzerne laden sich Unmengen von Bildern aus dem Internet und trainieren damit Gesichtserkennungssoftware. Um auf Überwachungskameras trotzdem unerkannt zu bleiben, helfen Glitzer und Farbe.",N/A,"Staaten und Konzerne laden sich Unmengen von Bildern aus dem Internet und trainieren damit Gesichtserkennungssoftware. Um auf Überwachungskameras trotzdem unerkannt zu bleiben, helfen Glitzer und Farbe.","Staaten und Konzerne laden sich Unmengen von Bildern aus dem Internet und trainieren damit Gesichtserkennungssoftware. Um auf Überwachungskameras trotzdem unerkannt zu bleiben, helfen Glitzer und Farbe.",N/A,N/A,"
+
+
+
+        Künstliche Intelligenz      
+
+        David Bowie hilft gegen Gesichtserkennung      
+
+        Staaten und Konzerne laden sich Unmengen von Bildern aus dem Internet und trainieren damit Gesichtserkennungssoftware. Um auf Überwachungskameras trotzdem unerkannt zu bleiben, helfen Glitzer und Farbe.      
+
+          Von          Redaktion 
+
+
+          Veröffentlicht am           2. November 2020        
+
+
+
+
+
+
+ 
+
+
+Grafik herunterladen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Artikel teilen          
+
+
+
+
+
+
+
+
+
+
+                  Link kopieren                
+
+
+
+
+
+
+
+
+
+
+
+                  Text kopieren                
+
+
+
+
+
+
+
+
+
+
+
+                  Text herunterladen                
+
+
+
+
+
+Mit David Bowies Make-up in Form eines Blitzes hätten Computer Probleme, denn die untypischen Formen und Farben verschleiern wichtige Punkte, an denen sich die Software orientiert. Weitere Methoden zur Algorithmus-Verwirrung: Bilder vor dem Hochladen subtil verändern oder Mund-Nasen-Schutz tragen.
+
+
+
+
+ 
+
+          Aktuelle Ausgabe
+        
+
+
+
+Dieser Text erschien in der 19. Ausgabe von KATAPULT. Unterstützen Sie unsere Arbeit und abonnieren Sie das gedruckte Magazin für nur 19,90 Euro im Jahr. 
+
+KATAPULT abonnieren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Autor:innen          
+
+
+
+
+
+
+
+        Redaktion      
+
+
+
+
+KATAPULT erscheint viermal im Jahr gedruckt und jeden Tag online. Die Redaktion besteht aus über 20 Menschen, die recherchieren, schreiben, prüfen und Grafiken bauen. 
+
+
+
+
+
+
+",http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://katapult-magazin.de/de/artikel/david-bowie-hilft-gegen-gesichtserkennung'}",David Bowie hilft gegen Gesichtserkennung,"{'@type': 'ImageObject', 'url': 'https://katapult-magazin.de/media/pages/artikel/david-bowie-hilft-gegen-gesichtserkennung/ad64e901a7-1697797511/david-bowie-gesichtserkennung-1200x.png', 'width': 1200, 'height': 1200}","[{'@type': 'Person', 'name': 'Redaktion', 'url': 'https://katapult-magazin.de/de/artikel/david-bowie-hilft-gegen-gesichtserkennung'}]","{'@type': 'Organization', 'name': 'Katapult-Magazin gGmbH', 'logo': {'@type': 'ImageObject', 'url': 'https://katapult-magazin.de/assets/img/katapult-logo-dark.svg'}}",2020-11-02,2023-10-20
+https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5zcGllZ2VsLmRlL2t1bHR1ci9rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1pbi1kZXIta3Vuc3Qtd2Vubi1hbGdvcml0aG1lbi1iaWxkZXItbWFsZW4tYS0wMDAwMDAwMC0wMDAyLTAwMDEtMDAwMC0wMDAxNzM2NTQ4MTXSAQA?oc=5,Künstliche Intelligenz in der Kunst: Wenn Algorithmen Bilder malen - DER SPIEGEL - DER SPIEGEL,2020-11-04,DER SPIEGEL,https://www.spiegel.de,"Alexa erkennt unsere Sprache, Siri erzählt Witze. Jetzt hat KI auch die Kunstwelt erfasst.",N/A,"Alexa erkennt unsere Sprache, Siri erzählt Witze. Jetzt hat KI auch die Kunstwelt erfasst.",N/A,N/A,N/A,"
+
+
+
+
+
+Künstliche Intelligenz in der Kunst
+
+
+
+
+
+
+
+
+
+
+
+Wenn Algorithmen Bilder malen
+
+
+
+Alexa erkennt unsere Sprache, Siri erzählt Witze. Jetzt hat KI auch die Kunstwelt erfasst.
+
+
+Von
+
+Carola Padtberg
+
+04.11.2020, 01.04 Uhr
+•
+aus
+
+DER SPIEGEL 44/2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zur Merkliste hinzufügen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X.com
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+E-Mail
+
+
+
+
+
+
+
+Messenger
+
+
+
+
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+
+
+
+Link kopieren
+
+
+
+
+
+
+
+Weitere Optionen zum Teilen
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-Mail
+
+
+
+
+
+
+
+
+
+
+
+Messenger
+
+
+
+
+
+
+
+
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link kopieren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bild vergrößern
+
+
+
+Kunstwerk von Ridler
+
+Foto: Anna Ridler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sie können den Artikel leider nicht mehr aufrufen. Der Link, der Ihnen geschickt wurde, ist entweder älter als 30 Tage oder der Artikel wurde bereits 10 Mal geöffnet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPIEGEL plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anmelden
+
+
+
+Digital-Abo
+
+
+Sagen, was ist.
+Testen Sie das digitale Angebot und erfahren Sie, warum mehr als 400.000 Menschen den SPIEGEL abonnieren.
+
+
+
+
+
+
+
+
+Kennenlernangebot - 4 Wochen für € 1,–
+
+
+
+
+
+
+
+
+
+€ 2,99 pro Woche für 52 Wochen
+
+€ 100,- sparen
+
+
+
+
+
+
+
+
+Jetzt abonnieren
+
+
+
+
+
+
+
+
+
+
+Ihre Bezahlmöglichkeiten:
+
+Paypal
+
+
+
+
+
+
+Sepa
+
+
+
+
+
+
+Visa
+
+
+
+
+
+
+Mastercard
+
+
+
+
+
+
+ApplePay
+
+
+
+
+
+
+GooglePay
+
+
+
+
+
+
+
+Jederzeit kündigen.
+
+
+
+
+
+
+
+
+
+Weiterlesen mit
+
+
+SPIEGEL+
+
+
+
+
+
+Mehr Perspektiven, mehr verstehen.
+
+Freier Zugang zu allen Artikeln, Videos, Audioinhalten und Podcasts
+
+
+
+
+
+
+
+
+
+
+Alle Artikel auf SPIEGEL.de frei zugänglich
+
+
+
+
+DER SPIEGEL als E-Paper und in der App
+
+
+
+
+Alle Artikel zum Anhören und exklusive Podcasts
+
+
+
+
+Nur € 21,99 pro Monat, jederzeit kündbar
+
+
+
+
+
+
+
+
+
+Jetzt kaufen
+
+
+
+
+
+Sie haben bereits ein Digital-Abonnement?
+
+Hier anmelden
+
+
+
+
+
+iTunes-Abo wiederherstellen
+
+
+SPIEGEL+ wird über Ihren iTunes-Account abgewickelt und mit Kaufbestätigung bezahlt. 24 Stunden vor Ablauf verlängert sich das Abo automatisch um
+einen Monat zum Preis von zurzeit € 21,99. In den Einstellungen Ihres iTunes-Accounts können Sie das Abo jederzeit kündigen. Um SPIEGEL+ außerhalb
+dieser App zu nutzen, müssen Sie das Abo direkt nach dem Kauf mit einem SPIEGEL-ID-Konto verknüpfen. Mit dem Kauf akzeptieren Sie unsere
+Allgemeinen Geschäftsbedingungen und Datenschutzerklärung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback
+
+
+",,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFlcnp0ZWJsYXR0LmRlL25hY2hyaWNodGVuLzExODA0MS9WZXJ0cmF1ZW4tZGVyLUJ1ZXJnZXItU2NobHVlc3NlbC1mdWVyLUFremVwdGFuei1rdWVuc3RsaWNoZXItSW50ZWxsaWdlbnrSAQA?oc=5,Vertrauen der Bürger Schlüssel für Akzeptanz künstlicher Intelligenz - Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin,2020-11-04,Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin,https://www.aerzteblatt.de,Berlin – Das Leitbild einer „menschenzentrierten Künstlichen Intelligenz (KI)“ ist laut der Enquete-Kommission „Künstliche Intelligenz – Gesellschaftliche...,"Künstliche Intelligenz, Nachrichten, Politik",Berlin – Das Leitbild einer „menschenzentrierten Künstlichen Intelligenz (KI)“ ist laut der Enquete-Kommission „Künstliche Intelligenz – Gesellschaftliche... ,N/A,N/A,N/A,N/A,,,,,,,,,

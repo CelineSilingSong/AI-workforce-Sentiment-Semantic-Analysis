@@ -1,0 +1,916 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,name,url,potentialAction,logo,sameAs,mainEntityOfPage,headline,image,datePublished,dateModified,author,publisher,isAccessibleForFree,itemListElement,duration,uploadDate,thumbnailUrl,embedUrl,video,articleSection,@graph,additionalType,alternateName,about,spatialCoverage,alternativeHeadline,hasPart,isPartOf
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRlY2huaXF1ZXMtaW5nZW5pZXVyLmZyL2FjdHVhbGl0ZS9hcnRpY2xlcy9saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1uZXN0LXBhcy1vYmplY3RpdmUtODExMzEv0gFvaHR0cHM6Ly93d3cudGVjaG5pcXVlcy1pbmdlbmlldXIuZnIvYWN0dWFsaXRlL2FydGljbGVzL2xpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLW5lc3QtcGFzLW9iamVjdGl2ZS04MTEzMS9hbXAv?oc=5,L’Intelligence artificielle n’est pas objective ! - Actualités Techniques de l'Ingénieur,2020-06-29,Actualités Techniques de l'Ingénieur,https://www.techniques-ingenieur.fr,"Aux États-Unis, les entreprises et les établissements de santé sont de plus en plus nombreux à recourir à l’IA pour les ressources humaines ou la gestion des soins. Si les algorithmes d’apprentissage sont encore peu répandus en France, il est indispensable de comprendre leur fonctionnement pour limiter les « biais discriminatoires ». Une réglementation européenne à venir pour renforcer la transparence des outils IA est également indispensable pour Philippe Besse, professeur à l'INSA (Institut national des sciences appliquées), au Département de Génie Mathématique et Modélisation.",N/A,"Aux États-Unis, les entreprises et les établissements de santé sont de plus en plus nombreux à recourir à l’IA pour les ressources humaines ou la gestion des soins. Si les algorithmes d’apprentissage sont encore peu répandus en France, il est indispensable de comprendre leur fonctionnement pour limiter les « biais discriminatoires ». Une réglementation européenne à venir pour renforcer la transparence des outils IA est également indispensable pour Philippe Besse, professeur à l'INSA (Institut national des sciences appliquées), au Département de Génie Mathématique et Modélisation.","Aux États-Unis, les entreprises et les établissements de santé sont de plus en plus nombreux à recourir à l’IA pour les ressources humaines ou la gestion des soins. Si les algorithmes d’apprentissage sont encore peu répandus en France, il est indispensable de comprendre leur fonctionnement pour limiter les « biais discriminatoires ». Une réglementation européenne à venir pour renforcer la transparence des outils IA est également indispensable pour Philippe Besse, professeur à l'INSA (Institut national des sciences appliquées), au Département de Génie Mathématique et Modélisation.",N/A,N/A,"
+
+
+
+Aux États-Unis, les entreprises et les établissements de santé sont de plus en plus nombreux à recourir à l’IA pour les ressources humaines ou la gestion des soins. Si les algorithmes d’apprentissage sont encore peu répandus en France, il est indispensable de comprendre leur fonctionnement pour limiter les « biais discriminatoires ». Une réglementation européenne à venir pour renforcer la transparence des outils IA est également indispensable pour Philippe Besse, professeur à l'INSA (Institut national des sciences appliquées), au Département de Génie Mathématique et Modélisation.
+
+
+Philippe Besse (DR)
+L’effet buzz word autour de l’IA a tendance à énerver ce spécialiste de statistique et de modélisation. Contrairement à une idée trop souvent répandue, l’IA n’est pas une solution miracle. Elle ne peut pas résoudre tous les problèmes ni être… objective. Les risques engendrés par le recours à de mauvais algorithmes sont nombreux et peuvent avoir des impacts importants sur la vie des personnes. C’est la raison pour laquelle ce chercheur régulier à l’Observatoire International sur les Impacts Sociétaux de l’IA et du Numérique (OBVIA), Université Laval (Québec), participe à un groupe de travail de la Haute autorité de santé (HAS) sur le protocole du questionnaire qui sera mis en place en France pour l’autorisation de remboursement des dispositifs de santé connectés, comme les pompes à insuline.
+Pour cet expert, la qualité de la base de données, leur représentativité et donc des compétences en statistique sont fondamentales. Des critères encore trop peu répandus dans les entreprises, même chez les startups spécialisées dans l’IA…
+Techniques de l’Ingénieur : Selon un article du New England Journal of medicine décrypté par The New York Times, la race de patients est incorporée à leur insu dans de nombreux outils et algorithmes IA de prise de décision médicale pour déterminer quel traitement appliquer. Et certains patients noirs ne bénéficient pas des mêmes traitements que les malades blancs. Que vous inspire cet article ?
+Philippe Besse : Mon souci est que ces références décrivent systématiquement des cas aux États-Unis où l’origine ethnique fait partie des données. La culture et la réglementation ne sont pas les mêmes en France où l’origine ethnique ne peut légalement être utilisée dans un modèle. Par ailleurs, nous faisons (pour l’instant) moins appel à des algorithmes pour ce type d’aide à la décision. La situation aux États-Unis ne va donc pas nécessairement être transposée dans l’hexagone. Outre-Atlantique, des hôpitaux s’appuient sur un algorithme pour gérer la répartition des patients. En France, les urgences sont encore gérées par des régulateurs du SAMU. Par ailleurs, il est souvent abusif de parler d’intelligence artificielle. Dans l’article cité, il s’agit plutôt de modèles anciens et classiques de statistique (régression logistique).
+L’Intelligence artificielle envahit nos quotidiens et le domaine de la santé notamment pour aider au diagnostic. Mais il y a des risques de « biais discriminatoires ».
+Aux États-Unis, des algorithmes d’apprentissage sont développés pour de très nombreux usages avec des risques évidents de biais discriminatoires comme c’est régulièrement relevé dans les rapports de ainow. Ces biais sont connus depuis longtemps, mais ils ne sont mis en exergue que depuis quelques années. Il y a de nombreuses façons de biaiser un algorithme, mais les précautions élémentaires ne sont pas prises. Elles sont moins d’ordre informatique ou algorithmique, que statistique. Disposer d’un échantillon représentatif d’une population que l’on veut adresser par un dispositif est très compliqué. Or beaucoup d’entreprises se sont jetées tête baissée dans l’IA sans prendre en compte ces précautions. Soigner une base d’apprentissage est fondamental pour la qualité des décisions d’une IA qui en découle.
+Quels sont justement les principaux risques liés à ces biais discriminatoires ?
+Il y a, premièrement, la reproduction de décisions humaines discriminatoires. Lorsqu’on s’appuie sans précaution sur des bases de données biaisées, on reproduit ces biais. C’est le cas notamment pour l’embauche des femmes avec un salaire moindre. Le second risque est la sous-représentation de groupes dans une base d’apprentissage. C’est ce qui se passe avec la reconnaissance faciale pour les femmes d’origine africaine et qui peut se produire dans les applications en santé.
+Renforcer la réglementation concernant les usages de l’IA permettrait-il de réduire ces risques ?
+L’IA est déjà soumise à la législation européenne sur les droits fondamentaux. Il est donc essentiel de commencer par respecter les obligations du RGPD à propos de la confidentialité des données. Mais il faut aller plus loin. C’est l’objectif de la Commission européenne qui a publié le 19 février 2020 son livre blanc (voir encadré) sur la régulation de l’Intelligence artificielle. Une nouvelle réglementation, complémentaire au RGPD, devrait encadrer les usages afin de traquer les biais discriminatoires.
+Concernant les discriminations, vous estimez que les risques principaux concernent l’embauche ?
+Oui, car il y a de plus en plus de logiciels IA censés analyser les CV et des vidéos de façon automatique afin de faire des présélections avant les entretiens avec des RH. C’est une pratique très développée aux États-Unis, mais les discours de certains éditeurs sont inquiétants. En France, un cabinet de recrutement affirme que les algorithmes ne sont pas discriminatoires parce qu’ils ne s’intéressent pas à la couleur de peau et au sexe des candidats. C’est vrai… sauf que la couleur de la peau et le sexe sont présents dans les autres informations (notion de proxy) et à partir du moment où un algorithme s’appuie sur une base de données discriminatoire, il va reproduire cette discrimination. C’est ce qui s’est passé avec Amazon aux États-Unis. Le logiciel d’IA utilisé pour des présélections ne recrutait pas de femmes sur les postes techniques.
+D’autres entreprises proposent de faire des analyses des cursus des salariés afin de faire des recommandations automatiques de postes comme le font certains sites de e-commerce pour nous recommander tel ou tel produit. Ces solutions reposent sur le traitement automatique du langage (Naturaling langage processing). Or, ces techniques de vectorisation des mots sont construites sur des corpus de textes biaisés qui vont donc, là aussi, reproduire des biais : une femme avec des compétences médicales est infirmière, un homme médecin.
+Propos recueillis par Philippe Richard
+
+Pour une IA de confiance
+Dans son livre blanc, la Commission européenne envisage un cadre pour une intelligence artificielle s’appuyant sur l’excellence et la confiance.
+Dans les domaines « haut risque », comme la santé, la police ou les transports, les systèmes d’IA devraient être transparents, traçables et garantir un contrôle humain. Les autorités devraient être en mesure de tester et de certifier les données utilisées par les algorithmes, tout comme elles procèdent à des vérifications sur les cosmétiques, les voitures ou les jouets. « Au-delà des questions prioritaires de protection des données au cœur des missions de la CNIL, ce livre blanc soulève avec insistance d’autres questions relatives aux risques des impacts des algorithmes d’apprentissage automatique sur notre société : qualité, reproductibilité de décisions algorithmiques, opacité des algorithmes et explicabilité des décisions, biais et risques de discrimination », indique Philippe Besse.
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5sZXNlY2hvcy5mci90ZWNoLW1lZGlhcy9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL2JheWVzLWltcGFjdC1yZWNvbHRlLTItbWlsbGlvbnMtZGV1cm9zLW5vdGFtbWVudC1hdXByZXMtZGUtZ29vZ2xlLXBvdXItc2ludGVybmF0aW9uYWxpc2VyLTEyMTkyNzPSAQA?oc=5,"Bayes Impact récolte 2 millions d'euros, notamment auprès de Google, pour s'internationaliser - Les Échos",2020-06-29,Les Échos,https://www.lesechos.fr,"L'ONG, créée par Paul Duan, utilise les algorithmes pour optimiser les services publics. Son assistant à la recherche d'emploi virtuel a accompagné 250.000 personnes en France.",N/A,"L'ONG, créée par Paul Duan, utilise les algorithmes pour optimiser les services publics. Son assistant à la recherche d'emploi virtuel a accompagné 250.000 personnes en France.","L'ONG, créée par Paul Duan, utilise les algorithmes pour optimiser les services publics. Son assistant à la recherche d'emploi virtuel a accompagné 250.000 personnes en France.",Tech - Médias,N/A,"Bayes Impact récolte 2 millions d'euros, notamment auprès de Google, pour s'internationaliserL'ONG, créée par Paul Duan, utilise les algorithmes pour optimiser les services publics. Son assistant à la recherche d'emploi virtuel a accompagné 250.000 personnes en France.Ajouter à mes articlesCommenterPartagerPartagerEmploi & SalairesGooglePaul Duan a fondé Bayes Impact dans le but d'optimiser les services publics à l'aide des algorithmes. (Bayes)Par Déborah LoyePublié le 29 juin 2020 à 06:02Mis à jour le 29 juin 2020 à 16:18Il a été l'un des premiers data scientist d'Eventbrite, mais Paul Duan a choisi, après quelques mois, de quitter la start-up pour monter son projet, Bayes Impact. En 2016, l'entrepreneur quitte la Silicon Valley pour la France, en poursuivant son objectif : utiliser les algorithmes pour optimiser les services publics. « Nous avons travaillé sur plusieurs sujets, comme la réduction des violences policières ou la santé, mais le retour en France a marqué notre concentration sur le secteur de l'emploi », explique l'entrepreneur. Ce dernier s'est fait un nom, pour le meilleur et pour le pire, après avoir fait la une du magazine « Society » en 2017, qui titrait alors « Ce petit génie qui peut vaincre le chômage en France ».Mais le temps du développement technologique n'est pas celui des médias et, si trois ans plus tard le chômage n'est pas vaincu, Bayes Impact est parvenu à développer un produit désormais mature, prêt à être exporté. Ce dernier se nomme « Bob », est accessible gratuitement et permet aux chercheurs d'emploi d'accéder à un accompagnement personnalisé. « Nous avons accompagné 250.000 chercheurs d'emploi, et plus de 45 % des personnes qui ont trouvé un emploi l'attribuent aux conseils de Bob », revendique Paul Duan.Soutenu par Google.orgAlors que l'ONG avait déjà récolté 2 millions d'euros il y a deux ans, elle annonce ce lundi avoir effectué une nouvelle « levée de fonds philanthropique », de 2 millions d'euros à nouveau. Bayes Impact a remporté le premier prix de la fondation belge Degroof Petercam, d'une valeur de 1 million d'euros, complété par le soutien de Google.org, la branche philanthropique de la firme de Mountain View. Cette dernière avait déjà soutenu Bayes Impact en 2017. « Nous avons observé leur intégration dans l'écosystème français, les partenariats qu'ils ont avec le secteur public comme leurs collaborations avec d'autres associations, et réitérons notre soutien pour qu'ils puissent passer à l'échelle, faire croître le nombre de leurs utilisateurs et appliquer l'outil à l'étranger », détaille Liza Belozerova, directrice Emea chez Google.org.PublicitéLire aussi :Coronavirus : Zoom, le service de visioconférence qui flambe en Bourse en pleine criseDans la ligne de mire de Bayes Impact, la Belgique, où un pilote est en cours, et certains Etats des Etats-Unis. « Nous y avons reçu de nombreuses demandes de gouvernements d'Etat qui souhaitent savoir si Bob peut les aider à répondre à la crise du Covid, indique Paul Duan. Dans le contexte actuel, le fait d'avoir un accompagnement personnalisé à la recherche d'emploi, qui peut être rapidement passé à l'échelle et utilisé à distance, est particulièrement pertinent. »L'ONG travaille systématiquement avec les services publics de l'emploi, de sorte que son service soit proposé aux demandeurs d'emploi dès leur inscription. En France, c'est Pôle emploi qui a délivré les données nécessaires à l'entraînement des algorithmes de Bob.De nouvelles verticalesCette levée permettra également à l'ONG d'investir en recherche et développement, de sorte à ajouter de nouvelles verticales à son produit, comme des recommandations de formation, d'accompagnement de carrière et de reconversions. « En plus de ces projets, nous allons recommencer à explorer de nouvelles verticales d'impact, indique Paul Duan. Nous avons par exemple récemment créé un site nommé 'Brise la chaîne', qui permet aux personnes atteintes du Covid de prévenir leurs proches et leur donner la marche à suivre. »Lire aussi :Sortie de crise : des ONG et des syndicats appellent à des « transformations radicales »Alors qu'Ursus, son application visant à réduire les violences policières, est toujours utilisée par 800 agences en Californie, Bayes Impact étudie également son déploiement à d'autres zones géographiques. « L'application aide les policiers à faire du reporting à chaque fois qu'ils font usage de la force, explique Paul Duan. Ces données pourraient être utilisées par les ministères de la Justice pour mesurer les violences policières… Nous étudions la question, en étant conscients que c'est un sujet très complexe, au niveau technique mais surtout sociétal. »Grâce à cette dernière récolte de fonds, l'ONG, qui emploie 12 personnes, a de quoi tenir deux ans. Afin de pérenniser son activité, ses équipes travaillent à la monétisation de Bob, sur un modèle d'intégration personnalisée payant. Car, Paul Duan l'assure, tout ce qui est créé par Bayes Impact restera disponible en open source.Déborah LoyeNouveau : découvrez nos offres Premium !Vos responsabilités exigent une attention fine aux événements et rapports de force qui régissent notre monde. Vous avez besoin d’anticiper les grandes tendances pour reconnaitre, au bon moment, les opportunités à saisir et les risques à prévenir.C’est précisément la promesse de nos offres PREMIUM : vous fournir des analyses exclusives et des outils de veille sectorielle pour prendre des décisions éclairées, identifier les signaux faibles et appuyer vos partis pris. N'attendez plus, les décisions les plus déterminantes pour vos succès 2024 se prennent maintenant !Je découvre les offresFace à l’incertitude, choisissez la fiabilité des EchosJe profite du mois offertNos VidéosParis sportifs en ligne : qui sont les vrais gagnants ?Il y a 14 ans, la Française des Jeux (FDJ) perdait son monopole sur les paris sportifs en ligne. Aujourd’hui, 15 opérateurs se partagent ce marché toujours en croissance. Mais est-il si rentable que cela pour eux ? On vous explique.Portugal, Espagne, Grèce : la revanche des « pays du Club Med »Les jeunes ont-ils vraiment un problème avec le travail ?SNCF : la concurrence peut-elle faire baisser les prix des billets de train ?PublicitéLes plus lusPour l'antitrust français, l'IA générative pose déjà des risques concurrentiels DeepL, la star allemande de l'IA qui affronte Google et ChatGPT DécryptageAdobe en zone de turbulences PublicitéÀ la UneDécryptageLégislatives 2024 : ces onze circonscriptions sans front républicainSix questions sur le second tour de dimancheDirectLégislatives : « pas question » de gouverner avec LFI, lance Macron en Conseil des ministresPublicité",http://schema.org,BreadcrumbList,Les Echos,https://www.lesechos.fr,"{'@type': 'SearchAction', 'target': 'https://www.lesechos.fr/recherche?q={query}', 'query-input': 'required name=query'}",https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp,"['https://www.facebook.com/lesechos/', 'https://x.com/LesEchos?lang=fr', 'https://www.linkedin.com/company/les-echos']","{'@type': 'WebPage', '@id': 'https://www.lesechos.fr/tech-medias/intelligence-artificielle/bayes-impact-recolte-2-millions-deuros-notamment-aupres-de-google-pour-sinternationaliser-1219273'}","Bayes Impact récolte 2 millions d'euros, notamment auprès de Google, pour s'internationaliser","{'@type': 'ImageObject', 'url': 'https://media.lesechos.com/api/v1/images/view/5ef967c58fe56f57d534e6b7/1280x720/0603457482204-web-tete.jpg', 'height': '720', 'width': '1280'}",2020-06-29T06:02:18+02:00,2020-06-29T16:18:27+02:00,"[{'@type': 'Person', 'name': 'Déborah Loye', 'jobTitle': 'journaliste', 'sameAs': ['https://www.lesechos.fr/@deborah-loye', 'https://twitter.com/loydeborah']}]","{'@type': 'Organization', 'name': 'Les Echos', 'logo': {'@type': 'ImageObject', 'url': 'https://static.lesechos.com/0fbe31cfc3d7f1cdecc51f122d4c11b4.webp', 'width': 200, 'height': 38}}",True,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lesechos.fr/', 'name': 'Les Echos'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lesechos.fr/tech-medias', 'name': 'Tech - Médias'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lesechos.fr/tech-medias/intelligence-artificielle', 'name': 'Intelligence artificielle'}}]",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmxlcGFyaXNpZW4uZnIvc29jaWV0ZS9wb3VyLWVkZi1sLWlhLWRvaXQtZXRyZS1hdS1zZXJ2aWNlLWRlLWwtaHVtYWluLTI2LTA2LTIwMjAtODMzNzk3NS5waHDSAQA?oc=5,Pour EDF l'IA doit être au service de l'humain - Le Parisien,2020-06-26,Le Parisien,https://www.leparisien.fr,"Chaque jour, 7 000 messages arrivent dans les boîtes e-mails des conseillers clients d’EDF. Pour répondre plus vite et plus efficacement, EDF fait le choix de mettre l’intelligence artificielle au service de la relation client. Nom de code de ce programme d’innovation : Aria.
+",N/A,"Chaque jour, 7 000 messages arrivent dans les boîtes e-mails des conseillers clients d’EDF. Pour répondre plus vite et plus efficacement, ED","Chaque jour, 7 000 messages arrivent dans les boîtes e-mails des conseillers clients d’EDF. Pour répondre plus vite et plus efficacement, ED",/societe/,N/A,"SociétéContenu proposé par EDFPour EDF l'IA doit être au service de l'humain Chaque jour, 7 000 messages arrivent dans les boîtes e-mails des conseillers clients d’EDF. Pour répondre plus vite et plus efficacement, EDF fait le choix de mettre l’intelligence artificielle au service de la relation client. Nom de code de ce programme d’innovation : Aria.
+EDFLe ParisienPour EDF l'IA doit être au service de l'humain Chaque jour, 7 000 messages arrivent dans les boîtes e-mails des conseillers clients d’EDF. Pour répondre plus vite et plus efficacement, EDF fait le choix de mettre l’intelligence artificielle au service de la relation client. Nom de code de ce programme d’innovation : Aria.
+EDFLe ParisienContenu proposé par EDFL'équipe éditoriale du Parisien / Aujourd'hui en France n'a pas participé à sa rédaction.Un simple message électronique et ce sont des trésors de technologie qui se mettent en marche. Le particulier qui adresse un e-mail au service client d'EDF sollicite un programme informatique de pointe. Qu'importent les fautes d'orthographes ou les formulations hasardeuses, cette intelligence artificielle dispose d'une capacité d'analyse puissante pour trier les millions de messages reçus chaque année. Elle les transfère aussitôt au conseiller le plus qualifié, voire répond directement, de façon automatisée quand la nature de la demande le permet, par exemple quand le client communique son relevé de compteur. Plus besoin de transférer des messages entre conseillers, bilan : un travail  facilité pour le conseiller et un traitement plus rapide pour le client.« Grâce à notre outil d'analyse sémantique, notre intelligence artificielle est capable de détecter les insatisfactions de l'interlocuteur, autant d'éléments de contexte précieux pour le conseiller client qui va ainsi pouvoir adapter sa réponse », détaille Loïc Thomas, responsable technologique en charge de l'IA et de l'automatisation des processus chez EDF.Ce traitement automatique des e-mails a été développé par EDF dans le cadre de son programme d'innovation Aria, lancé en 2017. « La satisfaction client est au cœur du projet Aria », explique Mélanie Cazes, responsable de ce projet d'intelligence artificielle chez EDF. « Elle guide littéralement notre manière de conduire l'innovation », poursuit-elle.« C'est à la machine de faire l'effort »La technologie au service de l'humain. Voilà le fil rouge de tous les projets menés au sein d'Aria. « Nous sommes au service du client et du conseiller », insiste Mélanie Cazes. L'ensemble des outils intelligents doivent faciliter le travail des conseillers et en aucun cas le remplacer. « Nous ne cherchons pas à créer un conseiller virtuel mais à renforcer le rôle central et incontournable de nos conseillers », poursuit-elle. Comment ? « En automatisant les tâches chronophages, nous focalisons nos conseillers sur les demandes les plus complexes des clients. En ce sens, le conseiller se consacre toujours plus à la relation humaine ! »
+À terme, ce conseiller disposera d'une interface intelligente qui, lors d'un appel client par exemple, sera capable de trier et d'afficher les informations les plus pertinentes : fiche client, historique des appels, demandes en cours, … « C'est à la machine de faire l'effort d'aller chercher les infos, pas au conseiller », souligne Loïc Thomas.L'IA au service de l'humain, c'est aussi identifier des tendances de fond via l'analyse quotidienne des emails et ainsi révéler, par exemple, l'émergence d'une nouvelle demande récurrente ou d'une baisse du niveau de satisfaction des clients. « Ces données nous permettent d'agir en temps réel, d'ajuster nos processus métier pour améliorer notre relation client », ajoute Mélanie Cazes.L’IA à l’écoute du clientCrédit photo :EDF - Sophie BRANDSTROM",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiImh0dHBzOi8vcHJlc3NlbGliLmNvbS9hcnRpY2xlL2h1cGnSAQA?oc=5,INNOVATIONS – Hupi et ses moteurs d'intelligence artificielle - Presselib,2020-06-26,Presselib,https://presselib.com,"A Bidart, elle développe des assistants virtuels pour accompagner au quotidien dans les métiers et automatiser les décisions, dans une logique de responsabilité sociétale territoriale...","Pays Basque,Économie","A Bidart, elle développe des assistants virtuels pour accompagner au quotidien dans les métiers et automatiser les décisions, dans une logique de responsabilité sociétale territoriale...",N/A,N/A,N/A,"
+
+Lire plus tardPays BasquePublié le 26 juin 2020 à 05h10Mis à jour le 15 octobre 2021 à 05h53INNOVATIONSHupi et ses moteurs d’intelligence artificielleA Bidart, elle développe des assistants virtuels pour accompagner au quotidien dans les métiers et automatiser les décisions, dans une logique de responsabilité sociétale territoriale...Commençons par le commencement. Dans une entreprise, un assistant virtuel, c’est un peu comme un Jiminy Cricket en alerte constante, qui viendrait vous conseiller tout au long de la journée pour vous aider dans votre travail.
+
+Exemple : vous avez toute une flotte de véhicules à gérer, et autant de réparations à envisager. Le moment venu, votre Jiminy vous tapera alors sur l’épaule (c’est une image), pour vous signaler qu’il serait peut-être judicieux d’anticiper, avant la panne.C’est ainsi que Hupi (prononcez Oupi) conçoit et crée depuis Bidart ces moteurs d’intelligence artificielle, à travers une application qui fournira à un opérateur, quel qu’il soit, des recommandations en automatique et en temps réel, par rapport à des objectifs fixés.« Depuis 2017, nous avons véritablement ré-axé notre développement vers la mise en œuvre de nos solutions dans les domaines de l’industrie, l’énergie et les transports. Nous avons une plateforme technologique qui nous permet de recevoir toutes les données en continu, que nos algorithmes mathématiques viendront traiter et optimiser pour créer ces recommandations. Elles seront présentées dans les applications auxquelles les clients auront ensuite accès » détaille Romain Roquefère, un des fondateurs de la société.De quoi remplir un beau carnet d’adresse, où l’on relève les noms de Safran, EPTA, Kéolis, Egger, Enedis… qui confirment la qualité des prestations fournies. Sélectionnée pour rejoindre en 2017 le programme d’Usines du futur d’Euskadi, nommé BIND 4.0, l’entreprise en a profité pour ouvrir en février 2018 une filiale côté espagnol, Hupi Iberica installée à San Sébastian. Un business plan prévu pour 2020-2021 permettra de recruter pour lancer de nouveaux produits.La période de confinement n’a pas franchement impacté l’activité, car les équipes ont pu travailler sur les nombreux contrats signés fin 2019. Tous les employés ont réintégré les locaux le 11 mai, après être restés en contact permanent avec les clients, car les liens de proximité sont particulièrement favorisés.Les projets sont également au beau fixe, notamment celui concernant le secteur médical, déjà prévu avant la crise sanitaire. La gestion de croissance prudente et mesurée, ajoutée à l’accompagnement du territoire, permet d’assurer une belle santé financière.« Hupi a toujours eu une démarche de responsabilité sociétale, inscrite dans son ADN. Nous avons rejoint depuis un an la charte de Lantegiak, à laquelle adhérent les entreprises qui s’engagent à être dans une logique de réciprocité territoriale. Tous nos salariés apprennent à parler le basque, nous subventionnons des activités culturelles, comme la Pastorale en Soule l’an passé, nous sommes actionnaires d’Herrikoa… Nous sommes très fiers d’être signataires de cette charte qui privilégie la rentabilité et l’économie, le social, l’écologie et la durabilité et l’intégration dans le territoire. »Informations sur le site internet, cliquez iciCommentaires Réagissez à cet articleVous devez être connecté(e) pour poster un commentaireSe connecterS'inscrireÀ lire aussiUn accélérateur d'innovations touristiques au cœur du Béarn et du Pays basqueLe Bivouac 64 accompagne les porteurs de projets audacieux et favorise l'émergence de solutions nouvelles pour un tourisme plus durable et plus responsable.BéarnPays BasqueInnovationTourismeEntrepriseDécouvrez des passionnés porteurs de belles innovations au Pays Basque !Rendez-vous le 11 avril à 14h au Casino de Biarritz pour un événement pas comme les autres, piloté par la French Tech du territoire.Pays BasqueEntrepriseL'IA générative : un nouvel atout pour les entreprisesL’arrivée de ce tsunami technologique bouleverse irrémédiablement le travail des chefs d’entreprise. Pour le meilleur ou pour le pire ? Explications avec Pays Basque Digital...Pays BasqueNumériqueIntelligence artificielleInnovation
+
+Articles les plus lusL’audace de Michel Etchebest : un acte exemplaire au service d’un territoire ruralLÉGISLATIVESVers quelle cohabitation ?SG SUD-OUEST - Un objectif d’impact positif et de proximitéAGENDALes bons plans du 1er au 7 juillet 2024LÉGISLATIVESÉlection d’un Parlement à durée limitée
+
+BéarnJOB DATING APPRENTISSAGEAvec le Pôle Formation Adour1500 COUPS DE POUCEUne jeune association prometteuse au service du cinéma localHORIZON BÉARNTrois jours pour trouver un job en BéarnRUGBY À 7De Capbreton à Pau, objectif médaille d’orLa Ferme du Moutta surfe sur la production de vers de terreLire tous les articles
+
+Pays BasqueL’audace de Michel Etchebest : un acte exemplaire au service d’un territoire ruralTALENTPatrice Ibarboure récompensé par le Gault & MillauNOUVELLE ÉTAPEChangement de gouvernance pour le Port de BayonneFOLIESPlus de 4 millions de festayres aux San Fermínes1500 COUPS DE POUCEUne jeune association prometteuse au service du cinéma localLire tous les articles
+
+BigorreJOB DATING APPRENTISSAGEAvec le Pôle Formation Adour1500 COUPS DE POUCEUne jeune association prometteuse au service du cinéma local1500 COUPS DE POUCEUne appli pour le Trésor de l’Abbatiale de Saint-SavinAGENDALes bons plans du 1er au 7 juillet 2024GRANDE BOUCLEDe Florence à Nice, avec 3 étapes sur le bassin de l’AdourLire tous les articlesGersCADORS DU TOUT-TERRAINPlace au Rallye TT Terres d’ArmagnacTOTAL FESTUMRendez-vous très créatif à L’Isle-JourdainAGENDALes bons plans du 1er au 7 juillet 2024Nouveau cap pour MV BoatLire tous les articlesLandesCYLINDRÉES ET MUSIQUEAmbiance chaude au Dax Motors n' BluesCADORS DU TOUT-TERRAINPlace au Rallye TT Terres d’ArmagnacInitiatives RSETrois hôpitaux landais s’engagent pour une restauration responsable150 POSTESLur Berri recrute de nombreux saisonniersRUGBY À 7De Capbreton à Pau, objectif médaille d’orLire tous les articles
+
+
+
+
+
+
+
+",https://schema.org,Organization,PresseLib,https://presselib.com/,,https://presselib.com/assets/db89b26d3569b3acb012d2b4f185a196.png,"['https://www.facebook.com/pages/Presselib/1428634504037732', 'https://www.instagram.com/presselib_/', 'https://www.linkedin.com/company/presselib/', 'https://www.youtube.com/channel/UC0pTnBQDYCfHMWr0UVGiMPg/', 'https://twitter.com/PresseLib']",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jb3VycmllcmludGVybmF0aW9uYWwuY29tL2FydGljbGUvbGl0dGVyYXR1cmUtb3NhbXUtdGV6dWthLWxlLXBlcmUtZHUtbWFuZ2EtcmVzc3VzY2l0ZS1ncmFjZS1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZdIBAA?oc=5,"Osamu Tezuka, le “père du manga”, ressuscité grâce à l'intelligence artificielle - Courrier international",2020-06-28,Courrier international,https://www.courrierinternational.com,"Plus de trente ans après la mort de l’auteur d’Astro Boy, un manga conçu à la manière d’Osamu Tezuka par une intelligence artificielle a été publié au Japon. Le...",N/A,"Plus de trente ans après la mort de l’auteur d’Astro Boy, un manga conçu à la manière d’Osamu Tezuka par une intelligence artificielle a été publié au Japon. Le...","Plus de trente ans après la mort de l’auteur d’Astro Boy, un manga conçu à la manière d’Osamu Tezuka par une intelligence artificielle a été publié au Japon. Le...",N/A,N/A,"   Culture Japon Manga   Littérature. Osamu Tezuka, le “père du manga”, ressuscité grâce à l’intelligence artificielle  Plus de trente ans après la mort de l’auteur d’Astro Boy, un manga conçu à la manière d’Osamu Tezuka par une intelligence artificielle a été publié au Japon. Les données recueillies éclairent la façon dont travaillait le célèbre mangaka.    Nihon Keizai Shimbun    Réservé aux abonnés Lecture 2 min. Publié le 28 juin 2020 à 08h48, mis à jour le 1 juin 2022 à 07h13               
+© “Tezuka2020” Project      Partager    L’histoire se passe à Tokyo, en 2030, dans une société numérique où les informations personnelles sont contrôlées par des systèmes de reconnaissance faciale. Un jour, le personnage principal, Paidon, qui a perdu la mémoire, est chargé par ses sœurs de retrouver leur père disparu. C’est ainsi que débute le premier chapitre du manga Paidon, publié le 27 février dans le magazine [de mangas hebdomadaire] Morning. Les personnages et l’intrigue rappellent le travail d’Osamu Tezuka, ce qui n’a rien d’étonnant, dans la mesure où ce projet, réalisé notamment par le studio Tezuka Productions, visait à publier une “nouvelle œuvre” de Tezuka, créée par une intelligence artificielle. Environ 150 mangas courts de l’auteur ont été analysés par une intelligence artificielle en fonction de critères [narratifs] comme les “incidents” et les “situations critiques”. Puis les informations (sexe, âge, caractère, etc.) relatives à quelque 300 personnages et les données de 7 000 dessins de visage ont été saisies. Une centaine de projets de scénario et d’esquisses de personnages ont été créés sur la base de ces informations et ont formé la trame du nouveau manga. La dernière touche a été apportée par des dessinateurs professionnels. Schéma narratif unique S’il demeure dif     La suite est réservée aux abonnés... Déjà abonné ? Se connecter      Accédez à tous les contenus abonnés Soutenez une rédaction indépendante Recevez le Réveil Courrier chaque matin    Offre d’été numérique :  2,99 € / mois ou 34 € / an S’abonner avec  -50% la 1re annéeEn choisissant ce parcours d’abonnement promotionnel, vous acceptez le dépôt d’un cookie d’analyse par Google.                            Fumie Iwamoto   Lire l’article original   Sur le même sujet          Art. Ombres chinoises sur l’animation japonaise            Expérience. Ma lune de miel avec Hikari, ma “compagne” artificielle            Pop culture. Le Japon, l’autre pays des héros de la Lune            Édition. Dans les mangas, une nouvelle génération d'héroïnes      Asie Culture Littérature Manga Japon    Source de l’article  Nihon Keizai Shimbun (Tokyo)  Par sa diffusion, le “Journal économique du Japon” est sans conteste le plus important quotidien économique du monde. La qualité de ses articles vaut largement celle du Wall Street Journal ou du Financial Times.
+Le Nihon Keizai Shimbun est à l’origine du groupe Nikkei – connu pour son indice des valeurs boursières –, dont il est la principale publication. Dès sa parution, en 1876, le quotidien s’est spécialisé dans le domaine des affaires. Un siècle plus tard, il s’impose comme le journal des cadres d’entreprise japonais. Fort de ses 1 300 journalistes et de ses 90 bureaux (dont 32 outre-mer), il excelle dans l’analyse de la vie non seulement économique, mais aussi politique. Ses éditoriaux n’hésitent pas à pourfendre le gouvernement conservateur et les dirigeants d’entreprise quand il juge que le libéralisme est menacé.
+Le groupe Nikkei est un vieux routier des services en ligne. Bien avant l’avènement de l’ère Internet, il proposait de nombreux services à tous les détenteurs d’un modem. Aujourd’hui, seuls les éditoriaux et quelques articles factuels sont repris de l’édition papier. Le quotidien préfère offrir un contenu gratuit bâti autour de dossiers thématiques et d’études réalisées par les différentes branches du groupe. Une version en anglais du contenu est disponible, mais l’accès est payant.  Lire la suite    
+
+
+
+Contenus sponsorisés
+
+Recommandé par
+
+ 
+
+
+
+
+
+
+   Nos services          Hors-série : Villes, tout ce qui vibre    Des nuits de Lisbonne à celles de Medellín, des rues de Shanghai aux toits d’Alger, des bars de Prague aux plages de Dubaï, un tour du monde des cultures urbaines.    Je commande mon hors-série →            The Wall Street Journal    Recevez un an d’abonnement numérique offert.    Je reçois mon abonnement →            Boutique    Cinq merveilleux albums à découvrir dès 9 ans sur ces grands philosophes au format poche.    Je commande →            Gymglish, jour de l’indépendance USA    À l’occasion de la fete nationale des États-Unis le 04 juillet, profitez d’une semaine de cours d’anglais offert.    Je profite de l’offre →     
+
+
+     Les plus lus     Société.  En Chine, les masques en silicone, nouvelle méthode pour échapper aux autorités       À la une de l’hebdo.  Vu de l’étranger : si le Rassemblement national vient à gouverner…       Opinion.  Coloniser le sud du Liban ? Un fantasme d’Israéliens messianiques à prendre au sérieux       Analyse.  La Tunisie “en avance” sur Le Pen et Bardella : des discours haineux bien implantés             Nos services          Hors-série : Villes, tout ce qui vibre    Des nuits de Lisbonne à celles de Medellín, des rues de Shanghai aux toits d’Alger, des bars de Prague aux plages de Dubaï, un tour du monde des cultures urbaines.    Je commande mon hors-série →            The Wall Street Journal    Recevez un an d’abonnement numérique offert.    Je reçois mon abonnement →            Boutique    Cinq merveilleux albums à découvrir dès 9 ans sur ces grands philosophes au format poche.    Je commande →            Gymglish, jour de l’indépendance USA    À l’occasion de la fete nationale des États-Unis le 04 juillet, profitez d’une semaine de cours d’anglais offert.    Je profite de l’offre →     
+
+
+   
+
+
+
+Contenus sponsorisés
+
+Recommandé par
+
+ 
+
+
+
+
+
+   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmV1cm9wZTEuZnIvY3VsdHVyZS9jaW5lbWEtdW4tcm9ib3QtZGVjcm9jaGUtbGUtcm9sZS1wcmluY2lwYWwtZHVuLWZpbG0tMzk3ODA1MNIBXmh0dHBzOi8vd3d3LmV1cm9wZTEuZnIvY3VsdHVyZS9jaW5lbWEtdW4tcm9ib3QtZGVjcm9jaGUtbGUtcm9sZS1wcmluY2lwYWwtZHVuLWZpbG0tMzk3ODA1MC5hbXA?oc=5,Cinéma : un robot décroche le rôle principal d'un film - Europe 1,2020-06-29,Europe 1,https://www.europe1.fr,"Selon le &quot;Hollywood Reporter&quot;, un film de science-fiction va bientôt mettre en scène un robot japonais, Erica. Les créateurs de l'androïde lui ont enseigné l'acting.",N/A,"Selon le &quot;Hollywood Reporter&quot;, un film de science-fiction va bientôt mettre en scène un robot japonais, Erica. Les créateurs de l'androïde lui ont enseigné l'acting.",N/A,N/A,N/A,"
+      
+    
+            
+    
+      
+    0:39
+
+
+    Copié
+                                                            Hélène Mannarino, édité par Antoine Terrel
+                                                11h15, le 29 juin 2020Selon le ""Hollywood Reporter"", un film de science-fiction va bientôt mettre en scène un robot japonais, Erica. Les créateurs de l'androïde lui ont enseigné l'acting.Hollywood pourrait bientôt franchir un nouveau cap dans le progrès technologique, avec...un robot acteur. Selon le Hollywood Reporter, la société Bondit Capital Média va se lancer dans un film de science-fiction avec en actrice principale Erica, un androïde japonais doté de l'intelligence artificielle. Par le passé, Erica a déjà été mannequin et présentatrice télé.Le robot a appris à jouerLe film s’appelle b. D'un budget de 70 millions de dollars, il racontera la création d’un programme pour reconstituer et optimiser l’ADN humain, duquel Erica va vouloir s’échapper. Le robot sait jouer la comédie, ses créateurs lui ayant enseigné l’acting. Ses mouvement, eux, sont simulés, et ses émotions grandissent au fur et à mesure des séances de travail. Pour l'instant, seulement quelques scène auraient été tournées au Japon, précisent Les Inrocks, et le reste du tournage pourrait s'effectuer en Europe en 2021. ",http://schema.org,NewsArticle,Cinéma : un robot décroche le rôle principal d'un film,https://www.europe1.fr/culture/cinema-un-robot-decroche-le-role-principal-dun-film-3978050,,,,"{'@type': 'WebPage', '@id': 'https://www.europe1.fr/culture/cinema-un-robot-decroche-le-role-principal-dun-film-3978050'}",Cinéma : un robot décroche le rôle principal d'un film,"{'@type': 'ImageObject', 'name': '', 'url': 'https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/culture/cinema-un-robot-decroche-le-role-principal-dun-film-3978050/55709453-1-fre-FR/Cinema-un-robot-decroche-le-role-principal-d-un-film.jpg', 'contentUrl': 'https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/culture/cinema-un-robot-decroche-le-role-principal-dun-film-3978050/55709453-1-fre-FR/Cinema-un-robot-decroche-le-role-principal-d-un-film.jpg', 'width': {'@type': 'QuantitativeValue', 'value': '2000'}, 'height': {'@type': 'QuantitativeValue', 'value': '1000'}, 'datePublished': '2020-06-29T11:15:52+02:00'}",2020-06-29T11:15:52+02:00,2020-06-29T11:15:52+02:00,"{'@type': 'Person', 'jobTitle': 'Journalist', 'name': ' Hélène Mannarino, édité par Antoine Terrel', 'url': ''}","{'@type': 'Organization', 'name': 'Europe1.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.europe1.fr/bundles/europe1integration/images/amp/logo_europe1_cartridge.png?389-e3635ed80f4a3f01ded8599acbe16c2ef128bb96', 'width': 141, 'height': 60}}",,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.europe1.fr/culture', 'name': 'culture'}}]",PT00M39S,2020-06-29T11:15:52+02:00, https://www.dailymotion.com/thumbnail/video/x7upyt1,https://www.dailymotion.com/embed/video/x7upyt1,"{'@type': 'VideoObject', 'name': ""Cinéma : un robot décroche le rôle principal d'un film"", 'description': ""Cinéma : un robot décroche le rôle principal d'un film"", 'uploadDate': '2020-06-29T10:05:00+02:00', 'duration': 'PT00M39S', 'embedURL': 'https://www.dailymotion.com/video/x7upyt1', 'thumbnail': 'https://www.dailymotion.com/video/x7upyt1', 'thumbnailUrl': ' https://www.dailymotion.com/thumbnail/video/x7upyt1', 'encodingFormat': 'MPEG-4', 'contentSize': '', 'width': {'@type': 'QuantitativeValue', 'value': 396}, 'height': {'@type': 'QuantitativeValue', 'value': 704}}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Ljd4Ny5wcmVzcy83LW1ldGllcnMtZW4tdm9pZS1kZS1kaXNwYXJpdGlvbi1hLWV2aXRlci1hYnNvbHVtZW500gEA?oc=5,7 métiers en voie de DISPARITION à éviter ABSOLUMENT - 7x7,2020-06-30,7x7,https://www.7x7.press,"Les conjonctures, les statistiques et les études vont bon train dans les organismes officiels, les instituts de prospective, les organisations internationales ou européennes … pour savoir ce que sera le monde du travail de demain ! Une chose est sûre : les préoccupations écologiques, l’automatisation galopante et la montée en puissance de l’intelligence artificielle vont provoquer des changements massifs dans notre vision du travail. Un certain nombre de métiers sont amenés à disparaître.","['Business', 'intelligence artificielle']","[Par Philippe Kerforne] Les conjonctures, les statistiques et les études vont bon train dans les organismes officiels, les instituts de prospective, les organisations internationales ou européennes … pour savoir ce que sera le monde du travail de demai...","[Par Philippe Kerforne] Les conjonctures, les statistiques et les études vont bon train dans les organismes officiels, les instituts de prospective, les organisations internationales ou européennes … pour savoir ce que sera le monde du travail de demai...",N/A,N/A,"
+
+
+
+
+
+
+
+
+7 métiers en voie de DISPARITION à éviter ABSOLUMENT
+
+
+Anticiper
+Par Philippe Kerforne
+30 juin 2020
+
+
+
+
+
+
+
+UNSPLASH / Arseny Togulev
+
+
+
+
+
+Business
+intelligence artificielle
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+
+
+
+
+
+
+
+Les conjonctures, les statistiques et les études vont bon train dans les organismes officiels, les instituts de prospective, les organisations internationales ou européennes … pour savoir ce que sera le monde du travail de demain ! Une chose est sûre : les préoccupations écologiques, l’automatisation galopante et la montée en puissance de l’intelligence artificielle vont provoquer des changements massifs dans notre vision du travail. Un certain nombre de métiers sont amenés à disparaître.
+Au vu de toutes les données sur le monde de l’emploi, le constat est éloquent. De nombreuses professions ne seront plus exercées dans les vingt à cinquante années à venir ! La liste de professions en sursis est longue mais voici 7 métiers à éviter absolument.   NB : Ces métiers sont présentés au masculin, mais concernent également les femmes.
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+Métier voué à disparaître : Le manutentionnaire
+
+
+
+
+
+
+
+
+
+PEXELS / Alexander Isreb
+
+
+
+La manutention est sans doute l'un des métiers les plus en danger car c’est une profession pénible, mais aussi une des plus faciles à automatiser. Elle est même souvent placée, dans de nombreuses études, comme une des cinq professions amenées à disparaître le plus rapidement. Les entreprises préfèrent de plus en plus acheter des robots qu’employer des humains. Ils présentent le double avantage de porter des charges très lourdes sans se faire un tour de rein ou une hernie. Qui plus est, le robot peut travailler 24h/24 et 7J/7 sans faire grève !  Ce mouvement d’automatisation s’accélère particulièrement dans les entreprises géantes de commandes en ligne et de livraison à distance comme chez Amazon. Ainsi, selon un rapport de l’Institut Sapiens, la profession de manutentionnaire serait appelée à disparaître complètement entre 2071 et 2091. A la date de cette étude en 2018, il y avait déjà une réduction de 17% des effectifs en vingt ans, entre 1986 et 2016, période choisie pour étudier les tendances dans ce domaine. Nul doute que la diminution du nombre de manutentionnaires s’est poursuivie depuis. La reconversion des ouvriers de la manutention pourrait se faire en devenant réparateurs, contrôleurs ou éleveurs de machines.closevolume_off
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+Métier voué à disparaître : Le caissier
+
+
+
+
+
+
+
+
+
+pixabay
+
+
+
+Les caissiers ont été en première ligne depuis le début de la crise de la Covid-19 et pendant le confinement pour que nous puissions manger tous les jours. Ce métier est néanmoins l'un des plus menacés par la montée de l’intelligence artificielle et de l’automatisation inéluctable de nombreux métiers qui renforcera dans les années à venir. Vous avez déjà de nombreux supermarchés où vous pouvez payer à des caisses automatiques en libre-service et ce mouvement ne va faire que s’amplifier.  Il y a eu une forte augmentation des effectifs entre 1986 et 2004 avec la prolifération des grandes surfaces notamment à la périphérie des villes. Depuis, la tendance est la baisse pour ce métier considéré par la Dares (Direction de l’Animation de la Recherche, des Etudes et des Statistiques dépendant du ministère du Travail) comme l'un des plus pénibles. Ce qu’on peut traduire par « amené à disparaître très rapidement » notamment au vu de l’automatisation galopante de cette profession manuelle. Les effectifs auraient diminué de 26% en 30 ans et ce métier n’existerait plus entre 2053 et 2072 selon l’Institut Sapiens.
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+Métier voué à disparaître : Le conducteur de métro et de train
+
+
+
+
+
+
+
+
+
+pixabay
+
+
+
+L’automatisation progressive des transports en commun marque la disparition, déjà en cours, des conducteurs de train et de métro. Pour le métro, le mouvement est déjà en marche avec l’automatisation des lignes 1 et 14 à Paris (en prévision les lignes 4 en 2022 et la ligne 13 au plus tôt en 2029). Les avantages sautent aux yeux… pour les utilisateurs ! ils n’ont plus à craindre les grèves qui se sont multipliées dans les dernières années. A terme, il faut s’attendre à une automatisation d’une grande partie des lignes de métro, sauf celles dont la fréquentation est jugée insuffisante par la RATP. Il est néanmoins prévu que toutes les lignes du Grand Paris soient automatisées dès leur mise en service en 2024 selon Le Parisien.  La circulation des trains ne va pas non plus être épargnée par cette automatisation à grande échelle et inéluctable. La SNCF prévoit la mise en service des premiers trains autonomes pour 2023. En effet, la compagnie nationale de chemins devra faire face à une rude concurrence inhérente au progrès technologique. Citons, par exemple, le train du futur en projet, l’Hyperloop du célèbre milliardaire Elon Musk. Ce train devrait fendre l’air, à partir de 2035, à plus de 1200 km/h, fonctionner à l’air comprimé et se déplacer en lévitation magnétique.
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+À lire aussi
+7 métiers qui vont survivre à l'automatisation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+Métier voué à disparaître : Le banquier
+
+
+
+
+
+
+
+
+
+pixabay
+
+
+
+Il suffit de se rendre dans la plupart des banques pour comprendre que ce métier est en voie de disparition. Vous pouvez pratiquement faire toutes vos opérations (remise et retrait d’argent ou de différents formulaires) sans avoir aucun contact avec un employé. Qui plus est, le développement des services en ligne de consultation des comptes, de demandes de RIB et autres documents ne rend plus le déplacement à l’agence de votre banque indispensable mais exceptionnel. L’autre tendance est le développement des banques 100% en ligne (souvent des filiales de banques traditionnelles). Les offres ne manquent pas : Bforbank, Boursorama, Fortuneo, Hello Bank, Orange Bank… qui plus est, consultables et utilisables avec un simple téléphone portable.  Et que dire de l’apparition récente des néobanques (Revolut, N26, Nickel…) souvent basées à l’étranger et sans frais d’inscription. Elles vous permettent d’effectuer toutes les transactions des banques classiques et en ligne et des paiements instantanés à partir votre smartphone à des tarifs nettement plus avantageux. La carte de crédit Visa ou Mastercard est souvent gratuite. Vous pouvez même faire verser vos salaires ou rentrées d’argent sur votre compte en bénéficiant d’un relevé d’identité bancaire. Vous pouvez effectuer des paiements et/ou des retraits gratuits à l’étranger hors zone euros…. Idéal si vous partez en voyage ou si vous vivez à l’étranger. Selon l’Institut Sapiens, le métier d’employé de banque devrait avoir disparu entre 2038 et 2051.
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+Métier voué à disparaître : Le livreur
+
+
+
+
+
+
+
+
+Amazon PrimeAir
+amazon
+
+
+
+S’il y a un métier qu’on pensait ne pas être touché par l’automatisation, c’est bien celui de livreur qui doit être toujours sur le qui-vive et livrer à l’heure en se faufilant dans les embouteillages ! Eh bien, ce phénomène est déjà en marche depuis un moment ! Beaucoup de pays utilisent déjà des drones pour les livraisons citadines comme en Australie où ils sont déjà exploités à des fins commerciales par l’entreprise Bookal depuis 2014 dans des grandes villes comme à Sidney. De même, Wing, une filiale d’Alphabet la maison-mère de Google, livre depuis longtemps par drone aux Etats-Unis et en Australie. Amazon promet la livraison par drone depuis 2013. Bien que cela soit passé relativement inaperçu, en 2016, ce géant de la vente en ligne effectuait sa première livraison de colis par drone en Grande-Bretagne sous la forme d’un service appelé « Amazon PrimeAir ».  En France, La Poste livre déjà des colis par drone depuis 2016 dans le Var et a mis une deuxième ligne en service dans l’Isère en 2019. Les drones peuvent porter jusqu’à 2 kg à 15 km de distance à la vitesse de 30 km/h. Les drones sont dotés d’un système de géolocalisation et d’une caméra qui permet à un opérateur de les surveiller. Les drones (électriques) sont faciles à utiliser dans les zones isolées et difficiles d’accès. En revanche, ils sont plus difficiles à employer en ville à cause des risques (comme des chutes… rares) et de la règlementation (interdiction en ville de voler à plus de 100 mètres de personnes). Ces règles pourraient néanmoins évoluer à l'avenir.
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+Métier voué à disparaître : Le chauffeur de taxi
+
+
+
+
+
+
+
+
+
+waymo / Google
+
+
+
+Cette profession risque d’être à plus ou moins long terme victime des progrès de l’intelligence artificielle et de l’écologie ! En effet les voitures sont pointées du doigt parmi les principales sources de pollution citadines et sont chassées (au sens propre comme au figuré) progressivement des villes. La disparition programmée des voitures à essence et diesel au profit des voitures électriques se double d’une évolution des technologies embarquées. Ainsi, les rêves de voitures sans chauffeur ou autonomes sont en train de passer du rêve à la réalité. Nous pourrons ainsi bientôt disposer de voitures autonomes sans chauffeur en libre-service, très utiles notamment dans les villes. Qui plus est, la licence (nom officiel ADS pour autorisation de stationnement, appelée aussi plaque) de taxi est de plus en plus coûteuse. De moins en moins de personnes peuvent se permettre de l’acheter. Parfois, certains s’endettent de longues années pour pouvoir l’acquérir (à Paris en 2020, cette licence coûte 200 000 €) !   Google Cars est, depuis 2010, parmi les pionniers de la voiture écolo, notamment dans sa version taxi sans chauffeur appelée robo-taxi, notamment aux Etats-Unis. D’autres entrepreneurs sont aussi sur les rails comme l’inévitable Elon Musk (père de la voiture électrique Tesla). En France, on peut citer le projet commun à Valeo et Safran qui avaient déjà présenté leur première voiture autonome en 2015.
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+À lire aussi
+7 métiers qui vont disparaître (le 4ème vous fera TRES plaisir) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+Métier voué à disparaître : Le traducteur et (peut-être) l’interprète
+
+
+
+
+
+
+
+
+
+pixabay
+
+
+
+Une (voire même deux) des victime(s) collatérale(s) de l’intelligence artificielle risque(nt) sans aucun doute d’être le traducteur et peut-être aussi l’interprète. En effet, au moins, en ce qui concerne les traducteurs, les logiciels de traduction automatique ou en ligne font des progrès considérables. Google promet même le traducteur parfait pour 2028 ! En effet, les traducteurs automatiques intègrent de plus en plus l’intelligence artificielle et des algorithmes évolues qui contextualisent de plus en plus les phrases à traduire. Ils évitent de plus en plus les fautes grossières, les contresens ou les erreurs qui pullulaient il y a peu de temps encore dans les logiciels de traduction. Ceux-ci se contentaient de traductions au mot à mot et/ou littérales.  Ironiquement, les métiers de traducteur et d’interprète pourraient connaître le contrecoup fatal des progrès des technologies de l’information et de communication qui leur facilitaient le travail depuis quelques années. Il existe aussi de plus en plus de logiciels de traduction vocale instantanée accessibles depuis un simple téléphone portable. Ceux-ci pourraient rendre l’apprentissage des langues étrangères bientôt inutile. Une avancée idéale pour les voyageurs mais pouvant être fatale pour les traducteurs, les interprètes et, à moyen ou long terme, sans doute, pour les professeurs de langues !
+
+
+
+Commentaires
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+Partagez
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philippe Kerforne
+Je suis journaliste, rédacteur de contenu, de lettres d’information, auteur d‘une quarantaine de livres et responsable des sites Santé Totale et Pirate Marketing. 
+
+Mes domaines de prédilection sont variés car ma curiosité est insatiable. Les domaines suivants figurent parmi mes favoris : le développement personnel, la diététique, l’alimentation bio, la perte de poids, les médecines douces, les remèdes naturels… 
+
+Mais, encore plus fort que Dr Jekyll et Mr Hyde, je n’ai pas une mais plusieurs faces et je m’intéresse aussi aux méthodes pour gagner sa vie sur Internet, aux techniques d’optimisation de contenu, de promotion en ligne et au marketing numérique. 
+
+Je ne rechigne pas, non plus, à traiter de l’écologie et de l’actualité.
+
+Je suis toujours à la recherche de nouvelles méthodes pratiques et d’idées novatrices. Je suis un éternel optimiste et un chercheur invétéré. 
+
+Ma passion est d’informer car la connaissance rend plus libre.
+
+Voir les 131 articles
+
+
+
+
+
+
+
+Commentaires
+
+
+
+
+
+
+Nous suivre
+
+
+
+
+
+Recevoir la newsletter 7x7
+
+
+
+
+Précisez votre adresse email
+
+
+
+
+S'abonner
+
+
+
+Charte de confidentialité
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ElenadateLooking for a soulmate!Share your feelings and emotions with someone.Elenadate|SponsoriséSponsoriséRead MoreAnnulerHomeBuddyHere's What It Costs To Replace All Windows In An Average HouseHomeBuddy|SponsoriséSponsoriséLearn MoreAnnulerThebest1.xyzThe Most Dangerous Place On EarthThebest1.xyz|SponsoriséSponsoriséAnnulerOzzie TechnologiesIndoor Smoker's Secret: ""How To Banish Even the Toughest Cigarette Smoke Smells From Your House!""Smoking inside your home? Your home smells bad! But don't worry, we have a device that can eliminate even the strongest smoke odors!Ozzie Technologies|SponsoriséSponsoriséLearn MoreAnnulerTeeth Whitening | Search AdsTeeth Whitening Methods Most People Might Not Know About!Teeth Whitening | Search Ads|SponsoriséSponsoriséSearch NowAnnulerHealth Benefits Neuropathy is not from Low vitamin B. Meet the Real Enemy of Neuropathy (Stop Doing This)Health Benefits |SponsoriséSponsoriséAnnuler
+
+
+
+
+
+Plus d'articles dans Anticiper
+
+
+
+
+14 novembre 2023
+
+
+
+
+7 initiatives des grandes entreprises pour réduire leur...
+
+Dominique Doleme
+
+02 novembre 2023
+
+
+
+
+7 raisons de vous intéresser aux NFT !
+
+Philippe Kerforne
+
+01 novembre 2023
+
+
+
+
+L'éducation à la transition écologique, 7 façons de...
+
+Dominique Doleme
+
+24 octobre 2023
+
+
+
+
+Urbanisme durable, 7 clés de la transition écologique en ville
+
+Dominique Doleme
+
+21 juillet 2023
+
+
+
+
+7 préoccupations majeures des écologistes pour l'avenir de...
+
+Philippe Kerforne
+
+30 mai 2023
+
+
+
+
+7 raisons de croire à une remontée des cryptos en 2023
+
+Philippe Kerforne
+
+
+
+",http://schema.org,NewsArticle,,,,,,"{'@type': 'WebPage', '@id': 'https://www.7x7.press/7-metiers-en-voie-de-disparition-a-eviter-absolument'}",7 métiers en voie de DISPARITION à éviter ABSOLUMENT,"{'@type': 'ImageObject', 'url': 'https://res.cloudinary.com/odn92/image/upload/c_fill,f_auto,fl_progressive,h_200,w_700/jthbmoiqmmkto1l3jjn1', 'width': 700, 'height': 200}",2020-06-30 08:21:15 +0200,,"{'@type': 'Person', 'name': 'Philippe Kerforne'}","{'@type': 'Organization', 'name': 'https://www.7x7.press/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.7x7.press/assets/7x7/logo-7d5a659d51c0659d4bfd5f085894ccc630c4e8bab0159567ac2a4f17539ce63f.jpg', 'width': 400, 'height': 50}}",,,,,,,,Anticiper,,,,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vbWVkaWFrd2VzdC5jb20vdW4tZGlhbWFudC1wb3VyLXJlc3RhdXJlci1sZXMtam95YXV4LWR1LWNpbmVtYS1wYXJ0aWUtMS_SAQA?oc=5,Mediakwest - Un Diamant pour restaurer les joyaux du cinéma - Partie 1 - Mediakwest,2020-06-29,Mediakwest,https://mediakwest.com,Cinéma|Télévision|Communication > Un monde connecté,N/A,"Lors de la présentation de Diamant, nous avons pu découvrir cette activité passionnante qui fait le grand écart entre IA et pellicule.",N/A,N/A,N/A,"
+
+
+             Post 
+Un Diamant pour restaurer les joyaux du cinéma – Partie 1 
+
+
+
+
+
+lundi  29  juin  2020
+Par Loic Gagnant
+
+
+
+
+
+                À l’occasion d’un atelier de présentation de la dernière version du logiciel de restauration Diamant, nous avons pu découvrir cette activité passionnante qui fait le grand écart entre l’intelligence artificielle et la pellicule.             
+
+
+Interface du logiciel de restauration Diamant d’HS-ART. © DR 
+Nous avons rencontré Walter Plaschzug, créateur d’HS-ART (l’entreprise éditrice du logiciel), Basile Glaize, responsable d’Avantcam (distributeur en France de Diamant), Didier Bufflier, responsable du laboratoire ArchivLAB de la RTS, et Aurélien Grand, restaurateur. Dans cette partie, prennent la parole Walter et Basile. Aurélien Grand répondra ensuite à nos questions pratiques (deuxième partie).
+ 
+1• Entretien avec… WALTER PLASCHZUG, CRÉATEUR D’HS-ART
+Walter, peux-tu nous raconter la naissance de Diamant ?
+Diamant est né il y a vingt ans dans le cadre d’un projet universitaire européen de recherche publique nommé « Esprit », axé sur les archives cinématographiques, à l’occasion de la célébration du centenaire du premier film en 1994. Je ne suis pas originellement un professionnel de la production de film. J’ai étudié à l’université technique et commencé ma carrière dans les grands réseaux informatiques bancaires, avant d’intégrer l’institut de recherche autrichien en charge du projet à l’origine de Diamant, en tant que coordinateur. Nous étions en relation avec des entreprises françaises, dont la société de production audiovisuelle Neyrac Films, premier testeur de l’algorithme. Le projet universitaire s’est arrêté sur un résultat prometteur, mais encore éloigné d’un produit commercial.
+En 1998 j’ai créé mon entreprise autour d’un outil de vérification des droits de films, pour une société privée de télévision allemande. Parallèlement, nous avons repris le développement du logiciel de restauration. Une fois finalisé, l’outil dédié aux droits TV a été cédé à notre client. Nous avons présenté une première version de l’application Diamant à l’IBC en 2005, qui est alors devenu notre unique activité. L’application était complètement différente de ce qu’elle est devenue aujourd’hui.
+Des concurrents sont apparus en Angleterre et aux États-Unis, quatre entreprises se partageant le marché de la restauration qui était alors principalement dédié à la postproduction. Les films étaient à cette époque tournés en pellicule, puis scannés et numérisés en haute qualité pour la réalisation des effets spéciaux. Le travail consistait à nettoyer les poussières et défauts issus du scan.
+Avec le tournage en numérique, le travail en postproduction s’est progressivement arrêté. La concurrence s’est donc orientée sur notre segment de marché, et s’est renforcée ; certains ont disparu. Notre force vient de notre positionnement initial qui est resté celui de la restauration des archives. Aujourd’hui, notre petite société de sept personnes représente la moitié du marché, qui reste une activité de niche.
+ 
+Commercialisez-vous du hardware pour accompagner Diamant ? 
+Certaines parties de l’application bénéficient de l’accélération GPU des cartes graphiques Nvidia, mais nous proposons également une version light pour les ordinateurs Apple sur lesquels les cartes de ce fabricant ne sont pas disponibles. On essaie de conserver notre indépendance par rapport au matériel, mais la restauration en haute résolution reste « gourmande ». Pour cela, nous nous appuyons sur les compétences de partenaires locaux comme Basile Glaize en France, qui maîtrise la partie hardware et connaît les besoins des clients.
+ 
+Votre solution a-t-elle des liens avec d’autres logiciels, pour l’étalonnage par exemple ?
+Nous échangeons avec les éditeurs de logiciels d’étalonnage tels que Blackmagic Design ou Assimilate, l’éditeur de Scratch, pour assurer à nos clients un workflow complet compatible avec les logiciels d’étalonnage du marché, mais ce ne sont pas des relations fixes.
+ 
+Comment débute le travail de restauration d’un film, quel est le workflow ?
+Le travail au sein de Diamant débute idéalement après le scan et la numérisation du film. Certains utilisateurs partent d’un ancien scan dont il faut parfois légèrement adapter la vitesse. L’étalonnage du film peut être fait avant ou après, en fonction des habitudes des clients ainsi que des spécificités des films à traiter.
+ 
+Comment sont séparés les travaux d’étalonnage et de restauration ? 
+Il y a des zones de recoupement ; certains travaux d’étalonnage pouvant être faits dans Diamant, notamment la stabilisation de la lumière. Mais le traitement des pompages, de l’instabilité des couleurs sur les tons « rouges », par exemple, peut également être fait dans les logiciels d’étalonnage. En pratique l’équilibre des tâches est flexible.
+ 
+Quelle est la force de votre produit ? Quelles ont été les orientations de recherche lors du développement ?
+La base de toute opération de restauration, c’est une haute qualité de détection des mouvements et des objets : il s’agit de distinguer automatiquement les défauts parmi les autres objets mobiles. Un travail de qualité dans le traitement d’une poussière, par exemple, permet de définir la tâche et la mesure centrale. Pour faire évoluer nos produits, nous entretenons des liens étroits avec les instituts de recherche qui développent les nouveaux algorithmes et qui explorent les possibilités de l’intelligence artificielle. Nous avons déjà inclus dans la version 12 de Diamant des outils exploitant les premiers algorithmes d’IA.
+ 
+Comment partagez-vous le travail entre les sept membres de votre équipe ? 
+Nous ne sommes pas à l’origine de tous les algorithmes que nous utilisons. Nous collaborons avec des universités, notamment celle de La Rochelle, qui est à l’origine de l’outil de détection de scratch, utile au traitement des lignes verticales par exemple. Notre équipe adapte ces algorithmes de base et l’interface utilisateur pour nos besoins, les modèles issus des instituts de recherche n’étant pas directement applicables au travail de restauration.
+ 
+Quel est le profil de vos clients ?
+Ce sont de grandes institutions, de grands studios aux États-Unis, comme Universal ou Sony Pictures, des laboratoires de sauvegarde des archives tels que l’INA en France et également de nombreux laboratoires d’archivage plus confidentiels. Nous travaillons également avec des sociétés de postproduction qui proposent leurs services aux grands possesseurs de droits cinématographiques.
+ 
+Comment commercialisez-vous vos produits ? 
+Nous éditons le logiciel « général » Diamant, actuellement en version 12. Lorsque certains clients comme l’INA nous le demandent, nous proposons des adaptations spécifiques, concernant une carte vidéo, par exemple.
+ 
+ 
+2• Entretien avec… BASILE GLAIZE, FONDATEUR D’AVANTCAM
+ 
+Basile, quelle est ton histoire avec Diamant ?
+J’ai commencé à travailler avec Diamant qui était diffusé en Inde au moment où on lançait Scratch d’Assimilate en France. Il y avait une relation entre les équipes d’Assimilate et de Diamant pour préparer des documents sur Scratch avant de les envoyer sur Diamant avec une certaine industrialisation du travail. Je représentais Assimilate en France qui m’a conseillé de me rapprocher d’HS-ART. Deux cents Diamant étaient utilisés en Inde.
+J’ai débuté ma collaboration avec Walter Plaschzug, sans vendre un seul Diamant pendant deux ans. On a fait des démos et des tests chez les clients, particulièrement chez Digital Factory. Après trois mois de tests, ils ont choisi un autre produit de la marque Pixel Farm. Mais grâce aux nombreux retours des clients, Diamant a complètement changé de style pour devenir un produit hyper simple, tout en conservant sa fiabilité.
+Éric Martin responsable technique de l’entreprise Dubois (aujourd’hui Technicolor) a investi dans un Diamant. Tous les postproducteurs ont suivi, parmi eux Eclair et Digimage. C’était la période d’or, le CNC ayant décidé de subventionner la restauration des films français. Toute une équipe de professionnels, comme Aurélien, s’est formée à la restauration sur Diamant.
+Quand le CNC a décidé la fin des subventions, tous les prestataires ont arrêté, à l’exception d’Hiventy. Cela a abouti à des situations assez tristes, la restauration du film Napoléon d’Abel Gance sera peut-être faite à l’étranger, des savoir-faire disparaissent et les capacités de production de la France diminuent. Moi je pense que c’est beaucoup d’argent perdu. Aujourd’hui, on travaille sur les derniers films qui ont bénéficié des subventions de l’année dernière. Les restaurateurs ont du travail pendant quelques mois et peu de visibilité ensuite.
+ 
+Pour consulter la deuxième partie de cet article, cliquez-ici
+ 
+ 
+Extrait de l’article paru pour la première fois dans Mediakwest #36, p. 48-52. Abonnez-vous à Mediakwest (5 numéros/an + 1 Hors série « Guide du tournage) pour accéder, dès leur sortie, à nos articles dans leur intégralité.
+Interface du logiciel de restauration Diamant d’HS-ART. © DRWalter Plaschzug créateur d’HS-ART aux commandes du logiciel Diamant. © DR
+
+Articles connexes Avantcam 
+									Quantel Rio dans le showroom d’Avantcam 5 juillet 2017
+ 
+ 
+									Avantcam – Une nouvelle version de Scratch 3 janvier 2013
+ 
+ Diamant 
+									Un Diamant pour restaurer les joyaux du cinéma – Partie 2 30 juin 2020
+ 
+ 
+									ArchiveLAB (RTS) met en service sa 2e station de restauration 18 juin 2020
+ 
+ 
+									Post : la finalisation de A à Z avec le nouveau SCRATCH chez TCS 5 juillet 2015
+ 
+ HS ART 
+									Post : la finalisation de A à Z avec le nouveau SCRATCH chez TCS 5 juillet 2015
+ 
+ Restauration 
+									Une offre complète dédiée à la restauration cinéma 20 juin 2024
+ 
+ 
+									« Napoléon » restauré… qu’en est-il ? 19 avril 2023
+ 
+ 
+									Mais où en est la restauration du Napoléon d’Abel Gance ? 13 juin 2022
+ 
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'Organization', '@id': 'http://mediakwest.com/#organization', 'name': 'Mediakwest', 'url': 'http://mediakwest.com/', 'sameAs': ['https://www.facebook.com/Mediakwest', 'https://www.instagram.com/mediakwest/', 'https://www.linkedin.com/showcase/mediakwest/', 'https://twitter.com/Mediakwest'], 'logo': {'@type': 'ImageObject', '@id': 'http://mediakwest.com/#logo', 'inLanguage': 'fr-FR', 'url': 'https://mediakwest.com/wp-content/uploads/2020/03/cropped-logo_MK2017-2-1.png', 'width': 433, 'height': 106, 'caption': 'Mediakwest'}, 'image': {'@id': 'http://mediakwest.com/#logo'}}, {'@type': 'WebSite', '@id': 'http://mediakwest.com/#website', 'url': 'http://mediakwest.com/', 'name': 'Mediakwest', 'description': 'Cinéma|Télévision|Communication &gt; Un monde connecté', 'publisher': {'@id': 'http://mediakwest.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': 'http://mediakwest.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', '@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#primaryimage', 'inLanguage': 'fr-FR', 'url': 'https://mediakwest.com/wp-content/uploads/2020/06/1_1_Interface-du-logiciel-de-restauration-Diamant-dHS-ART.-.jpg', 'width': 1920, 'height': 1080, 'caption': 'Interface du logiciel de restauration Diamant d’HS-ART. © DR'}, {'@type': 'WebPage', '@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#webpage', 'url': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/', 'name': 'Mediakwest - Un Diamant pour restaurer les joyaux du cinéma - Partie 1', 'isPartOf': {'@id': 'http://mediakwest.com/#website'}, 'primaryImageOfPage': {'@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#primaryimage'}, 'datePublished': '2020-06-29T19:01:24+00:00', 'dateModified': '2020-07-08T15:03:11+00:00', 'description': 'Lors de la présentation de Diamant, nous avons pu découvrir cette activité passionnante qui fait le grand écart entre IA et pellicule.', 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/']}]}, {'@type': 'Article', '@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#article', 'isPartOf': {'@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#webpage'}, 'author': {'@id': 'http://mediakwest.com/#/schema/person/c0e0a8d949a1e09542aebe33a22ff4bc'}, 'headline': 'Un Diamant pour restaurer les joyaux du cinéma &#8211; Partie 1', 'datePublished': '2020-06-29T19:01:24+00:00', 'dateModified': '2020-07-08T15:03:11+00:00', 'mainEntityOfPage': {'@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#webpage'}, 'publisher': {'@id': 'http://mediakwest.com/#organization'}, 'image': {'@id': 'https://mediakwest.com/un-diamant-pour-restaurer-les-joyaux-du-cinema-partie-1/#primaryimage'}, 'keywords': 'Avantcam,BASILE GLAIZE,Diamant,HS ART,Restauration', 'articleSection': 'Post', 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'http://mediakwest.com/#/schema/person/c0e0a8d949a1e09542aebe33a22ff4bc', 'name': 'Loic Gagnant', 'image': {'@type': 'ImageObject', '@id': 'http://mediakwest.com/#personlogo', 'inLanguage': 'fr-FR', 'url': 'https://secure.gravatar.com/avatar/3328207a52fa7e530f51b958c86181e5?s=96&d=mm&r=g', 'caption': 'Loic Gagnant'}}]",,,,,,,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3MTUwLnN0YXRjYW4uZ2MuY2EvbjEvcHViLzQ1LTI4LTAwMDEvMjAyMDAwMS9hcnRpY2xlLzAwMDMzLWZyYS5odG3SAQA?oc=5,"L'automatisation, les travailleurs et la COVID 19 - Statistique Canada",2020-06-29,Statistique Canada,https://www150.statcan.gc.ca,"Au cours des dernières décennies, l’informatique a progressivement transformé les milieux de travail, ce qui a donné lieu à une diminution des travaux routiniers et manuels et à une augmentation des tâches diversifiées et intellectuelles. Les plus récentes évolutions de l’intelligence artificielle et de l’apprentissage automatique, conçues pour réaliser des tâches que l’on considérait comme impossibles à automatiser dans le passé, pourraient faire évoluer la situation encore plus.","Maladie à coronavirus, Virus corona, Coronavirus, Corona, COVID 19, COVID, Main-d'oeuvre, Population d'âge actif, Population en âge de travailler, TAI, Technologie informatique, Informatisation",N/A,N/A,N/A,N/A,N/A,http://schema.org,CreativeWork,"L&rsquo;automatisation, les travailleurs et la COVID 19",https://www150.statcan.gc.ca/n1/pub/45-28-0001/2020001/article/00033-fra.htm,,,https://www150.statcan.gc.ca/n1/pub/45-28-0001/2020001/article/00033-eng.htm,,"Au cours des dernières décennies, l&rsquo;informatique a progressivement transformé les milieux de travail, ce qui a donné lieu à une diminution des travaux routiniers et manuels et à une augmentation des tâches diversifiées et intellectuelles. Les plus récentes évolutions de l&rsquo;intelligence artificielle et de l&rsquo;apprentissage automatique, conçues pour réaliser des tâches que l&rsquo;on considérait comme impossibles à automatiser dans le passé, pourraient faire évoluer la situation encore plus.",,2020-06-29,,"[{'@type': 'Person', 'name': 'Marc Frenette'}, {'@type': 'Person', 'name': 'Kristyn Frank'}]","{'@type': 'Organization', 'additionalType': 'GovernmentOrganization', 'url': 'https://www.statcan.gc.ca/fra/debut', 'name': 'Gouvernement du Canada, Statistique Canada', 'sameAs': ['https://fr.wikipedia.org/wiki/Statistics_Canada', 'https://twitter.com/statcan_fra', 'https://www.facebook.com/statistiquecanada']}",,,,,,,,,,ScholarlyArticle,45280001202000100033,"['Impacts de COVID-19 sur le travail', 'Produits et processus']",Canada,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmxlc29pci5iZS8zMDk3MzUvYXJ0aWNsZS8yMDIwLTA2LTI2L2NpbnEtYW5zLWRlLWZpbmFuY2VtZW50LXBvdXItbGVjb2xlLWRlLWNvZGFnZS1iZWNvZGXSAQA?oc=5,Cinq ans de financement pour l'école de codage BeCode - Le Soir,2020-06-26,Le Soir,https://www.lesoir.be,450 demandeurs d’emploi bruxellois supplémentaires pourront rejoindre l’école qui forme au code informatique grâce à un produit financier innovant. ,"['[node:field_freetags]', 'Écoles', 'collèges et lycées', 'Social', 'Investissements', 'Tourisme', 'Biologie', 'Défi', 'Charleroi (Hainaut)', 'Belgique', 'Bruxelles (Bruxelles-Capitale)']",450 demandeurs d’emploi bruxellois supplémentaires pourront rejoindre l’école qui forme au code informatique grâce à un produit financier innovant.,450 demandeurs d’emploi bruxellois supplémentaires pourront rejoindre l’école qui forme au code informatique grâce à un produit financier innovant.,N/A,N/A,"
+ Cinq ans de financement pour l’école de codage BeCode
+450 demandeurs d’emploi bruxellois supplémentaires pourront rejoindre l’école qui forme au code informatique grâce à un produit financier innovant. 
+
+ Article réservé aux abonnés
+
+
+ 
+
+
+
+
+
+
+
+Cheffe adjointe du pôle Economie
+Par Amandine Cloot
+
+ Publié le 26/06/2020 à 17:12
+Temps de lecture: 5 min
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ L’assemblée est masquée, circonstances obligent. Mais, à défaut de sourires visibles, l’enthousiasme est palpable chez BeCode, ASBL qui propose des formations, atypiques et qualifiantes, au code informatique (mais aussi à l’intelligence artificielle, à la cybersécurité…) et fait ses preuves depuis 2017 sur le campus digital de BeCentral, installé en plein cœur de la capitale. Après des semaines de journalisme confiné, difficile de cacher son plaisir à l’écoute d’Eugénie, Lap Hoang et Phuong-Dat, trois jeunes trentenaires qui ont intégré il y a deux semaines l’une des deux nouvelles promos de l’école.
+
+
+
+
+ Cet article est réservé aux abonnés
+      
+
+        Accédez à l'information nationale et internationale vérifiée et décryptée
+        1€/semaine pendant 4 semaines (sans engagement)
+
+J'en profite
+
+Avec cette offre, profitez de :
+
+L’accès illimité à tous les articles, dossiers et reportages de la rédaction
+Le journal en version numérique (PDF)
+Un confort de lecture avec publicité limitée
+
+
+
+
+          Déjà abonné ?
+        
+Je me connecte
+
+ 
+
+
+
+ Cet article est réservé aux abonnés
+    
+Découvrez la suite, 1€/semaine pendant 4 semaines
+      (sans engagement)
+
+J'en profite
+
+Avec cette offre, profitez de :
+
+L’accès illimité à tous les articles, dossiers et reportages de la rédaction
+Le journal en version numérique
+Un confort de lecture avec publicité limitée
+
+
+
+
+        Déjà abonné ?
+      
+Je me connecte
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org,BreadcrumbList,Cinq ans de financement pour l’école de codage BeCode,,,,,"{'@type': 'WebPage', '@id': 'https://www.lesoir.be/309735/article/2020-06-26/cinq-ans-de-financement-pour-lecole-de-codage-becode'}",Cinq ans de financement pour l’école de codage BeCode,"[{'@type': 'ImageObject', 'url': 'https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/06/26/node_309735/27606161/public/2020/06/26/B9723832306Z.1_20200626171202_000%2BGVQG7GOLD.2-0.jpg?itok=gx5b8NXH1593420436', 'width': '1350', 'height': '759'}, {'@type': 'ImageObject', 'url': 'https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/06/26/node_309735/27606160/public/2020/06/26/B9723832306Z.1_20200626171202_000%2BGVQG7GON7.2-0.jpg?itok=bX2j9-2q1593420436', 'width': '1350', 'height': '759'}]",2020-06-26T17:12:02+02:00,2020-06-26T17:12:02+02:00,"{'@type': 'Person', 'name': 'Par Amandine Cloot'}","{'@type': 'Organization', 'name': 'Le Soir', 'sameAs': '[""https:\\/\\/fr.wikipedia.org\\/wiki\\/Le_Soir"",""https:\\/\\/www.facebook.com\\/lesoirbe\\/"",""https:\\/\\/twitter.com\\/lesoir""]', 'logo': {'@type': 'ImageObject', 'url': 'https://www.lesoir.be/sites/all/themes/enabootstrap_lesoir/images/site-logo.svg', 'width': 400, 'height': 600}}",FALSE,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.lesoir.be/81852/sections/soir-plus', 'name': 'Soir Plus'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.lesoir.be/11/sections/economie', 'name': 'Économie'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.lesoir.be/31879/sections/emploi', 'name': 'Emploi'}}]",,,,,,Emploi,,,,,,450 demandeurs d’emploi bruxellois supplémentaires pourront rejoindre l’école qui forme au code informatique grâce à un produit financier innovant. ,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'FALSE', 'cssSelector': '#main > section.r-section--principale > article > div.paywall.qiota_reserve'}","{'@type': ['CreativeWork', 'Product'], 'name': 'Le Soir', 'productID': 'lesoir.be:ena', 'sku': 'https://espace-abonnement.lesoir.be/'}"

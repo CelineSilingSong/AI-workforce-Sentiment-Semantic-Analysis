@@ -1,0 +1,1271 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,itemListElement,@id,mainEntityOfPage,speakable,url,articleSection,wordCount,datePublished,dateModified,author,image,publisher,isAccessibleForFree,hasPart,@graph,name,headline,creator,logo,foundingDate,sameAs
+https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy51c2luZS1kaWdpdGFsZS5mci9hcnRpY2xlL21pY3Jvc29mdC11dGlsaXNlLWwtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1wb3VyLWRldGVjdGVyLWF1dG9tYXRpcXVlbWVudC1sZXMtdHVtZXVycy1zdXItbGVzLXNjYW5uZXJzLk4xMDcyMjQ50gEA?oc=5,Microsoft utilise l'intelligence artificielle pour détecter automatiquement les tumeurs sur les scanners - Usine Digitale,2021-03-17,Usine Digitale,https://www.usine-digitale.fr,"
+	Microsoft Research a développé un système d&#39;apprentissage automatique capable de détecter automatiquement les tissus malades sur un scan 3D....-Computer vision",N/A,"
+	Microsoft Research a développé un système d&#39;apprentissage automatique capable de détecter automatiquement les tissus malades sur un scan 3D....-Computer vision","
+	Microsoft Research a développé un système d&#39;apprentissage automatique capable de détecter automatiquement les tissus malades sur un scan 3D....-Computer vision",N/A,N/A,"
+
+slide 1 to 6  of 6
+
+
+                                                                                    Intelligence artificielle
+                                                                        
+
+
+                                                                        Reconnaissance vocale                    
+
+                                                                        IA générative                    
+
+                                                                        Machine learning                    
+
+                                                                        Computer vision                    
+
+                                                                        Deep learning                    
+
+
+
+
+
+
+
+            Microsoft
+        
+
+
+
+            Santé
+        
+
+
+
+            Innovation
+        
+
+
+
+
+
+
+
+Microsoft utilise l'intelligence artificielle pour détecter automatiquement les tumeurs sur les scanners
+
+	Microsoft Research a développé un système d'apprentissage automatique capable de détecter automatiquement les tissus malades sur un scan 3D. Dédié aux personnes atteintes d'un cancer, cet algorithme permet de simplifier le travail des radiologues tout en accélérant considérablement le diagnostic. Une boîte à outils issue de ces travaux est disponible sur GitHub. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Vitard
+
+
+
+
+                        17 mars 2021
+                    
+
+ \
+09h50
+
+
+
+
+ 
+
+                                            2
+                                        min. de lecture
+                
+
+
+
+
+
+
+
+
+                            Réagir
+                        
+
+
+
+
+
+Mon actualité personnalisable
+
+Profitez à tout moment des informations clés selon vos intérêts.
+
+
+            Sélectionnez les thèmes qui vous intéressent :
+        
+
+Label tag qualité
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag principal
+Label tag précision
+Label tag qualité
+Label tag principal
+Label tag principal
+
+
+ Gérer mes thèmes favoris
+
+Valider la sélection
+
+
+
+
+
+
+
+
+
+ 
+
+                                                    2 min.
+                                            
+de lecture
+
+
+
+
+
+
+
+
+                            Réagir
+                        
+
+
+
+
+
+
+
+
+Alice Vitard
+
+
+
+
+
+                    17 mars 2021
+                
+
+ \
+09h50
+
+
+
+
+
+
+
+
+Partager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Microsoft Research
+
+
+
+
+
+
+
+
+	Les équipes de Microsoft Research, la filiale de recherche de Microsoft, à Cambridge en Angleterre travaillent depuis plusieurs années sur le projet ""InnerEye"" dont l'objectif est de simplifier le quotidien des radiologues spécialisés dans le traitement du cancer.
+
+Détecte les tissus malades
+	Ils ont développé un algorithme de computer vision capable d'automatiser certaines tâches longues et fastidieuses des professionnels de santé. En effet, il permet de dissocier les tissus malades des tissus sains sur une image issue d'un scan 3D. Ce type de machine permet de voir précisément l'intérieur du corps humain sans avoir besoin d'effectuer un acte chirurgical. Il repose sur la tomodensitométrie, une technique d'imagerie médicale qui consiste à mesure l'absorption des rayons X par les tissus. Une fois le scanner effectué, un logiciel va reconstruire les images en trois dimensions.
+
+	Cette automatisation permet de réduire la phase dite de ""planification de traitement"". Grâce à un logiciel, le médecin va préparer un plan de traitement par irradiation en radiothérapie grâce à l'acquisition préalable d'image tomodensitométriques du patient. Il offre un calcul prévisionnel de la distribution de la dose et fixe les quantités de rayonnement à délivrer par faisceau et par séance.
+
+Des tâches effectuées 13 fois plus vite
+	Evidemment, l'objectif n'est pas de remplacer les radiologues mais de leur dégager du temps pour les dossiers plus complexes à traiter. En effet, grâce à ce dispositif, ils effectueraient la phase de planification du traitement 13 fois plus vite, d'après une étude publiée dans la revue médicale JAMA Network Open en novembre 2020.
+
+	Pour tester son système d'apprentissage automatique, Microsoft a tissé un partenariat avec Addenbrooke's Hospital, un grand centre hospitalier universitaire à Cambridge, en décembre 2020. C'est le premier qui a pu testé InnerEye. Ce fut un succès d'après les témoignages des équipes soignantes. ""Cela ne fait aucun doute qu'InnerEye me fait gagner du temps. C'est très utile pour savoir où se trouve la prostate et les organes sains qui l'entourent, comme la vessie. Cela accélère le processus afin que je puisse me concentrer sur l'examen des images diagnostiques d'un patient et sur son traitement"", a expliqué Yvonne Rimmer, oncologue au sein d' Addenbrooke's Hospital.
+
+Les algorithmes sont disponibles sur GitHub
+	La boîte à outils ""InnerEye Deep Learning"" issue de ces travaux est disponible sur GitHub et peut donc être utilisée par les chercheurs du monde entier afin de créer et d'affiner leurs propres modèles, voire de développer de nouveaux cas d'usage. Les fournisseurs de technologies médicales peuvent également l'utiliser pour enrichir leurs produits ou en créer de nouveaux. Microsoft précise néanmoins que cet algorithme n'a pas été approuvé par les autorités compétentes, la Food and Drug Administration (FDA) aux Etats-Unis par exemple. Ils ne peuvent pas être utilisés en routine clinique et doivent donc rester au stade de recherche. 
+
+
+
+
+Sélectionné pour vous
+
+
+
+
+
+
+
+
+
+                                    IA générative : Axelera AI lève 68 millions de dollars pour ses puces d'inférence
+                                                                                                        
+
+
+
+
+
+
+
+                                    Meta, Hugging Face et Scaleway renouvellent leur programme d'accélération de start-up IA
+                                                                                                        
+
+
+
+
+
+
+
+                                    Microsoft dévoile une série de modèles Florence 2 spécialisés dans la vision
+                                                                                                        
+
+
+
+
+
+
+
+
+
+
+SUR LE MÊME SUJET
+
+
+
+                            Median Technologies mobilise l’IA pour dépister le cancer du poumon
+                        
+
+
+
+                            L'AP-HP mise sur l'analyse automatique d'images médicales pour guérir le cancer du foie
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 Commentaire
+
+
+
+
+
+
+
+
+
+                Microsoft utilise l'intelligence artificielle pour détecter automatiquement les tumeurs sur les scanners
+            
+
+
+
+
+
+
+Tous les champs sont obligatoires
+
+
+
+
+
+
+Votre
+                                nom
+
+
+
+
+
+
+Votre
+                                e-mail
+
+
+
+
+Votre email ne sera pas publié
+
+
+
+Votre
+                            commentaire
+
+
+
+
+
+
+
+Envoyer
+
+
+
+
+
+
+
+
+
+
+
+
+Votre commentaire a bien été envoyé
+                        à la rédaction, celui-ci peut être soumis à modération, auquel cas il
+                        n'apparaitra pas immédiatement sur le site.
+
+
+
+
+
+
+
+Commenter
+
+
+
+
+
+
+
+
+
+
+
+            Participez à la discussion !
+        
+
+
+Commenter
+
+
+
+
+
+
+
+        0Commentaire
+
+Réagir
+
+
+
+Partager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sujets associés
+Microsoft
+Santé
+Innovation
+Recherche
+Gestion des données
+Royaume-Uni
+
+
+",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2hpZ2gtdGVjaC9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL2VuLWFsbGVtYWduZS1sLWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtcG91cnJhLWFpZGVyLWEtc3VydmVpbGxlci1sZXMtZGV0ZW51c18xNTI2NzfSAQA?oc=5,Vidéosurveillance par intelligence artificielle en Allemagne - Sciences et Avenir,2021-03-20,Sciences et Avenir,https://www.sciencesetavenir.fr,Deux Länder allemands vont recourir à la vidéosurveillance par intelligence artificielle pour améliorer la sécurité dans les prisons et prévenir les suicides.,"['Allemagne', 'Suicide', 'Vidéosurveillance']",Deux Länder allemands vont recourir à la vidéosurveillance par intelligence artificielle pour améliorer la sécurité dans les prisons et prévenir les suicides.,Deux Länder allemands vont recourir à la vidéosurveillance par intelligence artificielle pour améliorer la sécurité dans les prisons et prévenir les suicides.,Intelligence artificielle,N/A,"
+
+Dormir en paix est un droit autant qu'une nécessité. Le prisonnier Alexeï Navalny en a témoigné il y a quelques jours : la colonie pénitentiaire dans laquelle a été envoyé l'opposant russe est selon ses dires ""un véritable camp de concentration"", où les détenus sont en permanence surveillés par des caméras et où un gardien le réveille toutes les heures chaque nuit pour le prendre en photo et attester de sa présence. Une déshumanisation qu'il juge digne du roman 1984 de George Orwell.
+Les réveils intempestifs n'ont pas seulement cours dans les dystopies totalitaires, et c'est en partie pour remédier à cette pratique qu'une motion déposée le 9 mars 2021 au parlement du Land allemand de Basse-Saxe propose de recourir à des systèmes de vidéosurveillance basés sur l'intelligence artificielle, ""afin de prévenir le suicide et d'améliorer la sécurité dans les prisons"". Une expérience du même type est déjà en cours en Rhénanie-du-Nord-Westphalie depuis un an et la reconnaissance intelligente de situations et de comportements à l'aide de caméras est également à l'œuvre dans les postes de sécurité de certaines grandes gares, à Berlin comme à Mannheim.
+Détecter des comportements suspects à un stade anticipé
+L'Allemagne n'étant pas la Russie, les prisonniers susceptibles d'être réveillés dans les centres de détention allemands sont en réalité ceux qui sont considérés comme les plus vulnérables, car diagnostiqués comme suicidaires. Toutes les 15 minutes, y compris pendant la nuit, un surveillant vient s'assurer qu'aucune tentative n'est en cours et pour cela lève le loquet de la porte de la cellule, allume la lumière, puis referme le loquet. Il est impossible de bien dormir ainsi, estime le ministre de la Justice de Rhénanie-du-Nord-Westphalie, Peter Biesenbach, même si le droit au repos des prisonniers suicidaires n'est pas sa seule préoccupation. Plus globalement, il s'agit surtout de mettre en place en milieu carcéral un système de sécurité plus vaste et plus fiable que le regard humain, qui puisse déceler aussi bien dans les cellules qu'en extérieur des comportements déterminés comme atypiques, des gestes reconnus comme suspects ou bien des objets considérés comme dangereux. La surveillance intelligente assurerait donc une fonction de détection, afin de prévenir les tentatives de suicide certes, mais aussi les actes délictueux au sein de la prison : remise d'objets interdits, altercations, violences.
+La vidéosurveillance intelligente : un système d'alerte
+En Rhénanie-du-Nord-Westphalie, c'est la société FusionSystems, spécialisée dans le développement de logiciels d'automatisation et de systèmes intelligents, qui a décroché le contrat pour développer le logiciel de reconnaissance.
+
+Dormir en paix est un droit autant qu'une nécessité. Le prisonnier Alexeï Navalny en a témoigné il y a quelques jours : la colonie pénitentiaire dans laquelle a été envoyé l'opposant russe est selon ses dires ""un véritable camp de concentration"", où les détenus sont en permanence surveillés par des caméras et où un gardien le réveille toutes les heures chaque nuit pour le prendre en photo et attester de sa présence. Une déshumanisation qu'il juge digne du roman 1984 de George Orwell.
+Les réveils intempestifs n'ont pas seulement cours dans les dystopies totalitaires, et c'est en partie pour remédier à cette pratique qu'une motion déposée le 9 mars 2021 au parlement du Land allemand de Basse-Saxe propose de recourir à des systèmes de vidéosurveillance basés sur l'intelligence artificielle, ""afin de prévenir le suicide et d'améliorer la sécurité dans les prisons"". Une expérience du même type est déjà en cours en Rhénanie-du-Nord-Westphalie depuis un an et la reconnaissance intelligente de situations et de comportements à l'aide de caméras est également à l'œuvre dans les postes de sécurité de certaines grandes gares, à Berlin comme à Mannheim.
+Détecter des comportements suspects à un stade anticipé
+L'Allemagne n'étant pas la Russie, les prisonniers susceptibles d'être réveillés dans les centres de détention allemands sont en réalité ceux qui sont considérés comme les plus vulnérables, car diagnostiqués comme suicidaires. Toutes les 15 minutes, y compris pendant la nuit, un surveillant vient s'assurer qu'aucune tentative n'est en cours et pour cela lève le loquet de la porte de la cellule, allume la lumière, puis referme le loquet. Il est impossible de bien dormir ainsi, estime le ministre de la Justice de Rhénanie-du-Nord-Westphalie, Peter Biesenbach, même si le droit au repos des prisonniers suicidaires n'est pas sa seule préoccupation. Plus globalement, il s'agit surtout de mettre en place en milieu carcéral un système de sécurité plus vaste et plus fiable que le regard humain, qui puisse déceler aussi bien dans les cellules qu'en extérieur des comportements déterminés comme atypiques, des gestes reconnus comme suspects ou bien des objets considérés comme dangereux. La surveillance intelligente assurerait donc une fonction de détection, afin de prévenir les tentatives de suicide certes, mais aussi les actes délictueux au sein de la prison : remise d'objets interdits, altercations, violences.
+La vidéosurveillance intelligente : un système d'alerte
+En Rhénanie-du-Nord-Westphalie, c'est la société FusionSystems, spécialisée dans le développement de logiciels d'automatisation et de systèmes intelligents, qui a décroché le contrat pour développer le logiciel de reconnaissance. Cette spin-off de l'Université Technique de Chemnitz a décidé de procéder en deux phases pour constituer l'algorithme qui servira de base au logiciel d'analyse automatisée. Après avoir aménagé dans ses locaux une salle test, réplique d'une cellule de détention, les chercheurs ont eux-mêmes alimenté le logiciel afin de le rendre capable de reconnaître des séquences de mouvements spécifiques et de les différencier des moments non critiques. Il devra à terme savoir déterminer si un geste ou un déplacement est normal ou potentiellement dangereux, il saura quels sont les endroits les plus sensibles dans la pièce, il avertira qu'un objet dangereux a franchi une limite ou a été déposé dans une zone prédéfinie comme non autorisée. La deuxième phase de l'apprentissage, actuellement en cours, a lieu en fonctionnement réel dans le centre correctionnel de Düsseldorf.
+Une fois que le logiciel aura intégré toutes ces données, il sera capable d'évaluer le degré de danger de certaines situations selon une échelle de valeur. La caméra disposée dans la cellule filmera donc le détenu en continu, les images seront analysées en temps réel par l'intelligence artificielle, mais l'écran de contrôle dans le centre de surveillance restera éteint ; il ne s'allumera que lorsque l'algorithme déclenchera l'alarme, informant qu'une intervention humaine est sans doute nécessaire. Le surveillant prévenu, par messagerie, par un signal visuel ou par une sonnerie, évaluera à son tour la situation d'après les images à l'écran et décidera d'intervenir ou non. Il s'agit donc d'un système d'alerte en cas de comportement ""suspect"".
+Un complément au travail humain
+Sauver des vies (on compterait 50 à 100 suicides dans les prisons allemandes chaque année), veiller à la qualité du sommeil, les ambitions du système de vidéosurveillance avancées par le ministre Biesenbach sont louables. Ce dernier ne considère pas pour autant l'intelligence artificielle comme une panacée, mais comme une manière de soulager le travail humain. Il existe en effet tout un panel de dispositifs préventifs d'aide et d'écoute des détenus angoissés ou malades : télémédecine, soutien spirituel, codétenus ""auditeurs""… Pour Volker Bajus, membre du parti des Verts au parlement de Basse-Saxe, une prise en charge psychosociale ne peut toutefois être évincée par la technologie moderne, ""car la technologie vidéo ne peut pas remplacer le travail social, elle peut au mieux le soutenir.""
+Un système compatible avec la protection des données ?
+Mais le parlement de Basse-Saxe est favorable à la motion déposée, et a donc l'intention de créer les conditions juridiques préalables à l'utilisation de l'intelligence artificielle par caméra dans les prisons du Land. Pour ce qui est de la protection des données, les défenseurs du projet estiment que la surveillance intelligente est plus respectueuse du droit individuel que les systèmes de surveillance conventionnels, car il n'y a pas ou peu d'enregistrement de données personnelles. En l'absence de stockage de données et sans observation continue en temps réel, un détenu, même surveillé 24 heures sur 24, peut ainsi, à leurs yeux, bénéficier d'une vie privée. Dans sa colonie pénitentiaire, Alexeï Navalny rêve très certainement de conditions de détention aussi idylliques.
+
+
+Commenter
+
+Allemagne
+Suicide
+Vidéosurveillance
+
+Commenter
+",https://schema.org,NewsArticle,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.sciencesetavenir.fr/', 'name': 'Sciences et Avenir'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.sciencesetavenir.fr/high-tech/', 'name': 'High-tech'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/en-allemagne-l-intelligence-artificielle-pourra-aider-a-surveiller-les-detenus_152677,"{'@type': 'WebPage', '@id': 'https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/en-allemagne-l-intelligence-artificielle-pourra-aider-a-surveiller-les-detenus_152677'}","{'@type': 'SpeakableSpecification', 'cssSelector': ['h1', '.article-chapo']}",https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/en-allemagne-l-intelligence-artificielle-pourra-aider-a-surveiller-les-detenus_152677,Intelligence artificielle,905.0,2021-03-20T11:00:00.000Z,2021-03-20T11:00:00.000Z,"[{'@type': 'Person', 'name': 'Sara de Lacerda', 'url': 'https://www.sciencesetavenir.fr/auteurs/sara-de-lacerda_51376'}]","{'@type': 'ImageObject', 'url': 'https://www.sciencesetavenir.fr/assets/img/2019/11/22/cover-r4x3w1200-6054a5a8d43f1-ca2f0d5a3d0a04386d418d08b417ffbb148eb4d5-jpg.jpg', 'caption': ""Les prisonniers susceptibles d'être réveillés dans les centres de détention allemands sont ceux qui sont considérés comme les plus vulnérables, car diagnostiqués comme suicidaires.\r\n"", 'width': 1200, 'height': 900}","{'@type': 'Organization', 'name': 'Sciences et Avenir', 'url': 'https://www.sciencesetavenir.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.sciencesetavenir.fr/img/sea/logo.png', 'width': 456, 'height': 302}}",False,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.user-paying-content'}",,,,,,,
+https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbm91dmVsbGVzLnVtb250cmVhbC5jYS9hcnRpY2xlLzIwMjEvMDMvMTkvbGUtZGlhbG9ndWUtc3VyLWwtaWEtZXN0LW91dmVydC_SAQA?oc=5,Le dialogue sur l'IA est ouvert! - udemnouvelles,2021-03-19,udemnouvelles,https://nouvelles.umontreal.ca,L’éthique des nouvelles technologies vous intéresse? Participez au dialogue ouvert sur l'intelligence artificielle au cours d’ateliers virtuels qui se tiendront partout au pays du 30 mars au 30 avril.,N/A,L’éthique des nouvelles technologies vous intéresse? Participez au dialogue ouvert sur l'intelligence artificielle au cours d’ateliers virtuels qui se tiendront partout au pays du 30 mars au 30 avril.,L’éthique des nouvelles technologies vous intéresse? Participez au dialogue ouvert sur l'intelligence artificielle au cours d’ateliers virtuels qui se tiendront partout au pays du 30 mars au 30 avril.,N/A,N/A,"
+
+
+
+Le dialogue sur l’IA est ouvert!
+
+
+UdeMNouvelles
+Le 19 mars 2021
+
+									
+										Mylène Tremblay
+									
+								
+
+
+
+
+
+
+
+
+Crédit : Getty 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L’éthique des nouvelles technologies vous intéresse? Participez au dialogue ouvert sur l'intelligence artificielle au cours d’ateliers virtuels qui se tiendront partout au pays du 30 mars au 30 avril.
+
+
+
+
+
+
+
+
+
+
+Marc-Antoine Dilhac 
+
+
+
+
+À quoi servent les technologies d'intelligence artificielle (IA)? Vous inspirent-elles confiance ou, au contraire, de la méfiance? Leur utilisation est-elle éthique ou pas? Voilà autant de questions qui seront posées à toute la population canadienne en lien avec des thèmes bien précis dans le cadre des ateliers Dialogue ouvert organisés par le Groupe de travail sur la sensibilisation du public du Conseil consultatif en matière d'intelligence artificielle du gouvernement du Canada, en partenariat avec CIFAR et l’Algora Lab de l’Université de Montréal. Mais à quoi donc serviront les données recueillies au cours des discussions? La parole est donnée à Marc-Antoine Dilhac, coprésident du groupe de travail, professeur d’éthique et de philosophie politique à l’UdeM et membre de Mila, l’Institut québécois d’intelligence artificielle. 
+
+
+
+Pourquoi interroger le public sur ce qu’il pense de l’IA maintenant?
+Parce qu’on est encore au début d’une révolution du numérique, de l’automatisation et de l’intelligence artificielle qui transforme un bon nombre de métiers et de relations sociales – par exemple entre le patient et son médecin, les élèves et leurs enseignants. Ces changements qui touchent déjà beaucoup de monde nous amènent à nous interroger sur la meilleure façon de rendre ces technologies acceptables pour tous. Pour pouvoir organiser au mieux les transformations engendrées par l’IA – irréversibles dans certains domaines, comme en médecine –, il est important d’établir un dialogue ouvert avec la population. C’est à chacun de dire si tel type d’application va changer sa vie en mieux ou, au contraire, lui imposer de nouvelles contraintes.
+
+ 
+ 
+
+
+Ainsi est née l’idée démocratique de sonder la population…
+Tout à fait. Notre groupe de travail porte principalement sur la littératie numérique et sur la façon d’augmenter les connaissances du public par rapport à l’IA. Dans un premier temps, nous avons mené une consultation par sondage pour connaître la perception sociale de l’intelligence artificielle. Dans un deuxième temps, nous cherchons à savoir comment la population canadienne perçoit les conflits de valeurs, que ce soit entre la sécurité et la vie privée ou encore la santé et l’anonymisation des données. Ces enjeux sociétaux, éthiques et politiques seront discutés dans les ateliers Dialogue ouvert, qui visent à mieux comprendre ce que le public perçoit et attend de l’IA. L’UdeM a en quelque sorte ouvert la voie à ce dialogue inclusif avec la Déclaration de Montréal pour un développement responsable de l'intelligence artificielle, dont elle a jeté les bases en 2017.
+
+
+Comment se dérouleront ces ateliers et sur quoi porteront les discussions?
+Chaque rencontre tenue dans différentes régions du pays va se dérouler sur Zoom et accueillera un maximum de 100 personnes – inscrivez-vous sans tarder! Les participantes et participants recevront d’abord un guide de délibération et un livret de scénario pour leur permettre de se préparer à la discussion. Lors de l’atelier d’une durée de deux heures et demie, ils seront répartis dans des «salles» Zoom en groupes de 8 à 10 personnes pour réfléchir sur les enjeux éthiques et sociétaux d’un cas d’usage lié aux domaines de la santé, des transports, de l’éducation, des assurances, etc. On leur demandera ensuite de présenter des réponses concrètes et des recommandations pour arbitrer les conflits de valeurs. Des ateliers sont prévus pour les Autochtones, en respect des pratiques délibératives propres à leur culture, et les jeunes de 13 à 17 ans. Notre objectif est de faire participer à ces échanges plus de 1000 personnes au Canada.
+
+
+Au final, que ferez-vous de toutes ces données?
+Les réponses recueillies dans les ateliers serviront à formuler des recommandations au gouvernement du Canada pour qu’il puisse adapter sa stratégie de sensibilisation à l’intelligence artificielle et effectuer une «cartographie» des raisons qui rendent une application susceptible d’être acceptée et une autre d’être rejetée. ll y a implantation de l’IA dans la mesure où les technologies ont la confiance du public.
+
+
+
+Inscrivez-vous aux ateliers Dialogue ouvert.
+
+Le rapport du Groupe de travail sur la sensibilisation du public pourra être consulté dès cet été.
+
+
+
+Sujets
+
+
+intelligence artificielle
+technologie
+activités spéciales
+
+Marc-Antoine Dilhac
+
+Département de philosophie
+Faculté des arts et des sciences
+
+Mila - Institut québécois d'intelligence artificielle
+
+
+
+Langue
+
+English
+
+
+
+
+
+
+Précédent Un pas de plus est franchi vers un vaccin anticancer 18 mars 2021
+
+
+Suivant Parents coercitifs, cerveau plus petit 22 mars 2021
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihwFodHRwczovLzk0LmNpdG95ZW5zLmNvbS8yMDIxL2lsZS1kZS1mcmFuY2UtbW9pbnMtZGludmVzdGlzc2VtZW50cy1ldHJhbmdlcnMtZW4tMjAyMC1tYWlzLXVuLW1laWxsZXVyLWltcGFjdC1zdXItbGVtcGxvaSwxOC0wMy0yMDIxLmh0bWzSAQA?oc=5,Ile-de-France: moins d'investissements étrangers en 2020 mais un meilleur impact sur l'emploi - 94 Citoyens,2021-03-18,94 Citoyens,https://94.citoyens.com,N/A,N/A,"Nouveau centre recherche et developpement 5G du suédois Ericsson, fabrique locale de masques du japonais Iris Ohyama, accueil de la startup chilienne Protera q","Nouveau centre recherche et developpement 5G du suédois Ericsson, fabrique locale de masques du japonais Iris Ohyama, accueil de la startup chilienne Protera q",N/A,N/A,"   Economie	  |     Ile-de-France	   |   18/03/2021	  2021-03-23T09:05:40+01:00	 Réagir  Par  Charles Henry Auteur Val-de-Marne  https://94.citoyens.com/author/Charles9Henry4       94 Citoyens Ile-de-France: moins d’investissements étrangers en 2020 mais un meilleur impact sur l’emploi  © Campus Deloitte Dubuisson  Envoyer à un amiTwitterLinkedInFacebook  Nouveau centre recherche et developpement 5G du suédois Ericsson, fabrique locale de masques du japonais Iris Ohyama, accueil de la startup chilienne Protera qui crée des protéines par intelligence artificielle, campus Deloitte… Voilà quelques projets d’entreprises étrangères qui ont choisi l’Ile-de-France en 2020 malgré le contexte sanitaire. Au total, 336 projets ont ainsi été réalisés en 2020 contre 415 en 2019, mais avec un meilleur impact sur l’emploi. Avec une moyenne de 32 emplois par projet, ce-sont en effet 10 797 emplois qui ont été générés par ces investissements, contre 9 660 en 2019,  ont été générés, soit une progression de 12%.  Le tout dans un contexte économique  violemment impact par la crise sanitaire  qui a fait chuter les investissements internationaux dans le monde de plus d’un tiers.L’enjeu est stratégique pour l’emploi. Au total, près de 600 000 Franciliens travaillent pour un groupe étranger, soit un emploi sur six et même un sur cinq dans l’industrie.Une poussée en grande couronneAu-delà de l’aspect quantitatif, la répartition géographique s’est également rééquilibrée au profit de la grande couronne. “En termes d’emploi, les résultats 2020 montrent une stabilité à Paris, une augmentation de 7,6 % dans les territoires de la petite couronne (Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne) et une hausse de presque 40 % dans les départements de la grande couronne (Val-de-Marne, Essonne, Yvelines et Val-d’Oise)”, indique Choose Paris Region, l’agence de développement économique du Conseil régional d’Ile-de-France, qui présentait ce mardi le bilan de son activité 2020. Au total, deux-tiers des emplois créés en 2020 via les investissements directs étrangers l’ont été en dehors de la capitale.Le cabinet d’audit anglo-américain Deloitte a ainsi choisi le site de Bailly-Romainvilliers (Val d’Europe – Marne-la-Vallée), en Seine-et-Marne pour créer un méga-campus universitaire qui doit permettre de former 500 collaborateurs à la fois. Un site suffisamment loin de la capitale pour être abordable et permettre d’organiser les séminaires dans un cadre verdoyant avec même un lac artificiel, et proche de Disneyland Paris.© DubuissonLe futur campus Deloitte doit ouvrir en 2022 à Val d’Europe et générer 200 emplois (Egalement en photo de une)Le Japonais Iris Ohyma fabrique les masques en Seine-et-MarneAutre développement en grande couronne, celui du groupe japonais Iris Ohyama qui après avoir inauguré en 2019 à Lieusaint (Sénart) en Seine-et-Marne, un site de fabrication de boites de rangement, a décidé en octobre dernier d’ouvrir 18 lignes de production de masques dont 4 FFP2 pour fournir entre 50 et 70 millions de masques par mois.© Iris OhyamaSite Iris Ohyama à SénartUn centre de R&D sur la 5 G en EssonneDe son côté, l’équipementier télécom Ericsson a décidé de créer son centre de recherche et développement français dédié à la 5G à Massy dans l’Essonne, d’abord dans son siège existant puis dans un nouveau bâtiment, avec un objectif de 300 emplois dédiés d’ici à la fin 2022.Dans l’Essonne encore, on notera l’installation du biotech suisse Regenlab qui fabrique de dispositifs médicaux destinés aux thérapies cellulaires. “L’entreprise va délocaliser une partie de la production réalisée en Suisse vers la France en construisant une usine de production dans la zone de Paris Saclay. Cette usine va produire et alimenter le marché européen et d’Afrique du nord. L’entreprise prévoit la création d’une centaine de postes dans les 3 ans dont une soixantaine dans la région Ile-de-France”, détaille l’agence qui ajoute que Regenlab a également relocalisé une grande partie de la R&D en France. “Un projet de recherche est en cours qui permet de sélectionner et prélever les anticorps d’une personne guérie du Covid pour en faire bénéficier une personne infectée.”Les secteurs à valeur ajoutée tiennent la cordeLe Suédois n’est pas seul à investir sa R&D dans la région. Cette activité représente, comme en 2019, 12% du total des projets d’investissement. Globalement, 64 % des emplois sont générés par les centres de décision, les services aux entreprises et la R&D. “Les centres de décision généreront 2 028 emplois, ce qui conforte l’Ile-de-France comme lieu d’implantation des grands groupes internationaux, qui considèrent la région comme la porte d’entrée naturelle aux marchés européens. Les investissements concernant les services aux entreprises sont en très forte progression en termes d’emplois avec 4 073 recrutements prévus, contre 2 534 sur l’année 2019 (+ 61 %)”, détaille Choose Paris Région. Numérique et sciences du vivant ont le vent en poupe. “Les perspectives d’emploi sont à la hausse dans les secteurs portés par la digitalisation de l’économie et les sciences du vivant, boostés par les besoins générés par la crise sanitaire. Les secteurs « commerce et distribution », la filière IT et le secteur « conseil » représentent 70 % des emplois en 2020”, ajoute l’agence de développement économique.– Publicité-Création d’entreprise, modification de société, enquêtes publiques… Publiez vos annonces légales en ligne sur 94 Citoyens.Notre service de presse en ligne est habilité à publier les annonces judiciaires et légales à Paris, Val-de-Marne, Hauts-de-Seine et Seine-Saint-Denis.A noter par exemple, l’installation à Neuillys-sur-Seine (Hauts-de-Seine) du siège de Protera, une startup chilienne créée en 2015 et qui modélise des nouvelles protéines grâce à l’intelligence artificielle.L’hôtellerie restauration plongeSans surprise le secteur de l’hôtellerie-tourisme accuse en revanche une baisse de 56% des projets et de 70% des emplois.Objectif réindustrialisationLes projets de centres de production, eux, ne sont qu’au nombre de 16 en 2020. Ils représentent toutefois environ 500 emplois, soit le double qu’en 2019. ans le secteur de la construction automobile, le nombre de projets s’est lui maintenu mais le nombre d’emplois a connu une baisse de 76 %.Développer l’attractivité régionale pour attirer ce type de projets constitue désormais une priorité. « En 2021, la région Ile-de-France et Choose Paris Region développeront encore le travail collectif, avec pour fil conducteur la volonté d’attirer en Ile-de-France des projets à forte valeur ajoutée environnementale et sociale, tout en réaffirmant l’ambition de rapatrier en Ile-de-France des centres de production créateurs d’emplois durables et à la pointe de l’innovation », assure Franck Margain, président de Chose Paris Region et conseiller régional LR. Parmi les initiatives pour aller en ce sens, le dispositif Relance industrie lancé à l’automne 2020 et qui a permis d’accompagner 161 entreprises franciliennes (pour 70 millions d’euros) dans des relocalisations, implantations ou transformations de sites. Par ailleurs, 26 sites clé en main ont été identifiés pour accueillir des projets industriels.Etats-Unis et Europe en tête des investisseursLes Etats-Unis demeurent le principal pays investisseur en Ile-de-France. Il s’agit aussi du premier pays étranger pourvoyeur d’emplois avec 3 438 emplois créés en 2020 (+23 % par rapport à 2019). Suit l’Allemagne avec 2561 emplois, qui représentent 24 % du total 2020. Le top 5 comprend aussi le Royaume-Uni (qui perd une place en 2020) avec 878 emplois, la Suisse, avec 637 emplois, et l’Espagne, avec 382 emplois. Au total, 42 pays ont investi en Ile-de-France en 2020 contre 38 en 2019.    Abonnez-vous  pour pouvoir télécharger l'article au format PDF. Déjà abonné ? Cliquez ici.  Envoyer à un amiTwitterLinkedInFacebook Cet article est publié dans Entreprises avec comme tags 5G, 78, 92, 94, Bailly-Romainvilliers, Choose Paris Region, Conseil régional d'Ile de France, création d'entreprise, crise sanitaire, Développement économique, Disneyland Paris, Eco Emploi Formation, Entreprise, Entreprises, Franck Margain, Hauts-de-Seine, Industrie, Innovation, Japon, Marne, Massy, Numérique, Val d'Europe, Valérie Pécresse, Yvelines Cet article est publié dans EntreprisesVoir les tags5G789294Bailly-RomainvilliersChoose Paris RegionConseil régional d'Ile de Francecréation d'entreprisecrise sanitaireDéveloppement économiqueDisneyland ParisEco Emploi FormationEntrepriseEntreprisesFranck MargainHauts-de-SeineIndustrieInnovationJaponMarneMassyNumériqueVal d'EuropeValérie PécresseYvelines Aucun commentaire Laisser un commentaire Annuler la réponseVotre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués avec *Commentaire *  ME CONNECTER   OUNom * E-mail * Site web Ajoutez une photo  (Types de fichiers autorisés: jpg, gif, png, taille de fichier maximum: 20MB. N'envoyez que des photos que vous avez prises vous-même, ou libres de tout droit. Les photos sont publiées sous votre responsabilité. Ajouter une photo Notifiez-moi des commentaires à venir par e-mail. Vous pouvez aussi vous abonner sans commenter.  Δ  Je m'abonne à titre individuel (6,90€ par mois)    Je m'abonne à titre professionnel (Télécharger nos tarifs)	  Je m'abonne à titre individuel (6,90€ par mois)  Je m'abonne à titre professionnel (Télécharger nos tarifs) Je fais un don (Tous les dons sont déductibles des impôts) RECEVEZ NOTRE NEWSLETTERChoisissez le département  Val-de-Marne  Seine-Saint-Denis   A chaudChristian Larger sur Législatives 2024 : les visages des 11 nouveaux députés du Val-de-MarneFélicitations à 94 Citoyens pour sa réactivité et son travail. Pour les soirées électorales (mais pas que...), vous êtes…„Cécile Dubois sur 2e tour des législatives en Val-de-Marne : enjeux et candidats dans la 8ème circoCar les députées de Vitry, Mathilde Panot (10e circo) et Isabelle Santiago (9e) ont été élues au 1er tour.…„Vincent sur Législatives 2024 en Val-de-Marne #10 : les 18 candidats de second tourJean brun ex libres une coquille vide de retour au LR qui d'avec des accords de non agression se retrouve élu....nous verrons…„Vincent sur Législatives 2024 : La droite sort renforcée en Val-de-MarneIl a sauvé son poste avec des petits accords de non agression soit mais franchement de quoi s'interroger sur les électeurs de…„Vincentz sur Législatives 2024 : les visages des 11 nouveaux députés du Val-de-MarneLe porte-manteau de lafon réélu dans 4ème ! Merci aux électeurs de la ville de Sucy et bonjour la galère pour Chennevieres…„ ANNONCES LÉGALES Je soutiens 94 Citoyens : Je m'abonne.    Soutenez Citoyens.com, faites un don :       PublicitéMerci de votre lecture !Nous mettons nos articles en ligne gratuitement afin quʼils puissent être lus par tous mais lʼinformation a un coût :Abonnez-vous pour nous soutenir et voir 94 Citoyens sans publicité  Votre publicité sur 94 Citoyens ?  Cliquez ici ou Appelez le 01 48 76 69 86  Je soutiens 94 Citoyens : Je m'abonne.  ",https://schema.org,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#article', 'isPartOf': {'@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html'}, 'author': {'name': 'Charles Henry', '@id': 'https://94.citoyens.com/#/schema/person/528d9c1c9f592466b2b6eb81b2afb985'}, 'headline': 'Ile-de-France: moins d&#8217;investissements étrangers en 2020 mais un meilleur impact sur l&#8217;emploi', 'datePublished': '2021-03-18T17:14:07+00:00', 'dateModified': '2021-03-23T08:05:40+00:00', 'mainEntityOfPage': {'@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html'}, 'wordCount': 1220, 'commentCount': 0, 'publisher': {'@id': 'https://94.citoyens.com/#organization'}, 'image': {'@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#primaryimage'}, 'thumbnailUrl': 'https://94.citoyens.com/wp-content/blogs.dir/2/files/2021/03/campus-deloitte-dubuisson.jpg', 'keywords': ['5G', '78', '92', '94', 'Bailly-Romainvilliers', 'Choose Paris Region', ""Conseil régional d'Ile de France"", ""création d'entreprise"", 'crise sanitaire', 'Développement économique', 'Disneyland Paris', 'Eco Emploi Formation', 'Entreprise', 'Entreprises', 'Franck Margain', 'Hauts-de-Seine', 'Industrie', 'Innovation', 'Japon', 'Marne', 'Massy', 'Numérique', ""Val d'Europe"", 'Valérie Pécresse', 'Yvelines'], 'articleSection': ['Entreprises'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#respond']}]}, {'@type': 'WebPage', '@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html', 'url': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html', 'name': ""Ile-de-France: moins d'investissements étrangers en 2020 mais un meilleur impact sur l'emploi | Citoyens.com"", 'isPartOf': {'@id': 'https://94.citoyens.com/#website'}, 'primaryImageOfPage': {'@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#primaryimage'}, 'image': {'@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#primaryimage'}, 'thumbnailUrl': 'https://94.citoyens.com/wp-content/blogs.dir/2/files/2021/03/campus-deloitte-dubuisson.jpg', 'datePublished': '2021-03-18T17:14:07+00:00', 'dateModified': '2021-03-23T08:05:40+00:00', 'breadcrumb': {'@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://94.citoyens.com/2021/ile-de-france-moins-dinvestissements-etrangers-en-2020-mais-un-meilleur-impact-sur-lemploi,18-03-2021.html#primaryimage', 'url': 'https://94.citoyens.com/wp-content/blogs.dir/2/files/2021/03/campus-deloitte-dubuisson.jpg', 'contentUrl': 'https://94.citoyens.com/wp-content/blogs.dir/2/files/2021/03/campus-deloitte-dubuisson.jpg', 'width': 1300, 'height': 870}, {'@type': 'WebSite', '@id': 'https://94.citoyens.com/#website', 'url': 'https://94.citoyens.com/', 'name': 'Citoyens.com', 'description': 'Quotidien d&#039;information locale et citoyenne', 'publisher': {'@id': 'https://94.citoyens.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://94.citoyens.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://94.citoyens.com/#organization', 'name': '94 Citoyens', 'url': 'https://94.citoyens.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://94.citoyens.com/#/schema/logo/image/', 'url': 'https://94.citoyens.com/wp-content/blogs.dir/2/files/2018/01/logo-94-citoyens-2018.jpg', 'contentUrl': 'https://94.citoyens.com/wp-content/blogs.dir/2/files/2018/01/logo-94-citoyens-2018.jpg', 'width': 837, 'height': 357, 'caption': '94 Citoyens'}, 'image': {'@id': 'https://94.citoyens.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/Actu.94.Citoyens', 'https://x.com/94citoyens', 'https://www.linkedin.com/company/94citoyens/', 'https://www.youtube.com/channel/UCS4dH_EyRsyLI9HZc5aXvSA']}, {'@type': 'Person', '@id': 'https://94.citoyens.com/#/schema/person/528d9c1c9f592466b2b6eb81b2afb985', 'name': 'Charles Henry', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://94.citoyens.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/9d5395dbdd434a50abdd8258a057aecc?s=96&d=identicon&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/9d5395dbdd434a50abdd8258a057aecc?s=96&d=identicon&r=g', 'caption': 'Charles Henry'}, 'url': 'https://94.citoyens.com/author/charles9henry4'}]",,,,,,
+https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmhlaWRpLm5ld3Mvc2FudGUvbGUtcHJpbmNpcGFsLWRlZmktZGVzLWlhLW1lZGljYWxlcy1yZXN0ZS1sYS1jb2xsYWJvcmF0aW9uLWVudHJlLWluZm9ybWF0aWNpZW5zLWV0LWNsaW5pY2llbnPSAQA?oc=5,Le principal défi des IA médicales reste la collaboration entre informaticiens et cliniciens - Heidi.news,2021-03-19,Heidi.news,https://www.heidi.news,"Heidi.news est partenaire des Applied Machine Learning Days (AMLD) 2021.
+
+",['intelligence artificielle'],Heidi.news est partenaire des Applied Machine Learning Days (AMLD) 2021.,Heidi.news est partenaire des Applied Machine Learning Days (AMLD) 2021.,N/A,N/A,"
+
+Santé
+Actu
+
+
+    Le principal défi des IA médicales reste la collaboration entre informaticiens et cliniciens
+  
+
+Heidi.news est partenaire des Applied Machine Learning Days (AMLD) 2021.
+
+
+
+
+
+
+
+
+
+ 
+
+
+              Sarah Sermondadaz
+ 
+
+journaliste Science & Climat
+
+
+
+
+Suivre
+
+
+
+
+
+
+Suivi
+
+
+
+Ne plus suivre
+
+
+
+
+
+
+
+
+Suivre
+
+
+
+Pour suivre un auteur ou un tag, vous devez vous connecter ou vous inscrire.
+
+
+Se connecter
+S'inscrire
+
+
+
+
+
+
+
+
+Publié le 19 mars 2021 à 13:30. / Modifié le 19 mars 2021 à 20:41.
+
+
+
+
+Partager
+
+
+
+
+Partager
+
+
+
+
+
+
+
+Partager un lien vers cet article
+
+Copier le lien
+ 
+
+
+Partager cet article par email
+
+Email
+
+
+
+
+Partager cet article sur Whatsapp
+
+Whatsapp
+
+
+
+
+Partager cet article sur Linkedin
+
+Linkedin
+
+
+
+
+Partager cet article sur Facebook
+
+Facebook
+
+
+
+
+Partager cet article sur Twitter
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Extrait d'un logiciel d'imagerie médicale pour examiner les radiographies. | Owen Beard/unsplash
+        
+
+
+
+Où en sont les applications cliniques de l’intelligence artificielle? Tel était le thème de la session du 18 mars des Applied Machine Learning Days 2021, cycle de conférences organisé en ligne par l’EPFL. A cette occasion, plusieurs spécialistes renommés du machine learning ont évoqué les difficultés que pose un tel mariage entre l’informatique et la clinique… mais aussi ses succès les plus prometteurs.Pourquoi on en parle. On nous le promet depuis plusieurs années: l’intelligence artificielle pourrait révolutionner la pratique de  la médecine. Pourtant, même en 2021, on n’y est pas. Pourquoi? La clé, comme souvent, n’est pas seulement dans la technique pure, mais aussi dans le facteur humain: il s’agit de faire coexister les deux disciplines. Et de faire travailler les experts des deux domaines, main dans la main, dès la conception des algorithmes.
+
+
+De l’IA aux intelligences artificielles. On parle encore trop souvent d’intelligence artificielle sous le prisme du «solutionnisme technologique». A savoir, comme des technologies révolutionnaires qui suffiraient à résoudre magiquement tous nos problèmes. Il faut dire que nos imaginaires robotiques empreints de science-fiction nous ont d’abord fait craindre que les machines ne nous remplacent, voire ne prennent un jour le pouvoir…Pourtant, ces «intelligences» numériques ne naissent pas toutes faites, magiquement prêtes à l’emploi. C’est grâce au travail d’informaticiens spécialisés qu’elles apprennent à réaliser leurs tâches. Et surtout, il n’existe pas une, mais des intelligences artificielles. Voire un véritable bestiaire, comme nous l’évoquions fin 2019! Par exemple:
+
+Le machine learning ou apprentissage automatique. On pourrait dire, de façon imagée et en grossissant le trait, qu’il s’agit de construire une sorte de régression linéaire à partir d’un nuage de points
+Le reinforcement learning ou apprentissage par renforcement, où l’algorithme apprend par l’exemple comment déterminer la solution optimale à un problème donné.
+Sans oublier le deep learning, lorsque les algorithmes d’apprentissage exploitent des réseaux de neurones artificiels (il ne faut pas les voir comme des imitations électroniques de neurones, mais comme des simulations numériques). La révolution? L’algorithme se programme alors seul, en fonction des données qu’on lui fournit. C’est ce qu’on appelle l’apprentissage profond: des milliers (voire millions) d’exemples permettront au système d’apprendre à généraliser.
+
+Les IA, en médecine, ne peuvent être entraînées que par l’exemple du praticien humain. Elles ne sauraient donc être développées uniquement par des informaticiens: il faut impliquer dès le début de leur conception des cliniciens, ont rappelé les experts qui intervenaient à l’EPFL.Quelques exemples d’application. Dans les faits, l’intérêt est donc surtout de concevoir des outils d’aide à la décision destinés aux cliniciens. Avec des enjeux très variés! Aide au diagnostic, médecine personnalisée, suivi à long terme des patients… Le répertoire des applications possibles est large.Daniel Rueckert, professeur à l’Imperial College de Londres, illustrait:
+
+«En imagerie, nous travaillons par exemple à des algorithmes qui permettraient d’assister des échographes inexpérimentés à déterminer dans quel plan se situe la tête d’un fœtus. L’intérêt serait aussi d’obtenir des observations plus consistantes dans le temps, qui dépendent moins de l’opérateur. Cette démarche peut aussi être étendue, en radiologie, pour l’identification des différents organes du corps.»
+Julia Vogt, professeur à l’ETH Zurich, rappelait aussi le potentiel de l’IA en médecine personnalisée. Par exemple dans les services de néonatologie, où environ 60% des nouveaux-nés souffriront de jaunisse… des cas qui peuvent devenir graves dans 10% des cas, en l’absence de photothérapie, et qui se déclenche parfois quelques jours après la naissance, lorsque le nouveau-né n’est plus à l’hôpital. Elle raconte comment son équipe a conçu un modèle qui permet de prédire la maladie 48h à l’avance, et de pouvoir réagir en conséquences.
+
+«La pédiatrie est un cas particulier: la dynamique est très rapide, et surtout, on dispose de moins de données médicales, car on ne peut pas multiplier les tests médicaux, par exemple les prises de sang, compte-tenu du faible volume sanguin d’un nouveau-né. On ne peut pas simplement transférer les connaissances que l’on a pour les adultes.»
+D’autres voies sont encore possibles, par exemple améliorer l’adhésion des patients à un traitement, notamment dans le domaine de la santé mentale, expliquait Danielle Belgrave, directrice principale de recherche chez Microsoft Research.De là à parler de success story? C’est là que cela coince encore… pour l’instant. Julia Vogt commente:
+
+«On a vu beaucoup de réussites en termes de recherches et de publications scientifiques, mais on a vu beaucoup moins de projets être déployés en clinique.»
+Les données personnelles. Elles posent évidemment un problème particulier, tant les données médicales, rattachées à une identité, sont des informations privées et sensibles. Un enjeu récurrent est donc celui d’une anonymisation suffisamment forte des données utilisées pour l’entraînement de ces algorithmes. Bernice Elger, professeur de bioéthique à l’Université de Bâle:
+
+«Il y a quatre grandes valeurs en bioéthique:
+
+le respect de l’autonomie du patient, qui passe par l’explicabilité des résultats et le consentement éclairé,
+le bénéfice du patient et le principe de non-malveillance, ce qui passe par le respect de la confidentialité et la réduction des biais susceptibles de mener à des résultats erronés,
+et enfin la justice, qui implique par exemple que les algorithmes ne causent pas de discrimination, ainsi que la question des conflits d’intérêts, autrement dit celle de la transparence et de la responsabilité.»
+
+
+En cas d’erreur, est-ce le développeur de l’IA ou le médecin qui est en tort?
+
+«On pourrait envisager la question comme celle d’une assurance automobile. Ce qui est important, c’est que les médecins comprennent comment fonctionnent ces algorithmes et soient en mesure d’expliquer les enjeux importants aux ingénieurs en retour, afin d’assurer la meilleure protection possible aux patients.»
+Danielle Belgrave soulignait aussi que la santé peut être vue comme un bien commun. Elle rappelait à cet égard la déclaration de Dagstuhl, signée en 2019 par plusieurs chercheurs — elle comprise —  en intelligence artificielle, qui s’engagent à respecter un certain nombre de principes éthiques.L’interdisciplinarité. Ces spécialistes s’accordent sur un point: l’opposition, toute médiatique, entre le médecin et la machine n’a aucun sens. Steve Jiang, professeur à l’Université de Texas Southwestern, martèle: «Remplacer le praticien par une machine, c’est impossible. D’autant plus que la médecine, dans bien des cas, reste un art.»Daniel Rueckert ajoutait:
+
+«En 2017, Geoffrey Hinton, l’un des pères du deep learning, affirmait qu’on pourrait arrêter de former des radiologues. Mais je penche plutôt pour ce que disait le Pr Curstis Langlotz, de Stanford, à savoir que l’IA ne remplacerait pas les radiologues, mais que les radiologues qui utilisent des IA allaient effectivement remplacer les radiologues qui n’en utilisent pas.»
+Julia Vogt constatait également l’enjeu d’une collaboration nourrie et précoce entre les deux champs: «Quand les chercheurs en machine learning travaillent seuls, ils risquent de concevoir des méthodes peu applicables aux problèmes cliniques.» Une solution, expliquait Finale Foshi-Velez, professeure à Harvard, est d’impliquer les cliniciens au plus tôt. «L’idée est d’adopter une approche holistique dès le départ», explique-t-elle.
+
+«Un jour, un de nos modèles fournissait des résultats étranges. Le clinicien a immédiatement été en mesure de mettre le doigt sur le problème: une simple erreur dans le relevé de la tension d’un patient.»
+Steve Jiang abondait en ce sens:
+
+«La médecine et le machine learning sont deux langages différents, qui peuvent être difficiles à comprendre pour qui n’est pas formé. Or, pour réussir, il faut des collaborateurs qui parlent ces deux langues, des échanges réguliers entre les deux mondes. Il ne faut pas non plus oublier les enjeux d’explicabilité des résultats des algorithmes, et d’interprétation des résultats.»
+D’autant plus que mêmes entre cliniciens, les diagnostics peuvent fluctuer. Steve Jiang est revenu sur une étude de cas réalisée avec des confrères, qui montre que l’on peut entraîner un algorithme à reproduire le «style» diagnostic de différents médecins pour des patients après une opération d’un cancer de la prostate. De quoi offrir un second regard…Mais assurément pas de quoi remplacer nos humains en blouse blanche. Conviés à participer aux côtés des informaticiens à la fabrique de ces nouveaux outils, ce sont eux qui décideront de ceux qui répondront — ou non — à leurs besoins.
+
+
+
+
+
+intelligence artificielle
+
+
+
+
+
+Partager
+
+
+
+
+Partager
+
+
+
+
+
+
+
+Partager un lien vers cet article
+
+Copier le lien
+ 
+
+
+Partager cet article par email
+
+Email
+
+
+
+
+Partager cet article sur Whatsapp
+
+Whatsapp
+
+
+
+
+Partager cet article sur Linkedin
+
+Linkedin
+
+
+
+
+Partager cet article sur Facebook
+
+Facebook
+
+
+
+
+Partager cet article sur Twitter
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                Sarah Sermondadaz
+ 
+
+journaliste Science & Climat
+
+
+
+
+Suivre
+
+
+
+
+
+
+Suivi
+
+
+
+Ne plus suivre
+
+
+
+
+
+
+
+
+Suivre
+
+
+
+Pour suivre un auteur ou un tag, vous devez vous connecter ou vous inscrire.
+
+
+Se connecter
+S'inscrire
+
+
+
+
+
+
+
+
+
+Ingénieur de formation, Sarah Sermondadaz a exercé ce métier plusieurs années avant de mettre le cap vers le journalisme scientifique. Elle a rejoint l'aventure Heidi.news à ses débuts, en 2019. Elle a occupé les fonctions de rédactrice en chef adjointe de 2021 à 2022.
+
+
+
+Consulter ses autres articles
+
+ 
+",http://schema.org,NewsArticle,,https://www.heidi.news/,"{'@type': 'WebPage', '@id': 'https://www.heidi.news/sante/le-principal-defi-des-ia-medicales-reste-la-collaboration-entre-informaticiens-et-cliniciens'}",,https://www.heidi.news/sante/le-principal-defi-des-ia-medicales-reste-la-collaboration-entre-informaticiens-et-cliniciens,Santé,,2021-03-19T13:30:00.265+01:00,2021-03-19T20:41:32.515+01:00,"[{'@type': 'Person', 'name': 'Sarah Sermondadaz'}]",https://heidi-17455.kxcdn.com/photos/a81d6e60-7b3b-48f9-8d8b-0c706d6b11bb/large,"{'@type': 'Organization', 'name': 'Heidi.news', 'logo': {'@type': 'ImageObject', 'url': 'https://heidi-17455.kxcdn.com/assets/heidi/icons/logo-9b62fe7a77e2797fe577ded2bfbf49808da8af770b51f7f47749067f5e8b8cf2.png'}}",,,,Heidi.news,Le principal défi des IA médicales reste la collaboration entre informaticiens et cliniciens,Sarah Sermondadaz,,,
+https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmxlYmlnZGF0YS5mci9pYS1zYWxhaXJlLXVuaXZlcnNlbC1vcGVuYWnSAQA?oc=5,"L'IA va créer assez de richesse pour verser un SMIC à chaque adulte, dixit OpenAI - Lebigdata.fr",2021-03-18,Lebigdata.fr,https://www.lebigdata.fr,"Selon OpenAI, l'intelligence artificielle va générer assez de richesse pour verser un salaire universel de 13 500 $ par an à chaque adulte.",N/A,"Selon Sam Altman, co-fondateur de OpenAI, l'intelligence artificielle pourrait créer assez de riches",N/A,Intelligence artificielle,N/A,"
+
+ 
+
+L’IA va créer assez de richesse pour verser un SMIC à chaque adulte, dixit OpenAI
+
+Bastien L. 
+18 mars 2021
+3 minutes de lecture
+
+Intelligence artificielle
+
+
+
+Selon Sam Altman, co-fondateur de OpenAI, l'intelligence artificielle pourrait créer assez de richesse pour permettre de verser 13 500 dollars par an à chaque adulte aux États-Unis. À condition que le gouvernement mette en place un tel système…
+Et si l'intelligence artificielle créait suffisamment de richesse pour permettre de verser l'équivalent d'un SMIC par mois à chaque adulte ? C'est ce que prédit Sam Altman, co-fondateur et président d'OpenAI.
+Selon cet expert à la tête de l'une des plus grandes organisations du secteur de l'IA, chaque adulte aux États-Unis pourrait être payé 13 500 dollars par an d'ici dix ans.
+Dans un billet de blog publié cette semaine, Altman explique :  » mon travail chez OpenAI me rappelle chaque jour la magnitude des changements socio-économiques qui arrivent plus vite que la plupart des gens le croient « .
+Ainsi,  » le logiciel capable de penser et d'apprendre fera de plus en plus le travail que les gens font actuellement « . À ses yeux, la révolution de l'IA peut être comparée aux révolutions agricoles, industrielles et informatiques ayant marqué les dernières décennies.
+Et plus encore. Toujours d'après ses prédictions,  » le progrès technologique que nous effectuerons dans les 100 prochaines années sera bien plus important que tout ce que nous avons créé depuis que nous avons contrôlé le feu pour la première fois et inventé la roue « .
+
+
+L'intelligence artificielle va vous nourrir… ou vous laisser mourir de faim
+D'ici cinq ans seulement, l'intelligence artificielle sera capable de lire des documents légaux et de donner des conseils médicaux. D'ici dix ans, elle pourra faire le travail à la chaîne dans les usines. Dans un délai de seulement quelques décennies, «  l'IA pourra faire presque tout, y compris de nouvelles découvertes scientifiques étendant notre conception du tout « .
+Or, face à cette automatisation massive, les gouvernements doivent réagir de manière adéquate. Dans le cas contraire, la plupart des gens se retrouveront au chômage et en situation de précarité.
+L'intelligence artificielle va «  créer une richesse phénoménale « … mais aussi réduire le coût du travail à néant. Les humains ne peuvent donc pas rivaliser avec les robots.
+La seule solution viable est que le gouvernement collecte et redistribue les richesses générées par l'IA. La richesse proviendra directement des entreprises et des terres, et les gouvernements devront donc taxer le capital plutôt que le travail. Et ces taxes devront être distribuées aux citoyens.
+
+OpenAI dévoile un système de taxe de l'IA et de revenu universel
+Dans son billet de blog, Altman propose la création d'un American Equity Fund taxant les grandes entreprises dont le chiffre d'affaires dépasse le milliard de dollars à hauteur de 2,5% de leur valeur boursière sous forme d'actions et 2,5% de la valeur de toutes leurs terres en dollars.
+Tous les citoyens de plus de 18 ans pourraient ensuite recevoir un paiement sous forme de dollars et d'actions. Dans de telles circonstances, la productivité exponentielle de l'IA pourrait «  rendre la société future nettement moins divisée et permettre à chacun de participer à ses progrès « . En effet, si chacun profite directement de la croissance du pays, la société continuera d'être tirée vers le haut.
+En tenant compte de la valeur totale de 50 billions de dollars des entreprises américaines et des 30 billions de dollars de terrain privé aux États-Unis, Altman calcul que chacun des 250 millions d'adultes vivant aux États-Unis pourraient recevoir 13 500 dollars par an grâce à ce système.
+Si la croissance de l'intelligence artificielle accélère, ce dividende pourrait être encore plus élevé. Quoi qu'il en soit, 13 500 dollars représenteront un pouvoir d'achat largement plus élevé qu'aujourd'hui car l'IA permettra de réduire drastiquement les coûts des biens et des services. Le prix des vêtements, du logement, de l'éducation ou de la nourriture pourrait être réduit de moitié tous les deux ans.
+Ainsi libérés de leurs chaînes par le revenu universel, les individus pourraient laisser l'IA se charger de produire les biens et services et consacrer leur temps libre aux personnes qu'elles aiment, à l'art et à la nature, ou au progrès social.
+Comme l'explique Altman,  » les changements à venir sont inexorables. Si nous les embrassons, nous pouvons les utiliser pour créer une société plus juste, heureuse et prospère. Le futur peut être inimaginablement superbe « .
+Il ne reste donc qu'à espérer que les gouvernements prennent les bonnes décisions pour tirer profit de l'intelligence artificielle. Dans le cas contraire, le rêve pourrait vite se transformer en cauchemar…
+https://youtu.be/jB6zh9gbsAo		
+
+
+
+
+
+
+ Restez à la pointe de l'information avec LEBIGDATA.FR !Abonnez-vous à notre chaîne YouTube et rejoignez-nous sur Google Actualités pour garder une longueur d'avance. 
+
+
+
+
+
+
+Partager l'article : 
+
+
+
+Facebook
+
+
+
+
+
+Twitter
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Notre blog est alimenté par les lecteurs. Lorsque vous achetez via des liens sur notre site, nous pouvons percevoir une commission d’affiliation.
+
+2021-03-18
++Bastien L.
+
+
+",https://schema.org,,,,,,,,,,,,,,,,"[{'@type': 'NewsArticle', '@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#article', 'isPartOf': {'@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai'}, 'author': {'name': 'Bastien L.', '@id': 'https://www.lebigdata.fr/#/schema/person/a11394617ceba2d8fc8d8b2d138f0c9b'}, 'headline': 'L&rsquo;IA va créer assez de richesse pour verser un SMIC à chaque adulte, dixit OpenAI', 'datePublished': '2021-03-18T18:17:43+00:00', 'dateModified': '2021-03-18T18:17:43+00:00', 'mainEntityOfPage': {'@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai'}, 'wordCount': 884, 'publisher': {'@id': 'https://www.lebigdata.fr/#organization'}, 'image': {'@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#primaryimage'}, 'thumbnailUrl': 'https://www.lebigdata.fr/wp-content/uploads/2021/03/intelligence-artificielle-travail-smic.jpg', 'articleSection': ['Intelligence artificielle'], 'inLanguage': 'fr-FR', 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://www.lebigdata.fr/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai', 'url': 'https://www.lebigdata.fr/ia-salaire-universel-openai', 'name': ""L'IA va créer assez de richesse pour verser un SMIC à chaque adulte, dixit OpenAI"", 'isPartOf': {'@id': 'https://www.lebigdata.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#primaryimage'}, 'image': {'@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#primaryimage'}, 'thumbnailUrl': 'https://www.lebigdata.fr/wp-content/uploads/2021/03/intelligence-artificielle-travail-smic.jpg', 'datePublished': '2021-03-18T18:17:43+00:00', 'dateModified': '2021-03-18T18:17:43+00:00', 'description': ""Selon OpenAI, l'intelligence artificielle va générer assez de richesse pour verser un salaire universel de 13 500 $ par an à chaque adulte."", 'breadcrumb': {'@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.lebigdata.fr/ia-salaire-universel-openai']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#primaryimage', 'url': 'https://www.lebigdata.fr/wp-content/uploads/2021/03/intelligence-artificielle-travail-smic.jpg', 'contentUrl': 'https://www.lebigdata.fr/wp-content/uploads/2021/03/intelligence-artificielle-travail-smic.jpg', 'width': 800, 'height': 536, 'caption': 'intelligence artificielle travail revenu universel smic'}, {'@type': 'BreadcrumbList', '@id': 'https://www.lebigdata.fr/ia-salaire-universel-openai#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.lebigdata.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Intelligence artificielle', 'item': 'https://www.lebigdata.fr/intelligence-artificielle'}, {'@type': 'ListItem', 'position': 3, 'name': 'L&rsquo;IA va créer assez de richesse pour verser un SMIC à chaque adulte, dixit OpenAI'}]}, {'@type': 'WebSite', '@id': 'https://www.lebigdata.fr/#website', 'url': 'https://www.lebigdata.fr/', 'name': 'LEBIGDATA.FR', 'description': 'I.A, Cloud &amp; Cybersécurité', 'publisher': {'@id': 'https://www.lebigdata.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.lebigdata.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.lebigdata.fr/#organization', 'name': 'Lebigdata.fr', 'url': 'https://www.lebigdata.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.lebigdata.fr/#/schema/logo/image/', 'url': 'https://www.lebigdata.fr/wp-content/uploads/2021/09/logo_lbd_noir.png', 'contentUrl': 'https://www.lebigdata.fr/wp-content/uploads/2021/09/logo_lbd_noir.png', 'width': 401, 'height': 109, 'caption': 'Lebigdata.fr'}, 'image': {'@id': 'https://www.lebigdata.fr/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/lebigdata/', 'https://x.com/lebigdata_fr', 'https://www.linkedin.com/company/10888265']}, {'@type': 'Person', '@id': 'https://www.lebigdata.fr/#/schema/person/a11394617ceba2d8fc8d8b2d138f0c9b', 'name': 'Bastien L.', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.lebigdata.fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/f48c08550583b2de363fa6783347d3cf?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/f48c08550583b2de363fa6783347d3cf?s=96&d=mm&r=g', 'caption': 'Bastien L.'}, 'description': ""Depuis mon enfance, j'ai toujours été captivé par le monde de la technologie. À chaque fois que je tenais un nouvel appareil entre mes mains ou découvrais une innovation technologique, mon cœur s'emballait d'excitation. Ce n'était pas juste une passion passagère, mais une véritable quête de connaissance qui m'entraînait toujours plus loin, me poussant à imaginer ce que l'avenir pourrait nous réserver. Avec le temps, ce désir d'explorer et de comprendre a mûri, et j'ai ressenti le besoin impérieux de partager ma vision avec le monde. Et comment mieux le faire qu'à travers les mots? C'est pourquoi, avec détermination et enthousiasme, je me suis efforcé de mettre à la pointe de ma plume mes réflexions, mes rêves et mes prédictions technologiques. Mon parcours académique m'a conduit à l'IEJ Paris où j'ai obtenu mon diplôme en 2014. Cette expérience m'a offert une solide base, non seulement en termes de connaissances théoriques, mais aussi en termes d'analyse critique et de perspective sur l'impact de la technologie dans notre société. Fort de cette formation, j'ai eu la chance de rejoindre la rédaction de LeBigData en 2016. Ce site reconnu m'a offert une plateforme idéale pour canaliser ma passion et mon expertise. Depuis lors, je m'efforce de décrypter les tendances, d'analyser les innovations majeures et de les présenter à nos lecteurs avec clarté et précision, dans l'espoir d'éclairer leur compréhension du monde technologique qui nous entoure et qui ne cesse d'évoluer."", 'url': 'https://www.lebigdata.fr/author/bastienl'}]",,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vaXNhcnRhLmNvbS9pbmZvcy9yZWNoZXJjaGUtZGVtcGxvaS1sYS1zdHJhdGVnaWUtcHVibGlxdWUtZGUtamVhbi1sdWMtc2Fuc2NhcnRpZXIv0gEA?oc=5,Recherche d’emploi : la stratégie «publique» de Jean-Luc Sanscartier - Isarta,2021-03-19,Isarta,https://isarta.com,"Quand le marketeur numérique Jean-Luc Sanscartier a quitté son précédent emploi, en novembre dernier, il a décidé de rendre publique sa recherche d’emploi à travers des interventions sur les médias sociaux.","Candidature,",,N/A,N/A,N/A,"
+Recherche d’emploi : la stratégie «publique» de Jean-Luc Sanscartier
+Par Philippe Jean Poirier
+
+
+
+Jean-Luc Sanscartier, courtoisie
+
+19 mars 2021
+Quand le marketeur numérique Jean-Luc Sanscartier a quitté son précédent emploi, en novembre dernier, il a décidé de rendre publique sa recherche d’emploi à travers des interventions sur les médias sociaux.
+L’approche tranche avec le comportement, disons plus « traditionnel » ou « conservateur » de certains chercheurs d’emploi, qui préfèrent mener leurs démarches « en coulisse » tout en maintenant l’apparence qu’ils sont toujours à l’emploi d’une organisation.
+Tout à l’inverse, Jean-Luc Sanscartier a annoncé son nouveau statut de « chômeur » en toute simplicité.
+
+
+Par la suite, le gestionnaire de 37 ans – qui a entre autres travaillé pour Attraction, Bell, le Groupe TVA et Virtuozzo – a commis quelques publications pour mettre de l’avant ses compétences et aussi raconter ses démarches d’entrevues.
+
+
+Sa démarche nous a intrigués; nous avons décidé d’en parler avec lui. Entrevue.
+La décision de parler de votre recherche d’emploi avec autant de transparence, est-ce que c’est venu spontanément ou est-ce qu’il y a une réflexion derrière ce geste?
+Jean-Luc Sanscartier: Dans mon travail, je touche au marketing, alors, oui, me mettre en marché, c’était quelque chose de réfléchi. Je ne voulais pas y aller de manière traditionnelle, en cochant l’option «à la recherche d’un emploi».
+Aussi, ces dernières années, j’étais moins présent sur LinkedIn, alors ma portée était moins grande que sur les groupes professionnels auxquels j’appartiens sur Facebook.
+En faisant des publications de la sorte, j’ai augmenté ma visibilité, puis j’ai reçu des messages de gens que je ne connaissais, pour des emplois. En fin de compte, c’est un peu ça le but. Il faut se rappeler qu’une grande partie des emplois ne sont pas affichés. C’est une manière pour moi d’aller frapper dans ce bassin d’emplois là.
+
+Plusieurs chercheurs d’emploi, à tort ou à raison, sont très discrets lorsqu’ils sont « sans emploi ». Ils font leur démarche en coulisse, tout en laissant un statut d’employé avec une date ouverte. Ce n’est pas le choix que vous avez fait.
+Jean-Luc Sanscartier: En effet! Je l’ai dit haut et fort, sans aucune gêne. Ça s’est bien terminé avec mon précédent employeur, c’est peut-être une différence. Je suis parti de moi-même; j’ai donné un mois et demi de préavis, j’ai aidé à trouver et à former mon successeur.
+Aussi, depuis le début de ma carrière, c’est la première fois que je peux faire cette démarche ouvertement. Et c’est très intéressant, car, en fin de compte, j’ai reçu des offres d’emplois qui m’ont amené à explorer de nouvelles avenues.
+
+Ah oui?
+Jean-Luc Sanscartier: Au départ, je cherchais un poste en marketing numérique, car c’est ce que j’ai fait toute ma vie. Or, en recevant des messages d’entrepreneur qui cherchaient un profil touche-à-tout, je me suis rendu compte que je voulais me diriger davantage vers les opérations – du mois, plus rapidement que j’aurais pensé.
+Les offres et les questions que j’ai reçues sur LinkedIn m’ont fait avancer dans mon cheminement.
+
+Dans une de vos publications, vous relatez une entrevue passée, pour laquelle vous n’avez pas obtenu le poste – vous ne craignez pas de mal paraître devant votre auditoire?
+Jean-Luc Sanscartier: Je ne pense pas que montrer un échec, de nos jours, ce soit mal vu. Il faut se souvenir qu’il n’y a pas si longtemps, on tenait l’événement FailCamp.
+Les gens ne jugent pas l’erreur. Quand j’ai dit que je n’avais pas obtenu l’emploi, j’ai reçu des demandes d’information à propos de ce que je cherchais comme emploi. Montrer qu’on est humain, ça peut juste aider une candidature. On est rendu là, on ne veut pas engager des robots non plus.
+Merci de nous avoir expliqué votre démarche, Jean-Luc. Bonne recherche d’emploi!
+PS : et depuis l’entrevue ? Jean-Luc a finalement décroché un emploi chez Moov AI.
+
+
+Il s’agit d’un poste qui n’était pas affiché sur aucun site, nous a-t-il appris. L’entreprise spécialisée en intelligence artificielle lui a offert un premier mandat d’accompagnement à la suite d’une de ses publications LinkedIn… Évidemment! Le mandat s’est finalement transformé en poste, alors chapeau !
+
+J'aime çaJe n'aime plus Aimer / Partager50%
+
+
+ 
+
+Sur le même thème
+Candidature
+
+
+
+
+
+
+
+ 
+Applications en rafale et théorie du plan B : ô que les jeunes travailleurs ont la gâchette facile!
+
+
+
+
+
+
+
+ 
+Comment maîtriser son stress en entrevue ?
+
+
+
+
+
+
+
+ 
+Recherche d’emploi: un message textuel, c’est bien… Une vidéo, c’est mieux!
+
+
+
+
+
+
+
+ 
+Les nouveaux pièges de l’entrevue d’embauche virtuelle
+
+
+
+ 
+
+
+
+
+",http://schema.org,NewsArticle,,,"{'@type': 'WebPage', '@id': 'https://isarta.com/infos/recherche-demploi-la-strategie-publique-de-jean-luc-sanscartier/'}",,,,,2021-03-22T12:59:09-0400,2021-05-19T11:43:11-0400,"{'@type': 'Person', 'name': 'Philippe Jean Poirier'}","{'@type': 'ImageObject', 'url': 'https://isarta.com/infos/wp-content/uploads/2021/03/jeanlucsanscartier_corpo.png', 'width': 1192, 'height': 1194}","{'@type': 'Organization', 'name': 'Isarta Infos'}",,,,,Recherche d&#039;emploi : la stratégie «publique» de Jean-Luc Sanscartier,,,,
+https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5sYXByZXNzZS5jYS9hZmZhaXJlcy9wb3J0Zm9saW8vMjAyMS0wMy0xNy9pbm5vdmF0aW9uL29teS1sYWJvcmF0b2lyZXMtbWFyaWVyLWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtZXQtc29pbnMtcG91ci1sYS1wZWF1LnBocNIBAA?oc=5,Innovation | Omy Laboratoires: marier intelligence artificielle et soins pour la peau - La Presse,2021-03-17,La Presse,https://www.lapresse.ca,"Rachelle Séguin et Andrea Gomez rêvent grand pour leur entreprise Omy Laboratoires, spécialisée dans les produits de soins pour la peau personnalisés et faits sur mesure. Si l’idée a germé en 2017, elle a demandé beaucoup de travail, de volonté, de temps, de créativité et d’argent pour prendre vie… et maîtriser sa flamboyante envolée ! ",,"Rachelle Séguin et Andrea Gomez rêvent grand pour leur entreprise Omy Laboratoires, spécialisée dans les produits de soins pour la peau personnalisés et faits sur mesure. Si l’idée a germé en 2017, elle a demandé beaucoup de travail, de volonté, de temps, de créativité et d’argent pour prendre vie… et maîtriser sa flamboyante envolée ! ","Rachelle Séguin et Andrea Gomez rêvent grand pour leur entreprise Omy Laboratoires, spécialisée dans les produits de soins pour la peau personnalisés et faits sur mesure. Si l’idée a germé en 2017, elle a demandé beaucoup de travail, de volonté, de temps, de créativité et d’argent pour prendre vie… et maîtriser sa flamboyante envolée ! ",Portfolio,N/A,"
+
+
+
+
+
+
+
+        Portfolio
+    
+
+
+
+
+
+            Innovation
+        
+
+        Omy Laboratoires: marier intelligence artificielle et soins pour la peau
+    
+
+
+
+
+
+
+
+
+
+
+                    PHOTO ERICK LABBÉ, LE SOLEIL
+                
+
+                    Andrea Gomez et Rachelle Séguin ont fondé Omy Laboratoires en janvier 2018.
+                
+
+
+
+
+
+Rachelle Séguin et Andrea Gomez rêvent grand pour leur entreprise Omy Laboratoires, spécialisée dans les produits de soins pour la peau personnalisés et faits sur mesure. Si l’idée a germé en 2017, elle a demandé beaucoup de travail, de volonté, de temps, de créativité et d’argent pour prendre vie… et maîtriser sa flamboyante envolée ! 
+
+
+
+Publié le 17 mars 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maude Goyer
+                    
+Collaboration spéciale
+                    
+
+
+
+« 500 % ! C’est ça, la croissance de notre chiffre d’affaires en un an », lance Andrea Gomez, cofondatrice et directrice générale d’Omy Laboratoires. 
+Fondée en janvier 2018, l’entreprise établie à Québec a démarré ses ventes en mai 2019. Depuis, elles sont en explosion. « On vise un chiffre d’affaires de 5 millions de dollars pour notre troisième année », dit Mme Gomez, enthousiaste et volubile. 
+Aujourd’hui, les deux femmes dans la vingtaine sont à la tête d’un laboratoire à la fine pointe de la technologie qui emploie 32 personnes. Leurs produits phares ? Une crème hydratante pour le visage et un sérum, déclinés en plus de 4000 formulations uniques selon les problématiques (acné, rougeurs, allergies, etc.) et les goûts (texture et odeur) de chacune des clientes. 
+L’intelligence artificielle dans les crèmes
+
+
+
+
+
+
+
+
+
+                    PHOTO ERICK LABBÉ, LE SOLEIL
+                
+
+                    En 24 heures, la formulation unique au client est créée, mise en pot et emballée.
+                
+
+
+
+Bien que l’entreprise ait une quarantaine de points de vente au Québec, la majorité des ventes se font en ligne. La marche à suivre est simple. La consommatrice remplit un formulaire (cela prend approximativement trois minutes) et envoie une photo de son visage. C’est là que l’intelligence artificielle entre en jeu : le logiciel créé par Omy Laboratoires, SkinIA, étudie la photo grâce à une technologie d’analyse cutanée 3D, puis la compare à celles de la banque de données. 
+
+
+
+
+
+
+
+
+
+En 24 heures, la formulation unique est créée, mise en pot et emballée. « Selon la région où on expédie, cela prend entre deux et sept jours ouvrables avant de recevoir sa commande », souligne Rachelle Séguin, cofondatrice et présidente. 
+Dès le départ, réduire le gaspillage, offrir des produits efficaces et de qualité, faire les choses localement et être collé aux besoins de la clientèle étaient au cœur des priorités et des valeurs des deux entrepreneures. Mais mettre tout ça en action ne fut pas un chemin tranquille... « On a pris un an pour faire de la recherche et du développement, dit Mme Séguin, chimiste et détentrice d’une maîtrise en sciences pharmacologiques. C’était important pour nous de faire les choses différemment, d’innover. »
+Course effrénée au financement
+Cette année a été remplie de défis... financiers surtout, révèle Mme Gomez. « On a couru les subventions », indique celle qui est cosméticienne et a étudié en administration et en ressources humaines. « On a cogné à la porte du Conseil national de recherches Canada pour développer les formules. » 
+
+
+On a reçu des bourses scolaires de l’Université Laval, on a reçu de l’aide de la Ville de Québec, du ministère de l’Économie et de l’Innovation, de la Banque de développement du Canada, de Développement économique Canada et d’un ange investisseur.
+
+
+            Andrea Gomez, cofondatrice et directrice générale d’Omy Laboratoires
+        
+
+Les deux femmes ont fait leur chemin dans des organisations d’affaires comme Femmessor et Futurpreneur Canada pour élargir leur réseau. « C’est l’une des clés de notre succès, explique Andrea Gomez. Il a fallu convaincre beaucoup de gens et démontrer la validité de notre projet. » 
+Prendre aussi soin de soi
+Pendant près de trois ans, elles ont roulé à près de 90 heures de travail par semaine. « Nous sommes les piliers, glisse Mme Séguin. Oui, il y a le risque financier, mais il y a aussi la responsabilité sociale et toute la charge mentale qui vient avec ! » Selon Andrea Gomez, ce rythme effréné est lié à la croissance : « C’est allé très vite et nous sommes très exigeantes envers nous-mêmes et envers les autres. Il faut apprendre à prendre soin de nous, pour le bien de notre santé mentale. » 
+Pour les prochaines années, elles mettent le cap sur la manufacture 4.0 pour rendre tout le processus plus fluide et automatiser certaines parties de la production. Elles travaillent aussi sur des emballages écologiques et responsables « à base de fécule de maïs et de canne à sucre », précise Mme Séguin. 
+De plus, la gamme de produits sera élargie sous peu. « On veut créer des routines de soins complètes pour le visage sur mesure et encore plus que jamais, célébrer l’unicité de chaque personne », dit Mme Gomez. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org,NewsMediaOrganization,,https://www.lapresse.ca/#organization,,,https://www.lapresse.ca,,,,,,,,,,,La Presse,,,"{'@type': 'ImageObject', 'url': 'https://static.lpcdn.ca/lpweb/lapresse/img/lp_facebook_1.91x1.png', 'width': 1203, 'height': 630}",1884-10-20,"['https://www.facebook.com/LaPresseFB', 'https://twitter.com/lp_lapresse', 'https://www.linkedin.com/company/la-presse', 'https://www.instagram.com/lp_lapresse', 'https://fr.wikipedia.org/wiki/La_Presse_(Montr%C3%A9al)']"

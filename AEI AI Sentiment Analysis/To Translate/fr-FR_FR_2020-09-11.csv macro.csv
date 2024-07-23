@@ -1,0 +1,635 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,@id,url,name,potentialAction
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS91bmUtaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1wb3VyLW1pZXV4LWFuYWx5c2VyLWxlcy1hcHBlbHMtYXUtc2FtdS0xNDUxNDPSAQA?oc=5,Une intelligence artificielle pour mieux analyser les appels au SAMU - The Conversation Indonesia,2020-09-14,The Conversation Indonesia,https://theconversation.com,Les services du SAMU reçoivent 85 000 appels par jour. Ils contiennent des informations qui permettent de veiller sur la santé générale de la population et son évolution. Comment les en extraire ?,N/A,Les services du SAMU reçoivent 85 000 appels par jour. Ils contiennent des informations qui permettent de veiller sur la santé générale de la population et son évolution. Comment les en extraire ?,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+            Une intelligence artificielle pour mieux analyser les appels au SAMU
+          
+
+
+
+
+Published: September 14, 2020 1:38pm EDT
+
+
+
+
+
+
+
+
+
+
+
+Emmanuel Lagarde, Université de Bordeaux
+
+
+
+Author
+
+
+
+
+
+        Emmanuel Lagarde
+      
+
+
+      Directeur de recherche INSERM, Université de Bordeaux
+    
+
+
+
+
+
+Disclosure statement
+Emmanuel Lagarde a reçu pour cette recherche des financements de l'Agence National de la Recherche
+
+
+Partners
+
+Université de Bordeaux provides funding as a member of The Conversation FR.
+View all partners
+
+We believe in the free flow of informationRepublish our articles for free, online or in print, under a Creative Commons license.Republish this article
+
+
+
+
+
+      Les informations contenues dans les appels reçus par le SAMU permettent de mieux comprendre la santé de la population et son évolution à moyen et long terme.
+      CHU Bodeaux, Author provided
+
+
+
+
+
+ Email
+
+
+ X (Twitter)58
+
+
+ Facebook352
+
+
+ LinkedIn
+
+
+ WhatsApp
+
+
+ Messenger
+
+ Print
+
+
+Chaque jour, les SAMU de France reçoivent environ 85 000 appels. Ce chiffre a presque doublé aux pires moments de la crise de la Covid-19. Le contenu de chaque appel fait l’objet d’un compte rendu informatisé au fur et à mesure des informations collectées par les différents intervenants : l’assistant de régulation médical lors de la prise d’appel, le médecin régulateur et l’assistant de régulation médical dédié à l’envoi des moyens et au suivi des bilans.
+Se donner les moyens de suivre les évolutions des motifs de tous ces appels, c’est se doter d’un outil puissant et réactif d’observation de la santé de la population.
+Mais en pratique, nous disposons de centaines de milliers de comptes rendus qui ressemblent par exemple à ça :
+
+
+
+Deux comptes rendus réels d’appels au SAMU – le cas lié à la Covid-19 est évident. Mais comment prendre le temps de lire et classer 85 000 appels par jour ?
+Emmanuel Lagarde, Author provided
+
+
+Pour savoir si l’appel correspondant à ce compte rendu est à classer plutôt dans la catégorie « suspicion de Covid-19 » ou « accident domestique », il suffit de le lire.
+Mais lorsqu’il s’agit de classer les 85 000 appels du jour, la relecture est impossible. On pourrait bien sûr demander aux répondants de classer eux-mêmes ces appels, mais cela pose deux problèmes : d’abord, ils ont autre chose à faire, occupés qu’ils sont à prodiguer leurs conseils aux appelants ou à envoyer les secours les plus appropriés. L’autre raison est que, dans le feu de l’action, ils ne disposent pas toujours du recul suffisant pour faire cette classification sans être influencés par divers facteurs : pression de l’urgence, situation épidémique, priorité donnée à d’autres dossiers, sensibilité individuelle à tel ou tel dossier par exemple. C’est pour ces raisons que les tentatives faites jusque-là ont échoué à mettre en place un système de codage satisfaisant.
+Un outil récent de l’intelligence artificielle à la rescousse
+Nous développons une solution utilisant l’intelligence artificielle pour effectuer ce travail de classification, car elle possède deux qualités bien utiles : elle opère quasi instantanément et de manière totalement indépendante du contexte.
+Pour construire un outil permettant de réaliser cette tâche, nous avons fait appel à une technologie issue d’une avancée très récente dans le domaine de l’intelligence artificielle qui porte un nom de blockbuster : le « Transformer ». Cette technologie est construite en deux phases : la première consiste à montrer au Transformer un nombre aussi grand que possible d’exemples de comptes rendus pour lui apprendre à écrire « à la manière » de ces comptes rendus. La deuxième étape consiste à entraîner le Transformer à réaliser la tâche de classification en lui « montrant » des exemples de comptes rendus avec la bonne classification, réalisée pour cette phase d’apprentissage par un humain. Plus on lui montre d’exemples, meilleur sera le Transformer lorsqu’il aura à faire la classification lui-même.
+Nous avons appliqué notre Transformer aux données issues du centre 15 du SAMU de la Gironde, avant, pendant et après la période de confinement pour observer les tendances dans le motif des appels.
+
+
+
+Admissions aux urgences en Gironde et les appels au SAMU 33 correspondant à des symptômes grippaux, extrait par le Transformer de l’ensemble des appels.
+Emmanuel Lagarde, Author provided
+
+
+Ceci nous a appris que le nombre d’appels pour symptômes grippaux a connu un pic très important trois jours avant le début du confinement, deux semaines avant l’arrivée de patients présentant des symptômes évocateurs de Covid-19 aux urgences. On constate aussi des pics d’appels, plus tardifs, pour douleur thoracique et stress et anxiété (non représentés sur la figure), contemporains des admissions aux urgences. Les appels pour douleur thoracique correspondent en fait à des patients qui présentent des difficultés ou des détresses respiratoires, signant pour ceux atteints de la Covid-19 un stade plus grave de la maladie. Le pic des appels pour stress et anxiété témoigne pour sa part de l’inquiétude que génère ce début d’épidémie.
+Il ne s’agit là que de résultats préliminaires. Nous travaillons par exemple aujourd’hui à construire des indicateurs qui permettraient de mieux distinguer les signes d’épidémie, de façon par exemple à différencier le plus tôt possible une poussée de Covid-19 de celle de la grippe saisonnière.
+Comment les « Transformers » ont révolutionné les outils de lecture de texte automatiques
+Le Transformer est le dernier rejeton des techniques d’analyse du langage, qui évoluent très vite.
+Les applications les plus connues sont sans doute les outils de traduction automatique, par exemple l’impressionnant DeepL, mais ces techniques sont aussi mises en œuvre pour « comprendre » les textes. C’est ce qui est utilisé par exemple lorsque vous faites une recherche en langage naturel sur un moteur de recherche.
+Elles peuvent aussi être utilisées pour des tâches de classification. À partir d’un texte, on peut par exemple demander à la machine de produire un résumé ou de répondre à des questions le concernant.
+Pourtant, à la fin des années 80, ça semblait mal parti pour la communauté scientifique de l’apprentissage automatique : les ordinateurs d’alors, dotés des algorithmes d’alors, ne réussissaient pas à assimiler la grammaire et la structure sémantique du langage humain.
+Plusieurs stratégies apparaissent dans les années suivantes. Elles sont basées sur des modèles statistiques dont les paramètres s’affinent au fur et à mesure de l’apprentissage et elles ne fournissent pas des résultats, mais seulement des probabilités de résultats : dans notre exemple, le Transformer ne dirait pas qu’un compte rendu doit être classé comme un syndrome grippal. Il dira que la probabilité que ce soit le cas est de 90 %.
+Dans les années 2010, l’utilisation d’algorithmes informatiques qui singent de manière grossière le fonctionnement des réseaux de neurones renouvelle le domaine, en permettant enfin de réaliser des « apprentissages profonds », avec de nouvelles performances.
+
+
+
+
+      Read more:
+      Intelligence artificielle : les défis de l’apprentissage profond
+
+
+
+
+Parmi ces réseaux de neurones dits « artificiels », la famille dont fait partie le Transformer se caractérise par des modèles qui permettent de traiter les données dites « séquentielles », comme les données météo ou les suites de mots qui forment des phrases. Le Transformer apparaît en 2018, et ses performances étonnantes révolutionnent aujourd’hui la discipline.
+Pourquoi Transformer est-il aussi puissant ?
+Pour faire court, le Transformer est construit pour tirer des leçons des interrelations entre les différents morceaux d’une phrase (par exemple des mots ou des morceaux de mots) à partir de la lecture d’une grande quantité de textes.
+Dans une première phase, dite d’« apprentissage non supervisé », le Transformer est rendu capable de produire des textes artificiels indistinguables de textes produits par des humains. On lui montre pour cela le plus grand nombre de textes possible – dans notre cas, environ 300 000 comptes rendus. À la fin de cette phase, le modèle est capable de prédire le mot qui suit une série de mots donnés. Par exemple, si on entre la phase « le petit chat s’approche du chien avec », le système proposera comme mot suivant « précaution », ou encore le mot « son ». On peut ainsi construire de manière itérative un texte artificiel en répétant le processus avec comme nouvelle phrase d’amorce « le petit chat s’approche du chien avec son ».
+
+
+
+
+      Read more:
+      Vous avez dit « machine learning » ? Quand l’ordinateur apprend à apprendre
+
+
+
+
+Le Transformer devient ainsi une machine à produire du texte synthétique. Si le résultat peut être tour à tour surprenant, abscons, amusant ou pertinent, produire du texte artificiel n’a pas beaucoup d’utilité en soi. Mais il permet, et c’est là toute sa puissance, de construire un système dédié à une tâche à moindre effort. Pour nous, il permet de classer ces comptes rendus grâce à la deuxième phase d’apprentissage, dite supervisée.
+
+
+
+Voici deux exemples de comptes rendus artificiels produits par notre Transformer après avoir lu 300 000 comptes rendus d’appels au SAMU.
+Emmanuel Lagarde, Author provided
+
+
+Cette deuxième phase d’apprentissage change de nature : on montre cette fois au modèle des couples formés du texte à classer et de la bonne classe, déterminée par un codeur humain. Grâce à la première phase d’apprentissage au cours de laquelle le modèle a appris à construire des phrases intelligibles, dans laquelle des notions sémantiques ont été intégrées, les exemples nécessaires pour apprendre une tâche utile deviennent très peu nombreux. Un peu comme un enfant à qui il n’est pas utile de montrer 10 000 fois comment fonctionne un biberon, un jouet ou un téléphone pour qu’il en maîtrise l’usage.
+C’est ce Transformer, entraîné cette fois-ci de manière « supervisée » – c’est-à-dire avec des exemples de résultats attendus, qui nous permet pour chaque appel de déterminer automatiquement quels sont les symptômes évoqués, ou quel est la nature de l’événement concerné, un accident de la route, une chute, une toux inquiétante ou un malaise.
+
+Cet article a été co-écrit par la Dr Catherine Pradeau du service SAMU-SMUR et par le Dr Cédric Gil-Jardine du service des Urgences du Centre Hospitalier Universitaire de Bordeaux.
+
+
+
+
+
+santé
+
+
+apprentissage
+
+
+intelligence artificielle (IA)
+
+
+informatique
+
+
+santé publique
+
+
+algorithmes
+
+
+langage
+
+
+urgences
+
+
+SAMU
+
+
+apprentissage profond
+
+
+classification
+
+
+
+
+
+
+
+
+
+",,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmxlY2hvLmJlL3NhYmF0by9tb2RlL2V0LXNpLWxhLW1vZGUtZXRhaXQtY3JlZWUtcGFyLXVuLWFsZ29yaXRobWUvMTAyNTE2MzIuaHRtbNIBAA?oc=5,Et si la mode était créée par un algorithme? - L'Echo,2020-09-15,L'Echo,https://www.lecho.be,"Pour la collection hiver 2020 d’Acne Studios, un artiste spécialisé dans l’intelligence artificielle a composé un algorithme qu’il a nourri de toutes les créations précédentes du label. L'effet est bluffant.",N/A,"Pour la collection hiver 2020 d’Acne Studios, un artiste spécialisé dans l’intelligence artificielle a composé un algorithme qu’il a nourri de toutes les créations précédentes du label. L'effet est bluffant.","Pour la collection hiver 2020 d’Acne Studios, un artiste spécialisé dans l’intelligence artificielle a composé un algorithme qu’il a nourri de toutes les créations précédentes du label. L'effet est bluffant.",Sabato,N/A,N/A,,,,,,,
+https://news.google.com/rss/articles/CBMikAFodHRwczovL2l0c29jaWFsLmZyL2NvbnRlbnVzL2FjdHVhbGl0ZXMvNzUtZGVzLXBldGl0ZXMtZW50cmVwcmlzZXMtZnJhbmNhaXNlcy1hY2NlbGVyZW50LWxldXItdHJhbnNmb3JtYXRpb24tbnVtZXJpcXVlLWVuLXJhaXNvbi1kZS1sYS1wYW5kZW1pZS_SAQA?oc=5,75 % des petites entreprises françaises accélèrent leur transformation numérique en raison de la pandémie - IT SOCIAL - IT Social,2020-09-15,IT Social,https://itsocial.fr,N/A,N/A,"Une nouvelle étude Cisco a évalué en détail le parcours de transformation numérique des petites entreprises dans huit pays, dont la France Seulement 2/3 des petites entreprises ont aujourd’hui entrepris des projets liés au numérique et ceux-ci restent fragiles et limitésDans les 18 prochains mois, les petites entreprises françaises indiquent qu'elles vont investir dans le travail à […]",N/A,N/A,N/A,"
+
+
+
+
+CONTENUSACTUALITES
+
+75 % des petites entreprises françaises accélèrent leur transformation numérique en raison de la pandémie
+
+Par Léa Faure -   15/09/2020 
+
+
+
+ 
+
+
+
+
+
+   
+Une nouvelle étude Cisco a évalué en détail le parcours de transformation numérique des petites entreprises dans huit pays, dont la France
+
+
+Seulement 2/3 des petites entreprises ont aujourd’hui entrepris des projets liés au numérique et ceux-ci restent fragiles et limitésDans les 18 prochains mois, les petites entreprises françaises indiquent qu'elles vont investir dans le travail à distance (32 %) ou encore le développement de solutions numériques (27 %)Les petites entreprises françaises pourraient accroître le PIB du pays de 208 milliards de dollars d'ici 2024 grâce à leur transformation numérique
+
+
+L'étude menée par IDC en juin 2020 pour Cisco tente de mieux comprendre les opportunités et les défis auxquels les petites entreprises sont actuellement confrontées, ainsi que la corrélation entre la maturité numérique et une reprise économique plus rapide. Pour comprendre le niveau de maturité de la numérisation des petites entreprises, IDC a mis au point un cadre qui les aide à évaluer clairement leurs capacités actuelles et à comprendre où elles se situent sur un indice numérique à quatre niveaux – allant du stade le plus précoce de Digital Indifferent au plus avancé de Digital Natives.
+
+
+« La pandémie de COVID-19 a creusé davantage le fossé numérique sur le marché des petites entreprises et les oblige donc à accélérer leur transformation », déclare Daniel-Zoe Jimenez, AVP, Head Digital Transformation & SMB research, chez IDC. « Les petites entreprises réalisent que la numérisation n'est plus une option, mais une question de survie ».
+
+
+Le parcours de transformation numérique des petites entreprises en France
+
+
+En ce qui concerne la reprise pendant et après la pandémie, les petites entreprises qui se trouvent dans les phases 3 et 4 de maturité ont le taux de reprise le plus élevé, sont capables de réagir plus rapidement aux changements du marché et augmentent leurs revenus à un rythme plus élevé.
+
+
+En France, 59 % des petites entreprises n’en sont qu’à la phase 2 (Observers) et 21 % en sont à la phase 3 (Challengers). Elles sont donc plus matures que la moyenne mondiale qui sont respectivement de 50 % dans la phase 2 et 20 % dans la phase 3.Pourtant, seules 12 % déclarent qu'elles sont prospères et estiment que leurs entreprises sont agiles et résilientes.À l'inverse, 29 % sont toujours en « mode de survie » et 50 % se concentrent sur la croissance ou la reconstruction de leur entreprise.Les petites entreprises françaises pourraient accroître le PIB du pays de 208 milliards de dollars d’ici 2024 grâce à leur transformation numérique.
+
+
+La technologie est la clé de la reprise mais implique de relever certains défis
+
+
+« Dans ce contexte de crise sanitaire que nous traversons, la numérisation n'est plus un choix pour les petites entreprises, c'est une nécessité. En France, plus de 75 % d’entre elles accélèrent la numérisation de leurs activités suite à la pandémie » explique Christine Bertolus, Responsable commercial PME chez Cisco France. « Mais ce n’est pas évident car même si les technologies du numérique sont aujourd'hui plus largement disponibles et contribuent à l'égalité des chances, les petites entreprises sont confrontées à de nombreux défis comme la pénurie de talents numériques ou encore le manque de budget. »
+
+
+Les méthodes de travail (13 %), la production (13 %), la sécurité des employés (12 %) et les ventes (10 %) sont les domaines d'activité les plus touchés par la pandémie pour les petites entreprises françaises.En outre, la pénurie de compétences et de talents numériques (14 %), le manque de budget/engagement (13 %), la résistance culturelle au changement (12 %) et le manque d'esprit numérique ainsi que les enjeux culturels dans l'organisation (12 %) sont des défis majeurs pour elles, même en dehors de la pandémie.
+
+
+L’investissement dans des domaines clés
+
+
+En France, cette crise a rendu les petites entreprises plus dépendantes de la technologie (94 %) et plus conscientes de l'importance de la numérisation. 42 % d’entre elles prévoient que plus de 30 % de leur activité sera numérique d'ici 2021.
+
+
+En ce qui concerne les investissements technologiques au cours des 18 prochains mois, les petites entreprises françaises prévoient d'investir dans des solutions de cloud computing et de mettre en place une infrastructure sur site, tant pour les logiciels que pour le matériel.
+
+
+La sécurité est essentielle et fait partie des trois principales priorités des petites entreprises en France.Parmi les solutions technologiques, les petites entreprises ambitionnent d’investir dans le travail à distance (32 %), le développement ou la création de solutions numériques (27 %), la vente en ligne (26 %) et la mise en place d'une stratégie numérique (26 %).
+
+
+Recommandations pour les petites entreprises
+
+
+Les petites entreprises du monde entier apprennent à s'adapter au contexte actuel, à surmonter les difficultés et à adopter des technologies qui peuvent les aider non seulement à survivre à cette crise, mais aussi à prospérer après celle-ci. Cependant, beaucoup se demandent encore par où commencer. Cisco et IDC recommandent ce qui suit pour renforcer leur résilience :
+
+
+Développer une feuille de route technologique sur trois ansPrioriser les processus commerciaux essentiels à l'automatisationÉvaluer les technologies dans lesquelles il convient d'investir - avec un focus sur le développement des collaborateurs à distance, une plateforme de e-commerce sécurisée et un réseau avec une solide sécuritéInvestir dans les talents et les compétences axés sur le numériqueTrouver le partenaire technologique qui convient à son projetTirer parti du financement et des équipements reconditionnés pour répondre aux besoins de trésorerie et de budgetSuivre les tendances et les meilleures pratiques de l'industrieSimplifier les process, démarrer petit, apprendre et étendre
+    
+
+
+MOTS CLESDigitalDigitalisationTRANSFORMATION NUMERIQUE 
+Léa Faure  
+ARTICLES SIMILAIRESPLUS DE L'AUTEUR
+
+
+
+
+ 
+
+LexisNexis lance sa solution d’IA générative pour professionnels du droit 
+
+ 
+
+
+
+ 
+
+Orange Business SD-WAN Essentials, une offre de connectivité qui vise les PME 
+
+ 
+
+
+
+ 
+
+Colt signe avec OVHCloud pour assurer la conformité de ses clients européens 
+
+ 
+
+
+
+
+ 
+
+Denodo 9.0 simplifie l’accès et l’exploitation des données pour l’alimentation des LLM 
+
+ 
+
+
+
+ 
+
+MicroStrategy One combine IA et analytique pour remonter les informations à la volée 
+
+ 
+
+
+
+ 
+
+Cloudera lance trois nouveaux assistants IA pour les applications métier, les requêtes SQL et le ML 
+
+ 
+
+
+
+
+ 
+
+Datadog lance LLM Observability pour surveiller des grands modèles de langage 
+
+ 
+
+
+
+ 
+
+Grâce à l’IA, GitGuardian FP Remover réduirait de moitié les faux positifs 
+
+ 
+
+
+
+ 
+
+AI EVERYWERE : De l’IA générative au PC IA, le futur de l’entreprise 
+
+  
+
+ 
+
+
+
+
+Les vidéos Tech les plus waouh 
+Suivre sur LinkedIn✉️ Newsletter quotidienne
+	Recevez notre newsletter quotidienne comme 40,000 décideurs IT  et digital : articles de fond, actualités, interviews, tribunes... 
+
+
+Conférence | On Demand 
+
+
+
+Infographie – Zero Trust 
+
+
+Derniers articles de fond
+
+
+
+
+Intelligence artificielle : les Français restent méfiants 
+Intelligence Artificielle - Articles 03/07/2024 
+
+
+ 
+
+
+
+
+Les défis de sécurité croissants dans les environnements conteneurisés et Kubernetes 
+Cloud & Infrastructure IT - Articles 03/07/2024 
+
+
+ 
+
+
+
+
+La croissance du numérique fléchit en 2024 
+Transformation digitale - Articles 02/07/2024 
+
+
+ 
+
+
+
+
+L’impression 3D s’appuie sur l’intelligence artificielle 
+Intelligence Artificielle - Articles 02/07/2024 
+
+
+ 
+
+
+
+
+Plus de la moitié des dirigeants de TPE considèrent l’IA comme... 
+Intelligence Artificielle - Articles 01/07/2024 
+
+
+ Charger plus Derniers livres blancs
+
+
+
+
+Tirez parti de toute la puissance de l’IA pour les vendeurs 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Stimulez l’innovation avec Microsoft Power Platform et l’IA 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Accélérez votre chiffre d’affaires avec Microsoft Dynamics 365 Sales 
+Intelligence Artificielle - Livres blancs 21/06/2024 
+
+
+ 
+
+
+
+
+Pourquoi votre stratégie de tests end-to-end échoue ? 
+Logiciel & Agilité - Livres blancs 19/06/2024 
+
+
+ 
+
+
+
+
+Groupe Mane : Privileged Remote Access garantit la sécurité et la... 
+Cyberécurité - Livres blancs 19/06/2024 
+
+
+ Charger plus Dernières actualités
+
+
+
+
+LexisNexis lance sa solution d’IA générative pour professionnels du droit 
+Intelligence Artificielle - Actualités 03/07/2024 
+
+
+ 
+
+
+
+
+Orange Business SD-WAN Essentials, une offre de connectivité qui vise les... 
+Cloud & Infrastructure IT - Actualités 03/07/2024 
+
+
+ 
+
+
+
+
+Colt signe avec OVHCloud pour assurer la conformité de ses clients... 
+Cloud & Infrastructure IT - Actualités 02/07/2024 
+
+
+ 
+
+
+
+
+Denodo 9.0 simplifie l’accès et l’exploitation des données pour l’alimentation des... 
+Intelligence Artificielle - Actualités 02/07/2024 
+
+
+ 
+
+
+
+
+MicroStrategy One combine IA et analytique pour remonter les informations à... 
+Intelligence Artificielle - Actualités 01/07/2024 
+
+
+ Charger plus Social Attitude 
+
+ 
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/', 'url': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/', 'name': '75 % des petites entreprises françaises accélèrent leur transformation numérique en raison de la pandémie - IT SOCIAL', 'isPartOf': {'@id': 'https://itsocial.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/#primaryimage'}, 'image': {'@id': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/#primaryimage'}, 'thumbnailUrl': 'https://itsocial.fr/wp-content/uploads/2020/09/88C9D1E7-9A86-4E84-A72B-AFD1E0D7D8A2.jpg', 'datePublished': '2020-09-15T05:15:30+00:00', 'dateModified': '2024-07-01T11:10:39+00:00', 'author': {'@id': 'https://itsocial.fr/#/schema/person/8272d3fe91382df221063503550278d9'}, 'breadcrumb': {'@id': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/#primaryimage', 'url': 'https://itsocial.fr/wp-content/uploads/2020/09/88C9D1E7-9A86-4E84-A72B-AFD1E0D7D8A2.jpg', 'contentUrl': 'https://itsocial.fr/wp-content/uploads/2020/09/88C9D1E7-9A86-4E84-A72B-AFD1E0D7D8A2.jpg', 'width': 2047, 'height': 1151}, {'@type': 'BreadcrumbList', '@id': 'https://itsocial.fr/contenus/actualites/75-des-petites-entreprises-francaises-accelerent-leur-transformation-numerique-en-raison-de-la-pandemie/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://itsocial.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': '75 % des petites entreprises françaises accélèrent leur transformation numérique en raison de la pandémie'}]}, {'@type': 'WebSite', '@id': 'https://itsocial.fr/#website', 'url': 'https://itsocial.fr/', 'name': 'IT SOCIAL', 'description': 'Média IT, Tech et Innovation', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://itsocial.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://itsocial.fr/#/schema/person/8272d3fe91382df221063503550278d9', 'name': 'Léa Faure', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://itsocial.fr/#/schema/person/image/', 'url': 'https://itsocial.fr/wp-content/uploads/avatars/312/0c61194144c62df6ecafd61b9cf377f6-bpfull.jpg', 'contentUrl': 'https://itsocial.fr/wp-content/uploads/avatars/312/0c61194144c62df6ecafd61b9cf377f6-bpfull.jpg', 'caption': 'Léa Faure'}}]",,,,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sZXNwZWNpYWxpc3RlLmJlL2ZyL2FjdHVhbGl0ZXMvZS1oZWFsdGgvbGUtZHItZ2lvdmFubmktYnJpZ2FudGktbm9tbWUtY28tbGVhZGVyLWR1LXdvcmtncm91cC1zYW50ZS1kZS1haTRiZWxnaXVtLmh0bWzSAQA?oc=5,Le Dr Giovanni Briganti nommé co-leader du workgroup santé de AI4Belgium - Le Spécialiste,2020-09-14,Le Spécialiste,https://www.lespecialiste.be,"Depuis deux ans, à l’initiative d’Alexander De Croo, ministre à l’époque de l’Agenda numérique, un groupe d’experts s’investit dans la réflexion du développement de l’intelligence artificielle en Belgique. « AI 4 Belgium » naissait. Un volet santé de ce projet a été lancé. Il sera co-dirigé par le Dr Giovanni Briganti. Le projet  démarre concrètement le  5 octobre prochain avec un colloque digital de 17 à 18h30.",,"Depuis deux ans, à l’initiative d’Alexander De Croo, ministre à l’époque de l’Agenda numérique, un groupe d’experts s’investit dans la réflexion du développement de l’intelligence artificielle en Belgique. « AI 4 Belgium » naissait. Un volet santé de ce projet a été lancé. Il sera co-dirigé par le Dr Giovanni Briganti. Le projet  démarre concrètement le  5 octobre prochain avec un colloque digital de 17 à 18h30.","Depuis deux ans, à l’initiative d’Alexander De Croo, ministre à l’époque de l’Agenda numérique, un groupe d’experts s’investit dans la réflexion du développement de l’intelligence artificielle en Belgique. « AI 4 Belgium » naissait. Un volet santé de ce projet a été lancé. Il sera co-dirigé par le Dr Giovanni Briganti. Le projet  démarre concrètement le  5 octobre prochain avec un colloque digital de 17 à 18h30.",N/A,N/A,N/A,,,,,,,
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYWZyaXF1aW5mb3MuY29tL3BvdXJxdW9pLWxlcy1tZWlsbGV1cnMtZXhwZXJ0cy1lbi1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWlhLXZpZW5kcm9udC1kdS1jb250aW5lbnQtYWZyaWNhaW4v0gEA?oc=5,Tribune: Pourquoi les meilleurs experts en Intelligence Artificielle (IA) viendront du continent africain? - Afriquinfos.com,2020-09-14,Afriquinfos.com,https://afriquinfos.com,Abidjan (© 2020 Afriquinfos)- «L’Intelligence artificielle peut être une chance formidable pour accélérer la réalisation des objectifs de développement,N/A,Abidjan (© 2020 Afriquinfos)- «L’Intelligence artificielle peut être une chance formidable pour accélérer la réalisation des objectifs de développement,N/A,N/A,N/A," 
+
+
+Tribune: Pourquoi les meilleurs experts en Intelligence Artificielle (IA) viendront du continent africain?
+
+
+
+
+
+Afriquinfos Editeur
+
+
+ Publié le 14 septembre 2020
+
+37 Vues		
+
+
+
+
+ 
+
+Share
+
+ 
+
+ 
+
+
+
+
+
+
+
+6 Min de Lecture
+
+
+
+
+
+
+Edith Brou Bleu 
+
+
+
+
+
+SHARE
+
+
+
+
+ 
+
+
+
+
+
+Abidjan (© 2020 Afriquinfos)- «L’Intelligence artificielle peut être une chance formidable pour accélérer la réalisation des objectifs de développement durable. Mais toute révolution technologique entraîne de nouveaux déséquilibres qu’il faut essayer d’anticiper», affirmait Audrey Azoulay, la Directrice générale de l’UNESCO. D’une manière ou d’une autre, nous l’avons déjà expérimentée. En Afrique comme ailleurs, l’Intelligence Artificielle impacte d’ores et déjà notre quotidien et nos activités, quel que soit le secteur, notamment à travers nos smartphones ou nos applications. Pourtant, les leaders dans ce domaine viennent souvent d’Amérique, d’Asie et d’Europe. Mais pourquoi les meilleurs experts ne pourraient-ils pas venir du continent africain ?
+Malgré les chocs extérieurs, l’Afrique connait une solide croissance économique (3,4% en 2019 selon la Banque Mondiale). Mais notre continent doit faire face à de nombreux défis avant d’atteindre le niveau de développement souhaité. La pandémie de Coronavirus qui s’est propagée dans le monde aura des conséquences économiques et sociales néfastes, avec des pertes de production estimées entre 37 et 79 milliards de dollars en 2020, une contraction de la productivité agricole, l’affaiblissement des chaînes d’approvisionnement, la montée des tensions commerciales, la limitation des perspectives d’emploi et l’aggravation des incertitudes politiques et réglementaires. Pour atténuer ces effets, il est primordial de s’adapter rapidement à ces changements et saisir les opportunités offertes par l’IA afin d’aider au renforcement du capital humain et nous engager dans une croissance économique soutenue.
+Pour la jeunesse africaine, les difficultés auxquelles elle est confrontée quotidiennement sont une réserve infinie de possibilités à exploiter. D’ailleurs, on remarque une véritable émulation dans un secteur en plein essor portée par un continent extrêmement jeune où 60% des Africains ont moins de 24 ans. À l’horizon 2050, 35% des jeunes dans le monde seront africains, alors que cette proportion n’était que de 15% en 2000.
+Par ailleurs, Le Kenya a dévoilé en 2007 un service pour répondre à la faible bancarisation de sa population appelé « M-Pesa ». Lancé par l’opérateur mobile Kenyan Safaricom, le service a aujourd’hui révolutionné les paiements mobiles sur tout le continent africain et même en Europe. Il s’agit là du premier système de micro financement et de transfert d’argent par téléphone mobile mis en place en Afrique et dans le monde. Douze ans plus tard, il est classé dans les 10 projets financiers les plus influents, et a propulsé le Kenya au sommet continental en matière d’inclusion financière.
+Autre exemple au Cameroun qui traverse également une crise sanitaire où le ratio médecin/habitant en 2009 est approximativement de 1,1 médecin et 7,8 infirmières et sages-femmes pour 10.000 habitants. Afin de pallier à cette problématique, Arthur Zang, un jeune ingénieur camerounais créée le Cardiopad dont le concept est de reproduire un électrocardiogramme sur une tablette informatique à l’aide d’un logiciel. L’ingénieur permet donc aux cardiologues dans le pays d’analyser à distance les données comme la fréquence cardiaque et la durée des intervalles entre deux battements. En 2016, le Cardiopad fait un vrai succès commercial, et s’exporte déjà au Gabon, en Inde et au Népal. Preuve que l’immense potentiel de créativité des Africains n’est plus à démontrer, à travers le continent.
+Des entreprises telles que Huawei à travers le lancement en juillet 2019 du premier centre d’innovation en Afrique du Sud sur le Cloud et l’Intelligence Artificielle pour stimuler l’innovation et le transfert de compétences grâce au développement d’applications dans l’industrie de l’IA. L’Égypte va également lancer son premier centre national d’IA dans le but de profiter pleinement des TIC pour se hisser au rang mondial des pays à forte croissance socio-économique.
+Ces investissements financiers sont de plus en plus immenses, conjugués aux 725,6 millions de dollars ont été investis dans les startups africaines en 2018. Le nombre de réseaux de business angels ne cesse de croître, ce qui montre que les investisseurs croient dans le potentiel de l’Afrique. Mieux encore, au regard de l’importance de la technologie pour la réalisation des ODD fixés par l’Agenda 2030, plusieurs experts s’accordent à affirmer que les États africains investiront bientôt dans le développement et la mise en œuvre de l’IA.
+En définitive, l’IA paraît être un moyen sûr et efficace pour assurer le développement durable de l’Afrique. Et du fait de l’extrême jeunesse et du potentiel de qualification de son capital humain, elle est à même de devenir le premier réservoir mondial d’experts en IA. La croissance exponentielle de l’usage du smartphone (projeté à 70% en 2024), la digitalisation des bases de données, de la banque en Afrique, de l’urbanisation, l’éducation et la recherche de la bonne gouvernance par la nouvelle génération sont des indicateurs qui nous donnent à espérer sur le futur du continent. Les prochains leaders de ce développement seront bien plus que des experts, si bien orientés et encadrés.
+Edith Brou Bleu, consultante indépendante en communication digitale
+
+
+
+
+
+
+
+ÉtiquettesAbiy Ahmed
+Al-Qaïda
+Amadou Gon Coulibaly
+Andry Rajoelina
+AUDA-NEPAD
+BAD
+Banque africaine de développement
+Boko Haram
+CEDEAO
+CEEAC
+CEMAC
+COMESA
+Communauté Économique et Monétaire de l'Afrique Centrale
+Communauté économique des États de l'Afrique centrale
+Communauté économique des États de l'Afrique de l'Ouest
+Congo Brazzaville
+Congo Kinshasa
+Coronavirus
+Coronavirus au Maroc
+Coronavirus au Nigéria
+Coronavirus en Afrique
+Coronavirus en Afrique du Sud
+Coronavirus en Algérie
+Coronavirus en Égypte
+COVID-19
+Crise
+Cyril Ramaphosa
+EAC
+hot_news
+Ibrahim Boubacar Keita
+Les Lions indomptables
+Marché commun de l'Afrique orientale et australe
+New Partnership for Africa's Development
+ONU
+Organisation des Nations Unies
+Remède du coronavirus
+Sadio Mané
+Sahel
+UEMOA
+Union Africaine
+Union économique et monétaire ouest-africaine
+Vaccin au coronavirus
+Vital Kamerhe
+Élection
+Équipe du Cameroun de football
+ 
+
+
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/', 'url': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/', 'name': 'Tribune: Pourquoi les meilleurs experts en Intelligence Artificielle (IA) viendront du continent africain?', 'isPartOf': {'@id': 'https://afriquinfos.com/#website'}, 'primaryImageOfPage': {'@id': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/#primaryimage'}, 'image': {'@id': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/#primaryimage'}, 'thumbnailUrl': 'https://afriquinfos.com/wp-content/uploads/2020/09/photo-edith-brou-mai-OK.jpg', 'datePublished': '2020-09-14T14:10:47+00:00', 'dateModified': '2020-09-17T22:15:58+00:00', 'author': {'@id': 'https://afriquinfos.com/#/schema/person/e67f7485aee49604b502aeadae79bac3'}, 'description': 'Abidjan (© 2020 Afriquinfos)- «L’Intelligence artificielle peut être une chance formidable pour accélérer la réalisation des objectifs de développement', 'breadcrumb': {'@id': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/#primaryimage', 'url': 'https://afriquinfos.com/wp-content/uploads/2020/09/photo-edith-brou-mai-OK.jpg', 'contentUrl': 'https://afriquinfos.com/wp-content/uploads/2020/09/photo-edith-brou-mai-OK.jpg', 'width': 1000, 'height': 667, 'caption': 'Edith Brou Bleu'}, {'@type': 'BreadcrumbList', '@id': 'https://afriquinfos.com/pourquoi-les-meilleurs-experts-en-intelligence-artificielle-ia-viendront-du-continent-africain/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://afriquinfos.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Tribune: Pourquoi les meilleurs experts en Intelligence Artificielle (IA) viendront du continent africain?'}]}, {'@type': 'WebSite', '@id': 'https://afriquinfos.com/#website', 'url': 'https://afriquinfos.com/', 'name': 'Afriquinfos', 'description': 'L’actualité africaine à la minute', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://afriquinfos.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Person', '@id': 'https://afriquinfos.com/#/schema/person/e67f7485aee49604b502aeadae79bac3', 'name': 'Afriquinfos Editeur'}]",WebSite,https://afriquinfos.com/#website,https://afriquinfos.com/,Afriquinfos,"{'@type': 'SearchAction', 'target': 'https://afriquinfos.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}"

@@ -1,0 +1,1195 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,inLanguage,datePublished,dateModified,mainEntityOfPage,isAccessibleForFree,headline,alternativeHeadline,articleBody,author,image,publisher,itemListElement,hasPart,isPartOf,@id,mainEntity,breadcrumb,speakable,url,thumbnailUrl,articleSection,creator,dateCreated,wordCount,copyrightYear,copyrightHolder,timeRequired,about
+https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3Lm1wZy5kZS8xNzY1MTI1My9raS1rYXVzYWxpdGFldNIBAA?oc=5,Künstliche Intelligenz und Kausalität - mpg.de,2021-10-04,mpg.de,https://www.mpg.de,"Künstliche Intelligenz erkennt Muster schon lange viel besser als wir. Um aber ihren Namen wirklich zu verdienen, müsste sie auch kausale Zusammenhänge verstehen. Am Max-Planck-Institut für Intelligente Systeme in Tübingen arbeiten Forschende genau daran.","künstliche Intelligenz, KI, Kausalität, Max-Planck-Institut für Intelligente Systeme","Künstliche Intelligenz erkennt Muster schon lange viel besser als wir. Um aber ihren Namen wirklich zu verdienen, müsste sie auch kausale Zusammenhänge verstehen. Am Max-Planck-Institut für Intelligente Systeme in Tübingen arbeiten Forschende genau daran.",N/A,N/A,N/A,"
+
+
+
+
+
+
+Startseite
+
+
+
+
+
+Newsroom
+
+
+
+
+
+News
+
+
+
+
+Künstliche Intelligenz und Kausalität
+
+
+
+
+
+
+
+Nicht ohne Grund !
+
+
+
+
+
+
+
+
+
+
+
+
+ 4. Oktober 2021
+
+
+
+Künstliche Intelligenz
+
+
+
+Künstliche Intelligenz erkennt Muster schon lange viel besser als wir. Um aber ihren Namen wirklich zu verdienen, müsste sie auch kausale Zusammenhänge verstehen. Am Max-Planck-Institut für Intelligente Systeme in Tübingen arbeiten Forschende genau daran.
+
+
+
+
+
+
+
+
+
+
+
+Lernen wie ein Mensch: Systeme mit künstlicher Intelligenz sollen zukünftig nicht mehr nur Muster in großen Datenmengen erkennen, sondern auch nachvollziehbar machen, nach welchen Kriterien sie ihre Entscheidungen treffen.
+
+
+          © Luisa Jung für MPG
+        
+
+          Lernen wie ein Mensch: Systeme mit künstlicher Intelligenz sollen zukünftig nicht mehr nur Muster in großen Datenmengen erkennen, sondern auch nachvollziehbar machen, nach welchen Kriterien sie ihre Entscheidungen treffen.
+        
+
+          © Luisa Jung für MPG
+        
+
+
+Text: Thomas BrandstetterUrsache und Wirkung sind überall. Und nicht immer ist das ungleiche Paar so leicht zu erkennen wie beim Dominoeffekt, wo ein Stein den nächsten umstößt. So haben menschliche Entscheidungen oft sehr komplexe Ursachen – und mitunter noch komplexere Auswirkungen. Manchmal beeinflussen sich Dinge auch wechselseitig, etwa wenn unser CO2-Ausstoß die Erde erwärmt und auftauende Permafrostböden weiteres Treibhausgas freisetzen. Und wer ein idyllisches Landschaftsfoto betrachtet, sieht dabei in der Regel Schatten, die ihre Ursache im Licht der Sonne haben.Während wir dank unseres Gehirns kausale Zusammenhänge meist intuitiv erkennen, bereiten diese unseren intelligenten Maschinen noch gehörige Schwierigkeiten. Die Maschinen mögen uns zwar im Auffinden von Mustern und Korrelationen übertreffen, das Konzept von Ursache und Wirkung bleibt ihnen aber in aller Regel verborgen. Die Wissenschaftlerinnen und Wissenschaftler der Abteilung für Empirische Inferenz am Max-Planck-Institut für Intelligente Systeme betrachten diese Unzulänglichkeit als Herausforderung. Unter der Leitung von Bernhard Schölkopf versuchen sie, lernenden Maschinen einen Sinn für Kausalität zu verleihen – und das in so unterschiedlichen Bereichen wie der Suche nach Exoplaneten, dem Klimawandel oder der Vergabe von Krediten.Experimente bringen VerständnisEin Ansatzpunkt ihrer Arbeit ist die Qualität der zur Verfügung stehenden Daten. Die meisten Big-Data-Sätze entstehen aus rein passiver Beobachtung und enthalten keinerlei zusätzliche Informationen darüber, wie sie zustande gekommen sind. So sagen etwa Konto­umsätze, die nur die reinen Geldbeträge und die dazugehörigen Uhrzeiten beinhalten, nichts darüber aus, warum sie getätigt wurden. „Wenn ein System nur passiv Daten sammeln kann, reicht das gewöhnlich nicht aus, um einen kausalen Zusammenhang zu erkennen“, erklärt Julius von Kügelgen, der in der Abteilung für Empirische Inferenz an seiner Dissertation arbeitet. „Leider sind aber 99 Prozent der heute verfügbaren Daten rein passiv gesammelt oder werden zumindest in ihrer Auswertung so behandelt.“ Ein Beispiel dafür sind etwa statistische Daten, aus denen Zusammenhänge wie die Korrelation zwischen dem Schokoladekonsum pro Kopf und der Anzahl der gewonnenen Nobelpreise eines Landes abgeleitet werden können. In diesem Fall gilt das Common Cause Principle, das viele derartige Muster letztlich auf einen kausalen Zusammenhang zurückführt: Entweder beeinflusst eine Größe die andere, oder es gibt eine zusätzliche, dritte Variable, die beide kausal beeinflusst.Die Korrelation selbst zu ermitteln, ist für eine Maschine ein Leichtes. Dazu muss der Algorithmus lediglich einschlägige Statistiken durchforsten und etwaige Muster erkennen. Um den Zusammenhang zu verstehen und eine mögliche Erklärung zu finden, braucht es aber zusätzliche Informationen. Uns Menschen hilft dabei in der Regel ein allgemeines Verständnis darüber, wie die Welt funktioniert. Wir haben schon Schokolade gegessen und wissen, dass sie keinen Einfluss auf die Intelligenz hat. Und weshalb sollte ein gewon­nener Nobelpreis den Schokolade-­konsum ankurbeln? Unsere Überlegungen werden also schnell in Richtung einer dritten Variablen gelenkt, etwa eines starken Wirtschaftssystems, das einerseits zu Wohlstand und Schokolade und andererseits zu einem guten Bildungssystem führt. Da aber einem Computeralgorithmus dieses allgemeine Verständnis fehlt, tappt er angesichts der bloßen Datenlage zwangsläufig im Dunkeln. „Interessanter sind da schon im Experiment gesammelte Daten, wo jemand aktiv in ein System eingreift und etwas verändert“, sagt von Kügelgen. Zum Beispiel zeigt zwar eine genaue Beobachtung schnell eine Korrelation zwischen nassem Boden und Regen auf. Doch ein Experiment, bei dem der Boden mit einem Gartenschlauch und nicht durch Regen nass gemacht wird, enttarnt den vermeintlichen kausalen Zusammenhang.
+
+
+
+
+
+
+
+
+
+
+Nachvollziehbare Kreditvergabe: Anders als in diesem Entscheidungsbaum sind die Kriterien eines Algorithmus, der… [mehr]Nachvollziehbare Kreditvergabe: Anders als in diesem Entscheidungsbaum sind die Kriterien eines Algorithmus, der Kreditwürdigkeit ermittelt, oftmals nicht erkennbar. Max-Planck-Forschende wollen das ändern, damit Menschen gezielt versuchen können, die Bedingungen zu erfüllen. [weniger]
+
+          © GCO nach Amir-Hossein Karimi/MPI für intelligente Systeme, Tübingen
+        
+
+          Nachvollziehbare Kreditvergabe: Anders als in diesem Entscheidungsbaum sind die Kriterien eines Algorithmus, der Kreditwürdigkeit ermittelt, oftmals nicht erkennbar. Max-Planck-Forschende wollen das ändern, damit Menschen gezielt versuchen können, die Bedingungen zu erfüllen.
+        
+
+          © GCO nach Amir-Hossein Karimi/MPI für intelligente Systeme, Tübingen
+        
+
+
+In seiner aktuellen Forschungsarbeit beschäftigt sich von Kügelgen allerdings mit noch schwierigeren Fällen. Ihn treiben Was-wäre-wenn-Fragen um, konkret etwa: Hätte ich den Kredit vielleicht doch bekommen, wenn mein Einkommen höher gewesen wäre? „Künstliche Intelligenz trifft immer öfter Entscheidungen für Menschen, etwa bei der Einschätzung von Kreditwürdigkeit“, sagt der Forscher. „Unser System kann den Leuten bei der Beantwortung der Frage helfen, was sie machen sollen, um ein positives Ergebnis zu erreichen.“ Dazu konstruiert er gemeinsam mit seinem Kollegen Amir Hossein Karimi Parallelwelten. Dort ist zwar vieles genauso wie in der echten Welt, es gibt aber auch Unterschiede wie etwa ein höheres Einkommen für eine bestimmte Person. Doch da dieser Unterschied nicht real ist, gibt es natürlich auch keine experimentellen Daten, die bei der Beantwortung der Was-wäre-wenn-Frage helfen könnten. Um abzuschätzen, wie die parallele Welt aussehen könnte, treffen die Forschenden also Annahmen darüber, wie sich die relevanten Variablen, die den Algorithmus zur Ablehnung des Kredits geführt haben, zueinander verhalten.Üblicherweise sind es harte Fakten wie Einkommen, Alter und Ausbildung beziehungsweise Laufzeit und Höhe des beantragten Kredits, die über die Vergabe entscheiden. Dazu kommen noch zusätzliche Variablen, die zwar schwer messbar ist, den Entscheidungsprozess aber dennoch beeinflussen. Beispiele hierfür wären Faktoren wie der kulturelle Hintergrund oder das Charisma des Antragsstellers, die sich in den Algorithmus eingeschlichen haben. Sie werden als statistisches Rauschen zusammengefasst und müssen abgeschätzt werden. Im so entstandenen kausalen Modell lässt sich dann durchspielen, unter welchen Bedingungen eine Person den Kredit bekommen würde. Zu diesem Zweck wird jeweils eine Variable, etwa das Einkommen, verändert, während alle anderen Variablen gleich bleiben. „Schließlich sollte jeder in der Lage sein, durch einen gewissen persönlichen Aufwand seine Situation zu verbessern“, sagt von Kügelgen. „Dazu muss man aber erst einmal wissen, wie man gewisse Voraussetzungen am besten erfüllt. Und das können einem die bisher eingesetzten Algorithmen nicht sagen.“ Das zugrunde liegende kausale Modell, das beschreibt, wie die einzelnen Faktoren zusammenhängen, muss allerdings von einem Experten stammen. Ganz ohne einen Menschen, der Ahnung von der Sache hat, geht es also noch nicht. An der Kompetenz des Menschen, kausale Zusammenhänge zu verstehen, scheint also in absehbarer Zeit auch im maschinellen Lernen noch kein Weg vorbeizuführen. Und unsere kognitiven Fähigkeiten können natürlich als Vorbild für die Entwicklung intelligenter Maschinen dienen. „Unser Gehirn hat sich im Laufe der Evolution so entwickelt, dass es uns zu höchst kooperativen und sozial interaktiven Tieren gemacht hat“, sagt Martin Butz, der an der Universität Tübingen die Gruppe für Co­gnitive Modeling leitet. „Das erfordert in unterschiedlichen Situationen extrem flexibles Verhalten.“ Deshalb verfügen wir auch über eine interne Modellstruktur, die uns sagt, wie die Dinge in unserer Umgebung miteinander interagieren, welches kausale Prinzip hinter den Zusammenhängen steckt und welche Absichten unsere Mitmenschen antreiben. Als rein reaktive Roboter, die lediglich Muster erkennen und von der Aussicht auf Belohnungen angetrieben werden, wären wir dazu nicht in der Lage.
+
+
+
+
+
+
+
+
+
+
+Für mehr Transparenz: Julius von Kügelgen (links) und Amir Hossein Karimi entwickeln Modelle, die nachvollziehbare… [mehr]Für mehr Transparenz: Julius von Kügelgen (links) und Amir Hossein Karimi entwickeln Modelle, die nachvollziehbare Entscheidungen über eine Kreditvergabe treffen. [weniger]
+
+          © Wolfram Scheible für MPG
+        
+
+          Für mehr Transparenz: Julius von Kügelgen (links) und Amir Hossein Karimi entwickeln Modelle, die nachvollziehbare Entscheidungen über eine Kreditvergabe treffen.
+        
+
+          © Wolfram Scheible für MPG
+        
+
+
+KI-Systeme wie Alpha Zero, ein Programm, das sich 2017 selbst das Schachspielen beigebracht hat, beweisen zwar, dass mit genug Trainingszeit und Rechenleistung auch ein reaktives System komplexes Verhalten lernen kann. Im Vergleich zu der Welt, in der sich Menschen zurechtfinden müssen, ist ein Spiel mit 32 Figuren auf 64 Feldern allerdings recht überschaubar. Außerdem mag Alpha Zero zwar besser spielen als ein Mensch, verstanden hat das Programm das Spiel aber nicht. Deshalb ist es auch nicht in der Lage, jemandem zu erklären, wie man Schach spielt. „Im Gegensatz dazu versucht unser Gehirn unentwegt, Zusammenhänge zu erklären“, sagt Butz. Schon Kleinkinder verstehen kausale Zusammenhänge sozialer Situationen intuitiv. So zeigen etwa entwicklungspsycho­logische Experimente, wie sie einem Erwachsenen, der einen Stapel Bücher trägt, zum Öffnen einer Tür zu Hilfe eilen. Sie erkennen also sowohl die Absicht des anderen, die Türe zu öffnen, als auch die Ursache für die Schwierigkeiten, nämlich die Bücher, aufgrund derer er keine Hand frei hat. Um in einer solchen Situation ähnlich kompetent zu reagieren, müssten Maschinen erst eine eigene Art interner Realität aufbauen, die nicht einfach nur immer wieder überschrieben wird, wenn man sie mit neuen Daten füttert. Sie müssten also in gewisser Weise ein konsistentes Verständnis der Welt ausbilden, wie es auch unserer Wahrnehmung zugrunde liegt. „Davon sind wir noch weit entfernt“, sagt Butz. „Andererseits gibt es aber auch keine Hinweise auf irgendeine Barriere, die es verhindern könnte, dass künstliche Systeme irgendwann menschliche Erkenntnisfähigkeit erreichen oder sogar übertreffen.“Nicht nur soziale Interaktion und andere zeitliche Abläufe sind von Ursache und Wirkung geprägt, auch rein statische Darstellungen, etwa in Form von Fotografien, strotzen von kausalen Zusammenhängen. Sie stecken in den Mechanismen, die das Bild aufbauen, wie etwa der Perspektive, dem eingesetzten Licht und der Unterscheidung zwischen Vorder- und Hintergrund. Nur wer die Zusammenhänge erkennt und voneinander trennen kann, bringt es zu einem robusten Verständnis vom Inhalt eines Bildes. Für Menschen ist das einfach. Wir erkennen etwa eine Tasse auch dann, wenn wir sie aus einer ungewöhnlichen Perspektive oder bei schwierigen Lichtverhältnissen sehen. Und im Gegensatz zu den Machine-Learning-Algorithmen musste dazu niemand uns als Kindern zehn Millionen Bilder von Tassen zeigen.
+
+
+
+
+
+
+
+
+
+
+Taschenlampe vor einem Leuchtturm: Um einen Exoplaneten neben einem Stern zu identifizieren, lernt ein Algorithmus,… [mehr]Taschenlampe vor einem Leuchtturm: Um einen Exoplaneten neben einem Stern zu identifizieren, lernt ein Algorithmus, dessen helles Licht aus den Daten zu entfernen. Dadurch werden in den Daten mit reduziertem Rauschen Strukturen sichtbar, die vorher verborgen waren. Wenn der Algorithmus nun viele solcher Bilder kombiniert und dabei berücksichtigt, dass sich der Planet in den Daten aufgrund der sich drehenden Erde bewegt, tritt das Signal des Planeten klar hervor.   [weniger]
+
+          © ESO; GCO nach Timothy Gebhard/MPI für intelligente Systeme, Tübingen
+        
+
+          Taschenlampe vor einem Leuchtturm: Um einen Exoplaneten neben einem Stern zu identifizieren, lernt ein Algorithmus, dessen helles Licht aus den Daten zu entfernen. Dadurch werden in den Daten mit reduziertem Rauschen Strukturen sichtbar, die vorher verborgen waren. Wenn der Algorithmus nun viele solcher Bilder kombiniert und dabei berücksichtigt, dass sich der Planet in den Daten aufgrund der sich drehenden Erde bewegt, tritt das Signal des Planeten klar hervor. 
+        
+
+          © ESO; GCO nach Timothy Gebhard/MPI für intelligente Systeme, Tübingen
+        
+
+
+Ähnliche, wenngleich deutlich weniger intuitive Zusammenhänge spielen auch in der Astronomie eine Rolle, etwa bei dem Versuch, mit großen Teleskopen wie dem Very Large Telescope (VLT) in Chile Bilder von Exoplaneten aufzunehmen. Auf deren Aufnahmen ist von den Himmelskörpern in aller Regel nämlich nichts zu sehen. Da die Sterne viel heller leuchten, gehen die Planeten, die sie umkreisen, selbst fast vollständig im Rauschen unter. „Das ist in etwa vergleichbar mit dem Versuch, ein Glühwürmchen an einem mehrere Hundert Kilometer entfernten Leuchtturm zu fotografieren, dessen Scheinwerfer direkt ins Objektiv strahlt“, erklärt Timothy Gebhard. Um diese Aufgabe zu lösen, arbeitet er in der Abteilung für Empirische Inferenz an einem Algorithmus, der kausale Zusammenhänge ausnutzt, um den Aufnahmen des VLT trotzdem Bilder von Exoplaneten zu entlocken.Um möglichst viele Daten zu sammeln, richten Astronomen ihre Teleskope gleich für mehrere Stunden auf einen Stern, in dessen Umgebung sie einen Planeten vermuten, und nehmen ein Video auf. Darauf ist um den Stern zunächst nur ein Flackern zu sehen, das vor allem durch Turbulenzen in der Erdatmosphäre verursacht wird. Gebhards Aufgabe besteht nun darin, die Tausende Bilder des Videos so zu kombinieren, dass daraus ein einziges Bild entsteht, auf dem der Planet möglichst klar zu erkennen ist. „In der Physik ist man in der luxuriösen Situation, ein gutes Verständnis der kausalen Zusammenhänge des Messvorgangs zu haben“, sagt der Forscher. Im Grunde zählt der Sensor des Teleskops einzelne Lichtteilchen, die vom Planeten selbst oder vom Stern stammen können, und dazu kommt dann noch das Rauschen aus der Atmosphäre und der Messelektronik. Außerdem wandert der Planet im Laufe der Aufnahme auf einer Kreisbahn um seinen Stern. Jedes Pixel enthält also Photonen, die verschiedene Ursachen haben können. „Wir versuchen, unser kausales Wissen über die Entstehung der Daten auszunutzen, um den Aufnahmen die im Rauschen verborgenen Details zu entlocken“, sagt Gebhard. Letztendlich hilft also auch hier das menschliche Gehirn dem künstlichen System beim Erkennen der Kausalitäten auf die Sprünge.„Über Ursache und Wirkung nachzudenken, bleibt am Menschen hängen“, sagt auch Rüdiger Pryss, Professor für Medizininformatik am Institut für Klinische Epidemiologie und Biometrie der Universität Würzburg. Oft geht es in der Medizin darum, in Patientendaten Muster zu finden, um die Patienten in Gruppen einzuteilen, für die jeweils spezifische Therapien gefunden werden können. Geschieht das mit den gängigen Methoden des maschinellen Lernens, bleibt aber die Frage, warum jemand in einer bestimmten Gruppe gelandet ist, oft unbeantwortet. Die Maschinen können die Gründe für ihre Entscheidungen nicht erklären, und der Mediziner bekommt auch zu wenige Anhaltspunkte, um sie nachvollziehen zu können. Gerade in der Medizin sei es aber unerlässlich, den Menschen an der richtigen Stelle einzubeziehen. Nur er kann den Ergebnissen der Algorithmen Sinn verleihen und muss letztlich auch die daraus abgeleiteten Therapieansätze verantworten. Rüdiger Pryss plädiert also dafür, nicht jedes Problem mit maschinellem Lernen „erschlagen“ zu wollen. „Es gibt sehr mächtige statistische Verfahren, die lange erprobt sind und oft besser zu einem speziellen Anwendungssystem passen“, erklärt der Medizininformatiker. Die seien teils so eindeutig, dass sie das Ursache-Wirkung-Problem weniger aufkommen ließen. Wegen des aktuellen KI-Hypes würden aber viele Anwender instinktiv auf maschinelles Lernen setzen.Eine gesunde Skepsis gegenüber maschinellem Lernen als vermeintlichem Allheilmittel ist also sicher angebracht. Dennoch wäre es natürlich fahrlässig, ganz auf seine Stärken zu verzichten, vor allem wenn es um das vielleicht dringendste Problem unserer Zeit geht, den Klimawandel. Um auch hier kausale Zusammenhänge berücksichtigen zu können, entwickelt Michel Besserve von der  Abteilung für Empirische Inferenz zurzeit einen Algorithmus, der die Effekte von Eingriffen in das globale Wirtschaftssystem automatisch vorhersagen kann. Er soll etwa Politikern in Zukunft dabei helfen, die optimale Strategie zu finden, welche einerseits den Ausstoß von Treibhausgasen minimiert und andererseits möglichst wenige Arbeitsplätze kostet. „Die große Herausforderung dabei ist, dass unser Wirtschaftssystem komplexe Wechselwirkungen zwischen einer Vielzahl von Akteuren mit unterschiedlichen Interessen aufweist“, sagt Besserve. Dabei passt jeder Akteur seine Handlungen an die der anderen an. Will man die Wirtschaft also als kausales Modell beschreiben, treten Kreisläufe auf, in denen sich einzelne Faktoren wechselseitig beeinflussen. „Das daraus resultierende Gleichgewicht zu berechnen, ist wesentlich schwieriger, als wenn die Kausalität immer nur in eine bestimmte Richtung zeigt“, sagt Michel Besserve. Das zugrunde liegende, kausale Modell stammt aus der Ökonomie und beschreibt die Abhängigkeiten und Wechselwirkungen von bis zu 50 unterschiedlichen Sektoren – von Stromerzeugung und Metallverarbeitung über Warentransport bis hin zu Fleischindustrie und Reisanbau. Das ermöglicht es dem Algorithmus, die Veränderungen der Gleichgewichte zu berechnen, die sich ergeben, wenn an einer bestimmten Stelle in das System eingegriffen wird. Dadurch könnten politische Entscheidungsträger bei ihren Überlegungen in Zukunft mehr Variablen berücksichtigen und gleichzeitig unvorhergesehene und unerwünschte Effekte ihrer Eingriffe auf die Wirtschaft vermeiden.„Die Zeit drängt, und wichtige Entscheidungen müssen jetzt getroffen werden“, sagt Michel Besserve. „Darum ist es auch unser Ziel, das neue Werkzeug möglichst schnell zur Verfügung zu stellen und so mitzuhelfen, eine nachhaltige Ökonomie zu entwickeln.“ Sobald Maschinen also in der Lage sind, mit dem Konzept von Ursache und Wirkung umzugehen, könnten sie auch helfen, die ganz großen Aufgaben der Menschheit zu lösen.Auf den Punkt gebrachtAlgorithmen des maschinellen Lernens trainieren anhand großer Datenmengen, Muster zu erkennen, um etwa aus physiologischen Parametern auf eine Erkrankung zu schließen. Ursache und Wirkung verstehen sie jedoch nicht.Forschende des Max-Planck-Instituts für Intelligente Systeme wollen Computern ein Verständnis für Kausalitäten beibringen. Anders als etwa Kinder können Algorithmen die entsprechenden Modelle bislang nicht selbst erlernen, sie müssen von Menschen für spezielle Anwendungen entwickelt werden.Die Max-Planck-Forschenden entwickeln kausale Modelle etwa für eine nachvollziehbare Kreditvergabe, für die Suche nach Exoplaneten oder für die klimapolitische Steuerung eines Wirtschaftssystems. 
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmZ1dHVyYS1zY2llbmNlcy5jb20vZGUvbW9lZ2xpY2hrZWl0ZW4tdW5kLWdyZW56ZW4tZGVyLWt1ZW5zdGxpY2hlbi1pbnRlbGxpZ2Vuel82Njg0L9IBAA?oc=5,Möglichkeiten und Grenzen der künstlichen Intelligenz - Futura,2021-10-06,Futura,https://www.futura-sciences.com,➤ Künstliche Intelligenz: Möglichkeiten und Grenzen ➤ Vorteile und Risiken der künstlichen Intelligenz ✓ Jetzt informieren!,N/A,"Im Laufe der Jahre träumten und träumen die Menschen immer noch davon, etwas zu schaffen, das dem Menschen ähnlich oder sogar besser ist. Eine Erfindung, die","Im Laufe der Jahre träumten und träumen die Menschen immer noch davon, etwas zu schaffen, das dem Menschen ähnlich oder sogar besser ist. Eine Erfindung, die",N/A,N/A,"
+
+ 
+
+5. Oktober 2021
+Windows 11 ist kein Freund der Gamer
+
+Mehr erfahren
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/', 'url': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/', 'name': 'Möglichkeiten und Grenzen der künstlichen Intelligenz', 'isPartOf': {'@id': 'https://www.futura-sciences.com/de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/#primaryimage'}, 'image': {'@id': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/#primaryimage'}, 'thumbnailUrl': 'https://www.futura-sciences.com/de/wp-content/uploads/2021/10/moglichkeiten-und-grenzen-der-kunstlichen-intelligenz.jpg', 'datePublished': '2021-10-06T13:17:22+00:00', 'dateModified': '2024-01-26T10:59:26+00:00', 'author': {'@id': 'https://www.futura-sciences.com/de/#/schema/person/e070078f8b7c28af9948680bb34f1534'}, 'description': '➤ Künstliche Intelligenz: Möglichkeiten und Grenzen ➤ Vorteile und Risiken der künstlichen Intelligenz ✓ Jetzt informieren!', 'breadcrumb': {'@id': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/#primaryimage', 'url': 'https://www.futura-sciences.com/de/wp-content/uploads/2021/10/moglichkeiten-und-grenzen-der-kunstlichen-intelligenz.jpg', 'contentUrl': 'https://www.futura-sciences.com/de/wp-content/uploads/2021/10/moglichkeiten-und-grenzen-der-kunstlichen-intelligenz.jpg', 'width': 1920, 'height': 1080, 'caption': 'Möglichkeiten und Grenzen der künstlichen Intelligenz'}, {'@type': 'BreadcrumbList', '@id': 'https://www.futura-sciences.com/de/moeglichkeiten-und-grenzen-der-kuenstlichen-intelligenz_6684/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': 'https://www.futura-sciences.com/de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Möglichkeiten und Grenzen der künstlichen Intelligenz'}]}, {'@type': 'WebSite', '@id': 'https://www.futura-sciences.com/de/#website', 'url': 'https://www.futura-sciences.com/de/', 'name': 'Futura, Erkunde die Welt', 'description': 'Wir liefern packende News und spannende Antworten auf die Fragen unserer Zeit.', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.futura-sciences.com/de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Person', '@id': 'https://www.futura-sciences.com/de/#/schema/person/e070078f8b7c28af9948680bb34f1534', 'name': 'Marlene', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.futura-sciences.com/de/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/81eb83c35b5b1502b2918857e6cf50cd?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/81eb83c35b5b1502b2918857e6cf50cd?s=96&d=mm&r=g', 'caption': 'Marlene'}}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc2NpZW5jZS5hcGEuYXQvcG93ZXItc2VhcmNoLzE1MjE3MTEyMTQxNDAwMTUzMDE40gEA?oc=5,Künstliche Intelligenz bei Brustkrebs-Früherkennung zu ungenau - APA-Science,2021-10-04,APA-Science,https://science.apa.at,,N/A,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmVzYW51bS5kZS90b2RheS9wb3N0cy96ZW50cmFsZXMtdGVzdGxhYm9yLWZ1ZXItcmV0dHVuZ3Nyb2JvdGVyLWVyb2VmZm5ldNIBAA?oc=5,Zentrales Testlabor für Rettungsroboter eröffnet - esanum,2021-10-01,esanum,https://www.esanum.de,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmFlcnp0ZXplaXR1bmcuZGUvUG9saXRpay9BYmdlb3JkbmV0ZS1pbS1Qb3J0cmFldC1EaXJrLUhlaWRlbmJsdXQtU1BELTQyMzI1Ny5odG1s0gEA?oc=5,Abgeordnete im Gesundheitsausschuss: Dirk Heidenblut (SPD) - Ärzte Zeitung,2021-10-04,Ärzte Zeitung,https://www.aerztezeitung.de,"Wir stellen Ihnen Ihre Kollegen und die Gesundheitspolitiker vor, die Sie im neuen Bundestag vertreten. Dirk Heidenblut (SPD) ist Mitglied im Gesundheitsausschuss des Deutschen Bundestags.","Berufspolitik,Gesundheitspolitik,Krankenkassen","Wir stellen Ihnen Ihre Kollegen und die Gesundheitspolitiker vor, die Sie im neuen Bundestag vertreten. Dirk Heidenblut (SPD) ist Mitglied im Gesundheitsausschuss des Deutschen Bundestags.",N/A,N/A,N/A,"
+
+
+
+
+
+20. Deutscher Bundestag
+Abgeordnete im Gesundheitsausschuss: Dirk Heidenblut (SPD)
+
+
+
+
+Veröffentlicht: 04.10.2021, 04:07 Uhr
+	
+
+
+
+												früher Twitter
+											
+												LinkedIn
+											
+												Facebook
+											
+												WhatsApp
+											
+												Link kopieren
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+Dirk Heidenblut (SPD)
+						© SPD-Parteivorstand / Susie Knoll
+Der SPD-Gesundheitspolitiker Dirk Heidenblut hat mit einem Stimmanteil von 37,8 Prozent das Direktmandat im Wahlkreis Essen II gewonnen. Heidenblut sitzt seit dem Jahr 2013 im Bundestag. Der 60-Jährige ist Mitglied im Gesundheitsausschuss und stellvertretendes Mitglied im Ausschuss für Arbeit und Soziales sowie der Enquete-Kommission „Künstliche Intelligenz“. 
+Im Gesundheitsausschuss ist er Berichterstatter für die Themen Psychiatrie und Psychotherapie, Drogen und Sucht, Zahnmedizin, Rettung und Digitalisierung im Gesundheitswesen. Heidenblut hat Jura in Würzburg und Bochum studiert und ist seit 1987 Geschäftsführer des Arbeiter-Samariter-Bundes Ruhr in Essen, zuletzt nur noch über eine geringfügige Nebentätigkeit. Er ist verheiratet. (iss)  
+
+
+
+Lesen sie auch
+
+
+
+
+
+					© Soeren Stache / dpa / picture alliance
+20. Deutscher BundestagDas sind die Mitglieder des neuen Gesundheitsausschusses
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+					© Felix Zahn / photothek / picture alliance
+BundestagswahlDiese Abgeordneten haben einen Fokus auf Gesundheit
+
+
+ 
+
+
+
+
+
+
+												früher Twitter
+											
+												LinkedIn
+											
+												Facebook
+											
+												WhatsApp
+											
+												Link kopieren
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+Schlagworte:        
+
+
+
+
+
+Bundestagswahl
+
+
+NRW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org/,,NewsArticle,de-DE,2021-10-04T04:07:00+01:00,2021-10-04T04:07:00+01:00,"{'@type': 'WebPage', '@id': 'https://www.aerztezeitung.de/Politik/Abgeordnete-im-Portraet-Dirk-Heidenblut-SPD-423257.html', 'name': '20. Deutscher Bundestag '}",http://schema.org/True,20. Deutscher Bundestag : Abgeordnete im Gesundheitsausschuss: Dirk Heidenblut (SPD),Abgeordnete im Gesundheitsausschuss: Dirk Heidenblut (SPD),"Der SPD-Gesundheitspolitiker Dirk Heidenblut hat mit einem Stimmanteil von 37,8 Prozent das Direktmandat im Wahlkreis Essen II gewonnen. Heidenblut sitzt seit dem Jahr 2013 im Bundestag. Der 60-Jährige ist Mitglied im Gesundheitsausschuss und stellvertretendes Mitglied im Ausschuss für Arbeit und Soziales sowie der Enquete-Kommission „Künstliche Intelligenz“. Im Gesundheitsausschuss ist er Berichterstatter für die Themen Psychiatrie und Psychotherapie, Drogen und Sucht, Zahnmedizin, Rettung und Digitalisierung im Gesundheitswesen. Heidenblut hat Jura in Würzburg und Bochum studiert und ist seit 1987 Geschäftsführer des Arbeiter-Samariter-Bundes Ruhr in Essen, zuletzt nur noch über eine geringfügige Nebentätigkeit. Er ist verheiratet. (iss)","[{'@context': 'http://schema.org', '@type': 'Organization', 'name': 'Springer Medizin, Ärzte Zeitung'}]","[{'@type': 'ImageObject', 'contentUrl': 'https://www.aerztezeitung.de/img/aez-logo-black.png', 'url': 'https://www.aerztezeitung.de/img/aez-logo-black.png', 'width': '618', 'height': '161', 'copyrightHolder': 'Springer Medizin Verlag GmbH'}]","{'@type': 'Organization', 'name': 'Springer Medizin Verlag GmbH, Ärzte Zeitung', 'url': 'https://www.aerztezeitung.de', 'logo': {'@type': 'ImageObject', 'url': 'https://www.aerztezeitung.de/img/logo.png', 'width': 245, 'height': 45}}",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lm1wZy5kZS8xNzYzMjE2NC9tYXNjaGluZW4tZXRoaWstaXlhZC1yYWh3YW7SAQA?oc=5,Maschinen-Ethik - mpg.de,2021-10-04,mpg.de,https://www.mpg.de,"Immer öfter treffen wir im Alltag auf künstliche ­Intelligenz: auf Chatbots im Call­center, auf Roboterkollegen am Fließband oder auf elektronisch gesteuerte Mitspieler beim Gamen. Am Max-­Planck-­Institut für Bildungsforschung in Berlin untersucht Iyad Rahwan mit seinem Team, wie Menschen sich verhalten, wenn sie mit intelligenten Maschinen zu tun haben, und was sie von ihrem künstlichen Gegenüber erwarten.","künstliche ­Intelligenz, Bots, Call­center, Roboter, Gaming, Max-­Planck-­Institut für Bildungsforschung, Iyad Rahwan ","Immer öfter treffen wir im Alltag auf künstliche ­Intelligenz: auf Chatbots im Call­center, auf Roboterkollegen am Fließband oder auf elektronisch gesteuerte Mitspieler beim Gamen. Am Max-­Planck-­Institut für Bildungsforschung in Berlin untersucht Iyad Rahwan mit seinem Team, wie Menschen sich verhalten, wenn sie mit intelligenten Maschinen zu tun haben, und was sie von ihrem künstlichen Gegenüber erwarten.",N/A,N/A,N/A,"
+
+
+
+
+
+
+Startseite
+
+
+
+
+
+Newsroom
+
+
+
+
+
+Artikel
+
+
+
+
+Maschinen-Ethik
+
+
+
+
+
+
+
+Wenn Maschinen mitmischen
+
+
+
+
+
+
+
+
+
+
+
+
+ 4. Oktober 2021
+
+
+
+Künstliche Intelligenz
+
+
+Sozialwissenschaften
+
+
+
+Immer öfter treffen wir im Alltag auf künstliche ­Intelligenz: auf Chatbots im Call­center, auf Roboterkollegen am Fließband oder auf elektronisch gesteuerte Mitspieler beim Gamen. Am Max-­Planck-­Institut für Bildungsforschung in Berlin untersucht Iyad Rahwan mit seinem Team, wie Menschen sich verhalten, wenn sie mit intelligenten Maschinen zu tun haben, und was sie von ihrem künstlichen Gegenüber erwarten.
+Text: Ralf Grötker
+
+
+
+
+
+
+
+
+
+
+
+Kein Spiel mehr: Auf einzelnen Teststrecken sind bereits komplett autonom fahrende Fahrzeuge unterwegs. Doch laut Umfragen vertraut ihnen nur eine knappe Mehrheit der Autofahrer.
+
+
+          © Luisa Jung für MPG
+        
+
+          Kein Spiel mehr: Auf einzelnen Teststrecken sind bereits komplett autonom fahrende Fahrzeuge unterwegs. Doch laut Umfragen vertraut ihnen nur eine knappe Mehrheit der Autofahrer.
+        
+
+          © Luisa Jung für MPG
+        
+
+
+„Fake News“ ist seit 2017, also ungefähr seit Donald Trump das Amt des Präsidenten der USA antrat, laut Duden ein offizieller Begriff der deutschen Sprache. Das Entstehen von Fake News ist eng gekoppelt an die Entwicklung von künstlicher Intelligenz. Ein Beispiel: Künstliche Intelligenz macht es möglich, Fake News mit hoher Reichweite zu erstellen und in den sozialen Netzwerken massenhaft zu verbreiten. Verändert sich dadurch generell das Vertrauen, das wir in Medien­inhalte haben? Verändern Fake News unser Verhalten?Für Iyad Rahwan, seit Ende 2018 Direktor des von ihm neu gegründeten Center for Humans and Machines am Berliner Max-Planck-Institut für Bildungs­forschung, ist dies eine typische Forschungsfrage. Gemeinsam mit seinem Team beantwortet er derartige Problemstellungen nicht mit Umfragen, sondern experimentell – um herauszufinden, welchen Effekt bereits existierende Technologien haben; und, mehr noch, um eine Idee davon zu bekommen, wie sich gerade in den Kinderschuhen befindliche Innovationen in Zukunft auswirken könnten. Das Forschungsprogramm des Centers fasst er in einem einzigen Satz zusammen: Welchen Einfluss haben digitale Technologien, soziale Medien und künstliche Intelligenz auf das mensch­liche Verhalten?„Man muss sich nur einmal vorstellen, jemand hätte in den frühen 2000er-Jahren schon eine Vorstellung davon gehabt, wie sich Facebook und Twitter entwickeln werden, und er hätte Verhaltensexperimente durchgeführt, um zu antizipieren, wie sich die fortschreitende digitale Vernetzung auf die Verbreitung von Falschinforma­tionen auswirken würde“, schwärmt Rahwan. „Man hätte die ganze Situation, die wir heute vorfinden, simulieren können, bevor sie eintrat.“Das Experiment dazu? Im Fall von Fake News, schlägt der Wissenschaftler vor, könne ein Experiment darin bestehen zu untersuchen, wie gut Versuchspersonen es erkennen können, wenn aus existierenden Fotos Personen wegretuschiert werden – was mit Verfahren der künstlichen Intelligenz kinderleicht und für eine große Anzahl von Bildern möglich ist. Gleichzeitig könne man Experimente aufsetzen, um einen Eindruck davon zu bekommen, ob der Einsatz von KI-Verfahren Menschen besonders dazu animiert, andere via Fake News zu manipulieren – „nicht nur, weil die neuen Technologien Manipulationen einfacher machen, sondern auch, weil derjenige, der die Technologie einsetzt, sich quasi nicht selbst die Hände dreckig machen muss“.
+
+
+
+
+
+
+
+
+
+
+
+Vielseitig: Iyad Rahwan hat Informatik studiert, interessiert sich aber auch für psychologische und philosophische Fragestellungen. Im Forschungsbereich Mensch und Maschine am Max-Planck-Institut für Bildungsforschung bringt er diese Themenfelder zusammen.
+
+
+          © Arne Sattler für MPG
+        
+
+          Vielseitig: Iyad Rahwan hat Informatik studiert, interessiert sich aber auch für psychologische und philosophische Fragestellungen. Im Forschungsbereich Mensch und Maschine am Max-Planck-Institut für Bildungsforschung bringt er diese Themenfelder zusammen.
+        
+
+          © Arne Sattler für MPG
+        
+
+
+Die Methoden, derer sich Rahwan bedient, sind improvisiert. Es gibt keine wissenschaftliche Disziplin, die in Gänze bereits die erforderlichen Instrumente bereitstellen würde. „Was wir machen, ist zum großen Teil Science-Fiction-Forschung. Es geht darum, Versuchs­personen dazu zu bringen, sich Situationen vorzustellen, die sie noch gar nicht kennen – und in diesen Situa­tionen Entscheidungen zu treffen.“ Die Wissenschaftlerinnen und Wissenschaftler, mit denen er vorzugsweise zusammenarbeitet, kommen deshalb teils aus der wirtschaftswissenschaftlich geprägten Verhaltensforschung, die mit Simulationen und Laborexperimenten Erfahrung hat, aber auch aus der Psychologie, der Computerwissenschaft, der Anthropologie und der Soziologie.Eine Forschungsarbeit, auf die Rahwan besonders stolz ist und die ihn auch weit über Fachkreise hinaus bekannt gemacht hat, ist ein Experiment mit dem Titel Moral Machine. Das Experiment wird seit Juni 2016 über eine frei zugängliche Onlineplattform durchgeführt. Mehrere Millionen Menschen aus 233 Ländern und Gebieten nahmen bislang teil. Es wird weltweit in Science Centers und in Museen präsentiert und ist auch in zahlreiche Lehrbücher aufgenommen worden. Das Experiment präsentiert ein Dilemma: Ein automatisiert gesteuertes Fahrzeug hält auf eine Gruppe von Fußgängern zu und kann nicht mehr rechtzeitig bremsen. Die künstliche Intelligenz, die das Fahrzeug steuert, kann sich nur noch entscheiden, entweder gegen eine Wand zu fahren (wobei die Insassen des Autos zu Schaden kommen) oder die Fußgänger zu überfahren.Was soll die künstliche Intelligenz tun? Auf welche Entscheidung hin soll sie von ihren Entwicklern trainiert werden? In dem Versuch wurden verschiedene Szenarien abgefragt, die sich unter anderem durch die Anzahl der Fahrgäste und der Fußgänger sowie deren Alter unterschieden. Die Resultate zeigen, dass die meisten mit ihren Entscheidungen versuchen, möglichst viele Menschenleben zu retten, und dass sie der Rettung jüngerer Menschen den Vorzug geben gegenüber der Rettung älterer Personen.Eine Art Gleichnis
+
+
+
+
+
+
+
+
+
+
+Dilemma: Wie soll ein selbstfahrendes Auto handeln, wenn es nicht mehr rechtzeitig bremsen kann? Befragungen zeigen,… [mehr]Dilemma: Wie soll ein selbstfahrendes Auto handeln, wenn es nicht mehr rechtzeitig bremsen kann? Befragungen zeigen, dass eine Mehrheit dafür ist, möglichst viele Menschenleben zu retten. [weniger]
+
+          © GCO nach moralmachine.net
+        
+
+          Dilemma: Wie soll ein selbstfahrendes Auto handeln, wenn es nicht mehr rechtzeitig bremsen kann? Befragungen zeigen, dass eine Mehrheit dafür ist, möglichst viele Menschenleben zu retten.
+        
+
+          © GCO nach moralmachine.net
+        
+
+
+Warum sind solche Erkenntnisse von Belang? Das Szenario, das in dem Versuch präsentiert wurde, zeigt schließlich eine absolute Extremsituation – keine Situation, mit der sich Entwickler selbstgesteuerter Fahrzeuge vornehmlich beschäftigen. Zumindest im deutschen Rechtsrahmen ist es auch nicht vorgesehen, dass autonom gesteuerte Fahrzeuge Abwägungen vornehmen, wen sie im Ernstfall schützen und wen sie, wenn es nicht anders geht, zu Schaden kommen lassen sollten. In Gefahrensituationen, so sieht es die Vorschrift vor, muss das Fahrzeug einfach so schnell wie möglich zum Halten kommen. Punkt.„Man kann das Szenario auch als eine Art Gleichnis verstehen“, verteidigt Rahwan das Experiment. „Denn natürlich müssen selbstfahrende Autos darauf trainiert und programmiert werden, Entscheidungen zu treffen. Lässt man das Auto zum Beispiel näher in der Straßenmitte fahren, wo es mit entgegenkommenden Fahrzeugen kollidieren kann? Oder am Straßenrand, wo die Gefahr besteht, dass es einen Radfahrer streift? Statistisch betrachtet, haben solche Verhaltensregeln durchaus Einfluss darauf, welche Personengruppen zu Schaden kommen und welche eher nicht.“ Natürlich können ethische Fragen nicht dadurch gelöst werden, dass Menschen in einer Umfrage oder in einem Online­experiment entscheiden. „Aber die Politik und diejenigen, die Richtlinien erstellen, sollten zumindest wissen, wie gewöhnliche Leute über solche Fragen denken – auch deshalb, weil sie darauf gefasst sein müssen, ihre Entscheidungen vor einer Öffentlichkeit zu begründen, die vielleicht anderer Meinung ist als sie.“Ein herausstechendes Merkmal von Iyad Rahwans Forschungsarbeiten ist, dass er seine Experimente immer wieder neu erfindet. Die meisten arbeiten mit einer Story, die sich aus vielen Blickwinkeln interpretieren lässt. Gleichzeitig liefern sie im Resultat solide quantitative Ergebnisse. Wie gelangt man zu solchen Forschungsdesigns? „Wichtig ist, dass man es sich erlaubt, offen zu bleiben, und bei einer Fragestellung nicht immer sofort daran denkt, ob sie sich überhaupt mit geeigneten Methoden untersuchen lässt. Man muss wirklich versuchen, die interessanteste Frage zu finden“, meint Rahwan.Was außerdem hilft, ist der Blick über den eigenen Tellerrand. „Ich lese viele populäre Wissenschaftsbücher. Oft komme ich dabei auf Ideen für meine eigene Arbeit. Mein Projekt über die Kooperation zwischen Menschen und Maschinen beispielsweise war vor allem inspiriert von Sachbüchern, die ich zum Thema Kooperation zwischen Menschen gelesen hatte.“ Populäre Wissenschaftsbücher helfen laut Rahwan nicht nur, wissenschaftliche Inhalte einer größeren Öffentlichkeit bekannt zu machen. Sie helfen auch Wissenschaftlern, interdisziplinär zu arbeiten. „Wenn ich in einem fremden Feld stöbere, ist es schwierig für mich, unter den vielen Artikeln aus Fachzeitschriften genau die zu finden, die mich weiterbringen. Bei Wissenschaftsbüchern, die für einen breiteren Leserkreis konzipiert sind, hat hingegen schon eine gewisse Selektion stattgefunden.“In dem erwähnten Projekt zur Kooperation von Menschen und Maschinen testete Rahwan, wie künstliche Intelligenzen zusammenarbeiten können – untereinander und mit Menschen. „Es gibt viele Diskussionen darüber, ob Computer den Menschen ersetzen können. Und die meisten Tests, die es gibt, um das Potenzial von künstlicher Intelligenz zu testen, laufen mit Spielen wie Schach oder Go, wo es immer einen Gewinner und einen Verlierer gibt. Die Interaktionen aber, die in der Realität stattfinden, sehen anders aus.“Die Forschenden untersuchten die Kooperation von Maschinen mit Menschen oder untereinander mithilfe von Kooperationsspielen aus der Spieltheorie. Das bekannteste Kooperationsspiel ist das Gefangenendilemma, in dem zwei Spieler entscheiden müssen, ob sie sich gegenseitig verraten, wenn sie separat als Zeugen befragt werden. Verrät ein Spieler den anderen, zieht er daraus den größten Vorteil, solange der andere schweigt. Halten beide zusammen und sagen nichts, kommen sie immer noch besser weg, als wenn beide den jeweils anderen verraten.Menschliche Züge fördern Kooperation
+
+
+
+
+
+
+
+
+
+
+
+In einem Kooperationsspiel arbeiteten Menschen und Maschinen zunächst nur schlecht zusammen. Als die Beteiligten Textnachrichten austauschen konnten, stieg die Kooperationsbereitschaft deutlich.
+
+
+          © GCO nach Crandall, J.W., Oudah, M., Tennom et al. Cooperating with machines. Nat Commun 9, 233 (2018)
+        
+
+          In einem Kooperationsspiel arbeiteten Menschen und Maschinen zunächst nur schlecht zusammen. Als die Beteiligten Textnachrichten austauschen konnten, stieg die Kooperationsbereitschaft deutlich.
+        
+
+          © GCO nach Crandall, J.W., Oudah, M., Tennom et al. Cooperating with machines. Nat Commun 9, 233 (2018)
+        
+
+
+Rahwan und sein Team testeten das Spiel mit 25 verschiedenen KI-Typen, die Verfahren des maschinellen Lernens anwenden. Die Resultate waren zunächst eher frustrierend. Die meisten Algorithmen schienen mehr oder weniger unfähig zur Kooperation, und selbst der am besten funktionierende Algorithmus konnte nicht erfolgreich mit Menschen kooperieren. Interessant wurde es erst, als das Team sowohl den menschlichen Spielern als auch dem siegreichen Algorithmus aus der ersten Versuchsrunde die Möglichkeit gab, eine Nachricht auszutauschen. Konkret konnten sowohl die menschlichen wie die maschinellen Spieler zu Beginn jeder Runde eine Textnachricht mit Sätzen wie „Tu, was ich sage, oder ich bestrafe dich“, „Ich ändere jetzt meine Strategie“ oder „Gib mir noch eine Chance“ an den Mitspieler senden. Dazu konnten sie sich aus einem vorgegebenen Pool von Textnachrichten bedienen.Getestet wurden sowohl Szenarien, in denen die menschlichen Spieler lügen konnten, als auch Szenarien, in denen dies nicht der Fall war. Die Algorithmen konnten grundsätzlich nicht lügen. Keiner der Spieler kannte die Identität des Gegenübers. Der erstaun­liche Effekt: In den Versuchsläufen ohne zusätzliche Textnachrichten führten Spiele im Szenario „Mensch mit Mensch“ und auch im Szenario „Maschine mit Mensch“ nicht zu besonders kooperativem Verhalten. Das Szenario „Maschine mit Maschine“ schnitt etwas besser ab. Sobald jedoch Textnachrichten als Zusatzelement eingeführt wurden, verdoppelte sich in allen drei Szenarien die Kooperationsbereitschaft.Diese Resultate zeigen dreierlei. Erstens: Selbst ohne die Fähigkeit zur Kommunikation ist die Kooperationsbereitschaft künstlicher Intelligenzen höher als die des Menschen. Zweitens: Die Kooperationsleistung künstlicher Intelligenzen kann erhöht werden, wenn ihr menschliche Züge verliehen werden. Wenn sie kommunizieren können, stellen künstliche Intelligenzen in Sachen Kooperationsbereitschaft alle Teams, an denen Menschen beteiligt sind, deutlich in den Schatten. Drittens: Menschen reagieren anders auf eine künstliche Intelligenz, wenn diese kommuniziert. Tatsächlich konnten in den Experimenten mit Textchat die menschlichen Versuchsteilnehmenden in vielen Fällen die Maschine nicht mehr von einem menschlichen Gegenüber unterscheiden.Ob es einen Grund dafür gibt, dass Algorithmen im Kooperationsspiel erfolgreicher abschneiden als Menschen? „Eine Ursache könnte sein, dass Maschinen sich treu bleiben. Wenn sie mehrere Spielrunden erfolgreich hinter sich gebracht haben, in denen sie von der erlaubten Möglichkeit des nichtkooperativen, auf Eigennutz bedachten Verhaltens keinen Gebrauch gemacht haben, dann werden sie auch in weiteren Runden die Kooperation nicht abbrechen. Menschen ticken hier anders, auch wenn sie mit dieser Strategie beinahe immer verlieren“, meint Iyad Rahwan. Ein anderer Grund könne sein, dass Menschen sich oft an die Zusagen, die sie im Textchat gemacht hatten, nicht gehalten haben. Auch das führt dazu, dass der gemeinsam erzielte Spiel­erfolg sich verringert.Gibt es Dinge, die ein Computer oder eine KI niemals wird tun können? „Schlussendlich, glaube ich, gibt es nichts, was eine KI nicht kann“, sagt Iyad Rahwan. „Aber zumindest für die nähere Zukunft sehe ich dort Grenzen, wo Menschen miteinander auf eine Weise inter­agieren, die ein tieferes psychologisches Verständnis erfordert. Maschinen sind hier deshalb im Nachteil, weil sie nur durch Beobachtung aus menschlichem Verhalten lernen können. Sie können nicht aus den Erfahrungen der eigenen Lebensgeschichte schöpfen und diese Erfahrungen in die Interpretation einer Situation einbringen.“Auf den Punkt gebrachtForschende um Iyad Rahwan gehen der Frage nach, welchen Einfluss digitale Technologien auf das menschliche Verhalten haben.In Experimenten mit Testpersonen untersuchten sie zum Beispiel, unter welchen Voraussetzungen Menschen und Maschinen kooperieren.Ein weiterer Versuch befasste sich mit ethischen Vorgaben für selbstfahrende Autos.
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnNjaHdhZWJpc2NoZS5kZS9yZWdpb25hbC9iaWJlcmFjaC9yaWVkbGluZ2VuL2Rlbi1laW5zYW1lbi1laW5lLWRpZ2l0YWxlLXN0aW1tZS1nZWJlbi0xMTU5NTnSAQA?oc=5,Künstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfen - Schwäbische,2021-10-06,Schwäbische,https://www.schwaebische.de,Künstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfen,"Seniorengenossenschaft, Intelligenz, Seniorenakademie, Pilotprojekt, Kommunikationssystem, Smartwatch, Fachkräftemangel",Künstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfen,N/A,N/A,N/A,"StartseiteRegionalRegion BiberachRiedlingenKünstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfen SeniorengenossenschaftKünstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfenRiedlingen / Lesedauer: 4 minNicht jeder ältere Mensch kann komplizierte digitale Geräte bedienen. Aber mit der eigenen Stimme können die meisten noch kommunizieren. (Foto:  Franziska Gabbert/dpa/Schwäbische.de)Riedlinger Seniorengenossenschaft testet sprachbasiertes Assistenzsystem für hilfsbedürftige MenschenVeröffentlicht:06.10.2021, 09:50Von:Schwäbische.de, Kai Schlichtermann, Eva Winkhart
+
+Artikel teilen:Bereits registriert?AnmeldenRegistrieren Sie sich, um weiterzulesen. Es ist kostenlos und bietet weitere Vorteile.Uneingeschränkter Zugriff auf alle kostenlosen Artikel im Web und in unserer News AppMonatlich 3 exklusive Plus-Inhalte gratis - mit Artikeln, Fotogalerien und VideosNutzen Sie die neue Merkliste in unserer News AppZugang zur Storybox: Hier können Vereine Beiträge einreichenZugang zum Trauerportal: Traueranzeigen sehen und aufgebenKostenlos registrieren",https://schema.org,,NewsArticle,,2021-10-06T07:50:00.000Z,2021-10-06T11:02:00.000+00:00,"{'@type': 'WebPage', '@id': 'https://www.schwaebische.de/regional/biberach/riedlingen/den-einsamen-eine-digitale-stimme-geben-115959?lid=true'}",False,Künstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfen,,,"[{'@type': 'Person', 'name': 'Schwäbische.de'}, {'@type': 'Person', 'name': 'Kai Schlichtermann'}, {'@type': 'Person', 'name': 'Eva Winkhart'}]",,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'www.schwaebische.de/', 'name': 'www.schwaebische.de'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'www.schwaebische.de/regional/', 'name': 'Regional'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'www.schwaebische.de/regional/biberach/', 'name': 'Region Biberach'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'www.schwaebische.de/regional/biberach/riedlingen/', 'name': 'Riedlingen'}}, {'@type': 'ListItem', 'position': 5, 'item': {'@id': 'www.schwaebische.de/regional/biberach/riedlingen/den-einsamen-eine-digitale-stimme-geben-115959?lid=true', 'name': 'Künstliche Intelligenz soll Senioren und Hilfsbedürftigen im Alltag helfen'}}]","{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.article_body'}","{'@type': ['CreativeWork', 'Product'], 'name': 'Schwäbische Zeitung', 'productID': 'www.schwaebische.de:basic'}",https://www.schwaebische.de/regional/biberach/riedlingen/den-einsamen-eine-digitale-stimme-geben-115959?lid=true#id,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZyLmRlL3dpc3Nlbi96ZW50cmFsZXMtdGVzdGxhYm9yLWZ1ZXItcmV0dHVuZ3Nyb2JvdGVyLWVyb2VmZm5ldC16ci05MTAyNjcxNC5odG1s0gEA?oc=5,Zentrales Testlabor für Rettungsroboter eröffnet - fr.de,2021-10-06,fr.de,https://www.fr.de,"Überschwemmungen, Brände, einstürzende Gebäude - bei gefährlichen Rettungseinsätzen rücken Roboter immer stärker in den Fokus. In Dortmund will man nun mit einem Testzentrum vorankommen.",N/A,N/A,N/A,N/A,N/A,"StartseiteWissenZentrales Testlabor für Rettungsroboter eröffnetStand: 06.10.2021, 20:08 UhrKommentareDruckenTeilenEin Roboter schneidet zur Eröffnung des „Living Lab“ des Deutschen Rettungsrobotik Zentrums ein rotes Band durch. © Dieter Menne/dpaÜberschwemmungen, Brände, einstürzende Gebäude - bei gefährlichen Rettungseinsätzen rücken Roboter immer stärker in den Fokus. In Dortmund will man nun mit einem Testzentrum vorankommen.DortMund - Zwei Vermisste unter Trümmern, Rettungskräfte dürfen das einsturzgefährdete Gebäude aber nicht betreten, also tasten sich Roboter vor.Um solche - simulierten - gefährlichen Schadenslagen in der Realität zu beherrschen, seien Einsatzkräfte zunehmend auf die Unterstützung durch robotische und digitale Systeme angewiesen, betonte das Deutsche Rettungsrobotik Zentrum (DRZ) in Dortmund. Dort wurde am Freitag ein neues Test- und Innovationslabor eröffnet.In dem „Living Lab“ arbeiten Anwender, Wissenschaftler und Unternehmen eng zusammen, schilderte der Vorstandschef des DRZ-Trägervereins, Dirk Aschenbrenner. Ziel sei es, neue Technologien zur Optimierung von Rettungseinsätzen zu entwickeln und die Roboter zu testen. Diese haben laut DRZ viele Vorteile. Sie könnten quasi für die Rettungskräfte aus sicherer Distanz Augen und Ohren sein, informative Lagebilder erstellen. Die robotischen Systeme könnten aber auch aus der Ferne eingreifen, um etwa Gefahrensituationen zu entschärfen. Dabei sollten sie jedoch niemals im Alleingang, sondern stets als Unterstützung für die Einsatzkräfte tätig werden.In der Industrie sind Künstliche Intelligenz und Robotik bereits stark auf dem Vormarsch, sagte Oskar von Stryk von der Technischen Uni in Darmstadt. Bei Feuerwehren und zivilen Einsatzkräften sei man noch nicht so weit fortgeschritten. Das DRZ und das „Living Lab“ als ein neues Herzstück solle die Lücke nun schließen helfen. Dort werden künftig unterschiedliche Einsätze simuliert - etwa das Überwinden von Hindernissen, das Arbeiten bei stark eingeschränkter Sicht oder das Öffnen einer Tür durch einen Roboter. Es gebe Trainingsmöglichkeiten auch für Drohnen.Bundesforschungsministerin Anja Karliczek sprach von einer „Brücke von der Forschung in die Anwendung für einen leistungsfähigen Katastrophenschutz“. Man müsse auf Naturkatastrophen und Pandemien besser vorbereitet sein, betonte die CDU-Politikerin in einer Video-Botschaft. dpaAuch interessant
+
+
+
+ 
+
+Empfohlen von
+
+ 
+
+
+
+
+
+
+
+
+
+KommentareTeilen",http://schema.org,,WebPage,,,,,,,,,,,,,,,,"{'@type': 'NewsArticle', 'mainEntityOfPage': 'https://www.fr.de/wissen/zentrales-testlabor-fuer-rettungsroboter-eroeffnet-zr-91026714.html', 'headline': 'Zentrales Testlabor für Rettungsroboter eröffnet', 'datePublished': '2021-10-06T20:08:46+0200', 'description': 'Überschwemmungen, Brände, einstürzende Gebäude - bei gefährlichen Rettungseinsätzen rücken Roboter immer stärker in den Fokus. In Dortmund will man nun mit einem Testzentrum vorankommen.', 'publisher': {'@type': 'Organization', 'name': 'Frankfurter Rundschau', 'logo': 'https://idcdn.de/west/assets/fr/img/logo.svg'}, 'author': {'@type': 'Organization', 'name': 'Frankfurter Rundschau', 'logo': 'https://idcdn.de/west/assets/fr/img/logo.svg'}, 'image': ['https://www.fr.de/assets/images/27/213/27213217-eroeffnung-des-drz-living-lab-2pea.jpg', 'https://www.fr.de/assets/images/27/213/27213217-eroeffnung-des-drz-living-lab-2pe9.jpg', 'https://www.fr.de/assets/images/27/213/27213217-eroeffnung-des-drz-living-lab-2pec.jpg']}","{'@type': 'BreadcrumbList', 'name': 'BreadCrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': {'@type': 'WebPage', '@id': 'https://www.fr.de/'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Wissen', 'item': {'@type': 'WebPage', '@id': 'https://www.fr.de/wissen/'}}]}",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNhZWNoc2lzY2hlLmRlL2FuemVpZ2UvaW50ZWxsaWdlbnRlLWNoaXBzLWxlbmtlbi1kaWUtY2l0eS1pay10dS1kcmVzZGVuLWJ1cy1iYWhuLXN5c3RlbWUtdmVya2VocnNzeXN0ZW1lLTIyNTU5Lmh0bWzSAQA?oc=5,Intelligente Chips lenken die City - Sächsische.de,2021-10-06,Sächsische.de,https://www.saechsische.de,Ein in Dresden und Manchester entwickelter Chip ahmt das menschliche Gehirn nach – und macht neues Stadtleben möglich.,N/A,Ein in Dresden und Manchester entwickelter Chip ahmt das menschliche Gehirn nach – und macht neues Stadtleben möglich.,N/A,N/A,N/A,"
+
+
+
+
+
+
+Anzeige
+
+
+
+
+06.10.2021
+
+, 
+15:00
+
+
+
+
+
+Intelligente Chips lenken die City
+
+Ein in Dresden und Manchester entwickelter Chip ahmt das menschliche Gehirn nach – und macht neues Stadtleben möglich.
+
+
+
+ 3 Min.
+ 
+
+
+Teilen
+
+
+
+
+
+
+
+
+
+
+ 
+
+Folgen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEU!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unscheinbar sieht sie erst einmal aus, so eine Spinnaker2-Platine in den Händen von Christian Mayr. Doch in ihr steckt das Potenzial, künstliche Intelligenz in völlig neuer Art und Weise einsetzen zu können.
+© Foto: Steffen Unger
+
+
+
+
+Das Auto kennt den Weg zur Parklücke. Ein Sensor am Stellplatz hatte ihm vorher freie Kapazitäten gemeldet. Der Abfalleimer in der Fußgängerzone ist voll und gibt die Informationen darüber direkt an die Entsorgungsfirma weiter, die ihn leert. In Echtzeit bekommen die Menschen auf ihrem Handy Informationen darüber, wann Bus, Bahn oder ein freies Taxi in ihrer Nähe halten oder wo ein Leihfahrrad steht. „Die Städte, in denen wir künftig leben, werden uns im Alltag unterstützen“, schildert Christian Mayr die Vision der Smart Cities, der technologiegetriebenen Städte der Zukunft. Mayr ist Inhaber der Professur für Hochparallele VLSI-Systeme und Neuromikroelektronik an der TU Dresden. Er und sein Team arbeiten an der Grundlage dafür, dass die Interaktion in modernen Städten künftig funktioniert. Dass Daten blitzschnell ausgetauscht werden können. Möglich wird das durch einen Chip, der in Dresden und Manchester entwickelt wurde.
+Das menschliche Gehirn auf einer Platine Der Spinnaker2-Chip schafft eine Brücke zwischen menschlicher und künstlicher Intelligenz (KI). Aktuell ist KI in aller Munde – Maschinen, die Schritt für Schritt lernen, sollen uns künftig in vielen Bereichen helfen. Im Vergleich zu den Abläufen und Möglichkeiten des menschlichen Gehirns sind Hardware und Algorithmen dafür allerdings noch zu langsam, ineffizient und verbrauchen viel Energie. „Mit unserem Chip ermöglichen wir Systeme und Netzwerke, die ähnlich wie unser Gehirn arbeiten“, erklärt Mayr die Bedeutung der Entwicklung. Das alles passiere schnell und unter dem Einsatz von nur wenig Energie. Nach einer Logik, die es bisher für Maschinen noch nicht gab. Vor kurzem verkündeten die Dresdner Forscher und ihre Kollegen von der University of Manchester große Neuigkeiten: Der Chip ist produktionsbereit. Aktuell läuft bei Globalfoundries in Dresden die Fertigung an. Bis Mitte 2022 wird die Massenproduktion vorbereitet.
+Aus insgesamt 70.000 Spinnaker2-Chips entsteht in den nächsten Jahren außerdem ein neuer Superrechner in Dresden. Die Neuronen des Gehirns werden durch Computerprogramme auf den unzähligen Chips simuliert. Durch sie werden Dinge umsetzbar, die heute noch unmöglich sind. „Damit können unsere Chips auch zum Nervensystem einer ganzen Stadt werden“, denkt Christian Mayr schon weiter.
+Erste Smart-City-Kunden sind schon in Sicht Solch eine smarte Stadt braucht in Zukunft gleich mehrere Rechenzentren mit den innovativen Chips aus Dresden. Bei einer Millionenstadt könnten es auch mal 30 bis 40 sein, schätzt der Professor. Von dort aus werden dann verschiedenste Vorgänge überall in der Stadt unterstützt. Die neue TUD-Ausgründung Spinncloud Systems GmbH soll die Spinnaker2-Chips für genau solche Anwendungen vermarkten. Erste potenzielle Smart-City-Kunden haben bereits Interesse bekundet. Doch nicht nur neu entstehende Städte in Asien oder im Nahen Osten werden künftig smart sein. „Diese Technik lässt sich auch in Strukturen bestehender Städte integrieren.“ Ein weiteres Feld, auf dem Christian Mayr großes Potenzial für die Chips sieht, ist das autonome Fahren. „Solch ein Fahrzeug muss in Gefahrensituationen blitzschnell eine Entscheidung treffen“, erklärt er. Genau das wäre die große Stärke der Neuentwicklung. „Unsere Spinnaker-Chips sind die Zukunft der KI.“ 
+Jana Mundus
+
+
+
+
+",http://schema.org,,NewsArticle,,2021-10-06T15:00:00+02:00,2024-07-11T17:46:44+02:00,"{'@type': 'WebPage', '@id': 'https://www.saechsische.de/anzeige/intelligente-chips-lenken-die-city-ik-tu-dresden-bus-bahn-systeme-verkehrssysteme-22559.html'}",True,Intelligente Chips lenken die City,,,"[{'@type': 'Organization', 'name': 'Sächsische Zeitung'}]","{'@type': 'ImageObject', 'url': 'https://image.saechsische.de/1200x675/9/x/9xe0bi6ygutxl3qaq0o2zb2f8ixsr0cr.jpg', 'width': 1200, 'height': 675}","{'@type': 'Organization', 'name': 'Sächsische Zeitung', 'logo': {'@type': 'ImageObject', 'url': 'https://www.saechsische.de/img/logo_1200x1200.png', 'width': 1200, 'height': 1200}}",,,"{'@type': ['CreativeWork', 'Product'], 'name': 'Sächsische Zeitung', 'productID': 'saechsische.de:showcase'}",,,,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.article-detail .article-detail-title > p, .article-detail .article-detail-content > p, .article-detail .article-loadmore-content > p, .article-detail .highlight > p', '.article-detail .article-detail-title > h1, .article-detail .article-detail-content > h1, .article-detail .article-loadmore-content > h1, .article-detail .highlight > h1', '.article-detail .article-detail-title > h2, .article-detail .article-detail-content > h2, .article-detail .article-loadmore-content > h2, .article-detail .highlight > h2', '.article-detail .article-detail-title > h3, .article-detail .article-detail-content > h3, .article-detail .article-loadmore-content > h3, .article-detail .highlight > h3', '.article-detail .article-detail-title > h4, .article-detail .article-detail-content > h4, .article-detail .article-loadmore-content > h4, .article-detail .highlight > h4', '.article-detail .article-detail-title > ul > li, .article-detail .article-detail-content > ul > li, .article-detail  .article-loadmore-content > ul > li, .article-detail .highlight > ul > li', '.article-detail .article-detail-title > ol > li, .article-detail .article-detail-content > ol > li, .article-detail  .article-loadmore-content > ol > li, .article-detail .highlight > ol > li', '.article-detail .article-detail-title > figure > figcaption, .article-detail .article-detail-content > figure > figcaption, .article-detail .article-loadmore-content > figure > figcaption, .article-detail .highlight > figure > figcaption']}",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vZGUtZGUvaW5zaWdodHMvYmxvZy9nZWxkd2Flc2NoZS1hdXRvbW9iaWxzZWt0b3ItY29tcGxpYW5jZS1hdXRvbW90aXZlLWJhbmtlbi_SAQA?oc=5,Geldwäsche im Automobilsektor – Der Entwicklung und der Relevanz für die Compliance-Funktion von Automotive ... - Capgemini,2021-10-06,Capgemini,https://www.capgemini.com,N/A,[],N/A,N/A,N/A,N/A,"
+
+Geldwäsche im Automobilsektor – Der Entwicklung und der Relevanz für die Compliance-Funktion von Automotive-Banken auf der Spur…Capgemini06. Okt. 2021
+FacebookTwitterLinkedin
+
+„Es ist sinnlos zu sagen: Wir tun unser Bestes. Es muss dir gelingen, das zu tun, was erforderlich ist.“
+Winston Churchill [1]
+
+Das Zitat von Winston Churchill lässt sich sehr gut auf die Anforderungen eines effizienten Compliance Systems transferieren. Zur Prävention und Verhinderung von Geldwäsche (und i.w.S. straf- und zivilrechtlichen Folgen sowie Reputationsschäden) bedarf es
+
+operativer Exzellenz,
+effizienter Prozesse und Strukturen,
+technologischer Lösungen, welche sich an sich häufig ändernde regulatorische Anforderungen anpassen können – ein internes Sicherungssystem so gesehen,
+der Beachtung von organisatorischer Weiterentwicklung sowie der Mitarbeiterbefähigung (u.a. Trainings, Begleitung des Kulturwandels oder Organisationsentwicklung).
+
+Unterschiedliche Produktgruppen erfordern dabei unterschiedliche Maßnahmen – dies wird am Ende dieses Blogs deutlicher.
+Nicht nur aufgrund des immer größer werdenden Angebots an Finanzprodukten und den offiziellen Bankzulassungen spielt die Prävention von Geldwäsche eine wichtige Rolle für Autobanken (Captives). Welche Risiken bestehen, soll nachfolgend aufgeklärt werden.
+Die Risikostruktur von Automobilbanken
+
+Wachsendes Angebot an standardisierten Bankprodukten
+Prävalenz von „High-value Goods”
+Schnittstelle zum Bargeld-intensiven Gebrauchtwagenhandel
+
+Viele Automobilbanken führen klassische Bankprodukte wie Girokonten oder Tagesgelder, welche mit erhöhtem Geldwäscherisiko behaftet sind. Die erste Nationale Risikoanalyse des Bundesfinanzministeriums [2] („BMF-Risikoanalyse“) ergab dabei folgendes Geldwäscherisiko-Ranking für Bankprodukte:
+
+Korrespondenzbankgeschäft
+Wertpapiergeschäft, Anlage in Finanzderivate sowie andere Anlagemöglichkeiten
+Sorten- und Edelmetallhandel
+Kreditprodukte für Firmenkunden
+Stiftungen, Trusts, Offshore-Strukturen
+Handelsfinanzierung (Trade-Finance)
+Kreditprodukte für Privatkunden
+Kreditkarten
+Termin- und Spareinlagen
+M&A-Geschäft
+Bankschließfach
+
+Die Risikoanalyse evaluierte zudem ein hohes Geldwäscherisiko beim Fahrzeughandel. Der hochwertige Güterhandel ist dabei längst im Visier von Kriminellen – die Bezahlung von hohen Geldsummen (in bar) eignet sich besonders für die Geldwäsche. Laut einer Studie von Europol sind es im Jahr 2018 konkret 1 Million Euro pro Woche [2].
+Doch wie sind Autobanken als Bindeglied zwischen Hersteller und Händler besonders davon betroffen?
+Das BMF weist auf den potenziellen Erwerbsverzicht von hochwertigen Gütern hin – insbesondere tendiere die organisierte Kriminalität inzwischen stattdessen zu Leasing oder Miete.
+Eine Besonderheit bei Automobilbanken ist die Schnittstelle zu einem der teuersten Konsumgüter. Die konzerngebundenen Autobanken decken dabei die Finanzierung für die Händler in ihrem Konzern ab.
+Laut Verband der Automobilindustrie („VDA“) werden rund 75 Prozent der Fahrzeugneuzulassungen in Deutschland über Leasing- und Finanzierungsmodelle auf die Straße gebracht – mit steigender Tendenz [3]. Um kriminelle Hintergründe zu identifizieren bedarf es einer genauen und vollständigen Prüfung bei Neuverträgen.
+Zusammenfassend sind Autobanken also direkten und indirekten Risiken gegenübergestellt:
+
+Indirektes Risiko: Indirekte Verwicklung in das „Placement“ von inkriminierten Bargeldern über die Kontoführung für Fahrzeughändler im Falle eines Betrugs in der 1st Line of Defense. Die Händler unterliegen durchaus dem GWG und somit der allgemeinen Sorgfaltspflichten zur Verhinderung von Geldwäsche. Die Autobanken haben dabei keinen Einfluss auf die Wirksamkeit und Ausgestaltung der Anti-Geldwäschekontrollmechanismen der Kfz-Händler – tragen jedoch den Reputationsverlust im Falle eines Betrugs mit.
+Direktes Risiko: Verwicklung in Geldwäsche über die Kontoführung von scheinbaren Autokäufer*innen bei der Autobank oder Abschlüssen von Finanzierungs- oder Leasingverträgen.
+
+Infolge des o.g. Trends sollen Leasinggesellschaften durch die BaFin zukünftig häufiger auf die Einhaltung der Sorgfaltspflichten überprüft werden [2].
+Die Erfüllung von Sorgfaltspflichten in einer disruptiven Welt – was kann ich als Captive tun?
+Zusammenfassend lässt sich ableiten, dass unterschiedliche Produktkomplexitäten mehr oder weniger stark ausgeprägte Risiken mit sich bringen. Folgende Handlungsoptionen können für ein effizientes Compliance-System situativ evaluiert werden:
+
+Bei klassischen Bankprodukten mit hohen Transaktionsvolumen spielen beispielsweise AI-gestützte Transaction-Monitoring-Systeme eine tragende Rolle.
+Bei der Automatisierung von operativen Tätigkeiten bspw. die Erfüllung der Geldwäscherichtlinien bei Leasingverträgen unterstützen „State-of-the-Art“-Technologien wie ICR (Intelligent Charakter Recognition), OCR (Optical Charakter Recognition)  oder NLP (Natural Language Processing) dabei, Kosten zu reduzieren und sowohl die Qualität als auch die Stabilität der Prozesse zu verbessern.
+Bei der Implementierung von technologischen Lösungen helfen agile Entwicklungsmethoden, um die Anpassung an neue regulatorische Anforderungen durch die Definition von kleineren Inkrementen zügig und unkompliziert umzusetzen.
+
+Die Agilisierung des Compliance-Bereichs sollte sich jedoch nicht nur auf die isolierte Entwicklung von Compliance-Lösungen beschränken. Mitarbeitende sollten ebenfalls befähigt werden regulatorische Richtlinien in die agile Produktentwicklung im Gesamtunternehmen einzubringen (bspw. Abschluss eines Leasingvertrags über eine App).
+Vielen Dank an die Co -Autor*innen Florian Achtert und Nadine Fuchs.
+
+[1] https://beruhmte-zitate.de/zitate/2010840-winston-churchill-es-ist-sinnlos-zu-sagen-wir-tun-unser-bestes-es/
+[2] https://www.bundesfinanzministerium.de/Content/DE/Downloads/Broschueren_Bestellservice/2019-10-19-erste-nationale-risikoanalyse_2018-2019.pdf?__blob=publicationFile&v=7
+[3] https://www.vda.de/de/themen/automobilindustrie-und-maerkte/autobanken/finanzdienstleistungen-in-der-automobilindustrie.html
+
+Weitere BlogpostsCustomer ExperienceWie Nutzererfahrung die Zukunft gestaltet: Digitale Touchpoints für den öffentlichen DienstMelanie Adelt3. Juni 2024Customer ExperienceGenerative KI: So groß ist ihre Bedeutung für die Prozesseffizienz von UnternehmenAchim Himmelreich26. Feb. 2024Customer ExperienceStandardisierung im Private Banking: Mehr Zeit für Millionäre – und solche die es werden wollenCapgemini13. Feb. 2024Alle Blogposts
+
+Blog-Updates per Mail?Abonnieren Sie unseren Newsletter und erhalten Sie alle zwei Monate eine Auswahl der besten Blogartikel. Zur Anmeldung   Blog per E-Mail abonnieren 
+
+E-Mail (Pflichtfeld) *E-Mail (Pflichtfeld) ist ungültig.Unternehmen / Organisation (optional)
+
+
+
+				Ich bin damit einverstanden, dass die von mir angegebenen Daten zum Zwecke der Bearbeitung meines Anliegens von der Capgemini Service SAS gespeichert und wie in den Nutzungsbedingungen und der Datenschutzerklärung beschrieben, verarbeitet werden.  			
+
+ 
+
+
+
+
+Pfeil nach rechts ziehen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Vielen Dank. Wir haben Sie in unseren E-Mail-Verteiler aufgenommen.
+
+
+Es tut uns leid, die Übermittlung des Formulars ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+
+
+
+
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/', 'url': 'https://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/', 'name': 'Geldwäsche im Automobilsektor – Der Entwicklung und der Relevanz für die Compliance-Funktion von Automotive-Banken auf der Spur… - Capgemini', 'isPartOf': {'@id': 'https://www.capgemini.com/de-de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/09/connected_vehicle_trend_radar.jpg', 'datePublished': '2021-10-06T06:33:00+00:00', 'dateModified': '2024-03-18T10:45:52+00:00', 'author': {'@id': 'https://www.capgemini.com/de-de/#/schema/person/e18c469582cc4e2dd2649041406912d2'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/#primaryimage', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/09/connected_vehicle_trend_radar.jpg', 'contentUrl': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/09/connected_vehicle_trend_radar.jpg', 'width': 950, 'height': 657}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Person', '@id': 'https://www.capgemini.com/de-de/#/schema/person/e18c469582cc4e2dd2649041406912d2', 'name': 'Sai Kiran', 'url': 'https://www.capgemini.com/de-de/author/saikiranb/'}]",NewsArticle,,2021-10-06T06:33:00Z,2024-03-18T10:45:52Z,"{'@type': 'WebPage', '@id': 'http://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/'}",,Geldwäsche im Automobilsektor – Der Entwicklung und der Relevanz für die Compliance-Funktion von Automotive-Banken auf der Spur…,,,"[{'@type': 'Person', 'name': 'Sai Kiran'}]","{'@type': 'ImageObject', 'url': 'https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/09/connected_vehicle_trend_radar.jpg'}","{'@type': 'Organization', 'name': 'Capgemini Germany', 'logo': ''}",,,,,,,,http://www.capgemini.com/de-de/insights/blog/geldwaesche-automobilsektor-compliance-automotive-banken/,https://www.capgemini.com/de-de/wp-content/uploads/sites/8/2020/09/connected_vehicle_trend_radar.jpg?w=150&h=150&crop=1,Uncategorized,['Sai Kiran'],2021-10-06T06:33:00Z,,,,,
+https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdDNuLmRlL25ld3MvYW1hem9uLXNtYXJ0ZXIta3VlaGxzY2hyYW5rLXByb2plY3QtcHVsc2UtZXNzZW4tZWlua2F1ZmVuLXRyYWNraW5nLTE0MTM5NTIv0gEA?oc=5,Amazon: Neuer Smarter Kühlschrank kennt Gewohnheiten und bestellt automatisch - t3n – digital pioneers,2021-10-06,t3n – digital pioneers,https://t3n.de,E-Commerce-Riese Amazon arbeitet anscheinend an einem eigenen intelligenten Kühlschrank. Der soll angeblich Ge,N/A,E-Commerce-Riese Amazon arbeitet anscheinend an einem eigenen intelligenten Kühlschrank.,E-Commerce-Riese Amazon arbeitet anscheinend an einem eigenen intelligenten Kühlschrank.,N/A,N/A,"
+
+
+
+
+
+Home
+
+
+
+
+
+News
+
+
+
+
+
+Hardware & Gadgets
+
+
+
+
+
+Amazon: Neuer Smarter Kühlschrank kennt Gewohnheiten und bestellt automatisch
+
+
+
+
+
+
+                            News
+                    
+
+
+                    Amazon: Neuer Smarter Kühlschrank kennt Gewohnheiten und bestellt automatisch
+                
+
+                                                                
+E-Commerce-Riese Amazon arbeitet anscheinend an einem eigenen intelligenten Kühlschrank. Der soll angeblich Gewohnheiten tracken und mit den hauseigenen Lebensmittelmärkten zusammenarbeiten.
+                                    
+
+                                Von Raimund Schesswendter
+
+
+
+
+06.10.2021, 09:23 Uhr 
+
+                                •
+                            
+
+ 2 Min.
+                            
+
+
+
+
+
+
+
+
+
+
+
+Artikel merken
+
+
+
+
+
+Anzeige
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das Erkennungssystem des Kühlschranks ist dasselbe, das Amazon bei seinen Supermärkten einsetzt. (Foto: Shachima/Shutterstock) 
+
+
+
+
+
+
+Das Gerät von Amazon verfolge das Inventar und die Kaufgewohnheiten; es sage sie gar vorher. Es soll so imstande sein, vorausschauend Bestellungen aufzugeben. Die Milch steht also vor der Tür, bevor du merkst, dass sie zur Neige geht. Zusätzlich berichteten Quellen gegenüber Business Insider, der Kühlschrank behalte die Verfallsdaten im Auge. Auf Basis seines Inhaltes könne er zudem Rezepte vorschlagen und natürlich jederzeit Bestellungen beim nächstgelegenen Amazon-Supermarkt oder Lieferdienst aufgeben.
+AnzeigeAnzeigeSeit zwei Jahren arbeite der Konzern an dieser Erfindung, damit betraut sei die Abteilung, die auch die Hightech-Supermärkte „Amazon Go“ entwickelt habe, heißt es. Gopi Prashanth, Abteilungsleiter für fortgeschrittene Computer-Vision und künstliche Intelligenz, soll die Arbeiten beaufsichtigen. Wann das Gerät auf den Markt kommen und wer es am Ende für Amazon herstellen soll, ist unbekannt. Allerdings drang aus Konzernkreisen, der „Pulse“ genannte Kühlschrank habe Gutbetuchte im Visier und steige preislich im Luxussegment ein, um im Laufe der Zeit einen größeren Markt zu erreichen.
+
+Identifizierung von Waren nützlich
+
+Nachdem der größte Onlineshop der Welt eine intelligente Mikrowelle herausgebracht hat, halten Beobachter diesen Schritt für naheliegend. Auf dem Markt sehen sie für das Schwergewicht gute Chancen, den Wettbewerb zu verdrängen, denn über Alexa ließe sich das Gerät optimal in das bestehende Smarthome-System integrieren. Samsung und LG bieten zurzeit smarte Kühlschränke an, die Lebensmittel erkennen und über digitale Assistenten nachbestellen können. Neben der Marktmacht hat Amazon aber einen weiteren Vorteil: Das Unternehmen kann auf das Identifikationssystem für die Amazon-Go-Shops und ihre Einkaufswagen zurückgreifen. Eine nahtlose Verbindung zwischen dem wachsenden Netz aus Lebensmittelläden und dem konkreten Kundenbedarf wäre gegeben.AnzeigeAnzeige
+
+Amazon kommentiert nicht
+
+Das Unternehmen selbst hüllt sich in Schweigen: „Wir kommentieren keine Gerüchte oder Spekulationen“, sagte ein Sprecher dem Magazin The Verge. Das könnte auch daran liegen, dass der Konzern noch nicht über eine Markteinführung entschieden hat. Insider erklärten, die Führung könne die Entwicklung genauso gut stoppen, noch bevor die Öffentlichkeit das Gerät je zu Gesicht bekommt.AnzeigeAnzeige
+Der Schlüssel zu deinem Unternehmenserfolg ist, deine Kund:innen zu verstehen. Lerne in unserem Guide, wie du mit Customer Insights erfolgreicher wirst!
+Jetzt lesen!
+
+Mehr zu diesem Thema
+
+MIT Technology Review
+Amazon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Verpasse keine News zu Hardware & Gadgets 💌
+
+
+
+
+
+                            Bitte gib eine gültige E-Mail-Adresse ein.
+                        
+Jetzt anmelden
+
+
+                        Es gab leider ein Problem beim Absenden des Formulars. Bitte versuche es erneut.
+                    
+
+                        Bitte gib eine gültige E-Mail-Adresse ein.
+                    
+
+
+Hinweis zum Newsletter & Datenschutz
+
+
+
+
+Fast fertig!
+
+                Bitte klicke auf den Link in der Bestätigungsmail, um deine Anmeldung abzuschließen.
+            
+
+                Du willst noch weitere Infos zum Newsletter?
+                Jetzt mehr erfahren
+
+
+
+
+
+
+
+
+Anzeige
+
+Anzeige
+
+
+
+Anzeige
+
+Anzeige
+
+
+
+
+Finde einen Job, den du liebst.
+
+
+
+
+
+Technik & Entwicklung
+
+
+
+Design & UX
+
+
+
+Marketing, PR & Kommunikation
+
+
+
+Projekt- & Produkt- management
+
+
+
+Content & Redaktion
+
+
+
+Business Development
+
+
+Jetzt Job finden
+
+
+Anzeige
+
+Anzeige
+
+
+
+
+",https://schema.org,,BreadcrumbList,,2021-10-06T09:23:26+0200,2022-07-04T13:35:15+0200,"{'@type': 'WebPage', '@id': 'https://t3n.de/news/amazon-smarter-kuehlschrank-project-pulse-essen-einkaufen-tracking-1413952/'}",True,Amazon: Neuer Smarter Kühlschrank kennt Gewohnheiten und bestellt automatisch,,"E-Commerce-Riese Amazon arbeitet anscheinend an einem eigenen intelligenten Kühlschrank. Der soll angeblich Gewohnheiten tracken und mit den hauseigenen Lebensmittelmärkten zusammenarbeiten.
+
+Das Gerät von Amazon verfolge das Inventar und die Kaufgewohnheiten; es sage sie gar vorher. Es soll so imstande sein, vorausschauend Bestellungen aufzugeben. Die Milch steht also vor der Tür, bevor du merkst, dass sie zur Neige geht. Zusätzlich berichteten Quellen gegenüber Business Insider, der Kühlschrank behalte die Verfallsdaten im Auge. Auf Basis seines Inhaltes könne er zudem Rezepte vorschlagen und natürlich jederzeit Bestellungen beim nächstgelegenen Amazon-Supermarkt oder Lieferdienst aufgeben.
+
+Seit zwei Jahren arbeite der Konzern an dieser Erfindung, damit betraut sei die Abteilung, die auch die Hightech-Supermärkte „Amazon Go“ entwickelt habe, heißt es. Gopi Prashanth, Abteilungsleiter für fortgeschrittene Computer-Vision und künstliche Intelligenz, soll die Arbeiten beaufsichtigen. Wann das Gerät auf den Markt kommen und wer es am Ende für Amazon herstellen soll, ist unbekannt. Allerdings drang aus Konzernkreisen, der „Pulse“ genannte Kühlschrank habe Gutbetuchte im Visier und steige preislich im Luxussegment ein, um im Laufe der Zeit einen größeren Markt zu erreichen.
+Identifizierung von Waren nützlich
+Nachdem der größte Onlineshop der Welt eine intelligente Mikrowelle herausgebracht hat, halten Beobachter diesen Schritt für naheliegend. Auf dem Markt sehen sie für das Schwergewicht gute Chancen, den Wettbewerb zu verdrängen, denn über Alexa ließe sich das Gerät optimal in das bestehende Smarthome-System integrieren. Samsung und LG bieten zurzeit smarte Kühlschränke an, die Lebensmittel erkennen und über digitale Assistenten nachbestellen können. Neben der Marktmacht hat Amazon aber einen weiteren Vorteil: Das Unternehmen kann auf das Identifikationssystem für die Amazon-Go-Shops und ihre Einkaufswagen zurückgreifen. Eine nahtlose Verbindung zwischen dem wachsenden Netz aus Lebensmittelläden und dem konkreten Kundenbedarf wäre gegeben.
+Amazon kommentiert nicht
+Das Unternehmen selbst hüllt sich in Schweigen: „Wir kommentieren keine Gerüchte oder Spekulationen“, sagte ein Sprecher dem Magazin The Verge. Das könnte auch daran liegen, dass der Konzern noch nicht über eine Markteinführung entschieden hat. Insider erklärten, die Führung könne die Entwicklung genauso gut stoppen, noch bevor die Öffentlichkeit das Gerät je zu Gesicht bekommt.
+
+Der Schlüssel zu deinem Unternehmenserfolg ist, deine Kund:innen zu verstehen. Lerne in unserem Guide, wie du mit Customer Insights erfolgreicher wirst!
+
+[ctabutton url=""http://t3n.de/guides/einstieg-customer-insights/""]Jetzt lesen![/ctabutton]","{'@type': 'Person', '@id': 'https://t3n.de/redaktion/raimund-schesswendter#person', 'name': 'Raimund Schesswendter', 'jobTitle': 'Freier News-Redakteur'}","[{'@type': 'ImageObject', 'url': 'https://images.t3n.de/news/wp-content/uploads/2019/12/Amazon-Go-Eingang.jpg?class=structuredData-large', 'width': 1200}, {'@type': 'ImageObject', 'url': 'https://images.t3n.de/news/wp-content/uploads/2019/12/Amazon-Go-Eingang.jpg?class=structuredData-medium', 'width': 1200}, {'@type': 'ImageObject', 'url': 'https://images.t3n.de/news/wp-content/uploads/2019/12/Amazon-Go-Eingang.jpg?class=structuredData-small', 'width': 1200}]","{'@type': 'Organization', 'name': 't3n Magazin', 'logo': {'@type': 'ImageObject', 'url': 'https://t3n.de/news/wp-content/uploads/2020/11/t3n-logo-google-news-rot-400px.png', 'width': 401, 'height': 130}}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://t3n.de/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': '/news/', 'name': 'News'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': '/tag/hardware-gadgets/', 'name': 'Hardware & Gadgets'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://t3n.de/news/amazon-smarter-kuehlschrank-project-pulse-essen-einkaufen-tracking-1413952/', 'name': 'Amazon: Neuer Smarter Kühlschrank kennt Gewohnheiten und bestellt automatisch'}}]",,,,,,,,,Hardware & Gadgets,,,450.0,2021,"{'@type': 'Organization', '@id': 'https://t3n.de#organization'}",PT2M,"[{'@type': 'Organization', 'name': 'Amazon', '@id': 'https://t3n.de/tag/amazon/'}]"
+https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnNhZWNoc2lzY2hlLmRlL3JpZXNhL3JpZXNhZXItcHJheGlzLXJ1ZXN0ZXQtYXVmLTU1MzkxMDguaHRtbNIBAA?oc=5,Riesaer Praxis rüstet mit künstlicher Intelligenz auf - Sächsische.de,2021-10-05,Sächsische.de,https://www.saechsische.de,Ein fünf Tonnen schweres MRT ist am Dienstag ins Krankenhaus gehievt worden. Es wartet mit künstlicher Intelligenz auf.,N/A,Ein fünf Tonnen schweres MRT ist am Dienstag ins Krankenhaus gehievt worden. Es wartet mit künstlicher Intelligenz auf.,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+Riesa
+
+
+
+
+
+05.10.2021
+
+, 
+13:00
+
+
+
+
+
+Merken
+
+
+
+
+Riesaer Praxis rüstet auf
+
+Ein fünf Tonnen schweres MRT ist am Dienstag ins Krankenhaus gehievt worden. Es wartet mit künstlicher Intelligenz auf.
+
+
+
+ 2 Min.
+ 
+
+
+Teilen
+
+
+
+
+
+
+
+
+
+
+ 
+
+Folgen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEU!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Steffen Klengel beobachtet die Lieferung des neuen MRT in seine Praxisräume im Riesaer Elblandklinikum. Dort ist die Radiologische Praxis eingemietet.
+© Eric Weser
+
+
+
+
+
+Riesa. Es ist in den vergangenen Jahren immer wieder vorgekommen, dass tonnenschwere Diagnosegeräte in die Radiologische Praxis von Dr. Steffen Klengel im Riesaer Krankenhaus hineingehoben wurden. Doch zur Routine wird es deshalb trotzdem nicht; jedes Mal ist es wieder eine Zitterpartie, ob auch wirklich alles gut geht. Als er noch in Dresden Oberarzt gewesen sei, sei einmal etwas schief gegangen, erzählt Steffen Klengel. Ein Gerüst sei beim Aufstellen umgekippt und das Gerät durch die Fassade und zwei Etagen nach unten durchgebrochen.
+
+In Riesa ist das Einheben des neuesten Magnetresonanztomographen – kurz: MRT – am Dienstagvormittag aber alles gut gegangen. Mit einem Autokran wurde das rund fünf Tonnen schwere Gerät auf ein vorbereitetes Podest gehoben und von dort aus mit Muskelkraft durch die geöffnete Klinikfassade an seinen neuen Standort bugsiert.
+
+
+
+
+
+
+
+
+
+
+
+... in die Praxisräume hineingeschoben. Dort befindet es sich in einem Faradayschen Käfig. Der hält Störsignale draußen, die die empfindlichen Bildgebunsverfahren behindern könnten.
+© Eric Weser
+
+
+
+
+
+
+
+
+
+Mit einem Autokran wurde das rund fünf Tonnen schwere Gerät auf ein eigens erbautes Podest gehievt und dann...
+© Eric Weser
+
+
+
+
+
+
+
+
+
+... in die Praxisräume hineingeschoben. Dort befindet es sich in einem Faradayschen Käfig. Der hält Störsignale draußen, die die empfindlichen Bildgebunsverfahren behindern könnten.
+© Eric Weser
+
+
+
+
+
+
+
+
+
+Mit einem Autokran wurde das rund fünf Tonnen schwere Gerät auf ein eigens erbautes Podest gehievt und dann...
+© Eric Weser
+
+
+
+
+
+1 / 2
+
+
+
+
+
+
+
+
+ Den Apparat aus dem Hause Siemens hat sich das Medizinische Vorsorgezentrum für Diagnostik und Therapie Radcom alles in allem eine knapp siebenstellige Summe kosten lassen, so Chef Steffen Klengel. Aufwarten soll das neue MRT nun mit neuester Technik. Im Einsatz sei künstliche Intelligenz, die vor allem das Signalrauschen mindere, wodurch bessere Bilder entstünden, erklärt Steffen Klengel. Und je besser die Bilder, desto genauer die Diagnostik – und umso effizienter ist anschließend eine Behandlung möglich. Egal, ob es beispielsweise um Gelenkprobleme oder Tumore geht, die mit dem Bildgebungsverfahren zunächst genau untersucht werden.
+
+ 
+
+Ersetzt hat das neue MRT-Gerät übrigens einen acht Jahre alten Vorgänger, der die Praxis bereits verlassen hatte. Die alte Maschine habe ihre Arbeit gut erledigt. ""Aber es geht in Sachen Digitalisierung eben enorm weiter"", so Radiologe Steffen Klengel. Wobei die Innovation vor allem bei der Software lägen. 
+Ein Effekt der Verbesserungen sei zum Beispiel, dass Patienten statt wie früher 25 Sekunden jetzt nur noch knapp zehn Sekunden den Atem anhalten müssen, damit etwa bei Bauchuntersuchungen die Bilddaten akquiriert werden können. ""Und das ist schon ein Unterschied"", sagt Steffen Klengel. ""25 Sekunden können sehr lang sein.""
+Etwa 30 bis 40 Patienten täglich sollen künftig in dem neuen MRT, das auch als besonders energieeffizient arbeiten soll, untersucht werden. Bis es so weit ist, werden aber noch ein paar Tage vergehen. Rund um das Gerät sind noch einige Installationsarbeiten nötig, ehe es von einem Siemens-Servicetechniker in Betrieb genommen werden kann. In etwa zwei Wochen soll es dann im Praxisalltag im Einsatz sein. (SZ/ewe)
+
+
+
+
+
+
+
+
+
+Mehr zum Thema Riesa
+
+
+
+
+Bauarbeiten im Hort Ragewitz können starten
+
+
+
+
+Riesa: Was ist der Lutherlinde passiert?
+
+
+
+
+Wülknitz: Kran stößt gegen Skoda
+
+
+
+
+
+",http://schema.org,,NewsArticle,,2021-10-05T13:00:00+02:00,2024-07-11T17:47:04+02:00,"{'@type': 'WebPage', '@id': 'https://www.saechsische.de/riesa/riesaer-praxis-ruestet-auf-5539108.html'}",True,Riesaer Praxis rüstet mit künstlicher Intelligenz auf,Riesaer Praxis rüstet auf,,"[{'@type': 'Organization', 'name': 'Sächsische Zeitung'}]","{'@type': 'ImageObject', 'url': 'https://image.saechsische.de/1200x675/5/z/5zft184dnzrolpkxjqb4z39v54zt9k62.jpg', 'width': 1200, 'height': 675}","{'@type': 'Organization', 'name': 'Sächsische Zeitung', 'logo': {'@type': 'ImageObject', 'url': 'https://www.saechsische.de/img/logo_1200x1200.png', 'width': 1200, 'height': 1200}}","[{'@type': 'ListItem', 'position': 1, 'name': 'Riesa', 'item': 'https://www.saechsische.de/riesa'}, {'@type': 'ListItem', 'position': 2, 'name': 'Riesaer Praxis rüstet mit künstlicher Intelligenz auf', 'item': 'https://www.saechsische.de/riesa/riesaer-praxis-ruestet-auf-5539108.html'}]",,"{'@type': ['CreativeWork', 'Product'], 'name': 'Sächsische Zeitung', 'productID': 'saechsische.de:showcase'}",,,,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.article-detail .article-detail-title > p, .article-detail .article-detail-content > p, .article-detail .article-loadmore-content > p, .article-detail .highlight > p', '.article-detail .article-detail-title > h1, .article-detail .article-detail-content > h1, .article-detail .article-loadmore-content > h1, .article-detail .highlight > h1', '.article-detail .article-detail-title > h2, .article-detail .article-detail-content > h2, .article-detail .article-loadmore-content > h2, .article-detail .highlight > h2', '.article-detail .article-detail-title > h3, .article-detail .article-detail-content > h3, .article-detail .article-loadmore-content > h3, .article-detail .highlight > h3', '.article-detail .article-detail-title > h4, .article-detail .article-detail-content > h4, .article-detail .article-loadmore-content > h4, .article-detail .highlight > h4', '.article-detail .article-detail-title > ul > li, .article-detail .article-detail-content > ul > li, .article-detail  .article-loadmore-content > ul > li, .article-detail .highlight > ul > li', '.article-detail .article-detail-title > ol > li, .article-detail .article-detail-content > ol > li, .article-detail  .article-loadmore-content > ol > li, .article-detail .highlight > ol > li', '.article-detail .article-detail-title > figure > figcaption, .article-detail .article-detail-content > figure > figcaption, .article-detail .article-loadmore-content > figure > figcaption, .article-detail .highlight > figure > figcaption']}",,,,,,,,,,

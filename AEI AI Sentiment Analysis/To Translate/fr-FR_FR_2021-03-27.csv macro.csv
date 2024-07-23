@@ -1,0 +1,758 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,itemListElement,mainEntityOfPage,headline,articleBody,publisher,author,datePublished,image,url,isAccessibleForFree,hasPart
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdlbmVyYWxpLmZyL2VudHJlcHJpc2UvYWN0dS9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWF1LXNlcnZpY2UtZGVzLWVudHJlcHJpc2VzL9IBAA?oc=5,L'intelligence artificielle au service des entreprises - Generali,2021-03-30,Generali,https://www.generali.fr,"Sans que nous nous en rendions compte, l’IA fait partie de notre vie quotidienne. Lorsque l’on demande à notre smartphone d’appeler un contact, c’est",N/A,"L’Intelligence artificielle (IA) intéresse de plus en plus de décideurs : sur 5501 interrogés, près du tiers déclarent que leur entreprise utilise des technologies d'IA*. Grâce à la puissance de calcul des serveurs, au Big Data et à l’automatisation de process, cet ensemble de technologies permet en effet de booster les...","L’Intelligence artificielle (IA) intéresse de plus en plus de décideurs : sur 5501 interrogés, près du tiers déclarent que leur entreprise utilise des technologies d'IA*. Grâce à la puissance de calcul des serveurs, au Big Data et à l’automatisation de process, cet ensemble de technologies permet en effet de booster les...",N/A,N/A,"
+Mentions légales CookiesVos données personnellesLE GROUPE GENERALI
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZnIuZnV0dXJvcHJvc3NpbW8uaXQvMjAyMS8wMy9hcnRlbWlzLWxpbnRlbGxpZ2VuemEtYXJ0aWZpY2lhbGUtY2hlLXJpY29ub3NjZS1sZS1lbW96aW9uaS1uZWktZGlwaW50aS_SAQA?oc=5,"ArtEmis, l'intelligence artificielle qui reconnaît les émotions dans les peintures - Futur proche",2021-03-30,Futur proche,https://fr.futuroprossimo.it,Un nouvel algorithme d'intelligence artificielle analyse les peintures et décrit les émotions humaines qu'une personne peut ressentir en les voyant.,N/A,Un nouvel algorithme d'intelligence artificielle analyse les peintures et décrit les émotions humaines qu'une personne peut ressentir en les voyant.,N/A,N/A,N/A,"
+
+
+ArtEmis, l'intelligence artificielle qui reconnaît les émotions dans les tableaux
+
+
+EN FR ES DE HR HI IT JA PT RU ZH-CN 
+
+Gianluca Riccio
+30 mars 2021
+
+
+
+
+
+
+
+
+
+
+Technologie
+Un nouvel algorithme d'intelligence artificielle analyse les peintures et décrit les émotions humaines qu'une personne peut ressentir en les voyant. 
+
+Partagez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les chercheurs ont construit un algorithme capable de capturer les émotions évoquées par les images et les  peintures.
+« Cette capacité sera essentielle pour rendre l’IA non seulement plus intelligente, mais aussi plus humaine, pour ainsi dire », dit-il. Panos Achlioptas, Doctorante en informatique à l'université de Stanford
+Experts de l'intelligence artificielle ils sont maintenant devenus très doués dans la création d’ordinateurs capables de « voir » le monde qui les entoure. Des algorithmes qui permettent de reconnaître des objets, des animaux et des activités dans divers domaines. L’IA est en passe de devenir la technologie fondamentale des voitures, des avions et des systèmes de sécurité autonomes du futur.
+Aujourd’hui, une équipe de chercheurs s’efforce d’apprendre aux ordinateurs à reconnaître non seulement ce que sont les objets d’une image ou d’un tableau, mais aussi ce que ces images et ces tableaux font ressentir aux gens. 
+Je parle d'algorithmes d'intelligence émotionnelle  artificielle.
+ArtEmis, la connaissance de l'art à travers la peinture
+Pour y parvenir, Achlioptas et son équipe ont collecté un nouvel ensemble de données, appelé ArtEmis, qui a été récemment publié dans un prépresse d'arXiv.
+L'ensemble de données est basé sur les 81.000 XNUMX  peintures WikiArt. Consiste en 440.000 réponses écrites de plus de 6.500 humains qui indiquent comment les  peintures les font ressentir et incluent des explications sur les raisons pour lesquelles ils ont choisi cette émotion particulière. 
+En utilisant ces réponses, Achlioptas et l'équipe, dirigée par le professeur d'ingénierie de Stanford Léonidas Guibas, ils ont formé des locuteurs neuronaux. 
+Ce sont des  intelligences artificielles qui répondent par des mots écrits : dans ce cas, elles génèrent des réponses émotionnelles à  l'art art visuel et les définissent.
+Leonidas Guibas, Université de Stanford 
+Pourquoi l'art ? 
+Les chercheurs ont choisi d'utiliser spécifiquement  l'art art, car le but d'un artiste est de susciter des émotions chez le spectateur. ArtEmis travaille indépendamment du sujet, des natures mortes aux portraits humains ou à la peinture abstraite.
+Le travail est une nouvelle approche de la vision par ordinateur, note Guibas. 
+Le travail classique d’acquisition de vision par ordinateur portait sur le contenu littéral. « Il y a trois chiens sur la photo » ou « quelqu'un boit du café dans une tasse ». Au lieu de cela, nous avions besoin de descriptions définissant le contenu émotionnel d’une image. Léonidas Guibas
+8 catégories émotionnelles
+L'algorithme classe les images et les  peintures dans l'une des huit catégories émotionnelles (de l'étonnement à l'amusement, de la peur à la tristesse), puis explique dans le texte écrit ce qui, dans ces images, justifie la lecture émotionnelle.
+
+L'intelligence artificielle fait son travail. Ils peuvent lui « montrer » une image qu'elle ne connaissait pas, et en réponse, elle dit ce qu'un être humain pourrait ressentir en la voyant.
+
+Étonnamment, disent les chercheurs, les légendes reflètent avec précision le contenu abstrait de l’image d’une manière qui dépasse largement les capacités des algorithmes de  vision par ordinateur existants. 
+Pas seulement: l'algorithme ne capture pas seulement la vaste expérience émotionnelle d'une image complète. Il permet de décrypter différentes émotions au sein des tableaux.
+Un exemple. Dans le célèbre tableau de Rembrandt ""La Décapitation de Jean-Baptiste"", ArtEmis distingue non seulement la ""douleur"" sur la tête coupée du Saint, mais aussi le ""contentement"" sur le visage de Salomé, la femme à qui la tête est présentée.
+ArtEmis va encore plus loin: il prend également en compte la subjectivité et la variabilité de la réponse humaine.
+Tous les gens ne voient pas et ne ressentent pas la même chose lorsqu'ils regardent des  peintures. Quelqu'un peut se sentir heureux de voir la Joconde, quelqu'un d'autre triste. ArtEmis peut distinguer ces différences.
+Un outil pour les artistes
+À court terme, les chercheurs prévoient qu'ArtEmis pourrait devenir un outil permettant aux artistes d'évaluer leurs œuvres pendant la création et de garantir que leur travail a l'impact souhaité.
+Cela pourrait fournir des conseils et une inspiration pour guider le travail de l’artiste. Un graphiste travaillant sur un nouveau logo peut utiliser ArtEmis pour cibler son effet émotionnel.
+Ce n'est que le début. Des peintures aux personnes. 
+Plus tard, après de nouvelles recherches et améliorations, des algorithmes basés sur les émotions pourraient être perfectionnés. Des  intelligences artificielles qui aideront à apporter une prise de conscience émotionnelle aux applications telles que les chatbots et les avatars de conversation.
+«Je vois ArtEmis apporter des connaissances de la psychologie humaine à l'intelligence artificielle», déclare Achlioptas. 
+L’intelligence artificielle devient de plus en plus humaine et personnelle. 
+
+
+
+Gianluca Riccio, directeur créatif de Melancia adv, rédacteur et journaliste. Elle fait partie de l'Institut italien pour le futur, de la World Future Society et de H+. Depuis 2006, il dirige Futuroprossimo.it, la ressource italienne de futurologie. Elle est partenaire de Forwardto - Etudes et compétences pour les scénarios futurs.
+
+
+
+Pour rendre compte des recherches, découvertes et inventions, contactez la rédaction !
+Suivez Futuro Prossimo sur Whatsapp : nouvelles et mises à jour exclusives (gratuites).
+
+
+FP sur Fatto QuotidianoAlberto Robiati et Gianluca Riccio guident les lecteurs à travers des scénarios du futur : les opportunités, les risques et les possibilités dont nous disposons pour créer un avenir possible.
+
+
+
+
+Gianluca Riccio est un invité régulier du podcast du Dr Alessandro Calderoni sur Relief, pour raconter des scénarios futurs liés à l’esprit et à la société. Écoutez sur Spotify
+
+
+Sur le même sujet :
+
+
+Le renseignement à l’ère du numérique : la CIA mise tout sur l’IA générative
+29 juin 2024
+
+
+Sécurité routière high-tech : une IA reconnaît les conducteurs ivres à leur visage
+26 juin 2024
+
+
+L'IA et l'avenir du travail, le PDG d'Anthropic : revenu de base ? Ce ne sera pas suffisant
+25 juin 2024
+
+
+
+archives
+
+Le dernier
+
+
+Percée dans le domaine des batteries au sodium : une conception innovante élimine l'anode traditionnelle
+8 juillet 2024
+
+
+Les astronautes et leur santé : même les voyages courts modifient la biologie humaine
+8 juillet 2024
+
+
+Une nouvelle étude met en garde : le xylitol augmente le risque de crise cardiaque et d'accident vasculaire cérébral
+8 juillet 2024
+
+
+Arabie Saoudite, chirurgie cardiaque robotisée : 98 % de survie, 400 opérations
+7 juillet 2024
+
+
+L’Arctique est en feu : le changement climatique alimente d’énormes incendies
+7 juillet 2024
+
+
+
+
+",https://schema.org,"[{'@type': 'Organization', '@id': 'https://www.futuroprossimo.it/#organization', 'name': 'Futuroprossimo.it', 'url': 'https://www.futuroprossimo.it/', 'sameAs': ['https://www.facebook.com/futuroprossimo', 'https://www.instagram.com/futuroprossimo.it/', 'https://www.linkedin.com/company/futuroprossimo', 'https://www.youtube.com/channel/UCZPY7GsmiHcSVZCQokJFhmw', 'https://www.pinterest.it/gianlucariccio/futuroprossimoit', 'https://twitter.com/futuroprossimo'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.futuroprossimo.it/#logo', 'inLanguage': 'it-IT', 'url': 'https://www.futuroprossimo.it/wp-content/uploads/2019/05/LOGOFOT.png', 'width': 300, 'height': 81, 'caption': 'Futuroprossimo.it'}, 'image': {'@id': 'https://www.futuroprossimo.it/#logo'}}, {'@type': 'WebSite', '@id': 'https://www.futuroprossimo.it/#website', 'url': 'https://fr.futuroprossimo.it/', 'name': 'Futuro Prossimo', 'description': ""L'actualité du monde de demain"", 'publisher': {'@id': 'https://www.futuroprossimo.it/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://www.futuroprossimo.it/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr'}, {'@type': 'ImageObject', '@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#primaryimage', 'inLanguage': 'it-IT', 'url': 'https://www.futuroprossimo.it/wp-content/uploads/2021/03/ivana-besevic-05.jpg', 'width': 2000, 'height': 1670, 'caption': 'ivana besevic 05'}, {'@type': 'WebPage', '@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#webpage', 'url': 'https://fr.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/', 'name': ""ArtEmis, l'intelligence artificielle qui reconnaît les émotions dans les peintures"", 'isPartOf': {'@id': 'https://www.futuroprossimo.it/#website'}, 'primaryImageOfPage': {'@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#primaryimage'}, 'datePublished': '2021-03-30T09:04:00+00:00', 'dateModified': '2021-03-30T00:05:08+00:00', 'description': ""Un nouvel algorithme d'intelligence artificielle analyse les peintures et décrit les émotions humaines qu'une personne peut ressentir en les voyant."", 'inLanguage': 'fr', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/']}]}, {'@type': ['Article', 'NewsArticle'], '@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#article', 'isPartOf': {'@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#webpage'}, 'author': {'@id': 'https://www.futuroprossimo.it/#/schema/person/7b3c88b73aaadc50d779901878eb78ff'}, 'headline': 'ArtEmis, l&#8217;intelligenza artificiale che riconosce le emozioni nei dipinti', 'datePublished': '2021-03-30T09:04:00+00:00', 'dateModified': '2021-03-30T00:05:08+00:00', 'mainEntityOfPage': {'@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#webpage'}, 'publisher': {'@id': 'https://www.futuroprossimo.it/#organization'}, 'image': {'@id': 'https://www.futuroprossimo.it/2021/03/artemis-lintelligenza-artificiale-che-riconosce-le-emozioni-nei-dipinti/#primaryimage'}, 'keywords': 'arte,intelligenza artificiale', 'articleSection': 'Tecnologia', 'inLanguage': 'it-IT'}, {'@type': 'Person', '@id': 'https://www.futuroprossimo.it/#/schema/person/7b3c88b73aaadc50d779901878eb78ff', 'name': 'Gianluca Riccio', 'image': {'@type': 'ImageObject', '@id': 'https://www.futuroprossimo.it/#personlogo', 'inLanguage': 'it-IT', 'url': 'https://secure.gravatar.com/avatar/89b68804b23d94821dc35912f89f5fb0?s=96&d=mm&r=g', 'caption': 'Gianluca Riccio'}, 'description': ""Gianluca Riccio, directeur créatif de Melancia adv, rédacteur et journaliste. Elle fait partie de l'Institut italien pour le futur, de la World Future Society et de H+. Depuis 2006, il dirige Futuroprossimo.it, la ressource italienne de futurologie. Elle est partenaire de Forwardto - Etudes et compétences pour les scénarios futurs."", 'sameAs': ['https://www.futuroprossimo.it/author/admin/', 'https://www.facebook.com/gianlucariccio', 'gianlucariccio.io', 'https://www.linkedin.com/in/gianlucariccio/', 'https://twitter.com/futuroprossimo']}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5sZXBhcmlzaWVuLmZyL2Vjb25vbWllL2J1c2luZXNzL2EtbHlvbi1jZXMtZW50cmVwcmVuZXVycy1tZXR0ZW50LWxpbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWF1LXNlcnZpY2UtZGUtbGEtY29zbWV0aXF1ZS0yOS0wMy0yMDIxLUdPRUwzV1JPUUpGUUJQNk0yM1NLM0pSNEpVLnBocNIBAA?oc=5,"A Lyon, ces entrepreneurs mettent l'intelligence artificielle au service de la cosmétique - Le Parisien",2021-03-29,Le Parisien,https://www.leparisien.fr,"Conçus à Lyon et fabriqués en Rhône-Alpes, les produits de la nouvelle marque ABBI sont conçus à partir d’un simple selfie utilisé pour faire un diagnostic de la peau et des soins sur mesures.",N/A,"Conçus à Lyon et fabriqués en Rhône-Alpes, les produits de la nouvelle marque ABBI sont conçus à partir d’un simple selfie utilisé pour fair","Conçus à Lyon et fabriqués en Rhône-Alpes, les produits de la nouvelle marque ABBI sont conçus à partir d’un simple selfie utilisé pour fair",/economie/business/,N/A,"Économie,Entreprises & start-upA Lyon, ces entrepreneurs mettent l’intelligence artificielle au service de la cosmétiqueConçus à Lyon et fabriqués en Rhône-Alpes, les produits de la nouvelle marque ABBI sont conçus à partir d’un simple selfie utilisé pour faire un diagnostic de la peau et des soins sur mesures.Par Catherine Lagrange Le 29 mars 2021 à 11h55Joanna et Frédéric Ifergan, créateurs de la marque ABBI, ont éduqué une intelligence artificielle pendant plus de deux ans pour proposer des soins adaptés à leurs clients. LP/Catherine LagrangeRéagirEnregistrerPartagerUne peau parfaite en un clic ! C’est la promesse d’ABBI (pour Authenticité, Bien-être, Beauté, Individualité), une nouvelle marque de cosmétique avant-gardiste lancée par un couple d’entrepreneurs lyonnais spécialiste du secteur. Leur concept, inédit, élaboré pendant quatre ans de recherche et développement, pourrait relever de la science-fiction. A partir d’un simple selfie, l’intelligence artificielle scanne le visage dans ses moindres détails, et fournit, en instantané, un diagnostic de la peau à partir duquel est créée une gamme de soins totalement personnalisée.« L’intelligence artificielle analyse sept caractéristiques de la peau », décrypte Joanna Ifergan, biochimiste de formation, « l’hydratation, la sensibilité, les rides, les taches, la rugosité, la dilatation des pores, les imperfections ». Une prouesse de l’intelligence artificielle qui a été « éduquée » pendant plus de deux ans et demi avec des dizaines de milliers d’images.LIRE AUSSI > Intelligence artificielle et travail : «Il y aura toujours un humain pour décider»A partir de ce diagnostic, l’intelligence artificielle produit désormais une « ordonnance beauté » qui conduit à la réalisation d’un soin combinant bases et principes actifs, sur mesure, reçu à domicile en 48 heures. « A partir de 6 bases et de 30 actifs, nous pouvons réaliser jusqu’à 40 000 combinaisons de crèmes », vante Frédéric Ifergan, spécialiste, lui, du marketing de la cosmétique.Direction la Chine et les Etats-UnisL’intérêt du sur-mesure ? « Nous avons tous une peau différente et la peau évolue tout au long de l’année, rappelle Joanna. Les marques traditionnelles n’en tiennent pas compte, elles fabriquent des crèmes pour le plus grand nombre pour obtenir une satisfaction moyenne de tous ». Le concept du couple va même jusqu’à faire réévaluer la prescription tous les mois et demi, en ne fournissant que des doses de 30 ml, vendus de 69 à 79 €, selon leur composition, à renouveler régulièrement.Le nouveau concept futuriste d’Abbi, se veut également éthique, avec une production résolument locale, effectuée en région Rhône-Alpes, avec les produits de base fabriqués à Rumilly (Savoie), et les assemblages dans le préparatoire pharmaceutique de Pélussin (Loire), mais également 97 % d’ingrédients d’origine naturelle, et excluant tout ingrédient polémique et tout emballage.A peine lancée, la cosmétique du futur « Made in Rhône-Alpes » semble déjà séduire bien au-delà des frontières régionales. Trois groupements de pharmacies représentant 800 officines en France, mais aussi des chaînes de parfumeries et d’instituts, viennent d’entrer dans la boucle, équipés de miroirs connectés effectuant les diagnostics… sans compter les clientes qui préfèrent passer directement par leur téléphone portable. Et l’application est déjà traduite en anglais et en chinois, prête à être lancée, d’ici septembre aux Etats-Unis et en Chine.Le couple d’entrepreneurs lyonnais travaille aussi à une adaptation de leur concept aux « millénials », friands de numérique, avec des petits prix et le traitement de leurs problèmes spécifiques comme l’acné. Mais aussi à des développements en milieu hospitalier, avec des traitements sur mesure destinés à soigner les lésions cutanées liées aux effets secondaires des radiothérapies des traitements contre le cancer.Dans la rubrique Entreprises & start-upÀ Brest, un petit génie fabrique des batteries électriques depuis son garage et approvisionne toute la FranceCasino : un « accord de principe » entre direction et salariés sur le plan social du distributeurTee-shirts, casquettes, sacs… À Paris, bars et restaurants se mettent aux produits dérivés Les plus lusDIRECT. Législatives : «Personne n’a gagné» les élections, affirme Gérald Darmanin1Législatives 2024 : voici les résultats définitifs du second tour, parti par parti2Législatives 2024 : voici à quoi va ressembler la nouvelle Assemblée nationale3Après les résultats du second tour des législatives, la gauche «prête à gouverner»4Législatives 2024 : la carte de France des résultats du second tour des élections5Journal du jour8 juillet 2024Lire le journal",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJjZy5jb20vcHJlc3MvMzFtYXJjaDIwMjEtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcmVzcG9uc2libGUtbmV3LWltcGVyYXRpdmUtZm9yLWNvbXBhbmllc9IBAA?oc=5,L'Intelligence Artificielle (IA) responsable : le nouvel impératif des entreprises - Boston Consulting Group,2021-03-31,Boston Consulting Group,https://www.bcg.com,"Paris, le 31 mars 2021 – L’adoption de l’Intelligence Artificielle en entreprise avance à grande vitesse. Mais pour être déployée à grande échelle au sein des organisations, l’IA doit être « responsable », c’est-à-dire qu’elle doit inspirer confiance, être perçue comme juste, non biaisée, explicable et augmenter les capacités humaines sans s’y substituer. Aujourd’hui, tout le monde parle d’IA responsable et éthique, il existe plus d’une soixantaine de chartes sur le sujet. Mais il est temps de passer des principes à l’action !",N/A,"Paris, le 31 mars 2021 – L’adoption de l’Intelligence Artificielle en entreprise avance à grande vitesse. Mais pour être déployée à grande échelle au sein des organisations, l’IA doit être « responsable », c’est-à-dire qu’elle doit inspirer confiance, être perçue comme juste, non biaisée,…","Paris, le 31 mars 2021 – L’adoption de l’Intelligence Artificielle en entreprise avance à grande vitesse. Mais pour être déployée à grande échelle au sein des organisations, l’IA doit être « responsable », c’est-à-dire qu’elle doit inspirer confiance, être perçue comme juste, non biaisée, explicable et augmenter les capacités humaines sans s’y substituer. Aujourd’hui, tout le monde parle d’IA responsable et éthique, il existe plus d’une soixantaine de chartes sur le sujet. Mais il est temps de passer des principes à l’action !",N/A,N/A,N/A,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZnIudGltZXNvZmlzcmFlbC5jb20vaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1sZS1nZWFudC1udmlkaWEtdmEtcmVjcnV0ZXItNjAwLWluZ2VuaWV1cnMtZW4taXNyYWVsL9IBcGh0dHBzOi8vZnIudGltZXNvZmlzcmFlbC5jb20vaW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS1sZS1nZWFudC1udmlkaWEtdmEtcmVjcnV0ZXItNjAwLWluZ2VuaWV1cnMtZW4taXNyYWVsL2FtcC8?oc=5,Intelligence artificielle: le géant Nvidia va recruter 600 ingénieurs en Israël - The Times of Israël,2021-03-29,The Times of Israël,https://fr.timesofisrael.com,"""En 2020, nous n'avons licencié aucun de nos travailleurs à cause du coronavirus. Au contraire,"" affirme le groupe américain de la microélectronique",N/A,"""En 2020, nous n'avons licencié aucun de nos travailleurs à cause du coronavirus. Au contraire,"" affirme le groupe américain de la microélectronique","""En 2020, nous n'avons licencié aucun de nos travailleurs à cause du coronavirus. Au contraire,"" affirme le groupe américain de la microélectronique",N/A,N/A,"
+
+
+
+Accueil
+
+
+
+
+Intelligence artificielle: le géant Nvidia va recruter 600 ingénieurs en Israël
+""En 2020, nous n'avons licencié aucun de nos travailleurs à cause du coronavirus. Au contraire,"" affirme le groupe américain de la microélectronique 
+
+
+
+Par Shoshanna Solomon 
+29 mars 2021, 18:22
+
+
+
+
+
+
+
+Facebook
+
+
+
+Twitter
+
+
+
+email
+
+Imprimer
+
+ 
+
+
+Jensen Huang, fondateur et PDG de Nvidia, lors de la conférence des développeurs GTC à Tel Aviv, le 18 octobre 2017. (Autorisation)
+
+
+Nvidia est déjà implantée depuis un petit moment en Israël. Après son rachat de Mellanox Technologies en 2020, elle emploie actuellement plus de 2 400 ingénieurs répartis sur sept centres de R&D, dont ceux de Yokneam, de Tel Aviv et de Raanana.
+Le géant américain, spécialisé dans les jeux et dans l’infographie, a finalisé l’année dernière le rachat de l’Israélien Mellanox Technologies Ltd. pour la somme astronomique de 7 milliards de dollars. 
+Nvidia a récemment déclaré qu’elle allait employer 600 nouveaux ingénieurs israéliens, spécialisés dans le matériel, les logiciels et la conception de puces pour soutenir son activité. Les technologies que Nvidia développe sont basées sur l’intelligence artificielle.
+
+
+Recevez gratuitement notre édition quotidienne par mail pour ne rien manquer du meilleur de l’info
+
+
+Inscription gratuite !
+
+
+Nvidia a été fondée en 1993 par Jensen Huang, Chris Malachowsky et Curtis Priem. A l’origine il s’agissait d’une entreprise spécialisée dans la conception de puces graphiques. C’est Nvidia qui a inventé l’unité de traitement graphique (GPU). Aujourd’hui, la firme est leader dans le domaine de l’intelligence artificielle.
+Après avoir acheté Mellanox (une firme israélienne fabriquant des serveurs hauts débits et proposant des solutions de commutation de stockage utilisées par des super-calculateurs à l’échelle mondiale), Nvidia emploie plus de 2 400 travailleurs israéliens et possèdent sept centres de R&D situés à Yokneam (l’ancien siège social de Mellanox), à Tel Aviv, à Jérusalem, à Raanana et à Beer Sheva dans le sud du pays.
+C’est en Israël que Nvidia mène ses plus grandes opérations de R&D hors des Etats-Unis.
+Le responsable des ressources humaines de Nvidia Israel, Gideon Rosenberg, a récemment déclaré que la croissance de l’entreprise ne cessait de croître depuis son implantation dans le pays. « Ce sera un grand plaisir pour nous de recruter des salariés israéliens, qui du fait de la Covid-19, ont malheureusement perdu leur emploi. Nous avons hâte également de recruter des ingénieurs en quête de nouveaux challenges, » a-t-il déclaré enthousiaste dans un communiqué. « En 2020, nous n’avons licencié aucun de nos travailleurs à cause du coronavirus. Au contraire, durant la crise, nous avons continué à recruter des centaines et des centaines de travailleurs », poursuit-il.
+Nvidia est définitivement le plus grand fabricant de puces électroniques sur le marché américain. En effet, la capitalisation boursière de l’entreprise est passée devant celle de Intel Corp., avec un total de 318 milliards de dollars sur le Nasdaq pour la première contre 264 milliards de dollars pour la seconde. Cependant Nvidia demeure le numéro 2 mondial dans ce domaine, derrière la taïwanaise TSMC.
+En Israël, Nvidia et Intel sont en concurrence et se disputent le marché. Effectivement, elles sont toutes les deux implantées dans le pays et y possèdent des centres de R&D opérationnels. Les deux entreprises américaines se disputent les talents israéliens. 
+La concurrence risque d’être encore plus forte avec l’arrivée récente sur le marché israélien de Google, dans ce domaine. Le géant américain des moteurs de recherche a déclaré plus tôt ce mois-ci, qu’il était en train de superviser la création d’un pool de fabrication de puces électroniques sous le commandement d’un ancien dirigeant d’Intel Israël.
+Cela fait 10 ans que Nvidia est implantée sur le marché israélien. Son activité en Israël tourne principalement autour de la vente de processeurs locaux; autour de l’achat de participations financières dans des start up nationales qui ont le vent en poupe à l’instar de Zebra Medical, Deep Instinct ou encore Rocketrick; ainsi qu’autour de la mise en opération de ses unités de recherche-développement.
+C’est en 2016 que Nvidia a inauguré son premier centre opérationnel de R&D en Israël. Puis c’est en 2018 que la firme américaine a installé son premier centre israélien, entièrement dédié à l’intelligence artificielle et aux technologies de deep-learning. Ce centre est dirigé par le professeur Gal Chechik, un ancien haut dirigeant du département « Intelligence artificielle » de Google.
+ 
+
+
+
+
+
+Israël est important pour vous… 
+
+... alors c’est le moment d'agir. Le Times of Israel est attaché à l’existence d’un Israël juif et démocratique, et le journalisme indépendant est l’une des meilleures garanties de ces valeurs démocratiques. Si, pour vous aussi, ces valeurs ont de l’importance, alors aidez-nous en rejoignant la communauté du Times of Israël. 
+
+Oui, Israël est important pour moi 
+
+Oui, Israël est important pour moi 
+Déjà membre ? Connectez-vous pour ne plus voir ce message
+
+
+
+
+
+
+Vous êtes un de nos fidèles lecteurs 
+
+ 
+Nous sommes ravis que vous ayez lu  X articles du Times of Israël  le mois dernier.
+
+C'est pour cette raison que nous avons créé le Times of Israel, il y a de cela onze ans (neuf ans pour la version française) : offrir à des lecteurs avertis comme vous une information unique sur Israël et le monde juif. Nous avons aujourd’hui une faveur à vous demander. Contrairement à d'autres organes de presse, notre site Internet est accessible à tous. Mais le travail de journalisme que nous faisons a un prix, aussi nous demandons aux lecteurs attachés à notre travail de nous soutenir en rejoignant la communauté du ToI. Avec le montant de votre choix, vous pouvez nous aider à fournir un journalisme de qualité tout en bénéficiant d’une lecture du Times of Israël sans publicités.Merci à vous,David Horovitz, rédacteur en chef et fondateur du Times of Israel 
+
+Rejoindre la communauté du Times of Israël 
+
+Rejoindre la communauté du Times of Israël 
+Déjà membre ? Connectez-vous pour ne plus voir ce message
+
+
+
+Les articles les plus lus
+
+
+
+
+
+
+
+
+
+1
+
+
+
+Philippines : Un Israélien et sa petite amie retrouvés morts après deux semaines de recherches
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+Israël choisit deux athlètes immigrants comme porte-drapeaux lors des J.O de Paris
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+France : Blanche Gardin décrédibilise et rigole de la lutte contre l’antisémitisme
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+Tsahal a averti par mail des plans du Hamas avant le 7 octobre avec un verset biblique
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+Une centaine de personnalités alertent sur la menace du Nouveau Front populaire pour les Français juifs
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+En France, la grand-mère d’une élue israélienne tabassée et traitée de « sale juive »
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+Un militant du Nouveau Front populaire arrache une affiche du bébé Kfir Bibas, otage à Gaza
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+Meyer Habib et LR auraient bien passé un accord avec le RN pour les législatives
+
+
+
+
+
+ 
+
+AdvertisementSkipAds by 
+
+
+En savoir plus sur :
+
+
+Israël Inside
+
+
+Start-up israélienne
+
+
+Emploi en Israël
+
+
+Coronavirus
+
+
+Nvidia
+
+
+Intelligence artificielle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2Vjb25vbWllL3VuaWZhaS1sLWludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtYXUtc2VydmljZS1kZS1sLWV4cGxvaXRhdGlvbi1kZXMtZG9ubmVlcy0yMDIxMDMzMdIBAA?oc=5,UNiFAi : la première plateforme d'intelligence artificielle garantissant la fiabilité des données produits des retailers. - Le Figaro,2021-03-31,Le Figaro,https://www.lefigaro.fr,"L’essor du e-commerce confronte les acteurs du retail à une multiplication des sources de données produits incomplètes, mal catégorisées, dupliquées... et fiabilisées à la main. UNiFAi a développé un moteur d’IA pour les soulager de ces tâches chronophages, accélérer leur...","itineraireentreprise, action, actualité bourse, analyse graphique, analyse technique, assurance, bourse, bourse de paris, cac 40, consommation, cotation, cotations, devises, économie, emploi, entreprises, fcp, Figaro, immobilier, impôts, indices, investissement","L’essor du e-commerce confronte les acteurs du retail à une multiplication des sources de données produits incomplètes, mal catégorisées, dupliquées... et fiabilisées à la main. UNiFAi a développé un moteur d’IA pour les soulager de ces tâches chronophages, accélérer leur...","L’essor du e-commerce confronte les acteurs du retail à une multiplication des sources de données produits incomplètes, mal catégorisées, dupliquées... et fiabilisées à la main. UNiFAi a développé un moteur d’IA pour les soulager de ces tâches chronophages, accélérer leur...",Économie,N/A,"
+UNiFAi : la première plateforme d'intelligence artificielle garantissant la fiabilité des données produits des retailers.
+
+
+
+Par L'Agence Delta
+
+Publié 
+                le 31/03/2021 à 09:50,        
+ Mis à jour le 22/04/2021 à 18:14
+
+
+
+
+
+
+
+
+
+
+Lire dans l’app
+
+
+
+
+
+
+
+
+
+Copier le lien
+
+
+
+
+
+
+
+Lien copié
+
+
+
+
+
+
+
+
+
+Mail
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+Linkedin
+
+
+
+
+
+
+
+
+
+Messenger
+
+
+
+
+
+
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+
+
+
+
+L’essor du e-commerce confronte les acteurs du retail à une multiplication des sources de données produits incomplètes, mal catégorisées, dupliquées... et fiabilisées à la main. UNiFAi a développé un moteur d’IA pour les soulager de ces tâches chronophages, accélérer leur time-to-market et optimiser leur taux de conversion.
+
+
+Contenu conçu et proposé par
+
+
+
+
+
+
+L’IA qui révolutionne le traitement des données produits
+Jesse Créange (CEO d’UNiFAi), Pierre de Sahb (CTO et data scientist) et Maximilien Baudry, (CSO et docteur en IA) mettent le doigt sur un problème de taille lorsqu’ils se retrouvent tous les 3 dans leur métier respectif à devoir nettoyer des millions de données à la main. Bien que le cerveau humain ne soit pas formaté pour travailler sur un tableur excel avec des milliers de lignes, ils réalisent qu’il n’existe aucune alternative à ce processus extrêmement laborieux. Convaincus que l’IA va révolutionner le traitement des données, ils créent la startup UNiFAi fin 2017.
+Après 18 mois de R&D durant lesquels l’IA s’est entraînée sur des millions de données, UNiFAi lance une plateforme d’intelligence artificielle pour nettoyer, catégoriser, enrichir les catalogues produits des retailers.
+Fiabiliser les données produits pour offrir une meilleure expérience client
+Les retailers doivent unifier les données produits qu’ils récupèrent de leurs fournisseurs, leurs filiales et de leurs marchands pour les intégrer dans leur système interne. Ce volume de données croît de manière exponentielle avec l’essor fulgurant des marketplaces BtoB et BtoC. Malgré les PIM et autres solutions marketplace existantes, les category managers et e-merchandisers traitent toujours des milliers de données à la main pour centraliser des données internes disparates ou intégrer les nouveautés à leur site e-commerce.
+Automatiser la fiabilisation des données permet aux clients UNiFAi de diviser par deux leur time-to-market et d’en finir avec les anomalies, doublons, attributs produits manquants, erreurs de classification qui nuisent à leur taux de conversion.
+En effet, la mauvaise qualité des données impacte autant les équipes internes qui perdent un temps considérable que les clients qui ne profitent pas d’une expérience d’achat optimale à cause d’erreurs ou d’informations manquantes dans les fiches produits. Alors que huit français sur dix abandonnent leur panier à cause d’informations inexactes sur un produit, et que cinq français sur dix renvoient un produit car les informations du produit n’étaient pas les bonnes, UNiFAi permet de limiter les erreurs sur les fiches produits.
+La startup promet un taux d’erreur inférieur à 5% dès la première utilisation et une amélioration de ce résultat en quelques semaines d’apprentissage. Pour les consommateurs, cela signifie une meilleure expérience car les produits sont mieux référencés, plus détaillés, mieux catégorisés et donc mis en valeur sur les sites ecommerce.
+
+
+
+
+
+
+
+
+
+
+
+UNiFAi : la première plateforme d’intelligence artificielle garantissant la fiabilité des données produits des retailers
+            Unifai
+        
+
+Une plateforme clé en main conçue pour répondre aux enjeux des retailers
+Facile à utiliser, la plateforme a été conçue pour que les category managers et les e-merchandisers puissent prendre en main l’outil en moins d’une heure. 5 modules d’IA sont proposés en mode SaaS :
+
+Catégorisation : Classifier les produits dans la hiérarchie de son site e-commerce.
+Extraction : Compléter les attributs produits en extrayant des valeurs d’une description libre : composition, couleur, poids…
+Matching : Rapprocher des bases de données pour éliminer les doublons ou enrichir le catalogue à partir d’une source externe.
+Normalisation : Corriger les anomalies et erreurs de format.
+Mapping : Réorganiser les colonnes d'un catalogue en fonction de sa nomenclature.
+
+Sur le front de la fiabilisation des données, les marketplaces sont en première ligne avec un accroissement exponentiel du volume de données transmis par les marchands. L’enjeu primordial est de fluidifier l’onboarding de centaines de milliers de nouveaux produits pour une mise en ligne rapide dans le respect de leur nomenclature produit.
+Les distributeurs au coeur de leur transformation digitale font aussi appel à UNiFAi pour réconcilier les bases de données produits de leurs magasins dans le but de lancer leur marketplace BtoB, d’accroître l’offre produit de leur site e-commerce existant ou d’optimiser leurs achats avec une base de données fiable et unifiée.
+La plateforme UNiFAi fiabilise déjà des millions de données pour de grands acteurs du retail comme Gedimat, Intersport ou Retif. La startup, membre de la Microsoft AI Factory, a été nommée l’une des 40 des startups les plus prometteuses de Station F fin 2020 et compte bien consolider sa croissance en travaillant avec le top 10 des retailers français.
+Simplifier le traitement des données pour améliorer la vie des professionnels et leurs performances.
+L’équipe UNiFAi s’efforce de faire bouger les lignes du marché du traitement des données pour améliorer la vie des professionnels et leurs performances. UNiFAi garantit la fiabilité des données pour que les retailers puissent se délester de tâches à faible valeur ajoutée et se concentrer sur leur cœur de métier.
+Après une première levée de fonds de 350 000 euros auprès de business angels, UNiFAi continue de faire évoluer sa plateforme pour satisfaire tous les besoins de ses clients, et travaille main dans la main avec eux pour développer de nouveaux modules.
+Dans les deux ans, UNiFAi ambitionne de commercialiser sa solution à d’autres secteurs qui partagent les mêmes problématiques en France et à l’international. 
+
+",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFyY2hpbWFnLmNvbS92ZWlsbGUtZG9jdW1lbnRhdGlvbi8yMDIxLzAzLzI5L2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtaW1wYWN0LW91dGlscy12ZWlsbGUtdmVpbGxldXJz0gEA?oc=5,Intelligence artificielle : quel impact sur les outils de veille et le métier de veilleur ? - Archimag,2021-03-29,Archimag,https://www.archimag.com,"Très présente désormais dans les outils de gestion de l’information, l’intelligence artificielle impacte aussi l’activité de veille et vient copieusement enrichir les solutions du marché. Avec une promesse claire pour les veilleurs : les rendre plus efficaces, plus rapides dans la sélection de l’information et plus pertinents dans l’analyse de celle-ci. ",N/A,"Très présente désormais dans les outils de gestion de l’information, l’intelligence artificielle impacte aussi l’activité de veille et vient copieusement enrichir les solutions du marché. Avec une promesse claire pour les veilleurs : les rendre plus efficaces, plus rapides dans la sélection de l’information et plus pertinents dans l’analyse de celle-ci. ",N/A,N/A,N/A,"  Intelligence artificielle : quel impact sur les outils de veille et le métier de veilleur ?   Le 29/03/2021  (Mis à jour le 25/01/2024 )   communiqué cision_intelligence_artificielle_veille.jpg In fine, l’intelligence artificielle permet d’accompagner l’évolution du métier de veilleur. Avec, désormais, des enjeux d’efficacité et de confiance. (crédits : Pixabay Gerd Altmann)  Facebook Twitter Linkedin Google+ Mail Imprimer  Facebook Twitter Linkedin Google+  MailTrès présente désormais dans les outils de gestion de l’information, l’intelligence artificielle impacte aussi l’activité de veille et vient copieusement enrichir les solutions du marché. Avec une promesse claire pour les veilleurs : les rendre plus efficaces, plus rapides dans la sélection de l’information et plus pertinents dans l’analyse de celle-ci. Comment identifier rapidement la bonne information dans la masse de contenus disponibles en ligne, sur les réseaux sociaux et permettre une prise de décision plus rapide et plus étayée ? C’est précisément cette équation que résout l’IA !Les professionnels de l’information doivent aujourd’hui composer avec un large pool de sources et de données, être capables de jauger son degré de confiance, et in fine, de fournir une information décisionnelle éclairée et vérifiée dans un délai de plus en plus contraint. Sans intelligence artificielle, le défi est colossal. Voilà pourquoi Cision a déjà intégré l’IA à ses outils de veille. Car vu le volume d’informations agrégées (6 000 titres de presse, 11 000 sites éditoriaux, etc.), il est primordial d’être correctement dimensionné et armé en termes de technologies pour la traiter. Apprendre au quotidien pour être plus performantReconnaître automatiquement un logo par exemple ou identifier en quelques secondes les sources intéressantes sur un sujet précis font partie des atouts de l’IA. Et cette capacité de surveillance, de détection et d’analyse n’est possible que grâce à des algorithmes qui apprennent d’un usage régulier. “Grâce à nos 10 000 clients qui nourrissent en permanence l’IA, nous amenons ce type de technologie à maturité”, indique Xavier Simon, Directeur Général de Cision France. Tout en sachant que rien n’est transmis au client, avant d’être vérifié au préalable par nos équipes”. Vers une solution de veille complèteCision a d’ailleurs racheté récemment la plateforme de social listening Brandwatch qui utilise l'intelligence artificielle et le machine learning pour écouter, structurer et ""donner du sens"" aux messages diffusés par les utilisateurs sur les réseaux sociaux. Avec cette opération, Cision confirme sa volonté de construire une solution complète de veille et d'accompagnement dédiée aux professionnels de l'information. Et ce, en proposant l’UX la plus satisfaisante possible et en intégrant régulièrement des fonctionnalités supplémentaires. Comme la possibilité, par exemple, de détecter automatiquement la présence d’un interlocuteur sur une vidéo. L’IA ouvre, en effet, un impressionnant champ des possibles qui s’appuie avant tout sur l’apprentissage. Plus les usages seront nombreux, plus l’IA sera efficace. L’IA, le nouvel appui du veilleurIn fine, l’intelligence artificielle permet d’accompagner l’évolution du métier de veilleur. Avec, désormais, des enjeux d’efficacité et de confiance. “S’il y a quelques années encore, l’IA était un sujet de chercheurs, ce n’est plus le cas aujourd’hui, poursuit Xavier Simon. Elle est aujourd’hui intégrée dans des outils utilisables par tous”. Quant à ceux qui s’inquiètent de la place croissante prise par l’IA, qu’ils se rassurent : il y aura toujours besoin de spécialistes au sein des métiers de l’information. “Le savoir-faire humain est essentiel pour hiérarchiser l’information, être capable d’analyser les sources et d’utiliser des outils comme les nôtres”, conclut Xavier Simon. Pour aller plus loin : Découvrez Europresse, la solution de Veille Médias et de recherche documentaire pour les professionnels https://www.cision.fr/landing-pages/europresse-bibliotheque-medias
+
+ Facebook Twitter Linkedin Google+ Mail Imprimer Courriel * 
+
+  0 Commentaire Veilleintelligence artificiellegestion de l'informationCisionOutils de veilleVeille média Connectez-vous ou inscrivez-vous pour publier un commentaire ",http://schema.org,"[{'@type': 'Article', 'headline': 'Intelligence artificielle : quel impact sur les outils de veille et le métier de veilleur ?', 'name': 'Intelligence artificielle : quel impact sur les outils de veille et le métier de veilleur ?', 'description': 'Très présente désormais dans les outils de gestion de l’information, l’intelligence artificielle impacte aussi l’activité de veille et vient copieusement enrichir les solutions du marché. Avec une promesse claire pour les veilleurs : les rendre plus efficaces, plus rapides dans la sélection de l’information et plus pertinents dans l’analyse de celle-ci.\xa0', 'author': {'@type': 'Person', 'name': 'communiqué'}, 'publisher': {'@type': 'Organization', '@id': 'https://www.archimag.com', 'name': 'Archimag.com', 'url': 'https://www.archimag.com', 'logo': {'@type': 'ImageObject', 'url': 'https://www.archimag.com/sites/archimag.com/files/LogoFullArchimag350_1.png'}}, 'datePublished': '29/03/2021 - 16:32', 'dateModified': '25/01/2024 - 16:33', 'image': {'@type': 'ImageObject', 'url': 'https://www.archimag.com/sites/archimag.com/files/web_articles/image/cision_intelligence_artificielle_veille.jpg'}}, {'@type': 'WebSite', '@id': 'https://www.archimag.com', 'name': 'Archimag.com', 'url': 'https://www.archimag.com'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5jYWRyZW1wbG9pLmZyL2VkaXRvcmlhbC9hY3R1YWxpdGVzL2NhZHJlbXBsb2ktdHYvdnUtc3VyLWZyYW5jZS0zLWxlLW1ldGllci1kZS1jb21wdGFibGUtYS1iZWF1Y291cC1jaGFuZ2Utdm91cy1sZS1zYXZpZXrSAQA?oc=5,"Vu sur France 3 Ile-de-France : le métier de comptable a beaucoup changé, voici pourquoi - Cadremploi",2021-03-31,Cadremploi,https://www.cadremploi.fr,"REPLAY #ECM du 1er avril  2021 –Si la profession a perdu un quart de ses effectifs en vingt ans, être comptable reste un métier d'avenir mais complètement chamboulé. Automatisation et intelligence artificielle l'ont libéré de certaines tâches répétitives et fastidieuses. Il se spécialise de plus en plus dans le conseil ou d'autres services à plus forte valeur ajoutée. Bonne nouvelle, la profession recrute et les offres d'emploi ne restent pas longtemps en ligne. Pour l'émission ""Ensemble C'est mieux"" produite par France 3, Cadremploi a repéré notamment une offre de comptable chez une marque de prêt-à-porter fondé par des musiciens 🎵. A vos CV !",N/A,"REPLAY #ECM du 1er avril  2021 –Si la profession a perdu un quart de ses effectifs en vingt ans, être comptable reste un métier d'avenir mais complètement chamboulé. Automatisation et intelligence artificielle l'ont libéré de certaines tâches répétitives et fastidieuses. Il se spécialise de plus en plus dans le conseil ou d'autres services à plus forte valeur ajoutée. Bonne nouvelle, la profession recrute et les offres d'emploi ne restent pas longtemps en ligne. Pour l'émission ""Ensemble C'est mieux"" produite par France 3, Cadremploi a repéré notamment une offre de comptable chez une marque de prêt-à-porter fondé par des musiciens 🎵. A vos CV !","REPLAY #ECM du 1er avril  2021 –Si la profession a perdu un quart de ses effectifs en vingt ans, être comptable reste un métier d'avenir mais complètement chamboulé. Automatisation et intelligence artificielle l'ont libéré de certaines tâches répétitives et fastidieuses. Il se spécialise de plus en plus dans le conseil ou d'autres services à plus forte valeur ajoutée. Bonne nouvelle, la profession recrute et les offres d'emploi ne restent pas longtemps en ligne. Pour l'émission ""Ensemble C'est mieux"" produite par France 3, Cadremploi a repéré notamment une offre de comptable chez une marque de prêt-à-porter fondé par des musiciens 🎵. A vos CV !",N/A,N/A,"
+          Accueil
+          
+          Cadremploi TV
+          
+        Vu sur France 3 Ile-de-France : le métier de comptable a beaucoup changé, voici pourquoi
+       
+        Vu sur France 3 Ile-de-France : le métier de comptable a beaucoup changé, voici pourquoi
+        Publié le 31 mars 2021 Sylvia Di Pasquale REPLAY #ECM du 1er avril  2021 –Si la profession a perdu un quart de ses effectifs en vingt ans, être comptable reste un métier d'avenir mais complètement chamboulé. Automatisation et intelligence artificielle l'ont libéré de certaines tâches répétitives et fastidieuses. Il se spécialise de plus en plus dans le conseil ou d'autres services à plus forte valeur ajoutée. Bonne nouvelle, la profession recrute et les offres d'emploi ne restent pas longtemps en ligne. Pour l'émission ""Ensemble C'est mieux"" produite par France 3, Cadremploi a repéré notamment une offre de comptable chez une marque de prêt-à-porter fondé par des musiciens 🎵. A vos CV !       0     Zoom sur le métier de comptableQuelles offres d'emploi de comptable ? Zoom sur le métier de comptableDans cette vidéo, éclairage sur le métier de comptable.Dans une PME = polyvalence ! Dans une plus  grande entreprise = spécialisé en compta client, fournisseur, paie, recouvrement, analytique, etcou dans un cabinet d'expertise comptable, comme Margaux BOSC-MAIGROT (voir le reportage sur son métier au quotidien dans la video ci-dessous)Quelles offres d'emploi de comptable ?Retrouvez une liste d'offre d'emploi de COMPTABLE mise à jour en permanence.
+
+
+Vu sur France 3 Ile-de-France : la maintenance industrielle recrute et les reconversions y sont possibles
+REPLAY #ECM du 26 mars 2021 –  Les Français aiment leur industrie mais n'ont pas envie d'y travailler. Les métiers de la maintenance industrielle…
+
+
+
+
+Vu sur France 3 Ile-de-France : le métier d'agriculteur urbain et une histoire d'offre d'emploi qui rafraichit les villes
+REPLAY #ECM du 4 mars 2021 –  Pour l'émission ""Ensemble C'est mieux"" produite par France 3, la rédaction de Cadremploi* zoome sur le métier…
+
+  Tags : 
+    metiers qui recrutent
+    
+      Sylvia Di Pasquale
+     Je suis rédactrice en chef de Cadremploi depuis 2006, en charge de la  rubrique actualités du site. Je couvre des sujets sur la mutation des  métiers, l'évolution des rapports recruteurs/recrutés, les nouvelles  pratiques managériales ou les avancées de la parité. A la fois sous  forme de textes, d'émissions video, de podcasts ou d'animation de débats  IRL.  Vous aimerez aussi :  Notre cerveau est-il vraiment multitâche (sans dégâts) ? Une série de podcasts archi documentés explore notre relation au travail à travers l'Histoire Désengagé, pessimiste, optimiste, avant-gardiste... Et vous, quel est votre rapport au travail ?",https://schema.org,,Article,"[{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.cadremploi.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Cadremploi TV', 'item': 'https://www.cadremploi.fr/editorial/actualites/cadremploi-tv.html'}, {'@type': 'ListItem', 'position': 3, 'name': 'Vu sur France 3 Ile-de-France : le métier de comptable a beaucoup changé, voici pourquoi', 'item': 'https://www.cadremploi.fr/editorial/actualites/cadremploi-tv/vu-sur-france-3-le-metier-de-comptable-a-beaucoup-change-vous-le-saviez'}]","{'@type': 'WebPage', '@id': 'https://www.cadremploi.fr/editorial/actualites/cadremploi-tv/vu-sur-france-3-le-metier-de-comptable-a-beaucoup-change-vous-le-saviez'}","Vu sur France 3 Ile-de-France : le métier de comptable a beaucoup changé, voici pourquoi","Zoom sur le métier de comptableDans cette vidéo, éclairage sur le métier de comptable.Dans une PME = polyvalence ! Dans une plus  grande entreprise = spécialisé en compta client, fournisseur, paie, recouvrement, analytique, etcou dans un cabinet d'expertise comptable, comme Margaux BOSC-MAIGROT (voir le reportage sur son métier au quotidien dans la video ci-dessous)Quelles offres d'emploi de comptable ?Retrouvez une liste d'offre d'emploi de COMPTABLE mise à jour en permanence.
+			
+    		
+    		Vu sur France 3 Ile-de-France : la maintenance industrielle recrute et les reconversions y sont possibles
+    		REPLAY #ECM du 26 mars 2021 –  Les Français aiment leur industrie mais n'ont pas envie d'y travailler. Les métiers de la maintenance industrielle…
+  			
+		
+			
+    		
+    		Vu sur France 3 Ile-de-France : le métier d'agriculteur urbain et une histoire d'offre d'emploi qui rafraichit les villes
+    		REPLAY #ECM du 4 mars 2021 –  Pour l'émission ""Ensemble C'est mieux"" produite par France 3, la rédaction de Cadremploi* zoome sur le métier…
+  			
+		","{'@type': 'Organization', 'name': 'Cadremploi', 'logo': {'@type': 'ImageObject', 'url': 'https://cdn-cadremploi.carriere.fcms.io/assets/img/home/logo-cadremploi.png', 'height': '551', 'width': '500'}}","{'@type': 'Person', 'name': 'Sylvia Di Pasquale'}",2021-04-01T00:00:00Z,"{'@type': 'ImageObject', 'url': 'https://img.figarocms.net/cadremploi-edito/439a5363-a574-402a-aba2-85c4c7df8f34_Margot.JPG?auto=compress,format&rect=0,0,1273,637&w=800&h=400'}",https://www.cadremploi.fr/editorial/actualites/cadremploi-tv/vu-sur-france-3-le-metier-de-comptable-a-beaucoup-change-vous-le-saviez,False,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.paywall'}"
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZ1dHVyYS1zY2llbmNlcy5jb20vc2NpZW5jZXMvc2tpbGx6L21ldGllcnMvbWV0aWVycy1pbmdlbmllcmllLWluZ2VuaWV1ci1lbGVjdHJvbmlxdWUtMTMwL9IBAA?oc=5,"Devenir ingénieur en électronique : formations, débouchés, salaire... - Futura",2021-03-27,Futura,https://www.futura-sciences.com,"Electronique, informatique, innovation sont des mots qui te parlent ? Tu aimes créer ou découvrir de nouvelles technologies ? Découvre vite comment devenir ingénieur en électronique et invente le...","métiers de l'ingénierie, informatique, emploi, carte électronique, composant électronique, ingénieur, diplôme d'ingénieur, nouvelles technologies, école d'ingénieur, iut, master universitaire, études universitaires, dut, Skillz","Electronique, informatique, innovation sont des mots qui te parlent ? Tu aimes créer ou découvrir de nouvelles technologies ? Découvre vite comment devenir ingénieur en électronique et invente le...","Electronique, informatique, innovation sont des mots qui te parlent ? Tu aimes créer ou découvrir de nouvelles technologies ? Découvre vite comment devenir ingénieur en électronique et invente le...",N/A,N/A,"skillzmétiersIngénieur en électronique...Ingénieur en électronique Métiers de l'ingénierieInformatiqueEmploimétierPublicitéElectronique, informatique, innovation sont des mots qui te parlent ? Tu aimes créer ou découvrir de nouvelles technologies ? Découvre vite comment devenir ingénieur en électronique et invente le nouvel objet indispensable du futur. au sommaireLes principales compétences et qualités à avoirLes conditions de travailComment devenir ingénieur en électronique ?Le salaire d’un ingénieur électronicienLes perspectives d’évolution d’un ingénieur en électroniqueEntreprises qui emploient des ingénieurs électroniciensÀ lire aussiL'ingénieur en électronique est chargé de concevoir de nouveaux composants ou matériels électroniques, ou de participer à leur production. Il est la pièce maîtresse dans l'apparition de nouvelles innovations dans notre quotidien, que ce soit à destination du grand public ou de professionnels.L'ingénieur électronicien peut occuper des postes très particuliers :S'il travaille dans la recherche, l'ingénieur en électronique sera chargé de mettre au point des innovations technologiques en respectant notamment les délais et les coûts imposés.Dans le secteur de la fabrication, l'ingénieur électronicien sera chargé de planifier et d'organiser le travail des équipes.L'ingénieur d'essai sera, quant à lui, responsable de la réalisation de prototype et de son essai afin de vérifier qu'il corresponde bien à ce qui a été prévu.L'ingénieur d'affaires est rattaché au service commercial. Fin connaisseur de ses produits et de leur fabrication, il conçoit du sur-mesure pour ses clients, adaptés à leurs besoins. Il est à même de mener des négociations et développer un argumentaire pour vendre ses produits.Les principales compétences et qualités à avoirLe métier d'ingénieur électronicien nécessite de nombreuses compétences et qualités tant ses missions sont variées :maîtriser parfaitement les composants électroniques ;connaître le développement informatique et les langages de programmation ;avoir une  bonne utilisation des logicielslogiciels de conception de systèmes électroniques assistés par ordinateurordinateur ;maîtriser les procédures de tests électroniques ;savoir travailler en équipe et avoir un bon sens relationnel ;parler anglais ;faire preuve de créativité et de dynamisme ;mener une veille technologique.   Le saviez-vous ?Dans le cadre de sa formation d’Ingénieur, l’ESME propose une majeure dédiée aux innovations. De la mécatronique à l’intelligence artificielle, en passant par les systèmes embarqués, cette spécialisation s’adresse à ceux qui veulent donner vie aux innovations qui façonneront notre futur. Rendez-vous sur le site pour en savoir plus. S’il est ingénieur d’essai, l’ingénieur électronique est en charge de réaliser un prototype et de le tester. @ Scanrail, FotoliaLes conditions de travailL'ingénieur en électronique travaille en bureau au sein d'une équipe. Il doit maîtriser la gestion de projet et peut participer à tout ou partie du processus de création d'une nouvelle innovation. Ses horaires peuvent être denses mais sont classiques.Comment devenir ingénieur en électronique ? Un bac + 5 est requis pour exercer le métier d'ingénieur en électronique. Voici le parcours possible :Bac S ou STI2D ;BTS Systèmes électroniques ;DUT Génie électrique et informatique industrielle ;Master Techniques et technologies des télécommunications ;Master Systèmes électroniques, Systèmes informatiques (SESI) ;École d'ingénieurs : ESME, Telecom ParisTech, Supelec, ENSEA, ESIEE, ISEP...Le salaire d’un ingénieur électronicienÀ ses débuts, un ingénieur en électronique touchera un salaire compris entre 2.700 et 3.000 euros bruts par mois en moyenne, en fonction de son employeur. Avec de l'expérience, sa rémunération pourra atteindre les 4.500 à 6.000 euros bruts mensuels.Les perspectives d’évolution d’un ingénieur en électroniqueAprès plusieurs années d'expérience, un ingénieur en électronique pourra prétendre à un poste de chef de projet ou de responsable d'unité de production. Vers la fin de carrière, il pourra également s'orienter vers un poste d'ingénieur d'affaires voire de directeurs de bureaux d'études.Entreprises qui emploient des ingénieurs électronicienssociétés de services ;industrie automobileautomobile ;télécommunications ;secteur électronique ;industrie aéronautique. Barefoot VitalityNeurologists Amazed: Barefoot Shoes are The Best Thing You Can Do in 2024Discover 10 Reasons Why These Shoes have Shocked the Healthcare Industry!Barefoot Vitality|SponsoriséSponsoriséAnnulerLendgoDon't Borrow From The Bank If You Own a Home, Do This Instead (It's Genius)Borrow without affecting your current mortgage. Lendgo|SponsoriséSponsoriséClick HereAnnulerHealth Insight JournalSwollen Legs & Feet: Use This to Help Drain Edema FluidHealth Insight Journal|SponsoriséSponsoriséLearn MoreAnnulerBarefoot VitalitySick of Pain? These Barefoot Shoe is Favored by NeurologistsBarefoot Vitality|SponsoriséSponsoriséAnnulerOnline Shopping ToolsAmazon's Worst Nightmare: Thousands Canceling Prime for This Clever HackThis little-known American Shopping Tip is changing the game for families nationwide – find out how.Online Shopping Tools|SponsoriséSponsoriséLearn MoreAnnulerDateMyAgeDating Site Where Women Message First! DateMyAge|SponsoriséSponsoriséSign UpAnnulerSeeking Health NewsCardiologists: Too Much Belly Fat? Do This Before BedTry it tonight!Seeking Health News|SponsoriséSponsoriséLearn MoreAnnulerCompareCredit2 Cards Charging 0% Interest Until Nearly 2026With no annual fee and no interest until nearly 2026, this card is helping Americans pay off debt in record time.CompareCredit|SponsoriséSponsoriséAnnulerSeeking Health News1 Teaspoon Before Bed Can Burn Belly Fat Like Never BeforeTry it tonight!Seeking Health News|SponsoriséSponsoriséLearn MoreAnnulerGundry MD Top Doctor: This Harmful Substance Could Be Lurking in Your DietDiscover the hidden secrets unveiled by top doctor that are likely triggering your persistent symptoms.Gundry MD |SponsoriséSponsoriséLearn MoreAnnulerprimenutritionsecrets.comMD: Building Muscle After 60 Comes Down To This 1 Thingprimenutritionsecrets.com|SponsoriséSponsoriséAnnulerSherumThis New AC Cooler Cools the Room In SecondsSherum|SponsoriséSponsoriséLearn MoreAnnulerElenadateDating for Mature SinglesShare your feelings and emotions with someone.Elenadate|SponsoriséSponsoriséRead MoreAnnuler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mon métier expliqué à ma mèreMaman, le téléphone portable, le GPS , le lecteur DVD c’est moi !! Je vais chercher en permanence à innover soit en créant de nouveaux produits, soit en améliorant ceux déjà existants. C’est comme ça que ton téléphone portable est devenu de plus en plus mince et de plus en plus performant. Je peux travailler dans de multiples secteurs d’activités (télécommunication, santé, défense, aéronautique…) et je dois maîtriser aussi bien la partie composants électroniques que la partie développement informatique. Bref, un métier passionnant, qui me rend excité… comme une puce ! par Fanny PégardRédactrice Weble 27 mars 2021PublicitéComparatifs et bons plansConsoGuides TechL'iPhone 14 Pro reconditionné est proposé à moins de 1000 € sur Cdiscount !ConsoGuides vélos et trottinettesHITWAY BK7 : -650 € sur ce VAE de montagne qui fait sensation sur Cdiscount !ConsoGuides MaisonBarbecue Grill Garden Andaloucia : découvrez le bon plan de l'année pour votre été !ConsoGuides piscine et spaQuelles sont les top piscines tubulaires à acheter pour l'été ?ConsoGuides piscine et spaDécouvrez les top robots de piscine au meilleur prixConsoGuides voyageQuelles sont les top lampes frontales les plus performantes pour vos aventures nocturnes ?MaisonmoustiquaireLes moustiquaires en test - voir ici !Techpc portable gamerLes pc portables gamer - notre comparatifTechcasque bluetoothMeilleur casque bluetooth 2024 ? voir iciDécouvrez tous nos bons plansPublicitéNos articlesà lire aussiSciencesMétiers de l'ingénierieIngénieur bureau d’étudesmétierTechMétiers de l'informatiqueIngénieur sécurité informatiquemétier• 25/02/2020SciencesMétiersIngénieur en intelligence artificiellemétier• 26/12/2023SciencesSup'BiotechIngénieur Recherche et Développementmétier• 25/12/2023SciencesEmploiÊtre ingénieur en 2020actualité• 04/01/2021SciencesÉcoles d'ingénieursQuelles sont les meilleures écoles d’ingénieur informatique ?question réponse• 03/09/2021SciencesBAC +5Bac +5 : ingénieur-manager, la carte gagnante ?question réponse• 27/01/2012SciencesÉcoles d'ingénieursDécouvrir le métier d'ingénieur en biotechnologies, c'est aujourd'hui avec le live de Sup'Biotech !actualité• 05/01/2021SciencesÉcoles d'ingénieursPourquoi opter pour une école d’ingénieur généraliste ?question réponse• 03/03/2021SciencesSkillzClassement 2021 des meilleures écoles d’ingénieurquestion réponse• 26/03/2021TechRobotiqueCet ingénieur a essayé un robot-coiffeur pendant le confinementactualité• 25/07/2020TechInternetLe groupe Ionis dévoile sa nouvelle école du numérique : Epitech Digitalbrève• 20/09/2019TechOrdinateur quantiqueL’étrange lien entre les Lego et l’informatique quantiquebrève• 24/12/2019SciencesSavoirsÀ voir ou revoir : notre débat sur comment transmettre les sciencesbrève• 29/06/2020TechTechnologie'Primo Levi' et les métiers de sciencedossier• 20/02/2002La sélection de laRédactionTechRéseauLa connectivité verte pour plus de sobriété numériqueArticleTechRobotiqueJapon : ce robot géant effectue la maintenance sur les lignes ferroviaires !ArticleTechTechnologieL'IA perce le mystère des pensées visuelles en décryptant et reconstruisant des images mentales !ArticleTechGuerre du futurL’US Air Force dévoile son nouveau drone espion jusque-là top secretArticleTechVoiture électriqueCe prototype de bolide électrique se recharge en seulement six minutes !ArticleTechIntelligence artificielleIntelligence artificielle : alliée ou ennemie de la transition écologique ?ArticleTechTechnologieCes robots intelligents sont pilotés par des mini-cerveaux humainsArticleTechJeunes PoussesCette innovation pourrait révolutionner la reconstruction mammaire !ArticleTransmettre la cultureest le plus vieux métier du mondeInscrivez-vous à la lettre d'information La quotidienne pour recevoir toutes nos dernières Actualités une fois par jour.Toutes nos lettres d’informationsEmailE-mailS'inscrireToutes nos lettres d’informationsÀ voir aussiecole ingenieur informatiqueforum emploi enedisaide emploi jeune covidinformatique quantiquereconversion informatiqueemploi ingenieur electronique forumingénieur arts et métiers débouchéscursus master en ingénierie avisMots ClésCarte électroniqueComposant électroniqueIngénieurDiplôme d'ingénieurNouvelles TechnologiesÉcole d'ingénieurIUTMaster UniversitaireÉtudes universitairesDUT",https://schema.org,,BreadcrumbList,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.futura-sciences.com/sciences/skillz', 'name': 'Skillz'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.futura-sciences.com/sciences/skillz/metiers', 'name': 'Métiers'}}]",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1hY2cuY28vbWF0ZXJpZWwvMjAyMS8wMy9hcm0tdjktY291cC1kZW52b2ktZGVzLXByb2Nlc3NldXJzLWRlcy1kaXgtcHJvY2hhaW5lcy1hbm5lZXMtMTIwNTU10gFsaHR0cHM6Ly93d3cubWFjZy5jby9tYXRlcmllbC8yMDIxLzAzL2FybS12OS1jb3VwLWRlbnZvaS1kZXMtcHJvY2Vzc2V1cnMtZGVzLWRpeC1wcm9jaGFpbmVzLWFubmVlcy0xMjA1NTU_YW1w?oc=5,ARM v9 : coup d'envoi des processeurs des dix prochaines années - MacGeneration,2021-03-31,MacGeneration,https://www.macg.co,"Ce n’est pas tous les jours qu’ARM présente une nouvelle version de son architecture processeur, qui est utilisée par toutes les puces mobiles, mais aussi par de plus en plus d'ordinateurs. De fait, l’actuelle ARMv8 fêtera son dixième anniversaire à l’automne, puisqu’elle avait été présentée officiellement en octobre 2011. Dix ans plus tard, place à ARMv9, une évolution","ARM, processeurs,Matériel","Ce n’est pas tous les jours qu’ARM présente une nouvelle version de son architecture processeur, qui est utilisée par toutes les puces mobiles, mais aussi par de plus en plus d'ordinateurs. De fait, l’actuelle ARMv8 fêtera son dixième anniversaire à l’automne, puisqu’elle avait été présentée officiellement en octobre 2011. Dix ans plus tard, place à ARMv9, une évolution majeure qui doit servir pour la décennie à venir et qui devrait commencer à être utilisée dans des produits dès le début de l’année prochaine. Image ARM.","Ce n’est pas tous les jours qu’ARM présente une nouvelle version de son architecture processeur, qui est utilisée par toutes les puces mobiles, mais aussi par de plus en plus d'ordinateurs. De fait,",N/A,N/A,"
+
+
+
+                        Matériel                    
+
+
+
+                        24 commentaires                    
+
+
+
+
+                                 ARM v9 : coup d'envoi des processeurs des dix prochaines années
+
+Nicolas Furno |
+31/03/2021 à 17:15
+
+
+
+Ce n’est pas tous les jours qu’ARM présente une nouvelle version de son architecture processeur, qui est utilisée par toutes les puces mobiles, mais aussi par de plus en plus d'ordinateurs. De fait, l’actuelle ARMv8 fêtera son dixième anniversaire à l’automne, puisqu’elle avait été présentée officiellement en octobre 2011. Dix ans plus tard, place à ARMv9, une évolution majeure qui doit servir pour la décennie à venir et qui devrait commencer à être utilisée dans des produits dès le début de l’année prochaine.
+
+
+Image ARM.
+
+La grosse nouveauté d’ARMv8 était le passage au 64 bits et c’était un changement significatif et profond. Il n’y a rien d’aussi spectaculaire pour ARMv9, mais l’entreprise s’est concentrée sur plusieurs axes de travail et en particulier la sécurité et l’intelligence artificielle. Commençons par la sécurité, qui est devenue un enjeu essentiel pour les processeurs depuis la découverte des failles Spectre et Meltdown découvertes il y a plus de trois ans désormais.
+
+Meltdown et Spectre : tout savoir sur les failles historiques des processeurs
+
+Pour rappel, ces failles touchaient principalement les processeurs Intel, mais plusieurs concepts exploités par les chercheurs en sécurité sont applicables à tous les processeurs, y compris ceux qui reposent sur l’architecture ARM. Ces attaques permettent, pour faire simple, d’accéder à des informations qui sont traitées par le processeur et qui ne devraient pas être accessibles par une app malveillante. Même si les processeurs ARM sont moins touchés dans les faits, ils restent en théorie des cibles potentielles.
+Pour contrecarrer ce type d’attaques, l’entreprise a imaginé un nouveau dispositif nommé CCA, pour Confidential Compute Architecture. L’idée est d’isoler dans des conteneurs fermés, nommés « realms » (royaumes) par ARM, une app ou une partie d’une app. L’un des domaines d’application ne concerne pas les smartphones, mais les serveurs qui ont eux aussi commencé à adopter ARM. Les serveurs sont souvent utilisés pour faire tourner plusieurs sites ou services en parallèle avec un système de virtualisation. Grâce à CCA, chaque machine virtuelle pourrait être mieux sécurisée dans son royaume séparé des autres.
+
+
+Illustration de l’un des bénéfices du CCA par ARM : ici, chaque machine virtuelle pourrait être isolée dans son royaume. La couche de virtualisation représentée aujourd’hui par l’Hypervisor serait gérée par le processeur lui-même (image ARM).
+
+ARM doit encore détailler le fonctionnement précis de cette nouvelle architecture, mais c’est un projet ambitieux pour limiter les nouvelles attaques qui se sont multipliées ces dernières années. Cela limiterait aussi l’impact du système d’exploitation, puisqu’un royaume sécurisé serait suffisamment isolé de l’OS pour ne pas souffrir d’une faille à ce niveau. Sur le papier, c’est une idée séduisante qui intéressera probablement Apple, même si la fonction a clairement été pensée avec les conteneurs des serveurs en tête.
+L’intelligence artificielle est aussi devenu un domaine essentiel ces dernières années et les systèmes sur puce d’Apple et de ses concurrents misent toujours davantage dessus. ARM suit la tendance avec plusieurs nouveautés en la matière, la plus importante étant l’introduction de SVE2, la deuxième génération de sa technologie Scalable Vector Extension. Les détails techniques seront vite incompréhensibles pour la majorité d’entre nous et je vous renvoie à l’analyse d’AnandTech si vous voulez le détail. Pour simplifier, ce changement devrait permettre d’accélérer considérablement les performances en matière d’IA.
+SVE a été créé par ARM en partenariat avec Fujitsu pour les besoins spécifiques des supercalculateurs. Le Fukagu, supercalculateur japonais le plus puissant au monde, tourne d’ailleurs toujours sur ces processeurs ARM à 48 cœurs, mais c’est toujours le seul cas. D’autres processeurs ARM avec SVE doivent arriver cette année, mais là encore destinés aux serveurs et non aux smartphones. Le choix de SVE2 pour ARMv9 est un signe fort que c’est l’avenir de l’intelligence artificielle dans toutes les puces ARM.
+
+
+Image ARM.
+
+L’intelligence artificielle est partout… tout comme les processeurs ARM d’ailleurs. Avec sa neuvième génération d’architecture, l’entreprise veut répondre à tous les besoins, de la conduite autonome à la réalité virtuelle ou augmentée, en passant même par la 5G, même si le lien avec l’IA est moins évident. ARM promet aussi des optimisations pour les processus d’apprentissage automatisé (machine-learning) et aussi pour les traitements de signal (DSP) utilisés notamment pour la photographie. Sur tous ces besoins, l’entreprise reste toutefois encore très vague.
+Outre la présentation de cette nouvelle architecture, ARM a aussi levé le voile sur les CPU et GPU maison de ces prochaines années. Il faut savoir en effet que l’on peut acquérir une licence et créer son propre processeur comme le fait Apple, mais qu’il est aussi possible d’utiliser un design de référence fourni par ARM. D’ici à deux ans, l’entreprise envisage des performances en hausse de 30 %, soit environ 15 % par génération. C’est assez faible par rapport à ce que l’on a connu ces dernières années et il faudra vérifier si c’est un mouvement général ou si Apple, ou un autre, pourra faire mieux.
+ARM a aussi brièvement évoqué les GPU Mali créés en interne. L’information la plus importante dans ce domaine est l’arrivée du ray-tracing, le rendu de la lumière réaliste en temps réel. C’est une nouveauté majeure dans les cartes graphiques dédiées récentes, mais qui est restée jusque-là discrète sur mobile. Cela pourrait changer à terme, mais l’entreprise n’a donné absolument aucun détail et encore moins de date.
+
+
+Les progrès de performance des CPU ARM seront permis par des améliorations à tous les niveaux : réduction des latences, augmentation des fréquences, de la bande-passante et de la quantité de cache processeur (image ARM).
+
+Apple crée ses propres processeurs pour tous ses produits désormais. L’entreprise utilise ses designs plutôt que ceux fournis clés en mains par ARM, mais cela ne veut pas dire qu’elle ne bénéficie pas des travaux réalisés par le créateur de l’architecture. On peut ainsi imaginer que la prochaine génération de puces Apple, ou la suivante, adopte l’architecture ARMv9 et bénéficie de ses avantages.
+On peut aussi penser que la firme de Cupertino sera en avance sur l’industrie, comme elle l’a été avec ARMv8 et le 64 bits. Quand l’Apple A7 des iPhone 5S a été présenté en octobre 2013, c’était le premier processeur mobile à adopter cette nouvelle architecture et même si d’aucuns ont jugé que c’était un « gadget », tout le monde a suivi aussi vite que possible. Est-ce que l’histoire va se répéter avec cette nouvelle génération ? Réponse peut-être dès cet automne !
+ 
+
+
+14:53 | Opera accélère sur les Mac M110:46 | Des batteries Tesla pour stocker l'énergie verte d'Apple07:08 | Refurb M1 : Mac mini à 679 €, MacBook Air à 959 €, MacBook Pro à 1 229 €19:13 | Apple livre la bêta 6 de macOS 11.3 19:53 | Journée de la sauvegarde : des promos sur Arq, JetDrive, SSD Samsung…21:21 | ARM v9 : coup d'envoi des processeurs des dix prochaines années16:33 | Apple dévoilera les résultats de son T2 2021 le 28 avril16:25 | InDesign : première bêta pour les Mac Apple Silicon15:59 | Plus de 110 fournisseurs d'Apple s'engagent à une neutralité carbone21:05 | Le MagicBridge rapproche le clavier étendu et le Magic Trackpad11:51 | Swift 5.5 prend le chemin de la WWDC 2021
+
+
+
+
+
+Source
+
+
+AnandTech 
+
+
+
+Tags
+
+
+			#ARM 
+
+			#processeurs 
+
+
+
+
+",,,,,,,,,,,,,,

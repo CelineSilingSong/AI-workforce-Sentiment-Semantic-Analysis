@@ -1,0 +1,1131 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,about,articleBody,articleSection,author,dateCreated,dateModified,datePublished,headline,image,mainEntityOfPage,publisher,url,wordCount,alternativeHeadline,timeRequired,article:section,article:summary,article text,@graph,commentCount,copyrightHolder,copyrightYear,discussionUrl,identifier,inLanguage,isAccessibleForFree,isFamilyFriendly,isPartOf,provider,sourceOrganization,thumbnailUrl,version,@id,additionalType,itemListElement
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnN1ZWRkZXV0c2NoZS5kZS93aXNzZW4vZ3B0LTMta2kta3VlbnN0bGljaGUtaW50ZWxsaWdlbnotY29tcHV0ZXJsaW5ndWlzdGlrLWluZm9ybWF0aWstMS41MTIyMDUw0gEA?oc=5,KI: Warum hinter Sprachmodellen wie GPT-3 mehrköpfige Monster stecken - Süddeutsche Zeitung - SZ.de,2020-11-26,Süddeutsche Zeitung - SZ.de,https://www.sueddeutsche.de,Der KI-Textgenerator GPT-3 schreibt Gedichte im Stile Oscar Wildes und übersetzt Fremdsprachen. Wie geht das? ,"Informatik,Künstliche Intelligenz,Sprache,Technik,Informatik,Wissen,Künstliche Intelligenz,Digital,Sprache,Leben und Gesellschaft,Technik,Technologie,Wissen,Süddeutsche Zeitung",Der KI-Textgenerator GPT-3 schreibt Gedichte im Stile Oscar Wildes und übersetzt Fremdsprachen. Wie geht das? ,N/A,https://schema.org,NewsArticle,Informatik,"Wie soll dieser Text nur beginnen? Wo anfangen bei einem so komplexen Thema wie der maschinellen Erfassung der menschlichen  Sprache ? Wie praktisch, dass  künstliche Intelligenz  (KI) einem diese Grübelei abnimmt: Eine Software  des Start-ups Topic  aus San Francisco schlägt Texteinstiege für beliebige Themen vor. Gibt man ""Computerlingustik"" - worum es im Folgenden gehen soll - ein, so erscheint in Windeseile dieser Text:
+Dank der Arbeit des ersten Computerlinguisten Claude Shannon in den 1940ern und 1950ern müssen Linguisten nicht mehr raten, welche Wörter eine Person in der alltäglichen Kommunikation benutzt. Sie können anspruchsvolle Computertechnik benutzen, um selbst die komplexesten geschriebenen Texte zu verstehen, von antiken Manuskripten bis zu technischen Bedienungsanleitungen von heute.
+Ob Linguisten ohne Computer einst wirklich im Dunkeln tappten, ist mehr als fraglich, doch insgesamt ein halbwegs passabler Einstieg. Claude Shannon gilt tatsächlich als einer der Pioniere der Computerlinguistik. Durch seine mathematischen Vorarbeiten ermöglichte er spätere Durchbrüche im Natural Language Processing (NLP), dem automatisierten Verarbeiten natürlicher Sprache - also von Menschen gesprochener und geschriebener Sprache im Gegensatz zu konstruierter, formaler Sprache wie einer Programmiersprache. Seither versuchen NLP-Forscher zu berechnen, wie wahrscheinlich welches Wort auf ein anderes folgt. Dabei dominieren inzwischen künstliche neuronale Netze; das sind Modelle aus dem Bereich des maschinellen Lernens, die der Struktur von Nervensystemen grob nachempfunden sind.
+In ihren Netzwerken erkennt die Software Zusammenhänge, die dem Menschen verborgen bleiben
+Kürzlich sorgte die Computerlinguistik mal wieder für Aufsehen. Das US-amerikanische Softwareunternehmen Open AI stellte die dritte Generation seines Generative Pre-Trained Transformer (GPT-3) vor: Ein Textgenerator, der Gedichte im Stile Oscar Wildes und Dramen in der Sprache Shakespeares verfasst. Der Griffbilder von Gitarrenakkorden versteht. Der Webseiten nach Wunsch programmiert und Texte beinahe fehlerlos in etliche Sprachen übersetzt. Der mit Menschen über das Wetter palavert oder über Klimapolitik diskutiert. Und der den obigen Texteinstieg verfasst hat.
+Denn die Software des Start-ups Topic basiert auf GPT-3. Die Entwicklerfirma Open AI verkauft den Zugang zu seinem Sprachmodell über eine Programmierschnittstelle; zu ihren Kunden gehören neben Topic auch Spielehersteller oder Chatbot-Anbieter. Als Open-Source-Projekt gestartet, ist von der Offenheit nur noch der Name geblieben: Open AI ist längst ein kommerzielles Unternehmen; der Quellcode von GPT-3 ist unter Verschluss. Open-Source-Software gehört hingegen im Prinzip allen, jeder kann sie benutzen und verändern.
+Die öffentliche Aufregung um GPT-3 lässt sich denn auch zu einem Teil durch geschickte PR-Arbeit der Firma erklären: Open AI hatte bereits die Vorgängerversion GPT-2 zunächst unter Verschluss gehalten, aus  ""Sorge vor Missbrauch"", wie es hieß  - und so die Spekulationen um die KI zusätzlich angeheizt. Das Unwissen über die genaue Modellarchitektur befördert düstere Dystopien und haltlose Träumereien gleichermaßen. Die  New York Times  nannte GPT-3 ""gruselig, demütigend und mehr als ein bisschen angsteinflößend"". Jörg Bienert, Vorsitzender des KI-Bundesverbands, sprach im  Handelsblatt  von ""einer kleine Revolution"". Und in den sozialen Medien wird die KI bereits als einer der großen Durchbrüche der Technologiegeschichte gefeiert, von der ersten ""allgemeinen künstlichen Intelligenz"" ist die Rede. Gehen da einige  Technik -Gläubige einer gewieften PR-Maschinerie auf den Leim? Ist der ganze Rummel um GPT-3 übertrieben?
+Nicht ganz. Tatsächlich perfektioniert das Sprachmodell mit seinen 175 Milliarden Parametern - also lernbaren mathematischen Variablen  -  eine Idee, die die NLP-Forschung umgekrempelt hat: Aufmerksamkeit. Google-Forscher hatten im Jahr 2017 einen Fachartikel mit dem programmatischen Titel ""Attention Is All You Need"" auf der renommierten KI-Fachkonferenz  NIPS  vorgestellt - es ist einer der am häufigsten zitierten wissenschaftlichen Artikel der vergangenen Jahre. Die Informatiker schlagen darin ein Sprachmodell vor, das einzig auf dem ""Attention Mechanism"" basiert. Mit diesem Aufmerksamkeitsmechanismus lernen Modelle, ihre Aufmerksamkeit auf Kombinationen wichtiger ""Tokens"" zu richten, das sind Satzbestandteile wie Wörter oder Satzzeichen.
+Beim Satz ""Sie isst eine gelbe Banane"" kann das Programm zum Beispiel der Kombination von ""isst"" und ""Banane"" ein hohes Gewicht verleihen - der Sinn des Satzes steckt überwiegend in dieser Wortverknüpfung. Die Google-Forscher belassen es aber nicht dabei: In ihrem Netz ermöglichen mehrere solcher Aufmerksamkeitsfunktionen, dass ganz unterschiedliche Dinge erlernt werden können; neben der inhaltlichen Bedeutung etwa auch grammatikalische Strukturen wie Konjugationsregeln. ""Multi-Head Attention"" heißt diese Idee, also mehrköpfige Aufmerksamkeit, weil diese Funktionen in manchen Visualisierungen wie mehrköpfige Monster aussehen.
+Sie machen Modelle wie GPT-3 sehr flexibel und erlauben es den Netzen, viele Verbindungen zwischen teils weit entfernten ""Tokens"" zu lernen. Das Modell erschafft in den tieferen Schichten des Netzes eine unvorstellbar hochdimensionale mathematische Repräsentation von Sprache. In dieser Welt entdeckt es dann Zusammenhänge, darunter auch solche, die Menschen mitunter verborgen bleiben. Das ist der Grund, wieso GPT-3 selbst komplexe Texte vervollständigen kann und dabei auch noch einen bestimmten sprachlichen Stil trifft.
+Das Revolutionäre an der Idee des Google-Teams steckt indes im zweiten Teil der Überschrift ihres Artikels: ""All You Need"". Die Entwickler lassen sämtliche Netz-Konstruktionen, die in den vergangenen Jahrzehnten im NLP verwendet wurden, einfach weg. Keine Recurrent Neural Nets (RNNs), keine Convolutional Neural Nets (CNNs) - Aufmerksamkeit ist alles, was man braucht. Besonders RNNs waren in der Sprachmodellierung zuvor sehr beliebt. Diese Form von künstlichen neuronalen Netzen verarbeitet Sprache sequenziell, also Wort für Wort. Einige dieser Netze merken sich mithilfe einer Art Kurzzeitgedächtnis die Wörter und verknüpfen sie miteinander. Ende der 1990er-Jahre hatten Jürgen Schmidhuber und Sepp Hochreiter in München die Idee dieses Long Short Term Memory (LSTM) entwickelt.
+Das Programm hat gelernt, was man typischerweise sagt, aber nicht, was es bedeutet
+Der 2017 vorgestellte Google-Ansatz verarbeitet im Gegensatz dazu viele Wörter parallel, also quasi alles auf einmal statt in kleinen Häppchen - das mehrköpfige Monster ist gewissermaßen besonders gefräßig und bricht mit dem Paradigma, dass Sprache sequenziell erlernt werden muss. Möglich wurde das durch bessere Grafikprozessoren (GPUs), die im Gegensatz zu klassischen Prozessoren (CPUs) sehr viele Berechnungen gleichzeitig durchführen können. Diese Parallelisierung spart enorm viel Rechenzeit, andernfalls bräuchten die Modelle Wochen, um zu einem Ergebnis zu kommen.
+Die Google-Entwickler nannten das System ""Transformer"", weil es durch den sogenannten Encoder erst die Repräsentation der Texte lernt, mit denen es gefüttert wurde, um schließlich mithilfe des Decoders selbst Sätze zu formulieren, zum Beispiel eine Übersetzung oder die Antwort auf eine Frage. Sprache wird also erst in eine abstrakte mathematische Struktur transformiert und dann wieder zurück ins Englische oder Deutsche verwandelt.
+Auch wenn die Details der Netzstruktur unbekannt sind, steht fest: GPT-3 ist nichts anderes als ein besonders großer""Transformer"" - daher das ""T"" im Namen. Das ""P"" steht für ""pre-trained"": Die Entwickler von Open AI hatten GPT-3 mit mehr als einer halben Billion kuratierter ""Tokens"" aus dem Internet und digitalen Büchern gefüttert, um die KI mit einem Vorwissen auszustatten, bevor sie sie mit konkreten Aufgaben konfrontierten. ""G"" heißt ""generative"", bedeutet also einfach, dass GPT-3 nicht nur Informationen aus Texten sammelt, sondern selbst übersetzt, schreibt oder Fragen beantwortet.
+Aber hat der mehrköpfige Alleskönner auch wirklich gelernt, wie Sprache aufgebaut ist, ihre teils unlogischen Regeln verinnerlicht und ihre Struktur begriffen? ""Nicht wirklich. GPT-3 hat gelernt, wie man sich typischerweise ausdrückt"", sagt Hinrich Schütze, Professor für Computerlinguistik an der Ludwig-Maximilians-Universität München. Aus riesigen Datenmengen lerne GPT-3 zwar, welche Worte gut zusammenpassen, doch nicht zwangsläufig deren Bedeutung. Dazu braucht es  Wissen , das über den bloßen Text hinausgeht. Schütze gibt ein Beispiel: GPT-3 könne anhand der Statistiken eines Fußballspiels zwar eine unterhaltsame Sportreportage schreiben, aber für zusammenfassende Sätze wie ""Deutschland gewinnt gegen die Ukraine"" fehle dem Modell die Kenntnis der Fußballregeln, selbst wenn bekannt ist, dass Deutschland zwei und die Ukraine ein Tor geschossen hat.
+Dazu passen  die Ergebnisse mehrerer Experimente  von Wissenschaftlern der New York University, die unter anderem gezeigt haben, dass GPT-3 denkt, Traubensaft sei tödlich, weil das Modell aus den Trainingsdaten falsche Schlüsse gezogen hat. Auch der von GPT-3 vorgeschlagene Anfang dieses Artikels offenbart das mangelhafte inhaltliche Verständnis der KI. Darin stellt GPT-3 Claude Shannon als Computerlinguisten vor. Auch wenn Shannon viel Vorarbeit für diesen Bereich geleistet hat, als Computerlinguist würden ihn Historiker sicherlich nicht bezeichnen. Schon allein deshalb, weil es diese Disziplin zu seiner Zeit noch nicht gab. Shannon war Mathematiker und Elektrotechniker. Vermutlich wurde Shannon in den Trainingsdaten der Computerlinguistik zugeordnet oder immer wieder in ihrem Kontext erwähnt - GPT-3 schloss daraus, dass es sich bei ihm um einen Computerlinguisten handeln muss.
+Das Wissen des Systems steht von Anfang an fest. Es wächst nicht mehr
+GPT-3 hat ein riesiges Gedächtnis, aber sein logisches Denkvermögen ist beschränkt - genauso wie seine Lernfähigkeit. ""Es hat wahnsinnig viel Vorwissen, aber für eine neue Aufgabe lernt es nichts dazu"", sagt Schütze. Es müsse mit dem Wissen auskommen, das es am Anfang erworben hat. Diese Eigenschaft ist mit dafür verantwortlich, dass GPT-3 zwar von der Übersetzung bis zur Programmierung von Websites beinahe alles kann, was andere Modelle auch können, aber eben auch in keinem Bereich am besten ist. So gebe es spezielle Systeme, die im Dialog mit Menschen besser seien, schrieb KI-Forscher und Turing-Preisträger Yann LeCun  kürzlich auf Facebook .
+Insgesamt, so LeCun, sei GPT-3 ein durchaus beachtliches Sprachmodell, aber eben auch nicht mehr - und schon gar keine allgemeine künstliche Intelligenz. ""Intelligente Maschinen zu entwickeln, indem man Sprachmodelle hochskaliert, ist, wie wenn man Flugzeuge baut, die möglichst hoch fliegen können, um zum Mond zu kommen"", schrieb LeCun. Dabei stelle man zwar Höhenrekorde auf, eine Mondfahrt erfordere jedoch keine Flugzeuge, sondern Raketen - einen gänzlich anderen Ansatz.",Wissen,"[{'@type': 'Person', 'name': 'Julian Rodemann', 'sameAs': '/autoren/julian-rodemann-1.5017937'}]",2020-11-26T04:50:12.000Z,2020-11-26 04:51:35,2020-11-26T04:50:12.000Z,KI: Warum hinter Sprachmodellen wie GPT-3 mehrköpfige Monster stecken,"{'@type': 'ImageObject', 'height': '675', 'url': 'https://www.sueddeutsche.de/2022/06/13/d4339bb1-d79b-4c53-9b3d-c4e7a2188cba.jpeg?q=60&fm=webp&width=1200&rect=134%2C100%2C1028%2C578', 'width': '1200'}",https://www.sueddeutsche.de/wissen/gpt-3-ki-kuenstliche-intelligenz-computerlinguistik-informatik-1.5122050,"{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'height': '64', 'url': 'https://www.sueddeutsche.de/szde-assets/img/szde-article-sueddeutsche-logo.svg', 'width': '525'}, 'name': 'Süddeutsche Zeitung'}",https://www.sueddeutsche.de/wissen/gpt-3-ki-kuenstliche-intelligenz-computerlinguistik-informatik-1.5122050,1501.0,KI: Warum hinter Sprachmodellen wie GPT-3 mehrköpfige Monster stecken,PT6M,N/A,N/A,"Künstliche Intelligenz:Lyrik aus der Maschine26. November 2020, 5:50 UhrLesezeit: 6 minDetailansicht öffnenWeltliteratur und Hightech: Der Textgenerator kann auf Formulierungen aus zahllosen Büchern zurückgreifen und somit unterschiedliche Stile nachempfinden. Ein echtes Verständnis von deren Inhalt hat er allerdings nicht. (Foto: Daniel Borg/Moment Editorial/Getty Images)Der Textgenerator GPT-3 schreibt Werke im Stile Oscar Wildes, übersetzt Fremdsprachen und chattet mit Menschen über Gott und die Welt. Wie geht das? Von Julian RodemannMerkenTeilenFeedbackDruckenWie soll dieser Text nur beginnen? Wo anfangen bei einem so komplexen Thema wie der maschinellen Erfassung der menschlichen Sprache? Wie praktisch, dass künstliche Intelligenz (KI) einem diese Grübelei abnimmt: Eine Software des Start-ups Topic aus San Francisco schlägt Texteinstiege für beliebige Themen vor. Gibt man ""Computerlingustik"" - worum es im Folgenden gehen soll - ein, so erscheint in Windeseile dieser Text:Dank der Arbeit des ersten Computerlinguisten Claude Shannon in den 1940ern und 1950ern müssen Linguisten nicht mehr raten, welche Wörter eine Person in der alltäglichen Kommunikation benutzt. Sie können anspruchsvolle Computertechnik benutzen, um selbst die komplexesten geschriebenen Texte zu verstehen, von antiken Manuskripten bis zu technischen Bedienungsanleitungen von heute.Ob Linguisten ohne Computer einst wirklich im Dunkeln tappten, ist mehr als fraglich, doch insgesamt ein halbwegs passabler Einstieg. Claude Shannon gilt tatsächlich als einer der Pioniere der Computerlinguistik. Durch seine mathematischen Vorarbeiten ermöglichte er spätere Durchbrüche im Natural Language Processing (NLP), dem automatisierten Verarbeiten natürlicher Sprache - also von Menschen gesprochener und geschriebener Sprache im Gegensatz zu konstruierter, formaler Sprache wie einer Programmiersprache. Seither versuchen NLP-Forscher zu berechnen, wie wahrscheinlich welches Wort auf ein anderes folgt. Dabei dominieren inzwischen künstliche neuronale Netze; das sind Modelle aus dem Bereich des maschinellen Lernens, die der Struktur von Nervensystemen grob nachempfunden sind.In ihren Netzwerken erkennt die Software Zusammenhänge, die dem Menschen verborgen bleibenKürzlich sorgte die Computerlinguistik mal wieder für Aufsehen. Das US-amerikanische Softwareunternehmen Open AI stellte die dritte Generation seines Generative Pre-Trained Transformer (GPT-3) vor: Ein Textgenerator, der Gedichte im Stile Oscar Wildes und Dramen in der Sprache Shakespeares verfasst. Der Griffbilder von Gitarrenakkorden versteht. Der Webseiten nach Wunsch programmiert und Texte beinahe fehlerlos in etliche Sprachen übersetzt. Der mit Menschen über das Wetter palavert oder über Klimapolitik diskutiert. Und der den obigen Texteinstieg verfasst hat.Denn die Software des Start-ups Topic basiert auf GPT-3. Die Entwicklerfirma Open AI verkauft den Zugang zu seinem Sprachmodell über eine Programmierschnittstelle; zu ihren Kunden gehören neben Topic auch Spielehersteller oder Chatbot-Anbieter. Als Open-Source-Projekt gestartet, ist von der Offenheit nur noch der Name geblieben: Open AI ist längst ein kommerzielles Unternehmen; der Quellcode von GPT-3 ist unter Verschluss. Open-Source-Software gehört hingegen im Prinzip allen, jeder kann sie benutzen und verändern.SZ PlusLovot:Ein Roboter zum LiebhabenEr reagiert auf Berührungen, erfasst Befinden und Persönlichkeit von Menschen und verhält sich danach: Über Lovot,den Anti-Einsamkeits-Roboter, der sich während der Pandemie zum Verkaufsschlager entwickelt.Von Thomas Hahn, TokioDie öffentliche Aufregung um GPT-3 lässt sich denn auch zu einem Teil durch geschickte PR-Arbeit der Firma erklären: Open AI hatte bereits die Vorgängerversion GPT-2 zunächst unter Verschluss gehalten, aus ""Sorge vor Missbrauch"", wie es hieß - und so die Spekulationen um die KI zusätzlich angeheizt. Das Unwissen über die genaue Modellarchitektur befördert düstere Dystopien und haltlose Träumereien gleichermaßen. Die New York Times nannte GPT-3 ""gruselig, demütigend und mehr als ein bisschen angsteinflößend"". Jörg Bienert, Vorsitzender des KI-Bundesverbands, sprach im Handelsblatt von ""einer kleine Revolution"". Und in den sozialen Medien wird die KI bereits als einer der großen Durchbrüche der Technologiegeschichte gefeiert, von der ersten ""allgemeinen künstlichen Intelligenz"" ist die Rede. Gehen da einige Technik-Gläubige einer gewieften PR-Maschinerie auf den Leim? Ist der ganze Rummel um GPT-3 übertrieben?Nicht ganz. Tatsächlich perfektioniert das Sprachmodell mit seinen 175 Milliarden Parametern - also lernbaren mathematischen Variablen - eine Idee, die die NLP-Forschung umgekrempelt hat: Aufmerksamkeit. Google-Forscher hatten im Jahr 2017 einen Fachartikel mit dem programmatischen Titel ""Attention Is All You Need"" auf der renommierten KI-Fachkonferenz NIPS vorgestellt - es ist einer der am häufigsten zitierten wissenschaftlichen Artikel der vergangenen Jahre. Die Informatiker schlagen darin ein Sprachmodell vor, das einzig auf dem ""Attention Mechanism"" basiert. Mit diesem Aufmerksamkeitsmechanismus lernen Modelle, ihre Aufmerksamkeit auf Kombinationen wichtiger ""Tokens"" zu richten, das sind Satzbestandteile wie Wörter oder Satzzeichen.Beim Satz ""Sie isst eine gelbe Banane"" kann das Programm zum Beispiel der Kombination von ""isst"" und ""Banane"" ein hohes Gewicht verleihen - der Sinn des Satzes steckt überwiegend in dieser Wortverknüpfung. Die Google-Forscher belassen es aber nicht dabei: In ihrem Netz ermöglichen mehrere solcher Aufmerksamkeitsfunktionen, dass ganz unterschiedliche Dinge erlernt werden können; neben der inhaltlichen Bedeutung etwa auch grammatikalische Strukturen wie Konjugationsregeln. ""Multi-Head Attention"" heißt diese Idee, also mehrköpfige Aufmerksamkeit, weil diese Funktionen in manchen Visualisierungen wie mehrköpfige Monster aussehen.Sie machen Modelle wie GPT-3 sehr flexibel und erlauben es den Netzen, viele Verbindungen zwischen teils weit entfernten ""Tokens"" zu lernen. Das Modell erschafft in den tieferen Schichten des Netzes eine unvorstellbar hochdimensionale mathematische Repräsentation von Sprache. In dieser Welt entdeckt es dann Zusammenhänge, darunter auch solche, die Menschen mitunter verborgen bleiben. Das ist der Grund, wieso GPT-3 selbst komplexe Texte vervollständigen kann und dabei auch noch einen bestimmten sprachlichen Stil trifft.Das Revolutionäre an der Idee des Google-Teams steckt indes im zweiten Teil der Überschrift ihres Artikels: ""All You Need"". Die Entwickler lassen sämtliche Netz-Konstruktionen, die in den vergangenen Jahrzehnten im NLP verwendet wurden, einfach weg. Keine Recurrent Neural Nets (RNNs), keine Convolutional Neural Nets (CNNs) - Aufmerksamkeit ist alles, was man braucht. Besonders RNNs waren in der Sprachmodellierung zuvor sehr beliebt. Diese Form von künstlichen neuronalen Netzen verarbeitet Sprache sequenziell, also Wort für Wort. Einige dieser Netze merken sich mithilfe einer Art Kurzzeitgedächtnis die Wörter und verknüpfen sie miteinander. Ende der 1990er-Jahre hatten Jürgen Schmidhuber und Sepp Hochreiter in München die Idee dieses Long Short Term Memory (LSTM) entwickelt.Das Programm hat gelernt, was man typischerweise sagt, aber nicht, was es bedeutetDer 2017 vorgestellte Google-Ansatz verarbeitet im Gegensatz dazu viele Wörter parallel, also quasi alles auf einmal statt in kleinen Häppchen - das mehrköpfige Monster ist gewissermaßen besonders gefräßig und bricht mit dem Paradigma, dass Sprache sequenziell erlernt werden muss. Möglich wurde das durch bessere Grafikprozessoren (GPUs), die im Gegensatz zu klassischen Prozessoren (CPUs) sehr viele Berechnungen gleichzeitig durchführen können. Diese Parallelisierung spart enorm viel Rechenzeit, andernfalls bräuchten die Modelle Wochen, um zu einem Ergebnis zu kommen.Die Google-Entwickler nannten das System ""Transformer"", weil es durch den sogenannten Encoder erst die Repräsentation der Texte lernt, mit denen es gefüttert wurde, um schließlich mithilfe des Decoders selbst Sätze zu formulieren, zum Beispiel eine Übersetzung oder die Antwort auf eine Frage. Sprache wird also erst in eine abstrakte mathematische Struktur transformiert und dann wieder zurück ins Englische oder Deutsche verwandelt.Auch wenn die Details der Netzstruktur unbekannt sind, steht fest: GPT-3 ist nichts anderes als ein besonders großer""Transformer"" - daher das ""T"" im Namen. Das ""P"" steht für ""pre-trained"": Die Entwickler von Open AI hatten GPT-3 mit mehr als einer halben Billion kuratierter ""Tokens"" aus dem Internet und digitalen Büchern gefüttert, um die KI mit einem Vorwissen auszustatten, bevor sie sie mit konkreten Aufgaben konfrontierten. ""G"" heißt ""generative"", bedeutet also einfach, dass GPT-3 nicht nur Informationen aus Texten sammelt, sondern selbst übersetzt, schreibt oder Fragen beantwortet.Aber hat der mehrköpfige Alleskönner auch wirklich gelernt, wie Sprache aufgebaut ist, ihre teils unlogischen Regeln verinnerlicht und ihre Struktur begriffen? ""Nicht wirklich. GPT-3 hat gelernt, wie man sich typischerweise ausdrückt"", sagt Hinrich Schütze, Professor für Computerlinguistik an der Ludwig-Maximilians-Universität München. Aus riesigen Datenmengen lerne GPT-3 zwar, welche Worte gut zusammenpassen, doch nicht zwangsläufig deren Bedeutung. Dazu braucht es Wissen, das über den bloßen Text hinausgeht. Schütze gibt ein Beispiel: GPT-3 könne anhand der Statistiken eines Fußballspiels zwar eine unterhaltsame Sportreportage schreiben, aber für zusammenfassende Sätze wie ""Deutschland gewinnt gegen die Ukraine"" fehle dem Modell die Kenntnis der Fußballregeln, selbst wenn bekannt ist, dass Deutschland zwei und die Ukraine ein Tor geschossen hat.Künstliche Intelligenz:Die große ShowWo künstliche Intelligenz draufsteht, steckt oft nur simple Software drin. Und hinter vermeintlich klugen Chatbots verbergen sich bisweilen echte Menschen.Von Boris HänßlerDazu passen die Ergebnisse mehrerer Experimente von Wissenschaftlern der New York University, die unter anderem gezeigt haben, dass GPT-3 denkt, Traubensaft sei tödlich, weil das Modell aus den Trainingsdaten falsche Schlüsse gezogen hat. Auch der von GPT-3 vorgeschlagene Anfang dieses Artikels offenbart das mangelhafte inhaltliche Verständnis der KI. Darin stellt GPT-3 Claude Shannon als Computerlinguisten vor. Auch wenn Shannon viel Vorarbeit für diesen Bereich geleistet hat, als Computerlinguist würden ihn Historiker sicherlich nicht bezeichnen. Schon allein deshalb, weil es diese Disziplin zu seiner Zeit noch nicht gab. Shannon war Mathematiker und Elektrotechniker. Vermutlich wurde Shannon in den Trainingsdaten der Computerlinguistik zugeordnet oder immer wieder in ihrem Kontext erwähnt - GPT-3 schloss daraus, dass es sich bei ihm um einen Computerlinguisten handeln muss.Das Wissen des Systems steht von Anfang an fest. Es wächst nicht mehrGPT-3 hat ein riesiges Gedächtnis, aber sein logisches Denkvermögen ist beschränkt - genauso wie seine Lernfähigkeit. ""Es hat wahnsinnig viel Vorwissen, aber für eine neue Aufgabe lernt es nichts dazu"", sagt Schütze. Es müsse mit dem Wissen auskommen, das es am Anfang erworben hat. Diese Eigenschaft ist mit dafür verantwortlich, dass GPT-3 zwar von der Übersetzung bis zur Programmierung von Websites beinahe alles kann, was andere Modelle auch können, aber eben auch in keinem Bereich am besten ist. So gebe es spezielle Systeme, die im Dialog mit Menschen besser seien, schrieb KI-Forscher und Turing-Preisträger Yann LeCun kürzlich auf Facebook.Insgesamt, so LeCun, sei GPT-3 ein durchaus beachtliches Sprachmodell, aber eben auch nicht mehr - und schon gar keine allgemeine künstliche Intelligenz. ""Intelligente Maschinen zu entwickeln, indem man Sprachmodelle hochskaliert, ist, wie wenn man Flugzeuge baut, die möglichst hoch fliegen können, um zum Mond zu kommen"", schrieb LeCun. Dabei stelle man zwar Höhenrekorde auf, eine Mondfahrt erfordere jedoch keine Flugzeuge, sondern Raketen - einen gänzlich anderen Ansatz.© SZ - Rechte am Artikel können Sie hier erwerben.TeilenFeedbackDruckenZur SZ-StartseiteSZ PlusDigital Recruiting:Bye, bye, BauchgefühlImmer mehr Firmen verlassen sich auf künstliche Intelligenz, um den richtigen Kandidaten zu finden. Dadurch werden die Bewerbungsprozesse einfacher und günstiger - aber sind sie für die Bewerber auch fairer?Von Alexandra StraushLesen Sie mehr zum ThemaInformatikWissenKünstliche IntelligenzDigitalSpracheLeben und GesellschaftTechnikTechnologie",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vc2NpZW5jZS5vcmYuYXQvc3Rvcmllcy8zMjAzMjQ1L9IBAA?oc=5,Biochemie: Künstliche Intelligenz knackt Proteincode - ORF,2020-11-30,ORF,https://science.orf.at,"Proteine bestehen aus Tausenden Aminosäuren, jedes hat seinen eigenen Bauplan. Wie sich daraus in kürzester Zeit extrem komplexe dreidimensionale Proteine zusammenfalten, ist eine der großen offenen Fragen der Biologie. Einer Künstlichen Intelligenz (KI) gelang es nun, die Faltung sehr genau vorherzusagen.",N/A,"Proteine bestehen aus Tausenden Aminosäuren, jedes hat seinen eigenen Bauplan. Wie sich daraus in kürzester Zeit extrem komplexe dreidimensionale Proteine zusammenfalten, ist eine der großen offenen Fragen der Biologie. Einer Künstlichen Intelligenz (KI) gelang es nun, die Faltung sehr genau vorherzusagen.","Proteine bestehen aus Tausenden Aminosäuren, jedes hat seinen eigenen Bauplan. Wie sich daraus in kürzester Zeit extrem komplexe dreidimensionale Proteine zusammenfalten, ist eine der großen offenen Fragen der Biologie. Einer Künstlichen Intelligenz (KI) gelang es nun, die Faltung sehr genau vorherzusagen.",http://schema.org,NewsArticle,,,,"{'@type': 'Organization', 'name': 'ORF.at', 'url': 'https://orf.at'}",,,2020-11-30T16:55:09.887Z,Biochemie: Künstliche Intelligenz knackt Proteincode,"{'@type': 'ImageObject', 'url': 'https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2020%2F49%2F17%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F768614_master_267217_0925_whale-mb-133-lg.jpg%3Fs%3D8851e42ae985add3189b35e9880b91dd7c8c1d75', 'height': '1200', 'width': '627'}",https://science.orf.at/stories/3203245/,"{'@type': 'Organization', 'name': 'ORF.at', 'url': 'https://science.orf.at', 'sameAs': ['https://science.orf.at'], 'logo': {'@type': 'ImageObject', 'url': 'https://tubestatic.orf.at/mojo/1_4_1/storyserver//tube/common/images/touch-icon-ipad-retina.png'}}",,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jYXBnZW1pbmkuY29tL2RlLWRlL2luc2lnaHRzL2Jsb2cvaHlicmlkLXdvcmtpbmctZWluLWRhdGVuZ2V0cmllYmVuZXItYW5zYXR6LXp1ci1zb3ppYWxlbi1nbGVpY2hoZWl0LWluLXJlbW90ZS1vcmdhbmlzYXRpb25lbi_SAQA?oc=5,Hybrid Working – Ein datengetriebener Ansatz zur sozialen Gleichheit in Remote-Organisationen - Capgemini,2020-11-30,Capgemini,https://www.capgemini.com,N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+					Seite nicht gefunden				
+
+					Es tut uns leid, diese Seite wurde entfernt oder umbenannt. Bitte folgen Sie einem der unten stehenden Links oder verwenden Sie die Suche.				
+
+
+
+Insights
+Branchen
+Services
+Karriere
+News
+Über Uns
+ 
+
+
+
+
+
+ 
+Suche
+Suche
+
+
+
+
+
+
+Capgemini entdecken
+
+
+
+ 
+
+
+
+Über Uns
+
+Wir sind einer der weltweit führenden Partner für Unternehmen bei der Steuerung und Transformation ihres Geschäfts durch den Einsatz von Technologie.
+
+
+
+
+ 
+
+
+
+Karriere
+
+Werde Teil von Capgemini! Wir bieten dir ein inspirierendes Team, flexible Karrieremöglichkeiten sowie die Freiheit, mit deiner Arbeit für dich und andere Perspektiven zu schaffen.
+
+
+
+
+
+
+
+
+Kontakt
+
+Für alle anderen Anfragen sowie Fragen zu unserem Portfolio, Projektausschreibungen, Kooperationen etc. nutzen Sie bitte dieses Formular und wir werden uns mit Ihnen in Verbindung setzen.
+
+
+
+
+
+","[{'@type': 'WebSite', '@id': 'https://www.capgemini.com/de-de/#website', 'url': 'https://www.capgemini.com/de-de/', 'name': 'Capgemini Germany', 'description': 'Capgemini Germany', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/de-de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}]",,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmNvbXB1dGVyd29jaGUuZGUvYS93YXJ1bS12ZXJ6ZXJydW5nZW4ta2ktZ2VmYWVocmRlbiwzNTUwMjE20gFLaHR0cHM6Ly93d3cuY29tcHV0ZXJ3b2NoZS5kZS9hL2FtcC93YXJ1bS12ZXJ6ZXJydW5nZW4ta2ktZ2VmYWVocmRlbiwzNTUwMjE2?oc=5,Warum Verzerrungen KI gefährden - Computerwoche.de Live,2020-11-26,Computerwoche.de Live,https://www.computerwoche.de,"KI-Anwendungen sind nicht nur eine Angelegenheit für Programmierer. Es geht auch um Verhaltenspsychologie, Soziologie – und ethisch-moralische Fragen.",,"KI-Anwendungen sind nicht nur eine Angelegenheit für Programmierer. Es geht auch um Verhaltenspsychologie, Soziologie – und ethisch-moralische Fragen.","KI-Anwendungen sind nicht nur eine Angelegenheit für Programmierer. Es geht auch um Verhaltenspsychologie, Soziologie – und ethisch-moralische Fragen.",http://schema.org,NewsArticle,,,,"[{'@type': 'Person', 'name': 'Konrad Krafft'}]",,2020-11-26T07:01:00Z,2020-11-26T07:01:00Z,Warum Verzerrungen KI gefährden,"{'height': 675, '@type': 'ImageObject', 'url': 'https://images.computerwoche.de/bdb/3303678/1200x.jpg', 'width': 1200}","{'@type': 'WebPage', '@id': 'https://www.computerwoche.de/a/warum-verzerrungen-ki-gefaehrden,3550216'}","{'@type': 'Organization', 'logo': {'height': 57, '@type': 'ImageObject', 'url': 'https://www.computerwoche.de/includes/images/amp/logo/COMPUTERWOCHE.png', 'width': 182}, 'name': 'COMPUTERWOCHE'}",,,,,N/A,N/A,"Risiko BiasWarum Verzerrungen KI gefährdenDruckenURL26.11.2020Von Konrad Krafft (Experte)   Folgen
+
+
+
+
+
+×
+Verpassen Sie keinen Artikel mehr von Konrad Krafft
+
+
+
+
+Lassen Sie sich einfach und kostenlos via RSS über neue Beiträge informieren.
+
+
+
+
+
+Link kopiert
+
+Link kopieren
+
+
+
+
+
+
+ IDG ExpertenNetzwerk
+
+
+
+
+
+
+
+
+
+
+
+
+Konrad Krafft ist Gründer und Geschäftsführer des Beratungs- und Softwarehauses doubleSlash Net-Business GmbH. Er hat Allgemeine Informatik mit Schwerpunkt Künstliche Intelligenz studiert und beschäftigt sich seit über 20 Jahren mit der Entwicklung digitaler Services, insbesondere im Bereich von Unternehmensprozessen und Softwareprodukten. Als Experte befasst er sich mit der Industrialisierung von Software-Entwicklung und neuen digitalen Geschäftsmodellen.
+
+
+
+
+
+Alle Posts des Autors
+
+
+Email: 
+
+
+Connect:
+
+
+
+
+
+
+
+
+
+
+KI-Anwendungen sind nicht nur eine Angelegenheit für Programmierer. Es geht auch um Verhaltenspsychologie, Soziologie – und ethisch-moralische Fragen.
+
+
+
+
+Programmierer sind auch nur Menschen, die in ihren Filterblasen stecken. Sie müssen lernen, dies zu erkennen und unvoreingenommen die richtigen Daten für Algorithmen bereitzustellen.
+Entwickler werden ein ethisch-moralisches Fundament brauchen, um KI zu programmieren.
+
+
+
+
+EmpfehlenDruckenPDFURLXing
+LinkedIn
+Twitter
+Facebook
+Feedback
+KI-Algorithmen sind nur so gut, wie die ihnen zugrundeliegende Datenbasis.Foto: Sarah Holmlund - shutterstock.comEs ist noch keine zehn Jahre her, als der Internetaktivist Eli Pariser die Filterblase, so sein gleichnamiges Buch, in die medienwissenschaftliche Diskussion einführte. Gemeint ist damit die filternde, Vielfalt einschränkende Wirkung von KI-Algorithmen in Suchmaschinen und sozialen Netzwerken. Damit sorgen Programmierer dafür, dass Online-Nutzer vorwiegend Zugang zu Informationen und Meinungen haben, die ihrem Such- und Klickverhalten entsprechen.So bekommen Menschen irgendwann überwiegend das zu sehen, was ihr Weltbild bestätigt. Das verengt zwangsläufig ihren Horizont und verfestigt vorhandene Standpunkte, weil diese kaum durch andere Positionen oder gegensätzliche Meinungen hinterfragt oder gar in Zweifel gezogen werden. Der Sinn hinter diesen durch KI-Algorithmen erzeugten Meinungsblasen ist klar: Die Betreiber der Online-Plattformen können so die Akzeptanz der User für ihr Angebot und damit deren Verweildauer und -bereitschaft steigern. Genauso funktionieren viele digitale Geschäftsmodelle.Kognitive Verzerrungen eingebautProblematisch wird die Filterblase dort, wo sie kognitiven Verzerrungen Vorschub leistet (Cognitive Bias), also einer sys­tematisch eingeschränkten und damit fehlerhaften Wahrnehmung. So begrenzen Filterblasen letztlich den Denkhorizont und führen zu Urteilen, die den tatsächlichen Gegebenheiten nicht gerecht werden.Problematisch ist diese Entwicklung vor allem deshalb, weil das Informationsangebot im Internet die Meinungsbildung weltweit maßgeblich prägt. Die derzeit zu beobachtende Tendenz zur verstärkten Frontenbildung zwischen gesellschaftlichen Gruppen mag zum Teil auf Filterblasen zurückzuführen sein. Je mehr sich der Mensch in seinem Weltbild bestätigt sieht, desto eher ist er geneigt, dieses für das einzig richtige zu halten.Um allerdings den Herausforderungen einer zunehmend komplexen, globalisierten Welt gewachsen zu sein, brauchen wir einen weiten Horizont und Toleranz gegenüber anderen Sichtweisen - keine verzerrten Weltbilder. Vor diesem Hintergrund sind die Algorithmen, die zu Filterblasen führen, zwar erfolgreich im Sinne ihrer Erfinder, nicht jedoch im Sinne des Gemeinwohls.
+Je mehr Daten, desto besser das ErgebnisDie Entwickler von KI-Systemen wissen: Ein Algorithmus wird besser und fehlertoleranter, je mehr Daten ihm zur Verfügung stehen. Mangelhafte Datensätze oder ein zu kleiner Umfang an Daten führen zwangsläufig zu fehlerhaften Ergebnissen, weil sie nur einen Teil der Wirklichkeit abbilden. Der ausgeblendete Teil kann in die Entscheidungsfindung nicht einfließen.Wollen wir also KI-Systeme wirklich intelligent gestalten, müssen wir ihr Lernverhalten so offen wie möglich gestalten und Verzerrungs- oder Bias-Effekte minimieren. Und wenn die Algorithmen ethisch-moralische Kriterien in ihr Lernen und ihre Entscheidungen einbeziehen sollen, dann müssen wir sie mit solchen Kriterien ""füttern"". Schon heute sind KI-Algorithmen im Einsatz, die etwa Personalabteilungen bei der Auswahl von Bewerbern oder Ärzte bei der Beurteilung von Krankheitsbildern unterstützen. Es ist nur noch eine Frage weniger Jahre, bis Künstliche Intelligenz fast alle Lebensbereiche erreicht hat.Wie Bias-Effekte zu falschen oder gesellschaftlich unerwünschten Ergebnissen führen können, zeigt ein Beispiel aus den USA: Um die Gesundheitsversorgung effektiver aufzustellen, setzten dort viele Kliniken und Krankenversicherer bis vor kurzem ein KI-Programm ein, das, wie sich später zeigte, afroamerikanische Patienten massiv benachteiligte. Die Software identifizierte Patienten mit besonderem Pflegebedarf und schlug sie für weiterführende Behandlungen vor. Aufgrund falsch ausgewählter Ausgangsdaten empfahl das KI-System, wie eine im Oktober 2019 veröffentlichte Studie zeigt, schwarze Patienten viel seltener für besondere Pflegeaufwendungen als weiße, obwohl die Schwere der Krankheit vergleichbar war.Historisch verzerrte TrainingsdatenOft entstehen Bias-Effekte auch, weil für die Entwicklung der Algorithmen historische Daten herangezogen werden, die in sich bereits Verzerrungen aufweisen, ohne dass es den Verantwortlichen bewusst ist. So schlug ein von Amazon eingesetztes KI-Programm zur Bewertung von Bewerberinnen und Bewerbern überdurchschnittlich oft weiße Männer für eine Einstellung vor. Der Grund: Weil das Unternehmen fast nur weiße Männer beschäftigt hatte, waren die Daten dieser Mitarbeiter nahezu der alleinige Maßstab für künftige Einstellungen. Die Erfahrungen mit ihnen mussten zwangsläufig am besten ausfallen.Aufgrund solch falscher Ergebnisse durch gesellschaftshistorisch verzerrter Trainingsdaten hat sich in der KI-Szene der Begriff ""WEIRD Samples"" eingebürgert. Weird, das englische Wort für seltsam oder schräg, steht hier als Akronym für ""Western, Educated, Industrialized, Rich and Democratic societies"".Computer, die mit selbstlernenden Algorithmen ausgestattet sind, verhalten sich im Prinzip wie Kinder. Basis ihres Lernens sind die Daten, mit denen sie gefüttert werden. Lernen die Maschinen unkontrolliert oder auf einer fehlerhaften Basis, entstehen Risiken, die in der Regel kaum einschätzbar sind und meistens erst bei groben Fehlern überhaupt erkannt werden. Wer solche Algorithmen programmiert, sollte deshalb abschätzen können, was die Maschine auf lange Sicht aus ihrem ""Futter"" macht.Unconscious Bias vermeiden1/5Unconscious Bias vermeidenWer seine Denk- und Glaubensmuster versteht und erkennt, kann eigenen Vorurteilen entgegenwirken. HR-Managerin Anna-Maria Friedrich von Avanade führt Unconscious-Bias-Trainings im Unternehmen durch, um Vorurteilen bei Mitarbeitern und Führungskräften entgegenzuwirken. Sie empfiehlt …Foto: Hyejin Kang - shutterstock.comProgrammier-Know-how allein reicht nicht mehrDaraus ergeben sich neue Anforderungen an die IT-Ausbildung. KI-Spezialisten brauchen neben Programmierkenntnissen künftig auch eine Art ethische Grundausbildung. Sie müssen lernen, ihre Arbeit nicht nur am Interesse ihres Auftraggebers, sondern auch am Gemeinwohl auszurichten. Dazu gehört zunächst ein Verständnis davon, wie es überhaupt zu kognitiven Verzerrungen im menschlichen Denken und zu Bias-Effekten in Algorithmen kommen kann. Das müssen KI-Programmierer künftig zumindest im Ansatz verstehen, um ihre eigene Voreingenommenheit besser zu erkennen.Wer also Informatik studiert, sollte auch lernen, beim Entwickeln von KI-Systemen Fragen wie die folgenden im Blick zu haben:Kann ein Verzerrungseffekt entstehen?Wenn es zu einer Verzerrung käme, welche Auswirkungen hätte diese? Welcher Schaden könnte entstehen?Gibt es für meine Anwendung passende Tests, um Bias-Effekte aufzuspüren?Sinnvoll wäre es, Bias-Tests explizit in KI-Software einzubauen und so grundlegende Kontrollen zu institutionalisieren - entsprechend dem schon heute in der Programmierung geltenden Prinzip der Peer-Review (Vier-Augen-Prinzip). Hier sollten auch ethische Regeln einfließen.Bias-Effekte im menschlichen DenkenIn der Verhaltensforschung kennt man unterschiedliche Mechanismen, die zu kognitiven Verzerrungen führen. Der sogenannte Halo-Effekt (von englisch Halo = Heiligenschein) zum Beispiel beschreibt die menschliche Tendenz, Personen, die wir positiv wahrnehmen, etwa weil sie gut aussehen oder freundlich und eloquent auftreten, auch andere positive Eigenschaften zuzuschreiben - zum Beispiel Großzügigkeit, Toleranz oder Fairness.Im Zusammenhang mit den bereits erwähnten WEIRD Samples spielt immer wieder auch der ""Ingroup Bias"" eine Rolle. So ist es zutiefst in unserem Denken verankert, dass wir Menschen, die wir zu unserer eigenen Gruppe zählen, positiver wahrnehmen als Mitglieder einer Gruppe, der wir uns nicht zugehörig fühlen.In die gleiche Richtung weist unser Hang zur Stereotypisierung. Um komplexe Sachverhalte oder Menschen einordnen zu können, greifen wir zu Stereotypen (Beispiel: ""Die Deutschen sind pünktlich, fleißig und haben keinen Humor""). Dass wir damit den tatsächlichen Gegebenheiten nicht immer gerecht werden, liegt auf der Hand.Zu den besonders wirkmächtigen Verzerrungsmechanismen gehört der Bestätigungs-Bias (Confirmation Bias). Er beruht darauf, dass wir vor allem Informationen Glauben schenken, die unsere Sicht der Dinge bestätigen. Die eingangs beschriebene Filterblase im Internet wirkt auch deshalb so stark, weil sie auf dem Bestätigungs-Bias aufsetzt, der uns allen zueigen ist.
+Metaebenen im BlickWer KI-Systeme programmiert, sollte also diese Effekte kennen und in der Lage sein, das eigene Denken so weit wie möglich von Verzerrungen frei zu machen, sich also einem ""Debiasing"" zu unterziehen. Dazu ist es wichtig, sich Grundwissen über das Entstehen und Wirken kognitiver Verzerrungen anzueignen und die Metaebenen in den Blick zu nehmen. Es gilt, die eigenen Denkmechanismen zu durchleuchten und im Sinne eines Debiasing zu trainieren. Zum anderen müssen sich Programmierer bewusst machen, wie die Maschine lernt, wie sie also mit den einmal programmierten Codes arbeitet und welche Effekte das nach sich ziehen kann.Idealerweise sollte die Maschine sogar lernen, ihr eigenes Lernverhalten zu korrigieren. Wobei sich auch hier wieder die Frage stellt, nach welchen Kriterien sie das tut. Da sich KI-Algorithmen im Grunde wie Kinder verhalten, sollten wir ihnen ähnliche Lernvoraussetzungen bieten: Verantwortungsbewusste Eltern sind in der Regel gewissenhaft, wenn es um die vermittelten Lerninhalte in Kitas, Kindergärten und Schulen geht. Wer sich wünscht, dass die Kinder zu fairen, vorurteilsfreien und sozialen Wesen heranwachsen, schaut genau hin, wie sie lernen. Das betrifft nicht nur die klassische Bildung in der Schule, sondern auch beispielsweise die Mitgliedschaft im Sport- oder Musikverein. Dort lernen Kinder eben nicht nur Fußball oder Klavier spielen, sondern auch soziales Verhalten. Genau das ist auch für KI-Systeme sinnvoll.Die fünf Schulen maschinellen LernensWelche Lernprinzipien hinter den Algorithmen stecken und wie (maschinelles) Wissen überhaupt entsteht, das hat der Informatiker Pedro Domingos von der University of Washington untersucht. Daraus hat er fünf Schulen des maschinellen Lernens abgeleitet.Die Konnektionisten folgen dem Funktionsprinzip des Gehirns und dessen Synapsenbildung. Das Ergebnis sind neuronale Netzwerke, in denen Informationen miteinander verknüpft und anhand ihrer Zusammenhänge plausibilisiert werden. Deep Learning, das auf mehreren neuronalen Schichten basiert, entspringt dieser Schule. Die Symbolisten arbeiten nach dem Prinzip der Logik. Dabei wird zum Beispiel aus zwei Prämissen eine zwingende Konsequenz abgeleitet. Grundidee der Symbolisten ist es, dieses Prinzip umzudrehen und aus der Konsequenz auf die zunächst noch unbekannte Prämisse zu schließen. Auf dieser Basis kann ein Computer Hypothesen formulieren und Experimente entwickeln. Vom grundlegenden Lernprinzip der Natur, der Evolution, gehen die Evolutionisten aus. Ein auf dieser Schule basierendes Softwareprogramm simuliert die natürliche Selektion: Was sich in der virtuellen Welt bewährt, bleibt erhalten, seine Merkmale werden an die nächste Generation weitergegeben.Die Bayesianer gründen ihr Vorgehen auf dem Theorem des englischen Mathematikers Thomas Bayes. Das Lernen ist hier eine Annäherung an die höchste Wahrscheinlichkeit, indem Hypothesen an neue Beobachtungen angepasst werden. Mit Bayesschen Netzen prognostizieren zum Beispiel autonome Fahrsysteme ungewisse Ereignisse im Straßenverkehr. Die Analogisierer suchen bei neuen Informationen nach Ähnlichkeiten zu bereits eingeordneten Daten oder Beobachtungen. Der sogenannte Nearest-Neighbor-Lernalgorithmus, der dieser Schule entspringt, ordnet eine neue Beobachtung jener Kategorie zu, die die meisten ähnlichen Fälle enthält. Zumindest ein Teil der Internet-Filterblase ist das Ergebnis von Empfehlungssystemen auf Basis dieser Schule. Sie bieten dem User Informationen, Filme oder Musik aus einer ihm bereits vertrauten Kategorie an.Besonders anfällig für Bias ist nach heutigem Wissensstand das Deep Learning. Jedoch ist keines der genannten fünf Lernprinzipien frei von Verzerrungseffekten. Der Grund ist einfach: Wir Menschen selbst verzerren die Wirklichkeit, die Bias-Problematik ist untrennbarer Bestandteil unseres Wahrnehmens, Denkens und Handelns.Dem Gemeinwohl dienenKlar ist: Die Entwickler künstlich intelligenter Systeme werden in Zukunft weit mehr können müssen als nur das Programmieren von Algorithmen. Sie müssen die langfristigen Folgen ihrer Arbeit abschätzen können - und zwar nicht nur im Sinne ihres Auftraggebers, sondern auch im gesamtgesellschaftlichen Kontext. Sie müssen nicht nur wissen, wie ihre Maschine tickt, sondern auch wie sie selbst als Menschen funktionieren und was der menschlichen Gemeinschaft dient.Hilfreich für die Einordnung dessen, was KI darf und was nicht, sind übrigens die drei von Isaac Asimov 1942 postulierten Robotergesetze:Ein Roboter darf kein menschliches Wesen (wissentlich) verletzen oder durch Untätigkeit zulassen, dass einem menschlichen Wesen Schaden zugefügt wird.Ein Roboter muss den ihm von einem Menschen gegebenen Befehlen gehorchen - es sei denn, ein solcher Befehl würde mit Regel eins kollidieren.Ein Roboter muss seine Existenz beschützen, solange dieser Schutz nicht mit Regel eins oder zwei kollidiert.Ähnliche Ansätze wie die von Asimov bereits vor fast 80 Jahren formulierten Robotergesetze gibt es heute in einigen Großunternehmen und internationalen Konzernen im Zusammenhang mit KI. So hat die BMW Group einen Ethik-Kodex für KI entwickelt. Damit, so der Autobauer, wolle man sicherstellen, dass KI-Technologien auf ethische und effiziente Weise angewendet werden. Microsoft hat für sich und seine Mitarbeiter sechs Grundsätze für KI und Ethik aufgestellt.Microsofts Ethikprinzipien für KIDiskriminierungsfreiheit: Wir setzen uns dafür ein, dass künstliche Intelligenz alle Menschen fair behandelt. Zuverlässigkeit: Wir arbeiten daran, dass künstliche Intelligenz zuverlässig und sicher ist. Schutz der Privatsphäre: Wir wollen künstliche Intelligenz, die Datenschutz und Datensicherheit gewährleistet. Barrierefreiheit: Wir stehen für künstliche Intelligenz, die allen Menschen zu Gute kommt. Transparenz: Künstliche Intelligenz muss uns ihre Entscheidungen erklären. Verantwortlichkeit: Künstliche Intelligenz darf nur den Einfluss haben, den wir ihr zugestehen. Noch gibt es keinen vom Gesetzgeber oder einem Industrieverband verbindlich vorgeschriebenen Standard. Die Regeln aber, die sich Unternehmen wie die genannten gegeben haben, gehen in die richtige Richtung. Angesichts der rasanten Entwicklung künstlicher Intelligenz ist es an der Zeit, dass wir als menschliche Gemeinschaft Regeln definieren, welche ethischen Standards ein KI-Code erfüllen muss. Diese Regeln müssen in die Ausbildung von KI-Experten einfließen.Wir neigen bei mangelhafter Informationslage zu falschen Annahmen und gehen dabei meist vom höchsten Risiko für uns selbst aus. Das Ergebnis ist, dass sich der Mensch häufig fragt, ob ihm ein anderer Mensch, eine andere Gruppe schaden könnte. Wird dieses Risiko bejaht, führt das fast automatisch zu einem Verteidigungs- oder Angriffsverhalten, das auf falschen Annahmen beruht und daher bei besserer Informationslage vermeidbar wäre.Künstliche Intelligenz kann dem Informationsdefizit der Menschheit entgegenwirken. Voraussetzung: Sie wird offen programmiert und verantwortungsvoll eingesetzt. (hv)6 Wege zum KI-Fail1/61. DatenmangelDatenprobleme gehören zu den häufigsten Gründen für das Scheitern von Artificial-Intelligence-Initiativen. Das belegt auch eine Studie des Beratungsunternehmens McKinsey, die zu dem Schluss kommt, dass die beiden größten Herausforderungen für den KI-Erfolg mit Daten in Zusammenhang stehen. 
+
+Demnach haben viele Unternehmen einerseits Probleme damit, ihre Daten richtig einzuordnen, um die Machine-Learning-Algorithmen korrekt programmieren zu können. Wenn Daten nicht richtig kategorisiert werden, müssen sie manuell richtig klassifiziert werden – was oft zu zeitlichen Engpässen und einer erhöhten Fehlerrate führt. Andererseits stehen viele Unternehmen vor dem Problem, nicht die richtigen Daten für das anvisierte KI-Projekt zur Verfügung haben. Zur McKinsey-StudieFoto: lakshmiprasada S - shutterstock.com×CloseFeedback geben
+
+
+
+ Artikel als PDF kaufenDie Rechte an diesem Artikel kaufen×CloseErwerben Sie die Rechte an diesem ArtikelWenn Sie Artikel von CIO, Computerwoche, TecChannel oder Channelpartner für eine kommerzielle Vervielfältigung nutzen wollen, müssen Sie eine Lizenz erwerben.Bitte wenden Sie sich dazu an unseren Partner, die YGS Group (E-Mail: IDGLicensing@theygsgroup.com)
+
+
+
+
+
+
+Mehr zum Thema
+
+KI rechtssicher nutzen - mit Rechtsanwalt Jörg-Alexander Paul - IDG TechTalk | Voice of Digital
+KI-Einsatz im Unternehmen: KI bekommt ein eigenes Risk Management Framework
+Die Geschichte von IBM
+
+
+
+
+Aktuelle Jobangebote
+
+
+Systemadministratoren/ Systemarchitekten (m/w/d)Brandenburgischer IT-Dienstleister
+
+
+Senior Experts (m/w/d) in der IT-AnwendungsadministrationBrandenburgischer IT-Dienstleister
+
+
+IT-Service-Spezialistin / IT-Service-Spezialist (m/w/d) mit Schwerpunkt Anforderungsmanagement und zentrale SteuerungLandschaftsverband Rheinland LVR-InfoKom
+
+
+Elektroingenieur/in HardwareentwicklungGriessbach GmbH
+
+
+RZ-Managerin/RZ-Manager für die DataCenter Services (m/w/d)Landschaftsverband Rheinland LVR-InfoKom
+
+
+Aktuell finden Sie über 500 ausgeschriebene Stellen im CW-Stellenmarkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnN3ci5kZS9zd3JrdWx0dXIvd2lzc2VuL2tvbnZlcnNhdGlvbi1taXQta2ktd2llLW1hc2NoaW5lbi1taXQtdW5zLXJlZGVuLXN3cjItd2lzc2VuLTIwMjAtMTEtMzAtMTAwLmh0bWzSAQA?oc=5,Konversation mit KI – Wie Maschinen mit uns reden - SWR,2020-11-30,SWR,https://www.swr.de,"Das Gespräch mit künstlichen Intelligenzen wird bald alltäglich sein. Diese KIs können sogar mit unserer eigenen Stimme sprechen. Das ermöglicht den digitalen Stimmenklau und Fake News, aber auch das Weiterleben unserer Stimme nach dem Tod. ",N/A,"Das Gespräch mit künstlichen Intelligenzen wird bald alltäglich sein. Diese KIs können sogar mit unserer eigenen Stimme sprechen. Das ermöglicht den digitalen Stimmenklau und Fake News, aber auch das Weiterleben unserer Stimme nach dem Tod.","Das Gespräch mit künstlichen Intelligenzen wird bald alltäglich sein. Diese KIs können sogar mit unserer eigenen Stimme sprechen. Das ermöglicht den digitalen Stimmenklau und Fake News, aber auch das Weiterleben unserer Stimme nach dem Tod.",,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+SWR
+
+
+
+
+
+
+
+SWR Kultur
+
+
+
+
+
+
+
+Wissen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SWR2 Wissen
+
+Konversation mit KI – Wie Maschinen mit uns reden
+
+
+
+
+
+
+
+Stand
+
+
+4.11.2020, 10:40 Uhr
+
+
+
+
+Autor/in
+
+
+Christoph Drösser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+auf Whatsapp teilen
+
+
+
+
+
+
+
+auf Facebook teilen
+
+
+
+
+
+
+
+beim Kurznachrichtendienst X teilen
+
+
+
+
+
+
+
+per Mail teilen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio herunterladen
+(26,4 MB | MP3)
+
+Die Zeiten der schnarrenden Roboterstimmen sind vorbei. Alexa, Siri und Co. sprechen inzwischen so natürlich, dass man sie kaum noch von echten Menschen unterscheiden kann. Sie sagen „hm“ und „äh“, als würden sie nachdenken. 
+Das Gespräch mit künstlichen Intelligenzen wird bald alltäglich sein. Diese KIs können sogar mit unserer eigenen Stimme sprechen. Das ermöglicht den digitalen Stimmenklau und Fake News, aber auch das Weiterleben unserer Stimme nach dem Tod. Wie wirkt sich all das auf die zwischenmenschliche Kommunikation aus?
+
+
+Manuskript zur Sendung
+
+
+
+
+
+
+
+Sendung vom
+
+
+
+Mo.,
+30.11.2020
+
+8:30 Uhr,
+SWR2 Wissen,
+SWR2
+
+
+
+
+
+
+
+
+Zur Startseite der Sendung
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technik
+Chatbots – Reden mit Maschinen
+
+
+
+
+
+
+
+
+
+
+
+
+Chatbots kommen im Kundendienst oder als Sprachassistenten zum Einsatz. „Gespräche“ mit ihnen laufen bereits erstaunlich flüssig. Doch „menschlich“ sind sie noch lange nicht.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz
+KI im Journalismus – Algorithmen machen Nachrichten
+
+
+
+
+
+
+
+
+
+
+
+
+Im schneller werdenden Nachrichtengeschäft unterstützen Algorithmen die Arbeit der Redakteure und suchen im Netz nach News, formulieren Texte. Kann die KI Journalisten völlig ersetzen?
+
+
+
+
+
+
+
+
+
+
+
+
+Audio starten
+
+
+
+
+
+
+
+
+
+Sport
+KI im Fußball – Mit Algorithmen zum Sieg
+
+
+
+
+
+
+
+
+
+
+
+
+Fußball ist ein Milliardengeschäft. Um die Gewinnchance zu steigern, werden alle Daten der Athleten gesammelt: Antrittsgeschwindigkeit, Passgenauigkeit, Schusswinkel, Atemfrequenz.
+
+
+
+
+
+
+
+ 
+ 
+Reihe: Künstliche Intelligenz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (1/10)
+Die Geschichte vom denkenden Computer
+
+
+
+
+
+
+
+
+
+
+
+
+Seit über 60 Jahren ist von künstlicher Intelligenz die Rede. Heute können Computer und Roboter zwar viel, aber können sie auch denken?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (2/10)
+Digitale Beziehungskisten
+
+
+
+
+
+
+
+
+
+
+
+
+Roboter oder Datingportale prägen unsere sozialen Beziehungen und können Ressentiments verstärken – im Alltag, in der Liebe oder in der Pflege.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (3/10)
+Europas KI-Offensive
+
+
+
+
+
+
+
+
+
+
+
+
+Europa will in der Künstlichen Intelligenz wieder aufholen. Die Vision: Eine KI mit europäischen Werten.
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (4/10)
+Kollege Algorithmus
+
+
+
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz schafft mehr Jobs als sie vernichtet. Zumindest vorerst. Langfristig könnte sich der Trend umkehren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (5/10)
+Der selbstgesteuerte Verkehr
+
+
+
+
+
+
+
+
+
+
+
+
+Autonome Fahrzeuge und Flugtaxis versprechen bequeme und effiziente Mobilität. Aber wird der Verkehr damit insgesamt ab- oder zunehmen?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (7/10)
+Aufklärung mit Algorithmen
+
+
+
+
+
+
+
+
+
+
+
+
+In sozialen Medien haben Propaganda und Manipulation leichtes Spiel. Ihre Algorithmen können aber auch für Aufklärung und Meinungsfreiheit genutzt werden.
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (9/10)
+Kunst, die sich selbst erschafft
+
+
+
+
+
+
+
+
+
+
+
+
+Computerprogramme komponieren, malen, erschaffen virtuelle Traumwelten. Und selbst die Programmierer wissen oft nicht, warum das funktioniert – oder scheitert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die künstlich intelligente Gesellschaft (10/10)
+Denkende Computer und menschliche Dummheit
+
+
+
+
+
+
+
+
+
+
+
+
+Computer können Texte lesen, Befehle ausführen, Autos steuern. Aber Gefühle und menschliche Schwächen können sie nur simulieren. 
+
+
+
+
+
+
+
+ 
+ 
+ChatBots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hörspiel
+Nis-Momme Stockmann: Das Fenster
+
+
+
+
+
+
+
+
+
+
+
+
+""Die ganze Welt ist voll mit Arschlöchern!"", sagt Greta. Sie hält die Dummheit der Menschen nicht aus. Erst als die den wortkargen und gelassenen Birk kennenlernt, ändert sich ihr Blick auf die Welt.Greta ist verliebt. Und kann selbst kaum fassen, wie ihr geschieht. Dann erkrankt Birk schwer. Und Greta überfällt eine panische Angst. Doch selbst die schlimmste Diagnose haut Birk nicht um.Der Computerspezialist arbeitet weiter an einem Projekt, dass die Grenze von Leben und Tod zu verschieben scheint. Greta droht völlig verrückt zu werden.Mit: Birte Schnöink, Daniel Hoevels, Anjorka Strechel, Ole Lagerpusch, Jens Wawrzeck u. a. | Regie: Iris Drögekamp | Produktion: SWR 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Netzkultur
+KI und die Gefühle - wie gut hilft Künstliche Intelligenz gegen Einsamkeit?
+
+
+
+
+
+
+
+
+
+
+
+
+Mittlerweile kann sie alles: Künstliche Intelligenz soll unser „persönlicher Begleiter“ werden, uns Arbeit abnehmen, alles ist möglichst genau auf uns zugeschnitten. So stellen sich das zumindest die großen Tech-Unternehmen vor. Aber wie persönlich kann so eine KI tatsächlich werden? Kann sie uns im Jahr 2024 schon eine Art Freundschaft bieten, vielleicht sogar gegen Einsamkeit helfen? Die Programme „Copilot“ oder „Companion“ versuchen, unsere „Freunde“ zu werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forschung
+Mathematik in Zeiten von KI – Beweise vom Chatbot
+
+
+
+
+
+
+
+
+
+
+
+
+Einen mathematischen Satz zu beweisen, bedeutet: Lange herumtüfteln, bis der ""Heureka""-Moment kommt. Manchmal dauert das Jahrhunderte. Dank KI wird das künftig wesentlich schneller gehen. Doch sind diese Beweise dann noch nachvollziehbar? Von Christoph Drösser (SWR 2024) | Manuskript und mehr zur Sendung: http://swr.li/mathematik-ki | Hör-Tipp: Die Schule brennt – der Bildungspodcast mit Bob Blume | https://1.ard.de/die-schule-brennt-podcast | Bei Fragen und Anregungen schreibt uns: daswissen@swr.de | Folgt uns auf Mastodon: https://ard.social/@DasWissen
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gespräch
+Zaubern mit ChatGPT – die Freiburgerin Kiana Taiari versteht sich als moderne Magierin
+
+
+
+
+
+
+
+
+
+
+
+
+Mit einem schlichten Zauberkasten hat alles einmal angefangen. Heute ist die 22jährige Kiana Taiari eine der besten Nachwuchszauberinnen Deutschlands. Die Begeisterung für die hohe Kunst der Magie hat sie dazu gebracht, schon während der Schulzeit in Offenburg sechs, sieben Stunden am Tag Kartentricks zu üben. Aktuell versuche sie neben dem Marketing-Studium in Freiburg wenigstens vier Stunden zu proben, meint Kiana Taiari im Gespräch mit SWR Kultur. Seit 2013 ist sie professionell unterwegs und präsentiert ein modernes Programm mit Handy, Künstlicher Intelligenz und Gedankenlesen. Eine Mischung aus Comedy und Zauberei.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz
+Kann KI uns Menschen belügen und betrügen?
+
+
+
+
+
+
+
+
+
+
+
+
+Es häufen sich Berichte, dass Künstliche Intelligenz zielgerichtet Falschinformationen einsetzt. Die naheliegende Schlussfolgerung: KI-Systeme sind willentlich böse. Doch es würde zu weit führen, der KI eine „Absicht“ zu unterstellen.Christoph König im Gespräch mit Prof. Katharina Zweig, Fachbereich Informatik an der TU Kaiserslautern.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Handlungsempfehlungen der Wikimedia Foundation
+Lernen in Zeiten von ChatGPT: Besser Open-Source-Alternativen benutzen
+
+
+
+
+
+
+
+
+
+
+
+
+Wie verändert Künstliche Intelligenz die Bildung? Wie sollte das Bildungswesen auf diese Herausforderung reagieren? Dazu hat die Wikimedia Foundation, Trägerorganisation des Online-Lexikons Wikipedia, zehn Handlungsempfehlungen für offene KI-Anwendungen erarbeitet.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+auf Whatsapp teilen
+
+
+
+
+
+
+
+auf Facebook teilen
+
+
+
+
+
+
+
+beim Kurznachrichtendienst X teilen
+
+
+
+
+
+
+
+per Mail teilen
+
+
+
+
+
+
+
+Stand
+
+
+4.11.2020, 10:40 Uhr
+
+
+
+
+Autor/in
+
+
+Christoph Drösser
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmhlaXNlLmRlL2hpbnRlcmdydW5kL0tJLWhpbGZ0LWJlaS1kZXItTGl0ZXJhdHVycmVjaGVyY2hlLTQ5NzA3ODEuaHRtbNIBAA?oc=5,KI hilft bei der Literaturrecherche | heise online - heise online,2020-11-26,heise online,https://www.heise.de,AdModule,"Infotech, Künstliche Intelligenz, NLP, Semantic Scholar, Wissenschaftliche Literatur, semantische Suche","""Semantic Scholar"" vom Allen Institute for Articial Intelligence vereinfacht das Auffinden wissenschaftlicher Inhalte.","""Semantic Scholar"" vom Allen Institute for Articial Intelligence vereinfacht das Auffinden wissenschaftlicher Inhalte.",https://schema.org,ItemList,"[{'@id': 'https://www.heise.de/thema/Heise-Serien', '@type': 'Thing', 'name': 'Heise Serien'}, {'@id': 'https://www.heise.de/thema/Infotech', '@type': 'Thing', 'name': 'Infotech'}, {'@id': 'https://www.heise.de/thema/K%C3%BCnstliche-Intelligenz', '@type': 'Thing', 'name': 'Künstliche Intelligenz'}, {'@id': 'https://www.heise.de/thema/MIT-Technology-Review', '@type': 'Thing', 'name': 'MIT Technology Review'}]",,Wissen,"[{'@id': '2819370', '@type': 'Person', 'name': 'Karen Hao'}]",,2020-11-26T06:00:00+01:00,2020-11-26T06:00:00+01:00,KI hilft bei der Literaturrecherche,"{'@type': 'ImageObject', 'height': 960, 'url': 'https://www.heise.de/imgs/18/3/0/0/8/5/4/8/funnel_web-1d995c6052ef9a96.jpeg', 'width': 1708}","{'@id': 'https://www.heise.de/hintergrund/KI-hilft-bei-der-Literaturrecherche-4970781.html', '@type': 'WebPage', 'breadcrumb': {'@context': 'http://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'item': {'@id': 'https://www.heise.de/', '@type': 'WebPage', 'name': 'heise online'}, 'position': 1}, {'@type': 'ListItem', 'item': {'@id': 'https://www.heise.de/newsticker/wissen/', '@type': 'WebPage', 'name': 'Wissen'}, 'position': 2}, {'@type': 'ListItem', 'item': {'@id': 'https://www.heise.de/hintergrund/KI-hilft-bei-der-Literaturrecherche-4970781.html', '@type': 'WebPage', 'name': 'KI hilft bei der Literaturrecherche'}, 'position': 3}]}}","{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'url': 'https://www.heise.de/icons/ho/opengraph/opengraph.png'}, 'name': 'heise online', 'url': 'https://www.heise.de'}",https://www.heise.de/hintergrund/KI-hilft-bei-der-Literaturrecherche-4970781.html,742.0,KI hilft bei der Literaturrecherche,PT5M,N/A,N/A,,,8,"{'@id': 'https://www.heise.de', '@type': 'Organization', 'name': 'Heise Medien'}",2020,/forum/heise-online/Kommentare/KI-hilft-bei-der-Literaturrecherche/forum-462424/comment/,3008548.0,de,True,True,"{'@type': ['Product'], 'name': 'heise online', 'productID': 'heise.de:basic'}",,"{'@id': 'https://www.heise.de/', '@type': 'Organization', 'identifier': 'ho', 'name': 'MIT Technology Review'}",https://www.heise.de/imgs/18/3/0/0/8/5/4/8/funnel_web-1d995c6052ef9a96.jpeg,,3632786,AdModule,"[{'@type': 'ListItem', 'position': 0, 'item': {'@type': 'WPAdBlock', '@id': '3631856', 'additionalType': 'StickyFooterAd'}}]"

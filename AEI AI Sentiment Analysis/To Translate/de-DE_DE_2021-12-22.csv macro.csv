@@ -1,0 +1,1033 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,articleBody,isBasedOn,articleSection,author,dateModified,datePublished,headline,image,thumbnailUrl,url,isPartOf,isAccessibleForFree,alternativeHeadline,mainEntityOfPage,publisher,itemListElement,@graph,about,dateCreated,wordCount,timeRequired,inLanguage
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpZ2RhdGEtaW5zaWRlci5kZS9rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1zb2xsLWFkZGl0aXZlLWZlcnRpZ3VuZy11bnRlcnN0dWV0emVuLWEtMTA4NDI0OC_SAQA?oc=5,Automobilindustrie Künstliche Intelligenz soll Additive Fertigung unterstützen - BigData-Insider,2021-12-23,BigData-Insider,https://www.bigdata-insider.de,"Eine Künstliche Intelligenz bietet viel Potential, um die Additive Fertigung für einen qualitativ hochwertigen Druckprozess zu unterstützen. Doch der größte Knackpunkt liegt aktuell darin, ausreichend gute Trainingsdaten zu sammeln.",N/A,"Eine Künstliche Intelligenz bietet viel Potential, um die Additive Fertigung für einen qualitativ hochwertigen Druckprozess zu unterstützen. Doch der größte Knackpunkt liegt aktuell darin, ausreichend gute Trainingsdaten zu sammeln.","Eine Künstliche Intelligenz bietet viel Potential, um die Additive Fertigung für einen qualitativ hochwertigen Druckprozess zu unterstützen. Doch der größte Knackpunkt liegt aktuell darin, ausreichend gute Trainingsdaten zu sammeln.",N/A,N/A,"
+Automobilindustrie Künstliche Intelligenz soll Additive Fertigung unterstützen 23.12.2021Von  Dipl.-Ing. (FH) Hendrik HärterEine Künstliche Intelligenz bietet viel Potential, um die Additive Fertigung für einen qualitativ hochwertigen Druckprozess zu unterstützen. Doch der größte Knackpunkt liegt aktuell darin, ausreichend gute Trainingsdaten zu sammeln.
+
+
+		Anbieter zum Thema	
+
+
+
+
+
+
+
+					Fujitsu Technology Solutions GmbH				
+
+
+
+
+
+
+
+
+					Board Deutschland GmbH				
+
+
+
+
+
+
+
+
+					Disy Informationssysteme GmbH				
+
+
+
+
+Additive Fertigung: Künstliche Intelligenz soll künftig den 3D-Druck überwachen. Der Knackpunkt ist akuell, ausreichend gute Trainingsdaten zu sammeln.                                         (Bild: gemeinfrei                 /                 Pixabay                 )                                      Jede Fertigungstechnik wird von einer Vielzahl an Einflussgrößen und deren Wechselwirkungen untereinander beeinflusst. Nur wenn ein Anwender der jeweiligen Technik ein möglichst umfassendes Wissen über diese Größen besitzt, lässt sich der Fertigungsprozess erfolgreich umsetzen. Allerdings ist oft ein langer Lernprozess notwendig, um sich das notwendige Wissen anzueignen. Nicht zu vergessen die vielen Fehler auf dem Weg. Genau diesen Lernprozess versuchen die Wissenschaftler um Prof. Dr.-Ing. Tobias Laumer von der Ostbayerischen Technischen Hochschule Regensburg mit Methoden der Künstlichen Intelligenz (KI) nachzubilden. Mithilfe einer ausreichend großen Datenbasis soll ein trainiertes künstliches neuronales Netz (KNN) den additiven Fertigungsprozesse selbstständig überwachen und unerfahrene Anwender bei ihrer Arbeit unterstützen. 
+
+ Künstliche Intelligenz und Additive FertigungDoch wie lernt die KI vom Druckprozess? Das lässt sich am Beispiel des Fused-Layer-Modeling- (FLM-)Prozesses erklären. Dabei wird das Filament in einen Druckkopf geführt und anschließend vom Extruder geschmolzen, der nun das Material Schicht für Schicht auf einer Druckplatte ablegt. Die für die KI notwendigen Trainingsdaten sammeln Kameras, Beschleunigungs- und Temperatursensoren oder spezielle Thermokameras. Dabei ist es wichtig neben erfolgreichen Druckjobs, auch genug Beispiele für nicht erfolgreiche Druckjobs zu haben. Für den eingesetzten überwachten Lernprozess müssen die Trainingsdaten gelabelt werden. Sie werden in OK- und NOK-Bauteile klassifiziert. Also ob sie in Ordnung sind (OK) oder nicht (not OK). Damit ist der KI-Algorithmus selbstständig in der Lage, Muster in den Trainingsdaten zu erkennen und diese den unterschiedlichen Bauteilqualitäten zuzuordnen. Die größte zeitliche Herausforderung für einen erfolgreichen Einsatz von KI-Methoden ist nicht die Implementierung des KNNs, sondern die Beschaffung und Aufbereitung der notwendigen Daten für das KNN.  Einsatzmöglichkeiten der KI im AutomobilbauWie sieht eine Anwendung einer KI für die Additive Fertigung im Automobilbau aus? Für die klassische Serienfertigung mit hohen Stückzahlen verwenden die Automobilbauer bisher noch kaum additiv gefertigte Bauteile. Ganz anders sieht es bei kleinen Stückzahlen oder im Premiumsegment aus. Hier setzen nach den Worten Laumers Hersteller wie Rolls-Royce oder BMW bereits seit längerem auf die Additive Fertigung mit ihren typischen Vorteilen im Vergleich zu konventionellen Fertigungstechniken. Auch im Prototyping, der Vorserienentwicklung und im Werkzeugbau hat sich die Additive Fertigung bereits etabliert.  
+
+
+
+ Daten sind der Schlüssel zum Erfolg„Wichtig ist eine Unterscheidung zwischen geometrieunabhängigen und -abhängigen Prozessdaten“, sagt Prof. Laumer. Beispiele für geometrieunabhängige Daten wären die Luftfeuchtigkeit und -temperatur. Starke Schwankungen können sich je nach Werkstoff bei nicht darauf angepassten Prozessparametern negativ auf den Bauprozess und die Bauteilqualität auswirken. Gerade bei internationalen Unternehmen mit weltweiten Fertigungsstandorten in unterschiedlichen Klimazonen müssen solche Faktoren berücksichtigt werden, um standortübergreifend die Druckqualität kontinuierlich hoch zu halten.Weitere detektierbare, geometrieunabhängige Prozessdaten sind fehlendes Material und Fehlstellen innerhalb einzelner Schichten. Die Festigkeit sinkt lokal und das zu druckende Bauteil wird geschwächt. Ein mit ausreichend vielen Daten trainiertes KNN erkennt solche Fehlstellen und kann bei einer kritischen Größe des Fehlers den Baujob selbstständig abbrechen. Bevor der Baujob erneut gestartet wird, kann man notwendige Anpassungen vornehmen und der Fehler muss nicht erst nach erfolgtem Durchlaufen des gesamten Druckes mit großem Aufwand detektiert werden. Im Gegensatz zu den geometrieunabhängigen Prozessdaten sind geometrieabhängige Prozessdaten Abweichungen in Form und Maß. Hat eine KI die Außenkontur erkannt, werden die geometrischen Daten über Streifenlichtsensoren erfasst und mit den Sollwerten der Bauteildatei verglichen. Fehler in Druckjobs oder fehlerhafte Bauteile sollen schnellstmöglich erkannt werden. So lässt sich Material und Zeit einsparen.  
+
+ Mit der KI den Prozess prädiktiv bewertenLangfristig soll das angelernte KNN dazu in der Lage sein, bereits prädiktiv, also vor Baubeginn, eine Erfolgswahrscheinlichkeit des zu startenden Drucks zu ermitteln. Das hilft sowohl Konstrukteuren als auch Anwendern des 3D-Drucks. Noch vor Beginn des Druckprozesses soll das künstlich neuronale Netz wichtige Bauteil- und Prozessdaten kontrollieren und entscheiden, ob sich der Baujob starten lässt. Zu den Bauteil- und Prozessdaten gehören unter anderem Beschaffenheit der Stützstrukturen, die Orientierung des Bauteils im Bauraum und eingestellte Prozessparameter. Problematisch ist, ausreichend viele Daten in Bezug auf die Bauteilegeometrie bereitzustellen. Da in der Additiven Fertigung oftmals Prototypen oder Klein- und Kleinstserien-Bauteile mit sehr komplexen Geometrien erstellt werden, ist das Ableiten von allgemeinen Mustern aus der Vielzahl an möglichen Geometrien nicht trivial. Deshalb wird das KNN anfangs sicherlich noch eine gewisse Ungenauigkeit besitzen. Erst mit einer ausreichend großen Datenbasis lässt sich die Ungenauigkeit beseitigen. Daher sind die Wissenschaftler der OTH an Kooperationen mit Firmen und anderen Hochschulen interessiert, die ebenfalls Additive Fertigungsverfahren einsetzen und möglichst ihre Prozessdaten bereitstellen.„Eine intelligente und prädiktive Prozesskontrolle für additive Fertigungsprozesse bietet auch in der Automobilindustrie eine große Chance für stabilere Prozesse mit weniger Fehldrucken“, sagt Prof. Laumer abschließend.  
+
+Dieser Artikel stammt von unserem Partnerportal Industry of Things. (ID:47903653)
+",,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmdxLW1hZ2F6aW4uZGUvdGVjaG5pay9hcnRpa2VsL2Vsb24tbXVzay13ZWlzcy1iZXN0YmV6YWhsdGUtYmVydWYtZGVyLXp1a3VuZnTSAQA?oc=5,Elon Musk: Das wird der bestbezahlte Beruf der Zukunft - GQ Germany,2021-12-25,GQ Germany,https://www.gq-magazin.de,"Elon Musk setzt auf einen Job, die über Jahrzehnte hinweg unersetzlich und lukrativ sein wird. Das ist seiner Meinung nach der bestbezahlte Beruf der Zukunft.","['business', 'tesla', 'newsroom', '_syndication_no_fo', 'gut zu wissen', 'textaboveleftgridwidth', 'digital_syndication']","Elon Musk setzt auf einen Job, die über Jahrzehnte hinweg unersetzlich und sehr lukrativ sein wird.","Elon Musk setzt auf einen Job, die über Jahrzehnte hinweg unersetzlich und sehr lukrativ sein wird.",tags,N/A,"TechnologieElon Musk prophezeit: Das wird der bestbezahlte Beruf der ZukunftElon Musk setzt auf einen Job, die über Jahrzehnte hinweg unersetzlich und lukrativ sein wird. Das ist seiner Meinung nach der bestbezahlte Beruf der Zukunft.Von GQ25. Dezember 2021Elon Musk glaubt zu wissen, was der bestbezahlte Job der Zukunft sein wird.Getty ImagesElon Musk: Er prophezeit den bestbezahlten und gefragtesten Job der ZukunftElon Musk weiß, wie der Beruf der Zukunft aussehen wird. Und nein, es hat nichts mit der Erstellung von Inhalten für YouTube, TikTok oder Instagram zu tun. Es geht auch nicht darum, ein Ingenieur oder ein Computerprogrammierer zu sein... oder doch? Für den CEO von Tesla wird der bestbezahlte und gefragteste Job in den kommenden Jahren alle Bereiche abdecken, die mit künstlicher Intelligenz zu tun haben. (Lesen Sie auch: 15 Zitate von Elon Musk, die ihn berühmt gemacht haben)AnsehenTOMMI SCHMITT: 10 Dinge, ohne die der Podcaster & Moderator nicht leben kann | 10 Essentials | GQTOMMI SCHMITT: 10 Dinge, ohne die der Podcaster & Moderator nicht leben kann | 10 Essentials | GQElon Musk mag ein überzeugter Befürworter von allem, das mit Technologie zusammenhängt, sein. Aber er ist alles andere als positiv gestimmt, was deren Auswirkungen auf den Arbeitsmarkt anbelangt. Der Tesla-Chef behauptet sogar, dass eine der größten technologischen Entwicklungen – künstliche Intelligenz – das Ende vieler Arbeitsplätze bedeuten könnte.Elon Musk: “Künstliche Intelligenz wird Arbeitsplätze bedeutungslos machen”“Künstliche Intelligenz wird Arbeitsplätze bedeutungslos machen”, sagte Musk bei einer Rede an der Seite von Alibaba-Gründer Jack Ma auf der Welt-KI-Konferenz 2019 in Shanghai.Am wenigsten gefährdet seien Menschen, die KI-Software programmieren können, so Musk. Sie würden auch am besten bezahlt und litten am wenigsten unter Arbeitslosigkeit, fügte er hinzu. Er rät jungen Menschen, Ingenieurwissenschaften zu studieren – aber selbst dann, sagt er, “wird die KI irgendwann einfach ihre eigene Software schreiben”. Die Äußerungen von Musk fallen in eine wachsende Debatte über die Auswirkungen der Technologien auf die globale Arbeitswelt. Das Weltwirtschaftsforum hat vorausgesagt, dass bis 2022 75 Millionen Arbeitsplätze wegfallen werden. (Außerdem: Künstliche Intelligenz: Zwei Szenarien für die Zukunft der Arbeit mit intelligenten Maschinen)Doch es war nicht alles nur düster in Musks Rede. Er merkte auch an, dass Unternehmen, die sich auf menschliche Interaktion konzentrieren, auch in einer sich schnell verändernden Arbeitswelt weiterhin florieren werden. “Die Menschen haben grundsätzlich Freude an der Interaktion mit anderen Menschen”, sagte er. “Wenn man an etwas arbeitet, das mit Menschen oder Technik zu tun hat, ist das wahrscheinlich ein guter Ansatz”, so Musk. Tesla sucht nach KI-IngenieurenElon Musk hat vor einigen Tagen selbst auf seinem persönlichen Twitter-Account eine Stelle ausgeschrieben, in der er einen Mitarbeiter sucht, der ihm hilft, seine Technologieprojekte zur Entwicklung künstlicher Intelligenz weiter voranzutreiben.“Wie immer sucht Tesla nach Ingenieuren mit Fachkenntnissen im Bereich der künstlichen Intelligenz, die sich für die Lösung von Problemen interessieren, die das Leben der Menschen auf wichtige Weise direkt beeinflussen”, schreibt er.X contentTo honor your privacy preferences, this content can only be viewed on the site it originates from.Dem Tycoon zufolge wird der Kandidat “die nächste Generation der Automatisierung entwickeln, einschließlich eines humanoiden Universalroboters mit zwei Beinen, der in der Lage ist, unsichere, sich wiederholende oder langweilige Aufgaben auszuführen. Wir suchen Maschinenbau-, Elektro-, Steuerungs- und Software-Ingenieure, die uns dabei helfen, unser Know-how im Bereich der künstlichen Intelligenz über unsere Fahrzeugflotte hinaus zu nutzen.”Der Artikel “Elon Musk sabe cuál va a ser la profesión mejor pagada del mundo en los próximos años” ist ursprünglich auf GQ.com erschienen.Das könnte Sie auch interessieren:Frugalismus als verlockendes Lebensmodell: Tipps für Ihre finanzielle Freiheit Mit diesem einfachen Trick von Elon Musk und Steve Jobs wirken Sie sofort souveränerKünstliche Intelligenz: Warum Maschinen lernen müssen zu zweifelnKünstliche Intelligenz: Unterschätzen wir die Gefahren?Künstliche Intelligenz: Mehr und mehr Unternehmen setzen KI ein – aber die wenigsten machen damit mehr Gewinn",https://schema.org/,BreadcrumbList,"Elon Musk: Er prophezeit den bestbezahlten und gefragtesten Job der Zukunft
+Elon Musk weiß, wie der Beruf der Zukunft aussehen wird. Und nein, es hat nichts mit der Erstellung von Inhalten für YouTube, TikTok oder Instagram zu tun. Es geht auch nicht darum, ein Ingenieur oder ein Computerprogrammierer zu sein... oder doch? Für den CEO von Tesla wird der bestbezahlte und gefragteste Job in den kommenden Jahren alle Bereiche abdecken, die mit künstlicher Intelligenz zu tun haben. (Lesen Sie auch: 15 Zitate von Elon Musk, die ihn berühmt gemacht haben)
+Elon Musk mag ein überzeugter Befürworter von allem, das mit Technologie zusammenhängt, sein. Aber er ist alles andere als positiv gestimmt, was deren Auswirkungen auf den Arbeitsmarkt anbelangt. Der Tesla-Chef behauptet sogar, dass eine der größten technologischen Entwicklungen – künstliche Intelligenz – das Ende vieler Arbeitsplätze bedeuten könnte.
+Elon Musk: “Künstliche Intelligenz wird Arbeitsplätze bedeutungslos machen”
+“Künstliche Intelligenz wird Arbeitsplätze bedeutungslos machen”, sagte Musk bei einer Rede an der Seite von Alibaba-Gründer Jack Ma auf der Welt-KI-Konferenz 2019 in Shanghai.
+Am wenigsten gefährdet seien Menschen, die KI-Software programmieren können, so Musk. Sie würden auch am besten bezahlt und litten am wenigsten unter Arbeitslosigkeit, fügte er hinzu. Er rät jungen Menschen, Ingenieurwissenschaften zu studieren – aber selbst dann, sagt er, “wird die KI irgendwann einfach ihre eigene Software schreiben”.
+Die Äußerungen von Musk fallen in eine wachsende Debatte über die Auswirkungen der Technologien auf die globale Arbeitswelt. Das Weltwirtschaftsforum hat vorausgesagt, dass bis 2022 75 Millionen Arbeitsplätze wegfallen werden. (Außerdem: Künstliche Intelligenz: Zwei Szenarien für die Zukunft der Arbeit mit intelligenten Maschinen)
+Doch es war nicht alles nur düster in Musks Rede. Er merkte auch an, dass Unternehmen, die sich auf menschliche Interaktion konzentrieren, auch in einer sich schnell verändernden Arbeitswelt weiterhin florieren werden. “Die Menschen haben grundsätzlich Freude an der Interaktion mit anderen Menschen”, sagte er. “Wenn man an etwas arbeitet, das mit Menschen oder Technik zu tun hat, ist das wahrscheinlich ein guter Ansatz”, so Musk.
+Tesla sucht nach KI-Ingenieuren
+Elon Musk hat vor einigen Tagen selbst auf seinem persönlichen Twitter-Account eine Stelle ausgeschrieben, in der er einen Mitarbeiter sucht, der ihm hilft, seine Technologieprojekte zur Entwicklung künstlicher Intelligenz weiter voranzutreiben.
+“Wie immer sucht Tesla nach Ingenieuren mit Fachkenntnissen im Bereich der künstlichen Intelligenz, die sich für die Lösung von Problemen interessieren, die das Leben der Menschen auf wichtige Weise direkt beeinflussen”, schreibt er.
+Dem Tycoon zufolge wird der Kandidat “die nächste Generation der Automatisierung entwickeln, einschließlich eines humanoiden Universalroboters mit zwei Beinen, der in der Lage ist, unsichere, sich wiederholende oder langweilige Aufgaben auszuführen. Wir suchen Maschinenbau-, Elektro-, Steuerungs- und Software-Ingenieure, die uns dabei helfen, unser Know-how im Bereich der künstlichen Intelligenz über unsere Fahrzeugflotte hinaus zu nutzen.”
+Der Artikel “Elon Musk sabe cuál va a ser la profesión mejor pagada del mundo en los próximos años” ist ursprünglich auf GQ.com erschienen.
+Das könnte Sie auch interessieren:
+Frugalismus als verlockendes Lebensmodell: Tipps für Ihre finanzielle Freiheit
+Mit diesem einfachen Trick von Elon Musk und Steve Jobs wirken Sie sofort souveräner
+Künstliche Intelligenz: Warum Maschinen lernen müssen zu zweifeln
+Künstliche Intelligenz: Unterschätzen wir die Gefahren?
+Künstliche Intelligenz: Mehr und mehr Unternehmen setzen KI ein – aber die wenigsten machen damit mehr Gewinn",https://www.gq-magazin.de/technik/artikel/elon-musk-weiss-bestbezahlte-beruf-der-zukunft,technik,"[{'@type': 'Person', 'name': 'GQ', 'sameAs': 'https://www.gq-magazin.de/autoren/gq'}]",2021-12-25T06:30:00.000+01:00,2021-12-25T06:30:00.000+01:00,Elon Musk prophezeit: Das wird der bestbezahlte Beruf der Zukunft,"['https://media.gq-magazin.de/photos/61b87f8d862e19332e0dd2ea/16:9/w_3824,h_2151,c_limit/GettyImages-1234657104.jpg', 'https://media.gq-magazin.de/photos/61b87f8d862e19332e0dd2ea/4:3/w_3588,h_2691,c_limit/GettyImages-1234657104.jpg', 'https://media.gq-magazin.de/photos/61b87f8d862e19332e0dd2ea/1:1/w_2692,h_2692,c_limit/GettyImages-1234657104.jpg']","https://media.gq-magazin.de/photos/61b87f8d862e19332e0dd2ea/3:2/w_3825,h_2550,c_limit/GettyImages-1234657104.jpg",https://www.gq-magazin.de/technik/artikel/elon-musk-weiss-bestbezahlte-beruf-der-zukunft,"{'@type': 'CreativeWork', 'name': 'GQ Germany'}",True,"Elon Musk setzt auf einen Job, die über Jahrzehnte hinweg unersetzlich und lukrativ sein wird. Das ist seiner Meinung nach der bestbezahlte Beruf der Zukunft.","{'@type': 'WebPage', '@id': 'https://www.gq-magazin.de/technik/artikel/elon-musk-weiss-bestbezahlte-beruf-der-zukunft'}","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'GQ Germany', 'logo': {'@type': 'ImageObject', 'url': 'https://www.gq-magazin.de/verso/static/gq-global/assets/logo-seo-international.png', 'width': '500px', 'height': '152px'}, 'url': 'https://www.gq-magazin.de'}","[{'@type': 'ListItem', 'position': 1, 'name': 'Technik', 'item': 'https://www.gq-magazin.de/technik'}, {'@type': 'ListItem', 'position': 2, 'name': 'Business', 'item': 'https://www.gq-magazin.de/tag/business'}, {'@type': 'ListItem', 'position': 3, 'name': 'Elon Musk prophezeit: Das wird der bestbezahlte Beruf der Zukunft'}]",,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHA6Ly9tZWRpZW4tbWl0dHdlaWRhLmRlL2t1ZW5zdGxpY2hlLWludGVsbGlnZW56LXp3aXNjaGVuLWZpa3Rpb24tdW5kLXJlYWxpdGFldC8yMDIxL9IBAA?oc=5,Künstliche Intelligenz – Zwischen Fiktion und Realität - Medien Mittweida,2021-12-23,Medien Mittweida,http://medien-mittweida.de,"Wenn wir „Künstliche Intelligenz“ hören, denken wir an Science-Fiction… aber wie real ist diese Fiktion heute schon?",N/A,"Wenn wir „Künstliche Intelligenz“ hören, denken wir an Science-Fiction… aber wie real ist diese Fiktion heute schon?",N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/', 'url': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/', 'name': 'Künstliche Intelligenz – Zwischen Fiktion und Realität - medienMITTWEIDA', 'isPartOf': {'@id': 'https://medien-mittweida.de/#website'}, 'primaryImageOfPage': {'@id': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/#primaryimage'}, 'image': {'@id': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/#primaryimage'}, 'thumbnailUrl': 'https://medien-mittweida.de/files/2021/12/Toni_Vasquez_Ralli_Kuenstliche-Intelligenz-Zwischen-Fiktion-und-Realitaet_TB_mmde-scaled.jpg', 'datePublished': '2021-12-23T13:05:16+00:00', 'dateModified': '2021-12-23T16:45:34+00:00', 'author': {'@id': 'https://medien-mittweida.de/#/schema/person/1e01c183623ce0913f504ad65b565b5e'}, 'description': 'Wenn wir „Künstliche Intelligenz“ hören, denken wir an Science-Fiction… aber wie real ist diese Fiktion heute schon?', 'breadcrumb': {'@id': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/#primaryimage', 'url': 'https://medien-mittweida.de/files/2021/12/Toni_Vasquez_Ralli_Kuenstliche-Intelligenz-Zwischen-Fiktion-und-Realitaet_TB_mmde-scaled.jpg', 'contentUrl': 'https://medien-mittweida.de/files/2021/12/Toni_Vasquez_Ralli_Kuenstliche-Intelligenz-Zwischen-Fiktion-und-Realitaet_TB_mmde-scaled.jpg', 'width': 2560, 'height': 1440, 'caption': 'Künstliche Intelligenz – Zwischen Fiktion und Realität'}, {'@type': 'BreadcrumbList', '@id': 'http://medien-mittweida.de/kuenstliche-intelligenz-zwischen-fiktion-und-realitaet/2021/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': 'https://medien-mittweida.de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Künstliche Intelligenz – Zwischen Fiktion und Realität'}]}, {'@type': 'WebSite', '@id': 'https://medien-mittweida.de/#website', 'url': 'https://medien-mittweida.de/', 'name': 'medienMITTWEIDA', 'description': 'Das Magazin von Medienstudierenden der Hochschule Mittweida', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://medien-mittweida.de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Person', '@id': 'https://medien-mittweida.de/#/schema/person/1e01c183623ce0913f504ad65b565b5e', 'name': 'Toni Vásquez Ralli', 'image': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://medien-mittweida.de/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/32f90e8a4e9477830080d6d60669210a?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/32f90e8a4e9477830080d6d60669210a?s=96&d=mm&r=g', 'caption': 'Toni Vásquez Ralli'}, 'description': 'studiert Medienmanagement an der Hochschule Mittweida. Er liebt und lebt Geschichten: Bücherwurm, Schriftsteller, Redakteur und ehem. Nachrichtenleser, Mitglied des peruanischen Journalistenverbandes.', 'url': 'https://medien-mittweida.de/author/jvasquez/'}]",,,,,
+https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmluZ2VuaWV1ci5kZS90ZWNobmlrL2ZhY2hiZXJlaWNoZS9pdHRrL3dpZS1rdWVuc3RsaWNoZS1pbnRlbGxpZ2Vuei1kYXMtc2NocmlmdGRlc2lnbi1yZXZvbHV0aW9uaWVyZW4ta29lbm50ZS_SAQA?oc=5,Wie künstliche Intelligenz das Schriftdesign revolutionieren könnte - ingenieur.de,2021-12-23,ingenieur.de,https://www.ingenieur.de,Künstliche Intelligenz scheint sich zum Alleskönner zu entwickeln. Forschende erzeugten mit ihrer Hilfe erstmals chinesischen Schriftzeichen.,N/A,Künstliche Intelligenz scheint sich zum Alleskönner zu entwickeln. Forschende erzeugten mit ihrer Hilfe erstmals chinesischen Schriftzeichen.,N/A,N/A,N/A,"
+
+
+Kombination aus Schrift und Algorithmus
+23.12.2021, 07:00 Uhr
+
+Wie künstliche Intelligenz das Schriftdesign revolutionieren könnte
+
+
+
+Schriftzeichen sind mehr als Kommunikation. Sie stehen in Verbindung mit Kultur, Identität, Geschichte und kulturellem Erbe. Es gibt also viele Gründe, sie zu erhalten. Das könnte nun auf ganz moderne Art und Weise gelingen – mithilfe eines Algorithmus. 
+
+
+
+KI könnte bei der Erstellung neuer Schriftzeichen eine große Hilfe darstellen.
+Foto: panthermedia.net/Imaginechina-Tuchong (Luxx)
+
+
+Es könnte eine Revolution sein, die Forschenden an der Ecole Polytechnique Fédérale de Lausanne (EPFL) gelungen ist. Zusammengearbeitet haben sie dafür mit dem ECAL-Masterprogramm in Type Design. Es geht um Kunst, aber vor allem um den Prozess der Gestaltung digitaler Schriften. Sie haben einen Algorithmus für maschinelles Lernen entwickelt, der in der Lage ist, chinesische Schriftzeichen (Hanzi) als Bilder zu erzeugen.
+Hängende Gärten – gefertigt mit KI und vier Robotern
+Top Stellenangebote
+Zur Jobbörse
+
+
+
+
+
+Slider zurück scrollen
+
+
+
+
+
+Slider weiter scrollen
+
+
+
+
+
+
+
+
+
+
+Teamleiter Energie und Umwelt (Maschinenbauingenieur o.ä.) (m/w/d)
+Pilkington Deutschland AG
+
+
+
+                                    Gladbeck
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+Projektleiter Bau und Erhaltung (w/m/d)
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Regensburg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Base Software Engineer (m/f/d)
+Cummins Deutschland GmbH
+
+
+
+                                    Nürnberg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bauingenieur als Abteilungsleiter (w/m/d) Bauwerks- und Erhaltungsmanagement
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Nürnberg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Bau-)Ingenieur als Vergabesachbearbeiter (m/w/d) Bauleistungen
+Hamburg Wasser
+
+
+
+                                    Hamburg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bauingenieur (w/m/d) Bauwerksmanagement
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Hamm, Münster
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Functional Safety Engineer (m/f/d)
+Cummins Deutschland GmbH
+
+
+
+                                    Nürnberg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ingenieur (m/w/d) Prozessentwicklung
+SCHLENK Gruppe
+
+
+
+                                    Roth-Bernlohe
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bauingenieur für Straßenplanung und Straßenentwurf (m/w/d)
+Die Autobahn GmbH des Bundes, Niederlassung Südbayern
+
+
+
+                                    Regensburg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bauingenieur (w/m/d) Straßenbau
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Bochum
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Senior) Manager/in technische Regulierung und Normung (w/m/d)
+ZVEI e.V.
+
+
+
+                                    Berlin, Frankfurt am Main
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bauingenieur / Architekt (w/m/d) als  Büroleiter (optional Geschäftsführung) (m/w/d) am Standort Aschaffenburg
+zigmo engineering GmbH
+
+
+
+                                    Aschaffenburg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Konstrukteur (m/w/d)
+G. Staehle GmbH u. Co. KG
+
+
+
+                                    Stuttgart
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projektingenieur / Bauingenieur (w/m/d) Konstruktiver Ingenieurbau
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Hamm
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ingenieur (m/w/d) Strategische Netzplanung Wasser und Abwasser
+Netzgesellschaft Potsdam GmbH
+
+
+
+                                    Potsdam
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Versuchsingenieur (m/w/d)
+ROTORCOMP VERDICHTER GmbH
+
+
+
+                                    Geretsried bei München
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geschäftsführer (m/w/d) Technische Keramik
+über BriSS Personnel Recruitment
+
+
+
+                                    südliches Baden-Württemberg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projektingenieur, inkl. Teamleitung (w/m/d) für den Brücken- und Ingenieurbau
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Hamm
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Senior Projekt-/Entwicklungsingenieur (m/w/d) in der Konstruktion von Medizingeräten
+PARI Pharma GmbH
+
+
+
+                                    Gräfelfing bei München
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality Engineer (m/w/d)
+Rittal
+
+
+
+                                    Herborn
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teamleiter Energie und Umwelt (Maschinenbauingenieur o.ä.) (m/w/d)
+Pilkington Deutschland AG
+
+
+
+                                    Gladbeck
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projektleiter Bau und Erhaltung (w/m/d)
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Regensburg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Base Software Engineer (m/f/d)
+Cummins Deutschland GmbH
+
+
+
+                                    Nürnberg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+
+
+
+
+Bauingenieur als Abteilungsleiter (w/m/d) Bauwerks- und Erhaltungsmanagement
+Die Autobahn GmbH des Bundes
+
+
+
+                                    Nürnberg
+                                
+
+                                    Zum Job 
+
+
+
+
+
+
+
+
+Damit beispielsweise ein Alphabet im Schriftdesign entstehen kann, muss jede Buchstabenform in einem einheitlichen Stil gezeichnet sein. Dabei gilt die sogenannte Glyphe als grundlegendes Symbol in jeder Buchstabenform. Sie stellt das lesbare Zeichen für das Schreiben dar. Nimmt man beispielsweise die lateinische Schrift, sind für den Entwurf mindestens 26 Großbuchstaben erforderlich. Bei der chinesischen Hanzi-Schrift handelt es sich um 6.763 häufig verwendete Zeichen und Zehntausende von Zeichen für kompliziertere Sätze. Würde man ein Schriftbild auf herkömmliche Weise anfertigen, könnte das unter Umständen Jahre dauern.
+
+KI: sinnvolle Unterstützung im Schriftdesign
+Shuhui Shi beschäftigt sich seit zwei Jahren mit der Schriftgestaltung. „Wenn ich lateinische Schriften zeichne, sind normalerweise ein paar Dutzend Glyphen für den täglichen Gebrauch ausreichend. Als ich jedoch versuchte, meine Kenntnisse in Schriftdesign auf die chinesische Sprache anzuwenden, stellte ich fest, dass es fast unmöglich war, einen Standardzeichensatz mit 6.763 Glyphen allein fertigzustellen“, erklärt die Studentin. Und sie stand nicht allein vor diesem Problem, wie sie feststellte. Zahlreichen anderen Designern erging es ähnlich.
+
+            Lesen Sie auch:
+        
+
+
+
+
+Anzeige:
+
+
+                                Willkommen in der Industrie der Zukunft
+                            
+
+
+
+
+
+
+Ranking
+
+
+                                Das sind die schnellsten Züge der Welt
+                            
+
+
+
+
+
+
+IT-Gehälter
+
+
+                                Was Informatiker und IT-Fachkräfte wirklich verdienen
+                            
+
+
+
+
+
+Bei einer so großen Anzahl von Glyphen könnte eventuell die künstliche Intelligenz helfen. So entstand das sogenannte AIZI-Projekt, an dem das Computer Vision Laboratory der EPFL maßgeblich beteiligt war. Zuerst entwickelten die Forschenden Glyphen, mit denen sie die KI trainieren konnten. Dafür erstellte die Studentin eine große Datenbank mit Zeichen, die sich in sehr einfache Komponenten aufteilen ließ. Ihre Idee: Für eine neue Schriftart sind nur wenige Basiskomponenten notwendig, die es zu entwerfen gilt. Sie könnten dann automatisch zu sämtlichen Zeichensätzen zusammengesetzt werden. „Wir haben dann Algorithmen entwickelt, um den zweiten Teil zu erledigen, nämlich, verschiedene Charaktere auf der Grundlage dieser Komponenten zu erzeugen“, erklärt Mathieu Salzmann, Wissenschaftler am Computer Vision Laboratory der EPFL.
+KI könnte die Arbeit von Designern erleichtern
+Dieser Algorithmus kann tatsächlich Zehntausende Hanzi als Bilder erstellen. Das Ergebnis: Chinesische Schriftzeichen lassen sich auf diese Art und Weise erzeugen. Dafür braucht es weniger als 500 Hanzi-Eingaben. Der Weg mittels Algorithmus stelle laut der Forschenden einen zeitgemäßen, transdisziplinären Ansatz dar, der an der Schnittstelle zwischen Design und Technologie stehe. „Obwohl wir die Technologie, das so genannte General Adversarial Network oder GAN, schon oft verwendet haben, war die Arbeit an einer solchen Herausforderung eine Premiere. GAN ist ein tiefes, neuronales Netzwerk, das darauf abzielt, Bilder wie zum Beispiel Gesichter zu generieren. Unsere Idee war es dann, diese Art von Technologie für die Generierung von Zeichen zu nutzen“, sagt Salzmann.
+Shuhui Shi ist durch die Zusammenarbeit zu ganz neuen Sichtweisen gelangt. Ein KI-Assistent könne Designern dabei helfen, einen ganzen Zeichensatz mit weniger als 500 von Menschen entworfenen Hanzi zu erstellen. „Derzeit verfügen wir über eine Datenbank mit mehr als 90.000 Hanzi und Zehntausenden von gut skalierten, generierten Hanzi in der Links-Rechts-Komposition“, sagt Shi. Allerdings müssten die Ergebnisse wohl noch einmal überarbeitet und optimiert werden. Sobald die Studentin wieder in China ist, will sie sich weiter mit maschinellem Lernen und Schriftdesign beschäftigen. Sie hofft durch diesen ersten Schritt, anderen Designerinnen und Designern den Einstieg erleichtern zu können. Der Einsatz der Technik ermögliche es doch, sich mehr auf die kreativen Ideen zu konzentrieren, ohne dass Tausende Zeichen entworfen werden müssten. Möglicherweise würden sich so mehr Menschen an ihrer ersten chinesischen Schriftart ausprobieren.
+KI könnte auch kulturelles Erbe erhalten
+Für den Leiter des Masterprogramms in Type Design Matthieu Cortat-Roller hat dieser neue Ansatz noch eine tiefergehende Bedeutung. Er führt dafür das Beispiel der syrischen Schrift an, die heute nur noch von sehr wenigen Menschen benutzt werde, da sich ein großer Teil der syrischen Bevölkerung aufgrund des Krieges in ihrem Heimatland in anderen Staaten aufhielten. „Sie sorgen sich um die Zukunft ihrer Kultur und Identität. Es ist nicht so einfach, ein Schriftsystem zu erhalten, wenn man in der Diaspora lebt“, sagt er. KI könne dazu beitragen, ein kulturelles Erbe zu bewahren.
+Mehr zum Thema KI:
+
+Künstliche Intelligenz organisiert Recycling von Baustoffe
+Schluss mit Seximus! Die Künstliche Intelligenz liest mit!
+Künstliche Intelligenz: Forscher schützen Patienten mit einer genialen Idee
+
+
+Ein Beitrag von:
+
+
+
+
+                    Nina Draese
+                
+
+
+
+
+
+
+
+Nina Draese hat unter anderem für die dpa gearbeitet, die Presseabteilung von BMW, für die Autozeitung und den MAV-Verlag. Sie ist selbstständige Journalistin und gehört zum Team von Content Qualitäten. Ihre Themen: Automobil, Energie, Klima, KI, Technik, Umwelt.
+
+
+
+
+
+
+
+Themen im Artikel
+
+
+
+
+
+ Datentechnik
+
+
+
+
+
+
+ Künstliche Intelligenz (KI)
+
+
+
+
+
+
+
+
+
+Empfehlung der Redaktion
+
+
+
+
+
+
+
+
+Projektmanagement
+
+
+
+Die 11 besten Projektmanagement-Tools
+
+
+
+
+
+
+
+
+
+
+Kryptowährung
+
+
+
+Bitcoin: Wie umweltschädlich ist die Kryptowährung wirklich?
+
+
+
+
+
+
+
+
+
+
+Messenger-Dienst
+
+
+
+WhatsApp-Tricks, die Sie noch nicht kannten
+
+
+
+
+
+
+
+
+
+
+Bildbearbeitung
+
+
+
+Photoshop und Lightroom: Diese Alternativen sollten Sie sich anschauen
+
+
+
+
+
+
+
+
+
+
+Ranking
+
+
+
+Die 10 größten Städte der Welt
+
+
+
+
+
+
+
+
+
+
+Messe
+
+
+
+Hannover Messe Special
+
+
+
+
+",https://schema.org,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#article', 'isPartOf': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/'}, 'author': [{'@type': 'Person', 'name': 'Nina Draese', 'url': 'https://www.ingenieur.de/autor/nina-draese/'}], 'headline': 'Wie künstliche Intelligenz das Schriftdesign revolutionieren könnte', 'datePublished': '2021-12-23T06:00:08+00:00', 'dateModified': '2023-03-21T08:24:01+00:00', 'mainEntityOfPage': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/'}, 'wordCount': 781, 'commentCount': 0, 'publisher': {'@id': 'https://www.ingenieur.de/#organization'}, 'image': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#primaryimage'}, 'thumbnailUrl': 'https://www.ingenieur.de/wp-content/uploads/2021/12/KI-revolutioniert-Schriftdesign-e1640184010559.jpg', 'keywords': ['Datentechnik', 'Künstliche Intelligenz (KI)'], 'articleSection': ['IT &amp; TK', 'Künstliche Intelligenz'], 'inLanguage': 'de-DE', 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://www.ingenieur.de/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/', 'url': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/', 'name': 'Wie künstliche Intelligenz das Schriftdesign revolutionieren könnte - ingenieur.de', 'isPartOf': {'@id': 'https://www.ingenieur.de/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#primaryimage'}, 'image': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#primaryimage'}, 'thumbnailUrl': 'https://www.ingenieur.de/wp-content/uploads/2021/12/KI-revolutioniert-Schriftdesign-e1640184010559.jpg', 'datePublished': '2021-12-23T06:00:08+00:00', 'dateModified': '2023-03-21T08:24:01+00:00', 'description': 'Künstliche Intelligenz scheint sich zum Alleskönner zu entwickeln. Forschende erzeugten mit ihrer Hilfe erstmals chinesischen Schriftzeichen.', 'breadcrumb': {'@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#breadcrumb'}, 'inLanguage': 'de-DE', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/']}]}, {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#primaryimage', 'url': 'https://www.ingenieur.de/wp-content/uploads/2021/12/KI-revolutioniert-Schriftdesign-e1640184010559.jpg', 'contentUrl': 'https://www.ingenieur.de/wp-content/uploads/2021/12/KI-revolutioniert-Schriftdesign-e1640184010559.jpg', 'width': 1000, 'height': 500, 'caption': 'KI könnte bei der Erstellung neuer Schriftzeichen eine große Hilfe darstellen. Foto: panthermedia.net/Imaginechina-Tuchong (Luxx)'}, {'@type': 'BreadcrumbList', '@id': 'https://www.ingenieur.de/technik/fachbereiche/ittk/wie-kuenstliche-intelligenz-das-schriftdesign-revolutionieren-koennte/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': 'https://www.ingenieur.de/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Wie künstliche Intelligenz das Schriftdesign revolutionieren könnte'}]}, {'@type': 'WebSite', '@id': 'https://www.ingenieur.de/#website', 'url': 'https://www.ingenieur.de/', 'name': 'ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure', 'description': '', 'publisher': {'@id': 'https://www.ingenieur.de/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ingenieur.de/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'de-DE'}, {'@type': 'Organization', '@id': 'https://www.ingenieur.de/#organization', 'name': 'ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure', 'url': 'https://www.ingenieur.de/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'de-DE', '@id': 'https://www.ingenieur.de/#/schema/logo/image/', 'url': 'https://www.ingenieur.de/wp-content/uploads/2017/12/og.png', 'contentUrl': 'https://www.ingenieur.de/wp-content/uploads/2017/12/og.png', 'width': 1200, 'height': 630, 'caption': 'ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure'}, 'image': {'@id': 'https://www.ingenieur.de/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/Ingenieurde/', 'https://x.com/ingenieur_de']}]",,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnN1ZWRkZXV0c2NoZS5kZS9tdWVuY2hlbi9tdWVuY2hlbi1nYW5zZXJsZnJhdS1hbWF6b24tc2VyaWUtdHUtbXVlbmNoZW4tMS41NDk1MjEx0gEA?oc=5,"Fünf für München: Gänse, künstliche Intelligenz und Wohnungssuche - Süddeutsche Zeitung - SZ.de",2021-12-26,Süddeutsche Zeitung - SZ.de,https://www.sueddeutsche.de," Gänse, künstliche Intelligenz und Münchner Wohnungssuche - unsere Münchnerinnen und Münchner der Woche.","Leben und Gesellschaft in München,München,Leben und Gesellschaft in München,München,Oberbayern,München,Süddeutsche Zeitung"," Gänse, künstliche Intelligenz und Münchner Wohnungssuche - unsere Münchnerinnen und Münchner der Woche.",N/A,N/A,N/A,"Fünf für München:Gänse, künstliche Intelligenz und Münchner Wohnungssuche26. Dezember 2021, 18:22 UhrLesezeit: 2 minDetailansicht öffnenDie letzte Weihnachtsgans: Elfriede Kohlhuber, 79, gibt ihren Stand auf dem Viktualienmarkt auf. (Foto: Robert Haas) Elfriede Kohlhuber gibt ihren Stand am Viktualienmarkt auf, die TU München hat zwei weitere Humboldt-Professuren und Karsten Laser hat die Musik für ""Sex Zimmer, Küche, Bad"" geschrieben - unsere Münchnerinnen und Münchner der Woche.Von Michael Bremmer, Sabine Buchwald und Martina ScherfAnhörenMerkenTeilenFeedbackDruckenGans und KücheDetailansicht öffnenDie letzte Weihnachtsgans: Elfriede Kohlhuber, 79, gibt ihren Stand auf dem Viktualienmarkt auf. (Foto: Robert Haas)Bis zuletzt war Elfriede Kohlhuber richtig im Stress. Wie immer freundlich, aber doch auch etwas ungeduldig, gibt sie Auskunft. An ihrem Stand auf dem Viktualienmarkt warten die Kunden. Und um deren Wünsche ging es all die Jahre, gerade vor Weihnachten. Nun aber ist Schluss: Die ""Ganserlfrau"" geht mit 79 Jahren in den Ruhestand. Eine Institution verabschiedet sich. Eigentlich nur, weil ihr Sohn gesagt habe, ""Mama, du musst jetzt aufhören mit dem Arbeiten"", erzählt Kohlhuber. Weil er studiert und einen ganz anderen Beruf hat, wird sie den Stand aufgeben, den sie in dritter Generation mehr als 30 Jahre lang geführt hat. Schon als junges Mädchen half Kohlhuber aus. Dabei hatte sie Industriekauffrau gelernt und am Patentamt eine gute Stelle. Doch wenn zwei tüchtige Hände gebraucht wurden, half sie ihrer Großmutter Elise Bengler und dann ihrer Mutter Elfriede Schmon, Gänse, Enten und Eier zu verkaufen. Ware aus Bayern, aus dem Landkreis Altötting und dem Umland von München, das war den Frauen wichtig. Der Witzigmann habe bei ihr eingekauft, die Michaela May und viele, die man halt so kenne, sagt Kohlhuber. Der Stand werde nun neu vergeben. ""Angeblich wieder an einen Geflügelhändler.""Kirche und SozialesDetailansicht öffnenBirgit Schaufler ist die erste Frau als Präsidentin der Katholischen Hochschule in München. (Foto: privat)Die bisherige kommissarische Präsidentin und Vizepräsidentin für Studium und Lehre, Birgit Schaufler, tritt zum 1. Januar ihr Amt als neue Präsidentin der Katholischen Stiftungshochschule München (KSH) an. Sie folgt auf Hermann Sollfrank, der an die Spitze des Caritasverbandes München und Freising wechselte. Schaufler ist die erste Frau als Präsidentin der Katholischen Hochschule, die vor 50 Jahren gegründet wurde und Studierende für Sozial-, Gesundheits-, Pflege- und pädagogische Berufe ausbildet. Derzeit studieren etwa 2500 Studentinnen und Studenten an den beiden Standorten Benediktbeuern und München. Birgit Schauflers wissenschaftlicher Fokus liegt auf Personal- und Organisationsentwicklung, Führungsforschung, Bildungstheorie und Biografieforschung. Sie studierte Pädagogik, Psychologie und Soziologie an der Universität Augsburg, wo sie promoviert wurde und lehrte. Anschließend leitete sie den Bereich Fort- und Weiterbildung in einem großen Klinikunternehmen. 2009 wurde sie an die KSH als Professorin für Pädagogik berufen. Sie ist Mitglied im Aufsichtsrat des Caritasverbandes, verheiratet und Mutter zweier Kinder. Neuer Vizepräsident wird der Politikwissenschaftler Andreas Schwarz.Klinik und HotelDetailansicht öffnenKostenlose Hotelaufenthalte: Susanne Wess möchte etwas für das Personal auf Münchner Covid-Stationen tun. (Foto: privat)Susanne Wess, 53, möchte dem Klinikpersonal auf Münchner Covid-Stationen erholsame Momente schenken. Für ihr privat initiiertes Charity-Projekt sammelt die Journalistin unter dem Motto ""Wellness nach der vierten Welle"" Gutscheine für kostenlose Hotelaufenthalte. Unterstützt wird die Aktion unter anderem von Schüle's Gesundheitsresort und dem Biohotel Stanglwirt.Mathe und KIMit Stefanie Jegelka und Suvrit Sra hat die Technische Universität München (TUM) nun zehn Humboldt-Professuren. Beide sind Spezialisten für Künstliche Intelligenz und forschten bislang am Massachusetts Institute of Technology (MIT) in den USA. Jegelka wurde 2012 an der Universität Tübingen und an der ETH Zürich promoviert. Danach ging sie an die University of California in Berkeley, dann ans MIT. Die Informatikerin ist Expertin für künstliche Neuronale Netzwerke und wird an der TUM die Fakultät für Informatik verstärken. Der Mathematiker Suvrit Sra wurde 2007 an der University of Texas promoviert und forschte bis 2015 in Tübingen am Max-Planck-Institut für Intelligente Systeme. Sra wird an die Fakultät für Mathematik berufen. Die TUM hat als einzige deutsche Uni zehn der hoch dotierten Humboldt-Professuren.Sex und Hip-HopDetailansicht öffnen""Von der Idee bis zum Release vergingen nur gut zehn Monate"", erzählt Karsten Laser über die Serie ""Sex Zimmer, Küche, Bad"". Von ihm stammt die Filmmusik. (Foto: Gabriella Doronzo)WG-Suche in München ist aberwitzig - und immer auch Stoff fürs Kino. Seit Weihnachten kann man ""Sex Zimmer, Küche, Bad"" bei Amazon Prime sehen, die Filmmusik stammt von Karsten Laser, 42. ""Regisseur Lars Parlaska und ich waren uns schon beim ersten Telefonat einig, dass Hip-Hop eine große Rolle als Filmmusik spielen soll, um nah und glaubwürdig an den Figuren dran zu sein"", sagt er.© SZ - Rechte am Artikel können Sie hier erwerben.TeilenFeedbackDruckenZur SZ-StartseiteSZ Plus„Eras“-Tour in Deutschland:Forschungsobjekt Taylor SwiftMehr als 400 Bewerbungen für ein Swiftposium in Melbourne: Wie zwei Münchner Verkehrsforscherinnen über ihre Zuneigung zur US-Pop-Größe zu einem wissenschaftlichen Projekt kamen – und was sie herausfanden.Von René HofmannLesen Sie mehr zum ThemaLeben und Gesellschaft in MünchenMünchenOberbayern",https://schema.org,NewsArticle,"Gans und Küche
+Bis zuletzt war  Elfriede Kohlhuber  richtig im Stress. Wie immer freundlich, aber doch auch etwas ungeduldig, gibt sie Auskunft. An ihrem Stand auf dem Viktualienmarkt warten die Kunden. Und um deren Wünsche ging es all die Jahre, gerade vor Weihnachten. Nun aber ist Schluss: Die ""Ganserlfrau"" geht mit 79 Jahren in den Ruhestand. Eine Institution verabschiedet sich. Eigentlich nur, weil ihr Sohn gesagt habe, ""Mama, du musst jetzt aufhören mit dem Arbeiten"", erzählt Kohlhuber. Weil er studiert und einen ganz anderen Beruf hat, wird sie den Stand aufgeben, den sie in dritter Generation mehr als 30 Jahre lang geführt hat. Schon als junges Mädchen half Kohlhuber aus. Dabei hatte sie Industriekauffrau gelernt und am Patentamt eine gute Stelle. Doch wenn zwei tüchtige Hände gebraucht wurden, half sie ihrer Großmutter Elise Bengler und dann ihrer Mutter Elfriede Schmon, Gänse, Enten und Eier zu verkaufen. Ware aus Bayern, aus dem Landkreis Altötting und dem Umland von  München , das war den Frauen wichtig. Der Witzigmann habe bei ihr eingekauft, die Michaela May und viele, die man halt so kenne, sagt Kohlhuber. Der Stand werde nun neu vergeben. ""Angeblich wieder an einen Geflügelhändler.""
+Kirche und Soziales
+Die bisherige kommissarische Präsidentin und Vizepräsidentin für Studium und Lehre,  Birgit Schaufler , tritt zum 1. Januar ihr Amt als neue Präsidentin der Katholischen Stiftungshochschule München (KSH) an. Sie folgt auf Hermann Sollfrank, der an die Spitze des Caritasverbandes München und Freising wechselte. Schaufler ist die erste Frau als Präsidentin der Katholischen Hochschule, die vor 50 Jahren gegründet wurde und Studierende für Sozial-, Gesundheits-, Pflege- und pädagogische Berufe ausbildet. Derzeit studieren etwa 2500 Studentinnen und Studenten an den beiden Standorten Benediktbeuern und München. Birgit Schauflers wissenschaftlicher Fokus liegt auf Personal- und Organisationsentwicklung, Führungsforschung, Bildungstheorie und Biografieforschung. Sie studierte Pädagogik, Psychologie und Soziologie an der Universität Augsburg, wo sie promoviert wurde und lehrte. Anschließend leitete sie den Bereich Fort- und Weiterbildung in einem großen Klinikunternehmen. 2009 wurde sie an die KSH als Professorin für Pädagogik berufen. Sie ist Mitglied im Aufsichtsrat des Caritasverbandes, verheiratet und Mutter zweier Kinder. Neuer Vizepräsident wird der Politikwissenschaftler Andreas Schwarz.
+Klinik und Hotel
+Susanne Wess , 53, möchte dem Klinikpersonal auf Münchner Covid-Stationen erholsame Momente schenken. Für ihr privat initiiertes Charity-Projekt sammelt die Journalistin unter dem Motto ""Wellness nach der vierten Welle"" Gutscheine für kostenlose Hotelaufenthalte. Unterstützt wird die Aktion unter anderem von Schüle's Gesundheitsresort und dem Biohotel Stanglwirt.
+Mathe und KI
+Mit  Stefanie Jegelka  und  Suvrit Sra  hat die Technische Universität München (TUM) nun zehn Humboldt-Professuren. Beide sind Spezialisten für Künstliche Intelligenz und forschten bislang am Massachusetts Institute of Technology (MIT) in den USA. Jegelka wurde 2012 an der Universität Tübingen und an der ETH Zürich promoviert. Danach ging sie an die University of California in Berkeley, dann ans MIT. Die Informatikerin ist Expertin für künstliche Neuronale Netzwerke und wird an der TUM die Fakultät für Informatik verstärken. Der Mathematiker Suvrit Sra wurde 2007 an der University of Texas promoviert und forschte bis 2015 in Tübingen am Max-Planck-Institut für Intelligente Systeme. Sra wird an die Fakultät für Mathematik berufen. Die TUM hat als einzige deutsche Uni zehn der hoch dotierten Humboldt-Professuren.
+Sex und Hip-Hop
+WG-Suche in München ist aberwitzig - und immer auch Stoff fürs Kino. Seit Weihnachten kann man ""Sex Zimmer, Küche, Bad"" bei Amazon Prime sehen, die Filmmusik stammt von  Karsten Laser , 42. ""Regisseur Lars Parlaska und ich waren uns schon beim ersten Telefonat einig, dass Hip-Hop eine große Rolle als Filmmusik spielen soll, um nah und glaubwürdig an den Figuren dran zu sein"", sagt er.",,München,"[{'@type': 'Person', 'name': 'Sabine Buchwald', 'sameAs': '/autoren/sabine-buchwald-1.1408379'}, {'@type': 'Person', 'name': 'Michael Bremmer', 'sameAs': '/autoren/michael-bremmer-1.1408361'}, {'@type': 'Person', 'name': 'Martina Scherf', 'sameAs': '/autoren/martina-scherf-1.1409008'}]",2021-12-27 10:10:44,2021-12-26T17:22:11.000Z,"Fünf für München: Gänse, künstliche Intelligenz und Wohnungssuche","{'@type': 'ImageObject', 'height': '675', 'url': 'https://www.sueddeutsche.de/2022/06/08/56b392e9-3a2f-4d50-b635-b3242ce4bf0d.jpeg?q=60&fm=webp&width=1200&rect=0%2C86%2C1348%2C758', 'width': '1200'}",,https://www.sueddeutsche.de/muenchen/muenchen-ganserlfrau-amazon-serie-tu-muenchen-1.5495211,,,"Fünf für München: Gänse, künstliche Intelligenz und Wohnungssuche",https://www.sueddeutsche.de/muenchen/muenchen-ganserlfrau-amazon-serie-tu-muenchen-1.5495211,"{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'height': '64', 'url': 'https://www.sueddeutsche.de/szde-assets/img/szde-article-sueddeutsche-logo.svg', 'width': '525'}, 'name': 'Süddeutsche Zeitung'}",,,Leben und Gesellschaft in München,2021-12-26T17:22:11.000Z,586.0,PT2M,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vMWU5LmNvbW11bml0eS90L2Vpbi1nZWhpcm4taW4tZWluZXItcGV0cmlzY2hhbGUtaGF0LWdlbGVybnQtcG9uZy16dS1zcGllbGVuLzE2NDMx0gEA?oc=5,"Ein Gehirn in einer Petrischale hat gelernt, Pong zu spielen - 1E9",2021-12-22,1E9,https://1e9.community,"Ein Start-up aus Australien hat es geschafft, Miniaturgehirne aus menschlichen Zellen zu züchten. Diesen hat das Unternehmen anschließend beigebracht, den Automatenklassiker Pong zu spielen. Dabei lernten die Zellhauf&hellip;",N/A,"Ein Start-up aus Australien hat es geschafft, Miniaturgehirne aus menschlichen Zellen zu züchten. Diesen hat das Unternehmen anschließend beigebracht, den Automatenklassiker Pong zu spielen. Dabei lernten die Zellhaufen offenbar deutlich schneller als eine Künstliche Intelligenz.  Von Michael Förtsch  Das Gehirn ist ein wahrer Wunderapparat. Es ist stets aktiv, kann komplexe Aufgaben lösen, ist lernfähig und sehr gut darin, Informationsströme parallel zu verarbeiten – und das auch noch äußers...","Ein Start-up aus Australien hat es geschafft, Miniaturgehirne aus menschlichen Zellen zu züchten. Diesen hat das Unternehmen anschließend beigebracht, den Automatenklassiker Pong zu spielen. Dabei lernten die Zellhaufen offenbar deutlich schneller als eine Künstliche Intelligenz.  Von Michael Förtsch  Das Gehirn ist ein wahrer Wunderapparat. Es ist stets aktiv, kann komplexe Aufgaben lösen, ist lernfähig und sehr gut darin, Informationsströme parallel zu verarbeiten – und das auch noch äußers...",N/A,N/A,"
+
+Fundamental Difference Between Human and Animal Neurons Discovered
+Neurons communicate with each other via electrical impulses, produced by ion channels that control the flow of ions. Neuroscientists have now shown that human neurons have a much smaller number of these channels in comparison to the neurons of other...
+",,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFlcnp0ZXplaXR1bmcuZGUvV2lydHNjaGFmdC9EYXMtdmVyZGllbnQtZGVuLWdyb2Vzc3Rlbi1SZXNwZWt0LTQyNTU4Ni5odG1s0gEA?oc=5,Das verdient den größten Respekt - Ärzte Zeitung,2021-12-23,Ärzte Zeitung,https://www.aerztezeitung.de,"Das zweite Jahr der Corona-Pandemie liegt hinter uns. Ärzte in ganz Deutschland bedanken sich bei ihren Praxisteams. Hier: Dr. Dietrich Tews, Facharzt für Innere Medizin, Diabetologe DDG, BAG Diabeteszentrum Dr. Tews und Partner, Gelnhausen","Abrechnung,Medizinstudium,E-Health,Praxis,EDV,Digitalisierung","Das zweite Jahr der Corona-Pandemie liegt hinter uns. Ärzte in ganz Deutschland bedanken sich bei ihren Praxisteams. Hier: Dr. Dietrich Tews, Facharzt für Innere Medizin, Diabetologe DDG, BAG Diabeteszentrum Dr. Tews und Partner, Gelnhausen",N/A,N/A,N/A,"
+
+
+
+
+
+Danke, liebe Praxisteams!
+Das verdient den größten Respekt
+
+
+Das zweite Jahr der Corona-Pandemie liegt hinter uns. Ärzte in ganz Deutschland bedanken sich bei ihren Praxisteams. Hier: Dr. Dietrich Tews, Facharzt für Innere Medizin, Diabetologe DDG, BAG Diabeteszentrum Dr. Tews und Partner, Gelnhausen
+
+
+Veröffentlicht: 23.12.2021, 18:00 Uhr
+	
+
+
+
+												früher Twitter
+											
+												LinkedIn
+											
+												Facebook
+											
+												WhatsApp
+											
+												Link kopieren
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+						© privat
+
+
+
+
+
+An alle ein Dankeschön, die im Kampf gegen die Pandemie tagtäglich im Einsatz sind. Ihr helft in der Versorgung, unterstützt und rettet Leben, das verdient den größten Respekt.
+Wir, vom Diabetesteam Dr. Tews + Kollegen, bedanken uns dafür, dass Ihr da seid.
+
+
+
+Lesen sie auch
+
+
+
+
+
+					© Valerii Honcharuk/ stock.adobe.com
+Danke-AktionDanke, liebe Praxisteams – Ärzte bedanken sich für die Arbeit während der Corona-Pandemie
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+					© Nelos / Fotolia
+Ärztevertreter zur Danke-AktionDanke, liebe Praxisteams – Gastbeiträge von Ärztevertretern
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+					© Michaela Illian
+Editorial zur Danke-AktionMit Zuversicht der Krise trotzen
+
+
+ 
+
+
+
+
+
+
+												früher Twitter
+											
+												LinkedIn
+											
+												Facebook
+											
+												WhatsApp
+											
+												Link kopieren
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+Schlagworte:        
+
+
+
+
+
+Praxismanagement
+
+
+Hessen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org/,NewsArticle,"An alle ein Dankeschön, die im Kampf gegen die Pandemie tagtäglich im Einsatz sind. Ihr helft in der Versorgung, unterstützt und rettet Leben, das verdient den größten Respekt.Wir, vom Diabetesteam Dr. Tews + Kollegen, bedanken uns dafür, dass Ihr da seid.",,,"[{'@context': 'http://schema.org', '@type': 'Organization', 'name': 'Springer Medizin, Ärzte Zeitung'}]",2021-12-23T18:00:00+01:00,2021-12-23T18:00:00+01:00,"Danke, liebe Praxisteams! : Das verdient den größten Respekt","[{'@type': 'ImageObject', 'contentUrl': 'https://www.aerztezeitung.de/Bilder/Bild-200918.jpg', 'url': 'https://www.aerztezeitung.de/Bilder/Bild-200918.jpg', 'width': '620', 'height': '297', 'copyrightHolder': 'privat'}]",,,,http://schema.org/True,Das verdient den größten Respekt,"{'@type': 'WebPage', '@id': 'https://www.aerztezeitung.de/Wirtschaft/Das-verdient-den-groessten-Respekt-425586.html', 'name': 'Danke, liebe Praxisteams! '}","{'@type': 'Organization', 'name': 'Springer Medizin Verlag GmbH, Ärzte Zeitung', 'url': 'https://www.aerztezeitung.de', 'logo': {'@type': 'ImageObject', 'url': 'https://www.aerztezeitung.de/img/logo.png', 'width': 245, 'height': 45}}",,,,,,,de-DE

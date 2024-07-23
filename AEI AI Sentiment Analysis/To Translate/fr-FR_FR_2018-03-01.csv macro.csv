@@ -1,0 +1,1873 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,name,url,potentialAction,logo,sameAs,mainEntityOfPage,headline,image,datePublished,dateModified,author,publisher,isAccessibleForFree,itemListElement,article:section,article:summary,article text,hasPart,isPartOf,@graph,@id,speakable,articleSection,wordCount,articleBody,creator,alternativeHeadline
+https://news.google.com/rss/articles/CBMifWh0dHBzOi8vc3RhcnQubGVzZWNob3MuZnIvaW5ub3ZhdGlvbnMtc3RhcnR1cHMvdGVjaC1mdXR1ci9sYS1kaXNjcmltaW5hdGlvbi1jb3RlLW9ic2N1ci1kZS1saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS0xMTc2MzU30gEA?oc=5,"La discrimination, côté obscur de l'intelligence artificielle - Les Echos START",2018-03-02,Les Echos START,https://start.lesechos.fr,"Les robots tueurs représentent-il, aujourd’hui, le principal danger de l’intelligence artificielle ? Pas vraiment... Il est plutôt à chercher du côté des discriminations, que de nombreux algorithmes répercutent et amplifient. Un problème de taille, dont chercheurs et organisations se saisissent.",N/A,"Les robots tueurs représentent-il, aujourd’hui, le principal danger de l’intelligence artificielle ? Pas vraiment... Il est plutôt à chercher du côté des discriminations, que de nombreux algorithmes répercutent et amplifient. Un problème de taille, dont chercheurs et organisations se saisissent.","Les robots tueurs représentent-il, aujourd’hui, le principal danger de l’intelligence artificielle ? Pas vraiment... Il est plutôt à chercher du côté des discriminations, que de nombreux algorithmes répercutent et amplifient. Un problème de taille, dont chercheurs et organisations se saisissent.",http://schema.org,BreadcrumbList,Les Echos Start,https://start.lesechos.fr,"{'@type': 'SearchAction', 'target': 'https://start.lesechos.fr/recherche?q={query}', 'query-input': 'required name=query'}",https://static.lesechos.com/151ec065a9d1a58c14bb4969932697e5.webp,"['https://www.facebook.com/LesEchosStart', 'https://x.com/EchosStart', 'https://www.linkedin.com/showcase/les-echos-start/', 'https://www.instagram.com/lesechosstart/']","{'@type': 'WebPage', '@id': 'https://start.lesechos.fr/innovations-startups/tech-futur/la-discrimination-cote-obscur-de-lintelligence-artificielle-1176357'}","La discrimination, côté obscur de l’intelligence artificielle","{'@type': 'ImageObject', 'url': 'https://media.lesechos.com/api/v1/images/view/5e56477e3e4546641233e3db/1280x720/11242-1520005011-iarobot970.jpg', 'height': '720', 'width': '1280'}",2018-03-02T16:42:26+01:00,2018-03-02T18:01:00+01:00,"{'@type': 'Person', 'name': 'Déborah Loye'}","{'@type': 'Organization', 'name': 'Les Echos Start', 'logo': {'@type': 'ImageObject', 'url': 'https://static.lesechos.com/151ec065a9d1a58c14bb4969932697e5.webp', 'width': 200, 'height': 59}}",True,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://start.lesechos.fr/', 'name': 'Les Echos Start'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://start.lesechos.fr/innovations-startups', 'name': 'Innovations & startups'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://start.lesechos.fr/innovations-startups/tech-futur', 'name': 'Tech & futur'}}]",Innovations & startups,N/A,"La discrimination, côté obscur de l’intelligence artificielleLes robots tueurs représentent-il, aujourd’hui, le principal danger de l’intelligence artificielle ? Pas vraiment... Il est plutôt à chercher du côté des discriminations, que de nombreux algorithmes répercutent et amplifient. Un problème de taille, dont chercheurs et organisations se saisissent.Ajouter à mes articlesCommenterPartagerPartagerTech & futurMal entraînée, l'intelligence artificielle peut mener à des décisions discriminantes. Un problème qu'il est urgent de régler. (Shutterstock)Publié le 2 mars 2018 à 16:42Mis à jour le 2 mars 2018 à 18:01Joy Buolamwini est chercheuse au MIT. Un jour, elle se rend compte qu’un logiciel de reconnaissance faciale n’identifie pas son visage, alors qu’il parvient très bien à reconnaître ceux de ses amis. Joy Buolamwini est noire. Elle essaie de porter un masque blanc… et tout à coup, le logiciel reconnaît bien son “visage”.  De cette expérience, la chercheuse décide de faire une thèse, qui a été présentée fin février lors de la conférence “Fairness, Accountability and Transparency” à l’université de New York (NYU).Joy Buolamwini a récolté des photos de parlementaires issus de 6 pays différents, dont trois européens et trois africains, et a testé trois systèmes de reconnaissance faciale : ceux d’IBM, de Microsoft et Face ++. Et les résultats sont éloquents : tous les logiciels fonctionnent mieux sur des hommes que sur des femmes, et tous sont plus précis sur des peaux claires que sur des peaux foncées.Comme Joy Buolamwini l’explique dans la vidéo ci-dessus, son travail révèle une faille importante de l’intelligence artificielle, qui pourrait avoir des conséquences larges et graves.Des algos mal entraînésPour parvenir à reconnaître un visage, et à l’inscrire dans différentes catégories, comme le genre ou l’âge, les algorithmes s'entraînent sur des bases de données. Par exemple, une fois que la machine a vu un certain nombre de visages, associés au qualificatif “femme”, elle sait reconnaître une femme sur une photo qu’elle n’a jamais traitée. Mais si la base de données n’est pas assez diverse, par exemple si elle ne comporte pas suffisamment d’images de femmes noires, l’algorithme est mal entraîné. C’est ce qui a par exemple mené un système de reconnaissance faciale de Google, en 2015, à classer l’image d’une personne afro-américaine dans la catégorie “gorille”.Lire aussi :IA : nos machines auront-elles une conscience ? PublicitéAvec l’augmentation et la diversification des usages de l’intelligence artificielle, de tels biais pourraient avoir des conséquences désastreuses. Car demain, les algorithmes de prédiction aideront notre banquier à décider s’il nous accorde un prêt, notre assurance à savoir quelle police elle nous offre, notre médecin à savoir quel traitement il nous administre. “L'intelligence artificielle offre la possibilité d’automatiser des prises de décision avec moins, voire pas d'intervention humaine. Il faut donc être vigilant à ce que ces décisions automatisées n’amplifient pas les biais humains"", préconise Caroline Lair, cofondatrice de Women in AI. Depuis que ces problèmes ont été identifiés, de nombreux chercheurs s'attellent à les régler, comme Mouhamadou Moustapha Cisse, chercheur au sein du laboratoire d’intelligence artificielle de Facebook. “Je travaille à créer une intelligence artificielle qui soit alignée sur les valeurs auxquelles la société veut s’identifier”, explique-t-il. Pour ce faire, il audite des modèles en les déconstruisant, afin de comprendre leurs biais.La transparence est primordialeUn “reverse-engineering” crucial pour enrayer la dynamique des IA discriminantes. “Le problème aujourd’hui, c’est que ces algorithmes sont développés par des entreprises privées qui les livrent à des clients qui n’ont souvent pas la possibilité ou la compétence pour comprendre comment ils sont construits, indique Caroline Lair. Il est donc impératif de réfléchir à des mécanismes de contrôle et de transparence.”Lire aussi :Bright mirror : raconter le bon côté de l'intelligence artificielleAu-delà des aspects techniques comme le manque de diversité d’une base de données d’apprentissage, il faut considérer le problème des discriminations dans l’IA par le prisme humain. “Les algorithmes ne sont pas dotés de conscience, mais construits par des gens, rappelle Mouhamadou Moustapha Cisse. Ce sont, en partie, les biais de ces personnes qui se répercutent sur la façon dont les algorithmes fonctionnent”.D’où l’importance de voir de la diversité parmi les professionnels qui les conçoivent… Ce qui, pour le moment, est loin d’être le cas. En France, les femmes ne représentent que 28% des effectifs de la tech, et lorsque l’on s’intéresse à celles qui sont sur les métiers les plus techniques, ce chiffre plonge encore. Des solutions se profilentC’est précisément dans ce contexte que l’organisation Women in AI, qui compte 300 membres autour du globe, a été crée. “Nous travaillons à rassembler des femmes expertes dans l’intelligence artificielle et à éduquer la prochaine génération de femmes influentes dans le secteur afin qu’elles participent activement à la création du monde de demain”, affirme Caroline Lair. Aux Etats-Unis, son penchant racial, Black in AI, travaille également à la constitution d’une communauté de personnes noires travaillant dans l’intelligence artificielle.Dans un rapport publié en décembre 2017, la CNIL prend ce problème de biais très au sérieux. Pour le contrer, elle recommande de former tous les acteurs du maillon de la “chaîne algorithmique” à l’éthique, de rendre les systèmes plus transparents et compréhensibles, ainsi que de constituer une plateforme nationale d’éthique. Au niveau international, la “Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems” rassemble des chercheurs du monde entier autour de cette question.Lire aussi : IA: des chercheurs imaginent des scénarios dignes de Black MirrorSi la prise en compte du problème est globale, son règlement restera épineux. D’une part, parce qu’il faudra trouver les outils techniques permettant de “débiaiser” les algorithmes, mais surtout parce qu’il s’agira de se mettre d’accord, à un niveau international, sur la société que nous souhaitons et les valeurs que nous estimons inaliénables. L'enjeu est de taille : si l’on y parvient, l’intelligence artificielle pourrait protéger l’humain de ses biais, et rendre des processus tels que les embauches ou l’octroi de crédits plus juste.Déborah LoyePublicitéPublicitéÀ la UnePortraitSur les réseaux, le jeu d'équilibriste de Louise Aubery (MyBetterSelf) pour concilier business et prises de positionOn a lu pour vousFaire des « dates financiers » avec sa moitié et 9 autres conseils pour bien gérer son budgetL'incroyable histoire familiale de Benetton lancée par quatre orphelinsPublicité",,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxlamRkLmZyL1NvY2lldGUvY2VkcmljLXZpbGxhbmktbGludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtdmEtYm91bGV2ZXJzZXItbm90cmUtcXVvdGlkaWVuLTM1ODk1NDHSAQA?oc=5,"Cédric Villani : ""L'intelligence artificielle va bouleverser notre quotidien avec discrétion"" - Le Journal du dimanche",2018-03-03,Le Journal du dimanche,https://www.lejdd.fr,"Le mathématicien et député Cédric Villani défend la promotion d’une culture scientifique accessible à tous, et pas seulement réservée aux experts. Il est chargé d'une mission sur l'intelligence artificielle.",N/A,"Le mathématicien et député Cédric Villani défend la promotion d’une culture scientifique accessible à tous, et pas seulement réservée aux experts. Il est chargé d'une mission sur l'intelligence artificielle.","Le mathématicien et député Cédric Villani défend la promotion d’une culture scientifique accessible à tous, et pas seulement réservée aux experts. Il est chargé d'une mission sur l'intelligence artificielle.",https://schema.org,NewsArticle,,,,,,,"Cédric Villani : ""L’intelligence artificielle va bouleverser notre quotidien avec discrétion""","{'@type': 'ImageObject', 'url': 'https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2022/07/21/07/cedric-villani-l-intelligence-artificielle-va-bouleverser-notre-quotidien.jpg?VersionId=sLbrQD9LXC4QjeKo4Ii9SDHYCgpmnbGh', 'width': {'@type': 'QuantitativeValue', 'value': 2000}, 'height': {'@type': 'QuantitativeValue', 'value': 1000}, 'copyrightHolder': 'Bernard Bisson pour le JDD'}",2018-03-03T22:00:00+01:00,2023-01-30T00:07:11+01:00,"[{'@type': 'Person', 'name': 'Pascal Ceaux', 'sameAs': ['https://twitter.com/leJDD']}, {'@type': 'Person', 'name': ' ', 'sameAs': []}, {'@type': 'Person', 'name': 'Marie Quenet', 'sameAs': ['https://twitter.com/leJDD']}]","{'@type': 'Organization', 'name': 'Lejdd.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.lejdd.fr//assets/images/main/logo-lejdd.svg', 'width': 75, 'height': 44}}",True,"[{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.lejdd.fr'}, {'@type': 'ListItem', 'position': 2, 'name': 'Société', 'item': 'https://www.lejdd.fr/Societe'}]",N/A,N/A,"
+
+
+
+    Abo
+
+
+    La Commission européenne veut “décoloniser” nos rues
+
+
+
+","{'@type': 'WebPageElement', 'isAccessibleForFree': True, 'cssSelector': '.paywall'}","{'@type': ['CreativeWork', 'Product'], 'name': 'Lejdd.fr', 'productID': 'lejdd.fr:abo_numerique'}",,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmxlbW9uZGVpbmZvcm1hdGlxdWUuZnIvYWN0dWFsaXRlcy9saXJlLW1pY3Jvc29mdC1vdXZyZS11bmUtZWNvbGUtaWEtZW4tcGFydGVuYXJpYXQtYXZlYy1zaW1wbG9uLTcxMDczLmh0bWzSAQA?oc=5,Microsoft ouvre une école IA en partenariat avec Simplon - LeMondeInformatique,2018-03-06,LeMondeInformatique,https://www.lemondeinformatique.fr,"Formation : Intégrée à son campus d'Issy-les-Moulineaux, la formation en intelligence artificielle lancée par Microsoft permettra à une vingtaine de personnes en...",N/A,"Intégrée à son campus d'Issy-les-Moulineaux, la formation en intelligence artificielle lancée par Microsoft permettra à une vingtaine de personnes en...",N/A,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+Toute l'actualité /
+Emploi / Formation
+
+Microsoft ouvre une école IA en partenariat avec Simplon
+
+
+Nicolas Certes,
+
+publié le 06 Mars 2018
+
+
+
+
+
+
+
+
+
+
+
+
+0
+Réaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyberattaques : ces ransomwares qui terrassent les hôpitaux 
+
+
+1L'hôpital sous tension
+2Des SI particulièrement à risques
+3...
+
+Lire le dossier 
+
+
+
+
+Intégrée à son campus d'Issy-les-Moulineaux, la formation en intelligence artificielle lancée par Microsoft permettra à une vingtaine de personnes en reconversion professionnelle de bénéficier de sept mois de formation et d'un contrat de professionnalisation d'un an dans le domaine du développement de solutions exploitant l'IA. Les recrutements et une partie de la formation se font en partenariat avec l'école Simplon.
+
+Installée dans son campus d'Issy-les-Moulineaux et dirigée par Louise Joly, l'école IA de Microsoft doit former des développeurs data IA d'un niveau Bac+3. (Crédits : Microsoft / RSLN Mag)
+
+
+Ils sont 24 à avoir été sélectionnés. Ils sont âgés de 19 à 39 ans, en reconversion professionnelle, éloignés de l’emploi ou décrocheurs scolaires. Mais avec de bonnes bases en développement et en mathématiques. Tous ont été sélectionnés par Microsoft, l'école Simplon, Pôle emploi et La Grande Ecole du numérique pour intégrer la formation en intelligence artificielle que vient de lancer la multinationale dans son campus d’Issy-les-Moulineaux.
+Pendant sept mois, ces étudiants vont bénéficier de cours élaborés par des experts en IA et des développeurs de chez Microsoft autour de cinq disciplines : la préparation et le traitement des données, les API cognitives, le développement de l’IA, l’interfaçage et la production et les « soft skills » ou compétences comportementales.
+Former des techniciens de l’IA
+Dirigée par Louise Joly, cette école accueille une équipe pédagogique restreinte à trois personnes. Laurent Cetinsoy, ingénieur spécialisé dans l’IA ; Franck Bardol, consultant et formateur en machine learning et big data ; Jacqueline Forien, ingénieure en informatique et enseignante en mathématiques devront en sept mois guider les étudiants dans leur apprentissage pour devenir développeur data IA. « Ce métier est un peu nouveau aujourd’hui dans les métiers de l’intelligence artificielle » note la directrice de l’école. « On a surtout des data scientists niveau Bac+5 à Bac+8. L’idée de cette école c’est de former des artisans, des techniciens de l’IA qui seront amenés à travailler en collaboration avec ces data scientists. Donc plutôt à un niveau Bac+2, Bac+3. »
+
+#IA | Présentation de l’#EcoleIAMicrosoft avec sa directrice @louiseclarajoly 👇 pic.twitter.com/J1lld91ugT
+— RSLN mag (@RSLNmag) 6 mars 2018
+
+
+
+Dans la lignée des écoles de développement à la 42, l’apprentissage se veut horizontal où chaque étudiant apprend en même temps qu’il évalue ses camarades ou enseigne à son tour ce qu’il a appris. Après ces sept mois d’enseignements, les étudiants seront envoyés en contrats de professionnalisation d’un an en alternance au sein d’entreprises partenaires de Microsoft. A l’issue de la formation les diplômés obtiennent trois certifications professionnels métiers (Data et IA) inscrites à la Commission Nationale de la Certification Professionnelle en vue de l’obtention d’une qualification niveau II (équivalent bac +3) ; ainsi qu’une certification Microsoft en machine learning.
+Une erreur dans l'article? Proposez-nous une correction
+
+
+Article rédigé par
+Nicolas CertesJournaliste 
+
+
+
+Cet article vous a plu? Partagez le !
+
+
+
+
+
+
+
+
+
+
+
+Newsletter LMI
+Recevez notre newsletter comme plus de 50000 abonnés
+
+
+
+OK
+
+
+
+
+
+
+
+
+Commentaire 
+
+
+
+
+
+
+
+
+							Commenter cet article en tant que 
+							visiteur ou connectez-vous 
+
+
+
+Renseignez votre email pour être prévenu d'un nouveau commentaire
+Pour tout savoir sur la manière dont nous traitons vos données personnelles, consultez notre Charte de Confidentialité.
+
+
+
+Le code HTML est interdit dans les commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suivre toute l'actualité
+Newsletter
+Recevez notre newsletter comme plus de 50 000 professionnels de l'IT!
+Je m'abonne
+
+
+
+ 
+
+
+
+
+
+
+
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5qb3VybmFsZHVuZXQuY29tL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUvMTIwNzYxNS1jb21tZW50LWwtaWEtdHJhbnNmb3JtZS1sYS1nZXN0aW9uLWRlcy1zZXJ2aWNlcy1pdC1lbi1lbnRyZXByaXNlL9IBAA?oc=5,Comment l'IA transforme la gestion des services IT en entreprise - JDN,2018-03-05,JDN,https://www.journaldunet.com,Les agents virtuels soulagent le Service Desk en automatisant la gestion des cas de routine qui empêchent les responsables du support de se consacrer aux tâches où ils ont le plus de valeur ajoutée.,N/A,Les agents virtuels soulagent le Service Desk en automatisant la gestion des cas de routine qui empêchent les responsables du support de se consacrer aux tâches où ils ont le plus de valeur ajoutée.,Les agents virtuels soulagent le Service Desk en automatisant la gestion des cas de routine qui empêchent les responsables du support de se consacrer aux tâches où ils ont le plus de valeur ajoutée.,http://schema.org,BreadcrumbList,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.journaldunet.com/', 'url': 'https://www.journaldunet.com/', 'name': 'Accueil'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.journaldunet.com/intelligence-artificielle/', 'url': 'https://www.journaldunet.com/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",N/A,N/A,"
+
+
+
+                                        Comment l’IA transforme la gestion des services IT en entreprise                
+
+
+
+
+
+
+
+
+
+Chronique de Jean-Jacques Lapauw
+Matrix42
+
+
+
+
+
+                                 
+                                Mis à jour le 05/03/18 15:06
+
+
+
+
+
+
+
+
+Twitter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn 
+
+
+
+Facebook 
+
+
+
+Whatsapp 
+
+
+
+Email
+
+
+
+
+
+
+            Les agents virtuels soulagent le Service Desk en automatisant la gestion des cas de routine qui empêchent les responsables du support de se consacrer aux tâches où ils ont le plus de valeur ajoutée.        
+Depuis quelques mois, l’intelligence artificielle est passée
+au rang de véritable coqueluche médiatique. Si les attentes semblent immenses
+et quasiment sans limite, les objectifs sont souvent vagues et les solutions
+concrètes restent encore relativement rares. Quels sont les atouts de l’IA –
+mais aussi ses limites – sur la gestion des services informatiques dans les
+entreprises ?
+Dans le rapport du Gartner « Hype Cycle for Emerging
+Technologies » publié en août 2017, l’intelligence artificielle – représentée
+par le deep learning et le machine learning – figurait en tête des grands
+sujets médiatiques. Le Gartner prévient toutefois que, comme souvent, les
+espoirs disproportionnés seront déçus avant que la technologie ne trouve enfin
+sa place dans la vie de tous les jours. Selon le cabinet d’analyste, cela prendra
+de deux à cinq ans pour le deep learning et le machine learning, et de cinq à
+dix ans pour les assistants virtuels basés sur l’IA. Mais l’avènement de l’IA
+viendra bien, cela ne fait aucun doute.
+
+D’où peut venir la déception aujourd’hui ? Beaucoup pensent
+que l’on peut acheter de l’IA comme n’importe quel autre produit, et qu’elle
+peut faire tout fonctionner beaucoup plus efficacement, comme par magie. Ce
+n’est bien sûr pas aussi simple. L’utilisation de l’IA nécessite une
+planification, une budgétisation et une organisation dédiées. Les entreprises
+doivent trouver une équipe adéquate, et doivent anticiper que la mise en œuvre
+sera coûteuse en temps et en énergie.
+
+La gestion des services informatiques (l’ITSM) offre
+plusieurs points de contacts aux utilisateurs. Ils vont du support de premier
+niveau à la gestion des actifs et des incidents, en passant par l’optimisation
+des processus et notamment au travers du catalogue de Service. 
+
+L’IA, ce compagnon du Service Desk
+Beaucoup connaissent d’abord l’IA dans l’environnement privé
+: les assistants virtuels comme Alexa, Siri ou Google Home répondent aux
+questions sur demande ou lancent des actions simples. Dans le domaine de la
+gestion des services informatiques, l’IA présente de nombreux avantages en tant
+qu’interface entre le support et l’utilisateur final. Grâce au Bot Framework de
+Microsoft, par exemple, de telles fonctionnalités peuvent être intégrées dans
+les solutions de Service Desk. Avec les chatbots et les agents virtuels, le
+service IT peut entièrement digitaliser et automatiser l’acceptation des
+tickets d’incident, jusqu’à la résolution. 
+
+Par exemple, si un utilisateur reçoit un message d’erreur
+qu’il ne comprend pas, la reconnaissance d’image assistée par l’intelligence
+artificielle aide à résoudre rapidement l’incident. Un chatbot invite
+l’utilisateur à envoyer une capture d’écran reconnue grâce à l’IA : celle-ci
+identifie l’erreur, remplit le ticket d’incident et le transmet. Le logiciel
+suit l’incident et le reconnait après plusieurs dépannages similaires. Il
+envoie ainsi automatiquement à l’utilisateur suivant le lien vers les
+instructions de résolution en self-service stockées dans la base de
+connaissance. 
+
+Autre scénario : l’utilisateur signale une erreur via
+l’assistant virtuel. « Alexa, ma présentation PowerPoint est toujours bloquée
+». La solution de gestion des services basée sur l’IA connait à la fois
+l’utilisateur et son ordinateur. Dans la base de connaissances, elle détermine
+deux options possibles. Alexa répond : « Vous pouvez lancer une réinstallation
+automatique de PowerPoint, ce qui prend 30 minutes. Ou vous pouvez obtenir un
+ordinateur de remplacement, ce qui prend 2 heures ». L’utilisateur décide : «
+Réinstallation ! ». Le logiciel initie le processus directement via une solution
+de gestion du poste travail intégrée. Une demi-heure plus tard, Alexa annonce
+la fin de l’installation à l’utilisateur et lui demande s’il est satisfait. Ce
+dernier donne cinq étoiles pour l’efficacité du service, et le ticket est
+automatiquement fermé. 
+
+L’intégration est la clé
+Intégrer l’IA dans la gestion des services IT et des
+environnements de travail est essentiel. Grâce à son intégration avec Active
+Directory, la solution ITSM, la base de connaissance et la CMDB, le logiciel
+d’intelligence artificielle connait le rôle de l'utilisateur final, son
+équipement informatique et les applications qu’il utilise. En accédant à
+l'outil de gestion de projet, la solution sait même si l'utilisateur qui
+sollicite le support est dans la phase cruciale d'un projet et s’il doit donc
+être traité en priorité. Cela garantit des processus conviviaux ainsi qu'une
+automatisation des processus économique et rapide.
+
+Les agents virtuels apportent également beaucoup pour la
+gestion des incidents de routine. Les responsables du support de niveau 1 font
+parfois face au stress, voire à la colère des utilisateurs, et il leur faut
+parfois beaucoup de maîtrise et de diplomatie pour gérer ces situations – qui
+sont aussi stressantes pour eux. Ce problème n’existe évidemment pas avec Alexa
+et les autres agents virtuels, qui sont même capable, grâce aux progrès
+technologiques, d’identifier l’humeur d’un utilisateur en fonction de sa voix
+et de ses intonations, et de réagir en conséquence.
+
+Grâce à leur rôle d’interface de support en amont, les agents
+virtuels soulagent le Service Desk en automatisant la gestion des cas de
+routine qui, traditionnellement, prennent du temps et empêchent les
+responsables du support de se consacrer aux tâches où ils ont le plus de valeur
+ajoutée. Ils peuvent ainsi se consacrer à gérer les incidents et les exceptions
+plus exigeants. Car l’IA n’a pas vocation à les remplacer : les problèmes les
+plus complexes nécessitent de l’intuition, des compétences sociales et
+humaines, et une connaissance de l’entreprise et de sa culture. Ce sont
+précisément les limites de l’IA. 
+
+Dans les coulisses
+La force de l’IA peut se révéler également, si ce n’est
+surtout, dans les coulisses. Par exemple dans le domaine de la gestion des
+actifs : grâce à l’apprentissage automatique et l’analyse des grands volumes de
+données, les outils de machine learning sont capables d’apprendre rapidement,
+dans les ensembles de données, les relations entre les actifs, les utilisateurs
+et les services, même s’ils ne sont pas identiques ou ne sont pas désignés de
+la même manière (par exemple, « Office 365 », « Microsoft Office 365 »). L’IA
+sait gérer le flou sémantique et, contrairement à la recherche classique par
+mot-clé, ne dépend pas de l’exacte similarité des termes. Les actifs peuvent donc
+être automatiquement affectés à un service ou une application (Application
+Dependency Mapping – ADM), analysés et virtualisés. Les outils ADM sont encore
+très couteux aujourd’hui. Demain, la gestion des services basée sur le machine
+learning permettra de générer automatiquement des cartographies de services et
+de les rendre immédiatement disponibles, y compris sous forme de service cloud. 
+
+A moyen terme, l’IA accélèrera le temps de traitement et de
+gestion des incidents. Pour les problèmes récurrents, les outils de machine learning
+peuvent faciliter la recherche des causes et faire les corrélations
+nécessaires. Si cela est nécessaire, ils peuvent rechercher des solutions
+suggérées sur des forums internet et dans diverses bases de connaissances, même
+si les descriptions des problèmes varient. La gestion du service est ensuite
+affectée automatiquement au ticket d’incident.  
+
+Enfin, l’IA impacte le cœur même de l’IT et des activités de
+l’entreprise : les processus métier. Aujourd’hui, un département peut facilement
+créer de nouveaux processus de travail à l’aide d’un outil de BPM (Business
+Process Modeling) et automatiser leur déploiement. Demain, il sera possible,
+grâce à une instance IA, d’analyser ces processus et les optimiser
+dynamiquement. L’IA pourra comparer automatiquement les nouveaux processus de
+travail aux meilleures pratiques existantes. Elle pourra détecter les erreurs
+afin de rendre les processus plus rapides, plus efficaces et plus rentables. 
+
+L’IA ne fait pas tout
+Dans l’ITSM, et plus généralement dans la gestion des
+processus métier digitalisés, l’IA va apporter des gains d’efficacité immenses
+grâce à ses capacités d’analyse des très grands volumes de données. Mais
+l’utilisation de l’IA a ses limites, notamment lorsqu’il s’agit de connaitre le
+contexte, les aspects sociaux ou les caractéristiques commerciales, au-delà des
+données de masse. Il ne faut donc pas tout miser sur l’IA, et ne pas compter
+uniquement sur elle pour améliorer et optimiser les activités et les
+performances. 
+
+Un conseil : ne comptez pas uniquement sur l'IA !
+L’expérience montre qu'Alexa n'est pas utilisé de manière durable dans les open
+spaces ou les bureaux individuels, mais plutôt dans les salles de conférence :
+les outils de présentation (vidéoprojecteur, visio-conférence, …) sont souvent
+à l'origine de problèmes, et l’on peut être tenté de s’adresser à Alexa pour
+trouver la solution – mais vous n’êtes pas obligés de passer par cet outil !
+Aujourd'hui, l’IT peut déjà utiliser les données dont elle dispose pour
+déterminer facilement, par exemple, la durée de vie utile après laquelle
+l’ampoule d'un projecteur ne fonctionnera plus, afin de la remplacer à temps.
+Or, ceci peut déjà être géré grâce à un service efficace et une bonne gestion
+des actifs. Cela ne coûte pas beaucoup de temps ou d'argent, et les réunions
+peuvent alors se dérouler sans perturbation. Bon nombre de ces mesures
+d'amélioration immédiates et efficaces ne nécessitent ni maintenance
+prédictive, ni IA, mais seulement des données inventoriées et un peu de créativité.
+
+
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnpkbmV0LmZyL2FjdHVhbGl0ZXMvbGEtZGVtYW5kZS1kZS1wcm9maWxzLXNwZWNpYWxpc2VzLWRhbnMtbC1pYS1leHBsb3NlLWRhbnMtbGVzLWVudHJlcHJpc2VzLTM5ODY0OTM4Lmh0bdIBAA?oc=5,La demande de profils spécialisés dans l'IA explose dans les entreprises - ZDNet France,2018-03-02,ZDNet France,https://www.zdnet.fr,"Les postes d'ingénieurs en apprentissage automatique et en vision par ordinateur sont de plus en plus demandés. Par ailleurs, les profils s'affinent. Data scientist ou encore linguiste computationnel sont des mots qui ne font plus peur aux recruteurs.",N/A,"Technologie : Les postes d'ingénieurs en apprentissage automatique et en vision par ordinateur sont de plus en plus demandés. Par ailleurs, les profils s'affinent. Data scientist ou encore linguiste computationnel sont des mots qui ne font plus peur aux recruteurs.",N/A,https://schema.org,,,,,,,,,,,,,,,,N/A,N/A,"
+ ZDNET Actualités La demande de profils spécialisés dans l'IA explose dans les entreprises
+Technologie : Les postes d'ingénieurs en apprentissage automatique et en vision par ordinateur sont de plus en plus demandés. Par ailleurs, les profils s'affinent. Data scientist ou encore linguiste computationnel sont des mots qui ne font plus peur aux recruteurs.
+
+
+
+Par La rédaction de ZDNet.fr 
+
+Publié le 02/03/2018 à 16:42                    | Mis à jour le 02/03/2018            
+
+
+1 min
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+ 
+
+La demande de profils spécialisés en IA a doublé au cours des trois dernières années aux Etats-Unis affirme un rapport de Indeed, entreprise spécialisée dans le recrutement.     Le volume d'offres d'emploi aux Etats-Unis qui incluent de fortes compétences en Intelligence Artificielle à commencé à décoller à la fin de l'année 2016 assure Indeed. Depuis le dynamisme de la courbe ne se dément pas. (Source : Indeed) Les offres d'emploi liées à l'IA portent en premier lieu sur des postes d'ingénieurs en apprentissage automatique (machine learning) et en vision par ordinateur (computer vision). Elles représentent sur le site de Indeed un volume de 31,6 % en janvier 2018, comparativement à 20,1 % en janvier 2017. Par ailleurs, les profils demandés s'affinent : des profils d'ingénieur en apprentissage machine, de data scientist ou encore de linguiste computationnel voient le jour. L'intérêt accru pour les compétences en IA semble assez logique à mesure que les industries les plus importantes comme la fabrication ou la santé effectuent une transition vers cette technologie pour proposer de nouvelles offres de service et de produits à leurs partenaires commerciaux et clients. Course aux armements sur l'IA Le Gartner estime que l'IA permettra de créer 2,3 millions d'emplois d'ici 2020 tout en éliminant 1,8 million d'emplois. Car une des inquiétudes concernant l'arrivée de l'IA dans les métiers, c'est le risque de la voir supplanter l'homme à des postes de production. Reste que pour maîtriser ""une technologie naissante et complexe comme l'IA, il faudra des travailleurs hautement qualifiés pour développer et maintenir un large éventail d'applications IA"" assure Indeed.  Par ailleurs depuis quelques trimestres désormais la ruée sur l'intelligence artificielle à pris la forme d'une véritable course aux armements entre Apple, Alphabet, Microsoft, IBM, Amazon ou encore Facebook. Plus de précisions dans notre dossier Roadmap to business : l'intelligence artificielle dans votre entreprise. 
+
+
+À lire également
+
+DSI, CDO, RSSI ; voici les 10 technologies émergentes à suivre en 2024
+
+
+
+
+Emploi
+
+
+Intelligence artificielle (IA)
+
+
+
+
+
+Toute l’actualité de la culture tech chaque semaine dans notre newsletter
+
+
+
+
+
+
+En savoir plus sur l’utilisation des données personnelles
+
+
+
+/ Powercenter
+5 dossiers IT à découvrir chaque mois
+
+
+
+
+Cloud de confiance, sous le vernis, quelle réalité ?
+La profonde numérisation de l'économie a pour corollaire la dématérialisation de l'informatique. Mais la montée en puissance du cloud computing provoque de plus en plus d'inquiétude quant à la nécéssaire maîtrise des entreprises sur leurs données.Jamais donc les questions de la confiance et de la souveraineté numérique n'ont été aussi cruciales pour les professionnels qu’en ce moment. Le point sur les enjeux, et les solutions.
+
+
+
+Découvrir tous les dossiers
+",,,"[{'@type': 'NewsArticle', '@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#article', 'isPartOf': {'@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm'}, 'author': {'name': 'La rédaction de ZDNet.fr', '@id': 'https://www.zdnet.fr/#/schema/person/f43c686176c9a0e6a4e7c64367842139'}, 'headline': ""La demande de profils spécialisés dans l'IA explose dans les entreprises"", 'datePublished': '2018-03-02T16:42:18+00:00', 'dateModified': '2018-03-02T16:50:01+00:00', 'mainEntityOfPage': {'@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm'}, 'wordCount': 325, 'commentCount': 0, 'publisher': {'@id': 'https://www.zdnet.fr/#organization'}, 'image': {'@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#primaryimage'}, 'thumbnailUrl': 'https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/robot-mains-140x105-1.jpg', 'keywords': ['Emploi', 'Intelligence artificielle (IA)'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm', 'url': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm', 'name': ""La demande de profils spécialisés dans l'IA explose dans les entreprises - ZDNET"", 'isPartOf': {'@id': 'https://www.zdnet.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#primaryimage'}, 'image': {'@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#primaryimage'}, 'thumbnailUrl': 'https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/robot-mains-140x105-1.jpg', 'datePublished': '2018-03-02T16:42:18+00:00', 'dateModified': '2018-03-02T16:50:01+00:00', 'breadcrumb': {'@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm']}]}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#primaryimage', 'url': 'https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/robot-mains-140x105-1.jpg', 'contentUrl': 'https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/robot-mains-140x105-1.jpg', 'width': 140, 'height': 105}, {'@type': 'BreadcrumbList', '@id': 'https://www.zdnet.fr/actualites/la-demande-de-profils-specialises-dans-l-ia-explose-dans-les-entreprises-39864938.htm#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'ZDnet', 'item': 'https://www.zdnet.fr'}, {'@type': 'ListItem', 'position': 2, 'name': 'Actualités', 'item': 'https://www.zdnet.fr/actualites/'}, {'@type': 'ListItem', 'position': 3, 'name': ""La demande de profils spécialisés dans l'IA explose dans les entreprises""}]}, {'@type': 'WebSite', '@id': 'https://www.zdnet.fr/#website', 'url': 'https://www.zdnet.fr/', 'name': 'ZDNET', 'description': 'Actualité, business et technologies pour les professionnels', 'publisher': {'@id': 'https://www.zdnet.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.zdnet.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'Organization', '@id': 'https://www.zdnet.fr/#organization', 'name': 'ZDNeT', 'url': 'https://www.zdnet.fr/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.zdnet.fr/#/schema/logo/image/', 'url': 'https://www.zdnet.fr/wp-content/uploads/zdnet/2024/03/zdnet-logo.png', 'contentUrl': 'https://www.zdnet.fr/wp-content/uploads/zdnet/2024/03/zdnet-logo.png', 'width': 128, 'height': 128, 'caption': 'ZDNeT'}, 'image': {'@id': 'https://www.zdnet.fr/#/schema/logo/image/'}, 'sameAs': ['https://fr-fr.facebook.com/zdnet.fr', 'https://twitter.com/zdnetfr', 'https://www.linkedin.com/company/zdnet-france/']}, {'@type': 'Person', '@id': 'https://www.zdnet.fr/#/schema/person/f43c686176c9a0e6a4e7c64367842139', 'name': 'La rédaction de ZDNet.fr', 'image': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.zdnet.fr/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/1c1b7eaf8b57dd92c5ca0c962e536fab?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/1c1b7eaf8b57dd92c5ca0c962e536fab?s=96&d=mm&r=g', 'caption': 'La rédaction de ZDNet.fr'}, 'sameAs': ['https://twitter.com/zdnetfr'], 'url': 'https://www.zdnet.fr/auteur/la-redaction-de-zdnet-fr-39060048'}]",,,,,,,
+https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2hpZ2gtdGVjaC9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtbGEtcmVjb25uYWlzc2FuY2UtZmFjaWFsZS1lc3QtZWxsZS1taXNvZ3luZS1ldC1yYWNpc3RlXzEyMTgwMdIBAA?oc=5,Intelligence artificielle : la reconnaissance faciale est-elle misogyne et raciste ? - Sciences et Avenir,2018-03-06,Sciences et Avenir,https://www.sciencesetavenir.fr,Les systèmes de reconnaissance faciale seraient plus efficaces pour les hommes blancs. Les algorithmes ont-ils des biais relatifs au genre et à la couleur de peau ?,"['Reconnaissance faciale', 'Deep learning', 'Machine learning']",Les systèmes de reconnaissance faciale seraient plus efficaces pour les hommes blancs. Les algorithmes ont-ils des biais relatifs au genre et à la couleur de peau ?,Les systèmes de reconnaissance faciale seraient plus efficaces pour les hommes blancs. Les algorithmes ont-ils des biais relatifs au genre et à la couleur de peau ?,https://schema.org,NewsArticle,,https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/intelligence-artificielle-la-reconnaissance-faciale-est-elle-misogyne-et-raciste_121801,,,,"{'@type': 'WebPage', '@id': 'https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/intelligence-artificielle-la-reconnaissance-faciale-est-elle-misogyne-et-raciste_121801'}",,"{'@type': 'ImageObject', 'url': 'https://www.sciencesetavenir.fr/assets/img/2018/03/06/cover-r4x3w1200-5a9e76d1e35f5-facerecog-iphone.jpg', 'caption': ""Les préoccupants biais de genre et de carnation de l'intelligence artificielle.\r\n"", 'width': 1200, 'height': 900}",2018-03-06T16:08:09.000Z,2018-03-06T16:08:09.000Z,"[{'@type': 'Person', 'name': 'Sarah Sermondadaz', 'url': 'https://www.sciencesetavenir.fr/auteurs/sarah-sermondadaz_62'}]","{'@type': 'Organization', 'name': 'Sciences et Avenir', 'url': 'https://www.sciencesetavenir.fr', 'logo': {'@type': 'ImageObject', 'url': 'https://www.sciencesetavenir.fr/img/sea/logo.png', 'width': 456, 'height': 302}}",True,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.sciencesetavenir.fr/', 'name': 'Sciences et Avenir'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.sciencesetavenir.fr/high-tech/', 'name': 'High-tech'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/', 'name': 'Intelligence artificielle'}}]",Intelligence artificielle,N/A,"
+
+
+L'intelligence artificielle (IA), comme les humains qui donnent indirectement l'exemple aux algorithmes, peut être biaisée. Voire alimenter des discriminations. C'est aussi le cas de la reconnaissance faciale, comme le révèle une étude réalisée par le MIT et Microsoft, parue dans la publication spécialisée Proceedings of Machine Learning Research. Ces scientifiques ont testé divers algorithmes de reconnaissance faciale supposés déterminer le genre de quelqu'un à partir de sa photo. Et ses résultats sont préoccupants : plus la carnation des personnes est foncée, plus le taux d'erreur grimpe en flèche ! Le maximum est atteint pour les femmes noires, avec un taux d'erreur pouvant s'élever jusqu'à 35%. Un problème récurrent : en 2015 déjà, Google avait été accusé d'étiqueter les photos de personnes noires comme des ""gorilles"" dans son application Google Photos...
+
+
+
+
+Un biais minimal... lorsqu'on est un homme blanc
+Les chercheurs ont construit un jeu de données de 1270 visages à partir de portraits d'hommes et de femmes politiques de diverses nationalités. Ils ont ensuite testé l'efficacité de 3 systèmes de reconnaissance faciale aujourd'hui commercialisés : celui de Microsoft, celui d'IBM, mais également Megvii Face++, qui est officiellement utilisé par les autorités chinoises avec un accès à la base de données personnelles centralisée par le gouvernement. 
+DISCRIMINATIONS. Résultat ? Ce sont les hommes blancs qui s'en sortent le mieux : ils n'ont été pris par des femmes par l'algorithme que dans moins de 1% des cas. Pour les femmes blanches, le taux d'erreur monte à 7%, contre respectivement 12% de taux d'erreur pour les hommes noirs mais surtout 35% pour les femmes noires. ""Globalement, les hommes sont mieux répertoriés par l'algorithme que les femmes. La même tendance s'observe pour les sujets à la peau pâle par rapport à ceux dont la carnation est plus foncée, écrivent les auteurs. Et d'un point de vue intersectionnel, lorsqu'on croise les discriminations raciales et sexistes, on observe les pires performances pour les femmes à la peau noire."" Dans les jours qui ont suivi la parution de l'étude, IBM a réagi à travers une note de blog (en anglais). L'occasion, pour le géant américain, de rappeler que son logiciel est celui présentant le taux d'erreur le plus bas, entre les 3 testés.
+
+Images et compositions moyennes des 1270 visages  de l'étude / J.Buolamwini et al.
+Reconnaissance faciale et police, des liaisons dangereuses
+Les biais mis en évidence par ce travail de recherche peuvent avoir d'importantes répercussions selon les applications technologiques. En septembre 2017, une étude défrayait la chronique en pensant pouvoir déterminer l'orientation sexuelle grâce à le reconnaissance faciale en dépit de biais méthodologiques évidents. Une tendance inquiétante lorsqu'on voit qu'en Chine, des systèmes prédictifs sont parfois utilisés afin d'interpeller des suspects. Aux États-Unis, ces technologies peuvent avoir des conséquences dramatiques lorsqu'elles sont utilisées par les autorités juridiques. En avril 2016, le titre américain The Atlantic (lien en anglais) montrait que les systèmes de vidéosurveillance automatisée étaient beaucoup moins performants sur les Afro-américains, pouvant mener à des arrestations d'innocents.
+Ces biais proviennent en fait indirectement du choix des données qui vont venir alimenter l'algorithme lors de son apprentissage. On lui fournira ainsi un grand nombre d'exemples de personnes annotées ""homme"" ou ""femme"". “Lorsqu'il est au point, un algorithme de prédiction a appris à retrouver ces étiquettes à partir des seules images“, décryptait  Francis Bach, chercheur à l'Inria, pour Sciences et Avenir. “Mais le contexte importe, notamment l'origine ethnique : un algorithme ayant appris à partir de photos où les blancs sont sur-représentés par rapport à la population moyenne sera moins performant !” 
+
+Ci-dessus, une vidéo avec la spécialiste de l'IA Laurence Devillers, filmée à l'occasion d'un débat organisé par Sciences et Avenir en 2017, et où il est question du ""sexisme de l'intelligence artificielle"".
+PRÉJUGÉS INCONSCIENTS. Autrement dit, les pratiques de développement de ces logiciels ont leur importance. Or, les créateurs de ces programmes sont aujourd'hui principalement des hommes blancs (en tout cas en Europe et aux États-Unis, à l'exception de la Chine), observait le Guardian fin décembre 2017 (lien en anglais). Même si ces biais ne sont pas forcément intentionnels, et peuvent résulter de biais inconscients dans le choix des données d'apprentissage, leurs effets sont bien là.
+""Les technologies de vision artificielle étant utilisées dans des domaines à forts enjeux comme la santé, la police ou la justice, il y a grand besoin de plus de travaux pour les valider sur plusieurs groupes démographiques et phénotypiques"", soulignent les deux auteurs de l'étude. Et ce, en dépit des allégations commerciales des sociétés du secteur du profilage vidéo, qui se targuent parfois d'un taux de succès ""supérieur à 95%"". Un pourcentage susceptible de chuter si l'on n'est pas un homme blanc, semblerait-il.
+
+
+
+Commenter
+
+Reconnaissance faciale
+Deep learning
+Machine learning
+
+Commenter
+",,,,https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/intelligence-artificielle-la-reconnaissance-faciale-est-elle-misogyne-et-raciste_121801,"{'@type': 'SpeakableSpecification', 'cssSelector': ['h1', '.article-chapo']}",Intelligence artificielle,746.0,,,
+https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmxlbm91dmVsZWNvbm9taXN0ZS5mci9saW50ZWxsaWdlbmNlLWFydGlmaWNpZWxsZS12YS1jaGFtYm91bGVyLWxlbnNlaWduZW1lbnQtc3VwZXJpZXVyLTYyNjU0L9IBAA?oc=5,"L'intelligence artificielle dans l'enseignement supérieur, une transformation radicale à venir - Le nouvel Economiste",2018-03-01,Le nouvel Economiste,https://www.lenouveleconomiste.fr,"L'intelligence artificielle dans l'enseignement supérieur, le prochain levier de transformation des grandes écoles.",N/A,"L'intelligence artificielle dans l'enseignement supérieur, le prochain levier de transformation des grandes écoles.",N/A,https://schema.org,NewsArticle,,,,,,"{'@type': 'WebPage', '@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/'}",Comment l'intelligence artificielle va chambouler l'enseignement supérieur,https://www.lenouveleconomiste.fr/wp-content/uploads/2018/03/smart-campus-826x459.jpg,2018-03-01T13:08:11+00:00,2018-03-01T13:08:11+00:00,"{'@type': 'Person', 'name': 'Le nouvel Economiste'}","{'name': 'Le nouvel Economiste', '@type': 'Organization', 'logo': {'@type': 'ImageObject', 'url': 'https://www.lenouveleconomiste.fr/wp-content/themes/nouveleconomiste-v6/img/icones/icone-lne-512px.png'}}",False,,N/A,N/A,"
+
+
+
+		Smart campus
+Comment l'intelligence artificielle va chambouler l'enseignement supérieur 
+
+	C’est non seulement un puissant levier de transformation des méthodes d’enseignement, mais c’est aussi un fantastique transformateur des métiers auxquels les diverses écoles préparent
+
+ Freepik 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  “L’IA sera au cerveau humain ce que la pelleteuse a été à la main. Les grands métiers intellectuels vont tous être impactés, ce qui libérera le cerveau humain pour plus d’imagination.” Métaphore éloquente du dean d’EMLyon, Bernard Belletante, qui se voit désormais aux commandes d’un nouvel outil puissant pour transformer son école. Comme tous les patrons de campus – ingénieurs ou business school –, il se trouve face à deux formidables défis lancés par l’intelligence artificielle (IA). C’est non seulement un puissant levier de transformation des méthodes d’enseignement et des pratiques pédagogique, mais c’est aussi un fantastique transformateur des métiers auxquels leurs diverses écoles préparent. Bref, l’IA se retrouve propulsée au plus haut niveau des préoccupations stratégiques. Avec des niveaux de prise de conscience assez différenciés. L’analyse de cette vraie révolution est variée. Alors une disruption à deux dimensions ? Pour certains c’est une évidence, pour d’autres une chimère. Certitude : elle sera clivante, tant elle sera gourmande de ressources financières. Elle va donc créer encore plus d’écart entre les écoles. Au risque d’agrandir le fossé avec les universités.par Patrick ArnouxC’est un constat consensuel de l’intelligence humaine : sa version artificielle va révolutionner l’éducation. C’est en tout cas la thèse de Laurent Alexandre, argumentée dans son dernier livre, ‘La Guerre des intelligences’. Comment ? A quel rythme, de façon radicalement disruptive ou tranquillement évolutive ? Une révolution à grande échelle en tout cas pour Kevin Carillo, professeur à TBS (Toulouse business school). “L’IA va transformer l’éducation dans sa globalité, que ce soit dans son fonctionnement interne (gestion de la scolarité, gestion des campagnes commerciales, oraux…), ou dans la manière d’enseigner, en modifiant l’interaction avec l’étudiant.” Ainsi, les parcours de formation utiliseront l’IA pour proposer un système de recommandations pertinentes pour le choix des cours en fonction de l’historique des étudiants, des fléchages, des souhaits… “De façon globale, l’IA permettra une manière plus fine et plus personnalisée d’enseigner et de gérer les étudiants. Il y a un potentiel pour révolutionner l’éducation” poursuit Kevin Carillo.Profs et étudiants si conservateursMais les avis sont plus que partagés parmi les dirigeants des grandes écoles, où les changements ne dépendent pas uniquement de la rationalité. Ne serait-ce que sur la maturité du phénomène IA, les opinions divergent. Sur les freins et obstacles aussi. “Certes, ces nouvelles technologies vont soulager le travail des professeurs qui n’apprécient pas les corrections” prévoit Jean-Philippe Renard, directeur du campus de GEM (Grenoble école de management) à Paris et expert des questions sur le numérique/digital. “Mais les étudiants comme les professeurs sont des populations très conservatrices. Ils n’aiment pas la nouveauté et les étudiants sont extrêmement demandeurs de contacts et d’échanges avec leurs professeurs. Il faut donc que toutes ces technologies les favorisent.”Entre les outils pédagogiques facilitant l’apprentissage bientôt disponible sur étagère et leur appropriation par les profs et leurs élèves, on risque d’assister à quelques passionnants débats. Mais un étudiant admis aujourd’hui se trouvera confronté à l’heure de son diplôme à de robustes avancées dans ces domaines. En quelques mois, les fées les plus éclairées se sont penchées sur le berceau de ces savantes technologies en devenir. Cédric Villani devrait remettre son rapport sur le sujet début avril, tandis que celui de France Stratégie a déjà été publié, de même que celui de l’OPECST (Office parlementaire d’évaluation des choix scientifiques et technologiques), par le Sénat et l’Assemblée nationale.“Les étudiants comme les professeurs sont des populations très conservatrices. Ils n’aiment pas la nouveauté et les étudiants sont extrêmement demandeurs de contacts et d’échanges avec leurs professeurs”Récemment, dans l’université américaine Georgia Tech, les élèves ont dialogué en ligne avec leur professeur d’informatique en lui posant nombre de questions. Les réponses fusaient. Ce qu’ils ne savaient pas, c’est que c’était un chatbot animé par la machine Watson d’IBM qui leur répondait. Ils n’y ont vu que du feu. Une certitude toutefois : l’interface humaine devient stratégique et change de mission. Les connaissances sont dans les machines mais l’essentiel, le savoir-être, ne s’apprend qu’avec des humains.Les 2 impacts de l’IA sur les campusEn fait, l’intelligence artificielle induit deux types d’impact pour ces étudiants. Non seulement elle va sensiblement modifier les outils pédagogiques et bien au-delà, mais elle va transformer leurs futurs métiers, donc les débouchés auxquels ils se préparent. Cette technologie si gourmande en données diffuse dans tous les secteurs. Industriels évidemment, comme le prouvent les avancées dans la voiture autonome, mais aussi dans les services, chez les assureurs et les banquiers, dans le secteur de la santé, et bien d’autres encore. Comme le constate Franck Pacard, directeur de l’enseignement et de la recherche de l’X qui vient de créer un nouveau master Artificial intelligence qui ouvrira en septembre prochain : 
+
+
+Ce contenu est réservé aux abonnés
+Vous avez déjà un compte ? Connectez-vous
+
+
+Vous souhaitez lire la suite ?
+L’analyse en continu de l’actualité à partir de 10€ / mois
+S’abonner
+Résiliable à tout moment
+
+
+Continuez à lire cet article gratuitement
+Inscrivez-vous maintenant
+
+ 
+
+
+
+Publié le Posted on 01/03/2018
+Catégories Catégories : Enseignement / Digital & internet / Informatique & Technologies / Management & stratégie / R&D et Innovation / Grandes Ecoles & Universités / Patrick Arnoux / 
+
+Réutiliser cet article
+
+      Cet article est une œuvre protégée. Son utilisation donne lieu à des droits d’exploitation et de rediffusion interne et externe. Nous consulter.
+    
+
+
+","{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.paywall'}",,"[{'@type': 'Organization', '@id': 'https://www.lenouveleconomiste.fr/#organization', 'name': 'Le nouvel Econnomiste', 'url': 'https://www.lenouveleconomiste.fr/', 'sameAs': ['https://www.linkedin.com/company-beta/560454/', 'https://www.youtube.com/user/nouveleconomiste', 'https://www.facebook.com/LeNouvelEco', 'https://twitter.com/LeNouvelEco'], 'logo': {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.lenouveleconomiste.fr/#/schema/logo/image/', 'url': 'https://www.lenouveleconomiste.fr/wp-content/uploads/2020/04/le-nouvel-economiste-logo.jpg', 'contentUrl': 'https://www.lenouveleconomiste.fr/wp-content/uploads/2020/04/le-nouvel-economiste-logo.jpg', 'width': 2093, 'height': 502, 'caption': 'Le nouvel Econnomiste'}, 'image': {'@id': 'https://www.lenouveleconomiste.fr/#/schema/logo/image/'}}, {'@type': 'WebSite', '@id': 'https://www.lenouveleconomiste.fr/#website', 'url': 'https://www.lenouveleconomiste.fr/', 'name': 'Le nouvel Economiste', 'description': 'Le journal des pouvoirs d&#039;aujourd&#039;hui', 'publisher': {'@id': 'https://www.lenouveleconomiste.fr/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.lenouveleconomiste.fr/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'fr-FR'}, {'@type': 'ImageObject', 'inLanguage': 'fr-FR', '@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#primaryimage', 'url': 'https://www.lenouveleconomiste.fr/wp-content/uploads/2018/03/smart-campus.jpg', 'contentUrl': 'https://www.lenouveleconomiste.fr/wp-content/uploads/2018/03/smart-campus.jpg', 'width': 640, 'height': 330, 'caption': ""Les grandes écoles radicalement transformées par l'intelligence artificielle""}, {'@type': 'WebPage', '@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/', 'url': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/', 'name': ""L'intelligence artificielle dans l'enseignement supérieur, une transformation radicale à venir"", 'isPartOf': {'@id': 'https://www.lenouveleconomiste.fr/#website'}, 'primaryImageOfPage': {'@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#primaryimage'}, 'image': {'@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#primaryimage'}, 'thumbnailUrl': 'https://www.lenouveleconomiste.fr/wp-content/uploads/2018/03/smart-campus.jpg', 'datePublished': '2018-03-01T13:08:11+00:00', 'dateModified': '2018-03-01T13:08:11+00:00', 'description': ""L'intelligence artificielle dans l'enseignement supérieur, le prochain levier de transformation des grandes écoles."", 'breadcrumb': {'@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#breadcrumb'}, 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Accueil', 'item': 'https://www.lenouveleconomiste.fr/'}, {'@type': 'ListItem', 'position': 2, 'name': ""Comment l'intelligence artificielle va chambouler l'enseignement supérieur""}]}, {'@type': 'Article', '@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#article', 'isPartOf': {'@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/'}, 'author': {'name': 'Patrick Arnoux', '@id': 'https://www.lenouveleconomiste.fr/#/schema/person/8a2ed4eb0f1eb2833c568711f556638c'}, 'headline': ""Comment l'intelligence artificielle va chambouler l'enseignement supérieur"", 'datePublished': '2018-03-01T13:08:11+00:00', 'dateModified': '2018-03-01T13:08:11+00:00', 'mainEntityOfPage': {'@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/'}, 'wordCount': 3661, 'commentCount': 0, 'publisher': {'@id': 'https://www.lenouveleconomiste.fr/#organization'}, 'image': {'@id': 'https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#primaryimage'}, 'thumbnailUrl': 'https://www.lenouveleconomiste.fr/wp-content/uploads/2018/03/smart-campus.jpg', 'articleSection': ['.Car | Affaires publiques', '.Car | Home Page', '.Car | Manag &amp; RH', 'Digital &amp; internet', 'Enseignement', 'Grandes Ecoles &amp; Universités', 'Informatique &amp; Technologies', 'Management &amp; stratégie', 'Patrick Arnoux', 'R&amp;D et Innovation'], 'inLanguage': 'fr-FR', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.lenouveleconomiste.fr/lintelligence-artificielle-va-chambouler-lenseignement-superieur-62654/#respond']}], 'copyrightYear': '2018', 'copyrightHolder': {'@id': 'https://www.lenouveleconomiste.fr/#organization'}}, {'@type': 'Person', '@id': 'https://www.lenouveleconomiste.fr/#/schema/person/8a2ed4eb0f1eb2833c568711f556638c', 'name': 'Patrick Arnoux'}]",,,,,,,
+https://news.google.com/rss/articles/CBMiogFodHRwczovL29iamVjdGlmYXF1aXRhaW5lLmxhdHJpYnVuZS5mci9idXNpbmVzcy8yMDE4LTAzLTAyL2ludGVsbGlnZW5jZS1hcnRpZmljaWVsbGUtZXQtY29ubmVjdGl2aXRlLXRoYWxlcy1hdmlvbmljcy1lc3F1aXNzZS1sLWFlcm9uYXV0aXF1ZS1kZS1kZW1haW4tNzcwMzIwLmh0bWzSAagBaHR0cHM6Ly9vYmplY3RpZmFxdWl0YWluZS5sYXRyaWJ1bmUuZnIvYnVzaW5lc3MvMjAxOC0wMy0wMi9pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWV0LWNvbm5lY3Rpdml0ZS10aGFsZXMtYXZpb25pY3MtZXNxdWlzc2UtbC1hZXJvbmF1dGlxdWUtZGUtZGVtYWluLTc3MDMyMC5odG1sP2FtcD0x?oc=5,Intelligence artificielle et connectivité : Thales Avionics esquisse l'aéronautique de demain - La Tribune Bordeaux,2018-03-02,La Tribune Bordeaux,https://objectifaquitaine.latribune.fr,A quoi ressemblera l'aviation civile et militaire de demain ? Quelle sera la...,N/A,"A quoi ressemblera l'aviation civile et militaire de demain ? Quelle sera la place de l'intelligence artificielle aux côtés du pilote ? Comment fonctionne l'usine-campus de Mérignac ? C'est pour répondre à toutes ces questions que deux dirigeants de Thales Avionics, Gil Michielin et Bruno Nouzille, étaient invités par La Tribune Bordeaux lors d'un Petit déjeuner organisé en partenariat avec le Crédit Agricole Aquitaine.","A quoi ressemblera l'aviation civile et militaire de demain ? Quelle sera la place de l'intelligence artificielle aux côtés du pilote ? Comment fonctionne l'usine-campus de Mérignac ? C'est pour répondre à toutes ces questions que deux dirigeants de Thales Avionics, Gil Michielin et Bruno Nouzille, étaient invités par La Tribune Bordeaux lors d'un Petit déjeuner organisé en partenariat avec le Crédit Agricole Aquitaine.",,,,,,,,,,,,,,,,,Business,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+
+Intelligence artificielle et connectivité : Thales Avionics esquisse l'aéronautique de demain
+
+
+
+
+                    A quoi ressemblera l'aviation civile et militaire de demain ? Quelle sera la place de l'intelligence artificielle aux côtés du pilote ? Comment fonctionne l'usine-campus de Mérignac ? C'est pour répondre à toutes ces questions que deux dirigeants de Thales Avionics, Gil Michielin et Bruno Nouzille, étaient invités par La Tribune Bordeaux lors d'un Petit déjeuner organisé en partenariat avec le Crédit Agricole Aquitaine.
+                                            
+
+
+
+
+
+
+
+
+
+
+Pierre Cheminade
+
+
+
+                02 Mars 2018, 9:21
+            
+
+
+
+
+
+
+
+
+
+
+
+Partager :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Les dirigeants de Thales Avionics, Bruno Nouzille, directeur technique avionique, et Gil Michielin, DGA des activités avioniques de Thales, étaient les invités du petit-déjeuner de La Tribune Bordeaux organisé en partenariat avec le Crédit agricole d'Aquitaine, jeudi 1er mars 2018.
+                                                            (Crédits : Agence APPA)
+
+
+
+
+
+
+
+
+
+
+
+64.000 salariés dans 52 pays pour un chiffre d'affaires de près de 15 Md€ en 2016 : le groupe Thales est un géant mondial de l'aéronautique. Sa division avionique, forte de 11.500 employés, est implantée en Gironde depuis 40 ans et son nouveau site de Mérignac, opérationnel depuis 2016, rassemble désormais 2.600 collaborateurs. Connectivité permanente entre le cockpit et son écosystème ""Le cœur de notre métier est d'apporter des solutions techniques et technologiques à nos clients, civils et militaires, pour leur permettre de prendre les bonnes décisions dans des situations complexes, souvent critiques, sur terre, dans les airs, sur mer, sous les océans et dans l'espace et le cyberespace"", résume Gil Michielin, DGA des activités avioniques de Thales, bordelais depuis toujours. Avec son collègue Bruno Nouzille, directeur technique avionique, il était invité, jeudi 1er mars, du petit déjeuner La Tribune Bordeaux, animé par Jean-Philippe Déjean, organisé en partenariat avec le Crédit agricole d'Aquitaine, à l'Intercontinental Bordeaux - Le Grand Hôtel. L'occasion de revenir sur les profondes transformations de l'aéronautique liées à la révolution numérique :  ""En trente ans, on est passé d'un poste de pilotage bardé d'instruments conventionnels avec des aiguilles à des écrans numériques tactiles, témoigne Gil Michielin. Aujourd'hui, il y a une connectivité permanente entre le cockpit, ses multiples capteurs, et tout son écosystème via des communications sécurisées. Cela concerne les données de pilotage et de maintenance mais aussi les services en ligne désormais proposés aux passagers qui permettent aux compagnies aériennes de générer des revenus supplémentaires."" Le pilote, seul maître à bord ×Mais, malgré toutes les informations mises à disposition en temps réel grâce à l'électronique embarquée, le dirigeant de Thales Avionics insiste : ""C'est le pilote qui doit rester le seul maître à bord !""  ""L'un des défis technologiques actuels est en effet d'améliorer encore nos systèmes d'informations pour optimiser l'interface homme-machine. L'objectif est de faire converger l'information de tous les capteurs vers un écran unique facilement compréhensible par le pilote qui, lui, n'a qu'un seul cerveau"", détaille Bruno Nouzille. C'est aussi le principe des dispositifs ""tête haute"" qui permettent de superposer des informations synthétiques sur le paysage réel dans les phases critiques. Des outils utilisés dans les avions militaires depuis les années 1960/1970 et aujourd'hui diffusés dans le civil. ""Cela se fait aujourd'hui via une lame de verre et ça se fera demain via des lunettes optiques de type Google glass"", précise son collègue. Les interfaces digitales et la reconnaissance vocale ont également pris place aux côtés du pilote. Quelle place pour l'intelligence artificielle ? Les évolutions du pilotage seront encore renforcées demain par les outils relevant de l'intelligence artificielle (IA). Une IA pourrait-elle piloter, seule, un avion ? Un sujet qui occupe activement les équipes de Thales Avionics tant les enjeux sont complexes au regard de l'impératif de garantir la sécurité des vols via le respect de certifications et de normes très précises et durcies régulièrement.  ""La difficulté de l'IA dans l'aéronautique, c'est qu'un système d'information intelligent - aussi doué et apprenant qu'il soit, y compris avec des millions de cas de figure - est d'abord efficace pour exécuter une tâche précise et réagir à ce qui est prévu mais pas à ce qui est imprévu. Or, l'aéronautique c'est justement une somme de situations imprévues !"", détaille Bruno Nouzille. ""Par conséquent, l'IA pose un problème clair vis-à-vis des certifications de sécurité qui voudront être certaines que tel système d'IA aura telle réaction déterministe en fonction de telle situation. Il faudra donc probablement imaginer de nouvelles procédures de certifications de sureté.""  Gil Michielin, Jean-Philippe Déjean et Bruno Nouzille (Crédit : APPA) Néanmoins, dans un futur plus proche, les systèmes d'IA, utilisés notamment dans le secteur des drones, permettent déjà ""d'alléger la tâche de l'équipage lors de certains phases du vol et d'imaginer, par exemple, des vols avec un seul pilote au lieu de deux, à condition que ce dernier puisse reprendre les commandes à tout moment"", complète Gil Michielin. Il rappelle que Thales a investi un milliard d'euros ces dernières années dans le digital et l'IA. Cela s'est notamment traduit par les acquisitions récentes des entreprises LiveTV (2014, connectivité), Vormetric (2015, sécurisation des transaction), Guavus (2017, big data), Cortaix (2017, IA) et le rapprochement, officialisé fin 2017, avec Gemalto en matière de sécurisation des objets connectés dans le domaine industriel. ""Nous investissons également 150 M€ en trois ans dans notre digital factory en Ile-de-France et nous sommes un sponsor actif de la Station F, à Paris, sur l'activité de cybersécurité. Cela nous permet de repérer et d'accompagner les startups françaises et internationales innovantes dans ce domaine"", ajoute Gil Michielin. La cybersécurité est en effet un axe stratégique pour Thales qui revendique ""la sécurisation de 80 % des transactions financières dans le monde et du cloud de Microsoft."" Une usine-campus à Mérignac L'innovation est aussi l'un des principes qui ont présidé à l'investissement de 200 M€ consentis par Thales Avionics pour l'installation de son siège à Mérignac en 2016. ""L'objectif était de renforcer notre ancrage en Nouvelle-Aquitaine et au sein de l'écosystème aéronautique très riche de la région bordelaise"", note le DGA, qui souligne que ""36.000 avions volent aujourd'hui.avec des équipements produits par Thales à Bordeaux"". Le site de Mérignac, présenté comme un ""campus"", réunit 2.600 salariés dans quinze métiers très différents : ingénieurs et chercheurs, ingénieurs R&D, chimistes, opticiens, électroniciens, mécaniciens, informaticiens, cogniticiens et médecins, etc. ""On a embauché 80 personnes sur le site en 2017 et on devrait rester sur un rythme comparable cette année"", ajoute Bruno Nouzille.  L'espace de travail lui-même fait la part belle aux procédures dématérialisées et aux espaces collectifs plutôt qu'individuels, pour favoriser le travail collaboratif et l'innovation. ""Nous avons des espaces communs avec certains de nos clients, tels que Dassault ou Airbus, pour développer le co-design, la co-conception, la co-certification"", détaille le directeur technique. 1.500 m2 sont ainsi dédiés à un ""hub innovation"" avec les partenaires et clients civils et militaires, y compris des PME et ETI locales. S'y ajoute un ""design center"" pour encourager et faciliter la créativité et l'innovation. Un ""fab lab"" vient compléter le dispositif : ""Concrètement, c'est notre capacité de prototypage rapide pour savoir s'il faut continuer ou au contraire abandonner telle idée ou tel concept innovant"", traduit Gil Michielin.  Le siège de Thales Avionics, à Mérignac (Crédits : Thales Group). Le site de Mérignac se distingue aussi sur ses activités de défense puisque le radar qui équipe les Rafales y est entièrement produit. ""L'industrie aéronautique militaire sert bien souvent de précurseur à l'industrie civile et les ponts entre les deux sont nombreux"", note le dirigeant. Thales, n°2 mondial du divertissement à bord Le DGA des activités avioniques de Thales revient aussi sur l'impact de la connectivité sur les possibilités offertes en termes de services proposés aux clients des compagnies aériennes, notamment pour la clientèle premium et fidélisées :  ""Avant, il y avait un écran standardisé avec des contenus audio et vidéo. Aujourd'hui, nous proposons des écrans connectés et personnalisables, via les programmes de fidélité, en fonction des préférences, des habitudes et des besoins d'information du client. Les achats en temps réel sont aussi possibles. L'idée est d'assurer au client une continuité d'expérience personnalisée entre le départ et le retour à son domicile que ce soit dans les transports, à l'aéroport ou en vol."" Autant de possibilités, aussi enthousiasmantes pour les uns qu'inquiétantes pour les autres, qui sont évidemment potentiellement payantes, offrant une nouvelle source de revenus non négligeables aux compagnies aériennes.
+
+
+
+
+
+
+
+
+Pierre Cheminade
+
+
+
+                02 Mars 2018, 9:21
+            
+
+
+
+
+
+
+Partager :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Rédiger un commentaire
+
+
+
+
+
+
+
+
+
+
+                    Newsletter - Nouvelle Aquitaine
+                
+
+Du lundi au vendredi, à 19h, recevez l’essentiel de l’actualité de la 
+            région Nouvelle Aquitaine
+S'inscrire à la newsletter
+        
+S'inscrire à la newsletter
+
+
+
+
+
+
+
+
+
+                      Inscription à la newsletter Nouvelle Aquitaine
+                  
+
+
+
+
+ Du lundi au vendredi, les dernières actualités
+ Dans votre boite mail à 19h
+
+
+Créer un compte
+
+
+
+
+
+
+
+            Identifiant
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Nom
+            
+            Prénom
+            
+            Civilité
+            
+                    None
+                
+                    Mme.
+                
+                    M.
+                
+            Date de naissance
+            
+            Mobile
+            
+            Fonction
+            Choisissez une fonctionPDG, DG, Chef d'entrepriseArtisans, CommerçantsCadres supérieurs / DirecteursCadres intermédiaires / IngénieursEmployés / Ouvriers / TechniciensProfessions LibéralesEnseignantsÉtudiantsRetraitésAutres inactifs
+            Société
+            
+            N° et voie
+            
+            Complément d'adresse
+            
+            Code Postal
+            
+            Ville
+            
+            Pays
+            Choisissez un PaysFranceBelgiqueSuisseLuxembourgAfghanistanAfrique Du SudAlbanieAlgérieAllemagneAndorreAngolaAntigua-et-BarbudaArabie SaouditeArgentineArménieAustralieAutricheAzerbaïdjanBahamasBahreïnBangladeshBarbadeBelizeBéninBhoutanBiélorussieBirmanieBolivieBosnie-HerzégovineBotswanaBrésilBrunéiBulgarieBurkinaBurundiCambodgeCamerounCanadaCap-VertChiliChineColombieComoresCongoCorée Du NordCorée Du SudCosta RicaCôte d'IvoireCroatieCubaDanemarkDjiboutiDominiqueÉgypteÉmirats Arabe UnisÉquateurÉrythréeEspagneEstonieÉtats UnisÉthiopieFidjiFinlandeGabonGambieGéorgieGhanaGrèceGrenadeGuatemalaGuinéeGuinée-BisseauGuinée ÉquatorialeGuyanaHaïtiHondurasHongrieIndeIndonésieIranIraqIrlandeIslandeIsraëlItalieJamaïqueJaponJordanieKazakhstanKenyaKirghistanKiribatiKoweïtLaosLesothoLettonieLibanLiberiaLibyeLiechtensteinLituanieMacédoineMadagascarMalaisieMalawiMaldivesMaliMalteMarocMarshallMauriceMauritanieMexiqueMicronésieMoldavieMonacoMongolieMozambiqueNamibieNauruNépalNicaraguaNigerNigeriaNorvègeNouvelle-ZélandeOmanOugandaOuzbékistanPakistanPalaosPanamaPapouasie-Nouvelle-GuinéeParaguayPays-BasPérouPhilippinesPolognePortugalQatarRépublique Centre-AfricaineRépublique Démocratique Du CongoRépublique DominicaineRépublique TchèqueRoumanieRoyaume-UniRussieRwandaSaint-Cristophe-et-NiévèsSainte-LucieSaint-MarinSaint-Vincent-et-les-GrenadinesSalomonSalvadorSamoaSao Tomé-et-PrincipeSéngalSerbie-et-MonténégroSeychellesSierraSingapourSlovaquieSlovénieSomalieSoudanSri LankaSuèdeSurinameSwazilandSyrieTadjikistanTaïwanTanzanieTchadThaïlandeTimor orientalTogoTongaTrinité-et-TobagoTunisieTurkménistanTurquieTuvaluUkraineUruguayVanuatuVaticanVenezuelaViêt NamYemenZambieZimbabwe
+            Secteur d'activité
+            Choisissez un secteur d'activitéAéronautique - Spatial - DéfenseAgriculture - Agroalimentaire - DistributionAssurances - Banque - Finance - Audit - ConseilCommerce - Distribution - RetailCommunication - Publicité - Médias - Edition - EvénementielConstruction - BTP - Immobilier - Architecture - UrbanismeEnergie - Environnement - RSEEnseignement - Formation - Education - RechercheHi-Tech - Informatique - Numérique - TelecomIndustrie - IngenierieLoisirs - Culture - Sport - Tourisme - Hôtellerie - RestaurationSanté - Social - Bio-techSecteur public - CollectivitésServices aux entreprisesTransport - Logistique - MobilitésAgencesAssociation - Fondation - Organismes humanitairesAvocat - Notaire - ComptabilitéFédérationIncubateur - Pépinières d'entreprisesLuxeRecherche
+            Vos centres d'intérêt
+            
+        Actualités générales
+                
+        Aéronautique
+                
+        Automobile
+                
+        Banque/Finance
+                
+        Hi-Tech
+                
+        Industrie
+                
+        Industrie
+                
+        Politique
+                
+        Services
+                
+        Smart City
+                
+        Je souhaite recevoir les informations de la Tribune Bordeaux
+et également être invité aux événements économiques proposés par la Tribune Bordeaux
+                
+        J'accepte de recevoir des offres des partenaires de la Tribune Bordeaux
+                
+
+
+
+
+ J’ai déjà un compte
+        
+
+
+
+
+
+
+
+
+
+
+
+Merci pour votre inscription !
+
+
+
+
+
+
+
+Dernière étape : confirmez votre inscription dans l’email que vous venez de recevoir.
+Pensez à vérifier vos courriers indésirables.
+À très bientôt sur le site de La Tribune et dans nos newsletters, 
+              La rédaction de La Tribune.
+
+Je retourne sur le site
+
+
+
+
+
+
+
+
+
+
+
+Inscription à la newsletter L’Actualité économique de Bordeaux et de Nouvelle-Aquitaine
+
+
+
+
+ Chaque jeudi, les dernières actualités
+ Dans votre boite mail a 9h
+
+
+
+Voulez-vous souscrire à la newsletter ?
+Oui
+Non
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Inscription à la newsletter Nouvelle Aquitaine
+                  
+
+
+
+
+ Du lundi au vendredi, les dernières actualités
+ Dans votre boite mail à 19h
+
+
+Connexion à mon compte
+
+
+
+
+
+
+
+              Mot de passe oublié ?
+            
+Identifiant ou mot de passe incorrect.
+
+
+
+
+Rester connecté
+
+
+
+
+
+
+
+
+Je me connecte
+
+
+ J’ai n'ai pas encore de compte
+        
+
+
+
+
+
+
+
+
+
+
+
+Merci pour votre inscription !
+
+
+
+
+
+
+
+À très bientôt sur le site de La Tribune et dans nos newsletters, 
+            La rédaction de La Tribune.
+          
+
+Je retourne sur le site
+
+
+
+
+
+
+
+
+
+
+
+Vous êtes déjà inscrit !
+
+
+
+
+
+
+
+Découvrez l'ensemble des newsletters de La Tribune 
+            La rédaction de La Tribune
+
+Je découvre
+
+
+
+
+
+
+
+
+
+
+
+Réinitialisez votre mot de passe
+
+
+
+
+Merci de saisir l'adresse mail fournie lors de la création de votre compte,
+              un email vous sera envoyé avec vos informations de connexion.
+
+
+
+
+
+Valider
+
+
+
+ Je n'ai pas encore de compte
+          
+
+            Revenir à la page précédente
+          
+
+
+
+
+
+
+
+
+
+
+
+
+Email envoyé !
+
+
+
+
+
+
+
+Un e-mail contenant vos informations de connexion a été envoyé.
+À très bientôt sur le site de La Tribune et dans nos newsletters, 
+            La rédaction de La Tribune.
+          
+
+Je retourne sur le site
+
+
+
+
+
+
+
+
+
+
+S’inscrire à la newsletter
+                  Nouvelle Aquitaine
+              
+
+
+
+
+
+
+
+
+
+
+
+
+Sur le même sujet
+
+
+
+Thales s'offre Gemalto pour devenir un leader mondial de la sécurité numérique
+
+Aéronautique et spatial : l'usine du futur ne doit pas oublier l'humain
+
+
+Bordeaux : le campus Thales atteint son rythme de croisière
+
+
+Pourquoi Thales et Gemalto ont réussi leur opération de rapprochement
+
+Thales s'offre Gemalto pour devenir un leader mondial de la sécurité numérique
+
+Aéronautique et spatial : l'usine du futur ne doit pas oublier l'humain
+
+
+Bordeaux : le campus Thales atteint son rythme de croisière
+
+
+Pourquoi Thales et Gemalto ont réussi leur opération de rapprochement
+
+
+
+
+
+
+
+
+
+
+Sujets les + lus
+|
+Sujets les + commentés
+
+
+
+
+1
+
+                                                                                « L'industrie du solaire sera plus grosse en 2040 que l'actuelle industrie du pétrole ! » (Xavier Daval, SER)
+                                    
+
+
+
+
+
+2
+
+                                        Abstention : « Il y a une lassitude envers l'ensemble de l'offre politique, RN compris » (Vincent Tiberj)
+                                    
+
+
+
+
+
+3
+
+                                        Solaire : « Avec l'agrivoltaïsme, nous rentrons dans une nouvelle ère »
+                                    
+
+
+
+
+
+4
+
+                                                                                Législatives : l'extrême-droite en tête en Gironde, la gauche à Bordeaux Métropole
+                                    
+
+
+
+
+
+5
+
+                                                                                Le RER métropolitain bordelais labéllisé, le projet basco-landais devra patienter
+                                    
+
+
+
+
+
+
+
+1
+
+                                                                                « Tout mètre carré solarisable est solarisé » : le maire de Bordeaux se fait apôtre du solaire  (9)
+                                    
+
+
+
+
+
+2
+
+                                        Abstention : « Il y a une lassitude envers l'ensemble de l'offre politique, RN compris » (Vincent Tiberj)  (7)
+                                    
+
+
+
+
+
+3
+
+                                        Voitures électriques : Greenspot réunit 30 millions d'euros pour installer 10.000 bornes de recharge dans les villes moyennes  (6)
+                                    
+
+
+
+
+
+4
+
+                                        La facture gonfle pour l'usine de Flying Whales en Gironde  (5)
+                                    
+
+
+
+
+
+5
+
+                                        Le solaire européen peut-il se sevrer de sa dépendance chinoise ?  (4)
+                                    
+
+
+
+
+
+
+
+
+
+
+Commentaires
+
+3
+
+
+
+
+
+
+
+
+The PRIMITIF
+à écrit le 15/03/2018 à 18:16
+                                    
+
+
+ Signaler
+    
+
+
+                                                                    Vraiment un excellent article qui m'a fait un peu découvrir THALES .
+                                                            
+
+
+
+                                        Répondre 
+
+
+
+
+
+
+
+
+                                            Pour être alerté par email d'une réaction à ce commentaire, merci de
+                                            renseigner votre adresse email ci-dessous :
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NADEGE
+à écrit le 05/03/2018 à 9:12
+                                    
+
+
+ Signaler
+    
+
+
+                                                                    L’intelligence artificielle, c’est également la capacité de pouvoir capitaliser, analyser et anticiper les conséquences d’une situation imprévue à partir des retours d’expérience du terrain afin de réagir au mieux à un tel évènement lorsqu’il arrive ... 
+L’intelligence artificielle, c’est également la capacité de pouvoir capitaliser, analyser et anticiper les conséquences d’une situation imprévue à partir des retours d’expérience du terrain afin de réagir au mieux à un tel évènement lorsqu’il arrive  réellement. 
+
+Même si rien n’est en mesure de remplacer le pilote et son équipage à l’heure actuelle, les outils de simulation au sol peuvent être une aide précieuse en les préparant au mieux aux situations de crise.
+ 
+On pourrait imaginer à l’avenir de fournir des outils d’aide prédictifs intelligents en vol issus des opérations de simulation au sol utilisable à la demande du  pilote. Ces outils seraient en mesure de pouvoir conseiller le pilote en période de crise sur la base des informations captées en temps réel. Qu’en pensez-vous ?
+
+
+
+
+                                        Répondre 
+
+
+
+
+
+
+
+
+                                            Pour être alerté par email d'une réaction à ce commentaire, merci de
+                                            renseigner votre adresse email ci-dessous :
+                                        
+
+
+
+
+
+
+
+
+
+
+
+Réponse de IA-kafokon
+le 06/03/2018 à 14:13
+                                                    
+
+
+ Signaler
+    
+
+
+                                                                                                    Que l'IA, c'est du bullshit d'un point de vue systèmes temps réels embarqués critiques. Et pourtant c'est passionnant d'un point de vue technique.
+
+1- Tout le monde en parle, personne ne définit ce que c'est. A mon sens, c'est une caractéristique i... 
+Que l'IA, c'est du bullshit d'un point de vue systèmes temps réels embarqués critiques. Et pourtant c'est passionnant d'un point de vue technique.
+
+1- Tout le monde en parle, personne ne définit ce que c'est. A mon sens, c'est une caractéristique infaillible pour détecter un bullshit (disruption, start-up nation, transformation ""digitale"" -sic-, etc.).
+2- La plupart des technos classées dans l'IA ne sont que des heuristiques permettant de simplifier la complexité du problème adressé, dans le but de produire une réponse pas trop mauvaise dans un temps fini (et raisonnable). Le problème, c'est qu'en général on est incapable de prédire leur comportement: ni si la réponse est la bonne, ni si même si la réponse va venir et encore moins quand elle va venir. D'où le problème de certification évoqué par les messieurs de Thales.
+3- vu le coût de la mise au point, de la maintenance, et des opérations, la démonstration du ROI est très délicate par rapport aux moyens actuels.
+4- quand Google démontre qu'un réseau de neurones, après des années-machine d'apprentissage renforcé sur les plus grosses bases de données du monde, est capable de reconnaître un visage si la photo est de bonne qualité ou de gagner au go contre le meilleur joueur du monde, Google ne met pas de vie en jeu. Google n'a donc pas à démontrer que son système ne commet pas d'erreur à une probabilité supérieure 1/10 puissance 9 (ce qui n'est pas le cas puisque la reconnaissance faciale se plante au moins une fois sur 1000:). Par contre Google communique super bien et s'appuie sur un réseau de leaders d'opinion qui relaient sa comm sans rien y comprendre ni chercher à comprendre quoi que ce soit.
+5- l'IA n'a pas fait de progrès scientifique majeur depuis les années 90 (et le second hiver de l'IA); ce qui a changé, ce sont la taille des bases de données, les débits des réseaux, la puissance de traitement et la taille des mémoires vives. Donc les problèmes difficiles restent les mêmes, les heuristiques sont les mêmes, et les problèmes fondamentaux restent sans solution connue  (démontrer qu'un algo dit ""IA"" a un comportement prédictif par exemple).
+6- La plupart des décideurs imaginent l'IA comme un bouton sur lequel on appuie et qui donne la (meilleure) réponse. Ils ignorent qu'il faut correctement modéliser le problème pour que l'IA puisse le traiter, éventuellement dérouler une phase d'apprentissage en générale très longue si on utilise de l'apprentissage, enfin ils ignorent que la plupart des heuristiques sortent la première réponse acceptable par rapport à la modélisation du problème sans trop se préoccuper de savoir si c'est effectivement la meilleure. De plus si la question posée ne fait pas partie du spectre adressé par la modélisation du problème, l'IA ne la traitera pas. Bref, les décideurs ne comprennent en général pas grand chose au sujet et ils ne sont pas aidées par leurs experts qui profitent bien de leur ignorance pour leur vendre leur soupe (renforcé par l'adage ""si les GAFAM le font, c'est forcément bien"") et gérer au mieux leur carrière personnelle.
+
+Bref le fond du problème, ce n'est pas de savoir si une IA peut piloter un avion ou conduire un train ou une voiture, la réponse est oui. C'est de l'ordre du faisable et les démonstrations techniques ne manquent pas.
+Le problème est de savoir si ça peut garantir la sécurité des humains en interaction plus ou moins volontaire avec l'IA. Et là, on n'entend plus personne, surtout chez les GAFAM (mais c'est pas non plus leur business).
+Est-ce que ça le fait mieux (en termes de couts, performances, délais de mise sur le marché, et fonctionnalités) qu'un simple automate à rétroaction ou qu'un humain bien formé?
+Est-ce qu'un fournisseur de technologies est capable d'assumer financièrement les dommages que pourraient causer son produit?
+Est-ce que nous utilisateurs sommes prêts à accepter une baisse du niveau de sécurité des véhicules sous prétexte qu'ils sont ""autonomes"" (alors qu'il le sont déjà pour une bonne partie depuis des décennies, hors automobile)? 
+
+
+Pour répondre à votre question, balancer des infos au pilote quand il est stressé (en période de crise) ne fait qu'accroitre sa charge cognitive et augmente le risque d'erreurs. Ce n'est peut-être pas une bonne idée de lui rajouter des infos de partout, surtout s'il ne sait pas s'il peut avoir confiance dans ces infos (et c'est pas forcément lié à l'IA, mais aussi au degré de fidélité de la simulation par exemple).
+
+Après on peut toujours discuter des systèmes non critiques et ""off-line"", comme l'aide à l'ingénierie, la maintenance, de-briefing d'opérations, la gestion des faits techniques, la gestion client, etc. Là, y'a pas mort d'Homme:)
+Par contre c'est pas parce que l'ordinateur donne une réponse qu'il faut lui faire confiance... L'ordinateur ne fait que ce qu'on lui a permis de faire, et pas autre chose.
+
+
+
+
+
+
+
+
+
+
+
+
+            Pseudo
+            
+
+            Email
+            
+
+            Content
+            
+
+        Recevoir un email si quelqu'un répond à mon commentaire.
+                
+
+
+
+
+ Envoyer un commentaire
+
+
+
+            Votre email ne sera pas affiché publiquement.
+            Tous les champs sont obligatoires.
+        
+
+
+
+
+
+
+ Rédiger un commentaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -
+                        
+
+
+
+
+Merci pour votre commentaire. Il sera visible prochainement sous
+                réserve de validation.
+
+
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnZpY2UuY29tL2ZyL2FydGljbGUvOHhkM2RnL3VuZS1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWVjcml0LXVuLXBvZGNhc3Qtc2Fucy1maW7SAQA?oc=5,"Une intelligence artificielle écrit un ""podcast sans fin"" - VICE",2018-03-06,VICE,https://www.vice.com,Le programme invite les auditeurs à s'immerger dans l'atmosphère d'une province américaine peuplée de personnages et d'histoires hors du commun.,N/A,Le programme invite les auditeurs à s'immerger dans l'atmosphère d'une province américaine peuplée de personnages et d'histoires hors du commun.,Le programme invite les auditeurs à s'immerger dans l'atmosphère d'une province américaine peuplée de personnages et d'histoires hors du commun.,https://schema.org,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,"[{'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.vice.com/fr'}, {'@type': 'ListItem', 'position': 2, 'name': 'Tech', 'item': 'https://www.vice.com/fr/section/tech'}]}, {'@context': 'https://schema.org', '@type': 'NewsArticle', 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.vice.com/fr/article/8xd3dg/une-intelligence-artificielle-ecrit-un-podcast-sans-fin'}, 'headline': 'Une intelligence artificielle écrit un ""podcast sans fin""', 'image': ['https://video-images.vice.com/articles/5a9d758e273ac500064baa32/lede/1520268715635-1520250197105-34037889881_91ab49b28e_k.jpeg?crop=1xw:0.7493xh;0xw,0xh&resize=1200:*'], 'datePublished': '2018-03-06T15:06:15.519Z', 'dateModified': '2018-03-06T15:06:15.519Z', 'author': {'@type': 'Person', 'name': 'Mack DeGuerin'}, 'publisher': {'@type': 'Organization', 'name': 'VICE', 'logo': {'@type': 'ImageObject', 'url': 'https://vice-web-statics-cdn.vice.com/images/vice-og.png'}}}, {'@context': 'https://schema.org', '@type': 'ItemList', 'name': 'Une intelligence artificielle écrit un ""podcast sans fin""', 'itemListElement': []}, []]",,,,,,,
+https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmxldGVtcHMuY2gvY3liZXIvcm9ib3RzLXRyaWVyLW5vcy1kZWNoZXRz0gEA?oc=5,Les robots vont trier nos déchets - Le Temps,2018-03-06,Le Temps,https://www.letemps.ch,"A Genève, un nouveau centre de tri des déchets industriels complètement automatisé va être construit. Les machines sont de plus en plus utilisées pour le recyclage","['Suisse 4.0', 'Economie mondiale', 'Free']","A Genève, un nouveau centre de tri des déchets industriels complètement automatisé va être construit. Les machines sont de plus en plus utilisées pour le recyclage","A Genève, un nouveau centre de tri des déchets industriels complètement automatisé va être construit. Les machines sont de plus en plus utilisées pour le recyclage",http://schema.org,NewsArticle,Le Temps,https://www.letemps.ch/cyber/robots-trier-nos-dechets,,,,"{'@type': 'WebPage', '@id': 'https://www.letemps.ch/cyber/robots-trier-nos-dechets'}",Les robots vont trier nos déchets,https://letemps-17455.kxcdn.com/photos/fe5f993f-e532-4bd8-a2d2-0f81d14d90ef/large,2018-03-06T10:33:00.856+01:00,2023-06-11T00:19:03.611+02:00,"[{'@type': 'Person', 'name': 'Mathilde Farine'}]","{'@type': 'Organization', 'name': 'Le Temps SA', 'url': 'https://www.letemps.ch', 'email': 'info@letemps.ch', 'telephone': '+41 58 269 29 00', 'logo': {'@type': 'ImageObject', 'url': 'https://letemps-17455.kxcdn.com/assets/letemps/icons/logo-06f3de7972456a2ab0e6f991160516f385c81ffb684cfbedb001b9ec2c75b224.png'}}",,,N/A,N/A,"
+
+
+Accueil
+Cyber
+
+
+
+Les robots vont trier nos déchets
+
+A Genève, un nouveau centre de tri des déchets industriels complètement automatisé va être construit. Les machines sont de plus en plus utilisées pour le recyclage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les appareils de ZenRobotics mettent en œuvre un ensemble de capteurs ultraperfectionnés et, grâce à l’intelligence artificielle, commandent les bras robotisés qui trient les déchets. — © Zen Robotics
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                  Mathilde Farine
+ 
+
+
+
+Publié le 06 mars 2018 à 10:33. / Modifié le 11 juin 2023 à 00:19.
+
+
+
+
+Partager
+
+
+
+
+Partager
+
+
+
+
+
+
+
+Partager un lien vers cet article
+
+Copier le lien
+ 
+
+
+Partager cet article par email
+
+Email
+
+
+
+
+Partager cet article sur Whatsapp
+
+Whatsapp
+
+
+
+
+Partager cet article sur Linkedin
+
+Linkedin
+
+
+
+
+Partager cet article sur Facebook
+
+Facebook
+
+
+
+
+Partager cet article sur Twitter
+
+X
+
+
+
+
+
+
+Le petit robot Wall-E, circulant dans des décombres et tentant de recycler et nettoyer les déchets de la planète, est-il une prophétie en voie de se réaliser? Le film de Pixar, sorti en 2008, commence à devenir réalité. Car si la Terre n’a pas été abandonnée de ses habitants, des machines qui s’occupent de récolter, trier et recycler leurs poubelles se multiplient.Genève s’y met pour ses déchets industriels. Lundi prochain, la première pierre d’un nouveau centre de tri totalement automatisé et robotisé va être posée. D’après ses promoteurs, Sortera – c’est le nom de la future usine qui sera installée à Satigny – représente une première en Suisse et doit pouvoir traiter plus de 70 000 tonnes de déchets industriels et de chantiers venant du canton chaque année. Les travaux commenceront effectivement en juin et le centre devrait fonctionner en mars 2019.
+
+
+Lire également:  Jean-Marc Hensch: «Le recyclage de l’électronique est encore trop complexe pour les robots»
+Bras robotisés
+Ce centre sera implanté sur le site actuel de Sogetri à Satigny, qui débarrasse les déchets suisses romands depuis une vingtaine d’années et fait partie du groupe Helvetia Environnement. «La particularité de cette centrale sera de n’être pas simplement automatisée, elle comptera aussi des robots qui ont une capacité d’apprendre à trier les déchets», explique Thierry Vialenc, directeur général. Sans l’aide des machines, le site aurait dû être surdimensionné, poursuit-il.
+
+Les places de travail seront gardées, le tri sera automatisé mais les employés s’occuperont du contrôle qualité et nous prévoyons de créer une dizaine d’emplois, plus qualifiésThierry Vialenc, directeur général de Sogetri
+Sogetri a jeté son dévolu sur les appareils de ZenRobotics, qui mettent en œuvre un ensemble de capteurs ultraperfectionnés et, grâce à l’intelligence artificielle, commandent les bras robotisés qui trient les déchets. La société finlandaise, qui apparaît comme l’un des pionniers du domaine, a notamment développé des robots qui apprennent leur tâche au fur et à mesure. Les capteurs regroupent des technologies traditionnelles, mais aussi des capteurs de dernière génération tels que des récepteurs haptiques, permettant d’analyser des données comme des humains.
+
+Toujours des humains
+Cet équipement d’un nouveau genre se trouve déjà dans des centres de tri en Europe et en Amérique du Nord. Une dizaine au total dans le monde, dont un en Suisse, mais qui ne s’occupe pas de tri des déchets, précise Thierry Vialenc. Il ne donne pas le montant de l’investissement pour l’usine genevoise, mais reste formel sur les emplois: des humains travailleront encore dans la nouvelle centrale. «Les places de travail que compte le site de Sogetri seront gardées, le tri sera automatisé mais les employés s’occuperont du contrôle qualité et nous prévoyons de créer une dizaine d’emplois, plus qualifiés, pour la maintenance et la gestion des automates», poursuit-il, soulignant qu'«on ne peut donc pas dire que les robots détruisent systématiquement les emplois».Lire aussi:  «La Suisse a un rôle à jouer dans la transmission de savoir en matière de recyclage»En revanche, «les robots permettront de travailler mieux, plus vite et se chargeront des tâches les plus dures, comme le tri des grosses pièces, qui peuvent peser plusieurs dizaines de kilos», explique le responsable de Sogetri.La robotisation du tri et du recyclage va continuer, estime-t-il. A l’échelle du groupe Helvetia, il est possible qu’un ou deux autres sites soient aussi complètement automatisés, mais guère plus, car il faut une taille critique pour justifier l’investissement. En outre, certaines tâches ne peuvent pas encore être réalisées sans humain, mais la technologie évoluant, d’autres travaux seront possibles.
+Aussi pour l’iPhone…
+Dans ce domaine, la technologie évolue d’ailleurs rapidement. ZenRobotics a vu plusieurs concurrents se développer ces dernières années, comme l’américain Waste Robotics, qui équipe également des centres de tri, ou l’espagnol Sadako Technologies. Outre une plus grande efficacité, ces engins permettent aussi de réduire l’exposition des humains à des produits dangereux ou de réaliser des tâches ingrates à leur place.Lire également:  La Suisse championne du monde de la robotiqueEt la robotisation avance aussi à diverses échelles. Loin des déchets industriels de Sogetri, Apple a créé un petit engin, appelé Liam, fruit de trois ans de travail, dont la tâche est de recycler 1,2 million d’iPhone par année et de récolter les composants de haute valeur qui peuvent être réutilisés. Une innovation aussi intéressante que symbolique: la firme californienne a vendu plus de 230 millions d’iPhone rien que l’an dernier. Dans son dernier rapport environnemental, elle affirme cependant avoir récolté 90 millions de livres de déchets électroniques à travers ses programmes de recyclage, soit 70% du poids total des produits vendus sept ans plus tôt.
+…et dans les rues
+Mais la robotisation arrive également à plus petite échelle, parfois directement devant les consommateurs, comme avec Baryl, le robot qui sillonne certaines gares françaises pour inciter à la récolte et au tri des déchets. Dans certaines villes américaines, les camions poubelles roulent et ramassent les ordures tout seuls.En vidéo: RobbI, un robot mobile pour Genève AéroportÀ ce sujet:Ces robots qui construisent des maisons
+
+
+
+
+
+Suisse 4.0
+Economie mondiale
+
+
+
+
+
+Partager
+
+
+
+
+Partager
+
+
+
+
+
+
+
+Partager un lien vers cet article
+
+Copier le lien
+ 
+
+
+Partager cet article par email
+
+Email
+
+
+
+
+Partager cet article sur Whatsapp
+
+Whatsapp
+
+
+
+
+Partager cet article sur Linkedin
+
+Linkedin
+
+
+
+
+Partager cet article sur Facebook
+
+Facebook
+
+
+
+
+Partager cet article sur Twitter
+
+X
+
+
+
+
+
+
+
+
+
+
+",,,,https://www.letemps.ch/,,Cyber,,"Le petit robot Wall-E, circulant dans des décombres et tentant de recycler et nettoyer les déchets de la planète, est-il une prophétie en voie de se réaliser? Le film de Pixar, sorti en 2008, commence à devenir réalité. Car si la Terre n’a pas été abandonnée de ses habitants, des machines qui s’occupent de récolter, trier et recycler leurs poubelles se multiplient.
+
+Genève s’y met pour ses déchets industriels. Lundi prochain, la première pierre d’un nouveau centre de tri totalement&nbsp;automatisé et robotisé va être posée. D’après ses promoteurs, Sortera – c’est le nom de la future usine qui sera installée à Satigny – représente une première en Suisse et doit pouvoir traiter plus de 70&nbsp;000&nbsp;tonnes de déchets industriels et de chantiers venant du canton chaque année. Les travaux commenceront effectivement en juin et le centre devrait fonctionner en mars 2019.
+
+**Lire également:** &nbsp;[Jean-Marc Hensch: «Le recyclage de l’électronique est encore trop complexe pour les robots»](/economie/jeanmarc-hensch-recyclage-lelectronique-complexe-robots)
+
+### Bras robotisés
+
+Ce centre sera implanté sur le site actuel de [Sogetri](http://www.sogetri.ch/1er-reseau-tri-romand-136) à Satigny, qui débarrasse les déchets suisses romands depuis une vingtaine d’années et fait partie du groupe Helvetia Environnement. «La particularité de cette centrale sera de n’être pas simplement automatisée, elle comptera aussi des robots qui ont une capacité d’apprendre à trier les déchets», explique&nbsp;Thierry Vialenc, directeur général. Sans l’aide des machines, le site aurait dû être surdimensionné, poursuit-il.
+
+> Les places de travail seront gardées, le tri sera automatisé mais les employés s’occuperont du contrôle qualité et nous prévoyons de créer une dizaine d’emplois, plus qualifiés
+
+> Thierry Vialenc, directeur général&nbsp;de Sogetri
+
+Sogetri a jeté son dévolu sur les appareils de&nbsp;ZenRobotics, qui mettent en œuvre un ensemble de capteurs ultraperfectionnés et, grâce à l’intelligence artificielle, commandent les bras robotisés qui trient les déchets. La société finlandaise, qui apparaît comme l’un des pionniers du domaine, a notamment développé des robots qui apprennent leur tâche&nbsp;au fur et à mesure. Les capteurs regroupent des technologies traditionnelles, mais aussi des capteurs de dernière génération tels que des récepteurs haptiques, permettant d’analyser des données comme des humains.
+
+<iframe class=""embed-responsive-item"" width=""640"" height=""415"" src=""https://www.youtube.com/embed/X_1sOPqM_VA?rel=0&amp;enablejsapi=1"" frameborder=""0"" llow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen=""""></iframe>
+
+### Toujours des humains
+
+Cet&nbsp;équipement d’un nouveau genre se trouve déjà dans des centres de tri en Europe et en Amérique du Nord. Une dizaine au total dans le monde, dont un en Suisse, mais qui ne s’occupe pas de tri des déchets, précise Thierry Vialenc. Il ne donne pas le montant de l’investissement pour l’usine genevoise, mais reste formel sur les emplois: des humains travailleront encore dans la nouvelle centrale. «Les places de travail que compte le site de Sogetri seront gardées, le tri sera automatisé mais les employés s’occuperont du contrôle qualité et nous prévoyons de créer une dizaine d’emplois, plus qualifiés, pour la maintenance et la gestion des automates», poursuit-il, soulignant qu'«on ne peut donc pas dire que les robots détruisent systématiquement les emplois».
+
+**Lire aussi:** &nbsp;[«La Suisse a un rôle à jouer dans la transmission de savoir en matière de recyclage»](/suisse/2016/09/06/suisse-un-role-jouer-transmission-savoir-matiere-recyclage)
+
+En revanche, «les robots permettront de travailler mieux, plus vite et se chargeront des tâches les plus dures, comme le tri des grosses pièces, qui peuvent peser plusieurs dizaines de kilos», explique le responsable de Sogetri.
+
+La robotisation du tri et du recyclage va continuer, estime-t-il. A l’échelle du groupe Helvetia, il est possible qu’un ou deux autres sites soient aussi complètement automatisés, mais guère plus, car il faut une taille critique pour justifier l’investissement. En outre, certaines tâches ne peuvent pas encore être réalisées sans humain, mais la technologie évoluant, d’autres travaux seront possibles.
+
+### Aussi pour l’iPhone…
+
+Dans ce domaine, la technologie évolue d’ailleurs rapidement. ZenRobotics a vu plusieurs concurrents se développer ces dernières années, comme l’américain Waste Robotics, qui équipe également des centres de tri, ou l’espagnol Sadako Technologies. Outre une plus grande efficacité, ces engins permettent aussi de réduire l’exposition des humains à des produits dangereux ou de réaliser des tâches ingrates à leur place.
+
+**Lire également:** &nbsp;[La Suisse championne du monde de la robotique](/economie/suisse-championne-monde-robotique)
+
+Et la robotisation avance aussi à diverses échelles. Loin des déchets industriels de Sogetri, Apple a créé un petit engin, appelé Liam, fruit de trois ans de travail, dont la&nbsp;tâche est de recycler 1,2&nbsp;million d’iPhone par année et de récolter les composants de haute valeur qui peuvent être réutilisés. Une innovation aussi intéressante que symbolique: la firme californienne a vendu plus de 230&nbsp;millions d’iPhone rien que l’an dernier. Dans son dernier rapport environnemental, elle affirme cependant avoir récolté 90&nbsp;millions de livres de déchets électroniques à travers ses programmes de recyclage, soit 70% du poids total des produits vendus sept ans plus tôt.
+
+### …et dans les rues
+
+Mais la robotisation arrive également à plus petite échelle, parfois directement devant les consommateurs, comme avec&nbsp;Baryl, le robot qui sillonne certaines gares françaises pour inciter à la récolte et au tri des déchets. Dans certaines villes américaines, les camions poubelles roulent et ramassent les ordures tout seuls.
+
+**En vidéo: RobbI, un robot mobile pour Genève Aéroport**
+
+À ce sujet:
+
+[Ces robots qui construisent des maisons](/economie/robots-construisent-maisons)
+
+",Mathilde Farine,
+https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmpvYmJvb20uY29tL2NhcnJpZXJlL2F1dG9tYXRpc2F0aW9uLWZpbi1lbXBsb2lzL9IBAA?oc=5,"Automatisation, la fin de nos emplois tels que nous les connaissons. - Jobboom",2018-03-06,Jobboom,https://www.jobboom.com,"Notre futur est automatisé. L’étude de l’institut du Québec (1), indique que 1,4 millions d’emplois sont à risque de disparaitre et d’être profondément transformés. Forrester (2) prédit pour cette année que 9,2% des emplois américains seront détruits et 2% seront créés par le Robotic Process Automation (RPA) et les",N/A,"Notre futur est automatisé. L’étude de l’institut du Québec (1), indique que 1,4 millions d’emploi sont à risque de disparaitre et d’être profondément transformés. Forrester (2) prédit pour cette année que 9,2% des emplois américains seront détruits et 2% seront créés par le Robotic Process Automation (RPA) et les workflows.","Notre futur est automatisé. L’étude de l’institut du Québec (1), indique que 1,4 millions d’emploi sont à risque de disparaitre et d’être profondément transformés. Forrester (2) prédit pour cette année que 9,2% des emplois américains seront détruits et 2% seront créés par le Robotic Process Automation (RPA) et les workflows.",http://schema.org/,BlogPosting,,https://www.jobboom.com/carriere/automatisation-fin-emplois/,,,,"{'@type': 'WebPage', '@id': 'https://www.jobboom.com/carriere/automatisation-fin-emplois/'}","Automatisation, la fin de nos emplois tels que nous les connaissons","{'@type': 'ImageObject', 'url': 'https://www.jobboom.com/carriere/wp-content/uploads/2018/03/automatisation.jpg', 'width': 770, 'height': 437}",2018-03-06T08:30:46+00:00,2018-03-06T09:40:34+00:00,"{'@type': 'Person', 'name': 'Jean-Baptiste Audrerie', 'url': 'https://www.jobboom.com/carriere/author/jbaudrerie/', 'description': ""Jean-Baptiste Audrerie, psychologue organisationnel, M.B.A. \r\nChef de pratique Technologies &amp; Transformation RH chez Horizons RH. \r\nIl est l’auteur du blogue d’anticipation RH Futurs Talents\r\nIl accompagne les RH dans leur transformation digitale pour optimiser l'efficience de la fonction RH, l’attraction, l’engagement et le développement des talents."", 'sameAs': ['http://www.futurstalents.com']}","{'@type': 'Organization', 'name': 'Blogue et ressources d&#039;emploi | Jobboom', 'logo': {'@type': 'ImageObject', 'url': '', 'width': 600, 'height': 60}}",,,Actualités,N/A,"
+
+Pin It 
+
+Automatisation, la fin de nos emplois tels que nous les connaissons
+
+					6 mars 2018				
+
+
+Notre futur est automatisé. L’étude de l’institut du Québec (1), indique que 1,4 millions d’emplois sont à risque de disparaitre et d’être profondément transformés. Forrester (2) prédit pour cette année que 9,2% des emplois américains seront détruits et 2% seront créés par le Robotic Process Automation (RPA) et les workflows.
+L’automatisation prend des milliers de formes dans tous les secteurs. C’est le traitement des appels téléphoniques d’une centrale de réservation hôtelière internationale avec le traitement naturel du langage par la machine, en 36 langues et pour 10000 appels simultanés. C’est aussi la détection visuelle des défauts de fabrication de pièces en usine avec une précision et une vitesse qu’aucun humain ne pourra battre. C’est encore un robot conversationnel sur Facebook pour recommander des sorties dans votre quartier.
+L’automatisation accélérateur de la transformation numérique
+Depuis l’invention de la roue et de l’aqueduc, l’humanité automatise. Mais pourquoi en 2018 l’automatisation agite autant les discussions sur l’avenir du monde du travail ?
+Nous sommes à un point d’inflexion. Grâce à l’intelligence artificielle, les robots et les algorithmes apprennent et s’adaptent et à des coûts de plus en plus accessibles. Ils ne font plus simplement répéter la même séquence préprogrammée et rigide des bons vieux programmes.
+En plus des bras robotisés, les objets connectés et les micro-algorithmes apprenant sont presque à la portée de tous. Nous pourrons prochainement automatiser des tâches simples et locales pendant que l’organisation développera une architecture d’automatisation plus complexe et globale pour ses processus clients.
+En se numérisant de bout en bout, les organisations génèrent en continue des données précieuses via leurs capteurs, les bots, les plateformes numériques et les algorithmes. Une fois leurs données exploitées, elles peuvent développer de nouvelles capacités : apprendre, prédire, prescrire, personnaliser.
+L’évolution inéluctable de nos emplois. 
+Avec plus de 100 000 robots cueilleurs de produits en activité dans les entrepôts d’Amazon (3), elle continue pourtant d’embaucher des magasiniers. Cela signifie que le géant du commerce en ligne le plus automatisé au monde n’a pas d’entrepôt sans humain. Les magasiniers sont devenus des superviseurs de robots et ils passent plus de temps à résoudre des problèmes et à optimiser le travail qu’à marcher, à cueillir la commande et à l’emballer.
+En songeant à l’automatisation, chacun de nous pense spontanément à la destruction d’emplois. Ce sont des supermarchés sans caissiers ni caissières, ou mieux encore des magasins totalement virtuels. Ce sont des transporteurs routiers sans chauffeurs. Mais l’automatisation n’est pas qu’une substitution de tâches. C’est aussi la possibilité de vendre de nouveaux et de meilleurs services. Il existe un océan de besoins non satisfaits. Avec les automatismes, toutes les fonctions support comme le marketing, la logistique, les finances ou les ressources humaines peuvent se dégager de nouvelles marges de manœuvre et se repositionner sur des tâches à plus forte valeur ajoutée.
+C’est notre capacité à composer avec ces nouvelles capacités qui développe des organisations intégrées, efficaces, échelonnables et innovantes.
+Un impératif de développement des compétences à l’échelle de la société 
+La menace de se faire `Amazonifier` est grande. Amazon bouscule tous les marchés qu’elle touche avec l’automatisation et l’intelligence artificielle. Dans ce contexte, les décideurs et les investisseurs sont mis au défi de préparer leurs organisations et leurs employés à embrasser ces nouvelles capacités. Les dirigeants doivent s’informer pour comprendre et pour réinventer leur organisation et développer une vision pérenne. Mais si on ne se limite à croire que l’automatisation seule suffit à maintenir la compétitivité, on se trompe. Il faut ajouter un volet d’innovation sociale et culturelle à la technologie.
+La réalité est que l’automatisation exige beaucoup de capitaux et de main d’œuvre compétente et engagée : ingénierie, supervision, optimisation, maintenance, entretien, analyse, etc. Il faut donc s’y préparer en investissant de façon récurrente et soutenue dans les technologies et en accompagnant la transformation des méthodes de travail, des emplois et des compétences.
+Il est possible de co-créer avec les employés de l’automatisation efficace tout en repensant le travail et la création de valeur avec ces nouvelles compétences. Autrement, les conditions sociales et économiques seront dévastatrices si les politiques publiques, les organisations et le système éducatif n’adressent pas l’enjeu de développement accéléré des compétences digitales et des nouvelles méthodes de travail.
+Avec l’automatisation, c’est la relation Homme-Machine qui est en train de se réinventer. Le défi est de réunir toutes les conditions pour innover avec elle.
+ Rendez-vous sur Jobboom en cliquant ici pour consulter toutes les offres d’emploi disponibles.
+Sources :
+
+Institut du Québec : http://www.institutduquebec.ca/docs/default-source/recherche/9406_automatisation-nouveaux-mod%C3%A8les-d-affaires-et-emploi_idq_br.pdf
+Predictions 2018: Automation Alters The Global Workforce. Ten Key Developments In Automation – November 2017 Reshape The Industry In 2018
+New-York Times, As Amazon Pushes Forward With Robots, Workers Find New Roles, September 2017 : https://www.nytimes.com/2017/09/10/technology/amazon-robots-workers.html
+
+
+
+
+Catégories : 
+Actualités
+
+
+Partagetwitterfacebooklinkedin 1513 Vues
+0 J'aime(s)
+ 
+
+
+ 
+
+Jean-Baptiste Audrerie
+
+			Jean-Baptiste Audrerie, psychologue organisationnel, M.B.A. 
+Chef de pratique Technologies & Transformation RH chez Horizons RH. 
+Il est l’auteur du blogue d’anticipation RH Futurs Talents
+Il accompagne les RH dans leur transformation digitale pour optimiser l'efficience de la fonction RH, l’attraction, l’engagement et le développement des talents.			
+				Voir tous les articles de Jean-Baptiste Audrerie			
+
+
+
+",,,,,,Actualités,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lmxlc29pci5iZS8xNDM5MTkvYXJ0aWNsZS8yMDE4LTAzLTA2L2pvZWwtZGUtcm9zbmF5LWxlZ29pc21lLWJsb3F1ZS1ub3RyZS1jZXJ2ZWF10gEA?oc=5,Joël de Rosnay: «L'égoïsme bloque notre cerveau» - Le Soir,2018-03-06,Le Soir,https://www.lesoir.be,"Docteur en chimie, Joël de Rosnay estime que l’intelligence artificielle pourrait permettre au cerveau humain d’accéder à de nouvelles dimensions. Il sera à Flagey pour une conférence le 27 mars prochain, avec «Le Soir».","['[node:field_freetags]', 'Journaux', 'Relations du travail', 'Philosophie', 'Esclavage', 'Bill Gates']","Docteur en chimie, Joël de Rosnay estime que l’intelligence artificielle pourrait permettre au cerveau humain d’accéder à de nouvelles dimensions. Il sera à Flagey pour une conférence le 27 mars prochain, avec « Le Soir ».","Docteur en chimie, Joël de Rosnay estime que l’intelligence artificielle pourrait permettre au cerveau humain d’accéder à de nouvelles dimensions. Il sera à Flagey pour une conférence le 27 mars prochain, avec « Le Soir ».",https://schema.org,NewsArticle,Joël de Rosnay: «L’égoïsme bloque notre cerveau»,,,,,"{'@type': 'WebPage', '@id': 'https://www.lesoir.be/143919/article/2018-03-06/joel-de-rosnay-legoisme-bloque-notre-cerveau'}",Joël de Rosnay: «L’égoïsme bloque notre cerveau»,"[{'@type': 'ImageObject', 'url': 'https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2018/03/07/node_143919/15806679/public/2018/03/07/B9714969375Z.1_20180307102603_000%2BGRTAR8K9E.2-0.jpg?itok=IbBP5EXf1555716608', 'width': '1350', 'height': '759'}, {'@type': 'ImageObject', 'url': 'https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2018/03/06/node_143919/15779924/public/2018/03/06/B9714969375Z.1_20180306195302_000%2BGHCARAAA4.1-0.jpg?itok=UX-BJ4A71555716608', 'width': '1350', 'height': '759'}]",2018-03-06T19:53:02+01:00,2018-03-06T19:53:02+01:00,"{'@type': 'Person', 'name': 'Par Mathieu Colinet'}","{'@type': 'Organization', 'name': 'Le Soir', 'sameAs': '[""https:\\/\\/fr.wikipedia.org\\/wiki\\/Le_Soir"",""https:\\/\\/www.facebook.com\\/lesoirbe\\/"",""https:\\/\\/twitter.com\\/lesoir""]', 'logo': {'@type': 'ImageObject', 'url': 'https://www.lesoir.be/sites/all/themes/enabootstrap_lesoir/images/site-logo.svg', 'width': 400, 'height': 600}}",FALSE,,N/A,N/A,"
+ Joël de Rosnay: «L’égoïsme bloque notre cerveau»
+Docteur en chimie, Joël de Rosnay estime que l’intelligence artificielle pourrait permettre au cerveau humain d’accéder à de nouvelles dimensions. Il sera à Flagey pour une conférence le 27 mars prochain, avec « Le Soir ».
+ 
+
+ 
+L’intelligence artificielle, c’est la possibilité, selon Joël de Rosnay, d’une intelligence humaine «
+additionnée
+» et - pourquoi pas 
+? -, à plus long terme, d’une autre humanité. - Reporters 
+
+
+
+
+
+
+
+
+ Entretien - 
+Journaliste au pôle Economie
+Par Mathieu Colinet 
+ Publié le 6/03/2018 à 19:53
+Temps de lecture: 4 min
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ L’intelligence artificielle a parfois mauvaise presse. Celle que Joël de Rosnay préfère appeler « l’intelligence auxiliaire » pourrait toutefois selon lui entrer en symbiose avec l’intelligence humaine. Avec à la clé de nouvelles « cases » débloquées dans le cerveau humain et un meilleur accès à des ressources comme le partage, l’empathie, l’amour. Dans le cadre des conférences organisées par Psychologies Magazine et Le Soir, il développera son propos le 27 mars à Bruxelles. Simuler l’intelligence humaine est l’un des grands défis que dans une série de domaines, des chercheurs, des entreprises se sont lancés. L’intelligence artificielle fait toutefois encore peur. On l’associe à une série de dérives potentielles. Au contraire, vous l’envisagez avec optimisme. Pourquoi ? 
+
+
+ Je ne suis pas optimiste, je suis positif. Ce n’est pas la même chose. Etre optimiste signifie qu’en fonction d’un jugement de valeur, on imagine que les choses vont s’arranger. C’est une vision naïve et ce n’est pas la mienne. Ma vision est positive et constructive. En présentant les choses de manière positive, réaliste et pragmatique, on peut aider les gens à se forger leurs propres opinions, peu importe ce qu’elles sont, les aider à penser leur futur. Je ne dis pas pour autant qu’ils auront envie du futur que je leur propose. Donc, je ne suis pas optimiste mais positif. Mon métier, c’est de corréler des informations. Je sais les trier, les classer, les comparer, les corréler. En les corrélant, et sur le domaine de l’intelligence artificielle, je me suis rendu compte qu’il y avait des points positifs à cette évolution, parmi toutes possibilités négatives que l’on nous ressasse en permanence.  Vous dites notamment par rapport à l’intelligence artificielle que les êtres humains n’en seront pas les esclaves.  Oui. A titre personnel, je ne parle d’ailleurs plus d’intelligence artificielle mais d’intelligence auxiliaire. C’est-à-dire d’une intelligence qui, associée à notre propre intelligence, en symbiose avec elle, comme un objet que l’on porterait, nous permet d’augmenter notre intelligence. L’intelligence auxiliaire, c’est la garantie que des métiers en cols blancs (avocats, notaires, professeurs, journalistes, etc.) ne disparaissent pas dans la mesure où l’intelligence auxiliaire viendra augmenter notre propre intelligence.  Cette vision tranche avec celle qui voit une concurrence, si pas systématique, du moins répandue entre intelligence humaine et intelligence artificielle. N’y a-t-il tout de même pas des risques de « confrontation » ? 
+
+
+
+
+
+ J’insiste en effet sur la complémentarité, la symbiose plutôt que la concurrence. Elon Musk, Bill Gates partagent désormais cette vision. Tout ne se conciliera pas si bien que cela. Il y a des risques de dérapage. Ils sont toujours présents. Mais on parle tellement de ces risques que les gens finissent par les connaître mieux que les perspectives plus positives d’une collaboration entre intelligence humaine et intelligence auxiliaire.  Les algorithmes ont fait leur entrée dans nos quotidiens via une série d’applications. Utilisées par des entreprises, par des plateformes d’économie collaborative, celles-ci peuvent aussi parfois imposer de nouveaux standards de productivité au détriment des conditions de travail. Le sujet, en tout cas, a fait naître une anxiété.  Tout ce qui est nouveau inquiète. Les premiers ordinateurs ont beaucoup inquiété. On pensait qu’ils allaient réduire notre mémoire, notre intelligence. A chaque apparition d’une technologie nouvelle de la peur apparaît. Personnellement, j’ai tellement l’habitude de ces peurs que j’essaie d’aller au-delà.  Vous avez forgé le néologisme « hyperhumanisme ». Qu’est-ce que cela désigne exactement ?  C’est cette idée d’augmenter avec l’intelligence auxiliaire notre propre intelligence pour débloquer dans notre cerveau une série de « domaines », de propriétés humaines encore bloqués par l’égoïsme, par l’égocentrisme. Ces propriétés sont le partage, la solidarité, l’amour, l’empathie, l’écoute des autres… Il ne faut pas confondre « hyperhumanisme » et « transhumanisme », ce dernier se concentrant sur l’individu plutôt que sur la collectivité organisée.  Comment tout cela est-il possible ?  On l’a déjà vu avec la machine automatique. Elle a permis, en allégeant le travail de l’homme, de dégager dans son cerveau des possibilités qu’il ignorait. Comme l’art, la musique, la création, la philosophie… La machine automatique a produit une augmentation de temps et une augmentation du pouvoir de réflexion. Beaucoup, dont je suis, estiment aujourd’hui que l’intelligence auxiliaire va débloquer dans notre cerveau de nouvelles cases aujourd’hui à l’état latent, de nouvelles caractéristiques nous permettant de voir le monde de façon différente, de communiquer plus efficacement, voire de changer d’humanité. C’est-à-dire de voir l’homme changer de nature. 
+
+
+ Joël de Rosnay sera à Flagey le 27 mars prochain à 20 heures pour une conférence organisée par Psychologies Magazine et Le Soir. Prix : 22 euros. Infos et réservations ICI. Tél : 02/641 10 20 
+
+ 
+
+ 
+
+
+
+
+
+","{'@type': 'WebPageElement', 'isAccessibleForFree': 'FALSE', 'cssSelector': '#main > section.r-section--principale > article > div.paywall.qiota_reserve'}","{'@type': ['CreativeWork', 'Product'], 'name': 'Le Soir', 'productID': 'lesoir.be:ena', 'sku': 'https://espace-abonnement.lesoir.be/'}",,,,Débats et idées,," L’intelligence artificielle a parfois mauvaise presse. Celle que Joël de Rosnay préfère appeler «&nbsp;l’intelligence auxiliaire&nbsp;» pourrait toutefois selon lui entrer en symbiose avec l’intelligence humaine. Avec à la clé de nouvelles «&nbsp;cases&nbsp;» débloquées dans le cerveau humain et un meilleur accès à des ressources comme le partage, l’empathie, l’amour. Dans le cadre des conférences organisées par Psychologies Magazine et Le Soir , il développera son propos le 27 mars à Bruxelles. Simuler l’intelligence humaine est l’un des grands défis que dans une série de domaines, des chercheurs, des entreprises se sont lancés. L’intelligence artificielle fait toutefois encore peur. On l’associe à une série de dérives potentielles. Au contraire, vous l’envisagez avec optimisme. Pourquoi&nbsp;? Je ne suis pas optimiste, je suis positif. Ce n’est pas la même chose. Etre optimiste signifie qu’en fonction d’un jugement de valeur, on imagine que les choses vont s’arranger. C’est une vision naïve et ce n’est pas la mienne. Ma vision est positive et constructive. En présentant les choses de manière positive, réaliste et pragmatique, on peut aider les gens à se forger leurs propres opinions, peu importe ce qu’elles sont, les aider à penser leur futur. Je ne dis pas pour autant qu’ils auront envie du futur que je leur propose. Donc, je ne suis pas optimiste mais positif. Mon métier, c’est de corréler des informations. Je sais les trier, les classer, les comparer, les corréler. En les corrélant, et sur le domaine de l’intelligence artificielle, je me suis rendu compte qu’il y avait des points positifs à cette évolution, parmi toutes possibilités négatives que l’on nous ressasse en permanence. Vous dites notamment par rapport à l’intelligence artificielle que les êtres humains n’en seront pas les esclaves. Oui. A titre personnel, je ne parle d’ailleurs plus d’intelligence artificielle mais d’intelligence auxiliaire. C’est-à-dire d’une intelligence qui, associée à notre propre intelligence, en symbiose avec elle, comme un objet que l’on porterait, nous permet d’augmenter notre intelligence. L’intelligence auxiliaire, c’est la garantie que des métiers en cols blancs (avocats, notaires, professeurs, journalistes, etc.) ne disparaissent pas dans la mesure où l’intelligence auxiliaire viendra augmenter notre propre intelligence. Cette vision tranche avec celle qui voit une concurrence, si pas systématique, du moins répandue entre intelligence humaine et intelligence artificielle. N’y a-t-il tout de même pas des risques de «&nbsp;confrontation&nbsp;»&nbsp;? J’insiste en effet sur la complémentarité, la symbiose plutôt que la concurrence. Elon Musk, Bill Gates partagent désormais cette vision. Tout ne se conciliera pas si bien que cela. Il y a des risques de dérapage. Ils sont toujours présents. Mais on parle tellement de ces risques que les gens finissent par les connaître mieux que les perspectives plus positives d’une collaboration entre intelligence humaine et intelligence auxiliaire. Les algorithmes ont fait leur entrée dans nos quotidiens via une série d’applications. Utilisées par des entreprises, par des plateformes d’économie collaborative, celles-ci peuvent aussi parfois imposer de nouveaux standards de productivité au détriment des conditions de travail. Le sujet, en tout cas, a fait naître une anxiété. Tout ce qui est nouveau inquiète. Les premiers ordinateurs ont beaucoup inquiété. On pensait qu’ils allaient réduire notre mémoire, notre intelligence. A chaque apparition d’une technologie nouvelle de la peur apparaît. Personnellement, j’ai tellement l’habitude de ces peurs que j’essaie d’aller au-delà. Vous avez forgé le néologisme «&nbsp;hyperhumanisme&nbsp;». Qu’est-ce que cela désigne exactement&nbsp;? C’est cette idée d’augmenter avec l’intelligence auxiliaire notre propre intelligence pour débloquer dans notre cerveau une série de «&nbsp;domaines&nbsp;», de propriétés humaines encore bloqués par l’égoïsme, par l’égocentrisme. Ces propriétés sont le partage, la solidarité, l’amour, l’empathie, l’écoute des autres… Il ne faut pas confondre «&nbsp;hyperhumanisme&nbsp;» et «&nbsp;transhumanisme&nbsp;», ce dernier se concentrant sur l’individu plutôt que sur la collectivité organisée. Comment tout cela est-il possible&nbsp;? On l’a déjà vu avec la machine automatique. Elle a permis, en allégeant le travail de l’homme, de dégager dans son cerveau des possibilités qu’il ignorait. Comme l’art, la musique, la création, la philosophie… La machine automatique a produit une augmentation de temps et une augmentation du pouvoir de réflexion. Beaucoup, dont je suis, estiment aujourd’hui que l’intelligence auxiliaire va débloquer dans notre cerveau de nouvelles cases aujourd’hui à l’état latent, de nouvelles caractéristiques nous permettant de voir le monde de façon différente, de communiquer plus efficacement, voire de changer d’humanité. C’est-à-dire de voir l’homme changer de nature. Joël de Rosnay sera à Flagey le 27 mars prochain à 20 heures pour une conférence organisée par Psychologies Magazine et Le Soir. Prix&nbsp;: 22 euros. Infos et réservations ICI. Tél&nbsp;: 02/641 10 20 ",,"Docteur en chimie, Joël de Rosnay estime que l’intelligence artificielle pourrait permettre au cerveau humain d’accéder à de nouvelles dimensions. Il sera à Flagey pour une conférence le 27 mars prochain, avec «Le Soir»."
