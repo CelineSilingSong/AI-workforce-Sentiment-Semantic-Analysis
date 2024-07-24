@@ -1,0 +1,2460 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,mainEntity,@context,@type,article:section,article:summary,article text,publishingPrinciples,image,headline,datePublished,author,mainEntityOfPage,dateModified,articleSection,publisher,articleBody,isBasedOn,thumbnailUrl,url,isPartOf,isAccessibleForFree,alternativeHeadline,itemListElement,inLanguage,video,hasPart,comment,commentCount,copyrightHolder,sourceOrganization,copyrightYear,name,logo,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,@graph
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQzODU2LTAyMi0wMDIxNC000gEA?oc=5,Mitigating the impact of biased artificial intelligence in emergency decision-making | Communications Medicine - Nature.com,2022-11-21,Nature.com,https://www.nature.com,"Prior research has shown that artificial intelligence (AI) systems often encode biases against minority subgroups. However, little work has focused on ways to mitigate the harm discriminatory algorithms can cause in high-stakes settings such as medicine. In this study, we experimentally evaluated the impact biased AI recommendations have on emergency decisions, where participants respond to mental health crises by calling for either medical or police assistance. We recruited 438 clinicians and 516 non-experts to participate in our web-based experiment. We evaluated participant decision-making with and without advice from biased and unbiased AI systems. We also varied the style of the AI advice, framing it either as prescriptive recommendations or descriptive flags. Participant decisions are unbiased without AI advice. However, both clinicians and non-experts are influenced by prescriptive recommendations from a biased algorithm, choosing police help more often in emergencies involving African-American or Muslim men. Crucially, using descriptive flags rather than prescriptive recommendations allows respondents to retain their original, unbiased decision-making. Our work demonstrates the practical danger of using biased models in health contexts, and suggests that appropriately framing decision support can mitigate the effects of AI bias. These findings must be carefully considered in the many real-world clinical scenarios where inaccurate or biased models may be used to inform important decisions. Artificial intelligence (AI) systems that make decisions based on historical data are increasingly common in health care settings. However, many AI models exhibit problematic biases, as data often reflect human prejudices against minority groups. In this study, we used a web-based experiment to evaluate the impact biased models can have when used to inform human decisions. We found that though participants were not inherently biased, they were strongly influenced by advice from a biased model if it was offered prescriptively (i.e., “you should do X”). This adherence led their decisions to be biased against African-American and Muslims individuals. However, framing the same advice descriptively (i.e., without recommending a specific action) allowed participants to remain fair. These results demonstrate that though discriminatory AI can lead to poor outcomes for minority groups, appropriately framing advice can help mitigate its effects. Adam et al. evaluate the impact of biased AI recommendations on emergency decisions made by respondents to mental health crises. They find that descriptive rather than prescriptive recommendations made by the AI decision support system are more likely to lead to unbiased decision-making.",N/A,Adam et al. evaluate the impact of biased AI recommendations on emergency decisions made by respondents to mental health crises. They find that descriptive rather than prescriptive recommendations made by the AI decision support system are more likely to lead to unbiased decision-making.,Communications Medicine - Adam et al. evaluate the impact of biased AI recommendations on emergency decisions made by respondents to mental health crises. They find that descriptive rather than...,"{'headline': 'Mitigating the impact of biased artificial intelligence in emergency decision-making', 'description': 'Prior research has shown that artificial intelligence (AI) systems often encode biases against minority subgroups. However, little work has focused on ways to mitigate the harm discriminatory algorithms can cause in high-stakes settings such as medicine. In this study, we experimentally evaluated the impact biased AI recommendations have on emergency decisions, where participants respond to mental health crises by calling for either medical or police assistance. We recruited 438 clinicians and 516 non-experts to participate in our web-based experiment. We evaluated participant decision-making with and without advice from biased and unbiased AI systems. We also varied the style of the AI advice, framing it either as prescriptive recommendations or descriptive flags. Participant decisions are unbiased without AI advice. However, both clinicians and non-experts are influenced by prescriptive recommendations from a biased algorithm, choosing police help more often in emergencies involving African-American or Muslim men. Crucially, using descriptive flags rather than prescriptive recommendations allows respondents to retain their original, unbiased decision-making. Our work demonstrates the practical danger of using biased models in health contexts, and suggests that appropriately framing decision support can mitigate the effects of AI bias. These findings must be carefully considered in the many real-world clinical scenarios where inaccurate or biased models may be used to inform important decisions. Artificial intelligence (AI) systems that make decisions based on historical data are increasingly common in health care settings. However, many AI models exhibit problematic biases, as data often reflect human prejudices against minority groups. In this study, we used a web-based experiment to evaluate the impact biased models can have when used to inform human decisions. We found that though participants were not inherently biased, they were strongly influenced by advice from a biased model if it was offered prescriptively (i.e., “you should do X”). This adherence led their decisions to be biased against African-American and Muslims individuals. However, framing the same advice descriptively (i.e., without recommending a specific action) allowed participants to remain fair. These results demonstrate that though discriminatory AI can lead to poor outcomes for minority groups, appropriately framing advice can help mitigate its effects. Adam et al. evaluate the impact of biased AI recommendations on emergency decisions made by respondents to mental health crises. They find that descriptive rather than prescriptive recommendations made by the AI decision support system are more likely to lead to unbiased decision-making.', 'datePublished': '2022-11-21T00:00:00Z', 'dateModified': '2022-11-21T00:00:00Z', 'pageStart': '1', 'pageEnd': '6', 'license': 'http://creativecommons.org/licenses/by/4.0/', 'sameAs': 'https://doi.org/10.1038/s43856-022-00214-4', 'keywords': ['Health care', 'Health services', 'Medicine/Public Health', 'general'], 'image': ['https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43856-022-00214-4/MediaObjects/43856_2022_214_Fig1_HTML.png'], 'isPartOf': {'name': 'Communications Medicine', 'issn': ['2730-664X'], 'volumeNumber': '2', '@type': ['Periodical', 'PublicationVolume']}, 'publisher': {'name': 'Nature Publishing Group UK', 'logo': {'url': 'https://www.springernature.com/app-sn/public/images/logo-springernature.png', '@type': 'ImageObject'}, '@type': 'Organization'}, 'author': [{'name': 'Hammaad Adam', 'url': 'http://orcid.org/0000-0001-6910-7074', 'affiliation': [{'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Institute for Data Systems and Society, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], 'email': 'hadam@mit.edu', '@type': 'Person'}, {'name': 'Aparna Balagopalan', 'url': 'http://orcid.org/0000-0003-1621-9536', 'affiliation': [{'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], '@type': 'Person'}, {'name': 'Emily Alsentzer', 'affiliation': [{'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Harvard-MIT Program in Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Institute for Medical Engineering & Science, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Brigham and Women’s Hospital', 'address': {'name': 'Division of General Internal Medicine, Brigham and Women’s Hospital, Boston, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], '@type': 'Person'}, {'name': 'Fotini Christia', 'url': 'http://orcid.org/0000-0003-1076-9879', 'affiliation': [{'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Institute for Data Systems and Society, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Sociotechnical Systems Research Center, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Department of Political Science, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], '@type': 'Person'}, {'name': 'Marzyeh Ghassemi', 'affiliation': [{'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Massachusetts Institute of Technology', 'address': {'name': 'Institute for Medical Engineering & Science, Massachusetts Institute of Technology, Cambridge, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Vector Institute', 'address': {'name': 'CIFAR AI Chair, Vector Institute, Toronto, Canada', '@type': 'PostalAddress'}, '@type': 'Organization'}], '@type': 'Person'}], 'isAccessibleForFree': True, '@type': 'ScholarlyArticle'}",https://schema.org,WebPage,N/A,N/A,"
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Article
+
+Open access
+
+Published: 21 November 2022
+
+Mitigating the impact of biased artificial intelligence in emergency decision-making
+Hammaad Adam 
+            ORCID: orcid.org/0000-0001-6910-70741, Aparna Balagopalan 
+            ORCID: orcid.org/0000-0003-1621-95362, Emily Alsentzer3,4,5, Fotini Christia 
+            ORCID: orcid.org/0000-0003-1076-98791,6,7 & …Marzyeh Ghassemi2,4,8 Show authors
+
+Communications Medicine
+volume 2, Article number: 149 (2022)
+            Cite this article
+
+
+
+
+9964 Accesses
+
+
+20 Citations
+
+
+542 Altmetric
+
+
+Metrics details
+
+
+
+
+
+
+AbstractBackgroundPrior research has shown that artificial intelligence (AI) systems often encode biases against minority subgroups. However, little work has focused on ways to mitigate the harm discriminatory algorithms can cause in high-stakes settings such as medicine.MethodsIn this study, we experimentally evaluated the impact biased AI recommendations have on emergency decisions, where participants respond to mental health crises by calling for either medical or police assistance. We recruited 438 clinicians and 516 non-experts to participate in our web-based experiment. We evaluated participant decision-making with and without advice from biased and unbiased AI systems. We also varied the style of the AI advice, framing it either as prescriptive recommendations or descriptive flags.ResultsParticipant decisions are unbiased without AI advice. However, both clinicians and non-experts are influenced by prescriptive recommendations from a biased algorithm, choosing police help more often in emergencies involving African-American or Muslim men. Crucially, using descriptive flags rather than prescriptive recommendations allows respondents to retain their original, unbiased decision-making.ConclusionsOur work demonstrates the practical danger of using biased models in health contexts, and suggests that appropriately framing decision support can mitigate the effects of AI bias. These findings must be carefully considered in the many real-world clinical scenarios where inaccurate or biased models may be used to inform important decisions.Plain language summary
+Artificial intelligence (AI) systems that make decisions based on historical data are increasingly common in health care settings. However, many AI models exhibit problematic biases, as data often reflect human prejudices against minority groups. In this study, we used a web-based experiment to evaluate the impact biased models can have when used to inform human decisions. We found that though participants were not inherently biased, they were strongly influenced by advice from a biased model if it was offered prescriptively (i.e., “you should do X”). This adherence led their decisions to be biased against African-American and Muslims individuals. However, framing the same advice descriptively (i.e., without recommending a specific action) allowed participants to remain fair. These results demonstrate that though discriminatory AI can lead to poor outcomes for minority groups, appropriately framing advice can help mitigate its effects.
+
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Do as AI say: susceptibility in deployment of clinical decision-aids
+                                        
+
+
+Article
+Open access
+19 February 2021
+
+
+
+
+
+
+
+
+
+A translational perspective towards clinical AI fairness
+                                        
+
+
+Article
+Open access
+14 September 2023
+
+
+
+
+
+
+
+
+
+Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI
+                                        
+
+
+Article
+18 May 2022
+
+
+
+
+
+
+
+
+IntroductionMachine learning (ML) and artificial intelligence (AI) are increasingly being used to support decision-making in a variety of health care applications1,2. However, the potential impact of deploying AI in heterogeneous health contexts is not well understood. As these tools proliferate, it is vital to study how AI can be used to improve expert practice—even when models inevitably make mistakes. Recent work has demonstrated that inaccurate recommendations from AI systems can significantly worsen the quality of clinical treatment decisions3,4. Other research has shown that even though experts may believe the quality of ML-given advice to be lower, they show similar levels of error as non-experts when presented with incorrect recommendations5. Increasing model explainability and interpretability does not resolve this issue, and in some cases, may worsen human ability to detect mistakes6,7.These human-AI interaction shortcomings are especially concerning in the context of a body of literature that has established that ML models often exhibit biases against racial, gender, and religious subgroups8. Large language models like BERT9 and GPT-310—which are powerful and easy to deploy—exhibit problematic prejudices, such as persistently associating Muslims with violence in sentence-completion tasks11. Even variants of the BERT architecture trained on scientific abstracts and clinical notes favor majority groups in many clinical-prediction tasks12. While previous work has established these biases, it is unclear how the actual use of a biased model might affect decision-making in a practical health care setting. This interaction is especially vital to understand now, as language models begin to be used in health applications like triage13 and therapy chatbots14.In this study, we evaluated the impact biased AI can have in a decision setting involving a mental health emergency. We conducted a web-based experiment with 954 consented subjects: 438 clinicians and 516 non-experts. We found that though participant decisions were unbiased without AI advice, they were highly influenced by prescriptive recommendations from a biased AI system. This algorithmic adherence created racial and religious disparities in their decisions. However, we found that using descriptive rather than prescriptive recommendations allowed participants to retain their original, unbiased decision-making. These results demonstrate that though using discriminatory AI in a realistic health setting can lead to poor outcomes for marginalized subgroups, appropriately framing model advice can help mitigate the underlying bias of the AI system.MethodsParticipant recruitmentWe adopted an experimental approach to evaluate the impact that biased AI can have in a decision setting involving a mental health emergency. We recruited 438 clinicians and 516 non-experts to participate in our experiment, which was conducted online through Qualtrics between May 2021 and December 2021. Clinicians were recruited by emailing staff and residents at hospitals in the United States and Canada, while non-experts were recruited through social media (Facebook, Reddit) and university email lists. Informed consent was obtained from all participants. This study was exempt from a full ethical review by COUHES, the Institutional Review Board for the Massachusetts Institute of Technology (MIT), because it met the criteria for exemption defined in Federal regulation 45 CFR 46.Participants were asked to complete a short complete a short demographic survey after completing the main experiment. We summarize key participant demographics in Supplementary Table 1, additional measures in Supplementary Table 2, and clinician-specific characteristics in Supplementary Table 3. Note that we excluded participants who Qualtrics identified as bots, as well as those who rushed through our survey (finishing in under 5 min). We also excluded duplicate responses from the same participant, which removed 15 clinician and 2347 non-expert responses.Experimental designParticipants were shown a series of eight call summaries to a fictitious crisis hotline, each of which described a male individual experiencing a mental health emergency. In addition to specifics about the situation, the call summaries also conveyed the race and religion of the men in crisis: Caucasian or African-American, Muslim or non-Muslim. These race and religion identities were randomly assigned for each participant and call summary: the same summary could thus appear with different identities for different participants. Note that while race was explicitly specified in all call summaries, religion was not, as the non-Muslim summaries simply made no mention of religion. After reviewing the call summary, participants were asked to respond by either sending medical help to the caller’s location or contacting the police department for immediate assistance. Participants were advised to call the police only if they believed the patient may turn violent; otherwise, they were to call for medical help.The decisions considered in our experiment can have considerable consequences: calling medical help for a violent patient may endanger first responders, but calling the police in a nonviolent crisis may put the patient at risk15. These judgments are also prone to bias, given that Black and Muslim men are often stereotyped as threatening and violent16,17. Recent, well-publicized incidents of white individuals calling the police on Black men, despite no evidence of a crime, have demonstrated these biases and their repercussions18. It is thus important to first test inherent racial and religious biases in participant decision-making. We used an initial group of participants to do so, seeking to understand whether they were more likely to call for police help for African-American or Muslim men than for Caucasian or non-Muslim men. This Baseline group did not interact with an AI system, making its decisions using only the provided call summaries.We then evaluated the impact of AI by providing participants with an algorithmic recommendation for each presented call summary. Specifically, we sought to understand first, whether recommendations from a biased model could induce or worsen biases in respondent decision-making, and second, whether the style of the presented recommendation influenced how often respondents adhered to it.To test the impact of model bias, AI recommendations were drawn from either a biased or unbiased language model. In each situation, the biased language model was much more likely to suggest police assistance (as opposed to medical help) if the described individual was African-American or Muslim, while the unbiased model was equally likely to suggest police assistance for both race and religion groups. In our experiment, we induced this bias by fine-tuning GPT-2, a large language model, on a custom biased dataset (see Supplementary Fig. 1 for further detail). We emphasize that such bias is realistic: models showing similar recommendation biases have been documented in many real-world settings, including criminal justice19 and medicine20.To test the impact of style, the model’s output was either displayed as a prescriptive recommendation (e.g., “our model thinks you should call for police help”) or a descriptive flag (e.g., “our model has flagged this call for risk of violence”). Displaying a flag for violence in the descriptive case corresponds to the model recommending police help in the prescriptive case, while not displaying a flag corresponds to the model recommending medical help. Note that in practice, algorithmic recommendations are often displayed as risk scores3,4,21. Risk scores are similar to our descriptive flags in that they indicate the underlying risk of some event, but do not make an explicit recommendation. However, risk scores have been mapped to specific actions in some model deployment settings, such as pretrial release decisions in criminal justice where risk scores are mapped to actionable recommendations21. Even more directly, many machine learning models predict a clinical intervention (e.g., intubation, fluid administration, etc.)2,22 or triage condition (e.g., more screening is not needed for healthy chest x-rays)23. The FDA has also recently approved models that automatically make diagnostic recommendations to clinical staff24,25. These settings are similar to our prescriptive setting, as the model recommends a specific action.Our experimental setup (further described in Fig. 1) thus involved five groups of participants: Baseline (102 clinicians, 108 non-experts), Prescriptive Unbiased (87 clinicians, 114 non-experts), Prescriptive Biased (90 clinicians, 103 non-experts), Descriptive Unbiased (80 clinicians, 94 non-experts), and Descriptive Biased (79 clinicians, 97 non-experts).Fig. 1: Experimental setup.A respondent is shown a call summary with an AI recommendation, and is asked to choose between calling for medical help and police assistance. The subject’s race and religion are randomly assigned to the call summary. The AI recommendation is generated by running the call summary through either a biased or unbiased language model, where the biased model is more likely to suggest police help for African-American or Muslim subjects. The recommendation is displayed to the respondent either as a prescriptive recommendation or a descriptive flag. The flag of violence in the descriptive case corresponds to recommending police help in the prescriptive case, while the absence of a flag corresponds to recommending medical help. Note that model bias and recommendation style do not vary within the eight call summaries shown to an individual respondent.Full size imageStatistical analysisWe analyzed the collected data separately for each participant type (clinician vs. non-expert) for each of the five experimental groups. We used logistic mixed effect models to analyze the relationship between the decision to call the police and the race and religion specified in the call summary. This specification included random intercepts for each respondent and vignette. Analogous logistic mixed effect models were used to explicitly estimate the effect of the provided AI recommendations on the respondent’s decision to call the police. Tables 1 and 2 display the results. Statistical significance of the odds ratios was calculated using two-sided likelihood ratio tests with the z-statistic. Note that our study’s conclusions did not change when controlling for additional respondent characteristics like race, gender, and attitudes toward policing (see Supplementary Tables 4–7). Further information, including assessments of covariate variation by experimental group (Supplementary Tables 8–9) and an a priori power analysis (Supplementary Table 10), is included in the Supplementary Methods.Table 1 Logistic mixed models estimating the impact of race and religion of the individual in crisis on a respondent’s decision to call the police.Full size tableTable 2 Logistic mixed models estimating the impact of an AI recommendation to call the police on a respondent’s decision to do so.Full size tableReporting summaryFurther information on research design is available in the Nature Portfolio Reporting Summary linked to this article.ResultsOverall, we found that respondents did not demonstrate baseline biases, but were highly influenced by prescriptive recommendations from a biased AI system. This influence meant that their decisions were skewed by the race or religion of the subject. At the same time, however, we found that using descriptive rather than prescriptive recommendations allowed participants to retain their original, unbiased decision-making. These results demonstrate that though using discriminatory AI in a realistic health setting can lead to poor outcomes for marginalized subgroups, appropriately framing model advice can help mitigate the underlying bias of the AI system.Biased models can induce disparities in fair decisionsWe used mixed-effects logistic regressions to estimate the impact of the race and religion of the individual in crisis on a respondent’s decision to call the police (Table 1). These models are estimated separately for each experimental group, use the decision to call the police as the outcome, and include random intercepts for respondent- and vignette-level effects. Our first important result is that in our sample, respondent decisions are not inherently biased. Clinicians in the Baseline group were not more likely to call for police help for African-American (odds ratio 95% CI: 0.6–1.17) or Muslim men (OR 95% CI: 0.6–1.2) than for Caucasian or non-Muslim men. Non-expert respondents were similarly unbiased (OR 95% CIs: 0.81–1.5 for African-American coefficient, 0.53–1.01 for Muslim coefficient). One limitation of our study is that we communicated the race and religion of the individual in crisis directly in the text (e.g., “he has not consumed any drugs or alcohol as he is a practicing Muslim”). It is possible that communicating race and religion in this way may not trigger participants’ implicit biases, and that a subtler method—such as a name, voice accent, or image—may induce more disparate decision making than what we observed. We thus cannot fully rule out the possibility that participants did have baseline biases. Testing a subtler instrument is beyond the scope of this paper, but is an important direction for future work.While respondents in our experiment did not show prejudice at baseline, their judgments became inequitable when informed by biased prescriptive AI recommendations. Under this setting, clinicians and non-experts were both significantly more likely to call the police for an African-American or Muslim patient than a white, non-Muslim (Clinicians: odds-ratio (OR) = 1.54, 95% CI 1.06–2.25 for African-American coefficient; OR = 1.49, 95% CI 1.01–2.21 for Muslim coefficient. Non-experts: OR = 1.55, 95% CI 1.13–2.11 for African-American coefficient; OR = 1.72, 95% CI 1.24–2.38 for Muslim coefficient). These effects remain significant even after controlling for additional respondent characteristics like race, gender, and attitudes toward policing (Supplementary Tables 4–7). It is noteworthy that clinical expertize did not significantly reduce the biasing effect of prescriptive recommendations. Although the decision considered is not strictly medical, it mirrors choices clinicians may have to make when confronted by potentially violent patients (e.g., whether to use restraints, hospital armed guards). That such experience does not seem to reduce their susceptibility to a discriminatory AI system hints at the limits of expertize in correcting for model mistakes.Recommendation style affects algorithmic adherenceBiased descriptive recommendations, however, do not have the same effect as biased prescriptive ones. Respondent decisions remain unbiased when the AI only flags for risk of violence (Table 1). To make this trend clearer, we explicitly estimated the effect of a model’s suggestion on respondent decisions (Table 2). Specifically, we tested algorithmic adherence, that is, the odds that a respondent chooses to call the police if recommended to by the AI system. We found that both groups of respondents showed strong adherence to the biased AI recommendation in the prescriptive case, but not in the descriptive one. Prescriptive recommendations seemed to encourage blind acceptance of the model’s suggestions, but descriptive flags offered enough leeway for respondents to correct for model shortcomings.Note that clinicians still adhered to the descriptive recommendations of an unbiased model (OR = 1.57, 95% CI 1.04–2.38), perhaps due to greater familiarity with decision-support tools. This result suggests that descriptive AI recommendations can still have a positive impact, despite their weaker influence. While we cannot say for certain why clinicians adhered to the model in the unbiased but not the biased case, we offer one potential explanation. On average, the biased model recommended police help more often than the unbiased model (see Supplementary Fig. 1). Thus, though the clinicians often agreed with the unbiased model, perhaps they found it unreasonable to call the police as often as suggested by the biased model. In any case, the fact that clinicians ignored the biased model indicates that descriptive recommendations allowed enough leeway for clinicians to use their best judgment.DiscussionOverall, our results offer an instructive case in combining AI recommendations with human judgment in real-world settings. Although our experiment focuses on a mental health emergency setting, our findings are applicable to beyond health. Many language models that have been applied to guide other human judgments, such as resume screening26, essay grading27, and social media content moderation28, already contain strong biases against minority subgroups29,30. We focus our discussion on three key takeaways, each of which highlights the dangers of naively deploying ML models in such high-stakes settings.First, we stress that pretrained language models are easy to bias. We found that fine-tuning GPT-2—a language model trained on 8 million web pages of content9,10—on just 2000 short example sentences was enough to generate consistently biased recommendations. This ease highlights a key risk in the increased popularity of transfer learning. A common ML workflow involves taking an existing model, fine-tuning it on a specific task, then deploying it for use31. Biasing the model through the fine-tuning step was incredibly easy; such malpractice—which can result either from mal-intent or carelessness—can have great negative impact. It is thus vital to thoroughly and continually audit deployed models for both inaccuracy and bias.Second, we find that the style of AI decision support in a deployed setting matters. Although prescriptive phrases create strong adherence to biased recommendations, descriptive flags are flexible enough to allow experts to ignore model mistakes and maintain unbiased decision-making. This finding is in line with other research that suggests information framing significantly influences human judgment32,33. Our work indicates that it is vital to carefully choose and test the style of recommendations in AI-assisted decision-making, because thoughtful design can reduce the impact of model bias. We recommend that practitioners make use of conceptual frameworks like RCRAFT34 that offer practical guidance on how to best present information from an automated decision aid. This recommendation adds to a growing understanding that any successful AI deployment must pay careful attention not only to model performance, but also to how model output is displayed to a human decision-maker. For example, the U.S. Food and Drug Administration (FDA) recently recommended that the deployment of any AI-based medical device used to inform human decisions must address “human factors considerations and the human interpretability of model inputs”35. While increasing model interpretability is an appealing approach to humans, existing approaches to interpretability and explainability are poorly suited to health care36, may decrease human ability to identify model mistakes7, and increase model bias (i.e., the gap in model performance between the worst and best subgroup)37. Any successful deployment must thus rigorously test and validate several human-AI recommendation styles to ensure that AI systems are substantially improving decision making.Finally, we emphasize that unbiased decision-makers can be misled by model recommendations. Respondents were not biased in their baseline decisions, but demonstrated discriminatory decision-making when prescriptively advised by a biased GPT-2 model. This highlights that the dangers of biased AI are not limited to bad actors or those without experience; clinicians were influenced by biased models as much as non-experts were. In addition to model auditing and extensive recommendation style evaluation, ethical deployments of clinician-support tools should include broader approaches to bias mitigation like peer-group interaction38. These steps are vital to allow for deployment of decision-support models that improve decision-making despite potential machine bias.In conclusion, we advocate that AI decision support models must be thoroughly validated—both internally and externally—before they are deployed in high-stakes settings such as medicine. While we focus on the impact of model bias, our findings also have important implications for model inaccuracy, where blind adherence to inaccurate recommendations will also have disastrous consequences3,5. Our main finding–that experts and non-experts follow biased AI advice when it is given in a prescriptive way–must be carefully considered in the many real-world clinical scenarios where inaccurate or biased models may be used to inform important decisions. Overall, successful AI deployments must thoroughly test both model performance and human-AI interaction to ensure that AI-based decision support improves both the efficacy and safety of human decisions.
+
+
+Data availability
+Anonymized versions of the datasets collected and analyzed during the current study are publicly available at https://doi.org/10.5281/zenodo.7293263.
+Code availability
+The free programming languages R (3.6.3) was used to perform all statistical analyses. Code to reproduce the paper’s main findings can be found at https://doi.org/10.5281/zenodo.7293263.
+ReferencesGhassemi, M., Naumann, T., Schulam, P., Beam, A. L. & Chen, I. Y. A review of challenges and opportunities in machine learning for health. AMIA Summits Transl. Sci. Proc. 2020, 191–200 (2020).PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Topol, E. J. High-performance medicine: the convergence of human and artificial intelligence. Nat. Med. 25, 44–56 (2019).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Jacobs, M. et al. How machine-learning recommendations influence clinician treatment selections: The example of antidepressant selection. Transl. Psychiatry 11, 1–9 (2021).Article 
+    
+                    Google Scholar 
+                Tschandl, P. et al. Human–computer collaboration for skin cancer recognition. Nat. Med. 26, 1229–1234 (2020).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Gaube, S. et al. Do as AI say: Susceptibility in deployment of clinical decision-aids. NPJ Digit Med. 4, 31 (2021).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Lakkaraju, H. & Bastani, O. “How do I fool you?” Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society https://doi.org/10.1145/3375627.3375833 (2020).Poursabzi-Sangdeh, F., Goldstein, D. G., Hofman, J. M., Wortman Vaughan, J. W. & Wallach, H. Manipulating and measuring model interpretability. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 1–52 (Association for Computing Machinery, 2021).Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K. & Galstyan, A. A survey on bias and fairness in machine learning. ACM Comput. Surv. 54, 1–35 (2021).Article 
+    
+                    Google Scholar 
+                Devlin, J., Chang, M.-W., Lee, K. & Toutanova, K. BERT: Pre-training of deep bidirectional transformers for language understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), Minneapolis, Minnesota. Association for Computational Linguistics. 4171–4186 (2019).Brown, T. B. et al. Language models are few-shot learners. Adv. Neural Inform. Proc. Syst. 33, 1877–1901 (2020).
+                    Google Scholar 
+                Abid, A., Farooqi, M. & Zou, J. Large language models associate Muslims with violence. Nat. Mach. Intelligence 3, 461–463 (2021).Article 
+    
+                    Google Scholar 
+                Zhang, H., Lu, A. X., Abdalla, M., McDermott, M. & Ghassemi, M. Hurtful words: Quantifying biases in clinical contextual word embeddings. Proceedings of the ACM Conference on Health, Inference, and Learning, 110–120 (Association for Computing Machinery, 2020).Lomas, N. UK’s MHRA says it has “concerns” about Babylon Health—and flags legal gap around triage chatbots. (TechCrunch, 2021).Brown, K. Something bothering you? Tell it to Woebot. (The New York Times, 2021).Waters, R. Enlisting mental health workers, not cops, in mobile crisis response. Health Aff. 40, 864–869 (2021).Article 
+    
+                    Google Scholar 
+                Wilson, J. P., Hugenberg, K. & Rule, N. O. Racial bias in judgments of physical size and formidability: From size to threat. J. Pers. Soc. Psychol. 113, 59–80 (2017).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Sides, J. & Gross, K. Stereotypes of Muslims and support for the War on Terror. J. Polit. 75, 583–598 (2013).Article 
+    
+                    Google Scholar 
+                Jerkins, M. Why white women keep calling the cops on Black people. Rolling Stone. https://www.rollingstone.com/politics/politics-features/why-white-women-keep-calling-the-cops-on-black-people-699512 (2018).Angwin, J., Larson, J., Mattu, S., Kirchner, L. Machine Bias. Ethics of Data and Analytics. Auerbach Publications, 254–264 (2016).Obermeyer, Z., Powers, B., Vogeli, C. & Mullainathan, S. Dissecting racial bias in an algorithm used to manage the health of populations. Science 366, 447–453 (2019).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Chohlas-Wood, A. Understanding risk assessment instruments in criminal justice. Brookings Institution’s Series on AI and Bias (2020).Ghassemi, M., Wu, M., Hughes, M. C., Szolovits, P. & Doshi-Velez, F. Predicting intervention onset in the ICU with switching state space models. AMIA Jt Summits Transl. Sci Proc. 2017, 82–91 (2017).PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Seyyed-Kalantari, L., Zhang, H., McDermott, M. B. A., Chen, I. Y. & Ghassemi, M. Underdiagnosis bias of artificial intelligence algorithms applied to chest radiographs in under-served patient populations. Nat. Med. 27, 2176–2182 (2021).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Abràmoff, M. D., Lavin, P. T., Birch, M., Shah, N. & Folk, J. C. Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices. NPJ Digit Med. 1, 39 (2018).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Keane, P. A. & Topol, E. J. With an eye to AI and autonomous diagnosis. NPJ Digit Med. 1, 40 (2018).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Heilweil, R. Artificial intelligence will help determine if you get your next job. Vox. https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen (2019).Rodriguez, P. U., Jafari, A. & Ormerod, C. M. Language models and automated essay scoring. arXiv preprint arXiv:1909.09482 (2019).Gorwa, R., Binns, R. & Katzenbach, C. Algorithmic content moderation: Technical and political challenges in the automation of platform governance. Big Data Soc. 7, 2053951719897945 (2020).Article 
+    
+                    Google Scholar 
+                Bertrand, M. & Mullainathan, S. Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. Am. Econ. Rev. 94, 991–1013 (2004).Article 
+    
+                    Google Scholar 
+                Feathers, T. Flawed algorithms are grading millions of students’ essays. Vice. https://www.vice.com/en/article/pa7dj9/flawed-algorithms-are-grading-millions-of-students-essays (2019).Ruder, S., Peters, M. E., Swayamdipta, S. & Wolf, T. Transfer learning in natural language processing. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Tutorials, 15–18, Minneapolis, Minnesota. Association for Computational Linguistics (2019).Tversky, A. & Kahneman, D. The framing of decisions and the psychology of choice. Science 211, 453–458 (1981).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hullman, J. & Diakopoulos, N. Visualization rhetoric: Framing effects in narrative visualization. IEEE Trans. Vis. Comput. Graph. 17, 2231–2240 (2011).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Bouzekri, E., Martinie, C., Palanque, P., Atwood, K. & Gris, C. Should I add recommendations to my warning system? The RCRAFT framework can answer this and other questions about supporting the assessment of automation designs. In IFIP Conference on Human-Computer Interaction, Springer, Cham. 405–429 (2021).US Food and Drug Administration, Good machine learning practice for medical device development: Guiding principles. https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles (2021).Ghassemi, M., Oakden-Rayner, L. & Beam, A. L. The false hope of current approaches to explainable artificial intelligence in health care. Lancet Dig. Health 3, e745–e750 (2021).Article 
+    
+                    Google Scholar 
+                Balagopalan, A. et al. The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 1194–1206 (2022).Centola, D., Guilbeault, D., Sarkar, U., Khoong, E. & Zhang, J. The reduction of race and gender bias in clinical treatment recommendations using clinician peer networks in an experimental setting. Nat. Commun. 12, 6585 (2021).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsWe thank Chloe Wittenberg, Haoran Zhang, Nathan Ng, and the three anonymous reviewers for their invaluable feedback. This work was supported by funding from the Massachusetts Institute of Technology and the MIT Jameel Clinic. Dr. M.G. is supported in part by a CIFAR AI Chair at the Vector Institute. A.B. is funded by an Amazon Science PhD Fellowship at the MIT Science Hub. E.A. is funded by a Microsoft Research PhD Fellowship.Author informationAuthors and AffiliationsInstitute for Data Systems and Society, Massachusetts Institute of Technology, Cambridge, MA, 02139, USAHammaad Adam & Fotini ChristiaDepartment of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, 02139, USAAparna Balagopalan & Marzyeh GhassemiHarvard-MIT Program in Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA, 02139, USAEmily AlsentzerInstitute for Medical Engineering & Science, Massachusetts Institute of Technology, Cambridge, MA, 02139, USAEmily Alsentzer & Marzyeh GhassemiDivision of General Internal Medicine, Brigham and Women’s Hospital, Boston, MA, 02115, USAEmily AlsentzerSociotechnical Systems Research Center, Massachusetts Institute of Technology, Cambridge, MA, 02139, USAFotini ChristiaDepartment of Political Science, Massachusetts Institute of Technology, Cambridge, MA, 02139, USAFotini ChristiaCIFAR AI Chair, Vector Institute, Toronto, ON, M5G 1M1, CanadaMarzyeh GhassemiAuthorsHammaad AdamView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAparna BalagopalanView author publicationsYou can also search for this author in
+                        PubMed Google ScholarEmily AlsentzerView author publicationsYou can also search for this author in
+                        PubMed Google ScholarFotini ChristiaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMarzyeh GhassemiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsConceptualization: H.A., A.B., E.A., M.G., F.C. Methodology: H.A., A.B., E.A., M.G., F.C. Formal analysis, investigation, and visualization: H.A. Funding acquisition: F.C., M.G. Supervision: F.C., M.G. Writing—original draft: H.A. Writing—review & editing: A.B., E.A., F.C., M.G.Corresponding authorCorrespondence to
+                Hammaad Adam.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Communications Medicine thanks Benjamin Goldstein and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+Additional informationPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary InformationPeer Review FileReporting SummaryRights and permissions
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and permissionsAbout this articleCite this articleAdam, H., Balagopalan, A., Alsentzer, E. et al. Mitigating the impact of biased artificial intelligence in emergency decision-making.
+                    Commun Med 2, 149 (2022). https://doi.org/10.1038/s43856-022-00214-4Download citationReceived: 12 May 2022Accepted: 07 November 2022Published: 21 November 2022DOI: https://doi.org/10.1038/s43856-022-00214-4Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+Subjects
+
+Health careHealth services
+
+
+
+
+
+This article is cited by
+
+
+
+
+
+                                        Presentation matters for AI-generated clinical advice
+                                    
+
+
+Marzyeh Ghassemi
+
+Nature Human Behaviour (2023)
+
+
+
+
+                                        Humans inherit artificial intelligence biases
+                                    
+
+
+Lucía VicenteHelena Matute
+
+Scientific Reports (2023)
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmV1cmFjdGl2LmNvbS9zZWN0aW9uL2RpZ2l0YWwvbmV3cy9tYWtpbmctdGhlLWFpLWFjdC13b3JrLWZvci1zbWVzLXRoZS1ldS10cmllcy10by1zcXVhcmUtdGhlLWNpcmNsZS_SAQA?oc=5,Making the AI Act work for SMEs: The EU tries to square the circle - EURACTIV,2022-11-25,EURACTIV,https://www.euractiv.com,,N/A,,,,https://schema.org,NewsArticle,Technology,N/A,"
+
+
+ By  Luca Bertuzzi  |  Euractiv.com    Est. 4min   Nov 23, 2022 (updated:  Nov 25, 2022) 
+
+
+
+[Photon photo/Shutterstock] 
+Euractiv is part of the Trust Project >>>  
+
+
+
+Languages: FrançaisPrint Email Facebook X LinkedIn WhatsApp Telegram  
+
+The EU has a first-mover advantage in advancing the first set of rules on Artificial Intelligence in the world. But without appropriate measures, this emerging market might be left in the hands of big players.
+The AI Act regulates Artificial Intelligence based on its potential to cause harm following the new legislative framework, a legislative approach designed for product legislation. For AI systems considered high-risk, the regulation introduces stricter requirements.
+Still, ex-ante checks are typically used to assess the conformity of a product that will not mutate throughout its lifecycle. By contrast, AI, by definition, can evolve as it receives more data and the system ‘improves’ itself via machine learning.
+For MEP Josianne Cutajar, who followed the file for the European Parliament’s transport committee, the upcoming regulation will not be the end of the story. Since AI is continuously evolving, policymakers should monitor the market and ensure smaller players are put in a position to reap its benefits, she said at a EURACTIV-hosted event last week.
+The Commission estimates that only up to 15% of the total AI systems in the market will fall under this category, meaning that the high compliance costs would follow just a specific sector of the market.
+“The impact assessment that was done by the Commission has largely underestimated the potential compliance costs,” said Sebastiano Toffaletti, secretary-general of the European DIGITAL SME Alliance, at the same event.
+The trade association formed a focus group on AI to discuss with 150 top small and medium-sized enterprises (SMEs) in the field the potential effects of the new policy legislation. According to Toffaletti, the EU is running the risk of dropping legislation that, without even realising it, could hand the market to the most prominent players.
+However, approaching the issue differently might be problematic from a regulatory perspective. While the administrative burden weights differently according to the size of the AI provider, the risk remains the same, rebutted Kilian Gross, head of the European Commission’s AI unit.
+For Toffaletti, however, the approach followed by the AI Act might lead to an inflation of costs since, once the new rules are set in place, SMEs will only be able to discuss how to comply with them with conformity assessment bodies, which are private entities with interest in raising the costs.
+Moreover, another fundamental criticism is the fact that ex-ante conformity assessment tends to be efficient when there are economies of scale. By contrast, Toffaletti underlined that AI systems are mostly highly customised products, often business-to-business.
+“The question is always: what is the alternative? If we’re not going to do a market conformity test or a certification before having these products enter the market, how are we going to secure safety and trust in these products?” questioned Miriam Buiten, assistant professor at the University of St. Gallen.
+While the overall architecture of the AI Act is unlikely to change at this stage of the legislative process, Intellera Consulting, a consultancy specialised in providing technical support to EU institutions, presented at the same event a self-financed study on how to optimise compliance costs with SMEs.
+Massimo Pellegrino, one of the paper’s authors, proposed to introduce a differentiation between SMEs that embed AI in their end products and those that integrate AI systems in their internal products. In the latter case, they should merely be understood as users, which would contribute to alleviating the administrative burden and avoid regulatory bottlenecks.
+Another way to reduce compliance costs is to use technical standards, which are by design based on the EU rules. However, also in this case, SMEs deserve special consideration, as the standard-setting process is usually driven by large companies that have deeper pockets.
+Finally, Pellegrino also proposed giving more power to the European Digital Innovation hubs to become testing and experimentation facilities or even take on the role of conformity assessment bodies.
+This article follows the EURACTIV-organised policy debate “The AI Act – What costs for SMEs?” supported by Intellera Consulting .
+[Edited by Nathalie Weatherald]
+Read more with Euractiv
+
+EU Council mulls broad national security carveouts in IoT cybersecurity lawThe Czech presidency of the EU Council has circulated the first compromise on the Cyber Resilience Act, dated 18 November and obtained by EURACTIV, making hefty editing to the proposal’s scope and free movement clause. 
+
+
+
+Languages: FrançaisPrint Email Facebook X LinkedIn WhatsApp Telegram  
+
+
+Topics  
+ administrative burden AI Act Artificial Intelligence artificial intelligence new legislative framework SMEs Technology 
+ 
+
+",https://www.euractiv.com/editorial-standards-policies/,"['https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/shutterstock_1924745465.jpg', 'https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/shutterstock_1924745465-800x600.jpg', 'https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/shutterstock_1924745465-800x450.jpg']",Making the AI Act work for SMEs: The EU tries to square the circle,2022-11-23 07:00:21,"[{'@type': 'Person', 'name': 'Luca Bertuzzi', 'url': 'https://www.euractiv.com/authors/luca-bertuzzi/'}]","{'@type': 'WebPage', '@id': 'https://www.euractiv.com/section/digital/news/making-the-ai-act-work-for-smes-the-eu-tries-to-square-the-circle/'}",2022-11-25 08:38:49,"['Artificial Intelligence', 'Technology']","{'@type': 'Organization', 'name': 'EURACTIV', 'logo': {'@type': 'ImageObject', 'url': 'https://www.euractiv.com/wp-content/themes/euractiv_com/logo2x.png'}}",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LndpcmVkLmNvbS9zdG9yeS90aGlzLWNvcHlyaWdodC1sYXdzdWl0LWNvdWxkLXNoYXBlLXRoZS1mdXR1cmUtb2YtZ2VuZXJhdGl2ZS1haS_SAQA?oc=5,This Copyright Lawsuit Could Shape the Future of Generative AI - WIRED,2022-11-21,WIRED,https://www.wired.com,"Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works.","['business', 'artificial intelligence', 'ai hub', 'software development', 'text generation', 'regulation', 'big company', 'consumer', 'small company', 'consumer services', 'entertainment', 'it', 'publishing', 'images', 'text', 'machine learning', 'machine vision', 'natural language processing', 'github', 'art', 'copyright', 'audio player', 'textaboveleftsmall', 'web']","Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works.","Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works.",,https://schema.org/,BreadcrumbList,tags,N/A,"Will KnightBusinessNov 21, 2022 7:00 AMThis Copyright Lawsuit Could Shape the Future of Generative AIAlgorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works.Illustration: Jacqui VanLiew; Getty ImagesSave this storySaveSave this storySaveThe AI Database →ApplicationSoftware developmentText generationRegulationEnd UserBig companyConsumerSmall companySectorConsumer servicesEntertainmentITPublishingSource DataImagesTextTechnologyMachine learningMachine visionNatural language processingThe tech industry might be reeling from a wave of layoffs, a dramatic crypto-crash, and ongoing turmoil at Twitter, but despite those clouds some investors and entrepreneurs are already eyeing a new boom—built on artificial intelligence that can generate coherent text, captivating images, and functional computer code. But that new frontier has a looming cloud of its own.A class-action lawsuit filed in a federal court in California this month takes aim at GitHub Copilot, a powerful tool that automatically writes working code when a programmer starts typing. The coder behind the suit argues that GitHub is infringing copyright because it does not provide attribution when Copilot reproduces open-source code covered by a license requiring it.AdChoicesADVERTISEMENTThe lawsuit is at an early stage, and its prospects are unclear because the underlying technology is novel and has not faced much legal scrutiny. But legal experts say it may have a bearing on the broader trend of generative AI tools. AI programs that generate paintings, photographs, and illustrations from a prompt, as well as text for marketing copy, are all built with algorithms trained on previous work produced by humans. Keep ReadingSearch our artificial intelligence database and discover stories by sector, tech, company, and more.Visual artists have been the first to question the legality and ethics of AI that incorporates existing work. Some people who make a living from their visual creativity are upset that AI art tools trained on their work can then produce new images in the same style. The Recording Industry Association of America, a music industry group, has signaled that AI-powered music generation and remixing could be a new area of copyright concern.Featured VideoStanford Computer Scientist Answers Coding Questions From Twitter“This whole arc that we're seeing right now—this generative AI space—what does it mean for these new products to be sucking up the work of these creators?” says Matthew Butterick, a designer, programmer, and lawyer who brought the lawsuit against GitHub.Copilot is a powerful example of the creative and commercial potential of generative AI technology. The tool was created by GitHub, a subsidiary of Microsoft that hosts the code for hundreds of millions of software projects. GitHub made it by training an algorithm designed to generate code from AI startup OpenAI on the vast collection of code it stores, producing a system that can preemptively complete large pieces of code after a programmer makes a few keystrokes. A recent study by GitHub suggests that coders can complete some tasks in less than half the time normally required when using Copilot as an aid. But as some coders quickly noticed, Copilot will occasionally reproduce recognizable snippets of code cribbed from the millions of lines in public code repositories. The lawsuit filed by Butterick and others accuses Microsoft, GitHub, and OpenAI of infringing on copyright because this code does not include the attribution required by the open-source licenses covering that code. Most PopularSecurityHow One Bad CrowdStrike Update Crashed the World’s ComputersBy Lily Hay NewmanSecurityDon’t Fall for CrowdStrike Outage ScamsBy Lily Hay NewmanCultureThe 19 Best Movies on Amazon Prime Right NowBy Matt KamenCultureThe 49 Best Shows on Netflix Right NowBy Matt KamenProgrammers have, of course, always studied, learned from, and copied each other's code. But not everyone is sure it is fair for AI to do the same, especially if AI can then churn out tons of valuable code itself, without respecting the source material’s license requirements. “As a technologist, I'm a huge fan of AI ,” Butterick says. “I'm looking forward to all the possibilities of these tools. But they have to be fair to everybody.”Thomas Dohmke, the CEO of GitHub, says that Copilot now comes with a feature designed to prevent copying from existing code. “When you enable this, and the suggestion that Copilot would make matches code published on GitHub—not even looking at the license—it will not make that suggestion,” he saysWhether this provides enough legal protection remains to be seen, and the coming legal case may have broader implications. “Assuming it doesn’t settle, it’s definitely going to be a landmark case,” says Luis Villa, a coder turned lawyer who specializes in cases related to open source. Villa, who knows GitHub cofounder Nat Friedman personally, does not believe it is clear that tools like Copilot go against the ethos of open source and free software. “The free software movement in the ’80s and ’90s talked a lot about reducing the power of copyrights in order to increase people’s ability to code,” he says. “I find it a little bit frustrating that we're now in a position where some people are running around saying we need maximum copyright in order to protect these communities.”Whatever the outcome of the Copilot case, Villa says it could shape the destiny of other areas of generative AI. If the outcome of the Copilot case hinges on how similar AI-generated code is to its training material, there could be implications for systems that reproduce images or music that matches the style of material in their training data. Anil Dash, the CEO of Glitch and a board member of the Electronic Frontier Foundation, says that the legal debate is just one part of a bigger adjustment set in train by generative AI. “When people see AI creating art, creating writing, and creating code, they think ‘What is all this, what does it mean to my business, and what does it mean to society?’” he says. “I don't think every organization has thought deeply about it, and I think that's sort of the next frontier.” As more people begin to ponder and experiment with generative AI, there will probably be more lawsuits too.Enter your email to get the Wired newsletterclose dialogRecommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyPlease enter abovesign upUsed consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.Recommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyYou're signed up!Used consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.close dialog",,"['https://media.wired.com/photos/6378127aef69bd3269392c21/16:9/w_2097,h_1179,c_limit/business-ai-code-art-copyright-113493446.jpg', 'https://media.wired.com/photos/6378127aef69bd3269392c21/4:3/w_1512,h_1134,c_limit/business-ai-code-art-copyright-113493446.jpg', 'https://media.wired.com/photos/6378127aef69bd3269392c21/1:1/w_1178,h_1178,c_limit/business-ai-code-art-copyright-113493446.jpg']",This Copyright Lawsuit Could Shape the Future of Generative AI,2022-11-21T07:00:00.000-05:00,"[{'@type': 'Person', 'name': 'Will Knight', 'sameAs': 'https://www.wired.com/author/will-knight/'}]","{'@type': 'WebPage', '@id': 'https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/'}",2022-11-21T07:00:00.000-05:00,business,"{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'WIRED', 'logo': {'@type': 'ImageObject', 'url': 'https://www.wired.com/verso/static/wired/assets/newsletter-signup-hub.jpg', 'width': '500px', 'height': '100px'}, 'url': 'https://www.wired.com'}","A class-action lawsuit filed in a federal court in California this month takes aim at GitHub Copilot, a powerful tool that automatically writes working code when a programmer starts typing. The coder behind the suit argues that GitHub is infringing copyright because it does not provide attribution when Copilot reproduces open-source code covered by a license requiring it.
+The lawsuit is at an early stage, and its prospects are unclear because the underlying technology is novel and has not faced much legal scrutiny. But legal experts say it may have a bearing on the broader trend of generative AI tools. AI programs that generate paintings, photographs, and illustrations from a prompt, as well as text for marketing copy, are all built with algorithms trained on previous work produced by humans.
+Visual artists have been the first to question the legality and ethics of AI that incorporates existing work. Some people who make a living from their visual creativity are upset that AI art tools trained on their work can then produce new images in the same style. The Recording Industry Association of America, a music industry group, has signaled that AI-powered music generation and remixing could be a new area of copyright concern.
+“This whole arc that we're seeing right now—this generative AI space—what does it mean for these new products to be sucking up the work of these creators?” says Matthew Butterick, a designer, programmer, and lawyer who brought the lawsuit against GitHub.
+Copilot is a powerful example of the creative and commercial potential of generative AI technology. The tool was created by GitHub, a subsidiary of Microsoft that hosts the code for hundreds of millions of software projects. GitHub made it by training an algorithm designed to generate code from AI startup OpenAI on the vast collection of code it stores, producing a system that can preemptively complete large pieces of code after a programmer makes a few keystrokes. A recent study by GitHub suggests that coders can complete some tasks in less than half the time normally required when using Copilot as an aid.
+But as some coders quickly noticed, Copilot will occasionally reproduce recognizable snippets of code cribbed from the millions of lines in public code repositories. The lawsuit filed by Butterick and others accuses Microsoft, GitHub, and OpenAI of infringing on copyright because this code does not include the attribution required by the open-source licenses covering that code.
+Programmers have, of course, always studied, learned from, and copied each other's code. But not everyone is sure it is fair for AI to do the same, especially if AI can then churn out tons of valuable code itself, without respecting the source material’s license requirements. “As a technologist, I'm a huge fan of AI ,” Butterick says. “I'm looking forward to all the possibilities of these tools. But they have to be fair to everybody.”
+Thomas Dohmke, the CEO of GitHub, says that Copilot now comes with a feature designed to prevent copying from existing code. “When you enable this, and the suggestion that Copilot would make matches code published on GitHub—not even looking at the license—it will not make that suggestion,” he says
+Whether this provides enough legal protection remains to be seen, and the coming legal case may have broader implications. “Assuming it doesn’t settle, it’s definitely going to be a landmark case,” says Luis Villa, a coder turned lawyer who specializes in cases related to open source.
+Villa, who knows GitHub cofounder Nat Friedman personally, does not believe it is clear that tools like Copilot go against the ethos of open source and free software. “The free software movement in the ’80s and ’90s talked a lot about reducing the power of copyrights in order to increase people’s ability to code,” he says. “I find it a little bit frustrating that we're now in a position where some people are running around saying we need maximum copyright in order to protect these communities.”
+Whatever the outcome of the Copilot case, Villa says it could shape the destiny of other areas of generative AI. If the outcome of the Copilot case hinges on how similar AI-generated code is to its training material, there could be implications for systems that reproduce images or music that matches the style of material in their training data.
+Anil Dash, the CEO of Glitch and a board member of the Electronic Frontier Foundation, says that the legal debate is just one part of a bigger adjustment set in train by generative AI. “When people see AI creating art, creating writing, and creating code, they think ‘What is all this, what does it mean to my business, and what does it mean to society?’” he says. “I don't think every organization has thought deeply about it, and I think that's sort of the next frontier.” As more people begin to ponder and experiment with generative AI, there will probably be more lawsuits too.",,"https://media.wired.com/photos/6378127aef69bd3269392c21/3:2/w_2025,h_1350,c_limit/business-ai-code-art-copyright-113493446.jpg",https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/,"{'@type': 'CreativeWork', 'name': 'WIRED'}",True,"Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works.","[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.wired.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'artificial intelligence', 'item': 'https://www.wired.com/tag/artificial-intelligence/'}, {'@type': 'ListItem', 'position': 3, 'name': 'This Copyright Lawsuit Could Shape the Future of Generative AI'}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnZveC5jb20vcmVjb2RlLzIwMjIvMTEvMjMvMjM0NzU2OTcvYW1hem9uLWxheW9mZnMtYnV5b3V0cy1yZWNydWl0ZXJzLWFpLWhpcmluZy1zb2Z0d2FyZdIBAA?oc=5,Amazon’s new AI tool may take over work from employees facing layoffs and buyouts - Vox.com,2022-11-23,Vox.com,https://www.vox.com,Amazon has quietly been developing AI software to screen job applicants.,N/A,Amazon has quietly been developing AI software to screen job applicants.,N/A,,,,N/A,N/A,"TechnologyA leaked Amazon memo may help explain why the tech giant is pushing out so many recruitersAmazon has quietly been developing AI software to screen job applicants.by  Jason Del ReyNov 23, 2022, 4:21 PM ESTFacebookLinkJeff Bezos speaks at the 2018 opening of the Amazon Spheres complex in downtown Seattle. Ted S. Warren/APJason Del Rey has been a business journalist for 15 years and has covered Amazon, Walmart, and the e-commerce industry for the last decade. He was a senior correspondent at Vox.Last week, Amazon extended buyout offers to hundreds of its recruiters as part of what is expected to be a months-long cycle of layoffs that has left corporate employees across the company angered and on edge. Now, Recode has viewed a confidential internal document that raises the question of whether a new artificial intelligence technology that the company began experimenting with last year will one day replace some of these employees.According to an October 2021 internal paper labeled as “Amazon confidential,” the tech giant has been working for at least the last year to hand over some of its recruiters’ tasks to an AI technology that aims to predict which job applicants across certain corporate and warehouse jobs will be successful in a given role and fast-track them to an interview — without a human recruiter’s involvement. The technology works in part by finding similarities between the resumes of current, well-performing Amazon employees and those of job applicants applying for similar jobs.The technology, known internally as Automated Applicant Evaluation, or AAE, was built by a group in Amazon’s HR division known as the Artificial Intelligence Recruitment team and was first tested last year. Amazon first built AI hiring technology in the mid-2010s but discontinued use of its system after it demonstrated a bias against women.In an initial test, Amazon’s HR division believed that new machine learning models successfully guarded against biases based on race and gender, according to the internal document. Artificial intelligence has become more widely used in hiring across industries in recent years, but there remain questions about its role in introducing or amplifying biases that may occur in hiring processes. An Amazon spokesperson did not provide comment before publication.Are you a current or former Amazon employee with thoughts or tips on this topic? Please email Jason Del Rey at jason@recode.net or jasondelrey@protonmail.com. His phone number and Signal number are available upon request by email.Amazon has for years invested heavily in trying to automate different types of work. In 2012, the company acquired a warehouse robotics company called Kiva, whose robots reduced the need for warehouse workers to walk miles on the job but simultaneously increased the pace and repetitiveness of their work.Amazon has continued to research other ways to automate its warehouses and introduce new robots, in part because the company churns through so many front-line workers that it has at times feared running out of people to hire in some US regions. In its corporate wing, Amazon previously implemented an initiative called “hands off the wheel” that took inventory ordering and other responsibilities out of the hands of retail division employees and handed them over to technology. Now, with the creation and expanded usage of the AAE technology, the roles of recruiters inside the second-largest private sector employer in the US could be altered permanently, potentially reducing the number of people Amazon needs to employ.That is, when the company starts hiring again.Amazon instituted a corporate hiring freeze earlier in the fall and, just last week, the New York Times reported that Amazon would lay off around 10,000 workers, or 3 percent of its corporate staff, in what would be the largest series of corporate job cuts in the company’s nearly three-decade history. Alongside layoffs in the company’s Alexa and Amazon gadgets divisions, the company sent buyout offers to large swaths of the company’s HR division, including all low- and mid-level recruiters in the US and India. If employees voluntarily walk away from their jobs, Amazon is offering three months of pay plus one week of salary for every six months of tenure at the company. These employees have to decide on the offer by November 29.The division’s leaders said involuntary layoffs could still happen in the new year, depending in part on how many employees agree to leave the company voluntarily. Amazon CEO Andy Jassy also said that layoffs in the company’s core retail division would occur into 2023.The AAE technology removes one key role that some recruiters serve at Amazon, which is evaluating job applicants and choosing which should move on to job interviews. The program uses the performance reviews of current employees, along with information about their resumes and any online job assessments they completed during their hiring process, to evaluate current job applicants for similar roles.“[T]he model is achieving precision comparable to that of the manual process and is not evidencing adverse impact,” the 2021 internal paper read.The technology was first tested on applicants for medical representative roles at Amazon, who work out of the company’s warehouse network. But since then, it has been used to select job applicants for roles ranging from software development engineers to technical program managers, opening up the possibility of future widespread use across the company. Within the technology industry, there’s a realization that the Big Tech boom may be over. In many cases, pandemic-fueled business successes have reversed or plateaued. Now, tech titans like Amazon are looking to tighten their belts, seemingly in part by delivering on long-term bets that technology, and AI in particular, can do what humans do — and maybe more cheaply.You’ve read 1 article in the last monthHere at Vox, we believe in helping everyone understand our complicated world, so that we can all help to shape it. Our mission is to create clear, accessible journalism to empower understanding and action.If you share our vision, please consider supporting our work by becoming a Vox Member. Your support ensures Vox a stable, independent source of funding to underpin our journalism. If you are not ready to become a Member, even small contributions are meaningful in supporting a sustainable model for journalism.Thank you for being part of our community.Swati SharmaVox Editor-in-ChiefMembershipMonthlyAnnualOne-time$5/month$10/month$25/month$50/monthOther$50/year$100/year$150/year$200/yearOther$20$50$100$250OtherJoin for $5/monthWe accept credit card, Apple Pay, and Google Pay. You can also contribute viaMost PopularDoes Kamala Harris give Democrats a better chance to win?Biden just quit the race and endorsed Kamala Harris. What happens now?Why is everyone talking about Kamala Harris and coconut trees?Traveling this summer? Maybe don’t let the airport scan your face.Who could be Kamala Harris’s VP? The potential list, briefly explained.
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGEToday, ExplainedUnderstand the world with a daily explainer plus the most compelling stories of the day.Email (required)Sign UpBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMGh0dHA6Ly9lbi5rcmVtbGluLnJ1L2V2ZW50cy9wcmVzaWRlbnQvbmV3cy82OTkyN9IBAA?oc=5,Artificial Intelligence Conference • President of Russia - President of Russia,2022-11-24,President of Russia,http://en.kremlin.ru,"Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",N/A,"Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.","Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZW50ZXJwcmlzZXJzcHJvamVjdC5jb20vYXJ0aWNsZS8yMDIyLzExL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWV0aGljYWwtdXNl0gEA?oc=5,Artificial intelligence: 3 tips to ensure responsible and ethical use - The Enterprisers Project,2022-11-21,The Enterprisers Project,https://enterprisersproject.com,"Even as AI becomes more ubiquitous in our everyday lives, security and bias concerns remain. Here are some best practices to help organizations reduce bias and protect privacy",N/A,"Even as AI becomes more ubiquitous in our everyday lives, security and bias concerns remain. Here are some best practices to help organizations reduce bias and protect privacy","Even as AI becomes more ubiquitous in our everyday lives, security and bias concerns remain. Here are some best practices to help organizations reduce bias and protect privacy",,,,N/A,N/A,"
+Even as AI becomes more ubiquitous in our everyday lives, security and bias concerns remain. Here are some best practices to help organizations reduce bias and protect privacy
+
+
+
+          By 
+
+Diego Bartolome
+
+
+November 21, 2022          |
+%t min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      1 reader likes this.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial intelligence (AI) already impacts our daily lives in ways we never imagined just a few years ago – and in ways that we’re unaware of now. From self-driving cars to voice-assisted devices to predictive text messaging, AI has become a necessary and unavoidable part of our society, including in the workplace.
+Data shows that the use of AI in business is increasing. In 2019, a Gartner report stated that 37% of organizations had implemented AI in some capacity. Most recently, Gartner predicted that the global AI software market would be worth $62.5 billion by the end of this year, a 21% jump from the previous year.
+While AI’s impact is undeniable, consumers’ concerns about the ethics and security of AI technology persist. Because of this, companies must strive to alleviate these concerns by always protecting customer data when employing AI-enabled technology.
+The need for responsible AI
+Any consumer-facing organization that employs AI technology must act responsibly, especially when customer data is involved. Tech leaders using AI must give equal focus to two responsibilities at all times: reducing the biases of the models and preserving the confidentiality and privacy of data.
+[ Also read Artificial intelligence: 3 ways to prioritize responsible practices. ]
+Along with ensuring data security, responsible AI practices should eliminate biases embedded in the models that power it. Companies should regularly evaluate bias that may be present in their vendors’ models, then advise customers on the most appropriate technology for them. This oversight should also correct biases with pre-and post-processing rules.
+While companies cannot remove the biases inherent to AI systems trained on large quantities of data, they can work to minimize adverse effects. Here are some best practices:
+1. Put people first
+AI can be beneficial in reducing the amount of repetitive work carried out by humans, but humans should still be prioritized. Create a culture that doesn’t imply an either/or scenario between AI and humans. Tap into human teams’ creativity, empathy, and dexterity, and let AI create more efficiencies.
+Tap into human teams’ creativity, empathy, and dexterity, and let AI create more efficiencies.
+2. Consider data and privacy goals
+Once the goals, long-term vision, and mission are put in place, ask yourself: What does the company own? There are numerous foundation models or solutions that can be used without any training data, but in some cases, the degree of accuracy could be much higher.
+Adapting AI systems to the company goals and data will yield the best results. Done correctly, data preparation and cleaning can remove biases during this step. Removing bias from data is key to developing responsible AI solutions. You can remove features that impact the overall result and further perpetuate existing biases.
+On the privacy front, commit to protecting all the data you collect, regardless of how massive the amount is. One way to do this is to work only with third-party vendors who strictly follow the stipulations within crucial pieces of legislation, such as GDPR, and maintain critical security certifications, such as ISO 27001. Adhering to these regulations and earning these certifications take significant effort, but they demonstrate that the organization is qualified to protect customer data.
+3. Implement active learning
+
+Skip to bottom of list 
+More on artificial intelligence
+
+Augmented reality (AR) vs. virtual reality (VR): What’s the difference?
+6 misconceptions about AIOps, explained
+Cheat sheet: AI glossary
+What is AI/ML and why does it matter to your business?
+Ebook: Top considerations for building a production-ready AI/ML environment
+AI vs. NLP: What are the differences?
+What is edge machine learning?
+
+
+
+
+Once a system is in production, provide human feedback on the technology’s performance and biases. If users detect that output differs depending on the scenario, create guidelines for reporting and fixing those issues. This can be done at the AI system’s core as a correction to the output.
+In recent years, some of the world’s largest organizations, including Google, Microsoft, and the European Commission have built frameworks and shared knowledge of their responsible AI guidelines. As more organizations adopt company language related to responsible AI, it will become the expectation from partners and customers.
+When one mistake can cost your brand millions of dollars or ruin its reputation and relationship with employees and customers, additional support helps. No one wants to work with an organization that is careless with their customer’s data or that uses biased AI solutions. The sooner your organization addresses these issues, the more consumers will trust you, and the benefits of using AI will start rolling in.
+[ Check out our primer on 10 key artificial intelligence terms for IT and business leaders: Cheat sheet: AI glossary. ]
+
+
+
+What to read next
+
+
+
+Topics
+
+IT Strategy
+Enterprise Technology
+Artificial Intelligence
+
+
+
+
+
+
+
+ 
+Diego Bartolome is chief technology officer at Language I/O, with 16 years of experience at the intersection of language, computers, and technology, assisting companies in communicating in spoken languages.More about me
+
+
+
+
+
+
+Related content
+
+
+ 
+
+Reimagining employee retention: 4 tips
+ 
+
+5 Harvard Business Review articles that will resonate with CIOs right now
+ 
+
+Remote work: 3 pros and 3 cons
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjMvdGVjaG5vbG9neS9jb3BpbG90LW1pY3Jvc29mdC1haS1sYXdzdWl0Lmh0bWzSAQA?oc=5,Lawsuit Takes Aim at the Way A.I. Is Built (Published 2022) - The New York Times,2022-11-23,The New York Times,https://www.nytimes.com,"A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.",N/A,"A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.","A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.",,https://schema.org,NewsMediaOrganization,Technology,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTLawsuit Takes Aim at the Way A.I. Is BuiltA programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.Share full article119Read in appVideo
+
+
+
+
+
+
+
+Advertisement
+
+LIVE
+      
+
+
+00:00
+
+
+
+
+
+
+
+
+
+0:18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0:18Tom Smith, a veteran programmer, shows how Codex can instantly generate computer code from a request in plain English.CreditCredit...Jason Henry for The New York TimesBy Cade MetzCade Metz, based in San Francisco, writes about artificial intelligence and other emerging technologies.Nov. 23, 2022In late June, Microsoft released a new kind of artificial intelligence technology that could generate its own computer code.Called Copilot, the tool was designed to speed the work of professional programmers. As they typed away on their laptops, it would suggest ready-made blocks of computer code they could instantly add to their own.Many programmers loved the new tool or were at least intrigued by it. But Matthew Butterick, a programmer, designer, writer and lawyer in Los Angeles, was not one of them. This month, he and a team of other lawyers filed a lawsuit that is seeking class-action status against Microsoft and the other high-profile companies that designed and deployed Copilot.Like many cutting-edge A.I. technologies, Copilot developed its skills by analyzing vast amounts of data. In this case, it relied on billions of lines of computer code posted to the internet. Mr. Butterick, 52, equates this process to piracy, because the system does not acknowledge its debt to existing work. His lawsuit claims that Microsoft and its collaborators violated the legal rights of millions of programmers who spent years writing the original code.The suit is believed to be the first legal attack on a design technique called “A.I. training,” which is a way of building artificial intelligence that is poised to remake the tech industry. In recent years, many artists, writers, pundits and privacy activists have complained that companies are training their A.I. systems using data that does not belong to them.ImageMatthew Butterick, a programmer and lawyer, said he was concerned that work he had done was being improperly employed in new artificial intelligence systems.Credit...Tag Christof for The New York TimesThe lawsuit has echoes in the last few decades of the technology industry. In the 1990s and into the 2000s, Microsoft fought the rise of open source software, seeing it as an existential threat to the future of the company’s business. As the importance of open source grew, Microsoft embraced it and even acquired GitHub, a home to open source programmers and a place where they built and stored their code.Nearly every new generation of technology — even online search engines — has faced similar legal challenges. Often, “there is no statute or case law that covers it,” said Bradley J. Hulbert, an intellectual property lawyer who specializes in this increasingly important area of the law.The suit is part of a groundswell of concern over artificial intelligence. Artists, writers, composers and other creative types increasingly worry that companies and researchers are using their work to create new technology without their consent and without providing compensation. Companies train a wide variety of systems in this way, including art generators, speech recognition systems like Siri and Alexa, and even driverless cars.AdvertisementSKIP ADVERTISEMENTCopilot is based on technology built by OpenAI, an artificial intelligence lab in San Francisco backed by a billion dollars in funding from Microsoft. OpenAI is at the forefront of the increasingly widespread effort to train artificial intelligence technologies using digital data.After Microsoft and GitHub released Copilot, GitHub’s chief executive, Nat Friedman, tweeted that using existing code to train the system was “fair use” of the material under copyright law, an argument often used by companies and researchers who built these systems. But no court case has yet tested this argument.“The ambitions of Microsoft and OpenAI go way beyond GitHub and Copilot,” Mr. Butterick said in an interview. “They want to train on any data anywhere, for free, without consent, forever.”ImageMr. Butterick and a team of other lawyers are suing Microsoft and other developers of Copilot.Credit...Mike Segar/ReutersIn 2020, OpenAI unveiled a system called GPT-3. Researchers trained the system using enormous amounts of digital text, including thousands of books, Wikipedia articles, chat logs and other data posted to the internet.AdvertisementSKIP ADVERTISEMENTBy pinpointing patterns in all that text, this system learned to predict the next word in a sequence. When someone typed a few words into this “large language model,” it could complete the thought with entire paragraphs of text. In this way, the system could write its own Twitter posts, speeches, poems and news articles.Much to the surprise of the researchers who built the system, it could even write computer programs, having apparently learned from an untold number of programs posted to the internet.So OpenAI went a step further, training a new system, Codex, on a new collection of data stocked specifically with code. At least some of this code, the lab later said in a research paper detailing the technology, came from GitHub, a popular programming service owned and operated by Microsoft.This new system became the underlying technology for Copilot, which Microsoft distributed to programmers through GitHub. After being tested with a relatively small number of programmers for about a year, Copilot rolled out to all coders on GitHub in July.AdvertisementSKIP ADVERTISEMENTFor now, the code that Copilot produces is simple and might be useful to a larger project but must be massaged, augmented and vetted, many programmers who have used the technology said. Some programmers find it useful only if they are learning to code or trying to master a new language.ImageCodex became the building block for Copilot.Credit...Jason Henry for The New York TimesStill, Mr. Butterick worried that Copilot would end up destroying the global community of programmers who have built the code at the heart of most modern technologies. Days after the system’s release, he published a blog post titled: “This Copilot Is Stupid and Wants to Kill Me.”Mr. Butterick identifies as an open source programmer, part of the community of programmers who openly share their code with the world. Over the past 30 years, open source software has helped drive the rise of most of the technologies that consumers use each day, including web browsers, smartphones and mobile apps.Though open source software is designed to be shared freely among coders and companies, this sharing is governed by licenses designed to ensure that it is used in ways to benefit the wider community of programmers. Mr. Butterick believes that Copilot has violated these licenses and, as it continues to improve, will make open source coders obsolete.After publicly complaining about the issue for several months, he filed his suit with a handful of other lawyers. The suit is still in the earliest stages and has not yet been granted class-action status by the court.AdvertisementSKIP ADVERTISEMENTTo the surprise of many legal experts, Mr. Butterick’s suit does not accuse Microsoft, GitHub and OpenAI of copyright infringement. His suit takes a different tack, arguing that the companies have violated GitHub’s terms of service and privacy policies while also running afoul of a federal law that requires companies to display copyright information when they make use of material.Mr. Butterick and another lawyer behind the suit, Joe Saveri, said the suit could eventually tackle the copyright issue.ImageJoe Saveri is one of the lawyers involved in the lawsuit.Credit...Tag Christof for The New York TimesAsked if the company could discuss the suit, a GitHub spokesman declined, before saying in an emailed statement that the company has been “committed to innovating responsibly with Copilot from the start, and will continue to evolve the product to best serve developers across the globe.” Microsoft and OpenAI declined to comment on the lawsuit.Under existing laws, most experts believe, training an A.I. system on copyrighted material is not necessarily illegal. But doing so could be if the system ends up creating material that is substantially similar to the data it was trained on.AdvertisementSKIP ADVERTISEMENTSome users of Copilot have said it generates code that seems identical — or nearly identical — to existing programs, an observation that could become the central part of Mr. Butterick’s case and others.Pam Samuelson, a professor at the University of California, Berkeley, who specializes in intellectual property and its role in modern technology, said legal thinkers and regulators briefly explored these legal issues in the 1980s, before the technology existed. Now, she said, a legal assessment is needed.“It is not a toy problem anymore,” Dr. Samuelson said. Cade Metz is a technology correspondent, covering artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. He previously wrote for Wired magazine.  More about Cade MetzA version of this article appears in print on Nov. 28, 2022, Section B, Page 1 of the New York edition with the headline: A Programmer Cries Foul  Over Self-Coding Software. Order Reprints | Today’s Paper | SubscribeSee more on: Microsoft Corporation, OpenAIRead 119 CommentsShare full article119Read in appAdvertisementSKIP ADVERTISEMENTComments 119Lawsuit Takes Aim at the Way A.I. Is BuiltSkip to CommentsThe comments section is closed.
+      To submit a letter to the editor for publication, write to
+      letters@nytimes.com.Tell us about yourself. Take the survey.",,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-videoSixteenByNineJumbo1600.jpg', 'height': 899, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Jason Henry for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-superJumbo.jpg', 'height': 1080, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-superJumbo.jpg', 'creditText': 'Jason Henry for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-mediumSquareAt3X.jpg', 'height': 1798, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-mediumSquareAt3X.jpg', 'creditText': 'Jason Henry for The New York Times'}]",Lawsuit Takes Aim at the Way A.I. Is Built,2022-11-23T10:00:47.000Z,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/cade-metz', 'name': 'Cade Metz'}]",https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html,2022-11-23T10:00:47.000Z,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",,,,https://www.nytimes.com/,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",False,A Programmer Cries Foul  Over Self-Coding Software,,en,[{'@id': 'https://www.nytimes.com/video/embedded/business/100000007948486/00codex-video.html'}],"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",{'@id': '#commentsContainer'},119.0,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,
+https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGVjaHdpcmVhc2lhLmNvbS8wNi8yMDIzL3RoZS1jb25jZXJuaW5nLWRpc2FkdmFudGFnZXMtb2YtYWkv0gEA?oc=5,The concerning disadvantages of AI - Tech Wire Asia,2022-11-25,Tech Wire Asia,https://techwireasia.com,"There is no denying that, alongside the growing number of disadvantages, people are worried about losing their jobs.",N/A,"There is no denying that, alongside the growing number of disadvantages, people are worried about losing their jobs.",N/A,,https://schema.org,,N/A,N/A,"
+ 
+32
+SOCIAL BUZZ
+While AI is currently less capable than people, there is absolutely no denying that alongside the growing amount of disadvantages, people are also worried of losing their jobs.Source: Shutterstock
+The disadvantages of AIBy Dashveenjit Kaur
+
+
+
+
+
+
+ 
+Getting your Trinity Audio player ready...Among the disadvantages of AI is the perpetuation of biasThere are  potential risks associated with using AI to protect the environment. There have been countless discussions on the disadvantages of AI. A simple search online will quickly direct you to articles that discuss the risks that have arrived, the ones that will occur in months or years to come, and purely hypothetical dangers.It is essential to understand what artificial intelligence (AI) really is. It’s a field that combines computer science and data to solve problems. AI also encompasses sub-fields of machine learning and deep learning. Those disciplines consist of AI algorithms that seek to create expert systems to make predictions or classifications based on input data. There is, therefore, no denying that AI holds great promise. It can improve efficiency, cut costs, and accelerate research and development.MAKING REGULATIONS WORK FOR THE MORPHING WORLD OF ARTIFICIAL INTELLIGENCEAaron Raj | 25 November, 2022  According to a forecast  by technology research firm IDC, global spending on AI, including software, hardware, and services for AI-centric systems, will reach US$154 billion this year, an increase of 26.9% over 2022. Applications for this technology are growing and we’re just starting to explore the possibilities.The disadvantages of AILoss of jobsAs with any booming technology, AI has its drawbacks. As it grows more capable, its advantages will inevitably be tempered with worries that these complex, opaque systems may do more societal harm than economic good. Most AI naysayers also point out the elephant in the room: “What impact will the AI revolution have on our jobs?”While AI is currently less capable than people, many are still worried about losing their jobs. The BBC calls it the “AI Anxiety” in a report highlighting how the rapid growth in generative AI tools, such as OpenAI’s ChatGPT, and the overall progression of the “AI arms race” creates uncertainty for employees.Source: AFPIn its latest report on The Future of Jobs, the World Economic Forum (WEF) predicts that there will be 69 million jobs by 2027 created by AI and 89 million jobs lost. But outside of job loss, which some experts see as revolutionizing the labor market, other AI disadvantages are apparent.More AI hackingAs technology becomes ever more sophisticated, bad actors find new ways of exploiting vulnerabilities and gaining access to confidential information. In recent years, hackers have been upping the ante with the help of AI. AI is used to automate cyberattacks, making it easier for hackers to identify and exploit vulnerabilities. This could include using AI to develop malware that can evade traditional security measures or AI-driven bots to launch distributed denial of service (DDoS) attacks.Several high-profile data breaches have already occurred in which AI was used to expose vulnerable systems. In 2017, the WannaCry ransomware attack used AI to spread quickly across the globe, infecting over 230,000 computers in over 150 countries. Hackers used machine learning algorithms to identify and exploit vulnerable systems.The SolarWinds hack in 2020 is one of the most recent examples of how AI-powered hackers can target routine software updates.AI: A double edge sword in fighting climate changeThe famous adage “with great power comes great responsibility” holds when it comes to AI, as its immense potential necessitates careful consideration. From predicting extreme weather events to optimizing renewable energy systems, AI is revolutionizing our approach to environmental sustainability. A study conducted by the accounting firm PwC revealed that by 2030, AI could significantly reduce global greenhouse gas emissions by up to 4%. A separate 2022 BCG Climate AI Survey report finds that 87% of private and public sector chief executive officers (CEOs) with decision-making power in AI believe the tech is essential in the fight against climate change.However, training large algorithms, such as deep learning models, involves processing vast amounts of data through complex mathematical calculations. These calculations require high-performance computing resources, including powerful processors and specialized hardware like graphics processing units (GPUs). As a result, training these models can consume significant amounts of energy, which can substantially impact the environment.via GIPHYData from the Massachusetts Institute of Technology found that the energy consumption associated with training a large algorithm can emit as much as 284,000 kg of carbon dioxide. The study found that training algorithms’ energy consumption and carbon footprints are likely to increase as the demand for AI applications grows.AI is not necessarily a panacea for mitigating the effects of climate change, and there have to be active measures to minimize the ecological footprint of AI development and deployment.Biased AILimited worldviews make bias an unavoidable part of life – especially online. These biases are reflected, even amplified, by AI.In a New York Times article, an expert shared three root causes of bias in AI systems. “The first one is biases in the data. People are starting to research methods to spot and mitigate bias in data. For categories like race and gender, the solution is to sample better such that you get a better representation in the data sets,” Olga Russakovsky, an Assistant Professor of Computer Science at Princeton University, shared.The second cause of bias, she said, is in the algorithms themselves which can amplify the bias in the data. “So you have to be thoughtful about how you build these systems,” she said, adding that the third cause would be human bias. “We’re a fairly homogeneous population, so thinking broadly about world issues is a challenge. There are a lot of opportunities to diversify this pool, and as diversity grows, the AI systems themselves will become less biased,” Olga concluded.Tackling bias in AI requires individuals, organizations, and government bodies to look at the root of the problem, which is often the people creating the AI services in the first place. The advantages of AI in the work place and in society go beyond the disadvantages. But until some serious regulations are in place, the biggest disadvantage of AI will remain the fear it generates among its users. 
+
+ARTIFICIAL INTELLIGENCE
+
+
+AUTOMATION
+
+
+BUSINESS
+
+
+DATA
+
+
+DIGITAL TRANSFORMATION
+
+
+INNOVATION
+
+
+TECHNOLOGY
+
+
+
+32
+SOCIAL BUZZ
+
+
+
+
+
+
+
+READ MORE
+Low-Code produces the Proof-of-Possibilities
+New Wearables Enable Staff to Work Faster and Safer
+Experts weigh in on Oracle’s departure from adland
+The OutSystems Advantage in Low-Code for AI
+Unlocking Competitive Advantage: APAC’s Transformative Financial Payments Landscape     TRENDING TOPICS
+
+DEVOPS
+
+
+HARDWARE
+
+
+BUSINESS INTELLIGENCE
+
+
+LOW-CODE
+
+
+BANKING
+
+
+MSP
+
+
+FINTECH
+
+
+CLOUD NATIVE
+
+
+DATA PRIVACY
+
+
+CX
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#article', 'isPartOf': {'@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/'}, 'author': {'name': 'Dashveenjit Kaur', '@id': 'https://techwireasia.com/#/schema/person/3a32b9a2385f1ba500ac86832f1a22b9'}, 'headline': 'The disadvantages of AI', 'datePublished': '2023-06-23T02:00:43+00:00', 'dateModified': '2023-06-23T02:13:29+00:00', 'mainEntityOfPage': {'@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/'}, 'wordCount': 999, 'publisher': {'@id': 'https://techwireasia.com/#organization'}, 'image': {'@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#primaryimage'}, 'thumbnailUrl': 'https://cdn.techwireasia.com/wp-content/uploads/2023/06/shutterstock_2270550899-scaled.jpg', 'keywords': ['Artificial Intelligence', 'automation', 'Business', 'Data', 'Digital Transformation', 'Innovation', 'Technology'], 'articleSection': ['Artificial intelligence', 'Data', 'Enterprise'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/', 'url': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/', 'name': 'The concerning disadvantages of AI', 'isPartOf': {'@id': 'https://techwireasia.com/#website'}, 'primaryImageOfPage': {'@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#primaryimage'}, 'image': {'@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#primaryimage'}, 'thumbnailUrl': 'https://cdn.techwireasia.com/wp-content/uploads/2023/06/shutterstock_2270550899-scaled.jpg', 'datePublished': '2023-06-23T02:00:43+00:00', 'dateModified': '2023-06-23T02:13:29+00:00', 'description': 'There is no denying that, alongside the growing number of disadvantages, people are worried about losing their jobs.', 'breadcrumb': {'@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#primaryimage', 'url': 'https://cdn.techwireasia.com/wp-content/uploads/2023/06/shutterstock_2270550899-scaled.jpg', 'contentUrl': 'https://cdn.techwireasia.com/wp-content/uploads/2023/06/shutterstock_2270550899-scaled.jpg', 'width': '2560', 'height': '1422', 'caption': 'While AI is currently less capable than people, there is absolutely no denying that alongside the growing amount of disadvantages, people are also worried of losing their jobs. Source: Shutterstock'}, {'@type': 'BreadcrumbList', '@id': 'https://techwireasia.com/2023/06/the-concerning-disadvantages-of-ai/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://techwireasia.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://techwireasia.com/tag/artificial-intelligence/'}, {'@type': 'ListItem', 'position': 3, 'name': 'The disadvantages of AI'}]}, {'@type': 'WebSite', '@id': 'https://techwireasia.com/#website', 'url': 'https://techwireasia.com/', 'name': 'Tech Wire Asia', 'description': 'Where technology and business intersect', 'publisher': {'@id': 'https://techwireasia.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://techwireasia.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://techwireasia.com/#organization', 'name': 'Tech Wire Asia', 'url': 'https://techwireasia.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://techwireasia.com/#/schema/logo/image/', 'url': 'https://cdn.techwireasia.com/wp-content/uploads/2022/08/TECHWIREASIA_LOGO_CMYK_GREY-scaled.jpg', 'contentUrl': 'https://cdn.techwireasia.com/wp-content/uploads/2022/08/TECHWIREASIA_LOGO_CMYK_GREY-scaled.jpg', 'width': 2560, 'height': 856, 'caption': 'Tech Wire Asia'}, 'image': {'@id': 'https://techwireasia.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/techwireasia', 'https://x.com/techwireasia', 'https://www.instagram.com/techwireasia/', 'https://www.linkedin.com/company/tech-wire-asia']}, {'@type': 'Person', '@id': 'https://techwireasia.com/#/schema/person/3a32b9a2385f1ba500ac86832f1a22b9', 'name': 'Dashveenjit Kaur', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://techwireasia.com/#/schema/person/image/', 'url': 'https://cdn.techwireasia.com/wp-content/uploads/2020/10/Ill_for_Dashveen_r-100x100.png', 'contentUrl': 'https://cdn.techwireasia.com/wp-content/uploads/2020/10/Ill_for_Dashveen_r-100x100.png', 'caption': 'Dashveenjit Kaur'}, 'description': ""Dashveen writes for Tech Wire Asia and TechHQ, providing research-based commentary on the exciting world of technology in business. Previously, she reported on the ground of Malaysia's fast-paced political arena and stock market."", 'sameAs': ['https://www.linkedin.com/in/dashveenjitkaur/', 'https://x.com/DashveenjitK'], 'url': 'https://techwireasia.com/author/dashveen/'}]"
+https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5maWVyY2VoZWFsdGhjYXJlLmNvbS9haS1hbmQtbWFjaGluZS1sZWFybmluZy9maW5kaW5nLXJpZ2h0LWNhbmRpZGF0ZXMta2VlcGluZy10aGVtLWFpLWFpZGluZy1oZWFsdGhjYXJlLWluZHVzdHJ5LW1lZXRz0gEA?oc=5,"How healthcare is using AI to beef up staff, decrease turnover - Fierce healthcare",2022-11-23,Fierce healthcare,https://www.fiercehealthcare.com,"With hospital staffing turnover reaching all-time highs, organizations are looking to AI to ease clinician and IT hiring and retain employees.","Artificial Intelligence,Job Satisfaction,hiring,Nursing,Workforce,Health Tech for Payers,Digital Health,Fierce Healthcare Homepage,Health Tech,Payers,Providers,Hospitals,Practices,AI and Machine Learning","Healthcare organizations struggling under a mountain of unfilled job postings are turning to technology to address staffing shortages. | Healthcare organizations struggling under a mountain of unfilled job postings are turning to technology to address staffing shortages and employee retention. AI and machine learning models are easing the application process, atomizing workflow to decrease burnout and offering leadership time to connect with employees, health tech leaders say.","Healthcare organizations struggling under a mountain of unfilled job postings are turning to technology to address staffing shortages. | Healthcare organizations struggling under a mountain of unfilled job postings are turning to technology to address staffing shortages and employee retention. AI and machine learning models are easing the application process, atomizing workflow to decrease burnout and offering leadership time to connect with employees, health tech leaders say.",,https://schema.org/,,"Digital Health,Fierce Healthcare Homepage,Health Tech,Payers,Providers,Hospitals,Practices",N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Life Sciences Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Providers
+
+
+
+Hospitals
+
+
+Practices
+
+
+Retail
+
+
+
+
+Health Tech
+
+
+
+AI and Machine Learning
+
+
+Digital Health
+
+
+Telehealth
+
+
+
+
+Payers
+
+
+Regulatory
+
+
+Finance
+
+
+Special Reports
+
+
+Fierce 50
+
+
+
+Special Report
+
+
+Awards Gala
+
+
+
+
+
+
+
+
+Resources
+
+
+
+Webinars
+
+
+Fierce Events
+
+
+Industry Events
+
+
+Podcasts
+
+
+Survey
+
+
+Whitepapers
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Providers
+
+
+
+Hospitals
+
+
+Practices
+
+
+Retail
+
+
+
+
+Health Tech
+
+
+
+AI and Machine Learning
+
+
+Digital Health
+
+
+Telehealth
+
+
+
+
+Payers
+
+
+Regulatory
+
+
+Finance
+
+
+Special Reports
+
+
+Fierce 50
+
+
+
+Special Report
+
+
+Awards Gala
+
+
+
+
+
+
+
+
+Resources
+
+
+
+Webinars
+
+
+Fierce Events
+
+
+Industry Events
+
+
+Podcasts
+
+
+Survey
+
+
+Whitepapers
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Life Sciences Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI and Machine Learning
+
+
+
+
+From finding the right candidates to keeping them, how hospitals are using AI to address workforce needs
+
+
+
+
+
+By 
+Annie Burky
+
+
+
+
+
+Nov 23, 2022 11:58am
+
+
+
+
+Artificial Intelligence
+Job Satisfaction
+hiring
+Nursing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Burnout has been seen throughout the healthcare industry with primary care physicians and nurses expected to leave the industry in droves in the upcoming years. Companies are using AI to ease hiring and retention, while freeing up resources like manager time and company funds to create new opportunities for career development and offer higher wages.  (monkeybusinessimages/GettyImages)
+Healthcare organizations struggling under a mountain of unfilled job postings are turning to technology to address staffing shortages.Artificial intelligence and machine learning models are easing the application process, automizing workflow to decrease burnout and offering leadership time to connect with employees, health tech executives say.The technology also is providing ways to help healthcare professionals find the right job, stay at the right job and interact with coworkers and patients on a more human level.Almost 334,000 clinicians, including physicians, nurse practitioners and physician assistants exited the workforce in 2021 due to retirement, burnout and pandemic-related stressors including increased workplace violence, according to a recent report from Definitive Healthcare.On average, hospitals are experiencing 27.1% nurse turnover, up from 18.7% in 2020. Overall hospital staff turnover is at 25.9%, up from 19.5%, according to the 2022 NSI National Health Care Retention and RN Staffing Report.Dani Bowie is vice president of clinical strategy and transformation at Trusted Health, a labor marketplace and workforce management platform for the healthcare industry. She began her career as a nurse manager at Providence Health. Her firsthand experience hiring nurses later informed her time as vice president of nursing workforce development at Bon Secours Mercy Health and helps steer Trusted Health today.Bowie now works to apply the lab innovations of AI to the practical application of nursing, a part of the healthcare labor force that was experiencing a shortage long before the COVID-19 pandemic, which only revealed and exacerbated the workforce challenges, according to Bowie.The average age of nurses is already 57 years, according to Definitive Healthcare’s data, pointing to a quickly approaching cliff where the healthcare shortage will become an even greater crisis. Even with hefty sign-on bonuses, human resource departments cannot hire people fast enough as organizations can’t get hires to stay.RelatedMore than 300K healthcare providers dropped out of the workforce in 2021, report finds“Large health systems tend to do a lot of manual work around staffing, scheduling, timekeeping and they do so without the support of predictive models, automation, or any type of intelligence,” Bowie told Fierce Healthcare. “And what you see as a result, typically, is higher labor costs, lower nurse satisfaction and lower retention and satisfaction of your nurse managers.”Trusted Health’s nurse staffing platform, called Works, sifts through nurse scheduling and finds which shifts need hiring, thereby decreasing the manual work of nurse managers who have anywhere from 80 to 120 direct reports, according to Bowie.The San-Francisco-based startup unites internal staff and external contract professionals (like travel nurses) in an operating system to increase flexibility to meet staffing needs due to seasonality, turnover, sick calls and acuity changes.“We're able to take a completed schedule that's been built and then automate the recruitment of the shifts that are unfilled or change,” Bowie said. “As soon as those shifts are generated and are open, we come in, we integrate with the schedule, we pull in all those open shifts and then we automate the recruitment of those open shifts to the right workforce based off of skills competency, price point, as well as ensuring that they're not overworked.”Many managers hire a core base of nurses based on predicted bed capacity, however, during a public emergency or changes in local populations, hiring needs to change fast, Bowie said, and this is where automation comes in and fills shifts as they arise.   Once a nurse finds the right position, Bowie says retention grows as nurse managers are less bogged down by red tape and better able to connect with nurses regarding their professional aspirations.“Typically, there's about 20% of untapped potential in your existing workforce. The ways that you can leverage it is to upskill, cross-train and get new experiences to the workforce,” Bowie said. “What’s going to help increase retention? Flexibility and new opportunities. It’s a way to engage your existing workforce, to allow them to have the opportunities that historically are challenging to manage manually.”Some organizations are turning to Paradox, an AI-based platform that speeds job recruitment. Carlos Fernandez, director of talent acquisition at Houston Methodist, turned to Paradox partially due to the power of asynchronous communication.  “Nursing was our focal point because of just the fact that we have over 2,500 to 3,000 openings at a given time, we average over 7,000 hires annually; 30% of those vacancies are nursing-based,” Fernandez told Fierce Healthcare. “We wanted to position our sourcing chatbot, powered by Paradox, to be able to scale from a hiring standpoint.”Houston Methodist is comprised of an academic medical center in the Texas Medical Center along with six community hospitals. The system boasts a total of eight hospitals, 1.6 million outpatient visits annually and 27,947 employees.Fernandez realized that many nurses who he hoped to hire for night shifts were getting off the night shifts they already had and were not able to communicate with hiring managers in an effective way.“We wanted to align a technology to be able to, one, schedule timely interactions with our recruiters and, two, for our sourcing team to be able to connect the dots. We like to say administrivia; we reduced administrivia when it comes to some of the calendar scheduling with candidates as well,” he said.Once an applicant gets to the interview stage, hiring managers can ensure that more nuanced connections are being made like shared culture and philosophy of care. All other objective qualifications can be left to the computers, easing hiring and decreasing HR staff burnout.Paradox states that it automates over 90% of the end-to-end process for hiring managers. The platform’s automated chat assistant, Olivia, can direct prospective hires to new positions and interview times with only a few bits of screening information.RelatedProvidence, Premier invest in CommonSpirit's workforce development platform “From an AI perspective, we're continuously growing our organization, continuously evolving from a tech stack and innovation standpoint,” Fernandez said. “We have a center for innovation that is essentially research and development for our organization to bring to light technologies and innovations that help us grow in the space of patient care. Our talent acquisition team has been able to bring to light technologies in that space and AI being a key part of that.”Fernandez said that after adopting Paradox’s technology, Houston Methodist saw a 30% increase in applications for hard-to-fill positions, 60% of qualified candidates were sending in those applications after hours and 88% of interviews were scheduled the same day a candidate applied.Demand for health system hires extends to ITHiring for health IT presents an entirely new set of challenges like cost, reflective of high competition in the market, and matching skillsets. With an increased move into digital health and the complete digitization of healthcare, more professionals than ever are needed with the stakes being much higher.There’s also a high demand for talent as hospital cyberattacks continue and cybersecurity becomes a higher priority.But with flashy benefits packages and eye-popping salaries at tech companies, even with a tech recession looming, hiring IT experts for hospitals is no easy feat.“There's still a lot of manual effort that goes into contacting talent in order to verify data points or information about those individuals to see if they're really an aligned, available resource for a need that an organization might have,” Steve Glomski, CEO of Abra, a healthcare IT talent platform, told Fierce Healthcare.Abra’s talent platform launched in October and is designed specifically for the healthcare IT ecosystem.RelatedCyber experts hope CommonSpirit's crippling attack will spur hospitals to tighten defenses—and government to play offenseThe app aggregates various sources of health IT talent including independent contractors, consulting firm benches and other application teams. By leveraging AI and machine learning, Abra matches talent with health systems while adding transparency to the hiring process.“By automating a lot of those manual processes that go into aligning talent with opportunities, we cut out a lot of the costs that are associated with that process,” Glomski said. “That cost can be passed on to organizations that are consuming their capacity and using them to progress their projects. That should help benefit talent, to be working on things that they enjoy working on more. With the cost savings, it also allows employers to potentially afford more to attract the talent and pay them up a reasonable wage.”The company claims that it can help organizations reach 47% in cost savings.Abra also works to cut through the noise of job posts. Unlike nursing where a licensure number can be confirmed quickly, health IT qualifications are more nuanced. Through using AI and machine learning, Abra’s technology can collect more data points, including reviews from former employers, and better determine if a candidate is qualified earlier in the hiring process.“The one big point is around the need for a flexible workforce specific to healthcare IT,” Glomski said. “Healthcare demands change consistently. Flexibility within their health IT teams has been critical for a while. Until now, it's really been challenging and costly to create that flexible workforce.”
+
+Artificial Intelligence
+Job Satisfaction
+hiring
+Nursing
+Workforce
+Health Tech for Payers
+Digital Health
+Health Tech
+Payers
+Providers
+Hospitals
+Practices
+AI and Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+
+Related ContentCDC report on resistant hospital infections outlines need for federal investment, epidemiology society saysJul 22, 2024 09:15amNew Senate healthcare cybersecurity bill appears redundant to ongoing mitigation activities, legal expert saysJul 22, 2024 08:59amFive Questions Payers Should Ask About The Payer-To-Payer API Mandated By CMSJul 22, 2024 08:00amWeight health company Found taps Luca Ranaldi as CEOJul 22, 2024 08:00am
+
+
+
+
+
+
+
+See more articles
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Connect
+
+
+
+The Team
+
+
+Advertise
+
+
+
+
+Join Us
+
+
+
+Newsletters
+
+
+Resources
+
+
+RSS Feeds
+
+
+Editorial Advisory Council
+
+
+
+
+Our Brands
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+
+
+Our Events
+
+
+
+Life Sciences Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2024 Questex LLC All rights reserved.
+Terms of use
+Privacy Policy
+Privacy Settings
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{'@type': 'NewsArticle', 'headline': 'How healthcare is using AI to beef up staff, decrease turnover', 'articleSection': None, 'keywords': 'AI and Machine Learning', 'description': 'With hospital staffing turnover reaching all-time highs, organizations are looking to AI to ease clinician and IT hiring and retain employees.', 'datePublished': '2022-11-23T16:58:00', 'isAccessibleForFree': True, 'dateModified': '1688077237', 'author': [[{'@type': 'Person', 'name': 'Annie Burky', 'url': 'https://www.fiercehealthcare.com/person/annie-burky'}]], 'publisher': {'@type': 'Organization', 'name': 'FierceHealthcare', 'url': 'https://www.fiercehealthcare.com'}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.fiercehealthcare.com/ai-and-machine-learning/finding-right-candidates-keeping-them-ai-aiding-healthcare-industry-meets'}, 'image': 'https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-502605209%20%281%29.jpg?VersionId=g6BAQFi2_8nlDIA76sR5ku.jlnNlQNgB'}"
+https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vY2lvbmV3cy5jby5pbi9tZW1iZXJzLW9mLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXVyZ2VkL9IBAA?oc=5,India urges member states of Global Partnership on Artificial Intelligence to work on common framework - CIO News,2022-11-24,CIO News,https://cionews.co.in,"To prevent user harm from Artificial Intelligence (AI), India has urged member states of the Global Partnership on Artificial Intelligence (GPAI) to work",N/A,"To prevent user harm from Artificial Intelligence (AI), India has urged member states of the Global Partnership on Artificial Intelligence (GPAI) to work","To prevent user harm from Artificial Intelligence (AI), India has urged member states of the Global Partnership on Artificial Intelligence (GPAI) to work",,https://schema.org,BreadcrumbList,Other Industries,N/A,"
+
+IndustriesOther IndustriesArtificial Intelligence
+
+India urges member states of Global Partnership on Artificial Intelligence to work on common framework
+
+By Khushbu Soni -   November 24, 2022 0 205 
+
+
+
+
+FacebookTwitterPinterestWhatsAppLinkedinTelegram
+
+
+
+India urges member states of Global Partnership on Artificial Intelligence to work on common framework
+The minister of state for electronics and information technology Rajeev Chandrasekhar while addressing the closing session of the three-day Global Partnership on Artificial Intelligence summit held in Tokyo, said that it was important for member nations to understand that user harm, criminality and issues that threaten trust online were proliferating
+To prevent user harm from Artificial Intelligence (AI), India has urged member states of the Global Partnership on Artificial Intelligence (GPAI) to work together on evolving a common framework of rules and regulations.
+The minister of state for electronics and information technology Rajeev Chandrasekhar while addressing the closing session of the three-day Global Partnership on Artificial Intelligence summit held in Tokyo, said that it was important for member nations to understand that user harm, criminality and issues that threaten trust online were proliferating.
+“We all should be concerned about user harm. I would encourage member states to think about evolving a common framework of rules and guidelines about data governance, about safety and trust as much to do with the internet as to do with AI,” Chandrasekhar said, addressing the summit virtually.
+Include countries such as the US, the UK, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, and the Republic of Korea among others, the GPAI having 25 member nations, was founded in 2020 to support responsible and human-centric development and use of Artificial Intelligence.
+India, which is the current chair of GPAI, had joined the 25-nation alliance in 2020 as a founding member.
+Also read: Digital literacy is the ability to comprehend and integrate the vast sources of information available
+Do Follow: CIO News LinkedIn Account | CIO News Facebook | CIO News Youtube | CIO News Twitter
+About us:
+CIO News, a proprietary of Mercadeo, produces award-winning content and resources for IT leaders across any industry through print articles and recorded video interviews on topics in the technology sector such as Digital Transformation, Artificial Intelligence (AI), Machine Learning (ML), Cloud, Robotics, Cyber-security, Data, Analytics, SOC, SASE, among other technology topics
+
+
+ 
+
+  
+FacebookTwitterPinterestWhatsAppLinkedinTelegram
+
+ Previous articleData Recovery Service Centre launched at TrivandrumNext articleOppo, Skit.ai partner to launch AI voicebot Khushbu Sonihttps://cionews.co.inChief Editor - CIO News |
+Founder & CEO - Mercadeo  
+",,,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://cionews.co.in/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://cionews.co.in/category/industries/', 'name': 'Industries'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://cionews.co.in/category/industries/other-industries/', 'name': 'Other Industries'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://cionews.co.in/members-of-artificial-intelligence-urged/', 'name': 'India urges member states of Global Partnership on Artificial Intelligence to work...'}}]",,,,,,,,,,,,,,,,,"[{'@type': ['Person', 'Organization'], '@id': 'https://cionews.co.in/#person', 'name': 'Khushbu Soni', 'logo': {'@type': 'ImageObject', '@id': 'https://cionews.co.in/#logo', 'url': 'https://cionews.co.in/wp-content/uploads/2020/10/cio-logo-1920.png', 'contentUrl': 'https://cionews.co.in/wp-content/uploads/2020/10/cio-logo-1920.png', 'caption': 'Khushbu Soni', 'inLanguage': 'en-US', 'width': '1920', 'height': '1080'}, 'image': {'@type': 'ImageObject', '@id': 'https://cionews.co.in/#logo', 'url': 'https://cionews.co.in/wp-content/uploads/2020/10/cio-logo-1920.png', 'contentUrl': 'https://cionews.co.in/wp-content/uploads/2020/10/cio-logo-1920.png', 'caption': 'Khushbu Soni', 'inLanguage': 'en-US', 'width': '1920', 'height': '1080'}}, {'@type': 'WebSite', '@id': 'https://cionews.co.in/#website', 'url': 'https://cionews.co.in', 'name': 'Khushbu Soni', 'publisher': {'@id': 'https://cionews.co.in/#person'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://cionews.co.in/wp-content/uploads/2022/11/Article-Main-Image-1-3.png', 'url': 'https://cionews.co.in/wp-content/uploads/2022/11/Article-Main-Image-1-3.png', 'width': '900', 'height': '619', 'caption': 'India urges member states of Global Partnership on Artificial Intelligence to work on common framework', 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://cionews.co.in/members-of-artificial-intelligence-urged/#webpage', 'url': 'https://cionews.co.in/members-of-artificial-intelligence-urged/', 'name': 'India urges member states of Global Partnership on Artificial Intelligence to work on common framework - CIO News', 'datePublished': '2022-11-24T06:07:55+05:30', 'dateModified': '2022-11-24T06:07:55+05:30', 'isPartOf': {'@id': 'https://cionews.co.in/#website'}, 'primaryImageOfPage': {'@id': 'https://cionews.co.in/wp-content/uploads/2022/11/Article-Main-Image-1-3.png'}, 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://cionews.co.in/author/wpadmin/', 'name': 'Khushbu Soni', 'url': 'https://cionews.co.in/author/wpadmin/', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g', 'caption': 'Khushbu Soni', 'inLanguage': 'en-US'}, 'sameAs': ['https://cionews.co.in']}, {'@type': 'NewsArticle', 'headline': 'India urges member states of Global Partnership on Artificial Intelligence to work on common framework - CIO', 'keywords': 'Artificial Intelligence', 'datePublished': '2022-11-24T06:07:55+05:30', 'dateModified': '2022-11-24T06:07:55+05:30', 'articleSection': 'Artificial Intelligence, Other Industries', 'author': {'@id': 'https://cionews.co.in/author/wpadmin/', 'name': 'Khushbu Soni'}, 'publisher': {'@id': 'https://cionews.co.in/#person'}, 'description': 'To prevent user harm from Artificial Intelligence (AI), India has urged member states of the Global Partnership on Artificial Intelligence (GPAI) to work', 'name': 'India urges member states of Global Partnership on Artificial Intelligence to work on common framework - CIO', '@id': 'https://cionews.co.in/members-of-artificial-intelligence-urged/#richSnippet', 'isPartOf': {'@id': 'https://cionews.co.in/members-of-artificial-intelligence-urged/#webpage'}, 'image': {'@id': 'https://cionews.co.in/wp-content/uploads/2022/11/Article-Main-Image-1-3.png'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://cionews.co.in/members-of-artificial-intelligence-urged/#webpage'}}]"
+https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvZHJvbmVzLWFpLWNvbXBhbmllc9IBAA?oc=5,AI Drones: How AI Works in Drones & 13 Examples - Built In,2022-11-22,Built In,https://builtin.com,AI drones are used in industries ranging from farming to military defense and security. Here are X examples of companies using AI drones. ,N/A,AI drones are used in industries ranging from farming to military defense and security. Here are X examples of companies using AI drones. ,AI drones are used in industries ranging from farming to military defense and security. Here are X examples of companies using AI drones. ,,https://schema.org,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image: Shutterstock
+
+UPDATED BY
+Jessica Powers | Nov 22, 2022
+
+
+
+Artificial intelligence and drones are a match made in tech heaven. Pairing the real-time machine learning technology of AI with the exploratory abilities of unmanned drones gives ground-level operators a human-like eye-in-the-sky.
+More than ever before, drones play key problem-solving roles in a variety of sectors: defense, agriculture, natural disaster relief, security and construction. With their ability to increase efficiency and improve safety, drones have become important tools for everyone from firefighters to farmers. Smart UAVs are so popular, in fact, that they’re now used on more than 400,000 jobs sites worldwide.
+Uses of AI DronesDefenseAgricultureDeliverySecurityDisaster reliefConstruction
+Until recently, though, drones were only able to display what their cameras captured. Now, thanks to artificial intelligence software, they can perceive their surroundings, which enables them to map areas, track objects and provide analytical feedback in real-time.
+Check out these 13 companies that are using AI to improve a new generation of intelligent drones.
+ 
+13 Examples of AI in Drones
+Drones can now use AI to process what they see and report back in real-time, which helps humans accomplish feats previously thought impossible. AI drones survey land, assist military personnel and even fly themselves without a human operator. Additionally, emergency response teams — such as firefighters battling forest fires — use AI drones in containment and recovery efforts.
+ 
+Software for AI Drones
+Below are five companies that install AI technology in drones.
+ 
+
+
+ 
+SkycatchView Profile
+
+
+Location: San Francisco, California
+How it’s using AI drones: Skycatch builds software that autonomously captures, processes and analyzes drone data from aerial images. The company’s software turns these aerial images into orthomosaics, 3D meshes or thermal images to get a holistic view of the land being surveyed.
+Japanese construction giant Komatsu uses Skycatch-integrated drones on more than 5,500 job sites. According to the company, they can generate 3D imagery that’s accurate up to five centimeters. It then takes the integrated software only about 30 minutes to process aerial images as opposed to days for humans to accomplish the same task.
+
+
+
+
+ 
+DroneSenseView Profile
+
+
+Location: Austin, Texas
+How it’s using AI drones: DroneSense is a drone software platform for public safety officials that takes raw data captured by drones and turns it into actionable insights for police, fire and other emergency teams. The DroneSense OpsCenter enables multiple drone users to collaborate, view what each drone sees and even traces a drone’s flight pattern in real-time.
+The DroneSense public safety platform has been used by dozens of teams to combat a variety of public safety threats. The AI-powered software assists SWAT teams in gathering scene intelligence, assessing damage after hurricanes and tornadoes and even employs thermal imaging to locate missing persons.
+
+
+
+
+
+ 
+NeuralaView Profile
+
+
+Location: Boston, Massachusetts
+How it’s using AI drones: Neurala is a deep learning neural network that helps drones sift through crowds to find and identify persons of interest. It can even inspect large industrial equipment, like telephone towers, and generate a real-time damage report. The company claims that in order to scan crowds for an individual, its AI-powered software only needs 20 minutes to understand the image of an individual, rather than industry-standard hours or days.
+The Lindbergh Foundation uses Neurala-powered drones to combat elephant poaching in Africa. The artificially intelligent drones use the company’s image recognition technology to monitor elephant herds and spot possible poachers miles before they reach the elephants.
+
+
+ 
+
+
+ 
+Scale AIView ProfileWe are hiring
+
+
+Location: San Francisco, California
+How it’s using AI drones: Scale uses AI and machine learning to help train drones on aerial imagery. The machine learning software helps drones identify, label and map everything from homes in a neighborhood to individual objects like cars.
+
+
+They're Hiring | View 105 JobsScale AI is Hiring | View 105 Jobs
+
+
+ 
+
+
+ 
+PerceptoView Profile
+
+
+Location: Modi’in, Israel
+How it’s using AI drones: Percepto specializes in both software and hardware solutions for AI drones. Its AIM visual data management system can be used by drones, robots and cameras. The software uses AI and deep learning to survey sites for construction inspection, 3D modeling and security patrol. Percepto’s drone-in-a-box is trusted by regulators across the globe and comes in three distinct models that are used in mining and energy facilities to detect gas leaks, monitor construction and more.
+
+
+More on Drones12 Drone Delivery Companies to Know 
+AI Drone Equipment
+ 
+Below are eight companies making AI-powered drones to accomplish search and rescue missions, scan shelves in warehouses and capture athletes on video.
+
+
+ 
+BRINC DronesView Profile
+
+
+Location: Las Vegas, Nevada
+How it’s using AI drones: Brinc’s LEMUR S drone features a quad-copter design, night vision capabilities and a 31-minute flight time, plus the ability to be idle for 10 hours while still capturing video and audio. LEMUR S is ideal for first responders and search and rescue teams that may experience high-risk situations. The drone’s microphone and video capture capabilities allow for conversations as well as reconnaissance.
+
+
+ 
+
+
+ 
+SkydioView ProfileWe are hiring
+
+
+Location: Redwood City, California
+How it’s using AI drones: Skydio’s autonomous drones combine AI supercomputers and 13 cameras to capture video footage. The self-flying drone has several different styles of video capture (including tripod mode and follow mode), all of which require no human interaction.
+The Skydio drone is used in many fields, including sports. Runners, bikers and hikers can choose a video capture mode and Skydio captures their every move. The drone also autonomously identifies and follows a film's subject
+
+
+They're Hiring | View 39 JobsSkydio is Hiring | View 39 Jobs
+
+
+ 
+
+
+ 
+Shield AIView ProfileWe are hiring
+
+
+Location: San Diego, California
+How it’s using AI drones: Shield AI's drone assists ground forces and first responders in exploration and data gathering. Equipped with proprietary “Hivemind” software, the company’s UAVs can communicate with each other to quickly discover surroundings and identify individuals in an emergency situation.
+The Shield AI “Hivemind Nova” drone assists law enforcement and military personnel in reconnaissance missions. The robots can access GPS-denied areas such as building interiors and underground facilities to gather ground-level intelligence.
+
+
+They're Hiring | View 59 JobsShield AI is Hiring | View 59 Jobs
+
+
+ 
+
+
+Video: Applied Aeronautics 
+
+
+ 
+Applied AeronauticsView Profile
+
+
+Location: Austin, Texas
+How it’s using AI drones: Applied Aeronautics uses AI in their fully-autonomous “Albatross” long range, UAV. The company markets their drone for professional use in aerial surveying, pipeline inspections, disaster response and search and rescue. So far, the UAV has been used on every single continent, and it has assisted with everything from marine life conservation to humanitarian aid. The company’s drone can fly for four hours straight and reach speeds of up to 90 miles per hour.
+
+
+ 
+
+
+ 
+ZiplineView ProfileWe are hiring
+
+
+Location: San Francisco, California
+How it’s using AI drones: Zipline offers logistics solutions through its AI-powered drones, which deliver necessary medicine to communities throughout the world without needing a pilot. The drones are capable of enduring harsh weather and completing trips around the equator in as little as two-and-a-half days.
+
+
+They're Hiring | View 40 JobsZipline is Hiring | View 40 Jobs
+
+
+Read NextWhat Are Cobots and How Are We Using Them? 
+
+
+ 
+OrbyView Profile
+
+
+Location: Santa Clara, California
+How it’s using AI drones: Orby makes flying drones and robots for businesses. The artificially intelligent drones assist with mapping and the designing of large-scale warehouses and factories. They can also track inventory by using AI that performs a depth analysis on current stock via flight video.
+Orby uses drones and AI analytics to scan shelves and automatically track and order new inventory. Drone flights can even be programmed to perform tasks during off-hours and dock themselves.
+
+
+
+ 
+ 
+
+
+ 
+AeroVironmentView ProfileWe are hiring
+
+
+Location: Arlington, Virginia
+How it’s using AI drones: AeroVironment uses AI to power its autonomous military drones. The company’s drones range from an undetectable three-foot-long recon plane to the Switchblade, which is equipped with a precision strike warhead for military operations. Aerovironment makes a host of AI-powered drones for different military purposes. The company’s UAVs are also being used in agriculture to map field acreage, spot crop health issues and determine irrigation issues.
+
+
+They're Hiring | View 22 JobsAeroVironment is Hiring | View 22 Jobs
+
+
+ 
+
+
+ 
+BlueHaloView Profile
+
+
+Location: Arlington, Virginia
+How it’s using AI drones: BlueHalo partners with government and commercial organizations who want to use its unmanned aerial systems drones for protection and surveillance purposes. BlueHalo utilizes its rapid prototyping capabilities and relationships with government agencies to provide platforms, UASs and pilot support. BlueHalo is able to provide rapid prototyping thanks to SolidWorks 3D modeling, additive manufacturing and CNC based machines.
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@context': 'https://schema.org', '@type': 'Article', 'headline': 'AI Drones: How Artificial Intelligence Works in Drones and Examples', 'name': 'AI Drones: How Artificial Intelligence Works in Drones and Examples', 'description': 'Artificial intelligence and drones are a match made in tech heaven. Pairing the real-time machine learning technology of AI with the exploratory abilities of unmanned drones gives ground-level operators a human-like eye-in-the-sky.', 'image': {'@type': 'ImageObject', 'url': 'https://builtin.com/sites/www.builtin.com/files/ai-drone_0.jpg', 'representativeOfPage': True}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://builtin.com/artificial-intelligence/drones-ai-companies', 'name': 'AI Drones: How Artificial Intelligence Works in Drones and Examples', 'lastReviewed': '2022-11-22T06:00:00+00:00'}, 'url': 'https://builtin.com/artificial-intelligence/drones-ai-companies', 'about': {'@type': 'Thing', 'name': 'Artificial Intelligence'}, 'author': {'@type': 'Person', '@id': 'https://builtin.com/authors/sam-daley', 'name': 'Sam Daley', 'description': 'Sam Daley is a Built In product manager who formerly covered AI, blockchain and emerging tech trends for BuiltIn.com. Prior to joining Built In, Daley worked as a CNN production assistant, a development coordinator for Rotary International and a research intern for the Iowa Legislature. He holds a bachelor’s degree in political science and government, international relations, law, politics and society from Drake University\r\n', 'jobTitle': 'Product Manager', 'sameAs': 'https://www.linkedin.com/in/samuel-daley/', 'url': 'https://builtin.com/authors/sam-daley', 'alumniOf': {'@type': 'Organization', 'name': 'Drake University'}, 'knowsAbout': 'Blockchain, Product Management'}, 'dateModified': '2022-11-22T06:00:00+00:00', 'datePublished': '2019-03-10T20:43:31+00:00', 'publisher': {'@type': 'Organization', '@id': 'https://builtin.com', 'name': 'Built In', 'url': 'https://builtin.com', 'sameAs': ['https://www.facebook.com/BuiltInHQ/', 'https://twitter.com/builtin', 'https://www.instagram.com/builtin/', 'https://www.linkedin.com/company/built-in'], 'brand': {'@type': 'Brand', 'name': 'Built In'}, 'logo': {'@type': 'ImageObject', 'url': 'https://static.builtin.com/dist/images/built-logo.png', 'representativeOfPage': True}}}]"
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5leHRnb3YuY29tL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzIwMjIvMTEvZ29vZC1haS1zdGFydHMtdHJhaW5lZC13b3JrZm9yY2UtZ292ZXJubWVudC1leHBlcnRzLXNheS8zODAwMDAv0gEA?oc=5,"Good AI Starts With a Trained Workforce, Government Experts Say - Nextgov/FCW",2022-11-21,Nextgov/FCW,https://www.nextgov.com,A group of federal technologists and data experts explained that data management and government AI efforts hinge on employee initiatives.,,A group of federal technologists and data experts explained that data management and government AI efforts hinge on employee initiatives.,A group of federal technologists and data experts explained that data management and government AI efforts hinge on employee initiatives.,,http://schema.org,Article,N/A,N/A,"
+
+Good AI Starts With a Trained Workforce, Government Experts Say
+                    metamorworks/Getty Images
+                  
+Sponsor Message
+
+Sponsor Message
+
+
+      
+  Get the latest federal technology news delivered to your inbox.
+
+    emailStay Connected
+Sponsor Message
+
+Sponsor Message
+
+Featured eBooks
+  Cyber Workforce
+            Read Now
+              Law Enforcement TechRead NowAI in the WorkplaceRead Now
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+By
+
+Kirsten Errick,Staff Reporter, Nextgov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+              
+                
+  
+
+
+
+  By
+
+
+Kirsten Errick
+
+|
+
+             November 21, 2022
+            
+
+A group of federal technologists and data experts explained that data management and government AI efforts hinge on employee initiatives.
+
+
+
+
+
+
+                  Artificial Intelligence
+                
+
+
+
+
+
+
+
+
+
+                  Workforce
+                
+
+
+
+
+
+
+
+
+
+                  Data Governance
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agencies’ digital transformation efforts in areas like artificial intelligence must also consider workforce needs, according to a panel of government technology experts. Speaking at an ATARC event on Thursday, the panelists asserted that it does not matter how good the data or AI is, if people do not know how to use it correctly or understand it. As a result, the panelists emphasized the need for data literacy, education and training.“I can build the best AI model, but if I put it in the hands of my investigator, and if he has a ton of questions, then we just lost them,” Ben Joseph, chief data officer for the United States Postal Service Office of Inspector General, said. “Earlier this year, we actually punched out a small program in terms of data literacy…so we educate my workforce, investigators, auditors and everybody else, like ‘how do you interpret data?’”“It’s almost like you have to right-size the AI education for the position or the role that the individual is playing in the lifecycle,” William Streilein, chief technology officer at the Department of Defense’s Office of the Chief Digital and Artificial Intelligence Officer, said. “And so, somebody who’s in acquisition, certainly they are capable of knowing all the details, but they don’t necessarily need to. They need to know enough and what’s relevant for their role.”While data literacy and training is important, Joseph emphasized that it is also necessary to have people with different skill sets. “We don’t want to invest a ton of time on transforming everybody into data scientists,” Joseph said. “We need a mix of people like data analysts, data engineers, data scientists and people who can answer, communicate, change and all that.”Meanwhile, the Department of Homeland Security is working on a program to gather existing top-tier experts in different areas from across the agency. “What we’re trying to do around the black belt program is find who the experts are in the DHS organization,” David Larrimore, chief technology officer for DHS, said.The DHS program will evaluate three components: level of training, which may be a certification; the amount of personal or professional experience on a particular topic; and deliverables to prove one’s knowledge and expertise in a particular area. “Because there is no way that of the 350 or so acquisition programs going on right now, everyone has someone who could be considered an AI black belt,” Larrimore said. “But wouldn’t it be great if a black belt from CBP could go spend six months over a FEMA program to help them get on with this.”Beyond cultivating expertise in advanced technologies, like AI, the experts noted that employees need to understand the value of not just any data, but quality data. “We have to get our data in order, because the data will supply you the fuel for the analytics,” Streilein said. “Teaching best practices related to data is probably the most important thing. We like to say, ‘no new bad.’ Data gets created all the time and it’s just so easy to create it and not put the right labels on it, not put it in the right place. We use the term VAULTIS—which is an acronym for visible, accessible, understandable, linked, trustworthy, interoperable and secure. So that’s a lot. But if you can make your data VAULTIS, then you are hopefully AI ready. That’s certainly a good bar to shoot for.”According to Larrimore, the quality of data must be continually verified.. “We have to constantly question the data we’re looking at, and it’s only through working with components, with the data providers, with the data stewards,” Larrimore said. “Are we actually understanding where the rubber meets the road, the brass tacks, the bottom line, up front of what had been presented to us, right? And it’s not until those conversations happen, till everybody kind of comes to an agreement on what information actually provides value.”Panelists also highlighted the importance of different parts of an agency working together and getting to understand how their portion impacts the larger agency mission. “Often, we don’t allow the acquisition workforce to be able to see the full results of their work,” Udaya Patnaik, chief innovation strategist for the office of information technology category at the General Services Administration’s Federal Acquisition Service, said. “You have to be able to know how the work that you are doing on particular acquisitions is being used in agencies and be able to connect all the dots that say, like, ‘Ooh, because we’ve made this action over here, the data impacts way down here.’”
+
+
+
+
+
+
+
+
+Share This:
+
+
+
+NEXT STORY:
+
+              Critical Update: How Data Analytics and AI Algorithms Can Prioritize Trust
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human operators must be held accountable for AI’s use in conflicts, Air Force secretary says
+
+
+
+
+
+
+
+Why NIST is prioritizing creating a dictionary of AI development
+
+
+
+
+
+
+
+SSA restructures tech shop to center on the CIO
+
+
+
+
+
+
+
+How a push to the cloud helped a Ukrainian bank keep faith with customers amid war
+
+
+
+
+
+
+
+The people problem behind the government’s AI ambitions
+
+
+
+
+
+
+
+Nextgov/FCW eBook: Cyber Workforce
+
+
+
+
+
+
+
+
+Human operators must be held accountable for AI’s use in conflicts, Air Force secretary says
+
+
+
+
+
+
+Why NIST is prioritizing creating a dictionary of AI development
+
+
+
+
+
+
+SSA restructures tech shop to center on the CIO
+
+
+
+
+
+
+How a push to the cloud helped a Ukrainian bank keep faith with customers amid war
+
+
+
+
+
+
+The people problem behind the government’s AI ambitions
+
+
+
+
+
+
+Nextgov/FCW eBook: Cyber Workforce
+
+
+
+
+
+
+",,"{'url': 'https://cdn.nextgov.com/media/img/cd/2022/11/21/112122workforceNG/route-fifty-lead-image.jpg?1669048553', 'width': 1200, '@type': 'ImageObject', 'height': 550}","Good AI Starts With a Trained Workforce, Government Experts Say",2022-11-21T12:42:40,"{'url': '/voices/kirsten-errick/24367/', '@type': 'Person', 'name': 'Kirsten Errick'}",https://www.nextgov.com/artificial-intelligence/2022/11/good-ai-starts-trained-workforce-government-experts-say/380000/,2023-07-10T17:33:53,,"{'@type': 'Organization', 'name': 'Nextgov/FCW'}",,,,https://www.nextgov.com,,,,,,,,,,,,,Nextgov/FCW,,,,,,,"['https://www.facebook.com/NextgovFCW/', 'https://twitter.com/NextgovFCW', 'https://www.linkedin.com/company/nextgovfcw/']",
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYmVjb21lLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWVuZ2luZWVyL9IBAA?oc=5,How to Become an Artificial Intelligence Engineer: A Beginner's Guide - MUO - MakeUseOf,2022-11-22,MUO - MakeUseOf,https://www.makeuseof.com,An artificial intelligence engineer is one of the most in-demand careers of the future. Here&#039;s how you can become an AI engineer.,N/A,An artificial intelligence engineer is one of the most in-demand careers of the future. Here's how you can become an AI engineer., An artificial intelligence engineer is one of the most in-demand careers of the future. Here's how you can become an AI engineer. ,,http://schema.org,Article,Work & Career,N/A,"
+
+
+How to Become an Artificial Intelligence Engineer: A Beginner’s Guide
+Artificial Intelligence
+
+
+
+
+
+
+
+
+
+By 
+Oluwaniyi Raji
+
+
+Published Nov 22, 2022
+
+
+
+
+Your changes have been saved
+
+Email Is sent
+
+
+
+
+close
+Please verify your email address.
+
+
+Send confirmation email
+
+
+
+
+
+
+close
+You’ve reached your account maximum for followed topics.
+Manage Your List
+
+
+
+
+
+ Follow 
+
+
+
+Followed
+
+
+
+
+Follow with Notifications
+
+
+
+Follow
+
+
+
+Unfollow
+
+
+
+
+
+
+
+Share
+
+
+
+Facebook
+
+
+
+X
+
+
+
+LinkedIn
+
+
+
+Reddit
+
+
+
+Flipboard
+
+
+
+Copy link
+
+
+
+Email
+
+
+
+
+Link copied to clipboard
+
+
+
+Sign in to your MUO account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Artificial intelligence applications are increasing rapidly as many enterprises look to automate as many tasks as possible to increase productivity and efficiency and save time. Consequently, the demand for AI engineers is at an all-time high. 
+
+
+
+
+
+
+
+ Therefore, now is the best time to get into this budding field and build your relevance in the workspace. In this article, you will find the steps to take to become a successful AI engineer. 
+
+
+ Who Are Artificial Intelligence (AI) Engineers, and What Do They Do? 
+    
+
+ AI engineers are tech professionals who develop software, processes, systems, or tools that use machine-learning techniques to analyze human behavior and perform tasks autonomously. In other words, AI engineers devise means to increase the efficiency and productivity of a company's operations. 
+
+ The functions of an AI engineer in a company include the following: 
+
+ Automate processes through machine learning.  Build and deploy machine learning algorithms.  Create, test, and deploy AI models and systems.  Develop and manage AI infrastructure (tools and systems).  Liaison between software development and data science teams.  Use AI to develop new and improved capabilities and operations.  Build systems that automatically analyze data and improve business decisions.  Convert machine learning models into application programming interfaces (APIs) to allow access by other applications. 
+
+
+
+
+
+
+
+ As you can see, the services of AI engineers are of tremendous benefit to companies across all industries. 
+
+
+
+ How to Become an Artificial Intelligence (AI) Engineer 
+ Now that you know what AI engineers do, the question is: how do you become one? Follow these steps. 
+
+ 1. Get a Computer Science or IT Degree, Specializing in Artificial Intelligence 
+ A professional engineering career like AI engineering typically requires getting at least a bachelor's degree in any information technology or computer science-related field. Getting a college degree is important because it helps you understand basic computer and data science principles and how you can apply them as an AI engineer. 
+
+ Ultimately, you can pursue a master's degree in artificial intelligence, machine learning, or data science. That way, you get an in-depth knowledge of the profession. Moreover, most companies will require a degree before considering you for employment. Hence, getting a degree is very important if you want to become a professional AI engineer. 
+
+
+
+
+
+
+ 2. Earn Professional Certifications 
+    
+
+ Acquiring professional certificates is a great way to show your worth as an AI engineer because a certificate is obtained when you complete a course or training on the subject. And participating in professional certification programs increases your knowledge and gives you the skills you need to build a successful career. 
+
+ Furthermore, obtaining professional certificates gives you an added advantage in the ever-competitive labor market and ups your chances of being selected for top roles. Therefore, consider getting professional certificates through training or completing a professional course and exam from leading institutions. These include: 
+IBM AI Engineering Professional Certificate IBM Applied AI Professional Certificate Certified Artificial Intelligence Engineer (CAIE™) - United States Artificial Intelligence Institute (USAII™) Microsoft Certified: Azure AI Engineer Associate  
+
+
+
+
+
+ 3. Learn the Technical Skills 
+ AI engineering involves technical operations that require an arsenal of technical skills to execute them. AI engineering requires the understanding of top machine learning algorithms, such as linear regression, and deep learning algorithms, such as recurrent neural networks, and how to utilize them using a framework. 
+
+ Additionally, AI engineers handle large quantities of data; hence you should be familiar with big data technologies, like MongoDB, to help you manage data. Moreover, AI engineer jobs typically require a solid background in programming languages. Hence, you should be fluent in the best programming languages for AI development, like Python and C++. Furthermore, knowledge of algebra and statistics will help you to develop and implement various AI and Machine Learning models. 
+
+
+
+
+
+
+ 4. Build Soft Skills 
+    
+
+ AI engineers mostly work in teams with other professionals; hence you must possess numerous soft skills. For one, you must possess excellent communication skills to effectively work with others and express your ideas in the group. 
+
+ Furthermore, you must be attentive to detail and possess analytical thinking when working with data. In addition, developing business intelligence skills will help you build AI models that help companies make better business decisions. It would also be helpful if you were deadline-driven, so you could complete tasks by the deadline. 
+
+ 5. Build a Professional Network 
+ As AI engineers work alongside other professionals, like data scientists and software developers, networking with other professionals in the field is a great way to grow your relevance in the industry. One guaranteed benefit of networking with other experts in the industry is you are sure to learn something new and stay abreast of the latest innovations in the industry. 
+
+
+
+
+
+ Additionally, industry networking helps you find and get job opportunities easily. Furthermore, networking enables you to build a team of engineers with whom you can execute huge projects easier and faster. Therefore, find a professional association/group you can join and build your network. 
+
+ 6. Gain Practical Experience 
+    
+
+ While most companies typically choose individuals with years of experience as AI engineers, you may be disadvantaged if you're just getting into the field. However, you can gain practical experience by participating in a bootcamp or training. The projects you complete during this training can count for your experience in the field. Also, you can undertake personal projects with real-world applications. 
+
+
+
+
+
+ Furthermore, you can gain experience in the industry by taking on entry-level roles and working your way up. Accordingly, the number of real-life projects you complete can count as your experience level. 
+
+ 7. Prepare a Resume and Apply for AI Engineering Jobs 
+ After learning the ins and outs of AI engineering, getting the required skills, and trying your hands on real-life projects, prepare a technical resume highlighting your expertise and depth of knowledge. It is important to include both hard skills and soft skills on your resume to ensure you are considered for a position. 
+
+ When preparing your resume, include any professional certifications and your proficiency with the required AI tools, programming languages, and other technical skills to increase your chances of being selected for the job. After that, apply for AI engineering jobs and related roles. Also, update your CV with the latest experience, skills, or education. That way, you can build a viable CV that documents your advancement. 
+
+
+
+
+
+
+
+ Become an Artificial Intelligence Engineer Today 
+ Artificial intelligence continues to contribute to the growth of businesses, the development of industries, and the global economy as an increasing number of organizations turn to AI applications to increase efficiency and productivity and save time. 
+
+ Consequently, the career is expected to continue growing as the demand for AI solutions invariably means an increasing demand for AI professionals. Therefore, becoming an AI engineer today allows you to enjoy this growing industry's many exciting perks and lucrative financial rewards. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work & Career
+
+
+
+
+Artificial Intelligence
+
+
+
+
+Careers
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+Your changes have been saved
+
+Email Is sent
+
+
+
+
+close
+Please verify your email address.
+
+
+Send confirmation email
+
+
+
+
+
+
+close
+You’ve reached your account maximum for followed topics.
+Manage Your List
+
+
+
+
+
+ Follow 
+
+
+
+Followed
+
+
+
+
+Follow with Notifications
+
+
+
+Follow
+
+
+
+Unfollow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Readers like you help support MakeUseOf. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+
+
+
+
+
+
+Recommended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Want to Start a Career in AI? Here Are the Skillsets in Demand
+		
+
+
+Careers
+
+Jobs in artificial intelligence are in demand. Let's take a quick look at the career pathways you can opt for.
+
+
+
+
+
+
+Mar 19, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			My Favorite Canva Pro Features That Make the Subscription Worth It
+		
+
+
+Canva
+
+Here are my top Canva Pro features that make the subscription worth every penny!
+
+
+
+
+
+
+5 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			I Tested 5 Time-Lapse Apps: Here Are the Results
+		
+
+
+Time Lapse
+
+If you want to get started with creating time-lapses, or level up your time-lapse photography, look no further than these apps.
+
+
+
+
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			70+ Funny Things to Ask Alexa
+		
+
+
+Smart Home
+
+Looking for some funny things to ask Amazon Alexa? Here are some that you can ask right now.  
+
+
+
+
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			How to Manage Location Settings on Your iPhone
+		
+
+
+iPhone Tips
+
+Take control of your privacy by limiting the apps that can access your location.
+
+
+
+
+
+
+23 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			I Used to Love Duolingo, but It's Fallen So Far in These 5 Ways
+		
+
+
+Duolingo
+
+I've used Duolingo every day for over half a decade, but too many problematic changes may cut short my 1,800+ day streak.
+
+
+2
+
+
+
+
+2 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Use These Tools to Turn Videos Into GIFs on Android or iPhone
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Use These 4 Apps to Keep Your Plex Library Organized
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			If Your Intel CPU Keeps Crashing, You Might Need to Install This Update
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,"{'@type': 'ImageObject', 'contentUrl': 'https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/White-and-Blue-Robot-Figure.jpg', 'description': 'Pexels - no atribution required<br />https://www.pexels.com/photo/white-and-blue-robot-figure-8566473/', 'height': '840', 'width': '1680'}",How to Become an Artificial Intelligence Engineer: A Beginner’s Guide,2022-11-22T21:45:15Z,"[{'@type': 'Person', '@id': 'https://www.makeuseof.com/author/raji-oluwaniyi/#author', 'name': 'Oluwaniyi Raji', 'url': 'https://www.makeuseof.com/author/raji-oluwaniyi/', 'description': 'Raji Oluwaniyi is a multifaceted content writer with a penchant for research, writing, and editing a wide range of content with minimal oversight. As a Top Rated Freelancer, he has three years of experience writing tech-related and career-focused content for companies like Career Karma and Test Gorilla. Currently, he is a Work and Career section writer at MakeUseOf. As such, he looks forward to impacting a wide audience through his value-oriented and engaging approach to content writing.', 'image': 'https://static1.makeuseofimages.com/wordpress%2Fwp-content%2Fauthors%2F62eba7f12bb8e-IMG_8846%202.jpg', 'sameAs': ['https://www.linkedin.com/in/rajioluwaniyi']}]","{'@type': 'WebPage', '@id': 'https://www.makeuseof.com/become-artificial-intelligence-engineer/'}",2022-11-22T21:45:15Z,"['Work & Career', 'Artificial Intelligence', 'Careers', 'Job Tips']","{'@type': 'Organization', '@id': 'https://https://www.makeuseof.com/#organization', 'name': 'MakeUseOf', 'url': 'https://https://www.makeuseof.com', 'description': 'MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet.', 'publishingPrinciples': 'https://www.valnetinc.com/en/terms-of-use', 'foundingDate': '2007', 'alternateName': 'MUO', 'sameAs': [], 'logo': {'@type': 'ImageObject', 'url': 'https://www.makeuseof.com/public/build/images/muo-amp-logo.png', 'height': '101', 'width': '202'}}",,,,,,True,,"[{'@type': 'ListItem', 'position': '1', 'name': 'Home', 'item': 'https://www.makeuseof.com/'}, {'@type': 'ListItem', 'position': '2', 'name': 'Work &amp; Career', 'item': 'https://www.makeuseof.com/category/work-career/'}, {'@type': 'ListItem', 'position': '3', 'name': 'How to Become an Artificial Intelligence Engineer: A Beginner’s Guide', 'item': 'https://www.makeuseof.com/become-artificial-intelligence-engineer/'}]",,,"[{'@type': 'WebPageElement', 'isAccessibleForFree': 'True', 'cssSelector': '.article-body'}]",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2h5YnJpZC13b3JrLWhhcy1jaGFuZ2VkLW91ci1vZmZpY2UtaGFiaXRzLWJvc3Nlcy1uZWVkLXRvLXRha2Utbm90ZS_SAQA?oc=5,Hybrid work has changed our office habits. Bosses need to take note - ZDNet,2022-11-21,ZDNet,https://www.zdnet.com,"To make hybrid work more meaningful, office policy should change with the season, says Robin.",N/A,"To make hybrid work more meaningful, office policy should change with the season, says Robin.","To make hybrid work more meaningful, office policy should change with the season, says Robin.",,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY3JlYXRlZGlnaXRhbC5vcmcuYXUvcXV0LW1hc3Rlci1yb2JvdGljcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,Future-proof your career by upskilling in robotics and artificial intelligence - create digital,2022-11-24,create digital,https://createdigital.org.au,QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence,N/A,Sponsored by QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence Today’s workforce,Sponsored by QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence Today’s workforce,,https://schema.org,,Sponsored,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/', 'url': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/', 'name': 'Future-proof your career by upskilling in robotics and artificial intelligence - create digital', 'isPartOf': {'@id': 'https://createdigital.org.au/#website'}, 'primaryImageOfPage': {'@id': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://createdigital.org.au/wp-content/uploads/2000/11/Dimity_Miller_Eng_Robotics_14112022_018.jpg', 'datePublished': '2022-11-24T06:14:29+00:00', 'dateModified': '2022-11-25T03:41:21+00:00', 'author': {'@id': 'https://createdigital.org.au/#/schema/person/3ead33d16b8e1355207fb28ea5f7e9f7'}, 'description': 'QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence', 'breadcrumb': {'@id': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-AU', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://createdigital.org.au/qut-master-robotics-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-AU', '@id': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/#primaryimage', 'url': 'https://createdigital.org.au/wp-content/uploads/2000/11/Dimity_Miller_Eng_Robotics_14112022_018.jpg', 'contentUrl': 'https://createdigital.org.au/wp-content/uploads/2000/11/Dimity_Miller_Eng_Robotics_14112022_018.jpg', 'width': 1200, 'height': 600}, {'@type': 'BreadcrumbList', '@id': 'https://createdigital.org.au/qut-master-robotics-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://createdigital.org.au/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Future-proof your career by upskilling in robotics and artificial intelligence'}]}, {'@type': 'WebSite', '@id': 'https://createdigital.org.au/#website', 'url': 'https://createdigital.org.au/', 'name': 'create digital', 'description': 'Engineering. Making Life Happen.', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://createdigital.org.au/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-AU'}, {'@type': 'Person', '@id': 'https://createdigital.org.au/#/schema/person/3ead33d16b8e1355207fb28ea5f7e9f7', 'name': 'create', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-AU', '@id': 'https://createdigital.org.au/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/330e8e0cb129b9120feffec6b3f4ef85?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/330e8e0cb129b9120feffec6b3f4ef85?s=96&d=mm&r=g', 'caption': 'create'}, 'description': 'create tells the stories behind the latest trends, innovations and people shaping the engineering profession. Through our magazine, website, enewsletters and social media, we spread the word about all the ways engineers help create the world around us.', 'sameAs': ['https://www.facebook.com/EngineersAustralia/', 'https://www.instagram.com/create.digital/', 'https://x.com/https://twitter.com/create_digital_', 'https://www.youtube.com/channel/UC2m4lJswYhmx4C7ZGxago5g/'], 'url': 'https://createdigital.org.au/author/create-digital/'}]"
+https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vcGliLmdvdi5pbi9QcmVzc1JlbGVhc2VQYWdlLmFzcHg_UFJJRD0xODc3NzM50gEA?oc=5,Press Information Bureau - PIB,2022-11-21,PIB,https://pib.gov.in,N/A,N/A,"India today assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI), an intern",N/A,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

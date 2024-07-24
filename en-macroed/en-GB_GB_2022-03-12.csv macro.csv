@@ -1,0 +1,670 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,logo,image,mainEntityOfPage,articleSection,headline,datePublished,publisher,tags,author,about,sponsor,article:section,article:summary,article text,@graph,itemListElement,dateModified
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGVjaG5vbG9neW1hZ2F6aW5lLmNvbS9haS1hbmQtbWFjaGluZS1sZWFybmluZy9tYWtpbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd29yay1mb3Itc3VzdGFpbmFiaWxpdHnSAQA?oc=5,Making artificial intelligence work for sustainability - Technology Magazine,2022-03-16,Technology Magazine,https://technologymagazine.com,Professor Ong Yew Soon and Dr Lim Keng Hui provide their insights on how artificial intelligence technologies can be applied to meet sustainability demand,,Professor Ong Yew Soon and Dr Lim Keng Hui provide their insights on how artificial intelligence technologies can be applied to meet sustainability demand,N/A,https://schema.org,NewsArticle,https://technologymagazine.com/ai-and-machine-learning/making-artificial-intelligence-work-for-sustainability,/meta/technology/icon-192.png,"[{'url': 'https://assets.bizclikmedia.net/668/5bb55102b483aff585c8df87778eb786:f87bc3a0cb5eef219d264e0cce1b0342/big-163471342-m.jpg.jpg', 'width': 668, 'height': 504, 'alt': 'Making artificial intelligence work for sustainability'}]","{'@type': 'WebPage', '@id': 'https://technologymagazine.com/ai-and-machine-learning/making-artificial-intelligence-work-for-sustainability'}",,Making artificial intelligence work for sustainability,2022-03-16T13:00:00Z,"{'@type': 'Organization', 'name': 'Bizclik Media Ltd'}","['technology', 'AI', 'artificialintelligence', 'sustainability']","[{'@type': 'Person', 'name': 'Prof Ong Yew Soon and Dr Lim Keng Hui', 'url': ''}]",[],[],N/A,N/A,N/A,,,
+https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmZyb250aWVyc2luLm9yZy9hcnRpY2xlcy8xMC4zMzg5L2ZyYWkuMjAyMi44Njg3ODnSAQA?oc=5,On the Impact of Digitalization and Artificial Intelligence on Employers' Flexibility Requirements in Occupations ... - Frontiers,2022-03-16,Frontiers,https://www.frontiersin.org,"Artificial intelligence (AI) has a high application potential in many areas of the economy, and its use is expected to accelerate strongly in the coming year...","digitalization,artificial intelligence,flexible working conditions,Occupations,employer survey","Artificial intelligence (AI) has a high application potential in many areas of the economy, and its use is expected to accelerate strongly in the coming year...",N/A,,,,,,,,,,,,,,,N/A,N/A,"An Occupational Safety and Health Perspective on Human in Control and AI Susanne  Niehaus, Matthias  Hartwig, Patricia H.  Rosen and Sascha  Wischniewski",,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm9wZW5hY2Nlc3Nnb3Zlcm5tZW50Lm9yZy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1iYXNlZC10ZWNobm9sb2d5LWluZHVzdHJpYWwtcm9ib3RzLzEzMTQ5NS_SAQA?oc=5,Artificial intelligence-based technology in industrial robots - Open Access Government,2022-03-14,Open Access Government,https://www.openaccessgovernment.org,"Kensuke Harada, Osaka University, discusses artificial intelligence (AI)-based technology in industrial robots",N/A,"Kensuke Harada, Osaka University, discusses artificial intelligence (AI)-based technology in industrial robots",N/A,https://schema.org,BreadcrumbList,,,,,,,,,,,,,N/A,N/A,"
+
+Open Access NewsResearch & Innovation News
+
+Artificial intelligence-based technology in industrial robots
+
+ March 14, 2022   
+
+
+
+© Peerapong Peattayakul 
+Kensuke Harada from Graduate School of Engineering Science, Osaka University, provides an introduction to and analysis of a move towards artificial intelligence (AI)-based technology in industrial robots
+One of the areas where there are the greatest expectations for robots to replace human labour is in the manufacturing process of products in factories. However, as often depicted in movies such as “Modern Times,” the fact that product manufacturing in factories is harsh for humans remains a severe problem even today when science and technology have advanced.
+This is especially true in the assembly and inspection processes of a high-mix and low-volume production. Robot-isation of these manufacturing processes requires frequent change-overs, which makes robotisation difficult.
+Many robotics researchers have challenged the problem of replacing human tasks with robots for a long time, but robots have replaced only a small portion of human tasks. This fact seems strange since humans can perform tasks with their hands without difficulty in their daily lives. The only tasks that humans find difficult are those that require subtle force and detail, while other tasks also seem to be easy for robots. In Penfield’s Homunculus diagram, the relationship between the motor and somatosensory cortices and body parts, the five fingers and the palm occupy one-third of the motor cortex and one-quarter of the sensory cortex, and the hand and fingers are called the second brain.
+This suggests that the functions of the hand and fingers that we realise without thinking are actually realised based on the enormous amount of information stored in the brain. In other words, if robots are to replace human tasks, the key to research is how to efficiently realise the information stored in the brain by robots. Studying the functions of the hands and fingers of robots is a profound problem that directly relates to the study of human intelligence.
+This article presents our research on machine learning and motion planning, which is intended to be applied to industrial robots. Such research is expected to create next-generation production businesses, such as variable-volume production and robot- as-a-service (RaaS).
+Acquisition of human work behaviour
+One strategy for robotising manufacturing processes is to acquire human work behaviour. (1) The analysis of human work behaviour is indispensable for the automation of tasks by industrial robots. In our laboratory, we segment the human work behaviour on the time axis and identify the type of work performed.
+Figure 1: Acquisition of work actions by humans
+Figure 2: Execution of assembly work based on human work instruction
+
+For this problem, we propose a method that uses the information of the object that the human is grasping. Figure 1 shows a human assembling a toy for a child. For example, if the objects grasped by the human are a bolt, a wheel and a nut, we construct a hidden Markov model for each of them and identify the action based on the grasped object. By doing so, we can narrow down the variety of actions and increase the success rate of recognition.
+Task and motion planning
+To automate the assembly process of high-mix, low-volume production using industrial robots, the key to success is how easy it is to generate robot motions. To achieve this goal, research has been conducted on motion planning to automatically plan the motions of industrial robots for assembly and other tasks.
+This section introduces a motion planning system for robot manipulation of a tool based on a human demonstration. (2) First, a human operator grasps a tool to perform a task, and a sequence of the tool’s position and posture is saved as a goal of the motion plan. Next, we divide the work into child tasks based on the stored target values. In addition, we calculate the posture of the gripper that grasps the tool by the grasp plan. Based on these results, the robot plans the motion to change the tool from one hand to another or to place the tool on the table and re-grasp it.
+The motion planning of the robot takes the output sequence of postures and plans the detailed motions between sequences. In Fig. 2, a human operator manipulates the screw tightening tool and teaches the robot the movements of the screw tightening tool. Based on the results of this instruction, the robot plans and executes the screw tightening operation using the tool.
+Next, we are researching how to automatically analyse an assembly manual and convert it into robot motions rather than teaching a task through a human demonstration. (3) When a person purchases furniture from IKEA or Nitori, they assemble the furniture while looking at the assembly manual. Fig. 3 shows the assembly work plan based on the assembly manual of a chair from Nitori (4) and the actual assembly work of the robot. Here, the robot recognises which parts are listed in which frames from the diagrams in the assembly manual, estimates the work operations required to assemble the parts, and constructs a graph structure called the Assembly Task Sequence Graph based on these data. Once this graph structure is built, the robot can automatically plan and execute assembly tasks based on the graph structure.
+ 
+Figure 4: Work action planning for cooking based on cooking recipes
+We have also researched planning cooking actions based on cooking recipes instead of assembly manuals and executing cooking actions based on these plans. (5) Unlike the assembly manual, the cooking recipe is basically a verbal instruction. Another feature is that there are more preparation actions, such as taking cooking utensils from the shelf than assembly actions. Here, a graph structure similar to the Assembly Task Sequence Graph described earlier is constructed by analysing cooking recipes, and work planning is performed from this structure.
+Figure 4: Work action planning for cooking based on cooking recipes
+Figure 4 shows the result of planning the robot’s task based on the instruction “heat a frying pan with oil over high heat and fry pork”. In this case, the robot needs to perform preparatory tasks such as picking up the frying pan and placing the pork on the pan. The robot automatically completes the preparatory tasks by first constructing a graph element and then determining what is missing in the graph element. Finally, the robot can perform the tasks described in the cooking recipe.
+Summary
+In this article, as examples of industrial robots using AI technology, we have focused on learning-based grasping tasks, recognition of human work actions, and work action planning. Future challenges include further consideration of the uncertainty of the environment and objects and building a system that can flexibly respond to perform procedures.
+References
+
+K. Fukuda, N. Yamanobe, I.G. Ramirez-Alpizar, K. Harada, “Assembly Motion Recognition Framework Using Only Images,” Proceedings of IEEE/SICE International Symposium on System Integrations, pp. 1242-1247, 2020.
+AIST Press Release, 2019.
+I. Sera, N. Yamanobe, I.G. Ramirez-Alpizar, Z. Wang, W. Wan, K. Harada, “Assembly Planning by Recognizing a Graphical Instruction Manual,” Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 3115-3122, 2021.
+Nitori official online store, work chair. https://www.nitorinet.jp/ec/cat/Chair/WorkChair/1/
+K. Takada, N. Yamanobe, I.G. Ramirez-Alpizar, T. Kiyokawa, K. Koyama, W. Wan, and K. Harada, “Task planning for robots based on verbal instructions and food images,” Proceedings of the 22nd System Integration (SI2021), 2021.
+
+*Please note: This is a commercial profile
+© 2019. This work is licensed under CC-BY-NC-ND.
+
+
+
+
+Facebook
+
+
+
+Twitter
+
+
+
+LinkedIn
+
+
+
+Print
+
+
+
+ 
+
+
+Contributor Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KensukeHaradaProfessorOsaka UniversityPhone: +81 6 6850 6380harada@sys.es.osaka-u.ac.jphttp://www.roboticmanipulation.org/ 
+
+
+
+
+
+
+
+
+
+
+Editor's Recommended Articles
+
+
+
+
+
+
+
+ 
+
+
+Must Read >>
+
+			How a humanoid robot searches for an object in our daily environment        	
+
+
+
+
+
+
+ 
+
+
+Must Read >>
+
+			Robotic manipulation research: From the laboratory to the real world        	
+
+
+
+
+
+
+
+ 
+
+ TAGSAlgorithmsAsiaContributor ProfileOAG 034 - April 2022RoboticsScience & ResearchSH Graduate School of Engineering Science - Osaka UniversityTechnological Innovations 
+ Nishat  
+","[{'@type': 'Article', '@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#article', 'isPartOf': {'@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/'}, 'author': {'name': 'Nishat', '@id': 'https://www.openaccessgovernment.org/#/schema/person/b9ed837bc341e039c55f1084046f8762'}, 'headline': 'Artificial intelligence-based technology in industrial robots', 'datePublished': '2022-03-14T12:33:13+00:00', 'dateModified': '2022-03-14T12:35:43+00:00', 'mainEntityOfPage': {'@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/'}, 'wordCount': 1249, 'commentCount': 0, 'publisher': {'@id': 'https://www.openaccessgovernment.org/#organization'}, 'image': {'@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#primaryimage'}, 'thumbnailUrl': 'https://www.openaccessgovernment.org/wp-content/uploads/2022/03/dreamstime_m_110067127-scaled.jpg', 'keywords': ['Algorithms', 'Asia', 'Contributor Profile', 'OAG 034 - April 2022', 'Robotics', 'Science &amp; Research', 'SH Graduate School of Engineering Science - Osaka University', 'Technological Innovations'], 'articleSection': ['Research &amp; Innovation News'], 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#respond']}], 'copyrightYear': '2022', 'copyrightHolder': {'@id': 'https://www.openaccessgovernment.org/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/', 'url': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/', 'name': 'Artificial intelligence-based technology in industrial robots', 'isPartOf': {'@id': 'https://www.openaccessgovernment.org/#website'}, 'primaryImageOfPage': {'@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#primaryimage'}, 'image': {'@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#primaryimage'}, 'thumbnailUrl': 'https://www.openaccessgovernment.org/wp-content/uploads/2022/03/dreamstime_m_110067127-scaled.jpg', 'datePublished': '2022-03-14T12:33:13+00:00', 'dateModified': '2022-03-14T12:35:43+00:00', 'description': 'Kensuke Harada, Osaka University, discusses artificial intelligence (AI)-based technology in industrial robots', 'breadcrumb': {'@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#primaryimage', 'url': 'https://www.openaccessgovernment.org/wp-content/uploads/2022/03/dreamstime_m_110067127-scaled.jpg', 'contentUrl': 'https://www.openaccessgovernment.org/wp-content/uploads/2022/03/dreamstime_m_110067127-scaled.jpg', 'width': 2000, 'height': 1333, 'caption': '© Peerapong Peattayakul'}, {'@type': 'BreadcrumbList', '@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.openaccessgovernment.org/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial intelligence-based technology in industrial robots'}]}, {'@type': 'WebSite', '@id': 'https://www.openaccessgovernment.org/#website', 'url': 'https://www.openaccessgovernment.org/', 'name': 'Open Access Government', 'description': 'Government | Health &amp; Social Care | Research', 'publisher': {'@id': 'https://www.openaccessgovernment.org/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.openaccessgovernment.org/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://www.openaccessgovernment.org/#organization', 'name': 'Open Access Government', 'url': 'https://www.openaccessgovernment.org/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://www.openaccessgovernment.org/#/schema/logo/image/', 'url': 'https://www.openaccessgovernment.org/wp-content/uploads/2022/01/oag-logo-yoast-seo-organisation-1920-1080-001.jpg', 'contentUrl': 'https://www.openaccessgovernment.org/wp-content/uploads/2022/01/oag-logo-yoast-seo-organisation-1920-1080-001.jpg', 'width': 1920, 'height': 1080, 'caption': 'Open Access Government'}, 'image': {'@id': 'https://www.openaccessgovernment.org/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/OpenAccessGovernment/', 'https://x.com/Adjacent_Gov', 'https://www.linkedin.com/company/open-access-government/']}, {'@type': 'Person', '@id': 'https://www.openaccessgovernment.org/#/schema/person/b9ed837bc341e039c55f1084046f8762', 'name': 'Nishat', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://www.openaccessgovernment.org/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/ae7bc796868d872f15ae2917dcbf2bc8?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/ae7bc796868d872f15ae2917dcbf2bc8?s=96&d=mm&r=g', 'caption': 'Nishat'}, 'sameAs': ['https://www.openaccessgovernment.org']}]","[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://www.openaccessgovernment.org/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.openaccessgovernment.org/category/open-access-news/', 'name': 'Open Access News'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.openaccessgovernment.org/category/open-access-news/research-innovation-news/', 'name': 'Research &amp; Innovation News'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://www.openaccessgovernment.org/artificial-intelligence-based-technology-industrial-robots/131495/', 'name': 'Artificial intelligence-based technology in industrial robots'}}]",
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL3RlY2gvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWNsZXMvd2hhdC1pcy1haS_SAUxodHRwczovL3d3dy5zcGljZXdvcmtzLmNvbS90ZWNoL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGljbGVzL3doYXQtaXMtYWkv?oc=5,"What Is Artificial Intelligence (AI)? Definition, Types, Goals, Challenges, and Trends in 2022 - Spiceworks News and Insights",2022-03-14,Spiceworks News and Insights,https://www.spiceworks.com,Artificial intelligence imitates human thinking by employing intelligent algorithms built into a dynamic computing environment. Click here for details.,Artificial Intelligence,Artificial intelligence imitates human thinking by employing intelligent algorithms built into a dynamic computing environment. Click here for details.,N/A,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Vijay Kanade
+
+
+
+					AI Researcher				
+
+
+
+
+March 14, 2022
+
+
+
+
+ 
+
+
+
+
+
+Artificial intelligence (AI) is defined as the intelligence of a machine or computer that enables it to imitate or mimic human capabilities. This article explains the fundamentals of AI, its various types, goals, key challenges, and the top five AI trends in 2022. 
+
+Table of Contents 
+
+What Is Artificial Intelligence (AI)?
+Types of AI
+Goals of Artificial Intelligence
+Key Challenges of AI
+Top 5 AI Trends in 2022
+
+
+What Is Artificial Intelligence (AI)?
+Artificial intelligence (AI) is the intelligence of a machine or computer that enables it to imitate or mimic human capabilities.
+AI uses multiple technologies that equip machines to sense, comprehend, plan, act, and learn with human-like levels of intelligence. Fundamentally, AI systems perceive environments, recognize objects, contribute to decision making, solve complex problems, learn from past experiences, and imitate patterns. These abilities are combined to accomplish tasks like driving a car or recognizing faces to unlock device screens.
+The AI landscape spreads across a constellation of technologies such as machine learning, natural language processing, computer vision, and others. Such cutting-edge technologies allow computer systems to understand human language, learn from examples, and make predictions. 
+Although each technology is evolving independently, when applied in combination with other technologies, data, analytics, and automation, it can revolutionize businesses and help them achieve their goals, be it optimizing supply chains or enhancing customer service.
+How does AI work?
+To begin with, an AI system accepts data input in the form of speech, text, image, etc. The system then processes data by applying various rules and algorithms, interpreting, predicting, and acting on the input data. Upon processing, the system provides an outcome, i.e., success or failure, on data input. The result is then assessed through analysis, discovery, and feedback. Lastly, the system uses its assessments to adjust input data, rules and algorithms, and target outcomes. This loop continues until the desired result is achieved.
+
+How AI Works
+See More: Top 10 AI Companies in 2022
+Key components of AI
+Intelligence has a broader context that reflects a deeper capability to comprehend the surroundings. However, for it to qualify as AI, all its components need to work in conjunction with each other. Let’s understand the key components of AI. 
+Key Components of AI
+
+Machine learning: Machine learning is an AI application that automatically learns and improves from previous sets of experiences without the requirement for explicit programming.
+Deep learning: Deep learning is a subset of ML that learns by processing data with the help of artificial neural networks.
+Neural network: Neural networks are computer systems that are loosely modeled on neural connections in the human brain and enable deep learning.
+Cognitive computing: Cognitive computing aims to recreate the human thought process in a computer model. It seeks to imitate and improve the interaction between humans and machines by understanding human language and the meaning of images.
+Natural language processing (NLP): NLP is a tool that allows computers to comprehend, recognize, interpret, and produce human language and speech.
+Computer vision: Computer vision employs deep learning and pattern identification to interpret image content (graphs, tables, PDF pictures, and videos).
+
+Types of AI
+Artificial Intelligence can be broadly divided into two categories: AI based on capability and AI based on functionality. Let’s understand each type in detail.
+Types of AI
+Let’s first look at the types of AI based on capability.
+1. Narrow AI
+Narrow AI is a goal-oriented AI trained to perform a specific task. The machine intelligence that we witness all around us today is a form of narrow AI. Examples of narrow AI include Apple’s Siri and IBM’s Watson supercomputer.
+Narrow AI is also referred to as weak AI as it operates within a limited and pre-defined set of parameters, constraints, and contexts. For example, use cases such as Netflix recommendations, purchase suggestions on ecommerce sites, autonomous cars, and speech & image recognition fall under the narrow AI category.
+2. General AI
+General AI is an AI version that performs any intellectual task with a human-like efficiency. The objective of general AI is to design a system capable of thinking for itself just like humans do. Currently, general AI is still under research, and efforts are being made to develop machines that have enhanced cognitive capabilities.
+3. Super AI
+Super AI is the AI version that surpasses human intelligence and can perform any task better than a human. Capabilities of a machine with super AI include thinking, reasoning, solving a puzzle, making judgments, learning, and communicating on its own. Today, super AI is a hypothetical concept but represents the future of AI.
+Now, let’s understand the types of AI based on functionality.
+4. Reactive machines
+Reactive machines are basic AI types that do not store past experiences or memories for future actions. Such systems zero in on current scenarios and react to them based on the best possible action. Popular examples of reactive machines include IBM’s Deep Blue system and Google’s AlphaGo.
+5. Limited memory machines
+Limited memory machines can store and use past experiences or data for a short period of time. For example, a self-driving car can store the speeds of vehicles in its vicinity, their respective distances, speed limits, and other relevant information for it to navigate through the traffic.
+6. Theory of mind
+Theory of mind refers to the type of AI that can understand human emotions and beliefs and socially interact like humans. This AI type has not yet been developed but is in contention for the future.
+7. Self-aware AI
+Self-aware AI deals with super-intelligent machines with their consciousness, sentiments, emotions, and beliefs. Such systems are expected to be smarter than a human mind and may outperform us in assigned tasks. Self-aware AI is still a distant reality, but efforts are being made in this direction.
+See More: What Is Super Artificial Intelligence (AI)? Definition, Threats, and Trends
+Goals of Artificial Intelligence
+AI is primarily achieved by reverse-engineering human capabilities and traits and applying them to machines. At its core, AI reads human behavior to develop intelligent machines. Simply put, the foundational goal of AI is to design a technology that enables computer systems to work intelligently yet independently. The essential goals of AI are explained below.
+Goals of Artificial Intelligence
+1. Develop problem-solving ability
+AI research is focused on developing efficient problem-solving algorithms that can make logical deductions and simulate human reasoning while solving complex puzzles. AI systems offer methods to deal with uncertain situations or handle the incomplete information conundrum by employing probability theory, such as a stock market prediction system.
+The problem-solving ability of AI makes our lives easier as complex tasks can be assigned to reliable AI systems that can aid in simplifying critical jobs.
+2. Incorporate knowledge representation
+AI research revolves around the idea of knowledge representation and knowledge engineering. It relates to the representation of ‘what is known’ to machines with the ontology for a set of objects, relations, and concepts.
+The representation reveals real-world information that a computer uses to solve complex real-life problems, such as diagnosing a medical ailment or interacting with humans in natural language. Researchers can use the represented information to expand the AI knowledge base and fine-tune and optimize their AI models to meet the desired goals.
+3. Facilitate planning
+Intelligent agents provide a way to envision the future. AI-driven planning determines a procedural course of action for a system to achieve its goals and optimizes overall performance through predictive analytics, data analysis, forecasting, and optimization models. 
+With the help of AI, we can make future predictions and ascertain the consequences of our actions. Planning is relevant across robotics, autonomous systems, cognitive assistants, and cybersecurity.
+4. Allow continuous learning
+Learning is fundamental to AI solutions. Conceptually, learning implies the ability of computer algorithms to improve the knowledge of an AI program through observations and past experiences. Technically, AI programs process a collection of input-output pairs for a defined function and use the results to predict outcomes for new inputs. 
+AI primarily uses two learning models–supervised and unsupervised–where the main distinction lies in using labeled datasets. As AI systems learn independently, they require minimal or no human intervention. For example, ML defines an automated learning process.
+5. Encourage social Intelligence
+Affective computing, also called ’emotion AI,’ is the branch of AI that recognizes, interprets, and simulates human experiences, feelings, and emotions. With affective computing, computers can read facial expressions, body language, and voice tones to allow AI systems to interact and socialize at the human level. Thus, research efforts are inclined toward amplifying the social intelligence of machines.
+6. Promote creativity
+AI promotes creativity and artificial thinking that can help humans accomplish tasks better. AI can churn through vast volumes of data, consider options and alternatives, and develop creative paths or opportunities for us to progress. 
+It also offers a platform to augment and strengthen creativity, as AI can develop many novel ideas and concepts that can inspire and boost the overall creative process. For example, an AI system can provide multiple interior design options for a 3D-rendered apartment layout.
+7. Achieve general intelligence
+AI researchers aim to develop machines with general AI capabilities that combine all the cognitive skills of humans and perform tasks with better proficiency than us. This can boost overall productivity as tasks would be performed with greater efficiency and free humans from risky tasks such as defusing bombs.
+8. Promote synergy between humans and AI
+One of the critical goals of AI is to develop a synergy between AI and humans to enable them to work together and enhance each other’s capabilities rather than depend on just one system.
+See More: What Is General Artificial Intelligence (AI)? Definition, Challenges, and Trends
+Key Challenges of AI
+AI is poised at a juncture where its role in every industry has become almost inevitable, be it healthcare, manufacturing, robotics, autonomous systems, aviation, and plenty others. However, just because AI holds enormous potential, it does not mean that one can ignore the numerous challenges that come along with it. The critical challenges for AI that businesses can recognize and work toward resolving to propel its growth are:
+Key Challenges of AI
+1. AI algorithm bias
+AI systems operate on trained data, implying the quality of an AI system is as good as its data. As we explore the depths of AI, the inevitable bias brought in by the data becomes evident. Bias refers to racial, gender, communal, or ethnic bias. For example, today’s algorithms determine candidates suitable for a job interview or individuals eligible for a loan. If the algorithms making such vital decisions have developed biases over time, it could lead to dreadful, unfair, and unethical consequences.
+Hence, it is vital to train AI systems on unbiased data. Companies such as Microsoft and Facebook have already announced the introduction of anti-bias tools that can automatically identify bias in AI algorithms and check unfair AI perspectives.
+2. Black box problem
+AI algorithms are like black boxes. We have very little understanding of the inner workings of an AI algorithm. For example, we can understand what the prediction is for a predicting system, but we lack the knowledge of how the system arrived at that prediction. This makes AI systems slightly unreliable.
+Techniques are being developed to resolve the black box problem, such as ‘local interpretable model-agnostic explanations’ (LIME) models. LIME provides additional information for every eventual prediction, making the algorithm trustworthy since it makes the forecast interpretable.
+3. Requirement of high computing power
+AI takes up immense computing power to train its models. As deep learning algorithms become popular, arranging for an extra number of cores and GPUs is essential to ensure that such algorithms work efficiently. This is why AI systems have not been deployed in areas like astronomy, where AI could be used for asteroid tracking.
+Moreover, complex algorithms require supercomputers to work at total capacity to manage challenging levels of computing. Today, only a few supercomputers are available globally but seem expensive at the outset. This limits the possibility of AI implementation at higher computing levels.
+4. Complicated AI integration
+Integrating AI with existing corporate infrastructure is more complicated than adding plugins to websites or amending excel sheets. It is critical to ensure that current programs are compatible with AI requirements and that AI integration does not impact current output negatively. Also, an AI interface must be put in place to ease out AI infrastructure management. That being said, seamless transitioning to AI is slightly challenging for the involved parties.
+5. Lack of understanding of implementation strategies
+Even though AI is on the verge of transforming every industry, the lack of a clear understanding of its implementation strategies is one of the major AI challenges. Businesses need to identify areas that can benefit from AI, set realistic objectives, and incorporate feedback loops into AI systems to ensure continuous process improvement.
+Additionally, corporate managers should be well-versed with current AI technologies, trends, offered possibilities, and potential limitations. This will help organizations target specific areas that can benefit from AI implementation.
+6. Legal concerns
+Organizations need to be wary of the legal concerns of AI. An AI system collecting sensitive data, irrespective of whether it is harmless or not, might very well be violating a state or federal law. Although the data collected by AI may be legal, organizations should consider how such data aggregation can have a negative impact.
+In January 2020, the U.S. government set forth draft rules for AI regulation. Some critical legal issues raised relate to civil liability. For example, if a driverless car injures someone in an accident, who is the culprit in such a scenario? Who takes responsibility? Such use cases raise the question of criminal culpability.
+See More: How Is AI Changing the Finance, Healthcare, HR, and Marketing Industries 
+Top 5 AI Trends in 2022
+As we dive deeper into the digital era, AI is emerging as a powerful change catalyst for several businesses. As the AI landscape continues to evolve, new developments in AI reveal more opportunities for businesses. Here are the top five AI trends and developments that will gain momentum in 2022.
+Top 5 AI Trends in 2022
+1. Computer vision set to grow
+In the race for AI supremacy, organizations and businesses are set to embrace computer vision technology at an unprecedented scale in 2022. According to a September 2021 survey by Gartner, organizations investing in AI are expected to make the highest planned investments in computer vision projects in 2022.
+Computer vision refers to AI that uses ML algorithms to replicate human-like vision. The models are trained to identify a pattern in images and classify the objects based on recognition. For example, computer vision can scan inventory in warehouses in the retail sector. Similarly, the technology finds application in several other industries such as healthcare, agriculture & farming, manufacturing, autonomous vehicles, and more.
+2. Boost to the autonomous vehicle industry
+As more and more car manufacturers continue to invest in autonomous vehicles, the market penetration of driverless cars is expected to rise considerably. According to Statista’s Dec 2021 projections, the global autonomous vehicle market is estimated to be valued at around $146.4 billion in 2022, a substantial rise from $105.7 billion in 2021.
+Self-driving cars enabled with computer vision are already being tested by companies like Tesla, Uber, Google, Ford, GM, Aurora, and Cruise. This trend is only expected to scale in the next 12 months. In August 2021, Tesla unveiled the ‘Dojo’ chip specifically designed to process large volumes of images collected by computer vision systems embedded in its self-driving cars. Around the same time, Waymo, Google’s subsidiary, expanded its self-driving taxi services outside Arizona.
+3. Chatbots and virtual assistants to get smarter
+Another AI trend that is most talked about in 2022 is smarter chatbots and virtual assistants. This comes from the pandemic, as global industries are now comfortable giving their employees digital workplace experiences. Most chatbots and virtual assistants use deep learning and NLP technologies on the verge of automating routine tasks. Moreover, researchers and developers continue to add features and enhance these bots. 
+For example, Amelia, a global leader in conversational AI, performs complex conversation tasks with supplemental training provided by developers. Amelia claims to achieve 90% accuracy in identifying customer intent and a customer satisfaction rate of 91%, which is at par with human assistants. Tech companies such as Nuance, IBM, and Amazon Lex are making significant efforts to improve their virtual assistance through smarter bots.
+4. Solutions for metaverse
+AI agents and virtual assistants will play a key role as the tech world plunges into the concept of the metaverse. Metaverse defines a virtual environment that allows users to interact with digital tools and gives them an immersive experience. In October 2021, Mark Zukerberg rebranded Facebook as ‘Meta’ and announced plans to build a metaverse.
+Virtual agents are expected to use AI to enable people to connect to the virtual environment. The famous humanoid AI robot Sophia is tokenized for metaverse appearance. Developers claim that tokenized Sophia, being AI, will interact with users from anywhere, at any time, and across devices and media platforms.
+Although metaverse may not reveal itself in a full-fledged version in 2022, the blend of virtual and augmented technologies and AI will continue to stay as a backbone of the metaverse. Metaverse is therefore expected to be one of the major AI research trends in the next 12 months.
+5. Improved language modeling
+Another AI trend that will continue to feature in 2022 is improved language modeling. Language modeling is a technology that allows computers to understand language semantics, complete sentences via word prediction, and convert text into computer codes.
+Generative Pre-trained Transformer 3 (GPT-3), by OpenAI, is a comprehensive language modeling tool available today. It uses 175 billion parameters to process and generate human-like language. Also, OpenAI, in August 2021, released a better version of its tool, Codex, which parses natural language and generates programming code in response. The company is also working on the next version of GPT-3 (i.e., GPT-4), and it is expected that GPT-4 will be 500 times the size of GPT-3 in terms of the parameters that it may use to parse a language.
+Apart from the trends listed above, other popular AI trends that could grab attention in 2022 include hyperautomation in modern businesses, the rise of artificial intelligence as a service (AIaaS), AI in cybersecurity, and increased sophistication in AIoT (merger of AI and the internet of things (IoT).
+See More: AI Job Roles: How to Become a Data Scientist, AI Developer, or Machine Learning Engineer
+Takeaway
+As AI deepens its roots across every business aspect, enterprises are increasingly relying on it to make critical decisions. From leveraging AI-based innovation, enhancing customer experience, and maximizing profit for enterprises, AI has become a ubiquitous technology. This shift to AI has become possible as AI, ML, deep learning, and neural networks are accessible today, not just for big companies but also for small to medium enterprises.
+Moreover, contrary to popular beliefs that AI will replace humans across job roles, the coming years may witness a collaborative association between humans and machines, which will sharpen cognitive skills and abilities and boost overall productivity.
+Did this article help you understand AI in detail? Comment below or let us know on LinkedInOpens a new window , TwitterOpens a new window , or FacebookOpens a new window . We’d love to hear from you!
+MORE ON ARTIFICIAL INTELLIGENCE
+
+10 Most Common Myths About AI
+Everything You Need to Know About Superintelligence
+How Does Artificial Intelligence Learn Through Machine Learning Algorithms?
+What Is the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?
+AI Job Roles: How to Become a Data Scientist, AI Developer, or Machine Learning Engineer
+
+
+
+
+
+
+
+
+
+
+
+
+								                  artificial intelligence										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Vijay Kanade
+
+				                  AI Researcher	                          
+
+
+ opens a new window 
+
+
+
+ opens a new window
+  	
+					Vijay A. Kanade is a computer science graduate with 7+ years of corporate experience in Intellectual Property Research. He is an academician with research interest in multiple research domains. His research work spans from Computer Science, AI, Bio-inspired Algorithms to Neuroscience, Biophysics, Biology, Biochemistry, Theoretical Physics, Electronics, Telecommunication, Bioacoustics, Wireless Technology, Biomedicine, etc. He has published about 30+ research papers in Springer, ACM, IEEE & many other Scopus indexed International Journals & Conferences. Through his research work, he has represented India at top Universities like Massachusetts Institute of Technology (Cambridge, USA), University of California (Santa Barbara, California), National University of Singapore (Singapore), Cambridge University (Cambridge, UK). In addition to this, he is currently serving as an 'IEEE Reviewer' for the IEEE Internet of Things (IoT) Journal.			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmF1ZGlvaG9saWNzLmNvbS9tdXNpYy1yZXZpZXdzL2dldC1iYWNr0gEA?oc=5,Peter Jackson's Beatles Documentary Used Artificial Intelligence To Perform Restoration Magic - Audioholics,2022-03-13,Audioholics,https://www.audioholics.com,"The Beatles: Get Back, Peter Jackson’s highly-anticipated documentary series on Disney+, relied upon new restoration techniques to bring 1969 into the future. The results are nothing short of magic.",N/A,"The Beatles: Get Back, Peter Jackson’s highly-anticipated documentary series on Disney+, relied upon new restoration techniques to bring 1969 into the future. The results are nothing short of magic.","The Beatles: Get Back, Peter Jackson’s highly-anticipated documentary series on Disney+, relied upon new restoration techniques to bring 1969 into the future. The results are nothing short of magic.",https://schema.org,BreadcrumbList,,,"{'@type': 'ImageObject', 'url': 'https://www.audioholics.com/music-reviews/get-back/image'}",https://www.audioholics.com/music-reviews/get-back,,Peter Jackson’s Beatles Documentary Used Artificial Intelligence  To Perform Restoration Magic    ,2022-01-10T19:30:38+05:00,"{'@type': 'Organization', 'name': 'Audioholics Home Theater, HDTV, Receivers, Speakers, Blu-ray Reviews and News', 'url': 'https://www.audioholics.com', 'description': 'Home theater AV receiver, speaker, HDTV, television, projector and Blu-ray player reviews, buying guides, and high end audio and consumer electronics news', 'logo': {'@type': 'ImageObject', 'name': 'Audioholics Logo', 'width': '324', 'height': '73', 'url': 'https://www.audioholics.com/static/logo2015.png'}}",,"{'name': 'Jacob Green', 'url': 'https://www.audioholics.com/authors/jacob-green', '@type': 'Person'}",,,"DVD-A, SACD and CD Music Reviews",N/A,N/A,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.audioholics.com/product-reviews', 'name': 'Product Reviews'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.audioholics.com/music-reviews', 'name': 'DVD-A, SACD and CD Music Reviews'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.audioholics.com/music-reviews/get-back', 'name': 'Peter Jackson’s Beatles Documentary Used Artificial Intelligence  To Perform Restoration Magic    '}}]",2022-03-14T04:54:52+05:00
+https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vaGFpLnN0YW5mb3JkLmVkdS9uZXdzL3N0YXRlLWFpLTktY2hhcnRz0gEA?oc=5,The State of AI in 9 Charts - Stanford HAI,2022-03-16,Stanford HAI,https://hai.stanford.edu,"The latest AI Index report shows major growth in AI jobs and degrees, a huge uptick in private investment, more capability, and more issues in fairness and bias.",N/A,"The latest AI Index report shows major growth in AI jobs and degrees, a huge uptick in private investment, more capability, and more issues in fairness and bias.","The latest AI Index report shows major growth in AI jobs and degrees, a huge uptick in private investment, more capability, and more issues in fairness and bias.",,,,,,,,,,,,,,,N/A,N/A,N/A,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5vcnRvbnJvc2VmdWxicmlnaHQuY29tL2VuLWNhL2tub3dsZWRnZS9wdWJsaWNhdGlvbnMvNjg5NDdhYWYvY29weXJpZ2h0LXByb3RlY3Rpb24tZm9yLWFpLWNyZWF0ZWQtd29ya9IBAA?oc=5,Copyright protection for AI-created work? | Canada | Global law firm - Norton Rose Fulbright,2022-03-14,Norton Rose Fulbright,https://www.nortonrosefulbright.com,"Artificial intelligence (AI) systems are capable of creating a wide range of artistic, musical, and literary works and inventions without human involvement. ",N/A,"Artificial intelligence (AI) systems are capable of creating a wide range of artistic, musical, and literary works and inventions without human involvement. ",N/A,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+Publication
+Health Canada identifies lithium-ion batteries, infant bath seats, and water beads as hazards of concern
+Health Canada has recently identified three new classes of products that pose a hazard of concern.  
+
+
+
+Canada |
+                July 16, 2024
+            
+Consumer markets
+
+
+",,,
+https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdHdpbi1jaXRpZXMudW1uLmVkdS9uZXdzLWV2ZW50cy9tZWFuaW5nZnVsLXN0YW5kYXJkcy1hdWRpdGluZy1oaWdoLXN0YWtlcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZdIBAA?oc=5,Meaningful Standards for Auditing High-Stakes Artificial Intelligence - UMN News,2022-03-14,UMN News,https://twin-cities.umn.edu,"In response to claims of unfairness and bias in tools used in hiring, college admissions, predictive policing, health interventions, and more, the University of Minnesota (U of M) recently developed a new set of auditing guidelines for AI tools. ",N/A,"In response to claims of unfairness and bias in tools used in hiring, college admissions, predictive policing, health interventions, and more, the University of Minnesota (U of M) recently developed a new set of auditing guidelines for AI tools. ","In response to claims of unfairness and bias in tools used in hiring, college admissions, predictive policing, health interventions, and more, the University of Minnesota (U of M) recently developed a new set of auditing guidelines for AI tools. ",https://schema.org,,,,,,,,,,,,,,N/A,N/A,"
+
+
+Research Brief
+Meaningful Standards for Auditing High-Stakes Artificial Intelligence
+
+March 14, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When hiring, many organizations use artificial intelligence tools to scan resumes and predict job-relevant skills. Colleges and universities use AI to automatically score essays, process transcripts and review extracurricular activities to predetermine who is likely to be a “good student.” With so many unique use-cases, it is important to ask: can AI tools ever be truly unbiased decision-makers? In response to claims of unfairness and bias in tools used in hiring, college admissions, predictive policing, health interventions, and more, the University of Minnesota recently developed a new set of auditing guidelines for AI tools. 
+The auditing guidelines, published in the American Psychologist, were developed by Richard Landers, associate professor of psychology at the University of Minnesota, and Tara Behrend from Purdue University. They apply a century’s worth of research and professional standards for measuring personal characteristics by psychology and education researchers to ensure the fairness of AI.
+The researchers developed guidelines for AI auditing by first considering the ideas of fairness and bias through three major lenses of focus:
+
+How individuals decide if a decision was fair and unbiased
+How societal legal, ethical and moral standards present fairness and bias
+How individual technical domains — like computer science, statistics and psychology — define fairness and bias internally
+
+Using these lenses, the researchers presented psychological audits as a standardized approach for evaluating the fairness and bias of AI systems that make predictions about humans across high-stakes application areas, such as hiring and college admissions. 
+There are twelve components to the auditing framework across three categories that include: 
+
+Components related to the creation of, processing done by, and predictions created by the AI
+Components related to how the AI is used, who its decisions affect and why
+Components related to overarching challenges: the cultural context in which the AI is used, respect for the people affected by it, and the scientific integrity of the research used by AI purveyors to support their claims
+
+""The use of AI, especially in hiring, is a decades-old practice, but recent advances in AI sophistication have created a bit of a 'wild west' feel for AI developers,” said Landers. “There are a ton of startups now that are unfamiliar with existing ethical and legal standards for hiring people using algorithms, and they are sometimes harming people due to ignorance of established practices. We developed this framework to help inform both those companies and related regulatory authorities.""
+The researchers recommend the standards they developed to be followed both by internal auditors during the development of high-stakes predictive AI technologies, and afterward by independent external auditors. Any system that claims to make meaningful recommendations about how people should be treated should be evaluated within this framework.
+""Industrial psychologists have unique expertise in the evaluation of high-stakes assessments,” said Behrend. “Our goal was to educate the developers and users of AI-based assessments about existing requirements for fairness and effectiveness, and to guide the development of future policy that will protect workers and applicants.""
+AI models are developing so rapidly, it can be difficult to keep up with the most appropriate way to audit a particular kind of AI system. The researchers hope to develop more precise standards for specific use cases, partner with other organizations globally interested in establishing auditing as a default approach in these situations, and work toward a better future with AI more broadly.
+ 
+
+
+Categories: 
+Science and Technology
+
+
+Share this story
+
+
+
+Link to share current story on Twitter
+
+
+
+
+
+Link to share current story on Facebook
+
+
+
+
+
+Link to share current story via email
+
+
+
+
+
+
+Media Contacts
+
+
+After hours line
+
+      
+          University Public Relations
+        
+  
+
+    (612) 293-0831
+  
+
+    unews@umn.edu
+  
+
+
+Main Line
+
+      
+          University Public Relations
+        
+  
+
+    612-624-5551
+  
+
+    unews@umn.edu
+  
+
+
+Savannah Erdman
+
+      
+          University Public Relations
+        
+  
+
+    612-624-5551
+  
+
+    erdma158@umn.edu
+  
+
+
+
+
+","[{'@type': 'Article', 'headline': 'Meaningful Standards for Auditing High-Stakes Artificial Intelligence', 'name': 'Meaningful Standards for Auditing High-Stakes Artificial Intelligence', 'description': 'In response to claims of unfairness and bias in tools used in hiring, college admissions, predictive policing, health interventions, and more, the University of Minnesota (U of M) recently developed a new set of auditing guidelines for AI tools.\xa0', 'image': {'@type': 'ImageObject', 'representativeOfPage': 'True', 'url': 'https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/Artificial%20Intelligence%20900x600.jpg', 'width': '900', 'height': '600'}, 'datePublished': '2022-03-14T07:00:00-0500', 'dateModified': '2022-03-16T10:17:56-0500', 'isAccessibleForFree': 'True', 'author': {'@id': 'https://twin-cities.umn.edu/', 'name': 'University of Minnesota', 'url': 'https://twin-cities.umn.edu/', 'logo': {'@type': 'ImageObject', 'representativeOfPage': 'False', 'url': '/sites/twin-cities.umn.edu/files/block-m__gold-bg.png', 'width': '190', 'height': '190'}}, 'publisher': {'@type': 'CollegeOrUniversity', '@id': 'https://twin-cities.umn.edu/', 'name': 'University of Minnesota', 'url': 'https://twin-cities.umn.edu/', 'logo': {'@type': 'ImageObject', 'representativeOfPage': 'False', 'url': '/sites/twin-cities.umn.edu/files/block-m__gold-bg.png', 'width': '190', 'height': '190'}}, 'mainEntityOfPage': 'https://twin-cities.umn.edu/news-events/meaningful-standards-auditing-high-stakes-artificial-intelligence'}, {'@type': 'CollegeOrUniversity', '@id': 'https://twin-cities.umn.edu/', 'description': 'University of Minnesota, Twin Cities', 'name': 'University of Minnesota, Twin Cities', 'sameAs': ['https://en.wikipedia.org/wiki/University_of_Minnesota', 'https://www.facebook.com/UofMN', 'https://twitter.com/umnews', 'https://instagram.com/umnpics', 'https://www.youtube.com/user/UniversityofMinn', 'https://www.linkedin.com/company/university-of-minnesota'], 'url': 'https://twin-cities.umn.edu/', 'telephone': '+1-612-625-5000', 'image': {'@type': 'ImageObject', 'representativeOfPage': 'False', 'url': 'https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/styles/desktop/public/umn-lawn.jpg', 'width': '900', 'height': '600'}, 'logo': {'@type': 'ImageObject', 'representativeOfPage': 'False', 'url': 'https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/block-m__gold-bg.png', 'width': '190', 'height': '190'}}, {'@type': 'WebPage', '@id': 'https://twin-cities.umn.edu/', 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://twin-cities.umn.edu/'}, {'@type': 'ListItem', 'position': 2, 'name': 'News & Events', 'item': 'https://twin-cities.umn.edu/news-events'}, {'@type': 'ListItem', 'position': 3, 'name': 'Meaningful Standards for Auditing High-Stakes Artificial Intelligence', 'item': 'https://twin-cities.umn.edu/news-events/meaningful-standards-auditing-high-stakes-artificial-intelligence'}]}}, {'@type': 'WebSite', '@id': 'https://twin-cities.umn.edu/', 'name': 'University of Minnesota', 'url': 'https://twin-cities.umn.edu/'}]",,
+https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vbmV3cy51ZmwuZWR1LzIwMjIvMDMvdWYtYW5ub3VuY2VzLWFpLWFjYWRlbWljLWluaXRpYXRpdmUtY2VudGVyL9IBAA?oc=5,UF announces Artificial Intelligence Academic Initiative Center - News - University of Florida - University of Florida,2022-03-14,University of Florida,https://news.ufl.edu,"<p>The new Artificial Intelligence Academic Initiative Center, led by Associate Provost for Strategic Initiatives David Reed, will be the campus focal point for academic activity at the university related to AI and data science.</p>","artificial intelligence, data science, AI, artificial intelligence services, ask artificial intelligence",N/A,N/A,,,,,,,,,,,,,,,N/A,N/A,N/A,,,
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYmVybmFyZG1hcnIuY29tL3Bva2VyLXBsYXllcnMtZ28tYWxsLWluLW9uLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,Poker Players Go “All In” on Artificial Intelligence - Bernard Marr,2022-03-16,Bernard Marr,https://bernardmarr.com,Some of the world’s greatest poker players have a secret weapon up their sleeve these days: It’s artificial intelligence.,N/A,Some of the world’s greatest poker players have a secret weapon up their sleeve these days: It’s artificial intelligence.,N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,N/A,"[{'@type': 'Article', '@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/'}, 'author': {'name': 'Bernard Marr', '@id': 'https://bernardmarr.com/#/schema/person/b3c3cb90b331ffc7b13f30fc74daead0'}, 'headline': 'Poker Players Go “All In” on Artificial Intelligence', 'datePublished': '2022-03-16T13:47:55+00:00', 'dateModified': '2022-03-16T13:48:44+00:00', 'mainEntityOfPage': {'@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/'}, 'wordCount': 1565, 'commentCount': 0, 'publisher': {'@id': 'https://bernardmarr.com/#organization'}, 'image': {'@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://bernardmarr.com/wp-content/uploads/2022/03/Poker-Players-Go-All-In-on-Artificial-Intelligence.jpg', 'keywords': ['Articles'], 'articleSection': ['Artificial Intelligence &amp; Machine Learning', 'Key Performance Indicators &amp; Metrics'], 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#respond']}]}, {'@type': 'WebPage', '@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/', 'url': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/', 'name': 'Poker Players Go “All In” on Artificial Intelligence | Bernard Marr', 'isPartOf': {'@id': 'https://bernardmarr.com/#website'}, 'primaryImageOfPage': {'@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://bernardmarr.com/wp-content/uploads/2022/03/Poker-Players-Go-All-In-on-Artificial-Intelligence.jpg', 'datePublished': '2022-03-16T13:47:55+00:00', 'dateModified': '2022-03-16T13:48:44+00:00', 'description': 'Some of the world’s greatest poker players have a secret weapon up their sleeve these days: It’s artificial intelligence.', 'breadcrumb': {'@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#primaryimage', 'url': 'https://bernardmarr.com/wp-content/uploads/2022/03/Poker-Players-Go-All-In-on-Artificial-Intelligence.jpg', 'contentUrl': 'https://bernardmarr.com/wp-content/uploads/2022/03/Poker-Players-Go-All-In-on-Artificial-Intelligence.jpg', 'width': 1400, 'height': 934}, {'@type': 'BreadcrumbList', '@id': 'https://bernardmarr.com/poker-players-go-all-in-on-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bernardmarr.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Poker Players Go “All In” on Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://bernardmarr.com/#website', 'url': 'https://bernardmarr.com/', 'name': 'Bernard Marr', 'description': 'Intelligent Business Performance', 'publisher': {'@id': 'https://bernardmarr.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://bernardmarr.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://bernardmarr.com/#organization', 'name': 'Bernard Marr', 'url': 'https://bernardmarr.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/#/schema/logo/image/', 'url': 'https://bernardmarr.com/wp-content/uploads/2021/06/Bernard-Marr-Intelligent-Business-Performance-Logo.png', 'contentUrl': 'https://bernardmarr.com/wp-content/uploads/2021/06/Bernard-Marr-Intelligent-Business-Performance-Logo.png', 'width': 337, 'height': 49, 'caption': 'Bernard Marr'}, 'image': {'@id': 'https://bernardmarr.com/#/schema/logo/image/'}, 'sameAs': ['https://en-gb.facebook.com/BernardWMarr/', 'https://x.com/BernardMarr', 'https://www.instagram.com/bernard.marr', 'https://www.linkedin.com/in/bernardmarr/', 'https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw']}, {'@type': 'Person', '@id': 'https://bernardmarr.com/#/schema/person/b3c3cb90b331ffc7b13f30fc74daead0', 'name': 'Bernard Marr', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/daffd79db4879d38c053435ac089ef02?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/daffd79db4879d38c053435ac089ef02?s=96&d=mm&r=g', 'caption': 'Bernard Marr'}, 'description': 'Bernard Marr is a world-renowned futurist, influencer and thought leader in the field of business and technology. He is the author of 18 best-selling books, writes a regular column for Forbes and advises and coaches many of the world’s best-known organisations. He has 2 million social media followers and was ranked by LinkedIn as one of the top 5 business influencers in the world and the No 1 influencer in the UK.', 'sameAs': ['https://bernardmarr.com/', 'https://en-gb.facebook.com/BernardWMarr/', 'https://www.instagram.com/bernard.marr', 'https://www.linkedin.com/in/bernardmarr/', 'https://x.com/BernardMarr', 'https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw'], 'url': 'https://bernardmarr.com/author/123internet/'}]",,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL3RlY2gvaXQtY2FyZWVycy1za2lsbHMvYXJ0aWNsZXMvdG9wLXNraWxscy1mb3ItYXV0b21hdGlvbi1lcmEv0gFZaHR0cHM6Ly93d3cuc3BpY2V3b3Jrcy5jb20vdGVjaC9pdC1jYXJlZXJzLXNraWxscy9hcnRpY2xlcy90b3Atc2tpbGxzLWZvci1hdXRvbWF0aW9uLWVyYS8?oc=5,Nine Non-Tech Skills IT Workers Should Master to Thrive in the Automation Era - Spiceworks News and Insights,2022-03-14,Spiceworks News and Insights,https://www.spiceworks.com,"With AI technologies replacing millions of human jobs in the coming decade, tech workers must arm themselves with new skills to remain relevant in the age of automation.",Non-tech automation skills,"With AI technologies replacing millions of human jobs in the coming decade, tech workers must arm themselves with new skills to remain relevant in the age of automation.",N/A,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Mary Ann Richardson
+
+
+
+					IT Analyst, CMR Executive Advisory				
+
+
+
+
+Last Updated: March 14, 2022
+
+
+
+
+ 
+
+
+
+
+
+The World Economic Forum polled 300 global corporations in 2020 and discovered that 43% intend to cut their workforces as a result of new technologies, such as robotics and artificial intelligence. As organizations seek solutions that can outdo humans, the need to upskill continuously becomes a no-brainer. To compete effectively in the years ahead, tech workers should acquire new skills that we at Toolbox have compiled in the article below.
+“Technology is going to change the workforce,” says David Burns, the senior vice president and CIO of manufacturing and supply chain at GE. “With the greater adoption of technology, in-demand skills across all jobs will change, and the skill gaps between available workers to fill those jobs will be high.”
+In 2018 PwC research predicted that 38% of U.S. jobs could be performed by automation within 15 years. Artificial intelligence and machine learning are already being used to augment the capabilities of knowledge workers. Deloitte predicts that the future workforce will be made up of employees working side-by-side with contractors and AI and automation. While this human-machine collaboration will allow firms to perform work faster, many conventional positions will be eliminated.
+In 2020, the World Economic Forum surveyed 300 global companies and found that 43% expect to replace their workforces with new technology, including robotics and artificial intelligence. Eighty-five million jobs may be displaced due to the shifting division of labor between humans and machines. But, at the same time, 95 million jobs will be created that will be more adapted to this new division of labor. And for these new jobs, “human skills” will become increasingly important. These are the skills that machines cannot replicate. 
+See More: Key Skills Tech Employees Need for Digital Transformation
+These “human skills” are predicted to be in demand until 2025, according to survey respondents for the World Economic Forum’s Future of Jobs Report 2020. These abilities are detailed below, and they are grouped into three categories:
+Critical Thinking and Problem-solving skills Required for the Automation Age
+Analytical skills and innovation
+Those who can use data analytics to derive actionable insights from vast amounts of data and then use those insights for better business decision-making will be most in demand. 
+Complex problem solving
+Another skill that competes favorably with machines is complex problem solving, or the ability to see relationships between industries and derive solutions from them to resolve the still unmet needs of the consumer. 
+Critical thinking and analysis
+This skill involves one’s ability to objectively analyze a situation and come up with a logical and free of bias solution. 
+Creativity, originality and initiative
+Almost every list of talents for the next decade includes creative problem solving, or the ability to look at issues from many viewpoints and come up with novel and effective solutions. It involves approaching problems like a designer who considers what the consumer needs when creating and developing products and services to meet those needs. This is one human skill that even AI can not replicate. 
+Reasoning, problem-solving and ideation
+Reasoning based on data alone requires patience so as not to come to false conclusions and a deep understanding of AI-driven technologies. This skill demands the employee to extract relevant information from large amounts of data and come to a conclusion that may be utilized to construct thoughts that will guide an organization’s future path.
+See More: 8 Tech Skills to Master If You Want the Big Fat Paycheck in 2022
+Self-management Skills that IT Works Should Master
+Learning techniques and active learning
+According to the World Economic Forum, by 2025, half of all workers will require retraining. Moreover, 94% of company owners polled want employees to learn new skills on the job. As a result, the most sought-after employees will be those who are ready and able to retrain and reinvent themselves throughout their careers, rather than those who have spent years learning complicated skills like data analysis or software development. IT leaders will be expected to constantly learn about new technologies that will most likely benefit their organizations.
+Resilience, stress management, flexibility
+The ability to control your emotions via self-awareness has been mentioned as a necessity for future professions. Workers in the digital world must adapt to the quickly changing environment. As Kim Smith, venture strategist and chief innovation officer at IBM, observes: You can have someone who’s top-tier and technically capable, but if they’re entrenched and inflexible and their emotional intelligence quotient is not wired to be OK with change and failure, that one individual can be toxic to the organization as a whole.”
+Working with People’s Skills
+Leadership
+To guide their team and their company in the correct path, organizations that embrace and benefit from the newest technology developments will require competent and adaptable leaders who can take on a variety of tasks and have strong communication and team cooperation abilities. As employers look to replace their current workforce with remote workers, communication and collaboration skills will become more demanded. Burns further advises that IT leaders “need the ability to look beyond the day-to-day work you have to do. It’s far better to spend 5% of your time looking to the future than 100% of your time dealing with what’s in your inbox.”
+Social influence
+Employers are also seeking workers who can effectively use social networks and applications to communicate the organization’s product offerings and promote brand awareness. Social media communication skills could include creating a YouTube video to demonstrate a process or product to sharing one’s ideas or receiving or giving feedback through communication with a wide community of people through the Internet. Workers will also need to know how to use social networks to work collaboratively, virtually, and at a distance with colleagues and clients. 
+Learn, Unlearn and Relearn
+As futurist Alvin Toffler once said, “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn.” Technical skills quickly lose value as new technologies come online to replace them. The soft skills set humans apart from the machines that can replace them. Determine where you stand in terms of these soft skills and look for ways to improve them to keep ahead of your future machine competition. Keep abreast of new training opportunities, especially with forward-looking organizations that can provide you with access to training and allow you to rotate in and out of different roles in various departments. Employees who can readily learn, adapt, and grow to meet new technological trends will survive and thrive in the digital era. 
+Do you think you have the required skills to survive the digital age? Comment below or let us know on LinkedInOpens a new window , TwitterOpens a new window , or FacebookOpens a new window . We’d love to hear from you!
+MORE ON SKILLS
+
+Mainframe Skills Gap Is Growing: 3 Ways to Bridge It
+Key Skills Tech Employees Need for Digital Transformation
+8 Tech Skills to Master If You Want the Big Fat Paycheck in 2022
+Developing Cloud Skills Within Your Workforce
+
+
+
+
+
+
+
+
+
+
+
+
+
+								                  artificial intelligence										
+
+								                  Automation										
+
+								                  Machine Learning										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Mary Ann Richardson
+
+				                  IT Analyst, CMR Executive Advisory	                          
+
+
+ opens a new window
+ opens a new window 
+
+
+
+ opens a new window  opens a new window
+  	
+					Mary Ann Richardson is an independent IT analyst at technology research firm CMR Executive Advisory, focused on providing individuals and organizations with the information they need to use technology more productively and to make better business decisions. Ms Richardson has provided on-site training for  a number of organizations in the Philadelphia area. A former Gartner analyst, Ms Richardson is also a frequent contributor to online technology sites.			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNiaWEuY29tL25ld3MvZWNvbm9teS9jb21wYW5pZXMtc2hvd2Nhc2UtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,Connecticut Companies Showcase Artificial Intelligence Applications » CBIA - CBIA,2022-03-15,CBIA,https://www.cbia.com,"A healthcare provider, an insurer, and a robotics company touted artificial intelligence as the future of work at Hartford’s AI Day.",N/A,"A healthcare provider, an insurer, and a robotics company touted artificial intelligence as the future of work at Hartford’s AI Day.",N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,N/A,"[{'@type': 'Article', '@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/'}, 'author': {'name': 'Joe Budd', '@id': 'https://www.cbia.com/#/schema/person/ab892f6be56f35b290f5de6cda47a0b4'}, 'headline': 'Connecticut Companies Showcase Artificial Intelligence Applications', 'datePublished': '2022-03-15T22:10:26+00:00', 'dateModified': '2022-08-22T15:57:30+00:00', 'mainEntityOfPage': {'@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/'}, 'wordCount': 962, 'commentCount': 0, 'publisher': {'@id': 'https://www.cbia.com/#organization'}, 'image': {'@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://www.cbia.com/wp-content/uploads/2022/03/Movia-Robotics_Tim-Gifford_031522.jpg', 'keywords': ['Healthcare', 'Workforce'], 'articleSection': ['Economy'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/', 'url': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/', 'name': 'Connecticut Companies Showcase Artificial Intelligence Applications &#187; CBIA', 'isPartOf': {'@id': 'https://www.cbia.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://www.cbia.com/wp-content/uploads/2022/03/Movia-Robotics_Tim-Gifford_031522.jpg', 'datePublished': '2022-03-15T22:10:26+00:00', 'dateModified': '2022-08-22T15:57:30+00:00', 'description': 'A healthcare provider, an insurer, and a robotics company touted artificial intelligence as the future of work at Hartford’s AI Day.', 'breadcrumb': {'@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#primaryimage', 'url': 'https://www.cbia.com/wp-content/uploads/2022/03/Movia-Robotics_Tim-Gifford_031522.jpg', 'contentUrl': 'https://www.cbia.com/wp-content/uploads/2022/03/Movia-Robotics_Tim-Gifford_031522.jpg', 'width': 720, 'height': 500}, {'@type': 'BreadcrumbList', '@id': 'https://www.cbia.com/news/economy/companies-showcase-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.cbia.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Connecticut Companies Showcase Artificial Intelligence Applications'}]}, {'@type': 'WebSite', '@id': 'https://www.cbia.com/#website', 'url': 'https://www.cbia.com/', 'name': 'CBIA', 'description': '', 'publisher': {'@id': 'https://www.cbia.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.cbia.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.cbia.com/#organization', 'name': 'CBIA', 'url': 'https://www.cbia.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.cbia.com/#/schema/logo/image/', 'url': 'https://www.cbia.com/wp-content/uploads/2022/06/CBIA-OG-Image.jpg', 'contentUrl': 'https://www.cbia.com/wp-content/uploads/2022/06/CBIA-OG-Image.jpg', 'width': 1200, 'height': 627, 'caption': 'CBIA'}, 'image': {'@id': 'https://www.cbia.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/CBIAfb/', 'https://x.com/cbianews', 'https://www.youtube.com/cbiavideos/', 'https://www.flickr.com/photos/cbia/sets/', 'https://www.linkedin.com/company/cbia/']}, {'@type': 'Person', '@id': 'https://www.cbia.com/#/schema/person/ab892f6be56f35b290f5de6cda47a0b4', 'name': 'Joe Budd'}]",,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmluZGlhbnJldGFpbGVyLmNvbS9hcnRpY2xlL3RlY2hub2xvZ3kvZGlnaXRhbC10cmVuZHMvaG93LWFpLWlzLWEtYm9vbi1mb3ItcmV0YWlsLWJ1c2luZXNzLWluLWluZGlhLmE3ODM00gEA?oc=5,How AI is a Boon For Retail Business in India - Indian Retailer,2022-03-12,Indian Retailer,https://www.indianretailer.com,AI has revolutionized shopping as well as the administration of the business. It always begins with the supposition about what customers want from their buying experience. - Indian Retailer,"Artificial intelligence, retail industry",AI has revolutionized shopping as well as the administration of the business. It always begins with the supposition about what customers want from their buying experience. - Indian Retailer,AI has revolutionized shopping as well as the administration of the business. It always begins with the supposition about what customers want from their buying experience.,https://schema.org,,,,,,,,,,,,,,N/A,N/A,N/A,"[{'@type': 'Article', 'headline': 'How AI is a Boon For Retail Business in India', 'description': 'AI has revolutionized shopping as well as the administration of the business. It always begins with the supposition about what customers want from their buying experience.', 'image': {'@type': 'ImageObject', 'representativeOfPage': 'True', 'url': 'https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2022-03/future-artificial-intelligence-robot-cyborg.jpg'}, 'datePublished': '2022-03-12T05:17:16', 'dateModified': '2022-09-15T17:34:48+0530', 'hasPart': {'@type': 'WebPageElement', 'isAccessibleForFree': 'True', 'datePublished': '2022-03-12T05:17:16'}, 'isAccessibleForFree': 'True', 'author': {'@type': 'Person', 'name': 'Vaibhav Somani', 'url': 'https://www.indianretailer.com/author/vaibhav-somani'}, 'publisher': {'@type': 'Organization', 'name': 'Indian Retailer', 'url': 'https://www.indianretailer.com/author/vaibhav-somani'}}]",,

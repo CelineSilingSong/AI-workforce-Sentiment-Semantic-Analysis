@@ -1,0 +1,906 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,mainEntityOfPage,datePublished,name,author,publisher,image,headline,@type,hasPart,isAccessibleForFree,dateModified,interactivityType,alternativeHeadline,inLanguage,copyrightHolder,contentLocation,articleSection,articleBody,url,sameAs,logo,itemListElement,alternateName,video,thumbnailUrl,speakable,dateCreated,isPartOf
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5sYW5jYXN0ZXIuYWMudWsvZGF0YS1zY2llbmNlLW9mLXRoZS1uYXR1cmFsLWVudmlyb25tZW50L2Jsb2dzL2V4cGxhaW5hYmxlLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFuZC1jbGltYXRlLWNoYW5nZdIBAA?oc=5,Explainable Artificial Intelligence and Climate Change - Lancaster University,2021-10-05,Lancaster University,https://www.lancaster.ac.uk,Information relating to Explainable Artificial Intelligence and Climate Change,N/A,How do we know AI gets things right? David Parkes discusses Elizabeth Barnes’ seminar presentation to DSNE and the place of AI in environmental science,How do we know AI gets things right? David Parkes discusses Elizabeth Barnes’ seminar presentation to DSNE and the place of AI in environmental science,N/A,N/A,"
+
+Explainable Artificial Intelligence and Climate Change
+
+
+ Posted on 5 October 2021
+ by David Parkes
+
+
+
+
+What are the applications of machine learning (used here interchangeably with 'AI') in understanding global climate change? Why do machine learning algorithms reach the conclusions they do, and when do they get things wrong? What are the limits of what machine learning can tell us, and where do we need to involve human environmental science expertise? These were the big questions addressed by Elizabeth (Libby) Barnes, of Colorado State University, in her seminar delivered to DSNE on Thursday 30th September. In this post I want to cover the key ideas embodied in Libby's work, and provide commentary – some Libby's, some my own – on how they fit into the landscape of environmental science.At the core of the work she presented, Libby introduced the idea of explainable artificial intelligence (XAI); methods to take the results from machine learning algorithms and trace the path back to the input data, showing which elements of the data were most important in decision-making. These allow a critical assessment of the AI's performance: do the components of the dataset that lead to the results match our human, process-based understanding of what drives them? If not, the AI may reach the right conclusion for the wrong reason. Sometimes the AI getting it right or wrong is clear – in image processing, for example, a heat map of which parts of an image are most relevant in identifying the presence of an animal immediately shows whether the AI has correctly identified the animal-containing sections of the image – but in many cases with environmental data, interpretation is more difficult. This is where the skills of subject matter experts are indispensable: squaring the AI-generated outputs with process-based understanding is critical to trusting the meaning-agnostic results of an algorithm, while the insights offered by XAI can give scientists a way to approach datasets that are so large, complex, or noisy that it's hard to know where to start in offering a full interpretation.Armed not only with the AI tools to process large-scale data, but also with XAI to understand where the results have come from, Libby took us through examples where she and her team had applied machine learning to interpret major global changes in the earth system. The first example was of the Human Footprint Index (HFI), a measure of human pressure on the environment. To provide a comprehensive perspective, HFI incorporates many different datasets – land use, population density, light pollution, etc. – and as a result it is compiled infrequently with a significant lag behind the present day (at least in the context of rapid modern changes in human environmental impact). Libby and her colleagues trained an AI to generate estimates of HFI based on Landsat imagery – a single, more straightforward dataset – and used this to estimate a more up-to-date HFI for 2019 (Keys, Barnes, and Carter, 2021). But is it any good? This is where XAI comes in. Using the technique of Layerwise Relevance Propagation (LRP), heat-maps of the parts of the dataset that were most important to the AI in determining changes between the 2000 HFI and the 2019 estimate show the AI recognising the presence of many new man-made features – wind farm installations in Texas, irrigation networks in Cairo, urban development in Hanzhong – in the more recent Landsat images. These are tiny examples within a global dataset, of course – to cast a human eye over every pixel would defeat the point of the time-saving and scalability benefits that are primary motivators for using AI at all – but they are critical in building trust in the AI output.The second example presented was of an AI trained on gridded global datasets of temperature to predict the year (Barnes et al. 2020). A strange application at first glance – most of us are aware of what year it is, and of what year any data we record is from – but a useful case study for using XAI to interpret results in a fairly controlled (at least in earth sciences terms) environment. The initial results are as expected: the AI struggles to predict the year before the 1960s or 70s, when the global temperature trend was smaller in comparison to noise, and then makes effective predictions once the signal of forced temperature change is clearer. Things become more interesting when XAI is used to look at why the AI predicts the year it does. The key areas for predicting the year are not necessarily those where annual temperature anomaly is of the highest amplitude, but where the signal-to-noise ratio is particularly high. Is this, then, significantly different from a more simple regression between years and relative temperature anomalies? For me the answer is both yes and no. The AI-generated results are perhaps less of a brand-new perspective and more an extension of what is possible with more standard statistical techniques, but the ability to consider the data as a whole rather than point-by-point confers the ability for the AI to recognise spatial patterns in a way that – without an explicitly applied framework that then requires additional assumptions – the simpler methods cannot. The amount of added value that the AI provides here relies, it seems, on the internal details of how the algorithm used identifies patterns in data; a matter of considerable interest, but better left to the paper rather than covered in either a presentation or a blog post.In the third example presented, we saw machine learning used to feed back more explicitly into our process-based understanding of climate change. Libby demonstrated work by a member of her team, Emily Gordon, on using AI to make predictions of transition in the Pacific Decadal Observation (PDO) (Gordon, Barnes, and Hurrell, 2021). Here, the nature of what XAI is telling us is less immediately intuitive, and for good reason: a global dataset (of ocean heat content) is condensed down to just a single value representing likelihood of transition. Nevertheless, the results are compelling: through XAI there is a coherent picture of the areas which are most relevant to both directions of transition for the PDO, and they are in agreement with current theory. The use of AI as a way of directing attention in predicting and understanding complex emergent behaviours in large-scale climate variability, rather than as simply a way to process and characterise data, does have a feel (at least to a relative newcomer such as myself) of being more in its infancy, but it is also potentially the most exciting application. One of the most profound challenges of climate science is dealing with the vast number of interacting processes and systems, which are extremely hard to isolate and often non-linear, unintuitive or even chaotic in their responses. Human scientists can specialise with more depth in individual subject areas, or choose to focus on broader but shallower knowledge across multiple disciplines, but ultimately the complexity of many phenomena may outstrip the capacity for any individual scientist or group to reasonably understand all of the relevant causal relationships involved. How, then, do we start explaining things 'too big' to explain? There is a relevant analogy here from the world of pure mathematics in the form of the Four Colour Theorem, which was the first major case of a proof being performed by a computer which could not be feasibly checked directly by human mathematicians because it was so large. It was resisted by some, but the proof still stands, with the verification of the proof-generating software standing in for the ability to verify the proof itself. Is environmental science in a position to do similarly when it comes to understanding complex, large-scale patterns; to verify the coding of the result-generating AI rather than of a directly-stated physical explanation? Probably not – or not yet – but we are likely to see steps in that general direction, with AI at the very least starting to direct where subject-matter experts begin when explaining increasingly complex phenomena.The potential for speculation on future AI uses in environmental science is almost endless – in direct contrast to the length of a good blog entry – but it is clear from the work already performed and showcased by Libby that this is a fantastically productive area, not only helping us to handle data but also, thanks to the insights of XAI, helping us to explain it. On behalf of DSNE I'd like to thank Libby for her time and energy, and for getting us all thinking about both the power and the pitfalls of using AI in environmental science.Elizabeth Barnes is an associate professor at Colorado State University. Information on her research group is available at https://sites.google.com/view/barnesgroup-csu/Header image credit: Keys, Barnes, and Carter (2021)References:Keys, Barnes, and Carter (2021), Environmental Research Lettershttps://iopscience.iop.org/article/10.1088/1748-9326/abe00aBarnes et al. (2021), Journal of Advances in Modeling Earth Systemshttps://doi.org/10.1029/2020MS002195Gordon, Barnes, and Hurrell (2021), Geophysical Research Letters (in review) https://doi.org/10.1002/essoar.10507680.2
+Related Blogs
+
+
+
+
+
+Annual meeting of the Society for Decision Making under Deep Uncertainty, 2022
+
+
+
+
+
+
+The Cryosphere 2022 Conference
+
+
+
+
+
+
+DSNE Reseachers receive best poster award at CDE Conference 2022
+
+
+ 
+
+Disclaimer
+
+            The opinions expressed by our bloggers and those providing comments are personal,
+            and may not necessarily reflect the opinions of Lancaster University. Responsibility
+            for the accuracy of any of the information contained within blog posts belongs to the
+            blogger.
+        
+
+Back to blog listing
+
+
+
+Related tags
+
+artificial intelligencecentre of excellence in environmental data science ceedsdata sciencedata science of the natural environmentenvironmental data science 
+
+
+Share this story
+
+Share on Facebook
+
+
+
+
+
+Share on Twitter
+
+
+
+
+
+Share on LinkedIn
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmVsbGVubWFjYXJ0aHVyZm91bmRhdGlvbi5vcmcvY2lyY3VsYXItZXhhbXBsZXMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZm9yLXJlY3ljbGluZy1hbXAtcm9ib3RpY3PSAQA?oc=5,Artificial intelligence for recycling: AMP Robotics - ellenmacarthurfoundation.org,2021-10-01,ellenmacarthurfoundation.org,https://www.ellenmacarthurfoundation.org,Improving the economics of recycling using artificial intelligence,N/A,Improving the economics of recycling using artificial intelligence,Improving the economics of recycling using artificial intelligence,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5LzIwMjEvb2N0LzAyL3JvYm90cy1zdGVhbGluZy1qb2JzLWxhYm91ci1zaG9ydGFnZXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtY292aWTSAXZodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdGVjaG5vbG9neS8yMDIxL29jdC8wMi9yb2JvdHMtc3RlYWxpbmctam9icy1sYWJvdXItc2hvcnRhZ2VzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWNvdmlk?oc=5,Robots: stealing our jobs or solving labour shortages? - The Guardian,2021-10-02,The Guardian,https://www.theguardian.com,"From fast food to farming, Covid-19 has accelerated the rise of the worker robots. This in turn will put more jobs at risk and makes the need to reframe society ever more urgent",N/A,"From fast food to farming, Covid-19 has accelerated the rise of the worker robots. This in turn will put more jobs at risk and makes the need to reframe society ever more urgent",N/A,Technology,N/A,"  Photograph:  Getty ImagesView image in fullscreen Photograph:  Getty ImagesThe ObserverRobots This article is more than 2 years oldRobots: stealing our jobs or solving labour shortages?This article is more than 2 years oldFrom fast food to farming, Covid-19 has accelerated the rise of the worker robots. This in turn will put more jobs at risk and makes the need to reframe society ever more urgentMartin FordSat 2 Oct 2021 13.00 EDTLast modified on Tue 5 Oct 2021 08.54 EDTShare615615As the coronavirus pandemic enveloped the world last year, businesses increasingly turned to automation in order to address rapidly changing conditions. Floor-cleaning and microbe-zapping disinfecting robots were introduced in hospitals, supermarkets and other environments. Some enterprises found that, given the new emphasis on hygiene and social distancing, robotic operations offered a marketing advantage. The American fast food chain White Castle began using hamburger-cooking robots in an effort to create “an avenue for reduced human contact with food during the cooking process”.With the worst days of the pandemic hopefully now behind us, the jobs story has turned out to be unexpectedly complicated. While overall unemployment rates remain elevated, both the US and the UK are experiencing widespread worker shortages, focused especially in those occupations that tend to offer gruelling work conditions and relatively low pay. Even as a quarter of a million of British workers who held jobs in 2019 remain unemployed, job vacancies are up 20% from pre-pandemic levels as employers struggle to fill many positions. The reasons behind the worker shortages are not entirely clear. A common assumption is that extended payments to furloughed workers allowed people to remain out of the workforce. However, evidence from a number of US states that moved to discontinue unemployment benefits early suggests that the extended payments may not have played a major role. Many workers may have simply reassessed their willingness to do difficult and often unrewarding jobs in return for low pay. In the UK, Brexit has greatly exacerbated the situation. At least 200,000 EU nationals, primarily from eastern Europe, who once filled roles in areas such as agriculture, transportation and logistics, have left the country and may never return.All of this has created a powerful incentive for businesses to invest in automation as a way to adapt to the worker shortage. As British farms confront the absence of seasonal workers who once flooded in from eastern Europe, interest in agricultural robots is growing. The UK-based startup Small Robot Company, for example, has developed two robots capable of killing weeds in wheat fields while cutting down dramatically on the use of chemical pesticides. The first robot autonomously prowls a wheat field, and with precision and patience that no human could match analyses each individual wheat plant using several cameras, mapping the exact locations where weeds are beginning to encroach. Once this data has been collected, a second, somewhat frightening, five-armed robot follows, killing the weeds by administering a powerful electric shock.View image in fullscreenToday’s most advanced distribution centres employ fully autonomous robots. Photograph: vanit Janthra/AlamyAnother startup company, Xihelm, which received venture funding from the UK government in 2018, has built a robot capable of harvesting fragile fruits and vegetables in greenhouses. The robot can, for example, carefully pick tomatoes after using artificial intelligence to identify only the ripest fruit. In the US, where the worker shortage has hit the restaurant industry especially hard, the White Castle chain has introduced french fry automation to work alongside its new hamburger robots, while the national restaurant chain Sweetgreen acquired a startup company that provides robotic kitchen technology. McDonald’s restaurants in the Chicago area are experimenting with an artificial intelligence-powered voice system that can process customer orders in drive-throughs.The overall impact of artificial intelligence and robotics on the job market is likely to be significantThere can be no doubt that the pandemic and the associated worker shortage are accelerating the drive toward deploying artificial intelligence, robotics and other forms of automation. In the UK, the trend is being further amplified as Brexit’s impact on the workforce becomes evident. However, the reality is that most of these technologies are unlikely to arrive in time to offer a solution to the immediate challenges faced by employers. Xihelm’s tomato-picking robot, for example, remains in the testing phase; the machines are not yet generally available for purchase. Some of the most critical worker shortages the UK are in transportation and logistics. By one estimate, the country is currently short of at least 100,000 truck drivers. As has been widely publicised, this has led to shortages of everything from petrol to McDonald’s milkshakes. No robots will be coming to the rescue in the near future. While a number of startup companies in Silicon Valley and elsewhere are working on self-driving trucks, the technology remains at several years away from commercial viability. Add time for governments to craft the necessary regulations or simply to get the public to accept the idea of fully loaded trucks navigating local roads without a driver at the wheel and the wait could easily be much longer.Over the course of a decade or more, however, the overall impact of artificial intelligence and robotics on the job market is likely to be significant and in some specific areas the technologies may lead to dramatic change within the next few years. And many workers will soon confront the reality that the encroachment of automation technology will not be limited to the often low-paying and less desirable occupations where worker shortages are currently concentrated. Indeed, many of the jobs that employers are struggling to fill may prove to be highly resistant to automation. At the same time, better-paying positions that workers definitely want to retain will be squarely in the sights as AI and robotics continue their relentless advance.View image in fullscreenGet the patty started: a hamburger-cooking robot in Los Angeles. Photograph: Miso RoboticsConsider, for example, the distribution centres run by Amazon or the online grocery retailer Ocado. As online shopping has accelerated, these warehouses have become an employment bright spot, providing jobs for many thousands of workers. Less than a decade ago, facilities of this kind would have been animated by hundreds of workers continuously roving between tall shelves containing thousands of different items. The workers would have included “stowers” tasked with taking newly arrived inventory and storing it on shelves and “pickers” responsible for retrieving items in order to fulfil customer orders. The activity would have been a continuous mad scramble, perhaps resembling an especially disordered anthill, in which a typical worker might trek a dozen or more miles over the course of a single shift.In today’s most advanced distribution centres, this bustling motion has become almost a mirror image of itself. It is now the workers who remain stationary – doing the picking and stowing – while the inventory shelves speed about, conveyed between destinations by fully autonomous robots. Amazon now operates more than 200,000 of these robots at its distribution centres worldwide, while Ocado employs more than 1,000 at a single facility in Andover in Hampshire.Companies such as Amazon and Ocado continue to employ massive human workforces largely because the robots are – so far – unable to perform the picking and stowing operations that require human-level visual perception and dexterity. This is certain to change, however. Both companies, as well as number of well-funded startups, are working on building more dexterous robots. Indeed, Amazon’s CEO, Jeff Bezos, speaking at a conference in 2019, said: “I think [robotic] grasping is going to be a solved problem in the next 10 years.” In other words, a great many of the hundreds of thousands of workers now employed in these facilities are likely to become redundant in the relatively near future. And as robots advance, they will likewise be deployed ever more frequently in restaurants, supermarkets and other environments.View image in fullscreenStartup company Xihelm’s harvesting robot is capable of picking fragile fruits and vegetables in greenhouses. Photograph: XihelmMore educated white-collar workers will quickly discover that they are by no means exempt from the rise of AI. Any job that involves the relatively routine analysis or manipulation of information is likely to fall in whole or in part to software automation. Some of the world’s largest media organisations, for example, already use AI systems that automatically generate news articles, while intelligent legal algorithms analyse contracts and predict the outcome of litigation. AI is even beginning to demonstrate a talent for routine computer programming. In many cases, knowledge work will prove to be easier and less expensive to automate than lower-paid work that requires physical manipulation. When the job is focused purely on working with information, there is no requirement for an expensive mechanical robot and no need to surmount the difficult technical challenges involved in replicating human dexterity or mobility.More educated white-collar workers will quickly discover that they are by no means exempt from the rise of AIIn the long run, as advancing technology shapes our post-pandemic future, the workforce will increasingly be divided into winners and losers. The losers will be those who focus largely on routine, predictable tasks, regardless of whether these activities are physical or intellectual in nature, and often independent of education level. The winners are likely to fall into one of three general groups. First, skilled trade workers, such as plumbers and electricians, who do work that requires dexterity, mobility and problem-solving ability in highly unpredictable settings. The same is true for a care worker who assists an elderly person with his or her daily needs. This type of work is far beyond the capability of any existing robot and these jobs will remain safe for the foreseeable future. Second, those workers whose occupations require the development of deep, sophisticated relationships with other people will be relatively safe. This might include caring roles, such as nursing, or business or educational occupations that require complex human interactions. While AI is making progress in this arena – for example, there are already chatbots that can provide rudimentary mental health support – it is likely to be a long time before machines can form truly meaningful relationships with humans. The final category includes intellectual work that is creative or activities that are otherwise genuinely non-routine and unpredictable in nature. For these workers, artificial intelligence will be likely to amplify, rather than replace, their efforts. Within many professions, a winner-take-all scenario might unfold; the most creative individuals will rise to the top, while those focused on more routine activities will face a growing threat from automation.The empty shelves crisis isn’t just down to Covid and Brexit – it’s been decades in the makingFelicity LawrenceRead moreThe best advice for individuals is to transition from routine, predictable work and towards one of these winning categories. There are real questions, however, about the viability of this advice when applied to society as a whole. Historically, advancing technology has tended to drive most workers from routine work in one sector to routine work in another. As agriculture became mechanised, workers moved from farms to factories, but they continued to do routine work. Later, workers moved to routine jobs in the service sector. The rise of artificial intelligence will require an unprecedented transition in which a large fraction of the workforce will have to find and adapt to roles that are genuinely non-routine. It is unclear whether a sufficient number of these jobs will be created – and, even if they are, many workers will likely lack the inherent talents and personality traits required to take on creative or relationship-based roles.Designing a society that can adapt to the rise of artificial intelligence and allow everyone to thrive as these changes unfold is likely to be one of our most significant challenges in the coming years and decades. It will require an emphasis on retraining and education for those workers who can realistically undertake the necessary transition, as well as an improved safety net – and perhaps an entirely new social contract – for those who will inevitably be left behind.
+
+Martin Ford is the author of Rule of the Robots: How Artificial Intelligence Will Transform Everything, published on 30 September (Basic Books, £20). To support the Guardian and Observer order your copy at guardianbookshop.com. Delivery charges may apply 
+Explore more on these topicsRobotsThe ObserverCoronavirusArtificial intelligence (AI)Work & careersSupply chain crisisfeaturesShareReuse this contentMost viewed‘Some of the most shocking photographs ever taken’ – The Camera Never Lies reviewRepublican convention day three: JD Vance to speak as focus turns to foreign policyJon Stewart on Trump assassination attempt: ‘We dodged a catastrophe’LiveBiden hasn’t done enough to ease age concerns, former top Obama adviser says – liveWho is Usha Vance, the Indian American lawyer married to JD Vance?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGptYWcuY29tL2xvbmdyZWFkcy9haS1mdXR1cmVzLWhvdy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS13aWxsLXNoYXBlLW11c2ljLXByb2R1Y3Rpb27SAQA?oc=5,AI Futures: how artificial intelligence will shape music production - DJ Mag,2021-10-06,DJ Mag,https://djmag.com,"Already part of some major DAWs including Logic Pro, AI and machine learning is becoming a staple of music studios through technology from assisted mixing and search, through to the advent of complete AI DAWs. DJ Mag's digital tech editor explores its impact on music production and engineering in the second part of our three-part AI Futures series",N/A,"Already part of some major DAWs including Logic Pro, AI and machine learning is becoming a staple of music studios through technology from assisted mixing and search, through to the advent of complete AI DAWs. DJ Mag's digital tech editor explores its impact on music production and engineering in the second part of our three-part AI Futures series","Already part of some major DAWs including Logic Pro, AI and machine learning is becoming a staple of music studios through technology from assisted mixing and search, through to the advent of complete AI DAWs. DJ Mag's digital tech editor explores its impact on music production and engineering in the second part of our three-part AI Futures series",N/A,N/A,"
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+Hardwell cancels SAGA Festival set, blames ""shit"" equipment and pay issues: ""Nothing is working""
+
+
+",https://schema.org,"[{'@type': 'Article', 'headline': 'AI Futures: how artificial intelligence will shape music production', 'name': 'AI Futures: how artificial intelligence will shape music production', 'about': ['AI', 'Never Before Heard Sounds', 'iZotope', 'dj mag tech'], 'description': ""<p>Already part of some major DAWs including Logic Pro,&nbsp;AI and machine learning is becoming a staple of music studios through technology from&nbsp;assisted mixing and search, through to the advent of complete AI DAWs. DJ Mag's digital tech editor explores its impact&nbsp;on music production and engineering in the second part of our three-part AI Futures series</p>"", 'image': {'@type': 'ImageObject', 'representativeOfPage': 'True', 'url': 'https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/article/image/AI-in-studio-Header.jpg.webp?itok=uEP-gyMo', 'width': '1005', 'height': '565'}, 'datePublished': '2021-10-06T12:17:41+0100', 'dateModified': '2021-10-06T12:17:41+0100', 'isAccessibleForFree': 'True', 'publisher': {'@type': 'NewsMediaOrganization', 'name': 'DJ Mag', 'url': 'https://djmag.com/'}, 'mainEntityOfPage': 'https://djmag.com/longreads/ai-futures-how-artificial-intelligence-will-shape-music-production'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbWl0c2xvYW4ubWl0LmVkdS9pZGVhcy1tYWRlLXRvLW1hdHRlci9leC1nb29nbGUtcmVzZWFyY2hlci1haS13b3JrZXJzLW5lZWQtd2hpc3RsZWJsb3dlci1wcm90ZWN0aW9u0gEA?oc=5,Ex-Google researcher: AI workers need whistleblower protection - MIT Sloan News,2021-10-06,MIT Sloan News,https://mitsloan.mit.edu,"Artificial intelligence expert Timnit Gebru on the challenges researchers can face working at tech companies, and how to protect them.",N/A,"Artificial intelligence expert Timnit Gebru on the challenges researchers can face working at tech companies, and how to protect them.","Artificial intelligence expert Timnit Gebru on the challenges researchers can face working at tech companies, and how to protect them.",N/A,N/A,"
+ 
+
+
+
+
+
+
+
+
+
+
+recent
+
+
+
+
+9 hours ago
+Federal spending was responsible for the 2022 spike in inflation
+
+
+
+
+Jul 16, 2024
+Making generative AI work in the enterprise: New from MIT SMR
+
+
+
+
+Jul 15, 2024
+How to tap AI’s potential while avoiding its pitfalls 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit: Mimi Phan / Kimberly White / Getty Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+
+                        Artificial Intelligence
+
+
+Ex-Google researcher: AI workers need whistleblower protection
+
+By
+ Sara Brown
+
+
+Oct 6, 2021
+
+
+
+
+
+
+Why It Matters		
+
+
+
+Artificial intelligence expert Timnit Gebru on the challenges researchers can face at Big Tech companies, and how to protect workers and their research. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+facebook
+X
+linkedin
+email
+print
+
+open share links
+close share links
+
+Artificial intelligence research leads to new cutting-edge technologies, but it’s expensive.
+Big Tech companies, which are powered by AI and have deep pockets, often take on this work  — but that gives them the power to censor or impede research that casts them in an unfavorable light, according to Timnit Gebru, a computer scientist, co-founder of the nonprofit organization Black in AI and the former co-leader of Google’s Ethical AI team.  
+
+
+
+Work smart with our Thinking Forward newsletterInsights from MIT experts, delivered every Tuesday morning.
+Email Address
+
+
+
+
+
+
+
+
+
+Leave this field blank
+
+
+
+
+
+The situation imperils both the rights of AI workers at those companies and the quality of research that is shared with the public, said Gebru, speaking at the recent EmTech MIT conference hosted by MIT Technology Review.
+“It’s all the incentive structures that are not in place for you to challenge the status quo,” she said.
+Gebru was forced out at Google last December (Gebru said she was fired, while Google said she resigned) after co-writing a paper about the risks of large AI language models, such as environmental impacts and the difficulty in finding embedded biases. Google’s search engine runs on such a large language model.
+Citing concerns, Google told Gebru to retract the paper from a conference or remove her name and the name of other Google researchers, according to The New York Times. Gebru refused to so without a fuller explanation from Google, which led to Google announcing her departure.
+During her recent talk, Gebru highlighted what she views as the labor rights concerns of AI workers, how to protect them, and why academia isn’t always a better route for researchers. Ultimately, she said, the goal is better and more equitable artificial intelligence.
+“The moment you push a little hard, you’re out” 
+Gebru’s research centers on unintended negative impacts of artificial intelligence. A paper she co-authored with MIT Media Lab researcher Joy Buolamwini explored bias in facial recognition algorithms.
+
+
+We need much stronger labor protection laws in order to allow AI researchers to organize against things that they see going really wrong.
+
+Timnit Gebru
+AI researcher
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After joining Google in 2018, “I had issues from the very beginning,” Gebru said.  She said some people had doubts that she would be able to change a company as large as Google. “I was thinking, ‘Okay, maybe I can carve out a small piece … that is safe for people in marginalized groups,’” she said. “What I learned is that it's impossible, because the moment you push a little hard, you're out. So if you survive, it's because maybe you're not poking … at a thing that they find super important.”
+It’s important to hold tech companies accountable from the outside, Gebru said.
+“We can't have the current dynamic that we have and expect any sort of nonpropaganda tech to come out of tech companies,"" she said. ""Because when you start censoring research, then that's what happens, right? The papers that come out end up being more like propaganda.”
+Problems extend outside of Big Tech  
+Since leaving Google, Gebru has been working to develop an independent research institute. While many AI researchers work in academia, Gebru said that in her experience, that avenue poses its own concerns related to gatekeeping, harassment, and an incentive structure that doesn’t reward long-term research.  
+There are also concerns about tech companies funding AI research at academic institutions. Gebru cited The Grey Hoodie Project, a research paper by Mohamed Abdalla of the University of Toronto and Moustafa Abdalla of Harvard Medical School. The researchers compared the way Big Tech (large technology companies like Google, Amazon, and Facebook) is funding and leading AI research with how big tobacco companies funded research in an effort to dispel concerns about the health effects of smoking.
+“At an independent research institute, you can do research that the company does not think is going to make it money right now. You can do research that really shows fundamental flaws in whatever technology that a company might be using,” Gebru said.
+How to improve protection for Big Tech workers 
+Gebru said she doesn’t argue against researchers working for Big Tech companies, but said they need protection to do their jobs. Otherwise, technology companies can quash findings or research threads that are unfavorable. She suggested three things that could help:
+
+Enhanced whistleblower protection for AI researchers. Recent events have shown the importance of whistleblowers at Big Tech companies, such as the former Facebook data scientist who exposed the company’s internal documents that show Facebook knew how much harm the company was causing.
+
+Anti-discrimination laws. “Often these organizations harm marginalized communities the most,” Gebru said “It's people from marginalized groups who'll see, who'll think of those negative impacts [of AI]. A lot of other people might think, ‘Oh, this is all going to be all great.’… from their standpoint in life, they don't see how it's going to negatively impact people. But after having certain experiences, it might be super clear to you, and you're going to push hard on that angle.”
+Labor laws. When Google became involved with a federal program to use AI to potentially improve drone strikes, employees protested, and the company ended up not renewing the contract. “I think that workers are building power, which is great, but we need much stronger labor protection laws in order to allow even AI researchers to organize against things that they see going really wrong,” she said. After Gebru left Google, a letter of support for her was signed by almost 2,700 Google employees and more than 4,300 others.
+Gebru also advised people working in tech who are battling these issues to build a coalition.
+“You can do a lot still without those labor protections,” she said. “If you have a coalition of people around you, you can do a lot.”
+ 
+Related Articles
+
+
+The hidden work created by artificial intelligence programs
+
+
+The AI road not taken
+
+
+Human-centered AI fights bias in machines and people 
+
+
+And that includes research that might be unpopular.
+“Try to think of the one thing you can do that pushes the envelope, that's not going to make the companies happy, because that means you're doing the right thing,” she said.
+A more equitable vision for AI 
+As AI technologies become ubiquitous, it is increasingly important to consider who is involved in shaping the future.
+“It’s nothing really groundbreaking. I just want to work on research in AI [that’s] rooted in thinking about the perspectives of people in marginalized groups,” Gebru said. “That could be either thinking about research in the future and what kind of technologies should we build, what kind of AI tech research should we do, or critiquing it after it's been built.”
+Gebru said she hopes to see artificial intelligence become more task-specific and designed to be used for specific groups of people. Right now, AI is abstract and general, which tends to mean the dominant’s group vision is implemented, marginalizing nondominant groups.
+“Let’s look at the most marginalized from the very beginning and let's start with that angle,” she said.
+Read more artificial intelligence coverage 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For more info
+Sara Brown
+Senior News Editor and Writer
+
+
+sbrown1@mit.edu
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+Making generative AI work in the enterprise: New from MIT SMR
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+How to tap AI’s potential while avoiding its pitfalls 
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+How can we preserve human ability in the age of machines?
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZHhjLmNvbS91cy9lbi9pbnNpZ2h0cy9wZXJzcGVjdGl2ZXMvcGFwZXIvdGhlLWZ1dHVyZS1vZi1haS1pbi10aGUtYWVyb3NwYWNlLWluZHVzdHJ50gEA?oc=5,The future of AI in the aerospace industry - DXC Technology,2021-10-01,DXC Technology,https://dxc.com,New importance is being placed on building systems that bring autonomous operation to the aviation industry with a roadmap for the safe and ethical dimensions of AI.,"AI, aerospace, artificial intelligence, automation, machine learning, DXC Robotic Drive, autonomous vehicle development,Artificial intelligence (AI),Machine learning,Autonomous driving,Autonomous vehicle development,Data analytics,Data-driven,Data driven decision making,Automation",New importance is being placed on building systems that bring autonomous operation to the aviation industry with a roadmap for the safe and ethical dimensions of AI.,N/A,N/A,N/A,"
+
+
+
+Using AI to fly an airplane will be an enormous achievement; the ultimate reflection of AI’s ability to manage complexity. It will be a critical piece to implementing the changes that will be required in the next decade as A&D organizations reassess manufacturing automation in their factories. The recent pandemic, furloughs, bankruptcies and retirements are all impacting productivity and widening the talent gap, forcing the industry to adopt new technology such as AI to reimagine their business.
+What is AI and machine learning?
+AI, like so many technology buzzwords, can mean different things to different people. For us, an AI system is one that leverages software functions created through a machine learning process rather than through traditional programming. Data, rather than source code, is the critical element. The performance of an AI application is shaped by the data used to train the application. 
+
+
+
+
+
+
+
+Learn more:
+Executive Data Series: AI for growth
+Responsible AI: How to make your enterprise ethical, so that your AI is too
+
+
+
+
+
+Without going into detail on machine learning algorithms or approaches, which is beyond the scope of this paper, we can generalize that the power in AI comes from machine learning’s ability to model complex systems and environments far beyond what we can reasonably build in traditional software.
+Imagine building a speech recognition system through traditional programming — having a function for every word or a case statement for every pronunciation or accent. It would take a staggering amount of time to cover even 10 percent of the English language. Machine learning models, on the other hand, have made short work of this task, to the point that robust and accurate systems can understand a full vocabulary from hundreds of languages and accents.
+Analytical AI vs. operational AI
+Today, two distinct classes of AI applications are emerging across industries. The first is analytical AI, as in the type of system that can predict when a machine is going to fail, detect credit card fraud or recommend the next book to buy on Amazon. Operational AI, the second class of AI applications, actually does something in the physical world. It can manage a factory process, fly a plane, drive a vehicle or act on predicted events. It’s artificial intelligence at work.
+
+
+
+
+Underpinning automation, the industry also needs a strong digital foundation where both machine usage and labor can be tracked and optimized automatically.
+
+
+
+
+
+
+
+Analytical AI is maturing
+The development tools and environment for building analytical AI applications are rapidly maturing. Previously, data scientists wrote Python code to enable most algorithms and approaches to machine learning. They did a lot of heavy lifting, extracting from various sources and then transforming the data to ingest into AI algorithms.
+We can now address some of the more complex challenges the industry is trying to solve. Where does the industry need to pivot, from a technology point of view, so it can thrive during moments of disruption? We can also see coming technology advancements such as the introduction of more drones and air taxis.
+What the industry really needs to do is to scale up the building of complex operational AI systems. We need the self-driving car level of AI across the A&D industry. To do this, we need a different approach to developing AI systems. The scale of data needed to train these complex systems is many orders of magnitude larger than what has been done before. This data must be well-managed through a significantly more complex machine learning system, where AI software is often trained in stages, leveraging data that is synthetically generated at key points. We must also consider the testing and validation environment, since we are talking about building systems that operate complex machinery in the real world.
+Operational AI in aerospace and defense: Three use cases
+Unlike AI development for analytical use cases, the development of toolchains and methodologies for complex operational AI is only just emerging. We believe that success in any complex operational AI endeavor will be determined most critically by having access to a robust development ecosystem.
+Factory automation. Many of the woes in A&D over the past 10 to 15 years have been caused by the inefficient supply chain, which has created cost overruns, delays and even bankruptcies. Many companies are struggling with major supply chain problems, from a lack of control — in both delivery and timeliness — to a lack of quality control. Across the industry, supply chain problems have cost companies tens of billions of dollars in unnecessary costs. In short, the supply chain in the A&D industry has been a major problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn about DXC's expertise in the Automotive industry. 
+
+
+
+
+
+The automotive industry is highly digitized and highly automated from a manufacturing standpoint, because there is a relatively stable and manageable supply chain of 10 or 15 original equipment manufacturers (OEMs), along with cooperation and partnerships so everyone can invest in automation. By contrast, the global aerospace industry lacks this level of partnership and, critically, the necessary manufacturing volume to make similar investments. A&D companies depend on a very deep and unwieldy supply chain with almost no automation and very little planning control or quality control.
+In terms of delays and quality issues, the root causes are poor manual processes and poor manual planning. Underpinning automation, the industry also needs a strong digital foundation where both machine usage and labor can be tracked and optimized automatically. Automation not only brings conformity and control, but it also brings an automatic improvement in quality that is sorely needed. The answer to automating in A&D lies in using general-purpose robotics, more specifically, cobots (collaborative robots), which are general-purpose humanoid robots that can work among a human population on both factory floors and typical A&D production lines. Cobots introduce automation at a much lower cost because retooling of manufacturing programs is not needed.
+
+
+
+
+Underpinning automation, the industry also needs a strong digital foundation where both machine usage and labor can be tracked and optimized automatically.
+
+
+
+
+
+
+
+These cobots still need to be programmed, and that’s where AI comes in. Programming traditional automation solutions is an expensive proposition, as each task needs to be custom programmed to fit a particular factory and production line. With AI, programming countless different tasks one by one is not needed. AI plus cobots enable the automation of that operational program and factory at high, low and no scale, and at a dramatically lower cost, so that implementing automation is achievable, given the constraints of the aerospace industry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn about DXC's expertise in the Travel, Transportation and Hospitality industry.
+
+
+
+
+
+Air traffic management. AI is critical for managing the anticipated disruptions in this industry over the next 10 years. One such disruption being watched closely is the pending introduction of drones and air taxis, often known as urban air mobility systems. Thus, the second use case is building an AI air traffic controller. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Today, air traffic management is generally managed by people. Based on many projections of this growing industry, in 15 to 20 years there will be 30 times the volume of air traffic flying over a large city such as Los Angeles than there is now. Human beings would be hard-pressed to manage that huge amount of air traffic, and it may be impossible.
+But this is not the type of problem where more humans can be added and each person given a smaller slice of the air traffic pie when we consider the amount and type of new air traffic expected to operate, especially at the 0 to 3,000-foot level. Given all this, there is wide consensus that the industry needs AI to manage this exponentially higher level of complexity.
+
+
+
+
+
+
+
+Learn more:
+Five automotive trends that will reshape our relationship with cars in the next five years
+Mastering autonomous driving development
+How AI can make fully autonomous driving a reality
+
+ 
+
+
+
+
+
+Fully autonomous vehicles. This third use case is obvious because we are inundated with news about the self-driving car every day. First, being autonomous is different from being unmanned. Drones flying today don’t have pilots sitting in them, but they are still overseen by a pilot from the ground. Such drones have a ground station that has aspects of a cockpit repurposed on a desk, with a human flying the drone remotely.
+The future progression from this state is full autonomy, where an AI system is constantly evaluating and reacting to the airspace and making decisions to act in accordance with its mission. The impetus for fully autonomous flight is the same as it is on the ground. A new, generally accepted roadmap has now been published and with autonomy, not only can we imagine a more efficient world, but we can imagine a safer one as well.
+Creating complex operational AI systems
+To create complex operational AI systems in the A&D industry, very different needs must be met for data management and for algorithm creation and implementation. Very robust simulation is also needed in the testing phase. Above all, there is a strong need for a solution that enables complex operational AI DevOps.
+When training an AI system, there are two datasets. First is the historical dataset for the predictive use case containing the instances of what is being predicted. Next comes a testing or validation dataset. In the complex operational world, organizations often investigate neural networks to handle the pattern recognition. Algorithms can be used to automatically build better and better neural networks, based on the performance of the best-performing neural networks from past iterations.
+But given the much higher complexity of the environment in which pattern recognition and training are run, higher-level approaches must be considered. For complex operational AI, the various machine learning approaches demand data at a higher scale and management at a greater complexity.
+
+
+
+
+Building a robust simulated environment that matches real life can be a key factor in acceptance, and where necessary, certification.
+
+
+
+
+
+
+
+What is needed is a tiered approach to building different datasets. Start with a dataset that is focused on the physics of what you are trying to model; then build a dataset that accounts for the operating environment. After that, extrapolate the data to create a dataset that is orders of magnitude larger.
+Algorithms then need to be constructed to create synthetic data to fill into that next-larger phase. Plus, building a robust simulated environment that matches real life can be a key factor in acceptance, and where necessary, certification. For example, certifying an airborne system is all about proving it is safe, and complex operational AI DevOps can play a crucial role in providing a robust simulation environment in the testing phase.
+Operational AI is not easy, but it is possible
+Building complex operational AI systems is no simple task. There are many challenges in managing the development environment and specific workflows. Data management over the full development life cycle is key, as is using the right technology to manipulate, extrapolate and scale data. It is essential to build a system that effectively manages and curates the data that represents the foundational dataset; then integrates, manages and curates the data from that environmental representation dataset; and ultimately provides the platform and simulation for the synthetic extrapolation of that merged dataset into a much, much larger dataset.
+It is no easy feat to provide the data hosting, management and curation environment through these data stages that are each so massive in scope. Providing the simulation environment is enormous, because that is the “secret sauce” needed to be able to take that large dataset, combine it and then extrapolate it to ultimately produce a robust algorithm. 
+The good news — not only for the A&D industry but for all industries — is that a solution does exist that provides the DevOps environment to make all this come together and work at scale. DXC Robotic Drive Cloud Services on AWS is the first solution that provides a soup-to-nuts development toolchain and management environment for building complex operational AI.
+ 
+Learn more about DXC Analytics and Engineering services.
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vcmVhZHdyaXRlLmNvbS91bmRlcnN0YW5kaW5nLXRoZS1pbXBhY3Qtb2YtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utb24tdGhlLWRlc2lnbi1pbmR1c3RyeS_SAQA?oc=5,Understanding the Impact of Artificial Intelligence on the Design Industry - ReadWrite,2021-10-04,ReadWrite,https://readwrite.com,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://schema.org,"[{'@type': 'WebSite', '@id': 'https://readwrite.com/#website', 'url': 'https://readwrite.com/', 'name': 'ReadWrite', 'description': 'Crypto, Gaming &amp; Emerging Tech News', 'publisher': {'@id': 'https://readwrite.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://readwrite.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://readwrite.com/#organization', 'name': 'ReadWrite', 'url': 'https://readwrite.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://readwrite.com/#/schema/logo/image/', 'url': 'https://readwrite.com/wp-content/uploads/2024/03/Logo_OnLight.svg', 'contentUrl': 'https://readwrite.com/wp-content/uploads/2024/03/Logo_OnLight.svg', 'width': 232, 'height': 41, 'caption': 'ReadWrite'}, 'image': {'@id': 'https://readwrite.com/#/schema/logo/image/'}, 'sameAs': ['https://twitter.com/rww']}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYmVybmFyZG1hcnIuY29tL3RoZS03LWJpZ2dlc3QtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWktdHJlbmRzLWluLTIwMjIv0gEA?oc=5,The 7 Biggest Artificial Intelligence (AI) Trends In 2022 - Bernard Marr,2021-10-04,Bernard Marr,https://bernardmarr.com,"In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed.",N/A,"In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed.",N/A,N/A,N/A,N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#article', 'isPartOf': {'@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/'}, 'author': {'name': 'Bernard Marr', '@id': 'https://bernardmarr.com/#/schema/person/b3c3cb90b331ffc7b13f30fc74daead0'}, 'headline': 'The 7 Biggest Artificial Intelligence (AI) Trends In 2022', 'datePublished': '2021-10-04T07:53:23+00:00', 'dateModified': '2021-11-29T10:50:22+00:00', 'mainEntityOfPage': {'@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/'}, 'wordCount': 2173, 'commentCount': 0, 'publisher': {'@id': 'https://bernardmarr.com/#organization'}, 'image': {'@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#primaryimage'}, 'thumbnailUrl': 'https://bernardmarr.com/wp-content/uploads/2021/10/The-7-Biggest-Artificial-Intelligence-AI-Trends-In-2022.jpg', 'keywords': ['Articles'], 'articleSection': ['Artificial Intelligence &amp; Machine Learning'], 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#respond']}]}, {'@type': 'WebPage', '@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/', 'url': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/', 'name': 'The 7 Biggest Artificial Intelligence (AI) Trends In 2022 | Bernard Marr', 'isPartOf': {'@id': 'https://bernardmarr.com/#website'}, 'primaryImageOfPage': {'@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#primaryimage'}, 'image': {'@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#primaryimage'}, 'thumbnailUrl': 'https://bernardmarr.com/wp-content/uploads/2021/10/The-7-Biggest-Artificial-Intelligence-AI-Trends-In-2022.jpg', 'datePublished': '2021-10-04T07:53:23+00:00', 'dateModified': '2021-11-29T10:50:22+00:00', 'description': 'In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed.', 'breadcrumb': {'@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#primaryimage', 'url': 'https://bernardmarr.com/wp-content/uploads/2021/10/The-7-Biggest-Artificial-Intelligence-AI-Trends-In-2022.jpg', 'contentUrl': 'https://bernardmarr.com/wp-content/uploads/2021/10/The-7-Biggest-Artificial-Intelligence-AI-Trends-In-2022.jpg', 'width': 1000, 'height': 667, 'caption': 'The 7 Biggest Artificial Intelligence AI Trends In 2022 | Bernard Marr'}, {'@type': 'BreadcrumbList', '@id': 'https://bernardmarr.com/the-7-biggest-artificial-intelligence-ai-trends-in-2022/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bernardmarr.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'The 7 Biggest Artificial Intelligence (AI) Trends In 2022'}]}, {'@type': 'WebSite', '@id': 'https://bernardmarr.com/#website', 'url': 'https://bernardmarr.com/', 'name': 'Bernard Marr', 'description': 'Intelligent Business Performance', 'publisher': {'@id': 'https://bernardmarr.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://bernardmarr.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://bernardmarr.com/#organization', 'name': 'Bernard Marr', 'url': 'https://bernardmarr.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/#/schema/logo/image/', 'url': 'https://bernardmarr.com/wp-content/uploads/2021/06/Bernard-Marr-Intelligent-Business-Performance-Logo.png', 'contentUrl': 'https://bernardmarr.com/wp-content/uploads/2021/06/Bernard-Marr-Intelligent-Business-Performance-Logo.png', 'width': 337, 'height': 49, 'caption': 'Bernard Marr'}, 'image': {'@id': 'https://bernardmarr.com/#/schema/logo/image/'}, 'sameAs': ['https://en-gb.facebook.com/BernardWMarr/', 'https://x.com/BernardMarr', 'https://www.instagram.com/bernard.marr', 'https://www.linkedin.com/in/bernardmarr/', 'https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw']}, {'@type': 'Person', '@id': 'https://bernardmarr.com/#/schema/person/b3c3cb90b331ffc7b13f30fc74daead0', 'name': 'Bernard Marr', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/daffd79db4879d38c053435ac089ef02?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/daffd79db4879d38c053435ac089ef02?s=96&d=mm&r=g', 'caption': 'Bernard Marr'}, 'description': 'Bernard Marr is a world-renowned futurist, influencer and thought leader in the field of business and technology. He is the author of 18 best-selling books, writes a regular column for Forbes and advises and coaches many of the world’s best-known organisations. He has 2 million social media followers and was ranked by LinkedIn as one of the top 5 business influencers in the world and the No 1 influencer in the UK.', 'sameAs': ['https://bernardmarr.com/', 'https://en-gb.facebook.com/BernardWMarr/', 'https://www.instagram.com/bernard.marr', 'https://www.linkedin.com/in/bernardmarr/', 'https://x.com/BernardMarr', 'https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw'], 'url': 'https://bernardmarr.com/author/123internet/'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL2hlYWx0aHRlY2hhbmFseXRpY3MvYW5zd2VyL0RhdGEtQW5hbHl0aWNzLUFydGlmaWNpYWwtSW50ZWxsaWdlbmNlLUxvd2VyLUhvc3BpdGFsLUluZmVjdGlvbnPSAQA?oc=5,"Data Analytics, Artificial Intelligence Lower Hospital Infections - TechTarget",2021-10-05,TechTarget,https://www.techtarget.com,"By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections.",N/A,"By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections.","By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections.",N/A,N/A,"
+
+
+Getty Images
+Getty Images
+
+
+
+
+
+Answer
+
+
+Data Analytics, Artificial Intelligence Lower Hospital Infections
+
+
+By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Erin McNemar, MPA
+
+
+Published: 05 Oct 2021
+
+
+ 
+As the COVID-19 pandemic continues to spread worldwide, hospitals are searching for ways to keep their patients safe from potential hospital-acquired infections. Different methods have included hygiene monitoring, data analytics, and artificial intelligence technology.
+
+
+
+
+
+
+
+According to Chief Medical and Scientific Officer for Novant Health, Eric Eskioglu, MD, about 1.7 million hospital-acquired infections (HAIs) occur each year. Additionally, around a hundred thousand of those result in death. One way to tackle this problem is through hand hygiene monitoring.
+While Novant had the goal of bringing their rate of HAIs down to zero, with the COVID-19 pandemic, the team tried to accelerate the process. “The way most hospitals do hand hygiene monitoring is somebody has to stand behind you and observe you wash your hands and grade you,” Eskioglu told HealthITAnlaytics.
+However, Eskioglu explained that the system of hygiene monitoring was not effective in the time of COVID-19. While the hospital was already short-staffed, it was inefficient to pull staff members away from their work so they could watch other nurses and physicians wash their hands. With artificial intelligence technology, Novant partnered up with SwipeSense.
+“We started this partnership back in 2018 with Matthews Medical Center, which is a 150-bed hospital. We did a test trial. We had selected SwipeSense out of a couple of other companies. We were really impressed with their focus on data and analytics and how they could automate things that are archaic in healthcare,” Eskioglu said.
+SwipeSense works to provide automated electronic tracking down to the staff member to help with hand hygiene compliance. According to a SwipeSense survey, 81 percent of patients said they would feel safer in a hospital with electronic hand hygiene monitoring in place.
+“It helped us during the pandemic, and it continues to help us. It not only took the burden off our nurses and physicians having to observe somebody wash their hands, but it also helped us standardize and get rid of the observer bias because each observer has a different bias. Some may watch it for 10 seconds. We want everybody to watch it for 20 seconds minimum,” Eskioglu said.
+In addition to monitoring hygiene protocols, SwipeSense also uses predictive analytics to identify at-risk patients and staff as well as medical equipment that might have been in contact with an individual infected with COVID-19 or other infectious diseases.
+During the pandemic, HAIs went up by 30 to 40 percent. However, at Novant Health, they saw the opposite, with their number decreasing by 30 percent. Eskioglu attributes this to the hospital’s new hygiene protocols and their use of data analytics and AI.
+Eskioglu is a proponent of artificial intelligence as the future of healthcare, generating positive patient outcomes.
+“A lot of people asked me, ‘Does this mean the physicians are going to be out of work?’ I said, ‘Absolutely not.’ As a matter of fact, there’s going to be more need for physicians, but it’s going to be physicians who embrace AI. Physicians will have more time to spend with the patients and their diagnosis will be much more precise and crisper,” Eskioglu explained.
+According to Eskioglu, artificial intelligence can also lead to healthcare equality and better patient outcomes for all.
+“I believe AI is becoming a great healthcare equalizer as long as they have the bandwidth in those technologies. We’re working with companies like AT&T and Verizon to ensure that those areas have the 5G bandwidth, but the people who live in those areas at least have access to an iPad or a small computer. We’re excited about AI creating equity in healthcare,” Eskioglu said.
+
+Next Steps
+Enhancing AI in Chronic Disease Management with Data CollectionCerner, Epic Saw Deepest Healthcare Data Analytics Adoption in 2021Using Predictive, Data Analytics to Expand Knowledge of Alzheimer’s
+
+
+
+
+
+Dig Deeper on Artificial intelligence in healthcare
+
+
+
+Do better outcomes from female docs signal need for more empathy?
+
+
+
+
+By: Sara Heath
+
+
+
+
+Generative AI may enhance healthcare-associated infection surveillance
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+As Patient Safety Improves, Patient Experience Scores Go Down
+
+
+
+
+By: Sara Heath
+
+
+
+
+Patient Experience Tanks as Patient Safety, Hospital Infections Grow
+
+
+
+
+By: Sara Heath
+
+
+
+
+
+
+
+Sponsored News
+
+
+Hybrid Cloud, Consumption-Based IT: Empowering Transformation in Healthcare ...
+–HPE
+
+
+Driving Digital Transformation in Healthcare
+–Dell Technologies
+
+
+Driving IT Success From Edge to Cloud to the Bottom Line
+–HPE
+
+See More
+
+
+
+
+
+Related Expert Q&A
+
+
+Data Analytics Addresses SDOH, Improves Length of ...
+– Healthtech Analytics
+
+
+Healthcare System Meets CMS Final Rule with API EHR ...
+– Health IT and EHR
+
+
+Building a Predictive Analytics Tool to Triage COVID-...
+– Healthtech Analytics
+
+
+
+
+
+
+
+
+",https://schema.org,,"{'@type': 'WebPage', '@id': 'https://www.techtarget.com/healthtechanalytics/answer/Data-Analytics-Artificial-Intelligence-Lower-Hospital-Infections'}",2021-10-05T05:30Z,"Data Analytics, Artificial Intelligence Lower Hospital Infections","[{'name': 'Erin McNemar, MPA', '@type': 'Person'}]","{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",https://cdn.ttgtmedia.com/rms/onlineimages/machine_learning_g1209661950.jpg,"Data Analytics, Artificial Intelligence Lower Hospital Infections",Article,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",False,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJpenpidXp6Lm5ld3MvZWNvLWJ1enovaXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcmVhZHktZm9yLXByaW1lLXRpbWUtMTAzNjc3M9IBXmh0dHBzOi8vd3d3LmJpenpidXp6Lm5ld3MvYW1wL2Vjby1idXp6L2lzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXJlYWR5LWZvci1wcmltZS10aW1lLTEwMzY3NzM?oc=5,Is artificial intelligence ready for prime time? - Bizz Buzz,2021-10-05,Bizz Buzz,https://www.bizzbuzz.news,"Investors are pouring money into artificial intelligence, despite clear   setbacks in self-driving cars, social media and even healthcare","Artificial intelligence, Investors, Social media,  Mark Zuckerberg, Elon Musk, AI systems","Investors are pouring money into artificial intelligence, despite clear   setbacks in self-driving cars, social media and even healthcare","Investors are pouring money into artificial intelligence, despite clear   setbacks in self-driving cars, social media and even healthcare",Eco Buzz,N/A,"Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare",https://schema.org,,"{'@type': 'WebPage', '@id': 'https://www.bizzbuzz.news/eco-buzz/is-artificial-intelligence-ready-for-prime-time-1036773'}",2021-10-05T01:32:21+05:30,Is artificial intelligence ready for prime time?,"{'@type': 'Person', 'name': 'BizzBuzz'}","{'@type': 'Organization', 'name': 'BizzBuzz', 'url': 'https://www.bizzbuzz.news', 'sameAs': [], 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'contentUrl': 'https://www.bizzbuzz.news/images/logo.png', 'height': '60', 'width': '600', 'name': 'BizzBuzz - Logo', 'url': 'https://www.bizzbuzz.news/images/logo.png'}}","{'@context': 'https://schema.org', '@type': 'ImageObject', 'contentUrl': 'https://www.bizzbuzz.news/h-upload/2021/10/04/1335719-ai.webp', 'height': 900, 'width': 1500, 'url': 'https://www.bizzbuzz.news/h-upload/2021/10/04/1335719-ai.webp'}",Is artificial intelligence ready for prime time?,WebPage,,,2021-10-05T01:32:21+05:30,mixed,Is artificial intelligence ready for prime time?,en,BizzBuzz,,Eco Buzz,"What do Facebook Inc co-founder Mark Zuckerberg and Tesla Inc Chief Executive Elon Musk have in common? Both are grappling with big problems that stem, at least in part, from putting faith in artificial intelligence (AI) systems that have underdelivered. Zuckerberg is dealing with algorithms that are failing to stop the spread of harmful content; Musk with software that has yet to drive a car in the ways he has frequently promised.There is one lesson to be gleaned from their experiences: AI is not yet ready for prime time. Furthermore, it is hard to know when it will be. Companies should consider focusing on cultivating high-quality data - lots of it - and hiring people to do the work that AI is not ready to do.       Designed to loosely emulate the human brain, deep-learning AI systems can spot tumors, drive cars and write text, showing spectacular results in a lab setting. But therein lies the catch. When it comes to using the technology in the unpredictable real world, AI sometimes falls short. That's worrying when it is touted for use in high-stakes applications like healthcare.  The stakes are also dangerously high for social media, where content can influence elections and fuel mental-health disorders, as revealed in a recent expose of internal documents from a whistleblower. But Facebook's faith in AI is clear on its own site, where it often highlights machine-learning algorithms before mentioning its army of content moderators. Zuckerberg also told Congress in 2018 that AI tools would be 'the scalable way' to identify harmful content. Those tools do a good job at spotting nudity and terrorist-related content, but they still struggle to stop misinformation from propagating.  The problem is that human language is constantly changing. Anti-vaccine campaigners use tricks like typing ""va((ine"" to avoid detection, while private gun-sellers post pictures of empty cases on Facebook Marketplace with a description to ""PM me."" These fool the systems designed to stop rule-breaking content, and to make matters worse, the AI often recommends that content too.  Little wonder that the roughly 15,000 content moderators hired to support Facebook's algorithms are overworked. Last year a New York University Stern School of Business study recommended that Facebook double those workers to 30,000 to monitor posts properly if AI isn't up to the task. Cathy O'Neil, author of Weapons of Math Destruction has said point blank that Facebook's AI ""doesn't work."" Zuckerberg for his part, has told lawmakers that it's difficult for AI to moderate posts because of the nuances of speech.   Musk's overpromising of AI is practically legendary. In 2019 he told Tesla investors that he ""felt very confident"" there would be one million Model 3 on the streets as driverless robotaxis. His timeframe: 2020. Instead, Tesla customers currently have the privilege of paying $10,000 for special software that will, one day (or who knows?) deliver fully-autonomous driving capabilities. Till then, the cars can park, change lanes and drive onto the highway by themselves with the occasional serious mistake. Musk recently conceded in a tweet that generalized self-driving technology was ""a hard problem.""  More surprising: AI has also been falling short in healthcare, an area which has held some of the most promise for the technology. Earlier this year a study in Nature analyzed dozens of machine-learning models designed to detect signs of Covid-19 in X-rays and CT scans. It found that none could be used in a clinical setting due to various flaws. Another study published last month in the British Medical Journal found that 94 per cent of AI systems that scanned for signs of breast cancer were less accurate than the analysis of a single radiologist. ""There's been a lot of hype that [AI scanning in radiology] is imminent, but the hype got ahead of the results somewhat,"" says Sian Taylor-Phillips, a professor of population health at Warwick University who also ran the study.  Government advisors will draw from her results to decide if such AI systems are doing more good than harm and thus ready for use. In this case, the harm doesn't seem obvious. After all, AI-powered systems for spotting breast cancer are designed to be overly cautious, and are much more likely to give false alarms than miss signs of a tumor. But even a tiny percentage increase in the recall rate for breast cancer screening, which is 9 per cent in the U.S. and 4 per cent in the U.K., means increased anxiety for thousands of women from false alarms. ""That is saying we accept harm for women screened just so we can implement new tech,"" says Taylor-Phillips.  It seems the errors are not confined to just a few studies. ""A few years ago there was a lot of promise and a lot of hype about AI being a first pass for radiology,"" says Kathleen Walch, managing partner at AI market intelligence firm Cognalytica. ""What we've started to see is the AI is not detecting these anomalies at any sort of rate that ...",https://www.bizzbuzz.news/eco-buzz/is-artificial-intelligence-ready-for-prime-time-1036773,[],"{'@context': 'https://schema.org', '@type': 'ImageObject', 'contentUrl': 'https://www.bizzbuzz.news/images/logo.png', 'height': '60', 'width': '600', 'name': 'BizzBuzz - Logo', 'url': 'https://www.bizzbuzz.news/images/logo.png'}","[{'@type': 'ListItem', 'position': '1', 'name': 'Corporate', 'description': 'Get the latest news and updates on Corporate Sector on Bizz Buzz News', 'url': 'https://www.bizzbuzz.news/corporate'}, {'@type': 'ListItem', 'position': '2', 'name': 'Industry', 'description': 'Get latest news and analysis on Indian industry, Service Industries, manufacturing industries news and more on Bizz Buzz.', 'url': 'https://www.bizzbuzz.news/industry'}, {'@type': 'ListItem', 'position': '3', 'name': 'Economy', 'description': 'Get latest news updates of Indian Economy on BizzBuzz News', 'url': 'https://www.bizzbuzz.news/economy'}, {'@type': 'ListItem', 'position': '4', 'name': 'Markets', 'description': 'Bizz Buzz News provides comprehensive coverage of the global markets, including stocks, commodities, currencies, and more.', 'url': 'https://www.bizzbuzz.news/markets'}, {'@type': 'ListItem', 'position': '5', 'name': 'Money', 'description': 'Explore topics such as personal finance, investing, saving, budgeting, and wealth management,finance news and more.', 'url': 'https://www.bizzbuzz.news/money'}, {'@type': 'ListItem', 'position': '6', 'name': 'Opinion', 'description': 'Bizz Buzz opinion features opinion articles, analysis, discussion on politics, government, economy, business, current affair, social issues by top columnists in India.', 'url': 'https://www.bizzbuzz.news/opinion'}, {'@type': 'ListItem', 'position': '7', 'name': 'Bizz Talk', 'description': 'Bizz Talk: Read the interviews of business experts and their views in columns they right', 'url': 'https://www.bizzbuzz.news/bizz-talk'}, {'@type': 'ListItem', 'position': '8', 'name': 'Technology', 'description': 'Technology', 'url': 'https://www.bizzbuzz.news/technology'}, {'@type': 'ListItem', 'position': '9', 'name': 'Politics', 'description': 'Politics', 'url': 'https://www.bizzbuzz.news/politics'}, {'@type': 'ListItem', 'position': '10', 'name': 'Entertainment', 'description': 'Entertainment', 'url': 'https://www.bizzbuzz.news/entertainment'}, {'@type': 'ListItem', 'position': '11', 'name': 'National', 'description': 'National', 'url': 'https://www.bizzbuzz.news/national'}, {'@type': 'ListItem', 'position': '12', 'name': 'Ayodhya Ram Mandir', 'description': 'Ayodhya Ram Mandir latest live news updates on Bizz Buzz. Ayodhya Ram Janmabhoomi Opening date announced & Inaugurating on 22 Jan 2024.', 'url': 'https://www.bizzbuzz.news/ayodhya-ram-mandir'}]",,,,,,
+https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5jYmMuY2EvZG9jdW1lbnRhcmllcy90aGUtcGFzc2lvbmF0ZS1leWUvd2l0aC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS13ZS1oYXZlLW5vd2hlcmUtdG8taGlkZS1kb24tdC15b3UtdGhpbmstaXQtcy1ob3JyaWZ5aW5nLTEuNjE4NTQ0ONIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42MTg1NDQ4?oc=5,"'With artificial intelligence, we have nowhere to hide. Don't you think it's horrifying?' - CBC.ca",2021-10-01,CBC.ca,https://www.cbc.ca,"Chongqing, China has 300,000 CCTV cameras are part of a massive national facial recognition system. Investigative journalist Liu Hu explains what it's like to live in a place where the government knows your every move.",N/A,"Chongqing, China has 300,000 CCTV cameras are part of a massive national facial recognition system. Investigative journalist Liu Hu explains what it's like to live in a place where the government knows your every move.","Chongqing, China has 300,000 CCTV cameras are part of a massive national facial recognition system. Investigative journalist Liu Hu explains what it's like to live in a place where the government knows your every move.",N/A,N/A,N/A,http://schema.org/,,,2021-09-27T14:44Z,"'With artificial intelligence, we have nowhere to hide. Don't you think it's horrifying?'","[{'knowsLanguage': [{'@type': 'Language', 'name': 'English', 'alternateName': 'en', '@context': 'http://schema.org/'}], 'image': {'datePublished': '2022-09-15T14:03Z', '@type': 'ImageObject', 'name': 'VanessaCaldwell', 'description': '', 'dateModified': '2022-09-15T14:03Z', '@context': 'http://schema.org/', 'url': 'https://i.cbc.ca/1.6583803.1663250587!/fileImage/httpImage/vanessacaldwell.jpeg'}, 'contactPoint': {'@type': 'ContactPoint', '@context': 'http://schema.org/', 'url': 'https://www.cbc.ca/author/vanessa-caldwell-1.6583799', 'email': ''}, '@type': 'Person', 'jobTitle': '', 'name': 'Vanessa Caldwell', 'description': 'Vanessa Caldwell is a producer, writer and editor with CBC Docs in Toronto.', '@context': 'http://schema.org/'}]","{'foundingDate': '1936-11-02T05:00Z', 'ethicsPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'verificationFactCheckingPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', '@type': 'NewsMediaOrganization', '@context': 'http://schema.org/', 'ownershipFundingInfo': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'actionableFeedbackPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'missionCoveragePrioritiesPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'diversityPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'masthead': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'diversityStaffingReport': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'unnamedSourcesPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'correctionsPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364'}",,"'With artificial intelligence, we have nowhere to hide. Don't you think it's horrifying?'",WebPage,,,2021-10-01T13:49Z,,,,,,The Passionate Eye,,,,,,"Chongqing, China has 300,000 CCTV cameras. Liu Hu explains what it's like to live under surveillance.","[{'datePublished': '2021-09-22T20:52Z', 'alternativeHeadline': 'Journalist Liu Hu explains what it\'s like to live in a city with a huge surveillance system and facial recognition.  ""With artificial intelligence we have nowhere to hide.""', 'identifier': '1946472003553', 'contentUrl': 'https://www.cbc.ca/player/play/1946472003553', 'uploadDate': '2021-09-22T20:52Z', '@type': 'VideoObject', 'name': 'Life with 300,000 surveillance cameras in Chongqing, China: Are You Scared Yet, Human?', 'description': 'Journalist Liu Hu explains what it\'s like to live in a city with a huge surveillance system and facial recognition.  ""With artificial intelligence we have nowhere to hide.""', 'dateModified': '2021-10-01T14:20Z', '@context': 'http://schema.org/', 'thumbnailUrl': 'https://thumbnails.cbc.ca/maven_legacy/thumbnails/813/366/Passionate_Eye_Are_You_Scared_Yet_Human_Clip_02_2500kbps_1280x720_1951022659849.jpg'}]",https://i.cbc.ca/1.6185482.1632328701!/fileImage/httpImage/pe-areyouscaredyethuman-leowho.jpg,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.detailHeadline', '.detailSummary']}",,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdXdhdGVybG9vLmNhL25ld3MvbWVkaWEvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbWFrZXMtaXQtZmFzdGVyLWVhc2llci1hbmFseXpl0gEA?oc=5,"Artificial intelligence makes it faster, easier to analyze hockey video | Waterloo News - University of Waterloo",2021-10-04,University of Waterloo,https://uwaterloo.ca,Researchers have made a key advancement in the development of technology to automatically analyze video of hockey games using artificial intelligence. Engineers at the University of Waterloo combined two existing deep-learning AI techniques to identify players by their sweater numbers with 90-per-cent accuracy. “That is significant because the only major cue you have to,N/A,Researchers have made a key advancement in the development of technology to automatically analyze video of hockey games using artificial intelligence. Engineers at the University of Waterloo combined two existing deep-learning AI techniques to identify players by their sweater numbers with 90-per-cent accuracy. “That is significant because the only major cue you have to,Researchers have made a key advancement in the development of technology to automatically analyze video of hockey games using artificial intelligence. Engineers at the University of Waterloo combined,N/A,N/A,"
+Home
+Real Research
+The Sultans of String musical performance
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RvcC0xMC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1vcGVuLXNvdXJjZS1wcm9qZWN0cy13aXRoLXB5dGhvbtIBggFodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvdG9wLTEwLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW9wZW4tc291cmNlLXByb2plY3RzLXdpdGgtcHl0aG9u?oc=5,Top 10 Artificial Intelligence Open Source Projects with Python - Analytics Insight,2021-10-05,Analytics Insight,https://www.analyticsinsight.net,,"Artificial Intelligence,Artificial intelligence projects ,AI projects with Python,Python open-source projects,AI open-source projects",Here are the top AI projects with Python that are being used by AI professionals around the world. Artificial intelligence has been one of the advanced topics i,Here are the top AI projects with Python that are being used by AI professionals around the world. Artificial intelligence has been one of the advanced topics i,N/A,N/A,What is AI and Data Science Engineering? ,http://schema.org,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-artificial-intelligence-open-source-projects-with-python'}",2021-10-05T07:00:02Z,Top 10 Artificial Intelligence Open Source Projects with Python,"[{'@type': 'Person', 'givenName': 'Sayantani Sanyal', 'name': 'Sayantani Sanyal', 'url': 'https://www.analyticsinsight.net/author/sayantani-sanyal'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/10/IMG-20211005-WA0019.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",Top 10 Artificial Intelligence Open Source Projects with Python,NewsArticle,,,2021-10-05T07:00:02Z,,,,,,Artificial Intelligence,"Here are the top AI projects with Python that are being used by AI professionals around the world..Artificial intelligence has been one of the advanced topics in the tech industry. The implementation of AI applications is growing rapidly, and tech enthusiasts have to keep up with this evolving field to work with AI-driven tools and applications. One of the most popular programming languages that are implemented on AI and ML projects is Python. This article provides a list of open-source AI projects and applications with Python..• TensorFlow: It lists as one of the top open-source AI projects with Python. TensorFlow is a product of Google and helps developers in creating and training ML models. It has helped ML engineers convert prototypes into working materials quickly and efficiently. Currently, it has thousands of users worldwide and is a go-to solution for AI.• Chainer: Chainer is a Python-based framework to work on neural networks. It supports multiple network architectures simultaneously, including recurrent nets, recursive nets, and feed-forward nets. Also, it allows CUDA computation so that the users can use GPU with very few lines of code..• PyTorch: PyTorch helps in research prototyping so that the users can deploy the products faster. It permits transmission between graph modes through TorchScript and provides distributed training that the users can scale. This model is available on multiple cloud platforms and has numerous tools in its ecosystem to support NLP, computer vision, and other solutions..7 BEST ARTIFICIAL INTELLIGENCE PROJECT IDEAS FOR BEGINNERSTOP MACHINE LEARNING PROJECTS BEGINNERS MUST KNOW IN 2021TOP MOTORBIKES THAT ARE USING MACHINE LEARNING MODELS.• Shogun: It is a machine learning library and assists in creating efficient ML models. Shogun is not based on Python exclusively as it can be used with several other programming languages like C#, Lua, Ruby, and R, to name a few. It allows combining several algorithm classes and data presentations so that users can prototype data pipelines quickly..• Gensim: It is an open-source Python library that can analyze plain text files for a deeper understanding of the semantic structures, and also retrieve semantically similar files, and perform such other tasks. Like any other Python library, it is scalable and platform-independent..• Statsmodels: It is a Python module that provides classes and functions for the estimation of different statistical models, for conducting tests, and for statistical data exploration. It supports specifying models using R-style formulas and data frames..• Theano: Theano allows users to evaluate mathematical operations including multi-dimensional arrays efficiently. It is used in building deep learning projects. Theano's high speeds give tough competition to the C implementations for problems involving large amounts of data. It is programmed to take structures and convert them into efficient codes..• Keras: Keras is an accessible API for neural networks. It is based on Python and can also run on CNTK, TensorFlow, and Theano. It is written using Python and follows the best practices to reduce cognitive pressure. It makes working on deep learning projects more efficient..• NuPIC: It is an open-source project based on the theory of HTM (Hierarchical Temporal Memory). Its deep experience in theoretical neuroscience research has led to tremendous discoveries about how the brain works. Its deep learning systems have demonstrated impressive achievements..• Scikit-learn: It is a Python-based library of tools and applications that can be used for data mining and data analysis. This tool has excellent accessibility and is extremely easy to use. The developers have built it on NumPy and SciPy to facilitate efficiency for beginners and intermediates..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",https://www.analyticsinsight.net/artificial-intelligence/top-10-artificial-intelligence-open-source-projects-with-python,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Top 10 Artificial Intelligence Open Source Projects with Python', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-artificial-intelligence-open-source-projects-with-python'}]",,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/10/IMG-20211005-WA0019.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,2021-10-05T07:00:02Z,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-artificial-intelligence-open-source-projects-with-python', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/10/IMG-20211005-WA0019.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}"
+https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9jaXRpZXMvYmVuZ2FsdXJ1LzIwMjEvT2N0LzA1L2FydC1pbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1iYW5nYWxvcmUtYXJ0aXN0LWxhdW5jaGVzbmZ0LWF0LXNvdGhlYnlzLTIzNjc1OTYuaHRtbNIBnAFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9hbXAvc3RvcnkvY2l0aWVzL2JlbmdhbHVydS8yMDIxL09jdC8wNS9hcnQtaW4tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYmFuZ2Fsb3JlLWFydGlzdC1sYXVuY2hlc25mdC1hdC1zb3RoZWJ5cy0yMzY3NTk2Lmh0bWw?oc=5,Art in Artificial Intelligence: Bangalore artist launches NFT at Sotheby's - The New Indian Express,2021-10-05,The New Indian Express,https://www.newindianexpress.com,,,BENGALURU: Bengaluru artist Raghava KK needs no introduction. He’s known for infusing life into some of the most creative pieces the world of art has seen in th,BENGALURU: Bengaluru artist Raghava KK needs no introduction. He’s known for infusing life into some of the most creative pieces the world of art has seen in th,N/A,N/A,N/A,http://schema.org,,"{'@type': 'WebPage', '@id': 'https://www.newindianexpress.com/cities/bengaluru/2021/Oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.html'}",2021-10-05T00:33:00Z,Art in Artificial Intelligence: Bangalore artist launches NFT at Sotheby's,"[{'@type': 'Person', 'givenName': 'Anila Kurian', 'name': 'Anila Kurian', 'url': 'https://www.newindianexpress.com/author/anila-kurian'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'The New Indian Express', 'url': 'https://www.newindianexpress.com', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'newindianexpress', 'contentUrl': 'https://images.assettype.com/newindianexpress/2024-01/513ad66b-9f6c-4c96-a3d5-ea0e785580a6/Long_Light_Mode_500_Height.png', 'url': 'https://images.assettype.com/newindianexpress/2024-01/513ad66b-9f6c-4c96-a3d5-ea0e785580a6/Long_Light_Mode_500_Height.png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.facebook.com/thenewindianxpress', 'https://twitter.com/NewIndianXpress', 'https://instagram.com/newindianexpress/', 'https://www.youtube.com/user/thenewindianxpress', 'https://t.me/thenewindianexpress'], 'id': 'https://www.newindianexpress.com'}","{'@type': 'ImageObject', 'url': 'https://media.assettype.com/TNIE/import/2021/10/5/original/Raghava_KK_Twitter.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",Art in Artificial Intelligence: Bangalore artist launches NFT at Sotheby's,NewsArticle,,,2021-10-05T00:33:00Z,,,,,,Bengaluru,"BENGALURU: Bengaluru artist Raghava KK needs no introduction. He’s known for infusing life into some of the most creative pieces the world of art has seen in the past, and he’s at it again, with a bold concept that he’s named ‘The Orgasm Project’. Using Artificial Intelligence in art, Raghava is now one of the first Indian artists to launch an NFT — simply put, a digital file — at the international auction house Sotheby’s..Displayed at Boundless Space, a group auction in collaboration with the Burning Man Project, his artwork ‘La petite mort’ is a phygital (physical and digital) NFT that has been generating much curiosity. Raghava has been working on the project for a few years now. He collaborated with neuroscientist Abhijeet Satani, data scientist Harshit Agrawal and material scientist Ben Tritt to create this piece that unabashedly depicts and explores how humans use their unique personalities to contend with love, loss, boundaries, truth, balance, introspection and perspective. ‘La petite mort’ is the first work in the series, which explores the future of art..Speaking to CE from NYC, Raghava says, “I spent a lot of time imagining how the physical feeling of an orgasm can be interpreted in a digital manner. If everything now can be digitised, does that also mean everything is also commodifiable? I explore this deep ethical dilemma that the world is facing through the most intimate and personal of human experiences. I want us not only to use cutting-edge tools but also understand its ethical boundaries.”.Raghava worked with 100-odd people to generate these brainwaves and with the help of all the digital equipment, the artwork was finally completed, ready to be showcased at the NY auction. “I worked closely with Tritt, Agrawal and Satani to capture the brainwaves when one experiences an orgasm and eventually turned that into art,” says Raghava, adding that he blended the neuro-data and turned each neuron into individual brush strokes. .“Each stage of the orgasm gave a different frame for me to work with. Special oil pigments were prepared in a material science lab to recreate the waves. I worked with Artmatr robots for my painting that helped create it on a large canvas,” he adds.  While he’s “super excited” about this project, Raghava is ready to visit France and Egypt next before returning to namma Bengaluru for more work. .Follow The New Indian Express channel on WhatsApp Download the TNIE app to stay with us and follow the latest",https://www.newindianexpress.com/cities/bengaluru/2021/Oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.html,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.newindianexpress.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Cities', 'item': 'https://www.newindianexpress.com/cities'}, {'@type': 'ListItem', 'position': 3, 'name': 'Bengaluru', 'item': 'https://www.newindianexpress.com/cities/bengaluru'}, {'@type': 'ListItem', 'position': 4, 'name': ""Art in Artificial Intelligence: Bangalore artist launches\xa0NFT at Sotheby's"", 'item': 'https://www.newindianexpress.com/cities/bengaluru/2021/Oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.html'}]",,,https://media.assettype.com/TNIE/import/2021/10/5/original/Raghava_KK_Twitter.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,2021-10-05T00:33:00Z,"{'@type': 'WebPage', 'url': 'https://www.newindianexpress.com/cities/bengaluru/2021/Oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.html', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/TNIE/import/2021/10/5/original/Raghava_KK_Twitter.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}"
+https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RvcC01LWFpLWJhc2VkLXF1ZXN0aW9uLWdlbmVyYXRpb24tcGxhdGZvcm1zLWluLWVkdGVjaC1pbmR1c3RyedIBggFodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvdG9wLTUtYWktYmFzZWQtcXVlc3Rpb24tZ2VuZXJhdGlvbi1wbGF0Zm9ybXMtaW4tZWR0ZWNoLWluZHVzdHJ5?oc=5,Top 5 AI Based Question Generation Platforms in EdTech Industry - Analytics Insight,2021-10-02,Analytics Insight,https://www.analyticsinsight.net,,"AI,Artificial intelligence,Machine learning,EdTech,Chatbots",Here are the top 5 AI-based question generation platforms in the industry Artificial intelligence and machine learning are fast becoming a part of the education,Here are the top 5 AI-based question generation platforms in the industry Artificial intelligence and machine learning are fast becoming a part of the education,N/A,N/A,What is AI and Data Science Engineering? ,http://schema.org,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/top-5-ai-based-question-generation-platforms-in-edtech-industry'}",2021-10-02T07:00:25Z,Top 5 AI Based Question Generation Platforms in EdTech Industry,"[{'@type': 'Person', 'givenName': 'Market Trends', 'name': 'Market Trends', 'url': 'https://www.analyticsinsight.net/author/market-trends'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/10/Top-5-AI-Based-Question-Generation-Platforms-in-EdTech-Industry.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",Top 5 AI Based Question Generation Platforms in EdTech Industry,NewsArticle,,,2021-10-02T07:00:25Z,,,,,,Artificial Intelligence,"Here are the top 5 AI-based question generation platforms in the industry.Artificial intelligence and machine learning are fast becoming a part of the educational sector. In the global educational market, AI is estimated to&nbsp;reach US$3.68 billion by 2023&nbsp;at a CAGR of 47%..Teachers, students, and the administration teams will benefit from using AI in their institutions. Be it automating repeated tasks, planning customized online classes, or creating tests and analyzing results, AI software can help educational institutions to-.Save time, money, and effortReduce human bias and errorImprove the quality of teachingHelp students understand betterCustomize training modulesAutomate repetitive tasksCreating a virtual environment for improved concentrationEliminating geographical barriersProviding educational support within and outside the classroom.AI in EdTech&nbsp;.Artificial intelligence will soon become a deciding factor in EdTech. Educational institutions will need to prove themselves by adopting the latest AI technology and providing the staff, teachers, and students with the best possible environment to work and learn..Instant Learning&nbsp;.The Covid-19 pandemic has forced schools, colleges, and parents to adopt digital education. While online classes are still not AI-based, we've seen a rise in demand for platforms like Byju's where the modules are developed based on each student's needs..Students don't have to wait for a class to start or worry about missing a session. They can ask questions, get help from the virtual teacher as well as the real teacher (human). Step-by-step explanations are provided for each topic so that students easily understand the concepts..Digital Curriculum&nbsp;.The aim of using artificial intelligence in EdTech is to make students' experience the center of focus. Teach students what they are likely to enjoy; this is something Coursera has adopted in its own way. The AI-based online platform has a feature called CourseMatch..This tool helps students match their campus curriculum with the courses offered by the platform. CourseMatch is a machine learning algorithm that uses NLP (Natural Language Processing) to align the online courses with the ones the student has in their on-campus curriculum..Personalized Learning Modules&nbsp;.Personalization is the biggest gift given by artificial intelligence. The EdTech sector also is making the most of this aspect. Teachers don't have the time to plan personalized courses and teaching methods for each student in their class. But AI can help them achieve this..Both teachers and students benefit from personalized learning modules. Since students learn what they like in a way that's convenient to them, they are more likely to be attentive and score well. Teachers can ensure that all their students understand the concepts. Personalized learning also helps reduce aggressive behavior in students that stems from the frustration of feeling helpless in the classrooms..Chatbots&nbsp;.Chatbots are used to encourage students, give immediate feedback, and answer basic questions related to the subject. Cognii is a San Francisco-based EdTech tool that interacts with students. It shares feedback after the assessments, encourages them when they give the right answer, and offers personalized tutoring..These chatbots can take the pressure of the teachers by monitoring each student's learning with the same level of focus. Teachers can oversee the process and intervene when necessary, and students feel happy for the immediate feedback they get from the chatbot..Automatic Question and Answer Generation Using NLP&nbsp;.AI-based question generation platforms use NLP to process input data and deliver a set of questions as output. These tools are used by schools, colleges, tutorials, coaching centers, HR teams, and even government agencies for testing students and trainees..Steps Involved in the Implementation Process&nbsp;.Inputting Text: The platform accepts input in several forms such as text, image, files, video, etc., (though it depends on how the software has been designed)..Pre-processing: The text is analyzed using ANN (Artificial Neural Networks) to convert it into a set of questions (MCQs, fillups, matching, descriptive, etc.)..Forming Questions: The questions are presented on the screen for the user to determine the difficulty level or make further changes..Delivering Output: Once the test paper is finalized, the output is exported in multiple formats such as PDF, CSV files, etc. (this again depends on how the software has been developed)..Top AI-Based Question Generation Platforms in EdTech Industry&nbsp;.Let's explore the benefits of AI in the EdTech industry. Here are the leading platforms that generate question papers &amp; tests using AI technology..1. PrepAI.PrepAI is a test generation platform that uses artificial intelligence to prepare test questions on behalf of teachers. It has a user-friendly interface and accepts inputs in the form of PDF files, MS Word documents, video URLs, video files, and content from Wikipedia.&nbsp;PrepAI is the only test generation platform that offers this feature of scraping content directly from Wikipedia..The platform is capable of preparing the type of questions in varying formats like-.Multiple Choice Questions (with single and multiple correct answers)Fill in the BlanksDescriptive QuestionsTrue or FalseStatement Based Questions.Teachers can choose between three difficulty levels (Easy, Medium, &amp; Hard) and get the output in multiple formats. The global knowledge base of PrepAI ensures that teachers can create a test paper on any subject and any topic. Moreover, teachers can customize the questions, rate them, and rearrange them as required. PrepAI has been developed by DataToBiz and is one of the top AI question generation platforms in the market, and is available as a free version.&nbsp;The platform has been designed to help EdTech professionals, test authors, examination administrators, teachers, and tutors..Watch Demo: https://youtu.be/0dYOczvWPAo.2. Lumos Learning.Lumos Learning helps create assessments and test papers using machine learning. The platform converts statements and answers into questions instantly. It has been designed for schools (from elementary to high school), parents, and librarians to-.Align learning standardsAuto-generate remedial assignmentsImprove students' writing skillsConduct reading programsImprove subject/ grade-wise skills.The platform essentially creates test papers for mathematics, language and grammar, and reading comprehension. The Lumos tedBookTM has been designed to comply with the Smarter Balanced Assessment Consortium (SBAC) standards. Teachers can access the test metrics to analyze students' performance and help them become proficient in each subject..Parents can use the platform to assess their children's performance and create workbooks to train them to do better academically. You can export the test papers in CSV format. It accepts input only through copy-pasting in the text box on the website..Watch Demo: https://youtu.be/kbCYfmcBuE4.3. Quillionz.Quillionz uses artificial intelligence and machine learning to build an array of question papers with the utmost ease. Teachers can customize the assessments and make the necessary changes to create a test as per their requirements..The platform creates-Multiple Choice QuestionsRecall QuestionsShort Descriptive Questions.The platform has a free and subscription version to generate questions whenever necessary. Quillionz has been developed by Harbinger AI and has a unique automated question generator to prepare test papers, quizzes, and notes for teachers and students. Schools and educational institutions can make use of the Quillionz API to integrate it with their existing systems..However, the platform currently accepts only PDF files, YouTube URL (when transcripts are available),.or direct copy-pasting of the text as input methods. Quillionz is also not suitable for highly technical content such as legal or medical articles/ test papers..Watch Demo: https://youtu.be/CPsxIIlVUHo.4. Questgen.Questgen uses advanced AI technologies like GPT-3 and natural language processing to create test questions for schools, HR teams, publishers, and EdTech companies. It can create several questions from the input blocks of text..Multiple Choice QuestionsMatch the FollowingTrue or False Questions, etc..You can create any of these using Questgen. The output can be exported in PDF format or as plain text. It takes just one click to generate the test questions using this platform. The input can be provided by copy-pasting the content in the text box. Questgen's open-source library is available on Github for developers. However, the Questgen tool is far more accurate to use..The platform offers a free trial option with a limited input word count to create tests and quizzes. Contact the support team for more information about the platform and its paid versions..Watch Demo: https://youtu.be/uvdCOuLAXqc.5. Questo.Questo is an AI-powered question generator platform designed to help students, educators, teachers, and tutors create test papers for any given material. The platform accepts text and images as inputs, reads the content, and produces a set of questions..Simple and easy to useFast resultsSuitable for students.The best feature of Questo is its automated revision scheduling that reminds students to focus more on topics and concepts that are hard to understand. All they need to do is take a picture of the textbook or study material and upload it to the platform. Questo will do the rest and produce a list of questions. The Beta version is now available for trial..Conclusion&nbsp;.Artificial intelligence is&nbsp;assisting teachers and administrators to streamline their work&nbsp;and complete it in lesser time without compromising on the quality. AI helps teachers create a one-to-one personal connection with students and design modules that match the understanding levels of every student..The AI-powered test generation platforms help in creating and customizing assessments to save time and energy for educators and teachers..Teachers and educators have enough time to update their knowledge and empower students by increasing their comprehension abilities. Artificial intelligence will soon become an intrinsic part of the EdTech industry..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",https://www.analyticsinsight.net/artificial-intelligence/top-5-ai-based-question-generation-platforms-in-edtech-industry,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Top 5 AI Based Question Generation Platforms in EdTech Industry', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/top-5-ai-based-question-generation-platforms-in-edtech-industry'}]",,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/10/Top-5-AI-Based-Question-Generation-Platforms-in-EdTech-Industry.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,2021-10-02T07:00:25Z,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/top-5-ai-based-question-generation-platforms-in-edtech-industry', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/10/Top-5-AI-Based-Question-Generation-Platforms-in-EdTech-Industry.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}"

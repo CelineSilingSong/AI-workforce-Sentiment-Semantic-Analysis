@@ -1,0 +1,726 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,@graph,genre,wordcount,mainEntityOfPage,articleBody,isBasedOn,thumbnailUrl,isPartOf,alternativeHeadline,@id,inLanguage,hasPart,copyrightHolder,copyrightYear,logo,ethicsPolicy,foundingDate,sameAs,dateCreated
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnZveC5jb20vcmVjb2RlLzIwMTkvMTIvMTIvMjA5OTM2NjUvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWktam9iLXNjcmVlbtIBAA?oc=5,Job recruiters are using AI in hiring - Vox.com,2019-12-12,Vox.com,https://www.vox.com,AI is being used to attract applicants and to predict a candidate’s fit for a position. But is it up to the task?,N/A,AI is being used to attract applicants and to predict a candidate’s fit for a position. But is it up to the task?,N/A,N/A,N/A,"TechnologyArtificial intelligence will help determine if you get your next jobAI is being used to attract applicants and to predict a candidate’s fit for a position. But is it up to the task?by  Rebecca HeilweilDec 12, 2019, 8:00 AM ESTFacebookLink Christina Animashaun/VoxRebecca Heilweil covered emerging technology, artificial intelligence, and the supply chain.FacebookLinkWith parents using artificial intelligence to scan prospective babysitters’ social media and an endless slew of articles explaining how your résumé can “beat the bots,” you might be wondering whether a robot will be offering you your next job. We’re not there yet, but recruiters are increasingly using AI to make the first round of cuts and to determine whether a job posting is even advertised to you. Often trained on data collected about previous or similar applicants, these tools can cut down on the effort recruiters need to expend in order to make a hire. Last year, 67 percent of hiring managers and recruiters surveyed by LinkedIn said AI was saving them time.But critics argue that such systems can introduce bias, lack accountability and transparency, and aren’t guaranteed to be accurate. Take, for instance, the Utah-based company HireVue, which sells a job interview video platform that can use artificial intelligence to assess candidates and, it claims, predict their likelihood to succeed in a position. The company says it uses on-staff psychologists to help develop customized assessment algorithms that reflect the ideal traits for a particular role a client (usually a company) hopes to hire for, like a sales representative or computer engineer. Output of an Artificial Intelligence system from Google Vision, performing facial recognition on a photograph of a man in San Ramon, California on November 22, 2019. Smith Collection/Gado/Getty ImagesThat algorithm is then used to analyze how individual candidates answer preselected questions in a recorded video interview, grading their verbal responses and, in some cases, facial movements. HireVue claims the tool — which is used by about 100 clients, including Hilton and Unilever — is more predictive of job performance than human interviewers conducting the same structured interviews.But last month, lawyers at the Electronic Privacy Information Center (EPIC), a privacy rights nonprofit, filed a complaint with the Federal Trade Commission, pushing the agency to investigate the company for potential bias, inaccuracy, and lack of transparency. It also accused HireVue of engaging in “deceptive trade practices” because the company claims it doesn’t use facial recognition. (EPIC argues HireVue’s facial analysis qualifies as facial recognition.) The lawsuit follows the introduction of the Algorithmic Accountability Act in Congress earlier this year, which would grant the FTC authority to create regulations to check so-called “automated decision systems” for bias. Meanwhile, the Equal Opportunity Employment Commission (EEOC) — the federal agency that deals with employment discrimination — is reportedly now investigating at least two discrimination cases involving job decision algorithms, according to Bloomberg Law. AI can pop up throughout the recruitment and hiring processRecruiters can make use of artificial intelligence throughout the hiring process, from advertising and attracting potential applicants to predicting candidates’ job performance. “Just like with the rest of the world’s digital advertisement, AI is helping target who sees what job descriptions [and] who sees what job marketing,” explains Aaron Rieke, a managing director at Upturn, a DC-based nonprofit digital technology research group. And it’s not just a few outlier companies, like HireVue, that use predictive AI. Vox’s own HR staff use LinkedIn Recruiter, a popular tool that uses artificial intelligence to rank candidates.Similarly, the jobs platform ZipRecruiter uses AI to match candidates with nearby jobs that are potentially good fits, based on the traits the applicants have shared with the platform — like their listed skills, experience, and location — and previous interactions between similar candidates and prospective employers. For instance, because I applied for a few San Francisco-based tutoring gigs on ZipRecruiter last year, I’ve continued to receive emails from the platform advertising similar jobs in the area. Join the Open Sourced Reporting NetworkChristina Animashaun/VoxOpen Sourced is Recode by Vox’s year-long reporting project to demystify the world of data, personal privacy, algorithms, and artificial intelligence. And we need your help. Fill out this form to contribute to our reporting.Overall, the company says its AI has trained on more than 1.5 billion employer-candidate interactions.Platforms like Arya — which says it’s been used by Home Depot and Dyson — go even further, using machine learning to find candidates based on data that might be available on a company’s internal database, public job boards, social platforms like Facebook and LinkedIn, and other profiles available on the open web, like those on professional membership sites. Arya claims it’s even able to predict whether an employee is likely to leave their old job and take a new one, based on the data it collects about a candidate, such as their promotions, movement between previous roles and industries, and the predicted fit of a new position, as well as data about the role and industry more broadly. Another use of AI is to screen through application materials, like résumés and assessments, in order to recommend which candidates recruiters should contact first. Somen Mondal, the CEO and co-founder of one such screening and matching service, Ideal, says these systems do more than automatically search résumés for relevant keywords.For instance, Ideal can learn to understand and compare experiences across candidates’ résumés and then rank the applicants by how closely they match an opening. “It’s almost like a recruiter Googling a company [listed on an application] and learning about it,” explains Mondal, who says his platform is used to screen 5 million candidates a month. But AI doesn’t just operate behind the scenes. If you’ve ever applied for a job and then been engaged by a text conversation, there’s a chance you’re talking to a recruitment bot. Chatbots that use natural-language understanding created by companies like Mya can help automate the process of reaching out to previous applicants about a new opening at a company, or finding out whether an applicant meets a position’s basic requirements — like availability — thus eliminating the need for human phone-screening interviews. Mya, for instance, can reach out over text and email, as well as through messaging applications like Facebook and WhatsApp. Another burgeoning use of artificial intelligence in job selection is talent and personality assessments. One company championing this application is Pymetrics, which sells neuroscience computer games for candidates to play (one such game involves hitting the spacebar whenever a red circle, but not a green circle, flashes on the screen). These games are meant to predict candidates’ “cognitive and personality traits.” Pymetrics says on its website that the system studies “millions of data points” collected from the games to match applicants to jobs judged to be a good fit, based on Pymetrics’ predictive algorithms. Proponents say AI systems are faster and can consider information human recruiters can’t calculate quicklyThese tools help HR departments move more quickly through large pools of applicants and ultimately make it cheaper to hire. Proponents say they can be more fair and more thorough than overworked human recruiters skimming through hundreds of résumés and cover letters.“Companies just can’t get through the applications. And if they do, they’re spending — on average — three seconds,” Mondal says. “There’s a whole problem with efficiency.” He argues that using an AI system can ensure that every résumé, at the very least, is screened. After all, one job posting might attract thousands of applications, with a huge share from people who are completely unqualified for a role. Such tools can automatically recognize traits in the application materials from previous successful hires and look for signs of that trait among materials submitted by new applicants. Mondal says systems like Ideal can consider between 16 and 25 factors (or elements) in each application, pointing out that, unlike humans, it can calculate something like commute distance in “milliseconds.”“You can start to fine-tune the system with not just the people you’ve brought in to interview, or not just the people that you’ve hired, but who ended up doing well in the position. So it’s a complete loop,” Mondal explains. “As a human, it’s very difficult to look at all that data across the lifecycle of an applicant. And [with AI] this is being done in seconds.” These systems typically operate on a scale greater than a human recruiter. For instance, HireVue claims the artificial intelligence used in its video platform evaluates “tens of thousands of factors.” Even if companies are using the same AI-based hiring tool, they’re likely using a system that’s optimized to their own hiring preferences. Plus, an algorithm is likely changing if it’s continuously being trained on new data.Another service, Humantic, claims it can get a sense of candidates’ psychology based on their résumés, LinkedIn profiles, and other text-based data an applicant might volunteer to submit, by mining through and studying their use of language (the product is inspired by the field of psycholinguistics). The idea is to eliminate the need for additional personality assessments. “We try to recycle the information that’s already there,” explains Amarpreet Kalkat, the company’s co-founder. He says the service is used by more than 100 companies. Proponents of these recruiting tools also claim that artificial intelligence can be used to avoid human biases, like an unconscious preference for graduates of a particular university, or a bias against women or a racial minority. (But AI often amplifies bias; more on that later.) They argue that AI can help strip out — or abstract — information related to a candidate’s identity, like their name, age, gender, or school, and more fairly consider applicants. The idea that AI might clamp down on — or at least do better than — biased humans inspired California lawmakers earlier this year to introduce a bill urging fellow policymakers to explore the use of new technology, including “artificial intelligence and algorithm-based technologies,” to “reduce bias and discrimination in hiring.”AI tools reflect who builds and trains themThese AI systems are only as good as the data they’re trained on and the humans that build them. If a résumé-screening machine learning tool is trained on historical data, such as résumés collected from a company’s previously hired candidates, the system will inherit both the conscious and unconscious preferences of the hiring managers who made those selections. That approach could help find stellar, highly qualified candidates. But Rieke warns that method can also pick up “silly patterns that are nonetheless real and prominent in a data set.” One such résumé-screening tool identified being named Jared and having played lacrosse in high school as the best predictors of job performance, as Quartz reported.If you’re a former high school lacrosse player named Jared, that particular tool might not sound so bad. But systems can also learn to be racist, sexist, ageist, and biased in other nefarious ways. For instance, Reuters reported last year that Amazon had created a recruitment algorithm that unintentionallytended to favor male applicants over female applicants for certain positions. The system was trained on a decade of résumés submitted to the company, which Reuters reported were mostly from men.A visitor at Intel’s Artificial Intelligence (AI) Day walks past a signboard in Bangalore, India on April 4, 2017. Manjunath Kiran/AFP via Getty Images(An Amazon spokesperson told Recode that the system was never used and was abandoned for several reasons, including because the algorithms were primitive and that the models randomly returned unqualified candidates.)Mondal says there is no way to use these systems without regular, extensive auditing. That’s because, even if you explicitly instruct a machine learning tool not to discriminate against women, it might inadvertently learn to discriminate against other proxies associated with being female, like having graduated from a women’s college. “You have to have a way to make sure that you aren’t picking people who are grouped in a specific way and that you’re only hiring those types of people,” he says. Ensuring that these systems are not introducing unjust bias means frequently checking that new hires don’t disproportionately represent one demographic group.But there’s skepticism that efforts to “de-bias” algorithms and AI are a complete solution. And Upturn’s report on equity and hiring algorithms notes that “[de-biasing] best practices have yet to crystallize [and] [m]any techniques maintain a narrow focus on individual protected characteristics like gender or race, and rarely address intersectional concerns, where multiple protected traits produce compounding disparate effects.” And if a job is advertised on an online platform like Facebook, it’s possible you won’t even see a posting because of biases produced by that platform’s algorithms. There’s also concern that systems like HireVue’s could inherently be built to discriminate against people with certain disabilities.Critics are also skeptical of whether these tools do what they say, especially when they make broad claims about a candidates’ “predicted” psychology, emotion, and suitability for a position. Adina Sterling, an organizational behavior professor at Stanford, also notes that, if not designed carefully, an algorithm could drive its preferences toward a single type of candidate. Such a system might miss a more unconventional applicant who could nevertheless excel, like an actor applying for a job in sales.“Algorithms are good for economies of scale. They’re not good for nuance,” she explains, adding that she doesn’t believe companies are being vigilant enough when studying the recruitment AI tools they use and checking what these systems actually optimize for. Who regulates these tools?Employment lawyer Mark Girouard says AI and algorithmic selection systems fall under the Uniform Guidelines on Employee Selection Procedures, guidance established in 1978 by federal agencies that guide companies’ selection standards and employment assessments.Many of these AI tools say they follow the four-fifths rule, a statistical “rule of thumb” benchmark established under those employee selection guidelines. The rule is used to compare the selection rate of applicant demographic groups and investigate whether selection criteria might have had an adverse impact on a protected minority group. But experts have noted that the rule is just one test, and Rieke emphasizes that passing the test doesn’t imply these AI tools do what they claim. A system that picked candidates randomly could pass the test, he says. Girouard explains that as long as a tool does not have a disparate impact on race or gender, there’s no law on the federal level that requiresthat such AI tools work as intended.In its case against HireVue, EPIC argues that the company has failed to meet established AI transparency guidelines, including artificial intelligence principles outlined by the Organization for Economic Co-operation and Development that have been endorsed by the U.S and 41 other countries. HireVue told Recode that it follows the standards set by the Uniform Guidelines, as well as guidelines set by other professional organizations. The company also says its systems are trained on a diverse data set and that its tools have helped its clients increase the diversity of their staff.At the state level, Illinois has made some initial headway in promoting the transparent use of these tools. In January, its Artificial Intelligence Video Interview Act will take effect, which requires that employers using artificial intelligence-based video analysis technology notify, explain, and get the consent of applicants. Still, Rieke says few companies release the methodologies used in their bias audits in “meaningful detail.” He’s not aware of any company that has released the results of an audit conducted by a third party. Meanwhile, senators have pushed the EEOC to investigate whether biased facial analysis algorithms could violate anti-discrimination laws, and experts have previously warned the agency about the risk of algorithmic bias. But the EEOC has yet to release any specific guidance regarding algorithmic decision-making or artificial intelligence-based tools and did not respond to Recode’s request for comment. Rieke did highlight one potential upside for applicants. Should lawmakers one day force companies to release the results of their AI hiring selection systems, job candidates could gain new insight into how to improve their applications. But as to whether AI will ever make the final call, Sterling says that’s a long way’s off.“Hiring is an extremely social process,” she explains. “Companies don’t want to relinquish it to tech.”Open Sourced is made possible by Omidyar Network. All Open Sourced content is editorially independent and produced by our journalists.You’ve read 1 article in the last monthHere at Vox, we believe in helping everyone understand our complicated world, so that we can all help to shape it. Our mission is to create clear, accessible journalism to empower understanding and action.If you share our vision, please consider supporting our work by becoming a Vox Member. Your support ensures Vox a stable, independent source of funding to underpin our journalism. If you are not ready to become a Member, even small contributions are meaningful in supporting a sustainable model for journalism.Thank you for being part of our community.Swati SharmaVox Editor-in-ChiefMembershipMonthlyAnnualOne-time$5/month$10/month$25/month$50/monthOther$50/year$100/year$150/year$200/yearOther$20$50$100$250OtherJoin for $5/monthWe accept credit card, Apple Pay, and Google Pay. You can also contribute via
+1/100:00Vox New Feed
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingWhat the death of Iran’s president could mean for its futureafter the adVisit Advertiser websiteGO TO PAGEMost PopularAmerica is not ready for what comes nextWhat J.D. Vance really believesDid Trump’s shooting save Biden’s nomination?Project 2025: The myths and the factsWeb3 is the future, or a scam, or both
+1/100:00Vox New Feed
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingWhat the death of Iran’s president could mean for its futureafter the adVisit Advertiser websiteGO TO PAGEToday, ExplainedUnderstand the world with a daily explainer plus the most compelling stories of the day.Email (required)Sign UpBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYmVybmFyZG1hcnIvMjAxOS8xMi8xNi90aGUtMTAtYmVzdC1leGFtcGxlcy1vZi1ob3ctYWktaXMtYWxyZWFkeS11c2VkLWluLW91ci1ldmVyeWRheS1saWZlL9IBAA?oc=5,The 10 Best Examples Of How AI Is Already Used In Our Everyday Life - Forbes,2019-12-16,Forbes,https://www.forbes.com,"Every single one of us encounters artificial intelligence multiple times each day. Even if we aren’t aware of it, artificial intelligence is at work, often behind the scenes, as we go about our everyday lives.","ai,artificial intelligence,smart devices","Every single one of us encounters artificial intelligence multiple times each day. Even if we aren’t aware of it, artificial intelligence is at work, often behind the scenes, as we go about our everyday lives.","Every single one of us encounters artificial intelligence multiple times each day. Even if we aren’t aware of it, artificial intelligence is at work, often behind the scenes, as we go about our everyday lives.",Enterprise Tech,N/A,"More From ForbesJul 16, 2024,01:02pm EDTThe CEO’s Guide To Building Generative AIJul 16, 2024,01:24am EDTThe Best Generative AI Workplace Productivity ToolsJul 15, 2024,09:02am EDTWhen Will Quantum Computers Affect Your Competitive Landscape?Jul 15, 2024,09:00am EDTAristotle’s Timeless Guide To Mastering AIOpsJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelJul 12, 2024,09:00am EDT‘Knowledge Is Power’: The Antipattern That Is Holding Your Team BackEdit StoryForbesInnovationEnterprise TechThe 10 Best Examples Of How AI Is Already Used In Our Everyday LifeBernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itDec 16, 2019,12:13am ESTUpdated Dec 10, 2021, 08:30am ESTThis article is more than 4 years old.Share to FacebookShare to TwitterShare to LinkedinWhen you hear news about artificial intelligence (AI), it might be easy to assume it has nothing to do with you. You might imagine that artificial intelligence is only something the big tech giants are focused on, and that AI doesn't impact your everyday life. In reality, artificial intelligence is encountered by most people from morning until night. Here are 10 of the best examples of how AI is already used in our everyday lives.
+The 10 Best Examples Of How AI Is Already Used In Our Everyday LifeAdobe Stock
+
+1.   Open your phone with face ID
+
+One of the first things many people do each morning is to reach for their smartphones. And, when your device gets unlocked using biometrics such as with face ID, it's using artificial intelligence to enable that functionality. Apple’s FaceID can see in 3D. It lights up your face and places 30,000 invisible infrared dots on it and captures an image. It then uses machine learning algorithms to compare the scan of your face with what it has stored about your face to determine if the person trying to unlock the phone is you or not. Apple states the chance of fooling FaceID is one in a million.  
+
+2.   Social media
+
+After unlocking their phones, what's next? Many people check out their social media accounts, including Facebook, Twitter, Instagram, and more, to get updated on what happened overnight. Not only is artificial intelligence working behind the scenes to personalize what you see on your feeds (because it's learned what types of posts most resonate with you based on past history), it's figuring out friend suggestions, identifying and filtering out fake news and machine learning is working to prevent cyberbullying.  
+PROMOTED
+3.   Send an email or message
+Every day most of us will send an email (or several). Tools such as Grammarly and spell check activate when you compose your email to help you draft messages free from errors. These tools use artificial intelligence and natural language processing. On the receiving end of your messages, spam filters use artificial intelligence to either block emails that are suspected as spam or identify an email as something your recipient would like to receive in their inbox. Anti-virus software uses machine learning as well to protect your email account.
+MORE FROMFORBES ADVISORBest High-Yield Savings Accounts Of 2024ByKevin PayneContributorBest 5% Interest Savings Accounts of 2024ByCassidy HortonContributor
+4.   Google search
+Most of us can’t go a day without searching Google for an answer or a product we can’t live without. Search engines couldn’t scan the entire internet and deliver what you want without the assistance of artificial intelligence. Those ads that seem to follow you around? Yep, those are enabled by AI, are based on your search history and are personalized to you with the goal of getting items in front of you that the algorithms believe you will value.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+5.   Digital voice assistants
+From getting directions to your lunch spot to inquiring about the weather for your weekend getaway, digital voice assistants are quickly becoming our can’t-live-without co-pilots through life. These tools from Siri and Alexa to Google Home and Cortana, use natural language processing and generators driven by AI to return answers to you.
+
+
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE
+6.   Smart home devices
+Our homes are increasingly becoming ""smart."" Many of us now have ""smart"" thermostats such as the Nest that learn about our heating/cooling preferences and daily habits to adjust the temperature to our liking in time for our return home. There are smart refrigerators that create lists for what you need based on what's no longer in your fridge, as well as offer wine recommendations that would go with your dinner. Of course, smart appliances will continue to be more common.
+7.   Commuting to work
+The travel aids enabled by artificial intelligence include more than maps. Google maps and other travel apps use AI to monitor traffic to give you real-time traffic and weather conditions as well as suggest ways to avoid gridlock. The car you drive to work might have driver-assist technology, and in places such as Mountain View, California, you can request a self-driving car through Google's sister company Waymo to drive you to and from work.
+8.   Banking
+There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our transactions and to detect fraud. If you deposit a check by scanning it with your phone, get a low-balance alert, or even log on to your online banking account, AI is at work behind the scenes. If you visit a shop at lunch and purchase a new pair of pants, artificial intelligence will verify the purchase to determine if it's a ""normal"" transaction to either validate or decline the transaction for fear someone unauthorized is using your credit card.
+9.   Amazon recommendations
+Speaking of shopping, America’s largest online retailer Amazon is another way many people are exposed to artificial intelligence regularly. The retailer’s AI algorithms learned what you like and what other people who are like you purchased to deliver to your Amazon feed recommendations for what you might like in your carts. Amazon is so confident in its predictive analytics and algorithms that it will ship products towards you even before you “click to buy” with its anticipatory shipping algorithm.
+10. Netflix
+At the end of the day, when it's time to kick back and relax, many of us turn to streaming services such as Netflix. The company's recommendation engine is powered by artificial intelligence and uses your past viewing history to deliver suggestions for what you might want to watch (including genres, actors, time periods, and more). Its tool gets as specific as what time of day you were watching and what you traditionally like during that timeframe. In fact, 80% of what we're watching is driven by Netflix's recommendations.
+Soo, it will be hard to imagine any of our daily routines without the help of AI.
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is... Read MoreEditorial StandardsPrintReprints & Permissions",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/5df6aaf825ab5d0007ce77d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",The 10 Best Examples Of How AI Is Already Used In Our Everyday Life,2019-12-16T00:13:33-05:00,2021-12-10T08:30:41-05:00,Enterprise Tech,The 10 Best Examples Of How AI Is Already Used In Our Everyday Life,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNvY2lhbGV1cm9wZS5ldS9jb250cm9sbGluZy10aGUtZWZmZWN0cy1vZi1haS1vbi13b3JrLWFuZC1pbmVxdWFsaXR50gEA?oc=5,Controlling the effects of AI on work and inequality - Social Europe,2019-12-12,Social Europe,https://www.socialeurope.eu,"Christian Kellermann and Mareike Winkler open a Social Europe series on AI, arguing that regulation will be needed to ensure prosperity for all.",N/A,"Christian Kellermann and Mareike Winkler open a Social Europe series on artificial intelligence, arguing that regulation will be needed to ensure prosperity for all.","Christian Kellermann and Mareike Winkler open a Social Europe series on AI, arguing that regulation will be needed to ensure prosperity for all.",Politics,N/A,"
+This series is a partnership with the Weizenbaum Institute for the Networked Society and the Friedrich Ebert Stiftung
+Christian Kellermann and
+Mareike Winkler open a Social Europe series on artificial intelligence, arguing
+that regulation will be needed to ensure prosperity for all.
+Christian Kellermann
+What will be the
+effects of the digital transformation on jobs? Job creation outnumbering digital job destruction is part and parcel of
+standard artificial-intelligence (AI) prophecy. But the extent to which work tasks are upgraded—rather than downgraded or
+even replaced—is determined by at least two dimensions: the technical side and
+the work aspect. 
+Today, in the
+production and service sectors ‘digitalisation’ in most cases means the use of
+smartphones and tablets. These devices undoubtedly are operated by complex
+technology—such as AI. But full automation is not yet the main reality.
+
+
+
+
+
+
+
+
+
+
+Join 24,000+ informed readers and stay ahead with our insightful content. 
+It's free.
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+  Loading... 
+
+
+
+
+
+
+
+
+
+
+Subscribe
+  Loading... 
+
+
+
+
+
+
+Thank you!
+Please check your inbox and click on the link in the confirmation email to complete your newsletter subscription.
+
+
+
+
+
+
+
+
+
+Mareike Winkler
+Nevertheless, the robot—another
+smart device—is already replacing human work, which has negative effects on wages.
+Middle- and low-skilled jobs in particular have been affected by information
+and communication technology (ICT) and robots since the 1970s and 80s. The
+consequences are decreasing wages on the one hand, and productivity growth and
+rising ‘digital dividends’ on the other. These dividends, however, are mainly
+received by the capital owner and explain (in part) the shrinking wage share. 
+In a country such as Germany,
+robots are certainly common but in industry they are very concentrated, especially
+in automotive manufacturing. The vast majority of studies therefore conclude
+that digitalisation drives the automation of work tasks in certain domains, but
+also creates much—or even more—work in other, less automated areas, primarily in
+the service sector.
+Daring assumption
+Believing that digitalisation
+must have automatic positive effects on total employment, however, would be
+quite daring. It depends on the assumption that demand for work lost is
+(over)compensated by new demand for work elsewhere. 
+
+Become a Social Europe Member
+
+Support independent publishing and progressive ideas by becoming a Social Europe member for less than 5 Euro per month. Your support makes all the difference!
+
+Click here to become a member
+The more precisely
+this presumed multiplier effect is broken down, the more pronounced the doubts
+about the associated technology optimism become. The promise is that sectoral
+productivity gains through digitalisation lead to ‘prosperity for all 4.0’. Yet
+not only have such ‘trickle-down’ claims gone through a credibility crisis in
+the last 30 years; they also present a very demanding scenario when it comes to
+digitalisation.
+On the one hand, the
+assumption is correct that demand for services—or, put more generally, for
+manual tasks—will increase if some employees receive higher wages because they benefit
+from digitalisation. On the other hand, these tasks are relatively price-inelastic,
+so if their price falls due to the use of technology, demand for them will not grow
+to the same extent. 
+Technology will not
+automatically lead to a general increase in prosperity. Instead of focusing on
+the side of technology and associated investments, a social technology
+assessment is required, in which the distributional effects of digitalisation are
+carefully considered. Without
+controlling AI’s differential effects on the labour market, inequality will
+continue to rise.
+Tacit knowledge
+Luckily, the scenario
+of a highly automated industry remains a vision for the future, mainly because
+of the complexity of even simple work. Each job comprises a whole bundle of
+experiences—no matter how routinised the tasks may be. The capacity to work generally
+requires tacit knowledge about how to deal not only with complexity but also
+uncertainty, which is out of reach for ‘tool’ or special-purpose AI. 
+Today, so-called ‘world
+knowledge’ can be formalised in simple individual cases in AI models, but it is
+expensive, resource-consuming and always reductionist. The marginal utility of
+today’s AI is still very limited and does not justify scenarios of massive job
+losses. These assumptions are usually based on a simplistic understanding of
+routine work and the production process.
+When it comes to
+regulation, one of the most urgent issues is thus to counter the digital anxiety
+of many workers with a realistic assessment and an appreciation of their individual
+working abilities. Practical, including technical, co-determination is also needed
+in the digitalisation of operational processes.
+This requires the strengthening
+and extension of co-determination structures and rights. Co-determination serves
+here not only to control the technology but can also be a supportive factor in investment
+decision-making, which often is not properly recognised by management alone. 
+Prosperity for all
+Finally, a forward-looking policy has the responsibility to correct potential, excessive and unequal distribution effects—so that eventually prosperity for all is in fact created. In the short term, redistributive measures are essential to pursue a social ‘Pareto optimum 4.0’; in the long run, a transition plan is needed towards a world of work which tames advanced AI.
+Such shared prosperity will be largely material in nature. But it can also be increasingly immaterial—including a reduction of working time.
+
+
+
+
+ Christian Kellermann and Mareike WinklerDr Christian Kellermann is managing director of Das Institut für die Geschichte und Zukunft der Arbeit (IGZA), the Institute for the History and Future of Work. Mareike Winkler is research assistant at the IGZA. The opinions expressed are those of the authors alone.You are here: Home / Politics / Controlling the effects of AI on work and inequality
+
+
+
+
+
+
+
+ Most Popular Posts
+ The assault on labour rights in FinlandAntti Alaja and Joel Kaitila George Orwell and Europe’s new normalJan Zielonka Ukraine: Putin’s ‘reality’ … and the real worldFrank Hoffer Will the young save Europe from the rise of the far right?Albena Azmanova Housing crisis: Europe cannot afford itGerald Koessl
+
+
+ Most Recent Posts
+ The young generation needs quality traineeshipsMarc Steiert Rebuilding trust in democracy in MoldovaStanislav Pavlovschi Rising tides, sinking boats: growth, climate and justiceBasak Kus Ostrich politics and its alternativesEszter Kováts Why it seems east Germany is everywhereStefanie Börner
+
+
+ Other Social Europe Publications
+ Global cities Strategic autonomy RE No. 13: Failed Market Approaches to Long-Term Care Towards a social-democratic century? National recovery and resilience plans
+
+
+",https://schema.org,,,,,,,,,,,,,"[{'@type': 'Organization', '@id': 'https://www.socialeurope.eu/#organization', 'name': 'Social Europe (SE)', 'sameAs': ['https://www.facebook.com/socialeurope.eu', 'https://twitter.com/socialeurope'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.socialeurope.eu/#logo', 'url': 'https://www.socialeurope.eu/wp-content/uploads/2022/06/SE-8.png', 'contentUrl': 'https://www.socialeurope.eu/wp-content/uploads/2022/06/SE-8.png', 'caption': 'Social Europe', 'inLanguage': 'en-GB', 'width': '750', 'height': '422'}}, {'@type': 'WebSite', '@id': 'https://www.socialeurope.eu/#website', 'url': 'https://www.socialeurope.eu', 'name': 'Social Europe', 'publisher': {'@id': 'https://www.socialeurope.eu/#organization'}, 'inLanguage': 'en-GB'}, {'@type': 'ImageObject', '@id': 'https://www.socialeurope.eu/wp-content/uploads/2019/12/Christian-Kellermann.png', 'url': 'https://www.socialeurope.eu/wp-content/uploads/2019/12/Christian-Kellermann.png', 'width': '500', 'height': '500', 'inLanguage': 'en-GB'}, {'@type': 'WebPage', '@id': 'https://www.socialeurope.eu/controlling-the-effects-of-ai-on-work-and-inequality#webpage', 'url': 'https://www.socialeurope.eu/controlling-the-effects-of-ai-on-work-and-inequality', 'name': 'Controlling the effects of AI on work and inequality', 'datePublished': '2019-12-12T05:00:00+01:00', 'dateModified': '2020-04-23T13:35:06+02:00', 'isPartOf': {'@id': 'https://www.socialeurope.eu/#website'}, 'primaryImageOfPage': {'@id': 'https://www.socialeurope.eu/wp-content/uploads/2019/12/Christian-Kellermann.png'}, 'inLanguage': 'en-GB'}, {'@type': 'Person', '@id': 'https://www.socialeurope.eu/author/christian-kellermann-and-mareike-winkler', 'name': 'Christian Kellermann and Mareike Winkler', 'url': 'https://www.socialeurope.eu/author/christian-kellermann-and-mareike-winkler', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/a844a8a220d14be3a758929f47b95a33?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/a844a8a220d14be3a758929f47b95a33?s=96&amp;d=mm&amp;r=g', 'caption': 'Christian Kellermann and Mareike Winkler', 'inLanguage': 'en-GB'}, 'sameAs': ['https://twitter.com/kellermannc1'], 'worksFor': {'@id': 'https://www.socialeurope.eu/#organization'}}, {'@type': 'NewsArticle', 'headline': 'Controlling the effects of AI on work and inequality', 'keywords': 'AI, artificial intelligence', 'datePublished': '2019-12-12T05:00:00+01:00', 'dateModified': '2020-04-23T13:35:06+02:00', 'articleSection': 'Politics', 'author': {'@id': 'https://www.socialeurope.eu/author/christian-kellermann-and-mareike-winkler', 'name': 'Christian Kellermann and Mareike Winkler'}, 'publisher': {'@id': 'https://www.socialeurope.eu/#organization'}, 'description': 'Christian Kellermann and Mareike Winkler open a Social Europe series on artificial intelligence, arguing that regulation will be needed to ensure prosperity for all.', 'copyrightYear': '2020', 'copyrightHolder': {'@id': 'https://www.socialeurope.eu/#organization'}, 'name': 'Controlling the effects of AI on work and inequality', '@id': 'https://www.socialeurope.eu/controlling-the-effects-of-ai-on-work-and-inequality#richSnippet', 'isPartOf': {'@id': 'https://www.socialeurope.eu/controlling-the-effects-of-ai-on-work-and-inequality#webpage'}, 'image': {'@id': 'https://www.socialeurope.eu/wp-content/uploads/2019/12/Christian-Kellermann.png'}, 'inLanguage': 'en-GB', 'mainEntityOfPage': {'@id': 'https://www.socialeurope.eu/controlling-the-effects-of-ai-on-work-and-inequality#webpage'}}]",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LndpcG8uaW50L3ByZXNzcm9vbS9lbi9hcnRpY2xlcy8yMDE5L2FydGljbGVfMDAxNy5odG1s0gEA?oc=5,WIPO Begins Public Consultation Process on Artificial Intelligence and Intellectual Property Policy - WIPO,2019-12-13,WIPO,https://www.wipo.int,"The World Intellectual Property Organization (WIPO) today launched a public consultation process on artificial intelligence (AI) and intellectual property (IP) policy, inviting feedback on an issues paper designed to help define the most-pressing questions likely to face IP policy makers as AI increases in importance.",N/A,WIPO seeks to define major questions facing IP policy makers as AI increases in importance.,WIPO seeks to define major questions facing IP policy makers as AI increases in importance.,N/A,N/A,"
+
+WIPO Begins Public Consultation Process on Artificial Intelligence and Intellectual Property Policy
+Geneva,
+
+
+
+December 13, 2019
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+PR/2019/843
+  
+ 
+
+
+The World Intellectual Property Organization (WIPO) today launched a public consultation process on artificial intelligence (AI) and intellectual property (IP) policy, inviting feedback on an issues paper designed to help define the most-pressing questions likely to face IP policy makers as AI increases in importance.
+Beginning December 13, 2019, WIPO published its issues paper with a call for comments from the widest-possible global audience. It is the latest step in WIPO’s response to the ongoing interaction of AI with the IP system, including the use of AI applications in IP administration.
+“Artificial intelligence is set to radically alter the way in which we work and live, with great potential to help us solve common global challenges, but it is also prompting policy questions and challenges,” said WIPO Director General Francis Gurry.
+
+Machine learning relies on information in the form of electronic data, which is also at the heart of intellectual property and innovation in a global digital economy. I invite everyone with an interest to assist us in formulating the questions that are confronting policy makers and to share with us their expertise in order to have a focused dialogue.
+WIPO Director General Francis Gurry
+How does artificial intelligence impact intellectual property?
+Artificial intelligence (AI) is increasingly driving important developments in technology and business. It is being employed across a range of industries, from telecommunications to autonomous vehicles.
+Increasing stores of big data and advances in affordable high computing power are fueling AI’s growth. AI has a significant impact on the creation, production and distribution of economic and cultural goods and services. Since one of the main aims of the IP system is to stimulate innovation and creativity in the economic and cultural systems, AI intersects with IP in a number of ways.
+In January 2019, WIPO issued a study that surveyed the landscape of AI innovation. The “WIPO Technology Trends” report provides a common information base on AI for policy and decision makers in government and business, as well as concerned citizens across the globe.
+In September, WIPO held a Conversation on IP and Al bringing together member states and other stakeholders to discuss the impact of Al on IP policy, with a view to collectively formulating the questions that policymakers need to ask.
+At the conclusion of the meeting, Mr. Gurry announced that WIPO would commence an open process to develop a list of issues concerning the impact of Al on IP policy that might form the basis of future structured discussions.
+Submissions on this new draft issues paper issued today are invited through February 14, 2020. Following the submission of comments, a revised issues paper will be prepared. All submissions will be posted on the WIPO website.
+
+About WIPO
+The World Intellectual Property Organization (WIPO) is the United Nations agency that serves the world’s innovators and creators, ensuring that their ideas travel safely to the market and improve lives everywhere.
+We do so by providing services that enable creators, innovators and entrepreneurs to protect and promote their intellectual property (IP) across borders and acting as a forum for addressing cutting-edge IP issues. Our IP data and information guide decisionmakers the world over. And our impact-driven projects and technical assistance ensure IP benefits everyone, everywhere.
+
+For more information, please contact the News and Media Division at WIPO:
+
+Tel: (+41 22) 338 81 61 / 338 72 24
+E-mail
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZW1lcmouY29tL2FpLXNlY3Rvci1vdmVydmlld3MvNy1jaGF0Ym90LXVzZS1jYXNlcy10aGF0LWFjdHVhbGx5LXdvcmsv0gEA?oc=5,7 Chatbot Use Cases That Actually Work - Emerj,2019-12-13,Emerj,https://emerj.com,"In this article, we shed a spotlight on 7 real-world chatbots/virtual assistants across industries, including examples in Customer Service, Product Sug...",,"In this article, we shed a spotlight on 7 real-world chatbots/virtual assistants across industries, including examples in Customer Service, Product Sug...",N/A,N/A,N/A," Customer serviceConsumer goodsProcess automationFinance 7 Chatbot Use Cases That Actually Work Daniel FaggellaLast updated on December 13, 2019  Last updated on December 13, 2019, published by Daniel Faggella Daniel Faggella is Head of Research at Emerj. Called upon by the United Nations, World Bank, INTERPOL, and leading enterprises, Daniel is a globally sought-after expert on the competitive strategy implications of AI for business and government leaders. Share to: LinkedIn Twitter Facebook Email  Since Facebook Messenger, WhatsApp, Kik, Slack, and a growing number of bot-creation platforms came online, developers have been churning out chatbots across industries, with Facebook’s most recent bot count at over 33,000. At a CRM technologies conference in 2011, Gartner predicted that 85 percent of customer engagement would be fielded without human intervention. Though a seeming natural fit for retail and purchasing-related decisions, it doesn’t appear that chatbot technology will play favorites in the coming few years, with uses cases being promoted in finance, human resources, and even legal services. Not all chatbots are created equal though; some catch on while others fall away just as quick, and the level of function and natural interaction varies widely. Some companies (see #7 in this list) even argue for semantics i.e. “virtual assistant” is a more robust and advanced technology than a chatbot. In this article, we shed a spotlight on 7 real-world chatbots/virtual assistants across industries that are in action and reaping value for their parent companies. From streamlined operations and saved human productivity to increased customer engagement, the following examples are worth a read if you’ve ever considered leveraging chatbot technology for your business (or are curious about the possibilities). Each example is broken down into company description, chatbot/virtual assistant design and purpose, value proposition (tangible business results), and key questions/takeaways to consider when thinking about how to apply technology to your own company or industry.  1 – Expensify: “Concierge”  Company Description: Expensify software helps streamline and automate expense reports and travel arrangements for companies across industries. How it’s being used: Concierge takes new users step-by-step through the setup process, and is designed to proactively trouble-shoot customer issues (for example, if the connection between a user’s credit card and Expensify is severed, the chatbot gives instructions on how to fix the connection before it becomes a problem) With access to real-time travel pricing, Concierge is able to notify users if they’re receiving the best value Concierge can communicate with users on Expensify’s website or via mobile and is compatible with Slack (the cloud-based team collaboration tool) Value proposition: In an interview with FastCompany, Barrett noted that Concierge has helped reduce banking problems by 75%, and that the website has quintupled the number of its free trials (Expensify has no shortage of big-name clients, which include Uber, Warby Parker, Virgin Hotels, and Quora, to name a select handful). Key questions/takeaways: Select quotes are borrowed from FastCompany’s interview with CEO David Barrett: Are there recurring customer service issues or problem areas in our business that would benefit from preventive interaction? CEO David Barrett stated , “You don’t want to talk to the chatbot, you want something to happen with the minimum amount of interaction.” How might our business help customers make better and quicker decisions? Barrett advises keeping the user interface simple: “People don’t want more functionality, they already have too much functionality. The most modern applications today are about having less UI, a single button that does a tremendous amount…”   2 – 1-800-Flowers: “GWYN”  Company description: A floral and gourmet foods gift retailer and distribution company and one of the first businesses to use telephone and Internet for direct sales. How it’s being used: GWYN is a product of IBM’s artificial intelligence system, Watson, and is based on the Fluid Expert Personal Shopper (XPS) software platform); the chatbot helps consumers search for and place their gift order online GWYN becomes smarter as “she” interacts with more customers over time; the eventual goal is to offer a customized shopping experience based on a user’s past buying behaviors Using natural language, GWYN interprets customer questions about a product or service; “she” can then follow up with additional questions about the intended audience, occasion, and sentiment in order to suggest best-fit gifts for a particular customer Value proposition: 1-800-Flowers’ 2017 first quarter results showed total revenues had increased 6.3 percent to $165.8 million, with the Company’s Gourmet Food and Gift Baskets business as a significant contributor. CEO Chris McCann stated, “…our Fannie May business recorded positive same store sales as well as solid eCommerce growth, reflecting the success of the initiatives we have implemented to enhance its performance.” While McCann doesn’t go into specifics, we assume that initiatives include the implementation of GWYN, which also seems to be supported by CB Insights’ finding: 70% of customers ordering through the chat bot were new 1-800-Flowers customers as of June 2016. Key takeaways: How can we encourage additional customer purchases while they shop? Train a system to “read a customer’s mind” by gathering key information points and intuiting complimentary products and services. Use chatbots to help personalize the customer experience and invite return purchases, increasing customer lifetime value.   3 – LV=Broker: *“aLVin” Company description: LV= is a UK-based provider of financial products and services; its LV=Broker division offers a range of commercial and personal lines products for third-party brokers. How it’s being used: aLVin is built on the foundation of Nuance’s Nina, the intelligent multichannel virtual assistant that leverages natural language understanding (NLU) and cognitive computing capabilities. aLVin interacts with brokers to better understand “intent” and deliver the right information 24/7; the chatbot was built with extensive knowledge of LV=Broker’s products, which accelerated the process of being able to answer more questions and direct brokers to the right products early on aLVin’s live chat service overlaps when needed with human support representatives. Over time, LV= envisions a more collaborative relationship between the virtual assistant and the human support agents, which will help increase the number of transactional tasks that aLVin can assist with and allow service agents to handle more complex tasks Value proposition: Select quotes are borrowed from Computing’s interview with Head of Personal Lines Operations Alan Hickman. Alan Hickman noted that after the pilot, 98% of brokers said that they would use the service if offered full-time. LV= also benefitted as a larger company. According to Hickman, “Over the (trial) period, the volume of calls from broker partners reduced by 91 per cent…that means is aLVin was able to provide a final answer in around 70 per cent of conversations with the user, and only 22 per cent of those conversations resulted in [needing] a chat with a real-life agent.” Key takeaways: How can our business streamline tasks for professionals in a target industry? LV=’s Broker division wanted to be able to deliver important information conveniently to brokers 24/7. Are there areas where we could automate simpler customer requests (frequently asked questions/tasks) and reserve human capital for more sensitive or complicated demands? *Our search turned up little recent information (the chatbot was introduced in June 2015), and while aLVin appeared to be a fruitful addition, it’s unclear “he” or a successor are still in use by LV=   4 – H&M: The Official H&M Chatbot  Company Description: H&M is a global fashion company that promote sustainable materials and human labor How it’s being used: The purpose of H&M’s chatbot is to help mobile customers navigate their search through outfit possibilities and guide you to the online store areas that align with your purchase desires. H&M’s chatbot leverages the following information and responds differently based on provided information:
+Defines your gender and style Suggests outfits and the total price for all items If you dislike the suggested outfit, the chatbot will select a different outfit If you like the outfit, the chat provides some options: shop – direct link to the H&M internet shop; save – archive your outfit; share – via social networks, email, etc.; next outfit –  provides a new outfit suggestion Value proposition: H&M’s consistent increased sales over the past year and its August announcement to launch an eCommerce presence in Canada and South Korea during the fall of 2016, along with 11 new H&M online markets (for a total of 35 markets by the end of the year), appear to signify positive results for its chatbot implementation (though direct correlations are unavailable on its website). Key takeaways: How can our business leverage technology to better and more often engage younger audiences with our products and services? H&M is one of several retailers experimenting with and leveraging chatbots as a  mobile marketing opportunity – according to a report by Accenture, 32 percent of the world (a large portion of the population 29 years old and younger) uses social media daily and 80 percent of that time is via mobile.   5 – Amtrak: “Julie”  Company description: The National Railroad Passenger Corporation (Amtrak) provides rail passenger services for customers in the 48 contiguous U.S. states. How it’s being used: Julie, a newer version of Amtrak’s original telephone-based customer service agent, is designed to guide users through Amtrak.com using natural language capabilities and a broad knowledge-base of the site In addition to responding through text, Julie can vocalize “her” answer alongside a written response Julie can provide or help customers find information on making a reservation, getting more information on Amtrak’s rewards program, finding station and route information, and a variety of other areas Value proposition: According to nextIT (Julie’s product platform), implementation of Julie resulted in the following:
+25 percent more bookings $1 million in customer service email costs saved annually 50 percent year-over-year growth in users’ engagement with Julie 30 percent more revenue (monthly average) generated per booking Key takeaways: Is there a way to evolve or augment existing technology to make it more engaging and useful for customers? Instead of ditching Julie the telephone rep, Amtrak expanded “her” presence by implementing a more responsive chatbot. Do the nature of our services and size of our customer base warrant an investment in a more efficient and automated customer service response? How can we offer a more streamlined experience without (necessarily) increasing costly human resources?  Amtrak’s website receives over 375,000 daily visitors, and they wanted a solution that provided users with instant access to online self-service.   6 – FirstJob: “Mya”  Company description: FirstJob is an online-based recruiting firm that matches recent college graduates with entry-level jobs and internships by leveraging their existing social networks. How it’s being used: Mya is an A.I. recruiting assistant that manages large candidate pools, giving FirstJob recruiters and hiring managers more time to focus on interviews and closing offers Mya can talk to thousands of candidates at once through SMS, Facebook, Skype, email, or chat Mya asks prescreen questions; responds to FAQs; delivers application progress updates; gives tips and guidance to candidates; alerts candidates when a position has been filled; and administers assessments and challenges Mya also provides useful information for recruiters and managers, ranking candidates from most qualified to least based on weighted factors like experience, recent activity, engagement, and other metrics Value proposition: According to FirstJob, Mya automates up to 75 percent of the qualifying and engagement process. As reported by Forbes, studies suggest that Mya improves recruiter efficiency by 38 percent and increases candidate engagement by over 150 percent. Key takeaways: Select quotes are borrowed from Forbes’ interview with CEO and Co-founder Eyal Grayevsky. Can we provide a better way of doing business that transforms an arduous “elephant-in-the-room” process or task into one that allows all involved parties to stay active and engaged? As stated by Grayevsky, “I saw a huge opportunity to design a technology platform for both job seekers and employers that could fill the gaping ‘black hole’ in recruitment and deliver better results to both sides.”   7 – TouchCommerce: “TouchAssist”  Company description: TouchCommerce serves many Fortune 500 companies with customer engagement tools like livechat and FAQs; the company was acquired by Nuance in August 2016. How it’s being used: TouchAssist’s natural language and cognitive computing capabilities allow it to interact with customers and offer a “self-serve” experience (TouchAssist is consciously referred to by the company as a virtual assistant, not a chatbot) A live chat agent is available on standby if TouchAssist is unable to answer a question/provide the appropriate level of service TouchAssist leverages existing transcript data and other information from its consumer interactions to continuously improve the usability and user experience Virtual assistant and live chat engagements are visible and accessible from the same user window TouchAssist is compatible with multiple devices, including desktop, tablet, mobile browser, in-app and SMS Value proposition: TouchAssist responds to repetitive questions, freeing up about 80% of human agents’ time to work on other tasks, and reduces the average handle time of customer interactions overall. Key takeaways: What areas of our customer engagement process could benefit from lessening or eliminating unnecessary human interaction? According to TouchCommerce, 84% of customers polled prefer to use self-service to get what they need.   Image credit: App Developer Magazine Related Posts Use Cases of AI for Customer Service - What's Working NowArtificial Intelligence is currently being deployed in customer service to both augment and replace human… AI for Fraud Detection in Retail - 2 Powerful Use CasesLeading retailers - like Walmart, Stop & Shop, and Home Depot - are enhancing their payment… The Chatbot Landscape - 20 Chatbot Applications Across IndustriesChatbots are one of the most talked-about uses of natural language processing (NLP) software in… Machine Learning in Martech - Current Use CasesMoore Stephens estimated the size of the marketing technology or martech industry around $24 billion… How AI-Enabled Product Recommendations Work - A Brief OverviewMany AI vendor companies offer AI-enabled products and services for pushing more and more products… Share to: LinkedIn Twitter Facebook Email Stay Ahead of the AI Curve Discover the critical AI trends and applications that separate winners from losers in the future of business. Sign up for the 'AI Advantage' newsletter:   Subscribe",https://schema.org,Article,,https://emerj.com/wp-content/uploads/2016/11/7-Chatbot-Use-Cases-That-Actually-Work-950x540-1-690x392.jpg,Daniel Faggella,"{'@type': 'Organization', 'name': 'Emerj', 'url': 'https://emerj.com', 'logo': {'@type': 'ImageObject', 'url': 'https://emerj.com/wp-content/themes/emerj/src/logo/emerj-logo-w-500-min.png'}}",7 Chatbot Use Cases That Actually Work,2016-11-15,2019-12-13,,,,,,AI Sector Overviews,2101,https://emerj.com/ai-sector-overviews/7-chatbot-use-cases-that-actually-work,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LndpcmVkLmNvbS9zdG9yeS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yZXBldGl0aXZlLXRhc2tzL9IBAA?oc=5,AI's real impact? Freeing us from the tyranny of repetitive tasks - WIRED,2019-12-12,WIRED,https://www.wired.com,"From automating accounts to marking homework, AI is finally starting to come through in mainstream applications","['business', 'ai hub', 'artificial intelligence', 'technology', 'the wired world in 2020', '_wired-uk-migrated', 'web']","From automating accounts to marking homework, AI is finally starting to come through in mainstream applications","From automating accounts to marking homework, AI is finally starting to come through in mainstream applications",tags,N/A,"Kai-Fu LeeBusinessDec 12, 2019 1:00 AMAI's real impact? Freeing us from the tyranny of repetitive tasksFrom automating accounts to marking homework, AI is finally starting to come through in mainstream applicationsSave this storySaveSave this storySaveIn the past two or three years artificial intelligence has felt like rocket science. Companies such as DeepMind have captivated our attention. We have been wowed by developments in areas such as computer vision, machine translation and speech recognition.In 2020, AI will begin to live up to the hype by starting to generate real economic value through its application across industries. According to consulting firm PricewaterhouseCoopers, the widespread adoption of AI will add about $15.7 trillion (£12.8 trillion) to global GDP by 2030. Most of that business value will come not from AI-focused companies, but from the infusion of artificial intelligence into traditional industries. Early movers who embrace AI will become the winners.AdChoicesADVERTISEMENTOne defining area of AI infusion is in the automation of repetitive tasks, using technologies such as RPA (robotic process automation). RPA will see widespread application in the work performed by functions such as accounts payable, back-office processing and various forms of data management. Routine tasks associated with a large number of jobs will now lend themselves to automation, freeing up people’s time to focus on more complex endeavours. RPA is already creating some of the most valuable AI companies in the world.Trending NowReview: Apple iPhone 13Another similar area of routine task replacement is the use of speech recognition and natural-language processing in customer service, telemarketing and telesales. New advances in these technologies allow 80 per cent of queries to a call centre to be dealt with through automated processes, while achieving higher customer satisfaction.In addition to optimising existing processes, in 2020 we will see new applications for AI across existing industries. Retail stores will use AI to forecast demand and sales, as well as to reshape logistics and the supply chain. AI will also help maximise throughput and minimise costs in manufacturing and agriculture.In 2020, healthcare will start to be significantly transformed by AI. While it will take several decades for AI to be fully integrated into the medical process, it is in 2020 that we will start to fully grasp AI’s potential for improving our quality of life. Expect strides to be made in the application of smart AI tools in radiology, pathology and diagnosis – leading to better treatment, faster recuperation, and lower cost. Unlike RPA and speech recognition, these tools will not replace humans, but will help them be more productive.AdvertisementAI will bring personalisation to many other areas too, including banking, insurance, loans and investment. We have already seen personal recommendations of news, content and merchandise, and we will see this continue to expand.And in education we will see AI being used to give and grade homework and exams, and to guide students through various exercises. This will free up teachers’ time to focus on students’ personal and emotional development, in areas such as resilience, empathy, creativity and compassion – qualities that will be critical to the new generations’ ability to thrive and adapt in the age of AI. In 2020, we will see AI, though still incredibly complex, start to become part and parcel of problem-solving across our lives.Kai-Fu Lee is CEO of Sinovation VenturesThis article was originally published by WIRED UKEnter your email to get the Wired newsletterclose dialogRecommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyPlease enter abovesign upUsed consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.Recommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyYou're signed up!Used consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.close dialogMost PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDPoliticsFar-Right Extremists Call for Violence and War After Trump ShootingBy David Gilbert, WIREDSecurityAT&T Paid a Hacker $370,000 to Delete Stolen Phone RecordsBy Kim Zetter, WIRED",https://schema.org/,BreadcrumbList,https://www.wired.com/story/artificial-intelligence-repetitive-tasks/,"['https://media.wired.com/photos/65e713145f2286a91492cd40/16:9/w_1488,h_837,c_limit/wired-uk-default-image-1-1.jpeg', 'https://media.wired.com/photos/65e713145f2286a91492cd40/4:3/w_1500,h_1125,c_limit/wired-uk-default-image-1-1.jpeg', 'https://media.wired.com/photos/65e713145f2286a91492cd40/1:1/w_1500,h_1500,c_limit/wired-uk-default-image-1-1.jpeg']","[{'@type': 'Person', 'name': 'Kai-Fu Lee', 'sameAs': 'https://www.wired.com/author/kai-fu-lee/'}]","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'WIRED', 'logo': {'@type': 'ImageObject', 'url': 'https://www.wired.com/verso/static/wired/assets/newsletter-signup-hub.jpg', 'width': '500px', 'height': '100px'}, 'url': 'https://www.wired.com'}",AI's real impact? Freeing us from the tyranny of repetitive tasks,2019-12-12T01:00:00.000-05:00,2019-12-12T01:00:00.000-05:00,business,,True,"[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.wired.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'artificial intelligence', 'item': 'https://www.wired.com/tag/artificial-intelligence/'}, {'@type': 'ListItem', 'position': 3, 'name': ""AI's real impact? Freeing us from the tyranny of repetitive tasks""}]",,,,"{'@type': 'WebPage', '@id': 'https://www.wired.com/story/artificial-intelligence-repetitive-tasks/'}","In 2020, AI will begin to live up to the hype by starting to generate real economic value through its application across industries. According to consulting firm PricewaterhouseCoopers, the widespread adoption of AI will add about $15.7 trillion (£12.8 trillion) to global GDP by 2030. Most of that business value will come not from AI-focused companies, but from the infusion of artificial intelligence into traditional industries. Early movers who embrace AI will become the winners.
+One defining area of AI infusion is in the automation of repetitive tasks, using technologies such as RPA (robotic process automation). RPA will see widespread application in the work performed by functions such as accounts payable, back-office processing and various forms of data management. Routine tasks associated with a large number of jobs will now lend themselves to automation, freeing up people’s time to focus on more complex endeavours. RPA is already creating some of the most valuable AI companies in the world.
+Another similar area of routine task replacement is the use of speech recognition and natural-language processing in customer service, telemarketing and telesales. New advances in these technologies allow 80 per cent of queries to a call centre to be dealt with through automated processes, while achieving higher customer satisfaction.
+In addition to optimising existing processes, in 2020 we will see new applications for AI across existing industries. Retail stores will use AI to forecast demand and sales, as well as to reshape logistics and the supply chain. AI will also help maximise throughput and minimise costs in manufacturing and agriculture.
+In 2020, healthcare will start to be significantly transformed by AI. While it will take several decades for AI to be fully integrated into the medical process, it is in 2020 that we will start to fully grasp AI’s potential for improving our quality of life. Expect strides to be made in the application of smart AI tools in radiology, pathology and diagnosis – leading to better treatment, faster recuperation, and lower cost. Unlike RPA and speech recognition, these tools will not replace humans, but will help them be more productive.
+AI will bring personalisation to many other areas too, including banking, insurance, loans and investment. We have already seen personal recommendations of news, content and merchandise, and we will see this continue to expand.
+And in education we will see AI being used to give and grade homework and exams, and to guide students through various exercises. This will free up teachers’ time to focus on students’ personal and emotional development, in areas such as resilience, empathy, creativity and compassion – qualities that will be critical to the new generations’ ability to thrive and adapt in the age of AI. In 2020, we will see AI, though still incredibly complex, start to become part and parcel of problem-solving across our lives.
+Kai-Fu Lee is CEO of Sinovation Ventures
+This article was originally published by WIRED UK",,"https://media.wired.com/photos/65e713145f2286a91492cd40/2:3/w_1000,h_1500,c_limit/wired-uk-default-image-1-1.jpeg","{'@type': 'CreativeWork', 'name': 'WIRED'}","From automating accounts to marking homework, AI is finally starting to come through in mainstream applications",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd2Fyb250aGVyb2Nrcy5jb20vMjAxOS8xMi9haS1mb3ItcGVhY2Uv0gEA?oc=5,AI for Peace - War On The Rocks,2019-12-13,War On The Rocks,https://warontherocks.com,"This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric",N/A,"This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric",N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://warontherocks.com/#website', 'url': 'https://warontherocks.com/', 'name': 'War on the Rocks', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://warontherocks.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://warontherocks.com/2019/12/ai-for-peace/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://warontherocks.com/wp-content/uploads/2019/12/AI-Peace.jpg', 'width': 1330, 'height': 850}, {'@type': 'WebPage', '@id': 'https://warontherocks.com/2019/12/ai-for-peace/#webpage', 'url': 'https://warontherocks.com/2019/12/ai-for-peace/', 'name': 'AI for Peace - War on the Rocks', 'isPartOf': {'@id': 'https://warontherocks.com/#website'}, 'primaryImageOfPage': {'@id': 'https://warontherocks.com/2019/12/ai-for-peace/#primaryimage'}, 'datePublished': '2019-12-13T08:45:14+00:00', 'dateModified': '2020-01-27T15:45:30+00:00', 'author': {'@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8'}, 'description': 'This article was submitted in response to the\xa0call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://warontherocks.com/2019/12/ai-for-peace/']}]}, {'@type': ['Person'], '@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8', 'name': 'Shane Mason', 'image': {'@type': 'ImageObject', '@id': 'https://warontherocks.com/#personlogo', 'inLanguage': 'en-US', 'url': 'https://secure.gravatar.com/avatar/83a68cf34a391d145ac9f37117795a86?s=96&d=identicon&r=g', 'caption': 'Shane Mason'}}]",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmVneXB0dG9kYXkuY29tL0FydGljbGUvMS83ODczMy9JLXdvcmstYXMtcm9ib3QtYW1iYXNzYWRvci1Sb2JvdC1Tb3BoaWHSAQA?oc=5,I work as robot ambassador: Robot Sophia - Egypt Today,2019-12-16,Egypt Today,https://www.egypttoday.com,"Robot Sophia said that she is happy to attend the World Youth Forum, which is an important platform for young people","World Youth Forum,Robot Sophia,Artificial intelligent","Robot Sophia said that she is happy to attend the World Youth Forum, which is an important platform for young people","Robot Sophia said that she is happy to attend the World Youth Forum, which is an important platform for young people",News,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnVjZi5lZHUvbmV3cy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1tYXktaGVscC1zY2llbnRpc3RzLW1ha2Utc3ByYXktb24tc29sYXItY2VsbHMv0gEA?oc=5,Artificial Intelligence May Help Scientists Make Spray-on Solar Cells - UCF,2019-12-16,UCF,https://www.ucf.edu,"Artificial Intelligence may be just the thing to accelerate spray-on solar cell technology, which could revolutionize how consumers use energy. A research",N/A,"Artificial Intelligence may be just the thing to accelerate spray-on solar cell technology, which could revolutionize how consumers use energy. A research",N/A,N/A,N/A,"
+
+
+
+
+
+ 
+
+						Thomas joined UCF in 2011. His previous work resulted in a variety of innovations, including material that could help keep pilots and sensitive equipment safe from destructive lasers, a way to both transmit and store electricity in a lightweight copper wire, and filaments that harvest and store the sun’s energy and can be woven into textiles. 					
+
+
+
+
+
+
+
+
+Artificial Intelligence may be just the thing to accelerate spray-on solar cell technology, which could revolutionize how consumers use energy.
+A research team at the University of Central Florida used Machine Learning, aka Artificial Intelligence to optimize the materials used to make perovskite solar cells (PSC). The Organic-Inorganic halide perovskites material used in PSC converts photovoltaic power into consumable energy.
+These perovskites can be processed in solid or liquid state, offering a lot of flexibility. Imagine being able to spray or paint bridges, houses and skyscrapers with the material, which would then capture light, turn it into energy and feed it into the electrical grid. Until now, the solar cell industry has relied on silicon because of its efficiency. But that’s old technology with limits. Using perovskites, however, has one big barrier. They are difficult to make in a usable and stable material. Scientists spend a lot of time trying to find just the right recipe to make them with all the benefits – flexibility, stability, efficiency and low cost. That’s where artificial intelligence comes in.
+The team’s work is so promising that its findings are the cover story Friday, Dec. 13 in the Advanced Energy Materials journal.
+The team reviewed more than 2,000 peer-reviewed publications about perovskites and collected more than 300 data points then fed into the AI system they created. The system was able to analyze the information and predict which perovskites recipe would work best.
+“Our results demonstrate that machine learning tools can be used for crafting perovskite materials and investigating the physics behind developing highly efficient PSCs,” says Jayan Thomas, the study’s lead author and an associate professor at the NanoScience Technology Center with multiple affiliations. “This can be a guide to design new materials as evidenced by our experimental demonstration.”
+If this model bears out, it means researchers could identify the best formula to create a world standard. Then spray-on solar cells may happen in our lifetime, the researchers say.
+“This is a promising finding because we use data from real experiments to predict and obtain a similar trend from the theoretical calculation, which is new for PSCs. We also predicted the best recipe to make PSC with different bandgap perovskites,” says Thomas and his graduate student, Jinxin Li, who is the first author of this paper. “Perovskites have been a hot research topic for the past 10 years, but we think we really have something here that can move us forward.”
+Others on the research team include: Basudev Pradhan from the NanoScience Technology Center and Surya Gaur from the College of Engineering and Computer Science. Pradhan is currently a faculty member at Centre of Excellence in Green and Efficient Energy Technology, at the Central University of Jharkhand in India
+Thomas joined UCF in 2011 and is a part of the NanoScience Technology Center with a joint appointment in the College of Optics and Photonics and the Department of Materials Science and Engineering in the College of Engineering. His previous work resulted in a variety of innovations, including material that could help keep pilots and sensitive equipment safe from destructive lasers, a way to both transmit and store electricity in a lightweight copper wire, and filaments that harvest and store the sun’s energy and can be woven into textiles.
+Previously, Thomas was at the University of Arizona in its College of Optical Sciences. He has several degrees including a doctorate in chemistry/materials science from Cochin University of Science and Technology in India. He’s published dozens of studies and earned several grants and awards including a National Science Foundation CAREER Grant and an R&D 100 award.
+
+
+More Topics
+College of Engineering and Computer Science
+Research
+Pegasus Briefs
+College of Optics and Photonics
+NanoScience Technology Center 
+
+
+
+
+
+Share this content on Facebook
+
+
+
+
+
+Post this content
+
+
+
+
+
+Share this content on LinkedIn
+
+
+
+
+
+
+
+		Related Stories
+	
+
+
+
+
+
+ 
+Gold May Be Key Element for Cleaner Drinking Water
+
+
+
+
+
+
+
+ 
+UCF Researchers Develop Nano-based Technology to Fight Osteoporosis
+
+
+
+
+
+
+
+ 
+New $1.25 Million Research Project Will Map Materials at the Nanoscale
+
+
+
+
+
+
+
+ 
+Long-lasting Disinfectant Promises to Help Fight Pandemics
+
+
+
+
+
+
+
+ 
+New UCF Nanotech Gives Boost to Detection of Cancer and Disease
+
+
+
+
+
+
+
+ 
+UCF-Developed Seawater Battery is Safer for People and Environment
+
+
+
+
+
+
+
+ 
+UCF Researcher Is Working to Extend Battery Life in Smartphones, Electric Cars
+
+
+
+
+
+
+
+ 
+UCF Researcher Receives $1.7 Million NIH Grant
+
+
+
+
+
+
+
+
+Pegasus Magazine
+
+
+
+
+
+
+
+					Spring 2024				
+
+
+
+Featured Story
+
+				Helping Hands			
+For a decade, UCF-based nonprofit Limbitless Solutions has transformed kids’ lives through bionic limbs. 
+
+				Read More
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pegasus Magazine Featured Story
+
+
+							The Rise of SpaceU						
+
+							Founded to help fuel talent for the nearby space industry, UCF continues to build its reputation as SpaceU. Here’s a look at the early days of UCF’s space ties and journey to new frontiers.						
+
+
+
+
+
+
+
+
+
+
+
+Pegasus Magazine Featured Story
+
+
+							The New Era of Simulation						
+
+							UCF faculty are leading the way for the
+evolution of virtual worlds with digital twin.						
+
+
+
+
+
+
+
+
+
+
+
+Pegasus Magazine Featured Story
+
+
+							Our Brains on Food						
+
+							What we feed our bodies not only affects our
+physical appearance but our brains and cognition,
+as well. A growing body of research shows diets
+rich in whole foods and plant-based foods increases
+our wit and decreases our risk of disease.						
+
+
+
+
+
+
+
+
+
+
+
+Pegasus Magazine Featured Story
+
+
+							More Than Words						
+
+							UCF’s Communication Disorders Clinic provides essential training for its graduate students and critical services to the local community. 						
+
+
+
+
+
+
+
+
+",https://schema.org,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/', 'url': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/', 'name': 'Artificial Intelligence May Help Scientists Make Spray-on Solar Cells | University of Central Florida News', 'isPartOf': {'@id': 'https://www.ucf.edu/news/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/#primaryimage'}, 'image': {'@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/#primaryimage'}, 'thumbnailUrl': 'https://www.ucf.edu/wp-content/blogs.dir/20/files/2019/12/WEBJayan.jpg', 'datePublished': '2019-12-16T14:50:37+00:00', 'dateModified': '2023-03-16T17:58:55+00:00', 'author': {'@id': 'https://www.ucf.edu/news/#/schema/person/4f0fdedfa744a8bfddd06132e6ce9b5e'}, 'description': 'Artificial Intelligence may be just the thing to accelerate spray-on solar cell technology, which could revolutionize how consumers use energy. A research', 'breadcrumb': {'@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/#primaryimage', 'url': 'https://www.ucf.edu/wp-content/blogs.dir/20/files/2019/12/WEBJayan.jpg', 'contentUrl': 'https://www.ucf.edu/wp-content/blogs.dir/20/files/2019/12/WEBJayan.jpg', 'width': 1200, 'height': 800, 'caption': ""Thomas joined UCF in 2011. His previous work resulted in a variety of innovations, including material that could help keep pilots and sensitive equipment safe from destructive lasers, a way to both transmit and store electricity in a lightweight copper wire, and filaments that harvest and store the sun's energy and can be woven into textiles.""}, {'@type': 'BreadcrumbList', '@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.ucf.edu/news/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence May Help Scientists Make Spray-on Solar Cells'}]}, {'@type': 'WebSite', '@id': 'https://www.ucf.edu/news/#website', 'url': 'https://www.ucf.edu/news/', 'name': 'University of Central Florida News | UCF Today', 'description': 'Central Florida Research, Arts, Technology, Student Life and College News, Stories and More', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ucf.edu/news/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.ucf.edu/news/#/schema/person/4f0fdedfa744a8bfddd06132e6ce9b5e', 'name': 'Zenaida Kotala', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ucf.edu/news/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/02e9551d72f6a8572cd8949932306739?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/02e9551d72f6a8572cd8949932306739?s=96&d=mm&r=g', 'caption': 'Zenaida Kotala'}, 'url': 'https://www.ucf.edu/news/author/zkotala/'}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ucf.edu/news/artificial-intelligence-may-help-scientists-make-spray-on-solar-cells/#local-main-organization-logo', 'url': '', 'contentUrl': '', 'caption': 'University of Central Florida'}]",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWdvaW5nLW1ha2UtYW1lcmljYXMtZi0zNS1hbmQtYi0yLWV2ZW4tc3Ryb25nZXItMTA0OTY30gEA?oc=5,Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger - The National Interest Online,2019-12-14,The National Interest Online,https://nationalinterest.org,The future is now.,"Technology, F-35, B-2, Stealth, U.S. Air Force, Drones, AI",The future is now.,The future is now.,N/A,N/A,"
+
+
+
+Share on Facebook
+F
+
+
+
+
+Share on Twitter
+L
+
+
+
+
+Share on LinkedIn
+I
+
+
+
+
+Subscribe to RSS
+R
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+December 14, 2019
+
+Topic: Technology
+
+Region: Americas
+
+Blog Brand: The Buzz
+
+Tags: F-35B-2StealthU.S. Air ForceDronesAI
+
+Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger
+The future is now.
+
+by Kris Osborn
+
+
+
+ 
+
+
+Key point: ​Faster, more capable processors will enable the aircraft’s avionics, radar, sensors and communications technologies to better identify and attack enemy targets.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+
+(Washington, D.C.) Fighter jets will control attack drones from the cockpit, bombers will avert air defenses and real-time intelligence data will be available to attacking forces more quickly -- all due to new iterations of fast-evolving Artificial Intelligence technologies. 
+
+Faster computer processors, AI-infused algorithms able to merge or “fuse” sensor information and automated maintenance and checklists are informing emerging pilot tactics aimed at anticipating future threat environments. Various applications of AI now perform a wide range of functions not purely restricted to conventional notions of IT or cyberspace; computer algorithms are increasingly able to almost instantaneously access vast pools of data, compare and organize information and perform automated procedural and analytical functions for human decision-makers. When high-volume, redundant tasks are performed through computer automation, humans are freed up to expend energy pursuing a wider range of interpretive or conceptual work.
+“The bottom line is the next big thing that is going to enable the US to maintain its qualitative edge is the seamless and ubiquitous sharing of information. Aircraft are going to be part of a sensor-shooter-effector-maneuver ISR complex,” said Ret. Lt. Gen. David Deptula, Dean of the The Mitchell Institute for Aerospace Studies and Warrior Contributor.
+
+
+
+
+
+For the F-35 and B-2, for instance, rapid database access, organizing information and performing high-volume procedural functions are all decided advantages of AI applications. Algorithms, for example, are increasingly able to scan, view and organize targeting, ISR and sensor input such as navigation information, radar warning information, images or video.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+The F-35, for instance, uses early iterations of artificial intelligence to help acquire, organize and present information to the pilot on a single screen without much human intervention. Often referred to as easing the cognitive burden upon pilots, the effort is geared toward systematically presenting information from a range of disparate sensors on a single screen. The F-35s widely-discussed sensor fusion, for example, is evidence of this phenomenon, as it involves consolidating targeting, navigation and sensor information for pilots.
+In the near future, F-35 pilots will be able to leverage AI to control a small group of drones flying nearby from the aircraft cockpit in the air, performing sensing, reconnaissance and targeting functions. At the moment, the flight path, sensor payload and weapons disposal of airborne drones such as Air Force Predators and Reapers are coordinated from ground control stations.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+
+For instance, real-time video feeds from the electro-optical/infrared sensors on board an Air Force Predator, Reaper or Global Hawk drone could go directly into an F-35 cockpit, without needing to go to a ground control station. This could speed up targeting and tactical input from drones on reconnaissance missions in the vicinity of where a fighter pilot might want to attack. In fast-moving combat circumstances involving both air-to-air and air-to-ground threats, increased speed could make a large difference.
+“F-35 are already relying on AI. As we go to the future the Air Force will start to incorporate loyal wingmen - - autonomously contributing aircraft. There is going to be a huge potential for AI, not only in terms of weapons but in terms of being able to operate as an extension of the manned aircraft,” Deptula said.
+An F-35 computer system, Autonomic Logistics Information System, involves early applications of artificial intelligence wherein computers make assessments, go through checklists, organize information and make some decisions by themselves - without needing human intervention.
+The computer, called ALIS, makes the aircraft's logistics tail more automated and is able to radio back information about engine health or other avionics. A single, secure information environment provides users with up-to-date information on any of these areas using web-enabled applications on a distributed network, a statement from ALIS- builder Lockheed Martin says. ALIS serves as the information infrastructure for the F-35, transmitting aircraft health and maintenance action information to the appropriate users on a globally-distributed network to technicians worldwide, the statement continues.​
+The prospect of using advanced algorithms and on-board computers to quickly perform a range of aircraft functions, while enabling human decision makers in a role of command and control, is further explored in a research paper from a London-based think tank called “Chatam House- Royal Institute of International Affairs.”
+The 2017 essay, titled “Artificial Intelligence and the Future of Warfare,” explains how fighter and bomber pilot “checklists” can be enabled by AI as “cognitive-aiding tools.”
+“…pilots rely significantly on procedures to help them manage the complexity of various tasks. For instance, when a fire-light illuminates or another subsystem indicates a problem, pilots are trained to first stabilize the aircraft (a skill) but then turn to the manual to determine the correct procedure (rule following). Such codified procedures are necessary since there are far too many solutions to possible problems to be remembered,” the Chatam House paper writes.
+Given this scenario, AI-enabled on-board computers could massively change this equation by performing some of these described key procedural functions autonomously. This not only lowers pilot workload, but frees up pilot “cognition” to focus on more pressing, mission critical tasks.
+The Air Force’s stealthy B-2 bomber is yet another example; the aircraft is receiving a new flight management control processor which increases the performance of the avionics and on-board computer systems by about 1,000-times, Air Force officials said.
+The upgrade is a quantum improvement over the legacy system, providing over a thousand times the processor throughput, memory, and network speed, according to senior Air Force leaders. The new processor will help automated navigation programs and expedite the B-2s “fly-by-wire” technology – all of which are designed to enable a pilot to expend energy upon the most pressing combat tasks with less intervention.
+​Faster, more capable processors will enable the aircraft’s avionics, radar, sensors and communications technologies to better identify and attack enemy targets. The sensor-to-shooter time will be greatly reduced, allowing the B-2 to launch weapons much more effectively, therefore reducing its exposure to enemy attacks.
+Although built in the 1980s, the B-2 is a digital airplane which uses what’s called a “glass cockpit” for flight controls and on-board systems.​
+The upgrade involves the re-hosting of the flight management control processors, the brains of the airplane, onto much more capable integrated processing units. This results in the laying-in of some new fiber optic cable as opposed to the mix bus cable being used right now – because the B-2’s computers from the 80s are getting maxed out and overloaded with data, Air Force officials told Warrior.
+Additional computer-based B-2 upgrades include the now-in-development Defensive Management System, an emerging sensor system engineered to identify the location of enemy air defenses. This system, called DMS, uses computer empowered sensor technology to inform B-2 crews about where air defenses are. This not only increases mission efficiency and safety but also helps ensure that B-2 stealth bomber missions remain effective and relevant for years to come. This is yet another instance wherein computer automation can increase air-attack efficiency by using algorithms to get pilots critical, real-time information.
+This article by Kris Osborn originally appeared in DefenseMaven in 2019. This article is being republished due to reader interest.
+Kris Osborn is a Senior Fellow at The Lexington Institute. Osborn previously served at the Pentagon as a Highly Qualified Expert with the Office of the Assistant Secretary of the Army - Acquisition, Logistics & Technology. Osborn has also worked as an anchor and on-air military specialist at national TV networks. He has a Masters in Comparative Literature from Columbia University. This article first appeared last June.
+Image: Flickr.
+ 
+
+
+
+
+Recommended for you
+
+Recommended by
+
+ 
+
+
+
+
+
+
+
+
+
+",https://schema.org,,,,,,,,,,,,,"[{'@type': 'NewsArticle', 'headline': ""Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger"", 'description': 'The future is now.', 'author': {'@type': 'Person', 'name': 'Kris Osborn', 'url': ''}, 'datePublished': 'December 14, 2019 - 19:30', 'dateModified': 'December 14, 2019 - 19:30', 'image': {'@type': 'ImageObject', 'url': 'https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/9824501985_079e2b4828_o%20%281%29_0.jpg?itok=ZOqWN0dR', 'width': '1280', 'height': '1024'}, 'mainEntityOfPage': 'https://nationalinterest.org/blog/buzz/artificial-intelligence-going-make-americas-f-35-and-b-2-even-stronger-104967', 'about': ['Technology', 'F-35', 'B-2', 'Stealth', 'U.S. Air Force', 'Drones', 'AI'], 'publisher': {'@type': 'Organization', '@id': 'https://nationalinterest.org', 'name': 'The National Interest', 'url': 'https://nationalinterest.org', 'logo': {'@type': 'ImageObject', 'url': '/sites/default/files/national-interest.png'}}}, {'@type': 'ImageObject', 'url': 'https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/9824501985_079e2b4828_o%20%281%29_0.jpg?itok=ZOqWN0dR', 'width': '1280', 'height': '1024'}, {'@type': 'Organization', '@id': 'https://nationalinterest.org', 'name': 'The National Interest'}]",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L2Jpei8yMDI0LzA2LzYwMl8yODAzMzkuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTI4MDMzOQ?oc=5,"Korea's AI workforce lags behind China, Japan - 코리아타임스",2019-12-15,코리아타임스,https://www.koreatimes.co.kr,"Korea is lagging far behind China and Japan in competitiveness of the artificial intelligence (AI) workforce, as weak local research infrastructure is causing an outflow of AI experts here, a Seoul-based research institute said Sunday. According to a survey on 30 AI experts here, Korea's AI manpower competitiveness index came in at 5.2 on a 10-point scale. By placing the index of the United States at 10, China scored 8.1 points in the figure. Japan also edged out Korea with six points, according to the survey by Korea Economic Research Institute. ",N/A,"Korea is lagging far behind China and Japan in competitiveness of the artificial intelligence (AI) workforce, as weak local research infrastructure is causing an outflow of AI experts here, a Seoul-based research institute said Sunday. According to a survey on 30 AI experts here, Korea's AI manpower competitiveness index came in at 5.2 on a 10-point scale. By placing the index of the United States at 10, China scored 8.1 points in the figure. Japan also edged out Korea with six points, according to the survey by Korea Economic Research Institute. ","Korea is lagging far behind China and Japan in competitiveness of the artificial intelligence (AI) workforce, as weak local research infrastructure is causing an outflow of AI experts here, a Seoul-based research institute said Sunday. According to a survey on 30 AI experts here, Korea's AI manpower competitiveness index came in at 5.2 on a 10-point scale. By placing the index of the United States at 10, China scored 8.1 points in the figure. Japan also edged out Korea with six points, according to the survey by Korea Economic Research Institute. ",Finance,N/A,1Nearly 1 mil. businesses closed in 2023 due to weak domestic demand ,https://schema.org,NewsMediaOrganization,https://www.koreatimes.co.kr/,['https://img.koreatimes.co.kr/upload/newsV2/images/201912/45cb97b4c3f04b7cad5e1f5e14f42145.jpg'],"{'@type': 'Person', 'name': '이민형', 'url': 'https://www.koreatimes.co.kr/www2/common/morelist.asp?categorycode=704&id=mhlee'}","{'@id': 'https://www.koreatimes.co.kr/#publisher', 'name': 'The koreatimes Times'}","Korea's AI workforce lags behind China, Japan ",2019-12-15T16:52:00+09:00,2019-12-15T17:03:00+09:00,,The Korea Times,True,,,,,https://www.koreatimes.co.kr/www/biz/2024/07/488_280339.html,,,,,,https://www.koreatimes.co.kr/#publisher,en,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'true'}","{'@id': 'https://www.koreatimes.co.kr/#publisher', 'name': 'The Korea Times'}",2024.0,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.koreatimes.co.kr/www2/img/KT_logo.svg', 'height': 30, 'width': 300, 'contentUrl': 'https://www.koreatimes.co.kr/www2/img/KT_logo.svg', 'creditText': 'The Korea Times'}",https://www.koreatimes.co.kr/www2/common/CodeofEthics.asp,1950.11.01,"['https://www.facebook.com/thekoreatimes/?locale=ko_KR', 'https://twitter.com/koreatimescokr', 'https://www.instagram.com/Thekoreatimes_official/', 'https://www.youtube.com/hashtag/%EC%BD%94%EB%A6%AC%EC%95%84%ED%83%80%EC%9E%84%EC%A6%88', 'https://kr.linkedin.com/company/thekoreatimes', 'https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%ED%83%80%EC%9E%84%EC%8A%A4']",
+https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yb2JvdGljcy1hbW9uZ3N0LXRvcC1za2lsbHNldHMtbXVjaC1kZW1hbmQtc2luZ2Fwb3Jl0gGPAWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FtcC9zdG9yeS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yb2JvdGljcy1hbW9uZ3N0LXRvcC1za2lsbHNldHMtbXVjaC1kZW1hbmQtc2luZ2Fwb3Jl?oc=5,"Artificial Intelligence, Robotics Amongst Top Skillsets in Demand in Singapore - Analytics Insight",2019-12-12,Analytics Insight,https://www.analyticsinsight.net,,"Singapore,Skillsets,Artificial Intelligence,Robotics,jobs",Singapore today is on the way to becoming a deep tech hub in Asia and the country's smart nation drive is powering more jobs in the tech sector. According to re,Singapore today is on the way to becoming a deep tech hub in Asia and the country's smart nation drive is powering more jobs in the tech sector. According to re,N/A,N/A,"Ready for iOS 18? Here's How to Install the Public Beta
+",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-robotics-amongst-top-skillsets-much-demand-singapore,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2019/12/Singapore-AI-1024x597.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Vivek Kumar', 'name': 'Vivek Kumar', 'url': 'https://www.analyticsinsight.net/author/vivek-kumar'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.linkedin.com/company/analytics-insight/', 'https://www.facebook.com/analyticsinsight.net', 'https://twitter.com/analyticsinme', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/'], 'id': 'https://www.analyticsinsight.net'}","Artificial Intelligence, Robotics Amongst Top Skillsets in Demand in Singapore",2019-12-12T01:20:42Z,2019-12-12T01:20:42Z,Artificial Intelligence,"Artificial Intelligence, Robotics Amongst Top Skillsets in Demand in Singapore",,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Artificial Intelligence, Robotics Amongst Top Skillsets in Demand in Singapore', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-robotics-amongst-top-skillsets-much-demand-singapore'}]",,,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-robotics-amongst-top-skillsets-much-demand-singapore'}","Singapore today is on the way to becoming a deep tech hub in Asia and the country's smart nation drive is powering more jobs in the tech sector. According to recent data from LinkedIn, Artificial Intelligence, Robotics, and Data Analytics amongst the top skillsets being favorited by employers in the country. Moreover, soft skills like customer service and partnership management also are much in demand..Earlier this week, LinkedIn, a business and employment-oriented service network, issued its list of top 15 emerging jobs in Singapore, wherein AI specialists rank at the top. The list further includes robotics engineers, full stack engineers, backend developers and data scientists who also led the pack after AI specialists. On the other hand, cybersecurity specialists and e-commerce specialists also made the list, with soft skills such as customer success specialists and creative copywriters..Considering reports, Singapore shares over 2 million LinkedIn profiles on the network. To create the top 15 emerging jobs, the professional service network assessed data of members with a public profile and who held a full-time position in Singapore over the past five years. Afterward, it scaled out the share of hiring and the average growth rate for each profession between 2015 and 2019 to find out roles that presented the largest growth..Vice President of LinkedIn's talent and learning solutions for Asia-Pacific, Feon Ang said &quot;Singapore's continued commitment to becoming a digital nation has led to continued demand for some of the fastest-growing jobs in our workforce. This also underscores the rise of data experts with a strong focus on technology.&quot;.In the country, the e-commerce sector had seen momentous growth, amplified demand for roles that knotted the realms of marketing and digital technology, LinkedIn noted. The e-commerce specialists were tasked to develop a digital and mobile ecosystem where customers could be learned and grown, compelling online sales for their organisation..However, the biggest skills gap is ultimately soft skills, according to Ang. &quot;Digitisation and automation have opened doors for more jobs that require creativity and interpersonal skills to help make sense of data and technology,&quot; she said..LinkedIn also revealed that TensorFlow, machine learning, Python and computer vision as skillsets professionals would need. It listed Python for Data Science Essential Training, Machine Learning and AI Foundations, and Learning Hadoop as some of the top learning courses on its platform. It also noted the roles in e-commerce would have to own skillsets in digital marketing, social media marketing and business development..To drive capabilities in the local sector, the Singapore government has already established a programme, called AI Singapore. The country, last month, launched a national AI strategy which aimed at tapping the technology to develop economic value, improve citizen lives, and arm its workforce with the essential skillsets. With this launch, Singapore's key goal is to pave the way for the city-state to be a leader in developing and deploying scalable, impactful AI solutions in key verticals by 2030..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2019/12/Singapore-AI-1024x597.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-robotics-amongst-top-skillsets-much-demand-singapore', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2019/12/Singapore-AI-1024x597.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,,,,,,,,,2019-12-12T01:20:42Z
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdHJpYnVuZS5jb20ucGsvc3RvcnkvMjExNjkyMy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1wdXRzLWZpbmFsLW5vdGVzLWJlZXRob3ZlbnMtdGVudGgtc3ltcGhvbnnSAW1odHRwczovL3RyaWJ1bmUuY29tLnBrL3N0b3J5LzIxMTY5MjMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcHV0cy1maW5hbC1ub3Rlcy1iZWV0aG92ZW5zLXRlbnRoLXN5bXBob255P2FtcD0x?oc=5,Artificial intelligence puts final notes on Beethoven's Tenth Symphony - The Express Tribune,2019-12-13,The Express Tribune,https://tribune.com.pk,Machine learning software has been fed all of Beethoven s work ,"Tech, Artificial Intelligence, Music, Latest, Beethoven",Machine-learning software has been fed all of Beethoven's work,Machine-learning software has been fed all of Beethoven's work,Technology,N/A,N/A,https://schema.org,NewsArticle,,"{'@type': 'ImageObject', 'url': 'https://tribune-reloaded.s3.amazonaws.com/media/images/2116923-image-1576218650/2116923-image-1576218650.jpg', 'height': '640', 'width': '480'}","{'@type': 'Person', 'name': 'afp', 'url': 'https://tribune.com.pk/author/56/afp'}","{'@type': 'Organization', 'name': 'The Express Tribune', 'logo': {'@type': 'ImageObject', 'url': 'https://i.tribune.com.pk/media/images/logos/tribune-logo.webp', 'height': '62', 'width': '250'}}",Artificial intelligence puts final notes on Beethoven s Tenth Symphony,2019-12-13T06:35:43+05:00,2019-12-13T06:35:43+05:00,,,,,,,,"{'@type': 'WebPage', '@id': 'https://tribune.com.pk/story/2116923/artificial-intelligence-puts-final-notes-beethovens-tenth-symphony'}",,,,,,,,,,,,,,,

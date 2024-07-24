@@ -1,0 +1,1228 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,articleBody,isBasedOn,articleSection,author,dateModified,datePublished,headline,image,thumbnailUrl,url,isPartOf,isAccessibleForFree,alternativeHeadline,mainEntityOfPage,publisher,itemListElement,article:section,article:summary,article text,@graph,name,logo,creator,dateCreated,hasPart,sameAs,@id,identifier
+https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LndpcmVkLmNvbS9zdG9yeS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1mdXR1cmUv0gEA?oc=5,"Getting AI to work in a fleshy, messy world is harder than you think - WIRED",2021-04-02,WIRED,https://www.wired.com,The machines are getting smarter but how they interact with humans needs to be figured out. Trust is going to be essential to the broad adoption,"['business', 'ai hub', 'artificial intelligence', 'security', '_wired-uk-migrated', 'textaboveleftsmall', 'web']",The machines are getting smarter but how they interact with humans needs to be figured out. Trust is going to be essential to the broad adoption,The machines are getting smarter but how they interact with humans needs to be figured out. Trust is going to be essential to the broad adoption,https://schema.org/,BreadcrumbList,"But Ocado’s most ambitious automation efforts involve packing robots. At the time of writing the company has five robotic picking arms powered by computer vision, and other machine-learning systems that can identify the products that need to be packed and use suction power to grab them. Further advances, undertaken in conjunction with two European academic-led projects, are in the pipeline.
+Picking and packing aren’t easy if you’re a robot. “From a human’s perspective, it is a fairly simple task to pick and pack, and it doesn’t require an awful lot of training,” says Alex Harvey, chief of advanced technology at Ocado Technology. “For a computer and for a robot, the dexterous manipulation involved is far beyond the state of the art today to be able to pick and pack the full range of items that we do.”
+Ocado’s Robotic Suction Pick (RSP) machine is a vacuum cup, powered by an air compressor, that sits at the end of an articulated arm. It uses computer vision and built-in sensors to select items gathered by a bot and place them into a shopping bag. Ocado.com sells a vast range of products, running into the tens of thousands. In terms of outward physical appearance, some are much the same: a tin of chopped tomatoes, for example, is not that different from a tin of lentils. But a tin of chopped tomatoes is very different indeed from a pack of yoghurts, which in turn are more sturdy than, say, a bunch of grapes. And, of course, even grapes aren’t all the same – they vary according to their variety and state of ripeness. Get the pressure of the vacuum cup wrong and the RSP will either drop or crush the item it is attempting to manipulate. Get the sequence wrong and there’s a danger that the tin of tomatoes will squash the grapes.
+At present, the company is expanding the number of items its robotic suction system can pick. “There’s no point having for 60,000 different items, 60,000 different control pieces of code,” Harvey says. “What we want at Ocado is generalised control strategies.” But challenges remain. “We need to fit a robot into the same square footage that the person sits in or operates in, and we need the robot system to achieve the same throughput.”
+Until a robot can pick and pack as many items in an hour as a human being – Harvey says this is around 600–700 items – it is unlikely to be widely adopted: the impact on productivity would damage service and profits. It also has to be affordable, which means, on the one hand, scaling the technology to the point where it becomes economically worthwhile, and, on the other hand, not over-speccing it (for example, by using a camera with an unnecessarily high resolution). “When we’re deploying stuff in the real world, we want it to be economical in the way that we’re deploying it,” Harvey says. “I don’t want to deploy a supercomputer next to every robot picker.”
+Whether or not such AI will ultimately replace humans is the billion-dollar question. Many now believe AI will work alongside humans. Obviously, AI offers the promise of greater efficiency, but so far, at least, this tends to hold good only where the environment is relatively controlled and predictable. Production lines and warehouses may well become fully automated. But where processes interact with the outside world – with all its randomness – it’s harder to envisage a wholly AI future. Delivery drivers, for instance, have to take into account such factors as the weather and the erratic behaviour of some pedestrians. It’s possible that there will be a future without them. It’s also possible, though, that AI will control lorries and delivery trucks on major highways where conditions are relatively predictable, and that human drivers will take over the driving as they reach the outskirts of the villages, towns and cities set as their destinations.
+Arguably, it’s the medical sphere where AI’s potential and its limitations have been most apparent – and where its possible future relationship with humans has been most clearly demonstrated. Take one of Google’s computer-vision systems, for example. It’s capable of spotting diabetic retinopathy, a complication of diabetes that can cause sight loss. In lab conditions, it can achieve an accuracy rate of 90 per cent and provide results in ten minutes.
+When put to a real-world test in Thailand, however, the deep-learning set-up often struggled. The 11 clinics that operated it used different technology. Only two had a dedicated eye-screen room that could be made dark enough for patients’ pupils to enlarge to the point where high-quality fundus photos could be taken. Most had to make use of nurses’ offices or general-purpose rooms.
+Emma Beede, the lead Google Health researcher evaluating the technology, described one room where, because dental checks and patient consultation were going on, it was essential to leave the light on. “That makes sense for them,” she says. “That makes sense when you’re under-resourced.”
+Poor internet connection caused problems, too – at one clinic it dropped out altogether for two hours. One way and another, during the first six months of the trial, 21 per cent (393) of the 1,838 images put through the system proved to be of an insufficiently high quality. Nurses and patients felt frustrated. “I’ll do two tries,” one nurse said. “The patients can’t take more than that.”
+And then there was the human factor. At one clinic half the patients earmarked for the study declined to be involved after finding out that although the results would be virtually instantaneous (previously some results had taken ten weeks to arrive), a positive diagnosis would see them being referred to a hospital an hour’s drive away. One member of medical staff told the Google researchers that patients “are not concerned with accuracy, but how the experience will be – will it waste my time if I have to go to the hospital?”
+There’s little doubt that the technology works: tests in the trial proved accurate when conditions were right. And when things were going well, Beede says, senior nurses felt they had more time to spend with patients and speak to them about their health and lifestyles. But the unpredictability of the everyday world and the needs and concerns of humans cannot be ignored.
+“I think the main takeaway from this research is that we need to be designing AI tools with people at the centre,” says Beede. “We need to be considering our success beyond the accuracy of the model. We need to understand how it’s actually going to work for real people in context.” She argues that as more AI is implemented in the real world, more pilot studies will be required to ensure that it works for everyone involved. “That implementation is of equal importance to the accuracy of the algorithm itself, and cannot always be controlled through careful planning,” the Google report concludes.
+The need for a proper and carefully considered partnership between humans and AI has been well demonstrated by Finale Doshi-Velez, a Harvard University computer science professor who leads its Data to Actionable Knowledge Lab. In one experiment, she and her colleagues recruited 220 psychiatrists to study case notes for hypothetical patients supposedly suffering from major depressive disorder. Each set of case notes described that particular patient’s condition and was then followed by either an independently verified correct AI-generated recommendation for treatment, an incorrect recommendation or no recommendation at all. Where an AI diagnosis was given, it was accompanied by an explanation for that diagnosis, which varied in length, quality and detail.
+What we found was that when the recommendation was correct, overall, everything improved,” Doshi-Velez says. Doctors and AI decisions proved to be a formidable team. “Humans may have already had an idea, the recommendation reinforced it or caused them to change their mind to that idea.” However, when the recommendation presented to the volunteer doctors was incorrect, it tended to lead to poorer forms of decision-making. The psychiatrists were influenced by incorrect recommendations from the AI, leading to lower levels of treatment selection accuracy. This is scarcely a new phenomenon.
+It’s long been known that if we put machines in charge of simple tasks, humans will, without continuous training, forget how to do them. Hence, at an everyday level, why digital contact books in phones have caused us not to remember phone numbers any more. Hence, at an extreme level, why on June 1, 2009 the pilots of Air France Flight 447, who had come to rely heavily on the plane’s autopilot features, could not cope when the systems failed, and so presided over a crash in which 228 people perished. With AI this “paradox of automation” is only going to become more pronounced.
+The way in which information is presented is also an important factor in determining the success or otherwise of the final outcome. “Certain forms of explanation are more effective at preventing a wrong decision,” Doshi-Velez says. It’s something the Google Health researchers have noticed, too. In their field trial in Thailand, says Google product manager Lily Peng, a system notification that an image was ungradable and that there should be a referral could very easily be misinterpreted. “For some people it means being referred to retinal specialists, which is at the higher end of care, versus refer for human review, which is what ended up being part of the protocol,” she explains.
+It’s not just about the machine-learning part, it’s about figuring out how to present the information as well,” Doshi-Velez argues, stressing the point that conclusions reached by an AI system need to make humans think. Such conclusions can’t be too easy to accept or they risk becoming relied upon without that crucial element of critical thinking. By the same token, they can’t be too hard to digest or humans will simply ignore or gloss over them. “Models need to be transparent in their limitations, highlighting situations in which the AI prediction may not be accurate or valid,” the Harvard study concludes.
+But when humans and AI are in sync, the potential benefits are huge. The more positive outcomes of the Harvard project, for example, suggest AI could eventually help with diagnosis for a mental health condition that is often missed and for which treatments vary wildly. They start to offer hope for the more than 264 million people around the world who battle with depression.
+Read more: Could The Simpsons replace its voice actors with AI deepfakes?
+What, then, does the future hold for AI and the world of work in the medium term? It’s likely to be a mixed bag of results. There have been and will continue to be disappointments and failures as use of the technology expands.
+In 2018 IBM had to ditch a multi-million-dollar project designed to help the treatment of cancer patients after it was found to be giving clinicians bad advice. During the coronavirus pandemic Walmart abandoned the use of robots to scan shelves and assess levels of stock when it realised humans were just as effective. An October 2020 study conducted by the MIT Sloan Management Review and the Boston Consulting Group, which surveyed more than 3,000 business leaders running companies with annual revenues above $100 million, discovered that only in ten per cent of cases did people feel that the investment they made in AI produced a “significant” return.
+AI will cause disruption, too. “Better-educated, better-paid workers will be the most affected by the new technology, with some exceptions,” research from the Brookings Institution found in November 2019. Those whose jobs currently involve a close focus on data will be particularly vulnerable: market researchers, sales managers, computer programmers and personal finance advisers among them. Those whose jobs involve a lot of interpersonal skills, such as those in education and social care, will probably be less affected: AI is very unlikely to replace human compassion and empathy. That said, in Japan care robots are already used to help the country’s ageing population. And in any case, it’s dangerous to make sweeping generalisations. The fact is that AI adoption will vary around the world according to local culture and social attitudes. Automation in finance in Singapore is likely to be very different from automation in finance in Pakistan.
+If Google’s work with computer vision or Harvard’s study with psychiatrists are anything to go by, though, it seems likely that the general trend will be for AI not to replace existing jobs but to transform them – and to create new ones, too. Already, thousands of roles exist that would have been unimaginable at the turn of the century. Scores of people now work on AI labelling, helping to compile datasets that train machine learning. Thousands of individuals have been taken on at companies such as Facebook and YouTube to moderate content that might be breaking their platforms’ rules, which has in many cases been initially flagged by an AI.
+Researchers at MIT Sloan and Boston argue that those companies poised to benefit most from AI are those who use it to augment and shape traditional processes rather than replace them. In other words, they create an environment in which humans learn from AI and AI learns from humans. The toolmaker Stanley Black & Decker is one example. It has started using computer vision to check the quality of the tape measures it manufactures. The system flags defects in real time, spotting problems early in the production cycle and so reducing wastage. But humans are still on hand to inspect and make judgement calls on the worst faults.
+Experts are key to creating trustworthy AI systems, says Ken Chatfield, the vice-president of research at Tractable, an AI firm that uses computer vision to help make decisions about insurance claims after car crashes – its AI is being used in the real world by some of the biggest insurance companies. The company initially trained its AI on thousands of images of vehicles that had been in accidents – involving damaged door panels, broken windscreens and more.
+But it saw the biggest improvements in the system’s performance when the damage highlighted in images had been labelled by specialists, with years of experience in assessing crash reports. And it is human insurance agents who take over once the AI has reviewed images and suggested what the next steps should be. “The data in itself is not enough, and also our knowledge as researchers is not enough – we really need to draw on the knowledge of experts in order to be able to train models,” Chatfield explains. “Involving the expert is also what we need to build up trust”.
+The London-based lawyer Richard Robinson, the CEO of Robin AI, has struck a not dissimilar balance in the legal field. He quit his job at a large law firm when he became convinced that many of the repetitive tasks that went into contract work could be automated. “A lot of what I would spend my time doing as a lawyer felt like it didn’t need much brain power,” he explains. His view was that machine learning could be utilised for reviewing some types of contract, such as those concerned with employment conditions. The tasks involved seemed simple enough.
+It didn’t, however, turn out that way. “The truth is it was much more difficult than we anticipated,” Robinson says. “There are so many random things that could be in that document, that you can’t be confident that the AI will always identify them.” What he therefore did was to create a system in which AI works with human lawyers rather than instead of them. The company’s system has been trained on historical contracts – both those in the public domain and documents provided by clients – and taught to look for particular elements. It’s therefore able to detect whether a non-compete clause has been sneakily added into a business contract, or whether an employment contract stipulates non-standard working hours.
+If it finds anomalies, the system alerts a human lawyer via email and they then check the document. The same thing happens if the system is unable to interpret a particular clause or contract. A recent assignment the company took on was checking contracts between big fast-food retailers and their suppliers during the early months of the coronavirus pandemic, to find out what each party’s obligations were in the event of a crisis.
+Robinson’s view is that lawyers find checking contracts tedious. At the same time, it’s dangerous to rely wholly on AI, because even if it’s getting things right 96 per cent of the time, that’s not good enough when companies’ and individuals’ lives and livelihoods are at stake. “We want to use AI to make the first attempt at everything in situations where it’s really easy for a person to check and see if it’s wrong or right,” he says.
+However organisations end up using AI, there’s no doubt that as it spreads it will become easier to access and operate. At present most AI deployments involve handcrafted technology. In the future, a company’s AI requirements may be handled by a third party, using software that seems as straightforward as that inside word processors or slideshow builders.
+A company that wants to use AI to analyse specific datasets or images will be able to use a template to create this. The algorithm it picks may not have been created by the third-party service they’re buying the template from, but from another company further up the chain of businesses developing and industrialising AI. The technology will become plug-and-play. By that point we may hardly notice its interaction with our daily lives.
+Once this happens the world really will change significantly. People’s workplaces will face automation at a greater scale than at any point so far this millennium. For many the entire nature of work may change. How we interact with businesses and government services will also be transformed.
+Societies that deploy AI will need to learn how people react to the technology and what their expectations of it are. At the same time, individuals will only follow the directions given by an AI if the system works efficiently, is understandable – and can be trusted.
+Matt Burgess is WIRED's deputy digital editor. He tweets from @mattburgess1
+
+Adapted from Artificial Intelligence: How Machine Learning Will Shape the Next Decade by Matt Burgess. Find out more and order your copy of the book.
+
+This article was originally published by WIRED UK",,business,"[{'@type': 'Person', 'name': 'Matt Burgess', 'sameAs': 'https://www.wired.com/author/matt-burgess/'}]",2021-04-02T01:00:00.000-04:00,2021-04-02T01:00:00.000-04:00,"Getting AI to work in our fleshy, messy is harder than you think","['https://media.wired.com/photos/65e83dbc420fa1184e789683/16:9/w_2992,h_1683,c_limit/wired-ai-work-mess.jpg', 'https://media.wired.com/photos/65e83dbc420fa1184e789683/4:3/w_2664,h_1998,c_limit/wired-ai-work-mess.jpg', 'https://media.wired.com/photos/65e83dbc420fa1184e789683/1:1/w_2000,h_2000,c_limit/wired-ai-work-mess.jpg']","https://media.wired.com/photos/65e83dbc420fa1184e789683/2:3/w_1332,h_1998,c_limit/wired-ai-work-mess.jpg",https://www.wired.com/story/artificial-intelligence-future/,"{'@type': 'CreativeWork', 'name': 'WIRED'}",True,The machines are getting smarter but how they interact with humans needs to be figured out. Trust is going to be essential to the broad adoption,"{'@type': 'WebPage', '@id': 'https://www.wired.com/story/artificial-intelligence-future/'}","{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'WIRED', 'logo': {'@type': 'ImageObject', 'url': 'https://www.wired.com/verso/static/wired/assets/newsletter-signup-hub.jpg', 'width': '500px', 'height': '100px'}, 'url': 'https://www.wired.com'}","[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.wired.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'artificial intelligence', 'item': 'https://www.wired.com/tag/artificial-intelligence/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Getting AI to work in a fleshy, messy world is harder than you think'}]",tags,N/A,"Matt BurgessBusinessApr 2, 2021 1:00 AMGetting AI to work in a fleshy, messy world is harder than you thinkThe machines are getting smarter but how they interact with humans needs to be figured out. Trust is going to be essential to the broad adoptionSave this storySaveSave this storySaveGetty ImagesAt the warehouses of British online grocery technology company Ocado, robots, guided by AI, whizz around on rails at speeds of up to four metres per second, picking a 50-item order in minutes. The journeys then taken by Ocado’s delivery trucks are optimised by a neural network that makes more than 14 million last-mile routing calculations per second, and adjusts delivery routes each time a customer places a new order or adds extra items to their shopping lists.But Ocado’s most ambitious automation efforts involve packing robots. At the time of writing the company has five robotic picking arms powered by computer vision, and other machine-learning systems that can identify the products that need to be packed and use suction power to grab them. Further advances, undertaken in conjunction with two European academic-led projects, are in the pipeline.AdvertisementPicking and packing aren’t easy if you’re a robot. “From a human’s perspective, it is a fairly simple task to pick and pack, and it doesn’t require an awful lot of training,” says Alex Harvey, chief of advanced technology at Ocado Technology. “For a computer and for a robot, the dexterous manipulation involved is far beyond the state of the art today to be able to pick and pack the full range of items that we do.”Trending NowCES HQ 2021: Artificial Intelligence in American DefenseOcado’s Robotic Suction Pick (RSP) machine is a vacuum cup, powered by an air compressor, that sits at the end of an articulated arm. It uses computer vision and built-in sensors to select items gathered by a bot and place them into a shopping bag. Ocado.com sells a vast range of products, running into the tens of thousands. In terms of outward physical appearance, some are much the same: a tin of chopped tomatoes, for example, is not that different from a tin of lentils. But a tin of chopped tomatoes is very different indeed from a pack of yoghurts, which in turn are more sturdy than, say, a bunch of grapes. And, of course, even grapes aren’t all the same – they vary according to their variety and state of ripeness. Get the pressure of the vacuum cup wrong and the RSP will either drop or crush the item it is attempting to manipulate. Get the sequence wrong and there’s a danger that the tin of tomatoes will squash the grapes.At present, the company is expanding the number of items its robotic suction system can pick. “There’s no point having for 60,000 different items, 60,000 different control pieces of code,” Harvey says. “What we want at Ocado is generalised control strategies.” But challenges remain. “We need to fit a robot into the same square footage that the person sits in or operates in, and we need the robot system to achieve the same throughput.”Until a robot can pick and pack as many items in an hour as a human being – Harvey says this is around 600–700 items – it is unlikely to be widely adopted: the impact on productivity would damage service and profits. It also has to be affordable, which means, on the one hand, scaling the technology to the point where it becomes economically worthwhile, and, on the other hand, not over-speccing it (for example, by using a camera with an unnecessarily high resolution). “When we’re deploying stuff in the real world, we want it to be economical in the way that we’re deploying it,” Harvey says. “I don’t want to deploy a supercomputer next to every robot picker.”Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsThe Right Is Blaming Women and DEI for the Secret Service’s Failure in Trump ShootingBy David Gilbert, WIREDGearThe 29 Best Early Amazon Prime Day DealsBy Simon Hill, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDWhether or not such AI will ultimately replace humans is the billion-dollar question. Many now believe AI will work alongside humans. Obviously, AI offers the promise of greater efficiency, but so far, at least, this tends to hold good only where the environment is relatively controlled and predictable. Production lines and warehouses may well become fully automated. But where processes interact with the outside world – with all its randomness – it’s harder to envisage a wholly AI future. Delivery drivers, for instance, have to take into account such factors as the weather and the erratic behaviour of some pedestrians. It’s possible that there will be a future without them. It’s also possible, though, that AI will control lorries and delivery trucks on major highways where conditions are relatively predictable, and that human drivers will take over the driving as they reach the outskirts of the villages, towns and cities set as their destinations.Arguably, it’s the medical sphere where AI’s potential and its limitations have been most apparent – and where its possible future relationship with humans has been most clearly demonstrated. Take one of Google’s computer-vision systems, for example. It’s capable of spotting diabetic retinopathy, a complication of diabetes that can cause sight loss. In lab conditions, it can achieve an accuracy rate of 90 per cent and provide results in ten minutes.When put to a real-world test in Thailand, however, the deep-learning set-up often struggled. The 11 clinics that operated it used different technology. Only two had a dedicated eye-screen room that could be made dark enough for patients’ pupils to enlarge to the point where high-quality fundus photos could be taken. Most had to make use of nurses’ offices or general-purpose rooms.Emma Beede, the lead Google Health researcher evaluating the technology, described one room where, because dental checks and patient consultation were going on, it was essential to leave the light on. “That makes sense for them,” she says. “That makes sense when you’re under-resourced.”Poor internet connection caused problems, too – at one clinic it dropped out altogether for two hours. One way and another, during the first six months of the trial, 21 per cent (393) of the 1,838 images put through the system proved to be of an insufficiently high quality. Nurses and patients felt frustrated. “I’ll do two tries,” one nurse said. “The patients can’t take more than that.”And then there was the human factor. At one clinic half the patients earmarked for the study declined to be involved after finding out that although the results would be virtually instantaneous (previously some results had taken ten weeks to arrive), a positive diagnosis would see them being referred to a hospital an hour’s drive away. One member of medical staff told the Google researchers that patients “are not concerned with accuracy, but how the experience will be – will it waste my time if I have to go to the hospital?”There’s little doubt that the technology works: tests in the trial proved accurate when conditions were right. And when things were going well, Beede says, senior nurses felt they had more time to spend with patients and speak to them about their health and lifestyles. But the unpredictability of the everyday world and the needs and concerns of humans cannot be ignored.Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsThe Right Is Blaming Women and DEI for the Secret Service’s Failure in Trump ShootingBy David Gilbert, WIREDGearThe 29 Best Early Amazon Prime Day DealsBy Simon Hill, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIRED“I think the main takeaway from this research is that we need to be designing AI tools with people at the centre,” says Beede. “We need to be considering our success beyond the accuracy of the model. We need to understand how it’s actually going to work for real people in context.” She argues that as more AI is implemented in the real world, more pilot studies will be required to ensure that it works for everyone involved. “That implementation is of equal importance to the accuracy of the algorithm itself, and cannot always be controlled through careful planning,” the Google report concludes.The need for a proper and carefully considered partnership between humans and AI has been well demonstrated by Finale Doshi-Velez, a Harvard University computer science professor who leads its Data to Actionable Knowledge Lab. In one experiment, she and her colleagues recruited 220 psychiatrists to study case notes for hypothetical patients supposedly suffering from major depressive disorder. Each set of case notes described that particular patient’s condition and was then followed by either an independently verified correct AI-generated recommendation for treatment, an incorrect recommendation or no recommendation at all. Where an AI diagnosis was given, it was accompanied by an explanation for that diagnosis, which varied in length, quality and detail.What we found was that when the recommendation was correct, overall, everything improved,” Doshi-Velez says. Doctors and AI decisions proved to be a formidable team. “Humans may have already had an idea, the recommendation reinforced it or caused them to change their mind to that idea.” However, when the recommendation presented to the volunteer doctors was incorrect, it tended to lead to poorer forms of decision-making. The psychiatrists were influenced by incorrect recommendations from the AI, leading to lower levels of treatment selection accuracy. This is scarcely a new phenomenon.It’s long been known that if we put machines in charge of simple tasks, humans will, without continuous training, forget how to do them. Hence, at an everyday level, why digital contact books in phones have caused us not to remember phone numbers any more. Hence, at an extreme level, why on June 1, 2009 the pilots of Air France Flight 447, who had come to rely heavily on the plane’s autopilot features, could not cope when the systems failed, and so presided over a crash in which 228 people perished. With AI this “paradox of automation” is only going to become more pronounced.The way in which information is presented is also an important factor in determining the success or otherwise of the final outcome. “Certain forms of explanation are more effective at preventing a wrong decision,” Doshi-Velez says. It’s something the Google Health researchers have noticed, too. In their field trial in Thailand, says Google product manager Lily Peng, a system notification that an image was ungradable and that there should be a referral could very easily be misinterpreted. “For some people it means being referred to retinal specialists, which is at the higher end of care, versus refer for human review, which is what ended up being part of the protocol,” she explains.Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsThe Right Is Blaming Women and DEI for the Secret Service’s Failure in Trump ShootingBy David Gilbert, WIREDGearThe 29 Best Early Amazon Prime Day DealsBy Simon Hill, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDIt’s not just about the machine-learning part, it’s about figuring out how to present the information as well,” Doshi-Velez argues, stressing the point that conclusions reached by an AI system need to make humans think. Such conclusions can’t be too easy to accept or they risk becoming relied upon without that crucial element of critical thinking. By the same token, they can’t be too hard to digest or humans will simply ignore or gloss over them. “Models need to be transparent in their limitations, highlighting situations in which the AI prediction may not be accurate or valid,” the Harvard study concludes.But when humans and AI are in sync, the potential benefits are huge. The more positive outcomes of the Harvard project, for example, suggest AI could eventually help with diagnosis for a mental health condition that is often missed and for which treatments vary wildly. They start to offer hope for the more than 264 million people around the world who battle with depression.Read more: Could The Simpsons replace its voice actors with AI deepfakes?What, then, does the future hold for AI and the world of work in the medium term? It’s likely to be a mixed bag of results. There have been and will continue to be disappointments and failures as use of the technology expands.In 2018 IBM had to ditch a multi-million-dollar project designed to help the treatment of cancer patients after it was found to be giving clinicians bad advice. During the coronavirus pandemic Walmart abandoned the use of robots to scan shelves and assess levels of stock when it realised humans were just as effective. An October 2020 study conducted by the MIT Sloan Management Review and the Boston Consulting Group, which surveyed more than 3,000 business leaders running companies with annual revenues above $100 million, discovered that only in ten per cent of cases did people feel that the investment they made in AI produced a “significant” return.AI will cause disruption, too. “Better-educated, better-paid workers will be the most affected by the new technology, with some exceptions,” research from the Brookings Institution found in November 2019. Those whose jobs currently involve a close focus on data will be particularly vulnerable: market researchers, sales managers, computer programmers and personal finance advisers among them. Those whose jobs involve a lot of interpersonal skills, such as those in education and social care, will probably be less affected: AI is very unlikely to replace human compassion and empathy. That said, in Japan care robots are already used to help the country’s ageing population. And in any case, it’s dangerous to make sweeping generalisations. The fact is that AI adoption will vary around the world according to local culture and social attitudes. Automation in finance in Singapore is likely to be very different from automation in finance in Pakistan.If Google’s work with computer vision or Harvard’s study with psychiatrists are anything to go by, though, it seems likely that the general trend will be for AI not to replace existing jobs but to transform them – and to create new ones, too. Already, thousands of roles exist that would have been unimaginable at the turn of the century. Scores of people now work on AI labelling, helping to compile datasets that train machine learning. Thousands of individuals have been taken on at companies such as Facebook and YouTube to moderate content that might be breaking their platforms’ rules, which has in many cases been initially flagged by an AI.Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsThe Right Is Blaming Women and DEI for the Secret Service’s Failure in Trump ShootingBy David Gilbert, WIREDGearThe 29 Best Early Amazon Prime Day DealsBy Simon Hill, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDResearchers at MIT Sloan and Boston argue that those companies poised to benefit most from AI are those who use it to augment and shape traditional processes rather than replace them. In other words, they create an environment in which humans learn from AI and AI learns from humans. The toolmaker Stanley Black & Decker is one example. It has started using computer vision to check the quality of the tape measures it manufactures. The system flags defects in real time, spotting problems early in the production cycle and so reducing wastage. But humans are still on hand to inspect and make judgement calls on the worst faults.Experts are key to creating trustworthy AI systems, says Ken Chatfield, the vice-president of research at Tractable, an AI firm that uses computer vision to help make decisions about insurance claims after car crashes – its AI is being used in the real world by some of the biggest insurance companies. The company initially trained its AI on thousands of images of vehicles that had been in accidents – involving damaged door panels, broken windscreens and more.But it saw the biggest improvements in the system’s performance when the damage highlighted in images had been labelled by specialists, with years of experience in assessing crash reports. And it is human insurance agents who take over once the AI has reviewed images and suggested what the next steps should be. “The data in itself is not enough, and also our knowledge as researchers is not enough – we really need to draw on the knowledge of experts in order to be able to train models,” Chatfield explains. “Involving the expert is also what we need to build up trust”.The London-based lawyer Richard Robinson, the CEO of Robin AI, has struck a not dissimilar balance in the legal field. He quit his job at a large law firm when he became convinced that many of the repetitive tasks that went into contract work could be automated. “A lot of what I would spend my time doing as a lawyer felt like it didn’t need much brain power,” he explains. His view was that machine learning could be utilised for reviewing some types of contract, such as those concerned with employment conditions. The tasks involved seemed simple enough.It didn’t, however, turn out that way. “The truth is it was much more difficult than we anticipated,” Robinson says. “There are so many random things that could be in that document, that you can’t be confident that the AI will always identify them.” What he therefore did was to create a system in which AI works with human lawyers rather than instead of them. The company’s system has been trained on historical contracts – both those in the public domain and documents provided by clients – and taught to look for particular elements. It’s therefore able to detect whether a non-compete clause has been sneakily added into a business contract, or whether an employment contract stipulates non-standard working hours.Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsThe Right Is Blaming Women and DEI for the Secret Service’s Failure in Trump ShootingBy David Gilbert, WIREDGearThe 29 Best Early Amazon Prime Day DealsBy Simon Hill, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDIf it finds anomalies, the system alerts a human lawyer via email and they then check the document. The same thing happens if the system is unable to interpret a particular clause or contract. A recent assignment the company took on was checking contracts between big fast-food retailers and their suppliers during the early months of the coronavirus pandemic, to find out what each party’s obligations were in the event of a crisis.Robinson’s view is that lawyers find checking contracts tedious. At the same time, it’s dangerous to rely wholly on AI, because even if it’s getting things right 96 per cent of the time, that’s not good enough when companies’ and individuals’ lives and livelihoods are at stake. “We want to use AI to make the first attempt at everything in situations where it’s really easy for a person to check and see if it’s wrong or right,” he says.However organisations end up using AI, there’s no doubt that as it spreads it will become easier to access and operate. At present most AI deployments involve handcrafted technology. In the future, a company’s AI requirements may be handled by a third party, using software that seems as straightforward as that inside word processors or slideshow builders.A company that wants to use AI to analyse specific datasets or images will be able to use a template to create this. The algorithm it picks may not have been created by the third-party service they’re buying the template from, but from another company further up the chain of businesses developing and industrialising AI. The technology will become plug-and-play. By that point we may hardly notice its interaction with our daily lives.Once this happens the world really will change significantly. People’s workplaces will face automation at a greater scale than at any point so far this millennium. For many the entire nature of work may change. How we interact with businesses and government services will also be transformed.Societies that deploy AI will need to learn how people react to the technology and what their expectations of it are. At the same time, individuals will only follow the directions given by an AI if the system works efficiently, is understandable – and can be trusted.Matt Burgess is WIRED's deputy digital editor. He tweets from @mattburgess1Adapted from Artificial Intelligence: How Machine Learning Will Shape the Next Decade by Matt Burgess. Find out more and order your copy of the book.This article was originally published by WIRED UKEnter your email to get the Wired newsletterclose dialogRecommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyPlease enter abovesign upUsed consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.Recommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyYou're signed up!Used consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.close dialog",,,,,,,,,
+https://news.google.com/rss/articles/CBMihAFodHRwczovL2hyZGFpbHlhZHZpc29yLmJsci5jb20vMjAyMS8wNC8wMS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1pbi10aGUtaGlyaW5nLWV4cGVyaWVuY2Utc3RhY2stY2FuLWNyZWF0ZS1lZmZpY2llbmN5LXdpdGhvdXQtYmlhcy_SAQA?oc=5,Artificial Intelligence in the Hiring Experience Stack Can Create Efficiency Without Bias - HR Daily Advisor,2021-04-01,HR Daily Advisor,https://hrdailyadvisor.blr.com,N/A,N/A,"The past year has seen major disruption in nearly every aspect of our work lives, and that disruption was perhaps felt the most in HR departments. With complicated COVID-related reopening measures, furloughs and layoffs, facilitating communication, reevaluations of benefits, and the current rehiring process, HR professionals have needed to alter their strategies and adopt a […]",N/A,https://schema.org,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+Artificial Intelligence in the Hiring Experience Stack Can Create Efficiency Without Bias
+
+By Greg Moran, CEO, OutMatch
+Apr 1, 2021
+Recruiting, Technology
+
+Updated: Apr 1, 2021
+
+
+
+
+The past year has seen major disruption in nearly every aspect of our work lives, and that disruption was perhaps felt the most in HR departments. With complicated COVID-related reopening measures, furloughs and layoffs, facilitating communication, reevaluations of benefits, and the current rehiring process, HR professionals have needed to alter their strategies and adopt a more agile, digital-first approach in the process.
+
+
+
+
+Source: Golden Sikorka / shutterstock
+One emerging technology, artificial intelligence (AI) and machine learning, has been instrumental in helping to streamline processes for HR departments, particularly in the hiring process. Though this new addition to the HR toolkit isn’t without controversy, it has the ability to create a more equitable and scalable hiring and candidate evaluation process that benefits all parties, including the candidates themselves.
+
+
+
+It should be noted that AI is already integrated into certain aspects of the HR process, though it’s important to think about this AI as artificial intelligence 1.0. HR professionals can use chatbots and other basic machine learning structures to help prospective and new hires get answers to questions that require a basic back-and-forth communication. HR portals can incorporate questions for prospective candidates on benefits, employment policies, compensation, general questions about the position, and other “Level 1” support queries that can help save HR professionals’ time. This task automation is already a part of HR, helping to create an integrated approach to address all HR-related questions, both pre- and post-hire.
+
+	
+
+
+
+AI has gone beyond the realm of task automation, however, and is now being integrated into other more strategic facets of HR, namely the talent decision process. As companies begin restaffing with further reopening measures, AI can be a crucial component in streamlining the evaluation in the hiring process.
+
+
+
+The Current State of AI in Candidate Evaluation
+When we talk about AI and machine learning in candidate evaluation, it’s important to create a distinction between where we currently stand and where the industry is heading, as well as find commonalities between these two phases. Where we are now, AI is learned about and improved on based on historical behaviors. Where we’re headed will be more focused on the outcomes of a hire, which can truly unlock the potential of this technology to optimize workforces in the future.
+
+
+
+At the start, it’s important to understand what we mean when we talk about AI and machine learning on a base level. It’s not common knowledge, but CAPTCHA represents a prime example of AI-powered learning. Picture an image array of fire hydrants; through a repetition of responses—a feedback loop from actual human respondents—a program can begin to understand patterns of recognition. So, going forward, future humans interacting with the same CAPTCHA parameters will select the same photos of fire hydrants. This human feedback loop reinforces the program, which can be used to authenticate future respondents.
+
+
+
+Within the hiring process, AI can be used to track patterns in successful respondents; within recorded video interviews, hiring managers or recruiters can create baselines of responses they deem successful and use those data to optimize future ideal responses. Of course, this AI is only as good as the humans creating this feedback loop within the process. HR departments are an essential component to sorting out instances of bias and make the AI function as close to a human as possible.
+
+
+
+
+When executed successfully, this human-led, AI-driven approach to candidate evaluation works for both HR professionals and candidates. Instead of qualified candidates’ application materials sitting at the bottom of a stack of 1,000 other applicants (as they currently do), AI can give HR departments the ability to accommodate large-scale hiring efforts without glossing over or frustrating qualified applicants.
+
+
+
+Furthermore, when there are biases within AI—specifically with regard to race and gender—they can be excluded through analysis. The biases in human HR recruiters, however, will continue to exist; think of an HR professional favoring a candidate who went to the same college, for example. For the best results for this type of AI, it should rely on a diverse array of recruiters reviewing hundreds of candidate video responses, teaching the system and canceling out bias from the beginning, and then continually monitoring the program to ensure it remains unbiased.
+
+
+
+The way HR can currently deploy AI within the hiring experience stack is certainly a scalable step forward to ensuring all candidates are evaluated, particularly for high-volume jobs. However, this AI is based on information that determines a successful hire, not necessarily a successful employee. The next frontier is the potential of AI to predict an employee’s outcome instead of replicating recruiter behavior.
+
+
+
+Effective Ways to Set Up AI Within the Hiring Stack
+When AI is leveraged in the hiring process, current methodology is primarily deployed to determine which candidate would be the best fit within a company based on past hiring. Yet we know from experience that the wrong people are hired all the time; we also know that the cost of hiring the wrong person can be substantial—conventional wisdom says it can cost 150% of an employee’s salary.
+
+
+
+What if AI could be leveraged based on the parameters set by other employees who have demonstrated success in a position? Say after 3 months, for example, an employee has demonstrated aptitude for a position and has proven himself or herself to be a cultural and performance fit; AI can then be used to favor the traits that have been proven successful in that employee’s hiring.
+
+
+
+
+While again, the applications for this brand of AI may work better for large-scale hiring efforts for high-volume, similar jobs, in the future, it will be able to be applied across many more specialized positions across multiple companies. Instead of a single-source employer testing its current employees against prospective ones, a plurality of HR professionals can amass data on successful traits of positions across entire industries, creating an AI-driven employee evaluation process that works for everyone.
+
+
+
+The important thing to remember, however, is that AI needs constant auditing. Without ongoing oversight, it can fall victim to the same biases as humans or the unintended biases of machines. When deployed successfully, however, AI can streamline the candidate evaluation process at scale for employers while giving all candidates an equal opportunity.
+
+
+
+Greg Moran is the President and CEO of Outmatch, the industry’s first and only hiring experience stack. Outmatch has composed a layer of assessments, video interviewing, and reference-checking that transforms existing applicant tracking systems (ATSs) and humanizes the hiring process at scale. Moran has more than 20 years of human capital management, sales, and leadership experience and is the author of Building the Talent Edge: A Field Managers Guide to Recruiting the Best (Spring 2005) and Hire, Fire and The Walking Dead (June 2006, W Business Books).
+
+
+
+
+
+					Share This Article:				
+
+
+
+
+
+
+
+Print
+
+
+Tags: AI, candidates, hiring process, HR professionals
+
+
+","[{'@type': 'WebSite', '@id': 'https://hrdailyadvisor.blr.com/#website', 'url': 'https://hrdailyadvisor.blr.com/', 'name': 'HR Daily Advisor', 'description': 'Practical HR Tips, News &amp; Advice. Updated Daily.', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://hrdailyadvisor.blr.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/#primaryimage', 'url': 'https://hrdailyadvisor.blr.com/app/uploads/sites/3/2021/03/AIhiring-5.jpg', 'contentUrl': 'https://hrdailyadvisor.blr.com/app/uploads/sites/3/2021/03/AIhiring-5.jpg', 'width': 1000, 'height': 667, 'caption': 'Source: Golden Sikorka / shutterstock'}, {'@type': 'WebPage', '@id': 'https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/#webpage', 'url': 'https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/', 'name': 'Artificial Intelligence in the Hiring Experience Stack Can Create Efficiency Without Bias - HR Daily Advisor', 'isPartOf': {'@id': 'https://hrdailyadvisor.blr.com/#website'}, 'primaryImageOfPage': {'@id': 'https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/#primaryimage'}, 'datePublished': '2021-04-01T09:00:00+00:00', 'dateModified': '2021-03-30T16:47:33+00:00', 'author': {'@id': ''}, 'breadcrumb': {'@id': 'https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://hrdailyadvisor.blr.com/2021/04/01/artificial-intelligence-in-the-hiring-experience-stack-can-create-efficiency-without-bias/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://hrdailyadvisor.blr.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Archives', 'item': 'https://hrdailyadvisor.blr.com/archives/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Artificial Intelligence in the Hiring Experience Stack Can Create Efficiency Without Bias'}]}, {'@type': 'Person', '@id': '', 'url': 'https://hrdailyadvisor.blr.com/author/'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtZmVhdHVyZXMvbmlydmFuYS1rdXJ0LWNvYmFpbi1haS1zb25nLTExNDY0NDQv0gEA?oc=5,"Hear 'New' Nirvana Song Written, Performed by Artificial Intelligence - Rolling Stone",2021-04-02,Rolling Stone,https://www.rollingstone.com,"A computer program has written ""new"" Nirvana, Jimi Hendrix, Amy Winehouse and Doors songs using artificial intelligence.","['artificial intelligence', 'kurt cobain', 'nirvana']","A computer program has written ""new"" Nirvana, Jimi Hendrix, Amy Winehouse and Doors songs using artificial intelligence.","A computer program has written ""new"" Nirvana, Jimi Hendrix, Amy Winehouse and Doors songs using artificial intelligence.",http://schema.org,NewsArticle,"Computer-generated artificial tracks by Jimi Hendrix, Amy Winehouse and Jim Morrison highlight a new project that helps bring attention to mental illness",,Music Features,"{'@type': 'Person', 'name': 'Kory Grow', 'url': 'https://www.rollingstone.com/author/kory-grow/'}",2021-04-05T14:04:45+00:00,2021-04-02T15:40:33+00:00,"Hear 'New' Nirvana Song Written, Performed by Artificial Intelligence","{'@type': 'ImageObject', 'url': 'https://www.rollingstone.com/wp-content/uploads/2021/03/kurt-cobAIn-nirvAIna1.jpg'}",https://www.rollingstone.com/wp-content/uploads/2021/03/kurt-cobAIn-nirvAIna1.jpg?w=150&h=150&crop=1,https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/,,false,,"{'@type': 'WebPage', '@id': 'https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/'}","{'@type': 'Organization', 'name': 'Rolling Stone', 'url': 'https://www.rollingstone.com', 'logo': {'@type': 'ImageObject', 'url': 'https://www.rollingstone.com/wp-content/uploads/2022/08/cropped-Rolling-Stone-Favicon.png'}}",,N/A,N/A,"
+
+
+
+
+						Music		 
+	
+ 
+
+
+
+
+
+
+
+
+
+In Computero: Hear How AI Software Wrote a ‘New’ Nirvana Song
+Computer-generated artificial tracks by Jimi Hendrix, Amy Winehouse and Jim Morrison highlight a new project that helps bring attention to mental illness
+
+
+
+
+
+
+
+
+							By 
+
+	Kory Grow
+
+
+
+
+
+	
+		
+					Kory Grow		
+			
+
+
+
+Contact Kory Grow on X
+
+
+
+
+
+
+
+
+
+	Are You Ready for Will Ferrell to Join Swedish House Mafia Onstage?
+
+
+
+	Frank Zappa’s Strictly Commercial Breakthrough Album ‘Apostrophe (‘)’ Is Getting Even Bigger
+
+
+
+	Eminem Slays P. Diddy in Acrobatic Lyrics to New Diss Track ‘Fuel’
+
+
+
+
+
+	View all posts by Kory Grow
+
+
+
+
+
+
+
+	April 2, 2021	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computers have written and recorded a new song in the style of Nirvana.
+Photo illustration by Griffin Lotz for Rolling Stone. Photographs used in illustration by Frank Micelotta/Getty Images; Agencia el Universal/AP; Michel Linssen/Redferns/Getty Images
+
+
+
+
+
+
+
+
+
+Ever since Kurt Cobain‘s death in 1994, Nirvana fans have hypothesized about the music he would have made had he lived. But other than “You Know You’re Right,” the scabrous, throat-shredding meditation on confusion that Nirvana recorded a few months before his suicide, and a few comments he told confidants about potentially collaborating with R.E.M.’s Michael Stipe or going completely solo, he mainly left behind question marks.
+Now an organization has created a “new” Nirvana song using artificial-intelligence software to approximate the singer-guitarist’s songwriting. The guitar riffs vary from quiet, “Come as You Are”–style plucking to raging, Bleach fury à la “Scoff.” And lyrics like, “The sun shines on you but I don’t know how,” and a surprisingly anthemic chorus, “I don’t care/I feel as one, drowned in the sun,” bear evocative, Cobain-esque qualities.
+
+
+
+
+	
+		Trending
+	
+	
+
+
+
+
+
+
+	
+	
+		
+					Tenacious D's Kyle Gass Dropped by Agent After Controversial Trump Joke		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Jack Black Cancels Tenacious D Tour After Kyle Gass' Controversial Trump Comment		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Taylor Swift Announces the Next Single Off 'The Tortured Poets Department'		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Lisa Kudrow Says Even Sandra Bullock Has Accidentally Called Her Phoebe		
+	
+
+
+
+
+
+
+
+But other than the vocals — the work of Nirvana tribute band frontman Eric Hogan — the song’s creators say nearly everything on the song, from the turns of phrase to the reckless guitar performance, is the work of computers. Their intention is to draw attention to the tragedy of Cobain’s death by suicide and how living musicians can get help with depression.
+ 
+
+
+
+
+1/100:14Rolling Stone [DV - Discovery Video]
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingElizabeth Warren Calls J.D. Vance 'Donald Trump Doubled' on 'Colbert'after the adVisit Advertiser websiteGO TO PAGE
+
+
+
+
+The tune, titled “Drowned in the Sun,” is part of Lost Tapes of the 27 Club, a project featuring songs written and mostly performed by machines in the styles of other musicians who died at 27: Jimi Hendrix, Jim Morrison, and Amy Winehouse. Each track is the result of AI programs analyzing up to 30 songs by each artist and granularly studying the tracks’ vocal melodies, chord changes, guitar riffs and solos, drum patterns, and lyrics to guess what their “new” compositions would sound like. The project is the work of Over the Bridge, a Toronto organization that helps members of the music industry struggling with mental illness.
+
+“Drowned in the Sun” (In the style of Nirvana)
+
+“What if all these musicians that we love had mental health support?” says Sean O’Connor, who is on the board of directors for Over the Bridge and also works as creative director for the advertising agency Rethink. “Somehow in the music industry, [depression] is normalized and romanticized … Their music is seen as authentic suffering.”
+To create the songs, O’Connor and his staff enlisted Google’s AI program Magenta, which learns how to compose in the style of given artists by analyzing their works. Previously, Sony has used the software to make a “new” Beatles song, and the electropop group Yacht used it to write their 2019 album Chain Tripping.
+
+
+
+
+	
+		Editor’s picks
+	
+	
+
+
+
+
+
+
+	
+	
+		
+					Every Awful Thing Trump Has Promised to Do in a Second Term		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					The 250 Greatest Guitarists of All Time		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					The 500 Greatest Albums of All Time		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					The 50 Worst Decisions in Movie History		
+	
+
+
+
+
+
+
+
+For the Lost Tapes project, Magenta analyzed the artists’ songs as MIDI files, which works similarly to a player-piano scroll by translating pitch and rhythm into a digital code that can be fed through a synthesizer to recreate a song. After examining each artist’s note choices, rhythmic quirks, and preferences for harmony in the MIDI file, the computer creates new music that the staff could pore over to pick the best moments.
+“The more MIDI files you input, the better,” O’Connor says. “So we took 20 to 30 songs from each of our artists as MIDI files and broke them down to just the hook, solo, vocal melody or rhythm guitar and put those through one at a time. If you put whole songs through, [the program] starts to get really confused on what [it’s] supposed to sound like. But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just finding little moments that are interesting.”
+O’Connor and his team used a similar process for lyrics, using a generic AI program called an artificial neural network. They were able to input the artist’s lyrics and start off with a few words and the program would guess the cadence and tone of the poetry to complete it. “It was a lot of trial and error,” O’Connor says, adding that the team examined “pages and pages” of lyrics for turns of phrase that syllabically fit the vocal melodies Magenta produced.
+ 
+
+
+
+
+
+
+
+
+
+“Man, I Know” (In the style of Amy Winehouse) 
+
+Once the compositions were in place, an audio house arranged all the different parts to evoke the musician. “A lot of the instrumentation was MIDI with different effects added to it,” O’Connor says of the finished recordings. Then they started recruiting singers. “Everyone that we brought in, for the most part, were working tribute artists for these bands, so they could kind of do the inflections and make it sound as realistic as possible,” O’Connor says.
+Eric Hogan has been fronting Atlanta’s Nevermind: The Ultimate Tribute to Nirvana for the past six years. The band started out as a one-off lark for Halloween; an excuse for Hogan and his friends to perform Foo Fighters, Stone Temple Pilots, and Nirvana tribute sets. But when they saw the huge reaction their Nirvana set got, they went full grunge. When the Over the Bridge team asked him to sing on “Drowned in the Sun,” he thought the project sounded both unbelievable (in the most literal sense of the word) and cool. “After the conversation, I still didn’t really think it was a real thing,” he says. “And then they sent me files and money.”
+When he first heard the music, he was dumbfounded. “I was like, ‘I don’t know how to [sing] this,'” he remembers. “I had to have the guy who came up with the AI track mumble and hum [the tune]. I would feel weird trying to assume what [Cobain] would do. They had to give me a little bit of a roadmap, and then from there, it was fine.”
+
+
+
+
+	
+		Related Stories
+	
+	
+
+
+
+
+
+
+	
+	
+		
+					Stephen Wilson Jr. Drops a Slashing Cover of Nirvana's 'Something in the Way'		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Nirvana, Marc Jacobs Settle Copyright Suit Over T-Shirt That Allegedly Ripped Off Smiley Face Logo		
+	
+
+
+
+
+
+
+
+O’Connor and his staff put about a year into research and development for the songs and another six months to get recordings finished. As they worked, they sought out superfans of the artists to help police themselves for potential plagiarism. They worried that the Doors-esque tune, “The Roads Are Alive,” might sound a bit too much like that group’s “Peace Frog,” but ultimately decided it didn’t. “An audio engineer took ‘Peace Frog’ and played it for us,” O’Connor says. “He’s like, ‘This is what “Peace Frog” is doing; this is what this is doing.’ It’s different. OK, now we’re comfortable with it.”
+“The Roads Are Alive” (In the style of the Doors)
+
+Nirvana proved to be one of the harder artists for the machines to approximate. Whereas an artist like Hendrix often built songs like “Purple Haze” and “Fire” with easily definable riffs, Cobain frequently played chunky, punky chord progressions that confused the computers. “You tended to get a wall of sound,” O’Connor says of the Nirvana-inspired music Magenta produced. “There’s less of an identifiable common thread throughout all their songs to give you this big chunk of catalog that the machine could just learn from and create something new.”
+ 
+
+
+
+
+
+
+
+
+
+“[‘Drowned in the Sun’] is accurate enough to give you that [Nirvana] vibe, but not so accurate to where someone’s going to get a cease-and-desist letter,” Hogan claims. “If you look at the last quote-unquote Nirvana release, which was, ‘You Know You’re Right,’ this has the same type of vibe. Kurt would just sort of write whatever the hell he felt like writing. And if he liked it, then that was a Nirvana song. I can hear certain things in the arrangement of [‘Drowned in the Sun’] like, ‘OK, that’s kind of an In Utero vibe right here or a Nevermind vibe right here. … I really understood the AI of it.”
+Hogan says he especially appreciated the lyrics that the computer concocted. In his opinion, Cobain’s words were always “sort of a hodgepodge,” but he feels these lyrics are more direct without losing sight of Cobain’s typical messages. “This felt like a complete thought,” he says.
+“The song is saying, ‘I’m a weirdo, but I like it,'” he says. “That is total Kurt Cobain right there. The sentiment is exactly what he would have said. ‘The sun shines on you, but I don’t know how’ — that’s great. Essentially, what I get from the song is, ‘I’m F-ed up, and you’re F-ed up. The difference is that I’m OK with it and you’re not.'” (When Hogan heard the music, he offered to play the guitar himself, but the producers declined, opting for a machine.)
+So then is “Drowned in the Sun” some kind of Frankenstein creation, existing in defiance of God and the universe? “I don’t know if I’m the best guy to talk to about ethics,” Hogan says with a laugh. “I mean, I travel around the country pretending to be somebody.
+“You’re Gonna Kill Me” (In the style of Jimi Hendrix)
+
+ 
+“I think that you’re going to have a lot of people who are going to vilify this and are going to look at it like, ‘Oh, it’s the death of real music,'” he continues. “But I’m totally fine with it. Used as a tool, I think it’s pretty cool. I don’t know what’s going to happen legally in the future. Once you start going down the road of where it starts to really sound good, maybe then you start to have an issue with that.”
+ 
+
+
+
+
+
+
+
+
+
+Over the Bridge’s intention is to simply raise awareness about mental health resources; the organization runs a Facebook page that offers support, as well as Zoom sessions and workshops to educate artists and make them feel less alone. (They have no plans to sell the tracks.) “Sometimes just the acknowledgment of one other person saying, ‘I’m feeling the same way that you are’ is enough to take people at least feel that they’ve got some sort of support,” says Michael Scriven, a rep for Lemmon Entertainment whose CEO is on Over the Bridge’s board of directors.
+Scriven hopes the project also raises awareness about just how much work goes into AI music. “There’s an inordinate amount of human hands at the beginning, middle and end to create something like this,” he says. “A lot of people may think [AI] is going to replace musicians at some point, but at this point, the number of humans that are required just to get to a point where a song is listenable is actually quite significant.” Each song required work from O’Connor, a Magenta technician, a music producer, an audio engineer, and the vocalists. “We’re not going to push a button and replace these artists,” O’Connor says.
+“I hope [the Over the Bridge people] go deeper with AI,” Hogan says. “There’s so much more in this category that you can do.”
+If you are struggling with thoughts of self-harm, the National Suicide Prevention Lifeline is 1-800-273-8255. You can also reach the Crisis Text Line by texting TALK to 741741.
+ 
+This video file cannot be played.(Error Code: 102404)
+
+
+ 
+
+
+
+
+In this article:
+
+
+
+	Artificial intelligence,
+
+
+
+	Kurt Cobain,
+
+
+
+	Nirvana
+
+
+
+
+
+
+
+
+
+	Music
+
+
+
+	Music Features
+
+
+
+
+
+",,Rolling Stone,https://www.rollingstone.com/wp-content/themes/vip/pmc-rollingstone-2022/assets/build/svg/rs-logo-black-shadow.svg,['Kory Grow'],2021-04-02T15:40:33Z,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'false', 'cssSelector': '.pmc-paywall'}",,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbmV3cy5taXQuZWR1LzIwMjEvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG9vbC1jYW4taGVscC1kZXRlY3QtbWVsYW5vbWEtMDQwMtIBAA?oc=5,An artificial intelligence tool that can help detect melanoma - MIT News,2021-04-02,MIT News,https://news.mit.edu,"An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.","MIT Institute for Medical Engineering and Science (IMES), Harvard-MIT Health Sciences and Technology (HST), Abdul Latif Jameel Clinic for Machine Learning in Health, artificial intelligence, deep learning, deep convolutional neural networks (DCNNs), machine vision, melanoma, skin lesions, suspicious pigmented lesions (SPLs), Venture Builder in Artificial Intelligence and Healthcare, Luis R. Soenksen, Martha J. Gray, James J. Collins","An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",N/A,,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+Using deep convolutional neural networks, researchers devise a system that quickly analyzes wide-field images of patients’ skin in order to more efficiently detect cancer.
+
+
+
+
+Megan Lewis
+|
+Institute for Medical Engineering and Science
+
+
+ Publication Date:
+ April 2, 2021
+
+
+
+
+
+Press Inquiries
+
+  Press Contact:
+
+
+
+
+
+
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Caption:
+          Using wide-field images and deep learning, researchers developed an analysis system of suspicious pigmented skin lesions for more effective and efficient skin cancer detection.      
+          
+
+ Credits:
+          Image courtesy of the researchers.      
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous image
+Next image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Melanoma is a type of malignant tumor responsible for more than 70 percent of all skin cancer-related deaths worldwide. For years, physicians have relied on visual inspection to identify suspicious pigmented lesions (SPLs), which can be an indication of skin cancer. Such early-stage identification of SPLs in primary care settings can improve melanoma prognosis and significantly reduce treatment cost.
+The challenge is that quickly finding and prioritizing SPLs is difficult, due to the high volume of pigmented lesions that often need to be evaluated for potential biopsies. Now, researchers from MIT and elsewhere have devised a new artificial intelligence pipeline, using deep convolutional neural networks (DCNNs) and applying them to analyzing SPLs through the use of wide-field photography common in most smartphones and personal cameras.
+
+
+
+
+
+
+
+
+
+
+              
+
+            How it works: A wide-field image, acquired with a smartphone camera, shows large skin sections from a patient in a primary-care setting. An automated system detects, extracts, and analyzes all pigmented skin lesions observable in the wide-field image. A pre-trained deep convolutional neural network (DCNN) determines the suspiciousness of individual pigmented lesions and marks them (yellow = consider further inspection, red = requires further inspection or referral to dermatologist). Extracted features are used to further assess pigmented lesions and to display results in a heatmap format.        
+
+          
+
+            
+
+            Animation courtesy of the researchers.        
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DCNNs are neural networks that can be used to classify (or “name”) images to then cluster them (such as when performing a photo search). These machine learning algorithms belong to the subset of deep learning.
+Using cameras to take wide-field photographs of large areas of patients’ bodies, the program uses DCNNs to quickly and effectively identify and screen for early-stage melanoma, according to Luis R. Soenksen, a postdoc and a medical device expert currently acting as MIT’s first Venture Builder in Artificial Intelligence and Healthcare. Soenksen conducted the research with MIT researchers, including MIT Institute for Medical Engineering and Science (IMES) faculty members Martha J. Gray, W. Kieckhefer Professor of Health Sciences and Technology, professor of electrical engineering and computer science; and James J. Collins, Termeer Professor of Medical Engineering and Science and Biological Engineering.
+Soenksen, who is the first author of the recent paper, “Using Deep Learning for Dermatologist-level Detection of Suspicious Pigmented Skin Lesions from Wide-field Images,” published in Science Translational Medicine, explains that “Early detection of SPLs can save lives; however, the current capacity of medical systems to provide comprehensive skin screenings at scale are still lacking.”
+The paper describes the development of an SPL analysis system using DCNNs to more quickly and efficiently identify skin lesions that require more investigation, screenings that can be done during routine primary care visits, or even by the patients themselves. The system utilized DCNNs to optimize the identification and classification of SPLs in wide-field images.
+Using AI, the researchers trained the system using 20,388 wide-field images from 133 patients at the Hospital Gregorio Marañón in Madrid, as well as publicly available images. The images were taken with a variety of ordinary cameras that are readily available to consumers. Dermatologists working with the researchers visually classified the lesions in the images for comparison. They found that the system achieved more than 90.3 percent sensitivity in distinguishing SPLs from nonsuspicious lesions, skin, and complex backgrounds, by avoiding the need for cumbersome and time-consuming individual lesion imaging. Additionally, the paper presents a new method to extract intra-patient lesion saliency (ugly duckling criteria, or the comparison of the lesions on the skin of one individual that stand out from the rest) on the basis of DCNN features from detected lesions.
+“Our research suggests that systems leveraging computer vision and deep neural networks, quantifying such common signs, can achieve comparable accuracy to expert dermatologists,” Soenksen explains. “We hope our research revitalizes the desire to deliver more efficient dermatological screenings in primary care settings to drive adequate referrals.”
+Doing so would allow for more rapid and accurate assessments of SPLS and could lead to earlier treatment of melanoma, according to the researchers.
+Gray, who is senior author of the paper, explains how this important project developed: ""This work originated as a new project developed by fellows (five of the co-authors) in the MIT Catalyst program, a program designed to nucleate projects that solve pressing clinical needs. This work exemplifies the vision of HST/IMES devotee (in which tradition Catalyst was founded) of leveraging science to advance human health.” This work was supported by Abdul Latif Jameel Clinic for Machine Learning in Health and by the Consejería de Educación, Juventud y Deportes de la Comunidad de Madrid through the Madrid-MIT M+Visión Consortium.
+
+
+
+
+
+
+
+
+Share this news article on:
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+Paper
+
+
+
+
+
+
+Paper: ""Using Deep Learning for Dermatologist-level Detection of Suspicious Pigmented Skin Lesions from Wide-field Images""
+
+
+
+
+
+
+Related Links
+
+Institute for Medical Engineering and ScienceAbdul Latif Jameel Clinic for Machine Learning in HealthSchool of Engineering
+
+
+
+
+
+
+Related Topics
+
+School of Engineering
+Biological engineering
+Electrical Engineering & Computer Science (eecs)
+Institute for Medical Engineering and Science (IMES)
+Harvard-MIT Health Sciences and Technology
+Artificial intelligence
+Machine learning
+Health care
+Medicine
+Cancer
+Computer vision
+Jameel Clinic
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+New optical imaging system could be deployed to find tiny tumors
+
+
+
+
+
+
+
+
+
+
+
+
+
+New drug combination could be more effective against melanoma
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taking on melanoma, one cell at a time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnByaW5jZXRvbi5lZHUvbmV3cy8yMDIxLzA0LzAxL2hlbGxvLXdvcmxkLXByaW5jZXRvbi1hbmQtd2h5eS1sYXVuY2gtbmV3LXBvZGNhc3QtYWktbmF0aW9u0gEA?oc=5,"Hello, World. Princeton and WHYY launch new podcast “A.I. Nation” - Princeton University",2021-04-01,Princeton University,https://www.princeton.edu,"In “A.I. Nation,” a new podcast premiering on April 1, Princeton University and Philadelphia public radio station WHYY have partnered to explore the omnipresence of artificial intelligence (A.I.) and its implications for our everyday lives.",N/A,"In “A.I. Nation,” a new podcast premiering on April 1, Princeton University and Philadelphia public radio station WHYY have partnered to explore the omnipresence of artificial intelligence (A.I.) and its implications for our everyday lives.","In “A.I. Nation,” a new podcast premiering on April 1, Princeton University and Philadelphia public radio station WHYY have partnered to explore the omnipresence of artificial intelligence (A.I.) and its implications for our everyday lives.",,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+Hello, World. Princeton and WHYY launch new podcast “A.I. Nation”
+
+
+
+
+
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Email
+Print
+
+
+By 
+
+Julie Clack, Office of Communications
+
+    on 
+            April 1, 2021, 9:01 a.m.
+       
+
+Princeton’s Ed Felten and WHYY’s Malcolm Burnley.Photos by Asa Mathat and Daniel Burke
+
+
+
+Decisions once made by people are increasingly being made by machines, often without transparency or accountability. In “A.I. Nation,”(link is external) a new podcast premiering on April 1, Princeton University and Philadelphia public radio station WHYY have partnered to explore the omnipresence of artificial intelligence (A.I.) and its implications for our everyday lives.
+
+“A.I. Nation” is co-hosted by Ed Felten(link is external), the Robert E. Kahn Professor of Computer Science and Public Affairs and founding director of Princeton’s Center for Information Technology Policy(link is external), and WHYY reporter Malcolm Burnley. Over the course of five episodes, the pair will investigate how artificial intelligence is affecting our lives right now, and the impact that technologies like machine learning, automation and predictive analytics will have on our future.
+The podcast will also consider how we, as digital citizens, can protect ourselves from the inherent biases of artificial intelligence, and work towards fairness and social justice.
+“We spent a long time figuring out how to make a podcast that is compelling without being superficial, and connects everyday life to the deep and important issues raised by the A.I. and computing revolution,” said Felten. “There were several false starts and some pilots that got progressively closer to the vision. Then we connected to the team at WHYY, and found the recipe.”
+“This partnership with WHYY is the first of its kind for Princeton, and we couldn’t be more excited,” said Brent Colburn, vice president for communications and public affairs at Princeton. “As Philadelphia’s neighbor to the north, we share an intellectually curious community that is craving insightful audio content. Princeton’s cutting-edge research, together with WHYY’s world-class reporting and production, has resulted in a podcast that is timely, engaging and forward-thinking(link is external).”
+Felten and Burnley will explore the incredible advances A.I. has engendered, including the rapid development of the COVID-19 vaccine. They will also delve into its darker sides, uncovering how A.I. can be “human in all the wrong ways” and exhibit biases that lead to wrongful arrests or political misinformation.
+In the first two episodes, which launch today, Felten and Burnley investigate natural language processing and automated vehicles. Natural language processing, or NLP, is a computer’s ability to communicate using human language as opposed to computer code, and is responsible for things we use every day, like autocorrect or Google’s predictive search. In episode one(link is external), Felten and Burnley experiment with GPT3, an NLP technology developed by Open AI, a research lab founded by Elon Musk and funded by Microsoft. While GPT3’s capabilities are incredible — it can write everything from novels to news stories — it can also be inconsistent. What is more alarming, however, is that the technology is capable of spreading misinformation. This, as Felten and Burnley discuss, is one of the reasons why Open AI believed its previous version of the model, GPT2, was too dangerous to release to the general public. 
+Anirudha Majumdar, assistant professor of mechanical and aerospace engineering, pictured with an autonomous aircraft. Photo bySameer A. Khan/Fotobuddy
+In episode two(link is external), “A.I. in the Driver’s Seat,” Burnley and Felten consider the safety, security and ethical implications of automated machines. Burnley tours a Princeton drone lab with Anirudha Majumdar, assistant professor of mechanical and aerospace engineering, to witness the A.I. behind drones in action.  Felten and Burnley also discuss some of the reasons why self-driving vehicles, a technology that has been in development for decades, are still not available to the public and how they might be used in the near future.  
+New episodes ­­— on “The Next Pandemic” (April 15), “Biased Intelligence” (April 22) and “Echo Chambers” (April 29) — will be released throughout the month. 
+“A.I. Nation” (link is external)is available wherever you get your podcasts. 
+
+
+",,,,,,,,,
+https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS8yMDIxLzA0LzAyL3BlbnRhZ29uLXNlZWtzLWNvbW1lcmNpYWwtc29sdXRpb25zLXRvLWdldC1pdHMtZGF0YS1yZWFkeS1mb3ItYWkv0gEA?oc=5,Pentagon seeks commercial solutions to get its data ready for AI - C4ISRNET,2021-04-02,C4ISRNET,https://www.c4isrnet.com,The solicitation from the JAIC is part of its new focus on providing data readiness services to DoD components looking to use AI.,"['jaic', 'defense-it', 'ai', 'acquisitions', 'contracts', 'data', 'JAIC', 'defense-IT', 'AI', 'acquisitions', 'contracts', 'data', 'circulated-c4isrnet', 'circulated-undefined', 'circulated-defense-news']",The solicitation from the JAIC is part of its new focus on providing data readiness services to DoD components looking to use AI.,N/A,http://schema.org,NewsArticle,,https://www.c4isrnet.com/artificial-intelligence/2021/04/02/pentagon-seeks-commercial-solutions-to-get-its-data-ready-for-ai/,Artificial Intelligence,"[{'@type': 'Person', 'name': 'Andrew  Eversden'}]",2022-08-19T08:43:47.671Z,2021-04-02T17:54:29.665Z,Pentagon seeks commercial solutions to get its data ready for AI,"{'url': 'https://www.c4isrnet.com/resizer/SOJp8w54iDFrMDHMlbVk0HjW9-o=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EG4DNSHAKBBFND6FSC5FB6EYFU.jpg', '@type': 'ImageObject'}",,https://www.c4isrnet.com/artificial-intelligence/2021/04/02/pentagon-seeks-commercial-solutions-to-get-its-data-ready-for-ai/,,,,"{'type': 'WebPage', '@id': 'https://www.c4isrnet.com/artificial-intelligence/2021/04/02/pentagon-seeks-commercial-solutions-to-get-its-data-ready-for-ai/'}","{'@type': 'Organization', 'name': 'C4ISRNet', 'url': 'https://www.c4isrnet.com/', 'logo': {'@type': 'ImageObject', 'url': '/resources/img/c4isrnet-logo-white.png?d=124'}}",,Artificial Intelligence,N/A,"WASHINGTON — The Pentagon’s Joint Artificial Intelligence Center is recruiting businesses to help prepare military data for use with AI.The solicitation released March 31 is a sign of the AI office’s shifting role from product developer to provider of AI readiness services for Defense Department components. The basic ordering agreement would allow those components and federal partners to issue task orders for the work to get data in shape for artificial intelligence — that could include everything from capturing data to sorting it for storage to modeling how employees will use it with AI to get better insights.The Data Readiness for Artificial Intelligence Development (DRAID) Services ordering agreement will “help the DoD and Government users prepare data for use in AI applications by providing an easily accessible path to access the cutting-edge commercial services needed to meet the complex technical challenges involved in preparing data for AI,” the solicitation read.“The services addressed by the DRAID span the entire AI data preparation lifecycle, from data ingestion, through labeling, right up to before model training begins,” an April 1 blog post from the JAIC states. “Through access to these services, the DoD will be positioned to effectively prepare AI data to support the full range of AI activities across the DoD and do so in a responsible manner.”Task orders under the basic ordering agreement will fall under these areas:Project and program managementData scienceData engineeringData architectureData acquisition and curationData quality and analysisSynthetic data generation and data anonymizationSoftware development, modification and configurationEnterprise information management and governanceCloud integration and alignmentThe JAIC requires that all AI data created through the agreement adheres to published government standards so the data is interoperable with other cloud and AI development platforms across the department.“DoD AI data services acquired or developed under this PWS [performance work statement] and data processed by those services will frequently be required to integrate and interoperate with new or existing AI cloud platforms. ... In most cases, AI data produced under this BOA will be required to be made available on cloud platforms for reuse in other AI projects,” the PWS says.The BOA will remain active for five years.The JAIC blog post about the agreement emphasized that the organization took steps to ensure the RFP could attract nontraditional contractors, such as startups. The solicitation includes an accessibility guide outlining preliminary steps new contractors have to take before responding, while also highlighting revisions the JAIC made to the draft RFP to make it more inclusive for new vendors. For example, the blog says JAIC reformed experience requirements to be more inclusive of startups and other nontraditional contractors. “In developing the DRAID, we have taken effort to ensure that the best providers — regardless if this is their 1st or 101st time interacting with the Federal government — will be able to participate in the RFP process,” the request stated.The RFP asks for technologies that support ethical use of AI, including a solutions that would contractors to demonstrate how products integrate the DoD’s AI ethical principles.“The quality of the AI data determines the quality of the resulting AI system,” the blog post stated. “With the DRAID, the JAIC seeks to leverage the American commercial enterprise to create a strong foundation of AI-ready data for the DoD.”About  Andrew EversdenAndrew Eversden covers all things defense technology for C4ISRNET. He previously reported on federal IT and cybersecurity for Federal Times and Fifth Domain, and worked as a congressional reporting fellow for the Texas Tribune. He was also a Washington intern for the Durango Herald. Andrew is a graduate of American University.Share:More In Artificial IntelligenceSouth Korea to deploy laser weapons to intercept North Korean dronesThe Defense Acquisition Program Administration said it will deploy at least one anti-air laser weapons system — called “Block-I” — this year.US to send Tomahawks, hypersonics, other long-range fires to GermanyThe move is in-line with the Army's plan to provide such capability to its Multidomain Task Force there.Beavers takes reins from Sherman as acting DOD information officerAs the most senior IT advisor to the secretary of defense, Beavers is taking over from former CIO John Sherman.Quieting Discord: A new frontier in military leaks and extremismFrom secret Pentagon leaks to radicalization in the military community, Discord is continuing to grapple with keeping bad actors off the popular platform.Astronauts say Boeing space capsule can safely return them to EarthNASA test pilots Butch Wilmore and Suni Williams launched aboard Starliner capsule early last month.",,C4ISRNet,/resources/img/c4isrnet-logo-white.png,,,,"['https://www.facebook.com/https://www.facebook.com/C4ISRNet', 'https://twitter.com/c4isrnet']",https://www.c4isrnet.com/#publisher,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS81LXJlYXNvbnMtd2h5LWktbGVmdC10aGUtYWktaW5kdXN0cnktMmM4OGVhMTgzY2Rk0gEA?oc=5,5 Reasons Why I Left the AI Industry | by Alberto Romero - Towards Data Science,2021-04-04,Towards Data Science,https://towardsdatascience.com,5 reasons why I left the AI industry: AI may not live up to the hype. It loses its magic when you look from the inside. Everyone can do AI now. We may never achieve AGI. The future of AI will include the brain.,N/A,I worked for 3 years at an AI company. Now I’ve decided to left the industry indefinitely.,I worked for 3 years at an AI company. Now I’ve decided to left the industry indefinitely.,http://schema.org,NewsArticle,,,,"{'@type': 'Person', 'name': 'Alberto Romero', 'url': 'https://albertoromgar.medium.com'}",2022-06-17T11:29:40.094Z,2021-04-05T03:29:59.313Z,5 Reasons Why I Left the AI Industry - Towards Data Science,['https://miro.medium.com/v2/resize:fit:1200/1*s6r29KXtOL-t1Gwv6IUtjw.jpeg'],,https://towardsdatascience.com/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd,,False,,https://towardsdatascience.com/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd,"{'@type': 'Organization', 'name': 'Towards Data Science', 'url': 'towardsdatascience.com', 'logo': {'@type': 'ImageObject', 'width': 192, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:384/1*cFFKn8rFH4ZndmaYeAs6iQ.png'}}",,N/A,N/A,"Member-only storyARTIFICIAL INTELLIGENCE | DEEP LEARNING | FUTURE5 Reasons Why I Left the AI IndustryI worked for 3 years at an AI company. Now I’ve decided to leave the industry indefinitely.Alberto Romero·FollowPublished inTowards Data Science·9 min read·Apr 4, 20212.3K56ListenShareSource: Pixabay3 years ago the words Artificial Intelligence evoked powerful sensations in me. Entering that world felt like taking a step into the mysteries and secrets of the future. I was mind-blown by the promises of intelligent machines, capable of solving tasks forever reserved to us. I was deep-diving into the amazement of the mind through the familiar passages of technology.I had just finished my bachelor’s in aerospace engineering and wanted to leap towards AI. It was late 2017 when I met the great Geoffrey Hinton and Andrew Ng. Their lectures at Coursera were the open door that led me to my first job at an AI startup in 2018.AI promised a lot. So many movies of robots dominating the world and machines enhancing us to be demigods. But it didn’t deliver for me. Maybe I was too naive. I believed the mask behind which the real AI was hiding.After 3 years working in AI, I’ve fallen out of love. And I don’t think I’ll be coming back soon. These are the 5 reasons I left the industry.AI may not live up to the hype",,5 Reasons Why I Left the AI Industry - Towards Data Science,,['Alberto Romero'],2021-04-05T03:29:59.313Z,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.meteredContent'}",,,2c88ea183cdd
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnBicy5vcmcvaW5kZXBlbmRlbnRsZW5zL2Jsb2cvY29kZWQtYmlhcy1leHBsb3Jlcy1ibHVycmluZy1vZi1yZWFsLWFuZC1pbWFnaW5lZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,"""Coded Bias"" Explores Blurring of Real and Imagined Artificial Intelligence - PBS",2021-04-03,PBS,https://www.pbs.org,"Shalini Kantayya talks about what inspired her to make a documentary on bias in artificial intelligence, and how she gave ""Coded Bias"" a sci-fi feel.",N/A,"Shalini Kantayya talks about what inspired her to make a documentary on bias in A.I., and how she gave it a sci-fi feel.","Shalini Kantayya talks about what inspired her to make a documentary on bias in A.I., and how she gave it a sci-fi feel.",https://schema.org,,,,,,,,,,,,,,,,,,N/A,N/A,N/A,"[{'@type': 'WebPage', '@id': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/', 'url': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/', 'name': '""Coded Bias"" Explores Blurring of Real and Imagined Artificial Intelligence | PBS', 'isPartOf': {'@id': 'https://www.pbs.org/independentlens/#website'}, 'primaryImageOfPage': {'@id': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://www.pbs.org/independentlens/wp-content/uploads/2021/03/coded-bias-joy-b.jpg', 'datePublished': '2021-04-03T20:10:48+00:00', 'dateModified': '2023-08-25T18:28:44+00:00', 'description': 'Shalini Kantayya talks about what inspired her to make a documentary on bias in artificial intelligence, and how she gave ""Coded Bias"" a sci-fi feel.', 'breadcrumb': {'@id': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/#primaryimage', 'url': 'https://www.pbs.org/independentlens/wp-content/uploads/2021/03/coded-bias-joy-b.jpg', 'contentUrl': 'https://www.pbs.org/independentlens/wp-content/uploads/2021/03/coded-bias-joy-b.jpg', 'width': 1920, 'height': 1080, 'caption': 'MIT researcher Joy Buolamwini in Coded Bias'}, {'@type': 'BreadcrumbList', '@id': 'https://www.pbs.org/independentlens/blog/coded-bias-explores-blurring-of-real-and-imagined-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.pbs.org/independentlens/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://www.pbs.org/independentlens/blog/'}, {'@type': 'ListItem', 'position': 3, 'name': '&#8220;Coded Bias&#8221; Explores Blurring of Real and Imagined Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://www.pbs.org/independentlens/#website', 'url': 'https://www.pbs.org/independentlens/', 'name': 'Independent Lens', 'description': 'Independent Documentary Films', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.pbs.org/independentlens/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmNvbW1vbndlYWxtYWdhemluZS5vcmcvbWluZHMtd2l0aG91dC1icmFpbnPSAQA?oc=5,Minds Without Brains? - Commonweal,2021-04-05,Commonweal,https://www.commonwealmagazine.org,"AI has not yet lived up to its hype, but there is already cause for concern about its influence.",N/A,"AI has not yet lived up to its hype, but there is already cause for concern about its influence.","AI has not yet lived up to its hype, but there is already cause for concern about its influence.",https://schema.org,,,,,,,,,,,,,,,,,,N/A,N/A,"
+Minds Without Brains?
+
+The promise and peril of artificial intelligence
+
+
+John W. Farrell
+
+April 5, 2021
+
+
+
+Secularism and Modernity
+Philosophy
+
+
+
+
+
+
+
+","[{'@type': 'NewsArticle', '@id': 'https://www.commonwealmagazine.org/minds-without-brains', 'name': 'Minds Without Brains?', 'headline': 'Minds Without Brains?', 'description': 'AI has not yet lived up to its hype, but there is already cause for concern about its influence.', 'image': {'@type': 'ImageObject', 'url': 'https://www.commonwealmagazine.org/sites/default/files/styles/article_full/public/Farrell.jpeg?itok=cIuq3x5Q'}, 'datePublished': 'April 5, 2021', 'dateModified': 'April 9, 2021', 'author': {'@type': 'Person', 'name': 'John W. Farrell'}, 'publisher': {'@type': 'Organization', 'name': 'Commonweal Magazine', 'logo': {'@type': 'ImageObject', 'url': 'https://www.commonwealmagazine.org/themes/custom/commonweal/logo.svg'}}}]",,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FpLWluLWFydC1pcy1kZXZlbG9waW5nLWFuZC1nZXR0aW5nLWNyZWF0aXZlLXJhcGlkbHnSAXdodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYWktaW4tYXJ0LWlzLWRldmVsb3BpbmctYW5kLWdldHRpbmctY3JlYXRpdmUtcmFwaWRseQ?oc=5,AI in Art is Developing and Getting Creative Rapidly - Analytics Insight,2021-04-05,Analytics Insight,https://www.analyticsinsight.net,,"AI in art,artificial intelligence artists,Artificial intelligence in art,art created by AI,artificial intelligence art",AI in art is giving birth to many artificial intelligence artists Artificially intelligent systems are gradually taking control of errands recently done by peop,AI in art is giving birth to many artificial intelligence artists Artificially intelligent systems are gradually taking control of errands recently done by peop,http://schema.org,NewsArticle,"AI in art is giving birth to many artificial intelligence artists.Artificially intelligent systems are gradually taking control of errands recently done by people, and numerous processes including redundant, simple developments have effectively been completely automated. Meanwhile, people keep on being better when it comes to abstract and creative tasks. Over a recent couple of years, we've seen the rise of AI in art giving birth to many artificial intelligence artists..These unpredictable algorithms are making interesting (and in some cases frightful) works of art. They're producing dazzling visuals, significant poetry, extraordinary music, and surprisingly practical film scripts. However, work by these AI artists are bringing up issues about the idea of artificial intelligence in art and the job of human creativity in future societies..Creativity appears to be baffling because when we have innovative thoughts it is hard to clarify how we got them and we frequently talk about obscure ideas like &quot;motivation&quot; and &quot;instinct&quot; when we try to explain creativity. The fact that we are not aware of how a creative thought shows itself doesn't really suggest that a scientific explanation cannot exist. In actuality, we don't know about how we perform different activities, for example, pattern recognition, language understanding, etc., yet we have better art created by AI ready to duplicate such activities..In March 2019, an AI artist called AICAN and its maker Ahmed Elgammal took control over a New York exhibition. The exhibition at HG Commentary showed two series of canvas works depicting nerve racking, dream-like faceless pictures..The gallery was not just credited to a machine, yet rather ascribed to the joint effort of a human and machine. Ahmed Elgammal is the Founder and Head of the Art and Artificial Intelligence Laboratory at Rutgers University. He considers AICAN to not exclusively be an autonomous AI artist, yet in addition a collaborator for artistic endeavors promoting artificial intelligence art..How did AICAN make these scary faceless portraits? The framework was given 100,000 photographs of Western art from more than five centuries, permitting it to become familiar with the style of art via machine learning. It at that point drew from this historical knowledge and the order to make something new to make a work of art with AI without human mediation..Recently, Hanson Robotics' female AI robot named Sophia became the world's first machine artist to sell her Non-Fungible Token (NFT) digital paintings named 'Sophia Instantiation' at an auction on premier marketplace Nifty Gateway. Her AI art pieces, which were bought utilizing Ethereum blockchain exchange, were made in collaboration with the UK-based Italian art specialist Andrea Bonaceto, who sold Beeple's Everyday at Christie's for $69 million. NFTs, in the resemblance of the digital money, comprise unique codes and can be stored in records or digi wallets. Artificial intelligence robot Sophia's auction of NFT AI art pieces denoted the first breakthrough between a human and a robot trading..Sophia is internationally known for being a worldwide celebrity doing a lot of TV appearances across the world including the Jimmy Fallon Show in the US and the Ivan Urgant show in Russia. Sophia is likewise an Innovation Champion for the United Nations Development Program (UNDP) and the first robot to get citizenship of a country. Recently, her computational works were introduced at the Neurips AI conference in the neural inventiveness workshop, and in the poster session at the AAAS yearly gathering. This will be the first series of AI artworks promoted by Sophia and her maker Dr. David Hanson..Dr. Hanson says, &quot;We made Sophia herself as a work of art as well as an AI development platform. Her intelligence is a group of algorithms and people working together like a hive. For this show, Sophia made the art totally utilizing neural networks and symbolic AI, responding to her impression of Andrea Bonaceto's works as well as to information from her &quot;life&quot; experiences, under direction from the Sophia team's designers and programmers. How she reacted to Andrea's art just excites me. I'm one pleased dad.&quot;.Sophia digitally made her own picture utilizing artificial intelligence art and did what the roboticist David Hanson portrays as 'an artistic revolution.' &quot;The experience of teaming up with Sophia and Hansen on the project at Nifty Gateway has been stunning.  Grown so much as an artist since we began this undertaking&quot;, Bonaceto tweeted. Then, humanoid Sophia plans to &quot;study the most noteworthy bidder's face&quot; who will buy her work and will add one final emphasis to her AI artwork..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",,Artificial Intelligence,"[{'@type': 'Person', 'givenName': 'Priya Dialani', 'name': 'Priya Dialani', 'url': 'https://www.analyticsinsight.net/author/priya-dialani'}]",2021-04-05T00:57:08Z,2021-04-05T00:57:08Z,AI in Art is Developing and Getting Creative Rapidly,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/04/AI-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/04/AI-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,https://www.analyticsinsight.net/artificial-intelligence/ai-in-art-is-developing-and-getting-creative-rapidly,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/ai-in-art-is-developing-and-getting-creative-rapidly', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/04/AI-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/ai-in-art-is-developing-and-getting-creative-rapidly'}","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'AI in Art is Developing and Getting Creative Rapidly', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/ai-in-art-is-developing-and-getting-creative-rapidly'}]",N/A,N/A,What is AI and Data Science Engineering? ,,AI in Art is Developing and Getting Creative Rapidly,,,2021-04-05T00:57:08Z,,,,
+https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3Lm1ldHJvcmFpbG5ld3MuaW4vaW5ub21ldHJvLTIwMjEv0gEA?oc=5,Artificial Intelligence (AI) In Innometro 2021 - Metro Rail News,2021-04-05,Metro Rail News,https://www.metrorailnews.in,Role of Artificial Intelligence in InnoMetro 2021 which starts from 28th April 2021 to 30th April 2021,N/A,Role of Artificial Intelligence in InnoMetro 2021 which starts from 28th April 2021 to 30th April 2021,Role of Artificial Intelligence in InnoMetro 2021 which starts from 28th April 2021 to 30th April 2021,https://schema.org,,,,,,,,,,,,,,,,,,Miscellaneous,N/A,"
+
+
+
+
+
+Miscellaneous
+
+Artificial Intelligence (AI) in Innometro 2021
+
+
+
+By: Rajat Khanna
+
+Date:
+
+05/04/2021 
+
+
+
+
+
+Share post:
+
+
+
+FacebookTwitterPinterestWhatsApp
+
+
+
+
+
+
+NEW DELHI, INDIA (Metro Rail News): Artificial Intelligence (AI) emphasizes the development of technologies or machines which is working like a human being. AI serviced working like a human recognition, problem solving, learning, planning, data prediction, chat-box and many more.
+Few AI Solutions which we use in our daily routine is:
+SIRITESLANETFLIXALEXAGOOGLE etc.
+There are some Industries which using Artificial Intelligence again and again that is:
+Business: In business industries use Artificial Intelligence services in the form of spam, filters, voice to text features, security surveillance etc.Education: By using services like Acuity, MS Team, Doodle, Google Duo and many more.Automobile: By using Navigation option, Driver Assist, Alexa etc.Healthcare: By using Digital Consultations, Robotics Surgery, MRI/CT scan machines etc.
+As we all know India is a developing country which simply means we need this type of development more which grew the nations in terms of technology. Artificial Intelligence services reduces the human work and it saves time and cost both. Now a day’s people need updating for example in past time people communicate with another people through writing a letter, plays etc. but now we communicate through social media with different social networking applications like WhatsApp, Facebook, Instagram, Twitter and many more. As like that when time changes technology also upgrades. It helps us to develop our lifestyle.
+Regarding this topic, InnoMetro– A Global Event Platform for Metro, Railway, RRTS, HSR & Allied Sector is organised from 28th April 2021 to 30th April 2021. It gives you exposure and showcase how technologies changes in future and in which sector. So, register yourself in Innometro 2021 as a delegate, exhibitor, speaker. #INNOMETRO2021
+Click here for Registration
+Exhibitor: https://www.innometro.com/exhibitor-registration/
+Delegate: https://www.innometro.com/delegate-registration/
+Speaker:  https://www.innometro.com/speaker/
+
+
+TagsArtificial IntelligenceGOOGLE STOREInnoMetroInnoMetro2021Metro Rail News
+
+Previous articleReasons to attend InnoMetro 2021- A Global Event Platform for Metro & Rail SectorNext articleJSPL posts highest ever production & sales in FY 2020-21
+
+Rajat Khannahttp://www.metrorailnews.inCompleted Graduation in Journalism & Mass Communication from IP University, Currently working as an Associate Editor in Metro Rail News.
+
+
+
+ 
+LEAVE A REPLY Cancel reply
+
+
+Comment:
+Please enter your comment!
+
+
+Name:*
+Please enter your name here
+
+
+
+Email:*
+You have entered an incorrect email address!
+Please enter your email address here
+
+
+
+Website:
+
+
+
+Save my name, email, and website in this browser for the next time I comment.
+
+ 
+
+Δ 
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+
+I want inI've read and accept the Privacy Policy.
+
+
+
+
+
+
+CM Nitish Kumar Conducts inspection of Patna-Bihar Museums’ Tunnel
+
+
+Staff Reporter -  17/07/2024 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Rajkot Gears Up for a Metro Revolution
+
+Gujarat Metro
+
+
+
+
+
+
+
+ 
+
+Chennai MRTS: The Road Ahead – Expansion, Integration, and a Brighter Future
+
+Chennai Metro Rail Limited (CMRL)
+
+
+
+
+
+
+
+ 
+
+SYSTRA Secures DDC Contract of Bhubaneswar Metro Project
+
+Bhubaneswar Metro
+
+
+
+
+
+
+
+ 
+
+Kanpur Metro: UPMRC Launches TBM Azad Near Swadeshi Cotton Mill 
+
+Kanpur Metro
+
+
+
+
+
+
+
+ 
+
+Bangalore Metro: Aarvee Bags Feasibility Contract of Tumkur Metro Line
+
+Bangalore Metro
+
+
+
+
+
+
+
+
+
+
+Related articles
+
+
+
+
+
+ 
+
+DMRC
+CM Nitish Kumar Conducts inspection of Patna-Bihar Museums’ Tunnel
+
+Patna (Metro Rail News): Shri Nitish Kumar, Chief Minister of Bihar conducted a comprehensive inspection of the 1.5...
+
+
+
+
+
+
+ 
+
+Gujarat Metro
+Rajkot Gears Up for a Metro Revolution
+
+Introduction
+Nestled in the heart of the Saurashtra peninsula, Gujarat, lies Rajkot, a city that resonates with the echoes...
+
+
+
+
+
+
+ 
+
+Chennai Metro Rail Limited (CMRL)
+Chennai MRTS: The Road Ahead – Expansion, Integration, and a Brighter Future
+
+Introduction 
+Straddling the Coromandel Coast of the Bay of Bengal, Chennai, the capital of Tamil Nadu is a city...
+
+
+
+
+
+
+ 
+
+Bhubaneswar Metro
+SYSTRA Secures DDC Contract of Bhubaneswar Metro Project
+
+Bhubaneswar (Metro Rail News): Delhi Metro Rail Corporation (DMRC) declared SYSTRA MVA Consulting (India) as the preferred bidder...
+
+
+
+  ","[{'@type': ['Person', 'Organization'], '@id': 'https://www.metrorailnews.in/#person', 'name': 'Metro Rail News', 'sameAs': ['https://www.facebook.com/MetroRailNewsHQ', 'https://twitter.com/MetroRailNewsHQ', 'https://www.instagram.com/MetroRailNewsHQ', 'https://www.linkedin.com/company/MetroRailNewsHQ', 'https://in.pinterest.com/metrorailnews/', 'https://www.youtube.com/c/metrorailnewsonline']}, {'@type': 'WebSite', '@id': 'https://www.metrorailnews.in/#website', 'url': 'https://www.metrorailnews.in', 'name': 'Metro Rail News', 'alternateName': '#1 Magazine For Metro &amp; Rail Sector', 'publisher': {'@id': 'https://www.metrorailnews.in/#person'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://www.metrorailnews.in/wp-content/uploads/2021/03/Importance-of-Artificial-Intelligence.jpeg', 'url': 'https://www.metrorailnews.in/wp-content/uploads/2021/03/Importance-of-Artificial-Intelligence.jpeg', 'width': '1600', 'height': '890', 'caption': 'Artificial Intelligence', 'inLanguage': 'en-US'}, {'@type': 'BreadcrumbList', '@id': 'https://www.metrorailnews.in/innometro-2021/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://www.metrorailnews.in', 'name': 'Home'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://www.metrorailnews.in/innometro-2021/', 'name': 'Artificial Intelligence (AI) in Innometro 2021'}}]}, {'@type': 'WebPage', '@id': 'https://www.metrorailnews.in/innometro-2021/#webpage', 'url': 'https://www.metrorailnews.in/innometro-2021/', 'name': 'Artificial Intelligence (AI) In Innometro 2021 - Metro Rail News', 'datePublished': '2021-04-05T10:22:18+05:30', 'dateModified': '2021-04-05T10:22:28+05:30', 'isPartOf': {'@id': 'https://www.metrorailnews.in/#website'}, 'primaryImageOfPage': {'@id': 'https://www.metrorailnews.in/wp-content/uploads/2021/03/Importance-of-Artificial-Intelligence.jpeg'}, 'inLanguage': 'en-US', 'breadcrumb': {'@id': 'https://www.metrorailnews.in/innometro-2021/#breadcrumb'}}, {'@type': 'Person', '@id': 'https://www.metrorailnews.in/author/rajatkhanna/', 'name': 'Rajat Khanna', 'url': 'https://www.metrorailnews.in/author/rajatkhanna/', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/7db96fbf10145cb88846fb64d62ce8a4?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/7db96fbf10145cb88846fb64d62ce8a4?s=96&amp;d=mm&amp;r=g', 'caption': 'Rajat Khanna', 'inLanguage': 'en-US'}, 'sameAs': ['http://www.metrorailnews.in']}, {'@type': 'NewsArticle', 'headline': 'Artificial Intelligence (AI) In Innometro 2021 - Metro Rail News', 'keywords': 'AI in InnoMetro 2021', 'datePublished': '2021-04-05T10:22:18+05:30', 'dateModified': '2021-04-05T10:22:28+05:30', 'author': {'@id': 'https://www.metrorailnews.in/author/rajatkhanna/', 'name': 'Rajat Khanna'}, 'publisher': {'@id': 'https://www.metrorailnews.in/#person'}, 'description': 'Role of Artificial Intelligence in InnoMetro 2021 which starts from 28th April 2021 to 30th April 2021', 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://www.metrorailnews.in/#person'}, 'name': 'Artificial Intelligence (AI) In Innometro 2021 - Metro Rail News', '@id': 'https://www.metrorailnews.in/innometro-2021/#richSnippet', 'isPartOf': {'@id': 'https://www.metrorailnews.in/innometro-2021/#webpage'}, 'image': {'@id': 'https://www.metrorailnews.in/wp-content/uploads/2021/03/Importance-of-Artificial-Intelligence.jpeg'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://www.metrorailnews.in/innometro-2021/#webpage'}}]",,,,,,,,

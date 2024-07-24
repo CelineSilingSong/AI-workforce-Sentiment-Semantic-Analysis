@@ -1,0 +1,1126 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,datePublished,headline,mainEntityOfPage,image,author,publisher,url,dateCreated,dateModified,heading,name,hasPart,isAccessibleForFree,itemListElement,speakable,alternativeHeadline,articleSection,articleBody,isPartOf,audio,thumbnailUrl,uploadDate,duration,contentUrl,embedUrl,identifier,creator,legalName,logo,sameAs,address,inLanguage
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZW50ZXJwcmlzZXJzcHJvamVjdC5jb20vYXJ0aWNsZS8yMDIwLzUvNS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS10eXBlcy1kZWZpbmVk0gEA?oc=5,"5 artificial intelligence (AI) types, defined - The Enterprisers Project",2020-05-05,The Enterprisers Project,https://enterprisersproject.com,"Do you understand the main types of AI, how they work, and where they add value? Let's break down machine learning, deep learning, natural language processing, computer vision, and explainable AI.",N/A,"Do you understand the main types of AI, how they work, and where they add value? Let's break down machine learning, deep learning, natural language processing, computer vision, and explainable AI.","Do you understand the main types of AI, how they work, and where they add value? Let's break down machine learning, deep learning, natural language processing, computer vision, and explainable AI.",N/A,N/A,"
+Do you understand the main types of AI, how they work, and where they add value? Let's break down machine learning, deep learning, natural language processing, computer vision, and explainable AI
+
+
+
+          By 
+
+Stephanie Overby
+
+
+May 7, 2020          |
+%t min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      799 readers like this.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial intelligence (AI) is redefining the enterprise’s notions about extracting insight from data. Indeed, the vast majority of technology executives (91 percent) and 84 percent of the general public believe that AI is the “next technology revolution,” according to Edelman’s 2019 Artificial Intelligence (AI) Survey. PwC has predicted that AI could contribute $15.7 trillion to the global economy by 2030.
+Understanding the types of AI, how they work, and where they might add value is critical.
+AI, in short, is a pretty big deal. However, it’s not a monolithic entity: There are multiple flavors of cognitive capabilities. Understanding the various types of AI, how they work, and where they might add value to the business is critical for both IT and line-of-business leaders.
+[ What’s next? Read also: 10 AI trends to watch in 2020 and How big data and AI work together. ]
+Five important kinds of AI
+Let’s break down five types of AI and sample uses for them:
+Machine learning (ML)
+ML is perhaps the most relevant subset of AI to the average enterprise today. As explained in the Executive’s guide to real-world AI, our recent research report conducted by Harvard Business Review Analytic Services, ML is a mature technology that has been around for years.
+When facing a situation in which a solution is hidden in a large data set, machine learning is a go-to.
+ML is a branch of AI that empowers computers to self-learn from data and apply that learning without human intervention. When facing a situation in which a solution is hidden in a large data set, machine learning is a go-to. “ML excels at processing that data, extracting patterns from it in a fraction of the time a human would take, and producing otherwise inaccessible insight,” says Ingo Mierswa, founder and president of the data science platform RapidMiner.
+ML use cases
+ML powers risk analysis, fraud detection, and portfolio management in financial services; GPS-based predictions in travel; and targeted marketing campaigns, to list a few examples.
+ML learning can get better at completing tasks over time based on the labeled data it ingests, explains ISG director of cognitive automation and innovation Wayne Butterfield, or it can power the creation of predictive models to improve a plethora of business-critical tasks.
+Deep learning
+An explainer article by AI software company Pathmind offers a useful analogy: Think of a set of Russian dolls nested within each other. “Deep learning is a subset of machine learning, and machine learning is a subset of AI, which is an umbrella term for any computer program that does something smart.”
+This branch of AI tries to closely mimic the human mind.
+In our plain English primer on deep learning, we offer this basic definition: the branch of AI that tries to closely mimic the human mind. With deep learning, CompTIA explains, “computers analyze problems at multiple layers in an attempt to simulate how the human brain analyzes problems. Visual images, natural language, or other inputs can be parsed into various components in order to extract meaning and build context, improving the probability of the computer arriving at the correct conclusion.”
+Deep learning uses so-called neural networks, which “learn from processing the labeled data supplied during training, and uses this answer key to learn what characteristics of the input are needed to construct the correct output,” according to one explanation provided by deep AI. “Once a sufficient number of examples have been processed, the neural network can begin to process new, unseen inputs and successfully return accurate results.”
+Deep learning use cases
+Deep learning powers product and content recommendations for Amazon and Netflix. It works behind the scenes of Google’s voice- and image-recognition algorithms. Its capacity to analyze very large amounts of high-dimensional data makes deep learning ideally suited for supercharging preventive maintenance systems, as McKinsey pointed out in its Notes from the AI frontier: Applications and value of deep learning: “Layering in additional data, such as audio and image data, from other sensors – including relatively cheap ones such as microphones and cameras – neural networks can enhance and possibly replace more traditional methods. AI’s ability to predict failures and allow planned interventions can be used to reduce downtime and operating costs while improving production yield.”
+[ Get our quick-scan primer on 10 key artificial intelligence terms for IT and business leaders: Cheat sheet: AI glossary. ]
+Natural language processing (NLP)
+NLP enables computers to understand, interpret, and manipulate human language.
+When you take AI and focus it on human linguistics, you get NLP. SAS offers one of the clearest and most basic explanations of the term: “Natural language processing makes it possible for humans to talk to machines.” It’s the branch of AI that enables computers to understand, interpret, and manipulate human language.
+NLP itself has a number of subsets, including natural language understanding (NLU), which refers to machine reading comprehension, and natural language generation (NLG), which can transform data into human words.
+But, says ISG’s Butterfield, the premise is the same: “Understand language and sew something on the back of that understanding.”
+NLP has roots in linguistics, where it emerged to enable computers to literally process natural language, explains Anil Vijayan, vice president at Everest Group. “Over the course of time, it evolved from rule-based to machine-learning infused approaches, thus overlapping with AI,” Vijayan says.
+NLP might employ both ML learning and deep learning methodologies in combination with computational linguistics in order to effectively ingest and process unstructured speech and text datasets, says JP Baritugo, director at business transformation and outsourcing consultancy Pace Harmon.
+NLP use cases
+Natural language processing makes it possible for computers to extract key words and phrases, understand the intent of language, translate that to another language, or generate a response. “The enterprise literally runs through communication, either the written word or spoken conversation,” says Butterfield. “The ability to analyze this information and either find intent or insight will be absolutely critical to the enterprise of the future.”
+Any area of the business where natural language is involved may be fodder for the deployment of NLP capabilities, says Vijayan. Think chatbots, social media feeds, emails, or complex documentation like contracts or claims forms.
+Now let’s move on to the last two key types of AI: Computer vision and Explainable AI:
+
+Pagination
+
+
+
+
+              Current page
+            1
+
+
+
+
+              Page
+            2
+
+
+
+Next page
+Next ›
+
+
+
+
+Last page
+Last »
+
+
+
+
+
+
+
+
+
+
+Topics
+
+Enterprise Technology
+Artificial Intelligence
+Machine Learning
+
+
+
+
+
+
+
+ 
+Stephanie Overby is an award-winning reporter and editor with more than twenty years of professional journalism experience. For the last decade, her work has focused on the intersection of business and technology. She lives in Boston, Mass.
+More about me
+
+
+
+
+
+
+Related content
+
+
+ 
+
+The future of healthcare is in the cloud
+ 
+
+Cloud computing: 3 business advantages
+ 
+
+4 ways CIOs are rethinking digital transformation
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbGFiLmNjY2Iub3JnL2VuL3JldGhpbmtpbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdGhyb3VnaC1mZW1pbmlzbS_SAQA?oc=5,Rethinking Artificial Intelligence through Feminism - CCCB,2020-05-05,CCCB,https://lab.cccb.org,"From a feminist perspective, we offer a critical analysis of the machine learning of artificial intelligences to find more equitable practices.",N/A,"From a feminist perspective, we offer a critical analysis of the machine learning of artificial intelligences to find more equitable practices.",N/A,N/A,N/A," Commons TechnologyRethinking Artificial Intelligence through FeminismFrom a feminist perspective, we offer a critical analysis of the machine learning of artificial intelligences to find more equitable practices. Caroline Sinders 05 May 2020Sharon Hogge, an electronics engineer, poses with autonomous sentry robot ROBART I and the HT3 Industrial Robot. Maryland, 1983 | The U.S. National Archives | Public DomainTechnology surrounds us and is everywhere, but how this technology is made and who really benefits from it and who does not, are still important questions to be investigated. Recently, movements have emerged such as Data Feminism and Design Justice, which analyse technology from a more critical angle with the intention of creating more equity in technological practice. We explore some of their implications based on the artistic project Feminist Data Set, hand in hand with its creator, who explores what an intersectional feminist machine learning labelling and training system would be like and what would be necessary to construct it.In a time of the re-rising of fascism, of what feels like a lessening of social justice values, and in an age of global digitization, social justice has never been more integral in the space of interrogating data, technology, and the structure of society itself. Technology surrounds us, everywhere, but how technology is made, and who benefits deeply from technology, and who does not, is still an important question to unpack, research and critique. Feminist Data Set is an art project that uses intersectional feminism as a critical framework for investigating and critiquing machine learning. The investigation happens through a critical design lens, since the project involves making a chatbot from start to finish using intersectional feminism as a guide. This includes asking what is intersectional feminist data collection; what is intersectional feminist data; what is intersectional feminist data labeling, and data training; does an intersectional feminist system or product exist to data label and data train; what does intersectional feminist software look like; what does it do, and are there intersectional feminist algorithms; what would these algorithms then need to exist; what does an intersectional chatbot look like, and how does it interact?Politically and artistically, Feminist Data Set is inspired by the work of the maker movement, critical design, Arte Útil, Data Feminism, Design Justice, the Critical Engineering Manifesto, Xenofeminism, and the Feminist Principles of the Internet. Pedagogically, Feminist Data Set operates in a similar vein to Thomas Thwaites’s Toaster Project, a critical design project in which Thwaites builds a commercial toaster from scratch. Feminist Data Set, however, takes a critical and artistic view on software, particularly machine learning. What does it mean to thoughtfully make machine learning, to carefully consider every angle of making, iterating, and designing? Every step of this process needs to be thoroughly re-examined through a feminist lens.There is a growing movement of analyzing technology through a more critical and ethical lens (however, the word ethical itself is becoming controversial and overused). But this critical lens is important, especially as it exists to create more equity within technology as a practice and as its own entity—entity, in the sense that technology is a specific kind of thing, be it software or hardware, and a practice would be how an individual or group uses technology as an addition to its own creativity and making. Current books like Data Feminism by Catherine D’Ignazio and Lauren Klein generate a practice that unpacks data and datasets in society, and creates methodologies for having better data practices through a feminist lens. Design Justice by Sasha Costanza-Chock directly situates social justice within the design world, within design making and product design, and in design thinking as an exercise and practice.Feminist Data Set | Caroline SindersBoth Data Feminism and Design Justice analyze how capitalist and corporate structures use design and data, and how civic technologists, social justice movements, and activists engage with data and design. By situating design and data in both the corporate and non-corporate worlds, Data Feminism and Design Justice create an expansive, more holistic view of how data and design are utilized, from a more problematic end (the corporate side) and a more equity-driven end (the social justice and activist side). But both of these ends of the spectrums, and the spaces in-between, must be explored, and this is what makes Data Feminism and Design Justice strong as books, as methodologies, and as use cases. Feminist Data Set takes a similar stance. By interrogating machine learning, not just an artistic practice, but one rooted in product design and the corporate world, Feminist Data Set looks at how technology misuses machine learning as a whole field, and then in individual pieces within the machine learning pipeline.Often the tools I need to make Feminist Data Set as a critical design and art project don’t exist. For example, what is a feminist data training platform? Is there one? In machine learning, when it comes to labeling data and creating a data model for an algorithm, groups will generally use Amazon’s labor force, Mechanical Turk, to label data. Amazon created Mechanical Turk to solve their own machine learning problem of scale: they needed large data sets trained and labeled. Using Mechanical Turk in machine learning projects is standard in the field; it is used everywhere, from technology companies to research groups to help label data. Mechanical Turk underpays their workers and treats them as gig economy employees rather than full-time employees, thus giving them fewer benefits, and is not intersectional feminist, so I cannot use it in my work. I either have to find an alternative or build one. For the past year, I’ve been exploring what an intersectional feminist machine-learning labeling and training system is, and what it would need. I’ve been creating a tool, much like a calculator, that translates the number of tasks a Turker does, and the costs of those tasks, into an hourly wage. Say, for example, a client prices ten thousand tasks at four cents each: the calculator would translate that into hours or days of work it would take a Turker to complete all of those tasks, and how much their wages would be.In this sense, Feminist Data Set blends art and social justice-driven research and technology, like Turkopticon, made by Professor Lilly Irani and Mechanical Turkers. Turkopticon allows Mechanical Turkers to rate jobs and clients. This add-on solves a real problem that workers face, often not knowing the quality of a client and having no way to share this information with other Turkers.Sorting Feminist Data collected at SOHO20, 2018 | SOHO20 Gallery / Rachel SteinbergTo create a feminist AI, the labor and payment inequity in machine learning data training platforms needs to be confronted. In an article written by The Atlantic that investigates the treatment of Mechanical Turkers, the problem “is not necessarily that requesters are underpaying for the work. The average requester pays around eleven dollars an hour for the work they get, according to Hara. But there are also many requesters who pay less than that, and there are many requesters who post tasks that take longer than they say to complete. Still, the root of the problem is that these platforms allow requesters to avoid paying workers for the downtime that would arise if workers did these tasks full-time”. A research paper co-authored by researcher and Mechanical Turker Kristy Milland found that a median wage was about two dollars an hour but only four percent of Turkers earned more than $7.25 per hour.What is a feminist version of Mechanical Turk? What would it need?Pay equality and pay equity is a step towards equity in technology and society. Workers need to be paid for their time, not just for time doing a task, but time working—finding work and setting up work tasks—and they should be paid well for their labor. Gig economy companies should be held to labor standards and labor laws.Making must be thoughtful and critical in order to create equity. It must be open to feedback and interpretation. We must understand the role of data creation and how systems can use, misuse, and benefit from data. Data must be seen as something created from communities and as a reflection of that community—data ownership is key. Data’s position inside technology systems is political, it’s activated, and it’s intimate. For there to be equity in machine learning, every aspect of the system needs to be examined, taken apart and put back together. It needs to integrate the realities, contexts, and constraints of all different kinds of people, not just the ones who built the early Web. Technology needs to reflect those who are on the web now.Share ➔       Facebook         Twitter         Linkedin         WhatsApp          Email  ",https://schema.org,"[{'@type': 'WebSite', '@id': 'https://lab.cccb.org/es/#website', 'url': 'https://lab.cccb.org/es/', 'name': 'CCCB LAB', 'description': 'Cultural Research and Innovation', 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://lab.cccb.org/es/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://lab.cccb.org/wp-content/uploads/femdata_lab.jpg', 'width': 1100, 'height': 782}, {'@type': 'WebPage', '@id': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/#webpage', 'url': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/', 'name': 'Rethinking Artificial Intelligence through Feminism | CCCB LAB', 'isPartOf': {'@id': 'https://lab.cccb.org/es/#website'}, 'primaryImageOfPage': {'@id': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/#primaryimage'}, 'datePublished': '2020-05-05T07:30:10+00:00', 'dateModified': '2020-05-06T07:53:49+00:00', 'author': {'@id': 'https://lab.cccb.org/es/#/schema/person/70fc646db193a742dde0dae3523a32b0'}, 'description': 'From a feminist perspective, we offer a critical analysis of the machine learning of artificial intelligences to find more equitable practices.', 'breadcrumb': {'@id': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebPage', '@id': 'https://lab.cccb.org/es/', 'url': 'https://lab.cccb.org/es/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/', 'url': 'https://lab.cccb.org/en/rethinking-artificial-intelligence-through-feminism/', 'name': 'Rethinking Artificial Intelligence through Feminism'}}]}, {'@type': 'Person', '@id': 'https://lab.cccb.org/es/#/schema/person/70fc646db193a742dde0dae3523a32b0', 'name': 'Caroline Sinders', 'sameAs': ['https://carolinesinders.com', 'https://twitter.com/https://twitter.com/carolinesinders']}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vY2Vwci5vcmcvdm94ZXUvY29sdW1ucy9kZW1hbmQtYWktc2tpbGxzLWxhYm91ci1tYXJrZXTSAQA?oc=5,The demand for AI skills in the labour market - CEPR,2020-05-03,CEPR,https://cepr.org,"Artificial intelligence will transform job tasks and occupations. This column uses data from US online job postings during 2010–2019 to show how absolute and relative demand for AI-related skills has grown across all industry sectors and occupation groups. Jobs requiring AI skills command, on average, an 11% wage premium compared to similar jobs that do not require AI knowledge. However, AI is at least as much a managerial challenge as it is a technological challenge. Real productivity gains will come only when there are managers who can use AI to create and capture value.",N/A,"Artificial intelligence will transform job tasks and occupations. This column uses data from US online job postings during 2010–2019 to show how absolute and relative demand for AI-related skills has grown across all industry sectors and occupation groups. Jobs requiring AI skills command, on average, an 11% wage premium compared to similar jobs that do not require AI knowledge. However, AI is at least as much a managerial challenge as it is a technological challenge. Real productivity gains will come only when there are managers who can use AI to create and capture value.","Artificial intelligence will transform job tasks and occupations. This column uses data from US online job postings during 2010–2019 to show how absolute and relative demand for AI-related skills has grown across all industry sectors and occupation groups. Jobs requiring AI skills command, on average, an 11% wage premium compared to similar jobs that do not require AI knowledge. However, AI is at least as much a managerial challenge as it is a technological challenge. Real productivity gains will come only when there are managers who can use AI to create and capture value.",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VoxEU Column
+
+        Labour Markets
+          
+
+        Productivity and Innovation
+          
+
+The demand for AI skills in the labour market
+
+
+
+Bledi Taska
+
+
+Sampsa Samila
+
+
+José Azar
+
+
+Mireia Giné
+
+
+Liudmila Alekseeva
+
+
+/ 
+
+
+3 May 2020
+
+  Artificial intelligence will transform job tasks and occupations. This column uses data from US online job postings during 2010–2019 to show how absolute and relative demand for AI-related skills has grown across all industry sectors and occupation groups. Jobs requiring AI skills command, on average, an 11% wage premium compared to similar jobs that do not require AI knowledge. However, AI is at least as much a managerial challenge as it is a technological challenge. Real productivity gains will come only when there are managers who can use AI to create and capture value.
+
+
+
+Authors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Bledi Taska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sampsa Samila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ José Azar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Mireia Giné
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Liudmila Alekseeva
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmVsbGUuY29tL2JlYXV0eS9hMzIyNzAwNDUvZnJhZ3JhbmNlLXVzaW5nLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,A Look at The Fragrance Industry's Recent Developments in Artificial Intelligence. - ELLE,2020-05-01,ELLE,https://www.elle.com, Is the fragrance industry ready for artificial intelligence? Are you? ,"fragrance, AI, robots",Is the fragrance industry ready for artificial intelligence? Are you? ,N/A,Beauty,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRpY2UuY29tL2NhcmVlci1hZHZpY2UvbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1jaGFsbGVuZ2VzLWNoYW5nZXMtZmFjaW5nLXByb2Zlc3Npb27SAQA?oc=5,Machine Learning Engineer: Challenges and Changes Facing the Profession - Dice Insights,2020-05-04,Dice Insights,https://www.dice.com,"Last year, the fastest-growing job title in the world was that of the machine learning (ML) engineer, and this looks set to continue for the foreseeable future. According to Indeed, the average base salary of an ML engineer in the US is $146,085, and the number of machine learning engineer openings grew by 344% between 2015 and 2018. Machine learning engineers dominate the job postings around artificial intelligence (A.I.), with 94% of job advertisements that contain AI or ML terminology targeting machine learning engineers specifically.",N/A,"Last year, the fastest-growing job title in the world was that of the machine learning (ML) engineer, and this looks set to continue for the foreseeable future. According to Indeed, the average base salary of an ML engineer in the US is $146,085, and the number of machine learning engineer openings grew by 344% between 2015 and 2018. Machine learning engineers dominate the job postings around artificial intelligence (A.I.), with 94% of job advertisements that contain AI or ML terminology targeting machine learning engineers specifically.",N/A,Insights,N/A,"
+Machine Learning Engineer: Challenges and Changes Facing the Profession
+
+                by
+                    
+                    Dice Guest
+                    
+May 4, 2020
+                8 min read
+            
+
+
+Last year, the fastest-growing job title in the world was that of the machine learning (ML) engineer, and this looks set to continue for the foreseeable future. According to Indeed, the average base salary of an ML engineer in the US is $146,085, and the number of machine learning engineer openings grew by 344% between 2015 and 2018. Machine learning engineers dominate the job postings around artificial intelligence (A.I.), with 94% of job advertisements that contain AI or ML terminology targeting machine learning engineers specifically.  
+This demonstrates that organizations understand how profound an effect machine learning promises to have on businesses and society. AI and ML are predicted to drive a “Fourth Industrial Revolution” that will see vast improvements in global productivity and open up new avenues for innovation; by 2030, it’s predicted that the global economy will be $15.7 trillion richer solely because of developments from these technologies.  
+The scale of demand for machine learning engineers is also unsurprising given how complex the role is. The goal of machine learning engineers is to deploy and manage machine learning models that process and learn from the patterns and structures in vast quantities of data, into applications running in production, to unlock real business value while ensuring compliance with corporate governance standards.  
+To do this, machine learning engineers have to sit at the intersection of three complex disciplines. The first discipline is data science, which is where the theoretical models that inform machine learning are created; the second discipline is DevOps, which focuses on the infrastructure and processes for scaling the operationalization of applications; and the third is software engineering, which is needed to make scalable and reliable code to run machine learning programs.   
+It’s the fact that machine learning engineers have to be at ease in the language of data science, software engineering, and DevOps that makes them so scarce—and their value to organizations so great. A machine learning engineer has to have a deep skill-set; they must know multiple programming languages, have a very strong grasp of mathematics, and be able to understand and apply theoretical topics in computer science and statistics. They have to be comfortable with taking state-of-the-art models, which may only work in a specialized environment, and converting them into robust and scalable systems that are fit for a business environment.   
+As a burgeoning occupation, the role of a machine learning engineer is constantly evolving. The tools and capabilities that these engineers have in 2020 are radically different from those they had available in 2015, and this is set to continue evolve as the specialism matures. One of the best ways to understand what the role of a machine learning engineer means to an organization is to look at the challenges they face in practice, and how they evolve over time.   
+Four major challenges that every machine learning engineer has to deal with are data provenance, good data, reproducibility, and model monitoring.  
+Challenge 1: Data Provenance  
+Across a model’s development and deployment lifecycle, there’s interaction between a variety of systems and teams. This results in a highly complex chain of data from a variety of sources. At the same time, there is a greater demand than ever for data to be audited, and there to be a clear lineage of its organizational uses. This is increasingly a priority for regulators, with financial regulators now demanding that all machine learning data be stored for seven years for auditing purposes.  
+This does not only make the data and metadata used in models more complex, but it also makes the interactions between the constituent pieces of data far more complex. This means machine learning engineers need to put the right infrastructure in place to ensure the right data and metadata is accessible, all while making sure it is properly organized.   
+
+
+
+   Sign Up Today
+  
+Membership has its benefits. Sign up for a free Dice profile, add your resume, discover great career insights and set your tech career in motion. Register now
+
+  
+Challenge 2: Good Data   
+In 2016, it was estimated that the US alone lost $3.1 trillion to “bad data”—data that’s improperly formatted, duplicated, or incomplete. People and businesses across all sectors lose time and money because of this, but in a job that requires building and running accurate models reliant on input data, these issues can seriously jeopardize projects.   
+IBM estimates that around 80 percent of a data scientist’s time is spent finding, cleaning up, and organizing the data they put into their models. Over time, however, increasingly sophisticated error and anomaly detection programs will likely be used to comb through datasets and screen out information that is incomplete or inaccurate.   
+This means that, as time goes on and machine learning capabilities continue to develop, we’ll see machine learning engineers have more tools in their belt to clean up the information their programs use, and thus be able to focus more time spent on putting together ML programs themselves.  
+Challenge 3: Reproducibility  
+Reproducibility is often defined as the ability to be able to keep a snapshot of the state of a specific machine learning model, and being able to reproduce the same experiment with the exact same results regardless of the time and location. This involves a great level of complexity, given that machine learning requires reproducibility of three components: 1) code, 2) artifacts, and 3) data. If one of these change, then the result will change.   
+To add to this complexity, it’s also necessary to keep reproducibility of entire pipelines that may consist of two or more of these atomic steps, which introduces an exponential level of complexity. For machine learning, reproducibility is important because it lets engineers and data scientists know that the results of a model can be relied upon when they are deployed live, as they will be the same if they are run today as if they were run in two years.  
+Designing infrastructure for machine learning that is reproducible is a huge challenge. It will continue to be a thorn in the side of machine learning engineers for many years to come. One thing that may make this easier in coming years is the rise of universally accepted frameworks for machine learning test environments, which will provide a consistent barometer for engineers to measure their efforts against.  
+Challenge 4: Monitoring  
+It’s easy to forget that the lifecycle of a machine learning model only begins when it’s deployed to production. Consequently, a machine learning engineer not only needs to do the work of coding, testing, and deploying a model, but they’ll have to also develop the right tools to monitor it.   
+The production environment of a model can often throw up scenarios the machine learning engineer didn’t anticipate when they were creating it. Without monitoring and intervention after deployment, it’s likely that a model can end up being rendered dysfunctional or produce skewed results by unexpected data. Without accurate monitoring, results can often slowly ‘drift’ away from what is expected due to input data becoming misaligned with the data a model was “trained” with, producing less and less effective or logical results.   
+Adversarial attacks on models, often far more sophisticated than tweets and a chatbot, are of increasing concern, and it is clear that monitoring by machine learning engineers is needed to stop a model being rendered counterproductive by unexpected data. As more machine learning models are deployed, and as more economic output becomes dependent upon these models, this challenge is only going to grow in prominence for machine learning engineers going forward.  
+Machine Learning Engineer: An Evolving Role  
+One of the most exciting things about the role of the machine learning engineer is that it’s a job that’s still being defined, and still faces so many open problems. That means machine learning engineers get the thrill of working in a constantly changing field that deals with cutting-edge problems.   
+Challenges such as data quality may be problems we can make major progress towards in the coming years. Other challenges, such monitoring, look set to become more pressing in the more immediate future. Given the constant flux of machine learning engineering as an occupation, it’s of little wonder that curiosity and an innovative mindset are essential qualities for this relatively new profession.  
+Alex Housley is CEO of Seldon.  
+",https://schema.org/,,Article,2020-05-04T12:45:00Z,Machine Learning Engineer: Challenges and Changes Facing the Profession,"{'@type': 'WebPage', '@id': 'https://www.dice.com/career-advice/machine-learning-engineer-challenges-changes-facing-profession'}","{'@type': 'ImageObject', 'url': 'https://www.dice.com/binaries/large/content/gallery/dice/insights/2019/04/shutterstock_1099657373.jpg', 'width': 1000, 'height': 667}","{'@type': 'Person', 'name': 'Dice Guest', 'url': 'https://www.dice.com/about/authors/dice-guest'}","{'@type': 'Organization', 'name': 'Dice', 'url': 'https://www.dice.com', 'logo': 'https://www.dice.com/binaries/content/gallery/dice/icons/dice-logo.svg', 'sameAs': ['https://www.linkedin.com/company/dice', 'https://www.facebook.com/dice', 'https://twitter.com/Dicedotcom', 'https://www.instagram.com/dicedotcom', 'https://www.youtube.com/Dice', 'https://www.facebook.com/DiceforEmployers', 'https://twitter.com/Dice4Employers']}",,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9jYXBhYmlsaXRpZXMvcXVhbnR1bWJsYWNrL291ci1pbnNpZ2h0cy9ob3ctdG8tYnVpbGQtYWktd2l0aC1hbmQtZm9yLWV2ZXJ5b25lLWluLXlvdXItb3JnYW5pemF0aW9u0gEA?oc=5,How to democratize AI within your organization - McKinsey,2020-05-04,McKinsey,https://www.mckinsey.com,"Becoming an AI-driven business requires contributions from your entire workforce. While the transformation takes time, several tactics can begin democratizing AI now.",N/A,"Becoming an AI-driven business requires contributions from your entire workforce. While the transformation takes time, several tactics can begin democratizing AI now.","Becoming an AI-driven business requires contributions from your entire workforce. While the transformation takes time, several tactics can begin democratizing AI now.",N/A,N/A,N/A,https://schema.org,,Article,2019-05-04T00:00:00Z,,"{'@type': 'WebPage', '@id': 'https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-to-build-ai-with-and-for-everyone-in-your-organization'}",https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20analytics/our%20insights/how%20to%20build%20ai%20with%20and%20for%20everyone%20in%20your%20organization/how-to-build-ai-for-everyone-standard-1536x1536.jpg,"[{'@type': 'Person', 'name': 'Benjamin Cheatham'}, {'@type': 'Person', 'name': 'Alex Cosmas', 'url': 'https://www.mckinsey.com/our-people/alex-cosmas'}, {'@type': 'Person', 'name': 'Nehal Mehta'}, {'@type': 'Person', 'name': 'Dhruv Shah'}]","{'@type': 'Organization', 'name': 'McKinsey & Company', 'logo': {'@type': 'ImageObject', 'url': 'https://www.mckinsey.com/~/media/Thumbnails/Mck_Logo'}}",https://www.mckinsey.com,2019-05-31T00:56:25Z,2020-05-04T00:00:00Z,How to build AI with (and for) everyone in your organization,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW50ZXJwcmlzZXJzcHJvamVjdC5jb20vYXJ0aWNsZS8yMDIwLzUvZWRnZS1hbmQtYWktNy10aGluZ3Mta25vd9IBAA?oc=5,Edge computing and AI: 7 things to know - The Enterprisers Project,2020-05-05,The Enterprisers Project,https://enterprisersproject.com,How do edge computing and artificial intelligence (AI) work together? Why does edge fit well with AI? What are some use cases? Let's examine what IT leaders should know,N/A,How do edge computing and artificial intelligence (AI) work together? Why does edge fit well with AI? What are some use cases? Let's examine what IT leaders should know,How do edge computing and artificial intelligence (AI) work together? Why does edge fit well with AI? What are some use cases? Let's examine what IT leaders should know,N/A,N/A,"
+How do edge computing and artificial intelligence (AI) work together? Why does edge fit well with AI? What are some use cases? Let's examine what IT leaders should know
+
+
+
+          By 
+
+Stephanie Overby
+
+
+May 5, 2020          |
+%t min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      571 readers like this.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For decades,  artificial intelligence (AI) lived in data centers, where there was sufficient compute power to perform processor-demanding cognitive tasks. In time, AI made its way into software, where predictive algorithms changed the nature of how these systems support the business. Now AI has moved to the outer edges of networks.
+“Edge AI happens when AI techniques are embedded in Internet of Things ( IoT) endpoints, gateways, and other devices at the point of use,” explains Jason Mann, vice president of IoT at SAS. 
+“Put another way, edge computing brings the data and the compute closest to the point of interaction,” says Red Hat chief technology strategist E.G. Nadhan. Edge AI is a very real (and rapidly expanding) phenomenon, powering everything from smartphones and smart speakers to automotive sensors and security cameras.
+AI is “the most common workload” in edge computing.
+In fact, says Dave McCarthy, research director within IDC’s worldwide infrastructure practice focusing on edge strategies, AI is “the most common workload” in edge computing. “As IoT implementations have matured,” he adds, “there has been an increased interest in applying AI at the point of generation for real-time event detection.” 
+Deloitte predicts that more than 750 million edge AI chips (specifically designed to perform or accelerate on-device machine learning) will be sold this year, with the enterprise market growing faster than its consumer counterpart at a compound annual growth rate of 50 percent over the next four years.
+Enterprises will spend an average of 30 percent of their IT budgets on edge cloud computing over the next three years, according to “Strategies for Success at the Edge, 2019,” a report by Analysys Mason.
+[ Why does edge computing matter to IT leaders – and what’s next? Learn more about Red Hat’s point of view. ]
+As IT leaders consider where edge AI might fit into their own enterprise technology roadmap, here are some things we know now:
+1. It's important to begin at the beginning
+If you haven’t already implemented an edge solution, you can’t leapfrog to edge AI. “The first step for most IT leaders today is in constructing a solution architecture that leverages edge computing in conjunction with a cloud backend,” says Seth Robinson, senior director of technology analysis, at CompTIA. “Moving forward, integrating AI will be a critical step in managing the scale of edge solutions and building competitive advantage.”
+2. Edge AI can address limitations of cloud-based AI
+Every time you ask Siri or Alexa or Google a question, for example, your voice recording is sent to an edge network.
+Latency, security, cost, bandwidth, and privacy are some of the issues associated with machine- or deep-learning tasks that edge AI – closer to data sources – can mitigate. Every time you ask Siri or Alexa or Google a question, for example, your voice recording is sent to an edge network where Google, Apple, or Amazon uses AI to translate voice to text to enable a command processor to generate an answer.
+Without the edge, waiting seconds for a response would be commonplace. “The edge network allows for a pleasant user experience within the Doherty Threshold (less than 400 milliseconds),” says Stephen Blum, CTO and co-founder at PubNub. “Google, Apple, and Amazon have spent millions investing in their edge so that their AI can answer you quickly. To compete with the giants, the business needs to invest in edge AI.”
+[ Get a shareable primer: How to explain edge computing in plain English.] 
+3. Only a portion of AI workflow happens at edge today
+The AI models themselves are usually trained in a central data center or cloud infrastructure using historical data sets.
+“AI edge processing today is focused on moving the inference part of the AI workflow to the device,” Omdia analysts explain in their Artificial Intelligence for Edge Devices report. The AI models themselves are usually trained in a central data center or cloud infrastructure using historical data sets, IDC’s McCarthy explains. Then those AI models can be deployed to the edge for local inferencing against current data.
+“Essentially, companies can train in one environment and execute in another,” says Mann of SAS. “The vast volumes of data and compute power required to train machine learning is a perfect fit for cloud, while inference or running the trained models on new data is a perfect fit for execution at the edge.” Model compression techniques that “enable squeezing large AI models into small hardware form factors” could push some training to the edge over time, notes Omdia.
+[ Read also: How big data and AI work together. ]
+4. Real-time learning at the edge will take time
+“Real-time learning allows the AI to continuously evolve and improve during each interaction. For the AI to learn in real time, the matrix (AI brain) must allow training while also answering to your requests. Additionally, data learned must be synchronized with peering edges,” says Blum of PubNub. “This logistical challenge has led most networks to exclude real-time learning.”
+When those challenges are overcome, however, that will open up the door to even more advanced Edge AI applications, Blum says.
+Let’s look at three more important factors:
+
+Pagination
+
+
+
+
+              Current page
+            1
+
+
+
+
+              Page
+            2
+
+
+
+Next page
+Next ›
+
+
+
+
+Last page
+Last »
+
+
+
+
+
+
+
+
+
+
+Topics
+
+IT Strategy
+Artificial Intelligence
+Edge Computing
+
+
+
+
+
+
+
+ 
+Stephanie Overby is an award-winning reporter and editor with more than twenty years of professional journalism experience. For the last decade, her work has focused on the intersection of business and technology. She lives in Boston, Mass.
+More about me
+
+
+
+
+
+
+Related content
+
+
+ 
+
+Reimagining employee retention: 4 tips
+ 
+
+5 Harvard Business Review articles that will resonate with CIOs right now
+ 
+
+Remote work: 3 pros and 3 cons
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9ob3ctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtY2FuLXNhdmUtam91cm5hbGlzbS0xMzc1NDTSAQA?oc=5,How artificial intelligence can save journalism - The Conversation,2020-05-05,The Conversation,https://theconversation.com,Journalism is not keeping pace with the evolution of new technologies. Newsrooms need to take advantage of what AI can offer and come up with a new business model.,N/A,Journalism is not keeping pace with the evolution of new technologies. Newsrooms need to take advantage of what AI can offer and come up with a new business model.,N/A,N/A,N/A,"
+
+
+
+
+
+
+        Newsrooms need to take advantage of what AI can offer and come up with new a business model.
+        (Shutterstock)
+
+
+
+
+
+
+
+
+
+            How artificial intelligence can save journalism
+          
+
+
+
+
+Published: May 5, 2020 4:41pm EDT
+
+
+
+
+
+
+
+
+
+
+
+
+Patrick White, Université du Québec à Montréal (UQAM)
+
+
+
+Author
+
+
+
+
+
+        Patrick White
+      
+
+
+      professeur de journalisme , Université du Québec à Montréal (UQAM)
+    
+
+
+
+
+
+Disclosure statement
+Patrick White does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+
+
+Partners
+
+Université du Québec à Montréal (UQAM) provides funding as a founding partner of The Conversation CA-FR.Université du Québec à Montréal (UQAM) provides funding as a member of The Conversation CA.
+View all partners
+
+We believe in the free flow of informationRepublish our articles for free, online or in print, under a Creative Commons license.Republish this article
+
+
+
+
+
+ Email
+
+
+ X (Twitter)69
+
+
+ Facebook172
+
+
+ LinkedIn
+
+
+ WhatsApp
+
+
+ Messenger
+
+ Print
+
+
+The economic fallout from the COVID-19 pandemic has caused an unprecedented crisis in journalism that could decimate media organizations around the world.
+The future of journalism — and its survival — could lie in artificial intelligence (AI). AI refers “to intelligent machines that learn from experience and perform tasks like humans,” according to Francesco Marconi, a professor of journalism at Columbia University in New York, who has just published a book on the subject: Newsmakers, Artificial Intelligence and the Future of Journalism.
+Marconi was head of the media lab at the Wall Street Journal and the Associated Press, one of the largest news organizations in the world. His thesis is clear and incontrovertible: the journalism world is not keeping pace with the evolution of new technologies. So, newsrooms need to take advantage of what AI can offer and come up with new a business model.
+
+For Marconi, journalists and media owners are missing out and AI needs to be at the heart of journalism’s business model in the future. As a professor of journalism at the Université du Québec à Montréal, I have been closely following the evolution of this profession since 1990, and I am mostly in agreement with him. 
+In Canada, The Canadian Press news agency is, for example, one of the rare media outlets to use AI in its newsrooms. It has  developed a system to speed up translations based on AI. The _Agence France-Presse_ news agency (AFP) also uses AI to detect doctored photos.
+AI does not replace journalists
+Artificial intelligence is not there to replace journalists or eliminate jobs. Marconi believes that only eight to 12 per cent of reporters’ current tasks will be taken over by machines, which will in fact reorient editors and journalists towards value-added content: long-form journalism, feature interviews, analysis, data-driven journalism and investigative journalism.
+At the moment, AI robots perform basic tasks like writing two to six paragraphs on sports scores and quarterly earnings reports at the Associated Press, election results in Switzerland and Olympic results at the Washington Post. The outcomes are convincing, but they also show the limits of AI.
+AI robots analyzing large databases can send journalists at Bloomberg News an alert as soon as a trend or anomaly emerges from big data.
+AI can also save reporters a lot of time by transcribing audio and video interviews. AFP has a tool for that. The same is true for major reports on pollution or violence, which rely on vast databases. The machines can analyze complex data in no time at all.
+Afterwards, the journalist does his or her essential work of fact-checking, analyzing, contextualizing and gathering information. AI can hardly replace this. In this sense, humans must remain central to the entire journalistic process.
+A broken business model
+Marconi is quite right when he explains that the media must develop a paid subscription model, get closer to their communities with even more relevant content, develop new products (newsletters, events, podcasts, videos) and new content. AI can facilitate some of this by generating personalized news: recommendations for readers, for example.
+In this sense, AI is part of a new business model based on breaking down media silos. There needs to be a symbiosis in the sense of establishing a “close collaboration” between the editorial staff and other media teams such as engineers, computer scientists, statisticians, sales or marketing staff.
+In a newsroom, more than ever before, databases must be used to find stories that are relevant to readers, listeners, viewers and internet users.
+And there are already various AI tools available to detect trends or hot topics on the internet and social media. These tools can also help newsrooms distribute content.
+Beware of bias
+Of course, newsroom size must be taken into account. A small weekly or a hyper-local media organization may not have the means to act quickly in adopting AI. But for the others, it’s important to start taking action right away. Journalists need to be better trained and begin to work with start-ups and universities to get the best out of this. AI is not a fad. It is here to stay.
+
+
+
+Journalism is not keeping up with new technologies, writes Francesco Marconi in Newsmakers, Artificial Intelligence and the Future of Journalism.
+
+
+Take the current example of COVID-19. This is an opportunity to analyze public health data to make connections, analyze and dig into the data neighbourhood by neighbourhood and street by street. AI can help with that. But it takes well-trained data reporters to do this work.
+One of the dangers of AI, on the other hand, is algorithm bias. Because algorithms are designed by humans, there will always be biases that can alter data analysis and lead to serious consequences. And human verification of content before publication will always remain a safeguard against errors.
+AI has also helped developing systems for detecting fake videos (deepfakes) and fake news, which are of course supported by experienced journalists from Reuters and AFP, for example.  
+In this sense, the transformation of newsrooms is only just beginning and Marconi’s essay is a must-read for identifying survival scenarios for media organizations and journalists. Because that’s what it’s all about. We need to better equip our newsrooms and completely rethink the workflow to achieve better collaboration and better content that will attract new and paying subscribers.
+
+
+
+
+
+Artificial intelligence (AI)
+
+
+Media
+
+
+Journalism
+
+
+Future of journalism
+
+
+Media business models
+
+
+data journalism
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmdsb2JhbGdvdmVybm1lbnRmb3J1bS5jb20vaW5kaWFuLXBtLWluc3RydWN0cy1uYXRpb25zLXdvcmtmb3JjZS10by1kb3dubG9hZC1jb3ZpZC0xOS1hcHAv0gEA?oc=5,Indian PM instructs nation’s workforce to download COVID-19 app - Global Government Forum,2020-05-04,Global Government Forum,https://www.globalgovernmentforum.com,"The Indian government has instructed all public and private sector employees to use its contact-tracing app, in an effort to prevent the spread of COVID-19.",N/A,N/A,"The Indian government has instructed all public and private sector employees to use its contact-tracing app, in an effort to prevent the spread of COVID-19.",N/A,N/A,N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/', 'url': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/', 'name': 'Indian PM instructs nation’s workforce to download COVID-19 app - Global Government Forum', 'isPartOf': {'@id': 'https://www.globalgovernmentforum.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/#primaryimage'}, 'image': {'@id': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/#primaryimage'}, 'thumbnailUrl': 'https://www.globalgovernmentforum.com/wp-content/uploads/2020/05/2020-05-04_India-contact-tracing-app_corona_CREDIT-The-Kremlin.jpg', 'datePublished': '2020-05-04T17:54:25+00:00', 'dateModified': '2020-09-24T15:06:13+00:00', 'author': {'@id': 'https://www.globalgovernmentforum.com/#/schema/person/f5a8d2b5e93b0a239794500615a848f9'}, 'description': 'The Indian government has instructed all public and private sector employees to use its contact-tracing app, in an effort to prevent the spread of COVID-19.', 'breadcrumb': {'@id': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/#primaryimage', 'url': 'https://www.globalgovernmentforum.com/wp-content/uploads/2020/05/2020-05-04_India-contact-tracing-app_corona_CREDIT-The-Kremlin.jpg', 'contentUrl': 'https://www.globalgovernmentforum.com/wp-content/uploads/2020/05/2020-05-04_India-contact-tracing-app_corona_CREDIT-The-Kremlin.jpg', 'width': 1240, 'height': 765, 'caption': 'PM Narendra Modi says the reforms will “radically improve” the government’s human resource management practices. (Image courtesy: The Kremlin).'}, {'@type': 'BreadcrumbList', '@id': 'https://www.globalgovernmentforum.com/indian-pm-instructs-nations-workforce-to-download-covid-19-app/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.globalgovernmentforum.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Sections', 'item': 'https://www.globalgovernmentforum.com/sections/'}, {'@type': 'ListItem', 'position': 3, 'name': 'AIRPA News', 'item': 'https://www.globalgovernmentforum.com/sections/ai-rpa-news/'}, {'@type': 'ListItem', 'position': 4, 'name': 'Indian PM instructs nation’s workforce to download COVID-19 app'}]}, {'@type': 'WebSite', '@id': 'https://www.globalgovernmentforum.com/#website', 'url': 'https://www.globalgovernmentforum.com/', 'name': 'Global Government Forum', 'description': 'Government &amp; Civil Service News', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.globalgovernmentforum.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.globalgovernmentforum.com/#/schema/person/f5a8d2b5e93b0a239794500615a848f9', 'name': 'Mia Hunt', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.globalgovernmentforum.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/59fcce94617e331de23226a46f8ce096?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/59fcce94617e331de23226a46f8ce096?s=96&d=mm&r=g', 'caption': 'Mia Hunt'}, 'description': 'Mia is a journalist and editor with a background in covering commercial property, having been market reports and supplements editor at trade title Property Week and deputy editor of Shopping Centre magazine, now known as Retail Destination. She has also undertaken freelance work for several publications including the preview magazine of international trade show, MAPIC, and TES Global (formerly the Times Educational Supplement) and has produced a white paper on energy efficiency in business for E.ON. Between 2014 and 2016, she was a member of the Revo Customer Experience Committee and an ACE Awards judge. Mia graduated from Kingston University with a first-class degree in journalism and was part of the team that produced The River newspaper, which won Publication of the Year at the Guardian Student Media Awards in 2010.', 'sameAs': ['https://www.linkedin.com/in/mia-hunt-a5660417/', 'https://twitter.com/@MiaHunt9'], 'url': 'https://www.globalgovernmentforum.com/author/mia-hunt/'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vaGVhbHRoaXRhbmFseXRpY3MuY29tL25ld3MvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWNjZWxlcmF0ZXMtc2VhcmNoLWZvci1jb3ZpZC0xOS10cmVhdG1lbnRz0gEA?oc=5,Artificial Intelligence Accelerates Search for COVID-19 Treatments - HealthCareExecIntelligence,2020-05-05,HealthCareExecIntelligence,https://healthitanalytics.com,Researchers are using an artificial intelligence-powered tool to prioritize the most promising studies on COVID-19.,N/A,Researchers are using an artificial intelligence-powered tool to determine which COVID-19-related research will yield valuable results.,Researchers are using an artificial intelligence-powered tool to determine which COVID-19-related research will yield valuable results.,N/A,N/A,"
+
+
+Getty Images
+Getty Images
+
+
+
+
+
+News
+
+
+Artificial Intelligence Accelerates Search for COVID-19 Treatments
+
+
+Researchers are using an artificial intelligence-powered tool to prioritize the most promising studies on COVID-19.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Jessica Kent
+
+
+Published: 05 May 2020
+
+
+ 
+A team from Northwestern University has developed an artificial intelligence platform that can quickly identify research that has the most potential to produce COVID-19 treatments and solutions.
+
+
+
+
+
+
+
+For more coronavirus updates, visit our resource page, updated twice daily by Xtelligent Healthcare Media.
+As the pandemic continues, scientists are conducting massive amounts of research related to coronavirus. With federal agencies like the FDA and HHS planning to accelerate clinical trials, hundreds of researchers are testing possible new treatments and vaccines, adding to the already-immense body of COVID-19 data.
+To determine which research has the most potential to yield real solutions, the scientific community has historically used the Defense Advanced Research Projects Agency’s Systematizing Confidence in Open Research and Evidence (DARPA SCORE) program. The program relies on scientific experts to review and rate submitted research studies based on how likely they are to be replicable.
+On average, this process can take about 314 days, which is a long time to wait during a global pandemic.
+With the AI-powered tool, researchers can prioritize resources for the most promising studies, and ignore studies that are unlikely to yield valuable solutions. The model is just as accurate as the human scoring system at making these predictions, and it can scale up to review a larger number of papers in minutes instead of months.
+“The standard process is too expensive, both financially and in terms of opportunity costs,” said Brian Uzzi, Richard L. Thomas Professor of Leadership at Kellogg and co-director of the Northwestern Institute on Complex Systems.
+“First, it takes take too long to move on to the second phase of testing and second, when experts are spending their time reviewing other people’s work, it means they are not in the lab conducting their own research.”
+The artificial intelligence tool bypasses the human-scoring method, allowing the research community and policymakers to make faster decisions about prioritizing time and funds on studies that are likely to succeed.
+To build the platform, the Northwestern team developed an algorithm that would predict which studies’ results are likely to be replicable – a critical sign that a study’s results are valid. The model’s prediction of the likelihood of replicability may be more accurate than the traditional human-scoring prediction.
+Because it considers more of the narrative of the study – and expert reviewers tend to focus on the strength of relational statistics – the model may have a better idea of which studies could generate viable solutions.
+“There is a lot of valuable information in how study authors explain their results,” Uzzi said. “The words they use reveal their own confidence in their findings, but it is hard for the average human to detect that.”
+The algorithm analyzes the words of thousands of papers, recognizing word-choice patterns that humans might not recognize. Additionally, the tool has a much bigger schema to draw upon for its predictions, making it an ideal supplement to human expertise. Researchers can use the model to analyze COVID-19 -related research papers and quickly determine which show the most promise.
+“This tool is particularly useful in this crisis situation where we can’t act fast enough,” Uzzi said. “It can give us an accurate estimate of what’s going to work and not work very quickly. We’re behind the ball, and this can help us catch up.”
+Used alone, the tool has an accuracy comparable to the DARPA SCORE method. Together, human experts and the algorithm predict which findings will be replicable with even greater accuracy than either method on its own.
+“This tool will help us conduct the business of science with greater accuracy and efficiency,” Uzzi said. “Now more than ever, it’s essential for the research community to operate lean, focusing only on those studies which hold real promise.”
+With this AI-powered tool, researchers can come closer to finding a potential treatment for COVID-19.
+“In the midst of a public health crisis, it is essential that we focus our efforts on the most promising research,” said Uzzi. “This is important not only to save lives, but also to quickly tamp down the misinformation that results from poorly conducted research.”
+
+Next Steps
+Predictive Analytics Models Help Plan for COVID-19 DemandsCould COVID-19 Help Refine AI, Data Analytics in Healthcare?Machine Learning Tools Predict Impact of Quarantine on COVID-19
+
+
+
+
+
+Dig Deeper on Artificial intelligence in healthcare
+
+
+
+Researchers demonstrate value of AI in predicting heart disease
+
+
+
+
+By: Cliff Saran
+
+
+
+
+Machine learning tools predict COVID-19 vaccine hesitancy, uptake
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+AI Tool May Help Breast Cancer Patients Avoid Unnecessary Chemotherapy
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+Generative AI May Facilitate Improved Chest X-Ray Interpretation
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+
+
+
+Sponsored News
+
+
+A Generative AI Use Case Brought to Life with Solutions from Dell Technologies
+–Dell Technologies and Intel
+
+
+Driving Digital Transformation With Flexible IT from Dell and VMware
+–Dell Technologies
+
+
+Unlock the Value Of Your Data To Harness Intelligence and Innovation
+–HPE
+
+See More
+
+
+
+
+
+Related Content
+
+
+AI Tool May Help Breast Cancer Patients Avoid ...
+– Healthtech Analytics
+
+
+Using Social Determinants of Health Data in Machine ...
+– Healthtech Analytics
+
+
+CT Scans Outperform Polygenic Risk Prediction Methods...
+– Healthtech Analytics
+
+
+
+
+
+
+
+
+",https://schema.org,,NewsArticle,2020-05-05T05:30Z,Artificial Intelligence Accelerates Search for COVID-19 Treatments,"{'@type': 'WebPage', '@id': 'https://www.techtarget.com/healthtechanalytics/news/366591669/Artificial-Intelligence-Accelerates-Search-for-COVID-19-Treatments'}",https://cdn.ttgtmedia.com/rms/onlineimages/machine learning_g1186820873.jpg,"[{'name': 'Jessica Kent', '@type': 'Person'}]","{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",,,,,Artificial Intelligence Accelerates Search for COVID-19 Treatments,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",False,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZhcm1wcm9ncmVzcy5jb20vdGVjaG5vbG9neS9jb21wYW5pZXMtZXhwYW5kLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXBpdm90LXRyaWFs0gEA?oc=5,Companies expand artificial intelligence pivot trial - Farm Progress,2020-05-06,Farm Progress,https://www.farmprogress.com,"Building on a first-year trial, Valley Irrigation and Prospera aim to quadruple acreage in 2020 and continue an on-pivot sensor test.",N/A,"Building on a first-year trial, Valley Irrigation and Prospera aim to quadruple acreage in 2020 and continue an on-pivot sensor test.",N/A,N/A,N/A,N/A,https://schema.org,,BreadcrumbList,2020-05-06T08:00:00.000Z,Companies expand artificial intelligence pivot trial,https://www.farmprogress.com/technology/companies-expand-artificial-intelligence-pivot-trial,"{'@type': 'ImageObject', 'url': 'https://eu-images.contentstack.com/v3/assets/bltdd43779342bd9107/blt36e423b70b0e1822/638f9c5a4a87af137c4c5128/0504W-2203A-1540x800.jpg', 'caption': 'PIVOT DATA COLLECTOR: The Valley Irrigation-Prospera partnership is expending into two more states in 2020, and working more with on-pivot sensors for enhanced field management.', 'creditText': 'Courtesy of Valley Irrigation'}","[{'@type': 'Person', 'name': 'Willie Vogt', 'image': 'https://eu-images.contentstack.com/v3/assets/bltdd43779342bd9107/blt5cd92c1be9357c91/638ee06d062c637e182773b3/willie-vogt-2019-374x374.jpg', 'url': 'https://www.farmprogress.com/author/willie-vogt'}]","{'@type': ['NewsMediaOrganization', 'Organization', 'OnlineBusiness'], 'identifier': 'https://www.farmprogress.com', 'name': 'Farm Progress', 'url': 'https://www.farmprogress.com', 'sameAs': ['https://www.facebook.com/Farmprogressdaily/', 'https://twitter.com/farmdaily', 'https://www.youtube.com/user/FarmProgressDaily', 'https://www.instagram.com/farmprogress/?hl=en'], 'foundingDate': '1994', 'description': 'The Farm Progress editorial team is committed to becoming the most trusted and influential media source for people involved in agriculture. Our vision is to set the standard for excellence in agricultural journalism, and our goal is to tell agriculture’s story through words and images across multiple channels. We will do that through thought-provoking, engaging journalism that helps our audience prosper. We provide the information U.S. agriculture needs, when and where they want it.', 'logo': {'@type': 'ImageObject', 'url': 'https://www.farmprogress.com/build/_assets/FarmProgress-53HJGOQV.svg', 'width': {'@type': 'QuantitativeValue', 'value': 391}, 'height': {'@type': 'QuantitativeValue', 'value': 112}}}",,,2023-01-11T10:30:06.703Z,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.farmprogress.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Technology', 'item': 'https://www.farmprogress.com/farm-business/technology'}]",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8veW91cnN0b3J5LmNvbS9teXN0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWZyaWVuZC1mb2XSAQA?oc=5,Intelligent Artificial Intelligence: Friend or Foe? - YourStory,2020-05-04,YourStory,https://yourstory.com,"Artificial Intelligence allows robots replace human doing manual work. It is a boon for us to boost local production and create a value. So, it is a friend.","Artificial intelligence technology, artificial intelligence solutions, artificial intelligence trends, artificial intelligence","Artificial Intelligence allows robots replace human doing manual work. It is a boon for us to boost local production and create a value. So, it is a friend.","Artificial Intelligence allows robots replace human doing manual work. It is a boon for us to boost local production and create a value. So, it is a friend.",Tech,N/A,N/A,http://schema.org,,Article,2020-05-04T09:38:21.350Z,Intelligent Artificial Intelligence: Friend or Foe?,"{'@type': 'WebPage', '@id': 'https://yourstory.com/mystory/artificial-intelligence-friend-foe'}",['https://images.yourstory.com/cs/1/697c41d027e011ea9b81d39352a9e41a/3WaysArtificialIntelligenceisafriendratherthanafoe-1588582228577.jpg'],"{'@type': 'Person', 'name': 'Ash Mufareh'}","{'@type': 'Organization', 'name': 'YourStory', 'alternateName': ['Yourstory', 'Yourstory Media Pvt Ltd', 'Yourstory Media'], 'logo': {'@type': 'ImageObject', 'url': 'https://images.yourstory.com/cs/static/logos/publisher-logo.png', 'width': 292, 'height': 60, 'caption': 'YourStory Media'}, 'url': 'https://yourstory.com', 'sameAs': ['https://www.facebook.com/yourstorycom', 'https://twitter.com/YourStoryCo', 'https://www.youtube.com/user/yourstorytv', 'https://instagram.com/yourstory_com', 'http://plus.google.com/111272339013288238153', 'https://in.linkedin.com/company/yourstory-com']}",https://yourstory.com/mystory/artificial-intelligence-friend-foe,,2020-05-04T09:38:21.350Z,,Intelligent Artificial Intelligence: Friend or Foe?,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://yourstory.com', 'name': 'YourStory', 'image': {'@type': 'ImageObject', 'url': 'https://images.yourstory.com/cs/static/logos/publisher-logo.png', 'width': 292, 'height': 60}}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://yourstory.com/mystory/artificial-intelligence-friend-foe', 'name': 'Intelligent Artificial Intelligence: Friend or Foe?', 'image': {'@type': 'ImageObject', 'url': 'https://images.yourstory.com/cs/1/697c41d027e011ea9b81d39352a9e41a/3WaysArtificialIntelligenceisafriendratherthanafoe-1588582228577.jpg', 'height': 400, 'width': 800}}}]","{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}",artificial-intelligence-friend-foe,News,"Artificial Intelligence is one of the most discussed topics in the world right now and people are trying to foresee the danger that it can possess to humans. Some people still live in the shadows of fear and agony along every other innovation in the world, this is not the right way. Now, let us discuss 3 different ways to prove artificial intelligence is a friend rather than a foe:An intelligent AI that is able to feel human emotions is still few centuries away, but there is no guarantee of this sort of behavior when arrived. To accomplish certain goals, AI will be incredibly beneficial to make sure that the goals set for them are kept in check. Stephen Hawking, Elon Musk and Bill Gates have feared the potential that AI has been directly linked to the demise of humanity. Everyone knows that it is possible that if Artificial Intelligence is given access to its fullest power, the super Artificial Intelligence will overtake human intelligence and eventually control the planet. There are still a huge number of experts who think this is just fear mongering, by suggesting people not to worry more about this type of problem. Instead, people should be worrying about existing problems such as climate change, nuclear weapons, and neo-fascist political movements. However, this is not true at all, so let us take a close look at 3 ways artificial intelligence is a friend rather than a foe.1. AI technology is not a danger to humanity:The true fact is that all knows that if given the complete power, the super-AI technology will dominate human intelligence and soon the planet will be under their control, which will lead to a biggest question mark for the human existence on this planet. This is an incredibly silly notion that AI should not be encouraged to not spread mass hysteria. Humanity is still much smarter and cannot be challenged by this form of technology that needs to be constantly programmed and taught.  2. AI solution can reduce unemployment:The biggest fear that people have of AI is that it can tremendously reduce employment and can cause people to lose their jobs on a global scale. The fear of losing a present job is unimaginable, but people should not forget that their present jobs are the most booming and upgraded recently. The people who are familiar with AI will continuously work and gain success while others will fail. 3. Insufficient knowledge about Artificial Intelligence technology:According to a latest survey conducted online among global technology professionals, 56 percent of professionals agree that insufficient knowledge of AI talent is their weakness. The amazing fact is that the number increased from 36 percent and a survey was conducted four months ago for all levels of various technology professionals and special training is given based on the design of the Artificial Intelligence. Having a productive team can lead to innovations in organizations and small firms are nowadays using AI technology initially, which can cause people to believe that they know more than what they actually do. Conclusion:In conclusion, artificial intelligence is a boon and a blessing rather than a detriment. The future of job markets is going to increase tremendously and the slow transition period of 5-10 years will give sufficient time for industries to adopt the technology. Based on the design of the AI, proper authority should be given and this AI based decision will change the look of the industry.We hope you found this article informative in understanding the importance and relevance of artificial intelligence technology! Thanks for reading.","{'@type': 'WebPage', '@id': 'https://yourstory.com/mystory/artificial-intelligence-friend-foe', 'url': 'https://yourstory.com/mystory/artificial-intelligence-friend-foe', 'inLanguage': 'en', 'name': 'Intelligent Artificial Intelligence: Friend or Foe?', 'datePublished': '2020-05-04T09:38:21.350Z', 'dateModified': '2020-05-04T09:38:21.350Z', 'description': 'Artificial Intelligence allows robots replace human doing manual work. It is a boon for us to boost local production and create a value. So, it is a friend.', 'isPartOf': {'@type': 'WebSite', '@id': 'https://yourstory.com/#website', 'url': 'https://yourstory.com/', 'name': 'YourStory', 'headline': 'Yourstory', 'description': 'YourStory | Stories from the Startups, Business, SMEs, Research, Entrepreneurs, Social, Women, Automotive and other sectors', 'publisher': {'@type': 'Organization', 'name': 'YourStory', 'alternateName': ['Yourstory', 'Yourstory Media Pvt Ltd', 'Yourstory Media'], 'logo': {'@type': 'ImageObject', 'url': 'https://images.yourstory.com/cs/static/logos/publisher-logo.png', 'width': 292, 'height': 60, 'caption': 'YourStory Media'}, 'url': 'https://yourstory.com', 'sameAs': ['https://www.facebook.com/yourstorycom', 'https://twitter.com/YourStoryCo', 'https://www.youtube.com/user/yourstorytv', 'https://instagram.com/yourstory_com', 'http://plus.google.com/111272339013288238153', 'https://in.linkedin.com/company/yourstory-com']}}}","{'@type': 'AudioObject', 'caption': 'Intelligent Artificial Intelligence: Friend or Foe?', 'transcript': 'Artificial Intelligence is one of the most discussed topics in the world right now and people are trying to foresee the danger that it can possess to humans. Some people still live in the shadows of fear and agony along every other innovation in the world, this is not the right way. Now, let us discuss 3 different ways to prove artificial intelligence is a friend rather than a foe:An intelligent AI that is able to feel human emotions is still few centuries away, but there is no guarantee of this sort of behavior when arrived. To accomplish certain goals, AI will be incredibly beneficial to make sure that the goals set for them are kept in check. Stephen Hawking, Elon Musk and Bill Gates have feared the potential that AI has been directly linked to the demise of humanity. Everyone knows that it is possible that if Artificial Intelligence is given access to its fullest power, the super Artificial Intelligence will overtake human intelligence and eventually control the planet. There are still a huge number of experts who think this is just fear mongering, by suggesting people not to worry more about this type of problem. Instead, people should be worrying about existing problems such as climate change, nuclear weapons, and neo-fascist political movements. However, this is not true at all, so let us take a close look at 3 ways artificial intelligence is a friend rather than a foe.1. AI technology is not a danger to humanity:The true fact is that all knows that if given the complete power, the super-AI technology will dominate human intelligence and soon the planet will be under their control, which will lead to a biggest question mark for the human existence on this planet.\xa0This is an incredibly silly notion that AI should not be encouraged to not spread mass hysteria. Humanity is still much smarter and cannot be challenged by this form of technology that needs to be constantly programmed and taught.  2. AI solution can reduce unemployment:The biggest fear that people have of AI is that it can tremendously reduce employment and can cause people to lose their jobs on a global scale. The fear of losing a present job is unimaginable, but people should not forget that their present jobs are the most booming and upgraded recently. The people who are familiar with AI will continuously work and gain success while others will fail. 3. Insufficient knowledge about Artificial Intelligence technology:According to a latest survey conducted online among global technology professionals, 56 percent of professionals agree that insufficient knowledge of AI talent is their weakness. The amazing fact is that the number increased from 36 percent and a survey was conducted four months ago for all levels of various technology professionals and special training is given based on the design of the Artificial Intelligence. Having a productive team can lead to innovations in organizations and small firms are nowadays using AI technology initially, which can cause people to believe that they know more than what they actually do. Conclusion:In conclusion, artificial intelligence is a boon and a blessing rather than a detriment. The future of job markets is going to increase tremendously and the slow transition period of 5-10 years will give sufficient time for industries to adopt the technology. Based on the design of the AI, proper authority should be given and this AI based decision will change the look of the industry.We hope you found this article informative in understanding the importance and relevance of artificial intelligence technology! Thanks for reading.', 'contentUrl': 'https://yourstory.com/content/audio/prod/155561/story.210ccd63-2c20-45e3-a694-6544d1ff66ee.mp3', 'encodingFormat': 'audio/mpeg'}",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RvcC1hd3MtZW5naW5lZXItdGltLWJyYXktcXVpdHMtMW0tcGx1cy1qb2Itb3Zlci1hbWF6b24tZmlyaW5nLWVtcGxveWVlcy_SAQA?oc=5,Top AWS engineer Tim Bray quits $1m-plus job over Amazon firing employees - ZDNet,2020-05-04,ZDNet,https://www.zdnet.com,"David Gewirtz talks with Karen Roby and takes a long, hard look at how Amazon's upcoming fleet of custom-designed electric vehicles might create an extended retail distribution chain from the warehouse to the porch, and what that might mean for the billions of boxes littering our curbs. Read more: https://zd.net/3ca8uPz",N/A,"Tim Bray, an influential software engineer who worked at Sun Microsystems and Google, has quit over fired workers.","Tim Bray, an influential software engineer who worked at Sun Microsystems and Google, has quit over fired workers.",N/A,N/A,N/A,https://schema.org,,VideoObject,,,,,,,,,,,"How Amazon's 100,000 truck fleet could eliminate the need for cartons",,,,,,,,,,https://www.zdnet.com/a/img/resize/d6ea7d97aac442f18daecd888ce7e252823a708b/2020/02/27/5b33f068-47c1-4dfc-a0b5-4e3b00ee104d/20200227-gewirtz-karen-amazon.png?auto=webp&fit=crop&height=675&width=1200,2020-02-28T13:07:00.000Z,PT0H15M23S,https://mt-rv-v5.zdnet.com/vr/2020/02/27/1703407683989/20200227_Gewirtz_Karen_Amazon_1781611_742.mp4,https://www.zdnet.com/video/share/how-amazons-100000-truck-fleet-could-eliminate-the-need-for-cartons/,,,,,,,
+https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS9yZXN1bWUtc2NyZWVuaW5nLXdpdGgtcHl0aG9uLTFkZWEzNjBiZTQ5YtIBAA?oc=5,Resume Screening with Python. Analyzing Candidates Resumes for Jobs… | by Roberto Salazar - Towards Data Science,2020-05-03,Towards Data Science,https://towardsdatascience.com,"Writing a resume is not a trivial task, especially when it comes to the right selection of keywords. People spend hours writing and formatting the perfect resume hoping it to be read by a talent…",N/A,Analyzing Candidates Resumes for Jobs Openings,Analyzing Candidates Resumes for Jobs Openings,N/A,N/A,"Python for Text AnalyticsResume Screening with PythonAnalyzing Candidates Resumes for Jobs OpeningsRoberto Salazar·FollowPublished inTowards Data Science·5 min read·May 3, 20202692ListenShareImage by Scott Graham available at UnsplashIntroductionWriting a resume is not a trivial task, especially when it comes to the right selection of keywords. People spend hours writing and formatting the perfect resume hoping it to be read by a talent acquisition professional and, eventually, help them land a job interview. Unfortunately, around 75% of resumes submitted are never seen by a human eye.Due to the high number of applicants and resumes submissions to job postings, manual resumes screening processes become tedious, ineffective and time consuming for talent acquisition professionals. Therefore, standardized automated screening methods are necessary to categorize qualified from unqualified candidates based on their background, education and professional experience faster, with more efficiency and more accurate results to streamline hiring processes.Artificial Intelligence in Screening ProgramsArtificial intelligence, along with text mining and natural language processing algorithms, can be applied for the development of programs (i.e. Applicant Tracking Systems) capable of screening objectively thousands of resumes in few minutes without bias to identify the best fit for a job opening based on thresholds, specific criteria or scores.These programs usually look for specific keywords; they sort resumes and rank them to determine the job applications that should be further reviewed by recruiters. While each company might have its own resume screening system, it is crucial for candidates to know how they work with the aim of improving their keywords selection based on the job opening they are applying to.Engineer Resume Screening ExampleSince I am an industrial and systems engineer, let’s land the following example in this professional field. Within the industrial and system engineering field there is a wide range of concentration areas, which include — but not limited to — quality assurance, operations management, manufacture, supply chain, logistics, project management, data analytics and healthcare systems. Each of these has associated key terms and concepts well known within the industrial and systems engineering community.Even though industrial engineers must have knowledge and background of each concentration area, it is often recommended for them to pursue a career in a specific concentration area within this field. In addition, taking into consideration that we are currently on the specialization era, hiring managers are more likely to prioritize candidates with a strong background, knowledge and experience in a specific area than “generalist”’ candidates. Unfortunately, there is a misconception within candidates between being “good and proficient” at everything and being “specialized and highly skilled” in a particular subject.For the following example, let’s build a resume screening Python program capable of categorizing keywords into six different concentration areas (e.g. quality/six sigma, operations management, supply chain, project management, data analytics and healthcare systems) and determining the one with the highest expertise level in an industrial and systems engineer resume. Let’s test it on my resume and see the results!Python CodeThe following Python code will be divided into six major steps. Lines of comments are included to provide a brief explanation and guide you through the coding process.Step #1: PDF file opening, reading and text extractionStep #2: Text cleaningStep #3: Dictionary with key terms by area setup**Disclaimer: the key terms included in each area of this dictionary were obtained through a research of the most common key terms included in industrial and system engineering job postings. This dictionary can be customized to add/remove key terms according to hiring managers criteria.Step #4: Scores calculation per areaStep #5: Sorted data frame for final scores creationScores summary data frameStep #6: Pie chart creationFinal outcomeResume Screening ResultsOutcome InterpretationInteresting. According my resume screening results, my main industrial and systems engineering concentration area is operations management, followed by quality/six sigma tied with data analytics. The results show some degree of experience in healthcare and project management roles.There are two possible ways of analyzing these results. By looking at the scores summary data frame, hiring managers can determine how many key terms were included in each concentration area from a given list. On the other hand, by looking at the pie chart, hiring managers can identify my main concentration area and determine to what extent I could be considered for jobs related to other areas. The scores will be highly influenced by the number of keywords in each concentration area, reason why it is highly recommended to distribute keywords uniformly to avoid undesired bias on the results.As mentioned previously, is up to hiring managers and talent acquisition professionals to define thresholds, metrics and scores to determine a candidate’s qualification for a given job type.Now It’s Your TurnGive it a try! Download the Python code here, load your resume in PDF format and run the code. Find out which is your strongest industrial and system engineering expertise area according to your resume!Concluding ThoughtsIn this tutorial we have gone through one of the many possible applications of artificial intelligence and text mining on resumes screening programs. Real Applicant Tracking Systems are quite more complex and advanced than the program built in here; they not only scan resumes content but their format too. It is crucial for candidates to know how resume screening systems work to beat them and get their resumes to be viewed by a talent acquisition professional.Technology is making the job search process easier and harder. Larger pools of applicants and limited opportunities force candidates to write outstanding resumes capable of defeating the “bots”. It is highly recommended for candidates to optimize their resumes keywords to represent their soft and hard skills and avoid including buzzwords. Do not give up! Work on improving your resume and be confident about your skillset and professional competencies. All the best during your job search process!Interested in learning more about what Applicant Tracking Systems are and how their resume scanners are programmed? Take a look at the my story Resume analysis with Python — A Text Mining Application— —If you found this article useful, feel welcome to download my personal code on GitHub. You can also email me directly at rsalaza4@binghamton.edu and find me on LinkedIn. Interested in learning more about data analytics, data science and machine learning applications in the engineering field? Explore my previous articles by visiting my Medium profile. Thanks for reading.- Robert",http://schema.org,,NewsArticle,2020-05-03T17:22:32.855Z,Resume Screening with Python - Towards Data Science,https://towardsdatascience.com/resume-screening-with-python-1dea360be49b,['https://miro.medium.com/v2/resize:fit:1200/1*ax_dszrddjqbKESnJvHmlw.jpeg'],"{'@type': 'Person', 'name': 'Roberto Salazar', 'url': 'https://robertosalazarr.medium.com'}","{'@type': 'Organization', 'name': 'Towards Data Science', 'url': 'towardsdatascience.com', 'logo': {'@type': 'ImageObject', 'width': 192, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:384/1*cFFKn8rFH4ZndmaYeAs6iQ.png'}}",https://towardsdatascience.com/resume-screening-with-python-1dea360be49b,2020-05-03T17:22:32.855Z,2024-03-25T18:54:38.902Z,,Resume Screening with Python - Towards Data Science,,,,,,,,,,,,,,,1dea360be49b,['Roberto Salazar'],,,,,
+https://news.google.com/rss/articles/CBMiW2h0dHBzOi8veW91cnN0b3J5LmNvbS8yMDIwLzA0L3N0YXJ0dXAtc2FuLWZyYW5jaXNjby1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1qb2JzLWNvcnBvcmF0ZXPSAQA?oc=5,This startup by San Francisco-based founders uses AI to find the right hires for corporates - YourStory,2020-05-05,YourStory,https://yourstory.com,"Ashutosh Garg and Varun Kacholia's startup Eightfold.ai uses petabytes of data to match internal employees to new opportunities within their own company, and elsewhere. ",N/A,"Ashutosh Garg and Varun Kacholia's startup Eightfold.ai uses AI to match internal employees to new opportunities within their own company, and elsewhere. ","Ashutosh Garg and Varun Kacholia's startup Eightfold.ai uses AI to match internal employees to new opportunities within their own company, and elsewhere. ",N/A,N/A,"Advertise with usStartupThis startup by San Francisco-based founders uses AI to find the right hires for corporatesAshutosh Garg and Varun Kacholia's startup Eightfold.ai uses petabytes of data to match internal employees to new opportunities within their own company, and elsewhere. Vishal Krishna1847 StoriesTuesday May 05, 2020 , 6 min ReadThe coronavirus outbreak is causing the world economy to go into a deep recession. Millions of people are expected to be laid off from their current jobs and re-enter the job market due to the economic downturn caused by the COVID-19. They need to know where their skills stand and whether they would have to transfer to new jobs. This is where Ashutosh Garg's and Varun Kochalia's ﻿Eightfold﻿.ai steps in to make employees relevant in the post-COVID world. Founded in 2016, Eightfold uses deep learning and artificial intelligence to break down people’s work into skills and other transferable experiences. It can match internal employees to new opportunities to put their skills to work. It can help recruiters find people with the potential to fill their openings, even if they’re not in a job with a matching job title right now. And it can provide job seekers much more visibility into how they can fit into a company with hundreds of job openings.Ashutosh Garg, CEO of Eightfold
+
+
+
+ALSO READ
+
+
+
+
+
+
+
+Covid-19:  Artificial Intelligence Fighting The Pandemic Terror
+
+
+
+
+
+The foundersAshutosh Garg graduated from IIT-Delhi in 1997 before he went to the US to finish his PhD in Computer Engineering at the University of Illinois, Urbana-Champaign. He went on to work with IBM Research. He has several thousand research citations and more than fifty patents.Varun Kacholia graduated from IIT-Bombay in 2004 and finished his Master's from Berkeley. Proficient in search, ranking, and machine-learning, he led the News Feed team at Facebook, and the YouTube Search and Recommendations team at Google.Sign up for our exclusive newsletters.Subscribe to check out our popular newsletters.* indicates mandatory fieldsThe founders met at Google and over time, realised that they could apply their AI experience to solving a new challenge – where AI solutions could make a real difference to employment. The founders decided to go after the challenge of finding talent and providing the best career options. Eightfold wants to help people achieve the best career they can, freed up from the outdated over-reliance on tools and processes like resumes, bad job interviews, and job descriptions. The problem statementEightfold recognised the problems faced by employees: 1) People quit their jobs for new challenges and new roles when there are plenty of challenges in their own companies to apply their skills to new roles; 2) Recruiters get hundreds of resumes, but don’t have a great way of seeing who’s a goodmatch for a job.3) Job seekers don’t have a good way of searching for a job; they are stuck searching by keywords and titles instead of seeing how they have the potential to apply their skills to new challenges. There is very little ‘hiring for potential’, which hurts both companies and job seekers.""To make sense of all this, it’s only possible with a huge amount of information (more than a billion profiles of people) and very advanced artificial intelligence that has analysed these profiles. AI has seen the patterns of millions of careers, learning how people move from school to work to new work at such scale that it can accurately determine who is and isn’t a great match for an open job,"" Ashutosh tells YourStory. Eightfold.ai has partners, customers, and a full-time office in India supporting their B2B product. They see the market in India and Asia as huge for AI as companies need a better way of matching the right people to right jobs, whether new candidates or internal employees. There is also the need to improve retention rates, succession planning, and internal mobility.
+
+
+
+ALSO READ
+
+
+
+
+
+
+
+ The Future Scope and Career of Artificial Intelligence
+
+
+
+
+
+What does the platform do?""Eightfold’s Talent Intelligence Platform matches individuals to opportunities at scale. The Talent Intelligence Platform has analysed more than one billion career paths, and calculated the individual factors such as experiences, education, and skills that predict movement through career paths. These calculations form a model that is applied to the career path of any individual and any position. For an individual, the model will rank available positions and show the individual why a position is a match for their qualifications. For a position, the model will rank available candidates and show a recruiter or hiring manager why a person is a match for the position requirements,"" says Ashutosh.Eightfold says the Talent Intelligence Platform is able to match individuals and opportunities based on their potential to succeed in a role, rather than on past success in an equivalent role. The AI helps recogniseemployees who might feel stale in their current positions, provide themwith job openings that match their skills and ambitions. Eightfold is saving companies time and money. The platform reduces the time it takes to hire someone, honing in on the most qualified candidates, and cutting down on the need for a lot of recruitment agencies and other spendings. With this platform, AI can surface many candidates who are already in a company’s network: past applicants, current employees, alumni, and employee referrals, for example. “Let’s say, for example, an oil company wants to movetowards alternative energy. Then, it can get a visual representation of what skills its workforce has and see where there’s a gap. It can even look at how its skills compare to competitors’ skills. This is a platform that is very valuable to a company wanting to transform itself, and make sure the talent it has is the talent it needs,"" Ashutosh exemplifies.He adds that for Eightfold, diversity and inclusion are a major part of their mission, rather than an afterthought. The platform allows the individual to mask a person’s ethnicity or gender, thus stripping away any unconscious bias when a slate of candidates is delivered to the manager.
+
+
+
+ALSO READ
+
+
+
+
+
+
+
+How Artificial Intelligence is Making Business More Productive?
+
+
+
+
+
+
+Eightfold’s customersSince they are a software-as-a-service (SaaS) company, they sell the platform as a solution to businesses on an annual subscription basis.Their first customer was Tata Communications, with more than 10,000 global employees. It has been using Eightfold to free itself up from the time-intensive and redundant parts of building a talent pipeline, and concentrate instead on creating the best experience possible for both candidates and hiring managers. ""We signed up Tata Communications as our first customer more than three years ago because of the potential of our Talent Intelligence Platform to address several of its talent needs with matching technology,"" he explains.They have 100-plus customers all over the world.Challenges facedChanging the humanresources field, which has a lot of outdated processes and technologies, is a considerable task. One of the challenges they face is to show customers how their approach with AI can have a positive impact on many aspects of talent relationships. ""Everyone’s challenges have a lot in common. They’re not that different. Large organisationshave too many of the wrong applicants. They don’t have good ways of screening. They’re losing good people who want new challenges, and could have metthose challenges internally. These concerns may vary somewhat by country, industry, and by the specific company, but overall they are not very different everywhere we go,"" says Ashutosh.The company has raised $55 million in Series-C. They compete with Humantelligence, ﻿Crosschq﻿, Searchlight, and Fintros.According to Gartner, SaaS is a $150 billion opportunity. According to SaaS Boomi, India has more than 250 companies with more than $1 million in revenues. Edited by Kanishk SinghAdvertise with useightfold aiHR Startupsartificial intelligence technologiesSan FranciscoCorporatesAdvertise with usMOST VIEWED STORIES1StartupLuxury redefined: How Luxelan is revolutionising Indian homes with AI- empowered interiors 2AI GenDid You Know Mukesh Ambani Is the World's Largest Mango Exporter?
+
+3AI Gen365 Days Paid Leave: How a Chinese Man Won Big, Can Indian Offices Follow?4Electric VehicleOla Electric IPO pricing to be lower than private valuation: Report5NewsPaytm parent gets SEBI warning for related party transactions with PPBLAdvertise with usAdvertise with us
+Recommended Stories For You
+
+
+
+Opinion
+Unthinkable Benefits of Social Media
+July 8, 2024, 5
+                        min Read 
+
+
+
+
+
+Opinion
+Bust the myths around snacking
+July 4, 2024, 4
+                        min Read 
+
+
+
+
+
+Opinion
+Challenges people face while starting a brewery
+July 4, 2024, 5
+                        min Read 
+
+
+
+
+
+Entrepreneurship
+After directing Anushka Sharma, this filmmaker turned entrepreneur is crafting success for internet influencers
+July 4, 2024, 4
+                        min Read 
+
+
+
+
+
+Entrepreneurship
+How Saket Modi, CEO and Co-founder of Lucideus, uses music and dance to stay rooted in reality
+July 4, 2024, 4
+                        min Read 
+
+
+
+
+
+Startup
+This ecommerce startup delivers gifts anywhere in India in just two hours
+June 27, 2024, 6
+                        min Read 
+
+
+
+
+
+Nutrition
+The potent power of microgreens
+June 27, 2024, 5
+                        min Read 
+
+
+
+
+
+Gaming
+Meet the gaming prodigy from Gujarat with over 30M followers on YouTube
+June 26, 2024, 6
+                        min Read 
+
+
+
+
+",https://schema.org,,NewsArticle,2020-05-04T23:45:00.000Z,This startup by San Francisco-based founders uses AI to find the right hires for corporates,,https://images.yourstory.com/cs/2/b3bfb136ab5e11e88691f70342131e20/Eightfold-1588099166116.jpg,"[{'@type': 'Person', 'name': 'Vishal Krishna', 'url': 'https://yourstory.com/author/vishal-krishna'}]","{'@context': 'https://schema.org', '@type': 'NewsMediaOrganization', 'name': 'YourStory', 'url': 'https://yourstory.com', 'legalName': 'YourStory Media Pvt. Ltd.', 'logo': {'@type': 'ImageObject', 'url': 'https://images.yourstory.com/content.ys.com/media/images/logos/YourStory.png', 'width': '330', 'height': '60'}, 'sameAs': ['https://www.facebook.com/yourstorycom', 'https://twitter.com/YourStoryCo', 'https://www.youtube.com/user/yourstorytv', 'https://instagram.com/yourstory_com', 'https://in.linkedin.com/company/yourstory-com'], 'address': {'@type': 'PostalAddress', 'streetAddress': '#259, 6th Cross Rd, 2nd Main Indiranagar, 1st Stage Bengaluru, Karnataka 560038', 'addressLocality': 'Bengaluru', 'addressRegion': 'Karnataka', 'addressCountry': 'IN', 'postalCode': '560038'}}",https://yourstory.com,,2021-05-10T11:24:45.418Z,,YourStory,,,,,,Startup,"The coronavirus outbreak is causing the world economy to go into a deep recession. Millions of people are expected to be laid off from their current jobs and re-enter the job market due to the economic downturn caused by the COVID-19. They need to know where their skills stand and whether they would have to transfer to new jobs. This is where Ashutosh Garg's and Varun Kochalia's .ai steps in to make employees relevant in the post-COVID world. 
+
+Founded in 2016, Eightfold uses deep learning and artificial intelligence to break down people’s work into skills and other transferable experiences. It can match internal employees to new opportunities to put their skills to work. It can help recruiters find people with the potential to fill their openings, even if they’re not in a job with a matching job title right now. And it can provide job seekers much more visibility into how they can fit into a company with hundreds of job openings.
+
+The founders
+Ashutosh Garg graduated from IIT-Delhi in 1997 before he went to the US to finish his PhD in Computer Engineering at the University of Illinois, Urbana-Champaign. He went on to work with IBM Research. He has several thousand research citations and more than fifty patents.
+
+Varun Kacholia graduated from IIT-Bombay in 2004 and finished his Master's from Berkeley. Proficient in search, ranking, and machine-learning, he led the News Feed team at Facebook, and the YouTube Search and Recommendations team at Google.
+
+The founders met at Google and over time, realised that they could apply their AI experience to solving a new challenge – where AI solutions could make a real difference to employment. The founders decided to go after the challenge of finding talent and providing the best career options. 
+
+Eightfold wants to help people achieve the best career they can, freed up from the outdated over-reliance on tools and processes like resumes, bad job interviews, and job descriptions. 
+The problem statement
+Eightfold recognised the problems faced by employees: 
+
+1) People quit their jobs for new challenges and new roles when there are plenty of challenges in their own companies to apply their skills to new roles; 
+
+2) Recruiters get hundreds of resumes, but don’t have a great way of seeing who’s a goodmatch for a job.
+
+3) Job seekers don’t have a good way of searching for a job; they are stuck searching by keywords and titles instead of seeing how they have the potential to apply their skills to new challenges. There is very little ‘hiring for potential’, which hurts both companies and job seekers.
+
+""To make sense of all this, it’s only possible with a huge amount of information (more than a billion profiles of people) and very advanced artificial intelligence that has analysed these profiles. AI has seen the patterns of millions of careers, learning how people move from school to work to new work at such scale that it can accurately determine who is and isn’t a great match for an open job,"" Ashutosh tells YourStory. 
+
+Eightfold.ai has partners, customers, and a full-time office in India supporting their B2B product. They see the market in India and Asia as huge for AI as companies need a better way of matching the right people to right jobs, whether new candidates or internal employees. There is also the need to improve retention rates, succession planning, and internal mobility.
+
+What does the platform do?
+""Eightfold’s Talent Intelligence Platform matches individuals to opportunities at scale. The Talent Intelligence Platform has analysed more than one billion career paths, and calculated the individual factors such as experiences, education, and skills that predict movement through career paths. These calculations form a model that is applied to the career path of any individual and any position. For an individual, the model will rank available positions and show the individual why a position is a match for their qualifications. For a position, the model will rank available candidates and show a recruiter or hiring manager why a person is a match for the position requirements,"" says Ashutosh.
+
+Eightfold says the Talent Intelligence Platform is able to match individuals and opportunities based on their potential to succeed in a role, rather than on past success in an equivalent role. The AI helps recogniseemployees who might feel stale in their current positions, provide themwith job openings that match their skills and ambitions. 
+
+Eightfold is saving companies time and money. The platform reduces the time it takes to hire someone, honing in on the most qualified candidates, and cutting down on the need for a lot of recruitment agencies and other spendings. With this platform, AI can surface many candidates who are already in a company’s network: past applicants, current employees, alumni, and employee referrals, for example. 
+
+“Let’s say, for example, an oil company wants to movetowards alternative energy. Then, it can get a visual representation of what skills its workforce has and see where there’s a gap. It can even look at how its skills compare to competitors’ skills. This is a platform that is very valuable to a company wanting to transform itself, and make sure the talent it has is the talent it needs,"" Ashutosh exemplifies.
+
+He adds that for Eightfold, diversity and inclusion are a major part of their mission, rather than an afterthought. The platform allows the individual to mask a person’s ethnicity or gender, thus stripping away any unconscious bias when a slate of candidates is delivered to the manager.
+
+Eightfold’s customers
+Since they are a software-as-a-service (SaaS) company, they sell the platform as a solution to businesses on an annual subscription basis.
+
+Their first customer was Tata Communications, with more than 10,000 global employees. It has been using Eightfold to free itself up from the time-intensive and redundant parts of building a talent pipeline, and concentrate instead on creating the best experience possible for both candidates and hiring managers. 
+""We signed up Tata Communications as our first customer more than three years ago because of the potential of our Talent Intelligence Platform to address several of its talent needs with matching technology,"" he explains.
+
+They have 100-plus customers all over the world.
+Challenges faced
+Changing the humanresources field, which has a lot of outdated processes and technologies, is a considerable task. One of the challenges they face is to show customers how their approach with AI can have a positive impact on many aspects of talent relationships. 
+
+""Everyone’s challenges have a lot in common. They’re not that different. Large organisationshave too many of the wrong applicants. They don’t have good ways of screening. They’re losing good people who want new challenges, and could have metthose challenges internally. These concerns may vary somewhat by country, industry, and by the specific company, but overall they are not very different everywhere we go,"" says Ashutosh.
+
+The company has raised $55 million in Series-C. They compete with Humantelligence, , Searchlight, and Fintros.
+
+According to Gartner, SaaS is a $150 billion opportunity. According to SaaS Boomi, India has more than 250 companies with more than $1 million in revenues. 
+ (Edited by Kanishk Singh)",,,,,,,,,,YourStory Media Pvt. Ltd.,"{'@type': 'ImageObject', 'url': 'https://images.yourstory.com/content.ys.com/media/images/logos/YourStory.png', 'width': '330', 'height': '60'}","['https://www.facebook.com/yourstorycom', 'https://twitter.com/YourStoryCo', 'https://www.youtube.com/user/yourstorytv', 'https://instagram.com/yourstory_com', 'https://in.linkedin.com/company/yourstory-com']","{'@type': 'PostalAddress', 'streetAddress': '#259, 6th Cross Rd, 2nd Main Indiranagar, 1st Stage Bengaluru, Karnataka 560038', 'addressLocality': 'Bengaluru', 'addressRegion': 'Karnataka', 'addressCountry': 'IN', 'postalCode': '560038'}",en_GB

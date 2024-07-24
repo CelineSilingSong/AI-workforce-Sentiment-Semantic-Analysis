@@ -1,0 +1,2710 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,mainEntityOfPage,datePublished,name,author,publisher,image,headline,@type,hasPart,isAccessibleForFree,@context,uploadDate,duration,embedUrl,thumbnailUrl,article:section,article:summary,article text,about,articleBody,url,potentialAction,@graph,genre,wordcount,dateModified,itemListElement,articleSection,speakable
+https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGVudGVycHJpc2VhaS9kZWZpbml0aW9uL2dlbmVyYXRpdmUtQUnSAQA?oc=5,What is Generative AI? Everything You Need to Know - TechTarget,2023-02-24,TechTarget,https://www.techtarget.com,"Generative AI is a groundbreaking subset of artificial intelligence that has the power to revolutionize various aspects of our lives, including business decision-making. This video explores popular generative AI interfaces like ChatGPT, Dall-E, and Google Bard, and how they enable users to generate text, images, and more, while discussing the future of generative AI and its impact on various industries. 
+
+Read more: https://www.techtarget.com/searchenterpriseai/definition/generative-AI 
+
+Subscribe to Eye on Tech:  https://www.youtube.com/EyeOnTech 
+Stay up to date on the latest enterprise AI news: https://www.techtarget.com/searchenterpriseai/ 
+Follow us on Twitter: https://twitter.com/TTintheCloud  
+Like us on LinkedIn: https://www.linkedin.com/company/techtarget-cloud/ 
+Follow us on TikTok: https://www.tiktok.com/@eyeontech  
+Follow us on Instagram: https://www.instagram.com/eyeontech_tt/ 
+
+#GenerativeAI #eyeontech #ChatGPT","{'url': 'https://www.techtarget.com/searchenterpriseai/definition/generative-AI', 'name': 'What is generative AI? Everything you need to know', 'description': 'Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data.', '@type': 'DefinedTerm'}",Generative AI is a type of artificial intelligence technology that can produce various types of content. Find out how it works and why it's a hot commodity.,Generative AI is a type of artificial intelligence technology that can produce various types of content. Find out how it works and why it's a hot commodity.,"{'@type': 'WebPage', '@id': 'https://www.techtarget.com/searchenterpriseai/definition/generative-AI'}",2024-06-03T00:00Z,Ultimate Guide to Generative AI for Businesses,"[{'name': 'George Lawton', '@type': 'Person'}]","{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",https://cdn.ttgtmedia.com/rms/amp/AMPdefaultImage.jpg,What is generative AI? Everything you need to know,VideoObject,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",False,https://schema.org,2023-06-07T09:16Z,PT11M48S,https://www.youtube.com/embed/1U83yhGY_pI,https://i.ytimg.com/vi/1U83yhGY_pI/mqdefault.jpg,N/A,N/A,"
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tech Accelerator
+IntroductionHow does generative AI work?Generative AI modelsWhat are Dall-E, ChatGPT and Gemini?What are use cases for generative AI?What are the benefits of generative AI?What are the limitations of generative AI?What are the concerns surrounding generative AI?What are some examples of generative AI tools?Use cases for generative AI, by industryEthics and bias in generative AIGenerative AI vs. AIGenerative AI historyBest practices for using generative AIThe future of generative AIGenerative AI FAQs
+
+Download this guide1
+
+
+
+
+
+
+
+
+Home
+AI technologies
+
+
+
+
+Definition
+What is generative AI? Everything you need to know
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+George Lawton
+
+
+
+ 
+Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data. The recent buzz around generative AI has been driven by the simplicity of new user interfaces for creating high-quality text, graphics and videos in a matter of seconds.
+The technology, it should be noted, is not brand-new. Generative AI was introduced in the 1960s in chatbots. But it was not until 2014, with the introduction of generative adversarial networks, or GANs -- a type of machine learning algorithm -- that generative AI could create convincingly authentic images, videos and audio of real people.
+
+
+
+
+
+
+
+On the one hand, this newfound capability has opened up opportunities that include better movie dubbing and rich educational content. It also unlocked concerns about deepfakes -- digitally forged images or videos -- and harmful cybersecurity attacks on businesses, including nefarious requests that realistically mimic an employee's boss.
+Two additional recent advances that will be discussed in more detail below have played a critical part in generative AI going mainstream: transformers and the breakthrough language models they enabled. Transformers are a type of machine learning that made it possible for researchers to train ever-larger models without having to label all of the data in advance. New models could thus be trained on billions of pages of text, resulting in answers with more depth. In addition, transformers unlocked a new notion called attention that enabled models to track the connections between words across pages, chapters and books rather than just in individual sentences. And not just words: Transformers could also use their ability to track connections to analyze code, proteins, chemicals and DNA.
+The rapid advances in so-called large language models (LLMs) -- i.e., models with billions or even trillions of parameters -- have opened a new era in which generative AI models can write engaging text, paint photorealistic images and even create somewhat entertaining sitcoms on the fly. Moreover, innovations in multimodal AI enable teams to generate content across multiple types of media, including text, graphics and video. This is the basis for tools like Dall-E that automatically create images from a text description or generate text captions from images.
+
+
+
+
+
+
+These breakthroughs notwithstanding, we are still in the early days of using generative AI to create readable text and photorealistic stylized graphics. Early implementations have had issues with accuracy and bias, as well as being prone to hallucinations and spitting back weird answers. Still, progress thus far indicates that the inherent capabilities of this generative AI could fundamentally change enterprise technology how businesses operate. Going forward, this technology could help write code, design new drugs, develop products, redesign business processes and transform supply chains.
+
+
+
+
+
+
+
+How does generative AI work?
+Generative AI starts with a prompt that could be in the form of a text, an image, a video, a design, musical notes, or any input that the AI system can process. Various AI algorithms then return new content in response to the prompt. Content can include essays, solutions to problems, or realistic fakes created from pictures or audio of a person.
+Early versions of generative AI required submitting data via an API or an otherwise complicated process. Developers had to familiarize themselves with special tools and write applications using languages such as Python.
+Now, pioneers in generative AI are developing better user experiences that let you describe a request in plain language. After an initial response, you can also customize the results with feedback about the style, tone and other elements you want the generated content to reflect.
+
+
+
+
+
+
+
+
+Generative AI models
+Generative AI models combine various AI algorithms to represent and process content. For example, to generate text, various natural language processing techniques transform raw characters (e.g., letters, punctuation and words) into sentences, parts of speech, entities and actions, which are represented as vectors using multiple encoding techniques. Similarly, images are transformed into various visual elements, also expressed as vectors. One caution is that these techniques can also encode the biases, racism, deception and puffery contained in the training data.
+Once developers settle on a way to represent the world, they apply a particular neural network to generate new content in response to a query or prompt. Techniques such as GANs and variational autoencoders (VAEs) -- neural networks with a decoder and encoder -- are suitable for generating realistic human faces, synthetic data for AI training or even facsimiles of particular humans.
+Recent progress in transformers such as Google's Bidirectional Encoder Representations from Transformers (BERT), OpenAI's GPT and Google AlphaFold have also resulted in neural networks that can not only encode language, images and proteins but also generate new content. 
+
+
+How neural networks are transforming generative AI
+Researchers have been creating AI and other tools for programmatically generating content since the early days of AI. The earliest approaches, known as rule-based systems and later as ""expert systems,"" used explicitly crafted rules for generating responses or data sets.
+Neural networks, which form the basis of much of the AI and machine learning applications today, flipped the problem around. Designed to mimic how the human brain works, neural networks ""learn"" the rules from finding patterns in existing data sets. Developed in the 1950s and 1960s, the first neural networks were limited by a lack of computational power and small data sets. It was not until the advent of big data in the mid-2000s and improvements in computer hardware that neural networks became practical for generating content.
+The field accelerated when researchers found a way to get neural networks to run in parallel across the graphics processing units (GPUs) that were being used in the computer gaming industry to render video games. New machine learning techniques developed in the past decade, including the aforementioned generative adversarial networks and transformers, have set the stage for the recent remarkable advances in AI-generated content.
+
+
+
+
+What are Dall-E, ChatGPT and Gemini?
+ChatGPT, Dall-E and Gemini (formerly Bard) are popular generative AI interfaces.
+Dall-E. Trained on a large data set of images and their associated text descriptions, Dall-E is an example of a multimodal AI application that identifies connections across multiple media, such as vision, text and audio. In this case, it connects the meaning of words to visual elements. It was built using OpenAI's GPT implementation in 2021. Dall-E 2, a second, more capable version, was released in 2022. It enables users to generate imagery in multiple styles driven by user prompts.
+ChatGPT. The AI-powered chatbot that took the world by storm in November 2022 was built on OpenAI's GPT-3.5 implementation. OpenAI has provided a way to interact and fine-tune text responses via a chat interface with interactive feedback. Earlier versions of GPT were only accessible via an API. GPT-4 was released March 14, 2023. ChatGPT incorporates the history of its conversation with a user into its results, simulating a real conversation. After the incredible popularity of the new GPT interface, Microsoft announced a significant new investment into OpenAI and integrated a version of GPT into its Bing search engine.
+
+
+
+Here is a snapshot of the differences between ChatGPT and Bard.
+
+
+
+
+
+Gemini. Google was another early leader in pioneering transformer AI techniques for processing language, proteins and other types of content. It open sourced some of these models for researchers. However, it never released a public interface for these models. Microsoft's decision to implement GPT into Bing drove Google to rush to market a public-facing chatbot, Google Gemini, built on a lightweight version of its LaMDA family of large language models. Google suffered a significant loss in stock price following Gemini's rushed debut after the language model incorrectly said the Webb telescope was the first to discover a planet in a foreign solar system. Meanwhile, Microsoft and ChatGPT implementations also lost face in their early outings due to inaccurate results and erratic behavior. Google has since unveiled a new version of Gemini built on its most advanced LLM, PaLM 2, which allows Gemini to be more efficient and visual in its response to user queries.
+
+
+What are use cases for generative AI?
+Generative AI can be applied in various use cases to generate virtually any kind of content. The technology is becoming more accessible to users of all kinds thanks to cutting-edge breakthroughs like GPT that can be tuned for different applications. Some of the use cases for generative AI include the following:
+
+Implementing chatbots for customer service and technical support.
+Deploying deepfakes for mimicking people or even specific individuals.
+Improving dubbing for movies and educational content in different languages.
+Writing email responses, dating profiles, resumes and term papers.
+Creating photorealistic art in a particular style.
+Improving product demonstration videos.
+Suggesting new drug compounds to test.
+Designing physical products and buildings.
+Optimizing new chip designs.
+Writing music in a specific style or tone.
+
+
+
+
+
+
+What are the benefits of generative AI?
+Generative AI can be applied extensively across many areas of the business. It can make it easier to interpret and understand existing content and automatically create new content. Developers are exploring ways that generative AI can improve existing workflows, with an eye to adapting workflows entirely to take advantage of the technology. Some of the potential benefits of implementing generative AI include the following:
+
+Automating the manual process of writing content.
+Reducing the effort of responding to emails.
+Improving the response to specific technical queries.
+Creating realistic representations of people.
+Summarizing complex information into a coherent narrative.
+Simplifying the process of creating content in a particular style.
+
+
+
+What are the limitations of generative AI?
+Early implementations of generative AI vividly illustrate its many limitations. Some of the challenges generative AI presents result from the specific approaches used to implement particular use cases. For example, a summary of a complex topic is easier to read than an explanation that includes various sources supporting key points. The readability of the summary, however, comes at the expense of a user being able to vet where the information comes from.
+Here are some of the limitations to consider when implementing or using a generative AI app:
+
+It does not always identify the source of content.
+It can be challenging to assess the bias of original sources.
+Realistic-sounding content makes it harder to identify inaccurate information.
+It can be difficult to understand how to tune for new circumstances.
+Results can gloss over bias, prejudice and hatred.
+
+
+
+Attention is all you need: Transformers bring new capability
+In 2017, Google reported on a new type of neural network architecture that brought significant improvements in efficiency and accuracy to tasks like natural language processing. The breakthrough approach, called transformers, was based on the concept of attention.
+At a high level, attention refers to the mathematical description of how things (e.g., words) relate to, complement and modify each other. The researchers described the architecture in their seminal paper, ""Attention is all you need,"" showing how a transformer neural network was able to translate between English and French with more accuracy and in only a quarter of the training time than other neural nets. The breakthrough technique could also discover relationships, or hidden orders, between other things buried in the data that humans might have been unaware of because they were too complicated to express or discern.
+Transformer architecture has evolved rapidly since it was introduced, giving rise to LLMs such as GPT-3 and better pre-training techniques, such as Google's BERT.
+
+
+
+
+What are the concerns surrounding generative AI?
+The rise of generative AI is also fueling various concerns. These relate to the quality of results, potential for misuse and abuse, and the potential to disrupt existing business models. Here are some of the specific types of problematic issues posed by the current state of generative AI:
+
+It can provide inaccurate and misleading information.
+It is more difficult to trust without knowing the source and provenance of information.
+It can promote new kinds of plagiarism that ignore the rights of content creators and artists of original content.
+It might disrupt existing business models built around search engine optimization and advertising.
+It makes it easier to generate fake news.
+It makes it easier to claim that real photographic evidence of a wrongdoing was just an AI-generated fake.
+It could impersonate people for more effective social engineering cyber attacks.
+
+Given the newness of GenAI tools and their rapid adoption, enterprises should prepare for the inevitable ""trough of disillusionment"" that's part and parcel of emerging tech by adopting sound AI engineering practices and making responsible AI a cornerstone of their GenAI efforts.
+
+
+
+Implementing generative AI is not just about technology. Businesses must also consider its impact on people and processes.
+
+
+
+
+
+
+
+What are some examples of generative AI tools?
+Generative AI tools exist for various modalities, such as text, imagery, music, code and voices. Some popular AI content generators to explore include the following:
+
+Text generation tools include GPT, Jasper, AI-Writer and Lex.
+Image generation tools include Dall-E 2, Midjourney and Stable Diffusion.
+Music generation tools include Amper, Dadabots and MuseNet.
+Code generation tools include CodeStarter, Codex, GitHub Copilot and Tabnine.
+Voice synthesis tools include Descript, Listnr and Podcast.ai.
+AI chip design tool companies include Synopsys, Cadence, Google and Nvidia.
+
+
+
+Use cases for generative AI, by industry
+New generative AI technologies have sometimes been described as general-purpose technologies akin to steam power, electricity and computing because they can profoundly affect many industries and use cases. It's essential to keep in mind that, like previous general-purpose technologies, it often took decades for people to find the best way to organize workflows to take advantage of the new approach rather than speeding up small portions of existing workflows. Here are some ways generative AI applications could impact different industries:
+
+Finance can watch transactions in the context of an individual's history to build better fraud detection systems.
+Legal firms can use generative AI to design and interpret contracts, analyze evidence and suggest arguments.
+Manufacturers can use generative AI to combine data from cameras, X-ray and other metrics to identify defective parts and the root causes more accurately and economically.
+Film and media companies can use generative AI to produce content more economically and translate it into other languages with the actors' own voices.
+The medical industry can use generative AI to identify promising drug candidates more efficiently.
+Architectural firms can use generative AI to design and adapt prototypes more quickly.
+Gaming companies can use generative AI to design game content and levels.
+
+
+
+
+Ethics and bias in generative AI
+Despite their promise, the new generative AI tools open a can of worms regarding accuracy, trustworthiness, bias, hallucination and plagiarism -- ethical issues that likely will take years to sort out. None of the issues are particularly new to AI. Microsoft's first foray into chatbots in 2016, called Tay, for example, had to be turned off after it started spewing inflammatory rhetoric on Twitter.
+What is new is that the latest crop of generative AI apps sounds more coherent on the surface. But this combination of humanlike language and coherence is not synonymous with human intelligence, and there currently is great debate about whether generative AI models can be trained to have reasoning ability. One Google engineer was even fired after publicly declaring the company's generative AI app, Language Models for Dialog Applications (LaMDA), was sentient.
+The convincing realism of generative AI content introduces a new set of AI risks. It makes it harder to detect AI-generated content and, more importantly, makes it more difficult to detect when things are wrong. This can be a big problem when we rely on generative AI results to write code or provide medical advice. Many results of generative AI are not transparent, so it is hard to determine if, for example, they infringe on copyrights or if there is problem with the original sources from which they draw results. If you don't know how the AI came to a conclusion, you cannot reason about why it might be wrong.
+
+
+
+
+
+
+
+
+Generative AI vs. AI
+Generative AI focuses on creating new and original content, chat responses, designs, synthetic data or even deepfakes. It's particularly valuable in creative fields and for novel problem-solving, as it can autonomously generate many types of new outputs.
+Generative AI, as noted above, relies on neural network techniques such as transformers, GANs and VAEs. Other kinds of AI, in distinction, use techniques including convolutional neural networks, recurrent neural networks and reinforcement learning.
+Generative AI often starts with a prompt that lets a user or data source submit a starting query or data set to guide content generation. This can be an iterative process to explore content variations. Traditional AI algorithms, on the other hand, often follow a predefined set of rules to process data and produce a result.
+Both approaches have their strengths and weaknesses depending on the problem to be solved, with generative AI being well-suited for tasks involving NLP and calling for the creation of new content, and traditional algorithms more effective for tasks involving rule-based processing and predetermined outcomes.
+Generative AI vs. predictive AI vs. conversational AI
+Predictive AI, in distinction to generative AI, uses patterns in historical data to forecast outcomes, classify events and actionable insights. Organizations use predictive AI to sharpen decision-making and develop data-driven strategies.
+Conversational AI helps AI systems like virtual assistants, chatbots and customer service apps interact and engage with humans in a natural way. It uses techniques from NLP and machine learning to understand language and provide human-like text or speech responses.
+
+
+Generative AI history
+The Eliza chatbot created by Joseph Weizenbaum in the 1960s was one of the earliest examples of generative AI. These early implementations used a rules-based approach that broke easily due to a limited vocabulary, lack of context and overreliance on patterns, among other shortcomings. Early chatbots were also difficult to customize and extend.
+The field saw a resurgence in the wake of advances in neural networks and deep learning in 2010 that enabled the technology to automatically learn to parse existing text, classify image elements and transcribe audio.
+Ian Goodfellow introduced GANs in 2014. This deep learning technique provided a novel approach for organizing competing neural networks to generate and then rate content variations. These could generate realistic people, voices, music and text. This inspired interest in -- and fear of -- how generative AI could be used to create realistic deepfakes that impersonate voices and people in videos.
+Since then, progress in other neural network techniques and architectures has helped expand generative AI capabilities. Techniques include VAEs, long short-term memory, transformers, diffusion models and neural radiance fields.
+
+
+
+
+
+
+
+
+Best practices for using generative AI
+The best practices for using generative AI will vary depending on the modalities, workflow and desired goals. That said, it is important to consider essential factors such as accuracy, transparency and ease of use in working with generative AI. The following practices help achieve these factors:
+
+Clearly label all generative AI content for users and consumers.
+Vet the accuracy of generated content using primary sources where applicable.
+Consider how bias might get woven into generated AI results.
+Double-check the quality of AI-generated code and content using other tools.
+Learn the strengths and limitations of each generative AI tool.
+Familiarize yourself with common failure modes in results and work around these.
+
+
+
+The future of generative AI
+The incredible depth and ease of ChatGPT spurred widespread adoption of generative AI. To be sure, the speedy adoption of generative AI applications has also demonstrated some of the difficulties in rolling out this technology safely and responsibly. But these early implementation issues have inspired research into better tools for detecting AI-generated text, images and video.
+Indeed, the popularity of generative AI tools such as ChatGPT, Midjourney, Stable Diffusion and Gemini has also fueled an endless variety of training courses at all levels of expertise. Many are aimed at helping developers create AI applications. Others focus more on business users looking to apply the new technology across the enterprise. At some point, industry and society will also build better tools for tracking the provenance of information to create more trustworthy AI.
+Generative AI will continue to evolve, making advancements in translation, drug discovery, anomaly detection and the generation of new content, from text and video to fashion design and music. As good as these new one-off tools are, the most significant impact of generative AI in the future will come from integrating these capabilities directly into the tools we already use.
+Grammar checkers, for example, will get better. Design tools will seamlessly embed more useful recommendations directly into our workflows. Training tools will be able to automatically identify best practices in one part of an organization to help train other employees more efficiently. These are just a fraction of the ways generative AI will change what we do in the near-term.
+What the impact of generative AI will be in the future is hard to say. But as we continue to harness these tools to automate and augment human tasks, we will inevitably find ourselves having to reevaluate the nature and value of human expertise.
+
+
+
+Generative AI will find its way into many business functions.
+
+
+
+
+
+
+
+Generative AI FAQs
+Below are some frequently asked questions people have about generative AI.
+Who created generative AI?Joseph Weizenbaum created the first generative AI in the 1960s as part of the Eliza chatbot.
+Ian Goodfellow demonstrated generative adversarial networks for generating realistic-looking and -sounding people in 2014.
+Subsequent research into LLMs from Open AI and Google ignited the recent enthusiasm that has evolved into tools like ChatGPT, Google Gemini and Dall-E.
+How could generative AI replace jobs?Generative AI has the potential to replace a variety of jobs, including the following:
+
+Writing product descriptions.
+Creating marketing copy.
+Generating basic web content.
+Initiating interactive sales outreach.
+Answering customer questions.
+Making graphics for webpages.
+
+Some companies will look for opportunities to replace humans where possible, while others will use generative AI to augment and enhance their existing workforce.
+How do you build a generative AI model?A generative AI model starts by efficiently encoding a representation of what you want to generate. For example, a generative AI model for text might begin by finding a way to represent the words as vectors that characterize the similarity between words often used in the same sentence or that mean similar things.
+Recent progress in LLM research has helped the industry implement the same process to represent patterns found in images, sounds, proteins, DNA, drugs and 3D designs. This generative AI model provides an efficient way of representing the desired type of content and efficiently iterating on useful variations.
+How do you train a generative AI model?The generative AI model needs to be trained for a particular use case. The recent progress in LLMs provides an ideal starting point for customizing applications for different use cases. For example, the popular GPT model developed by OpenAI has been used to write text, generate code and create imagery based on written descriptions.
+Training involves tuning the model's parameters for different use cases and then fine-tuning results on a given set of training data. For example, a call center might train a chatbot against the kinds of questions service agents get from various customer types and the responses that service agents give in return. An image-generating app, in distinction to text, might start with labels that describe content and style of images to train the model to generate new images.
+How is generative AI changing creative work?Generative AI promises to help creative workers explore variations of ideas. Artists might start with a basic design concept and then explore variations. Industrial designers could explore product variations. Architects could explore different building layouts and visualize them as a starting point for further refinement.
+It could also help democratize some aspects of creative work. For example, business users could explore product marketing imagery using text descriptions. They could further refine these results using simple commands or suggestions.
+What's next for generative AI?ChatGPT's ability to generate humanlike text has sparked widespread curiosity about generative AI's potential. It also shined a light on the many problems and challenges ahead.
+In the short term, work will focus on improving the user experience and workflows using generative AI tools. It will also be essential to build trust in generative AI results.
+Many companies will also customize generative AI on their own data to help improve branding and communication. Programming teams will use generative AI to enforce company-specific best practices for writing and formatting more readable and consistent code.
+Vendors will integrate generative AI capabilities into their additional tools to streamline content generation workflows. This will drive innovation in how these new capabilities can increase productivity.
+Generative AI could also play a role in various aspects of data processing, transformation, labeling and vetting as part of augmented analytics workflows. Semantic web applications could use generative AI to automatically map internal taxonomies describing job skills to different taxonomies on skills training and recruitment sites. Similarly, business teams will use these models to transform and label third-party data for more sophisticated risk assessments and opportunity analysis capabilities.
+In the future, generative AI models will be extended to support 3D modeling, product design, drug development, digital twins, supply chains and business processes. This will make it easier to generate new product ideas, experiment with different organizational models and explore various business ideas.
+
+
+Latest Generative AI technology defined
+AgentGPTAgentGPT is a generative artificial intelligence tool that enables users to create autonomous AI agents that can be delegated a range of tasks.
+AI art (artificial intelligence art)AI art is any form of digital art created or enhanced with AI tools.
+AI promptAn artificial intelligence (AI) prompt is a mode of interaction between a human and a LLM that lets the model generate the intended output. This interaction can be in the form of a question, text, code snippets or examples.
+AI prompt engineerAn artificial intelligence (AI) prompt engineer is an expert in creating text-based prompts or cues that can be interpreted and understood by large language models and generative AI tools.
+AI red teamingAI red teaming is the practice of simulating attack scenarios on an artificial intelligence application to pinpoint weaknesses and plan preventative measures. This process helps secure the AI model against an array of possible infiltration tactics and functionality concerns.
+Amazon BedrockAmazon Bedrock -- also known as AWS Bedrock -- is a machine learning platform used to build generative artificial intelligence (AI) applications on the Amazon Web Services cloud computing platform.
+Apple IntelligenceApple Intelligence is the platform name for a suite of generative AI capabilities that Apple is integrating across its products, including iPhone, Mac and iPad devices.
+Auto-GPTAuto-GPT is an experimental, open source autonomous AI agent based on the GPT-4 language model that autonomously chains together tasks to achieve a big-picture goal set by the user.
+Autonomous artificial intelligenceAutonomous artificial intelligence is a branch of AI in which systems and tools are advanced enough to act with limited human oversight and involvement.
+Chain-of-thought promptingThis prompt engineering technique aims to improve language models' performance on tasks requiring logic, calculation and decision-making by structuring the input prompt in a way that mimics human reasoning.
+Data poisoning (AI poisoning)Data or AI poisoning attacks are deliberate attempts to manipulate the training data of artificial intelligence and machine learning (ML) models to corrupt their behavior and elicit skewed, biased or harmful outputs.
+Embedding models for semantic searchEmbedding models for semantic search transform data into more efficient formats for symbolic and statistical computer processing.
+GemmaGemma is a collection of lightweight open source GenAI models designed mainly for developers and researchers created by the Google DeepMind research lab.
+Google GeminiGoogle Gemini is a family of multimodal artificial intelligence (AI) large language models that have capabilities in language, audio, code and video understanding.
+Google Search Generative Experience Google Search Generative Experience (SGE) is a set of search and interface capabilities that integrates generative AI-powered results into Google search engine query responses.
+Google Search Labs (GSE)GSE is an initiative from Alphabet's Google division to provide new capabilities and experiments for Google Search in a preview format before they become publicly available.
+Graph neural networks (GNNs)Graph neural networks (GNNs) are a type of neural network architecture and deep learning method that can help users analyze graphs, enabling them to make predictions based on the data described by a graph's nodes and edges.
+Image-to-image translation Image-to-image translation is a generative artificial intelligence (AI) technique that translates a source image into a target image while preserving certain visual properties of the original image.
+Inception scoreThe inception score (IS) is a mathematical algorithm used to measure or determine the quality of images created by generative AI through a generative adversarial network (GAN). The word ""inception"" refers to the spark of creativity or initial beginning of a thought or action traditionally experienced by humans.
+Knowledge graph in MLIn the realm of machine learning, a knowledge graph is a graphical representation that captures the connections between different entities. It consists of nodes, which represent entities or concepts, and edges, which represent the relationships between those entities.
+LangChainLangChain is an open source framework that lets software developers working with artificial intelligence (AI) and its machine learning subset combine large language models with other external components to develop LLM-powered applications. 
+Masked language models (MLMs)MLMs are used in natural language processing tasks for training language models. Certain words and tokens in a specific input are randomly masked or hidden in this approach and the model is then trained to predict these masked elements by using the context provided by the surrounding words.
+Neuro-symbolic AINeuro-symbolic AI combines neural networks with rules-based symbolic processing techniques to improve artificial intelligence systems' accuracy, explainability and precision.
+Prompt engineeringPrompt engineering is an AI engineering technique that serves several purposes. It encompasses the process of refining LLMs with specific prompts and recommended outputs, as well as the process of refining input to various generative AI services to generate text or images.
+Q-learningQ-learning is a machine learning approach that enables a model to iteratively learn and improve over time by taking the correct action.
+Reinforcement learning from human feedback (RLHF)RLHF is a machine learning approach that combines reinforcement learning techniques, such as rewards and comparisons, with human guidance to train an AI agent.
+Retrieval-augmented generationRetrieval-augmented generation (RAG) is an artificial intelligence (AI) framework that retrieves data from external sources of knowledge to improve the quality of responses.
+Retrieval-Augmented Language Model pre-trainingA Retrieval-Augmented Language Model, also referred to as REALM or RALM, is an AI language model designed to retrieve text and then use it to perform question-based tasks.
+Semantic network (knowledge graph)A semantic network is a knowledge structure that depicts how concepts are related to one another and how they interconnect. Semantic networks use AI programming to mine data, connect concepts and call attention to relationships.
+Semantic searchSemantic search is a data searching technique that uses natural language processing (NLP) and machine learning algorithms to improve the accuracy of search results by considering the searcher's intent and the contextual meaning of the terms used in their query.
+Variational autoencoder (VAE)A variational autoencoder is a generative AI algorithm that uses deep learning to generate new content, detect anomalies and remove noise.
+Vector embeddingsVector embeddings are numerical representations that capture the relationships and meaning of words, phrases and other data types.
+Vision language models (VLMs)VLMs combine machine vision and semantic processing techniques to make sense of the relationship within and between objects in images.
+
+
+What are some generative models for natural language processing?
+Some generative models for natural language processing include the following:
+
+Carnegie Mellon University's XLNet
+OpenAI's GPT (Generative Pre-trained Transformer)
+Google's ALBERT (""A Lite"" BERT)
+Google BERT
+Google LaMDA
+
+Will AI ever gain consciousness?
+Some AI proponents believe that generative AI is an essential step toward general-purpose AI and even consciousness. One early tester of Google's LaMDA chatbot even created a stir when he publicly declared it was sentient. Then he was let go from the company.
+In 1993, the American science fiction writer and computer scientist Vernor Vinge posited that in 30 years, we would have the technological ability to create a ""superhuman intelligence"" -- an AI that is more intelligent than humans -- after which the human era would end. AI pioneer Ray Kurzweil predicted such a ""singularity"" by 2045.
+Many other AI experts think it could be much further off. Robot pioneer Rodney Brooks predicted that AI will not gain the sentience of a 6-year-old in his lifetime but could seem as intelligent and attentive as a dog by 2048.
+
+
+Navigating hype vs. reality
+AI existential risk: Is AI a threat to humanity?What should enterprises make of the recent warnings about AI's threat to humanity? AI experts and ethicists offer opinions and practical advice for managing AI risk.  
+Beyond AI doomerism: Navigating hype vs. reality in AI riskAs AI becomes increasingly widespread, viewpoints featuring both sensationalism and real concern are shaping discussions about the technology and its implications for the future.
+
+
+George Lawton is a journalist based in London. Over the last 30 years, he has written more than 3,000 stories about computers, communications, knowledge management, business, health and other areas that interest him.
+Editor's note: This guide was updated to reflect new developments in the fast-evolving field of generative AI technologies. 
+
+
+
+
+This was last updated in June 2024
+
+
+
+
+
+Continue Reading About What is generative AI? Everything you need to know
+
+
+Generative AI vs. machine learning: How are they different?
+
+
+Gemini vs. ChatGPT: What's the difference?
+
+
+Pros and cons of AI-generated content
+
+
+Gemini 1.5 Pro explained: Everything you need to know
+
+
+Foundation models explained
+
+
+
+
+
+Dig Deeper on AI technologies
+
+
+
+An explanation of AI buzzwords
+
+
+
+
+By: Lev Craig
+
+
+
+
+Generative models: VAEs, GANs, diffusion, transformers, NeRFs
+
+
+
+
+By: George Lawton
+
+
+
+
+Conversational AI vs. generative AI: What's the difference?
+
+
+
+
+By: Amanda Hetler
+
+
+
+
+Gemma
+
+
+
+
+By: Dave Raffo
+
+
+
+
+
+
+",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5zY2hyb2RlcnMuY29tL2VuLXVzL3VzL2luZGl2aWR1YWwvaW5zaWdodHMvdGhlLWdlbmVyYXRpdmUtYWktcmV2b2x1dGlvbi1yZWZsZWN0aW9ucy11cG9uLW15LXJldHVybi1mcm9tLXNpbGljb24tdmFsbGV5L9IBAA?oc=5,Generative AI promises to be a revolution on a par with the internet. How will it change how we work and what does this ... - Schroders,2023-02-23,Schroders,https://www.schroders.com,"Chat-based AI interfaces are already challenging traditional search methods. They may completely replace them. What’s more, personalised chats with AI tools have the potential to at least partially substitute traditional content formats like articles, books and videos. ",N/A,"Chat-based AI interfaces are already challenging traditional search methods. They may completely replace them. What’s more, personalised chats with AI tools have the potential to at least partially substitute traditional content formats like articles, books and videos. ","Chat-based AI interfaces are already challenging traditional search methods. They may completely replace them. What’s more, personalised chats with AI tools have the potential to at least partially substitute traditional content formats like articles, books and videos. ",,2023-02-24T06:00:00.000Z,The generative AI revolution: reflections upon my return from Silicon Valley,"[{'@type': 'Person', 'name': 'Dr. Nils Rode', 'job_title': 'Chief Investment Officer, Schroders Capital'}]",,https://d2csxpduxe849s.cloudfront.net/media/469BA343-4BDA-4DA8-82EFE0F61A0F858A/0E6C0111-A0FE-43E9-A3A65BBE2DD40BFB/webimage-A9CCF49A-2265-451F-9B7ED18F79D28C6C.png,,Article,,,https://schema.org/,,,,,N/A,N/A,N/A,"{'@type': 'Thing', 'name': 'The generative AI revolution: reflections upon my return from Silicon Valley'}","As I stepped off the plane from San Francisco, I couldn't help but feel a sense
+of excitement and anticipation. Having just attended what was claimed to be the
+first-ever conference on generative artificial intelligence (AI)1, I was left
+with a powerful impression of what the future may hold. Thanks to our venture
+capital investments I always felt like I have a kind of crystal ball. This is
+because innovation that is driven by cutting-edge startups can provide a glimpse
+into the future.
+
+This time, it felt no different. In this opinion piece, I share my thoughts on
+generative AI and how I expect it to impact individuals, businesses and society
+as a whole.
+
+
+HOW BIG WILL THIS DISRUPTION BE?
+
+As I look at the current state of generative AI, particularly the likes of
+OpenAI’s ChatGPT, I can't help but think of its potential for innovation and
+disruption on a scale comparable to the introduction of email, the internet, and
+the smartphone. And it's not just the magnitude of this innovation that's
+remarkable, but also the speed at which it's being adopted. A UBS study based on
+Similarweb data ranks ChatGPT as the first product or service to have reached
+100 million active users within two months after launch.
+
+Chat-based AI interfaces are already challenging traditional search methods.
+They may completely replace them. What’s more, personalised chats with AI tools
+have the potential to at least partially substitute traditional content formats
+like articles, books and videos. As we enter this new era of generative AI, it
+seems to me that companies like OpenAI, Google’s LaMDA and others have the
+potential to become new ""AI operating systems"" that power a range of new
+services and that help to create new companies. I see this as comparable to how
+the smartphone enabled the likes of Uber and WhatsApp.
+
+
+WILL GENERATIVE AI SOON BE EVERYWHERE?
+
+I expect generative AI to quickly become ubiquitous.
+
+Text generation based on Large Language Models (LLMs) – like OpenAI’s GPT – is
+becoming available within many types of apps, from internet browsers2 to office
+tools like Microsoft 3653, to software development tools4.
+
+I anticipate that the integration of existing software interfaces – so-called
+application programming interface (APIs) – into AI tools, will further enhance
+their overall capabilities. It doesn’t take much imagination to also visualise
+speech-to-speech interfaces with chat-based AI tools. And it is entirely
+possible that these interfaces will start to exhibit empathy and emotions
+(without being sentient), at least for some applications. In my view, it is
+therefore only a matter of time before it will become increasingly difficult to
+distinguish a conversation with an intelligent chatbot from a discussion with a
+person.
+
+Powerful generative AI tools for images (like OpenAI’s Dall-E – which produced
+the image, above5 – and Stability.AI’s Stable Diffusion) are spreading fast,
+with the latter already available in Adobe Photoshop through a plug-in.
+
+Leading firms in the industry have already launched or announced prototypes of
+AI tools for other types of media, including video and music.
+
+
+HOW WILL THIS TYPE OF AI CHANGE HOW WE WORK?
+
+With the rapid progress in this field, it is my personal view that Generative AI
+has the potential to fundamentally transform the way many people work. This is
+an idea that may excite some. Others might wonder what this means for them.
+Individuals whose jobs involve listening, speaking, writing, typing, or reading
+(which includes most people working in an office) may experience significant
+changes.
+
+ChatGPT illustrates how people can interact with an AI tool. The same approach
+can be applied everywhere else: instead of opening an empty presentation or an
+empty text document, generative AI can help to fill those documents with content
+from the start. Beautiful.ai’s DesignerBot is a prototype of this. In the
+future, users will be able to prompt the AI to change those documents
+iteratively and in real-time – in the same way as someone prompts ChatGPT to
+alter a text that it has generated.
+
+I see this rapid fire trial-and-error approach becoming the main way how we will
+create things in the future. Picture an architect adding the command “add a
+bathroom”. Something similar could work for music, videos, coding, website and
+product design – resulting in greater speed, creativity and quality.
+
+Tools like ChatGPT will not only change how we work, but they will also give new
+opportunities to all of us. They will make it easier to create something. And
+they will lower the entry barriers to launching and creating a business.
+
+
+WHAT ARE THE CAPABILITIES OF GENERATIVE AI?
+
+While known as generative AI, these tools are capable of much more than
+generating content from a short prompt. ChatGPT, for example, can generate text
+in various forms. It can create outline for presentations, it can create books,
+white papers, essays, speeches and even poems. ChatGPT can also find errors in
+text, summarise it, complete or rewrite it, or change its style. It can make
+text easier to understand. It can translate text into multiple languages. It can
+extract information from text, classify text and analyse its sentiment – all of
+which can be very useful as input for other applications. It can find errors in
+computer code and it can complete it. The list goes on.
+
+Other AI tools are or will soon be able to do similar things for images, music
+and videos. What I find particularly interesting is that the openendedness of
+generative AI models means that some of their capabilities are only discovered
+months or years after they were launched.
+
+
+WHAT ABOUT THE SHORTCOMINGS OF THOSE TOOLS?
+
+As I reflect on some of the criticisms of today's AI tools, I am reminded of the
+early days of other breakthrough technologies. From the Apple II to Windows 1.0,
+from AOL to my first Nokia phone, these products all had their share of
+shortcomings. But what the history of technology has repeatedly shown us is that
+exponential progress leads to unforeseen improvements in products and services.
+I firmly believe that the same will be true for the most pressing issues facing
+today's Generative AI.
+
+Of course, there are valid concerns to be addressed, such as the potential for
+so-called hallucinations. These are machine answers that appear to be true but
+are not. There is also the issue of the black-box nature of these systems: it is
+often difficult or impossible to make transparent how an AI tool came to the
+results it provided.
+
+There are some missing capabilities, such the inability of some AI chatbots to
+reliably do calculations. And there is risk of harmful, biased or inappropriate
+behaviour which must be scrutinised: who determines the parameters of the AI?
+And to what end? Moreover, the limitations of the data used to train these
+models, the energy consumption required to power neural networks, and the
+regulatory, legal and ethical questions surrounding this new technology6 cannot
+be ignored. Yet, from my vantage point, many industry participants are already
+taking steps to mitigate these concerns. I expect the growing attention and
+investment that the generative AI industry is attracting to further accelerate
+progress in this field.
+
+Nevertheless, generative AI tools do have some notable shortcomings that I
+expect to persist for a long time. These tools lack an understanding of content
+and the ability to reason or to exhibit intuition like humans. Despite their
+power, they are still trained for relatively narrow tasks. I am convinced that
+progress will be made, and machines will eventually achieve general artificial
+intelligence, but this point in time is likely still several decades away.
+
+
+WHAT WILL BE THE IMPACT ON THE JOB MARKET?
+
+As someone with a background in economics, I am acutely attuned to the potential
+impact of emerging technologies on the job market. The rise of generative AI is
+no exception.
+
+On one hand, there is no denying that this technology has the potential to
+significantly increase productivity and reduce costs in industries where
+automation is feasible. This could result in job losses or, at the very least,
+fewer new jobs created in those sectors. On the other hand, it's worth
+considering that lower prices resulting from the use of generative AI could lead
+to increased access to related products and services for consumers from all
+walks of life and across various industries (e.g. for education and healthcare),
+which could drive up production volumes and ultimately lead to more job
+opportunities.
+
+Generative AI may lead to deflation in industries that can be further automated.
+However, as most central banks are unlikely to allow deflation to occur for the
+overall economy, this could ultimately result in a price increase for those
+goods and services that do not benefit from AI-based automation. This, in turn,
+could prompt a re-evaluation of roles that require uniquely human skills, such
+as empathy, intuition, and critical thinking, or that are simply too important
+to be automated.
+
+My optimistic inclination leads me to believe that these dynamics will help to
+dampen job losses in industries that permit automation and will create new jobs
+in others. However, the future is unpredictable, and the short and long-term
+effects of emerging technologies on the job market remain ambiguous.
+
+
+IS THIS THE PEAK OF A HYPE CYCLE?
+
+The current buzz surrounding ChatGPT and its explosive adoption appears to be
+following the familiar pattern of the so-called hype cycle that I have observed
+with other disruptive technologies. I do not believe that we have reached the
+peak of the initial hype yet, as I anticipate the rapid pace of developments in
+generative AI to continue. And it is only a matter of weeks since ChatGPT was
+launched to the public. When this hype cycle inevitably subsides at some point,
+I expect that some doubts will arise regarding the potential of this technology.
+Nevertheless, I have learned from past disruptions that it's crucial to look
+through the ups and downs of the hype cycle and to focus on the mid to long-term
+impact that a new technology such as generative AI will have.
+
+
+WHAT WILL BE THE IMPACT ON SOCIETY?
+
+I am cautiously optimistic for the short and mid-term adoption of generative AI,
+but I cannot ignore the significant unknowns we face as a society regarding its
+longer-term implications. My personal crystal ball leaves me with many important
+questions, such as: will the widespread use of generative AI ultimately foster
+greater creativity and intelligence, or will it stifle them? Will it enable
+better knowledge sharing or fuel rampant misinformation?
+
+Most significantly, will it mitigate social inequality, or will it exacerbate
+the concentration of power and wealth among a select few? In my view, the
+answers to these questions are not predetermined; rather, they will be shaped by
+the choices we make as a society about how we use these powerful new tools.
+
+
+A CAUTIOUSLY OPTIMISTIC CONCLUSION
+
+I believe that the rapid development of generative AI is poised to revolutionise
+our lives, and in particular our professional lives, in ways we cannot yet fully
+imagine. This will create new opportunities for many people around the world.
+The economist in me recognises the potential for both disruption and opportunity
+in the job market. And the technologist in me is fully cognizant of the risks
+and the potential of this new technology. Overall, I am cautiously optimistic
+that existing concerns can be effectively addressed, and that generative AI will
+have a significant and positive transformative impact on society as long as it
+is approached responsibly. This is the responsibility of all of us as society.
+And it is our responsibility as investors in companies that create and apply
+this new technology.
+
+
+
+All content in the document is based on the original ideas of the author. The
+text has been reviewed by the author. The editing of the document was supported
+by ChatGPT.
+
+
+
+1 Jasper AI’s GenAI conference, it was sold-out with 1,200 participants
+
+2 On February 7, 2023, Microsoft announced the integration of OpenAI’s
+technology into its Edge browser for content summaries and chat functionalities
+
+3 On February 10, 2023, The Verge reported that Microsoft is preparing to
+integrated OpenAI’s capabilities into Word, PowerPoint and Outlook
+
+4 e.g. Github Copilot or Replit Ghostwriter
+
+5 Artwork by OpenAI’s Dall-E produced in response to the instruction: ""Draw me a
+minimalist but sophisticated San Francisco Skyline”
+
+6 For instance, concerning the protection of intellectual property rights
+related to the data utilized in training generative AI models
+
+
+
+
+
+
+
+",https://www.schroders.com/en-us/us/individual/insights/the-generative-ai-revolution-reflections-upon-my-return-from-silicon-valley/,,,,,,,,
+https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vaGJyLm9yZy8yMDIzLzAyL2dlbmVyYXRpdmUtYWktd29udC1yZXZvbHV0aW9uaXplLXNlYXJjaC15ZXTSAQA?oc=5,Generative AI Won't Revolutionize Search — Yet - HBR.org Daily,2023-02-23,HBR.org Daily,https://hbr.org,"Generative AI has the potential to drastically change what users expect from search, and companies such as Microsoft and Google are placing big bets on what it might yield. But despite the hype around ChatGPT — and generative AI overall — there are major practical, technical, and legal challenges to overcome before these tools can reach the scale, robustness, and reliability of an established search engine such as Google. These include problems of keeping large language models up to date, issues around sourcing, and convincing fabrications by the AIs. That said, these tools might be strong fits for narrower, more specialized forms of search.",N/A,"Generative AI has the potential to drastically change what users expect from search, and companies such as Microsoft and Google are placing big bets on what it might yield. But despite the hype around ChatGPT — and generative AI overall — there are major practical, technical, and legal challenges to overcome before these tools can reach the scale, robustness, and reliability of an established search engine such as Google. These include problems of keeping large language models up to date, issues around sourcing, and convincing fabrications by the AIs. That said, these tools might be strong fits for narrower, more specialized forms of search.",N/A,,,,,,,,WebSite,,,https://schema.org,,,,,AI and machine learning,N/A,N/A,,,https://hbr.org/,"{'@type': 'SearchAction', 'target': 'https://hbr.org/search?term={search_term_string}', 'query-input': 'required name=search_term_string'}",,,,,,,
+https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5hbWVyaWNhbmNpdHlhbmRjb3VudHkuY29tLzIwMjMvMDIvMjMvY2FuLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWZpbmFsbHktcHJvdmlkZS1hLWZhaXItYW5kLWVmZmljaWVudC1hcHByYWlzYWwtcHJvY2Vzcy_SAQA?oc=5,Can artificial intelligence finally provide a fair and efficient appraisal process? - American City & County,2023-02-23,American City & County,https://www.americancityandcounty.com,Assessors and appraisers are increasingly seeking to leverage artificial intelligence and machine learning to deliver a fair and efficient valuation.,N/A,Assessors and appraisers are increasingly seeking to leverage artificial intelligence and machine learning to deliver a fair and efficient valuation.,Assessors and appraisers are increasingly seeking to leverage artificial intelligence and machine learning to deliver a fair and efficient valuation.,,,,,,,,,,,https://schema.org,,,,,N/A,N/A,"
+
+
+
+",,,,,"[{'@type': 'Organization', '@id': 'https://www.americancityandcounty.com/#organization', 'name': 'American City and County', 'url': 'https://www.americancityandcounty.com'}, {'@type': 'WebSite', '@id': 'https://www.americancityandcounty.com/#website', 'url': 'https://www.americancityandcounty.com', 'name': 'American City and County', 'alternateName': 'American City and County', 'publisher': {'@id': 'https://www.americancityandcounty.com/#organization'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://www.americancityandcounty.com/files/2023/02/2JF7MH9.jpg', 'url': 'https://www.americancityandcounty.com/files/2023/02/2JF7MH9.jpg', 'width': '9120', 'height': '6080', 'caption': 'artificial intelligence', 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.americancityandcounty.com/2023/02/23/can-artificial-intelligence-finally-provide-a-fair-and-efficient-appraisal-process/#webpage', 'url': 'https://www.americancityandcounty.com/2023/02/23/can-artificial-intelligence-finally-provide-a-fair-and-efficient-appraisal-process/', 'name': 'Can artificial intelligence finally provide a fair and efficient appraisal process? - American City and County', 'datePublished': '2023-02-23T19:47:07+00:00', 'dateModified': '2023-02-23T19:47:07+00:00', 'isPartOf': {'@id': 'https://www.americancityandcounty.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.americancityandcounty.com/files/2023/02/2JF7MH9.jpg'}, 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.americancityandcounty.com/author/michellehavich/', 'name': 'michellehavich', 'url': 'https://www.americancityandcounty.com/author/michellehavich/', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/68cf36c4bef2876335380f5cce73a1be?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/68cf36c4bef2876335380f5cce73a1be?s=96&amp;d=mm&amp;r=g', 'caption': 'michellehavich', 'inLanguage': 'en-US'}, 'worksFor': {'@id': 'https://www.americancityandcounty.com/#organization'}}, {'@type': 'NewsArticle', 'headline': 'Can artificial intelligence finally provide a fair and efficient appraisal process? - American City and County', 'keywords': 'artificial intelligence', 'datePublished': '2023-02-23T19:47:07+00:00', 'dateModified': '2023-02-23T19:47:07+00:00', 'author': {'@id': 'https://www.americancityandcounty.com/author/michellehavich/', 'name': 'michellehavich'}, 'publisher': {'@id': 'https://www.americancityandcounty.com/#organization'}, 'description': 'Assessors and appraisers are increasingly seeking to leverage artificial intelligence and machine learning to deliver a fair and efficient valuation.', 'copyrightYear': '2023', 'copyrightHolder': {'@id': 'https://www.americancityandcounty.com/#organization'}, 'name': 'Can artificial intelligence finally provide a fair and efficient appraisal process? - American City and County', '@id': 'https://www.americancityandcounty.com/2023/02/23/can-artificial-intelligence-finally-provide-a-fair-and-efficient-appraisal-process/#richSnippet', 'isPartOf': {'@id': 'https://www.americancityandcounty.com/2023/02/23/can-artificial-intelligence-finally-provide-a-fair-and-efficient-appraisal-process/#webpage'}, 'image': {'@id': 'https://www.americancityandcounty.com/files/2023/02/2JF7MH9.jpg'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://www.americancityandcounty.com/2023/02/23/can-artificial-intelligence-finally-provide-a-fair-and-efficient-appraisal-process/#webpage'}}]",,,,,,
+https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzAyLzIzL3ZpZGVvLWdhbWVzLWdlbmVyYXRpdmUtYWnSAQA?oc=5,Video game makers are putting generative AI to work - Axios,2023-02-23,Axios,https://www.axios.com,"Some games are using AI to improve non-playing character dialogue, others to ease world creation","Axios License,Visuals,Artificial intelligence,Illustrations,ChatGPT","Some games are using AI to improve non-playing character dialogue, others to ease world creation","Some games are using AI to improve non-playing character dialogue, others to ease world creation",,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZW1lcmouY29tL2FpLXNlY3Rvci1vdmVydmlld3MvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYXQtZGhsLXR3by1hcHBsaWNhdGlvbnMv0gEA?oc=5,Artificial Intelligence at DHL – Two Applications at the World's Largest Logistics Company - Emerj,2023-02-22,Emerj,https://emerj.com,,"artificial intelligence, hr, machine learning, order fulfillment, skills graphs, workforce","DHL is a German logistics company that offers parcel delivery, express mail, freight forwarding, and third-party logistics. Its parent company is Deutsche",N/A,https://emerj.com/ai-sector-overviews/artificial-intelligence-at-dhl-two-applications,2023-03-13,,Nicholas DeNittis,"{'@type': 'Organization', 'name': 'Emerj', 'url': 'https://emerj.com', 'logo': {'@type': 'ImageObject', 'url': 'https://emerj.com/wp-content/themes/emerj/src/logo/emerj-logo-w-500-min.png'}}",https://emerj.com/wp-content/uploads/2023/02/Artificial-Intelligence-at-DHL@2x-min-690x392.jpg,Artificial Intelligence at DHL – Two Applications at the World’s Largest Logistics Company,Article,,,https://schema.org,,,,,N/A,N/A," Business intelligence and analyticsHeavy industryLogisticsManufacturingPredictive analytics and forecastingSupply chain management Artificial Intelligence at DHL – Two Applications at the World’s Largest Logistics Company Nicholas DeNittisLast updated on February 22, 2023  Last updated on February 22, 2023, published by Nicholas DeNittis Nick DeNittis writes and edits AI industry trends and use-cases for Emerj's editorial and client content. Nick holds an MS in Management from Troy University and has earned several professional analytics certificates, including from the Wharton School. Share to: LinkedIn Twitter Facebook Email  DHL is a German logistics company that offers parcel delivery, express mail, freight forwarding, and third-party logistics. Its parent company is Deutsche Post (‘DPDHL’), the world’s largest logistics enterprise, operating in over 220 countries and employing more than 510,000 people worldwide.  All company financials are provided by DPDHL. In its 2021 annual report, DPDHL reported a pre-tax profit (EBIT) of approximately $8 billion on almost $82 billion in revenue. Deutsche Post has a market capitalization of $52.18 billion Euro (≅$53.16 billion USD). The company is traded on the German stock exchange (symbol: DPSGY). Since 2015, the company has made significant investments in AI vendors including for   $300 million in 2018 for several applications focused on robotics and augmented reality in the internet of things (“IoT”). The company also made a $15 million investment in Boston Dynamics earlier this year. A recent LinkedIn search lists 507 data scientists currently employed at the company. This article will examine how DHL’s use of AI supports its business goals is exemplified through two specific use cases: Optimizing order fulfillment: DHL uses machine learning algorithms and predictive analytics to help e-retailers optimize route selection and staff allocation. Aligning workforce skills: DHL uses skills graphs enabled with natural language processing to match needed skills to people, learning content and job roles. Let’s first examine how DHL built an AI-powered solution to optimize the company’s route selection and allocation of its workforce. Use Case #1: Optimizing Order Fulfillment According to DHL, the COVID pandemic lead to a steady increase in online sales, creating a problem both for electronic retailers (or “e-tailers”) and logistics companies. Household staple items like food, drugstore items, and medications were in particular demand, creating supply bottlenecks.  To overcome these difficulties, DHL Supply Chain tasked its data team with developing and adding newer forecasting and analysis algorithms to its Resilience360 platform (now Everstream, a DHL subsidiary).  The stated purpose of the algorithms was to “optimize warehousing and processing of online orders for major e-sellers.” The company wanted to eliminate some of the inherent uncertainty that comes with demand fluctuations. DHL did not provide information on how the software was trained. However, given the purpose of the software to anticipate product demand fluctuations and optimize manpower, we can extrapolate on likely outcomes. First, the training data probably consisted of vast amounts of individual product orders and their associated data. These may have included SKU, quantity, etc. Second, the logistical element of the algorithm would have mandated product tracking and workforce data. Workforce information would have required data such as the number of employees, locations, days and times worked, and their roles and locations. The company states that the model data is collected via numerous input devices, including sensors and robots. The data is then centralized into warehouse management systems (WMS) and transportation management systems (TMS). The data is then analyzed with ML algorithms. If the software detects potential insights and optimizations, the user is alerted to the actionable data via a notification system built into the software’s dashboard. The following two-and-a-half minute video describes how the Resilience360 platform works:   DHL states that the software is compatible with most WMS systems and can be integrated into existing IT infrastructure. DHL claims that its algorithms have helped to improve the decision-making and order-picking processes of its customers. Regarding business outcomes, the company claims that its new algorithm has reduced the travel distance of warehouse employees by 50 percent and increased the productivity of “individual DHL locations” by up to 30 percent.  Use Case #2: Aligning Workforce Skills DHL wanted an automated solution that could identify skills the company would need in the future and prepare its workforce to transition to related roles. Cornerstone, DHL’s partner on the project, states that its client wanted an AI-enabled solution capable of “identifying the skills currently in the team today and uncovering potential skills that are relevant to tomorrow.” In the following brief, 8-minute video below, Cornerstone Chief International Officer explains the benefits of the Conerstone OnDemand platform in aligning workforce skills for global brands:  The challenge, Cornerstone states, was two-fold. First, the manual curation of an internal talent pool is both time-consuming and difficult to scale. Such a solution would also be quickly outdated.  Second, the geographical distribution of DHL’s workforce made connecting to workers and offering traditional training difficult. Cornerstone states that the solution was an AI-powered skills engine capable of: Identifying skills within the organization Matching internal workers to jobs requiring said skills Pinpoint the potential skills gaps Suggest training modules to account for skills gaps A Cornerstone case study report describes the functionality of their tool to facilitate lateral and aspirational skills transfer. AI recommendations based on deeper insights into their working experience mean more fulfilling roles for “airside handlers” and warehouse supervisors. “Once the skills are out on the table,” reads the report, “the employee [can] choose what they’d like to develop in order to move up or across into a new career path, opening up many possibilities and mapping out their future with the company.”  Cornerstone states that the key element to DHL’s solution was their Skills Graph/Skills Ontology software. Cornerstone claims that the skills graph software platform  helps each employee develop individual skills profiles using their job title and resume, using  natural language processing to analyze employees’ resumes and identify current skills. The case report goes on to claim that algorithms score each candidate’s current skillset against a skills taxonomy for open jobs within the company. The company claims that its model collects taxonomy data from over 250 million external job profiles across a variety of industries and organization sizes. The software produces an individualized profile for each candidate identifying any skill gaps and recommends associated learning content. The recommendations are made available to both the employee and supervisors.   Employee Skill Development Progress and Suggested Skills. (Source: Cornerstone) Armed with that data, the employee is able to work on suggested training to upskill. The supervisor is able to monitor the employee’s training progress. Concerning the results of its solution, Cornerstone claims that it was able to save DHL more than 10% in recruiting costs, equivalent to “millions of dollars.” Related Posts Artificial Intelligence at DocuSign - Two Current Use-CasesDocuSign is an American company that provides digitized document management services. The company’s target market… Artificial Intelligence for Military Logistics - Current ApplicationsLogistics in the military encompasses more functions than most people realize. In modern warfare, that… Artificial Intelligence at Tesla - Two Current Use-CasesFounded in 2003 as Tesla Motors, the electric vehicle and clean energy company based in… Artificial Intelligence at DisneyThe Walt Disney Company began in 1923 as the Disney Brothers Cartoon Studio. By 1940,… Artificial Intelligence and Digital Twins at General ElectricGeneral Electric (GE) was founded in 1889 by J.P. Morgan and Anthony J. Drexel who… Share to: LinkedIn Twitter Facebook Email Stay Ahead of the AI Curve Discover the critical AI trends and applications that separate winners from losers in the future of business. Sign up for the 'AI Advantage' newsletter:   Subscribe",,,,,,AI Sector Overviews,1019,2023-02-22,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdmVudHVyZWJlYXQuY29tL2FpL2hvdy1udmlkaWEtZG9taW5hdGVkLWFpLWFuZC1wbGFucy10by1rZWVwLWl0LXRoYXQtd2F5LWFzLWdlbmVyYXRpdmUtYWktZXhwbG9kZXMv0gEA?oc=5,How Nvidia dominated AI — and plans to keep it that way as generative AI explodes - VentureBeat,2023-02-23,VentureBeat,https://venturebeat.com,"Over the past decade, Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?",N/A,"Over the past decade, Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?",N/A,https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/,2023-02-23T13:00:00+00:00,,"{'@type': 'Person', 'name': 'Sharon Goldman'}","{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'url': 'https://vbstatic.co/brand/img/logos/VB_Extended_Logo_60H.png', 'width': 416, 'height': 60}, 'name': 'VentureBeat'}","{'@type': 'ImageObject', 'url': 'https://venturebeat.com/wp-content/uploads/2023/01/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv-e1679423776142.jpeg', 'width': 1024, 'height': 512}",How Nvidia dominated AI — and plans to keep it that way as generative AI explodes,NewsArticle,,,http://schema.org,,,,,N/A,N/A,"
+
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+
+
+At next month’s GTC, Nvidia’s annual AI conference targeting over 3.5 million developers working on its platform, founder and CEO Jensen Huang will invite Ilya Sutskever, cofounder and chief scientist at OpenAI, onto the stage for a fireside chat.
+The conversation will certainly send a symbolic message that Nvidia has no intention of ceding its AI dominance — which began when the hardware and software company helped power the deep learning “revolution” of a decade ago. And Nvidia shows few signs of losing its lead as generative AI explodes with tools like ChatGPT. 
+1/7Synergy in Synthesis: Forging the Future of AI with Cross-Functional ExpertiseRead More
+
+
+
+91.2K
+
+
+
+507
+
+
+
+
+
+
+Video Player is loading.Play VideoUnmuteDuration 0:00/Current Time 0:00Playback Speed Settings1xLoaded: 0%0:00
+
+Remaining Time -0:00 FullscreenPlayRewind 10 SecondsUp NextThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.SharePlayback Speed0.25x0.5x1x Normal1.5x2xReplay the list
+
+TOP ARTICLES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ad: (29)4Powered by AnyClip Privacy PolicyKeyboard Shortcuts
+
+
+
+Synergy in Synthesis: Forging the Future of AI with Cross-Functional Expertise
+
+
+
+>>Follow VentureBeat’s ongoing generative AI coverage<<
+After all, Nvidia supplied the technology of the early pioneers. Sutskever, along with Alex Krizhevsky and their Ph.D. supervisor Geoffrey Hinton, created AlexNet, the pioneering neural network for computer vision that won the ImageNet competition in October 2012. The winning paper, which showed that the model achieved image-recognition accuracy never before seen, directly led to the next decade’s major AI success stories — everything from Google Photos, Google Translate and Uber to Alexa and AlphaFold.
+According to Hinton, AlexNet would not have happened without Nvidia. Thanks to their parallel processing capabilities supported by thousands of computing cores, Nvidia’s GPUs — which were created in 1999 for ultrafast 3D graphics in PC video games, but had begun to be optimized for general computing operations — turned out to be perfect for running deep learning algorithms. 
+“In 2009, I remember giving a talk at NIPS [now NeurIPS] where I told about 1,000 researchers they should all buy GPUs because GPUs are going to be the future of machine learning,” Hinton told VentureBeat last fall. 
+However, Sutskever also represents the 2023 AI hype explosion, as large language models like ChatGPT and DALL-E 2  have launched generative AI into the public’s consciousness in a way not seen, perhaps, since the dawn of the iPhone in 2007. 
+This, too, would not have been possible without Nvidia. Today’s massive generative AI models require thousands of GPUs to run — and Nvidia holds about 88% of the GPU market, according to John Peddie Research. In fact, OpenAI reportedly used 10,000 Nvidia GPUs to train ChatGPT.
+Many see the 30-year-old Nvidia as the biggest potential winner in the red-hot generative AI space. In fact, the generative AI frenzy sent Nvidia’s share price soaring in January.
+Citi, for example, estimated that ChatGPT usage could result in $3 billion to $11 billion in sales for Nvidia over 12 months. And last month, Altimeter’s Brad Gerstner told CNBC that Nvidia is “the beating heart of the AI supercycle.” 
+On a 4th quarter earnings call with analysts yesterday — on which the company reported increased revenue in its data center business, including AI chips —  Nvidia’s Huang agreed. 
+AI is at an “inflection point,” he said, which is leading to more businesses buying more Nvidia chips to develop ML software. 
+“Generative AI’s versatility and capability has triggered a sense of urgency at enterprises around the world to develop and deploy AI strategies,” Huang said.
+How long can Nvidia’s AI dominance last? 
+The question is, how long can Nvidia sustain its AI dominance? Will anyone catch up and topple it off its AI perch? Not anytime soon, say experts. 
+These days, Nvidia is synonymous with AI, says Gartner analyst Chirag Dekate. advertisement
+“It is not just a GPU computing company, it’s basically an AI supercomputing company,” he explained. “Nvidia has had a complete freedom of the AI landscape, they have taken advantage of really sharp, business-savvy investments and focused approaches that basically enable them to dominate their market.”
+Nvidia won’t have free rein forever — chip competitors like AMD and Google are nipping at their heels, for one thing, while geopolitical forces hover ominously. (With the United States’ latest chip export control, state-of-the-art GPUs like Nvidia’s A100 and H100 can no longer be sold to China, for example.) 
+But Nvidia’s famed platform strategy and software-focused approach is still very, very hard to beat, experts say. 
+“While other players offer chips and/or systems, Nvidia has built a strong ecosystem that includes the chips, associated hardware and a full stable of software and development systems that are optimized for their chips and systems,” analyst Jack Gold wrote for VentureBeat last September. advertisement
+Nathan Benaich, founder and general partner of Air Street Capital, pointed out that Nvidia has also been “very nimble” with integrating new capabilities into its system. Other AI chip startups have under-invested in software tooling, so while they have created cloud computing platforms that may be faster or cheaper than Nvidia’s, they “don’t come with a commensurate improvement in the current programming experience.”
+Ultimately, he told VentureBeat, the AI game “is Nvidia’s to lose.” 
+And Nvidia clearly has no intention of losing. 
+“We know we have the best combined hardware and software platform for being the most efficient at generative AI,” Manuvir Das, VP of enterprise computing at Nvidia, told VentureBeat. But, he added. “We constantly operate with the motto that we have no advantage — and nobody is going to outwork us or out-innovate.”
+
+Manuvir Das (photo by Nvidia) 
+GPU + CUDA changed the game for AI
+Jensen Huang always knew his graphics chips had more potential than just powering the latest video games, but he didn’t anticipate the shift to deep learning, according to a 2016 Forbes interview.
+In fact, the success of Nvidia’s GPUs for deep neural networks was “a bizarre, lucky coincidence,” said Sara Hooker, whose 2020 essay “The Hardware Lottery” explored the reasons why various hardware tools succeeded and failed. 
+Nvidia’s success was like “winning the lottery,” she told VentureBeat last year. Much of it depended upon the “right moment of alignment between progress on the hardware side and progress on the modeling side.” The change, she added, was almost instantaneous. “Overnight, what took 13,000 CPUs overnight took two GPUs,” she said. “That was how dramatic it was.” 
+Nvidia doesn’t agree with that assessment, however. The company maintains that Nvidia was aware of the potential for GPUs to accelerate neural networks from the mid-2000s, even if they didn’t know that AI was going to be the most important market. 
+“We did know that the world’s most important problems needed accelerated computing,” said a Nvidia spokesperson. “So we invested heavily in building CUDA [compute unified device architecture] from top to bottom, putting general purpose acceleration into the hands of millions of developers. Adding CUDA to every GPU Nvidia makes was a huge bet.”
+The CUDA compute platform, which Nvidia added in 2007, is the software and middleware stack that allows researchers to program and access the compute power and extreme parallelism that GPUs can enable. And the deep learning revolution wouldn’t have happened, experts both inside and outside of Nvidia emphasize, if Nvidia had not added CUDA to the mix in 2007.
+Before Nvidia released CUDA, programming a GPU was a long and arduous coding process that required writing a great deal of low-level machine code. Using CUDA — which was free — researchers could develop their deep learning models much more quickly and cheaply. On Nvidia’s hardware, of course. 
+CUDA, Jensen Huang told Ben Thompson in a March 2022 Stratechery interview, “made GPUs accessible, and because we dedicated ourselves to keeping every generation of processors CUDA-compatible, we invented a new programming model.” 
+Jensen Huang’s big bet on AI
+But six years after CUDA was released, Nvidia was still not yet “all in” on AI. 
+Bryan Catanzaro, vice president of applied deep learning research at Nvidia, pointed out that when AlexNet was published and other researchers were tinkering with GPUs, “there really wasn’t anybody at Nvidia working on AI.” 
+
+Bryan Catanzaro (photo by Nvidia)
+Except Catanzaro, that is. At the time, he explained, he was collaborating with Andrew Ng at Stanford on a “little project where we replaced 1,000 servers at Google with three servers using GPUs and a bunch of CUDA kernels that the team wrote.” He was also talking during that period with the NYU AI Lab’s Yann LeCun (now head of AI research at Meta), and Rob Fergus (now a research scientist at DeepMind).  
+“Fergus was telling me, ‘It’s crazy how many machine learning researchers are spending time writing kernels for the GPU — you should really look into that,’” he said.
+Cantanzaro did look into it. Customers were starting to buy large numbers of GPUs for deep learning. Eventually Huang and others at Nvidia took note too.
+By 2014 Huang was fully on board with the AI mission. While his 2013 GTC keynote barely mentioned AI, it was suddenly front and center during his 2014 keynote. Machine learning is “one of the most exciting applications in high-performance computing today,” he said. “One of the areas that has seen exciting breakthroughs, enormous breakthroughs, magical breakthroughs, is an area called deep neural nets.” 
+Catanzaro pointed out that as founder of the firm, Huang had the authority to “turn the company on a dime, he just pounced on it,” realizing that “AI is the future of this company, and we’re gonna bet everything on it.” 
+Nvidia’s software-focused platform strategy
+The ImageNet moment of 2012 involved a few researchers and a GPU. But this was just the first milestone, according to Kari Briski, VP of product management, AI software at Nvidia. 
+The next challenge was how to make the power of GPUs scale: “We worked on software to make sure that the GPUs could communicate together, so we went from a single GPU to multi-GPU and multinode,” Briski said. 
+
+Kari Briski (photo by Nvidia)
+For the past seven years, Nvidia has focused on building deep learning software in libraries and frameworks that abstract the need to have to code in CUDA. It puts CUDA-accelerated libraries, like cuDNN, into more widely used Python-based libraries like PyTorch and TensorFlow. 
+“You can now scale to hundreds and thousands of GPUs all talking to each other to get that neural network,” said Briski. “It went from months of training to weeks — today it takes seconds to train that same neural network.”
+In addition, by 2018 GPUs were used not just for AI training, but for inference, too — to support capabilities in speech recognition, natural language processing, recommender systems and image recognition. That meant not just more hardware, like Nvidia’s T4 chip, but more software to fuel these real-time inference workloads in the data center and in automotive applications, as well as in robots and drones. 
+As a result, Nvidia has become more of a software company than a hardware company, said Nvidia’s Das. The company hired more and more software engineers and researchers and built the research division to be the state of the art of AI. 
+“We started building up all these pieces of software, one use case after another,” he said. As standards and frameworks began to evolve, like TensorFlow and PyTorch for training, Nvidia optimized them for GPUs. “We became AI developers and really embraced the ecosystem,” he added. 
+At Nvidia’s 2022 GTC Analyst/Investor Conference, Huang made the company’s ongoing software and platform focus very clear, including a shout-out to the AI Enterprise Software Suite, which had launched the previous year. 
+“The important thing about our software is that it’s built on top of our platform,” he said. “It means that it activates all of Nvidia’s hardware chips and system platforms. And secondarily, the software that we do is industry-defining software. We’ve now finally produced a product that an enterprise can license. They’ve been asking for it … they can’t just go to open source, and download all the stuff, and make it work for their enterprise. No more than they could go to Linux, download open-source software, and run a multibillion-dollar company with it.”
+The consequence of the platform approach is that anytime a customer buys from Nvidia, they’re not just buying the software, but buying into the Nvidia value chain.
+That was another key pillar to Nvidia’s strategy, explained Gartner’s Dekate. With the GPU and CUDA, and Nvidia’s channel strategy, which surrounded customers with options and sourcing that customers are most familiar with, it created an ecosystem growth flywheel.
+“Nvidia does not have to try and convince enterprise end users directly,” he said. “End users can use technologies they are familiar with but still turn the crank on Nvidia.”
+Nvidia’s AI headwinds are gentle — for now
+In the late 2010s, AI chip startups began making waves, from Graphcore and Cerebras to SambaNova. 
+Analyst Karl Freund recalled that at the time, the prevailing wisdom was that since the startups were designing chips specifically for AI, they would be better than Nvidia’s.
+“That didn’t turn out to be the case,” he said. “Nvidia was able to innovate both in their hardware and software to keep their lead.” 
+That being said, their lead has diminished — Habana Labs, owned by Intel, had really good results on their Habana Gaudi2 chip, Freund pointed out, while Google’s TPU4 “looks really good and is competitive with the A100.” 
+But Nvidia has the H100 in the wings, which everyone is anxiously waiting to ship in production volumes. The new Hopper H100 chip uses a new architecture designed to be the engine for massively scalable AI infrastructure. It includes a new component called the Transformer Engine that’s specifically optimized for training and inference of the transformer layer, which is the building block of GPT (ChatGPT, for example, is a generative pretrained Transformer). 
+In addition, even if CUDA’s current competitive moat is challenged, Nvidia is also replacing it with its latest higher-level, use-case specific software — such as AI for healthcare and AI for digital twins/omniverse.
+Finally, even if all the competitive trends started materializing in the second half of this year, they would not have a material impact on Nvidia revenues until 2024. Even then, Freund estimated that all competitors combined could get just 10% of the market. 
+Still, Gartner’s Dekate insists that Nvidia no longer has the clean playing field they once had, that allowed them to dominate the marketplace. That development includes an increased number of customer options, which allows end users to, at the very least, drive pricing advantage in their favor. 
+Also, with some Chinese vendors having to do without access to Nvidia GPUs, they will try to accelerate competitive technology, he predicted.
+Nvidia’s Briski brushes off concerns. “We’ve had headwinds before,” she said. “I think that we’re always challenged to be on our toes, to never feel sort of comfortable.” 
+In any case, Huang has maintained that it’s tough for competitors to come into the AI market and create a solution that works, isn’t too complicated, and uses the software developers want.
+Nvidia’s Huang seen as AI visionary — who keeps the pressure on
+Over the years, Nvidia CEO Jensen Huang, well-known for his leather jacket atop a black silicon valley uniform, has been described as everything from “flamboyant” and a “superstar” to, occasionally, a jokester and “the next Steve Jobs.” 
+Nvidia CEO Jensen Huang at GTC 2022 (photo by Nvidia)
+But, inevitably, any discussion about Nvidia’s AI success turns to Huang.
+Nvidia’s Das joined the company from Microsoft in 2019. He says he had many conversations with Huang over a period of nine months before accepting the position.
+“I joined Nvidia to work for Jensen because he just blew my mind in all these conversations … that there could be a person like that, who could think like that, who can actually operate like that,” Das said. 
+Analyst Freund emphasized that Huang “is an amazing driver of that company” and added that Nvidia does not have a lot of organizational layers, because Huang doesn’t like to have a lot of layers between him and the people doing the engineering work and the science work. 
+That said, Huang is also demanding, he added. “When I worked at AMD, a lot of my graphics engineers were renegades from Nvidia,” said Freund. “They left Nvidia because they couldn’t handle the pressure.” 
+Nvidia’s generative AI opportunity
+Catanzaro left Nvidia in 2014 to work at Baidu with Andrew Ng, but returned to Nvidia in 2016 to head a new lab focused on applied deep learning research. At the time, he was the only member. Seven years later, he leads a team of 40 researchers.
+Nvidia’s accelerated computing business, he said, requires his team to conceive of each entire application as an optimized whole. 
+“We don’t outsource any of that responsibility,” he said. Nvidia, he explained, tackles entire problems from top to bottom, from chips to applications, algorithms, libraries, compiler framework and interconnected data center architecture. Its researchers have the freedom to really push acceleration “far beyond what we could do if we limited ourselves to thinking about just one part of that stack.” 
+And with the new era of ChatGPT, Nvidia can push even further, he added. 
+“Companies are going to be really pushing on the application of AI to lots of different problems,” he said. “That, of course, makes my job even more exciting — I feel like applied research is the hottest place to be right now.” 
+Huang, too, has weighed in on the transformative moment of ChatGPT. “This is the iPhone moment of artificial intelligence,” he said at a recent Q&A at Berkeley’s Haas School of Business. “This is the time when all those ideas within mobile computing and all that, it all came together in a product that everyone kinda [says], I see it, I see it.”
+Nvidia is well-prepared for the generative AI opportunity, said Das. “For those who have been working on it for years, we’ve sort of anticipated this,” he said. “We’ve been working on training large language models and we know what they’re capable of.” 
+Nvidia is in an AI sweet spot 
+Since AlexNet in 2012, Nvidia’s AI journey has always been about taking advantage of opportunities that opened up — even if, in the case of GPUs, it was unexpected. 
+So with the 2023 GTC just a month away — which will include more than 65 sessions focused on generative AI — Nvidia is undoubtedly in a sweet spot. Just as the company’s GPU was at the center of powering the deep learning revolution of a decade ago, Nvidia’s hardware and software are running behind the scenes of today’s GPU-hungry, hyped-up generative AI technology.
+And it seems like no matter which companies come out on top — Google? Microsoft? OpenAI? — Nvidia, who supplies them all, will win big.
+
+
+
+VB Daily
+Stay in the know! Get the latest news in your inbox daily
+
+
+
+
+ Subscribe
+
+By subscribing, you agree to VentureBeat's Terms of Service.
+
+					Thanks for subscribing. Check out more VB newsletters here.
+				
+An error occured.
+
+
+ 
+
+
+Find Your Place In The World BY Amply
+
+
+
+
+
+ 
+Software Developer - AI Trainer (Contract)
+DataAnnotation
+Charlotte
+From $40 an hour
+See Job
+
+
+
+
+
+ 
+Senior Software Engineer
+PayPal
+Austin
+See Job
+
+
+
+
+
+ 
+Expert IT Business Systems Analyst - Demand & Supply Planning
+Nestlé IT
+St. Louis
+$120,000 - $140,000 a year
+See Job
+
+
+
+
+
+ 
+Entry Level Mortgage Specialist with Sign-On Bonus
+United Wholesale Mortgage
+Pontiac
+See Job
+
+
+
+
+            Search More Roles
+          
+
+
+
+",,,,,,,,2023-02-23T21:58:37+00:00,,,
+https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdHlwZXMtb2Ytam9icy1yaXNrLWFpL9IBAA?oc=5,The 7 Types of Jobs Most at Risk From AI - MUO - MakeUseOf,2023-02-24,MUO - MakeUseOf,https://www.makeuseof.com,Will AI take over your job? Here are the top jobs most at risk from artificial intelligence and how you can prepare for the future.,N/A,Will AI take over your job? Here are the top jobs most at risk from artificial intelligence and how you can prepare for the future., Will AI take over your job? Here are the top jobs most at risk from artificial intelligence and how you can prepare for the future. ,"{'@type': 'WebPage', '@id': 'https://www.makeuseof.com/types-of-jobs-risk-ai/'}",2023-02-24T16:30:16Z,,"[{'@type': 'Person', '@id': 'https://www.makeuseof.com/author/khizer-kaleem/#author', 'name': 'Khizer Kaleem', 'url': 'https://www.makeuseof.com/author/khizer-kaleem/', 'description': 'Khizer is a content specialist who loves writing about social media on MakeUseOf.com. He has been using several social media platforms since 2009 and adding value to the world of web since 2018. Technology is what intrigues Khizer the most and has led him to write for many tech websites. Khizer also owns a tech blog named WornByFit.com, and through his writing skills, shows his passion to the world.', 'jobTitle': 'Author', 'knowsAbout': [{'@type': 'Thing', 'name': 'Social Media Tips'}, {'@type': 'Thing', 'name': 'Instagram'}, {'@type': 'Thing', 'name': 'Facebook'}], 'image': 'https://static1.makeuseofimages.com/wordpress%2Fwp-content%2Fauthors%2F61e8598d4aa89-vss.jpg', 'sameAs': ['https://www.facebook.com/khizer.kaleemullahkhan.58', 'https://twitter.com/KhizerKaleem3', 'https://www.instagram.com/khizerkaleem/', 'https://www.linkedin.com/in/khizer-kaleem-ullah-643307201/']}]","{'@type': 'Organization', '@id': 'https://https://www.makeuseof.com/#organization', 'name': 'MakeUseOf', 'url': 'https://https://www.makeuseof.com', 'description': 'MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet.', 'publishingPrinciples': 'https://www.valnetinc.com/en/terms-of-use', 'foundingDate': '2007', 'alternateName': 'MUO', 'sameAs': [], 'logo': {'@type': 'ImageObject', 'url': 'https://www.makeuseof.com/public/build/images/muo-amp-logo.png', 'height': '101', 'width': '202'}}","{'@type': 'ImageObject', 'contentUrl': 'https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg', 'description': 'from pixabay attribution freehttps://pixabay.com/illustrations/robot-artificial-intelligence-6655581/', 'height': '840', 'width': '1680'}",The 7 Types of Jobs Most at Risk From AI,Article,"[{'@type': 'WebPageElement', 'isAccessibleForFree': 'True', 'cssSelector': '.article-body'}]",True,http://schema.org,,,,,Work & Career,N/A,"
+
+
+The 7 Types of Jobs Most at Risk From AI
+Artificial Intelligence
+
+
+
+
+
+
+
+
+
+By 
+Khizer Kaleem
+
+
+Published Feb 24, 2023
+
+
+
+
+Your changes have been saved
+
+Email Is sent
+
+
+
+
+close
+Please verify your email address.
+
+
+Send confirmation email
+
+
+
+
+
+
+close
+You’ve reached your account maximum for followed topics.
+Manage Your List
+
+
+
+
+
+ Follow 
+
+
+
+Followed
+
+
+
+
+Follow with Notifications
+
+
+
+Follow
+
+
+
+Unfollow
+
+
+
+
+
+
+
+Share
+
+
+
+Facebook
+
+
+
+X
+
+
+
+LinkedIn
+
+
+
+Reddit
+
+
+
+Flipboard
+
+
+
+Copy link
+
+
+
+Email
+
+
+
+
+Link copied to clipboard
+
+
+
+Sign in to your MUO account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As technology advances rapidly, the fear of job loss due to automation has become a reality for many workers across industries. While some jobs are more susceptible to being replaced by AI than others, it's important to understand which roles are most at risk and how workers can adapt. 
+
+
+
+
+
+
+ Multiple jobs have already started to see the impact of AI, such as writing, social media management, and graphic design. By examining these roles, we hope to shed light on the current state of AI in the workforce. 
+
+
+ 1. Graphic Designing 
+    
+
+ AI has come a long way in recent years, making significant strides in various industries, including graphic design. AI-powered tools can create designs in real-time that are aesthetically pleasing. 
+
+ This technology analyzes user preferences, brand guidelines, and design trends, providing designers with an efficient way to get their work done quickly. AI-powered tools like Adobe Spark and Canva create stunning graphics with minimal effort. The algorithms also analyze designs and recommend changes to create something aligned with industry standards. 
+
+
+
+
+
+ You can also use AI text-to-art generators to create multiple images within seconds. Companies can save costs by hiring fewer designers and getting faster outputs. It is also a cost-effective alternative for smaller businesses that may not have the resources to hire a team of designers. 
+
+
+
+ 2. Writing, Editing, and Proofreading 
+    
+
+ Artificial intelligence has made remarkable advancements in the field of writing as well. With its ability to understand different languages, AI is now capable of replacing human writers, editors, and proofreaders in many ways. 
+
+ Different AI writing tools, such as automated content generators and language translation software, use algorithms and machine learning to create written content. These tools can produce articles, blog posts, and even books with remarkable speed and accuracy. 
+
+
+
+
+
+ The technology behind these tools is constantly improving and creating complex and nuanced writing. While some believe AI can never replace human writing, its content can be highly informative and well-structured. This makes it a useful tool for organizations requiring a large amount of written content that is otherwise difficult to manage with several writers and editors. 
+
+
+
+ 3. Accounts & Bookkeeping 
+    
+
+ AI has the power to change accounting and bookkeeping. It can do jobs like entering data and analyzing numbers quickly and accurately. Banks are a great example of organizations using AI in their accounts. Accounting and bookkeeping require precision and minimal room for error, both of which can be achieved using AI. 
+
+
+
+
+
+ AI can take on simple tasks that junior accountants usually do, letting experienced professionals handle the complicated ones. It can process data without errors, making work more accurate and reducing the risk of fraud. The main reasons for introducing AI in accounts and bookkeeping is their ability to process faster, make fewer errors and ensure accuracy. Also, let’s not forget how it eliminates paper waste. 
+
+ AI can dig past information to find trends and patterns, giving businesses useful information to make decisions. As AI keeps getting better, it can become even more useful for accounting and bookkeeping, ultimately depriving humans of their jobs. Examples of AI software in accounting are QuickBooks, Xero, and Zoho Books. 
+
+
+
+ 4. Consultancy 
+    
+
+
+
+
+
+ Because of its ability to track, trace and examine information, AI is a threat to those doing consultancy. You can program AI to analyze large amounts of data, identify patterns, and make recommendations based on that information. 
+
+ For example, it can provide insights into customer behavior, market trends, and product performance. This enables organizations to make informed decisions and save time and resources. While AI may not completely replace human consultants, it certainly can augment their work. 
+
+
+
+ 5. Social Media Managing 
+    
+
+ Social media is the trending face of progressive businesses, and AI can automate several tasks performed by social media managers. 
+
+
+
+
+
+
+ For instance, AI algorithms can assist in scheduling posts, creating and optimizing content, analyzing data and metrics, and monitoring customer engagement on various platforms. 
+
+ It helps content creators save time and bring consistency without much effort. AI tools track the performance of social media campaigns and make data-driven decisions to improve their impact. They also identify the most effective time to post, the best types of content to share, and the target audience to reach. 
+
+ With these exceptional abilities, AI has the potential to significantly increase the reach of social media accounts, making it easier and more effective than ever. There are several AI-powered social media management tools like AgoraPulse, Sprout Social, and Buffer to manage social media accounts efficiently. 
+
+ This can save a significant amount of time and resources that social media managers would otherwise spend on these tasks manually. Moreover, AI can bring consistency and efficiency to social media management. 
+
+
+
+
+
+
+
+ 6. Research Analysis 
+    
+
+ Research analysis is the process of understanding data to make good decisions. Artificial intelligence also holds the ability to automate tasks that human research analysts once performed. AI uses algorithms and machine learning to understand trends and make better predictions than humans. 
+
+ It processes vast amounts of information much faster than humans, making it ideal for research and analysis. However, this does not necessarily mean that AI will replace all research and analysis jobs. Some tasks still require human interpretation, creativity & critical thinking. 
+
+
+
+
+
+
+ As AI continues to advance, it is likely to play an increasingly important role in research analysis, making some aspects of the job easier and more efficient. Software such as KNIME, TensorFlow, and IBM Watson Studio are renowned for research analysis. 
+
+
+
+ 7. Telemarketing 
+    
+
+ Artificial intelligence can replace telemarketing jobs by automating certain tasks, such as making calls and sending out pre-written scripts. AI software can be programmed to have conversations with customers and gather information. 
+
+ Businesses can install cold-calling software to reduce the need for human telemarketers. It is important to note that AI is not yet advanced enough to completely replace human telemarketers. 
+
+
+
+
+
+
+ AI cannot understand custom issues and offer complex problem-solving and emotional intelligence. Such issues require human interaction. In the future, AI may take on more responsibilities in telemarketing, but for now, it is just a tool that can assist telemarketers. 
+
+
+
+ AI Is Taking Over Jobs Rapidly 
+ AI is growing and taking over various tasks. There are several jobs that may be replaced by AI. But that doesn't mean you should consider AI a threat to your job. 
+
+ Think of AI as a tool to help you do your work more efficiently, instead of as a threat. We can benefit from AI working alongside the human brain in making work faster and more effective. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work & Career
+
+
+
+
+Artificial Intelligence
+
+
+
+
+Careers
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+Your changes have been saved
+
+Email Is sent
+
+
+
+
+close
+Please verify your email address.
+
+
+Send confirmation email
+
+
+
+
+
+
+close
+You’ve reached your account maximum for followed topics.
+Manage Your List
+
+
+
+
+
+ Follow 
+
+
+
+Followed
+
+
+
+
+Follow with Notifications
+
+
+
+Follow
+
+
+
+Unfollow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Readers like you help support MakeUseOf. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+
+
+
+
+
+
+Recommended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			10 Virtual AI Companions to Chat and Have Fun With
+		
+
+
+Artificial Intelligence
+
+As AI is becoming more commonplace, there are multiple virtual companions online that you can chat to and have fun with. Here are some of the best.
+
+
+
+
+
+
+Sep 24, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			My Favorite Canva Pro Features That Make the Subscription Worth It
+		
+
+
+Canva
+
+Here are my top Canva Pro features that make the subscription worth every penny!
+
+
+
+
+
+
+5 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Fire TV Stick Lite vs. Fire TV Stick vs. Fire TV Stick 4K: What's the Difference?
+		
+
+
+Amazon Fire TV
+
+Amazon offers many versions of its Fire TV Stick, but what are the main differences, and which one should you buy?
+
+
+1
+
+
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Why Websites Think You're a Robot When You Use a VPN
+		
+
+
+VPN
+
+VPNs are super useful, but the number of CAPTCHAs you have to solve is downright irritating.
+
+
+
+
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			I Tried to Replace My MacBook With an iPad Pro: These Were the Biggest Drawbacks
+		
+
+
+iPad Pro
+
+I'm going back to my MacBook.
+
+
+2
+
+
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			I Love Vinyl, but There Are 4 Key Reasons I Stick With Spotify
+		
+
+
+Spotify
+
+I'll never stop collecting vinyl, but sometimes, Spotify is just what I need.
+
+
+2
+
+
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			How to Manage Location Settings on Your iPhone
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			How to Use ""Close Friends"" on Instagram to Choose Who You Share With
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Buying a New TV? The 18 Basic Terms You Need to Know First
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,2023-02-24T16:30:16Z,"[{'@type': 'ListItem', 'position': '1', 'name': 'Home', 'item': 'https://www.makeuseof.com/'}, {'@type': 'ListItem', 'position': '2', 'name': 'Work &amp; Career', 'item': 'https://www.makeuseof.com/category/work-career/'}, {'@type': 'ListItem', 'position': '3', 'name': 'The 7 Types of Jobs Most at Risk From AI', 'item': 'https://www.makeuseof.com/types-of-jobs-risk-ai/'}]","['Work & Career', 'Artificial Intelligence', 'Careers']",
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hLXN1cnZleS1vZi1vdmVyLTE3LTAwMC1wZW9wbGUtaW5kaWNhdGVzLW9ubHktaGFsZi1vZi11cy1hcmUtd2lsbGluZy10by10cnVzdC1haS1hdC13b3JrLTIwMDI1NtIBAA?oc=5,"A survey of over 17,000 people indicates only half of us are willing to trust AI at work - The Conversation",2023-02-22,The Conversation,https://theconversation.com,AI is inevitably entering the workplace – some people are more OK with it than others. But do we trust this technology?,N/A,AI is inevitably entering the workplace – some people are more OK with it than others. But do we trust this technology?,N/A,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+aslysun/Shutterstock
+
+
+
+
+
+
+
+
+
+            A survey of over 17,000 people indicates only half of us are willing to trust AI at work
+          
+
+
+
+
+Published: February 22, 2023 7:04pm EST
+
+
+
+
+
+
+
+
+
+
+
+
+Nicole Gillespie, Caitlin Curtis, Javad Pool, Steven Lockey, The University of Queensland
+
+
+
+Authors
+
+
+
+
+
+        Nicole Gillespie
+      
+
+
+      Professor of Management; KPMG Chair in Organizational Trust, The University of Queensland
+    
+
+
+
+
+
+        Caitlin Curtis
+      
+
+
+      Research fellow, The University of Queensland
+    
+
+
+
+
+
+        Javad Pool
+      
+
+
+      Research associate, The University of Queensland
+    
+
+
+
+
+
+        Steven Lockey
+      
+
+
+      Postdoctoral Research Fellow, The University of Queensland
+    
+
+
+
+
+
+Disclosure statement
+Nicole Gillespie received funding for this research from an Australian Government grant provided to The University of Queensland AI Collaboratory, and the KPMG Chair in Trust grant to The University of Queensland. She is a member of the National AI Centre Think Tank on Responsible AI. 
+Caitlin Curtis receives funding from the National Health and Medical Research Council (NHMRC)
+Javad Pool and Steven Lockey do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.
+
+
+Partners
+
+University of Queensland provides funding as a member of The Conversation AU.
+View all partners
+
+We believe in the free flow of informationRepublish our articles for free, online or in print, under a Creative Commons license.Republish this article
+
+
+
+
+
+ Email
+
+
+ X (Twitter)10
+
+
+ Facebook197
+
+
+ LinkedIn
+
+
+ WhatsApp
+
+
+ Messenger
+
+ Print
+
+
+Artificial intelligence (AI) tools are increasingly used at work to enhance productivity, improve decision making and reduce costs, including automating administrative tasks and monitoring security.
+But sharing your workplace with AI poses unique challenges, including the question – can we trust the technology? 
+Our new, 17-country study involving over 17,000 people reveals how much and in what ways we trust AI in the workplace, how we view the risks and benefits, and what is expected for AI to be trusted. 
+We find that only one in two employees are willing to trust AI at work. Their attitude depends on their role, what country they live in, and what the AI is used for. However, people across the globe are nearly unanimous in their expectations of what needs to be in place for AI to be trusted. 
+Our global survey
+AI is rapidly reshaping the way work is done and services are delivered, with all sectors of the global economy investing in artificial intelligence tools. Such tools can automate marketing activities, assist staff with various queries, or even monitor employees. 
+To understand people’s trust and attitudes towards workplace AI, we surveyed over 17,000 people from 17 countries: Australia, Brazil, Canada, China, Estonia, Finland, France, Germany, India, Israel, Japan, the Netherlands, Singapore, South Africa, South Korea, the United Kingdom, and the United States. These data, which used nationally representative samples, were collected just prior to the release of ChatGPT.
+The countries we surveyed are leaders in AI activity within their regions, as evidenced by their investment in AI and AI-specific employment.
+
+
+
+
+      Read more:
+      The ChatGPT chatbot is blowing people away with its writing skills. An expert explains why it's so impressive
+
+
+
+
+Do employees trust AI at work?
+We found nearly half of all employees (48%) are wary about trusting AI at work – for example by relying on AI decisions and recommendations, or sharing information with AI tools so they can function.
+People have more faith in the ability of AI systems to produce reliable output and provide helpful services, than the safety, security and fairness of these systems, and the extent to which they uphold privacy rights. 
+However, trust is contextual and depends on the AI’s purpose. As shown in the figure below, most people are comfortable with the use of AI at work to augment and automate tasks and help employees, but they are less comfortable when AI is used for human resources, performance management, or monitoring purposes.
+
+AI as a decision-making tool
+Most employees view AI use in managerial decision-making as acceptable, and actually prefer AI involvement to sole human decision-making. However, the preferred option is to have humans retain more control than the AI system, or at least the same amount.
+What might this look like? People showed the most support for a 75% human to 25% AI decision-making collaboration, or a 50%-50% split. This indicates a clear preference for managers to use AI as a decision aid, and a lack of support for fully automated AI decision-making at work. These decisions could include whom to hire and whom to promote, or the way resources are allocated.
+
+While nearly half of the people surveyed believe AI will enhance their competence and autonomy at work, less than one in three (29%) believe AI will create more jobs than it will eliminate.
+This reflects a prominent fear: 77% of people report feeling concerned about job loss, and 73% say they are concerned about losing important skills due to AI.
+However, managers are more likely to believe that AI will create jobs and are less concerned about its risks than other occupations. This reflects a broader trend of managers being more comfortable, trusting and supportive of AI use at work than other employee groups.
+Given managers are typically the drivers of AI adoption at work, these differing views may cause tensions in organisations implementing AI tools.
+
+
+
+
+      Read more:
+      Will AI decide if you get your next job? Without legal regulation, you may never even know
+
+
+
+
+Trust is a serious concern
+Younger generations and those with a university education are also more trusting and comfortable with AI, and more likely to use it in their work. Over time this may escalate divisions in employment.
+We found important differences among countries in our findings. For example, people in western countries are among the least trusting of AI use at work, whereas those in emerging economies (China, India, Brazil and South Africa) are more trusting and comfortable.
+
+This difference partially reflects the fact a minority of people in western countries believe the benefits of AI outweigh the risks, in contrast to the large majority of people in emerging economies.
+How do we make AI trustworthy?
+The good news is our findings show people are united on the principles and practices they expect to be in place in order to trust AI. On average, 97% of people report that each of these are important for their trust in AI.
+People say they would trust AI more when oversight tools are in place, such as monitoring the AI for accuracy and reliability, AI “codes of conduct”, independent AI ethical review boards, and adherence to international AI standards.
+
+This strong endorsement for the trustworthy AI principles and practices across all countries provides a blueprint for how organisations can design, use and govern AI in a way that secures trust.
+
+
+
+
+
+Artificial intelligence (AI)
+
+
+Emerging technology
+
+
+Artificial intelligence and jobs
+
+
+Trust in technology
+
+
+Artificial Intelligence ethics
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS90b21vcnJvd3MtbW9zdC1pbnRyaWd1aW5nLWFpLWpvYi1yb2xlcy1hcnRpY2xl0gEA?oc=5,Tomorrow's Most Intriguing AI Job Roles - Simplilearn,2023-02-21,Simplilearn,https://www.simplilearn.com,Discover the lucrative opportunities in the artificial intelligence field & the various AI job roles that will become exceptional and intriguing in the future of AI.,"ai in the future, future of ai, ai job titles, ai job roles",Discover the lucrative opportunities in the artificial intelligence field & the various AI job roles that will become exceptional and intriguing in the future of AI.,Discover the lucrative opportunities in the artificial intelligence field & the various AI job roles that will become exceptional and intriguing in the future of AI.,"{'@type': 'WebPage', '@id': 'https://www.simplilearn.com/tomorrows-most-intriguing-ai-job-roles-article'}",2018-11-27T17:55:50+05:30,Tomorrow’s Most Intriguing AI Job Roles,"{'@type': 'Person', 'name': 'Ronald Van Loon', 'url': 'https://www.simplilearn.com/authors/ronald-van-loon'}","{'@type': 'Organization', 'name': 'Simplilearn', 'logo': {'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/logo.png', 'width': '200', 'height': '200'}}","{'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/ice9/free_resources_article_thumb/Tomorrow-Most-Intriguing-AI-Job-Roles.jpg', 'height': '506', 'width': '900'}",Tomorrow’s Most Intriguing AI Job Roles,BreadcrumbList,,,https://schema.org,,,,,N/A,N/A,"
+With AI becoming a mainstream topic of conversation in nearly every industry, many aspiring professionals with interest in data, analytics, technology, machine learning, and robotics are interested in jobs related to artificial intelligence. The job market is constantly changing, and that’s especially true when it comes to a field evolving as quickly as AI.
+While jobs are changing for the better, the way we work in the modern workplace is also at a stage of transition. Instead of silos in the workplace, we now have a set of enhanced collaboration between teams across departments. This collaboration has meant that teams from development, operations, security, governance, data science, and data engineering are coming together to deliver the end solution of a product. 
+This futuristic style of work has gained prevalence across organizations, with executives understanding the role played by AI experts in their ecosystem. Knowing the heightened interest of candidates in this field, we’ve aggregated a list of roles and job titles that are becoming prominent in the AI marketplace. The following job titles will become AI’s most intriguing and exceptional roles in the future.
+
+Looking forward to becoming a Machine Learning Engineer? Check out the AI and ML Certification Course and get certified today.
+
+Machine Learning Engineer
+A Machine Learning Engineer sits at the center of a data environment and oversees data mining and machine learning techniques to retrieve the best out of the organization’s data. 
+They are usually required to perform the following tasks:
+
+Build, design and apply machine learning algorithms and models 
+Build new features for machine learning programs and optimize systems and tools for validating these strategies 
+Use big data systems for large-scale data mining
+
+Candidates are most often required to come from a software engineering background. They should have the necessary experience in the field and should be well-versed in machine learning and data mining systems.
+Data Scientist
+A Data Scientist oversees the flow of data in an organization while analyzing, visualizing, and modeling the data. Moreover, data scientists are also expected to build machine learning models for extracting the best results from data. 
+They should preferably have the following skills:
+
+Experience in data collection, analysis, aggregation, visualization, and monitoring 
+Proficiency working with data models 
+A computer science background 
+Ability to fish for data by deploying data science solutions
+
+Become a AI & Machine Learning Professional$267 billionExpected global AI market value by 202737.3%Projected CAGR of the global AI market from 2023-2030$15.7 trillionExpected total contribution of AI to the global economy by 2030Post Graduate Program in AI and Machine LearningProgram completion certificate from Purdue University and SimplilearnGain exposure to ChatGPT, OpenAI, Dall-E, Midjourney & other prominent tools11 Months monthsView ProgramArtificial Intelligence EngineerIndustry-recognized AI Engineer Master’s certificate from SimplilearnDedicated live sessions by faculty of industry experts11 Months monthsView ProgramprevNextHere's what learners are saying regarding our programs:Akili YangPersonal Financial Consultant, OCBC BankThe live sessions were quite good; you could ask questions and clear doubts. Also, the self-paced videos can be played conveniently, and any course part can be revisited. The hands-on projects were also perfect for practice; we could use the knowledge we acquired while doing the projects and apply it in real life. Indrakala Nigam BeniwalTechnical Consultant, Land Transport Authority (LTA) SingaporeI completed a Master's Program in Artificial Intelligence Engineer with flying colors from Simplilearn. Thanks to the course teachers and others associated with designing such a wonderful learning experience. prevNextNot sure what you’re looking for?View all Related Programs
+Research Scientist 
+While the exact nature of your job as a research scientist depends on many things, including your seniority, you would be expected to adhere to the following responsibilities: 
+
+Create and manage experiments
+Process data from results 
+Develop new research proposals for the future 
+Attend academic and research conferences to keep a pulse on the field 
+
+A research scientist should have prior experience and academic qualifications in computer science and software engineering. The person should also have sufficient research and analytics skills and should be proficient in presentations and communication. 
+Business Intelligence Developer 
+A Business Intelligence Engineer is required to build cloud-based data platforms and maintain the aspect of collaboration between departments for optimal results. They act as a conduit for improving cloud-based services for every member’s access.
+Their responsibilities include: 
+
+Designing, building, modeling, and maintaining data for cloud-based data platforms.
+Creating and maintaining the logical, physical, and conceptual layers of an enterprise data model. 
+Establishing data security, performance models, and data quality 
+How to Get There
+With such lucrative opportunities in the field of AI, all people want to know is the path required to reach the end goal. Simplilearn will augment your journey to a career in AI by preparing you for what is to come through their AI courses such as AI & Machine Learning Bootcamp. Whether it’s Data Science, Business Analytics, Artificial Intelligence, or one of the many other burgeoning fields of today, Simplilearn has a wealth of expertly-crafted training courses for individuals and enterprises.
+
+",,,https://www.simplilearn.com/tomorrows-most-intriguing-ai-job-roles-article,,,,,2023-02-21T18:05:11+05:30,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.simplilearn.com', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.simplilearn.com/resources', 'name': 'Resources'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.simplilearn.com/resources/artificial-intelligence-machine-learning', 'name': 'AI & Machine Learning'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.simplilearn.com/tomorrows-most-intriguing-ai-job-roles-article', 'name': 'Tomorrow’s Most Intriguing AI Job Roles'}}]",,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}"
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1kZWxpdmVycy1pdHMtbGF0ZXN0LWlubm92YXRpb24tMTc4MjgxMtIBAA?oc=5,Artificial Intelligence Delivers Its Latest Innovation - Newsweek,2023-02-22,Newsweek,https://www.newsweek.com,"Artificial intelligence conjures up justified and irrational fears such as job losses, machine takeovers and insurmountable skill gaps.","['NEF', 'AI', 'Machine Learning', 'Innovation']","Artificial intelligence conjures up justified and irrational fears such as job losses, machine takeovers and insurmountable skill gaps.","Artificial intelligence conjures up justified and irrational fears such as job losses, machine takeovers and insurmountable skill gaps.","{'@type': 'WebPage', '@id': 'https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812'}",2023-02-22T08:00:40-05:00,,"[{'@type': 'Person', 'name': 'Lillian Gregory'}]","{'@type': 'NewsMediaOrganization', 'name': 'Newsweek', 'logo': {'@type': 'ImageObject', 'url': 'https://g.newsweek.com/themes/newsweek/images/logo.png', 'width': 315, 'height': 60}}","[{'@type': 'ImageObject', 'url': 'https://d.newsweek.com/en/full/2198602/computer-code.jpg?w=1600&h=900&q=88&f=e76c1cf4643305c6a44c00bee125e0a8', 'width': 1600, 'height': 900, 'caption': ''}, {'@type': 'ImageObject', 'url': 'https://d.newsweek.com/en/full/2198602/computer-code.jpg?w=1600&h=1200&q=88&f=c10c180e7b80fbaf22aa8e3cfcfda22b', 'width': 1600, 'height': 1200, 'caption': ''}, {'@type': 'ImageObject', 'url': 'https://d.newsweek.com/en/full/2198602/computer-code.jpg?w=1600&h=1600&q=88&f=7280530ea2db67e954e29cfd6e96334b', 'width': 1600, 'height': 1600, 'caption': ''}]",Artificial Intelligence Delivers Its Latest Innovation,BreadcrumbList,,True,http://schema.org,,,,https://d.newsweek.com/en/full/2198602/computer-code.jpg,Experts,N/A,"
+Artificial Intelligence Delivers Its Latest InnovationArtificial intelligence conjures up justified and irrational fears such as job losses, machine takeovers and insurmountable skill gaps.
+Published Feb 22, 2023 at 8:00 AM EST
+
+",,"""Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence."" -Ginni Rometty, Executive Chairman of IBMArtificial intelligence (AI) conjures up justified and irrational fears such as job losses, machine takeovers and insurmountable skill gaps. On the flip side, there are also countless reasons to be intrigued and excited about the next level of business and technology innovations that are at our fingertips with AI. As a technologist leading my company to deliver next-level business and technology solutions to customers, I am engaged in the development and deployment of new AI solutions and I understand its potential for impact on our futures. Our lives will continue to be enriched by advanced digital technologies so the best approach is to get familiar and then get going.How Far Is Too FarThe most recent AI that has captured our global imaginations is ChatGPT (Chat Generative Pre-trained Transformer) which was launched by OpenAI in November 2022. This solution has put us on notice that AI will continue to challenge us on every level for dominance in our ways of living and of being human. In recent months this advanced chatbot has shattered the boundaries of intelligence that we hold dear. While AI does not impede human intelligence, it can change the way people approach and solve problems depending on how heavily they rely on it. The main challenge and question for us is how far we should go. The simplest answer is we should go as far as we can.AI Then and NowIf you are old enough then you will likely recall competitions between IBM Watson AI natural language solution and some of the world's greatest minds. Watson was designed to compete on the game show Jeopardy and went on to win the top prize of $1 million in 2011. After humans took a beating, IBM shifted its use of the technology in 2013 toward lung cancer research and treatments. Today Watson AI is embedded in advertising, children's toys, cooking apps, building code solutions, electronic teaching materials, smart fashion, tax preparation and more. A decade after IBM Watson came to the forefront, ChatGPT has leap-frogged over traditional search engines to create conversational interactions with users far beyond any AI solution to date. Comparisons between the two solutions are natural.The biggest differences between the two behemoth AI solutions are training data, models, use cases, integration and cost. First, the amount of training data used by ChatGPT is superior to any AI solution in history by processing hundreds of billions of parameters compared to IBM Watson's few billion parameters. Second, IBM Watson mostly uses rule-based AI models whereas ChatGPT uses deep learning. Third, use cases for IBM Watson are embedded in healthcare, finance, customer service and more while ChatGPT is mainly used for text generation and language translation &mdash; for now. Fourth, integration capabilities for both solutions are handled through APIs. Fifth, both AI solutions use subscription-based pricing models with free versions of ChatGPT available online. Given the ability of both solutions to learn and grow without human intervention, we will undoubtedly witness unimaginable applications in the near future.Productivity GainsAs with all things artificial, too much AI can lead to a decrease in human capabilities such as critical thinking and problem-solving skills which are two of our most important cognitive human traits. Multiple industries rely heavily on AI for productivity gains and have displaced millions of jobs and workers while simultaneously creating millions of new jobs in industries like healthcare, finance, retail, manufacturing, transportation and logistics, customer service, security and energy &mdash; to name a few.AI in healthcare aids with medical diagnoses, drug discovery, patient monitoring and treatment planning. AI in retail helps with demand forecasting, inventory management, personalized marketing and product recommendations. Manufacturing benefits from AI through predictive maintenance, quality control, supply chain optimization, process optimization, and supply chain management. AI in transportation and logistics supports route planning, delivery optimization, fleet management, autonomous vehicles and delivery management. Customer service AI chatbots, voice recognition and natural language processing are popular solutions. Security uses AI for face and object recognition, intrusion detection and cyber security. The energy sector leverages AI for predictive maintenance, demand forecasting and optimizing power generation. This list provides insight into some ways AI is being used to pivot towards productivity gains as we move through the Fourth Industrial Revolution (4IR).More Jobs, Not LessA recent article shared by the World Economic Forum notes that AI will drive significant long-term job growth in the coming years with 50% of the global workforce, or one billion workers, needing to be reskilled or upskilled by 2025 to keep up with demand&mdash;a gargantuan task to be sure. Businesses, institutions and governments working together will usher in a new landscape of knowledge workers who will continue to evolve the ways we think, live and work. A similar approach was required during the internet revolution as fear entered the zeitgeist. Ultimately, the internet created more jobs than were eliminated by technology.There are countless examples of AI in our everyday lives from digital assistants like Alexa, Siri, Cortana and Google Assistant that interact with us by executing commands or making recommendations to notifications that remind us to exercise, limit screen time or to take our medications on time. Research predicts up to a 40% productivity increase due to AI influence by 2035 in developed countries like Sweden, the United States and Japan. AI can help us save time by taking on repetitive tasks that slow us down such as data processing, process simplification and search engine compilations. All of these tasks are possible with ChatGPT though tool instructions warn of potential errors.Save Time For LivingFear not, AI and ChatGPT are here to help us save time. By leveraging these solutions to support us with repetitive tasks, we can spend more time living instead of working. Though AI solutions are capable of performing advanced human cognitive tasks like digital art, content creation, research, language translation, writing essays, writing resumes and cover letters and coding, humanity has the biggest task of all &mdash; to evolve. Let's get going.",https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812,,,,,2023-02-22T08:00:40-05:00,"[{'@type': 'ListItem', 'position': 1, 'name': 'Experts', 'item': 'https://www.newsweek.com/experts'}, {'@type': 'ListItem', 'position': 2, 'name': 'AI', 'item': 'https://www.newsweek.com/topic/ai'}, {'@type': 'ListItem', 'position': 3, 'name': 'Machine Learning', 'item': 'https://www.newsweek.com/topic/machine-learning'}, {'@type': 'ListItem', 'position': 4, 'name': 'Innovation', 'item': 'https://www.newsweek.com/topic/innovation'}]",Experts,
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYmxvY2tjaGFpbi1haS1leGFtcGxlc9IBAA?oc=5,Blockchain & AI: How They Integrate & 26 Examples - Built In,2023-02-24,Built In,https://builtin.com,Blockchain and AI are powerful on their own. So what happens when they're combined? Here are 26 companies doing just that.,N/A,Blockchain and AI are powerful on their own. So what happens when they're combined? Here are 26 companies doing just that.,Blockchain and AI are powerful on their own. So what happens when they're combined? Here are 26 companies doing just that.,,,,,,,,,,,https://schema.org,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image: Shutterstock
+
+UPDATED BY
+Brennan Whitfield | Feb 24, 2023
+
+
+
+Blockchain and artificial intelligence (AI) have evolved into leading technologies that drive innovation across almost every industry — and they’re even more powerful together.
+ 
+How Blockchain and AI Work Together
+Blockchain offers a secure and transparent database to store information, while AI can model problem-solving capabilities of the human mind.
+When used together, blockchain can improve the trustworthiness of data resources that AI models pull from and increase the speed of AI operations by connecting models to automated smart contracts.
+How Do Blockchain and AI Work Together?Blockchain and AI combined can improve operational efficiency, information accuracy and data security.
+
+ 
+Use Cases for Blockchain and AI 
+Combining blockchain and AI can help build and organize immense databases, strengthen cybersecurity protocols and perform tasks in a fraction of the time it takes humans. 
+As a result, we may see improved healthcare recommendations, optimized food traceability in the supply chain and up-to-date market predictions for real estate or stocks.
+And that’s just a few use cases for blockchain and AI. To give you an even better idea of how these two technologies work together, we rounded up a list of 26 companies combining blockchain and AI.
+ 
+26 Blockchain and AI Examples
+Companies Using AI and BlockchainCertiKCore ScientificToken MetricsFigureWealthBlockChainhausVerisart
+ 
+
+
+ 
+CertiKView ProfileWe are hiring
+
+
+Location: New York, New York    
+CertiK provides tools powered by AI and formal verification to secure blockchain, smart contract and Web3 applications. With its product suite, CertiK technology helps identify security risks, monitor data insights and visualize where crypto funds are going. 
+
+
+They're Hiring | View 22 JobsCertiK is Hiring | View 22 Jobs
+
+
+ 
+
+
+ 
+Core ScientificView ProfileWe are hiring
+
+
+Location: Bellevue, Washington
+Core Scientific integrates personalized blockchain and AI infrastructure with current business networks, upgrading a business’ physical infrastructure, servers and software in the process.  
+Spanning across five U.S. states, the Core Scientific facilities are designed for long-term digital asset mining and to maximize hashrate. Because blockchain and AI take up massive amounts of computer processing and power, Core Scientific ensures that company-controlled data centers and blockchain and AI infrastructures always run at optimal efficiency to reduce energy and time consumption.
+
+
+They're Hiring | View 4 JobsCore Scientific is Hiring | View 4 Jobs
+
+
+ 
+
+
+ 
+Token MetricsView ProfileWe are hiring
+
+
+Location: Austin, Texas   
+Token Metrics is a tool that uses AI to analyze cryptocurrency trends for personal investment purposes. The technology scans the data of over 6,000 crypto and NFT projects and extracts market insights to help users make investment decisions. Token Metrics has been used by companies such as Coinbase, Amazon and Facebook.
+
+
+They're Hiring | View 269 JobsToken Metrics is Hiring | View 269 Jobs
+
+
+ 
+
+
+ 
+AI BlockChainView Profile
+
+
+Location: New York, New York 
+AI BlockChain hosts a digital asset cloud platform built on blockchain and AI. The company applies artificially intelligent agents to its blockchain to detect changes and ensure platforms are secure. AI Blockchain products aim to be a scalable and tamper-evident database solution for businesses, which can support supply chain, finance and bar code tracking operations.
+
+
+ 
+
+
+ 
+Bext360View Profile
+
+
+Location: Denver, Colorado 
+Bext360 uses AI and blockchain to boost supply chain transparency and efficiency in the coffee, timber, seafood and mineral industries. The company’s artificial intelligence analyzes crops and predicts growing patterns, while blockchain ensures the recording of a product’s supply chain from seed to finished product.
+The company’s AI measures the quality of coffee beans and predicts weather and growing patterns, while the blockchain immutably records the farm where the beans originated and the exact specifications of a coffee shipment. It even acts as a payment ledger to ensure that all parties are paid quickly and fairly.
+
+
+ 
+
+
+ 
+Blackbird.AIView ProfileWe are hiring
+
+
+Location: San Francisco, California 
+Blackbird.AI uses its blockchain and artificial intelligence to gauge the credibility of news content in the communications and information industries. To combat misinformation, the company deploys AI to identify network polarization or bot activity, and classify content based on these and other industry credibility indicators. The Blackbird.AI blockchain acts as a ledger that irrefutably stores the verified content created by AI and crowdsourced reports.
+
+
+They're Hiring | View 2 JobsBlackbird.AI is Hiring | View 2 Jobs
+
+
+ 
+
+
+ 
+BurstIQView Profile
+
+
+Location: Denver, Colorado 
+BurstIQ’s LifeGraph platform combines AI and blockchain technology to provide enhanced ownership and management over patient data. LifeGraph lets healthcare professionals build secure storage solutions for patient’s health records and wellness plans. All applications made through the platform have consent and recovery features built-in, plus are fully HIPAA and GDPR-compliant.
+
+
+ 
+
+
+ 
+ChainhausView Profile
+
+
+Location: New York, New York
+Chainhaus is a blockchain and AI advisory, education and software development firm. The company provides a variety of end-to-end solutions for everything from teaching and app development to research and capital raising. Chainhaus has partnered with clients such as Accenture, ConsenSys and SAP.
+
+
+ 
+
+
+ 
+CywareView ProfileWe are hiring
+
+
+Location: New York, New York 
+Cyware Labs incorporates AI and blockchain-based tools into its cybersecurity and threat intelligence solutions. The Cyware Situational Awareness Platform (CSAP), for example, uses those tools to power a mobile threat intelligence, secured messaging and suspicious incident reporting platform. Consequently, users are provided with an in-depth look at their real-time mobile cybersecurity protocols.     
+
+
+They're Hiring | View 6 JobsCyware is Hiring | View 6 Jobs
+
+
+ 
+
+
+ 
+DobbyView Profile
+
+
+Location: Washington, D.C.
+Dobby is a home services platform for homeowners seeking assistance with maintenance or repair projects. Dobby’s app connects users to local partners for roofing, plumbing, landscaping and other general maintenance services where needed. The AI-based application operates on blockchain technology to exchange data quickly and reduce any financial loss. 
+
+
+ 
+
+
+ 
+FigureView ProfileWe are hiring
+
+
+Location: San Francisco, California
+Figure uses blockchain and artificial intelligence to streamline the home loan process. Established by former SoFi founder Mike Cagney, the platform offers home equity line of credit loan options, investment marketplaces and its own digital money app called Figure Pay.
+
+
+They're Hiring | View 18 JobsFigure is Hiring | View 18 Jobs
+
+
+ 
+
+
+ 
+GainfyView Profile
+
+
+Location: New York, New York 
+Gainfy is a healthcare platform that employs blockchain, AI and IoT devices to improve the industry experience. Some of the company’s services include machine learning research and development consulting, blockchain design for health record management and the Gainfy Edison platform, which presents AI-backed diagnostic insights for healthcare professionals. 
+
+
+ 
+
+
+ 
+Hannah SystemsView Profile
+
+
+Location: San Francisco, California
+Hannah Systems brings AI and blockchain to autonomous vehicles. The company’s portfolio includes an AI-powered data exchange platform, real-time mapping tool, an insights dashboard and blockchain so an autonomous vehicle can quickly absorb, interpret and safely store data.    
+Hannah System’s deep learning predicts road information based on human behavior such as jaywalking and speeding, and it takes into account up-to-date weather and traffic congestion notifications.
+
+
+ 
+
+
+Blockchain + AI = Decentralized Artificial Intelligence. | Video: Coding Tech 
+
+
+ 
+Hashed HealthView Profile
+
+
+Location: Nashville, Tennessee    
+Hashed Health is a venture studio based on blockchain that elevates startups in the healthcare industry. The company provides resources and team guidance to fuel healthcare product life cycles, including those focusing on Web3, AI and healthcare data solutions.
+
+
+ 
+
+
+ 
+Home Lending PalView Profile
+
+
+Location: Orlando, Florida   
+Home Lending Pal is an application for home mortgage advising, comparison and more. The AI-based platform allows users to view local homes, calculate personal budgeting and choose their preferred home lender based on related mortgage rates. In addition, Home Lending Pal also stores all user information on the blockchain to ensure data security.
+
+
+ 
+
+
+Imaginovation, LLCView Profile
+
+
+Location: Raleigh, North Carolina  
+Imaginovation builds and hosts customer-centric applications for clients in need. The company works with expertise in UI/UX design as well as web and mobile application development, with the goal of making platforms that are creative and engaging for users. Utilizing solutions from blockchain, AI, IoT, AR and VR, applications can be created for purposes ranging from manufacturing to entertainment.  
+
+
+ 
+
+
+ 
+LeewayHertzView Profile
+
+
+Location: San Francisco, California 
+LeewayHertz helps businesses create Web3-focused software platforms. The company leverages tools in blockchain, AI and more to create software products harboring the latest in tech for various industries. LeewayHertz services have built software for use from healthcare and education to the metaverse and NFTs.
+
+
+ 
+
+
+ 
+MOBSView Profile
+
+
+Location: San Francisco, California
+MOBS is a blockchain-based video marketplace for the selling and buying of smartphone videos. Once a user puts their video up for sale, potential buyers — say, marketers that need compelling footage — can scroll through the app and find what they need. Mob’s blockchain then creates a smart contract that directly allocates money to the content creator based on engagement rates and views.            
+
+
+ 
+
+
+ 
+NetObjexView Profile
+
+
+Location: Irvine, California
+NetObjex merges blockchain and AI to host its NFT marketplace platform, where users can create their own marketplaces and digital wallets as well as host metaverse events. Wallets made through the platform are secured through the blockchain, and offer support to buy, sell and swap different cryptocurrencies.
+
+
+ 
+
+
+ 
+NeurealView Profile
+
+
+Location: Salt Lake City, Utah 
+Neureal is a prediction engine that combines AI, blockchain and cloud technologies to predict everything from the stock market to Google searches. The company’s AI scans past predictions to predict future occurrences. Additionally, its blockchain ledger logs every outcome so the computer networks can pinpoint trends in correct predictions.  
+
+
+ 
+
+
+ 
+NumeraiView Profile
+
+
+Location: San Francisco, California 
+Numerai is a decentralized hedge fund at which data scientists from all over the world are constantly working on AI problems. Featuring a stock market prediction competition that runs on blockchain, the company gives scientists raw data on machine learning problems, then scientists create models based on the data. The scientists with the best models are rewarded with their own Numeraire (NMR) crypto. 
+
+
+ 
+
+
+ 
+StowkView Profile
+
+
+Location: Berkeley, California
+Stowk’s blockchain-based platform, which features AI tools for almost every part of a businesses’ operations, streamlines everything in supply chain management from data access and IT governance to procurement.
+
+
+ 
+
+
+ 
+VerisartView Profile
+
+
+Location: Los Angeles, California
+Verisart uses artificial intelligence and blockchain to help create and certify NFT work in real time. The company’s Web3 tools allow artists to create tamper-proof certificates of work that ensure credit and immutability. The blockchain-backed certificates feature encryption that instantly stop fraudulent copies from being sold as originals.
+
+
+ 
+
+
+ 
+VytalyxView Profile
+
+
+Location: Austin, Texas
+Vytalyx is a healthtech company using AI to give healthcare professionals blockchain-based access to medical intelligence and insights. By storing medical information on a blockchain, a patient’s medical staff can use AI to personalize treatments and nutrition plans, increase patient/doctor communication and even search for clinically relevant medical studies almost instantly.
+
+
+ 
+
+
+ 
+WealthBlockView Profile
+
+
+Location: Chicago, Illinois
+WealthBlock is an automated marketing and messaging SaaS platform for businesses raising capital. Blockchain powers the company’s investor referral and suitability checking process so companies can rest assured they’re working with only high quality partners. Additionally, Wealthblock’s AI automates content and keeps investors continuously engaged.
+
+
+ 
+
+
+ 
+WorkDoneView Profile
+
+
+Location: West Hollywood, California
+WorkDone helps businesses automate daily processes and discover insights to retain employees. The company specializes in machine learning and blockchain to seek out resource bottlenecks, analyze best management practices and continually maintain service compliance.
+
+
+
+
+
+",,,,,"[{'@context': 'https://schema.org', '@type': 'Article', 'headline': 'Blockchain and AI: How They Integrate and 26 Examples', 'name': 'Blockchain and AI: How They Integrate and 26 Examples', 'description': 'Blockchain and artificial intelligence (AI) have evolved into leading technologies that drive innovation across almost every industry — and they’re even more powerful together.', 'image': {'@type': 'ImageObject', 'url': 'https://builtin.com/sites/www.builtin.com/files/2022-07/blockchain-ai-companies.jpg', 'representativeOfPage': True}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://builtin.com/artificial-intelligence/blockchain-ai-examples', 'name': 'Blockchain and AI: How They Integrate and 26 Examples', 'lastReviewed': '2023-02-24T06:00:00+00:00'}, 'url': 'https://builtin.com/artificial-intelligence/blockchain-ai-examples', 'about': [{'@type': 'Thing', 'name': 'Blockchain'}, {'@type': 'Thing', 'name': 'Finance'}, {'@type': 'Thing', 'name': 'Artificial Intelligence'}], 'author': {'@type': 'Person', '@id': 'https://builtin.com/authors/sam-daley', 'name': 'Sam Daley', 'description': 'Sam Daley is a Built In product manager who formerly covered AI, blockchain and emerging tech trends for BuiltIn.com. Prior to joining Built In, Daley worked as a CNN production assistant, a development coordinator for Rotary International and a research intern for the Iowa Legislature. He holds a bachelor’s degree in political science and government, international relations, law, politics and society from Drake University\r\n', 'jobTitle': 'Product Manager', 'sameAs': 'https://www.linkedin.com/in/samuel-daley/', 'url': 'https://builtin.com/authors/sam-daley', 'alumniOf': {'@type': 'Organization', 'name': 'Drake University'}, 'knowsAbout': 'Blockchain, Product Management'}, 'dateModified': '2023-02-24T06:00:00+00:00', 'datePublished': '2023-03-08T05:45:00+00:00', 'publisher': {'@type': 'Organization', '@id': 'https://builtin.com', 'name': 'Built In', 'url': 'https://builtin.com', 'sameAs': ['https://www.facebook.com/BuiltInHQ/', 'https://twitter.com/builtin', 'https://www.instagram.com/builtin/', 'https://www.linkedin.com/company/built-in'], 'brand': {'@type': 'Brand', 'name': 'Built In'}, 'logo': {'@type': 'ImageObject', 'url': 'https://static.builtin.com/dist/images/built-logo.png', 'representativeOfPage': True}}}]",,,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNvbXB1dGVyd29ybGQuY29tL2FydGljbGUvMTYxODU5Mi9qb2Itc2Vla2Vycy1hcmUtdXNpbmctY2hhdGdwdC10by13cml0ZS1yZXN1bWVzLWFuZC1uYWJiaW5nLWpvYnMuaHRtbNIBd2h0dHBzOi8vd3d3LmNvbXB1dGVyd29ybGQuY29tL2FydGljbGUvMTYxODU5Mi9qb2Itc2Vla2Vycy1hcmUtdXNpbmctY2hhdGdwdC10by13cml0ZS1yZXN1bWVzLWFuZC1uYWJiaW5nLWpvYnMuaHRtbC9hbXAv?oc=5,Job seekers are using ChatGPT to write resumes — and nabbing jobs - Computerworld,2023-02-22,Computerworld,https://www.computerworld.com,"Increasingly, AI-generative technology is being used to create resumes — and according to a new survey, it often helps its users land a new job.",N/A,"Increasingly, AI-generative technology is being used to create resumes — and according to a new survey, it often helps its users land a new job.","Increasingly, AI-generative technology is being used to create resumes — and according to a new survey, it often helps its users land a new job.",,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+		Increasingly, AI-generative technology is being used to create resumes — and according to a new survey, it often helps its users land a new job.	
+
+
+
+
+ 
+Credit: StackCommerce
+
+
+
+
+
+
+
+
+Generative artificial intelligence (AI) technology is increasingly being used to create resumes and cover letters, and according to a new survey by Resume Builder, using a chatbot improves your chances of getting the job.
+The online job site said nearly half of 2,153 job seekers surveyed earlier this month used ChatGPT to help write their resumes, their cover letter, or both, and the majority said it helped them land the job they wanted.
+Nearly three quarters (72%) of those who used ChatGPT did so to write their cover letter, and just over half (51%) used it to write their resume.
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+The chatbot appeared better at grabbing the attention of prospective employers, as seven in 10 (69%) who used ChatGPT reported a higher response rate from companies.
+More Videos0 seconds of 14 minutes, 53 secondsVolume 0%Press shift question mark to access a list of keyboard shortcutsKeyboard ShortcutsEnabledDisabledShortcuts Open/Close/ or ?Play/PauseSPACEIncrease Volume↑Decrease Volume↓Seek Forward→Seek Backward←Captions On/OffcFullscreen/Exit FullscreenfMute/UnmutemDecrease Caption Size-Increase Caption Size+ or =Seek %0-9
+ 
+
+
+Next UpDEMO Observe09:31SettingsOffAutomated Captions - en-USFont ColorWhiteFont Opacity100%Font Size100%Font FamilyArialCharacter EdgeNoneBackground ColorBlackBackground Opacity50%Window ColorBlackWindow Opacity0%ResetWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%200%175%150%125%100%75%50%ArialCourierGeorgiaImpactLucida ConsoleTahomaTimes New RomanTrebuchet MSVerdanaNoneRaisedDepressedUniformDrop ShadowWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%WhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%
+
+
+
+
+
+
+
+Live00:0014:5314:53 
+
+ Resume Builder
+Additionally, 78% of respondents said they got an interview when using job application materials written by ChatGPT, and 59% were hired after applying for a job using materials written by the chatbot technology from San Francisco-based OpenAI.
+“Job seekers who use ChatGPT for their cover letters and/or resumes are really no different than those going to a resume writing service or using readily available templates and online tools,” Stacie Haller, Resume Builder’s chief career advisor, said in a statement. “Hiring managers know this when reviewing these documents and can likely tell if they were written by ChatGPT.”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+Of course, correlation doesn’t equal causation, and it could be that users of ChatGPT for resume creation are simply more committed to their job hunt. But increasingly, external platforms powered by AI-generation models are being used to construct resumes, according to Hiten Sheth, director in the HR practice of research firm Gartner.
+“Candidates — just like employers — are experiencing a fiercely competitive labor market,” Sheth said in an email reply to Computerworld. “To help gain competitive advantage, candidates might feel the need to utilize generative AI in order to bolster their resume, for example. It’s basically impossible for a recruiter to know if a resume was compiled using this technology — and recruiters are also not looking for it.”
+The primary motivation for those who used ChatGPT is to save time, the survey found. Those benefits outweigh the risks for most job seekers, according to Resume Builder’s report.
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+An overwhelming majority (88%) of the total sample said they are somewhat or highly likely to continue using ChatGPT to write job application materials in the future. Four in 10 said interviewers weren’t able to tell when job candidates had used ChatGPT.
+ Resume Builder
+However, when interviewers found out about the AI use, the response wasn’t always positive. Of the 40% of respondents who said an interviewer was aware they used ChatGPT to write application materials, 35% said they didn’t get the job because of it.
+“The purpose of a resume is to get someone an interview,” Haller said. “From there, it’s up to the hiring managers to use other tools to evaluate a prospective employee during the process.”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ Resume Builder
+
+Three out of four of those surveyed said the materials written by ChatGPT were of high  or very high quality. And 28% said they had to do only “a little bit” or “no” editing to the resumes and cover letters written by ChatGPT.
+Foundation models, the technology underpinning OpenAI’s ChatGPT, have been around for years and are already used in natural language processing (NLP) chatbots. However, according to the latest Gartner 2023 Recruiting Innovations Bullseye, the use of chatbots is still in the experimental stage and is not considered a strategic recruiting goal for most organizations over the next few years.
+Despite the apparent success of ChatGPT in hiring, there are broad concerns that the technology could be used to generate false information at scale, according to Sheth. AI-generated “hyperrealism,” coupled with how easy it is to use, accelerates the risk of false information spreading rapidly.
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+As a result, both users and organizations “must remain cautious when using generative AI, as failing to do so could result in legal and reputational consequences,” Sheth said via email.
+“ChatGPT continues to generate buzz because it allows everyday individuals to directly interact with AI that is seemingly intelligent, understands questions, and helps accomplish specific tasks. However, the content this technology generates can sometimes be incorrect, as it depends on the prompt, task, or domain and the quality and quantity of training data leading to risks and misuse,” Sheth said.
+A Resume Builder spokesperson said the organization can’t conclude that ChatGPT increases a respondent’s chance of being interviewed or hired, “but contrary to what some might believe, using ChatGPT may not hurt an applicant’s chances, either.
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+“I think there is a narrative out there right now that using ChatGPT is somehow cheating [or] misrepresenting yourself. But using it can definitely save time for job seekers and, according to the survey findings, most respondents didn’t experience a downside (only 11% said they believed they were denied a job because they used ChatGPT),” the spokesperson said in an email reply to Computerworld.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Related content
+
+
+
+
+
+Sponsored Content
+by Data X Stream
+
+What is the true role of technology in developing strong customer relationships?
+Updating technology and streamlining sales processes frees up sales teams to better serve customers, becoming essential...
+
+By Data X Stream
+
+
+Jul 17, 2024
+
+
+ 
+
+
+news
+
+Microsoft pins Windows outage on EU-enforced ‘interoperability’ deal
+According to the agreement, Microsoft was to provide software makers the same level of access to Windows as Microsoft itself.  
+
+				By Shweta Sharma				
+
+
+Jul 22, 2024
+
+3 mins 
+
+
+Regulation
+Microsoft
+
+
+
+
+
+
+brandpost
+
+							Sponsored by Optimum Business						
+
+Why Business Internet Security Is Important for You
+No business is too small to be safe from cyber criminals. The repercussions of an attack can be devastating, but these practical tips will help keep you protected. 
+
+				By Tanya O'Hara				
+
+
+Jul 22, 2024
+
+7 mins 
+
+
+Security
+
+
+
+
+
+
+opinion
+
+The workers have spoken: They're staying home.
+And companies can't make them come into the office. Really. 
+
+				By Steven Vaughan-Nichols				
+
+
+Jul 22, 2024
+
+5 mins 
+
+
+Remote Work
+Technology Industry
+
+
+
+
+
+
+opinion
+
+Put not your trust in Windows — or CrowdStrike
+Who in the world would trust Windows for any mission-critical work? 
+
+				By Steven J. Vaughan-Nichols				
+
+
+Jul 20, 2024
+
+4 mins 
+
+
+Windows Security
+Linux
+MacOS
+
+
+
+
+
+
+Podcasts
+
+
+Videos
+
+
+Resources
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SUBSCRIBE TO OUR NEWSLETTER			
+
+				From our editors straight to your inbox			
+
+			Get started by entering your email address below.		
+
+
+ 
+
+
+
+Please enter a valid email address
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzAyLzI0L2NoYXRncHQtZ2VuZXJhdGl2ZS1haS1sZWdhbC1taW5lZmllbGTSAQA?oc=5,Generative AI is a legal minefield - Axios,2023-02-24,Axios,https://www.axios.com,"Our laws were written assuming that people, not machines, would create content.","Microsoft,Axios License,OpenAI,Visuals,Illustrations,Machine learning","Our laws were written assuming that people, not machines, would create content.","Our laws were written assuming that people, not machines, would create content.",,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnVxLmVkdS5hdS9uZXdzL2FydGljbGUvMjAyMy8wMi9tb3N0LWF1c3RyYWxpYW5zLWRvbiVFMiU4MCU5OXQtdHJ1c3QtYWktd29ya3BsYWNl0gEA?oc=5,Most Australians don't trust AI in the workplace - The University of Queensland,2023-02-22,The University of Queensland,https://www.uq.edu.au,A University of Queensland and KPMG Australia study has found only 40 percent of Australians trust the use of artificial intelligence (AI) at work.,N/A,A University of Queensland and KPMG Australia study has found only 40 percent of Australians trust the use of artificial intelligence (AI) at work.,A University of Queensland and KPMG Australia study has found only 40 percent of Australians trust the use of artificial intelligence (AI) at work.,,,,,,,,,,,,,,,,N/A,N/A,"
+Crypto scams claim victims across the socioeconomic spectrum 22 July 2024 ",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS9za2lsbHMtdG8tYWNoaWV2ZS1leHBlcnQtc3RhdHVzLWluLWFpLWFuZC1tYWNoaW5lLWxlYXJuaW5nLWFydGljbGXSAQA?oc=5,Top Skills You'll Need to Achieve Expert Status in AI and Machine Learning - Simplilearn,2023-02-21,Simplilearn,https://www.simplilearn.com,"AI promises to revolutionize industries and impact the lives of individuals across the world. Also, AI and machine learning can increase efficiencies and worker productivity. So, what are the key AI skills you should learn to master AI? Well, read on to know! Click here!","core ai, ai skills, machine learning, deep learning, ai, artificial intelligence, rpa and ai, rpa, robotic process automation, simplilearn, article","AI promises to revolutionize industries and impact the lives of individuals across the world. Also, AI and machine learning can increase efficiencies and worker productivity. So, what are the key AI skills you should learn to master AI? Well, read on to know! Click here!","AI promises to revolutionize industries and impact the lives of individuals across the world. Also, AI and machine learning can increase efficiencies and worker productivity. So, what are the key AI skills you should learn to master AI? Well, read on to know! Click here!","{'@type': 'WebPage', '@id': 'https://www.simplilearn.com/skills-to-achieve-expert-status-in-ai-and-machine-learning-article'}",2019-04-11T12:38:20+05:30,Top Skills You Need to Achieve Expert Status in AI & Machine Learning,"{'@type': 'Person', 'name': 'Stuart Rauch', 'url': 'https://www.simplilearn.com/authors/stuart-rauch'}","{'@type': 'Organization', 'name': 'Simplilearn', 'logo': {'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/logo.png', 'width': '200', 'height': '200'}}","{'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Skills_Youll_Need_to_Achieve_Expert_Status_in_AI_and_Machine_Learning.jpg', 'height': '506', 'width': '900'}",Top Skills You Need to Achieve Expert Status in AI & Machine Learning,BreadcrumbList,,,https://schema.org,,,,,N/A,N/A,"
+People seem to think there is some magical ingredient needed to become an expert at AI and machine learning. After all, AI promises to revolutionize entire industries and impact the lives of individuals and businesses around the world. But there is a path you can take to achieve expert status in these growing fields that will give you the important educational foundation and pragmatic best practices to apply AI and machine learning on the job to great promise.
+Here are some key skills you’ll want to learn to master in the AI market that is expected to grow to $100 billion by 2025.
+Here's the bright chance to create your dream career! Enroll in the AI and Machine Learning Course with IIT Kanpur, and take the first step towards your dream career.
+Real-world AI Skills
+To put AI skills to good use, it helps to work with models that you have confidence in and can make AI explainable to business teams that will use it. According to a Fortune study, AI technologies enable computers to mimic human intelligence, using logic, if-then rules, decision trees, and other intelligent functions to improve the efficiency of a wide range of business processes. A recent study from Forrester reports that 45 percent of AI decision-makers say trusting AI systems is either challenging or very challenging, and that there will be increasing demand for transparent and easily understandable AI models.
+Core AI skills training shows AI engineers on how to create practical applications of AI using a wide range of intelligent agents. According to a recent poll, the three most popular uses for AI and machine learning are to increase efficiencies or worker productivity (51 percent), to inform future business decisions (41 percent), and to streamline processes (39 percent). AI skills encompass many key areas, including designing intelligent agents; machine learning algorithms and advanced artificial neural networks that use predictive analytics to solve real-time decision-making problems; neural networks and multi-layer data abstraction that help you analyze data effectively; and applying major applications of AI across various fields such as customer service, financial services, and healthcare.
+Machine Learning
+Machine learning automates data analysis to enable computers to learn and adapt through experience to do specific tasks without explicit programming. Machine learning skills training dive deep into the operation of support vector machines, decision trees, and clustering, and how they relate to the practical aspects of machine learning. One of the most promising fields to leverage machine learning in data science. According to Indeed, the terms “AI” and “machine learning” were included in the job descriptions for about 75 percent of data scientist jobs. Data scientists enhance the value of data with machine learning and find patterns that can be directly applied to business operations. Get started with your career in AI and ML with  AI & Machine Learning Bootcamp. 
+Deep Learning
+According to a Fortune report, Deep learning has become known as the deepest subset within machine learning, composed of algorithms that permit software to train itself to perform tasks by exposing multi-layered neural networks to vast amounts of data. It’s also a field heavily used by data scientists, and in fact, 80 percent of data scientists are predicted to be using deep learning in their toolkits, according to Gartner. Deep learning skills training is structured around learning TensorFlow, the open-source software library designed to conduct deep neural network research. Deep learning aspirants learn to implement algorithms, build artificial neural networks, and traverse layers of data abstraction to understand the power of data. And from a practical standpoint, which you can see is paramount with today’s upskilling curriculum, learners can master using TensorFlow models and interpret results, troubleshoot, and use these models in a real-world industry project. Take a step further and incorporate Python into your learning path. Data scientists similarly use Python to perform data analytics, machine learning models, data visualization, web scraping, and natural language processing, among many other tasks.
+Convergence with Robotic Process Automation (RPA)
+RPA empowers companies to configure software bots to capture and interpret applications for processing a transaction, manipulating data, triggering responses, and communicating with other digital systems. The convergence of RPA with AI and machine learning technologies is creating a new era for digital transformation. Forrester reports that more than 40 percent of enterprises plan to create state-of-the-art digital workers by combining AI with RPA. Core RPA skills training provides a complete overview of tools and workflows used in intelligent automation and steps for implementing RPA across the organization.
+Conclusion
+Is the demand for workers with AI and related technologies high? You bet! Indeed Hiring Lab says demand for workers with AI talent has more than doubled over the past three years, with the number of AI-related job postings as a share of all job postings up about 119 percent. AI skills are becoming increasingly used in IT, marketing, sales, and financial operations. That should be sufficient reason to get your teams on the path to AI mastery as soon as possible.
+As the demand for AI and machine learning has increased, organizations require professionals with in-and-out knowledge of these growing technologies and hands-on experience. Keeping the innate need in mind, Simplilearn has launched the AI and ML courses with Purdue University in collaboration with IBM that will help you gain expertise in various industry skills and technologies from Python, NLP, speech recognition, to advanced deep learning. This Post Graduate program will help you stand in the crowd and grow your career in thriving fields like AI, machine learning and deep learning.
+
+",,,https://www.simplilearn.com/skills-to-achieve-expert-status-in-ai-and-machine-learning-article,,,,,2023-02-21T17:47:19+05:30,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.simplilearn.com', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.simplilearn.com/resources', 'name': 'Resources'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.simplilearn.com/resources/artificial-intelligence-machine-learning', 'name': 'AI & Machine Learning'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.simplilearn.com/skills-to-achieve-expert-status-in-ai-and-machine-learning-article', 'name': 'Top Skills You Need to Achieve Expert Status in AI & Machine Learning'}}]",,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}"
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzAyLzIyL2NoYXRncHQtcHJvbXB0LWVuZ2luZWVycy1haS1qb2LSAQA?oc=5,AI's rise generates new job title: Prompt engineer - Axios,2023-02-22,Axios,https://www.axios.com,To fulfill AI's promise will require that users get better at telling generative programs what to do.,"Axios License,Entrepreneurs,Visuals,Illustrations,Jobs,ChatGPT",To fulfill AI's promise will require that users get better at telling generative programs what to do.,To fulfill AI's promise will require that users get better at telling generative programs what to do.,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS91cGRhdGUteW91ci1pdC1jYXJlZXItd2l0aC1hLW1vdmUtaW50by1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hcnRpY2xl0gEA?oc=5,Update Your IT Career with a Move into Artificial Intelligence - Simplilearn,2023-02-22,Simplilearn,https://www.simplilearn.com,Artificial Intelligence is one its peak and if you are willing to move into the AI world it’s a perfect time. Read on to know how you can update your career in AI,"it career, artificial intelligence, ai, ai jobs, career change from it, simplilearn, article",Artificial Intelligence is one its peak and if you are willing to move into the AI world it’s a perfect time. Read on to know how you can update your career in AI,Artificial Intelligence is one its peak and if you are willing to move into the AI world it’s a perfect time. Read on to know how you can update your career in AI,"{'@type': 'WebPage', '@id': 'https://www.simplilearn.com/update-your-it-career-with-a-move-into-artificial-intelligence-article'}",2019-03-07T12:10:06+05:30,Update Your IT Career with a Move into Artificial Intelligence,"{'@type': 'Person', 'name': 'Shardul Prakash Mohite', 'url': 'https://www.simplilearn.com/authors/shardul-prakash-mohite'}","{'@type': 'Organization', 'name': 'Simplilearn', 'logo': {'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/logo.png', 'width': '200', 'height': '200'}}","{'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/ice9/free_resources_article_thumb/Update-Your-IT-Career-with-a-Move-into-Artificial-Intelligence.jpg', 'height': '506', 'width': '900'}",Update Your IT Career with a Move into Artificial Intelligence,BreadcrumbList,,,https://schema.org,,,,,N/A,N/A,"
+Life in the 21st century can sometimes feel like shifting sand, with change a constant all around us—societal, political, economic, technological…every aspect of life seems to be in flux. When it comes to our daily lives, what was unheard of a few years ago is commonplace today, and we’re quickly adapting to new ideas and technologies. But that doesn’t mean we’re quite comfortable with it, especially when it comes to our jobs. In fact, one in four Americans believes their job will be eliminated in the next 20 years, and one in eight believes it will happen in the next five.
+Employees are understandably nervous when it comes to their careers, because of all this change—and uncertainty. The jobs our parents had looked very different from the jobs we work at today, and we can hardly imagine the future. The World Economic Forum says 65 percent of today’s children will have jobs that don’t yet exist when they grow up. That’s over half! No wonder we’re nervous about our future careers! 
+All the talk about automation and Artificial Intelligence (AI) only heightens our fears—both the fear of losing a job to technology and the fear of lacking the skills to remain employable in light of all the change. 
+Yet maybe it’s AI that will save us in the end?
+Acelerate your career with the AI and ML Course with Purdue University collaborated with IBM.
+Artificial Intelligence Will Do Away with Jobs and Create Them
+What jobs are becoming obsolete due to automation is obvious. One study predicts 38 percent of U.S. jobs will be lost to automation by the 2030s, with the U.K. losing 30 percent, Germany 35 percent, and Japan 21 percent. But experts say it will create them too. Peter Sondergaard, head of research at Gartner, has said AI would automate 1.8 million people out of work by 2020, but it will create 2.3 million jobs at the same time, meaning it will lead to more jobs, not less.
+Although many of the jobs we’ll lose are manual and low-paying, middle-class jobs will also take a hit, and automation is impacting the IT worker too. AI and Machine Learning can do some IT tasks, and technology, in general, requires fewer workers—preferably workers with newer skillsets. As one CEO said in an article about IT layoffs in India, “What required 50 programmers, analysts or accountants five years ago can [now] be done by a handful of smart thinkers and much smarter systems.”
+So, yes, IT jobs are already going away. But new ones are being created, and jobs in AI and Machine Learning are already on the rise. The job site Indeed.com says demand for employees with AI skills and knowledge has more than doubled over the past three years. Also, Machine Learning Engineer was in LinkedIn’s Most Promising Jobs of 2019. 
+Should you be transitioning into the field of AI, to future-proof your IT career?
+Become a AI & Machine Learning Professional$267 billionExpected Global AI Market Value By 202737.3%Projected CAGR Of The Global AI Market From 2023-2030$15.7 trillionExpected Total Contribution Of AI To The Global Economy By 2030Professional Certificate Course in Generative AI and Machine LearningProgram completion certificate from E&ICT Academy, IIT KanpurCurriculum delivered in live virtual classroom sessions by seasoned industry experts11 months monthsView ProgramArtificial Intelligence EngineerIndustry-recognized AI Engineer Master’s certificate from SimplilearnDedicated live sessions by faculty of industry experts11 Months monthsView ProgramprevNextHere's what learners are saying regarding our programs:Abhineet SrivastavaSenior Manager - Analytics & Reporting, AXAThe Machine Learning Course course was all worth it! The course content was comprehensive and updated. The journey from a Python-based approach to understanding Statistical concepts, Machine Learning, and other concepts was just incredible.
+Thanks to all the amazing trainers and co-learners for giving me such an enriched experience.Indrakala Nigam BeniwalTechnical Consultant, Land Transport Authority (LTA) SingaporeI completed a Master's Program in Artificial Intelligence Engineer with flying colors from Simplilearn. Thanks to the course teachers and others associated with designing such a wonderful learning experience. prevNextNot sure what you’re looking for?View all Related Programs
+What Are the In-Demand AI Jobs?
+Despite all the stock photos that show human-like robots sitting at computers, AI jobs won’t look all that different from today’s jobs, and they will be widespread. AI will soon be used in just about every industry and both the private and public sectors, opening up all kinds of possibilities for those who want to work in AI careers. AI jobs will be available in financial, healthcare, manufacturing, and more in cities throughout the world. And what are those jobs? According to an article at TechRepublic, the 10 most in-demand AI jobs right now are: 
+
+Data scientist
+Software engineer
+Machine learning engineer
+Software architect
+Data analyst
+Data warehouse engineer
+Full-stack developer
+Research scientist
+Front end developer
+Product manager
+
+Although this list will no doubt change as technologies evolve, it’s a useful place to start, because it shows you can move into AI from several different IT backgrounds. 
+Making the Transition from IT to AI
+The AI wave is coming. If you’re concerned that your current IT skillset will soon be irrelevant—and your job too—it’s time to consider your options. As you can see by the job list above, those already working in IT have a definite advantage when it comes to emerging technologies and new job creation, because they have a solid foundation to build upon. It’s only a matter of determining which new skills you should (or want to) learn. And one writer says the sooner the better when it comes to AI jobs.  
+For an excellent guide to making the transition from old IT skills to new AI ones, check out the webinar “How to Build a Career in AI and Machine Learning,” with industry influencer Ronald Van Loon. Van Loon talks specifically about steps to take to get trained for jobs in AI. For example, for those new to the field, he suggests starting with mathematics and courses in Machine Learning. He also discusses the foundational skills you should have already, such as strong computer skills, programming skills like C++, and an understanding of algorithms. You should also supplement that education with general business knowledge. On the other hand, he says experienced programmers can go straight into the algorithms and start coding. Watch the webinar to learn more.
+Download the Comprehensive Artificial Intelligence Career Guide to Become an AI Expert.
+Getting Started with Simplilearn
+If you're interested in becoming an AI expert, then we have just the right guide for you. The Artificial Intelligence Career Guide will give you insights into the most trending technologies, the top companies that are hiring, the skills required to jumpstart your career in the thriving field of AI, and offers you a personalized roadmap to becoming a successful AI expert.
+If you’re willing to a career move in AI, taking a course or two with Simplilearn can help you start that transition. Simplilearn offers courses in AI, Machine Learning and Deep Learning, as well as Robotic Process Automation (RPA). In addition to those individual courses, Simplilearn offers a Masters in Artificial Intelligence that can help position you for a job as an Artificial Intelligence Engineer, with courses in data science with Python, Machine Learning, and Deep Learning with TensorFlow.
+You can also take-up the AI and ML courses with Purdue University collaborated with IBM. This program gives you an in-depth knowledge of Python, Deep Learning with the Tensor flow, Natural Language Processing, Speech Recognition, Computer Vision, and Reinforcement Learning.
+Viktor Frankl once said, “When we are no longer able to change a situation, we are challenged to change ourselves.” His wisdom aptly applies to the career dilemmas faced by the 21st-century worker. And the time to make the change is now, by making sure your skillset stays current, relevant, and in demand.
+
+",,,https://www.simplilearn.com/update-your-it-career-with-a-move-into-artificial-intelligence-article,,,,,2023-02-22T19:07:56+05:30,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.simplilearn.com', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.simplilearn.com/resources', 'name': 'Resources'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.simplilearn.com/resources/artificial-intelligence-machine-learning', 'name': 'AI & Machine Learning'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.simplilearn.com/update-your-it-career-with-a-move-into-artificial-intelligence-article', 'name': 'Update Your IT Career with a Move into Artificial Intelligence'}}]",,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}"

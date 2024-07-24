@@ -1,0 +1,1600 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,url,publisher,mainEntityOfPage,datePublished,dateCreated,dateModified,heading,image,author,@graph,speakable,headline,articleSection,thumbnailUrl,video,editor,alternativeHeadline,name,articleBody,isAccessibleForFree,hasPart,itemListElement,creator
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZW50ZXJwcmlzZXJzcHJvamVjdC5jb20vYXJ0aWNsZS8yMDE5LzkvYWktZXhwbGFpbmVkLXBsYWluLWVuZ2xpc2jSAQA?oc=5,How to explain AI in plain English - The Enterprisers Project,2019-09-23,The Enterprisers Project,https://enterprisersproject.com,What is artificial intelligence? How does AI work? What are the enterprise use cases? Here’s how to discuss the key issues in plain terms,N/A,What is artificial intelligence? How does AI work? What are the enterprise use cases? Here’s how to discuss the key issues in plain terms,What is artificial intelligence? How does AI work? What are the enterprise use cases? Here’s how to discuss the key issues in plain terms,N/A,N/A,"
+What is artificial intelligence? How does AI work? What are the enterprise use cases? Here’s how to discuss the key issues in plain terms
+
+
+
+          By 
+
+Stephanie Overby
+
+
+September 23, 2019          |
+%t min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      845 readers like this.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cognitive scientist and Dartmouth professor John McCarthy coined the term artificial intelligence (AI) in 1955 when he began his exploration of whether machines could learn and develop formal reasoning like humans. More than 60 years later, AI is the hottest tech topic of the day, from the boardroom to the breakroom.
+The vast majority of technology executives (91 percent) and 84 percent of the general public believe that AI constitutes the next technology revolution, according to Edelman’s 2019 Artificial Intelligence (AI) Survey. PwC has predicted that AI could contribute $15.7 trillion to the global economy by 2030. Of course, it’s already having an impact all around us. AI powers voice-based devices, filters our email, and guides our search results. One in five respondents said their organizations plan to implement AI enterprise-wide this year, according to the PwC 2019 AI Predictions Survey.
+While AI has fueled more than a little bit of hype, enterprises are indeed trying to get down to business - before rivals do. As noted in our Harvard Business Review Analytic Services report, An Executive’s Guide to Real-World AI, “Hype in tech is nothing new. What’s different this time is the degree to which reasonable and knowledgeable people believe that there is, indeed, a real urgency to get going with AI now.”
+Dan Vesset, group vice president, analytics and information management, at market research firm IDC, warns, “If you’re not starting to invest, there’s the real possibility of being left behind forever.”
+That’s because companies need foundational pieces in place to be successful with AI, as the report notes. These include talent, which is in short supply; having the right data infrastructure as well as sufficient quantity and quality of data to train your models; deciding how AI will be governed; and managing change in the organization.
+[ Check out our quick-scan primer on 10 key artificial intelligence terms for IT and business leaders: Cheat sheet: AI glossary. ]
+ Just because everyone is talking about AI does not mean they understand it.
+However, just because everyone is talking about AI does not mean they understand it. As Red Hat technologist Gordon Haff recently wrote, AI projects in the past have often tried to boil the ocean - to solve multi-faceted problems like self-driving cars. Today’s enterprise AI projects are more practical, often focusing on customer experience pain points. “What’s happening with AI today is exciting in part because it involves practical solutions that address complexity, the need to handle more and more data, and demanding customers,” Haff noted. “McKinsey says, 75 percent of online customers expect help now.”
+As demand for AI-enabled initiatives continues to increase, CIOs and IT leaders will need to clarify for non-technical constituents what AI is – and what it isn’t.
+AI definitions
+While AI and machine learning (ML) and deep learning may often be used interchangeably, the latter two are subsets of the broader category of artificial intelligence.
+[ Read also: How to explain machine learning in plain English. ]
+Here are a few basic AI definitions that may prove useful when discussing the topic:
+“AI is the use of intricate logic or advanced analytical methods to perform simple tasks at greater scale in ways that mean we can do more at large scale with the workers we have, allowing them to focus on what humans are best at, like handling complex exceptions or demonstrating sympathy.” –Whit Andrews, vice president and distinguished analyst with Gartner Research
+“Put simply, AI is a technology solution that helps the enterprise get more done with fewer resources by automating mundane, data-heavy tasks. More specifically, AI is a computerized simulation of human intelligence that can be programmed to make decisions, carry out specific tasks, and learn from the results.” –Zachary Jarvinen, head of technology strategy, AI and analytics at OpenText
+“AI is a mathematical and algorithmic model that allows computers to learn to do tasks without being explicitly programmed to do those tasks.” –Timothy Havens, the William and Gloria Jackson Associate Professor of Computer Systems in the College of Computing at Michigan Technological University and director of the Institute of Computing and Cybersystems
+Bonus: The bicycle analogy
+The child learning to ride falls a few times, honing their skills each time they fail. That’s AI in a nutshell.
+For those who prefer analogies, Havens likens the way AI works to learning to ride a bike: “You don’t tell a child to move their left foot in a circle on the left pedal in the forward direction while moving your right foot in a circle… You give them a push and tell them to keep the bike upright and pointed forward: the overall objective. They fall a few times, honing their skills each time they fail,” Havens says. “That’s AI in a nutshell.”
+[ Is RPA a kind of AI? See our related post: Robotic Process Automation (RPA) vs. AI, explained. ]
+AI 101: How AI works
+So how does it work? “AI matches the data about circumstances in a business or technical process to its outcomes so that developers can make desirable outcomes more common using the people you have,” says Gartner’s Andrews.
+The AI on your phone, in your car, or on the Internet ingests those massive volumes of data and produces an implicit model that best optimizes some predetermined objective or reward function, Havens says.
+“Usually that objective is represented by some calculated measure of how often the AI is correct in its outputs,"" Havens says. ""AI learns very much the way humans do – except AI can ride, fall off the bike, a readjust millions and millions of times a second.”
+Typically, AI analyzes historical data to make predictions about the future.
+Typically, AI analyzes historical data to make predictions about the future. Let’s take a real estate app as an example: “By using algorithms, the computer can analyze massive amounts of data on past home sales, school districts, transportation and traffic patterns, and more to make an estimate on a homes’ value, cost per square foot, and more,” Jarvinen says. “As the application collects more data from users and public information on sales, it learns, and the predictions become more accurate.”
+AI vs. jobs
+For some time, there has been fear and uncertainty about the impact of AI on human employment. Will these machines rise up and take all of our jobs?
+Unlikely. For one thing, AI isn’t that advanced yet. “The robots aren’t coming to get us. And to go beyond that, AI is not even intelligent in the way humans are yet,” says Havens. “AI can precisely do calculations and perform inferences using billions of data points, but AI systems currently are not generalized intelligence.”
+40 percent of respondents from Global 2000 organizations plan to add more jobs as a result of AI adoption. Source: 2019 Dun & Bradstreet report.
+In fact, 40 percent of respondents from Global 2000 organizations say that they are adding more jobs as a result of AI adoption, according to a 2019 Dun & Bradstreet report, while only 8 percent are eliminating jobs as a result of implementing AI capabilities. Around one-third (34 percent) reported that there was no change in HR needs as a result of AI.
+In any case, say AI experts, outright automation is the wrong focus for applied AI in the enterprise. AI adds the most value as an augmentation of human decision-making and interactions, complementing human skills for exponentially better outcomes. “The greatest misconception by far is that AI is a replacement of the workforce when it is, in fact, aimed at enhancing the workforce through augmentation,” says Jarvinen. “AI is about helping employees deal with mundane tasks (such as data entry or alert validation) so they can focus on the things that matter (such a speaking with customers or dealing with security threats).”
+Gartner predicts that 80 percent of project management tasks that would typically be handled by a person today will be eliminated by AI by 2030, spanning traditional project management functions such as data collection, tracking, and reporting. Within IT and other business functions, such as finance, salaries for AI roles continue to rise. 
+What about enterprise use cases for AI? Let’s explore:
+
+Pagination
+
+
+
+
+              Current page
+            1
+
+
+
+
+              Page
+            2
+
+
+
+Next page
+Next ›
+
+
+
+
+Last page
+Last »
+
+
+
+
+
+
+
+
+
+
+Topics
+
+Enterprise Technology
+Artificial Intelligence
+
+
+
+
+
+
+
+ 
+Stephanie Overby is an award-winning reporter and editor with more than twenty years of professional journalism experience. For the last decade, her work has focused on the intersection of business and technology. She lives in Boston, Mass.
+More about me
+
+
+
+
+
+
+Related content
+
+
+ 
+
+The future of healthcare is in the cloud
+ 
+
+Cloud computing: 3 business advantages
+ 
+
+4 ways CIOs are rethinking digital transformation
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3F1YW50dW1ibGFjay9vdXItaW5zaWdodHMvdGhlLWFuYWx5dGljcy1hY2FkZW15LWJyaWRnaW5nLXRoZS1nYXAtYmV0d2Vlbi1odW1hbi1hbmQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2XSAQA?oc=5,The analytics academy: Bridging the gap between human and artificial intelligence - McKinsey,2019-09-25,McKinsey,https://www.mckinsey.com,"As organizations rebuild their foundations to compete in the era of data and advanced analytics, in-house capability-building programs offer the best way to train workers up to the task.",N/A,"As organizations rebuild their foundations to compete in the era of data and advanced analytics, in-house capability-building programs offer the best way to train workers up to the task.","As organizations rebuild their foundations to compete in the era of data and advanced analytics, in-house capability-building programs offer the best way to train workers up to the task.",N/A,N/A,N/A,https://schema.org,Article,https://www.mckinsey.com,"{'@type': 'Organization', 'name': 'McKinsey & Company', 'logo': {'@type': 'ImageObject', 'url': 'https://www.mckinsey.com/~/media/Thumbnails/Mck_Logo'}}","{'@type': 'WebPage', '@id': 'https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-analytics-academy-bridging-the-gap-between-human-and-artificial-intelligence'}",2019-09-25T00:00:00Z,2019-09-19T07:00:19Z,2019-09-25T00:00:00Z,The analytics academy: Bridging the gap between human and artificial intelligence,https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20analytics/our%20insights/the%20analytics%20academy%20bridging%20the%20gap%20between%20human%20and%20artificial%20intelligence/the-analytics-academy-1536x1536-vf.png,"[{'@type': 'Person', 'name': 'Solly Brown'}, {'@type': 'Person', 'name': 'Darshit Gandhi'}, {'@type': 'Person', 'name': 'Louise Herring', 'url': 'https://www.mckinsey.com/our-people/louise-herring'}, {'@type': 'Person', 'name': 'Ankur Puri'}]",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd2Fyb250aGVyb2Nrcy5jb20vMjAxOS8wOS90ZXJyb3Jpc3QtZ3JvdXBzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFuZC1raWxsZXItZHJvbmVzL9IBAA?oc=5,"Terrorist Groups, Artificial Intelligence, and Killer Drones - War On The Rocks",2019-09-24,War On The Rocks,https://warontherocks.com,Editor’s Note: This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial,N/A,Editor’s Note: This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial,N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://warontherocks.com/#website', 'url': 'https://warontherocks.com/', 'name': 'War on the Rocks', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://warontherocks.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://warontherocks.com/2019/09/terrorist-groups-artificial-intelligence-and-killer-drones/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://warontherocks.com/wp-content/uploads/2019/09/HEZBDRONE.jpg', 'width': 1330, 'height': 850}, {'@type': 'WebPage', '@id': 'https://warontherocks.com/2019/09/terrorist-groups-artificial-intelligence-and-killer-drones/#webpage', 'url': 'https://warontherocks.com/2019/09/terrorist-groups-artificial-intelligence-and-killer-drones/', 'name': 'Terrorist Groups, Artificial Intelligence, and Killer Drones - War on the Rocks', 'isPartOf': {'@id': 'https://warontherocks.com/#website'}, 'primaryImageOfPage': {'@id': 'https://warontherocks.com/2019/09/terrorist-groups-artificial-intelligence-and-killer-drones/#primaryimage'}, 'datePublished': '2019-09-24T07:50:43+00:00', 'dateModified': '2020-01-27T15:56:32+00:00', 'author': {'@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8'}, 'description': 'Editor’s Note: This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://warontherocks.com/2019/09/terrorist-groups-artificial-intelligence-and-killer-drones/']}]}, {'@type': ['Person'], '@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8', 'name': 'Shane Mason', 'image': {'@type': 'ImageObject', '@id': 'https://warontherocks.com/#personlogo', 'inLanguage': 'en-US', 'url': 'https://secure.gravatar.com/avatar/83a68cf34a391d145ac9f37117795a86?s=96&d=identicon&r=g', 'caption': 'Shane Mason'}}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTkvMDkvMjUvZmluYW5jZS1qb2JzLXJlcXVpcmluZy1haS1za2lsbHMtYXJlLWdyb3dpbmctYW5kLWhlcmUtYXJlLWV4YW1wbGVzLmh0bWzSAWtodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxOS8wOS8yNS9maW5hbmNlLWpvYnMtcmVxdWlyaW5nLWFpLXNraWxscy1hcmUtZ3Jvd2luZy1hbmQtaGVyZS1hcmUtZXhhbXBsZXMuaHRtbA?oc=5,Finance jobs requiring A.I. skills increased 60% last year—here's what they look like - CNBC,2019-09-25,CNBC,https://www.cnbc.com,Traditional banks and fintech start-ups alike are looking for workers skilled in artificial intelligence. Here are the pathways to getting in on this growing sector.,"['makeit', 'Articles', 'Education', 'Salary and benefits', 'LinkedIn', 'Jobs', 'Career change', 'Careers', 'Artificial intelligence', 'Make It', 'Make It - Work', 'source:tagname:CNBC US Source']",Traditional banks and fintech start-ups alike are looking for workers skilled in artificial intelligence. Here are the pathways to getting in on this growing sector.,Traditional banks and fintech start-ups alike are looking for workers skilled in artificial intelligence. Here are the pathways to getting in on this growing sector.,Make It - Work,N/A,N/A,https://schema.org,NewsArticle,https://www.cnbc.com/2019/09/25/finance-jobs-requiring-ai-skills-are-growing-and-here-are-examples.html,"{'@type': 'NewsMediaOrganization', 'name': 'CNBC', 'url': 'https://www.cnbc.com/', 'foundingDate': '1989-04-17', 'logo': {'@type': 'ImageObject', 'url': 'https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png', 'width': 378, 'height': 98}, 'sameAs': ['https://www.facebook.com/CNBCMakeIt', 'https://www.twitter.com/CNBCMakeit', 'https://www.linkedin.com/showcase/cnbc-make-it']}",https://www.cnbc.com/2019/09/25/finance-jobs-requiring-ai-skills-are-growing-and-here-are-examples.html,2019-09-25T15:05:07+0000,2019-09-25T15:05:07+0000,2019-09-25T15:05:07+0000,,"{'@type': 'ImageObject', 'url': 'https://image.cnbcfm.com/api/v1/image/106090121-1566403253809look-up-to-the-stars-and-never-give-up_t20_j1rddx.jpg?v=1566403397', 'width': 2000, 'height': 1333}","[{'@type': 'Person', 'name': 'Jennifer Liu', 'url': 'https://www.cnbc.com/jennifer-liu/'}]",,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', '/html/head/meta[@name=""description""]/@content'], 'cssSelector': ['.group p']}",Finance jobs requiring A.I. skills increased 60% last year—here's what they look like,Make It,https://image.cnbcfm.com/api/v1/image/106090121-1566403253809look-up-to-the-stars-and-never-give-up_t20_j1rddx.jpg?v=1566403397&w=720&h=405,"{'@type': 'VideoObject', 'contentUrl': 'http://pdl.iphone.cnbc.com/VCPS/Y2018/M06D11/7000024673/makeit_06112018_lauren_simmons_NYSE_L.mp4', 'description': 'Lauren Simmons is both the youngest and only female stock broker currently working on the floor of the New York Stock Exchange. ', 'duration': 'PT3M12S', 'name': 'This 23-year-old is the only full-time female trader at the New York Stock Exchange', 'thumbnailUrl': 'https://image.cnbcfm.com/api/v1/image/105265466-NYSE_lauren_simmons_4.jpg?v=1539710826', 'uploadDate': '2018-06-11T14:23:43+0000'}",,,,,,,,
+https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaG93LWFpLWlzLWNoYW5naW5nLWV2ZXJ5dGhpbmctMjAxOS030gEA?oc=5,How AI is changing everything - Business Insider,2019-09-25,Business Insider,https://www.businessinsider.com,,,"AI innovation is playing out across industries like healthcare, retail, consumer and enterprise technology, transportation, advertising, and media.","AI innovation is playing out across industries like healthcare, retail, consumer and enterprise technology, transportation, advertising, and media.g",N/A,N/A,"
+
+
+
+
+
+
+
+A series from Business Insider
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The term artificial intelligence (AI) was coined in 1956 by a professor at Dartmouth College who convened the first ever academic summit on the topic. Now it's one  of several acronyms denoting innovation - including VR, AR, ML - that are tossed around by marketing organizations and tech startups.
+What is clearly understood is this: the impact and promise of AI is profound, but it's not all happening at once, and we're only at the beginning of its potential. AI is already finding its way into daily life (think Netflix recommendations). But progress is uneven across verticals, and it can be difficult to sort out the hype from the reality.
+With an orientation always to provide clarity on complex topics, Business Insider's newsroom has taken a deep dive into how AI is playing out across key industry verticals - including transportation, healthcare, retail, and media.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editing: Julia Hood and Matt TurnerReporting: Áine Cain, Dakin Campbell, Rosalie Chan, Emma Court, Lisa Eadicicco, Richard Feloni, Bryan Logan, Alex Morrell, Meghan Morris, Lucia Moses, Akin Oyedele, Benjamin Pimentel, Ashley Rodriguez, Bradley Saacks, Troy Wolverton, and Dan DeFrancesco Design: Samantha Lee and Skye Gould
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+
+",http://schema.org,BreadcrumbList,,"{'@context': 'http://schema.org', '@type': 'Organization', 'name': 'Insider', 'legalName': 'Insider Inc.', 'foundingDate': '2007', 'url': 'www.businessinsider.com', 'sameAs': ['https://www.instagram.com/insiderbusiness', 'https://www.twitter.com/businessinsider', 'https://www.facebook.com/businessinsider', 'https://www.linkedin.com/company/businessinsider', 'https://www.youtube.com/@InsiderBusiness'], 'founder': {'@type': 'Person', 'name': 'Henry Blodget'}, 'logo': {'@type': 'ImageObject', 'url': 'https://www.businessinsider.com/public/assets/logos/structured-data.png', 'width': 305, 'height': 60}}","{'@type': 'WebPage', '@id': 'https://www.businessinsider.com/how-ai-is-changing-everything-2019-7'}",2019-09-25T19:36:04Z,,2019-09-25T19:36:05Z,,"{'@type': 'ImageObject', 'url': 'https://www.businessinsider.com/public/assets/logos/placeholder.png?width=1136&format=jpeg', 'width': 1136, 'height': 852}",,,,How AI is changing everything,,,,"{'@type': 'Person', 'name': ''}",How AI is changing everything,How AI is changing everything,"A series from Business InsiderThe term artificial intelligence (AI) was coined in 1956 by a professor at Dartmouth College who convened the first ever academic summit on the topic. Now it's one  of several acronyms denoting innovation - including VR, AR, ML - that are tossed around by marketing organizations and tech startups.What is clearly understood is this: the impact and promise of AI is profound, but it's not all happening at once, and we're only at the beginning of its potential. AI is already finding its way into daily life (think Netflix recommendations). But progress is uneven across verticals, and it can be difficult to sort out the hype from the reality.With an orientation always to provide clarity on complex topics, Business Insider's newsroom has taken a deep dive into how AI is playing out across key industry verticals - including transportation, healthcare, retail, and media.",True,"[{'@type': 'WebPageElement', 'isAccessibleForFree': True, 'cssSelector': '.content-lock-content'}]","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.businessinsider.com/', 'name': 'Business Insider'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.businessinsider.com/how-ai-is-changing-everything-2019-7', 'name': 'How AI is changing everything'}}]",
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9haS0xMDEtd2hhdC1pcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hbmQtd2hlcmUtaXMtaXQtZ29pbmcv0gEA?oc=5,AI 101: What is artificial intelligence and where is it going? - The Seattle Times,2019-09-21,The Seattle Times,https://www.seattletimes.com,"Artificial intelligence (AI) technology is quickly permeating every aspect of our lives. From Amazon's voice-activated Alexa to writing technology that helps managers craft job postings, it's in our hearts, homes...",N/A,"Artificial intelligence (AI) technology is quickly permeating every aspect of our lives. From Amazon's voice-activated Alexa to writing technology that helps managers craft job postings, it's in our hearts, homes and workplaces. Here's a primer on some of the concepts...","Artificial intelligence (AI) technology is quickly permeating every aspect of our lives. From Amazon's voice-activated Alexa to writing technology that helps managers craft job postings, it's in our hearts, homes and workplaces. Here's a primer on some of the concepts...",N/A,N/A,"
+
+
+BusinessTechnology 
+
+    AI 101: What is artificial intelligence and where is it going?  
+
+ Sep. 21, 2019 at 6:00 am  Updated Sep. 26, 2019 at 6:55 pm  
+
+
+
+
+
+
+
+Algorithms, the building blocks of artificial intelligence, are detailed, step-by-step instructions for completing a task.  (James Abundis / Seattle Times) 
+
+
+ 
+By 
+
+Melissa Hellmann
+
+Seattle Times staff reporter 
+
+
+The phrase “artificial intelligence” in pop culture often conjures up dystopian images such as the sentient computer Hal 9000 from the 1968 film “2001: A Space Odyssey” that killed people for its self preservation; or the cyborg assassin with a metal endoskeleton in director James Cameron’s “The Terminator.” In recent years, our fascination with the potential of AI has taken a more starry-eyed turn, as shown in the 2013 sci-fi drama “Her,” where the main character falls in love with a virtual assistant.In reality, artificial intelligence (AI) technology is quickly permeating every aspect of our lives. From Amazon’s voice-activated Alexa to writing technology that helps managers craft job postings, AI is in our hearts, homes and workplaces. And it’s only going to become a bigger part of our lives: Experts call the rise of AI the driving force behind the fourth industrial revolution.The A.I. Age | This 12-month series of stories explores the social and economic questions arising from the fast-spreading uses of artificial intelligence. The series is funded with the help of the Harvard-MIT Ethics and Governance of AI Initiative. Seattle Times editors and reporters operate independently of our funders and maintain editorial control over the coverage.On a recent afternoon at the NVIDIA robotics research lab in Seattle’s University District, researchers use a simulated kitchen to test robots’ ability to perform simple tasks such as grabbing objects. A 5-feet 7-inch tall white robot, basically a spindly arm affixed with a claw of the sort customarily found in an arcade vending machine, glided around the kitchen on its two Segway wheels.Following the command of a research scientist sitting at a nearby computer, the robot grabbed a Cheez-It box on the counter and extended its limb to gently place the snacks inside a cabinet.“What’s deceptive is that what’s simple to us in the kitchen is challenging for a robot,” said University of Washington Computer Science and Engineering Professor Dieter Fox, who also serves as the lab’s senior director of robotics research. The Silicon Valley-based technology company opened the robotics lab last fall to harness the UW’s talent in a sector where Seattle plays a central role.Still, paranoia around the capabilities of AI technology persist. When we recently asked readers what they want to know about AI, many focused on the negative. We received questions such as, “How will we know when we aren’t in control?” and “When will it be against the law to make, produce and distribute since it is a patent danger to humans?” Others voiced concerns about the potential that AI will displace workers. Such worry was reflected in a recent Northeastern University and Gallup survey that found 71 percent of Americans feared the surge in AI would cause more job loss than gain.
+Advertising
+
+Skip AdSkip AdSkip Ad 
+
+We’re here to clear up confusion, and highlight the pros and cons of AI technology. Over the coming months, The Seattle Times will explore the social and economic effects of AI by examining regulation of the technology, privacy concerns and the changing landscape of labor in the AI Age. This piece will explain some of the terms you’ll hear, and look at examples of AI around us.But first, let’s go over the basics.Robots entered the cultural imagination about 100 years ago in the Czech play R.U.R., in which artificial people wipe out humans. A seminal moment for AI came a few decades later, when the British mathematician Alan Turing proposed the first test to measure a computer’s intelligence in his 1950 paper, Computing Machinery and Intelligence.The Turing test analyzed whether a machine has developed a humanlike level of awareness through a test that involved one human and one machine respondent, and a human judge placed in another room who would ask the two contestants questions for five minutes. If the judge mistook the machine for a human more than 30% of the time, the computer was determined to have artificial intelligence — a test that many researchers believe has yet to be passed.Computer scientist John McCarthy coined the phrase “artificial intelligence” in 1956, later describing it as the “science and engineering of making intelligent machines, especially intelligent computer programs.” In the decades since, AI has continually reached new milestones.In 1997, IBM’s Deep Blue computer for the first time defeated a professional player in a six-game chess match, demonstrating the calculating abilities of computers. This July, Facebook and Carnegie Mellon University announced they’d created an AI program called Pluribus that defeated five top players in the popular poker game Texas Hold’em, suggesting AI has reached a level of strategic reasoning that surpasses humans, the researchers said. Carnegie Mellon University computer science professor Tuomas Sandholm said the research behind Pluribus could be applied to real-world scenarios including optimizing strategies in investment banking.Common termsAs AI becomes more widespread, you’ll hear a lot of new terms, such as deep learning, deepfakes, algorithms and natural language processing. Here’s a guide to some of those concepts and how you may unknowingly cross paths with them.
+Advertising
+
+Skip Ad 
+
+AlgorithmsAlgorithms are mathematical formulas that amount to a set of processing instructions — akin to a recipe — that aim to solve a specific problem. In some AI systems, algorithms are designed to allow the program to learn on its own. For instance, if a robot followed a recipe to mix together flour, eggs and milk, then placed the ingredients in a preheated oven to bake a cake, it might learn over several attempts — a data set — that too much flour would make the cake dry.Machine learningEver wonder how Netflix, out of thousands of titles, recommends a few TV shows that match your tastes? Or how an ad for the Wayfair rug you’ve been eyeing popped up on your Facebook feed? It’s not magic, it’s an analytics system called machine learning that finds patterns in a large amount of data. Platforms such as Facebook make recommendations by collecting information about users, including their browsing history, age and online purchasing habits, to make inferences about future choices or preferences.Machine learning comes in three forms: supervised, unsupervised and reinforcement learning. Most practical applications of AI are found in supervised learning, which is used when workers annotate images that are fed into software. For instance, autonomous vacuums are taught how to clean without running into objects through the use of algorithms and the labeling of images of rooms that serve as training data for the technology.When people purchase mattresses online, customers’ information is pooled into a large database and unsupervised learning finds patterns to predict future purchasing habits. Based on the actions of other customers who purchase mattresses, for example, the algorithm could determine that the person is likely to buy a bed frame next. Unsupervised learning is when a system goes on a fishing expedition to find underlying patterns in information without a specific goal in mind.The AI bot Pluribus beat five top poker players in Texas Hold ‘em through reinforcement learning — it improved its results by learning which bets were likely to win more money, and analyzed its hands afterward to determine whether alternatives would have yielded better results. In reinforcement learning, a system teaches itself through trial and error.Deep learningJust as human brains learn to recognize various people through knowledge and experience, self-driving cars can be trained to recognize pedestrians and objects on roads through an AI subset called deep learning. Relying on numerous layers of algorithms to sift through and process large amounts of data, deep learning utilizes a web of computation models called “neural networks” that are designed to mimic human brains. The more driving experience the car has, the more likely it is to recognize humans in their various colors, shapes and sizes. This type of deep learning is also at work when Facebook suggests name tags on images that are uploaded to its platform. The technology called facial recognition analyzes a person’s face by measuring the distance between facial features and uses algorithms to find a match.Natural language processingHave you wondered how Siri understands that you need the directions to Sammy’s house and not the sandwich store? Or how a transcript of a voice mail is sent to your email inbox when you’ve missed a call? Thank natural language processing (NLP). NLP technology uses machine-learning algorithms that tag parts of speech and the relationships between words to analyze the meaning in text and audio. Gmail’s Smart Compose feature, unveiled last year, takes NLP a step further by offering users suggestions to complete a sentence in the body of an email.Deepfake technologyAnother new application of AI, deepfake technology, uses deep learning models to manipulate photos and videos to create realistic images of people doing or saying something they never did, sometimes for nefarious reasons. Watch out for deepfake videos that depict fabricated political speech in the upcoming election cycle!
+Advertising
+
+Skip AdSkip AdSkip Ad 
+
+Region is an AI hubThe presence of the two tech giants Amazon and Microsoft has made the Puget Sound area a veritable hub for artificial intelligence. Combine those with the University of Washington, and “we have a strong flow of really talented scientists and engineers who’ve grown to call Seattle home,” said Eric Boyd, who oversees development of Microsoft’s AI tools. 
+
+Most Read Business Stories
+
+
+European Union adds porn site XNXX to list of online platforms facing strictest digital scrutiny  
+ 
+Kroger-Albertsons deal would remake Seattle-area grocery map  
+ 
+Amazon sold a used diaper. It tanked a mom-and-pop business  
+ 
+Turnaround for ‘really strange’ housing market is a year off | Analysis  
+ 
+Boeing 777X finally gets FAA green light for certification flights   WATCH
+
+
+
+Microsoft’s cloud-computing service for artificial intelligence, Azure AI, allows developers and data scientists to easily add capabilities such as translation and image recognition to their projects. For office workers, AI tools in Microsoft 365 offers suggestions to complete projects in Word, PowerPoint and Excel. AI-powered speech recognition tools in the translation and transcription service Translator are also used in lectures to provide captions on a screen for students who are deaf or hard of hearing.One way Amazon is transforming the retail sector is through its checkout-free shopping at Amazon Go. Amazon Go uses computer vision, multiple sensors and deep learning — the same technologies found in autonomous cars — to automatically detect when a customer takes items from shelves and walks out of the store. An AI-powered feature on the Amazon app called StyleSnap allows shoppers to customize their wardrobes by uploading a photo or screenshot of a style they admire. The StyleSnap option uses computer vision and deep learning to classify the clothes and offer recommendations for similar items found on the site that match the shopper’s desired look.Meanwhile, the Amazon virtual assistant Alexa uses natural language processing and machine-learning algorithms to enable more than 90,000 tasks, such as listening to music on command, calling friends and family, booking hotel rooms and controlling light switches.
+Advertising
+
+
+Skip Ad 
+
+
+“We have been working with advanced technologies like machine learning for decades, but we are only in the beginning stages of understanding the possibilities and how invention can improve lives for good by helping solve the big (and small) problems we all face every day,” Amazon’s Vice President of the Core AI team, Pat Bajari, said in an email.Still scared?Meanwhile, AI technology is transforming the retail, automotive and hospitality industry worldwide. Automated check-ins and robots are becoming more commonplace in hotels, and retail stores such as Walmart have rolled out autonomous floor cleaners and smart conveyor belts to keep up with competitors such as Kroger and Whole Foods.Concerned about job security, hotel workers around the nation have created contract language that grants employees some say in the deployment of technology. In recent months, dockworkers have protested and launched petitions to thwart projected job losses after the Port of Los Angeles’ decision to deploy automated vehicles. Some AI experts argue it is unrealistic to expect all manual laborers to become data analysts. Society should redirect people who lack higher education to jobs that draw on the uniquely human trait of empathy, said Oren Etzioni, CEO of the Seattle-based Allen Institute for Artificial Intelligence. As a step to finding new careers for people displaced by advancements in artificial intelligence and automation, Etzioni has suggested wage increases for caregivers and the creation of government programs to train a new generation of caretakers.“You don’t want a robot taking care of your baby; an ailing elder needs to be loved, to be listened to, fed, and sung to. This is one job category that people are — and will continue to be — best at,” Etzioni wrote in a Wired article.
+
+
+
+        Related
+        More on The A.I. Age
+
+
+Q&A: Microsoft's Lili Cheng talks about emotionally intelligent machinesWith $1 billion from Microsoft, an AI lab wants to mimic the brain'Crowdworking' provides the humans who train artificial intelligence
+
+
+Artist works to merge artificial intelligence and artSeattle’s oversight of surveillance technology is moving forward slowly When convenience meets surveillance: AI at the corner store 
+
+
+
+More
+
+
+
+Predictions are all over the map about whether technology will usher in new work to offset the loss of jobs to artificial intelligence in upcoming years. The manufacturing industry will be hit the hardest, according to a recent Oxford Economics report that found 20 million manufacturing jobs will be lost by 2030. On a more positive note, a 2018 report from World Economic Forum — a nonprofit composed of the world’s 1,000 top companies — predicts that while 75 million jobs will be displaced by automation, it will generate 133 million new roles across all industries within the next three years if workers receive continuous retraining.
+Advertising
+
+Skip Ad 
+
+What’s the future of AI?There’s already a backlash against the application of some forms of AI technology. In recent months, several cities and states have banned or considered a moratorium on facial-recognition technology after reports of its potential for misuse. A recent Washington Post investigation, for instance, showed Immigration and Customs Enforcement and Federal Bureau of Investigation agents used the software to scan millions of Americans’ driver’s licenses without their consent in order to track down undocumented immigrants and identify suspects.A growing number of AI experts and politicians agree that the advancements in AI have outpaced government regulation. Technology companies such as Microsoft, followed by Amazon, have urged Congress to issue federal guidelines on the use of facial-recognition technology.Meanwhile, some politicians seek to expand government support of AI. U.S. Sen. Martin Heinrich (D-N.M.), Rob Portman (R-Ohio), and Brian Schatz (D-Hawaii) introduced legislation in May to fund AI developments over the next 10 years. Backers say the bipartisan Artificial Intelligence Initiative Act seeks to prepare an AI workforce and deploy ethically responsible AI tools for private, government and academic use.Although the next stop remains unknown, the AI train isn’t stopping anytime soon. As World Economic Forum Founder and Executive Chairman Klaus Schwab aptly summarized the Fourth Industrial Revolution, “There has never been a time of greater promise or greater peril.” 
+
+
+
+         Melissa Hellmann      
+
+ 
+
+
+ View Comments
+
+Posting comments is now limited to subscribers only. View subscription offers here. For more information, visit our FAQ's.
+
+The opinions expressed in reader comments are those of the author only and do not reflect the opinions of The Seattle Times.
+
+",https://schema.org,BreadcrumbList,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.seattletimes.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Technology', 'item': 'https://www.seattletimes.com/business/technology/'}, {'@type': 'ListItem', 'position': 3, 'name': 'AI 101: What is artificial intelligence and where is it going?'}]",
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMTkvMDkvcHJvZmVzc29ycy1wZXJjZXB0cm9uLXBhdmVkLXdheS1haS02MC15ZWFycy10b28tc29vbtIBAA?oc=5,Professor's perceptron paved the way for AI – 60 years too soon | Cornell Chronicle - Cornell Chronicle,2019-09-25,Cornell Chronicle,https://news.cornell.edu,"As the Faculty of Computing and Information Science celebrates its 20th year, Frank Rosenblatt’s prescient research into artificial intelligence underscores Cornell’s pivotal role in computing history.","Computing and Information Science, Frank Rosenblatt","As the Faculty of Computing and Information Science celebrates its 20th year, Frank Rosenblatt’s prescient research into artificial intelligence underscores Cornell’s pivotal role in computing history.","As the Faculty of Computing and Information Science celebrates its 20th year, Frank Rosenblatt’s prescient research into artificial intelligence underscores Cornell’s pivotal role in computing history.",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+Credit: Division of Rare and Manuscript Collections
+Frank Rosenblatt ’50, Ph.D. ’56, works on the “electronic profile analyzing computer” – a precursor to the perceptron.
+
+
+
+
+
+ 
+
+
+
+  Professor’s perceptron paved the way for AI – 60 years too soon
+
+
+  By
+      
+
+      Melanie Lefkowitz
+
+  
+
+
+
+September 25, 2019
+
+
+FacebookTwitterEmailShare
+
+
+
+
+In July 1958, the U.S. Office of Naval Research unveiled a remarkable invention.
+An IBM 704 – a 5-ton computer the size of a room – was fed a series of punch cards. After 50 trials, the computer taught itself to distinguish cards marked on the left from cards marked on the right.
+It was a demonstration of the “perceptron” – “the first machine which is capable of having an original idea,” according to its creator, Frank Rosenblatt ’50, Ph.D. ’56.
+At the time, Rosenblatt – who later became an associate professor of neurobiology and behavior in Cornell’s Division of Biological Sciences – was a research psychologist and project engineer at the Cornell Aeronautical Laboratory in Buffalo, New York.
+“Stories about the creation of machines having human qualities have long been a fascinating province in the realm of science fiction,” Rosenblatt wrote in 1958. “Yet we are about to witness the birth of such a machine – a machine capable of perceiving, recognizing and identifying its surroundings without any human training or control.”
+He was right – but it took half a century to prove it.
+
+“The foundations for all of this artificial intelligence were laid at Cornell.”
+
+Thorsten Joachims, professor in CIS
+
+
+
+The first serious rival
+Rosenblatt’s claims drew keen interest from reporters and the nascent computing community. “NEW NAVY DEVICE LEARNS BY DOING: Psychologist Shows Embryo of Computer Designed to Read and Grow Wiser,” a New York Times headline read. The New Yorker wrote: “Indeed, it strikes us as the first serious rival to the human brain ever devised.”
+
+
+
+
+
+, Click to open gallery view
+Credit: Division of Rare and Manuscript Collections
+
+The first page of Rosenblatt's article, “The Design of an Intelligent Automaton,” in Research Trends, a Cornell Aeronautical Laboratory publication, Summer 1958.
+
+
+
+But skeptics insisted the perceptron was incapable of reshaping the relationship between human and machine. Enthusiasm waned. The perceptron’s rise and fall helped usher in an era known as the “AI winter” – decades in which federal funding for artificial intelligence research dried up. When Rosenblatt died in 1971, his research centered on injecting material from trained rats’ brains into the brains of untrained rats.
+Today, many believe Rosenblatt has been vindicated. The principles underlying the perceptron helped spark the modern artificial intelligence revolution. Deep learning and neural networks – which can classify online images, for example, or enable language translation – are transforming society.
+As the Faculty of Computing and Information Science (CIS) celebrates its 20th year, Rosenblatt’s prescient research underscores Cornell’s pivotal role in computing history.
+“The perceptron was the first neural network,” said Thorsten Joachims, professor in CIS, who teaches about Rosenblatt and the perceptron in his Introduction to Machine Learning course. “The foundations for all of this artificial intelligence were laid at Cornell.”
+Techies, nut cases and nerds
+
+
+
+
+
+, Click to open gallery view
+
+Frank Rosenblatt
+
+
+
+Born in 1928, Rosenblatt grew up in New Rochelle, New York, a suburb of New York City, and attended the Bronx High School of Science. At Cornell, he majored in social psychology and earned his Ph.D. in psychology.
+This research led him to computing. As a doctoral student, he built an “Electronic Profile Analyzing Computer” to analyze personality data for his dissertation. When he later developed the perceptron, his goal was to solve the mysteries of the brain.
+“He wanted to ask himself what are the minimum number of things that a brain has to have physically in order to perform the amazing things it does,” said Richard O’Brien, former director of Cornell’s Division of Biological Sciences, at Rosenblatt’s memorial service.
+Inspired by the way neurons work together in the brain, the perceptron is a single-layer neural network – an algorithm that classifies input into two possible categories. The neural network makes a prediction – say, right or left; or dog or cat – and if it’s wrong, tweaks itself to make a more informed prediction next time. It becomes more accurate over thousands or millions of iterations.
+
+
+
+
+
+, Click to open gallery view
+Credit: Division of Rare and Manuscript Collections
+
+An image of the perceptron from Rosenblatt's “The Design of an Intelligent Automaton,” Summer 1958.
+
+
+
+In 1959, when Rosenblatt brought the perceptron to the Ithaca campus and became director of Cornell’s Cognitive Systems Research Program and a lecturer in psychology, he was optimistic that breakthroughs lay just ahead.
+“We really thought we were on to something,” said Bill Eisner ’62, who worked for Rosenblatt as a programmer. “We had the idea that we were doing some new kind of computing. … It was a kick to be a part of it.”
+Eisner was part of a team of mostly graduate students working on a different type of perceptron, the Tobermory. Named after the talking cat in an H.H. Munro story, the Tobermory was designed to recognize speech. It was Rosenblatt’s follow-up to his Mark I perceptron, a visual pattern classifier.
+
+
+
+
+
+, Click to open gallery view
+Credit: Wikimedia Commons
+
+Rosenblatt and the perceptron.
+
+
+
+“Frank was the thinker, and we were the worker bees,” said Terrell Koken, recruited by Rosenblatt as a 16-year-old Cornell freshman. Koken, who never graduated, met Rosenblatt over a conversation about Fermat’s Last Theorem in the music lounge – a frequent haunt for “techies, nut cases and nerds,” he said.
+Koken was interested in astronomy, and Rosenblatt became interested, too. Rosenblatt bought a $3,000 telescope so large he had no place to put it. So he bought a sprawling house in nearby Brooktondale, New York, and invited several of his graduate students to live there. By day, the team worked on the Tobermory. By night, they built an observatory in Rosenblatt’s yard.
+“We were all pretty gung-ho about it,” Koken said. “We went out into the pasture and dug foundations. Frank did most of the masonry.”
+Rosenblatt’s interests ranged from astronomy to music, mountaineering and politics. He helped campaign for Sen. Eugene McCarthy (who spoke at Rosenblatt’s memorial service); and after the 1969 student occupation of Willard Straight Hall he was heavily involved in improving the campus climate.
+But the perceptron was his passion.
+“On a scale of 1 to 10, he would have rated its significance 10,” said George Nagy, Ph.D. ‘62, a retired professor of computer engineering at Rensselaer Polytechnic Institute and Rosenblatt’s advisee. “During my career I got to know some very bright persons. Knowing Frank made me appreciate the difference between ‘very bright’ and ‘genius.’”
+Minsky vs. Rosenblatt
+Rosenblatt called him “the loyal opposition.”
+Marvin Minsky, who was a grade behind Rosenblatt at the Bronx High School of Science, was an MIT professor whose research into neural networks left him deeply skeptical of Rosenblatt’s claims.
+At conferences, Rosenblatt and Minsky publicly debated the perceptron’s viability, as their colleagues and students looked on in amazement.
+
+
+
+
+
+, Click to open gallery view
+Credit: Division of Rare and Manuscript Collections
+
+Frank Rosenblatt, left, and Charles W. Wightman work on part of the unit that became the first perceptron in December 1958.
+
+
+
+“I was a graduate student at the time, and it was mind-boggling to me to listen,” said Charles Tappert, M.S. ’62, Ph.D. ’67, a professor of computer science at Pace University who has organized two conferences in honor of his former adviser.
+“Rosenblatt had a vision that he could make computers see and understand language,” Joachims said. “And Marvin Minsky pointed out that that’s not going to happen, because the functions are just too simple.”
+The problem was, Rosenblatt’s perceptron had only one layer, while modern neural networks have millions.
+“What Rosenblatt wanted was to show the machine objects and have it recognize those objects. And 60 years later, that’s what we’re finally able to do,” Joachims said. “So he was heading on the right track, he just needed to do it a million times over. At the time, he didn’t know how to train networks with multiple layers. But in hindsight, his algorithm is still fundamental to how we’re training deep networks today.”
+In 1969, Minsky and Seymour Papert published “Perceptrons,” a book that assailed Rosenblatt’s work and, essentially, sealed its fate. The following year, Minsky won the A.M. Turing Award – computing’s highest honor.
+Rosenblatt didn’t outlive the AI winter. In 1971, he drowned while sailing a sloop called the Shearwater in Chesapeake Bay on his 43rd birthday.
+
+“…He would reach out and grasp the biggest problems that he could see…”
+
+Richard O’Brien, former director of Cornell’s Division of Biological Sciences
+
+
+
+Within human grasp
+But Rosenblatt knew he was playing a long game.
+“He would never, as prudent professors do, pick out some small aspect of the physical universe which could be studied and could reasonably be expected to produce solutions in a year or two,” O’Brien said at his memorial service.
+
+
+
+
+
+, Click to open gallery view
+Credit: IEEE Awards/Provided
+
+A scan of the IEEE Rosenblatt Award medal.
+
+
+
+“Instead, he would reach out and grasp the biggest problems that he could see, and apply himself, throw himself into the study of them, without any recognition of the fact that if he made bad choices, or if he chose, as he usually did, problems which were not likely to yield a solution within 10 or 20 years, that this would redound to his disadvantage. He never worked that way.”
+Rosenblatt’s Mark I perceptron now resides at the Smithsonian Institution, and in 2004, the Institute of Electrical and Electronics Engineers established the IEEE Frank Rosenblatt Award.
+Former students said Rosenblatt never seemed bitter, even after losing hundreds of thousands of dollars a year in government funds. “He was sorry for his colleagues and for his students, but somehow it didn’t impinge on him emotionally, as it would for many people,” O’Brien said.
+“He lifted the veil and enabled us to examine all these possibilities, and see that ideas like this were within human grasp.”
+
+
+
+ 
+
+
+
+
+
+
+
+Computing & Information Sciences
+
+
+
+
+
+Social & Behavioral Sciences
+
+
+
+
+
+
+
+Media Inquiries 
+
+
+
+
+
+
+
+Media Contact
+
+
+  Rebecca Valli
+
+
+rv234@cornell.edu
+
+
+607-255-6035
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Cornell news delivered right to your inbox.
+Subscribe
+
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cornell CIS to celebrate 20 years of impact Oct. 2-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+New initiative to lead industry innovation, social impact through AI
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vdGhld2Vlay5jb20vYXJ0aWNsZXMvODY2MzM5L2xvc2Utam9iLXJvYm900gEA?oc=5,Will you lose your job to a robot? - The Week,2019-09-22,The Week,https://theweek.com,How bad will the coming robot apocalypse really be?,N/A,How bad will the coming robot apocalypse really be?,How bad will the coming robot apocalypse really be?,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+Home
+
+
+Science
+
+
+
+Will you lose your job to a robot?
+How bad will the coming robot apocalypse really be?
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Newsletter sign up
+Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Image credit: AP Photo/Eckehard Schulz)
+
+
+
+
+
+
+By The Week Staff published September 22, 2019 
+inthe explainer
+
+
+Over the next decade, automation and artificial intelligence could throw 54 million Americans out of work. Here's everything you need to know:Why is automation a threat?Rapid technological advances are enabling machines to perform a growing number of tasks traditionally done by humans. Law firms now use artificial intelligence (AI) — ­sophisticated computer programs that can learn from ­experience — to conduct contract analysis, hunt for client conflicts, and even craft litigation strategy. McDon­ald's is replacing drive-thru workers with order-taking AI, and cashiers with self-checkout kiosks. Walmart is automating truck unloading, while Cal­i­for­nia farms are employing robots to harvest lettuce. From 1990 to 2007, robots replaced about 670,000 U.S. jobs, mostly in manufacturing; every robot introduced into a local economy claimed 6.2 jobs. That trend will accelerate over the next decade, as advances in mobile technology, AI, data transfer, and computing speeds allow robots to act with greater independence. Oxford Uni­ver­sity researchers concluded in a major 2013 study that 47 percent of Amer­i­can jobs are at ""high risk"" of automation within two decades. McKin­sey Global In­sti­tute came to a similar conclusion in 2017, warning that by 2030 robots will have forced 16 million to 54 million ­Americans — as many as a third of U.S. ­workers — to retrain for a new job.
+
+
+
+Subscription offer
+The Week Magazine
+Subscribe for less than $2.50 per week with digital access and free home delivery.
+
+
+
+
+What jobs are most at risk?LATEST VIDEOS FROM theweekTheWeekGenerally speaking, those involving repetitive physical tasks in predictable environments. For instance, some restaurants in China have already begun replacing servers with robots. The Palm Beach County Court recently began using four robots — Wally Bishop, Rosie Tobor, Kitt Robbie, and Speedy — to read court filings, fill out docket sheets, and input data into its case management system. In theory, at least 91 percent of a short-order cook's tasks can be automated using existing technology. It's 100 percent for a dredge operator, plasterer, stucco mason, motion picture projectionist, and logging equipment operator. Conversely, jobs that involve managing people, creative thinking, and social interaction will see less automation. But even the jobs you'd think are safe aren't. The Guardian Australia newspaper published its first article this year written entirely by a computer. The Indian e-­commerce site Myntra recently created one of its best-selling T-shirts by delegating the design to two algorithms that analyzed previous designs and invented new ones. Sales of AI-designed shirts are ""growing at 100 percent,"" said Ananth Narayanan, Myntra's CEO. ""It's working.""How will this affect the workforce?History has shown that previous apocalyptic warnings about technology wiping out the need for human labor have proved untrue — although there is often a difficult transition period to new jobs requiring new skills. In the 19th century, farmers rendered obsolete by mechanized agriculture found their way to new, better-paying jobs in factories. When industrial automation in the 20th century threatened factory workers, many of the displaced transitioned to service work (often with lower salaries, however). ""If history is any guide,"" McKinsey said in its study, ""we could also expect that 8 to 9 percent of 2030 labor demand will be in new types of occupations that have not existed before.""So will the impact be modest?Not necessarily. The futurist Martin Ford acknowledges the ""long record of false alarms,"" but argues that this time is different. The pace of automation, he says, is no longer linear, but exponential, like the growth in computing capacity predicted by Moore's Law. The economy, Ford says, will not have time to create new professions to absorb the tens of millions of workers displaced by automation. By some estimates, Amer­i­ca is less than a decade away from autonomous ­vehicles — and yet 3.5 million Amer­i­cans still work as truck drivers. White-collar jobs are also at risk for the first time, Ford says. On Wall Street, the number of financial workers has already plunged by 50,000 since 2000, as computers can process 100,000 transactions in a tenth of a second. Radiologists may lose their job analyzing medical images. Displaced workers might find new jobs, but at much lower salaries.How will this affect society?Predictions vary, but there is a lot of grim prognostication about a ""robot apocalypse."" The Demo­cratic presidential candidate Andrew Yang warns of an automation ""buzz saw"" that will eliminate millions of jobs and lead to political polarization, ""suicides, drug overdoses, anxiety, depression,"" as well as ""derelict buildings,"" ""jobless zones,"" and ""a hyper­strat­i­fied society like something out of The Hunger Games."" He, like tech titans Elon Musk and Mark Zuck­er­berg, believes it will be necessary for government to provide a universal basic income to each citizen. Meanwhile, there is some comfort to be had in the claim made late last year by a Forrester Research team that while 10 percent of American workers would lose their jobs to automation in 2019, artificial intelligence was ""still at least 100 years away from sending all of humanity on a permanent vacation.""The last 'robot apocalypse'Fear that automation would replace human workers has come in several waves in U.S. history. The most recent came during the 1950s, when World War II technologies were integrated into private industry and the computer chip was invented. Gen­eral Elec­tric ran an ad reminding people that robots replace ­""drudgery — not people,"" while IBM found office managers often too frightened to buy its computers out of fear the clever machines would eventually replace them too. ""Computers,"" IBM assured them, ""can only do what they are programmed to do."" The Nation called automation ""a ghost which frightens every worker in every plant,"" and the nonprofit Science Ser­vice complained, ""With the advent of the thinking machine, people are beginning to understand how horses felt when Ford invented the Model T."" In the end, Uni­ver­sity of Chi­ca­go economist Yale Brozen found that technology destroyed some 13 million jobs during the 1950s, but also created more than 20 million, as vast productivity growth led to the demand for more workers in aggregate — office personnel, engineers, maintenance staff — to keep pace with rising demand. ""The catastrophe that doom criers constantly threaten us with,"" Brozen wrote, ""has retreated into such a dim future that we simply cannot take their pronouncements seriously.""
+
+Explore More
+
+Analysis
+
+
+
+ 
+
+
+
+
+Sign up for Today's Best Articles in your inboxA free daily email with the biggest news stories of the day – and the best features from TheWeek.comContact me with news and offers from other Future brandsReceive email from us on behalf of our trusted partners or sponsorsBy submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+The Week StaffSocial Links Navigation
+
+
+
+
+
+
+Latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Today's political cartoons - July 13, 2024
+
+
+Cartoons
+Saturday's cartoons - climate solutions, big jobs, and more
+
+
+By The Week US
+
+Published 3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 alarmingly funny cartoons about Project 2025
+
+
+Cartoons
+Artists take on 1925 parallels, lawn care, and more
+
+
+By The Week US
+
+Published 3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Trump immunity ruling: a licence to break the law?
+
+
+Talking Point
+'End of democracy' fears may be overblown, but the Supreme Court verdict is already having a noxious impact
+
+
+By The Week UK
+
+Published 3 days ago
+
+
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are zoos ethical?
+
+
+The Explainer
+Examining the pros and cons of supporting these controversial institutions
+
+
+By Justin Klawans
+
+Published February 4, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will COVID-19 wind up saving lives?
+
+
+The Explainer
+By spurring vaccine development, the pandemic is one crisis that hasn’t gone to waste
+
+
+By Noah Millman
+
+Last updated March 2, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coronavirus vaccine guide: Everything you need to know so far
+
+
+The Explainer
+Effectiveness, doses, variants, and methods — explained
+
+
+By Jeva Lange
+
+Last updated January 30, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The climate refugees are here. They're Americans.
+
+
+The Explainer
+Wildfires are forcing people from their homes in droves. Where will they go now?
+
+
+By Joel Mathis
+
+Published September 14, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coronavirus' looming psychological crisis
+
+
+The Explainer
+On the coming epidemic of despair
+
+
+By David Faris
+
+Published March 19, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The growing crisis in cosmology
+
+
+The Explainer
+Unexplained discrepancies are appearing in measurements of how rapidly the universe is expanding
+
+
+By Matthew Francis
+
+Last updated February 20, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What if the car of the future isn't a car at all?
+
+
+The Explainer
+The many problems with GM's Cruise autonomous vehicle announcement
+
+
+By Navneet Alang
+
+Published January 24, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The threat of killer asteroids
+
+
+The Explainer
+Everything you need to know about asteroids hitting Earth and wiping out humanity
+
+
+By The Week Staff
+
+Published November 24, 2019
+
+
+
+
+
+
+
+
+View More ▸
+
+
+
+
+",https://schema.org,BreadcrumbList,https://theweek.com/articles/866339/lose-job-robot,"{'@type': 'Organization', 'name': 'The Week', 'url': 'https://theweek.com', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://cdn.mos.cms.futurecdn.net/flexiimages/r9cavztg4b1687441752.svg', 'caption': 'The Week logo'}}",,2019-09-22T10:30:02+00:00,,2019-09-22T10:30:02+00:00,,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://cdn.mos.cms.futurecdn.net/htX4kVxiCnoJJpbBgwjVBL.jpg', 'caption': 'A robot and a man.', 'height': '689', 'width': '1225'}","{'@type': 'Person', 'name': 'The Week Staff', 'url': 'https://theweek.com/author/the-week-staff', 'email': 'theweekonlineeditors@futurenet.com'}","[{'@type': 'SiteNavigationElement', 'name': 'home', 'url': '/', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'The Explainer', 'url': '/the-explainer', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'Talking Points', 'url': '/tag/talking-point', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'The Week Recommends', 'url': '/the-week-recommends', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'Newsletters', 'url': '/newsletters', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'Cartoons', 'url': '/cartoons', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'From the Magazine', 'url': 'https://usmagazine.theweek.com/t/storefront/storefront', '@id': '#navigation'}, {'@type': 'SiteNavigationElement', 'name': 'The Week Junior', 'url': 'https://theweekjunior.com/?utm_source=theweek.com&utm_medium=referral&utm_campaign=theweekus_menu_link', '@id': '#navigation'}]","{'@context': 'https://schema.org', '@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', '/html/head/meta[@name=""description""]/@content']}",Will you lose your job to a robot?,Science,https://cdn.mos.cms.futurecdn.net/htX4kVxiCnoJJpbBgwjVBL-320-80.jpg,,,How bad will the coming robot apocalypse really be?,Will you lose your job to a robot?,,False,"{'@type': 'WebPageElement', 'cssSelector': '.paywall'}","[{'@context': 'https://schema.org', '@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://theweek.com', 'name': 'Home'}}, {'@context': 'https://schema.org', '@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://theweek.com/science', 'name': 'Science'}}]","{'@type': 'Person', 'name': 'The Week Staff', 'url': 'https://theweek.com/author/the-week-staff', 'email': 'theweekonlineeditors@futurenet.com'}"
+https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vc3RvcnkvbWFyaWEtYmFydGlyb21vLXRhbGtzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXRoZS1kb3QtY29tLWNyYXNoLWFuZC13aHktc2hlbGwtbmV2ZXItcmV0aXJlLTIwMTktMDktMjDSAYsBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9zdG9yeS9tYXJpYS1iYXJ0aXJvbW8tdGFsa3MtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdGhlLWRvdC1jb20tY3Jhc2gtYW5kLXdoeS1zaGVsbC1uZXZlci1yZXRpcmUtMjAxOS0wOS0yMA?oc=5,"Maria Bartiromo talks artificial intelligence, the dot-com crash and why she’ll never retire - MarketWatch",2019-09-22,MarketWatch,https://www.marketwatch.com,"The Fox Business anchor says A.I. can be lifesaving, but also ‘job killing’","article_normal,Machinery/Industrial Goods,Health Care,Internet/Online Services,Investing/Securities,Banking/Credit,Living/Lifestyle,Labor/Personnel Issues,Health,Information Technology,Retirement Planning,Regulation/Government Policy,Personal Finance,living,lifestyle,labor,personnel issues,health,information technology,retirement planning,regulation,government policy,personal finance,machinery,industrial goods,health care,internet,online services,investing,securities,banking,credit","The Fox Business anchor says A.I. can be lifesaving, but also ‘job killing’","The Fox Business anchor says A.I. can be lifesaving, but also ‘job killing’",N/A,N/A,N/A,http://schema.org,BreadcrumbList,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': 'https://marketwatch.com', 'name': 'Home'}, {'@type': 'ListItem', 'position': 2, 'item': 'https://marketwatch.com/retirement', 'name': 'Retirement'}]",
+https://news.google.com/rss/articles/CBMinQFodHRwczovL25ld3MubWljcm9zb2Z0LmNvbS9hcGFjLzIwMTkvMDkvMjMvaGlnaGVyLWVkdWNhdGlvbi1pbnN0aXR1dGlvbnMtaW4tYXNpYS1wYWNpZmljLXN0YW5kLXRvLWRvdWJsZS10aGUtcmF0ZS1vZi1pbm5vdmF0aW9uLXdpdGgtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,Higher Education Institutions in Asia Pacific Stand to Double the Rate of Innovation with Artificial Intelligence - Microsoft ... - Microsoft,2019-09-23,Microsoft,https://news.microsoft.com,N/A,N/A,"Microsoft Asia and IDC Asia/Pacific today unveiled the latest findings for the study, “Future-Ready Skills: Assessing APAC Education Sector’s Use of AI” to Education leaders at the Asian Summit on Education and Skills (ASES) Institutions today that have implemented AI in their processes expect to see close to 4 times increased funding by 2021 However, […]",N/A,N/A,N/A,"
+
+
+		BEXIMCO Communications revolutionizes operations with Microsoft Dynamics 365 Business Central deployment	
+
+",https://schema.org,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/', 'url': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/', 'name': 'Higher Education Institutions in Asia Pacific Stand to Double the Rate of Innovation with Artificial Intelligence - Microsoft Stories Asia', 'isPartOf': {'@id': 'https://news.microsoft.com/apac/#website'}, 'primaryImageOfPage': {'@id': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/43/2019/09/ASES-Tweet_Image-2.jpg', 'datePublished': '2019-09-23T05:00:06+00:00', 'dateModified': '2019-09-23T05:16:09+00:00', 'author': {'@id': 'https://news.microsoft.com/apac/#/schema/person/9ef28d547c68029eb2d3f8c900214f33'}, 'breadcrumb': {'@id': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/#primaryimage', 'url': 'https://news.microsoft.com/wp-content/uploads/prod/sites/43/2019/09/ASES-Tweet_Image-2.jpg', 'contentUrl': 'https://news.microsoft.com/wp-content/uploads/prod/sites/43/2019/09/ASES-Tweet_Image-2.jpg', 'width': 4000, 'height': 2250}, {'@type': 'BreadcrumbList', '@id': 'https://news.microsoft.com/apac/2019/09/23/higher-education-institutions-in-asia-pacific-stand-to-double-the-rate-of-innovation-with-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://news.microsoft.com/apac/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Recent News', 'item': 'https://news.microsoft.com/apac/recent-news/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Higher Education Institutions in Asia Pacific Stand to Double the Rate of Innovation with Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://news.microsoft.com/apac/#website', 'url': 'https://news.microsoft.com/apac/', 'name': 'Asia News Center', 'description': 'Microsoft Stories Asia', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://news.microsoft.com/apac/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://news.microsoft.com/apac/#/schema/person/9ef28d547c68029eb2d3f8c900214f33', 'name': 'Microsoft Stories Asia', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.microsoft.com/apac/#/schema/person/image/af2652ae8a2c0a3bc28f5d68ca1d0d67', 'url': 'https://secure.gravatar.com/avatar/7a7a5b5a908c0de2244875b498b9cade?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/7a7a5b5a908c0de2244875b498b9cade?s=96&d=mm&r=g', 'caption': 'Microsoft Stories Asia'}, 'url': 'https://news.microsoft.com/apac/author/gespencemicrosoft-com/'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNtaXRoc29uaWFubWFnLmNvbS9zbWFydC1uZXdzL2FydC1wcm9qZWN0LWV4cG9zZWQtcmFjaWFsLWJpYXNlcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1zeXN0ZW0tMTgwOTczMjA3L9IBAA?oc=5,Art Project Shows Racial Biases in Artificial Intelligence System - Smithsonian Magazine,2019-09-24,Smithsonian Magazine,https://www.smithsonianmag.com,"ImageNet Roulette reveals how little-explored classification methods are yielding &#x27;racist, misogynistic and cruel results&#x27; ","['Smart News', 'Art Meets Science', 'Artificial Intelligence', 'Contemporary Art', 'Race and Ethnicity', 'Smart News Science', 'Smart News Ideas & Innovations', 'Smart News Arts & Culture']","ImageNet Roulette reveals how little-explored classification methods are yielding 'racist, misogynistic and cruel results' ","ImageNet Roulette reveals how little-explored classification methods are yielding 'racist, misogynistic and cruel results' ","Smart News, Smart News Science, , Smart News Ideas & Innovations, , Smart News Arts & Culture",N/A,"
+
+
+
+SMART NEWS
+
+
+
+Art Meets Science
+
+Art Project Shows Racial Biases in Artificial Intelligence System
+ImageNet Roulette reveals how little-explored classification methods are yielding ‘racist, misogynistic and cruel results’ 
+
+
+
+
+
+
+
+Meilan Solly
+
+Associate Editor, History
+September 24, 2019
+
+
+
+
+
+
+
+
+
+
+              
+                The tool is set to go offline this Friday, but it will remain accessible as a physical art installation at Milan’s Fondazione Prada Osservertario
+              Marco Cappelletti
+
+
+
+Some of the labels proposed by ImageNet Roulette—an artificial intelligence classification tool created by artist Trevor Paglen and A.I. researcher Kate Crawford—are logical. A photograph of John F. Kennedy, for example, yields a suggestion of “politician,” while a snapshot of broadcast journalist Diane Sawyer is identified as “newsreader.” But not all tags are equal. After Tabong Kima, 24, uploaded a photograph of himself and a friend to the portal, he noted that ImageNet Roulette labeled him as “wrongdoer, offender.” 
+“I might have a bad sense of humor,” Kima, who is African-American, wrote on Twitter, “but I don’t think this [is] particularly funny.”
+Powered By                         00:00/02:4910 Sec      The Most Toxic Frog Has a Beautiful Singing Voice         NextStay    
+
+
+Such “racist, misogynistic and cruel results” were exactly what Paglen and Crawford wanted to reveal with their tool.
+“We want to show how layers of bias and racism and misogyny move from one system to the next,” Paglen tells the New York Times’ Cade Metz. “The point is to let people see the work that is being done behind the scenes, to see how we are being processed and categorized all the time.”
+
+
+The duo’s project spotlighting artificial intelligence’s little-explored classification methods draws on more than 14 million photographs included in ImageNet, a database widely used to train artificial intelligence systems. Launched by researchers at Stanford University in 2009, the data set teaches A.I. to analyze and classify objects, from dogs to flowers and cars, as well as people. According to artnet News’ Naomi Rea, the labels used to teach A.I. were, in turn, supplied by lab staff and crowdsourced workers; by categorizing presented images in terms of race, gender, age and character, these individuals introduced “their own conscious and unconscious opinions and biases” into the algorithm.
+Certain subsets outlined by ImageNet are relatively innocuous: for example, scuba diver, welder, Boy Scout, flower girl and hairdresser. Others—think bad person, adulteress, convict, pervert, spinster, jezebel and loser—are more charged. Many feature explicitly racist or misogynistic terms.
+As Alex Johnson reports for NBC News, social media users noticed a recurring theme among ImageNet Roulette’s classifications: While the program identified white individuals largely in terms of occupation or other functional descriptors, it often classified those with darker skin solely by race. A man who uploaded multiple snapshots of himself in varying attire and settings was consistently labeled “black.” Another Twitter user who inputted a photograph of Democratic presidential candidates Andrew Yang and Joe Biden found that the former was erroneously identified as “Buddhist,” while the latter was simply deemed “grinner.”
+“ImageNet is an object lesson, if you will, in what happens when people are categorized like objects,” Paglen and Crawford write in an essay accompanying the project.
+
+
+
+    
+      Kate Crawford (left) and Trevor Paglen (right), as classified by ImageNet Roulette
+    
+    
+      Courtesy of the artist
+
+
+Shortly after ImageNet Roulette went viral, the team behind the original database announced plans to remove 600,000 images featured in its “people” category. Per a statement, these pictures, representing more than half of all “people” photographs in the dataset, include those classified as “unsafe” (offensive regardless of context) or “sensitive” (potentially offensive depending on context).
+Following ImageNet’s reversal, Paglen and Crawford said they welcomed the database’s “recognition of the problem” despite disagreeing on how to approach the issue moving forward.
+“ImageNet Roulette has made its point,” they wrote, “... and so as of Friday, September 27th, 2019, we’re taking it off the internet.”
+The tool will remain accessible as a physical art installation at Milan’s Fondazione Prada Osservertario through February 2020.
+
+
+
+
+Get the latest stories in your inbox every weekday.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meilan Solly
+|
+
+| READ MORE
+
+Meilan Solly is Smithsonian magazine's associate digital editor, history.
+
+
+
+
+
+Filed Under:
+                
+                  
+                    Art Meets Science, 
+                  
+                
+                  
+                    Artificial Intelligence, 
+                  
+                
+                  
+                    Contemporary Art, 
+                  
+                
+                  
+                    Race and Ethnicity
+
+
+
+
+
+
+
+Report this ad
+
+Most Popular
+
+
+
+
+
+Meet Vivian Maier, the Reclusive Nanny Who Secretly Became One of the Best Street Photographers of the 20th Century
+
+
+
+
+
+Melting Ice Reveals Body of American Mountaineer Missing for 22 Years in the Peruvian Andes
+
+
+
+
+
+Nine Things You Didn't Know About the Ancient Olympic Games
+
+
+
+
+
+How the Rise of the Camera Launched a Fight to Protect Gilded Age Americans' Privacy
+
+
+
+
+
+Ancient DNA Unravels the Mysteries of the Dingo, Australia's Wild Dog
+
+
+
+
+
+
+
+",https://schema.org,NewsArticle,https://www.smithsonianmag.com/smart-news/art-project-exposed-racial-biases-artificial-intelligence-system-180973207/,"{'@type': 'Organization', 'name': 'Smithsonian Magazine', 'logo': {'@type': 'ImageObject', 'url': 'https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/c9/4ec98b8b-b9d1-4086-858b-84984e84d164/576x164_smithsonianmagazine_logo.png', 'width': 576, 'height': 164}}",https://www.smithsonianmag.com/smart-news/art-project-exposed-racial-biases-artificial-intelligence-system-180973207/,2019-09-24T11:58:12-04:00,,2019-09-24T14:07:19-04:00,,"['https://th-thumbnailer.cdn-si-edu.com/sNceFu7EvjXDEYzZh4uwrf523i0=/800x800/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/22/4b/224b6383-e42b-4f8c-99f9-acd3118cad6d/7-training-humans-24.jpg', 'https://th-thumbnailer.cdn-si-edu.com/A-LBJETGn0YT2ON_QGcnZjR1d6w=/800x600/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/22/4b/224b6383-e42b-4f8c-99f9-acd3118cad6d/7-training-humans-24.jpg', 'https://th-thumbnailer.cdn-si-edu.com/vjGzOCRDHxy04G-pmi5mLVns2eM=/800x450/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/22/4b/224b6383-e42b-4f8c-99f9-acd3118cad6d/7-training-humans-24.jpg']","[{'@type': 'Person', 'name': 'Meilan Solly', 'url': 'https://www.smithsonianmag.com/author/meilan-solly/', 'image': 'https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/mellon.png'}]",,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}",Art Project Shows Racial Biases in Artificial Intelligence System,Smart News,https://th-thumbnailer.cdn-si-edu.com/Ry2AE7GzHDCSdykUU71Iet2pUv8=/1072x720/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/22/4b/224b6383-e42b-4f8c-99f9-acd3118cad6d/7-training-humans-24.jpg,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmV3cy5vc3UuZWR1L25ldy1vaGlvLXN0YXRlLWxhYi10YXBzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXRvLWltcHJvdmUtZW5naW5lZXJpbmcv0gEA?oc=5,New Ohio State lab taps artificial intelligence to improve manufacturing - The Ohio State University News,2019-09-24,The Ohio State University News,https://news.osu.edu,"A new lab at The Ohio State University will tap into the power of artificial intelligence to transform the future of manufacturing. Ohio State&rsquo;s Center for Design and Manufacturing Excellence (CDME) opened the new Artificially Intelligent Manufacturing Systems Lab (AIMS) with the help of Lt. Gov. Jon Husted today. At the heart of the 1,500...","Research science,News,medical,Science,Campus,students,The Ohio State University","A new lab at The Ohio State University will tap into the power of artificial intelligence to transform the future of manufacturing.
+
+Ohio State’s Center for Design and Manufacturing Excellence (CDME) opened the new Artificially Intelligent Manufacturing Systems Lab (AIMS) with the help of Lt. Gov. Jon Husted today.
+
+At the heart of the 1,500...","A new lab at The Ohio State University will tap into the power of artificial intelligence to transform the future of manufacturing.
+
+Ohio State’s Center for Design and Manufacturing Excellence (CDME) opened the new Artificially Intelligent Manufacturing Systems Lab (AIMS) with the help of Lt. Gov. Jon Husted today.
+
+At the heart of the 1,500...",N/A,N/A," 
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep24,
+2019
+
+ | 
+17:08 PM
+America/New_York
+
+New Ohio State lab taps artificial intelligence to improve manufacturing
+
+
+
+
+
+
+
+
+
+Lt Gov Jon Husted helps dedicate the Artificially Intelligent Manufacturing Systems Lab
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Follow me on X (opens in new window)
+
+
+
+Add me on LinkedIn (opens in new window)
+
+
+
+Chris BookerOhio State News booker.9@osu.edu 614.292.7276
+
+
+
+
+
+
+
+
+
+A new lab at The Ohio State University will tap into the power of artificial intelligence to transform the future of manufacturing.
+Ohio State’s Center for Design and Manufacturing Excellence (CDME) opened the new Artificially Intelligent Manufacturing Systems Lab (AIMS) with the help of Lt. Gov. Jon Husted today.
+At the heart of the 1,500-square-foot lab space on the university’s west campus are three Yaskawa robot arms that stretch from floor to ceiling. Husted used the programmed robots to cut a ceremonial red ribbon to open the new lab.
+The AIMS lab was developed with input from industry, national defense and energy laboratories and university experts. It’s a first-of-its-kind test site for industry and academia to study and develop manufacturing systems that work with, and are controlled by, different types of artificial intelligence.
+“The AIMS lab aims, pun intended, to be the bridge to these two communities and provide each of them an environment that would be difficult to create on their own,” said Michael Groeber, associate professor in the Department of Integrated Systems Engineering.
+Groeber and Walt Hansen, senior lead engineer for student programs within CDME, jointly manage the lab. The two have developed a testbed to engage engineering, business and social science departments from across Ohio State’s campus.
+“What is happening here with Ohio State and the College of Engineering is exactly what needs to happen here in Ohio – collaborating with industry partners, working to build the talent of the future, innovating and trying to find ways to be competitive and serve their customers,” Husted said.
+Senior Vice President for Research Morley Stone said the lab will help bring industry and research together to make sure Ohio State is educating the next generation of students the right way.
+“As an educational institution, that is just an amazing call we have. How do we begin to change and think about the workforce of the future?” he said. “I think this [lab] has the great benefit of showing that we can adapt and drive that future for the state.”
+The new lab fits into CDME’s core mission of working with industry partners in applied research and supporting undergraduate student development during that research. The center helps industry partners work with university labs and equipment, in turn helping students become familiar with their products.
+Ismael Shalash, a fourth-year aerospace engineering major, said working in the new lab is preparing him well for his career path.
+“The engineering and manufacturing industry is all moving towards robotics, and implementing artificial intelligence with robotics is definitely the next step in the industry,” he said.
+ 
+
+
+ 
+
+
+
+
+
+
+
+Robot
+
+
+Share this
+
+
+
+
+                        Robot ribbon-cutting: A new lab @OhioState opens with AI-powered machines I @OhioStateNews                    
+
+
+
+
+
+
+Share on: Twitter
+
+
+
+
+
+
+Share on: Facebook
+
+
+
+
+
+
+Share on: LinkedIn
+
+
+
+
+
+
+
+
+ 
+
+More Ohio State News
+
+
+
+
+RSS feed - More Ohio State News (opens in new window)
+
+
+View all headlines - More Ohio State News
+
+
+
+
+
+
+
+
+
+
+Jul
+16,
+2024
+
+ | 
+10:55 AM
+America/New_York
+
+
+A new material for small electronics that gives batteries longer life
+
+Scientists have achieved a series of milestones in growing a high-quality thin film conductor, suggesting in a new study that the material is a promising candidate platform for future wearable electronics and other miniature applications. 
+
+Read more
+                                        
+
+
+
+
+
+
+
+Jul
+12,
+2024
+
+ | 
+14:30 PM
+America/New_York
+
+
+Gulbenkian Prize for Humanity awarded to renowned soil scientist Rattan Lal
+
+A globally renowned soil scientist at The Ohio State University, Rattan Lal, has been awarded the 2024 Gulbenkian Prize for Humanity for his significant contributions to global food security, climate resilience and ecosystem protection.
+
+Read more
+                                        
+
+
+
+
+
+
+
+Jul
+12,
+2024
+
+ | 
+10:00 AM
+America/New_York
+
+
+Ohio State Speech and Hearing Science department home to Otoscan
+
+Eric Bielefeld began wearing hearing aids around a year and a half ago. Like many people, he was not excited about them.“I had the same reluctance as any middle-aged person does to make that leap,” he said.
+
+Read more
+                                        
+
+
+
+
+
+
+
+
+Show previous items
+
+
+
+Show next items
+
+
+
+
+
+",https://schema.org,Article,,"{'@type': 'Organization', 'name': 'The Ohio State University', 'logo': {'@type': 'ImageObject', 'url': 'https://content.presspage.com/clients/o_2170.png'}}","{'@type': 'WebPage', '@id': 'https://news.osu.edu/'}",2019-09-24T23:08:00+02:00,,2019-09-24T23:22:17+02:00,,['https://content.presspage.com/uploads/2170/1920_arobotarmattheartificiallyintelligentmanufacturingsystemslab-486119.jpg?10000'],"{'@type': 'Organization', 'name': 'The Ohio State University'}",,,New Ohio State lab taps artificial intelligence to improve manufacturing,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd2Fyb250aGVyb2Nrcy5jb20vMjAxOS8wOS90aGUtZGV2aWwteW91LWtub3ctdHJ1c3QtaW4tbWlsaXRhcnktYXBwbGljYXRpb25zLW9mLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,The Devil You Know: Trust in Military Applications of Artificial Intelligence - War On The Rocks,2019-09-23,War On The Rocks,https://warontherocks.com,Editor’s Note: This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial,N/A,Editor’s Note: This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial,N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://warontherocks.com/#website', 'url': 'https://warontherocks.com/', 'name': 'War on the Rocks', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://warontherocks.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://warontherocks.com/2019/09/the-devil-you-know-trust-in-military-applications-of-artificial-intelligence/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://warontherocks.com/wp-content/uploads/2019/09/MCLEMORE.jpg', 'width': 1330, 'height': 850}, {'@type': 'WebPage', '@id': 'https://warontherocks.com/2019/09/the-devil-you-know-trust-in-military-applications-of-artificial-intelligence/#webpage', 'url': 'https://warontherocks.com/2019/09/the-devil-you-know-trust-in-military-applications-of-artificial-intelligence/', 'name': 'The Devil You Know: Trust in Military Applications of Artificial Intelligence - War on the Rocks', 'isPartOf': {'@id': 'https://warontherocks.com/#website'}, 'primaryImageOfPage': {'@id': 'https://warontherocks.com/2019/09/the-devil-you-know-trust-in-military-applications-of-artificial-intelligence/#primaryimage'}, 'datePublished': '2019-09-23T07:45:06+00:00', 'dateModified': '2024-06-11T20:15:13+00:00', 'author': {'@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8'}, 'description': 'Editor’s Note: This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://warontherocks.com/2019/09/the-devil-you-know-trust-in-military-applications-of-artificial-intelligence/']}]}, {'@type': ['Person'], '@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8', 'name': 'Shane Mason', 'image': {'@type': 'ImageObject', '@id': 'https://warontherocks.com/#personlogo', 'inLanguage': 'en-US', 'url': 'https://secure.gravatar.com/avatar/83a68cf34a391d145ac9f37117795a86?s=96&d=identicon&r=g', 'caption': 'Shane Mason'}}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vb253YXJkc3RhdGUuY29tLzIwMTkvMDkvMjMvcGVubi1zdGF0ZS1zdHVkZW50cy1lYXJuLTI1MDAwLWZvci1hcnRpZmljaWFsLWludGVsbGlnZW5jZS13b3JrL9IBAA?oc=5,Penn State Students Earn $25000 For Artificial Intelligence Work - Onward State,2019-09-23,Onward State,https://onwardstate.com,"The Nittany Al Alliance awarded three student teams a combined total of $25,000 for their innovative products.",N/A,"The Nittany Al Alliance awarded three student teams a combined total of $25,000 for their innovative products.",N/A,N/A,N/A,"NewsPenn State Students Earn $25,000 For Artificial Intelligence Work via Penn State News 
+By  Lauren Wysseier		
+
+
+
+9/23/19 4:09 am
+
+
+
+
+The Nittany AI Alliance awarded three Penn State student teams a combined total of $25,000 on Tuesday, September 10 at the Nittany AI Challenge Celebration event.
+Students Christina Warren and Mathew Mancini developed Revu, a product designed to keep students engaged during reading assignments. Revu works by generating multiple-choice quizzes and other tests to measure comprehension of key concepts in order to keep students focused.
+Warren and Mancini won $15,000 for their product. In the future, they hope to add features that will generate flashcards, save quizzes and notes, and design a mode specifically for instructors.
+Students Amie Croteau, Ian Morrissey, Ethan Adams, Bryan Cruz Ulloa, and Austin Tucker came together to develop Resilient Resumes. They were awarded $5,000 for their work.
+
+
+
+
+Resilient Resumes is a web application where students can organize their personal information and receive real-time, efficient feedback on how to improve their resume. The app works in association with Penn State Career Services and acts as an excellent resource for students on the search for internships or jobs after graduation.
+
+
+
+Schreyer Honors College students Jack Mentch, Neil Ashtekar, Ishan Muzumdar, and Nikhil Nayyar, developed LionPad and won $5,000. The product’s purpose is to make the process of finding a student living situation effortless and uncomplicated.
+Out of seven finalists, these three teams secured funding from members of an award committee to further their work in artificial intelligence. 
+Students interested in participating in the 2020 Nittany AI Challenge are encouraged to attend upcoming workshops throughout the fall and spring semesters. The deadline to submit ideas for the 2020 Nittany AI Challenge is January 31, 2020.
+
+Your ad blocker is on.Please choose an option below.
+Sign up for our e-mail newsletter: Sign Up
+OR
+Support quality journalism:  Purchase a Subscription!
+Already receiving enough emails?
+About the Author
+ 
+
+Lauren Wysseier			
+
+Lauren is a junior writer majoring in advertising from Fort Myers, Florida. She is a Floridian but, at heart, a Pennsylvanian. Her go-to fun fact is that she used to live in Barcelona, Spain. She is passionate about dogs, food, the Oxford comma, and most importantly, all-things Penn State. Don't hesitate to send her your best dog videos on Twitter @laurenwysseier or email laurenwysseier@onwardstate.com with other inquiries.
+
+
+Plaque psoriasis is silent but deadly: 10 Symptoms you should knowWhat does plaque psoriasis look like? Look at the symptoms plaque psoriasis | search ads | SponsoredSponsoredUndoWhat Are the Best-Looking SUVs Of The Year? Take A Look(See The New Models)BestSearches | Search Ads | SponsoredSponsoredLearn MoreUndoEmpty Cruises Departing From Virginia That Seniors Can Book For CheapGoSearches | SponsoredSponsoredUndoChantilly: Small Prefab Houses For Seniors At Lowest Prices EverGoSearches | SponsoredSponsoredUndoRound-Trip Flight Deals For Senior Passengers (Take A Look)Cheap Flights | Search Ads | SponsoredSponsoredUndoNew Hyundai Kona For Seniors May Find This A Tailor Fit - See PriceLook At The Price Of Hyundai Kona2024 Hyundai Kona Prices | SponsoredSponsoredLearn MoreUndo
+
+
+
+  
+
+
+			Washington Set As Penn State 2024 White Out Opponent		
+
+
+The Huskies will make their White Out debut in their first year in the Big Ten.
+
+
+
+
+  
+
+
+			Reports: Penn State Football Avoiding Noon White Out		
+
+
+According to Christian Hackenberg and the Centre Daily Times, a noon kick isn’t in the cards.
+
+
+
+
+  
+
+
+			Penn State Football Announces 2024 Game Themes		
+
+
+Ohio State will serve as the Helmet Stripe and UCLA will experience among the full slot of themes.
+
+
+",https://schema.org,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#article', 'isPartOf': {'@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/'}, 'author': {'name': 'Lauren Wysseier', '@id': 'https://onwardstate.com/#/schema/person/32e64c8ab611f107b03ced4473e97375'}, 'headline': 'Penn State Students Earn $25,000 For Artificial Intelligence Work', 'datePublished': '2019-09-23T08:09:10+00:00', 'dateModified': '2019-09-23T20:49:56+00:00', 'mainEntityOfPage': {'@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/'}, 'wordCount': 267, 'commentCount': 0, 'publisher': {'@id': 'https://onwardstate.com/#organization'}, 'image': {'@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#primaryimage'}, 'thumbnailUrl': 'https://i0.wp.com/images.onwardstate.com/uploads/2019/09/Revu-Check-Presentation.jpg?fit=992%2C571&ssl=1', 'keywords': ['artificial intelligence', 'penn state academics'], 'articleSection': ['News', 'Student Life'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#respond']}]}, {'@type': 'WebPage', '@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/', 'url': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/', 'name': 'Penn State Students Earn $25,000 For Artificial Intelligence Work | Onward State', 'isPartOf': {'@id': 'https://onwardstate.com/#website'}, 'primaryImageOfPage': {'@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#primaryimage'}, 'image': {'@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#primaryimage'}, 'thumbnailUrl': 'https://i0.wp.com/images.onwardstate.com/uploads/2019/09/Revu-Check-Presentation.jpg?fit=992%2C571&ssl=1', 'datePublished': '2019-09-23T08:09:10+00:00', 'dateModified': '2019-09-23T20:49:56+00:00', 'description': 'The Nittany Al Alliance awarded three student teams a combined total of $25,000 for their innovative products.', 'breadcrumb': {'@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#primaryimage', 'url': 'https://i0.wp.com/images.onwardstate.com/uploads/2019/09/Revu-Check-Presentation.jpg?fit=992%2C571&ssl=1', 'contentUrl': 'https://i0.wp.com/images.onwardstate.com/uploads/2019/09/Revu-Check-Presentation.jpg?fit=992%2C571&ssl=1', 'width': 992, 'height': 571}, {'@type': 'BreadcrumbList', '@id': 'https://onwardstate.com/2019/09/23/penn-state-students-earn-25000-for-artificial-intelligence-work/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'News', 'item': 'https://onwardstate.com/category/news/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Penn State Students Earn $25,000 For Artificial Intelligence Work'}]}, {'@type': 'WebSite', '@id': 'https://onwardstate.com/#website', 'url': 'https://onwardstate.com/', 'name': 'Onward State', 'description': 'Onward State is an independent student-run Penn State blog.', 'publisher': {'@id': 'https://onwardstate.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://onwardstate.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://onwardstate.com/#organization', 'name': 'Onward State', 'url': 'https://onwardstate.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://onwardstate.com/#/schema/logo/image/', 'url': 'https://i0.wp.com/images.onwardstate.com/uploads/2018/02/Onward-State-Lion-2.png?fit=1650%2C1650&ssl=1', 'contentUrl': 'https://i0.wp.com/images.onwardstate.com/uploads/2018/02/Onward-State-Lion-2.png?fit=1650%2C1650&ssl=1', 'width': 1650, 'height': 1650, 'caption': 'Onward State'}, 'image': {'@id': 'https://onwardstate.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/OnwardState/', 'https://x.com/onwardstate', 'https://www.instagram.com/onwardstate/']}, {'@type': 'Person', '@id': 'https://onwardstate.com/#/schema/person/32e64c8ab611f107b03ced4473e97375', 'name': 'Lauren Wysseier', 'description': ""Lauren is a junior writer majoring in advertising from Fort Myers, Florida. She is a Floridian but, at heart, a Pennsylvanian. Her go-to fun fact is that she used to live in Barcelona, Spain. She is passionate about dogs, food, the Oxford comma, and most importantly, all-things Penn State. Don't hesitate to send her your best dog videos on Twitter @laurenwysseier or email laurenwysseier@onwardstate.com with other inquiries."", 'url': 'https://onwardstate.com/author/laurenwysseier/'}]",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9qb2luLXVzLWZvci1hLWNvbnZlcnNhdGlvbi1vbi1haS1hbmQtdGhlLWZ1dHVyZS1vZi13b3JrL9IBAA?oc=5,Video recap: Experts discuss AI and the Future of Work - The Seattle Times,2019-09-23,The Seattle Times,https://www.seattletimes.com,"The A.I. Age, a reporting project of The Seattle Times, hosted a live discussion that explored whether AI will make the working world better or worse. This is your chance...",N/A,"The A.I. Age, a reporting project of The Seattle Times, hosted a live discussion that explored whether AI will make the working world better or worse. This is your chance to learn about those existential quandaries that Amazon’s Alexa couldn’t...","The A.I. Age, a reporting project of The Seattle Times, hosted a live discussion that explored whether AI will make the working world better or worse. This is your chance to learn about those existential quandaries that Amazon’s Alexa couldn’t...",N/A,N/A,"
+
+
+BusinessTechnology 
+
+    Video recap: Experts discuss AI and the Future of Work  
+
+ Sep. 23, 2019 at 7:29 pm  Updated Nov. 6, 2019 at 9:55 pm  
+
+
+
+
+
+
+
+Algorithms, the building blocks of artificial intelligence, are detailed, step-by-step instructions for completing a task. 
+
+Skip Ad 
+
+
+ 
+By 
+
+Melissa Hellmann
+
+Seattle Times staff reporter 
+
+
+Hear experts tackle some of the most important questions of our time in an interactive symposium that explores whether artificial intelligence (AI) will make the work of tomorrow better or worse. Attendees from a wide range of industries will brainstorm solutions that could ease the transition into a working world with a greater reliance on AI.Earlier post about the event:Are you worried artificial intelligence (AI) technology is coming for your job? Do you work in tech and wonder why people fear AI?On Nov. 6, The A.I. Age, a reporting project of The Seattle Times, will host a discussion that explores whether AI will make the working world better or worse. This is your chance to share those existential quandaries that Amazon’s Alexa couldn’t answer.We want workers, middle management, AI developers, policy makers and readers to walk away with a greater understanding of the emerging role of AI in the world of work, to address misconceptions and hear from experts with various perspectives on the topic.What resources, if any, are available for retail and transportation workers at risk of losing their jobs? In which sectors has AI adoption improved jobs by minimizing workloads? How can managers deploy AI technology in a way that empowers their workforce? What can policy makers do now to reduce economic inequality that may result from the spread of AI?Join us at the Impact Hub from 6:30-8:15 p.m. on Wednesday, Nov. 6 to explore these questions and more. Register for free today.
+Advertising
+
+Skip AdSkip AdSkip Ad 
+
+Our panel includes:Rumman Chowdhury is the Global Lead for Responsible AI at Accenture Applied Intelligence, where she works with clients to create cutting-edge technical solutions for ethical, explainable and transparent AI. She is a TedX speaker, and has been named by InformationWeek as one of 10 influential AI and machine learning experts to follow on Twitter.Akhtar Badshah is a lecturer at the University of Washington’s Evans School for Public Policy & Governance, and founded an executive leadership program for social impact professionals. Dr. Badshah focuses on the impact of technological advancements on society, and how such improvements can benefit low-income communities and provide them with skills to participate in the new economy.Andrea Dehlendorf is Co-Executive Director of United for Respect, a national organization that seeks to amplify the voices of people working in low wage jobs, and to advocate for solutions to their needs. As a member of the Partnership on AI– a technology industry consortium that creates best practices on AI technologies– Dehlendorf will represent the voices of retail workers across the country in studying the development and deployment of AI in the workplace and our communities.Ryan Calo is the Lane Powell and D. Wayne Gittinger Associate Professor at the University of Washington School of Law, where he focuses on the intersection of law and emerging technology. Business Insider named him one of the most influential people in robotics.Moderated by:Melissa Hellmann is an award-winning reporter who covers the social and economic impacts of artificial intelligence for The Seattle Times. Hellmann examines regulation, privacy concerns and the changing landscape of labor thanks to a grant from the Harvard-MIT Ethics and Governance of AI Initiative.Date: Wednesday, Nov. 6Time: 6:30-8:15 p.m. (doors open at 6 p.m.)Location: The Impact HubAddress: 220 2nd Ave. S., Seattle, WA 98104 
+
+
+
+         Melissa Hellmann      
+
+ 
+
+
+Most Read Business Stories
+
+
+European Union adds porn site XNXX to list of online platforms facing strictest digital scrutiny  
+ 
+Kroger-Albertsons deal would remake Seattle-area grocery map  
+ 
+Amazon sold a used diaper. It tanked a mom-and-pop business  
+ 
+Turnaround for ‘really strange’ housing market is a year off | Analysis  
+ 
+Boeing 777X finally gets FAA green light for certification flights   WATCH
+
+
+
+
+
+
+ View Comments
+
+Posting comments is now limited to subscribers only. View subscription offers here. For more information, visit our FAQ's.
+
+The opinions expressed in reader comments are those of the author only and do not reflect the opinions of The Seattle Times.
+
+",https://schema.org,BreadcrumbList,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.seattletimes.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Technology', 'item': 'https://www.seattletimes.com/business/technology/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Video recap: Experts discuss AI and the Future of Work'}]",

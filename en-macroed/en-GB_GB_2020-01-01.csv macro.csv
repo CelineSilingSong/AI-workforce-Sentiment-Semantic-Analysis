@@ -1,0 +1,594 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,image,mainEntityOfPage,url,inLanguage,author,dateModified,datePublished,headline,alternativeHeadline,publisher,hasPart,copyrightHolder,sourceOrganization,copyrightYear,isAccessibleForFree,isPartOf,name,logo,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,articleSection,itemListElement,@graph,potentialAction,dateline,thumbnailUrl,numberOfItems
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmltcGVyaWFsLmFjLnVrL25ld3MvMTk0NTA2L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWNvdWxkLWhlbHAtc3BvdC1icmVhc3Qv0gEA?oc=5,Artificial intelligence could help to spot breast cancer | Imperial News - Imperial College London,2020-01-01,Imperial College London,https://www.imperial.ac.uk,AI ASSISTANCE - A computer algorithm has been shown to be as effective as human radiologists in spotting breast cancer from x-ray images.,N/A,A computer algorithm has been shown to be as effective as human radiologists in spotting breast cancer from x-ray images.,AI ASSISTANCE - A computer algorithm has been shown to be as effective as human radiologists in spotting breast cancer from x-ray images.,health,N/A,"
+
+
+
+
+
+
+
+
+
+
+view large
+
+A computer algorithm has been shown to be as effective as human radiologists in spotting breast cancer from x-ray images.
+The international team behind the study, which includes researchers from Google Health, DeepMind, Imperial College London, the NHS and Northwestern University in the US, designed and trained an artificial intelligence (AI) model on mammography images from almost 29,000 women.
+The findings, published in Nature, show the AI was able to correctly identify cancers from the images with a similar degree of accuracy to expert radiologists, and holds the potential to assist clinical staff in practice.
+When tested on a large UK dataset as part of the Cancer Research UK-funded OPTIMAM project* and a smaller US dataset from Northwestern University**, the AI also reduced the proportion of screening errors – where cancer was either incorrectly identified or where it may have been missed.
+Screening programmes remain one of the best tools at our disposal for catching cancer early and improving outcomes for patients, but many challenges remain – not least the current volume of images radiologists must review. Lord Ara Darzi Imperial College London
+According to the researchers, the work demonstrates how the AI could potentially be applied in clinical settings around the world.
+The team highlights that such AI tools could support clinical decision-making in the future as well as alleviate the pressure on healthcare systems internationally by supporting the workload of clinical reviewers.
+Dominic King, UK Lead at Google Health, said: “Our team is really proud of these research findings, which suggest that we are on our way to developing a tool that can help clinicians spot breast cancer with greater accuracy. Further testing, clinical validation and regulatory approvals are required before this could start making a difference for patients, but we’re committed to working with our partners towards this goal.”
+Professor the Lord Ara Darzi of Denham, one of the authors of the paper and director of the Cancer Research UK Imperial Centre and the Institute of Global Health Innovation at Imperial College London, said: “Screening programmes remain one of the best tools at our disposal for catching cancer early and improving outcomes for patients, but many challenges remain – not least the current volume of images radiologists must review.
+“While these findings are not directly from the clinic, they are very encouraging, and they offer clear insights into how this valuable technology could be used in real life.
+“There will of course a number of challenges to address before AI could be implemented in mammography screening programmes around the world, but the potential for improving healthcare and helping patients is enormous.”
+REDUCING FALSE FINDINGS
+In the UK, it’s estimated that one in eight women will be diagnosed with breast cancer in their lifetime, with the risk increasing with age. Early detection and treatment provide the best outcome for women, but accurately detecting and diagnosing breast cancer remains a significant challenge.
+Women aged between 50 and 71 are invited to receive a mammogram on the NHS every three years, where an x-ray of the breast tissue is used to look for abnormal growths or changes which may be cancerous. While screening is highly effective and the majority of cancers are picked up during the process, even with significant clinical expertise human interpretation of the x-rays is open to errors.***
+
+The findings showed the AI was able to correctly identify cancers from images with a similar degree of accuracy to expert radiologists, and has the potential to support decision making and workload of clinical staff. (Images: The CRUK-funded OPTIMAM database)
+
+In the latest study, researchers at Google Health trained an AI model on depersonalised patient data – using mammograms from women in the UK and US where any information that could be used to identify them was removed.
+The AI model reviewed tens of thousands of images, which had been previously interpreted by expert radiologists. But while the human experts had access to the patient’s history when interpreting scans, the AI had only the most recent mammogram to go on.
+During the evaluation, the researchers found their AI model could predict breast cancer from scans with a similar level of accuracy overall to expert radiographers (or were shown to be ‘non-inferior’). Compared to human interpretation, the AI showed an absolute reduction in the proportion of cases where cancer was incorrectly identified (5.7%/1.2% in the UK and US data respectively), as well as cases where cancer was missed (9.4%/2.7% in UK/US data).
+INCREASING EFFICIENCY
+Beyond the AI model’s potential to support and improve clinical decision-making, the researchers also looked to see if their model could improve reader efficiency. While the AI did not surpass the double-reader benchmark, statistically it performed no worse than the second reader.
+In a small secondary analysis, they simulated the AI’s role in the double-reading process – used by the NHS. In this process, scans are interpreted by two separate radiologists, each of whom would review the scan and recommend a follow up or no action. Any positive finding is referred for biopsy and in cases where the two readers disagree, the case goes to a third clinical reviewer for decision.
+The simulation compared the AI’s decision with that of the first reader. Scans were only sent to a second reviewer if there was a disagreement between the first reader and the AI. The findings showed that using the AI in this way could reduce the workload of the second reviewer by as much as 88%, which could ultimately help to triage patients in a shorter timeframe.
+According to the team, the findings are exciting and show how AI could assist healthcare screening services around the world. One such practical application could include providing automatic real-time feedback on mammography images, awarding a statistical score which could be used to triage suspected cases more quickly.
+However, the researchers add that further testing in larger populations is required.
+Michelle Mitchell, Cancer Research UK’s chief executive, said: “These results highlight the significant role that AI could play in the future of cancer care. Embracing technology like this may help improve the way we diagnose cancer in the years to come.
+“Screening helps diagnose breast cancer at an early stage, when treatment is more likely to be successful, ensuring more people survive the disease. But it also has harms such as diagnosing cancers that would never have gone on to cause any problems and missing some cancers.
+""This is still early stage research, but it shows how AI could improve breast cancer screening and ease pressure off the NHS. And while further clinical studies are needed to see how and if this technology could work in practice, the initial results are promising.”
+This research received support from the NIHR Imperial Biomedical Research Centre.
+-
+‘International evaluation of an artificial intelligence system to identify breast cancer in screening mammography’ by Scott Mayer McKinney et al. is published in Nature. 
+*The UK dataset included mammograms from 25,856 women screened on the NHS at three NHS hospital trusts as part of the Cancer Research UK-funded OPTIMAM project. Data were depersonalised, which included medical history and notes but removing any information which could be used to identify an individual. 
+**The US dataset captured mammograms from 3097 women at the Northwestern Medicine. 
+***According to a 2011 review of the national breast cancer screening programme in the UK, the service resulted in thousands of cases of overdiagnosis and false positives every year. A false positive result is where the initial scan incorrectly identifies cancer but the patient is later cleared. Overdiagnosis resulted in unnecessary treatment for cancer – including biopsy and breast tissue removal. The report suggested there may be as many as 7,000 unnecessary breast cancer diagnoses in the UK each year.SOURCE: https://www.nhs.uk/news/2010/01January/Pages/breast-cancer-screening-reviewed.aspx
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMTEvMTkvdGVjaG5vbG9neS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1iaWFzLmh0bWzSAQA?oc=5,Dealing With Bias in Artificial Intelligence - The New York Times,2020-01-02,The New York Times,https://www.nytimes.com,Three women with extensive experience in A.I. spoke on the topic and how to confront it.,N/A,Three women with extensive experience in A.I. spoke on the topic and how to confront it.,Three women with extensive experience in A.I. spoke on the topic and how to confront it.,Technology,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTDealing With Bias in Artificial IntelligenceThree women with extensive experience in A.I. spoke on the topic and how to confront it.Share full articleRead in appCredit...Harriet Lee-MerrionBy Craig S. SmithPublished Nov. 19, 2019Updated Jan. 2, 2020This article is part of our Women and Leadership special section, which focuses on approaches taken by women, minorities or other disadvantaged groups challenging traditional ways of thinking.Bias is an unavoidable feature of life, the result of the necessarily limited view of the world that any single person or group can achieve. But social bias can be reflected and amplified by artificial intelligence in dangerous ways, whether it be in deciding who gets a bank loan or who gets surveilled.The New York Times spoke with three prominent women in A.I. to hear how they approach bias in this powerful technology. Daphne Koller is a co-founder of the online education company Coursera, and the founder and chief executive of Insitro, a company using machine learning to develop new drugs. Dr. Koller, an adjunct professor in the computer science department at Stanford University, spoke to bias through the lens of machine-learning models. Subscribe to The Times to read as many articles as you like.A version of this article appears in print on Jan. 3, 2020, Section B, Page 3 of the New York edition with the headline: Dealing With Bias in Artificial Intelligence. Order Reprints | Today’s Paper | SubscribeShare full articleRead in appAdvertisementSKIP ADVERTISEMENT",https://schema.org,NewsMediaOrganization,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/01/03/multimedia/20sp-women-ai1-print/20sp-women-ai1a-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/01/03/multimedia/20sp-women-ai1-print/20sp-women-ai1a-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Harriet Lee-Merrion'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/01/03/multimedia/20sp-women-ai1-print/20sp-women-ai1a-superJumbo.jpg', 'height': 839, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2020/01/03/multimedia/20sp-women-ai1-print/20sp-women-ai1a-superJumbo.jpg', 'creditText': 'Harriet Lee-Merrion'}]",https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html,https://www.nytimes.com/,en-US,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/craig-s-smith', 'name': 'Craig S. Smith'}]",2020-01-03T04:24:06.000Z,2019-11-19T10:00:23.000Z,Dealing With Bias in Artificial Intelligence,Dealing With Bias in Artificial Intelligence,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnZveC5jb20vcmVjb2RlLzIwMjAvMS8xLzIxMDQzMDAwL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWpvYi1hcHBsaWNhdGlvbnMtaWxsaW5pb3MtdmlkZW8taW50ZXJpdmV3LWFjdNIBAA?oc=5,Illinois regulates artificial intelligence like HireVue’s used to analyze online job Interviews - Vox.com,2020-01-01,Vox.com,https://www.vox.com,"The first-of-its-kind law, effective today, might give candidates a bit more insight into the algorithms that analyze their interviews, but they shouldn’t expect much to change.",N/A,"The first-of-its-kind law, effective today, might give candidates a bit more insight into the algorithms that analyze their interviews, but they shouldn’t expect much to change.",N/A,N/A,N/A,"TechnologyIllinois says you should know if AI is grading your online job interviewsA first-of-its-kind law might give employment candidates more insight into the algorithms that analyze their interviews, but they shouldn’t expect much to change.by  Rebecca HeilweilJan 1, 2020, 9:50 AM ESTFacebookLinkHireVue can be downloaded as an online app. ShutterstockRebecca Heilweil covered emerging technology, artificial intelligence, and the supply chain.Artificial intelligence is increasingly playing a role in companies’ hiring decisions. Algorithms help target ads about new positions, sort through resumes, and even analyze applicants’ facial expressions during video job interviews. But these systems are opaque, and we often have no idea how artificial intelligence-based systems are sorting, scoring, and ranking our applications.It’s not just that we don’t know how these systems work. Artificial intelligence can also introduce bias and inaccuracy to the job application process, and because these algorithms largely operate in a black box, it’s not really possible to hold a company that uses a problematic or unfair tool accountable.A new Illinois law — one of the first of its kind in the US — is supposed to provide job candidates a bit more insight into how these unregulated tools actually operate. But it’s unlikely the legislation will change much for applicants. That’s because it only applies to a limited type of AI, and it doesn’t ask much of the companies deploying it.Set to take effect January 1, 2020, the state’s Artificial Intelligence Video Interview Act has three primary requirements. First, companies must notify applicants that artificial intelligence will be used to consider applicants’ “fitness” for a position. Those companies must also explain how their AI works and what “general types of characteristics” it considers when evaluating candidates. In addition to requiring applicants’ consent to use AI, the law also includes two provisions meant to protect their privacy: It limits who can view an applicant’s recorded video interview to those “whose expertise or technology is necessary” and requires that companies delete any video that an applicant submits within a month of their request. As Aaron Rieke, the managing director of the technology rights nonprofit Upturn, told Recode about the law, “This is a pretty light touch on a small part of the hiring process.” For one thing, the law only covers artificial intelligence used in videos, which constitutes a small share of the AI tools that can be used to assess job applicants. And the law doesn’t guarantee that you can opt out of an AI-based review of your application and still be considered for a role (all the law says is that a company has to gain your consent before using AI; it doesn’t require that hiring managers give you an alternative method).“It’s hard to feel that that consent is going to be super meaningful if the alternative is that you get no shot at the job at all,” said Rieke. He added that there’s no guarantee that the consent and explanation the law requires will be useful; for instance, the explanation could be so broad and high-level that it’s not helpful.“If I were a lawyer for one of these vendors, I would say something like, ‘Look, we use the video, including the audio language and visual content, to predict your performance for this position using tens of thousands of factors,’” said Rieke. “If I was feeling really conservative, I might name a couple general categories of competency.” (He also points out that the law doesn’t define artificial intelligence, which means it’s difficult to tell what companies and what types of systems the law actually applies to).Because the law is limited to AI that’s used in video interviews, the company it most clearly applies to is Utah-based HireVue, a popular job interview platform that offers employers an algorithm-based analysis of recorded video interviews. Here’s how it works: You answer pre-selected questions over your computer or phone camera. Then, an algorithm developed by HireVue analyzes how you’ve answered the questions, and sometimes even your facial expressions, to make predictions about your fit for a particular position. HireVue says it already has about 100 clients using this artificial intelligence-based feature, including major companies like Unilever and Hilton. Some candidates who have used HireVue’s system complain that the process is awkward and impersonal. But that’s not the only problem. Algorithms are not inherently objective, and they reflect the data used to train them and the people that design them. That means they can inherit, and even amplify, societal biases, including racism and sexism. And even if an algorithm is explicitly instructed not to consider factors like a person’s name, it can still learn proxies for protected identities (for instance, an algorithm could learn to discriminate against people who have gone to a women’s college). Facial recognition tech, in particular, has faced criticism for struggling to identify and characterize the faces of people with darker skin, women, and trans and non-binary people, among other minority groups. Critics also say that emotion (or affect) recognition technology in particular, which purports to make judgments about a person’s emotions based on their facial expressions, is scientifically flawed. That’s why one research nonprofit, the AI Now Institute, called for the prohibition of such technology in high-stakes decision-making — including job applicant vetting.“[W]hile you’re being interviewed, there’s a camera that’s recording you, and it’s recording all of your micro facial expressions and all of the gestures you’re using, the intonation of your voice, and then pattern matching those things that they can detect with their highest performers,” AI Now Institute co-founder Kate Crawford told Recode’s Kara Swisher earlier this year. “[It] might sound like a good idea, but think about how you’re basically just hiring people who look like the people you already have.”Even members of Congress are worried about that technology. In 2018, US Sens. Kamala Harris, Elizabeth Warren, and Patty Murray wrote to the Equal Employment Opportunity Commission, the federal agency charged with investigating employment discrimination, asking whether such facial analysis technology could violate anti-discrimination laws. Despite being one of the first laws to regulate these tools, the Illinois law doesn’t address concerns about bias. No federal legislation explicitly regulates these AI-based hiring systems. Instead, employment lawyers say such AI tools are generally subject to the Uniform Guidelines, employment discrimination standards created by several federal agencies back in 1978 (you can read more about that here). The EEOC did not respond to Recode’s multiple requests for comment.Meanwhile, it’s not clear how, under Illinois’ new law, companies like HireVue will go about explaining the characteristics in applicants that its AI considers, given that the company claims that its algorithms can weigh up to tens of thousands of factors (it says it removes factors that are not predictive of job success).The law also doesn’t explain what an applicant might be entitled to if a company violates one of its provisions. Law firms advising clients on compliance have also noted that it’s not clear whether the law applies exclusively to businesses filling a position in Illinois, or just interviews that take place in the state. Neither Illinois State Sen. Iris Martinez nor Illinois Rep. Jaime M. Andrade, legislators who worked on the law, responded to a request for comment by the time of publication.HireVue’s CEO Kevin Parker said in a blog post that the law “entails very little, if any, change” because its platform already complies with GDPR’s principles of transparency, privacy, and the right to be forgotten. “[W]e believe every job interview should be fair and objective, and that candidates should understand how they’re being evaluated. This is fair game, and it’s good for both candidates and companies,” he wrote in August.A spokesperson for HireVue said the decision to provide an alternative to an AI-based analysis is up to the company that’s hiring, but argued that those alternatives can more time-consuming for candidates. If a candidate believes that a system is biased, the spokesperson said recourse options “are the same as when a candidate believes that any part of the hiring process, or any individual interviewer, was unfairly biased against them.”Under the new law in Illinois, if you participate in a video interview that uses AI tech, you can ask for your footage to be deleted after the fact. But it’s worth noting that the law appears to still give the company enough time to train its model on the results of your job interview — even if you think the final decision was problematic.“This gives these AI hiring companies room to continue to learn,” says Rieke. “They’re going to delete the underlying video, but any learning or improvement to their systems they get to keep.” Open Sourced is made possible by Omidyar Network. All Open Sourced content is editorially independent and produced by our journalists.You’ve read 1 article in the last monthHere at Vox, we believe in helping everyone understand our complicated world, so that we can all help to shape it. Our mission is to create clear, accessible journalism to empower understanding and action.If you share our vision, please consider supporting our work by becoming a Vox Member. Your support ensures Vox a stable, independent source of funding to underpin our journalism. If you are not ready to become a Member, even small contributions are meaningful in supporting a sustainable model for journalism.Thank you for being part of our community.Swati SharmaVox Editor-in-ChiefMembershipMonthlyAnnualOne-time$5/month$10/month$25/month$50/monthOther$50/year$100/year$150/year$200/yearOther$20$50$100$250OtherJoin for $5/monthWe accept credit card, Apple Pay, and Google Pay. You can also contribute viaMore in this streamSee allThe hidden trackers in your phone, explainedBy Sara MorrisonApple is finally making it easy to hide from trackersBy Sara MorrisonApple and Google roll out their new exposure notification tool. Interest seems limited.By Sara MorrisonMost PopularAmerica is not ready for what comes nextWhat J.D. Vance really believesDid Trump’s shooting save Biden’s nomination?Project 2025: The myths and the factsWeb3 is the future, or a scam, or both
+1/100:13Vox New Feed
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingWhat the death of Iran’s president could mean for its futureafter the adVisit Advertiser websiteGO TO PAGEToday, ExplainedUnderstand the world with a daily explainer plus the most compelling stories of the day.Email (required)Sign UpBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbG91aXNjb2x1bWJ1cy8yMDIwLzAxLzA1L2FpLXNwZWNpYWxpc3QtaXMtdGhlLXRvcC1lbWVyZ2luZy1qb2ItaW4tMjAyMC1hY2NvcmRpbmctdG8tbGlua2VkaW4v0gEA?oc=5,AI Specialist Is The Top Emerging Job In 2020 According To LinkedIn - Forbes,2020-01-05,Forbes,https://www.forbes.com,"Demand for AI Specialists has grown 74% annually over the past 4 years according to LinkedIn's latest 2020 Emerging Jobs Report. 
+","AI Engineering,AI Jobs,AI,Artificial Intelligence,Best Emerging Jobs,Hottest Jobs In 2020,Jobs,LinkedIn Jobs,AI Engineer,AI Specialists  AI,LinkedIn Hottest Jobs In Tech,Artificial Intelligence Specialist,Robotics Engineer,Data Scientist,Full Stack Engineer,Site Reliability Engineer,Customer Success Specialist,Sales Development Representative,Data Engineer,Behavioral Health Technician,Cybersecurity Specialist,Back End Developer,Chief Revenue Officer,Cloud Engineer,JavaScript Developer,Product Owner","Demand for AI Specialists has grown 74% annually over the past 4 years according to LinkedIn's latest 2020 Emerging Jobs Report. 
+","Demand for AI Specialists has grown 74% annually over the past 4 years according to LinkedIn's latest 2020 Emerging Jobs Report. 
+",Enterprise Tech,N/A,"More From ForbesJul 16, 2024,01:02pm EDTThe CEO’s Guide To Building Generative AIJul 16, 2024,01:24am EDTThe Best Generative AI Workplace Productivity ToolsJul 15, 2024,09:02am EDTWhen Will Quantum Computers Affect Your Competitive Landscape?Jul 15, 2024,09:00am EDTAristotle’s Timeless Guide To Mastering AIOpsJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelJul 12, 2024,09:00am EDT‘Knowledge Is Power’: The Antipattern That Is Holding Your Team BackEdit StoryForbesInnovationEnterprise TechAI Specialist Is The Top Emerging Job In 2020 According To LinkedInLouis ColumbusFormer ContributorOpinions expressed by Forbes Contributors are their own.Click to save this article.You'll be asked to sign into your Forbes account.Got itJan 5, 2020,02:59pm ESTUpdated Jan 5, 2020, 03:42pm ESTThis article is more than 4 years old.Share to FacebookShare to TwitterShare to LinkedinAI and data science skills are proliferating across industries as businesses look to improve their ... [+] competitiveness and also create more patents.Getty
+
+
+
+Data science is booming and starting to replace legacy engineering roles across U.S. organizations today.
+More than 50% of this year’s list was made up of roles related to engineering or development, with the emerging field of robotics appearing for the first time.
+Blockchain Developer was dropped from the list this year, which LinkedIn says is not surprising given the fluctuating popularity of Bitcoin and other cryptocurrencies.
+
+
+
+
+These and many other fascinating insights are from LinkedIn’s 3rd annual 2020 Emerging Jobs Report announced last month on their blog which lists the top 15 emerging jobs in 11 different nations. LinkedIn provides employment forecasts including the fastest-growing jobs, skills needed to excel at them, and the cities and industries where these jobs are located. Australia, Canada, France, Germany, India, Netherlands, Singapore, Spain, United Kingdom and United States are profiled. All country reports are available here. The LinkedIn 2020 Emerging Jobs Report for the United States is available here in PDF form.
+
+The top 15 emerging jobs include the following:
+
+
+
+Artificial Intelligence Specialist - Artificial Intelligence and Machine Learning have both become synonymous with innovation, and LinkedIn data shows that’s more than just buzz. Hiring growth for this role has grown 74% annually in the past 4 years and encompasses a few different titles within the space that all have a very specific set of skills despite being spread across industries, including artificial intelligence and machine learning engineer. According to Indeed, Machine Learning Engineer job openings grew 344% between 2015 to 2018 and have an average base salary of $146,085 according their  Best Jobs In The U.S. Study. 
+Robotics Engineer – LinkedIn is seeing a 40% annual increase in demand for technical professionals with robotics expertise today. Robotics is an industry on fire according to LinkedIn’s study. UiPath, one of the most popular robotics solutions, was just valued at $7B, and the industry as a whole is projected to continue this upward momentum. Careers in Robotics Engineering can vary greatly between software and hardware roles, and LinkedIn data shows engineers working on both virtual and physical bots are on the rise.
+Data Scientist – LinkedIn is seeing a 37% annual increase in demand for Data Scientists and related technical positions today. Data Science is another field that has topped the LinkedIn Emerging Jobs list for three years running. It’s a specialty that’s continuing to grow significantly across all industries. LinkedIn data indicates some of this growth can likely be attributed to the evolution of previously existing jobs, like Statisticians, and increased emphasis on data in academic research.
+Full Stack Engineer - While not a new job, the rapid pace of change in technology has made full stack developers a valuable asset to any company. Not only is this the second year this role has made the Emerging Jobs list, since 2015 hiring growth for this profession has been 35% every year from a wide range of developer and engineering backgrounds.
+Site Reliability Engineer - LinkedIn is seeing a 34% annual increase in demand for Site Reliability Engineers today. Responsible for ensuring that development and operational processes are running smoothly, the demand for this job will likely continue to rise as long as we’re using technology in our day-to-day lives. As a bonus, the skills required are transferable to many different engineering roles, such as Cloud Engineer or Full Stack Engineer.
+Customer Success Specialist - Also fueled by the growth of technology services that require hands-on support, Customer Success roles are on the upswing according to LinkedIn’s latest emerging jobs report. An earlier report found that job posts on LinkedIn for Customer Success Manager in the U.S. grew 34% in 2018, and 72% of professionals currently in the role are in the Software & IT industry. These professionals typically have a hybrid of soft and hard skills, as they’re responsible for both understanding the technology and managing the customer relationship.
+Sales Development Representative – LinkedIn is seeing a 34% annual increase in demand for professionals with Salesforce technical expertise combined with selling experience. While sales development representative (SDR) has been on the Emerging Jobs list more than once, it’s not because it’s on the cutting edge. The skills needed for the job have remained largely unchanged since 2015–Salesforce know-how and cold-calling still make up a large part of the job. It’s the continued explosive growth of technology services that rely on SDRs to find new customers that keep this job on the list.
+Data Engineer - Data has quickly become every company’s most valuable resource, and they need savvy engineers that can build infrastructure to keep it organized. The hiring growth rate of professionals in this emerging job has increased by nearly 35% since 2015, and industries from Retail to Automotive are snapping up this hard-to-hire talent. Interestingly, Amazon Web Services has emerged as one of the top skills held by Data Engineers, something that didn’t show up in the LinkedIn analysis of professionals who held this role in 2015.
+Behavioral Health Technician - LinkedIn is seeing a 32% annual increase in demand for healthcare professionals in this field today. Increased health insurance coverage for mental health and substance abuse treatment has created this increased demand for Behavioral Health Technicians, many of whom specialize in working with patients who have autism or behavioral disorders and are working with children in school environments. The path to becoming a Behavioral Health Technician is varied, given that training for the role doesn’t require a specific degree, providing an opportunity for professionals from all backgrounds to join this emerging field.
+Cybersecurity Specialist - Projected to be one of the fastest growing areas of IT investment in 2020, LinkedIn is seeing a 30% annual increase in demand for Cybersecurity Specialists and technical professionals with expertise in this area. It’s no secret that cybersecurity is top of mind for every company, something that’s made more apparent by the addition of Cybersecurity Specialist to this year’s Emerging Jobs list. The growth and importance of this role are likely to continue as reports show data breaches have increased more than 50% in 2019 over this time last year. And it looks like Washington is taking note, as a large number of available jobs are in D.C. and the surrounding area.
+Back End Developer - LinkedIn is seeing a 30% annual increase in demand for technical professionals with expertise in Node.js, JavaScript, Amazon Web Services, Git, and MongoDB, the most in-demand skills for Back End Developers today. Back End Developer is another engineering job that’s likely to continue to grow as virtually every company builds a digital property. It’s also a job that can largely be done from anywhere, offering an opportunity for remote work.
+Chief Revenue Officer - LinkedIn is seeing a 28% annual increase in demand for this position today as senior management teams look to add valuable expertise in strategic partnerships, go-to-market strategies and sales management. Having a Chief Revenue Officer is somewhat of a new concept, born out of the need to better understand the roles both sales and marketing play in making a company money. The most successful CROs have a strong intuitive sense of how to orchestrate sales and marketing to drive more deals and close the most valuable opportunities in the pipeline. As the two fields have become more intertwined, having a CRO at the helm to lead the combined strategies of two teams has become increasingly important. Based on LinkedIn data, this role is flourishing today.
+Cloud Engineer - LinkedIn is seeing a 27% annual increase in demand for this position today. Cloud computing changed the game for companies that wanted to build products without needing their own servers, and every year the cloud becomes more integral to every businesses’ operations and IT platforms. Cloud Engineers will likely be a continuing need across the country in all industries for the long-term as more companies adopt an integrated strategy of using existing on-premise systems with cloud platforms.
+JavaScript Developer - LinkedIn is seeing a 25% annual increase in demand for this position today. JavaScript Developer continues to be one of the most in-demand roles in the country, as are the skills associated with it, and JavaScript is among the top five in-demand skills in the software industry overall. Skills required for the job include knowledge of React.js, Node.js, AngularJS, JavaScript, and Cascading Style Sheets (CSS).
+Product Owner - - LinkedIn is seeing a 24% annual increase in demand for this position today. Product Owners support the product development process and act in many companies as a Product Manager. Unlike many traditional Product Manager roles, Product Owner doesn’t always require a technical degree as a minimum requirement. Product Owners often have many different tasks and projects they’re responsible for as they are responsible for the success of their product lines in-market. They often do market research, sales training and enablement and have deep expertise with customer relationship management (CRM) and marketing automation systems. Skills unique to the Product Owner job include Agile Methodologies, Scrum, Product Management, Software Development, and JIRA.
+
+
+Follow me on LinkedIn. Check out my website. Louis ColumbusI am currently serving as Principal, IQMS, part of Dassault Systèmes. Previous positions include product management at Ingram Cloud, product... Read MoreEditorial StandardsPrintReprints & Permissions",http://schema.org,BreadcrumbList,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/5e123a390bf81b0006243a4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}",,https://www.forbes.com/sites/louiscolumbus/2020/01/05/ai-specialist-is-the-top-emerging-job-in-2020-according-to-linkedin/,,"{'@type': 'Person', 'name': 'Louis Columbus', 'url': 'https://www.forbes.com/sites/louiscolumbus/', 'description': ""I am currently serving as Principal, IQMS, part of Dassault Systèmes. Previous positions include product management at Ingram Cloud, product marketing at iBASEt, Plex Systems, senior analyst at AMR Research (now Gartner), marketing and business development at Cincom Systems, Ingram Micro, a SaaS start-up and at hardware companies. I am also a member of the Enterprise Irregulars. My background includes marketing, product management, sales and industry analyst roles in the enterprise software and IT industries. My academic background includes an MBA from Pepperdine University and completion of the Strategic Marketing Management and Digital Marketing Programs at the Stanford University Graduate School of Business. I teach MBA courses in international business, global competitive strategies, international market research, and capstone courses in strategic planning and market research. I've taught at California State University, Fullerton: University of California, Irvine; Marymount University, and Webster University. You can reach me on Twitter at @LouisColumbus."", 'sameAs': ['https://www.linkedin.com/in/louiscolumbus', 'http://softwarestrategiesblog.com/']}",2020-01-05T15:42:39-05:00,2020-01-05T14:59:24-05:00,AI Specialist Is The Top Emerging Job In 2020 According To LinkedIn,,"{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",,,,,False,,AI Specialist Is The Top Emerging Job In 2020 According To LinkedIn,,,,,,,,Enterprise Tech,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd2Fyb250aGVyb2Nrcy5jb20vMjAyMC8wMS93aGF0LWNoZXNzLWNhbi10ZWFjaC11cy1hYm91dC10aGUtZnV0dXJlLW9mLWFpLWFuZC13YXIv0gEA?oc=5,What Chess Can Teach Us About the Future of AI and War - War On The Rocks,2020-01-03,War On The Rocks,https://warontherocks.com,"This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric",N/A,"This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric",N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://warontherocks.com/#website', 'url': 'https://warontherocks.com/', 'name': 'War on the Rocks', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://warontherocks.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://warontherocks.com/2020/01/what-chess-can-teach-us-about-the-future-of-ai-and-war/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://warontherocks.com/wp-content/uploads/2020/01/Chess.jpg', 'width': 1330, 'height': 850}, {'@type': 'WebPage', '@id': 'https://warontherocks.com/2020/01/what-chess-can-teach-us-about-the-future-of-ai-and-war/#webpage', 'url': 'https://warontherocks.com/2020/01/what-chess-can-teach-us-about-the-future-of-ai-and-war/', 'name': 'What Chess Can Teach Us About the Future of AI and War - War on the Rocks', 'isPartOf': {'@id': 'https://warontherocks.com/#website'}, 'primaryImageOfPage': {'@id': 'https://warontherocks.com/2020/01/what-chess-can-teach-us-about-the-future-of-ai-and-war/#primaryimage'}, 'datePublished': '2020-01-03T08:50:31+00:00', 'dateModified': '2020-01-27T15:44:22+00:00', 'author': {'@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8'}, 'description': 'This article was submitted in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://warontherocks.com/2020/01/what-chess-can-teach-us-about-the-future-of-ai-and-war/']}]}, {'@type': ['Person'], '@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8', 'name': 'Shane Mason', 'image': {'@type': 'ImageObject', '@id': 'https://warontherocks.com/#personlogo', 'inLanguage': 'en-US', 'url': 'https://secure.gravatar.com/avatar/83a68cf34a391d145ac9f37117795a86?s=96&d=identicon&r=g', 'caption': 'Shane Mason'}}]",,,,
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbWl0c2xvYW4ubWl0LmVkdS9pZGVhcy1tYWRlLXRvLW1hdHRlci81LXN0ZXBzLXRvLXBlb3BsZS1jZW50ZXJlZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZdIBAA?oc=5,5 steps to ‘people-centered’ artificial intelligence - MIT Sloan News,2020-01-06,MIT Sloan News,https://mitsloan.mit.edu,Artificial intelligence should amplify human strengths. Here’s a roadmap for developing systems that do just that.,N/A,Artificial intelligence should amplify human strengths. Here’s a roadmap for developing systems that do just that.,Artificial intelligence should amplify human strengths. Here’s a roadmap for developing systems that do just that.,N/A,N/A,"
+ 
+
+
+
+
+
+
+
+
+
+
+recent
+
+
+
+
+3 hours ago
+Making generative AI work in the enterprise: New from MIT SMR
+
+
+
+
+Jul 15, 2024
+How to tap AI’s potential while avoiding its pitfalls 
+
+
+
+
+Jul 10, 2024
+Banks’ climate pledges don’t add up to change, research finds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+
+                        Artificial Intelligence
+
+
+ 5 steps to ‘people-centered’ artificial intelligence
+
+By
+Beth Stackpole
+
+Jan 6, 2020
+
+
+
+
+
+
+Why It Matters		
+
+
+
+As organizations push forward with AI, they should put individuals at the center of the design process. Here’s a roadmap for making that happen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+facebook
+X
+linkedin
+email
+print
+
+open share links
+close share links
+
+As companies double down on business initiatives built around technologies like predictive analytics, machine learning, and cognitive computing, there’s one element they ignore at their peril — humans.
+That was the message from a pair of experts at a recent MIT Sloan Management Review webinar, “People-Centered Principles for AI Implementation.” As organizations push forward on their artificial intelligence  journey, they should strive to put individuals at the center of the design process, the experts advised.
+
+
+
+
+
+
+Work smart with our Thinking Forward newsletterInsights from MIT experts, delivered every Tuesday morning.
+Email Address
+
+
+
+
+
+
+Leave this field blank
+
+
+
+
+
+“When we talk about people-centered, it is really the idea that AI technology should be amplifying human strengths,” explained David Bray, executive director of the People-Centered Internet coalition and former CIO of the FCC. “It’s about providing and informing [systems] with data to allow people more opportunities in their work.”
+A natural progression
+For all the hype surrounding AI, the technology is hardly a newcomer. Early derivatives surfaced in the 1970s and 1980s in the form of decision-support and expert systems. Today, organizations are progressing from a foundation of big data and predictive analytics to machine learning, neural networks, and eventually to fully autonomous AI.
+Fueled by the rise of cloud computing, there is now ample memory, storage, and computational horsepower to handle sophisticated algorithms that were developed in the past but not put to use due to the limitations of technology, said Bray, who is also a senior fellow at the Florida Institute for Human & Machine Cognition.
+Companies have been collecting data and are now in the process of transforming that data into insights that will empower more informed decision-making. “We go from data to information flows to insight, and then [from] insight to action,” he explained. “That’s the data-decision paradigm we’re aiming for.”
+While AI has cycled through periods of heated interest and winters of stagnation, the time has come for all to get serious about advancing people-centered AI initiatives to stay abreast of the competition, said Bray and his co-presenter, R. “Ray” Wang, CEO of Constellation Research. The pair provided this roadmap for getting started:
+1. Classify what you're trying to accomplish with AI
+Most organizations are pursuing initiatives to do the following:
+Automate tasks with machines so humans can focus on strategic initiatives.
+Augment — applying intelligence and algorithms to build on people’s skill sets.
+Discover — find patterns that wouldn’t be detected otherwise.
+Aid in risk mitigation and compliance.
+2. Embrace three guiding principles 
+Transparency. Whenever possible, make the high-level implementation details of an AI project available to all involved. This will help people understand what artificial intelligence is, how it works, and what data sets are involved.
+Explainability. Ensure employees and external stakeholders understand how any AI system arrives at its contextual decisions —specifically, what method was used to tune the algorithms and how decision-makers will leverage any conclusions.
+Reversibility. Organizations must also be able to reverse what deep learning knows: The ability to unlearn certain knowledge or data helps protect against unwanted biases in data sets. Reversibility is something that must be designed into the conception of an AI effort and often will require cross-functional expertise and support, the experts said.
+3. Establish data advocates
+When it comes to data, the saying, “garbage in, garbage out” holds. Some companies are installing chief data officers to oversee data practices, but Bray and Wang said that’s not enough.
+The pair suggested identifying stakeholders across the entire organization who understand the quality issues and data risks and who will work from a people-centered code of ethics. These stakeholders are responsible for ensuring data sets are appropriate and for catching any errors or flaws in data sets or AI outputs early.
+“It’s got to be a cavalry — it can’t be relegated to just a few people in the organization,” Bray said. One approach the experts suggested is to appoint an ombuds function that brings together stakeholders from different business units as well as outside constituents.
+4. Practice “mindful monitoring”
+Creating a process for testing data sets for bias can help reduce risk. Bray and Wang suggested identifying three pools of data sets: Trusted data used to train the AI implementation; a queued data pool of potentially worthwhile data; and problematic or unreliable data. And data should be regularly assessed — for example, whether previously approved trusted data is still relevant or unreliable, or if queued data has a newfound role in improving the existing pool of trusted data for specific actions.
+5. Ground your expectations
+Managing expectations of internal and external stakeholders is crucial to long-term success. To gain consensus and keep focus on a people-oriented AI agenda, organizations should ask and answer such questions as: What is our obligation to society? What are the acknowledged unknowns? What are responsible actions or proactive things we can accomplish with AI implementations, and what are the proper safeguards?
+In the end, it makes sense to approach AI as an experimental learning activity, with ups, downs, and delays. “There will periods of learning, periods of diminished returns, and [times when] the exponential gain actually benefits the organization,” Bray said. “You need to be grounded and say, ‘This is how we’ve chosen to position ourselves.’ It will serve as your North Star as you move towards the final goal.”
+Read more AI coverage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For more info
+Tracy Mayor
+Senior Associate Director, Editorial
+
+(617) 253-0065
+
+
+tmayor@mit.edu
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+Making generative AI work in the enterprise: New from MIT SMR
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+How to tap AI’s potential while avoiding its pitfalls 
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+How can we preserve human ability in the age of machines?
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaHJtYXNpYS5jb20vdHdvLWNlbnRzLXdoeS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1jYW50LXJlcGxhY2UtdXMv0gEA?oc=5,Two Cents: Why Artificial Intelligence can't replace us | HRM Asia - HRM Asia,2020-01-02,HRM Asia,https://hrmasia.com,,N/A,"With the rise of Artificial Intelligence, should you be afraid of your job being replaced by a robot? Our writer gives his two cents on whether you should.",N/A,N/A,N/A,"
+
+Two Cents: Why Artificial Intelligence can’t replace us
+
+        With the rise of Artificial Intelligence, should you be afraid of your job being replaced by a robot? Our writer gives his two cents on whether you should.    
+
+
+        By: Daniel Teo | January 2, 2020
+            
+
+Topics: Features | HR Technology | Two Cents   
+
+
+ 
+I would be lying to you if the thought of losing my job to Artificial Intelligence (AI) didn’t cross my mind. And with AI slowly but surely becoming a common sight among us – from businesses to even our homes – it’s hard for it not to.
+In fact, there are many jobs (ones that involve manual and repetitive processes) that have already been affected and even replaced by AI and automation. So the threat is real.
+But as I write this Two Cents piece, I thought to myself – surely an AI or robot can’t do this. Well, they might be able to churn out a 1,000 or even 1,000,000 words report. But there is one thing that an AI lacks and will always do – creativity. And that is something only a human like you and me are capable of.
+There is, however, one thing that puts us at a disadvantage against AI – we make mistakes. That is what make us humans. And that is where AI’s role come into play. Not to replace us, but to help eradicate human error and assist us in doing our job better, faster and at a lower cost by automating routine processes.
+One of the advantages AI has is the ability to use machine learning technology to gather data which can be used to predict customer preferences and offer them better and personalised experience.
+The hiring process will also be sped up and match jobs more accurately with the data gathered by AI. It will also help make life easier and more efficient as routine tasks such as scheduling of appointments and even transcribing of minutes can be done by an AI assistant. This will free us up to do more strategic work.
+So the role of AI is really to replace tasks, not jobs.
+In fact according to a study by McKinsey, automation will eliminate very few occupations entirely in the next decade. However it will affect portions of almost all jobs to a greater or lesser degree, depending on the type of work they entail.
+So let’s face it. There’s no escaping from the inevitable invasion (or should I say collaboration) of AI as the world looks to work smarter and better. And most, if not all of our jobs will be affected by AI in one way or another. More so for jobs that are manual and repetitive in nature, and do not require a whole deal of human creativity and touch such as administration, concierges, banking services, manufacturing, factory work and cashiers.
+But will it completely replace all our jobs and put us on permanent gardening leave? The answer is no. Not if your job requires any aspect of creativity and human touch which AI cannot duplicate.
+For example, a teacher cannot be replaced by a robot as it does not have the ability to nurture and educate a child like a caring and passionate teacher can. Would you want your child to be taught by a lifeless and emotionless robot teacher?
+How about designers, doctors, nurses and counsellors? Can AI and robots design, care for us or understand our problems? And this is just a few of the countless of jobs that are simply not replaceable by a robot.
+Lee Kai Fu, dubbed the face of AI in China and a former vice president at Apple, Microsoft and Google, said on CBS’s ’60 Minutes’, “I believe in the sanctity of our soul. I believe there is a lot of things about us that we don’t understand.”
+“I believe there’s a lot of love and compassion that is not explainable in terms of neural networks and computation algorithms.”
+In fact, the rise of AI will make us realize even more how important the human touch is in the world we live and work in, thus creating more jobs. More importantly, it challenges us to make use of AI and technology to work smarter and more creatively.
+At the end of the day, the real human intelligence will prevail. Not the artificial one.
+According to a report from the World Economic Forum (WEF), while 75 million jobs are expected to be displaced by 2022, machines and algorithms in the workplace are expected to create 133 million new roles.
+So no, AI is not here to replace our jobs. It’s here to help us do better at what we do.
+ShareTweetShare
+
+ 
+
+
+
+
+ 
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://hrmasia.com/two-cents-why-artificial-intelligence-cant-replace-us/', 'url': 'https://hrmasia.com/two-cents-why-artificial-intelligence-cant-replace-us/', 'name': 'Two Cents: Why Artificial Intelligence can’t replace us | HRM Asia', 'isPartOf': {'@id': 'https://hrmasia.com/#website'}, 'primaryImageOfPage': {'@id': 'https://hrmasia.com/two-cents-why-artificial-intelligence-cant-replace-us/#primaryimage'}, 'image': {'@id': 'https://hrmasia.com/two-cents-why-artificial-intelligence-cant-replace-us/#primaryimage'}, 'thumbnailUrl': 'https://hrmasia.com/wp-content/uploads/2019/12/122163770_m.jpg', 'datePublished': '2020-01-01T22:00:15+00:00', 'dateModified': '2019-12-30T04:05:57+00:00', 'author': {'@id': 'https://hrmasia.com/#/schema/person/1de41fb4b6aaf36c7cdeb59bf2e7bf2e'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://hrmasia.com/two-cents-why-artificial-intelligence-cant-replace-us/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://hrmasia.com/two-cents-why-artificial-intelligence-cant-replace-us/#primaryimage', 'url': 'https://hrmasia.com/wp-content/uploads/2019/12/122163770_m.jpg', 'contentUrl': 'https://hrmasia.com/wp-content/uploads/2019/12/122163770_m.jpg', 'width': 2508, 'height': 1672}, {'@type': 'WebSite', '@id': 'https://hrmasia.com/#website', 'url': 'https://hrmasia.com/', 'name': 'HRM Asia', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://hrmasia.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://hrmasia.com/#/schema/person/1de41fb4b6aaf36c7cdeb59bf2e7bf2e', 'name': 'Daniel Teo', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://hrmasia.com/#/schema/person/image/', 'url': 'https://hrmasia.com/wp-content/uploads/2019/12/daniel-teo-150x150.jpg', 'contentUrl': 'https://hrmasia.com/wp-content/uploads/2019/12/daniel-teo-150x150.jpg', 'caption': 'Daniel Teo'}, 'url': 'https://hrmasia.com/author/daniel/'}]",,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmlibS5jb20vYmxvZ3MvdGhpbmsvMjAyMC8wMS9haS1pbi0yMDIwLWZyb20tZXhwZXJpbWVudGF0aW9uLXRvLWFkb3B0aW9uL9IBAA?oc=5,THINK Blog - IBM,2020-01-03,IBM,https://www.ibm.com,"AI has captured the imagination and attention of people globally. But in the business world, the rate of adoption of artificial intelligence has lagged behind the level of interest through 2019. Even though we hear that most business leaders believe AI provides a competitive advantage, up until recently, some industry watchers have pegged enterprise adoption at less than 20%. But as we enter 2020, we’re spotting an uptick, not only in interest but in AI adoption. And that uptick is reaffirmed by a recent global survey commissioned by IBM. The survey, From Roadblock to Scale: The Global Sprint Towards AI, polled more than 4,500 technology decision makers. We wanted to gauge the current and future states of AI deployment across the U.S., Europe and China, to better understand the landscape and the challenges. As you’ll see, it’s about to change dramatically. AI Adoption on the Rise Results from the Roadblocks to Scale survey indicate that while there…",N/A,"AI has captured the imagination and attention of people globally. But in the business world, the rate of adoption of artificial intelligence has lagged behind the level of interest through 2019. Even though we hear that most business leaders believe AI provides a competitive advantage, up until recently, some industry watchers have pegged enterprise adoption […]",N/A,N/A,N/A,N/A,https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://www.ibm.com/blogs/think/#website', 'url': 'https://www.ibm.com/blogs/think/', 'name': 'THINK Blog', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ibm.com/blogs/think/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/#primaryimage', 'url': 'https://www.ibm.com/blogs/think/wp-content/uploads/2020/01/AI-adoption-image.jpg', 'contentUrl': 'https://www.ibm.com/blogs/think/wp-content/uploads/2020/01/AI-adoption-image.jpg', 'width': 800, 'height': 450}, {'@type': 'WebPage', '@id': 'https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/#webpage', 'url': 'https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/', 'name': 'AI in 2020: From Experimentation to Adoption - THINK Blog', 'isPartOf': {'@id': 'https://www.ibm.com/blogs/think/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/#primaryimage'}, 'datePublished': '2020-01-03T14:00:55+00:00', 'dateModified': '2020-01-08T14:08:14+00:00', 'author': {'@id': 'https://www.ibm.com/blogs/think/#/schema/person/987d021cef487a41433993473db9d2f1'}, 'breadcrumb': {'@id': 'https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.ibm.com/blogs/think/2020/01/ai-in-2020-from-experimentation-to-adoption/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.ibm.com/blogs/think/'}, {'@type': 'ListItem', 'position': 2, 'name': 'AI in 2020: From Experimentation to Adoption'}]}, {'@type': 'Person', '@id': 'https://www.ibm.com/blogs/think/#/schema/person/987d021cef487a41433993473db9d2f1', 'name': 'Rob Thomas', 'url': 'https://www.ibm.com/blogs/think/author/rob-thomas/'}]",,,,
+https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnRlY2hpbmFzaWEuY29tL3JvYm90LWxlYWQtc2lnbmlmaWNhbnQtam9iLWxvc3PSAQA?oc=5,China says AI robots won't lead to significant job loss - Tech in Asia,2020-01-06,Tech in Asia,https://www.techinasia.com,"Tech in Asia (YC W15) is a media, events, and jobs platform for Asia's tech communities.","Tech in Asia, startups, community, IT, tech, technology, asia, media, events, jobs, conference, platform, Singapore, Tokyo, Jakarta","Tech in Asia (YC W15) is a media, events, and jobs platform for Asia's tech communities.","Tech in Asia (YC W15) is a media, events, and jobs platform for Asia's tech communities.",N/A,N/A,N/A,http://schema.org,Organization,,,https://www.techinasia.com/,,,,,,,,,,,,,,Tech in Asia,https://static.techinasia.com/assets/android-chrome-192x192.png,,,,,,"['https://www.facebook.com/techinasia', 'https://twitter.com/techinasia', 'https://plus.google.com/+techinasia-com', 'https://www.linkedin.com/company/tech-in-asia', 'https://instagram.com/techinasia']",,,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRlY2hmdW5uZWwuY29tL2hyLXRlY2gvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZnV0dXJlLWhyLWFuYWx5dGljcy_SAQA?oc=5,How AI can transform the future of HR Analytics - TechFunnel,2020-01-06,TechFunnel,https://www.techfunnel.com,"Artificial intelligence can disrupt and transform the future of HR analytics and HR operations, want to know how? Check these 8 ways NOW!",N/A,"Artificial intelligence can disrupt and transform the future of HR analytics and HR operations, want to know how? Check these 8 ways NOW!",N/A,N/A,N/A,N/A,https://schema.org/,WebSite,,,https://www.techfunnel.com/,,,,,,,,,,,,,,TechFunnel,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#article', 'isPartOf': {'@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/'}, 'author': {'name': 'Danni White', '@id': 'https://www.techfunnel.com/#/schema/person/55746dbe674b75c6397c423dcf47539e'}, 'headline': '8 Ways Artificial Intelligence can transform the future of HR Analytics', 'datePublished': '2019-10-21T13:46:08+00:00', 'dateModified': '2020-01-06T12:44:49+00:00', 'mainEntityOfPage': {'@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/'}, 'wordCount': 829, 'publisher': {'@id': 'https://www.techfunnel.com/#organization'}, 'image': {'@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#primaryimage'}, 'thumbnailUrl': 'https://www.techfunnel.com/wp-content/uploads/2019/10/artificial-intelligence-the-future-of-HR-analytics.png', 'keywords': ['artificial intelligence', 'HR analytics'], 'articleSection': ['HR Tech', 'Latest'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/', 'url': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/', 'name': 'How AI can transform the future of HR Analytics | Tehfunnel', 'isPartOf': {'@id': 'https://www.techfunnel.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#primaryimage'}, 'image': {'@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#primaryimage'}, 'thumbnailUrl': 'https://www.techfunnel.com/wp-content/uploads/2019/10/artificial-intelligence-the-future-of-HR-analytics.png', 'datePublished': '2019-10-21T13:46:08+00:00', 'dateModified': '2020-01-06T12:44:49+00:00', 'description': 'Artificial intelligence can disrupt and transform the future of HR analytics and HR operations, want to know how? Check these 8 ways NOW!', 'breadcrumb': {'@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#primaryimage', 'url': 'https://www.techfunnel.com/wp-content/uploads/2019/10/artificial-intelligence-the-future-of-HR-analytics.png', 'contentUrl': 'https://www.techfunnel.com/wp-content/uploads/2019/10/artificial-intelligence-the-future-of-HR-analytics.png', 'width': 769, 'height': 445, 'caption': 'artificial intelligence the future of HR analytics'}, {'@type': 'BreadcrumbList', '@id': 'https://www.techfunnel.com/hr-tech/artificial-intelligence-future-hr-analytics/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.techfunnel.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://www.techfunnel.com/blog/'}, {'@type': 'ListItem', 'position': 3, 'name': '8 Ways Artificial Intelligence can transform the future of HR Analytics'}]}, {'@type': 'WebSite', '@id': 'https://www.techfunnel.com/#website', 'url': 'https://www.techfunnel.com/', 'name': 'Techfunnel', 'description': '', 'publisher': {'@id': 'https://www.techfunnel.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.techfunnel.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.techfunnel.com/#organization', 'name': 'Techfunnel', 'url': 'https://www.techfunnel.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.techfunnel.com/#/schema/logo/image/', 'url': 'https://www.techfunnel.com/wp-content/uploads/2023/11/TF_NEWLOGOWHITE_New_logo.png', 'contentUrl': 'https://www.techfunnel.com/wp-content/uploads/2023/11/TF_NEWLOGOWHITE_New_logo.png', 'width': 256, 'height': 91, 'caption': 'Techfunnel'}, 'image': {'@id': 'https://www.techfunnel.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.techfunnel.com/#/schema/person/55746dbe674b75c6397c423dcf47539e', 'name': 'Danni White', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.techfunnel.com/#/schema/person/image/', 'url': 'https://www.techfunnel.com/wp-content/uploads/2024/01/Danni_image-150x150.jpg', 'contentUrl': 'https://www.techfunnel.com/wp-content/uploads/2024/01/Danni_image-150x150.jpg', 'caption': 'Danni White'}, 'description': 'Danni White is the CEO of DW Creative Consulting Agency, a digital marketing firm specializing in elevating the visibility of small-to-midsize businesses and nonprofits. She is the author of 17 books and hosts the #Hashtags and Habits Podcast, which merges digital marketing, entrepreneurship, and personal growth.', 'url': 'https://www.techfunnel.com/author/daniella/'}]","{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.techfunnel.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}",,,
+https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvdXNhX2FsbC1hYm91dC1hbWVyaWNhX3JvYm90cy1zdG9sZS1ibHVlLWNvbGxhci1qb2JzLW5vdy1haS1jb21pbmctd2hpdGUtY29sbGFyLXdvcmtlcnMvNjE4MjAwNC5odG1s0gF_aHR0cHM6Ly93d3cudm9hbmV3cy5jb20vYW1wL3VzYV9hbGwtYWJvdXQtYW1lcmljYV9yb2JvdHMtc3RvbGUtYmx1ZS1jb2xsYXItam9icy1ub3ctYWktY29taW5nLXdoaXRlLWNvbGxhci13b3JrZXJzLzYxODIwMDQuaHRtbA?oc=5,"Robots Stole Blue Collar Jobs, Now AI Is Coming for White Collar Workers - Voice of America - VOA News",2020-01-02,Voice of America - VOA News,https://www.voanews.com,"Automation has displaced less-educated blue collar workers, while AI could jolt better-educated Americans in higher-paying jobs ","USA, Economy, All About America","Automation has displaced less-educated blue collar workers, while AI could jolt better-educated Americans in higher-paying jobs ","Automation has displaced less-educated blue collar workers, while AI could jolt better-educated Americans in higher-paying jobs ",N/A,N/A,N/A,https://schema.org,NewsArticle,"{'width': 1080, 'height': 608, '@type': 'ImageObject', 'url': 'https://gdb.voanews.com/06c17e1c-0645-475b-98c1-380f25e3e76a_w1080_h608.jpg'}",https://www.voanews.com/a/usa_all-about-america_robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers/6182004.html,https://www.voanews.com/a/usa_all-about-america_robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers/6182004.html,en-US,"{'@type': 'Person', 'name': 'VOA'}",2020-01-02 21:11:41Z,2020-01-02 21:11:41Z,"Robots Stole Blue Collar Jobs, Now AI Is Coming for White Collar Workers",,"{'logo': {'width': 512, 'height': 220, '@type': 'ImageObject', 'url': 'https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png'}, '@type': 'NewsMediaOrganization', 'url': 'https://www.voanews.com', 'sameAs': ['https://www.facebook.com/VOANews', 'https://twitter.com/voanews', 'https://www.youtube.com/user/VOAvideo', 'https://www.instagram.com/voanews/'], 'name': 'Voice of America (VOA News)', 'alternateName': ''}",,,,,,,"Robots Stole Blue Collar Jobs, Now AI Is Coming for White Collar Workers",,,,,,,,All About America,,,,,,
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDEvMDEvaGVhbHRoL2JyZWFzdC1jYW5jZXItbWFtbW9ncmFtLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLmh0bWzSAQA?oc=5,A.I. Is Learning to Read Mammograms - The New York Times,2020-01-01,The New York Times,https://www.nytimes.com,Computers that are trained to recognize patterns and interpret images may outperform humans at finding cancer on X-rays.,N/A,Computers that are trained to recognize patterns and interpret images may outperform humans at finding cancer on X-rays.,Computers that are trained to recognize patterns and interpret images may outperform humans at finding cancer on X-rays.,Health,N/A,"AdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTA.I. Is Learning to Read MammogramsComputers that are trained to recognize patterns and interpret images may outperform humans at finding cancer on X-rays.Share full articleRead in appA yellow box indicates where an A.I. system found cancer hiding inside breast tissue. Six previous radiologists failed to find the cancer in routine mammograms.Credit...Northwestern UniversityBy Denise GradyJan. 1, 2020Artificial intelligence can help doctors do a better job of finding breast cancer on mammograms, researchers from Google and medical centers in the United States and Britain are reporting in the journal Nature.The new system for reading mammograms, which are X-rays of the breast, is still being studied and is not yet available for widespread use. It is just one of Google’s ventures into medicine. Computers can be trained to recognize patterns and interpret images, and the company has already created algorithms to help detect lung cancers on CT scans, diagnose eye disease in people with diabetes and find cancer on microscope slides.“This paper will help move things along quite a bit,” said Dr. Constance Lehman, director of breast imaging at the Massachusetts General Hospital in Boston, who was not involved in the study. “There are challenges to their methods. But having Google at this level is a very good thing.”Subscribe to The Times to read as many articles as you like.Denise Grady has been a science reporter for The Times since 1998. She wrote “Deadly Invaders,” a book about emerging viruses. More about Denise GradyA version of this article appears in print on Jan. 2, 2020, Section A, Page 11 of the New York edition with the headline: Artificial Intelligence Is Outperforming Radiologists in Detecting Breast Cancer. Order Reprints | Today’s Paper | SubscribeSee more on: Alphabet Inc.Share full articleRead in appAdvertisementSKIP ADVERTISEMENT",https://schema.org,NewsMediaOrganization,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/01/01/science/01AICancer-1/01AICancer-1-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/01/01/science/01AICancer-1/01AICancer-1-videoSixteenByNineJumbo1600.jpg', 'caption': 'A yellow box indicates where an A.I. system found cancer hiding inside breast tissue. Six previous radiologists failed to find the cancer in routine mammograms.', 'creditText': 'Northwestern University'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/01/01/science/01AICancer-1/merlin_166501161_6096cd8e-69c4-4eaa-b44a-644f031287db-superJumbo.jpg', 'height': 1801, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2020/01/01/science/01AICancer-1/merlin_166501161_6096cd8e-69c4-4eaa-b44a-644f031287db-superJumbo.jpg', 'caption': 'A yellow box indicates where an A.I. system found cancer hiding inside breast tissue. Six previous radiologists failed to find the cancer in routine mammograms.', 'creditText': 'Northwestern University'}]",https://www.nytimes.com/2020/01/01/health/breast-cancer-mammogram-artificial-intelligence.html,https://www.nytimes.com/,en-US,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/denise-grady', 'name': 'Denise Grady'}]",2020-01-01T18:00:07.000Z,2020-01-01T18:00:07.000Z,A.I. Is Learning to Read Mammograms,Artificial Intelligence Is Outperforming Radiologists in Detecting Breast Cancer,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdG9tZGF2ZW5wb3J0LzIwMjAvMDEvMDMvdGhlLWZ1dHVyZS1vZi13b3JrLW5vdy1tZWRpY2FsLWNvZGluZy13aXRoLWFpL9IBAA?oc=5,The Future Of Work Now—Medical Coding With AI - Forbes,2020-01-03,Forbes,https://www.forbes.com,"Translating a patient’s complex symptoms, and a clinician’s efforts to address them, into a clear and unambiguous classification code is now being assisted by AI.","medical coding,artificial intelligence","Translating a patient’s complex symptoms, and a clinician’s efforts to address them, into a clear and unambiguous classification code is now being assisted by AI.","Translating a patient’s complex symptoms, and a clinician’s efforts to address them, into a clear and unambiguous classification code is now being assisted by AI.",Enterprise Tech,N/A,"More From ForbesJul 15, 2024,09:02am EDTWhen Will Quantum Computers Affect Your Competitive Landscape?Jul 15, 2024,09:00am EDTAristotle’s Timeless Guide To Mastering AIOpsJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelJul 12, 2024,09:00am EDT‘Knowledge Is Power’: The Antipattern That Is Holding Your Team BackJul 12, 2024,07:00am EDTHow Generative AI Rattles the WorkplaceJul 11, 2024,12:49pm EDTReality Check: Generative AI’s Impact May Be Overstated, For NowEdit StoryForbesLeadershipCIO NetworkThe Future Of Work Now—Medical Coding With AITom DavenportContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itJan 3, 2020,11:43am ESTUpdated Jan 3, 2020, 11:43am ESTThis article is more than 4 years old.Share to FacebookShare to TwitterShare to LinkedinThomas H. Davenport and Steven Miller
+
+The coding of medical diagnosis and treatment has always been a challenging issue. Translating a patient’s complex symptoms, and a clinician’s efforts to address them, into a clear and unambiguous classification code was difficult even in simpler times. Now, however, hospitals and health insurance companies want very detailed information on what was wrong with a patient and the steps taken to treat them— for clinical record-keeping, for hospital operations review and planning, and perhaps most importantly, for financial reimbursement purposes.
+
+
+More Codes, More Complexity
+
+The current international standard for medical coding is ICD-10 (the tenth version of International Classification of Disease codes), from the World Health Organization (WHO). ICD‑10 has over 14,000 codes for diagnoses. The next update to this international standard, ICD-11, has already been formally adopted by WHO member states in May 2019. WHO member states, including the US, will begin implementation of ICD-11 as of January 2022. The new ICD-11 has over 55,000 diagnostic codes, four times the number of diagnostic codes contained in the WHO’s ICD-10.  
+DENVER, CO - NOVEMBER 25: The ICD-10 code for being burned due to water-skis on fire on the computer ... [+] of Dr. David Opperman at the Colorado Voice Clinic on November 25, 2015 in Denver, Colorado. Opperman like many other doctors are having to deal with the new 69,000 diagnostic codes to describe issues the aliments of their patients including burned while water skiing and injured in spacecraft collision. (Photo by Brent Lewis/The Denver Post via Getty Images)Denver Post via Getty Images
+PROMOTED
+In fact, there are even substantially more codes than the numbers given above, at least in the United States.  An enhanced version of IDC-10 that is specific to usage in the United States has about 140,000 classification codes, about 70,000 for diagnosis, and another 70,000 codes for classifying treatments.  We expect the enhanced version of IDC-11 that will be specific to usage in the US to have at least several times number of codes in the WHO version of IDC-11 given that the US version also includes treatment codes and has previously included a larger number of diagnostic codes as well.  
+No human being can remember all the codes for diseases and treatments, especially as the number of codes has climbed over the decades to tens of thousands. For decades, medical coders have relied on “code books” to look up the right code for classifying a disease or treatment. Thumbing through a reference book of codes obviously slowed down the process. And it is not just a matter of finding the right code. There are interpretation issues. With ICD-10 and prior versions of the classification scheme, there is often more than one way to code a diagnosis or treatment, and the medical coder has to decide on the most appropriate choices.
+MORE FOR YOUSuspected Trump Shooter Remembered By Rifle Team Member As ‘Comically Bad Shot’: What We Know About Thomas Matthew Crooks‘House Of The Dragon’ Season 2, Episode 5 Recap And Review: The Seeds Of The DragonBiden Vs. Trump 2024 Election Polls: Biden Narrowly Leads Trump In Virginia, After 10-Point Win There In 2020
+Over the past 20 years, the usage of computer-assisted coding systems has steadily increased across the healthcare industry as a means of coping with the increasing complexity of coding diagnosis and treatments. More recent versions of computer-assisted coding systems have incorporated state-of-the-art machine learning methods and other aspects of  artificial intelligence to enhance the system’s ability to analyze the clinical documentation—charts and notes—and determine which codes are relevant to a particular case. Some medical coders are now working hand-in-hand with AI-enhanced computer-assisted coding systems to identify and validate the correct codes.
+
+
+
+
+
+
+
+
+
+CxO
+US
+
+
+CEO: C-suite news, analysis, and advice for top decision makers right to your inbox.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the CEO newsletter!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the CEO newsletter!
+
+                More Newsletters
+            
+
+
+
+Elcilene Moseley and AI-Assisted Coding
+Elcilene Moseley lives in Florida and is an 11-year veteran medical coder. She previously worked for a company that owned multiple hospitals, but she now works for a coding services vendor that has a contract for coding in the same hospitals Moseley used to work for. She does her work from home, generally working for eight hours to do a certain number of patient charts per day. She specializes in outpatient therapies, often including outpatient surgeries.
+
+
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE
+Moseley is acutely aware of the increased complexity of coding and is a big supporter of the AI-enhanced com coding system—developed by her employer—that suggests codes for her to review. “It’s gotten so detailed—right side, left side, fracture displaced or not—there’s no way I can remember everything.” However, she notes, “AI only goes so far.” For example, the system may process the text in a chart document, note that the patient has congestive heart failure, and select that disease as a code for diagnosis and reimbursement. But that particular diagnosis is in the patient’s history, not what he or she is being treated for now. “Sometimes I’m amazed at how accurate the system’s coding is,” she says. “But sometimes it makes no sense.”
+When Moseley opens a chart, on the left side of each page there are codes with pointers to where the code came from in the chart report. Some coders don’t bother to read the patient chart from beginning to end, but Moseley believes it’s important to do so. “Maybe I am a little old fashioned,” she admits, “but it’s more accurate when I read it.” She acknowledges that the system makes you faster, “but it can also make you a little lazy.”
+Some patient cases are relatively simple to code, others more complex. “If it’s just an appendectomy for a healthy patient,” Moseley says, “I can check all the codes and get through it in five minutes.” This is despite multiple sections on a chart for even a simple surgery, including patient physical examination, anesthesiology, pathology, etc. On the other hand, she notes,If it’s a surgery on a 75-year-old man with end-stage kidney disease, diabetes, and cancer, I have to code their medical history, what meds they are taking—it takes much longer. And the medical history codes are important because if the patient has multiple diagnoses, it means the physician is spending more time. Those ‘evaluation and management’ codes are important for correctly reimbursing the physician and the hospital.
+
+Moseley and other coders are held to a 95% coding quality standard, and their work is audited every three months to ensure they meet it.
+When Moseley first began to use AI-enhanced coding a couple of years ago, she was suspicious of it because she thought it might put her out of a job. Now, however, she believes that will never happen and human coders will always be necessary. She notes that medical coding is so complex and there are so many variables, and so many specific circumstances. Due to this complexity, she believes that coding will never be fully automated. She has effectively become a code supervisor and auditor—checking the codes the system assigns and verifying if system recommendations are appropriate for the specific case. In her view,  all coders will eventually transition to roles of auditor and supervisor of the AI-enabled coding system. The AI system simply makes coders too productive to not use it.
+Educating Coders
+Moseley has a two-year “Associate of Science in Medical Billing and Coding” degree. In addition, she holds several different coding certifications—for general coding and in her specialty fields like emergency medicine. Keeping the certifications active requires regular continuing education units and tests.
+Not all coders, however, have this much training. Moseley says that there are lots of “sketchy” schools that offer online training in medical coding. They often overpromise about the prospects of a  lucrative job—with an up to $100,000 annual salary—if a student takes a coding course for six months. Working from home is another appealing aspect of these jobs.
+The problem is that hospitals and coding services firms want experienced coders, not entry-level hires with inadequate training. The more straightforward and simpler coding decisions are made by AI; more complex coding decisions and audits require experts. The “newbies” may be certified, Moseley says, but without prior experience they have a difficult time getting jobs. It would require too much on-the-job training by their employers to make them effective. The two professional associations for medical coding, AAPC (originally the American Academy of Professional Coders) and AHIMA (American Health Information Management Association), both have Facebook pages for their members to discuss issues in the coding field. Moseley says they are replete with complaints about the inability to find the entry-level jobs promised by the coding schools.
+For Elcilene Moseley, however, coding—especially with the help of AI—is a good job. She finds it interesting and relatively well-paid. Her work at home—at any hour of the day or night—provides her with a high level of flexibility. If she didn’t like her current position, she is constantly approached by headhunters about other coding jobs. Moseley argues that the only medical coders who are suffering from the use of AI are those at the entry level and those who refuse to learn the new skills to work with a smart machine.
+
+Steven Miller is a Professor of Information Systems and Vice Provost for Research at Singapore Management University.
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Tom DavenportFollowingFollowI'm the President's Distinguished Professor of IT and Management of Babson College, a Digital Fellow at the MIT Initiative on the Digital Economy,... Read MoreEditorial StandardsPrintReprints & Permissions",http://schema.org,BreadcrumbList,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/498785062/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}",,https://www.forbes.com/sites/tomdavenport/2020/01/03/the-future-of-work-now-medical-coding-with-ai/,,"{'@type': 'Person', 'name': 'Tom Davenport', 'url': 'https://www.forbes.com/sites/tomdavenport/', 'description': ""I'm the President's Distinguished Professor of IT and Management of Babson College, a Digital Fellow at the MIT Initiative on the Digital Economy, and a Senior Advisor to Deloitte's Analytics and Cognitive practice. I've been a professor at several universities (Harvard, University of Chicago, University of Texas) and a consultant or partner at several leading consulting firms (McKinsey, EY, Accenture). I teach, research, write, and speak about the impacts of information technology on people and organizations. My specific enthusiasms over the years have included business process reengineering, ERP, knowledge management, analytics, and AI. I've had many thoughts about these topics, and I've published most of them."", 'sameAs': ['https://www.linkedin.com/in/davenporttom/', 'https://www.twitter.com/tdav', 'https://www.tomdavenport.com']}",2020-01-03T11:43:42-05:00,2020-01-03T11:43:42-05:00,The Future Of Work Now—Medical Coding With AI,,"{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",,,,,False,,The Future Of Work Now—Medical Coding With AI,,,,,,,,Enterprise Tech,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Leadership', 'item': 'https://www.forbes.com/leadership/'}, {'@type': 'ListItem', 'position': 3, 'name': 'CIO Network', 'item': 'https://www.forbes.com/cio-network/'}]",,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vYnVzaW5lc3MvYXJ0aWNsZS1jYW5hZGlhbi1lbXBsb3llcnMtdHVybi10by1haS10by1hbmFseXplLXZpZGVvLWludGVydmlld3Mtb2Ytam9iL9IBAA?oc=5,"The new interview: AI analyzes answers, gestures to help decide who is right for the job - The Globe and Mail",2020-01-03,The Globe and Mail,https://www.theglobeandmail.com,"Air Canada are among those using artificial-intelligence software to examine answers, facial gestures and voice tonality of job seekers","news,Intervyo,Air Canada,artificial intelligence,employment interviews,job seekers,candidates,AI,company,people,software,knockri,canada,job,intervyo","Air Canada are among those using artificial-intelligence software to examine answers, facial gestures and voice tonality of job seekers","Air Canada are among those using artificial-intelligence software to examine answers, facial gestures and voice tonality of job seekers",N/A,N/A,N/A,http://schema.org,ItemList,"[{'@type': 'ImageObject', 'representativeOfPage': True, 'url': 'https://www.theglobeandmail.com/resizer/v2/HKOGHXLO6VAHFOFLS3EZFEUUYM.jpg?auth=0607a2eace208cec563a6fb7892b07f35c6dd564bf5b989ad62c838a70adfd87&width=1200&height=675&quality=80&smart=true', 'width': 1200, 'height': 675, 'description': 'Canadian employers turn to AI to analyze video interviews of job candidates'}, {'@type': 'ImageObject', 'representativeOfPage': True, 'url': 'https://www.theglobeandmail.com/resizer/v2/HKOGHXLO6VAHFOFLS3EZFEUUYM.jpg?auth=0607a2eace208cec563a6fb7892b07f35c6dd564bf5b989ad62c838a70adfd87&width=1200&height=900&quality=80&smart=true', 'width': 1200, 'height': 900, 'description': 'Canadian employers turn to AI to analyze video interviews of job candidates'}, {'@type': 'ImageObject', 'representativeOfPage': True, 'url': 'https://www.theglobeandmail.com/resizer/v2/HKOGHXLO6VAHFOFLS3EZFEUUYM.jpg?auth=0607a2eace208cec563a6fb7892b07f35c6dd564bf5b989ad62c838a70adfd87&width=1200&height=1200&quality=80&smart=true', 'width': 1200, 'height': 1200, 'description': 'Canadian employers turn to AI to analyze video interviews of job candidates'}]","{'@type': 'WebPage', '@id': 'https://www.theglobeandmail.com/business/article-canadian-employers-turn-to-ai-to-analyze-video-interviews-of-job/'}",,,"[{'@type': 'Person', 'name': 'Joe Castaldo', 'affiliation': {'@type': 'Organization', 'name': 'The Globe and Mail'}, 'url': 'https://www.theglobeandmail.com/authors/joe-castaldo/'}]",2020-01-03T23:59:29.606Z,2020-01-03T22:00:00Z,"The new interview: AI analyzes answers, gestures to help decide who is right for the job",,"{'@context': 'http://schema.org', 'name': 'The Globe and Mail', '@type': 'NewsMediaOrganization', '@id': 'theglobeandmail.com', 'url': 'https://www.theglobeandmail.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.theglobeandmail.com/files/dev/www/cache-long/images/logos/tgam-logo.png', 'width': 310, 'height': 36}, 'sameAs': ['https://www.facebook.com/theglobeandmail/', 'https://twitter.com/globeandmail/', 'https://www.youtube.com/user/TheGlobeandMail/', 'https://www.instagram.com/globeandmail/', 'https://en.wikipedia.org/wiki/The_Globe_and_Mail'], 'ethicsPolicy': 'https://www.theglobeandmail.com/about/editorial-code/', 'diversityPolicy': 'https://www.theglobeandmail.com/about/work-at-the-globe/#diversity', 'masthead': 'https://www.theglobeandmail.com/about/#masthead', 'correctionsPolicy': 'https://www.theglobeandmail.com/about/editorial-code/#corrections', 'foundingDate': '1844', 'contactPoint': [{'@type': 'ContactPoint', 'contactType': 'Newsroom Contact', 'telephone': '+1-416-585-5000', 'url': 'https://www.theglobeandmail.com/about/contact/'}, {'@type': 'ContactPoint', 'contactType': 'Public Engagement', 'email': 'publiceditor@globeandmail.com', 'url': 'https://www.theglobeandmail.com/about/contact/'}]}","{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.l-article'}","{'@context': 'http://schema.org', 'name': 'The Globe and Mail', '@type': 'NewsMediaOrganization', '@id': 'theglobeandmail.com', 'url': 'https://www.theglobeandmail.com/', 'inLanguage': 'en'}","{'@type': 'Organization', 'name': 'The Globe and Mail'}",2020.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The Globe and Mail', 'productID': 'theglobeandmail.com:access'}",bottom-furniture-recommendations-bottom-furniture-more-for-you,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'url': '/business/commentary/article-donald-trump-is-going-to-be-president-again-that-spells-six-big/'}, {'@type': 'ListItem', 'position': 2, 'url': '/investing/markets/inside-the-market/article-money-markets-raise-bets-for-boc-rate-cut-this-month-after-inflation/'}, {'@type': 'ListItem', 'position': 3, 'url': '/politics/article-the-republican-national-conventions-politics-of-sensory-overload/'}, {'@type': 'ListItem', 'position': 4, 'url': '/business/article-canada-inflation-rate-june-live-updates/'}]",,,,https://www.theglobeandmail.com/resizer/v2/HKOGHXLO6VAHFOFLS3EZFEUUYM.jpg?auth=0607a2eace208cec563a6fb7892b07f35c6dd564bf5b989ad62c838a70adfd87&width=640&quality=80,4.0
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL3RoZS1oaXRjaGhpa2Vycy1ndWlkZS10by1hcnRpZmljaWFsLWludGVsbGlnZW5jZS0yMDE5LTIwMjAtYnktYWltLWdyZWF0LWxlYXJuaW5nL9IBAA?oc=5,Hitchhiker's Guide To Artificial Intelligence In India: 2019-20 - AIM,2020-01-06,AIM,https://analyticsindiamag.com,N/A,N/A,N/A,N/A,N/A,N/A,"
+
+
+
+
+
+
+				8 Alternatives of Gradient Descent in Machine Learning			
+
+
+
+			Darshan M		
+
+			02/07/2022		
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRlY2hmdW5uZWwuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaXMtaGVhZGVkLXRvLXRoZS1hdXRvbW90aXZlLWluZHVzdHJ5L9IBAA?oc=5,Artificial Intelligence Is Headed to the Automotive Industry - TechFunnel,2020-01-06,TechFunnel,https://www.techfunnel.com,How AI in the automotive industry is changing the game. It makes sense that every auto industry would pursue artificial intelligence to revolutionize process to continue to grow and innovate.,N/A,How AI in the automotive industry is changing the game. It makes sense that every auto industry would pursue artificial intelligence to revolutionize process to continue to grow and innovate.,N/A,N/A,N/A,N/A,https://schema.org/,WebSite,,,https://www.techfunnel.com/,,,,,,,,,,,,,,TechFunnel,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#article', 'isPartOf': {'@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/'}, 'author': {'name': 'Marianne Chrisos', '@id': 'https://www.techfunnel.com/#/schema/person/4dac0d39c6251e40a7d0bf3618495179'}, 'headline': 'Artificial Intelligence Is Headed to the Automotive Industry', 'datePublished': '2019-06-03T16:40:51+00:00', 'dateModified': '2020-01-06T12:44:49+00:00', 'mainEntityOfPage': {'@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/'}, 'wordCount': 827, 'publisher': {'@id': 'https://www.techfunnel.com/#organization'}, 'image': {'@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#primaryimage'}, 'thumbnailUrl': 'https://www.techfunnel.com/wp-content/uploads/2019/06/Artificial-Intelligence-Is-Headed-to-the-Automotive-Industry-1.png', 'keywords': ['artificial intelligence'], 'articleSection': ['IT', 'Latest'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/', 'url': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/', 'name': 'Artificial Intelligence Is Headed to the Automotive Industry', 'isPartOf': {'@id': 'https://www.techfunnel.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#primaryimage'}, 'image': {'@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#primaryimage'}, 'thumbnailUrl': 'https://www.techfunnel.com/wp-content/uploads/2019/06/Artificial-Intelligence-Is-Headed-to-the-Automotive-Industry-1.png', 'datePublished': '2019-06-03T16:40:51+00:00', 'dateModified': '2020-01-06T12:44:49+00:00', 'description': 'How AI in the automotive industry is changing the game. It makes sense that every auto industry would pursue artificial intelligence to revolutionize process to continue to grow and innovate.', 'breadcrumb': {'@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#primaryimage', 'url': 'https://www.techfunnel.com/wp-content/uploads/2019/06/Artificial-Intelligence-Is-Headed-to-the-Automotive-Industry-1.png', 'contentUrl': 'https://www.techfunnel.com/wp-content/uploads/2019/06/Artificial-Intelligence-Is-Headed-to-the-Automotive-Industry-1.png', 'width': 769, 'height': 445, 'caption': 'Artificial Intelligence'}, {'@type': 'BreadcrumbList', '@id': 'https://www.techfunnel.com/information-technology/artificial-intelligence-is-headed-to-the-automotive-industry/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.techfunnel.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://www.techfunnel.com/blog/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Artificial Intelligence Is Headed to the Automotive Industry'}]}, {'@type': 'WebSite', '@id': 'https://www.techfunnel.com/#website', 'url': 'https://www.techfunnel.com/', 'name': 'Techfunnel', 'description': '', 'publisher': {'@id': 'https://www.techfunnel.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.techfunnel.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.techfunnel.com/#organization', 'name': 'Techfunnel', 'url': 'https://www.techfunnel.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.techfunnel.com/#/schema/logo/image/', 'url': 'https://www.techfunnel.com/wp-content/uploads/2023/11/TF_NEWLOGOWHITE_New_logo.png', 'contentUrl': 'https://www.techfunnel.com/wp-content/uploads/2023/11/TF_NEWLOGOWHITE_New_logo.png', 'width': 256, 'height': 91, 'caption': 'Techfunnel'}, 'image': {'@id': 'https://www.techfunnel.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.techfunnel.com/#/schema/person/4dac0d39c6251e40a7d0bf3618495179', 'name': 'Marianne Chrisos', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.techfunnel.com/#/schema/person/image/', 'url': 'https://www.techfunnel.com/wp-content/uploads/2017/12/Marianne-Chrisos_photo-150x150.jpg', 'contentUrl': 'https://www.techfunnel.com/wp-content/uploads/2017/12/Marianne-Chrisos_photo-150x150.jpg', 'caption': 'Marianne Chrisos'}, 'description': ""Born in Salem, Massachusetts, growing up outside of Chicago, Illinois, and currently living near Dallas, Texas, Marianne is a content writer at a company near Dallas and contributing writer around the internet. She earned her master's degree in Writing and Publishing from DePaul University in Chicago and has worked in publishing, advertising, digital marketing, and content strategy."", 'url': 'https://www.techfunnel.com/author/marianne/'}]","{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.techfunnel.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}",,,

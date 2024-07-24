@@ -1,0 +1,709 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,article:section,article:summary,article text,logo,sameAs,@graph,mainEntityOfPage,contributor,copyrightHolder,contentLocation,thumbnailUrl,uploadDate,duration,contentUrl,embedUrl,dateCreated,creator,speakable,articleBody,isPartOf,alternativeHeadline
+https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkdGVpY2gvMjAyMi8wNC8yOC90aGUtYnVzaW5lc3MtY2FzZS1mb3ItYWktaXMtYS1nb29kLW1hbmFnZW1lbnQtaW50cm9kdWN0aW9uLXRvLXJlYWwtd29ybGQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,'The Business Case For AI' Is A Good Management Introduction To Real-World Artificial Intelligence - Forbes,2022-04-29,Forbes,https://www.forbes.com,"The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist.","The Business Case For AI,artificial intelligence,ai,business management","The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist.","The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist.",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'David A. Teich', 'url': 'https://www.forbes.com/sites/davidteich/', 'description': ""David A. Teich is interested in artificial intelligence (AI), machine learning (ML), robotics, and other advances technologies, focused on how they help businesses improve performance. He's an analyst and consultant in those areas as well as in high tech, B2B, marketing. Previous work runs the gamut in software, including operations, development, field consulting, sales engineering and product marketing. He has worked in startups, mid-sized companies and global organizations."", 'sameAs': ['http://www.linkedin.com/in/davidteich', 'https://www.twitter.com/Teich_Comm', 'https://teich-communications.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",‘The Business Case For AI’ Is A Good Management Introduction To Real-World Artificial Intelligence,2022-04-28T11:20:03-04:00,2022-04-29T04:19:42-04:00,AI,‘The Business Case For AI’ Is A Good Management Introduction To Real-World Artificial Intelligence,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'AI', 'item': 'https://www.forbes.com/ai/'}]",AI,N/A,"More From ForbesJul 19, 2024,10:00am EDTThe Synergy Of Humans And AI Is Reshaping The Workforce For The FutureJul 18, 2024,07:36pm EDTWhy Americans Believe That Generative AI Such As ChatGPT Has ConsciousnessJul 18, 2024,04:43pm EDTThe Trough Of Disillusionment And Four Outliers On The Gartner Hype CycleJul 18, 2024,02:19pm EDTWhat Is The Future Of Intellectual Property In A Generative AI World?Jul 18, 2024,10:00am EDTHow AI Companions Are Redefining Human Relationships In The Digital AgeJul 17, 2024,10:48pm EDTBillions Of People Need To Learn AI LiteracyJul 17, 2024,01:45pm EDTWill The New U.K. Government Introduce A New Digital Identity System?Edit StoryForbesInnovationAI‘The Business Case For AI’ Is A Good Management Introduction To Real-World Artificial IntelligenceDavid A. TeichSenior ContributorOpinions expressed by Forbes Contributors are their own.B2B technology analyst, marketer, and consultantFollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itApr 28, 2022,11:20am EDTUpdated Apr 29, 2022, 04:19am EDTThis article is more than 2 years old.Share to FacebookShare to TwitterShare to LinkedinArtificial IntelligenceSergey Tarasov - stock.adobe.com
+Too many technologist, in every generation of technology, state that management need to think more like programmers. That’s not the case. Rather, the technology professionals need to learn to speak to management. “The Business Case for AI,” by Kavita Ganesan, PhD, is a good overview for managers wishing to understand and control the complexities of implementing artificial intelligence (AI) systems in businesses.
+
+
+I’m always skeptical of self-published books. Usually that means the books just aren’t that good. However, sometimes, especially in non-fiction, it means that publishers are clueless about the subject and hesitant to work with people who aren’t “names.” This book is an example of the second option, and it will give management an introduction to the concepts surrounding AI and how to address implementation in a way that will increase the odds of success for AI initiatives.
+
+The indication that the author mostly lives in the real world comes quickly. The first chapter is a good, introduction to what matters for business about AI. Forget the technical focus, it’s about solving problems in an efficient and cost-effective way.
+
+PROMOTED
+Chapter 2, “What is AI?” isn’t bad either, though I disagree with the idea that machine learning (ML) is part of AI. Business Intelligence (BI) has advanced, along with computing performance, that standard analytics provide insight that can be termed ML, so ML and AI overlap. That, however, is a religious argument and what Ganeson has to say about AI is at a good level for management understanding.
+
+The weakest chapter in the introduction is the fourth, where the science fiction addict in me had to sigh at “Movies such as ‘I Robot’”. Ummm, check your library.
+That chapter’s list of myths is also a bit problematic. The first, about job loss, is the one area where it shows the part of the real world in which the author exists isn’t one most people are in. The AI revolution is very different than the industrial revolution and earlier technology revolutions. She talks about artificial general intelligence (AGI) and says that since it’s still far away that means a lot of jobs won’t be lost. We don’t need AGI to replace jobs.
+MORE FROMFORBES ADVISORBest Travel Insurance CompaniesByAmy DaniseEditorBest Covid-19 Travel Insurance PlansByAmy DaniseEditor
+The next couple of chapters are good for setting up examples of business processes that could be impacted by AI. I do have an issue with which companies she decides to name and which remain anonymous, as that seems to imply protecting customers. The best part was a good discussion of IT & manufacturing operations, but that could have been improved by discussing infrastructure operations such as pipelines and the electrical grid.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+Part 3 (chapters 7-9) is very good but, again, has a few things to keep in mind. On page 117, six phases of the development lifecycle are defined. I agree with them, but want to point out that data acquisition and model development, phases 2 & 3, can be done somewhat in parallel. The things you learn from each can impact the other. The other nit is that the author seems to use warehouse improperly. Data warehouses have a specific, more narrow purpose. When she uses the term, think data lake. The importance of logging, transactions and more, is often ignored, and the end of this section of the book has a good explanation of its importance.
+
+
+1/100:12Forbes Innovation
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingToday’s ‘Quordle’ Help, Hints And Answers For Friday, July 19after the adVisit Advertiser websiteGO TO PAGE
+The fourth part of the book is a set of chapters that drills down into the “finding AI projects” portion of the analysis process, and is well laid out.
+The final section has two chapters. The first is about “build v buy.” It is no surprise that a consultant leans towards build, that’s her livelihood. What managers need to understand is that businesses aren’t as unique as they wish to think. There are unique things, but the vast majority of business is like other businesses. AI is a new technology and there aren’t enough easy to use tools for a buy decision in many areas, but that will change over time. Managers need have a flexible understanding of the equation and balance that in the real-world.
+The final chapter is, as expected, a good summation and a return to focusing on business results. It continues the author’s use of good, simple, graphics to show the points of her arguments. Regardless of the issues I’ve mentioned above, the book does a great job of laying out the challenges of artificial intelligence from a business perspective. The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist. “The Business Case for AI” is a good introduction for IT and line managers to think about how to integrate artificial intelligence into their organizations.
+Follow me on Twitter or LinkedIn. Check out my website. David A. TeichFollowingFollowDavid A. Teich is interested in artificial intelligence (AI), machine learning (ML), robotics, and other advances technologies, focused on how they help... Read MoreEditorial StandardsPrintReprints & Permissions",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9hYm91dC11cy9uZXctYXQtbWNraW5zZXktYmxvZy9oeWJyaWQtaW50ZWxsaWdlbmNlLXRoZS1mdXR1cmUtb2YtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2XSAQA?oc=5,Why hybrid intelligence is the future of artificial intelligence at McKinsey - McKinsey,2022-04-29,McKinsey,https://www.mckinsey.com,"This week, our firm marks a new chapter for QuantumBlack, which becomes the unified AI arm of McKinsey. Find out what differentiates our approach to AI and how it’s helping our clients.",N/A,"This week, our firm marks a new chapter for QuantumBlack, which becomes the unified AI arm of McKinsey. Find out what differentiates our approach to AI and how it’s helping our clients.","This week, our firm marks a new chapter for QuantumBlack, which becomes the unified AI arm of McKinsey. Find out what differentiates our approach to AI and how it’s helping our clients.",,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJpcm1pbmdoYW0uYWMudWsvbmV3cy8yMDIyL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW9mZmVycy1zb2x1dGlvbi10by1oZWF2eS1tYXJraW5nLWxvYWRz0gEA?oc=5,Artificial intelligence offers solution to heavy marking loads - University of Birmingham,2022-04-26,University of Birmingham,https://www.birmingham.ac.uk,"An assessment and feedback platform that cuts the time taken to mark work in maths and science subjects has been designed at the University of Birmingham.
+",N/A,"An assessment and feedback platform that cuts the time taken to mark work in maths and science subjects has been designed at the University of Birmingham.
+","An assessment and feedback platform that cuts the time taken to mark work in maths and science subjects has been designed at the University of Birmingham.
+",http://schema.org,Organization,https://www.birmingham.ac.uk,,,,,,,,University of Birmingham,,,N/A,N/A,"Professor Nicola WilkinDirector of Education, College of Engineering and Physical SciencesStaff profile for Professor Nicola Wilkin.",https://www.birmingham.ac.uk/assets/img/uob-logo-dark.png,"['http://www.facebook.com/unibirmingham', 'http://twitter.com/unibirmingham', 'http://plus.google.com/+unibirmingham', 'http://www.instagram.com/unibirmingham', 'https://www.linkedin.com/company/university-of-birmingham']",,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMi8wNC8yOC90aGUtZW1lcmdpbmctdHlwZXMtb2YtbGFuZ3VhZ2UtbW9kZWxzLWFuZC13aHktdGhleS1tYXR0ZXIv0gEA?oc=5,The emerging types of language models and why they matter - TechCrunch,2022-04-28,TechCrunch,https://techcrunch.com,"Three major types of language models have emerged as dominant: large, fine-tuned, and edge. They differ in key, important capabilities -- and limitations.",N/A,"Three major types of language models have emerged as dominant: large, fine-tuned, and edge. They differ in key, important capabilities -- and limitations.","Three major types of language models have emerged as dominant: large, fine-tuned, and edge. They differ in key, important capabilities -- and limitations.",https://schema.org,,,,,,,,,,,,,N/A,N/A,N/A,,,"[{'@type': 'NewsArticle', '@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/#article', 'isPartOf': {'@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/'}, 'author': [{'@id': 'https://techcrunch.com/#/schema/person/image/04204065a9b9e28aa844d71ca017751b'}], 'headline': 'The emerging types of language models and why they matter', 'datePublished': '2022-04-28T12:30:35+00:00', 'dateModified': '2022-04-28T19:36:31+00:00', 'mainEntityOfPage': {'@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/'}, 'wordCount': 1886, 'commentCount': 0, 'publisher': {'@id': 'https://techcrunch.com/#organization'}, 'image': {'@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/#primaryimage'}, 'thumbnailUrl': 'https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg', 'keywords': ['Cloud Computing', 'developers', 'AI', 'nlp', 'machine learning', 'natural language processing'], 'articleSection': ['Enterprise', 'Media &amp; Entertainment', 'AI'], 'inLanguage': 'en-US', 'speakable': {'@type': 'SpeakableSpecification', 'cssSelector': ['#speakable-summary']}, 'copyrightYear': '2022', 'copyrightHolder': {'@id': 'https://techcrunch.com/#organization'}}, {'@type': 'WebPage', '@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/', 'url': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/', 'name': 'The emerging types of language models and why they matter', 'isPartOf': {'@id': 'https://techcrunch.com/#website'}, 'primaryImageOfPage': {'@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/#primaryimage'}, 'image': {'@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/#primaryimage'}, 'thumbnailUrl': 'https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg', 'datePublished': '2022-04-28T12:30:35+00:00', 'dateModified': '2022-04-28T19:36:31+00:00', 'description': 'Three major types of language models have emerged as dominant: large, fine-tuned, and edge. They differ in key, important capabilities -- and limitations.', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/#primaryimage', 'url': 'https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg', 'contentUrl': 'https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg', 'width': 1701, 'height': 1157, 'caption': 'Natural Language Processing concept. Business communication vector illustration'}, {'@type': 'WebSite', '@id': 'https://techcrunch.com/#website', 'url': 'https://techcrunch.com/', 'name': 'TechCrunch', 'description': 'Startup and Technology News', 'publisher': {'@id': 'https://techcrunch.com/#organization'}, 'alternateName': 'TC', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://techcrunch.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://techcrunch.com/#organization', 'name': 'TechCrunch', 'alternateName': 'TC', 'url': 'https://techcrunch.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://techcrunch.com/#/schema/logo/image/', 'url': 'https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200', 'contentUrl': 'https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200', 'width': 1200, 'height': 1200, 'caption': 'TechCrunch'}, 'image': {'@id': 'https://techcrunch.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/techcrunch', 'https://x.com/TechCrunch', 'https://mstdn.social/@TechCrunch', 'https://bsky.app/profile/techcrunch.bsky.social', 'https://www.threads.net/@techcrunch']}, {'@type': 'Person', '@id': 'https://techcrunch.com/#/schema/person/image/04204065a9b9e28aa844d71ca017751b', 'name': 'Kyle Wiggers', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://techcrunch.com/#/schema/person/image/0a66c0c4e7c38c0d41959c04054c729b', 'url': 'https://secure.gravatar.com/avatar/c444ee74e16b994683cd9c6497173dda?s=96&d=identicon&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/c444ee74e16b994683cd9c6497173dda?s=96&d=identicon&r=g', 'caption': 'Kyle Wiggers'}, 'description': 'Kyle Wiggers is a senior reporter at TechCrunch with a special interest in artificial intelligence. His writing has appeared in VentureBeat and Digital Trends, as well as a range of gadget blogs including Android Police, Android Authority, Droid-Life, and XDA-Developers. He lives in Brooklyn with his partner, a piano educator, and dabbles in piano himself. occasionally -- if mostly unsuccessfully.', 'url': 'https://techcrunch.com/author/kyle-wiggers/'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vc2NpZW5jZWJ1c2luZXNzLm5ldC92aWV3cG9pbnQvY292aWQtMTkvdmlld3BvaW50LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXBvaXNlZC1wbGF5LWdyZWF0ZXItcm9sZS1zY2llbmNl0gEA?oc=5,Viewpoint: Artificial intelligence poised to play greater role in science - Science Business,2022-04-28,Science Business,https://sciencebusiness.net,"COVID-19 changed the way we all work, live and socialise – with technology and communication tools more important than ever. The world of scientific research was no exception, with the use of technology and specifically artificial intelligence (AI) increasing. AI is now increasingly relied upon to speed up research and generate new insights across all of science.",N/A,"COVID-19 changed the way we all work, live and socialise – with technology and communication tools more important than ever. The world of scientific research was no exception, with the use of technology and specifically artificial intelligence (AI) increasing. AI is now increasingly relied upon to speed up research and generate new insights across all of science.","COVID-19 changed the way we all work, live and socialise – with technology and communication tools more important than ever. The world of scientific research was no exception, with the use of technology and specifically artificial intelligence (AI) increasing. AI is now increasingly relied upon to speed up research and generate new insights across all of science. The positive endorsement of AI was noted in the second iteration of Elsevier’s global research project – Research Futures – which aims to gather the views and opinions of researchers across the world to help us as science publishers better understand the challenges and opportunities they face. Forty seven percent of researchers believe that a long-lasting impact of the pandemic will be a greater dependency on technology and AI in their work, underlining the importance of AI for the future of research. The study shows the number of researchers using AI “extensively” has increased from 12% in 2020 to 16% in 2021. In materials science, which covers the structure and properties of materials, the discovery of new materials and how they are made, 18% of researchers are now likely to be extensive AI users, up from zero a year ago. In chemistry, the number has grown from 2% to 19% and in mathematics from 4% to 13%. Unsurprisingly, 64% of computer scientists say they are heavy users of AI.  Most often researchers who use AI do so to analyse research results (66%) or to spot defects or issues with data (49%), while a minority are using it to help generate new hypotheses (17%). As we note in our Research Futures Report 2.0, AI has been crucial to healthcare throughout the pandemic. We have seen hospitals use it to help predict which patients would be most severely affected by COVID-19, as well as manage their resources. Attitudes toward the use of AI in peer review have also changed. Around one in five researchers (21%) agree they would read papers that rely on AI for peer review instead of humans, a 5% increase on 2020. Looking at the results by age, those aged 36 and under have increased their willingness to read such articles the most, compared to a year ago (21%, up from 14% prior year). But while attitudes are changing, most researchers continue to be reticent about AI in peer review, with 58% saying they are unwilling to read such articles. It’s clear that the place of AI in research is evolving and it is gradually becoming a crucial and trustworthy tool. However, not all reservations surrounding AI have been answered by the accelerated reliance on it during the pandemic. Nonetheless, the technological strides made, especially in the fields of material science, medicine and chemistry, show the crucial role AI will play in the future.   The Elsevier Research Futures Report 2.0 is free to download here. It builds on the first Research Futures Report (2019) which considered what the world of research might look like in 10 years’ time. The new data highlights mounting pressure across publishing and funding, while highlighting new opportunities in new funding sources, technology, and collaboration. Adrian Mulligan is Research Director for Customer Insights at the science publisher Elsevier",,,,,,,,,,,,,,N/A,N/A,"
+
+
+COVID-19
+
+
+Global survey shows researchers in increasing numbers are looking to AI to support and speed up their work
+
+    By
+Adrian Mulligan
+
+
+
+
+
+
+
+
+ 
+
+
+Adrian Mulligan is Research Director for Customer Insights at the science publisher Elsevier
+
+
+COVID-19 changed the way we all work, live and socialise – with technology and communication tools more important than ever. The world of scientific research was no exception, with the use of technology and specifically artificial intelligence (AI) increasing. AI is now increasingly relied upon to speed up research and generate new insights across all of science. 
+The positive endorsement of AI was noted in the second iteration of Elsevier’s global research project – Research Futures – which aims to gather the views and opinions of researchers across the world to help us as science publishers better understand the challenges and opportunities they face.
+Forty seven percent of researchers believe that a long-lasting impact of the pandemic will be a greater dependency on technology and AI in their work, underlining the importance of AI for the future of research.
+The study shows the number of researchers using AI “extensively” has increased from 12% in 2020 to 16% in 2021. In materials science, which covers the structure and properties of materials, the discovery of new materials and how they are made, 18% of researchers are now likely to be extensive AI users, up from zero a year ago. In chemistry, the number has grown from 2% to 19% and in mathematics from 4% to 13%. Unsurprisingly, 64% of computer scientists say they are heavy users of AI.  
+Most often researchers who use AI do so to analyse research results (66%) or to spot defects or issues with data (49%), while a minority are using it to help generate new hypotheses (17%). 
+As we note in our Research Futures Report 2.0, AI has been crucial to healthcare throughout the pandemic. We have seen hospitals use it to help predict which patients would be most severely affected by COVID-19, as well as manage their resources. 
+Attitudes toward the use of AI in peer review have also changed. Around one in five researchers (21%) agree they would read papers that rely on AI for peer review instead of humans, a 5% increase on 2020. Looking at the results by age, those aged 36 and under have increased their willingness to read such articles the most, compared to a year ago (21%, up from 14% prior year). But while attitudes are changing, most researchers continue to be reticent about AI in peer review, with 58% saying they are unwilling to read such articles. 
+It’s clear that the place of AI in research is evolving and it is gradually becoming a crucial and trustworthy tool. However, not all reservations surrounding AI have been answered by the accelerated reliance on it during the pandemic.
+Nonetheless, the technological strides made, especially in the fields of material science, medicine and chemistry, show the crucial role AI will play in the future.  
+The Elsevier Research Futures Report 2.0 is free to download here. It builds on the first Research Futures Report (2019) which considered what the world of research might look like in 10 years’ time. The new data highlights mounting pressure across publishing and funding, while highlighting new opportunities in new funding sources, technology, and collaboration.
+Adrian Mulligan is Research Director for Customer Insights at the science publisher Elsevier
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYmVybmFyZG1hcnIuY29tL3doYXQtaXMtYWktaW1pdGF0aW9uLWxlYXJuaW5nLWEtc3VwZXItc2ltcGxlLWd1aWRlLWFueW9uZS1jYW4tdW5kZXJzdGFuZC_SAQA?oc=5,What Is AI Imitation Learning – A Super-Simple Guide Anyone Can Understand - Bernard Marr,2022-04-26,Bernard Marr,https://bernardmarr.com,"Humans and animals’ most successful learning strategy is to observe actions being carried out, and to attempt to replicate them.",N/A,"Humans and animals’ most successful learning strategy is to observe actions being carried out, and to attempt to replicate them.",N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,N/A,,,"[{'@type': 'Article', '@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#article', 'isPartOf': {'@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/'}, 'author': {'name': 'Bernard Marr', '@id': 'https://bernardmarr.com/#/schema/person/b3c3cb90b331ffc7b13f30fc74daead0'}, 'headline': 'What Is AI Imitation Learning – A Super-Simple Guide Anyone Can Understand', 'datePublished': '2022-04-26T11:05:27+00:00', 'dateModified': '2022-04-26T11:05:27+00:00', 'mainEntityOfPage': {'@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/'}, 'wordCount': 2012, 'commentCount': 0, 'publisher': {'@id': 'https://bernardmarr.com/#organization'}, 'image': {'@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#primaryimage'}, 'thumbnailUrl': 'https://bernardmarr.com/wp-content/uploads/2022/04/What-Is-AI-Imitation-Learning-–-A-Super-Simple-Guide-Anyone-Can-Understand.jpg', 'keywords': ['Articles'], 'articleSection': ['Artificial Intelligence &amp; Machine Learning'], 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#respond']}]}, {'@type': 'WebPage', '@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/', 'url': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/', 'name': 'What Is AI Imitation Learning – A Super-Simple Guide Anyone Can Understand | Bernard Marr', 'isPartOf': {'@id': 'https://bernardmarr.com/#website'}, 'primaryImageOfPage': {'@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#primaryimage'}, 'image': {'@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#primaryimage'}, 'thumbnailUrl': 'https://bernardmarr.com/wp-content/uploads/2022/04/What-Is-AI-Imitation-Learning-–-A-Super-Simple-Guide-Anyone-Can-Understand.jpg', 'datePublished': '2022-04-26T11:05:27+00:00', 'dateModified': '2022-04-26T11:05:27+00:00', 'description': 'Humans and animals’ most successful learning strategy is to observe actions being carried out, and to attempt to replicate them.', 'breadcrumb': {'@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#primaryimage', 'url': 'https://bernardmarr.com/wp-content/uploads/2022/04/What-Is-AI-Imitation-Learning-–-A-Super-Simple-Guide-Anyone-Can-Understand.jpg', 'contentUrl': 'https://bernardmarr.com/wp-content/uploads/2022/04/What-Is-AI-Imitation-Learning-–-A-Super-Simple-Guide-Anyone-Can-Understand.jpg', 'width': 1400, 'height': 934}, {'@type': 'BreadcrumbList', '@id': 'https://bernardmarr.com/what-is-ai-imitation-learning-a-super-simple-guide-anyone-can-understand/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bernardmarr.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'What Is AI Imitation Learning – A Super-Simple Guide Anyone Can Understand'}]}, {'@type': 'WebSite', '@id': 'https://bernardmarr.com/#website', 'url': 'https://bernardmarr.com/', 'name': 'Bernard Marr', 'description': 'Intelligent Business Performance', 'publisher': {'@id': 'https://bernardmarr.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://bernardmarr.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://bernardmarr.com/#organization', 'name': 'Bernard Marr', 'url': 'https://bernardmarr.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/#/schema/logo/image/', 'url': 'https://bernardmarr.com/wp-content/uploads/2021/06/Bernard-Marr-Intelligent-Business-Performance-Logo.png', 'contentUrl': 'https://bernardmarr.com/wp-content/uploads/2021/06/Bernard-Marr-Intelligent-Business-Performance-Logo.png', 'width': 337, 'height': 49, 'caption': 'Bernard Marr'}, 'image': {'@id': 'https://bernardmarr.com/#/schema/logo/image/'}, 'sameAs': ['https://en-gb.facebook.com/BernardWMarr/', 'https://x.com/BernardMarr', 'https://www.instagram.com/bernard.marr', 'https://www.linkedin.com/in/bernardmarr/', 'https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw']}, {'@type': 'Person', '@id': 'https://bernardmarr.com/#/schema/person/b3c3cb90b331ffc7b13f30fc74daead0', 'name': 'Bernard Marr', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bernardmarr.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/daffd79db4879d38c053435ac089ef02?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/daffd79db4879d38c053435ac089ef02?s=96&d=mm&r=g', 'caption': 'Bernard Marr'}, 'description': 'Bernard Marr is a world-renowned futurist, influencer and thought leader in the field of business and technology. He is the author of 18 best-selling books, writes a regular column for Forbes and advises and coaches many of the world’s best-known organisations. He has 2 million social media followers and was ranked by LinkedIn as one of the top 5 business influencers in the world and the No 1 influencer in the UK.', 'sameAs': ['https://bernardmarr.com/', 'https://en-gb.facebook.com/BernardWMarr/', 'https://www.instagram.com/bernard.marr', 'https://www.linkedin.com/in/bernardmarr/', 'https://x.com/BernardMarr', 'https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw'], 'url': 'https://bernardmarr.com/author/123internet/'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNvb2xpbmdwb3N0LmNvbS93b3JsZC1uZXdzL2RhaWtpbi1sYXRlc3QtdG8tYWRvcHQtYWktc2VydmljZS10b29sL9IBAA?oc=5,Daikin latest to adopt AI service tool - Cooling Post,2022-04-29,Cooling Post,https://www.coolingpost.com,N/A,N/A,USA: Daikin Comfort Technologies North America is the latest air conditioning manufacturer to adopt the cloud-based mobile communications tool developed by US...Read More...,N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+
+Daikin latest to adopt AI service tool
+29th April 2022
+
+
+
+
+
+
+USA: Daikin Comfort Technologies North America is the latest air conditioning manufacturer to adopt the cloud-based mobile communications tool developed by US company XOi Technologies. 
+
+The technology has also been adopted by Carrier for both its Carrier and Bryant service technicians in the USA and by the UK subsidiary of Aermec, the Italian chiller and fan coli manufacturer.
+Using the technology with the Daikin, Goodman and Amana air conditioning brands will enable contractors to automate the entire workflow, boosting quality repairs and replacements. It seamlessly connects field service techs, home offices and their customers, while enabling on-the-job photo and video documentation, real-time remote video support and training, plus access to a vast knowledge base of product documentation and training content.
+This is accomplished through a cloud-based app that’s customisable for specific dealer needs. For their customers, it allows the repair process to be immediately shareable, transparent and validating.
+
+According to XOi Technologies, contractors using this service solution found they could grow revenues by up to 18%, cut callbacks by up to 40% and reduce re-servicing by up to 80%.
+“XOi simplifies technicians’ work while validating consistent quality and, ultimately, transforming the customer experience,” said Stuart Werner, Daikin’s vice president – technical services.
+“With XOi’s software solution, HVAC technicians can better document, communicate and verify the services they provide. It equips field professionals with capabilities to perform full-service diagnostics at any job site by applying data science across live video, workflow automation and artificial intelligence.”
+At its core, XOi software standardises workflows and documents job sites by collecting, indexing and analysing data to improve both current and future service calls. But, Werner says, it also allows Daikin technicians to build a deep and easily accessible institutional knowledge base that supports real-time decision-making and data-based continuity.
+“What elevates XOi’s technology from the rest of the field service management sector,” explains Werner, “is its historical job data functionality that seamlessly ties together customers, contractors, distributor and OEMS, laying the foundation for future value. If we can reduce the challenges HVAC techs face – documenting the entire process for both customers and our industry’s knowledge base – we can tackle one of HVAC’s biggest challenges head on.”
+
+XOi’s cloud-based suite uses augmented reality and artificial intelligence to apply, aggregate and analyse critical job data from the moment a field tech steps onto a job site. The entire workflow is streamlined and automated, with a simple capture and share function that allows photo/video documentation, while pinpointing manuals, parts and training specific to the equipment. The workflow is readily shareable to the home office, distributors and OEMs. Customers can also get a record of service call highlights, making it easier to understand repair or replacement costs.
+With XOi’s coaching screen, field techs and others can collaborate with live, interactive video that’s recorded and indexed, a feature built to help less experienced technicians or those facing repair challenges. Technicians can access more than 120,000 pieces of content – a centralised training repository with easy access to historical job content.
+“Most field service management software solutions are effective for high-level operations, but we designed XOi to fully capture the granular detail that is crucial not only for real-time decisions but for long-term accuracy and efficiency,” said XOi founder and CEO Aaron Salow. 
+Related stories:
+Daikin unifies US air conditioner brands – 7 March 2022USA: Daikin’s unitary, ductless and light commercial and VRV products organisation in North America has been renamed Daikin Comfort Technologies. Read more…
+Aermec UK adopts AI-based service tool – 11 May 2021UK: Aermec UK is to adopt a cloud-based mobile communications tool to provide real-time connection between its service and maintenance engineers and the office. Read more…
+ 
+
+Share this post:   
+
+
+
+
+
+ Facebook
+
+
+
+
+
+
+ Whatsapp
+
+
+
+
+
+
+ Telegram
+
+
+
+
+
+
+ Twitter
+
+
+
+
+
+
+ Email
+
+
+
+",,,"[{'@type': 'NewsArticle', '@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#article', 'isPartOf': {'@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/'}, 'author': {'name': 'Neil Everitt', '@id': 'https://www.coolingpost.com/#/schema/person/b8c545b790500b7b13b7fccdb4162f02'}, 'headline': 'Daikin latest to adopt AI service tool', 'datePublished': '2022-04-29T11:29:17+00:00', 'dateModified': '2022-04-29T11:29:19+00:00', 'mainEntityOfPage': {'@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/'}, 'wordCount': 619, 'publisher': {'@id': 'https://www.coolingpost.com/#organization'}, 'image': {'@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#primaryimage'}, 'thumbnailUrl': 'https://d1hkuvzpg9u07q.cloudfront.net/wp-content/uploads/2022/04/XOi-3.jpg', 'articleSection': ['World News'], 'inLanguage': 'en-GB'}, {'@type': 'WebPage', '@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/', 'url': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/', 'name': 'Daikin latest to adopt AI service tool - Cooling Post', 'isPartOf': {'@id': 'https://www.coolingpost.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#primaryimage'}, 'image': {'@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#primaryimage'}, 'thumbnailUrl': 'https://d1hkuvzpg9u07q.cloudfront.net/wp-content/uploads/2022/04/XOi-3.jpg', 'datePublished': '2022-04-29T11:29:17+00:00', 'dateModified': '2022-04-29T11:29:19+00:00', 'breadcrumb': {'@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#primaryimage', 'url': 'https://d1hkuvzpg9u07q.cloudfront.net/wp-content/uploads/2022/04/XOi-3.jpg', 'contentUrl': 'https://d1hkuvzpg9u07q.cloudfront.net/wp-content/uploads/2022/04/XOi-3.jpg', 'width': 770, 'height': 450}, {'@type': 'BreadcrumbList', '@id': 'https://www.coolingpost.com/world-news/daikin-latest-to-adopt-ai-service-tool/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.coolingpost.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'World News', 'item': 'https://www.coolingpost.com/category/world-news/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Daikin latest to adopt AI service tool'}]}, {'@type': 'WebSite', '@id': 'https://www.coolingpost.com/#website', 'url': 'https://www.coolingpost.com/', 'name': 'Cooling Post', 'description': 'Global Air Conditioning &amp; Refrigeration News', 'publisher': {'@id': 'https://www.coolingpost.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.coolingpost.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://www.coolingpost.com/#organization', 'name': 'Cooling Post', 'url': 'https://www.coolingpost.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://www.coolingpost.com/#/schema/logo/image/', 'url': '', 'contentUrl': '', 'caption': 'Cooling Post'}, 'image': {'@id': 'https://www.coolingpost.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.coolingpost.com/#/schema/person/b8c545b790500b7b13b7fccdb4162f02', 'name': 'Neil Everitt', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://www.coolingpost.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/1c282207a3d79091a4d390329b315ed6?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/1c282207a3d79091a4d390329b315ed6?s=96&d=mm&r=g', 'caption': 'Neil Everitt'}, 'url': 'https://www.coolingpost.com/author/neil/'}]",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvZDQzNzQ3LTAyMi0wMDEyNS0y0gEA?oc=5,Software powered by artificial intelligence accelerates drug discovery - Nature.com,2022-04-28,Nature.com,https://www.nature.com,BenchSci is on a mission to increase the speed and quality of life-saving research by empowering scientists with the world’s most advanced biomedical artificial intelligence (AI).,N/A,BenchSci is on a mission to increase the speed and quality of life-saving research by empowering scientists with the world’s most advanced biomedical artificial intelligence (AI).,N/A,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+ADVERTISEMENT FEATURE Advertiser retains sole responsibility for the content of this article
+
+Software powered by artificial intelligence accelerates drug discovery
+
+
+                    BenchSci is on a mission to increase the speed and quality of life-saving research by empowering scientists with the world’s most advanced biomedical artificial intelligence (AI).
+                
+
+
+
+
+    By
+    
+        
+        
+                BenchSci 0
+
+
+
+
+BenchSci 
+
+
+Niall O’Doherty, Field Marketing, BenchSci, Toronto, ON, Canada
+
+
+
+
+
+
+
+
+
+Produced by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+Despite continued increases in R&D spending, the five-year average number of new medicines approved by the US Food and Drug Administration (FDA) sits stubbornly at around 50 drugs per year1. As the cost of bringing a new drug to market increases, with estimates suggesting it has nearly doubled in the past decade2, it has become vital to improve R&D productivity to ensure the future viability of the pharmaceutical industry and advances in healthcare.Many drug candidates fail before they enter clinical trials. Preclinical studies are designed to identify and validate a lead candidate. It is at this crucial stage of the process that 50% of spending is wasted, amounting to $28.2 billion in the United States alone each year3.There are three main reasons for this:• Redundancy. Scientists often have no or poor visibility of experiments other scientists have performed in the past, even within their own organizations.• Experimental failure. Many experiments fail to produce usable data because of faulty reagents and protocols.• Irreproducibility. Even when an experiment seemingly succeeds, it often cannot be reproduced, perhaps because of problems with reagents, documentation and data gathering.As a PhD researcher, Tom Leung, BenchSci’s CSO experienced first-hand the waste of resources in preclinical studies. When working as a cancer researcher, he lost rare patient samples because of an inappropriate antibody. Problems with antibody selectivity and specificity are widely acknowledged as one of the main causes of incorrect, inconsistent and irreproducible results in life sciences.Keen to tackle the problem, Leung teamed up with David Q. Chen, Elvis Wianda and Liran Belenzon at the University of Toronto, Canada, to apply AI to antibody selection. In 2015, they founded BenchSci and started building AI-powered applications that analyse the full text of scholarly articles to extract relevant information for choosing the most suitable reagent for a particular experiment.In 2017, BenchSci launched its first application: AI-Assisted Antibody Selection. “Scientists used to have to spend hours or even days reviewing publications to find the antibody that would be most likely to work in their experiments. With BenchSci they can get antibody validation information within minutes,” said Leung.Since then, BenchSci’s platform has expanded to encompass more types of reagents as well as model systems, including recombinant proteins, RNAi, cell lines, CRISPR, animal models and PCR. Today, more than 49,000 scientists in 16 of the top 20 pharmaceutical companies and 4,500 academic institutions use BenchSci’s AI-Assisted Antibody Selection or Reagent Selection applications to plan more successful experiments, with proven savings of millions of dollars per year.
+
+
+
+
+How the BenchSci system works. Accelerating R&D, the system above enables faster reagent selection, more reproducible experiments and increased research capacity.
+
+
+Running fewer but better experimentsBy helping researchers select the most-appropriate reagents in seconds, BenchSci aims to halve the time it takes for new drugs to reach the market by 2025.“Roughly 80% of experiments in the preclinical phase of the drug development process are unnecessary to progress a novel medicine to clinical trials,” said Leung “Performing only the 20% that are necessary would mean carrying out an average of 1,400 versus 7,000 experiments—so new drugs would get to patients much faster and be much cheaper.”BenchSci’s approach involves:• The collection of terabytes of data from sources including scientific publications, reagent catalogs, and customer databases. These include closed-access publications, thanks to partnerships with publishers.• The use of more than 100 proprietary machine-learning models that decode millions of unstructured scientific documents and extract insights from images, as well as text.• A user-friendly interface that organizes the resulting information using a proprietary ontology. This allows researchers to understand the biomedical significance of the extracted data and establish relationships between biological entities. Users can easily search by target and reagent- or model system-type to obtain experiment-specific reagents and compare their specifications in minutes.Meeting customer needsBuilding on the success of current applications, BenchSci is evolving its technology to provide even more comprehensive solutions to help leading pharmaceutical companies solve their biggest R&D challenges.
+
+
+ReferencesMullard, A. Nature Rev. Drug Discov. 21, 83–88 (2022).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Statista https://www.statista.com/statistics/825727/randd-cost-for-new-pharma-compounds-by-cohort/Freedman, L. P., Cockburn, I. M. & Simcoe, T. S. PLoS Biol. 13, e1002165 (2015).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Download references
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmdvdnRlY2guY29tL3Nwb25zb3JlZC9nb29nbGUtY2xvdWQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZ292ZXJubWVudHMtaWN5bWnSAQA?oc=5,How AI Is Already Helping State and Local Agencies — ICYMI - Government Technology,2022-04-27,Government Technology,https://www.govtech.com,"On this week’s episode of “In Case You Missed It,” the crew talks with Google Cloud’s Quinn Chasan about how adopting AI has become easier than many in the public sector realize — and how it’s already helping them.","Cybersecurity Funding,Government Technology,Government technology podcast,Miami and Scooters","On this week’s episode of “In Case You Missed It,” the crew talks with Google Cloud’s Quinn Chasan about how adopting AI has become easier than many in the public sector realize — and how it’s already helping them.","On this week’s episode of “In Case You Missed It,” the crew talks with Google Cloud’s Quinn Chasan about how adopting AI has become easier than many in the public sector realize — and how it’s already helping them.",http://schema.org,Article,https://www.govtech.com/sponsored/google-cloud-artificial-intelligence-governments-icymi,"[{'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 360, 'url': 'https://erepublic.brightspotcdn.com/dims4/default/1eb9a4a/2147483647/strip/false/crop/480x360+0+0/resize/480x360!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FD3BBqG_AEgA%2Fhqdefault.jpg', 'width': 480}, {'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 675, 'url': 'https://erepublic.brightspotcdn.com/dims4/default/1685a9b/2147483647/strip/false/crop/480x270+0+45/resize/1200x675!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FD3BBqG_AEgA%2Fhqdefault.jpg', 'width': 1200}]","[{'@context': 'http://schema.org', '@type': 'Person', 'description': ""Dustin Haisler is the president of Government Technology's parent company e.Republic. Previously the finance director and later CIO for Manor, Texas, a small city outside Austin, Haisler quickly built a track record and reputation as an early innovator in civic tech. As President, Haisler drives exponential growth, implements new ideas and promotes a corporate culture that rewards creativity. Read his full bio."", 'image': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://erepublic.brightspotcdn.com/f5/35/22e8917bf626d54ac7804866faa0/dustin-haisler-200x250.jpg'}, 'jobTitle': 'President, e.Republic Inc.', 'name': 'Dustin Haisler', 'url': 'https://www.govtech.com/authors/Dustin-Haisler-GT.html'}, {'@context': 'http://schema.org', '@type': 'Person', 'description': 'Joseph Morris is the chief innovation officer of Government Technology’s parent company e.Republic and a national keynote speaker on issues, trends and drivers impacting state and local government and education. He has authored publications and reports on funding streams, technology investment areas and public-sector priorities, and has led roundtables, projects and initiatives focused on issues within the public sector. Joe has conducted state and local government research with e.Republic since 2007 and knows the ins and outs of government on all levels. He received his Bachelor of Arts in government and international relations from the California State University, Sacramento.', 'image': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://erepublic.brightspotcdn.com/6f/63/28a3c40be70c53c792b57a8c7ed6/joe-morris-smaller.jpg'}, 'jobTitle': 'Chief Innovation Officer, e.Republic Inc.', 'name': 'Joe Morris', 'url': 'https://www.govtech.com/joe-morris'}, {'@context': 'http://schema.org', '@type': 'Person', 'description': 'Jed Pressgrove has been a writer and editor for about 15 years. He received a bachelor’s degree in journalism and a master’s degree in sociology from Mississippi State University.', 'image': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://media.erepublic.com/image/Pressgrove_Jed_Headshot-400RGB.jpg'}, 'jobTitle': 'Assistant News Editor', 'name': 'Jed Pressgrove', 'url': 'https://www.govtech.com/authors/Jed-Pressgrove.html'}]","{'@type': 'Organization', 'name': 'GovTech', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://erepublic.brightspotcdn.com/bc/a8/3ad2250148b8a28b31d4bd4edd24/gt-with-block.svg'}}",How AI Is Already Helping State and Local Agencies — ICYMI,"April 27, 2022","April 27, 2022",,How AI Is Already Helping State and Local Agencies — ICYMI,,,Sponsored,N/A,N/A,,,,"{'@type': 'WebPage', '@id': 'https://www.govtech.com/sponsored/google-cloud-artificial-intelligence-governments-icymi'}",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1vbmRhcS5jb20vdHVya2V5L2NvcHlyaWdodC8xMTg3NDQyL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFuZC1jb3B5cmlnaHQtbGF30gEA?oc=5,Turkey - Copyright - Artificial Intelligence And Copyright Law - Mondaq News Alerts,2022-04-27,Mondaq News Alerts,https://www.mondaq.com,"As stated in our Thought Leadership document published in 2021, AI-created works of art and the notion of ownership and enforcement within copyright law are controversial issues worldwide.","mondaq,Artificial Intelligence And Copyright Law",N/A,N/A,http://schema.org,NewsArticle,,https://www.mondaq.com/images/profile/individual/person_placeholder.webp,"{'@type': 'Person', 'name': 'Gün +  Partners'}","{'@type': 'Organization', 'name': 'Gun + Partners', 'logo': {'@type': 'ImageObject', 'url': 'https://www.mondaq.com/images/profile/company/10010.webp'}}",Artificial Intelligence And Copyright Law,2022-04-27T20:02:06,2022-04-27T20:02:06,Copyright,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+                ARTICLE
+            
+
+                    27 April 2022
+                
+
+
+
+        Artificial Intelligence And Copyright Law
+    
+
+
+G+
+Gun + Partners
+
+
+More
+
+
+
+Contributor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Gün + Partners is a full-service institutional law firm with a strategic international vision, providing transactional, advisory and dispute resolution services since 1986. The Firm is based in Istanbul, with working offices Ankara and Izmir. The Firm advises in life sciences, energy, construction & real estate, technology, media and telecoms, automotive, FMCG, chemicals and the defence industries.”
+        
+
+
+
+                    Explore
+                
+
+
+
+
+
+
+
+        As stated in our ""Thought Leadership"" document published in 2021, AI-created works of art and the notion of ownership and enforcement within copyright law are controversial issues worldwide.
+    
+
+Turkey
+Intellectual Property
+
+
+
+
+
+
+
+
+
+Authors
+
+
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+
+
+As stated in our ""Thought Leadership"" document
+published in 2021, AI-created works of art and the notion of
+ownership and enforcement within copyright law are controversial
+issues worldwide.
+Although there has been no new court decision or legislative
+regulation that could answer these questions in our country or
+around the world during the past year, the decision of The Review
+Board of the United States Copyright Office (""Board"")
+dated February 14, 20221, which includes evaluations on
+whether artificial intelligence can be the owner of the work,
+contains substantial determinations in this regard.
+In the related dispute, Stephen Thaler, who works in artificial
+intelligence technologies, has applied for the copyright
+registration for the work named ""a recent entrance to
+paradise"", whose image is presented below and created by the
+algorithm called ""creativity machine"".
+
+In his application, Stephen Thaler stated that the related work
+was created autonomously by the ""creativity machine""
+algorithm, and it is a work created by the ""work made for
+hire"" doctrine, and that he filed the application by being the
+proprietor of the machine following the assignment declaration he
+submitted. However, in its initial examination, the United States
+Copyright Office (""Office"") rejected the application,
+stating that the relevant application did not meet the ""human
+authorship"" requirement sought for a copyright claim. On the
+other hand, Thaler requested reconsideration of this decision
+stating that it is unconstitutional to require a ""human
+authorship"" requirement for registration and that such a
+requirement is neither included in the law nor the case law.
+In the subsequent examination, the Office again rejected these
+requests, reiterating its initial assessments and stating that
+Thaler did not provide evidence to prove that human-provided
+sufficient creative contribution to the relevant work or that the
+human intervention had taken place. Thus, the Office has also made
+it clear that it will not abandon its long-standing interpretation
+as ""a work will only meet the legal and formal requirements to
+benefit from copyright protection when it is created by a
+human."" which has been adopted based on the US Copyright Law,
+Supreme Court and other court decisions.
+Thaler filed a second request for the reconsideration, stating
+that the regulations regarding copyright already allowed
+non-natural persons to own works within the scope of the ""work
+made for hire"" doctrine and that there is also no obstacle to
+the application of the works created by computers. Therefore, he
+argued that the Office's refusal grounds were based on old
+views that did not address current needs.
+Evaluating this second request for reconsideration, the Board
+stated that the law protects the fruits of intellectual labour. The
+Board did not find these reconsideration requests acceptable,
+stating that the works created only by a machine or a mechanical
+process without a human author's creative input or intervention
+cannot benefit from protection. Referring to the previous
+decisions, the Board underlined that no protection had been
+provided before for works created by non-humans such as animals or
+spiritual beings. Moreover, the Board stated that the ""work
+made for hire"" doctrine is not relevant to this file and that
+creating the work by a human is a must for this doctrine.
+As a result, the relevant decision of the Board set out that, in
+accordance with the current regulations and case law in the USA,
+the nexus between the human mind and creative expression is seen as
+the most fundamental element for copyright, and it is not possible
+for works created without human creative contribution and
+intervention to benefit from copyright protection under the current
+legislation.
+Although we see that the requirement for the owner of the work
+to be a natural person continues to be sought within the scope of
+the current regulations, the necessity of protecting the works
+created using artificial intelligence systems and the issue of what
+kind of protection this will be, continue to be discussed around
+the world.
+As a matter of fact, the UK Intellectual Property Office has
+published a consultation and requested the opinion of the public
+until the date of January 07 2022, on the issues of copyright
+protection and authorship on the products created as a result of
+the technological developments in terms of the relationship between
+artificial intelligence and copyright law. Besides other questions,
+participants were asked whether the current regulation, which
+grants copyright ownership to the natural person who makes the
+necessary arrangements during the creation of the relevant work,
+responds to developments in artificial intelligence and carries a
+sufficient incentive mechanism.
+Although the results of this consultation and regulations to
+come into force regarding this issue have not been shared with the
+public yet, even the fact that such consultation is being conducted
+indicates that the authorities are paying more attention to this
+issue and actions are being taken slowly to meet the
+ever-increasing need for regulation in this area.
+In addition, the European Union Intellectual Property Office,
+which examines the usage areas and effects of artificial
+intelligence technology more closely in terms of rights arising
+from copyright, and evaluates the situation with 20 different
+scenarios, published the Study on the Impact of Artificial
+Intelligence on the Infringement and Enforcement of Copyright and
+Designs report2 in March 2022. In summary, the
+report stated that artificial intelligence could be used
+effectively during the exercise of these rights and to detect
+violations; however, this technology has technical limitations in
+itself, and even there is an increasing trend in terms of their use
+in acts constituting infringement, it brings concerns in terms of
+ethics, privacy and fundamental rights.
+We will continue to follow the developments in this field, which
+no doubt will keep being on the agenda in the following years.
+Footnotes
+1. Copyright Review Board, United States Copyright
+Office, Second Request for Reconsideration for Refusal to Register
+A Recent Entrance to Paradise (Correspondence ID 1-3ZPC6C3; SR #
+1-7100387071), 14 February 2022.
+2. https://euipo.europa.eu/ohimportal/en/news/-/action/view/9230001
+The content of this article is intended to provide a general
+guide to the subject matter. Specialist advice should be sought
+about your specific circumstances.
+
+
+
+
+
+
+Authors
+
+
+
+
+
+
+
+
+
+                            Gün +  Partners
+                        
+
+
+
+
+Your Author LinkedIn Connections
+
+",,,,"{'@type': 'WebPage', '@id': ''}","{'@type': 'Person', 'name': ['Gün +  Partners']}","{'@type': 'Organization', 'name': 'Mondaq'}","{'@type': 'administrativeArea', 'name': 'Turkey'}",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy56ZG5ldC5jb20vaG9tZS1hbmQtb2ZmaWNlL3dvcmstbGlmZS9haXJibmItdG8tc3RhZmYtd29yay1mcm9tLXdoZXJldmVyLXlvdS13YW50LWluLXRoZS1jb3VudHJ5LWFuZC13ZWxsLXBheS15b3UtdGhlLXNhbWUv0gEA?oc=5,Airbnb to staff: Work from wherever you want in the country and we'll pay you the same - ZDNet,2022-04-29,ZDNet,https://www.zdnet.com,how to stand out in a job interview,N/A,Some staff might even get a pay rise after Airbnb implements its country-level pay tiers.,Some staff might even get a pay rise after Airbnb implements its country-level pay tiers.,https://schema.org,VideoObject,,,,,,,,,How to stand out in a job interview,,,N/A,N/A,N/A,,,,,,,,https://www.zdnet.com/a/img/resize/30b913a409213619940b86d52553c3bbb1594c8f/2022/04/04/c113740a-de27-4483-b0b2-f748b8f1e75b/how-to-stand-out-in-a-job-interview.png?auto=webp&fit=crop&height=675&width=1200,2022-04-04T21:25:00.000Z,PT0H0M10S,https://zdnet.redvideo.io/2022/04/04/db738af3-b3da-4f2e-8451-0fd18c437b6d/interviewing-hub-main-image-1_720h3200k.mp4,https://www.zdnet.com/video/share/how-to-stand-out-in-a-job-interview-video/,,,,,,
+https://news.google.com/rss/articles/CBMikAFodHRwczovL2ZlZGVyYWxuZXdzbmV0d29yay5jb20vaW50ZWxsaWdlbmNlLWNvbW11bml0eS8yMDIyLzA0L3BlbnRhZ29uLXNoaWZ0aW5nLXByb2plY3QtbWF2ZW4tbWFycXVlZS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1pbml0aWF0aXZlLXRvLW5nYS_SAQA?oc=5,"Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA - Federal News Network",2022-04-26,Federal News Network,https://federalnewsnetwork.com,Project Maven has been run out of the office of the secretary of defense since its inception in 2017.,"['algorithmic warfare', 'bob work', 'geoint', 'mark munsell', 'national geospatial-intelligence agency', 'project maven', 'robert sharp']",Project Maven has been run out of the office of the secretary of defense since its inception in 2017.,Project Maven has been run out of the office of the secretary of defense since its inception in 2017.,http://schema.org,NewsArticle,https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/,"{'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png', 'width': 1200, 'height': 883}","[{'@type': 'Person', 'name': 'Justin Doubleday'}]","{'@type': 'Organization', 'name': 'Federal News Network', 'logo': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/themes/wfed/assets/img/icons/logo.png'}}","Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA",2022-04-26T21:43:25Z,2022-04-28T15:17:03Z,Intelligence Community,,,,N/A,N/A,"
+
+
+
+
+
+
+
+DoD names CIO as acting official to deliver ‘end-to-end’ integration on data, AI
+
+
+Defense
+Read more
+
+",,,"[{'@type': 'BreadcrumbList', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#breadcrumblist', 'itemListElement': [{'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/#listItem', 'position': 1, 'name': 'Home', 'item': 'https://federalnewsnetwork.com/', 'nextItem': 'https://federalnewsnetwork.com/intelligence-community/2022/#listItem'}, {'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/#listItem', 'position': 2, 'name': '2022', 'item': 'https://federalnewsnetwork.com/intelligence-community/2022/', 'nextItem': 'https://federalnewsnetwork.com/intelligence-community/2022/04/#listItem', 'previousItem': 'https://federalnewsnetwork.com/#listItem'}, {'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/#listItem', 'position': 3, 'name': 'April', 'item': 'https://federalnewsnetwork.com/intelligence-community/2022/04/', 'nextItem': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#listItem', 'previousItem': 'https://federalnewsnetwork.com/intelligence-community/2022/#listItem'}, {'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#listItem', 'position': 4, 'name': 'Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA', 'previousItem': 'https://federalnewsnetwork.com/intelligence-community/2022/04/#listItem'}]}, {'@type': 'NewsArticle', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#newsarticle', 'name': 'Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA', 'headline': 'Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA', 'author': {'@id': 'https://federalnewsnetwork.com/author/jdoubledayfederalnewsnetwork-com/#author'}, 'publisher': {'@id': 'https://federalnewsnetwork.com/#organization'}, 'image': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png', 'width': 1200, 'height': 883, 'caption': 'CJADC2, Low earth orbit, USINDOPACOMNational Geospatial Intelligence Agency'}, 'datePublished': '2022-04-26T21:43:25-04:00', 'dateModified': '2022-04-28T15:17:03-04:00', 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#webpage'}, 'isPartOf': {'@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#webpage'}, 'articleSection': 'All News, Artificial Intelligence, Automation, Defense, Defense News, Intelligence Community, Space Operations, Technology, algorithmic warfare, Bob Work, GEOINT, Mark Munsell, National Geospatial-Intelligence Agency, Project Maven, Robert Sharp, justin-doubleday', 'dateline': 'Published on April 26, 2022.'}, {'@type': 'Organization', '@id': 'https://federalnewsnetwork.com/#organization', 'name': 'Federal News Network', 'url': 'https://federalnewsnetwork.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/themes/wfed/assets/img/media_kit/JPG/fnn-logo-hor-small.jpg', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#organizationLogo'}, 'image': {'@id': 'https://federalnewsnetwork.com/#organizationLogo'}, 'sameAs': ['https://twitter.com/FederalNewsNet', 'https://www.instagram.com/federalnewsnet/', 'https://www.youtube.com/@federalnewsnetwork', 'https://www.linkedin.com/company/federal-news-network', 'https://en.wikipedia.org/wiki/WFED'], 'contactPoint': {'@type': 'ContactPoint', 'telephone': '+12028955086', 'contactType': 'Newsroom'}}, {'@type': 'Person', '@id': 'https://federalnewsnetwork.com/author/jdoubledayfederalnewsnetwork-com/#author', 'url': 'https://federalnewsnetwork.com/author/jdoubledayfederalnewsnetwork-com/', 'name': 'Justin Doubleday'}, {'@type': 'WebPage', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#webpage', 'url': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/', 'name': 'Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA', 'description': 'Project Maven has been run out of the office of the secretary of defense since its inception in 2017.', 'inLanguage': 'en-US', 'isPartOf': {'@id': 'https://federalnewsnetwork.com/#website'}, 'breadcrumb': {'@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#breadcrumblist'}, 'author': {'@id': 'https://federalnewsnetwork.com/author/jdoubledayfederalnewsnetwork-com/#author'}, 'creator': {'@id': 'https://federalnewsnetwork.com/author/jdoubledayfederalnewsnetwork-com/#author'}, 'image': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#mainImage', 'width': 1200, 'height': 883, 'caption': 'CJADC2, Low earth orbit, USINDOPACOMNational Geospatial Intelligence Agency'}, 'primaryImageOfPage': {'@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/#mainImage'}, 'datePublished': '2022-04-26T21:43:25-04:00', 'dateModified': '2022-04-28T15:17:03-04:00'}, {'@type': 'WebSite', '@id': 'https://federalnewsnetwork.com/#website', 'url': 'https://federalnewsnetwork.com/', 'name': 'Federal News Network', 'alternateName': 'WFED', 'description': 'Helping feds meet their mission.', 'inLanguage': 'en-US', 'publisher': {'@id': 'https://federalnewsnetwork.com/#organization'}}]","{'@type': 'WebPage', '@id': 'https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/'}",,,,https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-150x150.png,,,,,2022-04-26T21:43:25Z,['Justin Doubleday'],"{'@type': 'SpeakableSpecification', 'cssSelector': ['.schema-title', '.schema-summary']}",,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW1pZ2h0LXNvb24tdGVsbC15b3UtaG93LWFkYW0tYW5kLWV2ZS1saXZlZNIBhQFodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbWlnaHQtc29vbi10ZWxsLXlvdS1ob3ctYWRhbS1hbmQtZXZlLWxpdmVk?oc=5,Artificial intelligence Might Soon Tell you How Adam and Eve Lived - Analytics Insight,2022-04-29,Analytics Insight,https://www.analyticsinsight.net,,"Artificial Intelligence,Adam and Eve,Machine Learning,AI,AI and ML",Researchers are using technologies like Artificial Intelligence and Machine learning to get more accurate results. Uncovering evidence for historical theories a,Researchers are using technologies like Artificial Intelligence and Machine learning to get more accurate results. Uncovering evidence for historical theories a,http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-might-soon-tell-you-how-adam-and-eve-lived,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/04/Artificial-intelligence-Might-Soon-Tell-you-How-Adam-and-Eve-Lived.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Arti', 'name': 'Arti', 'url': 'https://www.analyticsinsight.net/author/arti'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",Artificial intelligence Might Soon Tell you How Adam and Eve Lived,2022-04-29T10:00:36Z,2022-04-29T10:00:36Z,Artificial Intelligence,Artificial intelligence Might Soon Tell you How Adam and Eve Lived,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Artificial intelligence Might Soon Tell you How Adam and Eve Lived', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-might-soon-tell-you-how-adam-and-eve-lived'}]",N/A,N/A,"Number of ChatGPT Users and Statistics
+",,,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-might-soon-tell-you-how-adam-and-eve-lived'}",,,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/04/Artificial-intelligence-Might-Soon-Tell-you-How-Adam-and-Eve-Lived.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,2022-04-29T10:00:36Z,,,"Researchers are using technologies like Artificial Intelligence and Machine learning to get more accurate results..Uncovering evidence for historical theories and identifying patterns in past events has long been hindered by the labor-intensive process of inputting data from artifacts and handwritten records. Normally, epigraphers – scholars who study ancient texts written on durable materials such as stone, metal, or pottery – use their knowledge of repositories of information and digital databases to perform &quot;string matching&quot; searches to find textual and contextual parallels. However, differences in the digital-search query that can exclude or conceal relevant results and that the texts often are discovered not in their original context can complicate the work. Starting from Adam and Eve to the Greek gods there is so much to discover and researchers are using advanced technologies like Artificial Intelligence and Machine learning to get more accurate results. Most scientific research to date has focused on whether Adam and Eve could have passed on genetic material to everyone living; however, this doesn't seem to be the type of ancestry the Bible is concerned with. While all genetic ancestors are genealogical ancestors, the inverse is not necessarily true..So, what does this mean for Adam and Eve? Well, in 2004, a computer simulation of life on Earth was created to test and see when the most recent common ancestor for all humans was. The researchers put higher barriers than historically existed to stack the odds against there being a common ancestor in the recent past. Despite this, the results, published in Nature, found common ancestors only two or three thousand years ago. Apart from Adam and Eve, the adoption of artificial intelligence and machine learning techniques is speeding up such research and drawing attention to overlooked information. But this approach, known as &quot;digital humanities&quot;, is in a battle for funding against more future-focused applications of AI..Restoring or recreating archaeological artifacts is a complicated problem for computer vision models. Previous work — algorithms learning to reassemble photos or documents, for example — has not accounted for the degradation of fragments, unclear images, or imprecise piece-fitting..Researchers use AI to restore ancient Greek texts.Ancient texts written on stone tablets, such as those found in Greece, provide invaluable insight into the history of past civilizations. However, being as much as 2,600 years old, these priceless inscriptions haven't been immune to the ravages of time. They're often damaged and littered with chips and cracks, sometimes even missing entire fragments of text. To fill these gaps and reconstruct the missing sections, historians typically rely on a discipline called epigraphy, which uses &quot;grammatical and linguistic considerations, layout and shape, textual parallels, and historical context&quot; to estimate what the text originally contained. As this is a very complex and time-consuming process, the team behind Google's DeepMind AI joined forces with the University of Oxford to develop Pythia, the first ancient text restoration model that uses deep neural networks to recover missing characters from damaged text..How AI is helping us bring history back to life.Artificial intelligence technology has had a profound impact on a wide variety of industries in recent years, transforming almost every aspect of our lives in the process. While most of the talk surrounding AI has focused on how it will affect the human workforce, it can't be denied that it's found some very promising applications in certain areas. One of these areas is archaeology, where AI's ability to analyze large amounts of data in a short amount of time and uncover hidden patterns is very useful. Whether it's used to restore ancient Greek texts, translate long-lost languages, reassemble damaged archaeological artifacts, or uncover hidden designs in the Nazca Lines, AI is becoming an increasingly important tool in archaeologists' arsenal, helping them bring history back to life..In conclusion, looking at the continued developments there is no lie that in no time artificial intelligence will be able to tell how Adam and Eve used to live in the past. Also, we will get the answers to many unsolved mysteries..More Trending Stories .Bitcoin and Ethereum Strive to Get Support! Even Upside will be LimitedSnapchat Could Possibly Take Over FAANG in the Coming Years'Move to Earn' in Metaverse is the New Strategy to get Free CryptosModern Organizations are Crumbling over Cybersecurity DebtGoogle Pays a Fortune for Ethical Hacker Jobs? What Is the Reason?Companies Born in the Cloud are more Vulnerable to Cyberattacks.Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-might-soon-tell-you-how-adam-and-eve-lived', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/04/Artificial-intelligence-Might-Soon-Tell-you-How-Adam-and-Eve-Lived.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",
+https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm5jc2wub3JnL2xhYm9yLWFuZC1lbXBsb3ltZW50L3RoZS1jaGFuZ2luZy1uYXR1cmUtb2Ytd29ya9IBAA?oc=5,Brief The Changing Nature of Work - National Conference of State Legislatures,2022-04-29,National Conference of State Legislatures,https://www.ncsl.org,State governments are getting creative and focusing on an inclusive economic recovery to maximize workforce participation.,"Brief,Labor and Employment",N/A,N/A,,,,,,,,,,,,,,N/A,N/A,"
+
+Updated July 17, 2024
+
+In Recent Legislation, States Shore Up Public Sector Workforce
+
+
+This year, states have enacted legislation to reduce barriers to public employment, ease a return to public service from retirement and enhance public employee benefits.
+
+
+Labor and Employment
+
+
+State Legislatures News
+
+
+",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2l0cy1ub3QtanVzdC1hLXRhbGVudC1zaG9ydGFnZS1lbXBsb3llcnMtYWRtaXQtdGhleXJlLWhpcmluZy10aGUtd3JvbmctcGVvcGxlL9IBAA?oc=5,It's not just a talent shortage - employers admit they're hiring the wrong people - ZDNet,2022-04-29,ZDNet,https://www.zdnet.com,"As hybrid models become mainstream, employers are starting to radically rethink every aspect of work and the office. That means some big changes for employees.",N/A,"The rush to recruit is leading to sloppy hiring decisions, with nearly half of business leaders making bad hires in the past year.","The rush to recruit is leading to sloppy hiring decisions, with nearly half of business leaders making bad hires in the past year.",https://schema.org,VideoObject,,,,,,,,,How the new rules of work are changing the office for good,,,N/A,N/A,N/A,,,,,,,,https://www.zdnet.com/a/img/resize/190c6b64b2009a2654747df867eba03141dfc9ec/2022/03/31/8de5f166-4767-4faa-b386-c022ebecf232/20220331-sf-apr.jpg?auto=webp&fit=crop&height=675&width=1200,2022-04-04T12:49:24.000Z,PT0H7M16S,https://zdnet.redvideo.io/2022/03/31/2525c0e0-3679-4b20-989e-50aaba42cc8b/20220331-sf-apr_720h3200k.mp4,https://www.zdnet.com/video/share/how-the-new-rules-of-work-are-changing-the-office-for-good/,,,,,,
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vcHJvZ3JhbW1pbmdpbnNpZGVyLmNvbS9ob3ctZG9lcy1haS13b3JrLWZvci1tb2JpbGUtYXBwLWRldmVsb3BtZW50L9IBAA?oc=5,How Does AI Work for Mobile App Development? - Programming Insider,2022-04-28,Programming Insider,https://programminginsider.com,N/A,N/A,AI is turning out to be one of the trendiest topics in the business and digital world. Top leading tech companies and industries show interest in AI app development Canada. The speed with which the craze,AI is turning out to be one of the trendiest topics in the business and digital world. Top leading tech companies and industries show interest in AI app development Canada. The speed with which the craze,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Posted in:Streaming and Technology
+How Does AI Work for Mobile App Development?
+
+
+by
+
+ Marc Berman
+
+
+April 28, 2022, 8:00 am
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© by iStock
+
+
+
+
+
+
+
+59SHARESShareTweet
+
+To sign up for our daily email newsletter, CLICK HERE
+ 
+AI is turning out to be one of the trendiest topics in the business and digital world. Top leading tech companies and industries show interest in AI app development Canada. The speed with which the craze and development of artificial intelligence are rising is admirable as AI is everywhere nowadays. But how does AI help in mobile app development Toronto?
+Beginning from the live chat box to prediction analytics, AI approaches state-of-the-art ideas to provide better client services and re-evaluate business procedures with current modern technology. Artificial intelligence and machine learning are the new-age technologies that cause unexpected changes in the manner a business works.
+The thought of AI portrays that a computer will carry out a task that generally needs a human to finish. Amazingly, AI is about speech recognition as well as interpretation, portraying that a program could work as a human in activities and thoughts. The implementation of artificial intelligence in mobile app development Toronto can be classified into weak and strong levels.
+Though AI accounts for fewer errors in the complete procedure, carries out deadly tasks easily, and distinguishes real-time location smoothly; AI decreases the amount of creativity and innovative ideas of a process, that a human could think of. So, AI has its advantages and disadvantage. But we cannot deny the fact that it is the future of mobile app development Canada and the tech industry.
+Types of AI
+AI is a very provocative topic, on which we have seen a lot of intense discussions. But generally speaking, Artificial intelligence can be categorized into 4 types. They are –
+1. Reactive machines:
+This is the first type of AI that reacts to the present scenario by analysing all the feasible moves and then selects the finest one. A well-known sample of a reactive machine is the IBM chess program, Deep Blue which defeated chess champion, Garry Kasparov. This program analyses its own as well as opponent moves and selects the most tactical one. But, it can’t store previous experiences. One more example of such reactive AI is Google’s AlphaGO.
+2. Theory of mind
+In this type of AI, psychology term is considered that means understanding others’ desires, beliefs, and intentions that influence one’s decision. An example of this kind of AI doesn’t present as of yet. Such kind of artificial intelligence would understand you and afterwards make a decision.
+3. Limited memory 
+These systems of artificial intelligence do all the discussed things that reactive machine performs, but it additionally stores memory. Such Ai’s are utilized in self-driving cars which utilize past observation to form a prediction such as changing car lanes etc. But the memories are not permanently stored. They are stored for a limited time.
+4. Self-awareness 
+This is the kind of artificial intelligence which you perceive in movies which have self-awareness, self-consciousness, have a sensitive feeling toward others. Right now, we are very far from making such kind of AI.
+Importance of Artificial Intelligence in Real Life
+Artificial intelligence plays a very significant role in mankind. It is the expertise that can bring more output in less input. Primarily, AI will carry out tedious tasks, but it will also improve efficiency. Farmers can utilize robots to plant as well as cultivate seeds and afterwards use drones to look after their field. It will exponentially raise the output. In the same way, advancements are also in development in other fields like healthcare and education. But it will moreover create so many high-skilled jobs and get things much more inexpensive for the people.
+Artificial intelligence will affect and transform every industry on Earth, such as manufacturing, health care, agriculture, and many more.
+What are the examples of AI?
+Machine learning
+In this technology, machines act with no need for programming. They perform by the study of earlier experiences and then forecasting moves.
+A realistic example of this kind of AI can be a robot which analyses the stock market by looking at earlier recorded trades and afterwards forecast new ones that get success in the upcoming days.
+Automation
+Mobile Application development is a lengthy process; programmers have to employ hundreds of hours coding a similar thing. Artificial intelligence will ease this burden by creating infrastructure for programmers to work on. A company launched the latest AI test bot which will test different mobile applications. In simple terms, it will assist developers to test smartphone applications more efficiently and make the most of quality assurance by doing less.
+Machine vision
+Artificial intelligence is utilized to provide a machine with the competence to capture as well as analyse visual information. Thus, an AI can witness and listen to things simply like a human. Afterwards, analyse and react as per the information. The humanoid Sophia is powered by artificial intelligence that can see as well as listen to things and facial recognition feature is included with the machine vision to better recognize the world.
+Voice recognition
+At present, we have a lot of mobile applications that use artificial intelligence to understand your voice. You can also unlock or give commands through this feature. Apple has become the pioneer in this field because it has combined Siri with Apple mobile gadgets for a long time. She can identify your voice and customize the phone for the best user experience.
+Chatbots
+Chatbots are AI-powered robots that can have an interaction with users just like humans. They learn through previous practices. The basic thought behind this product is that if individuals don’t desire to interact with somebody other than humans, they can employ these chatbots. Several popular AI-powered chatbots are Bold360 and LivePerson.
+These were only a few popular applications of artificial intelligence that are being utilized in the present market.
+How Can You Improve User Experience and Mobile application Development? 
+AI assist to make a better decision
+Artificial intelligence can analyse large bits of data which humans cannot. Imagine there is a big sum of data on the response of consumers to the application. You can create a program to get all those responses and feedback. But artificial intelligence can change the game by reading them in a humane way & grant developers a superior-conclusion. Later, this can be utilized to make an up-to-date decision.
+User engagement
+Most smartphone applications fail because of their lack of user engagement. Artificial intelligence is presently being utilized to analyse user behaviour to grant insight into the consumer. AI can tell smartphone applications what users are in search of and how they are utilizing their applications. Professional developers can employ this information to do changes for improved user engagement.
+Personalization with artificial intelligence 
+The smartphone is already marketized as custom-made for every user. But most applications are just the same for everybody. There is not much customization on an individual level. Recently, Flutter mobile applications have improved user experience with their personalized apps as per the user. AI primarily records user behaviour and afterwards changes their application or suggests changes as per the user practice for a better experience.
+The smartphone can better connect with users 
+As artificial intelligence can analyse large amounts of data, smartphone applications can connect to consumers on a deeper level. Apps can store the behaviour of users and give them more control over themselves. Amazon’s Alexa and Apple’s Siri are good examples that are doing the same. 
+Context-driven UX
+A smartphone can find your location; however, it doesn’t affect the user experience to a big level. But artificial intelligence-based algorithms can employ the user location along with various crucial aspects and then turn up user-centric recommendations and messages. For instance, in case you are on a road trip, your smartphone AI can suggest applications that can be beneficial to you or give a notification informing you that there is not any fuel station 100 odd km ahead.
+Conclusion:
+So, by now, you must be aware of how amazingly AI affect the user experience and mobile app development Canada. You also got a bit of knowledge about how it works on mobile applications. However, the incorporation of artificial intelligence with mobile applications is yet in the early stage. In future, you can witness a lot of transformation that can happen here. Your complete user experience can be improved through AI and then utilized in various mobile applications. We all need to see where artificial intelligence can take user experience and mobile app development.
+Now, is a great time to involve your customers in AI-based mobile applications. iQlance is the Top mobile app development Companies Toronto. They have a team of experts that has forward-thinking abilities and provides next-level mobile applications by integrating AI capabilities with machine learning as well as deep learning techniques.
+
+
+
+
+
+
+See more
+
+Previous article Tips and Tricks to Power-Up Mobile Learning
+Back All Entries
+Next article Netflix Launches Thriller ‘7 Lives of Lea’
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+",,,"[{'@type': 'WebPage', '@id': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/', 'url': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/', 'name': 'How Does AI Work for Mobile App Development? - Programming Insider', 'isPartOf': {'@id': 'https://programminginsider.com/#website'}, 'primaryImageOfPage': {'@id': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/#primaryimage'}, 'image': {'@id': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/#primaryimage'}, 'thumbnailUrl': 'https://programminginsider.com/wp-content/uploads/2022/04/AI-1.jpg', 'datePublished': '2022-04-28T12:00:08+00:00', 'dateModified': '2022-05-12T11:18:39+00:00', 'author': {'@id': 'https://programminginsider.com/#/schema/person/46ddb7b1fef2d2e52bf46229e2f78751'}, 'breadcrumb': {'@id': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://programminginsider.com/how-does-ai-work-for-mobile-app-development/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/#primaryimage', 'url': 'https://programminginsider.com/wp-content/uploads/2022/04/AI-1.jpg', 'contentUrl': 'https://programminginsider.com/wp-content/uploads/2022/04/AI-1.jpg', 'width': 800, 'height': 500, 'caption': ''}, {'@type': 'BreadcrumbList', '@id': 'https://programminginsider.com/how-does-ai-work-for-mobile-app-development/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://programminginsider.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Archives', 'item': 'https://programminginsider.com/blog-page/'}, {'@type': 'ListItem', 'position': 3, 'name': 'How Does AI Work for Mobile App Development?'}]}, {'@type': 'WebSite', '@id': 'https://programminginsider.com/#website', 'url': 'https://programminginsider.com/', 'name': 'Programming Insider', 'description': 'Your daily news of network, digital, cable, syndication, and social media', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://programminginsider.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://programminginsider.com/#/schema/person/46ddb7b1fef2d2e52bf46229e2f78751', 'name': 'Marc Berman', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://programminginsider.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/3c3f8f8924f132bd2041238a9bde2fda?s=96&r=pg', 'contentUrl': 'https://secure.gravatar.com/avatar/3c3f8f8924f132bd2041238a9bde2fda?s=96&r=pg', 'caption': 'Marc Berman'}, 'description': 'Marc Berman is the founder and Editor-in-Chief for Programming Insider, the online destination for network, cable, digital and syndication. Berman has written for a wide range of publications, including Forbes, CBS Watch, Next TV, PromaxBDA, Newspro, Campaign US, The New York Daily News, The Hollywood Reporter, Variety, Emmy Magazine, and C21 International. He has also appeared on “Entertainment Tonight,” “Extra,” “Access Hollywood,” “Inside Edition,” “The CBS Evening News,” E!, CNN, CNBC, Fox News and MSNBC.', 'sameAs': ['https://twitter.com/marcberman'], 'url': 'https://programminginsider.com/author/marc-berman/'}]",,,,,,,,,,,,,,,

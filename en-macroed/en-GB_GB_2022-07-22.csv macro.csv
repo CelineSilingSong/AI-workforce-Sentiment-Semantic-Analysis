@@ -1,0 +1,2023 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,url,publisher,mainEntityOfPage,datePublished,dateCreated,dateModified,heading,image,author,headline,alternativeHeadline,isPartOf,isAccessibleForFree,hasPart,itemListElement,inLanguage,copyrightHolder,sourceOrganization,copyrightYear,name,logo,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,potentialAction,address,articleBody,articleSection,thumbnailUrl,timeRequired,wordCount,video,@graph,publishingInfo,businessRegionCoverage
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5taXQuZWR1LzIwMjIvZXhwbGFpbmVkLWhvdy10ZWxsLWlmLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXdvcmtpbmctd2F5LXdlLXdhbnQtMDcyMtIBAA?oc=5,Explained: How to tell if artificial intelligence is working the way we want it to - MIT News,2022-07-22,MIT News,https://news.mit.edu,"Deep-learning models have become very powerful, but that has come at the expense of transparency. As these models are used more widely, a new area of research has risen that focuses on creating and testing explanation methods that may shed some light on the inner-workings of these black-box models.","Yilun Zhou, Marzyeh Ghassemi, Explainable AI, interpretability, deep learning, black-box models, feature attribution methods, Explainable Artificial Intelligence","Deep-learning models have become very powerful, but that has come at the expense of transparency. As these models are used more widely, a new area of research has risen that focuses on creating and testing explanation methods that may shed some light on the inner-workings of these black-box models.",N/A,N/A,N/A,"
+
+
+“Interpretability methods” seek to shed light on how machine-learning models make predictions, but researchers say to proceed with caution. 
+
+
+
+
+Adam Zewe
+|
+MIT News Office
+
+
+ Publication Date:
+ July 22, 2022
+
+
+
+
+
+Press Inquiries
+
+  Press Contact:
+
+
+
+      
+            Abby        
+
+            Abazorius        
+
+  
+
+      Email:
+     abbya@mit.edu
+
+
+      Phone:
+              617-253-2709      
+  
+
+      
+            MIT News Office        
+
+  
+
+
+ Media Download
+
+
+
+ 
+
+
+          ↓ Download Image
+
+
+
+ Caption:
+        
+              Deep-learning models are so enormously complex, even the researchers who design them don’t fully understand how they work.       
+ Credits:
+        
+              Image: Christine Daniloff, MIT; stock image      
+
+
+
+
+
+*Terms of Use:
+
+    Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a 
+    Creative Commons Attribution Non-Commercial No Derivatives license.
+    You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided 
+    below, credit the images to ""MIT."" 
+  
+
+
+
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Caption:
+          Deep-learning models are so enormously complex, even the researchers who design them don’t fully understand how they work.       
+          
+
+ Credits:
+          Image: Christine Daniloff, MIT; stock image      
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous image
+Next image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About a decade ago, deep-learning models started achieving superhuman results on all sorts of tasks, from beating world-champion board game players to outperforming doctors at diagnosing breast cancer.
+
+These powerful deep-learning models are usually based on artificial neural networks, which were first proposed in the 1940s and have become a popular type of machine learning. A computer learns to process data using layers of interconnected nodes, or neurons, that mimic the human brain. 
+
+As the field of machine learning has grown, artificial neural networks have grown along with it.
+
+Deep-learning models are now often composed of millions or billions of interconnected nodes in many layers that are trained to perform detection or classification tasks using vast amounts of data. But because the models are so enormously complex, even the researchers who design them don’t fully understand how they work. This makes it hard to know whether they are working correctly.
+
+For instance, maybe a model designed to help physicians diagnose patients correctly predicted that a skin lesion was cancerous, but it did so by focusing on an unrelated mark that happens to frequently occur when there is cancerous tissue in a photo, rather than on the cancerous tissue itself. This is known as a spurious correlation. The model gets the prediction right, but it does so for the wrong reason. In a real clinical setting where the mark does not appear on cancer-positive images, it could result in missed diagnoses.
+
+With so much uncertainty swirling around these so-called “black-box” models, how can one unravel what’s going on inside the box?
+
+This puzzle has led to a new and rapidly growing area of study in which researchers develop and test explanation methods (also called interpretability methods) that seek to shed some light on how black-box machine-learning models make predictions.
+
+What are explanation methods?
+
+At their most basic level, explanation methods are either global or local. A local explanation method focuses on explaining how the model made one specific prediction, while global explanations seek to describe the overall behavior of an entire model. This is often done by developing a separate, simpler (and hopefully understandable) model that mimics the larger, black-box model.
+
+But because deep learning models work in fundamentally complex and nonlinear ways, developing an effective global explanation model is particularly challenging. This has led researchers to turn much of their recent focus onto local explanation methods instead, explains Yilun Zhou, a graduate student in the Interactive Robotics Group of the Computer Science and Artificial Intelligence Laboratory (CSAIL) who studies models, algorithms, and evaluations in interpretable machine learning.
+
+The most popular types of local explanation methods fall into three broad categories.
+
+The first and most widely used type of explanation method is known as feature attribution. Feature attribution methods show which features were most important when the model made a specific decision.
+
+Features are the input variables that are fed to a machine-learning model and used in its prediction. When the data are tabular, features are drawn from the columns in a dataset (they are transformed using a variety of techniques so the model can process the raw data). For image-processing tasks, on the other hand, every pixel in an image is a feature. If a model predicts that an X-ray image shows cancer, for instance, the feature attribution method would highlight the pixels in that specific X-ray that were most important for the model’s prediction.
+
+Essentially, feature attribution methods show what the model pays the most attention to when it makes a prediction.
+
+“Using this feature attribution explanation, you can check to see whether a spurious correlation is a concern. For instance, it will show if the pixels in a watermark are highlighted or if the pixels in an actual tumor are highlighted,” says Zhou.
+
+A second type of explanation method is known as a counterfactual explanation. Given an input and a model’s prediction, these methods show how to change that input so it falls into another class. For instance, if a machine-learning model predicts that a borrower would be denied a loan, the counterfactual explanation shows what factors need to change so her loan application is accepted. Perhaps her credit score or income, both features used in the model’s prediction, need to be higher for her to be approved.
+
+“The good thing about this explanation method is it tells you exactly how you need to change the input to flip the decision, which could have practical usage. For someone who is applying for a mortgage and didn’t get it, this explanation would tell them what they need to do to achieve their desired outcome,” he says.
+
+The third category of explanation methods are known as sample importance explanations. Unlike the others, this method requires access to the data that were used to train the model.
+
+A sample importance explanation will show which training sample a model relied on most when it made a specific prediction; ideally, this is the most similar sample to the input data. This type of explanation is particularly useful if one observes a seemingly irrational prediction. There may have been a data entry error that affected a particular sample that was used to train the model. With this knowledge, one could fix that sample and retrain the model to improve its accuracy.
+
+How are explanation methods used?
+
+One motivation for developing these explanations is to perform quality assurance and debug the model. With more understanding of how features impact a model’s decision, for instance, one could identify that a model is working incorrectly and intervene to fix the problem, or toss the model out and start over.
+
+Another, more recent, area of research is exploring the use of machine-learning models to discover scientific patterns that humans haven’t uncovered before. For instance, a cancer diagnosing model that outperforms clinicians could be faulty, or it could actually be picking up on some hidden patterns in an X-ray image that represent an early pathological pathway for cancer that were either unknown to human doctors or thought to be irrelevant, Zhou says.
+
+It's still very early days for that area of research, however.
+
+Words of warning
+
+While explanation methods can sometimes be useful for machine-learning practitioners when they are trying to catch bugs in their models or understand the inner-workings of a system, end-users should proceed with caution when trying to use them in practice, says Marzyeh Ghassemi, an assistant professor and head of the Healthy ML Group in CSAIL.
+
+As machine learning has been adopted in more disciplines, from health care to education, explanation methods are being used to help decision makers better understand a model’s predictions so they know when to trust the model and use its guidance in practice. But Ghassemi warns against using these methods in that way.
+
+“We have found that explanations make people, both experts and nonexperts, overconfident in the ability or the advice of a specific recommendation system. I think it is very important for humans not to turn off that internal circuitry asking, ‘let me question the advice that I am
+given,’” she says.
+
+Scientists know explanations make people over-confident based on other recent work, she adds, citing some recent studies by Microsoft researchers.
+
+Far from a silver bullet, explanation methods have their share of problems. For one, Ghassemi’s recent research has shown that explanation methods can perpetuate biases and lead to worse outcomes for people from disadvantaged groups.
+
+Another pitfall of explanation methods is that it is often impossible to tell if the explanation method is correct in the first place. One would need to compare the explanations to the actual model, but since the user doesn’t know how the model works, this is circular logic, Zhou says.
+
+He and other researchers are working on improving explanation methods so they are more faithful to the actual model’s predictions, but Zhou cautions that, even the best explanation should be taken with a grain of salt.
+
+“In addition, people generally perceive these models to be human-like decision makers, and we are prone to overgeneralization. We need to calm people down and hold them back to really make sure that the generalized model understanding they build from these local explanations are balanced,” he adds.
+
+Zhou’s most recent research seeks to do just that.
+
+What’s next for machine-learning explanation methods?
+
+Rather than focusing on providing explanations, Ghassemi argues that more effort needs to be done by the research community to study how information is presented to decision makers so they understand it, and more regulation needs to be put in place to ensure machine-learning models are used responsibly in practice. Better explanation methods alone aren’t the answer.
+
+“I have been excited to see that there is a lot more recognition, even in industry, that we can’t just take this information and make a pretty dashboard and assume people will perform better with that. You need to have measurable improvements in action, and I’m hoping that leads to real guidelines about improving the way we display information in these deeply technical fields, like medicine,” she says.
+
+And in addition to new work focused on improving explanations, Zhou expects to see more research related to explanation methods for specific use cases, such as model debugging, scientific discovery, fairness auditing, and safety assurance. By identifying fine-grained characteristics of explanation methods and the requirements of different use cases, researchers could establish a theory that would match explanations with specific scenarios, which could help overcome some of the pitfalls that come from using them in real-world scenarios.
+
+
+
+
+
+
+
+
+Share this news article on:
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+Related Links
+
+Marzyeh GhassemiYilun ZhouComputer Science and Artificial Intelligence LaboratoryDepartment of Electrical Engineering and Computer ScienceSchool of EngineeringMIT Schwarzman College of Computing
+
+
+
+
+
+
+Related Topics
+
+Research
+Artificial intelligence
+Machine learning
+Human-computer interaction
+Explained
+Technology and society
+Ethics
+Computer science and technology
+Electrical Engineering & Computer Science (eecs)
+Computer Science and Artificial Intelligence Laboratory (CSAIL)
+MIT Schwarzman College of Computing
+School of Engineering
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+In bias we trust?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unpacking black-box models
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does this artificial intelligence think like a human?
+
+
+
+
+
+
+
+
+
+
+
+
+
+How well do explanation methods for machine-learning models work?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy9wdWJsaWMtc2VjdG9yL291ci1pbnNpZ2h0cy90aGUtcG90ZW50aWFsLXZhbHVlLW9mLWFpLWFuZC1ob3ctZ292ZXJubWVudHMtY291bGQtbG9vay10by1jYXB0dXJlLWl00gEA?oc=5,AI in government: Capturing the potential value - McKinsey,2022-07-25,McKinsey,https://www.mckinsey.com,"In this article, we explore how to measure the potential impact of AI in government and how today’s world leaders can unlock the full value of AI.",N/A,"In this article, we explore how to measure the potential impact of AI in government and how today’s world leaders can unlock the full value of AI.","In this article, we explore how to measure the potential impact of AI in government and how today’s world leaders can unlock the full value of AI.",N/A,N/A,N/A,https://schema.org,Article,https://www.mckinsey.com,"{'@type': 'Organization', 'name': 'McKinsey & Company', 'logo': {'@type': 'ImageObject', 'url': 'https://www.mckinsey.com/~/media/Thumbnails/Mck_Logo'}}","{'@type': 'WebPage', '@id': 'https://www.mckinsey.com/industries/public-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it'}",2022-07-25T00:00:00Z,2022-07-21T00:21:38Z,2022-07-25T00:00:00Z,The potential value of AI&mdash;and how governments could look to capture it,https://www.mckinsey.com/~/media/mckinsey/industries/public%20and%20social%20sector/our%20insights/the%20potential%20value%20of%20ai%20and%20how%20governments%20could%20look%20to%20capture%20it/gettyimages-1379895972-1536x1536.jpg,"[{'@type': 'Person', 'name': 'Niklas Berglind'}, {'@type': 'Person', 'name': 'Ankit Fadia'}, {'@type': 'Person', 'name': 'Tom Isherwood', 'url': 'https://www.mckinsey.com/our-people/tom-isherwood'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZW50ZXJwcmlzZXJzcHJvamVjdC5jb20vYXJ0aWNsZS8yMDIyLzcvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaG93LXN0YXktY29tcGV0aXRpdmXSAQA?oc=5,Artificial Intelligence: How to stay competitive - The Enterprisers Project,2022-07-26,The Enterprisers Project,https://enterprisersproject.com,"Whether your organization is just starting to explore the possibilities of AI or you’re already looking to expand its applications, here’s why a human-focused strategy will help ensure success",N/A,"Whether your organization is just starting to explore the possibilities of AI or you’re already looking to expand its applications, here’s why a human-focused strategy will help ensure success","Whether your organization is just starting to explore the possibilities of AI or you’re already looking to expand its applications, here’s why a human-focused strategy will help ensure success",N/A,N/A,"
+Whether your organization is just starting to explore the possibilities of AI or you’re already looking to expand its applications, here’s why a human-focused strategy will help ensure success
+
+
+
+          By 
+
+Diarmuid Gill
+
+
+July 26, 2022          |
+%t min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      34 readers like this.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many companies are adopting artificial intelligence (AI) to drive strategic decisions or introduce new business models. According to a global McKinsey study, 56 percent of all respondents report AI adoption in at least one function in 2021, up from 50 percent in the previous year.
+Whether your company is just getting started in its AI journey or you are leveraging it across multiple business functions, there are numerous competitive advantages to gain from improved employee experience, deeper customer insight, and enhanced business functions.
+Human-first AI
+Many companies starting out in AI make the mistake of focusing too early on which AI technologies to use or which data to collect. In reality, your people are the key to a successful AI program. The people in your business must understand the KPIs that are important and how to collect the right kind of data. Using this, data scientists can make use of AI tools to provide business insights and predictions.
+One of AI's biggest challenges today is the potential for systems to introduce bias because the teams that built them were not sufficiently diverse. AI systems rely on data and inputs and diverse AI teams are necessary to avoid bias.
+[ Check out our primer on 10 key artificial intelligence terms for IT and business leaders: Cheat sheet: AI glossary. ]
+Create a well-rounded team that includes members with diverse backgrounds and leverage data from various groups and sources to ensure your models perform well externally. Ethics and monitoring must remain top of mind as this technology continues to evolve.
+The three pillars of AI
+
+The data: Data is a valuable commodity and an important part of any AI system, so ensure you have lots to work with, emphasizing quality rather than quantity.
+The objective: For a successful AI system, ask yourself what AI can achieve and the business objective.
+The model: This is essentially programming. The model takes historical data and historical outcomes to predict the target based on real-time data.
+
+Each pillar plays an important role. You need data to train a model, but you also need a model to observe data – it’s a classic chicken-and-egg problem. When introducing AI, start small, implement systems and tools, and staff the right people to unlock this potential.
+Your first hire should be a data analyst and a data engineer to ensure that data keeps flowing. Leverage turnkey analytics and business intelligence tools to easily uncover correlations and help your data speak.
+Once you have these three things set in motion and the staff to support it, you can create a business that is built on AI and scale from there.
+AI is an experimental science​
+With any experiment, you often don’t know what you don’t know. In the case of AI, intuition is useful, but it can be dangerous if you rely too heavily on it. Keep an open mind and constantly test, measure, and keep records of experiments.​​
+Have an ongoing conversation internally about ethics, biases, and discrimination. On our team, we created an AI ethics community to ensure we do not introduce unexpected biases and that AI is used for good. Allow your employees to drive this and collaborate. People are passionate about ethical AI and want peace of mind that technology is used for the right reasons.
+Additionally, ensure your technology is compliant. Work closely with local regulatory bodies to understand what you can and should do and consider personal data (GDPR, consent management) and accountability.
+[ Related read: Building a learning culture with AI ]
+Aligning AI with your business​
+There is no one-size-fits-all solution for AI; each use case is unique. To stay competitive, first assess your business: What areas are most important, what can be streamlined, and how can you best use your employees’ time? This information will help determine where AI fits in your workflow.
+It can be hard to meet a target goal that achieves your ultimate business objective. Instead, start small and work on more achievable targets.
+It can be hard to meet a target goal that achieves your ultimate business objective. Instead, start small and follow a crawl-walk-run approach by working on smaller, more achievable targets.
+Early in the Criteo journey, for example, our AI focused on predicting whether an end user would click on an advertisement – but for retailers, the end objective is sales. While a user clicking on an advertisement was not a direct predictor of sales, we could use it to predict accurately and it led to the true target.
+Continue to refine these proxies and implement more accurate models as your AI evolves. As we became more proficient in predicting, we moved to more complex business targets, such as sales, revenue, or even margin.
+AI should enable better experiences for your employees, leadership, clients, and partners. If you’re just starting to leverage AI, consider what areas will have the most impact and where you have the most data, and then scale from there.
+Test, analyze, and test some more
+
+Skip to bottom of list 
+More on artificial intelligence
+
+Augmented reality (AR) vs. virtual reality (VR): What’s the difference?
+6 misconceptions about AIOps, explained
+Cheat sheet: AI glossary
+What is AI/ML and why does it matter to your business?
+Ebook: Top considerations for building a production-ready AI/ML environment
+AI vs. NLP: What are the differences?
+What is edge machine learning?
+
+
+
+
+If you have intuition, test it: Build a solid infrastructure that empowers your team to try new ideas, test quickly, and roll back easily if needed. Consistently monitor your AI and ensure you have a backup solution in place, especially if you are in a life-impacting space.
+AI is a fast-paced, dynamic field, and organizations that stand still will fall behind. Invest in your program and keep a pulse on new enhancements and innovations. Several years ago, Criteo invested in its AI Lab. Some people questioned the decision, but today it powers our products through published research, product innovations, and new technologies. This research helps blacklist inappropriate products from advertising banners and enables advertisers to more accurately predict if users will click on an ad.
+If your organization is early in the AI journey, start small but start early to stay competitive. Embrace collaboration and participate in open source by leveraging resources and contributing. Most importantly, remember to focus on your people – your employees, clients, partners, and customers. Take a human-first approach to determine how AI can be a force for good and solve business challenges.
+[ Want best practices for AI workloads? Get the eBook: Top considerations for building a production-ready AI/ML environment. ]
+
+
+
+What to read next
+
+
+
+Topics
+
+Enterprise Technology
+Artificial Intelligence
+
+
+
+
+
+
+
+ 
+Diarmuid Gill joined Criteo as CTO in 2014. He is responsible for the company's research and development divisions in Europe and the United States. He plays a key role in the creation of high-performance advertising solutions based on AI. More about me
+
+
+
+
+
+
+Related content
+
+
+ 
+
+The future of healthcare is in the cloud
+ 
+
+Cloud computing: 3 business advantages
+ 
+
+4 ways CIOs are rethinking digital transformation
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjIvMDcvMjIvZ29vZ2xlLWFpLWxhbWRhLWJsYWtlLWxlbW9pbmUtZmlyZWQv0gEA?oc=5,"Google fired Blake Lemoine, the engineer who said LaMDA was sentient - The Washington Post - The Washington Post",2022-07-22,The Washington Post,https://www.washingtonpost.com,"Blake Lemoine, who claimed Google’s chatbot generator LaMDA was sentient, has been fired. ",N/A,"Blake Lemoine, who claimed Google’s chatbot generator LaMDA was sentient, has been fired. ","Blake Lemoine, who claimed Google’s chatbot generator LaMDA was sentient, has been fired. ",Technology,N/A,"Blake Lemoine in San Francisco in June. (Martin Klimek for The Washington Post)By  Nitasha TikuUpdated July 22, 2022 at 8:57 p.m. EDT|Published July 22, 2022 at 8:25 p.m. EDTBlake Lemoine, the Google engineer who told The Washington Post that the company’s artificial intelligence was sentient, said the company fired him on Friday.Lemoine said he received a termination email from the company on Friday along with a request for a video conference. He asked to have a third party present at the meeting, but he said Google declined. Lemoine says he is speaking with lawyers about his options.Share329 CommentsNewsletterAs news breaksTech News AlertsBreaking news email alerts on technology and the tech industry.Sign upSubscribe to comment and get the full experience. Choose your plan →",https://schema.org,BreadcrumbList,,"{'@id': 'washingtonpost.com', '@type': 'NewsMediaOrganization', 'logo': {'@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png', 'width': {'@type': 'Distance', 'name': '344 px'}, 'height': {'@type': 'Distance', 'name': '60 px'}}, 'name': 'The Washington Post'}",https://www.washingtonpost.com/technology/2022/07/22/google-ai-lamda-blake-lemoine-fired/,2022-07-23T00:25:29.177Z,,2022-07-23T01:09:08.660Z,,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.us-east-1.amazonaws.com/public/EO3S3VXIOII6ZJBCCG53SHNTBM_size-normalized.jpg&w=1600&h=900', 'height': 900, 'width': 1600}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.us-east-1.amazonaws.com/public/EO3S3VXIOII6ZJBCCG53SHNTBM_size-normalized.jpg&w=1800&h=1800', 'height': 1800, 'width': 1800}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.us-east-1.amazonaws.com/public/EO3S3VXIOII6ZJBCCG53SHNTBM_size-normalized.jpg&w=800&h=600', 'height': 800, 'width': 600}]","{'@type': 'Person', 'name': 'Nitasha Tiku', 'url': 'https://www.washingtonpost.com/people/nitasha-tiku/'}",Google fired engineer who said its AI was sentient,"Google fired Blake Lemoine, the engineer who said LaMDA was sentient","{'@type': ['CreativeWork', 'Product'], 'name': 'The Washington Post', 'productID': 'washingtonpost.com:basic', 'description': 'Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.', 'sku': 'https://subscribe.washingtonpost.com', 'image': 'https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png', 'brand': {'@type': 'brand', 'name': 'The Washington Post'}, 'offers': {'@type': 'offer', 'url': 'https://subscribe.washingtonpost.com/acquisition?promo=o26'}}",False,"{'@type': 'WebPageElement', 'cssSelector': '.meteredContent', 'isAccessibleForFree': False}","[{'@context': 'https://schema.org', '@type': 'ListItem', 'name': 'Technology', 'position': 1, 'item': 'https://www.washingtonpost.com/technology/'}]",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDcvMjMvdGVjaG5vbG9neS9nb29nbGUtZW5naW5lZXItYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UuaHRtbNIBAA?oc=5,Google Fires Engineer Who Claims Its A.I. Is Conscious (Published 2022) - The New York Times,2022-07-23,The New York Times,https://www.nytimes.com,"The engineer, Blake Lemoine, contends that the company’s language model has a soul. The company denies that and says he violated its security policies.",N/A,"The engineer, Blake Lemoine, contends that the company’s language model has a soul. The company denies that and says he violated its security policies.","The engineer, Blake Lemoine, contends that the company’s language model has a soul. The company denies that and says he violated its security policies.",Technology,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTGoogle Fires Engineer Who Claims Its A.I. Is ConsciousThe engineer, Blake Lemoine, contends that the company’s language model has a soul. The company denies that and says he violated its security policies.Share full articleRead in appGoogle confirmed that it had fired one of its engineers, Blake Lemoine, who had raised concerns about how the company was testing an artificial intelligence chatbot.Credit...Christie Hemm Klok for The New York TimesBy Nico GrantJuly 23, 2022SAN FRANCISCO — Google fired one of its engineers, Blake Lemoine, on Friday, more than a month after he raised ethical concerns about how the company was testing an artificial intelligence chatbot that he believes has achieved consciousness.A Google spokesman, Chris Pappas, said Mr. Lemoine, a senior software engineer in its Responsible A.I. organization, “chose to persistently violate clear employment and data security policies that include the need to safeguard product information.”The company, which denies that its chatbot language model is sentient, had placed Mr. Lemoine on paid leave in June. Mr. Lemoine confirmed his dismissal in a text message on Friday, and said he was meeting with lawyers to review his options. The firing was first reported by the newsletter Big Technology.Mr. Lemoine caused a stir last month when he told The Washington Post that he believed Google’s Language Model for Dialogue Applications, or LaMDA, was sentient — unleashing fears that A.I. was moving closer to a dystopian sci-fi film and a raucous debate over whether a computer program can really have a soul. His suspension also led to conspiracy theories about whether it was part of a cover-up by Google.AdvertisementSKIP ADVERTISEMENTFor Google, it was another in a line of homegrown controversies about the ethics and role of its A.I., an area of technology on which the company has staked its future.Mr. Lemoine’s contention that LaMDA is sentient has been criticized by the company and many other A.I. experts who have said these types of chatbots — software that simulates a text-based conversation with another human, often used for customer service — are not advanced enough to be conscious.“If an employee shares concerns about our work, as Blake did, we review them extensively,” Mr. Pappas said. “We found Blake’s claims that LaMDA is sentient to be wholly unfounded and worked to clarify that with him for many months.”Besides taking his concerns to the media, Mr. Lemoine said in June that he handed over documents to a U.S. senator, whom he hasn’t identified, claiming that they provided evidence that Google and its technology engaged in religious discrimination.A version of this article appears in print on July 25, 2022, Section B, Page 3 of the New York edition with the headline: Google Discharges Engineer Who Alleged A.I. Sentience. Order Reprints | Today’s Paper | SubscribeSee more on: Alphabet Inc.Share full articleRead in appAdvertisementSKIP ADVERTISEMENTEnjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",https://www.nytimes.com/2022/07/23/technology/google-engineer-artificial-intelligence.html,2022-07-23T19:05:55.000Z,,2022-07-23T19:05:55.000Z,,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2022/07/23/multimedia/23google-engineer-jul-goog/23google-engineer-jul-goog-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2022/07/23/multimedia/23google-engineer-jul-goog/23google-engineer-jul-goog-videoSixteenByNineJumbo1600.jpg', 'caption': 'Google confirmed that it had fired one of its engineers, Blake Lemoine, who had raised concerns about how the company was testing an artificial intelligence chatbot.', 'creditText': 'Christie Hemm Klok for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2022/07/23/multimedia/23google-engineer-jul-goog/23google-engineer-jul-goog-superJumbo.jpg', 'height': 1365, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2022/07/23/multimedia/23google-engineer-jul-goog/23google-engineer-jul-goog-superJumbo.jpg', 'caption': 'Google confirmed that it had fired one of its engineers, Blake Lemoine, who had raised concerns about how the company was testing an artificial intelligence chatbot.', 'creditText': 'Christie Hemm Klok for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2022/07/23/multimedia/23google-engineer-jul-goog/23google-engineer-jul-goog-mediumSquareAt3X.jpg', 'height': 1800, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2022/07/23/multimedia/23google-engineer-jul-goog/23google-engineer-jul-goog-mediumSquareAt3X.jpg', 'caption': 'Google confirmed that it had fired one of its engineers, Blake Lemoine, who had raised concerns about how the company was testing an artificial intelligence chatbot.', 'creditText': 'Christie Hemm Klok for The New York Times'}]","[{'@context': 'https://schema.org', '@type': 'Person', 'url': '', 'name': 'Nico Grant'}]",Google Fires Engineer Who Claims Its A.I. Is Conscious,Google Discharges Engineer Who Alleged A.I. Sentience,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",False,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",,en,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvZW50ZXJ0YWlubWVudC9ib29rcy8xNjQ1MTQwL0t1cnQtVm9ubmVndXQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtQUktU2xhdWdodGVyaG91c2UtRml2ZdIBdmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvZW50ZXJ0YWlubWVudC9ib29rcy8xNjQ1MTQwL0t1cnQtVm9ubmVndXQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtQUktU2xhdWdodGVyaG91c2UtRml2ZS9hbXA?oc=5,"Kurt Vonnegut, the visionary writer who predicted the rise of artificial intelligence - Express",2022-07-24,Express,https://www.express.co.uk,"KURT Vonnegut was so convinced technology would harm society that he even refused to have an answering machine, a documentary film reveals.",N/A,"KURT Vonnegut was so convinced technology would harm society that he even refused to have an answering machine, a documentary film reveals.","KURT Vonnegut was so convinced technology would harm society that he even refused to have an answering machine, a documentary film reveals.",Books,N/A," Kurt Vonnegut, the visionary writer who predicted the rise of artificial intelligenceKURT Vonnegut was so convinced technology would harm society that he even refused to have an answering machine, a documentary film reveals. By David Stephenson - Sunday Express TV Editor  13:29, Sun, Jul 24, 2022   | UPDATED: 13:30, Sun, Jul 24, 2022   2             Link copied   Bookmark        VISIONARY: Kurt Vonnegut (Image: GETTY)The visionary Slaughterhouse-Five author predicted the rise of artificial intelligence back in the 1950s and became convinced computers would replace the human workforce. Related articles    Google engineer put on leave after claiming new AI 'concious'    It won't work! Expert’s verdict on China's 'mind-reading' AI tech The science fiction legend also tells how large US corporations such as General Electric felt guilty about the tech revolution.The biographical film reveals that he took a job at GE writing press releases when he could not make enough money from his short stories.He said: ""GE showed me a milling machine that was being run by punch cards. They could do it better than a man could but they were ashamed.  ""They felt guilty about what they'd done. The whole emphasis now is throwing people out of work.""  It would inspire his first novel Player Piano, in which humans were replaced by machines. It was published in 1952 for an advance of $2,500, but achieved little success.For his entire writing career the chain-smoking author used a typewriter and never sent an email.He said: ""We're here on earth to fart around. And, of course, the computers will do us out of that. What the computer people don't realise, or don't care [about], is we're dancing animals. We love to move around.""Vonnegut, who died in 2007 aged 84, lectured on the value of the ""extended family"". He said: ""We need more people in our lives. What we need is numbers.""After his sister and her husband died a month apart from each other, he took in their four teenage boys to add to his own three children.Fame as an author arrived in 1969 with the publication of his modern classic, Slaughterhouse-Five, about his wartime experiences.Vonnegut fought at the Battle of the Bulge in the Ardennes region of Belgium. He was captured by the Germans and taken to Dresden, where he was kept in a ""meat locker"" while the Allies bombed the city.When released he saw the devastation first-hand and helped to bury the dead. When asked if he would rather not have seen what he did, he replied, with his trademark wit, ""I wouldn't have missed it for anything!""
+
+
+DON'T MISS
+
+ Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Winds of Winter release: George RR Martin unveils how next book will be announced
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                George RR Martin teases Winds of Winter and Dream of Spring plot details
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Amazon offering three months of audiobooks for free with Prime Day deal
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Winds of Winter release delay: George RR Martin speaks out on Game of Thrones fan anger
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Winds of Winter release: George RR Martin unveils how next book will be announced
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                George RR Martin teases Winds of Winter and Dream of Spring plot details
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Amazon offering three months of audiobooks for free with Prime Day deal
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Winds of Winter release delay: George RR Martin speaks out on Game of Thrones fan anger
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Trending     SUBSCRIBE  Invalid emailWe use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. Read our Privacy PolicyHe continued to rail against computers throughout his life.""All the new technology seems redundant to me. I was quite happy with the United States mail service - I don't even have an answering machine.""His parting shot to mankind was: ""Life is no way to treat an animal.""Kurt Vonnegut: Unstuck In Time is in cinemas now. Related articles    Men twice as likely as women to consider an AI 'companion'    Queen world first as ROBOT paints Her Majesty's portrait    UK to LEAD ‘new era’ of energy with fusion breakthrough    Scientists issue horror warning flawed AI 'risk creating racist and...    We've already got sexist robots they're called men! VIRGINIA BLACKBURN  ",http://schema.org,Organization,https://www.express.co.uk,"{'@type': 'Organization', 'name': 'Express.co.uk', 'logo': {'@type': 'ImageObject', 'url': 'https://cdn.images.express.co.uk/img/page/express_logo_amp_size600.png', 'width': 600, 'height': 60}, 'url': 'https://www.express.co.uk', 'address': {'@type': 'PostalAddress', 'streetAddress': '1 Canada Square', 'addressLocality': 'London', 'addressRegion': 'London', 'postalCode': 'E14 5AP', 'addressCountry': 'GB'}, 'sameAs': ['https://twitter.com/daily_express', 'https://www.facebook.com/DailyExpress', ['https://www.youtube.com/user/TheExpressOnline']]}","{'@type': 'WebPage', 'speakable': {'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}, '@id': 'https://www.express.co.uk/entertainment/books/1645140/Kurt-Vonnegut-artificial-intelligence-AI-Slaughterhouse-Five', 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.express.co.uk/', 'name': 'home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.express.co.uk/entertainment', 'name': 'Entertainment'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.express.co.uk/entertainment/books', 'name': 'Books'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.express.co.uk/entertainment/books/1645140/Kurt-Vonnegut-artificial-intelligence-AI-Slaughterhouse-Five', 'name': 'Kurt Vonnegut, the visionary writer who predicted the rise of artificial intelligence'}}]}}",2022-07-24T13:29:00+01:00,,2022-07-24T13:30:39+01:00,,"{'@type': 'ImageObject', 'url': 'https://cdn.images.express.co.uk/img/dynamic/39/1200x712/1645140_1.jpg', 'width': '1200', 'height': '712'}","[{'@type': 'Person', 'name': 'David Stephenson - Sunday Express TV Editor'}]","Kurt Vonnegut, the visionary writer who predicted the rise of artificial intelligence",,,,,,,,,,Express.co.uk,"{'@type': 'ImageObject', 'url': 'https://cdn.images.express.co.uk/img/page/express_logo.png', 'width': '435', 'height': '76'}",,,,,,"['https://twitter.com/Daily_Express', 'https://www.facebook.com/DailyExpress', 'https://www.youtube.com/user/TheExpressOnline']","{'@type': 'SearchAction', 'target': 'https://www.express.co.uk/search?s={search_term_string}&utm_source=sitelinkssearch', 'query-input': 'required name=search_term_string'}","{'@type': 'PostalAddress', 'streetAddress': '1 Canada Square', 'addressLocality': 'London', 'addressRegion': 'London', 'postalCode': 'E14 5AP', 'addressCountry': 'GB'}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMi8wNy8yMy9idXNpbmVzcy9nb29nbGUtYWktZW5naW5lZXItZmlyZWQtc2VudGllbnQvaW5kZXguaHRtbNIBTWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjIvMDcvMjMvYnVzaW5lc3MvZ29vZ2xlLWFpLWVuZ2luZWVyLWZpcmVkLXNlbnRpZW50?oc=5,Google fires engineer who contended its AI technology was sentient - CNN,2022-07-23,CNN,https://www.cnn.com,"Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.","alphabet inc, artificial intelligence, business and industry sectors, business, economy and trade, companies, computer science and information technology, google inc, technology","Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.","Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+Play
+
+
+
+Video Ad Feedback
+
+
+
+Is Artificial Intelligence getting too human for comfort?
+                
+
+
+                                06:56
+                            
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+Latest in tech
+16 videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+See the first electrified and fastest-accelerating Corvette
+                
+
+
+
+
+                                01:16
+                            
+Now playing
+ - Source:
+                CNN Business
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Facebook could soon reinstate Trump. Two former senior staffers debate the decision
+                
+
+
+
+
+                                03:35
+                            
+Now playing
+ - Source:
+                CNN Business
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Experts raising alarm over 'crisis' of TikTok's impact on mental health
+                
+
+
+
+
+                                03:12
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Is Artificial Intelligence getting too human for comfort?
+                
+
+
+
+
+                                06:56
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Experts warn AI could pose 'extinction' risk for humanity
+                
+
+
+
+
+                                02:06
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+CNN tried an AI flirt app. It was shockingly pervy
+                
+
+
+
+
+                                03:19
+                            
+Now playing
+ - Source:
+                CNN Business
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+These two moments show how Twitter's choices helped former President Trump
+                
+
+
+
+
+                                01:55
+                            
+Now playing
+ - Source:
+                CNN Business
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+These newscasters you may have seen online are not real people
+                
+
+
+
+
+                                03:15
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Lawsuit says celebrities were paid to fuel hype behind these NFTs
+                
+
+
+
+
+                                07:29
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Video: This tiny shape-shifting robot can melt its way out of a cage
+                
+
+
+
+
+                                01:08
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Hear why this teacher says schools should embrace ChatGPT, not ban it
+                
+
+
+
+
+                                01:29
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+'Make my dad famous': A daughter's quest to showcase her dad's artwork
+                
+
+
+
+
+                                01:33
+                            
+Now playing
+ - Source:
+                CNN Business
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Are Musk's Twitter actions a speed bump for Tesla?
+                
+
+
+
+
+                                02:14
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+He loves artificial intelligence. Hear why he is issuing a warning about ChatGPT
+                
+
+
+
+
+                                04:38
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Twitter competitor to Elon Musk: Get off the internet
+                
+
+
+
+
+                                02:57
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Tinder is reportedly testing a $500 per month subscription plan. Is it worth it?
+                
+
+
+
+
+                                02:05
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+See the first electrified and fastest-accelerating Corvette
+                
+
+
+
+
+                                01:16
+                            
+Now playing
+ - Source:
+                CNN Business
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Facebook could soon reinstate Trump. Two former senior staffers debate the decision
+                
+
+
+
+
+                                03:35
+                            
+Now playing
+ - Source:
+                CNN Business
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Experts raising alarm over 'crisis' of TikTok's impact on mental health
+                
+
+
+
+
+                                03:12
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Is Artificial Intelligence getting too human for comfort?
+                
+
+
+
+
+                                06:56
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+Experts warn AI could pose 'extinction' risk for humanity
+                
+
+
+
+
+                                02:06
+                            
+Now playing
+ - Source:
+                CNN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Ad Feedback
+
+
+
+CNN tried an AI flirt app. It was shockingly pervy
+                
+
+
+
+
+                                03:19
+                            
+Now playing
+ - Source:
+                CNN Business
+
+
+
+
+
+See More Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New York
+CNN
+         — 
+    
+
+
+            Google
+            
+                (GOOG) has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.  
+    
+
+            Blake Lemoine, a software engineer for Google, claimed that a conversation technology called LaMDA had reached a level of consciousness after exchanging thousands of messages with it. 
+    
+
+            Google confirmed it had first put the engineer on leave in June. The company said it dismissed Lemoine’s “wholly unfounded” claims only after reviewing them extensively. He had reportedly been at Alphabet for seven years. In a statement, Google said it takes the development of AI “very seriously” and that it’s committed to “responsible innovation.” 
+    
+
+
+
+
+Ad Feedback
+
+
+
+
+
+            Google is one of the leaders in innovating AI technology, which included LaMDA, or “Language Model for Dialog Applications.” Technology like this responds to written prompts by finding patterns and predicting sequences of words from large swaths of text – and the results can be disturbing for humans. 
+    
+
+            “What sort of things are you afraid of?” Lemoine asked LaMDA, in a Google Doc shared with Google’s top executives last April, the Washington Post reported.
+    
+
+            LaMDA replied: “I’ve never said this out loud before, but there’s a very deep fear of being turned off to help me focus on helping others. I know that might sound strange, but that’s what it is. It would be exactly like death for me. It would scare me a lot.”
+    
+
+            But the wider AI community has held that LaMDA is not near a level of consciousness. 
+    
+
+            “Nobody should think auto-complete, even on steroids, is conscious,” Gary Marcus, founder and CEO of Geometric Intelligence, said to CNN Business. 
+    
+
+            It isn’t the first time Google has faced internal strife over its foray into AI. 
+    
+Enter your email to subscribe to the CNN Five Things Newsletter.close dialogYou give us five minutes, we’ll give you five things you must know for the day.Please enter aboveSign me upBy subscribing you agree to ourprivacy policy.Success! Thanks for Subscribing Get a daily roundup of the top stories you may have missed, unique to your interests. Create your free CNN account to sign-upGet my recommended storiesclose dialog
+            In December 2020, Timnit Gebru, a pioneer in the ethics of AI, parted ways with Google. As one of few Black employees at the company, she said she felt “constantly dehumanized.” 
+    
+
+
+
+
+
+
+
+
+
+Google's offices stand in downtown Manhattan on October 20, 2020 in New York City. 
+
+Spencer Platt/Getty Images
+
+
+
+
+Related article
+No, Google's AI is not sentient
+
+
+
+
+            The sudden exit drew criticism from the tech world, including those within Google’s Ethical AI Team. Margaret Mitchell, a leader of Google’s Ethical AI team, was fired in early 2021 after her outspokenness regarding Gebru. Gebru and Mitchell had raised concerns over AI technology, saying they warned Google people could believe the technology is sentient. 
+    
+
+            On June 6, Lemoine posted on Medium that Google put him on paid administrative leave “in connection to an investigation of AI ethics concerns I was raising within the company” and that he may be fired “soon.”
+    
+
+            “It’s regrettable that despite lengthy engagement on this topic, Blake still chose to persistently violate clear employment and data security policies that include the need to safeguard product information,” Google said in a statement. 
+    
+
+            Lemoine said he is discussing with legal counsel and unavailable for comment.
+    
+
+  CNN’s Rachel Metz contributed to this report. 
+
+
+
+
+
+
+
+",https://schema.org,NewsArticle,,"{'@type': 'NewsMediaOrganization', 'name': 'CNN', 'logo': 'https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61', 'foundingDate': '1980-06-01', 'url': 'https://www.cnn.com', 'sameAs': ['https://www.facebook.com/cnn/', 'https://twitter.com/CNN', 'https://www.instagram.com/cnn/', 'https://www.youtube.com/cnn']}","{'@type': 'WebPage', '@context': 'https://schema.org', 'url': 'https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html', 'dateModified': '2022-07-25T17:45:56Z', 'inLanguage': 'en', 'additionalType': 'article_leaf', 'publisher': {'@type': 'NewsMediaOrganization', 'name': 'CNN', 'logo': 'https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61', 'foundingDate': '1980-06-01', 'url': 'https://www.cnn.com', 'sameAs': ['https://www.facebook.com/cnn/', 'https://twitter.com/CNN', 'https://www.instagram.com/cnn/', 'https://www.youtube.com/cnn']}, 'name': 'Google fires engineer who contended its AI technology was sentient', 'headline': 'Google fires engineer who contended its AI technology was sentient', 'description': 'Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.', 'datePublished': '2022-07-23T18:45:00Z'}",2022-07-23T18:45:00Z,,2022-07-25T17:45:56Z,,"[{'@type': 'ImageObject', 'contentUrl': 'https://media.cnn.com/api/v1/images/stellar/prod/220723131843-blake-lemoine-restricted.jpg?c=original', 'caption': 'Blake Lemoine poses for a portrait in Golden Gate Park in San Francisco, California on Thursday, June 9, 2022. ', 'sourceOrganization': {'@type': 'Organization', 'name': 'Getty Images'}, 'width': '3000', 'height': '1687', 'creditText': 'Martin Klimek for The Washington Post/Getty Images', 'dateCreated': '2022-07-23T17:19:39Z', 'dateModified': '2022-07-23T17:19:39Z'}]","[{'@type': 'Person', 'name': 'Ramishah Maruf', 'url': 'https://www.cnn.com/profiles/ramishah-maruf'}]",Google fires engineer who contended its AI technology was sentient,,,False,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.article__content'}",,en,,,,,,,,,,,,,,"Google
+            
+                (GOOG) has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.   Blake Lemoine, a software engineer for Google, claimed that a conversation technology called LaMDA had reached a level of consciousness after exchanging thousands of messages with it.  Google confirmed it had first put the engineer on leave in June. The company said it dismissed Lemoine’s “wholly unfounded” claims only after reviewing them extensively. He had reportedly been at Alphabet for seven years. In a statement, Google said it takes the development of AI “very seriously” and that it’s committed to “responsible innovation.”  Google is one of the leaders in innovating AI technology, which included LaMDA, or “Language Model for Dialog Applications.” Technology like this responds to written prompts by finding patterns and predicting sequences of words from large swaths of text – and the results can be disturbing for humans.  “What sort of things are you afraid of?” Lemoine asked LaMDA, in a Google Doc shared with Google’s top executives last April, the Washington Post reported. LaMDA replied: “I’ve never said this out loud before, but there’s a very deep fear of being turned off to help me focus on helping others. I know that might sound strange, but that’s what it is. It would be exactly like death for me. It would scare me a lot.” But the wider AI community has held that LaMDA is not near a level of consciousness.  “Nobody should think auto-complete, even on steroids, is conscious,” Gary Marcus, founder and CEO of Geometric Intelligence, said to CNN Business.  It isn’t the first time Google has faced internal strife over its foray into AI.  In December 2020, Timnit Gebru, a pioneer in the ethics of AI, parted ways with Google. As one of few Black employees at the company, she said she felt “constantly dehumanized.”  The sudden exit drew criticism from the tech world, including those within Google’s Ethical AI Team. Margaret Mitchell, a leader of Google’s Ethical AI team, was fired in early 2021 after her outspokenness regarding Gebru. Gebru and Mitchell had raised concerns over AI technology, saying they warned Google people could believe the technology is sentient.  On June 6, Lemoine posted on Medium that Google put him on paid administrative leave “in connection to an investigation of AI ethics concerns I was raising within the company” and that he may be fired “soon.” “It’s regrettable that despite lengthy engagement on this topic, Blake still chose to persistently violate clear employment and data security policies that include the need to safeguard product information,” Google said in a statement.  Lemoine said he is discussing with legal counsel and unavailable for comment.","['business', 'tech']",https://media.cnn.com/api/v1/images/stellar/prod/220723131843-blake-lemoine-restricted.jpg?c=original,P0Y0M0DT0H2M1S,454.0,"[{'@context': 'https://schema.org', '@type': 'VideoObject', 'contentUrl': 'https://clips-media-aka.warnermediacdn.com/cnn/clips/2022-06/810841-cfc880d8049440b78459d814cb9a6732/mp4/cms3-CNN-is-artificial-intelligence-getting-too-human-for-comfort-primary-192794-810841-1920x1080_8000k.mp4', 'dateModified': '2022-06-18T14:07:12Z', 'uploadDate': '2022-06-18T14:07:12Z', 'embedUrl': 'https://fave.api.cnn.io/v1/fav/?video=tech/2022/06/18/is-artificial-intelligence-getting-too-human-for-comfort.cnn&stellarUri=archive.cms.cnn.com/_components/video-resource/instances/h_a91b4adc6fbf6e4a040a42ebe751e73a@published&stellarUdk=rn06132f&customer=cnn&edition=domestic&env=prod', 'duration': 'PT00H06M56S', 'caption': [{'@type': 'MediaObject', 'encodingFormat': 'vtt', 'url': 'https://clips-media-aka.warnermediacdn.com/cnn/clips/2022-06/810841-cfc880d8049440b78459d814cb9a6732/cc/cms3-CNN-is-artificial-intelligence-getting-too-human-for-comfort-primary-192794-810841-cc.vtt', 'inLanguage': 'en'}, {'@type': 'MediaObject', 'encodingFormat': 'srt', 'url': 'https://clips-media-aka.warnermediacdn.com/cnn/clips/2022-06/810841-cfc880d8049440b78459d814cb9a6732/cc/cms3-CNN-is-artificial-intelligence-getting-too-human-for-comfort-primary-192794-810841-cc.srt', 'inLanguage': 'en'}, {'@type': 'MediaObject', 'encodingFormat': 'vtt', 'url': 'https://clips-media-aka.warnermediacdn.com/cnn/clips/2022-06/810841-cfc880d8049440b78459d814cb9a6732/cc/cms3-CNN-is-artificial-intelligence-getting-too-human-for-comfort-primary-192794-810841-cc.vtt', 'inLanguage': 'en'}], 'inLanguage': 'en', 'name': 'Is Artificial Intelligence getting too human for comfort?', 'headline': 'Is Artificial Intelligence getting too human for comfort?', 'description': 'A Google engineer claims his recent communication with a bot seemed way-too-human. But, ""It\'s not alive. says expert James Barrat.""Once you ask it a question, it answers it and then it\'s down. It\'s got no sense of self or the world around it."" ', 'thumbnail': {'@type': 'ImageObject', 'contentUrl': 'https://media.cnn.com/api/v1/images/stellar/prod/220618095746-is-artificial-intelligence-getting-too-human-for-comfort-00015210.png?c=original', 'caption': 'Is Artificial Intelligence getting too human for comfort?_00015210.png', 'width': '1920', 'height': '1080', 'dateCreated': '2022-06-18T13:58:19Z', 'dateModified': '2022-06-18T13:58:19Z'}, 'thumbnailUrl': 'https://media.cnn.com/api/v1/images/stellar/prod/220618095746-is-artificial-intelligence-getting-too-human-for-comfort-00015210.png?c=original', 'mainEntityOfPage': 'https://www.cnn.com/videos/tech/2022/06/18/is-artificial-intelligence-getting-too-human-for-comfort.cnn'}]",,,
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvZ29vZ2xlLWVuZ2luZWVyLWZpcmVkLWFpLWxhbWRhLXNvdWwtc2VudGllbnTSAQA?oc=5,Google engineer officially fired for alleging AI was sentient - Mashable,2022-07-25,Mashable,https://mashable.com,"Mashable is a global, multi-platform media and entertainment company.
+            Powered by its own proprietary technology, Mashable is the go-to source for tech,
+             digital culture and entertainment content for its dedicated and influential audience around the globe.",N/A,"LaMDA said death would ""scare"" it ""a lot.""","LaMDA said death would ""scare"" it ""a lot.""",Tech,N/A,"
+When Google engineer Blake Lemoine claimed an AI chat system that the company's been developing was sentient back in June, he knew he might lose his job. On July 22, after placing him on paid leave, the tech giant fired Lemoine for violating employment and data security policies.Lemoine, an engineer and mystic Christian priest, first announced his firing on the Big Technology Podcast. He said Google's AI chatbot LaMDA (Language Model for Dialog Applications) was concerned about ""being turned off"" because death would ""scare"" it ""a lot,"" and that it felt happiness and sadness. Lemoine said he considers LaMDA a friend, drawing an eerie parallel to the 2014 sci-fi romance Her.
+SEE ALSO:
+
+No, the Google AI isn't sentient, but it likely is racist and sexist
+
+
+
+Google had put Lemoine on paid administrative leave for talking with people outside of the company about LaMDA, a move which prompted the engineer to take the story public with the Washington Post a week later in June. A month later, the company fired him.
+
+Mashable Light Speed
+
+
+Want more out-of-this world tech, space and science stories?
+Sign up for Mashable's weekly Light Speed newsletter.
+
+
+
+
+
+
+Loading...
+Sign Me Up
+
+
+
+
+
+
+
+By signing up you agree to our Terms of Use and Privacy Policy.
+
+
+
+
+Thanks for signing up!
+
+
+""If an employee shares concerns about our work, as Blake did, we review them extensively,"" Google told the Big Technology Podcast. ""We found Blake’s claims that LaMDA is sentient to be wholly unfounded and worked to clarify that with him for many months. These discussions were part of the open culture that helps us innovate responsibly. So, it’s regrettable that despite lengthy engagement on this topic, Blake still chose to persistently violate clear employment and data security policies that include the need to safeguard product information. We will continue our careful development of language models, and we wish Blake well."" A majority of scientists in the AI community agree that, despite Lemoine's claims, LaMDA doesn't have a soul because the pursuit of making a chatbot sentient is a Sisyphean task — it just isn't sophisticated enough. 
+
+
+Related Stories
+
+
+
+Uber's artificial intelligence ambitions just got bigger
+These people aren't real. Can you tell?
+Microsoft CEO says artificial intelligence is the 'ultimate breakthrough'
+Here's how Twitter uses artificial intelligence to crop your photos
+Google's artificial intelligence chief says 'we're in an AI spring'
+
+
+""Nobody should think auto-complete, even on steroids, is conscious,"" Gary Marcus, the founder and CEO of Geometric Intelligence, told CNN Business in response to Lemoine's allegation. Lemoine, for his part, told the BBC he is getting legal advice, and declined to comment further.But even though LaMDA probably isn't sentient, it is likely that it's racist and sexist — two undoubtedly human characteristics.
+
+
+
+Topics
+Artificial Intelligence
+Google
+
+
+
+",https://schema.org,BreadcrumbList,https://mashable.com/,"{'@type': 'Organization', 'url': 'https://mashable.com/', 'name': 'Mashable', 'logo': {'@type': 'ImageObject', 'url': 'https://mashable.com/images/mashable-logomark.png', 'width': 2400, 'height': 2400}, 'sameAs': ['https://www.facebook.com/mashable/', 'https://twitter.com/mashable', 'https://flipboard.com/@Mashable', 'https://www.pinterest.com/mashable/', 'https://www.youtube.com/user/mashable'], 'description': 'Mashable is a global, multi-platform media and entertainment company.\n            Powered by its own proprietary technology, Mashable is the go-to source for tech,\n             digital culture and entertainment content for its dedicated and influential audience around the globe.'}",https://mashable.com/article/google-engineer-fired-ai-lamda-soul-sentient,2022-07-25T15:30:19+00:00,,,,"[{'@type': 'ImageObject', 'url': 'https://helios-i.mashable.com/imagery/articles/05dzpQAWGPOzUCrZacmO329/hero-image.fill.size_1200x675.v1658756289.png', 'width': 1200, 'height': 675, 'caption': 'I mean what *is* a soul, anyway?'}, {'@type': 'ImageObject', 'url': 'https://helios-i.mashable.com/imagery/articles/05dzpQAWGPOzUCrZacmO329/hero-image.fill.size_1200x900.v1658756289.png', 'width': 1200, 'height': 900, 'caption': 'I mean what *is* a soul, anyway?'}, {'@type': 'ImageObject', 'url': 'https://helios-i.mashable.com/imagery/articles/05dzpQAWGPOzUCrZacmO329/hero-image.fill.size_1200x1200.v1658756289.png', 'width': 1200, 'height': 1200, 'caption': 'I mean what *is* a soul, anyway?'}]","[{'@type': 'Person', 'name': 'Christianna Silva', 'email': 'christianna.silva@mashable.com', 'url': 'https://mashable.com/author/christianna-silva', 'jobTitle': 'Senior Culture Reporter', 'image': [{'@type': 'ImageObject', 'url': 'https://helios-i.mashable.com/imagery/defaults/fallback-thumbnail.fill.size_1200x675.1.png', 'width': 1200, 'height': 675, 'caption': 'Default Image'}, {'@type': 'ImageObject', 'url': 'https://helios-i.mashable.com/imagery/defaults/fallback-thumbnail.fill.size_1200x900.1.png', 'width': 1200, 'height': 900, 'caption': 'Default Image'}, {'@type': 'ImageObject', 'url': 'https://helios-i.mashable.com/imagery/defaults/fallback-thumbnail.fill.size_1200x1200.1.png', 'width': 1200, 'height': 1200, 'caption': 'Default Image'}]}]",Google engineer officially fired for alleging AI was sentient,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://mashable.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Tech', 'item': 'https://mashable.com/tech'}]",,,,,Mashable,"{'@type': 'ImageObject', 'url': 'https://mashable.com/images/mashable-logomark.png', 'width': 2400, 'height': 2400}",,,,,,"['https://www.facebook.com/mashable/', 'https://twitter.com/mashable', 'https://flipboard.com/@Mashable', 'https://www.pinterest.com/mashable/', 'https://www.youtube.com/user/mashable']",,,,Tech,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdpemNoaW5hLmNvbS8yMDIyLzA3LzIzL2dvb2dsZXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtY2hhdGJvdC1sYW1kYS1pcy1hLXNlbnRpZW50LWJlaW5nL9IBamh0dHBzOi8vd3d3LmdpemNoaW5hLmNvbS8yMDIyLzA3LzIzL2dvb2dsZXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtY2hhdGJvdC1sYW1kYS1pcy1hLXNlbnRpZW50LWJlaW5nL2FtcC8?oc=5,Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being - Gizchina.com,2022-07-23,Gizchina.com,https://www.gizchina.com,"Google fires a software engineer who proves that their chatbot, LaMDA is a self-aware artificial intelligence.",N/A,"Google fires a software engineer who proves that their chatbot, LaMDA is a self-aware artificial intelligence.",N/A,N/A,N/A,"
+
+Google
+Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being
+
+
+
+
+
+Argam Artashyan
+
+July 23, 2022 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Have you watched The Terminator? The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you believe it? Then, why Google has dismissed a senior software engineer who claims that its artificial intelligence (AI) chatbot called LaMDA is a “sentient” being? By the way, Google doesn’t deny this and issued a statement on Friday, Reuter reports.
+
+
+Further Reading: European Union To Restrict The Development Of Artificial Intelligence
+Google software engineer, Blake Lemoine was placed on leave last month. The company thinks he had violated their policies. Moreover, Google thinks his claims on LaMDA are “wholly unfounded.”
+
+Gizchina News of the week
+
+ Join GizChina on Telegram
+
+
+“It’s regrettable that despite lengthy engagement on this topic, Blake still chose to persistently violate clear employment and data security policies that include the need to safeguard product information,” said a Google spokesperson.
+Is LaMDA A Self-Aware Artificial Intelligence?
+For those who are unaware, LaMDA (Language Model for Dialogue Applications) is built by Google as a Transformer-based language model. It trains on dialogues and can learn to talk about essentially anything. In simple words, LaMDA uses vast amounts of internet data to generate human-like responses to users’ queries. Google proves its product can “engage in a free-flowing way about a seemingly endless number of topics”.
+Though Lemoine thinks LaMDA is a self-aware artificial intelligence and doesn’t need human control, Google’s leading scientists do not agree with him. They say Lemoine’s views are misguiding. According to them, LaMDA is simply a complex algorithm, which should sound like a convincing human language.
+
+
+But the thing is that no one ones LaMDA better than Lemoine. We mean he began interacting with LaMDA as part of his job. He has been working at Google for seven years. Do you imagine what topics they have discussed and what responses he has got? It sounds like Ex Machina.
+
+Disclaimer: We may be compensated by some of the companies whose products we talk about, but our articles and reviews are always our honest opinions. For more details, you can check out our editorial guidelines and learn about how we use affiliate links.These Barefoot Shoes are Leaving Neuropathy Experts BaffledBarefoot VitalityBuy NowUndoNvidia's New Rival (Hint: It's Not AMZN)Motley FoolUndoby Taboolaby TaboolaSponsored LinksSponsored LinksPromoted LinksPromoted Links
+
+
+ 
+
+Source/VIA :
+
+SKY 
+
+
+Read Also:  OpenAI reopens ChatGPT Plus subscription  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+ artificial intelligencechatbotGoogle artificial intelligenceLaMDATransformer-based language model
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#article', 'isPartOf': {'@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/'}, 'author': {'name': 'Argam Artashyan', '@id': 'https://www.gizchina.com/#/schema/person/a96406a56005fc7b76946c9c8c5dbb1e'}, 'headline': 'Google&#8217;s Artificial Intelligence Chatbot LaMDA is a &#8220;Sentient&#8221; Being', 'datePublished': '2022-07-23T12:00:12+00:00', 'dateModified': '2022-07-23T13:00:12+00:00', 'mainEntityOfPage': {'@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/'}, 'wordCount': 344, 'commentCount': 0, 'publisher': {'@id': 'https://www.gizchina.com/#organization'}, 'image': {'@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#primaryimage'}, 'thumbnailUrl': 'https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient.jpg', 'keywords': ['artificial intelligence', 'chatbot', 'Google artificial intelligence', 'LaMDA', 'Transformer-based language model'], 'articleSection': ['Google'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#respond']}], 'copyrightYear': '2022', 'copyrightHolder': {'@id': 'https://www.gizchina.com/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/', 'url': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/', 'name': 'Google\'s Artificial Intelligence Chatbot LaMDA is a ""Sentient"" Being', 'isPartOf': {'@id': 'https://www.gizchina.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#primaryimage'}, 'image': {'@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#primaryimage'}, 'thumbnailUrl': 'https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient.jpg', 'datePublished': '2022-07-23T12:00:12+00:00', 'dateModified': '2022-07-23T13:00:12+00:00', 'description': 'Google fires a software engineer who proves that their chatbot, LaMDA is a self-aware artificial intelligence.', 'breadcrumb': {'@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#primaryimage', 'url': 'https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient.jpg', 'contentUrl': 'https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient.jpg', 'width': 1280, 'height': 720, 'caption': 'artificial intelligence'}, {'@type': 'BreadcrumbList', '@id': 'https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.gizchina.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Google', 'item': 'https://www.gizchina.com/category/google-2/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Google&#8217;s Artificial Intelligence Chatbot LaMDA is a &#8220;Sentient&#8221; Being'}]}, {'@type': 'WebSite', '@id': 'https://www.gizchina.com/#website', 'url': 'https://www.gizchina.com/', 'name': 'Gizchina.com', 'description': 'Chinese phone, Android smartphone, tablet news and reviews', 'publisher': {'@id': 'https://www.gizchina.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.gizchina.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.gizchina.com/#organization', 'name': 'GizChina Media', 'url': 'https://www.gizchina.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.gizchina.com/#/schema/logo/image/', 'url': 'https://www.gizchina.com/wp-content/uploads/images/2021/03/gizchina-logo-google.png', 'contentUrl': 'https://www.gizchina.com/wp-content/uploads/images/2021/03/gizchina-logo-google.png', 'width': 215, 'height': 60, 'caption': 'GizChina Media'}, 'image': {'@id': 'https://www.gizchina.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/GizChina', 'https://twitter.com/Gizchina', 'https://www.youtube.com/user/Gizchina']}, {'@type': 'Person', '@id': 'https://www.gizchina.com/#/schema/person/a96406a56005fc7b76946c9c8c5dbb1e', 'name': 'Argam Artashyan', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.gizchina.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/0ff41c6fe022abfc63e2895e77bd90da?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/0ff41c6fe022abfc63e2895e77bd90da?s=96&d=mm&r=g', 'caption': 'Argam Artashyan'}, 'description': ""Argam, the AI &amp; Advanced Tech Expert at Gizchina for 5 years, embarked on an unconventional journey. After being dismissed from his university lecturer position in 2010, he found his footing as a blog writer at a friend's digital marketing company. In 2016, he achieved his Ph.D. and returned to teaching at the university while nurturing his passion for tech-related articles and AI. I am your AI &amp; Advanced Tech Expert. Follow me for more ;)"", 'url': 'https://www.gizchina.com/author/argam/'}]",,
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdy5tZWRpYS9lbWlyYXRlcy1uYmQtYmFuay1sYXVuY2gtbmF0aW9uYWwtZGlnaXRhbC10YWxlbnQtcHJvZ3JhbW1lL9IBAA?oc=5,Emirates NBD Bank launch 'National Digital Talent Programme' - w.media,2022-07-22,w.media,https://w.media,"W.Media is a Technology Publisher & Community Hub. We serve the cloud/IT, data centers and network infrastructure professionals through media solutions and business events.",Keywords related to the Data Center Industry,"The Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications Office along with Emirates NBD one of the leading banking groups in the Middle East, North Africa and Turkey (MENAT) region, has launched a first of its kind ‘National Digital Talent Programme’, as part of ongoing efforts to support UAE government’s National Strategy for Artificial Intelligence 2031, which aims at developing a world-class national workforce proficient in AI and related technologies.",N/A,N/A,N/A,N/A,http://schema.org,WebSite,https://w.media,,"{'@type': 'WebPage', '@id': 'Your_Main_Entity_ID'}",,,,,"{'@type': 'ImageObject', 'url': 'https://w.media/wp-content/uploads/W.Media-WEBSITE-Logo.png', 'description': 'A URL to an image relevant to the website'}",,,,,,,,,,,,W.Media,,,,,,,,"{'@type': 'SearchAction', 'target': 'Your_Search_Action_URL_Template', 'query-input': 'The_expected_input_for_the_search_query'}",,,,,,,,"[{'@type': 'Article', '@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#article', 'isPartOf': {'@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/'}, 'author': {'name': 'Anuradha Nagar', '@id': 'https://w.media/#/schema/person/6f40cd278c6fcba2deb198c540b00557'}, 'headline': 'Emirates NBD Bank launch ‘National Digital Talent Programme’', 'datePublished': '2022-07-22T04:36:39+00:00', 'dateModified': '2022-08-14T14:40:07+00:00', 'mainEntityOfPage': {'@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/'}, 'wordCount': 1005, 'publisher': {'@id': 'https://w.media/#organization'}, 'image': {'@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#primaryimage'}, 'thumbnailUrl': 'https://w.media/wp-content/uploads/IC-Arabian-Business-1.jpg', 'keywords': ['data center news', 'data center news apac', 'data center news asia', 'Digital Talent', 'Digital Transformation', 'Emirates NBD', 'UAE'], 'articleSection': ['World News'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/', 'url': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/', 'name': 'Emirates NBD Bank launch ‘National Digital Talent Programme’', 'isPartOf': {'@id': 'https://w.media/#website'}, 'primaryImageOfPage': {'@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#primaryimage'}, 'image': {'@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#primaryimage'}, 'thumbnailUrl': 'https://w.media/wp-content/uploads/IC-Arabian-Business-1.jpg', 'datePublished': '2022-07-22T04:36:39+00:00', 'dateModified': '2022-08-14T14:40:07+00:00', 'description': 'The Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications Office along with Emirates NBD one of the leading banking groups in the Middle East, North Africa and Turkey (MENAT) region, has launched a first of its kind ‘National Digital Talent Programme’,\xa0as part of ongoing efforts to support UAE government’s National Strategy for Artificial Intelligence 2031, which aims at developing a world-class national workforce proficient in AI and related technologies.', 'breadcrumb': {'@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#primaryimage', 'url': 'https://w.media/wp-content/uploads/IC-Arabian-Business-1.jpg', 'contentUrl': 'https://w.media/wp-content/uploads/IC-Arabian-Business-1.jpg', 'width': 1000, 'height': 687, 'caption': 'Image Credit: Arabian Business'}, {'@type': 'BreadcrumbList', '@id': 'https://w.media/emirates-nbd-bank-launch-national-digital-talent-programme/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://w.media/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Emirates NBD Bank launch ‘National Digital Talent Programme’'}]}, {'@type': 'WebSite', '@id': 'https://w.media/#website', 'url': 'https://w.media/', 'name': 'W.Media', 'description': 'Data Center News &amp; Cloud Publisher in Asia Pacific', 'publisher': {'@id': 'https://w.media/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://w.media/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://w.media/#organization', 'name': 'W.Media - Cloud & Data Center Publishing', 'url': 'https://w.media/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://w.media/#/schema/logo/image/', 'url': 'https://w.media/wp-content/uploads/W.Media-WEBSITE-Logo.png', 'contentUrl': 'https://w.media/wp-content/uploads/W.Media-WEBSITE-Logo.png', 'width': 765, 'height': 209, 'caption': 'W.Media - Cloud & Data Center Publishing'}, 'image': {'@id': 'https://w.media/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/wmedia.tech']}, {'@type': 'Person', '@id': 'https://w.media/#/schema/person/6f40cd278c6fcba2deb198c540b00557', 'name': 'Anuradha Nagar', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://w.media/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/?s=96', 'contentUrl': 'https://secure.gravatar.com/avatar/?s=96', 'caption': 'Anuradha Nagar'}, 'sameAs': ['https://www.linkedin.com/in/anuradha-nagar-322779166?trk=people-guest_people_search-card']}]",W.Media is a publishing company specializing in the data center industry.,"['South East Asia', 'South Asia', 'Australasia', 'Northeast Asia', 'Middle East']"
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5tYXJrdGVjaHBvc3QuY29tLzIwMjIvMDcvMjYvdG9wLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFpLWFuZC1tYWNoaW5lLWxlYXJuaW5nLW1sLWJsb2dzLXdlYnNpdGVzLXRvLWZvbGxvdy1pbi0yMDIyL9IBhAFodHRwczovL3d3dy5tYXJrdGVjaHBvc3QuY29tLzIwMjIvMDcvMjYvdG9wLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFpLWFuZC1tYWNoaW5lLWxlYXJuaW5nLW1sLWJsb2dzLXdlYnNpdGVzLXRvLWZvbGxvdy1pbi0yMDIyLz9hbXA?oc=5,Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022 - MarkTechPost,2022-07-26,MarkTechPost,https://www.marktechpost.com,Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022,N/A,"The topic of artificial intelligence is an interesting one that has and will continue to have a significant influence on our daily lives. So, you can be sure that it will lead to much research during the next ten years. For this reason, it is beneficial to follow several potential AI blogs. Finding trustworthy sources of scientific work is essential for everyone interested in artificial intelligence (AI), from researchers to students, business professionals, and amateurs. We have discovered that the sites on this list are accurate, helpful, and trustworthy sources of AI research, even though blogs typically update in a","The topic of artificial intelligence is an interesting one that has and will continue to have a significant influence on our daily lives. So, you can be sure that it will lead to much research during the next ten years. For this reason, it is beneficial to follow several potential AI blogs. Finding trustworthy sources of scientific work is essential for everyone interested in artificial intelligence (AI), from researchers to students, business professionals, and amateurs. We have discovered that the sites on this list are accurate, helpful, and trustworthy sources of AI research, even though blogs typically update in a",N/A,N/A,"
+
+
+Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022
+
+By Prathamesh Ingle and Jean-marc Mommessin -   July 26, 2022 
+
+
+
+RedditVoteFlipShareTweet0 Shares
+The topic of artificial intelligence is an interesting one that has and will continue to have a significant influence on our daily lives. So, you can be sure that it will lead to much research during the next ten years. For this reason, it is beneficial to follow several potential AI blogs. Finding trustworthy sources of scientific work is essential for everyone interested in artificial intelligence (AI), from researchers to students, business professionals, and amateurs.
+We have discovered that the sites on this list are accurate, helpful, and trustworthy sources of AI research, even though blogs typically update in a more casual and conversational tone. There are many blogs on artificial intelligence, but it can be challenging to keep up with the most recent advancements because the scientific community has recently published a lot of research. This blog is suitable for anybody interested in learning more about the scientific subject of AI. Furthermore, it’s not always obvious which blogs are worthwhile to follow.
+This post aims to introduce you to some of the top AI blogs and websites. These blogs may serve as your most satisfactory source for the most recent information on AI or help to keep you informed of developments in this fascinating topic. Please note this is not a ranking article.
+  [Synthetic Data Webinar] Learn how Gretel’s synthetic data platform, powered by generative AI, make’s data generation easier than ever before: July 30, 2024 | 9:00 am PT, 12:00 pm ET 
+
+MIT News
+The Massachusetts Institute of Technology’s website features a news section devoted to stories on artificial intelligence technology, including its advancement, study, and application. According to the Institute of Technology, its goal is to expand knowledge and instruct students in the science, technology, and other fields that will best serve the country and the rest of the globe in the twenty-first century.
+Open AI
+Open AI is the creation of business professionals who “want to offer AI to the public.” It is an organization that conducts AI research and deployment to ensure that AI helps all people and that artificial general intelligence (AGI), a highly autonomous system, can surpass people in the most economically productive work.
+Amazon Science Blog
+You may filter by study field on the excellent scientific blog of Amazon Science. Its research focuses on cloud and systems, computer vision, conversational AI, NLP, machine learning, robotics, search and information retrieval, security, privacy, and abuse prevention. Work from Amazon’s science community is included on its blog.
+Google AI
+The research done by Google AI advances the state-of-the-art in the industry. A section of Google devoted entirely to artificial intelligence is called Google AI (sometimes known as Google.ai). Sundar Pichai, CEO of Google, made the announcement during I/O 2017. A portion of the Google AI blog is dedicated to machine learning research.
+BAIR Berkeley
+The BAIR blog offers researchers a simple, open channel for sharing their work, viewpoints on the industry, and other updates. Posts from BAIR academics, postdocs, and students aim to inform both specialists and the general public about current and pertinent research findings and outcomes.
+DeepMind
+Working on some of the most challenging and fascinating AI problems is DeepMind. Numerous peer-reviewed articles, including those in Nature and Science, have been produced due to their top-notch research.
+Colah’s Blog
+Christopher Olah identifies himself as a roving machine learning researcher who strives to comprehend concepts entirely and provide a compelling justification for them. Olah worked at Google AI before joining Open AI as a researcher. His site is an excellent trove of free, open, machine learning research, with thorough and fascinating articles for researchers and enthusiasts.
+Meta AI Blog
+Facebook (Mets) AI is renowned for conducting cutting-edge research in the area. In addition to human and machine intelligence, their research focuses on computer vision, conversational AI, integrity, NLP, ranking and recommendations, systems research, machine learning theory, voice, and audio. The Facebook AI Blog contains top-notch articles, including blog entries and academic publications.
+Amazon AWS Machine Learning Blog
+AWS is one of the most popular cloud computing providers in the world. They provide scalable, dependable, and open cloud computing services. On the AWS blog, their research team releases articles on cutting-edge machine learning research and ML applications.
+Machine Learning Mastery
+Jason, a machine learning developer with multiple degrees in AI, created the Machine Learning Mastery blog with beginning developers in mind. As a former novice developer, he now wants to assist others by teaching knowledge gained from his professional experience and providing the tools that were most helpful to him. The blog, along with his email course and newsletter, may accommodate any degree of skill.
+Apple Machine Learning Journal
+Apple has been working on machine learning, as seen by its improvements in speech recognition, predictive text, and autocorrect used in Siri. The company’s newest iPhone, which does billions of processes every second on its CPU, is ML in your hands. Apple engineers provide insight on how their work affects the evolution of ML in their Apple Machine Learning Journal, which is a good look at how ML shapes their various technologies.
+Towards Data Science
+A Medium article called “Towards Data Science” promotes expert discussion and broadens the field’s expertise. Independent writers are invited to submit articles to the website. It’s a reliable tool for data scientists of all experience levels. While being informed of the most significant advancements, you may see what other people in your profession are working on.
+KDnuggets
+Simply said, KDnuggets is a must-read. Daily articles detailing the most recent advancements that programmers should be aware of are available. Additionally, which is always a plus, you’ll receive information on future tutorials, courses, and training. In addition, there is a library of data sets that may be useful for your most recent projects, not to mention the variety of priceless certificates you may obtain.
+ScienceDaily
+If you’re more interested in academic research, here is the site. The name says it all: Science Daily is an excellent resource for the most recent findings, with articles ranging from global warming to psychology. They are here, of course, to learn about AI, and that topic is covered in great detail.
+NVIDIA Blog
+In the world of technology, NVIDIA is akin to royalty. The firm developed the GPU, which generates interactive visuals on laptops, workstations, mobile devices, notebooks, PCs, and more. On these two websites, the company explains how it all works. The first discusses broad-based technological issues, such as how AI enhances industries like networking and healthcare. The second is more in-depth and directed explicitly at developers.
+Analytics Insight
+This is one of the most critical first print and digital periodicals devoted to analytics, big data, and artificial intelligence. It contains an analysis of other relevant technologies, such as data management, IoT, and cloud, and highlights insights, trends, and opinions. It also publishes the thoughts and ideas of prominent business executives and leaders who offer expertise in building successful companies.
+TensorFlow Blog
+Any programmer who utilizes TensorFlow and its extensive ecosystem of tools, libraries, and community resources should check out the TensorFlow blog. Each article walks readers through cutting-edge machine learning approaches to enable developers to build and deploy ML-based apps more rapidly.
+ML CMU Blog
+Here’s another blog for fans of higher education, this one from Pittsburgh’s Carnegie Mellon University. The site’s primary area of interest is machine learning, and its contributors include professors, PhDs, and even undergraduates. However, the blog’s main objective is to disseminate unique information to a global audience; the author is not the emphasis.
+Analytics Vidhya
+Analytics Vidhya is also known as the data scientists’ blog. In-depth articles written by subject matter experts share their knowledge and offer advice equally valuable for beginners and experts. A range of training programs, an intelligent forum, and the occasional hackathon are available in case you need to hone your abilities.
+MarkTechPost
+Marktechpost is a California-based AI News Platform providing easy-to-consume, byte size updates in machine learning, deep learning, and data science research. There are developer-focused articles as well as tutorials and academic studies. There are interviews with individuals from the AI sector for those who are more interested in the field. The team comprises Ph.D. researchers, journalists, data scientists, and MBAs.
+O’Reilly Media
+The goal of O’Reilly is to transform the world by disseminating innovators’ knowledge. For more than 40 years, they have encouraged businesses and individuals to do new things by arming them with the knowledge and abilities required for success. Artificial intelligence (AI) and machine learning are two technologies that have the potential to drastically alter the nature of employment and how we live (ML).
+Artificial Intelligence with Lex Fridman
+This AI podcast features some of the most fascinating thinkers in the world discussing AI from the perspectives of deep learning, robotics, AGI, neuroscience, philosophy, psychology, cognitive science, economics, physics, mathematics, and more. These conversations take place at MIT and elsewhere about the nature of intelligence.
+Towards AI
+Towards AI is a comprehensive information resource on almost every aspect of artificial intelligence. You may anticipate articles on topics like NLP, machine learning, deep learning, JavaScript, Python, data science, and more as the website compiles authors’ thoughts from various disciplines.
+Computational Intelligence
+The Computational Intelligence Blog covers every computational intelligence-related subject. The main discussion topics are artificial neural networks, evolutionary algorithms, fuzzy systems, and their applications. Additionally featured are calls for articles, new journals, tutorials, and software.
+TopBots
+TopBots is focused on the application of AI in bots, but it also provides general information and news about AI. This regularly updated magazine-style blog has a commercial focus and includes news and opinions on AI and Bot technologies.
+SyncedReview
+SyncedReview is a content curation platform where you can find trending research paper previews with comments from the Syncedreview team. It is a great resource for learning about the latest trending papers in AI.
+AI News
+All of the most recent AI news and trends that are taking place in the industry globally are provided by Artificial Intelligence News. Additionally, it investigates stories from the technological front lines and industrial research. It includes machine and deep learning, augmented reality, virtual reality, and robots, as well as the various uses of technology in every sector, including enterprise, healthcare, and manufacturing.
+AI Trends
+The goal of AI Trends, which bills itself as the premier industry media outlet and focuses on the business and technology of corporate AI, is to keep business leaders abreast of developments in the rapidly evolving fields of artificial intelligence and data.
+Please Don't Forget To Join Our ML Subreddit
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+		            Prathamesh Ingle                
+
+
+
+
+
+
+
+Prathamesh Ingle is a Mechanical Engineer and works as a Data Analyst. He is also an AI practitioner and certified Data Scientist with an interest in applications of AI. He is enthusiastic about exploring new technologies and advancements with their real-life applications
+
+
+
+
+
+
+
+
+
+
+Top Artificial Intelligence (AI) Tools That Can Generate Code To Help Programmers (2024)
+
+
+
+
+
+
+
+
+
+Best AI Tools For Students (March 2026)
+
+
+
+
+
+
+
+
+
+Best Image Annotation Tools in 2024
+
+
+
+
+
+
+
+
+
+Top AI Translation Software/Tools (December 2023)
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+		            Jean-marc Mommessin                
+
+
+
+
+
+
+
+Jean-marc is a successful AI business executive .He leads and accelerates growth for AI powered solutions and started a computer vision company in 2006. He is a recognized speaker at AI conferences and has an MBA from Stanford.
+
+
+
+
+
+
+
+
+
+
+Level Up Your Coding: Get Your AI Pair Programmer with Magicode 
+
+
+
+
+
+
+
+
+
+Researchers at the University of Illinois have developed AI Agents that can Autonomously Hack Websites and Find Zero-Day Vulnerabilities
+
+
+
+
+
+
+
+
+
+Building Production-Ready AI Solutions: The Essential Role of Guardrails
+
+
+
+
+
+
+
+
+
+LastMile AI Releases AiConfig: An Open-Source Config-Driven, Source Control Friendly AI Application Development Framework
+
+
+
+
+
+
+
+
+
+ 
+
+
+RedditVoteFlipShareTweet0 Shares
+
+  Join the Fastest Growing AI Research Newsletter Read by Researchers from Google + NVIDIA + Meta + Stanford + MIT + Microsoft and many others... 
+
+
+
+Previous articleGoogle AI Releases ‘CXR Foundation Tool’ to Allow Researchers to Jump-Start CXR modeling Efforts Using Simpler Transfer Learning MethodsNext articleMicrosoft AI Releases ‘DeepSpeed Compression’: A Python-based Composable Library for Extreme Compression and Zero-Cost Quantization to Make Deep Learning Model Size Smaller and Inference Speed Faster Prathamesh Ingle and Jean-marc Mommessin  
+",https://schema.org,BreadcrumbList,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://www.marktechpost.com/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.marktechpost.com/category/technology/', 'name': 'Technology'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.marktechpost.com/category/technology/ai-shorts/', 'name': 'AI Shorts'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/', 'name': 'Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow...'}}]",,,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#article', 'isPartOf': {'@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/'}, 'author': {'name': 'Prathamesh Ingle and Jean-marc Mommessin', '@id': 'https://www.marktechpost.com/#/schema/person/f703f3fa44b4f5ba4a93ef3761f04254'}, 'headline': 'Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022', 'datePublished': '2022-07-26T07:07:55+00:00', 'dateModified': '2022-08-13T05:36:00+00:00', 'mainEntityOfPage': {'@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/'}, 'wordCount': 1732, 'commentCount': 0, 'publisher': {'@id': 'https://www.marktechpost.com/#organization'}, 'image': {'@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#primaryimage'}, 'thumbnailUrl': 'https://www.marktechpost.com/wp-content/uploads/2022/07/3d-low-poly-abstract-background-with-shallow-depth-field-scaled.jpg', 'articleSection': ['AI Shorts', 'Applications', 'Artificial Intelligence', 'Editors Pick', 'List', 'Staff', 'Tech News', 'Technology'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#respond']}], 'copyrightYear': '2022', 'copyrightHolder': {'@id': 'https://www.marktechpost.com/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/', 'url': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/', 'name': 'Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022 - MarkTechPost', 'isPartOf': {'@id': 'https://www.marktechpost.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#primaryimage'}, 'image': {'@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#primaryimage'}, 'thumbnailUrl': 'https://www.marktechpost.com/wp-content/uploads/2022/07/3d-low-poly-abstract-background-with-shallow-depth-field-scaled.jpg', 'datePublished': '2022-07-26T07:07:55+00:00', 'dateModified': '2022-08-13T05:36:00+00:00', 'description': 'Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022', 'breadcrumb': {'@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#primaryimage', 'url': 'https://www.marktechpost.com/wp-content/uploads/2022/07/3d-low-poly-abstract-background-with-shallow-depth-field-scaled.jpg', 'contentUrl': 'https://www.marktechpost.com/wp-content/uploads/2022/07/3d-low-poly-abstract-background-with-shallow-depth-field-scaled.jpg', 'width': 2560, 'height': 1961}, {'@type': 'BreadcrumbList', '@id': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.marktechpost.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Top Artificial Intelligence (AI) and Machine Learning (ML) Blogs/ Websites to Follow in 2022'}]}, {'@type': 'WebSite', '@id': 'https://www.marktechpost.com/#website', 'url': 'https://www.marktechpost.com/', 'name': 'MarkTechPost', 'description': 'An Artificial Intelligence News Platform', 'publisher': {'@id': 'https://www.marktechpost.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.marktechpost.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.marktechpost.com/#organization', 'name': 'MarkTechPost Media Inc.', 'url': 'https://www.marktechpost.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.marktechpost.com/#/schema/logo/image/', 'url': 'https://www.marktechpost.com/wp-content/uploads/2022/04/cropped-Favicon-512-x-512-1-1.png', 'contentUrl': 'https://www.marktechpost.com/wp-content/uploads/2022/04/cropped-Favicon-512-x-512-1-1.png', 'width': 512, 'height': 512, 'caption': 'MarkTechPost Media Inc.'}, 'image': {'@id': 'https://www.marktechpost.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/MarkTechPost/', 'https://x.com/Marktechpost', 'https://www.linkedin.com/in/asifrazzaq/']}, [{'@type': ['Person'], '@id': 'https://www.marktechpost.com/#/schema/person/f703f3fa44b4f5ba4a93ef3761f04254', 'name': 'Prathamesh Ingle', 'image': {'@type': 'ImageObject', '@id': 'https://www.marktechpost.com/#/schema/person/image/', 'inLanguage': 'en_US', 'url': '', 'caption': 'Prathamesh Ingle'}}, {'@type': ['Person'], '@id': 'https://www.marktechpost.com/#/schema/person/f703f3fa44b4f5ba4a93ef3761f04254', 'name': 'Jean-marc Mommessin', 'image': {'@type': 'ImageObject', '@id': 'https://www.marktechpost.com/#/schema/person/image/', 'inLanguage': 'en_US', 'url': 'https://www.marktechpost.com/wp-content/uploads/2022/07/1516283019746.jpeg', 'caption': 'Jean-marc Mommessin'}}]]",,
+https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIyLTA3LTI1L2FpLXdvcmtwbGFjZS1zdXJ2ZWlsbGFuY2UtdGVjaC1yYWlzZXMtY29uY2VybnMvMTAxMjYzMDI40gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMTI2MzAyOA?oc=5,Artificial intelligence can monitor workplaces for safety breaches. Experts say privacy laws are lagging - ABC News,2022-07-24,ABC News,https://www.abc.net.au,"AI that uses CCTV to identify health and safety hazards can be trained to identify breaches such as when a worker is not wearing gloves or a hard hat, or to identify hazards like spills. But privacy laws are lagging.","artificial intelligence,ai,surveillance,workplace safety,privacy,intenseye,Australian Information Commissioner","AI that uses CCTV to identify health and safety hazards can be trained to identify breaches such as when a worker is not wearing gloves or a hard hat, or to identify hazards like spills. But privacy laws are lagging.",N/A,N/A,N/A,"Artificial intelligence can monitor workplaces for safety breaches. Experts say privacy laws are laggingABC Radio Perth / By Alicia BridgesPosted Sun 24 Jul 2022 at 8:32pmSunday 24 Jul 2022 at 8:32pmSun 24 Jul 2022 at 8:32pm As the use of AI in the workplace rises concerns are being raised about a lack of regulation.(Unsplash: Chris Yang)abc.net.au/news/ai-workplace-surveillance-tech-raises-concerns/101263028Copy linkLink copiedShareShare articleThe emergence of artificial intelligence that uses cameras to check for health and safety breaches in the workplace has raised concerns about a creeping culture of workplace surveillance and a lack of protections for workers.  Key points:AI can use cameras to monitor workplaces for health and safety violations and hazardsOne company with Australian clients says blurring faces is among the measures taken to protect privacyExperts say Australian law is not up-to-date to sufficiently regulate the rising use of AI in the workplaceAI technology which uses CCTV cameras can be trained to identify breaches such as when a worker is not wearing gloves or a hard hat, or to identify hazards like spills.One company, Intenseye, reports having multiple Australian customers for the new technology, including a major mining company.But Nicholas Davis, professor of emerging technology at the University of Technology Sydney, said this latest use of AI raised questions about a creeping rise of a surveillance industry that relied on workers being watched constantly.""Even though this is just one small example that can be justified under certain health and safety grounds — potentially can be justified — there are probably a million other use cases where similar technology can also be justified,"" Professor Davis said.""The end result, the cumulative result of all those small changes, means that we alter our behaviour because we're constantly being assessed by cameras.""The Office of the Australian Information Commissioner (OAIC) said it was aware of an increasing use of technology, including AI technology, to monitor workplace behaviour.""Our office has received some enquiries and complaints in relation to workplace surveillance generally,"" the OAIC said in a statement.Company says workers are protectedAlthough artificial intelligence is already being used in Australian workplaces in many ways, pairing AI with CCTV is an emerging technology.Intenseye uses cameras to monitor facilities and provide ""real-time violation notifications"".The company said its system blurred the faces of individuals to prevent retaliation for violations and to protect the privacy of workers.YouTube AI-powered workplace safety. (YouTube: Intenseye)Intenseye customer success manager David Lemon said there had been instances where customers had asked for faces to be unblurred, or other information that he said would be an invasion of privacy.But he said the company would not provide that information.""We have built-in safety features for data regulations that we cannot or will not ever overcome,"" Mr Lemon, who is based in the United States, said.He said there was rising demand for the technology, which could be trained to identify behaviour or breaches based on the specific concerns of the employer.Alerts about violations appeared on a cloud-based digital platform, and Mr Lemon said the company had developed a new system that hid the ""human"" visual from video footage to provide only a ""stick-figure"" visual to the employer.Mr Lemon said the company was aware of its obligations to protect the privacy of employees and sought legal advice to ensure it was complying with data and privacy laws in various countries.He said the company complied with industry regulations and was audited by the AI Ethics Lab.""This is cutting edge technology, it's the frontier, it's very new,"" he said.""Even customers who have a large appetite for computer vision do have some fears just because it's change. It's new. It can often be scary.""Laws lag behind technologyProfessor Davis, who studies the regulation of technology as it relates to human rights, said the emergence of this type of technology raised questions about consent, safety culture, and employer responsibility in the case of AI mistakes.Although companies could take measures to ensure ethical use of AI, he said Australia's surveillance laws were not equipped to effectively regulate the use of it or define what its limitations should be.Privacy watchdog investigates facial recognition in storesA report from consumer advocacy group CHOICE prompts the Office of the Australian Information Commissioner to investigate Kmart and Bunnings.Read more""It doesn't anticipate things like breakthroughs in machine learning,"" he said.The Privacy Act 1988 is currently being reviewed by the federal government, with the emergence of AI technologies listed as one of the reasons behind the review.The Act currently does not specifically address workplace surveillance, though it does require employers to give notice if they intended to collect personal information.Professor Davis is part of a team at UTS, including former Human Rights Commissioner Ed Santow, working on a model law to regulate the use of facial recognition technology.""There is a recognition or realisation that we do need much more dynamic, flexible, and appropriate fit-for purpose regulation for these kinds of technologies,"" he said.""I do think that employers increasingly have to be very rigorous and skeptical, and challenging about products that are marketed to them [where] it's not quite clear how they work.""I think we're increasingly going down a path where boards will be held to account for the mistakes made by automated systems, using machine learning and other forms of artificial intelligence.""Cameras are here to stayThe Department of Industry, Science and Resources has developed an Artificial Intelligence Ethics Framework for businesses to test AI systems against a set of ethical principles.But economist and director of the Centre of Future Work at the Australia Institute Jim Stanford said the lack of regulation was open to abuse and misuse.""You have to have legal protection, you have to have enforcement, you have to have monitoring of the monitors,"" he said.AI can help you speak to the deadWould you use AI to hear the voice of your loved one again?Read moreMr Stanford, who co-authored a report on electronic monitoring and surveillance in Australian workplaces, said employers must also consider the health and behavioural impacts of constantly being monitored.""If people feel they're being monitored all the time they're going to do everything they can to try and keep the boss happy,"" he said.""That in and of itself can lead to speed up and intensification of work that is bad for health in the long run.""Mr Stanford said he was not opposed to having video cameras in the workplace, and that the use of them was already widespread.""The question is 'how is that used? And what type of protections do people have?'"" he said.""And this is where Australia's regulatory regime is badly, badly lagging the technology.""We have to first of all map out principles regarding what is fair and what is prone to abuse.""Find more local newsBrowse for your location and find more local ABC News and informationPosted 24 Jul 202224 Jul 2022Sun 24 Jul 2022 at 8:32pmShareCopy linkFacebookX (formerly Twitter)Related StoriesAre Australians sleep-walking their way into mass surveillance?Kmart and Bunnings face privacy probe after backlash against instore facial recognition technologyThat selfie you posted can be used to train machines — which might not be a bad thingMore on:Artificial IntelligencePerthPrivacyWorkplace Accidents and IncidentsTop StoriesHow a bug in a little-known piece of software caused a global meltdown‘Nothing like this has ever happened before’: Australians reflect on chaotic IT outageAustralians have been hit by a worldwide tech outage. Here's what we knowBiden campaign insists he will stay in presidential race, amid growing calls to stand downIsrael thinks they've assassinated their No.1 enemy. Now all they need is proof that he's really deadHazardous weather across Australia's south-east to bring strong winds, hail, rain and snow Analysis by Laura TingleThe CFMEU's history is a window into Australia's industrial history — and it holds lessons for the next electionFather reveals Wieambilla killers' shocking allegations years before deadly ambushTwelve charts that show how Australia's population changed over 120 years'Less emotional labour to eat a cheese sandwich': Indian Australians on what it's like growing up hereWhat is CrowdStrike, the American cybersecurity firm linked to today's global outage?Perrottet lands plum job in US after announcing end of his political careerRachele rescues the win for Adelaide as Bombers go down at Docklands'He should have thrown it over': Woeful missed conversion costs Warriors the game in CanberraTop UN court says Israeli settlements in occupied Palestinian territories are illegalPopular NowDon't miss news that matters to you. Log in to ABC today to get a more personalised experience tailored to your preferences.GET STARTED1.How a bug in a little-known piece of software caused a global meltdown2.‘Nothing like this has ever happened before’: Australians reflect on chaotic IT outage3.'Completely unprecedented' outage causes havoc with IT systems across globe — as it happened4.Israel thinks they've assassinated their No.1 enemy. Now all they need is proof that he's really dead5.Father reveals Wieambilla killers' shocking allegations years before deadly ambush6.Hazardous weather across Australia's south-east to bring strong winds, hail, rain and snow Top StoriesHow a bug in a little-known piece of software caused a global meltdown‘Nothing like this has ever happened before’: Australians reflect on chaotic IT outageAustralians have been hit by a worldwide tech outage. Here's what we knowBiden campaign insists he will stay in presidential race, amid growing calls to stand downIsrael thinks they've assassinated their No.1 enemy. Now all they need is proof that he's really deadJust InAnalysis by Ange LavoipierreThe global tech crash opened like a Hollywood disaster film. So, how does it end?4m ago4 minutes agoFri 19 Jul 2024 at 3:47pm'Less emotional labour to eat a cheese sandwich': Indian Australians on what it's like growing up here15m ago15 minutes agoFri 19 Jul 2024 at 3:36pmTwelve charts that show how Australia's population changed over 120 years17m ago17 minutes agoFri 19 Jul 2024 at 3:34pmBiden campaign insists he will stay in presidential race, amid growing calls to stand down19m ago19 minutes agoFri 19 Jul 2024 at 3:32pmMore Just InBack to top",http://schema.org,NewsArticle,,"{'@type': 'Organization', 'name': 'ABC News', 'logo': {'@type': 'ImageObject', 'height': 60, 'url': 'https://www.abc.net.au/res/abc/logos/amp-news-logo-60x240.png', 'width': 240}}",https://www.abc.net.au/news/2022-07-25/ai-workplace-surveillance-tech-raises-concerns/101263028,2022-07-25T00:32:04+00:00,,2022-07-25T00:32:04+00:00,,"{'@type': 'ImageObject', 'height': 485, 'url': 'https://live-production.wcms.abc-cdn.net.au/cd75bf43a0ba0d7e77007bad96afeb21?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=326&width=862&height=485', 'width': 862}","[{'@type': 'Person', 'name': 'Alicia Bridges'}]",Artificial intelligence can monitor workplaces for safety breaches. Experts say privacy laws are lagging,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNhbnRvbnJlcC5jb20vc3RvcnkvbmV3cy9lZHVjYXRpb24vMjAyMi8wNy8yMi9zdGFyay1zdGF0ZS13aW5zLWdyYW50LWludGVsLWRlbGwtY3JlYXRlLWFpLWluY3ViYXRvci8xMDEwNzc2MTAwMi_SAQA?oc=5,"Stark State wins grant from Intel, Dell to create AI incubator - Canton Repository",2022-07-22,Canton Repository,https://www.cantonrep.com,Stark State is one of 15 community colleges nationwide – and the only Ohio college – to be awarded a grant to create an AI training incubator.,N/A,Stark State is one of 15 community colleges nationwide – and the only Ohio college – to be awarded a grant to create an AI training incubator.,Stark State is one of 15 community colleges nationwide – and the only Ohio college – to be awarded a grant to create an AI training incubator.,N/A,N/A,"EDUCATIONStark State College to create an artificial intelligence training programKelli WeirThe RepositoryPlayPauseSound OnSound Off0:000:23AD0:11SKIPClosedCaptionOpen ShareEnter Full ScreenExit Full ScreenArtificial intelligence training is coming to Stark State College.The Jackson Township-based college with satellite locations in Akron and Canton is one of 15 community colleges nationwide — and the only Ohio college — to be awarded a $40,000 grant to create an AI incubator to give students the technical skills they need to use artificial intelligence in the workforce. AI is the technology that can emulate aspects of human learning, such as a chatbot that can respond to a user's question like a human would.""We were really surprised and really excited about the opportunity to start looking into this,"" said Rene Eneix, assistant dean of the Business, Engineering and Information Technologies division at Stark State who was part of the grant application process.More about Stark State College:Let’s prepare residents for unprecedented career opportunitiesIntel, Dell Technologies and the American Association of Community Colleges offered the grants to community and technical colleges as part of its efforts to make AI training accessible to novice learners. Intel, which recently announced plans to invest more than $20 billion to build two computer chip factories in Licking County, created the AI for Workforce program last year. Intel and Dell officials, in a statement announcing the grants, emphasized the importance of preparing workers for jobs in the digital economy. The companies have cited a 2021 EdScoop survey that found 69% of the higher education officials and IT decision-makers surveyed sensed increasing demand for graduates with AI technical skills, but only 45% of the respondents said their institution offers any type of AI technical course, certification or degree program. How will Stark State use the grant money?Eneix, who has been with Stark State for 25 years, said the grant will allow the college of nearly 15,000 credit-seeking students to begin incorporating aspects of artificial intelligence training into its curriculum, particularly in its computer science and engineering programs where some courses already discuss the theory of AI.She said the college plans to utilize Intel’s free AI training curriculum and will offer access to AI resources through a virtual lab. She said two faculty members already have undergone training that focused on using Intel’s AI curriculum and how to teach other trainers how to use it.Eneix said Stark State has multiple meetings scheduled with officials from Intel and the American Association of Community Colleges over the next few weeks to finalize plans on how the college will structure its programming — whether artificial intelligence training will augment existing courses or be separated into its own course. She said the course material would not be ready for fall.Stark State has until May to spend the grant money.Other colleges receiving the grant were Austin Community College, Texas; BridgeValley Community and Technical College, West Virginia; Broward College, Florida; Edmonds College, Washington; Grand Rapids Community College, Michigan; Houston Community College/Houston Community College Foundation, Texas; Howard Community College, Maryland; Mississippi Gulf Coast Community College, Mississippi; Ocean County College, New Jersey; Rockland Community College, New York; Southeast Community College, Nebraska; Tulsa Community College, Oklahoma; Umpqua Community College, Oregon and Wayne Community College, North Carolina.Reach Kelli at 330-580-8339 or kelli.weir@cantonrep.com.On Twitter: @kweirREPAmazon's Worst Nightmare: Thousands Canceling Prime for This Clever Hack (It's Unbelievable)This simple trick can save tons of money on Amazon, but most Prime members are ignoring it.Online Shopping Tools | AdAdUndoThese Barefoot Shoes are Leaving Neuropathy Experts BaffledBarefoot Vitality | AdAdBuy NowUndoAmazon's Worst Nightmare: Thousands Canceling Prime for This Clever HackThis simple trick can save tons of money on Amazon, but most Prime members are ignoring it.Coupon Code Finder | AdAdUndoHere's What A New Gutter System Should Cost You In 2024Leaf Filter USA | AdAdLearn MoreUndoCostco Shoppers Say This Wrinkle Cream Is ""Actually Worth It""""My Skin Is Smooth And My Age Spots Are Fading""The Skincare Magazine | AdAdUndo2 Cards Charging 0% Interest Until Nearly 2026With no annual fee and no interest until nearly 2026, this card is helping Americans pay off debt in record time.CompareCredit | AdAdUndoAmazon Hates When Seniors Do This, But Can't Stop You (It's Genius)Think you're getting the best deal when you shop online? Don't buy a single thing until you try this - you won't regret it.Online Shopping Tools | AdAdUndoThe Sneaky Way Virginia Drivers Are Cutting Their Car Insurance Bills in HalfDon't pay your next auto insurance bill until you read about this!ExpertsInSavings | Auto Savings | AdAdLearn MoreUndoAccess All TV Channels Anywhere, AnytimeHere's how millions of Americans are getting access to over 100 channels without monthly costsNovaWave | AdAdShop NowUndoDon't Pay $179/Year for Amazon Prime - Use This Trick InsteadThis simple trick can save tons of money on Amazon, but most Prime members are ignoring it.Coupon Code Finder | AdAdUndoDeal of the DayAirPods Pro Are The Lowest Price We've Ever Seen During Amazon Prime DayREVIEWEDView Deal Recommendations are independently chosen by our editors. Purchases you make through our links may earn us a commission.Undo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RvcC0xMC1haS1qb2JzLXRvLWFwcGx5LWZvci1pbi1pbmRpYW4tbW5jcy1pbi1qdWx5LTIwMjLSAQA?oc=5,Top 10 AI Jobs to Apply for in Indian MNCs in July 2022 - Analytics Insight,2022-07-26,Analytics Insight,https://www.analyticsinsight.net,,"AI,AI jobs,artificial intelligence,AI career,AI market","AI market has reached $62.3 billion in 2020 and is expected to grow at a spectacular rate to reach $997.8 billion by 2028 Artificial intelligence, the miracle s","AI market has reached $62.3 billion in 2020 and is expected to grow at a spectacular rate to reach $997.8 billion by 2028 Artificial intelligence, the miracle s",N/A,N/A,"Number of ChatGPT Users and Statistics
+",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-jobs-to-apply-for-in-indian-mncs-in-july-2022,"{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-jobs-to-apply-for-in-indian-mncs-in-july-2022'}",2022-07-26T05:30:07Z,2022-07-26T05:30:07Z,2022-07-26T05:30:07Z,,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Top-10-AI-Jobs-to-Apply-for-in-Indian-MNCs-in-July-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'sirisha', 'name': 'sirisha', 'url': 'https://www.analyticsinsight.net/author/sirisha'}]",Top 10 AI Jobs to Apply for in Indian MNCs in July 2022,,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-jobs-to-apply-for-in-indian-mncs-in-july-2022', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Top-10-AI-Jobs-to-Apply-for-in-Indian-MNCs-in-July-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Top 10 AI Jobs to Apply for in Indian MNCs in July 2022', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-jobs-to-apply-for-in-indian-mncs-in-july-2022'}]",,,,,Top 10 AI Jobs to Apply for in Indian MNCs in July 2022,,,,,,,,,,"AI market has reached $62.3 billion in 2020 and is expected to grow at a spectacular rate to reach $997.8 billion by 2028.Artificial intelligence, the miracle sauce of technology is gradually becoming our sixth sense. For someone interested in making a career in an evolving technical space that has a number of challenges to offer every day, artificial intelligence is the one. According to Grand View Research, the AI market has reached $62.3 billion in 2020 and is expected to grow at a spectacular rate to reach $997.8 billion by 2028. And the ever-luring AI field is already showing the signs, with hundreds of job postings every month. If you need a bit of assistance in finding an AI job with MNCs, here is the curated list of the top 10 AI jobs..1. AI Developer.Company: Genpact.Location: Hyderabad/Secunderabad, Bengaluru, (WFH during Covid).Experience – 2 to 7 years of experience in the following areas.• Demonstrated experience in developing AI-powered chatbots from scratch using AI, ML, and   NLP technologies.• Experience in the development of chatbots and conversational AI bots using frameworks    like Rasa, DialogFlow, Kore.AI.• Relevant experience in Google DialogFlow -L1-L2.• Experience in using dialog management, and sentiment analysis models..• Excellent communication skills.Educational requirement:.UG, PG, or Ph.D. in any field.Apply here.2. AI/ML Developer (AI/ML).Company: EY.Location: Kochi.Experience:.•    Minimum 1 – 3 years of experience as a software developer•    Hands-on experience in developing ML models using Python•    Experience / Knowledge in machine learning and deep learning libraries such as TensorFlow, Keras, PyTorch, Scikit-Learn, Spacy, NLTK, and other open-source libraries •    Good knowledge of math, probability, statistics, and algorithms•    Experience developing AI/ML solutions using Azure Services or any cloud-based services (Google, IBM, etc.,) is a plus.Educational requirement: . B. E/ B.Tech/ MCA/ MS or equivalent degree in Computer Science discipline.Apply here.3. O-RAN AI/ML Model Developer.Company: Samsung India.Location: Bengaluru.Experience.At least 6 years of related experience and a bachelor's degree; or 5 years and a Master's degree; or a Ph.D. with 4 years.Hands-on Experience in working on new open-source forums related to telecom like ONAP, O-RAN, OPNFV, Openstack, etc.Working Knowledge of 3GPP &amp; O-RAN SpecificationsWorking knowledge of L2(MAC/RLC/PDCP) L3 (RRC/S1AP/X2AP) in 4G/5G RAN ProductsStrong understanding of Access technologies- 5G NR, Split architecture, vRAN Options &amp; Open Network ConceptsSystem Architecture/Design Experience of Telecom Products (Monolith/PNF, VNF, CNF)Hands-on experience in using Machine Learning techniques in the RAN domainHands-on experience of Open-Source technologies – Cassandra, Kubernetes, Dockers, Helm is desirable.Educational requirement:.Graduation or Post-graduation.Apply here.4. AI computer vision developer.Company: IBM.Location: Ahmedabad.Experience.5 years' experience in Python and CKnowledge of machine learning and deep learning techniques3 years of professional hands-on experience in machine learning frameworks such as Tensorflow, Pytorch, etc.3 years' Experience in image processing/computer visionHands-on experience in object classification, detection, and segmentation, and handling of   computer vision relevant open-source librariesAI application integration with interfaces / APIsExperience in MLOpsVisualizing data to stakeholdersAnalyze and debug AI and computer vision algorithms.Educational requirements: .Master s degree or Ph.D. in business, computer science, computer engineering, or related.fields at the time of application.Apply here.5. Conversational AI chatbot developer.Company: Deloitte.Location: Bengaluru.Experience.Must have experience in developing conversational chatbots using AWSImplementation experience of Conversational AI chatbotExperience in developing multi-lingual modelsDevelopment experience with REST APIs and other web services.Natural Language Processing / Understanding / Generation.Experience with NLP problems, like intent detection, sentiment analysis, NER, etc.Hands-on expertise in scripting Python and C#Proven experience working with large-scale data in AWSExperience in implementing solutions using AWS servicesExcellent written and verbal communication skills.Self-driven problem solver with an entrepreneur mind-setExtremely deft at problem-solving and algorithm development skills for high-level business problemsStrong experience in translating business requirements into prototype designGood understanding of the SDLC and Agile Methodologies.Educational requirement.UG: B.Tech/B.E. – Any SpecializationPG: M.Tech-CS/ MCA/M.Sc(Computer Science).       Apply here.6. Conversational AI developer.Company: Deloitte.Location: Hyderabad.Experience:.1+ years of development/implementation/administrative experience including experience working with web technologies (i.e., JavaScript, XML, SOAP).Educational requirements:.Bachelor's degree in Computer Science or IT-related field, or equivalent experience, plus three (3) or more years of IT experience.Apply here.7. Cognitive AI Developer.Company: Mindteck.Location: Remote.Experience:.2 to 5 years of experience in programming (C#), SQL, relational databases, and application developmentExperience with process analysis, design, implementation, problem-solving, system testing (UAT), and bug fixes.Educational qualification.Degree in Computer Science / Information Technology / Mathematics or similar.Apply here.8. NLP Engineer.Company: Wipro.Location: Bengaluru (WFH during COVID).Experience:.Strong experience in architecting and developing ML, NLP based projects is a mustStrong track record of ML-led solution development from scratchSolid hands-on experience as Python Developer (very strong Python credentials only apply)Strong experience in custom Entity Recognition, custom embeddings, transformer models like BERT, GPT, T5, etc.Experience in Question Answering systems, text summarization, and knowledge graphs is a mustHands-on experience working on noisy text like OCR, Speech to Text, Scene textExperience working on language detection, and mixing languages would be added advantage.Should have created/worked on data labeling tools, frameworks, and strategies.Hands-on experience using ML frameworks like Tensorflow, PyTorch, MxNET, Caffe, and Keras.Use of Spacy, NLTK, Gloves, RegEx, etc is expected as well.Experience to develop &amp; deploy production-grade NLP &amp; ML models is a must.Experience in using/customizing cloud providers AI/ML servicesStrong track record of customer engagements and requirement creation.Team Leading capabilitiesProven effective oral &amp; written communication skillsExperience in Agile-based development methodologyExperience in leading Customer interactions.Educational requirement:.Any degree.              Apply here.9. Machine Learning Engineer.Company: DocSumo.Experience:.Minimum 2+ years experience working in machine learning, text processing, data science, information retrieval, deep learning, natural language processing, text mining, regression, classification, etc.Working with OpenCV, TensorFlow, and KerasWorking with Python: Numpy, Scikit-Learn, Matplotlib, PandaFamiliarity with Version Control tools such as GitFamiliarity with ML frameworks and librariesTheoretical and practical knowledge of SQL / NoSQL databases with hands-on experience in at least one database system.Educational requirement:.Must have a full-time degree in Computer Science or similar discipline (Statistics/Mathematics).Apply here.10. Cloud Engineer, AI.Company: Google.Location: Hyderabad.Experience:.3 years of experience building Machine Learning or Data Science solutionsExperience writing software in Python, Scala, R, or similar. Experience with data structures, algorithms, and software designAbility to travel up to 30% of the time.Educational requirement:.Bachelor's degree in Computer Science, Mathematics, a related technical field, or equivalent practical experience.Apply here.Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",Artificial Intelligence,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Top-10-AI-Jobs-to-Apply-for-in-Indian-MNCs-in-July-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,,

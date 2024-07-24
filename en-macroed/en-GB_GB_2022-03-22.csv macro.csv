@@ -1,0 +1,1050 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,mainEntityOfPage,headline,datePublished,dateModified,author,publisher,image,dateCreated,url,articleSection,inLanguage,thumbnailUrl,articleBody,copyrightHolder,speakable,name,sameAs,logo,hasPart,video,foundingDate,address,contactPoint,itemListElement,isPartOf,associatedMedia,alternativeHeadline,mainEntity
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYmxvZy5tZXRvZmZpY2UuZ292LnVrLzIwMjIvMDMvMjIvbWV0LW9mZmljZS1jb250cmlidXRlcy10by1sYW5kbWFyay1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1jb25mZXJlbmNlL9IBAA?oc=5,Met Office contributes to landmark artificial intelligence conference - Met Office blog,2022-03-22,Met Office blog,https://blog.metoffice.gov.uk,"On 22-23 March, the Alan Turing Institute is hosting Artificial Intelligence UK (AIUK). Broadcast live from London, this virtual event presents a showcase of the UK’s latest research into Artificial Intelligence (AI) and data science to explore how the pioneering work and collaboration taking place in these fields can be applied to solve real-world challenges.…",N/A,"On 22-23 March, the Alan Turing Institute is hosting Artificial Intelligence UK (AIUK). Broadcast live from London, this virtual event presents a showcase of the UK’s latest research into Artificia…",N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNhbmNlci5nb3YvbmV3cy1ldmVudHMvY2FuY2VyLWN1cnJlbnRzLWJsb2cvMjAyMi9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1jYW5jZXItaW1hZ2luZ9IBAA?oc=5,Can Artificial Intelligence Help See Cancer in New Ways? - National Cancer Institute (.gov),2022-03-22,National Cancer Institute (.gov),https://www.cancer.gov,"Artificial intelligence (AI) could make cancer imaging faster, more accurate, and more informative. But is it ready for everyday use in the clinic?",N/A,"Artificial intelligence (AI) could make cancer imaging faster, more accurate, and more informative. But is it ready for everyday use in the clinic?",N/A,N/A,N/A,"
+
+
+      Can Artificial Intelligence Help See Cancer in New, and Better, Ways?
+    
+
+
+Subscribe
+
+
+
+
+March 22, 2022,
+    by    Nadia Jaber
+  
+      
+
+
+
+
+
+
+
+A deep learning algorithm trained to analyze images from MRI scans predicts the presence of an IDH1 gene mutation in brain tumors.
+Credit: CA Cancer J Clin March/April 2019. doi: 10.3322/caac.21552. CC BY 4.0.
+
+
+
+
+Two identical black and white pictures of murky shapes sit side-by-side on a computer screen. On the left side, Ismail Baris Turkbey, M.D., a radiologist with 15 years of experience, has outlined an area where the fuzzy shapes represent what he believes is a creeping, growing prostate cancer. On the other side of the screen, an artificial intelligence (AI) computer program has done the same—and the results are nearly identical.
+The black and white image is an MRI scan from someone with prostate cancer, and the AI program has analyzed thousands of them.
+“The [AI] model finds the prostate and outlines cancer-suspicious areas without any human supervision,” Dr. Turkbey explains. His hope is that the AI will help less experienced radiologists find prostate cancer when it’s present and dismiss anything that may be mistaken for cancer.
+This model is just the tip of the iceberg when it comes to the intersection of artificial intelligence and cancer research. While the potential applications seem endless, a lot of that progress has centered around tools for cancer imaging. 
+From x-rays of whole organs to microscope pictures of cancer cells, doctors use imaging tests in many ways: finding cancer at its earliest stages, determining the stage of a tumor, seeing if treatment is working, and monitoring whether cancer has returned after treatment. 
+Over the past several years, researchers have developed AI tools that have the potential to make cancer imaging faster, more accurate, and even more informative. And that’s generated a lot of excitement.
+“There’s a lot of hype [around AI], but there’s a lot of research that’s going into it as well,” said Stephanie Harmon, Ph.D., a data scientist in NCI’s Molecular Imaging Branch. 
+That research, experts say, includes addressing questions about whether these tools are ready to leave research labs and enter doctors’ offices, whether they will actually help patients, and whether that benefit will reach all—or only some—patients.
+What is artificial intelligence?
+Artificial intelligence refers to computer programs, or algorithms, that use data to make decisions or predictions. To build an algorithm, scientists might create a set of rules, or instructions, for the computer to follow so it can analyze data and make a decision. 
+For example, Dr. Turkbey and his colleagues used existing rules about how prostate cancer appears on an MRI scan. They then trained their algorithm using thousands of MRI studies—some from people known to have prostate cancer, and some from people who did not.
+With other artificial intelligence approaches, like machine learning, the algorithm teaches itself how to analyze and interpret data. As such, machine learning algorithms may pick up on patterns that are not readily discernable to the human eye or brain. And as these algorithms are exposed to more new data, their ability to learn and interpret the data improves. 
+Researchers have also used deep learning, a type of machine learning, in cancer imaging applications. Deep learning refers to algorithms that classify information in ways much like the human brain does. Deep learning tools use “artificial neural networks” that mimic how our brain cells take in, process, and react to signals from the rest of our body. 
+Research on AI for cancer imaging
+Doctors use cancer imaging tests to answer a range of questions, like: Is it cancer or a harmless lump? If it is cancer, how fast is it growing? How far has it spread? Is it growing back after treatment? Studies suggest that AI has the potential to improve the speed, accuracy, and reliability with which doctors answer those questions. 
+
+
+
+ 
+Artificial Intelligence Aids Brain Tumor Diagnosis
+Approach diagnoses cancer in under 3 minutes during surgery.
+
+
+
+“AI can automate assessments and tasks that humans currently can do but take a lot of time,” said Hugo Aerts, Ph.D., of Harvard Medical School. After the AI gives a result, “a radiologist simply needs to review what the AI has done—did it make the correct assessment?” Dr. Aerts continued. That automation is expected to save time and costs, but that still needs to be proven, he added.
+In addition, AI could make image interpretation—a highly subjective task—more straightforward and reliable, Dr. Aerts noted.
+Complex tasks that rely on “a human making an interpretation of an image—say, a radiologist, a dermatologist, a pathologist —that’s where we see enormous breakthroughs being made with deep learning,” he said.
+But what scientists are most excited about is the potential for AI to go beyond what humans can currently do themselves. AI can “see” things that we humans can’t, and can find complex patterns and relationships between very different kinds of data.
+“AI is great at doing this—at going beyond human performance for a lot of tasks,” Dr. Aerts said. But, in this case, it is often unclear how the AI reaches its conclusion, so it’s difficult for doctors and researchers to check if the tool is performing correctly. 
+Finding cancer early
+Tests like mammograms and Pap tests are used to regularly check people for signs of cancer or precancerous cells that can turn into cancer. The goal is to catch and treat cancer early, before it spreads or even before it forms at all. 
+Scientists have developed AI tools to aid screening tests for several kinds of cancer, including breast cancer. AI-based computer programs have been used to help doctors interpret mammograms for more than 20 years, but research in this area is quickly evolving. 
+One group created an AI algorithm that can help determine how often someone should get screened for breast cancer. The model uses a person’s mammogram images to predict their risk of developing breast cancer in the next 5 years. In various tests, the model was more accurate than the current tools used to predict breast cancer risk.
+NCI researchers have built and tested a deep learning algorithm that can identify cervical precancers that should be removed or treated. In some low-resource settings, health workers screen for cervical precancer by inspecting the cervix with a small camera. Although this method is simple and sustainable, it is not very reliable or accurate. 
+Mark Schiffman, M.D., M.P.H., of NCI’s Division of Cancer Epidemiology and Genetics, and his colleagues designed an algorithm to improve the ability to find cervical precancers with the visual inspection method. In a 2019 study, the algorithm performed better than trained experts.
+For colon cancer, several AI tools have been shown in clinical trials to improve the detection of precancerous growths called adenomas. However, because only a small percentage of adenomas turn into cancer, some experts are concerned that such AI tools could lead to unnecessary treatments and extra tests for many patients. 
+Detecting cancer 
+AI has also shown the potential to improve cancer detection in people who have symptoms. The AI model developed by Dr. Turkbey and his colleagues in NCI’s Center for Cancer Research, for instance, could make it easier for radiologists to pick out potentially aggressive prostate cancer on a relatively new kind of prostate MRI scan, called multiparametric MRI.
+
+
+
+
+On a multiparametric MRI scan of a patient's prostate, a cancer-suspicious area (red) is highlighted by an AI model developed by Dr. Turkbey.
+Credit: Courtesy of Stephanie Harmon, Ph.D.
+
+
+Although multiparametric MRI generates a more detailed picture of the prostate than a regular MRI, radiologists typically need years of practice to read these scans accurately, leading to disagreements between radiologists looking at the same scan.
+The NCI team’s AI model “can make [the learning] curve easier for practicing radiologists and can minimize the error rate,” Dr. Turkbey said. The AI model could serve as “a virtual expert” to guide less-experienced radiologists learning to use multiparametric MRI, he added.
+For lung cancer, several deep learning AI models have been developed to help doctors find lung cancer on CT scans. Some noncancerous changes in the lungs look a lot like cancer on CT scans, leading to a high rate of false-positive test results that indicate a person has lung cancer when they really don’t. 
+Experts think that AI may better distinguish lung cancer from noncancerous changes on CT scans, potentially cutting the number of false positives and sparing some people from unneeded stress, follow-up tests, and procedures. 
+For example, a team of researchers trained a deep learning algorithm to find lung cancer and to specifically avoid other changes that look like cancer. In lab tests, the algorithm was very good at ignoring noncancerous changes that look like cancerExit Disclaimer and good at finding cancer.
+Choosing cancer treatment 
+Doctors also use imaging tests to get important information about cancer, such as how fast it is growing, whether it has spread, and whether it is likely to come back after treatment. This information can help doctors choose the most appropriate treatment for their patients. 
+A number of studies suggest that AI has the potential to gather such prognostic information—and maybe even more—from imaging scans, and with greater precision than humans currently can. For example, Dr. Harmon and her colleagues created a deep learning model that can determine the likelihood that a patient with bladder cancer might need other treatments in addition to surgery.
+Doctors estimate that around 50% of people with tumors in the bladder muscle (muscle-invasive bladder cancer) have clusters of cancer cells that have spread beyond the bladder but are too small to detect with traditional toolsExit Disclaimer. If these hidden cells aren’t removed, they can continue growing after surgery, causing a relapse. 
+Chemotherapy can kill these microscopic clusters and prevent the cancer from coming back after surgery. But clinical trials have shown that it’s hard to determine which patients need chemotherapy in addition to surgery, Dr. Harmon said. 
+“What we would like to do is use this model before patients undergo any sort of treatment, to tell which patients have cancer with a high likelihood of spreading, so doctors can make informed decisions,” she explained.
+
+
+
+
+Dr. Harmon's AI model uses digital images of a bladder tumor tissue sample (""INPUT"" on the left) to predict the risk of the cancer spreading to nearby lymph nodes (""OUTPUT"" on the right).
+Credit: Courtesy of Stephanie Harmon, Ph.D.
+
+
+The model looks at digital images of primary tumor tissue to predict whether there are microscopic clusters of cancer in nearby lymph nodes. In a 2020 study, the deep learning model proved to be more accurate than the standard way of predicting whether bladder cancer has spread, which is based on a combination of factors including the patient’s age and certain characteristics of the tumor. 
+More and more, genetic information about the patients’ cancer is being used to help select the most appropriate treatment. Scientists in China created a deep learning tool to predict the presence of key gene mutations from images of liver cancer tissue—something pathologists can’t do by just looking at the images.
+Their tool is an example of AI that works in mysterious ways: The scientists who built the algorithm don’t know how it senses which gene mutations are present in the tumor.
+Are AI tools for cancer imaging ready for the real world?
+Although scientists are churning out AI tools for cancer imaging, the field is still nascent and many questions about the practical applications of these tools remain unanswered.
+
+
+
+ 
+Using AI to Classify Lung Cancer Types
+The computer program can differentiate the two most common forms of lung cancer.
+
+
+
+While hundreds of algorithms have been proven accurate in early tests, most haven’t reached the next phase of testingExit Disclaimer that ensures they are ready for the real world, Dr. Harmon said.  
+That testing, known as external or independent validation, “tells us how generalizable our algorithm is. Meaning, how useful is it on a totally new patient? How does it perform on patients from different [medical] centers or different scanners?” Dr. Harmon explained. In other words, does the AI tool work accurately beyond the data it was trained on?
+AI algorithms that pass rigorous validation testing in diverse groups of people from various areas of the world could be used more widely, and therefore help more people, she added.
+In addition to validation, Dr. Turkbey noted, clinical studies also need to show that AI tools actually help patients, either by preventing people from getting cancer, helping them live longer or have a better quality of life, or saving them time or money. 
+But even after that, Dr. Aerts said, a major question about AI is: “How do we make sure that these algorithms keep on working and performing well for years and years?” For example, he said, new scanners could change features of the image that an AI tool relies on to make predictions or interpretations, he explained. And that could change their performance. 
+There are also questions about how AI tools will be regulated. Upwards of 60 AI-based medical devices or algorithms have earned FDA approval as of 2020Exit Disclaimer. But even after they are approved, some machine learning algorithms shift as they are exposed to new data. In 2021, FDA issued a framework for monitoring AI technologies that have the ability to adapt.
+There are also concerns about the transparency of some AI tools. With some algorithms, like the one that can predict gene mutations in liver tumors, scientists don’t know how it reaches its conclusion—a conundrum known as the “black box problem.” Experts say this lack of transparency prohibits critical checks for biases and inaccuracies. 
+A recent study, for example, showed that a machine learning algorithm trained to predict cancer outcomes zeroed in on the hospital where the tumor image was taken, rather than the patient’s tumor biology. Although that algorithm isn’t used in any medical settings, other tools trained in the same way could have the same inaccuracy, the researchers warned.
+There are also worries that AI could worsen gaps in health outcomes between privileged and disadvantaged groups by exacerbating biases that are already baked into our medical system and research processes, said Irene Dankwa-Mullan, M.D., M.P.H., deputy chief health equity officer of IBM Watson Health. 
+These biases are deeply embedded in the data used to create AI models, she explained at the 2021 American Association for Cancer Research Science of Cancer Health Disparities conference. 
+For instance, a handful of medical algorithms have recently been shown to be less accurate for Black people than for White people. These potentially dangerous shortcomings stem from the fact that the algorithms were mainly trained and validated on data from White patients, experts have noted.
+On the other hand, some experts think AI could improve access to cancer care by bringing expert-level care to hospitals that lack specialists. 
+“What [AI] can do is, in a setting where there are physicians who maybe don’t have as much expertise, potentially it can bring their performance up to an expert level,” explained Dr. Harmon.
+Some AI tools could even bypass the need for sophisticated equipment. The deep learning algorithm for cervical cancer screening developed by Dr. Schiffman, for example, relies on cell phones or digital cameras and low-cost materials. 
+Despite these concerns, most researchers are optimistic for the future of AI in cancer care. Dr. Aerts, for example, believes these hurdles are surmountable with more work and collaboration between experts in science, medicine, government, and community implementation.
+“I think [AI technologies] will eventually be introduced into the clinic because the performance is just too good and it’s a waste if we don’t,” he said.
+
+
+
+
+
+< Older Post
+New on NCI’s Websites for March 2022
+
+
+Newer Post >
+Darolutamide Extends Survival for Some People with Metastatic Prostate Cancer
+
+
+
+
+
+
+If you would like to reproduce some or all of this content, see Reuse of NCI Information for guidance about copyright and permissions. In the case of permitted digital reproduction, please credit the National Cancer Institute as the source and link to the original NCI product using the original product's title; e.g., “Can Artificial Intelligence Help See Cancer in New, and Better, Ways? was originally published by the National Cancer Institute.”
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYmxvZ3MubnZpZGlhLmNvbS9ibG9nL3doYXQtaXMtYS10cmFuc2Zvcm1lci1tb2RlbC_SAQA?oc=5,What Is a Transformer Model? - NVIDIA Blog,2022-03-25,NVIDIA Blog,https://blogs.nvidia.com,A transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.,N/A,"Transformer models apply an evolving set of mathematical techniques, called attention or self-attention, to detect subtle ways even distant data elements in a series influence and depend on each other.","Transformer models apply an evolving set of mathematical techniques, called attention or self-attention, to detect subtle ways even distant data elements in a series influence and depend on each other.",N/A,N/A,"
+
+
+
+What Is a Transformer Model?
+
+
+				A transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.			
+
+
+March 25, 2022 by Rick Merritt 
+
+
+
+
+
+
+
+
+
+
+					Share			
+
+
+ 
+ 
+ 
+ 
+Email0 
+
+
+  If you want to ride the next big wave in AI, grab a transformer.
+They’re not the shape-shifting toy robots on TV or the trash-can-sized tubs on telephone poles.
+So, What’s a Transformer Model?
+A transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.
+Transformer models apply an evolving set of mathematical techniques, called attention or self-attention, to detect subtle ways even distant data elements in a series influence and depend on each other.
+First described in a 2017 paper from Google, transformers are among the newest and one of the most powerful classes of models invented to date. They’re driving a wave of advances in machine learning some have dubbed transformer AI.
+Stanford researchers called transformers “foundation models” in an August 2021 paper because they see them driving a paradigm shift in AI. The “sheer scale and scope of foundation models over the last few years have stretched our imagination of what is possible,” they wrote.
+What Can Transformer Models Do?
+Transformers are translating text and speech in near real-time, opening meetings and classrooms to diverse and hearing-impaired attendees.
+They’re helping researchers understand the chains of genes in DNA and amino acids in proteins in ways that can speed drug design.
+Transformers, sometimes called foundation models, are already being used with many data sources for a host of applications.
+Transformers can detect trends and anomalies to prevent fraud, streamline manufacturing, make online recommendations or improve healthcare.
+People use transformers every time they search on Google or Microsoft Bing.
+The Virtuous Cycle of Transformer AI
+Any application using sequential text, image or video data is a candidate for transformer models.
+That enables these models to ride a virtuous cycle in transformer AI. Created with large datasets, transformers make accurate predictions that drive their wider use, generating more data that can be used to create even better models.
+Stanford researchers say transformers mark the next stage of AI’s development, what some call the era of transformer AI.
+“Transformers made self-supervised learning possible, and AI jumped to warp speed,” said NVIDIA founder and CEO Jensen Huang in his keynote address this week at GTC.
+Transformers Replace CNNs, RNNs
+Transformers are in many cases replacing convolutional and recurrent neural networks (CNNs and RNNs), the most popular types of deep learning models just five years ago.
+Indeed, 70 percent of arXiv papers on AI posted in the last two years mention transformers. That’s a radical shift from a 2017 IEEE study that reported RNNs and CNNs were the most popular models for pattern recognition.
+No Labels, More Performance
+Before transformers arrived, users had to train neural networks with large, labeled datasets that were costly and time-consuming to produce. By finding patterns between elements mathematically, transformers eliminate that need, making available the trillions of images and petabytes of text data on the web and in corporate databases.
+In addition, the math that transformers use lends itself to parallel processing, so these models can run fast.
+Transformers now dominate popular performance leaderboards like SuperGLUE, a benchmark developed in 2019 for language-processing systems.
+How Transformers Pay Attention
+Like most neural networks, transformer models are basically large encoder/decoder blocks that process data.
+Small but strategic additions to these blocks (shown in the diagram below) make transformers uniquely powerful.
+A look under the hood from a presentation by Aidan Gomez, one of eight co-authors of the 2017 paper that defined transformers.
+Transformers use positional encoders to tag data elements coming in and out of the network. Attention units follow these tags, calculating a kind of algebraic map of how each element relates to the others.
+Attention queries are typically executed in parallel by calculating a matrix of equations in what’s called multi-headed attention.
+With these tools, computers can see the same patterns humans see.
+Self-Attention Finds Meaning
+For example, in the sentence:
+She poured water from the pitcher to the cup until it was full. 
+We know “it” refers to the cup, while in the sentence:
+She poured water from the pitcher to the cup until it was empty.
+We know “it” refers to the pitcher.
+“Meaning is a result of relationships between things, and self-attention is a general way of learning relationships,” said Ashish Vaswani, a former senior staff research scientist at Google Brain who led work on the seminal 2017 paper.
+“Machine translation was a good vehicle to validate self-attention because you needed short- and long-distance relationships among words,” said Vaswani.
+“Now we see self-attention is a powerful, flexible tool for learning,” he added.
+How Transformers Got Their Name
+Attention is so key to transformers the Google researchers almost used the term as the name for their 2017 model. Almost.
+“Attention Net didn’t sound very exciting,” said Vaswani, who started working with neural nets in 2011.
+.Jakob Uszkoreit, a senior software engineer on the team, came up with the name Transformer.
+“I argued we were transforming representations, but that was just playing semantics,” Vaswani said.
+The Birth of Transformers
+In the paper for the 2017 NeurIPS conference, the Google team described their transformer and the accuracy records it set for machine translation.
+Thanks to a basket of techniques, they trained their model in just 3.5 days on eight NVIDIA GPUs, a small fraction of the time and cost of training prior models. They trained it on datasets with up to a billion pairs of words.
+“It was an intense three-month sprint to the paper submission date,” recalled Aidan Gomez, a Google intern in 2017 who contributed to the work.
+“The night we were submitting, Ashish and I pulled an all-nighter at Google,” he said. “I caught a couple hours sleep in one of the small conference rooms, and I woke up just in time for the submission when someone coming in early to work opened the door and hit my head.”
+It was a wakeup call in more ways than one.
+“Ashish told me that night he was convinced this was going to be a huge deal, something game changing. I wasn’t convinced, I thought it would be a modest gain on a benchmark, but it turned out he was very right,” said Gomez, now CEO of startup Cohere that’s providing a language processing service based on transformers.
+A Moment for Machine Learning
+Vaswani recalls the excitement of seeing the results surpass similar work published by a Facebook team using CNNs.
+“I could see this would likely be an important moment in machine learning,” he said.
+A year later, another Google team tried processing text sequences both forward and backward with a transformer. That helped capture more relationships among words, improving the model’s ability to understand the meaning of a sentence.
+Their Bidirectional Encoder Representations from Transformers (BERT) model set 11 new records and became part of the algorithm behind Google search.
+Within weeks, researchers around the world were adapting BERT for use cases across many languages and industries “because text is one of the most common data types companies have,” said Anders Arpteg, a 20-year veteran of machine learning research.
+Putting Transformers to Work
+Soon transformer models were being adapted for science and healthcare.
+DeepMind, in London, advanced the understanding of proteins, the building blocks of life, using a transformer called AlphaFold2, described in a recent Nature article. It processed amino acid chains like text strings to set a new watermark for describing how proteins fold, work that could speed drug discovery.
+AstraZeneca and NVIDIA developed MegaMolBART, a transformer tailored for drug discovery. It’s a version of the pharmaceutical company’s MolBART transformer, trained on a large, unlabeled database of chemical compounds using the NVIDIA Megatron framework for building large-scale transformer models.
+Reading Molecules, Medical Records
+“Just as AI language models can learn the relationships between words in a sentence, our aim is that neural networks trained on molecular structure data will be able to learn the relationships between atoms in real-world molecules,” said Ola Engkvist, head of molecular AI, discovery sciences and R&D at AstraZeneca, when the work was announced last year.
+
+Separately, the University of Florida’s academic health center collaborated with NVIDIA researchers to create GatorTron. The transformer model aims to extract insights from massive volumes of clinical data to accelerate medical research.
+Transformers Grow Up
+Along the way, researchers found larger transformers performed better.
+For example, researchers from the Rostlab at the Technical University of Munich, which helped pioneer work at the intersection of AI and biology, used natural-language processing to understand proteins. In 18 months, they graduated from using RNNs with 90 million parameters to transformer models with 567 million parameters.
+Rostlab researchers show language models trained without labeled samples picking up the signal of a protein sequence.
+The OpenAI lab showed bigger is better with its Generative Pretrained Transformer (GPT). The latest version, GPT-3, has 175 billion parameters, up from 1.5 billion for GPT-2.
+With the extra heft, GPT-3 can respond to a user’s query even on tasks it was not specifically trained to handle. It’s already being used by companies including Cisco, IBM and Salesforce.
+Tale of a Mega Transformer
+NVIDIA and Microsoft hit a high watermark in November, announcing the Megatron-Turing Natural Language Generation model (MT-NLG) with 530 billion parameters. It debuted along with a new framework, NVIDIA NeMo Megatron, that aims to let any business create its own billion- or trillion-parameter transformers to power custom chatbots, personal assistants and other AI applications that understand language.
+MT-NLG had its public debut as the brain for TJ, the Toy Jensen avatar that gave part of the keynote at NVIDIA’s November 2021 GTC.
+“When we saw TJ answer questions — the power of our work demonstrated by our CEO — that was exciting,” said Mostofa Patwary, who led the NVIDIA team that trained the model.
+“Megatron helps me answer all those tough questions Jensen throws at me,” TJ said at GTC 2022.
+Creating such models is not for the faint of heart. MT-NLG was trained using hundreds of billions of data elements, a process that required thousands of GPUs running for weeks.
+“Training large transformer models is expensive and time-consuming, so if you’re not successful the first or second time, projects might be canceled,” said Patwary.
+Trillion-Parameter Transformers
+Today, many AI engineers are working on trillion-parameter transformers and applications for them.
+“We’re constantly exploring how these big models can deliver better applications. We also investigate in what aspects they fail, so we can build even better and bigger ones,” Patwary said.
+To provide the computing muscle those models need, our latest accelerator — the NVIDIA H100 Tensor Core GPU — packs a Transformer Engine and supports a new FP8 format. That speeds training while preserving accuracy.
+With those and other advances, “transformer model training can be reduced from weeks to days” said Huang at GTC.
+MoE Means More for Transformers
+Last year, Google researchers described the Switch Transformer, one of the first trillion-parameter models. It uses AI sparsity, a complex mixture-of experts (MoE) architecture and other advances to drive performance gains in language processing and up to 7x increases in pre-training speed.
+The encoder for the Switch Transformer, the first model to have up to a trillion parameters.
+For its part, Microsoft Azure worked with NVIDIA to implement an MoE transformer for its Translator service.
+Tackling Transformers’ Challenges
+Now some researchers aim to develop simpler transformers with fewer parameters that deliver performance similar to the largest models.
+“I see promise in retrieval-based models that I’m super excited about because they could bend the curve,” said Gomez, of Cohere, noting the Retro model from DeepMind as an example.
+Retrieval-based models learn by submitting queries to a database. “It’s cool because you can be choosy about what you put in that knowledge base,” he said.
+In the race for higher performance, transformer models have grown larger.
+The ultimate goal is to “make these models learn like humans do from context in the real world with very little data,” said Vaswani, now co-founder of a stealth AI startup.
+He imagines future models that do more computation upfront so they need less data and sport better ways users can give them feedback.
+“Our goal is to build models that will help people in their everyday lives,” he said of his new venture.
+Safe, Responsible Models
+Other researchers are studying ways to eliminate bias or toxicity if models amplify wrong or harmful language. For example, Stanford created the Center for Research on Foundation Models to explore these issues.
+“These are important problems that need to be solved for safe deployment of models,” said Shrimai Prabhumoye, a research scientist at NVIDIA who’s among many across the industry working in the area.
+“Today, most models look for certain words or phrases, but in real life these issues may come out subtly, so we have to consider the whole context,” added Prabhumoye.
+“That’s a primary concern for Cohere, too,” said Gomez. “No one is going to use these models if they hurt people, so it’s table stakes to make the safest and most responsible models.”
+Beyond the Horizon
+Vaswani imagines a future where self-learning, attention-powered transformers approach the holy grail of AI.
+“We have a chance of achieving some of the goals people talked about when they coined the term ‘general artificial intelligence’ and I find that north star very inspiring,” he said.
+“We are in a time where simple methods like neural networks are giving us an explosion of new capabilities.”
+Transformer training and inference will get significantly accelerated with the NVIDIA H100 GPU.
+Learn more about transformers on the NVIDIA Technical Blog.
+
+
+Categories: Deep Learning | ExplainerTags: Artificial Intelligence | Customer Stories | GPU | Machine Learning | NVIDIA Research | Parallel Computing | Science 
+
+
+ 
+
+
+
+
+All NVIDIA News 
+
+
+
+
+
+
+
+Decoding How AI-Powered Upscaling on NVIDIA RTX Improves Video Quality 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet the Designer Creating Spaces Where NVIDIANs Do Their Life’s Work 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jensen Huang, Mark Zuckerberg to Discuss Future of Graphics and Virtual Worlds at SIGGRAPH 2024 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mile-High AI: NVIDIA Research to Present Advancements in Simulation and Gen AI at SIGGRAPH 
+
+
+
+
+
+ Stay up to date on the latest enterprise news.Thank you for subscribing.* Professional Email AddressSubscribe NowUnsubscribe at any time. Read the NVIDIA Privacy Policy.
+
+
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/', 'url': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/', 'name': 'What Is a Transformer Model? | NVIDIA Blogs', 'isPartOf': {'@id': 'https://blogs.nvidia.com/#website'}, 'primaryImageOfPage': {'@id': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/#primaryimage'}, 'image': {'@id': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/#primaryimage'}, 'thumbnailUrl': 'https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-model-KV-x1280-FINAL.jpg', 'datePublished': '2022-03-25T12:58:27+00:00', 'dateModified': '2024-06-26T18:43:22+00:00', 'author': {'@id': 'https://blogs.nvidia.com/#/schema/person/175fa65fee5d61a7eec9c1672beea477'}, 'description': 'A transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.', 'breadcrumb': {'@id': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://blogs.nvidia.com/blog/what-is-a-transformer-model/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/#primaryimage', 'url': 'https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-model-KV-x1280-FINAL.jpg', 'contentUrl': 'https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-model-KV-x1280-FINAL.jpg', 'width': 1280, 'height': 682, 'caption': 'transformer model'}, {'@type': 'BreadcrumbList', '@id': 'https://blogs.nvidia.com/blog/what-is-a-transformer-model/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://blogs.nvidia.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'What Is a Transformer Model?'}]}, {'@type': 'WebSite', '@id': 'https://blogs.nvidia.com/#website', 'url': 'https://blogs.nvidia.com/', 'name': 'NVIDIA Blog', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://blogs.nvidia.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://blogs.nvidia.com/#/schema/person/175fa65fee5d61a7eec9c1672beea477', 'name': 'Rick Merritt', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://blogs.nvidia.com/#/schema/person/image/470d3993382b1ef48ef6983766bcd885', 'url': 'https://blogs.nvidia.com/wp-content/uploads/2022/08/rick-merritt-96x96.jpg', 'contentUrl': 'https://blogs.nvidia.com/wp-content/uploads/2022/08/rick-merritt-96x96.jpg', 'caption': 'Rick Merritt'}, 'description': 'Rick Merritt is a staff writer at NVIDIA. Previously, he worked as a reporter and editor at ""EE Times"" for 28 years and served as managing editor of ""Asian Computer Monthly"" based in Hong Kong.', 'url': 'https://blogs.nvidia.com/blog/author/rickmerritt/'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmJ1cmRhLmNvbS9lbi9uZXdzL2pvdXJuYWxpc20tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,Focus Online: Journalism & artificial intelligence | Burda News - Hubert Burda Media,2022-03-25,Hubert Burda Media,https://www.burda.com,"Since autumn 2020, BurdaForward (including Focus Online, Chip.de, TV Spielfilm Online, Bunte.de) has been using artificial intelligence to make its news content more constructive.",N/A,"Since autumn 2020, BurdaForward (including Focus Online, Chip.de, TV Spielfilm Online, Bunte.de) has been using artificial intelligence to make its news content more constructive.",N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL3RlY2gvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWNsZXMvd2hhdC1pcy1uYXJyb3ctYWkv0gFTaHR0cHM6Ly93d3cuc3BpY2V3b3Jrcy5jb20vdGVjaC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9hcnRpY2xlcy93aGF0LWlzLW5hcnJvdy1haS8?oc=5,"Narrow Artificial Intelligence Definition, Challenges, Best Practices - Spiceworks Inc - Spiceworks News and Insights",2022-03-22,Spiceworks News and Insights,https://www.spiceworks.com,"Artificial narrow intelligence is a weak form of AI capable of performing a specific, singular task exceptionally well.",Narrow AI,"Artificial narrow intelligence is a weak form of AI capable of performing a specific, singular task exceptionally well.",N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Vijay Kanade
+
+
+
+					AI Researcher				
+
+
+
+
+March 22, 2022
+
+
+
+
+ 
+
+
+
+
+
+Artificial narrow intelligence (ANI) is defined as the goal-oriented version of AI designed to better perform a single task such as tracking weather updates, generating data science reports by analyzing raw data, or playing games such as poker, chess, etc. This article explains the fundamentals of narrow AI, its key advantages and challenges, and the top 10 best practices for narrow AI development.
+
+Table of Contents 
+
+What Is Narrow Artificial Intelligence?
+Advantages and Challenges of Narrow AI
+Top 10 Best Practices for Narrow AI Development
+
+
+What Is Narrow Artificial Intelligence?
+Artificial narrow intelligence (ANI) refers to the goal-oriented version of AI designed to better perform a single task such as tracking weather updates, generating data science reports by analyzing raw data, or playing games such as poker, chess, etc.
+Narrow Artificial Intelligence
+Artificial narrow intelligence systems are programmed to attend one task at a time by pulling in information from a specific dataset. In other words, such systems do not go beyond the assigned tasks.
+Unlike general AI, narrow AI lacks self-awareness, consciousness, emotions, and genuine intelligence that can match human intelligence. While such systems may appear sophisticated and intelligent, they operate under a predetermined and predefined set of parameters, constraints, and contexts.
+The machine intelligence that surrounds us today is a part of the same narrow AI. Examples include Google Assistant, Siri, Google Translate, and other natural language processing tools. Although these tools can interact with us and process and comprehend human language, they are termed as weak AI as they lack the fluidity or flexibility to think for themselves as humans do. 
+Let’s consider Siri. It is not a conscious machine. Instead, it is only a tool performing tasks. When we converse with Siri, it processes the human language, enters it into the system’s search engine like Google, and provides results.
+When someone poses abstract questions such as how to handle a personal problem or deal with a traumatic experience to tools like Alexa or Google Assistant, they either give vague responses that lack sense or provide links to articles on the internet that presumably address the issue at hand. 
+On the contrary, when we ask a fundamental question such as “what is the temperature outside”, we tend to get an accurate response from virtual assistants such as Siri. This is because answering such basic questions is within the range of Siri’s intelligence for which it is designed.
+Moreover, even something as complex as self-driving cars falls under weak AI, as they are trained to navigate the surrounding area with the help of an annotated driving dataset. A typical self-driving vehicle comprises multiple ANI systems that are critical for its smooth movement in a highly complex urban environment.
+See More: What Is Artificial Intelligence (AI) as a Service? Definition, Architecture, and Trends
+Advantages and Challenges of Narrow AI
+Current AI and intelligent machines come under the ‘weak AI’ category. However, this does not discount the benefits of narrow AI, as it is one of the most significant human innovations and intellectual accomplishments.
+First, let’s understand the advantages of narrow AI.
+Advantages of Narrow AI
+1. Facilitates faster decision making
+Artificial narrow intelligence systems facilitate faster decision-making as they process data and complete tasks significantly quicker than humans. As a result, they allow us to boost overall productivity & efficiency and thereby improve the quality of life. For example, artificial narrow intelligence systems such as IBM’s Watson assist doctors in making quick data-driven decisions by harnessing the power of AI. This has made healthcare better, faster, and safer than ever before.
+2. Relieves humans from mundane tasks
+Developments in narrow AI have ensured that humans are relieved from several dull, routine, and mundane tasks. It has made our day-to-day lives easier, right from ordering food online with the help of Siri to reducing the effort of analyzing volumes of data to produce results.
+Additionally, technologies such as self-driving cars have relieved us from the stress and burden of being stuck in traffic for long and instead provided us with more leisure time to carry out activities or tasks of our interests.
+3. Serves as a building block for the development of more intelligent AI
+Artificial narrow intelligence systems serve as the foundation for the eventual development of more intelligent AI versions such as general AI and super AI. Speech recognition allows computers to convert sounds to text with significant accuracy, while computer vision enables the recognition and classification of objects in video streams. Currently, Google is using AI to caption millions of YouTube videos.
+Today, AI-powered computer vision is already used to unlock screens and tag friends online. Concurrently, the autonomous vehicle sector is exploring the field of ‘affective AI’ where the system can learn non-verbal nuances (feelings, emotions), and prompt sleepy truck drivers to stay alert and pay attention while driving. All these foundational technologies are only paving the way for future self-aware and conscious versions of AI.
+4. Performs single tasks better than humans
+Narrow AI systems can perform single tasks far better than humans. For example, a narrow AI system programmed to detect cancer from X-ray or ultrasound images might be able to quickly spot a cancerous mass in a set of images with substantially higher accuracy as compared to a trained radiologist.
+Another example is that of a predictive maintenance system used at manufacturing plants. The system collects and analyzes incoming sensor data in real-time to predict whether a machine is about to fail. Narrow AI automates this task. The entire process is much quicker and is virtually impossible for an individual or group of individuals to match as far as speed and accuracy are concerned.
+The overall performance, speed, and accuracy of narrow AI supersede that of human beings. That being said, the AI community faces several critical challenges in broadening the scope of narrow AI.
+Now, let’s go over the challenges that narrow AI faces. 
+Challenges of Narrow AI
+1. Absence of explainable AI
+One of the essential requirements for the progress of artificial intelligence is the practice of creating AI that is less of a black box. This implies that we must be better positioned to understand what’s happening in neural networks. Today’s AI systems, such as one recommending books to read, employ the black-box approach effectively. The deep learning algorithm used in such cases considers millions of data points as inputs and correlates specific features to provide a result. The underlying process is self-directed and challenging for programmers and experts in the domain to interpret.
+However, when people are making high-stake business decisions that involve huge investments by relying on AI models, such a black-box approach can be detrimental as the inputs and operations of the system are not visible to the concerned parties. Thus, one of the key challenges is creating more explainable AI devoid of the black-box approach.
+2. Need for impenetrable security
+Neural networks are exploited extensively by narrow AI. However, it is vital to understand that AI is quite fragile– it is possible to inject noise and fool the system. For example, an attacker can hack into the software system of autonomous cars and change the AI program code so that the program may mistake a bus on the road for an elephant. This can have serious implications and ramifications. A hacker can also hijack the entire network of autonomous vehicles operating in an area and eventually wipe out a billion-dollar investment.
+Moreover, a single intrusion into a neural network can disrupt the operations of several systems reliant on that same network. Additionally, as neural networks are subject to attacks, providing impenetrable security remains a crucial challenge.
+3. Need to learn from small data
+AI models are trained on data derived from examples–implying that examples are the real currency to today’s AI. For AI to evolve further, it must be prepared to learn more from less data. AI should be able to transfer its learning from one neural network to other networks by leveraging prior knowledge.
+AI blends learning and reasoning. Although today’s AI has made significant progress in learning and accumulating knowledge, applying reason to that knowledge remains a challenge. For example, a retailer’s customer service chatbot could answer questions related to store hours, product prices, and the store’s cancellation policies. 
+However, a tricky question about why product X is better than a similar product Y may freeze the bot. Although creators can program bots to answer such questions, teaching an AI to apply reasoning by itself remains a problem for most scientists and experts.
+4. Prone to bias
+Today’s AI systems are prone to bias as they often give incorrect results without a plausible explanation. Complex AI models are continually trained on vast amounts of data that contain biases or inaccurate information. As a result, a model trained on such a biased dataset could consider the incorrect information trustworthy and make skewed predictions.
+As AI systems learn from past examples, consider a system responsible for making credit decisions. The system might consider ‘not offering credit to women or minorities’ as appropriate based on previous patterns. Thus, verifying and inspecting that the examples used by the system are free of biases remains a critical challenge.
+Moreover, as narrow AI lacks the ‘common sense’ aspect, or a sense of fairness and equity, handling training bias requires substantial planning and design work.
+5. Subject to human failings
+Narrow AI largely relies on humans to put to task. Hence, it is prone to human failings, such as people setting overly ambitious business targets or prioritizing tasks incorrectly.
+Consider a situation where a human wrongly defines a task. In this case, irrespective of how long a machine works or the number of computations it performs, the end result will still be a false conclusion. Therefore, narrow AI’s reliance on fallible humans is a huge challenge for experts in the domain.
+See More: Top 10 Machine Learning Algorithms
+Top 10 Best Practices for Narrow AI Development in 2022
+AI development is contributing immensely to improving people’s lives around the world, right from business operations, aviation, manufacturing, healthcare to education. As AI systems become an integral part of every industry vertical, discussions on the best ways to incorporate fairness, interpretability, privacy, and security into these systems are being opened up.
+Here are the top 10 best practices for narrow AI development. 
+Best Practices for Narrow AI Development
+1. Have a human-centric design approach
+The true impact of an AI system’s predictions, recommendations, and decisions can be evaluated by factoring in how actual end-users experience the system. The following routines can be considered to keep a check on your narrow AI development:
+
+Use augmentation and assistance as needed. While addressing several users, AI systems can consider producing a single answer in situations where the solution is highly likely to satisfy a diverse set of users and use cases. It may be appropriate to suggest a few options to end-users in other cases.
+Before diving into full deployment, potential adverse feedback can be incorporated into the design process. This can be followed by live testing and iteration for smaller traffic.
+Involve a diverse set of users and consider multiple use-case scenarios that allow you to incorporate feedback throughout the project development cycle. Such practice considers a variety of user perspectives while building an AI project, thereby increasing the number of people who can benefit from the technology.
+
+2. Consider metrics to assess training and monitoring
+To understand the tradeoffs between several errors and user experiences of the AI system, one should consider several essential metrics rather than opting for a single one.
+
+The metrics can include feedback from user surveys, variables that track overall system performance, factors that keep a check on short- and long-term product health such as users’ click-through rate, and quantities that monitor false positive and false negative rates across different categories of the AI product.
+One must ensure that the metrics selected are based on the context and goals of the AI system. For example, a fire alarm system should have high recall values, irrespective of whether the system returns occasional false alarms.
+
+3. Ensure periodic examination of raw data
+Analyzing raw data can help you better understand the working of ML models as they reflect the data that they are trained on. In cases where sensitive raw data is concerned, you can instead focus on understanding the input data while respecting privacy.
+
+By examining raw data, you can ascertain whether the data contains any missing values or incorrect labels. You can figure out whether the information is sampled in a manner that represents all the users (i.e., users of all ages) of your AI system.
+Determining performance during training and serving is a persistent challenge. Thus, during the training phase, you should look for possible skews and address them immediately, including adjusting the training data or restructuring the objective function.
+Data bias should be addressed by thoroughly analyzing the raw data going into the AI system.
+
+4. Consider the limitations of the AI dataset and model
+Understanding the limitations of the dataset and AI model is vital to keep track of the loopholes of narrow AI.
+
+A correlation detecting AI model should not be used to make inferences. For example, your AI model may learn that people who buy running shoes are mostly overweight. However, this does not mean that a user who buys a pair of running shoes will become overweight.
+ML models predominantly work on training data. Hence, it is important to clarify the scope and coverage of training. For example, a chair detector trained with stock photos will work fine. However, the model might falter when tested with cellphone photos clicked by users.
+Limitations should be communicated to end-users. For example, if your app uses ML to recognize specific butterflies, you must communicate that the model was trained on a small set of images taken from a particular region. By informing users, you would increase your chances of receiving better feedback for the feature or application you provided.
+
+5. Ensure the AI system works as intended by performing tests
+To ensure that the designed AI system works as intended and can be trusted, you must undertake quality test practices.
+
+Unit tests should be conducted to test each component of the AI system in isolation.
+Conducting integration tests will enable you to learn how individual ML components interact with other system components.
+Conduct iterative user tests to incorporate users’ needs in the AI product development cycles.
+Build quality checks into the system to avoid triggering an immediate response in situations of unintended system failures. For example, if an important feature unexpectedly goes down for a predictive AI model, the AI system may refrain from generating an output prediction.
+
+6. Regularly monitor and update the AI system post-deployment
+Regular monitoring will ensure that the AI model considers real-world performances and incorporates user feedback to update the AI system.
+
+The AI product should have a clear roadmap that allows it to buy time to address and fix any issues.
+Fixing issues for both the short and long term is crucial for AI systems. A short-term fix of blocklisting may offer a quick solution; however, it might not fare well in the long run. Hence, balancing short- and long-term fixes can be better than focusing on just one.
+Understanding how the update may affect the overall system quality and user experience is essential. Hence, before jumping into the updates, you must analyze and understand the difference between the candidate and deployed models.
+
+7. Ensure fairness
+Today, AI systems are used across industry sectors to perform critical tasks such as predicting the severity of a medical condition and matching profiles to jobs or marriage partners. The risk here is that any unfairness in such computerized decision-making systems can have a wide-scale impact. Hence, as AI penetrates across societies, it is crucial to design a fair and inclusive model for all.
+
+Analyze how the technology will impact different users and use cases over time.
+Define goals that allow your AI system to work somewhat for diverse use cases. This can include designing certain features delivered in ‘A’ different languages or specific to ‘B’ other age groups.
+Structure the objective function and underlying algorithms that reflect the fairness goals of the AI system.
+Monitor the system regularly to check unfair biases learned by the ML models or algorithms over time.
+Evaluate user experiences across use cases, contexts, and real-world scenarios using TensorFlow Model Analysis tools.
+
+8. Consider interpretability
+Narrow AI systems have improved our lives as automated predictions and decision-making has become mainstream. This may relate to several examples, from music recommendations to monitoring a patient’s vital signs. Despite the proliferation of narrow AI across fields, interpretability is crucial to understand and trust AI systems. The following interpretability practices before, during, and after designing and training AI models can be considered.
+
+The AI team should work closely with relevant domain experts (e.g., healthcare, marketing, finance) to determine the required interpretability features.
+Identify post-training interpretability options. Also, determine if you have access to the internals of ML models (i.e., black-box or white-box).
+Determine whether you can analyze the training or testing data. For example, when working with sensitive and private data, you may not have access to the input data essential for investigation.
+Evaluate if your AI model offers too much transparency, which can potentially open up vectors for external abuse.
+Provide explanations regarding the interpretability of AI systems to appropriate model users; technical details may be communicated to industry experts and academia, while general users can be offered visualizations (charts, graphs, and statistics) or summary descriptions.
+
+9. Ensure privacy
+ML models are programmed to learn from training data and make subsequent predictions on input data. In some cases, both training and input data can be sensitive. Take the example of a tumor detector trained on biopsy images and deployed on an individual patient’s tumor scans. Here, it is crucial to consider the privacy implications while handling sensitive data. It may include legal and regulatory requirements, social ethics, and the patient’s expectations.
+
+Conduct tests using metrics such as exposure measurement or membership inference assessment to determine whether the AI model unintentionally memorizes or exposes sensitive data. Moreover, the metrics can also be used for regression tests later during model maintenance.
+To understand the tradeoffs and determine the optimal model settings, experimentation with variables and parameters for data minimization (such as aggregation, outlier thresholds, and randomization factors) may be considered.
+
+10. Provide security
+Security of AI systems involves determining whether the system is behaving as intended, irrespective of how attackers try to interfere. Addressing the security of an AI system before entirely relying on it is essential for safety-critical applications.
+
+Identify all possible attack vectors by building a rigorous threat model. For example, the threat model should be able to identify a bug in the AI system that allows an attacker to change the input to the ML model, which can make it vulnerable.
+If the system makes a mistake, you need to identify unintended consequences and assess the likelihood and severity of these consequences.
+Develop methods such as spam filtering to combat adversarial ML. Also, test the system performance in hostile settings using tools such as CleverHans.
+
+See More: AI Job Roles: How to Become a Data Scientist, AI Developer, or Machine Learning Engineer 
+Takeaway
+Today, almost every industry has embraced narrow AI as it achieves superhuman accuracy and performance when accomplishing specific tasks. Factors such as robust IoT connectivity, the proliferation of connected devices, and faster computing realms have propelled the progression of AI systems. While current AI outperforms humans, the challenge now is how narrow AI can evolve into a broader form of general and super AI. Only time will tell how AI masters cross-domain tasks by building new neural networks from scratch while it switches from one domain to another.
+Do you think weak AI will ever become strong AI? Comment below or let us know on LinkedInOpens a new window , TwitterOpens a new window , or FacebookOpens a new window . We’d love to hear from you!
+MORE ON ARTIFICIAL INTELLIGENCE
+
+What Is Artificial Intelligence (AI)? Definition, Types, Goals, Challenges, and Trends in 2022
+
+What Is Super Artificial Intelligence (AI)? Definition, Threats, and Trends
+What Is General Artificial Intelligence (AI)? Definition, Challenges, and Trends
+Top 10 AI Companies in 2022
+How Is AI Changing the Finance, Healthcare, HR, and Marketing Industries 
+
+
+
+
+
+
+
+
+								                  artificial intelligence										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Vijay Kanade
+
+				                  AI Researcher	                          
+
+
+ opens a new window 
+
+
+
+ opens a new window
+  	
+					Vijay A. Kanade is a computer science graduate with 7+ years of corporate experience in Intellectual Property Research. He is an academician with research interest in multiple research domains. His research work spans from Computer Science, AI, Bio-inspired Algorithms to Neuroscience, Biophysics, Biology, Biochemistry, Theoretical Physics, Electronics, Telecommunication, Bioacoustics, Wireless Technology, Biomedicine, etc. He has published about 30+ research papers in Springer, ACM, IEEE & many other Scopus indexed International Journals & Conferences. Through his research work, he has represented India at top Universities like Massachusetts Institute of Technology (Cambridge, USA), University of California (Santa Barbara, California), National University of Singapore (Singapore), Cambridge University (Cambridge, UK). In addition to this, he is currently serving as an 'IEEE Reviewer' for the IEEE Internet of Things (IoT) Journal.			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmVwcGdyb3VwLmV1L25ld3Nyb29tL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWNhbi1pbmNyZWFzZS1ldXJvcGVhbi1wcm9kdWN0aXZpdHnSAQA?oc=5,Artificial Intelligence can increase European productivity by 11 to 37% by 2035 - EPP Group in the European Parliament,2022-03-22,EPP Group in the European Parliament,https://www.eppgroup.eu,"""Parliament’s Report shows that Artificial Intelligence (AI) will boost digitalisation and be a game-changer for global digital competition. The EU will be able to take the lead in AI"", said Axel Voss MEP, commenting on the final Report of the E...",N/A,"""Parliament’s Report shows that Artificial Intelligence (AI) will boost digitalisation and be a game-changer for global digital competition. The EU will be able to take the lead in AI"", said Axel Voss MEP, commenting on the final Report of the E...","""Parliament’s Report shows that Artificial Intelligence (AI) will boost digitalisation and be a game-changer for global digital competition. The EU will be able to take the lead in AI"", said Axel Voss MEP, commenting on the final Report of the E...",N/A,N/A,"
+""Parliament’s Report shows that Artificial Intelligence (AI) will boost digitalisation and be a game-changer for global digital competition. The EU will be able to take the lead in AI"", said Axel Voss MEP, commenting on the final Report of the European Parliament’s Special Committee on Artificial Intelligence.
+Voss spearheaded the Report which is due to be adopted by the committee later today. The Committee on Artificial Intelligence was set up in 2020 to present a roadmap of the steps the EU needs to take in order to respond to the economic and societal challenges of AI. The final Report highlights the need for the EU to act swiftly in order to harness the opportunities that AI technologies have to offer.
+Voss sets out solutions that AI can unlock, for instance, in the health sector, which could save and improve millions of lives, like speeding up the development of new drugs, tailored treatments and drug development specific to patients. AI can also play a significant role in the labour market by replacing mundane, labour-intensive or dangerous tasks, and thereby creating new and higher value-added employment. If combined with the necessary support infrastructure and training, AI can substantially increase European productivity by 11 to 37 percent by 2035, says Voss’ Report.
+""The EU has the unique opportunity to promote a human-centric and trustworthy approach to AI, based on fundamental rights and minimising risk while taking full advantage of the benefits AI can bring to society as a whole - including in healthcare, sustainability, the labour market, competitiveness and security"", stressed Voss.
+However, AI also brings challenges that the EU needs to address. The EPP Group wants a legal framework that prevents unlawful surveillance, the spread of disinformation and the use of social scoring - as used in countries such as China.
+“There are also significant threats if authoritarian states such as China and Russia beat us to the technological punch. But with enough political will, financial investment and legal certainty I believe we can attract investment and foster world-leading innovation”, said Eva Maydell MEP, the EPP Group’s Spokeswoman in the Special Committee.
+In recent years, the EU has fallen behind in the global AI race. However, the EU possesses a key advantage in its experience of standard setting. The EPP Group wants a harmonised, flexible and risk-based regulatory environment, while preventing unnecessary administrative barriers for SMEs and start-ups.
+""We need a legal framework that responds to four challenges: we must leave space for innovation, harmonise the digital market with clear standards, maximise investment, and put in place a robust and sustainable digital infrastructure accessible to all citizens”, stressed Voss.
+Today’s final Report will be submitted to the Parliament’s plenary in May.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDMyMjAwNTQ5Ny9lbi9QaGVub20tQUktUmVjZWl2ZXMtQXJ0aWZpY2lhbC1JbnRlbGxpZ2VuY2UtRXhjZWxsZW5jZS1Bd2FyZC1mb3ItMm5kLUNvbnNlY3V0aXZlLVllYXLSAQA?oc=5,Phenom AI Receives Artificial Intelligence Excellence Award for 2nd Consecutive Year - Business Wire,2022-03-22,Business Wire,https://www.businesswire.com,"Phenom, the global leader in Talent Experience Management (TXM), has been awarded a 2022 Artificial Intelligence Excellence Award from Business Intell",N/A,"Phenom, the global leader in Talent Experience Management (TXM), has been awarded a 2022 Artificial Intelligence Excellence Award from Business Intell","Phenom, the global leader in Talent Experience Management (TXM), has been awarded a 2022 Artificial Intelligence Excellence Award from Business Intell",N/A,N/A,"
+
+
+
+
+Phenom AI Receives Artificial Intelligence Excellence Award for 2nd Consecutive Year
+
+
+
+
+
+
+AI, Automation and Machine Learning Technology Continues to Transform HR Industry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download
+
+
+
+
+
+
+
+Phenom, the global leader in Talent Experience Management (TXM), has been awarded a 2022 Artificial Intelligence Excellence Award from Business Intelligence Group. (Graphic: Business Wire)
+
+
+
+
+
+
+
+
+
+
+
+
+Phenom, the global leader in Talent Experience Management (TXM), has been awarded a 2022 Artificial Intelligence Excellence Award from Business Intelligence Group. (Graphic: Business Wire)
+
+
+
+
+
+Full Size
+
+
+
+
+
+
+
+
+Small
+
+
+
+
+
+
+
+
+Preview
+
+
+
+
+
+
+
+
+Thumbnail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full Size
+
+
+
+
+
+
+
+
+Small
+
+
+
+
+
+
+
+
+Preview
+
+
+
+
+
+
+
+
+Thumbnail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March 22, 2022 09:00 AM Eastern Daylight Time
+
+
+
+PHILADELPHIA--(BUSINESS WIRE)--Phenom, the global leader in Talent Experience Management (TXM), has been awarded a 2022 Artificial Intelligence Excellence Award from Business Intelligence Group. This is the second consecutive year that Phenom AI was recognized for its machine learning capabilities.
+
+“Artificial Intelligence is now playing a major role in our lives as the technology expands”Post this
+
+Phenom has helped hundreds of customers successfully adopt AI and automation, applying it across all areas of the talent lifecycle. As a result, candidates find the right job faster; employees learn and evolve; recruiters discover best-fit talent with efficiency and at scale; and hiring managers make stronger data-driven decisions to build their future teams.
+
+“In today’s ultra-competitive talent landscape, we are equipping HR teams with the advanced AI, automation and machine learning technology they need to recruit best-fit candidates while retaining employees and empowering their growth,” said Kumar Ananthanarayana, executive director of product management at Phenom. “This recognition further underscores the work we’ve done in developing our AI to help one billion people find the right job.”
+
+With the national quit rate at its highest level in over 20 years, Phenom has helped its customers address complex shifts in attracting, engaging and retaining employees. Phenom’s AI-based experience platform empowers employees to expand their current skills and develop new ones by recommending internal, personalized jobs — allowing them to picture their future in a company through intelligent career pathing
+
+“Artificial Intelligence is now playing a major role in our lives as the technology expands,” said Maria Jimenez, chief nominations officer for Business Intelligence Group. “We are so proud that such an incredible group of companies won this year’s program. Congratulations to all the creativity and hard work of all every employee involved.”
+
+Phenom recently hosted the HR industry’s only AI Day, demonstrating how HR professionals are using systems of intelligence to hire, develop and retain both knowledge and hourly workers. To learn all the ways AI can help HR, visit ai.phenom.com.
+
+About Phenom
+Phenom is a global HR technology company with a purpose to help a billion people find the right job. With an expertise in building AI-powered, scalable solutions, Phenom Talent Experience Management (TXM) personalizes and automates the talent journey for candidates, recruiters, employees and managers with its Career Site, Chatbot, CRM, CMS, SMS and Email Campaigns, University Recruiting, Internal Mobility, Career Pathing, Diversity & Inclusion, Talent Marketplace, Gigs, Referrals, Hiring Manager and Analytics. As a result, employers improve their talent acquisition and talent management efforts by helping candidates find the right job, employees grow and evolve, recruiters discover top talent, and managers build teams faster. Phenom was a winner in the Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards program for its sophisticated machine learning capabilities and was ranked among the fastest-growing private companies in the 2021 Inc. 5000.
+
+Headquartered in Greater Philadelphia, Phenom also has offices in India, Israel, the Netherlands, Germany and the United Kingdom.
+
+For more information, please visit www.phenom.com. Connect with Phenom on LinkedIn, Twitter, Facebook, YouTube and Instagram.
+
+
+
+Contacts
+
+Media:
+Dan Norton, Public Relations Manager, Phenom
+dan.norton@phenompeople.com 
+267-270-5630
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMipQFodHRwczovL25ld3MudmFuZGVyYmlsdC5lZHUvMjAyMi8wMy8yNC9jb2FjaGluZy10aHJvdWdoLXRlY2hub2xvZ3ktdmFuZGVyYmlsdC1yZXNlYXJjaGVycy11c2UtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8taGVscC1iYXNrZXRiYWxsLXBsYXllcnMtaW1wcm92ZS10aGVpci1zaG90cy_SAQA?oc=5,Coaching Through Technology: Vanderbilt researchers use artificial intelligence to help basketball players improve ... - Vanderbilt University News,2022-03-24,Vanderbilt University News,https://news.vanderbilt.edu,"To shoot a basketball with precision requires countless hours of practice, usually under the watchful eye of a coach providing guidance on the right mechanics of each shot. Now, thanks to new research from Vanderbilt University, players may soon be able to use artificial intelligence technology to work on those same principles on their own.&nbsp;","artificial intelligence, basketball, Carlos Olea, Department Computer Science and Engineering, Engineering and Technology, Graduate School, Jules White, myVU, myVU News, NOAH Basketball, Research, Research, vuhome-video","To shoot a basketball with precision requires countless hours of practice, usually under the watchful eye of a coach providing guidance on the right mechanics of each shot. Now, thanks to new research from Vanderbilt University, players may soon be able to use artificial intelligence technology to work on those same principles on their own. ","To shoot a basketball with precision requires countless hours of practice, usually under the watchful eye of a coach providing guidance on the right mechanics of each shot. Now, thanks to new research from Vanderbilt University, players may soon be able to use artificial intelligence technology to work on those same principles on their own. ",N/A,N/A,N/A,http://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://news.vanderbilt.edu/2022/03/24/coaching-through-technology-vanderbilt-researchers-use-artificial-intelligence-to-help-basketball-players-improve-their-shots/'}",Coaching Through Technology: Vanderbilt researchers use artificial intelligence to help basketball players improve their shots,"24 Mar, 2022","24 Mar, 2022","{'@type': 'Person', 'name': 'Celeste Malone'}","{'@type': 'Organization', 'name': 'Vanderbilt University', 'logo': {'@type': 'ImageObject', 'url': 'http://news.vanderbilt.edu/i/VU-Square.jpg', 'height': '423', 'width': '438'}}","{'@type': 'ImageObject', 'url': 'https://cdn.vanderbilt.edu/vu-news/files/20230520091228/GettyImages-1328160458-1.jpg', 'height': '457', 'width': '764'}",,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvb3Bpbmlvbi8yMDIyLzAzLzIyL2NvbW1lbnRhcnkvZGFuZ2Vyb3VzLWFpL9IBAA?oc=5,Artificial intelligence gets scarier and scarier - The Japan Times,2022-03-22,The Japan Times,https://www.japantimes.co.jp,AI technologies are the most powerful tools that have been developed in generations — perhaps even in human history — and with such advancements come a magnitude of dangers.,"defense,computers,AI,future",AI technologies are the most powerful tools that have been developed in generations — perhaps even in human history — and with such advancements come a magnitude of dangers.,AI technologies are the most powerful tools that have been developed in generations — perhaps even in human history — and with such advancements come a magnitude of dangers.,COMMENTARY,N/A,N/A,https://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.japantimes.co.jp/opinion/2022/03/22/commentary/dangerous-ai/'}",Artificial intelligence gets scarier and scarier,1970-01-01T09:00:00+09:00,2022-03-22T10:24:27+09:00,"[{'@type': 'Person', 'name': 'Brad Glosserman'}]","{'@type': 'Organization', 'name': 'The Japan Times', 'url': 'https://www.japantimes.co.jp/', 'sameAs': ['https://twitter.com/japantimes', 'https://www.facebook.com/thejapantimes', 'https://www.instagram.com/thejapantimes/?hl=en', 'https://www.linkedin.com/company/the-japan-times'], 'logo': {'@type': 'ImageObject', 'url': '/theme_japantimes/images/logo.svg', 'width': 270, 'height': 57}}","{'@type': 'ImageObject', 'url': 'https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/03/np_file_148408.jpeg'}",1970-01-01T09:00:00+09:00,https://www.japantimes.co.jp/opinion/2022/03/22/commentary/dangerous-ai/,COMMENTARY,en,https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/03/np_file_148408.jpeg,"Readers beware: Halloween comes early this year. This is a scary column.It is impossible to overestimate the importance of artificial intelligence. It’s “world altering,” concluded the U.S. National Security Commission on Artificial Intelligence last year, since it is an enabling technology akin to Thomas Edison’s description of electricity: “a field of fields ... it holds the secrets which will reorganize the life of the world.”While the commission also noted that “No comfortable historical reference captures the impact of artificial intelligence (AI) on national security,” it’s rapidly becoming clear that those ramifications are far more extensive — and alarming — than experts had imagined. It is unlikely that our awareness of the dangers is keeping pace with the state of AI. Worse, there are no good answers to the threats it poses.","{'@type': 'Organization', 'name': 'The Japan Times', 'url': 'https://www.japantimes.co.jp/'}",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS9jLzIyOTI3ODExL2hvdy1kb2VzLWFuLWFsZ29yaXRobS1tYWtlLWEtbWVkaWNhbC1kZWNpc2lvbtIBAA?oc=5,Here's how an algorithm guides a medical decision - The Verge,2022-03-23,The Verge,https://www.theverge.com,Sepsis Watch helps flag a potentially deadly reaction to infection,"['Front Page', 'Science', 'Health', 'Featured Stories']",It’s important to examine them carefully.,It’s important to examine them carefully.,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+Here’s how an algorithm guides a medical decision
+Sepsis Watch helps flag a potentially deadly reaction to infection
+
+By Nicole Wetsman | Mar 23, 2022, 8:30am EDT
+Illustrations by Grayson Blackmon
+
+
+
+
+
+
+
+Artificial intelligence algorithms are everywhere in healthcare. They sort through patients’ data to predict who will develop medical conditions like heart disease or diabetes, they help doctors figure out which people in an emergency room are the sickest, and they screen medical images to find evidence of diseases. But even as AI algorithms become more important to medicine, they’re often invisible to people receiving care. Artificial intelligence tools are complicated computer programs that suck in vast amounts of data, search for patterns or trajectories, and make a prediction or recommendation to help guide a decision. Sometimes, the way algorithms process all of the information they’re taking in is a black box — inscrutable even to the people who designed the program. But even if a program isn’t a black box, the math can be so complex that it’s difficult for anyone who isn’t a data scientist to understand exactly what’s going on inside of it. Patients don’t need to understand these algorithms at a data-scientist level, but it’s still useful for people to have a general idea of how AI-based healthcare tools work, says Suresh Balu, program director at the Duke Institute for Health Innovation. That way, they can understand their limitations and ask questions about how they’re being used. Some patients can get a little jumpy when they hear algorithms are being used in their care, says Mark Sendak, a data scientist at the Duke Institute for Health Innovation. “People get really scared and nervous, and feel threatened by the algorithms,” he says. Those patients can be nervous about how hospitals are using their data or concerned that their medical care is being directed by computers instead of their doctors. Understanding how algorithms work — and don’t work — may help alleviate those concerns. Right now, healthcare algorithms have very narrow uses: a computer program isn’t going to make major medical decisions, but it might help a doctor decide whether a set of medical scans needs closer scrutiny. To help demystify the AI tools used in medicine today, we’re going to break down the components of one specific algorithm and see how it works. We picked an algorithm that flags patients in the early stages of sepsis — a life-threatening complication from an infection that results in widespread inflammation through the body. It can be hard for doctors to identify sepsis because the signs are subtle, especially early on, so it’s a common target for artificial intelligence-based tools. This particular program also uses mathematical techniques, like neural networks, that are typical of medical algorithms.  The algorithm we’re looking at underpins a program called Sepsis Watch, which Sendak and Balu helped develop at Duke University. Sepsis Watch went online in 2018 after around three years of development. Today, when someone is hospitalized at a Duke hospital, the program could be keeping an eye on them. Here’s what it’d be doing.
+
+
+
+
+
+
+
+
+Many factors play into a person’s risk of developing sepsis, including age, immune-compromising health conditions, and length of hospital stay. Signs from all over the body can tell a doctor when it may be occurring, including things like blood pressure, heart rate, and body temperature.In order to make a prediction, the Sepsis Watch program first needs consistent data about a patient.
+
+
+
+
+
+
+
+
+Let’s take a hypothetical patient, Alex — a 58-year-old hospitalized with an infection. Some of Alex’s data is easy to capture and feed into the program, like their age, preexisting conditions (kidney disease) or previous medications (cholesterol medication) — which won’t change while they’re in the hospital bed.
+
+
+
+
+
+
+
+
+But other metrics are more dynamic. Alex’s blood pressure can change through the course of the day. So could their oxygen levels, heart rate, or glucose levels. And not all of those things are measured at regular intervals.
+
+
+The program, though, doesn’t care if it’s unreasonable to expect a blood test on Alex every hour — it needs the data regardless. So the first step it takes is to fill in the gaps on those inconsistent metrics.
+
+
+It uses a method called a Gaussian process to do that.
+
+
+
+
+
+
+
+
+Say Alex only had their glucose levels measured at 2:30AM, 6AM, 3PM, and 9PM.
+
+
+
+
+
+
+
+
+The mathematical tool uses information from those measurements, as well as information about Alex’s other vital signs, to fill in the gaps.
+
+
+
+
+
+
+
+
+It figures out the best way to draw a line through all the existing data points, and adds in any missing numbers along that line. With a smooth line of evenly spaced data points in place, it can now see what Alex’s glucose level should have been at regular intervals throughout the day.
+
+
+
+
+
+
+
+
+All that data can now be packaged, and fed into the neural network.
+
+
+
+
+
+
+
+
+The neutral network underpinning Sepsis Watch is a complex series of algorithms that search for patterns in messy data. It’s made up of a series of “nodes” that each take in data, process it, and send it on to the next node before eventually spitting out an answer.
+
+
+
+
+
+
+
+
+Before it was put into use on patients, the neural network got extensive training. It was fed hundreds of examples of data from patients who had sepsis and patients who did not.
+
+
+
+
+
+
+
+
+Each time it received new data, the network refined the way it worked with that data until it could reliably pick out what patterns and combinations of data meant someone was likely to have sepsis.
+
+
+
+
+
+
+
+
+After that training, it’s ready to get real-time information from Alex. (These are just a few examples of the dozens of types of information it receives).
+
+
+
+
+
+
+
+
+Data gets fed into nodes of the neural network, which give different weights to the information.
+
+
+
+
+
+
+
+
+Each node gets additional information from a memory bank, where the neural network stores all the information it learned from previous times the program ran on Alex.
+
+
+
+
+
+
+
+
+For an analysis at 10PM, then, each node would also pull on the memory of the decisions it made at 9PM and 8PM for Alex.
+
+
+
+
+
+
+
+
+Multiple nodes make up each layer of the neural network
+
+
+
+
+
+
+
+
+And that all goes to the next layer, with its own nodes and memory banks
+
+
+
+
+
+
+
+
+And then to the next layer
+
+
+
+
+
+
+
+
+
+After the data is processed by that complex sequence of algorithms, the neural network spits out a score between 0 and 1 — a probability that Alex has sepsis at that particular moment in time. The closer the score is to 1, the more likely it is that Alex has sepsis.
+
+
+This is a simplification of an incredibly complex mathematical program that, in reality, is made up of dozens of nodes and built from detailed equations. But at the end of the day, it’s still giving doctors and nurses one simple number that can help them care for patients.
+
+
+
+
+
+
+
+
+
+
+
+Asking doctors and nurses to incorporate the Sepsis Watch alerts into their routines — and asking them to make choices and decisions based on what it told them — wasn’t a seamless process. The teams using the program had to figure out the best ways to communicate with each other about the information it gave them and how to adjust the way they engaged with patients and each other. At all stages, human choices played and continue to play a big role in how sepsis is managed. People choose what type of mathematical tools scaffold the program and what type of data trains it. People also have to decide on thresholds for what counts as a low, medium, or high risk of sepsis based on the output of the program.Doctors and nurses are still the ones making treatment decisions after a Sepsis Watch alert comes in. They call in prescriptions, monitor patients to see how they respond, and decide if and when they should keep using an algorithm to keep an eye on them. “At that level,” Balu says, “you’re relying on clinical judgment and clinical experience.”But so far, the effort to integrate Sepsis Watch seems to have been worth it: deaths from sepsis seem to be down at the Duke hospitals, and Duke is working on a more rigorous evaluation of how well the program contributed to that decline. That could make people more comfortable with the technology, too.Algorithms don’t fix problems in medicine. They’re human tools — they can reflect and exacerbate problems and bake in bias if the people developing the tools aren’t careful. But for better or worse, they’re going to be more and more ubiquitous. That’s why it’s so important to examine them carefully. “It’s important to have rigorous evaluations and validations,” Sendak says. “And to have transparency — about the data, about the performance, and about strengths and weaknesses.”
+
+
+
+
+",http://schema.org,,NewsArticle,https://www.theverge.com/c/22927811/how-does-an-algorithm-make-a-medical-decision,Here’s how an algorithm guides a medical decision,2022-03-23T12:30:00+00:00,2022-03-23T12:30:00+00:00,"[{'@type': 'Person', 'name': 'Nicole Wetsman'}]","{'@type': 'Organization', 'name': 'The Verge', 'logo': {'@type': 'ImageObject', 'url': 'https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668586/google_amp.0.png', 'width': 600, 'height': 60}}","[{'@type': 'ImageObject', 'url': 'https://cdn.vox-cdn.com/thumbor/VtmWjyRGpOHy4Mv5RkLqoh3ZKIM=/96x196:1955x1172/fit-in/1859x976/cdn.vox-cdn.com/uploads/chorus_asset/file/23335299/VRG_ILLO_5094_Sepsis_Home_Social_s.jpg', 'width': '2050', 'height': '1367'}]",,https://www.theverge.com/c/22927811/how-does-an-algorithm-make-a-medical-decision,front-page,,https://cdn.vox-cdn.com/thumbor/VtmWjyRGpOHy4Mv5RkLqoh3ZKIM=/96x196:1955x1172/fit-in/1859x976/cdn.vox-cdn.com/uploads/chorus_asset/file/23335299/VRG_ILLO_5094_Sepsis_Home_Social_s.jpg,,,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZW5hdGlvbmFsbmV3cy5jb20vdWFlLzIwMjIvMDMvMjIvdWFlcy1idXNpbmVzcy1sZWFkZXJzLWdyYWR1YXRlLWZyb20tbWJ6dWFpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXByb2dyYW1tZS_SAQA?oc=5,UAE's business leaders graduate from MBZUAI artificial intelligence programme - The National,2022-03-22,The National,https://www.thenationalnews.com,Pioneering course gave participants glimpse of how AI could be used in their organisations,"['story', 'standard']",Pioneering course gave participants glimpse of how AI could be used in their organisations,Pioneering course gave participants glimpse of how AI could be used in their organisations,N/A,N/A,"Artificial intelligence could soon be used to tailor UAE government employees’ working hours to their own personal productivity.The initiative, which is being studied by the Federal Authority for Government Human Resources, is one of a host of practical applications for AI in everyday life.On Tuesday, 41 business leaders who took a three-month course at Mohamed bin Zayed University for Artificial Intelligence celebrated their graduation.They were brimming with ideas of how to transform their places of work.It is an general artificial intelligence crash course for all topics. Eric Xing, MBZUAI PresidentShayma Al Awadhi is director of human resources at the management system Bayanati at the Federal Authority for Government Human Resources.She said she will use the skills gleaned on the course for a project of hers that measures employees’ productivity.“One of the main projects that I’m currently working on is an application called Motamaken, which basically is a productivity calculation platform that uses artificial intelligence to analyse your work trends,” Ms Al Awadhi said.“So, for example, you could be more productive after working hours, or you could be more productive during working hours, and what affects your productivity,” she said.The course aimed to support UAE government and business sectors. Participants were required to complete 12 rigorous weeks of coursework, lectures and collaborative project work.Dr Jamal Al Kaabi, undersecretary at the Department of Health in Abu Dhabi, joined the programme after the Covid-19 pandemic made him realise the potential of artificial intelligence.He believes wearable technology and AI could be crucial in providing home services and follow-up care for the elderly.The Mohamed bin Zayed University of Artificial Intelligence in Masdar City. Khushnum Bhandari / The National
+“We came across one important project, which was to utilise artificial intelligence to help us read X-rays for the patient because most of the physicians were busy during Covid-19,” Dr Al Kaabi said.“I’m a physician by education but I want to add knowledge as an undersecretary of the Department of Health.“I want to understand how I can use AI in the future, not only for diagnosis but also for treatment.”Dr Al Kaabi said remote follow-up could become widespread, with sensors used to feed data back to care services.“For example, having sensors on the legs of the elderly that can predict falls,” he said.The group are the first to graduate from this “executive programme”, which was delivered at weekends by MBZUAI instructors and international counterparts from Harvard University, the University of Oxford, MIT, Carnegie Mellon University and the University of California, Berkeley, among other prestigious institutions.It also featured visits to Abu Dhabi National Oil Company; Emirates Post; G42; DIFC FinTech Hive; the Federal Competitiveness and Statistics Centre; and Al Ain Zoo. Site visits were geared to demonstrate ways in which AI has been used in each organisation.“Right now, it is a general artificial intelligence crash course for all topics,” said Dr Eric Xing, president of MBZUAI.“But if we have a large demand at the same time from the healthcare sector or from the national security sector, then there will be a reprogramming. That’s something we are experimenting with.”Dr Sultan Al Jaber, Minister of Industry and Advanced Technology and chairman of the Board of Trustees of MBZUAI, said the programme demonstrates the UAE’s commitment to building a community of future innovators and leaders.Read More:MBZUAI welcomes business leaders to first artificial intelligence course“The skills and knowledge they have gained will enable them to incorporate innovative AI solutions within their organisations, enhancing their performance and competitiveness,” said Dr Al Jaber.“Integrating AI applications throughout organisations in the public and private sectors is an important step to achieving the vision of our nation’s leadership, as outlined in the UAE National Strategy for Artificial Intelligence 2031.”MBZUAI was established in 2019. Its aim is to attract students from around the world to study AI and support the UAE’s diversification.Admissions for the executive programme’s autumn intake are open. More information can be found at www.mbzuai.ac.ae.",http://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.thenationalnews.com/uae/2022/03/22/uaes-business-leaders-graduate-from-mbzuai-artificial-intelligence-programme/'}",UAE’s business leaders graduate from MBZUAI artificial intelligence programme,2022-03-22T15:04:45.074Z,2022-03-22T15:46:56.376Z,"[{'@type': 'Person', 'name': 'Shireena Al Nowais', 'url': 'https://www.thenationalnews.com/topics/Author/shireena-al-nowais/'}]","{'@context': 'http://schema.org', '@type': 'Organization', 'name': 'The National', 'url': 'https://www.thenationalnews.com', 'sameAs': ['https://www.facebook.com/TheNationalNews', 'https://x.com/TheNationalNews', 'https://www.linkedin.com/company/thenationalnews/', 'https://www.instagram.com/TheNationalNews.com', 'https://www.youtube.com/TheNationalNewspaper'], 'logo': {'@type': 'ImageObject', 'url': 'https://www.thenationalnews.com/pf/resources/images/logo.png?d=753', 'width': 250, 'height': 69}}","[{'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/47FGM4Y2ZZASPGCXR4ZBKI6UVM.jpg?smart=true&auth=77656cc3d7e592c7d1c288d6c381473d6f800a92b9c72d6ef5474afabdc9588b&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/47FGM4Y2ZZASPGCXR4ZBKI6UVM.jpg?smart=true&auth=77656cc3d7e592c7d1c288d6c381473d6f800a92b9c72d6ef5474afabdc9588b&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ILKALT6CFFFK3LAX7ADG7VR63Y.jpg?smart=true&auth=144b0bac5ce9fa826af264fe6c298e885de4c3e22f7cff3af069234301a367cd&width=800&height=450', 'width': 800}]",2022-03-22T11:28:00.251Z,https://www.thenationalnews.com,UAE,,https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ILKALT6CFFFK3LAX7ADG7VR63Y.jpg?smart=true&auth=144b0bac5ce9fa826af264fe6c298e885de4c3e22f7cff3af069234301a367cd&width=400&height=225,"Artificial intelligence could soon be used to tailor <a href=""https://www.thenationalnews.com/tags/uae/"" target=""_blank"">UAE</a> government employees’ working hours to their own personal productivity. The initiative, which is being studied by the Federal Authority for Government Human Resources, is one of a host of practical applications for AI in everyday life. On Tuesday, 41 business leaders who took a three-month course at <a href=""https://www.thenationalnews.com/uae/2021/08/30/mbzuai-provost-lays-out-plan-to-compete-with-top-tier-universities/"" target=""_blank"">Mohamed bin Zayed University for Artificial Intelligence</a> celebrated their graduation. They were brimming with ideas of how to transform their places of work.  Shayma Al Awadhi is director of human resources at the management system Bayanati at the Federal Authority for Government Human Resources. She said she will use the skills gleaned on the course for a project of hers that measures employees’ productivity. “One of the main projects that I’m currently working on is an application called Motamaken, which basically is a productivity calculation platform that uses artificial intelligence to analyse your work trends,” Ms Al Awadhi said. “So, for example, you could be more productive after working hours, or you could be more productive during working hours, and what affects your productivity,” she said. The course aimed to support UAE government and business sectors. Participants were required to complete 12 rigorous weeks of coursework, lectures and collaborative project work. Dr Jamal Al Kaabi, undersecretary at the Department of Health in Abu Dhabi, joined the programme after the Covid-19 pandemic made him realise the potential of artificial intelligence. He believes wearable technology and AI could be crucial in providing home services and follow-up care for the elderly.  “We came across one important project, which was to utilise artificial intelligence to help us read X-rays for the patient because most of the physicians were busy during Covid-19,” Dr Al Kaabi said. “I’m a physician by education but I want to add knowledge as an undersecretary of the Department of Health. “I want to understand how I can use AI in the future, not only for diagnosis but also for treatment.” Dr Al Kaabi said remote follow-up could become widespread, with sensors used to feed data back to care services. “For example, having sensors on the legs of the elderly that can predict falls,” he said. The group are the first to graduate from this “executive programme”, which was delivered at weekends by MBZUAI instructors and international counterparts from Harvard University, the University of Oxford, MIT, Carnegie Mellon University and the University of California, Berkeley, among other prestigious institutions. It also featured visits to Abu Dhabi National Oil Company; Emirates Post; G42; DIFC FinTech Hive; the Federal Competitiveness and Statistics Centre; and Al Ain Zoo. Site visits were geared to demonstrate ways in which AI has been used in each organisation. “Right now, it is a general artificial intelligence crash course for all topics,” said Dr Eric Xing, president of MBZUAI. “But if we have a large demand at the same time from the healthcare sector or from the national security sector, then there will be a reprogramming. That’s something we are experimenting with.” Dr Sultan Al Jaber, Minister of Industry and Advanced Technology and chairman of the Board of Trustees of MBZUAI, said the programme demonstrates the UAE’s commitment to building a community of future innovators and leaders.  “The skills and knowledge they have gained will enable them to incorporate innovative AI solutions within their organisations, enhancing their performance and competitiveness,” said Dr Al Jaber. “Integrating AI applications throughout organisations in the public and private sectors is an important step to achieving the vision of our nation’s leadership, as outlined in the UAE National Strategy for Artificial Intelligence 2031.” MBZUAI was <a href=""https://www.thenationalnews.com/business/technology/world-s-first-artificial-intelligence-university-to-open-in-abu-dhabi-1.924350"" target=""_blank"">established in 2019</a>. Its aim is to attract students from around the world to study AI and support the UAE’s diversification. Admissions for the executive programme’s autumn intake are open. More information can be found at <a href=""http://www.mbzuai.ac.ae/"" target=""_blank"">www.mbzuai.ac.ae</a>.",,,The National,"['https://www.facebook.com/TheNationalNews', 'https://x.com/TheNationalNews', 'https://www.linkedin.com/company/thenationalnews/', 'https://www.instagram.com/TheNationalNews.com', 'https://www.youtube.com/TheNationalNewspaper']","{'@type': 'ImageObject', 'url': 'https://www.thenationalnews.com/pf/resources/images/logo.png?d=753', 'width': 250, 'height': 69}","[{'@context': 'http://schema.org', '@type': 'Collection', 'headline': 'Graduation ceremony at MBZ University of Artificial Intelligence - in pictures', 'description': 'An image gallery that illustrates collection -  Graduation ceremony at MBZ University of Artificial Intelligence - in pictures', 'url': 'https://www.thenationalnews.com/uae/2022/03/22/uaes-business-leaders-graduate-from-mbzuai-artificial-intelligence-programme/', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ILKALT6CFFFK3LAX7ADG7VR63Y.jpg?smart=true&auth=144b0bac5ce9fa826af264fe6c298e885de4c3e22f7cff3af069234301a367cd&width=400&height=225', 'dateCreated': '2022-03-22T12:52:02Z', 'datePublished': '2022-03-22T15:39:21Z', 'dateModified': '2022-03-22T15:39:22Z', 'image': [{'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ILKALT6CFFFK3LAX7ADG7VR63Y.jpg?smart=true&auth=144b0bac5ce9fa826af264fe6c298e885de4c3e22f7cff3af069234301a367cd&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ILKALT6CFFFK3LAX7ADG7VR63Y.jpg?smart=true&auth=144b0bac5ce9fa826af264fe6c298e885de4c3e22f7cff3af069234301a367cd&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/AR7HV5XBDNGAXB2YF563KMNW2U.jpg?smart=true&auth=62cd21c80a7ab69a5f63afd661bfd0e30ff256ba11d0d097b0888f51179d7077&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/AR7HV5XBDNGAXB2YF563KMNW2U.jpg?smart=true&auth=62cd21c80a7ab69a5f63afd661bfd0e30ff256ba11d0d097b0888f51179d7077&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/GAWXATOGZJC5NHR4ZASLCFQVBU.jpg?smart=true&auth=01575c5bbfe4d1218be99e8f81f584200bd113c74e00120ac44a27c3edf6c6e1&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/GAWXATOGZJC5NHR4ZASLCFQVBU.jpg?smart=true&auth=01575c5bbfe4d1218be99e8f81f584200bd113c74e00120ac44a27c3edf6c6e1&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/X2WQE6ELHFHKFKRAXKN7Y47JKM.jpg?smart=true&auth=cba6e55b5f220189852b97cfcea5635c8836d613208785d14c0cd9ecc92e8125&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/X2WQE6ELHFHKFKRAXKN7Y47JKM.jpg?smart=true&auth=cba6e55b5f220189852b97cfcea5635c8836d613208785d14c0cd9ecc92e8125&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/B75ORZFFI5GZ7IQYBH2LEXMQXI.jpg?smart=true&auth=0025ef5815def255feb83a7d365e52dcc4859ff56fad92ee7f844955bbc486b6&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/B75ORZFFI5GZ7IQYBH2LEXMQXI.jpg?smart=true&auth=0025ef5815def255feb83a7d365e52dcc4859ff56fad92ee7f844955bbc486b6&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/MGJVTB7CJNFZDLIJ5JYFCRDFME.jpg?smart=true&auth=95019193504a7ddf30de4c986e1b5b296345195601aa9ac8fa4bd429ec927426&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/MGJVTB7CJNFZDLIJ5JYFCRDFME.jpg?smart=true&auth=95019193504a7ddf30de4c986e1b5b296345195601aa9ac8fa4bd429ec927426&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/CAFM3YBTDRGO5DRNTLPNENCJCY.jpg?smart=true&auth=a7e793c8081a2d7818c3b2c7b970851f18f4aa1f088195c1c3bdb780117871e8&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/CAFM3YBTDRGO5DRNTLPNENCJCY.jpg?smart=true&auth=a7e793c8081a2d7818c3b2c7b970851f18f4aa1f088195c1c3bdb780117871e8&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/PDGT4KDK2BAQ5JZPYIRVLKA7TQ.jpg?smart=true&auth=eae49092b8c61228111d8a9ceb5ae62e82442e19495e12e29b22b6413766260b&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/PDGT4KDK2BAQ5JZPYIRVLKA7TQ.jpg?smart=true&auth=eae49092b8c61228111d8a9ceb5ae62e82442e19495e12e29b22b6413766260b&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/4ITAXD4QAZGHLNSJDJC2FTWFFU.jpg?smart=true&auth=0bd4695d40916207d1fee52082db6d7dceea627d1ee4aab67e7929a1e296cb0f&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/4ITAXD4QAZGHLNSJDJC2FTWFFU.jpg?smart=true&auth=0bd4695d40916207d1fee52082db6d7dceea627d1ee4aab67e7929a1e296cb0f&width=400&height=225', 'width': 800}]}]",[],,,,,,,,
+https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vcmFkaWNhbC5uZXQvYXJ0aWNsZS93aHktY2hyaXN0aWFucy1zaG91bGQtY2FyZS1hYm91dC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,Why Christians Should Care about Artificial Intelligence - Radical.net,2022-03-25,Radical.net,https://radical.net,How should Christians think about artificial intelligence? Jason Thacker explains how the doctrine of humanity impacts our view of AI.,N/A,How should Christians think about artificial intelligence? Jason Thacker explains how the doctrine of humanity impacts our view of AI.,N/A,N/A,N/A,"
+
+
+ 
+
+
+
+
+How Indian Culture Can Be Key to Reaching the Nations 
+
+
+Reshma Mathews 
+/article
+
+",https://schema.org,"[{'@type': 'Organization', '@id': 'https://radical.net/#organization', 'name': 'Radical', 'url': 'https://radical.net/', 'sameAs': [], 'logo': {'@type': 'ImageObject', '@id': 'https://radical.net/#logo', 'inLanguage': 'en-US', 'url': 'https://cdn.radical.net/images/20240712132532/Radical-Homepage.png', 'contentUrl': 'https://cdn.radical.net/images/20240712132532/Radical-Homepage.png', 'width': 1920, 'height': 1080, 'caption': 'Radical'}, 'image': {'@id': 'https://radical.net/#logo'}}, {'@type': 'WebSite', '@id': 'https://radical.net/#website', 'url': 'https://radical.net/', 'name': 'Radical', 'description': '', 'publisher': {'@id': 'https://radical.net/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://radical.net/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://radical.net/article/why-christians-should-care-about-artificial-intelligence/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://cdn.radical.net/images/20220325204753/artificial-intelligence.jpg', 'contentUrl': 'https://cdn.radical.net/images/20220325204753/artificial-intelligence.jpg', 'width': 1920, 'height': 1382, 'caption': 'A white artificial hand stretches its hand out.'}, {'@type': 'WebPage', '@id': 'https://radical.net/article/why-christians-should-care-about-artificial-intelligence/#webpage', 'url': 'https://radical.net/article/why-christians-should-care-about-artificial-intelligence/', 'name': 'Why Christians Should Care about Artificial Intelligence - Radical', 'isPartOf': {'@id': 'https://radical.net/#website'}, 'primaryImageOfPage': {'@id': 'https://radical.net/article/why-christians-should-care-about-artificial-intelligence/#primaryimage'}, 'datePublished': '2022-03-26T01:49:38+00:00', 'dateModified': '2023-01-26T22:57:52+00:00', 'description': 'How should Christians think about artificial intelligence? Jason Thacker explains how the doctrine of humanity impacts our view of AI.', 'breadcrumb': {'@id': 'https://radical.net/article/why-christians-should-care-about-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://radical.net/article/why-christians-should-care-about-artificial-intelligence/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://radical.net/article/why-christians-should-care-about-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://radical.net/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Articles', 'item': 'https://radical.net/articles/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Why Christians Should Care about Artificial Intelligence'}]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RlY2gtaGlyaW5nLWlzLWJyb2tlbi1zb2Z0d2FyZS1kZXZlbG9wZXJzLWNvdWxkLWJlLXRoZS1rZXktdG8tZml4aW5nLWl0L9IBAA?oc=5,Tech jobs: Recruitment is broken and it's adding to developer burnout - ZDNet,2022-03-24,ZDNet,https://www.zdnet.com,The hiring process is broken. It's time to fix it.,N/A,The hiring process is broken. It's time to fix it.,The hiring process is broken. It's time to fix it.,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL2V4cGxhaW5lcnMvbmV3cy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hbmQtaW5kaWFzLWp1ZGljaWFsLXN5c3RlbS01NjUxMTMuaHRtbNIBbWh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL2FtcC9leHBsYWluZXJzL25ld3MvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYW5kLWluZGlhcy1qdWRpY2lhbC1zeXN0ZW0tNTY1MTEzLmh0bWw?oc=5,Explained: Can Artificial Intelligence Boost The Pace Of India's Judicial System? - Indiatimes.com,2022-03-23,Indiatimes.com,https://www.indiatimes.com,Many aspects of people's lives are being transformed by technology. Disruptive technology is generating better accountability and shortening the time of litigation in the legal profession as well.,"explained, ai, india judicial system, artifical intelligence, india artifical intelligence",Many aspects of people's lives are being transformed by technology. Disruptive technology is generating better accountability and shortening the time of litigation in the legal profession as well.,Many aspects of people's lives are being transformed by technology. Disruptive technology is generating better accountability and shortening the time of litigation in the legal profession as well.,N/A,N/A,N/A,https://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.indiatimes.com/explainers/news/artificial-intelligence-and-indias-judicial-system-565113.html'}",Explained: Can Artificial Intelligence Boost The Pace Of India's Judicial System? ,2022-03-23T12:47:45+05:30,2022-03-23T13:17:55+05:30,"{'@type': 'Person', 'name': 'Zoya Hussain', 'url': 'https://www.indiatimes.com/author/zoya-hussain/5206'}","{'@type': 'NewsMediaOrganization', 'name': 'Indiatimes', 'url': 'https://www.indiatimes.com', 'sameAs': ['https://www.facebook.com/indiatimes', 'https://twitter.com/indiatimes', 'https://www.youtube.com/@indiatimes', 'https://www.instagram.com/indiatimes/', 'https://in.linkedin.com/company/indiatimes'], 'logo': {'@type': 'ImageObject', 'url': 'https://im.indiatimes.in/images/indiatimes-600x60.jpg', 'width': 600, 'height': 60}}",['https://im.indiatimes.in/content/2021/Dec/Main-image-6_61c1e1c5381c1.jpg?w=1200&h=900&cc=1&webp=1&q=75'],,https://www.indiatimes.com/explainers/news/artificial-intelligence-and-indias-judicial-system-565113.html,News,en,,"Many aspects of people's lives are being transformed by technology. Disruptive technology is generating better accountability and shortening the time of litigation in the legal profession as well.India, too, has progressed to virtual courts with outstanding services since the COVID-19 outbreak. SA Bobde, India's former Chief Justice, had envisioned the employment of artificial intelligence (AI) in the judiciary. He expressed his joy at the introduction of the Supreme Court Portal for Court Efficiency Assistance (SUPACE) during the inauguration speech.                         iStockAs reported, Union Law Minister Kiren Rijiju recently stated that in order to implement phase two of the eCourts project, new, cutting-edge technologies such as Machine Learning (ML) and Artificial Intelligence (AI) must be adopted in order to improve the efficiency of the justice delivery system.What does Artificial Intelligence mean?Artificial Intelligence (AI) is a mechanism through which computers are programmed to undertake tasks which historically required human intelligence. Machine learning, pattern recognition, big data, neural networks, self-algorithms, and other technologies are all part of it. AI entails difficult tasks such as giving certain data to a machine and having it react to various scenarios.AI can assist in the completion of a work in a matter of minutes. Machine learning (ML) is a sort of artificial intelligence (AI) that allows software applications to improve their accuracy at predicting outcomes without having to be explicitly programmed to do so. In order to predict new output values, machine learning algorithms utilize historical data as input.                        iStockAI's expanding effect may be seen in a variety of areas, including IT, farming, manufacturing, and customer service. Although the Indian legal industry has been slower to adapt to technology, it has seen changes. It is believed that the slower adaptation was promulgated by several lawyers who are still happy with the same old way of operation that was developed decades ago. However, with an ever-increasing need for self-service technologies, even in the legal profession, this once-utopian notion can become a reality for all lawyers.New-age tech and lawAccording to the National Judicial Data Grid (NJDG), over 3 crore cases are pending at the district and taluka levels, with over 58 lakh cases still pending at the high courts. According to experts, such pending cases have a knock-on effect that lowers the effectiveness of the judiciary and, as a result, people's access to justice.The IBM Watson-powered robot 'ROSS,' which used a unique approach of mining data and identifying trends and patterns in the law to address research issues, was the first worldwide player to attempt to apply AI for legal reasons. Surprisingly, the area most affected will not be the litigation process or arbitration proceedings, but rather the back-end work for litigation and arbitration reasons, such as research, data storage and use, and so on.                        IIT DelhiAI proponents argue that technology enables the digitization of data and the integration of diverse data sources, some physical and some digital, to create a treasure mine of information in the aggregate. The Community Justice and Tribunals System (CJTS), the notion of Future Courts in Singapore, the Data Analytics and Research Department (DARD) strengthening data analytics capabilities, and Online Dispute Resolution (ODR) in the United Kingdom are just a few examples. In Brazil, a number of courts have already made the transition from traditional lawsuits to digital disputes, with some investigating artificial intelligence's possibilities.Legal problems that AI can solve in India?According to experts, while technology innovation will help lawyers perform legal research in an efficient and timely manner, it will also help them handle the issue of significant pendency. As a result, AI software-enabled lawyers will be able to focus more on counselling clients and taking on complex issues/cases.                        SoftwareOneThey further add that AI might aid courts and private parties in determining which cases to pursue, which to settle amicably if possible, and which to dismiss.Most AI software can keep track of the work that is being done, which aids lawyers and businesses in creating invoices for the work they have completed. This enables a new degree of transparency in the work that is being done, which benefits lawyers/firms, clients, and auditing authorities.A report in lexology highlights that AI systems can tackle more complicated problems in a matter of minutes. It can assist lawyers in narrowing down cases that are relevant to them without the use of tangible papers or search engine websites. Because these traditional processes take more time and effort to complete, it would be more practical to deploy AI software that can quickly locate relevant cases and statutes.According to the same report, the programme may highlight crucial areas that are relevant in specific contracts, after being ""trained"" on a large historical set of precedents. This will allow thousands of previous instances to be analysed and a creation of 'judge analytics'.What are the currently used technologies in the Indian judicial system?As per reports, the usage of technology for e-filing and virtual hearings has increased dramatically during the Covid-19 outbreak. SUVAS (Supreme Court Vidhik Anuvaad Software) is an artificial intelligence system that can help with the translation of court decisions into regional dialects. This is thought to be another historic initiative to improve access to justice.                        Representational Image/iStock The Supreme Court of India recently launched SUPACE (Supreme Court Portal for Assistance in Court Efficiency) to first understand judicial processes that require automation, and then to assist the Court in improving efficiency and reducing pendency by encapsulating judicial processes that can be automated through AI.The team at ManCorp Innovations Lab (MCIL), an AI-powered solution company, studied the difficulties faced by the Jharkhand High Court and discovered that there was a shortage of judges and a high volume of criminal cases. Optical Character Recognition (OCR) and ChatBot were two technologies developed by the company to overcome the issue. Where OCR translates scanned documents into computer readable text, rectifies the orientation, etc., ChatBot is managed by both voice instructions and text.The E-courts Project was conceived with the goal of transforming the Indian judiciary by enabling courts with ICT (Information and Communication Technology). It is a pan-India project for District Courts across the country, overseen and sponsored by the Ministry of Law and Justice and Department of Justice. The goal was to deliver citizen-centric services in a timely and effective manner.Criticism around There are also some questions about the character of an AI's ethics. A point raised was that AI software does not have a consciousness of its own. While they think before acting, their behaviours are totally programmed, and there is always a question of trustworthiness because AI systems must have a clear ethical goal as well as be technically strong and reliable.It was also argued that as AI technology advances, new concerns regarding data security, privacy, human rights, and ethics may emerge, necessitating greater self-regulation by AI developers. External regulation will be required by the legislature in the form of statutes, rules, and regulations, as well as by the judiciary in the form of judicial review and constitutional norms.Another concern that has been raised in relation to implementing Artificial Intelligence is affordability. The affordability of these AI programmes is something that should be considered. With corporations investing in privatised AI research centres, the upkeep of these AI facilities is also a challenge. As a result, the initial and ongoing costs of establishment and operation would be expensive.For more on news and current affairs from around the world please visit Indiatimes News.",,"{'@type': 'SpeakableSpecification', 'xPath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}",Explained: Can Artificial Intelligence Boost The Pace Of India's Judicial System? ,"['https://www.facebook.com/indiatimes', 'https://twitter.com/indiatimes', 'https://www.youtube.com/@indiatimes', 'https://www.instagram.com/indiatimes/', 'https://in.linkedin.com/company/indiatimes']","{'@type': 'ImageObject', 'url': 'https://im.indiatimes.in/images/indiatimes-600x60.jpg', 'width': '600', 'height': '60'}",,,1999,"{'@type': 'PostalAddress', 'streetAddress': 'Times Internet Limited, Plot Number 391, Udyog Vihar, Phase-III', 'addressLocality': 'Gurgaon', 'addressRegion': 'Haryana', 'postalCode': '122016', 'addressCountry': 'IN'}","{'@type': 'ContactPoint', 'telephone': '+91 (0124) 4187000', 'email': 'grievance.it@timesinternet.in', 'contactType': 'customer support', 'url': 'https://www.indiatimes.com/contactus/'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.indiatimes.com', 'name': 'Home', 'image': 'https://im.indiatimes.in/images/indiatimes-600x60.jpg'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.indiatimes.com/explainers', 'name': 'Explainers', 'image': 'https://im.indiatimes.in/images/indiatimes-600x60.jpg'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.indiatimes.com/explainers/news', 'name': 'News', 'image': 'https://im.indiatimes.in/images/indiatimes-600x60.jpg'}}]","{'@type': 'CreativeWork', 'name': 'Indiatimes', 'url': 'https://www.indiatimes.com'}","{'@type': 'ImageObject', 'url': 'https://im.indiatimes.in/content/2021/Dec/Main-image-6_61c1e1c5381c1.jpg?w=1200&h=900&cc=1&webp=1&q=75', 'caption': '', 'height': 900, 'width': 1200}",,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2xhdGVzdC1uZXdzLzEwLWJlc3QtY291bnRyaWVzLWZvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVycy1pbi0yMDIy0gFvaHR0cHM6Ly93d3cuYW5hbHl0aWNzaW5zaWdodC5uZXQvYW1wL3N0b3J5L2xhdGVzdC1uZXdzLzEwLWJlc3QtY291bnRyaWVzLWZvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVycy1pbi0yMDIy?oc=5,10 Best Countries for Machine Learning Engineers in 2022 - Analytics Insight,2022-03-22,Analytics Insight,https://www.analyticsinsight.net,,"Machine learning engineers,Countries for machine learning engineers,Machine learning-based countries,Top countries for ML engineering jobs,ML engineers in 2022",Look out for the best countries for machine learning engineers to earn hefty salaries Machine learning engineers are in huge demand to meet the supply in the gl,Look out for the best countries for machine learning engineers to earn hefty salaries Machine learning engineers are in huge demand to meet the supply in the gl,N/A,N/A,"Number of ChatGPT Users and Statistics
+",http://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/latest-news/10-best-countries-for-machine-learning-engineers-in-2022'}",10 Best Countries for Machine Learning Engineers in 2022,2022-03-22T07:00:03Z,2022-03-22T07:00:03Z,"[{'@type': 'Person', 'givenName': 'Disha Sinha', 'name': 'Disha Sinha', 'url': 'https://www.analyticsinsight.net/author/disha-sinha'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/03/10-Best-Countries-for-Machine-Learning-Engineers-in-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",2022-03-22T07:00:03Z,https://www.analyticsinsight.net/latest-news/10-best-countries-for-machine-learning-engineers-in-2022,Latest News,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/03/10-Best-Countries-for-Machine-Learning-Engineers-in-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"Look out for the best countries for machine learning engineers to earn hefty salaries.Machine learning engineers are in huge demand to meet the supply in the global tech market in 2022. Educational institutes and platforms have started offering multiple machine learning courses to provide a better understanding of this domain to face real-life problems efficiently. There are multiple machine learning-based countries where the governments are allocating sufficient budgets to enhance the revenue per year. The global machine learning market size is expected to hit US$39,986.70 million in 2025 at a CAGR of 49.7%. ML engineers in 2022 are earning some of the highest salaries in the tech world, in the top countries for ML engineering jobs. Let's explore some of the top ten countries for machine learning engineers to stay and earn lucrative salary packages per annum..TOP 5 BEST MACHINE LEARNING STARTUPS IMPACTING FINTECH INDUSTRYDATA AUGMENTATION: A TACTIC TO IMPROVE THE PERFORMANCE OF ML5 VERY COOL OPEN-SOURCE MACHINE LEARNING PROJECTS TOOLS .Top ten countries for machine learning engineers in 2022.The USA.The USA is one of the top countries for machine learning engineers for its large number of companies that specialized in machine learning, artificial intelligence, robotics, and other advanced technologies. The average salary for ML engineers in 2022 is US$145,000 per annum with additional cash compensation. It is reported that the ML Engineer is the fourth-fastest growing job in this machine learning-based country..China.China is known as one of the top countries for ML engineering jobs in 2022 with its constant innovation with cutting-edge technologies. This machine learning-based country offers CN¥450,000 per annum. The demand for ML engineers in 2022 is increasing substantially owing to the gigantic amount of real-time data for machine learning with a wide range of market applications..Japan.Japan is gaining popularity as a machine learning-based country through its international conferences, educational institutes, non-profit organizations, and many more opportunities for ML engineers in 2022. This country is leading in the industrial robot race and aims to revolutionize the machine learning domain with smart applications and innovations. The average salary of machine learning engineers is ¥6,404,246 per annum..South Korea.South Korea is a well-known country on robotics and is well recognized as one of the top countries for ML Engineers. The average salary of ML engineers in 2022 is ₩62,692,165. Machine learning engineers are highly interested in working in South Korea for its advanced applications and innovations with robotics, IoT, artificial intelligence, machine learning, and many more technologies..India.India is also one of the top countries for ML Engineers with sufficient budget allocation from the Government of India. It is encouraging start-ups and other MNCs to start businesses in the domestic market to earn more revenue by leveraging machine learning and artificial intelligence. India is fostering machine learning engineers with great value by being one of the top countries for ML engineering jobs. The average salary of ML engineers in 2022 is Rs.11 lakhs per annum..Germany.Germany is known as the Machine learning-based country with an average salary of machine learning engineers is 75.000 €. There are top-level research institutes present in the country for providing ample opportunities to ML engineers in 2022. It prioritizes cutting-edge technologies in its machine learning race..Canada.Canada is one of the top machine learning-based countries with responsible use of machine learning. It is determined to hire some of the world's top minds to have a specialization in machine learning and deep learning. The Canadian government offers ample opportunities to attract a large number of researchers and students in this field. The average salary of ML Engineers in Canada is $85,000 per annum..Sweden.Sweden is one of the popular countries for machine learning engineers that pays an average salary of around 2022 460,000 KR. per annum to ML engineers. Machine learning engineers are attracted to one of the top countries for ML engineering jobs for the good salary package and a plethora of other opportunities. The Government is also pumping sufficient funds into the specialized domain for it to be a leader in the machine learning race..The UK.The UK is focused on establishing the best educational institutions for it to be one of the top countries for ML engineering jobs. This machine learning-based country found that ML algorithms are the fastest-growing skill among ML engineers in 2022. The average salary of ML Engineers is £50,000 per annum..Spain.Spain is one of the top countries for ML Engineers offering 55.000 € per annum. Machine learning engineers are highly interested to work in Spain because of the top-notch institutes and immense work opportunities and gain a deeper understanding of this field with real-life complex projects..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",,,10 Best Countries for Machine Learning Engineers in 2022,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Latest News', 'item': 'https://www.analyticsinsight.net/latest-news'}, {'@type': 'ListItem', 'position': 3, 'name': '10 Best Countries for Machine Learning Engineers in 2022', 'item': 'https://www.analyticsinsight.net/latest-news/10-best-countries-for-machine-learning-engineers-in-2022'}]","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/latest-news/10-best-countries-for-machine-learning-engineers-in-2022', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/03/10-Best-Countries-for-Machine-Learning-Engineers-in-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,
+https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL2xhdGVzdC9jb3Jwb3JhdGUvc3RvcnkvdGNzLWlpdC1tYWRyYXMtcGFydG5lci10by1sYXVuY2gtbS10ZWNoLWluLWluZHVzdHJpYWwtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtMzI2ODAzLTIwMjItMDMtMjLSAQA?oc=5,"TCS , IIT Madras partner to launch M Tech in Industrial Artificial Intelligence - Business Today",2022-03-22,Business Today,https://www.businesstoday.in,,,TCS expects that the course will help scale up capability across the Indian workforce and expand the knowledge ecosystem in AI and machine learning.,TCS expects that the course will help scale up capability across the Indian workforce and expand the knowledge ecosystem in AI and machine learning.,N/A,N/A,N/A,https://www.schema.org,,ProfilePage,https://www.businesstoday.in/latest/corporate/story/tcs-iit-madras-partner-to-launch-m-tech-in-industrial-artificial-intelligence-326803-2022-03-22,,2022-03-22\T12:45:37+05:30,2022-03-22\T17:18:12+05:30,"[{'@type': 'Person', 'name': 'Business Today Desk', 'url': 'https://www.businesstoday.in/author/business-today-desk'}]","{'@type': 'Organization', 'name': 'Business Today', 'url': 'https://www.businesstoday.in', 'logo': {'@type': 'ImageObject', 'url': 'https://akm-img-a-in.tosshub.com/businesstoday/resource/img/bt-schema-logo.png', 'height': '60', 'width': '600'}}","{'@type': 'ImageObject', 'url': 'https://akm-img-a-in.tosshub.com/businesstoday/images/story/202203/tcs-sixteen_nine.jpeg?size=1280:720', 'height': '720', 'width': '1280'}",,https://www.businesstoday.in/latest/corporate/story/tcs-iit-madras-partner-to-launch-m-tech-in-industrial-artificial-intelligence-326803-2022-03-22,,en_US,,"Tata Consultancy Services (TCS) has partnered with the Indian Institute of Technology Madras (IIT-M) to launch an M.Tech programme in Industrial Artificial Intelligence (AI) for working professionals.The M.Tech programme at IIT-M is an 18-month-long course, designed in consultation with TCS, that will be offered in a live teaching mode through virtual classrooms to upskill corporate employees in the applications of AI and to solve industrial problemsTCS expects that the course will help scale up capability across the Indian workforce and expand the knowledge ecosystem in AI and machine learning, drive innovation and position India as a global innovation powerhouse.“TCS Research partners with premier academic institutes to explore emerging technologies with scientific rigour as they gain mainstream adoption,” said K Ananth Krishnan, Chief Technology Officer, TCS.The theoretical courses will cover concepts in fundamental mathematical techniques required for understanding data science algorithms, time series analysis, multivariate data analysis, machine learning, deep learning and reinforcement learning and applying AI solutions for industrial problems in a case study format, TCS said in a statement.“We are happy to collaborate with IIT-Madras, a member of the TCS Academic Co-Innovation Network, to create a new M Tech program in Industrial AI for working professionals so that they gain a deeper understanding of data science and AI which they can apply to drive innovation in industry,” Krishnan said.Each subject will have one mid-term and a final examination conducted in online mode, besides project work. There will be a total of 28-30 hours of online classes per week, with post-classroom activities, such as assignments, reading, and preparation, likely to take up 20-22 hours per week. “AI is going to impact every aspect of human experience in the years to come. This course, designed in partnership with TCS, will provide a unique perspective on the impact of AI in industrial systems. Leveraging AI techniques in industries can lead to processes that are robust, inherently safer and ultimately lead to environmentally benign processes,” added Rengasamy.",,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.headline', '.summary']}","TCS , IIT Madras partner to launch M Tech in Industrial Artificial Intelligence ",,,"[{'@type': 'Article', 'headline': 'TCS , IIT Madras partner to launch M Tech in Industrial Artificial Intelligence\xa0', 'url': 'https://www.businesstoday.in/latest/corporate/story/tcs-iit-madras-partner-to-launch-m-tech-in-industrial-artificial-intelligence-326803-2022-03-22', 'datePublished': '2022-03-22\\T12:45:37+05:30', 'author': {'@id': 'https://www.businesstoday.in/author/business-today-desk'}}]",,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.businesstoday.in', 'name': 'News'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.businesstoday.in/latest', 'name': 'LATEST'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.businesstoday.in/latest/corporate', 'name': 'Corporate'}}]",,"{'@type': 'imageObject', 'url': 'https://akm-img-a-in.tosshub.com/businesstoday/images/story/202203/tcs-sixteen_nine.jpeg?size=1280:720', 'caption': 'TCS expects that the course will help scale up capability across the Indian workforce and expand the knowledge ecosystem in AI and machine learning, drive innovation and position India as a global innovation powerhouse.', 'width': '1200', 'height': '900'}",,"{'@id': 'https://www.businesstoday.in/author/business-today-desk', '@type': 'Person', 'name': 'Business Today Desk'}"
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZW5hdGlvbmFsbmV3cy5jb20vdWFlLzIwMjIvMDMvMjIvY29kaW5nLXByb2plY3QtdG8tcHJlcGFyZS1wcm9ncmFtbWVycy1mb3ItdWFlcy1mYXN0LWdyb3dpbmctam9iLW1hcmtldC_SAQA?oc=5,Coding project to prepare programmers for UAE's fast-growing job market - The National,2022-03-22,The National,https://www.thenationalnews.com,Evaluating coding skills will help the Emirates become digital centre for the region ,"['Dubai', 'UAE', 'Technology', 'Science', 'story', 'standard']",Evaluating coding skills will help the Emirates become digital centre for the region ,Evaluating coding skills will help the Emirates become digital centre for the region ,N/A,N/A,"A UAE initiative will assess coders to ensure their computer programming skills match the demands of the market.The Coders HQ, which was launched in January, will now test the best programmers to ensure their skills are suitable for global companies such as Emirates airline, LinkedIn and Majid Al Futtaim.It will also help coders to expand their career prospects in programming, which has become one of the fastest-growing private sector industries.“Each one of us is capable of learning the language [coding] and to develop a system,” said Omar Al Olama, Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications at an event held at the Museum of the Future on Tuesday.Each one of us is capable of learning the language [coding] and developing a systemOmar Sultan Al Olama“But what is missing today is not knowing our level as we compare ourselves to the people around us, not knowing what our needs are when we move from one phase to another and not knowing what the relevant stages are to be among the highest level of programmers.“Many people speak about their potential in coding but sometimes this is opposite to reality.”Anyone wishing to be evaluated will be tested, with their skills graded for suitability for programming jobs in the private sector.Training will be offered to ensure coding skills evolve with changes in technology.Mr Al Olama said the UAE should become a regional centre for coding, with wider use of the Arabic language in technology, and hoped every public and private sector entity would have a ‘coding ambassador’ to encourage others to learn new skills.A new partnership with Cisco will put Arabic at the centre of technology developed and launched in the region, he said.“Evaluation will come first, followed by education. Later, we will give people a chance to implement their skills,” said Mr Al Olama.“Our belief is that UAE must be the incubator of the future of the technology.“We should not forget that the UAE, being an Arab country, a country in the Middle East and a major motivator for this technology, made us collaborate with Cisco for this initiative.”The UAE Artificial Intelligence Office recently launched an AI and coding licence to attract technology companies and coders from around the world.Coding school 42 Abu Dhabi - in picturesThe campus is open 24 hours a day.The coding tree serves as a tool to measure student activity in the lab. It thrives when student activity is high and withers when it is low.Coding school 42 Abu Dhabi is located in Mina Zayed. All photos: Vidhyaa Chandramohan for The NationalIT graduate Lucas De Alencastro Moreira regularly visits the school.Students at 42 Abu Dhabi learn to understand the mechanism of the structure through real-world projects.Dr Afaq Altaf conducts peer evaluation workshops.The learning environment is completely peer-to-peer.Abdul Aziz and Mohammed Ehsan Ullah Khan, students at 42 Abu Dhabi, take a break in the games area.Peer-to-peer learning coding  methodology creates flexible learning pathways via a project-based, gamified approach.A visual representation about the history of coding at the school.42 Abu Dhabi is a project-based practical learning environment.The campus is open 24 hours a day.The coding tree serves as a tool to measure student activity in the lab. It thrives when student activity is high and withers when it is low.Coding school 42 Abu Dhabi is located in Mina Zayed. All photos: Vidhyaa Chandramohan for The NationalIT graduate Lucas De Alencastro Moreira regularly visits the school.Students at 42 Abu Dhabi learn to understand the mechanism of the structure through real-world projects.Dr Afaq Altaf conducts peer evaluation workshops.The learning environment is completely peer-to-peer.Abdul Aziz and Mohammed Ehsan Ullah Khan, students at 42 Abu Dhabi, take a break in the games area.Peer-to-peer learning coding  methodology creates flexible learning pathways via a project-based, gamified approach.A visual representation about the history of coding at the school.42 Abu Dhabi is a project-based practical learning environment.The campus is open 24 hours a day.The coding tree serves as a tool to measure student activity in the lab. It thrives when student activity is high and withers when it is low.In partnership with the Dubai International Financial Centre’s Innovation Hub, the project aims to increase the number of tech companies operating in the emirate.Currently, more than 500 start-ups and tech groups are based at the DIFC hub.At the launch of Coders HQ, Microsoft said it would host an OpenHack event to encourage people to work with the company on digital solutions and innovation.OpenHack is a developer-focused event to teach talented coders to learn in challenge-based, real-world scenarios designed to mimic a developer’s journey inside Microsoft.Participants work together in teams of five to complete challenges that increase in complexity as they progress.“We strive for meaningful innovation at Microsoft, with products and services that improve lives and have the potential to change the world,” said Tamer Salah, AI country strategy lead for Microsoft.“For decades, our researchers and engineers have pushed the boundaries of science and technology to inspire others to imagine, and help build a better future.READ MOREData and coding the new weapons in digital age of warfare, Dubai military summit hears“With the support of the Ministry of AI, we are bringing back the OpenHack event to the UAE.“It is a unique way to co-invent with Microsoft and empower local talents within the country to engage with our own experts and developers, to find real-world solutions that challenge through unique, immersive experiences.”Currently, there are about 63,000 coders in the country, working in computer programming or preparing for a career in industries like FinTech or software development.In January, the National Programme for Artificial Intelligence announced a series of measures to increase the number of qualified coders in the UAE to reach 100,000 by the end of 2022.Coding initiatives to boost digital economyHere are the initiatives that were announced at the event held on Monday:Setting up an evaluation centreThe centre will classify the skill set of programmers and help them find jobs that best suit their expertise.Coder HQ AmbassadorsThe chosen 'ambassadors' will teach others how to programme, especially among university students. They will be based at Emirates Towers, to propose and implement projects. Candidates can apply at www.ai.gov.ae/chqambsdNatural Language Processing ChallengeThis initiative seeks to form specialised teams of Emiratis who are good at language processing. These teams will be responsible for educating university students who are ready for the job market and will help to create a future talent pool of programmers.Tanzu CommunityThe Tanzu Community, launched in collaboration with VMWare, a leading provider of multi-cloud services for all apps, provides programmers with an opportunity to learn more about software technology. The community will hold monthly meetings with those interested with the objective of nurturing future talent.“Open Hack” HackathonThe joint project between Microsoft and Coders HQ aims to develop programming teams to work in the private sector, increasing competitiveness which will have a positive effect on the digital economy.LinkedIn StatisticsThis is designed to provide accurate statistics that reflect the current state of programmers in the UAE. With more than 63,000 programmers working across all sectors in the UAE, access to this objective data will improve the decision-making process.",http://schema.org,,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.thenationalnews.com/uae/2022/03/22/coding-project-to-prepare-programmers-for-uaes-fast-growing-job-market/'}",Coding project to prepare programmers for UAE's fast-growing job market,2022-03-22T16:07:46.050Z,2022-03-22T16:07:46.753Z,"[{'@type': 'Person', 'name': 'Nick Webster', 'url': 'https://www.thenationalnews.com/topics/Author/nick-webster/'}, {'@type': 'Person', 'name': 'Liza Ayach', 'url': 'https://www.thenationalnews.com/topics/Author/liza-ayach/'}]","{'@context': 'http://schema.org', '@type': 'Organization', 'name': 'The National', 'url': 'https://www.thenationalnews.com', 'sameAs': ['https://www.facebook.com/TheNationalNews', 'https://x.com/TheNationalNews', 'https://www.linkedin.com/company/thenationalnews/', 'https://www.instagram.com/TheNationalNews.com', 'https://www.youtube.com/TheNationalNewspaper'], 'logo': {'@type': 'ImageObject', 'url': 'https://www.thenationalnews.com/pf/resources/images/logo.png?d=753', 'width': 250, 'height': 69}}","[{'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/EALQYJENOZA5RKFAB5YWF4WW4U.JPG?smart=true&auth=a17767132f57a2cf12eeed10ff291c1fdf8a4cd21db5678a0faf5a6c93e87b3a&width=800&height=450', 'width': 800}]",2022-03-22T12:56:45.776Z,https://www.thenationalnews.com,UAE,,https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/EALQYJENOZA5RKFAB5YWF4WW4U.JPG?smart=true&auth=a17767132f57a2cf12eeed10ff291c1fdf8a4cd21db5678a0faf5a6c93e87b3a&width=400&height=225,"A UAE initiative will assess coders to ensure their computer programming skills match the demands of the market. The Coders HQ, which was launched in January, will now test the best programmers to ensure their skills are suitable for global companies such as Emirates airline, LinkedIn and Majid Al Futtaim. It will also help coders to expand their career prospects in programming, which has become one of the <a href=""https://www.thenationalnews.com/uae/2021/12/30/uae-at-50-why-2021-has-been-a-year-like-no-other/"" target=""_blank"">fastest-growing</a><a href=""https://www.thenationalnews.com/uae/2021/12/30/uae-at-50-why-2021-has-been-a-year-like-no-other/"" target=""_blank""> private sector industries</a>. “Each one of us is capable of learning the language [coding] and to develop a system,” said Omar Al Olama, Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications at an event held at the Museum of the Future on Tuesday.  “But what is missing today is not knowing our level as we compare ourselves to the people around us, not knowing what our needs are when we move from one phase to another and not knowing what the relevant stages are to be among the highest level of programmers. “Many people speak about their potential in coding but sometimes this is opposite to reality.” Anyone wishing to be evaluated will be tested, with their skills graded for suitability for programming jobs in the private sector. Training will be offered to ensure coding skills evolve with changes in technology. Mr Al Olama said the UAE should become a regional centre for coding, with wider use of the Arabic language in technology, and hoped every public and private sector entity would have a ‘coding ambassador’ to encourage others to learn new skills. A new partnership with Cisco will put Arabic at the centre of technology developed and launched in the region, he said. “Evaluation will come first, followed by education. Later, we will give people a chance to implement their skills,” said Mr Al Olama. “Our belief is that UAE must be the incubator of the future of the technology. “We should not forget that the UAE, being an Arab country, a country in the Middle East and a major motivator for this technology, made us collaborate with Cisco for this initiative.” The UAE Artificial Intelligence Office recently launched an <a href=""https://www.thenationalnews.com/business/technology/2022/03/01/difc-launches-ai-and-coding-licence-to-attract-tech-talent/"" target=""_blank"">AI and coding licence</a> to attract technology companies and coders from around the world.   In partnership with the Dubai International Financial Centre’s Innovation Hub, the project aims to increase the number of tech companies operating in the emirate. Currently, more than 500 start-ups and tech groups are based at the DIFC hub. At the launch of Coders HQ, Microsoft said it would host an OpenHack event to encourage people to work with the company on digital solutions and innovation. OpenHack is a developer-focused event to teach talented coders to learn in challenge-based, real-world scenarios designed to mimic a developer’s journey inside Microsoft. Participants work together in teams of five to complete challenges that increase in complexity as they progress. “We strive for meaningful innovation at Microsoft, with products and services that improve lives and have the potential to change the world,” said Tamer Salah, AI country strategy lead for Microsoft. “For decades, our researchers and engineers have pushed the boundaries of science and technology to inspire others to imagine, and help build a better future.  “With the support of the Ministry of AI, we are bringing back the OpenHack event to the UAE. “It is a unique way to co-invent with Microsoft and empower local talents within the country to engage with our own experts and developers, to find real-world solutions that challenge through unique, immersive experiences.” Currently, there are about 63,000 coders in the country, working in computer programming or preparing for a career in industries like FinTech or software development. In January, the National Programme for Artificial Intelligence announced a series of measures to increase the number of qualified coders in the UAE to reach 100,000 by the end of 2022.  Here are the initiatives that were announced at the event held on Monday: <b>Setting up an evaluation centre</b> The centre will classify the skill set of programmers and help them find jobs that best suit their expertise. <b>Coder HQ Ambassadors</b> The chosen 'ambassadors' will teach others how to programme, especially among university students. They will be based at Emirates Towers, to propose and implement projects. Candidates can apply at <a href=""http://www.ai.gov.ae/chqambsd"" target=""_blank"">www.ai.gov.ae/chqambsd</a> <b>Natural Language Processing Challenge</b> This initiative seeks to form specialised teams of Emiratis who are good at language processing. These teams will be responsible for educating university students who are ready for the job market and will help to create a future talent pool of programmers. <b>Tanzu Community</b> The Tanzu Community, launched in collaboration with VMWare, a leading provider of multi-cloud services for all apps, provides programmers with an opportunity to learn more about software technology. The community will hold monthly meetings with those interested with the objective of nurturing future talent. <b>“Open Hack” Hackathon</b> The joint project between Microsoft and Coders HQ aims to develop programming teams to work in the private sector, increasing competitiveness which will have a positive effect on the digital economy. <b>LinkedIn Statistics</b> This is designed to provide accurate statistics that reflect the current state of programmers in the UAE. With more than 63,000 programmers working across all sectors in the UAE, access to this objective data will improve the decision-making process.",,,The National,"['https://www.facebook.com/TheNationalNews', 'https://x.com/TheNationalNews', 'https://www.linkedin.com/company/thenationalnews/', 'https://www.instagram.com/TheNationalNews.com', 'https://www.youtube.com/TheNationalNewspaper']","{'@type': 'ImageObject', 'url': 'https://www.thenationalnews.com/pf/resources/images/logo.png?d=753', 'width': 250, 'height': 69}","[{'@context': 'http://schema.org', '@type': 'Collection', 'headline': 'Coding school 42 Abu Dhabi - in pictures', 'description': 'An image gallery that illustrates collection -  Coding school 42 Abu Dhabi - in pictures', 'url': 'https://www.thenationalnews.com/uae/2022/03/22/coding-project-to-prepare-programmers-for-uaes-fast-growing-job-market/', 'dateCreated': '2022-01-17T10:38:12Z', 'datePublished': '2020-04-16T12:41:30Z', 'dateModified': '2022-01-18T06:28:35Z', 'image': [{'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/HB2WIS2GYRD67I3KLAORIZYRJU.jpg?smart=true&auth=f7d456f399babd846d235a5cb7e35f9c6c6072eeef18a1a42b651b8fa68e95a4&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/HB2WIS2GYRD67I3KLAORIZYRJU.jpg?smart=true&auth=f7d456f399babd846d235a5cb7e35f9c6c6072eeef18a1a42b651b8fa68e95a4&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/XMFXSUCBHZFXTONAKAHUPGGRZE.jpg?smart=true&auth=d1f49afb321af52767a840b7d78eef3a2eda03e5630b2005513075a35097885c&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/XMFXSUCBHZFXTONAKAHUPGGRZE.jpg?smart=true&auth=d1f49afb321af52767a840b7d78eef3a2eda03e5630b2005513075a35097885c&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/54RHSC6IVRD3VCHPD2QQUJ7EKI.jpg?smart=true&auth=7aafb479b25cd2343cb3ae9d7d0fe17f26cf7e4e9b2141dd339a7f3c338c9222&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/54RHSC6IVRD3VCHPD2QQUJ7EKI.jpg?smart=true&auth=7aafb479b25cd2343cb3ae9d7d0fe17f26cf7e4e9b2141dd339a7f3c338c9222&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/CVVCAMOF5FDFDHSDIWPHTAH4V4.jpg?smart=true&auth=e3ea72ff786df7a71ac5e13c9a7a3bcd02ff43eb9179c051f45165627192d60b&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/CVVCAMOF5FDFDHSDIWPHTAH4V4.jpg?smart=true&auth=e3ea72ff786df7a71ac5e13c9a7a3bcd02ff43eb9179c051f45165627192d60b&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/NPOCKRSLVNBYTOYKI4GZYYICY4.jpg?smart=true&auth=ef318ae766f0da328bef6d19ad2e1eb81bba18ded3263a24ffa2ffb62ba499dd&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/NPOCKRSLVNBYTOYKI4GZYYICY4.jpg?smart=true&auth=ef318ae766f0da328bef6d19ad2e1eb81bba18ded3263a24ffa2ffb62ba499dd&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/A6SXXHRYKFFPDIVOCOYWAZDXYE.jpg?smart=true&auth=ff2a75f81048a80398c637ebb4cbb74e612be88a438843f1819c28fda8424125&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/A6SXXHRYKFFPDIVOCOYWAZDXYE.jpg?smart=true&auth=ff2a75f81048a80398c637ebb4cbb74e612be88a438843f1819c28fda8424125&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/2FUQAHSOJFFF7O3BTH4WNUKFAE.jpg?smart=true&auth=352918dd83a3e8428abd73c76b8476db85a454e980cd27d83012b6478e633203&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/2FUQAHSOJFFF7O3BTH4WNUKFAE.jpg?smart=true&auth=352918dd83a3e8428abd73c76b8476db85a454e980cd27d83012b6478e633203&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/AQDD2FHZZJDIPI4IWVJGDFMITU.jpg?smart=true&auth=307e59cf525871f9d854aa9d3bca7af85fa8e2fe807e2c4b5ca75047037e4d39&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/AQDD2FHZZJDIPI4IWVJGDFMITU.jpg?smart=true&auth=307e59cf525871f9d854aa9d3bca7af85fa8e2fe807e2c4b5ca75047037e4d39&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ZLQZWU5VRBD6JJKEZUXTCZZX2Y.jpg?smart=true&auth=3559ffb79f93697fe270ca5de96227dc1f89c35c774fd4b9523d06a64f2aaa12&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/ZLQZWU5VRBD6JJKEZUXTCZZX2Y.jpg?smart=true&auth=3559ffb79f93697fe270ca5de96227dc1f89c35c774fd4b9523d06a64f2aaa12&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/A6AB4BQH6NF3XHK5GGCFFWRSBQ.jpg?smart=true&auth=f7c3285eec5530b4bb0acb8b065938319f72a62d94ad8debbe69ea4a585bac0a&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/A6AB4BQH6NF3XHK5GGCFFWRSBQ.jpg?smart=true&auth=f7c3285eec5530b4bb0acb8b065938319f72a62d94ad8debbe69ea4a585bac0a&width=400&height=225', 'width': 800}, {'@type': 'ImageObject', 'url': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/AZ5W54WZXNEUBE63HO7QWL2GH4.jpg?smart=true&auth=b41e923263bf19cc994bb186ecf328bc422e1f8fee9a9355bd48319508e85e0a&width=800&height=450', 'thumbnailUrl': 'https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/AZ5W54WZXNEUBE63HO7QWL2GH4.jpg?smart=true&auth=b41e923263bf19cc994bb186ecf328bc422e1f8fee9a9355bd48319508e85e0a&width=400&height=225', 'width': 800}, None]}, None]",[],,,,,,,,

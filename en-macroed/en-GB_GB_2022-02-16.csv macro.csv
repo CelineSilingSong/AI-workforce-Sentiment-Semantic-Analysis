@@ -1,0 +1,551 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,article:section,article:summary,article text,@type,url,headline,articleSection,datePublished,dateModified,image,thumbnailUrl,publisher,isAccessibleForFree,requiresSubscription,author,mainEntityOfPage,dateCreated,creator,metadata,itemListElement,articleBody,name,isPartOf,alternativeHeadline,location,logo,email,potentialAction
+https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vYmxvZ3MubnZpZGlhLmNvbS9ibG9nL3doYXQtaXMtZWRnZS1haS_SAQA?oc=5,What Is Edge AI and How Does It Work? - NVIDIA Blog,2022-02-17,NVIDIA Blog,https://blogs.nvidia.com,"Edge AI is the deployment of AI applications in devices throughout the physical world, so-named because the computation is done near the user at the edge of a network.",N/A,"Edge AI is the deployment of AI applications in devices throughout the physical world, so-named because the computation is done near the user at the edge of a network.",N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://blogs.nvidia.com/blog/what-is-edge-ai/', 'url': 'https://blogs.nvidia.com/blog/what-is-edge-ai/', 'name': 'What Is Edge AI and How Does It Work?\xa0| NVIDIA Blog', 'isPartOf': {'@id': 'https://blogs.nvidia.com/#website'}, 'primaryImageOfPage': {'@id': 'https://blogs.nvidia.com/blog/what-is-edge-ai/#primaryimage'}, 'image': {'@id': 'https://blogs.nvidia.com/blog/what-is-edge-ai/#primaryimage'}, 'thumbnailUrl': 'https://blogs.nvidia.com/wp-content/uploads/2022/02/edge-ai-scene.jpg', 'datePublished': '2022-02-17T16:30:10+00:00', 'dateModified': '2023-01-24T18:30:17+00:00', 'author': {'@id': 'https://blogs.nvidia.com/#/schema/person/7a1065f3e27e5d89fdd715ad9afdc711'}, 'description': 'Edge AI is the deployment of AI applications in devices throughout the physical world, so-named because the computation is done near the user at the edge of a network.', 'breadcrumb': {'@id': 'https://blogs.nvidia.com/blog/what-is-edge-ai/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://blogs.nvidia.com/blog/what-is-edge-ai/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://blogs.nvidia.com/blog/what-is-edge-ai/#primaryimage', 'url': 'https://blogs.nvidia.com/wp-content/uploads/2022/02/edge-ai-scene.jpg', 'contentUrl': 'https://blogs.nvidia.com/wp-content/uploads/2022/02/edge-ai-scene.jpg', 'width': 624, 'height': 375, 'caption': 'What is edge AI?'}, {'@type': 'BreadcrumbList', '@id': 'https://blogs.nvidia.com/blog/what-is-edge-ai/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://blogs.nvidia.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'What Is Edge AI and How Does It Work?'}]}, {'@type': 'WebSite', '@id': 'https://blogs.nvidia.com/#website', 'url': 'https://blogs.nvidia.com/', 'name': 'NVIDIA Blog', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://blogs.nvidia.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://blogs.nvidia.com/#/schema/person/7a1065f3e27e5d89fdd715ad9afdc711', 'name': 'Tiffany Yeung', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://blogs.nvidia.com/#/schema/person/image/eddd764888b9855ace87617fd1f08fb0', 'url': 'https://blogs.nvidia.com/wp-content/uploads/2021/10/tiffany-yeung-scaled-96x96.jpg', 'contentUrl': 'https://blogs.nvidia.com/wp-content/uploads/2021/10/tiffany-yeung-scaled-96x96.jpg', 'caption': 'Tiffany Yeung'}, 'description': 'Tiffany Yeung is a product marketing manager in edge and enterprise computing solutions at NVIDIA. Tiffany focuses on enabling hospitals, stores, warehouses, factories and more to innovate with NVIDIA’s edge solutions. Tiffany’s background is in entrepreneurship, and she has consulted for many Fortune 500 companies.', 'url': 'https://blogs.nvidia.com/blog/author/tiffanyyeung/'}]",N/A,N/A,"
+
+
+
+What Is Edge AI and How Does It Work?
+
+February 17, 2022 by Tiffany Yeung 
+
+
+
+
+
+
+
+
+
+
+					Share			
+
+
+ 
+ 
+ 
+ 
+Email0 
+
+
+  Recent strides in the efficacy of AI, the adoption of IoT devices and the power of edge computing have come together to unlock the power of edge AI.
+This has opened new opportunities for edge AI that were previously unimaginable — from helping radiologists identify pathologies in the hospital, to driving cars down the freeway, to helping us pollinate plants.
+Countless analysts and businesses are talking about and implementing edge computing, which traces its origins to the 1990s, when content delivery networks were created to serve web and video content from edge servers deployed close to users.
+Today, almost every business has job functions that can benefit from the adoption of edge AI. In fact, edge applications are driving the next wave of AI computing in ways that improve our lives at home, at work, in school and in transit.
+Learn more about what edge AI is, its benefits and how it works, examples of edge AI use cases, and the relationship between edge computing and cloud computing.
+What Is Edge AI? 
+Edge AI is the deployment of AI applications in devices throughout the physical world. It’s called “edge AI” because the AI computation is done near the user at the edge of the network, close to where the data is located, rather than centrally in a cloud computing facility or private data center.
+Since the internet has global reach, the edge of the network can connote any location. It can be a retail store, factory, hospital or devices all around us, like traffic lights, autonomous machines and phones.
+Edge AI: Why Now? 
+Organizations from every industry are looking to increase automation to improve processes, efficiency and safety.
+To help them, computer programs need to recognize patterns and execute tasks repeatedly and safely. But the world is unstructured and the range of tasks that humans perform covers infinite circumstances that are impossible to fully describe in programs and rules.
+Advances in edge AI have opened opportunities for machines and devices, wherever they may be, to operate with the “intelligence” of human cognition. AI-enabled smart applications learn to perform similar tasks under different circumstances, much like real life.
+The efficacy of deploying AI models at the edge arises from three recent innovations.
+
+Maturation of neural networks: Neural networks and related AI infrastructure have finally developed to the point of allowing for generalized machine learning. Organizations are learning how to successfully train AI models and deploy them in production at the edge.
+Advances in compute infrastructure: Powerful distributed computational power is required to run AI at the edge. Recent advances in highly parallel GPUs have been adapted to execute neural networks.
+Adoption of IoT devices: The widespread adoption of the Internet of Things has fueled the explosion of big data. With the sudden ability to collect data in every aspect of a business — from industrial sensors, smart cameras, robots and more — we now have the data and devices necessary to deploy AI models at the edge. Moreover, 5G is providing IoT a boost with faster, more stable and secure connectivity.
+
+Why Deploy AI at the Edge? What Are the Benefits of Edge AI? 
+Since AI algorithms are capable of understanding language, sights, sounds, smells, temperature, faces and other analog forms of unstructured information, they’re particularly useful in places occupied by end users with real-world problems. These AI applications would be impractical or even impossible to deploy in a centralized cloud or enterprise data center due to issues related to latency, bandwidth and privacy.
+The benefits of edge AI include:
+
+Intelligence: AI applications are more powerful and flexible than conventional applications that can respond only to inputs that the programmer had anticipated. In contrast, an AI neural network is not trained how to answer a specific question, but rather how to answer a particular type of question, even if the question itself is new. Without AI, applications couldn’t possibly process infinitely diverse inputs like texts, spoken words or video.
+Real-time insights: Since edge technology analyzes data locally rather than in a faraway cloud delayed by long-distance communications, it responds to users’ needs in real time.
+Reduced cost: By bringing processing power closer to the edge, applications need less internet bandwidth, greatly reducing networking costs.
+Increased privacy: AI can analyze real-world information without ever exposing it to a human being, greatly increasing privacy for anyone whose appearance, voice, medical image or any other personal information needs to be analyzed. Edge AI further enhances privacy by containing that data locally, uploading only the analysis and insights to the cloud. Even if some of the data is uploaded for training purposes, it can be anonymized to protect user identities. By preserving privacy, edge AI simplifies the challenges associated with data regulatory compliance.
+High availability: Decentralization and offline capabilities make edge AI more robust since internet access is not required for processing data. This results in higher availability and reliability for mission-critical, production-grade AI applications.
+Persistent improvement: AI models grow increasingly accurate as they train on more data. When an edge AI application confronts data that it cannot accurately or confidently process, it typically uploads it so that the AI can retrain and learn from it. So the longer a model is in production at the edge, the more accurate the model will be.
+
+How Does Edge AI Technology Work?
+Lifecycle of an edge AI application.
+For machines to see, perform object detection, drive cars, understand speech, speak, walk or otherwise emulate human skills, they need to functionally replicate human intelligence.
+AI employs a data structure called a deep neural network to replicate human cognition. These DNNs are trained to answer specific types of questions by being shown many examples of that type of question along with correct answers.
+This training process, known as “deep learning,” often runs in a data center or the cloud due to the vast amount of data required to train an accurate model, and the need for data scientists to collaborate on configuring the model. After training, the model graduates to become an “inference engine” that can answer real-world questions.
+In edge AI deployments, the inference engine runs on some kind of computer or device in far-flung locations such as factories, hospitals, cars, satellites and homes. When the AI stumbles on a problem, the troublesome data is commonly uploaded to the cloud for further training of the original AI model, which at some point replaces the inference engine at the edge. This feedback loop plays a significant role in boosting model performance; once edge AI models are deployed, they only get smarter and smarter.
+What Are Examples of Edge AI Use Cases? 
+AI is the most powerful technology force of our time. We’re now at a time where AI is revolutionizing the world’s largest industries.
+Across manufacturing, healthcare, financial services, transportation, energy and more, edge AI is driving new business outcomes in every sector, including:
+
+Intelligent forecasting in energy: For critical industries such as energy, in which discontinuous supply can threaten the health and welfare of the general population, intelligent forecasting is key. Edge AI models help to combine historical data, weather patterns, grid health and other information to create complex simulations that inform more efficient generation, distribution and management of energy resources to customers.
+Predictive maintenance in manufacturing: Sensor data can be used to detect anomalies early and predict when a machine will fail. Sensors on equipment scan for flaws and alert management if a machine needs a repair so the issue can be addressed early, avoiding costly downtime.
+AI-powered instruments in healthcare: Modern medical instruments at the edge are becoming AI-enabled with devices that use ultra-low-latency streaming of surgical video to allow for minimally invasive surgeries and insights on demand.
+Smart virtual assistants in retail: Retailers are looking to improve the digital customer experience by introducing voice ordering to replace text-based searches with voice commands. With voice ordering, shoppers can easily search for items, ask for product information and place online orders using smart speakers or other intelligent mobile devices.
+
+What Role Does Cloud Computing Play in Edge Computing? 
+AI applications can run in a data center like those in public clouds, or out in the field at the network’s edge, near the user. Cloud computing and edge computing each offer benefits that can be combined when deploying edge AI.
+The cloud offers benefits related to infrastructure cost, scalability, high utilization, resilience from server failure, and collaboration. Edge computing offers faster response times, lower bandwidth costs and resilience from network failure.
+There are several ways in which cloud computing can support an edge AI deployment:
+
+The cloud can run the model during its training period.
+The cloud continues to run the model as it is retrained with data that comes from the edge.
+The cloud can run AI inference engines that supplement the models in the field when high compute power is more important than response time. For example, a voice assistant might respond to its name, but send complex requests back to the cloud for parsing.
+The cloud serves up the latest versions of the AI model and application.
+The same edge AI often runs across a fleet of devices in the field with software in the cloud
+
+Learn more about the best practices for hybrid edge architectures.
+The Future of Edge AI 
+Thanks to the commercial maturation of neural networks, proliferation of IoT devices, advances in parallel computation and 5G, there is now robust infrastructure for generalized machine learning. This is allowing enterprises to capitalize on the colossal opportunity to bring AI into their places of business and act upon real-time insights, all while decreasing costs and increasing privacy.
+We are only in the early innings of edge AI, and still the possible applications seem endless.
+Learn how your organization can deploy edge AI by checking out the top considerations for deploying AI at the edge.
+Dive deeper into edge computing on the NVIDIA Technical Blog.
+
+
+Categories: Data Center | Deep Learning | Explainer | RoboticsTags: Artificial Intelligence | Embedded Computing 
+
+
+ 
+
+
+
+
+All NVIDIA News 
+
+
+
+
+
+
+
+Decoding How AI-Powered Upscaling on NVIDIA RTX Improves Video Quality 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet the Designer Creating Spaces Where NVIDIANs Do Their Life’s Work 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jensen Huang, Mark Zuckerberg to Discuss Future of Graphics and Virtual Worlds at SIGGRAPH 2024 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mile-High AI: NVIDIA Research to Present Advancements in Simulation and Gen AI at SIGGRAPH 
+
+
+
+
+
+ Stay up to date on the latest enterprise news.Thank you for subscribing.* Professional Email AddressSubscribe NowUnsubscribe at any time. Read the NVIDIA Privacy Policy.
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NjaWVudGlzdC5jb20vYXJ0aWNsZS8yMzA4MjQzLWRlZXBtaW5kLXVzZXMtYWktdG8tY29udHJvbC1wbGFzbWEtaW5zaWRlLXRva2FtYWstZnVzaW9uLXJlYWN0b3Iv0gEA?oc=5,DeepMind uses AI to control plasma inside tokamak fusion reactor - New Scientist,2022-02-16,New Scientist,https://www.newscientist.com,"For the first time, artificial intelligence has been used to control the super-hot plasma inside a fusion reactor, offering a new way to increase stability and efficiency","['nuclear fusion technology', 'AI', 'fusion', 'ai', 'deepmind', 'tokamak', 'nuclear fusion', 'hydrogen plasma']","For the first time, artificial intelligence has been used to control the super-hot plasma inside a fusion reactor, offering a new way to increase stability and efficiency","For the first time, artificial intelligence has been used to control the super-hot plasma inside a fusion reactor, offering a new way to increase stability and efficiency",https://schema.org,,N/A,N/A,"
+
+
+
+
+
+
+Technology
+
+DeepMind uses AI to control plasma inside tokamak fusion reactor
+For the first time, artificial intelligence has been used to control the super-hot plasma inside a fusion reactor, offering a new way to increase stability and efficiency
+By Matthew Sparkes
+
+
+
+                                    16 February 2022
+                                                                    
+
+
+
+
+Facebook / Meta
+
+
+
+
+
+
+
+Twitter / X icon
+
+
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+Linkedin
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Plasma inside the TCV fusion reactor in SwitzerlandCurdin Wüthrich/SPC/EPFL
+Fusion reactors promise cheap, abundant and relatively clean energy – if we can get them to work. Now, thanks to artificial intelligence firm DeepMind, fusion researchers are one step closer to extracting power from plasma hotter than the surface of the sun.
+DeepMind worked with scientists at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, to create a neural network capable of controlling the magnetic fields within EPFL’s Variable Configuration Tokamak (TCV) fusion reactor.
+These magnetic fields are essential for keeping the plasma generated by the reactor safely contained. If the plasma touches the walls of the reactor it rapidly cools, stifling the reaction and potentially causing significant damage.Advertisement
+Join us for a mind-blowing festival of ideas and experiences. New Scientist Live is going hybrid, with a live in-person event in Manchester, UK, that you can also enjoy from the comfort of your own home, from 12 to 14 March 2022. Find out more.
+Researchers at the TCV previously used 19 magnetic coils, each controlled by a separate algorithm that monitored the interior of the reactor thousands of times a second with a host of sensors. DeepMind instead created a single neural network to control all the coils at once, automatically learning which voltages needed to be supplied to them to best contain the plasma.
+The team trained the AI on a precise digital simulation of the reactor before conducting experiments on the real machine. Ultimately, it was able to successfully contain the plasma for around 2 seconds, which is approaching the limits of the reactor – TCV can only sustain the plasma in a single experiment for up to 3 seconds, after which it needs 15 minutes to cool down. The record for fusion reactors is only 5 seconds, set recently by the Joint European Torus in the UK.
+As well as controlling the plasma, the AI was able to shape it and move it around within the reactor. New plasma shapes may bring efficiency or stability improvements in new fusion reactors such as ITER, which is currently being built in France and will be the world’s largest tokamak when complete in 2025. The AI even demonstrated the ability to control two separate beams of plasma at once.
+Several plasma configurations sculpted by Deepmind’s learning algorithmDeepMind & SPC/EPFL
+Federico Felici at EPFL says that although there are many theoretical approaches that could be used to contain the plasma with a magnetic coil, scientists have tried-and-tested strategies. But the AI surprised the team with its novel approach to forming those same plasma shapes with the coils.
+“This AI algorithm, the reinforcement learning, chose to use the TCV coils in a completely different way, which still more or less generates the same magnetic field,” says Felici. “So it was still creating the same plasma as we had expected, but it just used the magnetic cores in a completely different way because it had complete freedom to explore the whole operational space. So people were looking at these experimental results about how the coil currents evolve and they were pretty surprised.”
+
+Read more: Fusion energy record suggests we really could build artificial suns
+
+Gianluca Sarri at Queen’s University Belfast, UK, says that AI is key to the future of control systems for fusion reactors, which have yet to sustain a reaction that produces more power than is consumed.
+“Once this is done, this is not the end of the story. Then you have to make it a power plant,” he says. “And this AI is, in my opinion, the only way forward. There are so many variables, and a small change in one of them can cause a big change in the final output. If you try to do it manually, it’s a very lengthy process.”
+To make fusion reactors efficient, practical power sources, physicists need to increase the ratio between the pressure of the plasma and the power of the magnetic fields containing it, a value called beta, says Howard Wilson at the University of York, UK.
+“The plasma writhes and wiggles and tries to escape the clutches of the magnetic fields, and as one is pushing up that beta parameter, one is having to work harder and harder to get the control that one needs to just hold the plasma there,” he says. “The further you push the plasma, the more chance you just suddenly lose it.”
+Wilson believes these AI experiments show promise for containing plasma in “extreme geometries”, which paves the way for experiments with different plasma shapes that might yield improvements in stability or efficiency. “It makes the risky parameter space less risky to operate in, but also opens up new parameter space that we can go into and explore,” he says.
+Nature DOI: 10.1038/s41586-021-04301-9
+
+CERN and Mont Blanc: Explore particle physics and glaciers in Switzerland on a New Scientist Discovery Tour
+
+Topics:nuclear fusion technology/AI 
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up to our weekly newsletter
+
+Receive a weekly dose of discovery in your inbox! 
+            We'll also keep you up to date with New Scientist 
+            events and special offers.
+Sign up
+
+
+ 
+
+",NewsArticle,https://www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/,DeepMind uses AI to control plasma inside tokamak fusion reactor,News,2022-02-16T16:00:55+00:00,2022-02-21T16:09:21+00:00,"[{'@type': 'ImageObject', 'width': 1200, 'height': 675, 'url': 'https://images.newscientist.com/wp-content/uploads/2022/02/16111051/PRI_223707137.jpg?crop=16:9,smart&width=1200&height=675&upscale=true'}, {'@type': 'ImageObject', 'width': 1200, 'height': 900, 'url': 'https://images.newscientist.com/wp-content/uploads/2022/02/16111051/PRI_223707137.jpg?crop=4:3,smart&width=1200&height=900&upscale=true'}, {'@type': 'ImageObject', 'width': 1200, 'height': 1200, 'url': 'https://images.newscientist.com/wp-content/uploads/2022/02/16111051/PRI_223707137.jpg?crop=1:1,smart&width=1200&height=1200&upscale=true'}]","https://images.newscientist.com/wp-content/uploads/2022/02/16111051/PRI_223707137.jpg?crop=1:1,smart&width=150&height=150&upscale=true","{'@type': 'NewsMediaOrganization', 'name': 'New Scientist', 'publishingPrinciples': 'https://www.newscientist.com/about/', 'logo': {'@type': 'ImageObject', 'width': 336, 'height': 60, 'url': 'https://www.newscientist.com/build/images/logo-336x60.4cd3677a.svg'}}",True,False,"[{'@type': 'Person', 'name': 'Matthew Sparkes', 'url': 'https://www.newscientist.com/author/matthew-sparkes/', 'image': {'@type': 'ImageObject', 'width': 150, 'height': 150, 'url': 'https://images.newscientist.com/wp-content/uploads/2022/06/13155252/matthew-sparkes.jpg?crop=1:1,smart&width=150&height=150&upscale=true'}, 'sameAs': ['https://www.linkedin.com/in/matthewsparkes'], 'jobTitle': 'Technology reporter'}]","{'@type': 'WebPage', 'url': 'https://www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/'}",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnNjaWVuY2VuZXdzLm9yZy9hcnRpY2xlL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFpLWNyZWF0aXZpdHktYXJ0LWNvbXB1dGVyLXByb2dyYW3SAQA?oc=5,Artificial intelligence challenges what it means to be creative - Science News Magazine,2022-02-17,Science News Magazine,https://www.sciencenews.org,"Computer programs can mimic famous artworks, but struggle with originality and lack self-awareness.",N/A,"Computer programs can mimic famous artworks, but struggle with originality and lack self-awareness.","Computer programs can mimic famous artworks, but struggle with originality and lack self-awareness.",https://schema.org,"[{'@type': ['Person', 'Organization'], '@id': 'https://www.sciencenews.org/#person', 'name': 'Science News Magazine', 'sameAs': ['https://www.facebook.com/sciencenews', 'https://twitter.com/sciencenews'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.sciencenews.org/#logo', 'url': 'https://www.sciencenews.org/wp-content/uploads/2022/10/sn-square.png', 'contentUrl': 'https://www.sciencenews.org/wp-content/uploads/2022/10/sn-square.png', 'caption': 'Science News Magazine', 'inLanguage': 'en-US', 'width': '512', 'height': '512'}, 'image': {'@type': 'ImageObject', '@id': 'https://www.sciencenews.org/#logo', 'url': 'https://www.sciencenews.org/wp-content/uploads/2022/10/sn-square.png', 'contentUrl': 'https://www.sciencenews.org/wp-content/uploads/2022/10/sn-square.png', 'caption': 'Science News Magazine', 'inLanguage': 'en-US', 'width': '512', 'height': '512'}}, {'@type': 'WebSite', '@id': 'https://www.sciencenews.org/#website', 'url': 'https://www.sciencenews.org', 'name': 'Science News Magazine', 'publisher': {'@id': 'https://www.sciencenews.org/#person'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg?fit=1440%2C810&amp;ssl=1', 'url': 'https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg?fit=1440%2C810&amp;ssl=1', 'width': '1440', 'height': '810', 'caption': 'photo of a person looking at the ""Edmond de Belamy"" portrait', 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program#webpage', 'url': 'https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program', 'name': 'Artificial intelligence challenges what it means to be creative', 'datePublished': '2022-02-17T07:00:00-05:00', 'dateModified': '2022-02-17T07:00:00-05:00', 'isPartOf': {'@id': 'https://www.sciencenews.org/#website'}, 'primaryImageOfPage': {'@id': 'https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg?fit=1440%2C810&amp;ssl=1'}, 'inLanguage': 'en-US'}, {'@type': 'NewsArticle', 'headline': 'Artificial intelligence challenges what it means to be creative', 'datePublished': '2022-02-17T07:00:00-05:00', 'dateModified': '2022-02-17T07:00:00-05:00', 'articleSection': 'Computing', 'author': {'@id': 'https://www.sciencenews.org/author/richard-moss', 'name': 'Helen Thompson'}, 'publisher': {'@id': 'https://www.sciencenews.org/#person'}, 'description': 'Computer programs can mimic famous artworks, but struggle with originality and lack self-awareness.', 'name': 'Artificial intelligence challenges what it means to be creative', '@id': 'https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program#richSnippet', 'isPartOf': {'@id': 'https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program#webpage'}, 'image': {'@id': 'https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg?fit=1440%2C810&amp;ssl=1'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program#webpage'}}, {'@type': 'Person', '@id': 'https://www.sciencenews.org/author/richard-moss', 'name': 'Richard Moss', 'description': 'Richard Moss is a freelance writer based in Melbourne, Australia. He is author of The Secret History of Mac Gaming and the forthcoming Shareware Heroes.', 'url': 'https://www.sciencenews.org/author/richard-moss'}]",Computing,N/A,"
+
+
+
+
+					Century of Science				
+
+
+		Computing	
+
+
+
+
+	Artificial intelligence challenges what it means to be creative
+
+
+
+
+ 
+
+
+This portrait, ""Edmond de Belamy,"" sold in 2018 for $432,500. It was created by an algorithm.
+
+
+TIMOTHY A. CLARY/AFP via Getty Images
+
+
+
+
+
+Share this:EmailFacebookTwitterPinterestPocketRedditPrint
+
+
+
+
+By Richard Moss
+February 17, 2022 at 7:00 am
+
+
+
+
+
+
+
+When British artist Harold Cohen met his first computer in 1968, he wondered if the machine might help solve a mystery that had long puzzled him: How can we look at a drawing, a few little scribbles, and see a face? Five years later, he devised a robotic artist called AARON to explore this idea. He equipped it with basic rules for painting and for how body parts are represented in portraiture — and then set it loose making art.
+Not far behind was the composer David Cope, who coined the phrase “musical intelligence” to describe his experiments with artificial intelligence–powered composition. Cope once told me that as early as the 1960s, it seemed to him “perfectly logical to do creative things with algorithms” rather than to painstakingly draw by hand every word of a story, note of a musical composition or brush stroke of a painting. He initially tinkered with algorithms on paper, then in 1981 moved to computers to help solve a case of composer’s block.
+
+
+To celebrate our 100th anniversary, we’re highlighting some of the biggest advances in science over the last century. To see more from the series, visit Century of Science.
+READ MORE
+
+Cohen and Cope were among a handful of eccentrics pushing computers to go against their nature as cold, calculating things. The still-nascent field of AI had its focus set squarely on solid concepts like reasoning and planning, or on tasks like playing chess and checkers or solving mathematical problems. Most AI researchers balked at the notion of creative machines.
+Slowly, however, as Cohen and Cope cranked out a stream of academic papers and books about their work, a field emerged around them: computational creativity. It included the study and development of autonomous creative systems, interactive tools that support human creativity and mathematical approaches to modeling human creativity. In the late 1990s, computational creativity became a formalized area of study with a growing cohort of researchers and eventually its own journal and annual event.
+The robotic artist AARON produced this sketch in 1985, which was hand-colored by AARON-creator Harold Cohen.Harold Cohen, AARON
+Soon enough — thanks to new techniques rooted in machine learning and artificial neural networks, in which connected computing nodes attempt to mirror the workings of the brain — creative AIs could absorb and internalize real-world data and identify patterns and rules that they could apply to their creations.
+Computer scientist Simon Colton, then at Imperial College London and now at Queen Mary University of London and Monash University in Melbourne, Australia, spent much of the 2000s building the Painting Fool. The computer program analyzed the text of news articles and other written works to determine the sentiment and extract keywords. It then combined that analysis with an automated search of the photography website Flickr to help it generate painterly collages in the mood of the original article. Later the Painting Fool learned to paint portraits in real time of people it met through an attached camera, again applying its “mood” to the style of the portrait (or in some cases refusing to paint anything because it was in a bad mood).
+The Painting Fool, an AI artist created by Simon Colton, generated collages based on text analysis and Flickr searches.The Painting Fool/thepaitingfool.com
+Similarly, in the early 2010s, computational creativity turned to gaming. AI researcher and game designer Michael Cook dedicated his Ph.D. thesis and early research associate work at Goldsmiths, University of London to creating ANGELINA — which made simple games based on news articles from The Guardian, combining current affairs text analysis with hard-coded design and programming techniques.
+During this era, Colton says, AIs began to look like creative artists in their own right — incorporating elements of creativity such as intentionality, skill, appreciation and imagination. But what followed was a focus on mimicry, along with controversy over what it means to be creative.
+
+
+		Related Stories	
+
+ 
+
+ 
+
+
+
+							Science & Society						
+
+
+
+				The spoken word album ‘Experimental Words’ weaves rhyme with reason			
+
+
+				By Aina AbellSeptember 29, 2021 
+
+
+ 
+
+ 
+
+
+
+							Artificial Intelligence						
+
+
+
+				Artificial intelligence has now pretty much conquered poker			
+
+
+				By Maria TemmingJuly 11, 2019 
+
+
+ 
+
+ 
+
+
+
+							Artificial Intelligence						
+
+
+
+				Why large language models aren’t headed toward humanlike understanding			
+
+
+				By Tom SiegfriedFebruary 28, 2024 
+
+ 
+
+New techniques that excelled at classifying data to high degrees of precision through repeated analysis helped AI master existing creative styles. AI could now create works like those of classical composers, famous painters, novelists and more.
+One AI-authored painting modeled on thousands of portraits painted between the 14th and 20th centuries sold for $432,500 at auction. In another case, study participants struggled to differentiate the musical phrases of Johann Sebastian Bach from those created by a computer program called Kulitta that had been trained on Bach’s compositions. Even IBM got in on the fun, tasking its Watson AI system with analyzing 9,000 recipes to devise its own cuisine ideas.
+But many in the field, as well as onlookers, wondered if these AIs really showed creativity. Though sophisticated in their mimicry, these creative AIs seemed incapable of true innovation because they lacked the capacity to incorporate new influences from their environment. Colton and a colleague described them as requiring “much human intervention, supervision, and highly technical knowledge” in producing creative results. Overall, as composer and computer music researcher Palle Dahlstedt puts it, these AIs converged toward the mean, creating something typical of what is already out there, whereas creativity is supposed to diverge away from the typical.
+
+
+
+
+ The best of Science News - direct to your inbox Headlines and summaries of the latest Science News articles, delivered to your email inbox every Thursday. Email     Continue  
+
+In order to make the step to true creativity, Dahlstedt suggested, AI “would have to model the causes of the music, the conditions for its coming into being — not the results.”
+True creativity is a quest for originality. It is a recombination of disparate ideas in new ways. It is unexpected solutions. It might be music or painting or dance, but also the flash of inspiration that helps lead to advances on the order of light bulbs and airplanes and the periodic table. In the view of many in the computational creativity field, it is not yet attainable by machines.
+In just the past few years, creative AIs have expanded into style invention — into authorship that is individualized rather than imitative and that projects meaning and intentionality, even if none exists. For Colton, this element of intentionality — a focus on the process, more so than the final output — is key to achieving creativity. But he wonders whether meaning and authenticity are also essential, as the same poem could lead to vastly different interpretations if the reader knows it was written by a man versus a woman versus a machine.
+If an AI lacks the self-awareness to reflect on its actions and experiences, and to communicate its creative intent, then is it truly creative? Or is the creativity still with the author who fed it data and directed it to act?
+Ultimately, moving from an attempt at thinking machines to an attempt at creative machines may transform our understanding of ourselves. Seventy years ago Alan Turing — sometimes described as the father of artificial intelligence — devised a test he called “the imitation game” to measure a machine’s intelligence against our own. “Turing’s greatest insight,” writes philosopher of technology Joel Parthemore of the University of Skövde in Sweden, “lie in seeing digital computers as a mirror by which the human mind could consider itself in ways that previously were not possible.”
+ 
+
+Questions or comments on this article? E-mail us at feedback@sciencenews.org | Reprints FAQ
+
+
+
+About Richard Moss
+
+
+Richard Moss is a freelance writer based in Melbourne, Australia. He is author of The Secret History of Mac Gaming and the forthcoming Shareware Heroes.
+
+
+
+
+
+
+
+
+
+We are at a critical time and supporting science journalism 
+is more important than ever. Science News and our 
+parent organization, the Society for Science, need your help to strengthen 
+scientific literacy and ensure that important societal decisions are made 
+with science in mind.
+
+Please 
+
+subscribe to Science News and add $16 to expand 
+science literacy and understanding.
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbmV3cy51Z2EuZWR1L2FuLWludGVyZXN0LWluLWFpLWxlZC10aGlzLXN0dWRlbnQtdG8tYS1qb2ItYXQtZ29vZ2xlL9IBAA?oc=5,An interest in AI led this student to a job at Google - University of Georgia,2022-02-18,University of Georgia,https://news.uga.edu,Foundation Fellow Nathan Safir is happiest when working on a complicated problem.,N/A,Foundation Fellow Nathan Safir is happiest when working on a complicated problem.,N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#article', 'isPartOf': {'@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/'}, 'author': [{'@id': 'https://news.uga.edu/#/schema/person/image/d5559469ef83bdfee5cf4d248196bf9a'}], 'headline': 'An interest in AI led this student to a job at Google', 'datePublished': '2022-02-18T14:00:39+00:00', 'dateModified': '2022-02-18T14:00:39+00:00', 'mainEntityOfPage': {'@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/'}, 'wordCount': 755, 'publisher': {'@id': 'https://news.uga.edu/#organization'}, 'image': {'@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#primaryimage'}, 'thumbnailUrl': 'https://news.uga.edu/wp-content/uploads/2022/02/Safir-2.jpg', 'keywords': ['Columns', 'Foundation Fellows', 'Franklin College of Arts and Sciences', 'Graduate School', 'Inside UGA', 'Morehead Honors College'], 'articleSection': ['Student Spotlight'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/', 'url': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/', 'name': 'An interest in AI led this student to a job at Google', 'isPartOf': {'@id': 'https://news.uga.edu/#website'}, 'primaryImageOfPage': {'@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#primaryimage'}, 'image': {'@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#primaryimage'}, 'thumbnailUrl': 'https://news.uga.edu/wp-content/uploads/2022/02/Safir-2.jpg', 'datePublished': '2022-02-18T14:00:39+00:00', 'dateModified': '2022-02-18T14:00:39+00:00', 'description': 'Foundation Fellow Nathan Safir is happiest when working on a complicated problem.', 'breadcrumb': {'@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#primaryimage', 'url': 'https://news.uga.edu/wp-content/uploads/2022/02/Safir-2.jpg', 'contentUrl': 'https://news.uga.edu/wp-content/uploads/2022/02/Safir-2.jpg', 'width': 2100, 'height': 1400, 'caption': 'Nathan Safir in the Institute for Artificial Intelligence in the Boyd Research and Education Center. (Photo by Chamberlain Smith/UGA)'}, {'@type': 'BreadcrumbList', '@id': 'https://news.uga.edu/an-interest-in-ai-led-this-student-to-a-job-at-google/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://news.uga.edu/'}, {'@type': 'ListItem', 'position': 2, 'name': 'An interest in AI led this student to a job at Google'}]}, {'@type': 'WebSite', '@id': 'https://news.uga.edu/#website', 'url': 'https://news.uga.edu/', 'name': 'UGA Today', 'description': 'Today’s top news from the University of Georgia', 'publisher': {'@id': 'https://news.uga.edu/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://news.uga.edu/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://news.uga.edu/#organization', 'name': 'University of Georgia', 'url': 'https://news.uga.edu/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.uga.edu/#/schema/logo/image/', 'url': 'https://news.uga.edu/wp-content/uploads/2017/09/RGB-GEORGIA-FS-FC.png', 'contentUrl': 'https://news.uga.edu/wp-content/uploads/2017/09/RGB-GEORGIA-FS-FC.png', 'width': 2574, 'height': 843, 'caption': 'University of Georgia'}, 'image': {'@id': 'https://news.uga.edu/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/universityofga', 'https://x.com/universityofga', 'https://www.instagram.com/universityofga/', 'https://www.linkedin.com/school/166638/', 'https://www.youtube.com/channel/UCmNT8A6kDI_-Xxjlhcm9VRg']}, {'@type': 'Person', '@id': 'https://news.uga.edu/#/schema/person/image/d5559469ef83bdfee5cf4d248196bf9a', 'name': 'Jill Hamilton', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.uga.edu/#/schema/person/image/23494c9101089ad44ae88ce9d2f56aac', 'url': 'https://secure.gravatar.com/avatar/?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/?s=96&d=mm&r=g', 'caption': 'Jill Hamilton'}, 'url': 'https://news.uga.edu/author/jill-hamilton/'}]",N/A,N/A,"
+
+Student Spotlight
+An interest in AI led this student to a job at Google
+February 18, 2022by
+
+Jill Hamilton
+
+
+
+
+
+ 
+Nathan Safir in the Institute for Artificial Intelligence in the Boyd Research and Education Center. (Photo by Chamberlain Smith/UGA)
+
+
+Foundation Fellow Nathan Safir is happiest when working on a complicated problem
+
+
+As Nathan Safir was finishing up his master’s in artificial intelligence at the University of Georgia, he had a big decision to make: Did he want to accept the Marshall Scholarship to pursue a Ph.D. in computer science in England or accept an offer to start work at Google this summer?
+Safir, a Foundation Fellow, applied his problem-solving brain to the decision.
+“Mostly I tried to simplify it into a decision of ‘Am I more excited to work now or am I more excited to go to grad school now?’” said Safir, who has a B.S. in computer science with a minor in geography.
+Safir in the Institute for Artificial Intelligence in the Boyd Research and Education Center. (Photo by Chamberlain Smith/UGA)
+Google was the winner. For now. Safir hopes to get his Ph.D. in artificial intelligence sometime in the future.
+Whatever way he gets there, the end goal is the same – he wants to work in artificial intelligence. “Whether it’s working on a new cool application, existing AI methods, or actually doing the research, I’d really love to work somewhere in that space,” said Safir.
+This flexibility will serve Safir well at Google, because he doesn’t yet know what he’ll be doing at the company when he arrives in California this August. “They’ll start team matching closer to my start date,” said Safir. “All I know is that I’ll be in the Bay Area and possibly working on the Google Ads team.”
+During a Google internship in summer 2021, he worked with the Cloud AI team.
+UGA has helped him find his passion for AI in several ways. One was a difficult math class his first year in college. “I was a super eager freshman, so I took Math 3500. It’s notorious for being very tough, and it was. I was glad I took it, but I realized I was less interested in the proof-based rigorous mathematics.”
+Nathan Safir outside of the Institute for Artificial Intelligence in the Boyd Research and Education Center. (Photo by Chamberlain Smith/UGA)
+He decided to pick up machine learning instead. “It presented an interesting way to use mathematical thinking and be able to think creatively.”
+Also helpful in guiding his path was UGA’s Foundation Fellowship, a merit-based scholarship based in the Jere W. Morehead Honors College that is awarded to between 20-25 high school seniors out of 1,200 applicants. It’s the reason Safir, who grew up in Kansas City, Missouri, ultimately chose UGA out of his ranked list of 13 potential schools.
+He said he most appreciates the travel opportunities, although they’ve been a bit truncated during the COVID years, and the people he’s met along the way. “The network of people you can talk to about careers or cool places you could work – that type of thing was super helpful for me trying to imagine what I wanted to do in the future.” Safir said he interacts with staff, peers and friends from the Fellowship on a daily basis.
+Safir’s gateway into programming was a documentary he saw in middle school on Mark Zuckerberg. “It said he learned C++ from a book when he was about my age so I checked out the same C++ book from the library. I don’t think I picked it up as quickly as he did, but that was the beginning of me trying to learn programming.”
+“I’ve been into math and quantitative problem solving since I was really young. Programming was just an extension of that logical problem-solving,” he said.
+Safir is a down-to-earth, well-rounded person who can move between playing in local Monday pick-up hockey games, coaching Athens Youth Hockey and working on his tennis game, to high-level problem-solving. But he’s happiest when he has a tough question to work on.
+“My thesis is working on a theoretical problem of how to extend an architecture called variational autoencoders to work with both labeled and unlabeled data,” he said. “My lab, led by Dr. Quinn of the CS department, is at the intersection of biomedical imaging and artificial intelligence. It’s a theoretical problem inspired by a real-world problem. It’s an especially open field—I feel like there are a million different things you can work on. I’m just happy I can be a part of it.”
+
+
+
+Columns Foundation Fellows Franklin College of Arts and Sciences Graduate School Inside UGA Morehead Honors College 
+
+
+
+FacebookXPinterestLinkedIn 
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vY251LmVkdS9uZXdzLzIwMjIvMDIvMTYtcGNzZS1jcmVlY2gv0gEA?oc=5,Professors Awarded Grant to Boost AI Lab Capabilities - Christopher Newport University,2022-02-16,Christopher Newport University,https://cnu.edu,Major retrofit will enhance artificial intelligence and machine-learning work.,"cybersecurity, ai, artificial intelligence, machine learning, stem",Major retrofit will enhance artificial intelligence and machine-learning work.,Major retrofit will enhance artificial intelligence and machine-learning work.,,,N/A,N/A,"
+
+
+
+Professors Awarded Grant to Boost AI Lab Capabilities
+Major retrofit will enhance artificial intelligence and machine-learning work.
+by Brian McGuire |         February 16, 2022
+
+
+Above: The Hunter Creech lab
+
+Read time: less than a minute
+
+Three professors in the Department of Physics, Computer Science and Engineering have been awarded a grant from Virginia's Commonwealth Cyber Initiative to overhaul lab space in Luter Hall that supports the cybersecurity major.
+Christopher Kreider, Michael Lapke and Nazli Siasi are leading the project, which will see the beloved Hunter Creech Lab receive major upgrades to its capabilities over the next year.
+The planned enhancements will enable Christopher Newport students to pursue the latest developments in artificial intelligence and machine learning in preparation for careers in the fast-growing field of cybersecurity. The grant includes funding for new high-performance computer workstations, cloud-based software applications and other resources to power the new technologies.
+""Enabling students to do hands-on work in these areas is extremely important from a learning perspective,"" Kreider said. ""Lab environments that enable us to work in safe virtual environments will greatly enhance both our teaching and independent exploration for students.""
+Installation of the new resources will begin this summer and be ready for use by students and faculty in fall 2022.
+
+
+Read more like this
+
+
+ Student Research and Creative Activity 
+ Faculty Research and Creative Activity 
+ Academics 
+ Physics Computer Science and Engineering 
+ College of Natural and Behavioral Sciences 
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5hdHVyZS5vcmcvZW4tdXMvd2hhdC13ZS1kby9vdXItaW5zaWdodHMvcGVyc3BlY3RpdmVzL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWdyZWVuLWVuZXJneS1wbGFubmluZy_SAQA?oc=5,"Hydropower, River Protection, and Artificial Intelligence | TNC - The Nature Conservancy",2022-02-18,The Nature Conservancy,https://www.nature.org,How AI can help us balance clean energy expansion and habitat protection.,"['feature', 'latin america', 'hydropower', 'rivers', 'energy siting', 'en_us']","The world needs more renewable energy, but we also need to protect wild habitats, especially free-flowing rivers. So how do we balance these goals? A.I. can help.","The world needs more renewable energy, but we also need to protect wild habitats, especially free-flowing rivers. So how do we balance these goals? A.I. can help.",http://schema.org,,N/A,N/A,N/A,NewsArticle,https://www.nature.org/en-us/what-we-do/our-insights/perspectives/artificial-intelligence-green-energy-planning/,Three Things to Know About Artificial Intelligence and Green Energy Planning,Global Insights,,,,https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=0%2C296%2C4185%2C2197&amp;wid=1200&amp;hei=630&amp;scl=3.4875,,,,,,2022-02-18T12:00:00Z,[],"{""readTimeMinutes"":"""",""isBlogTemp"":""false"",""primaryAuthor"":"""",""description"":""The world needs more renewable energy, but we also need to protect wild habitats, especially free-flowing rivers. So how do we balance these goals? A.I. can help."",""contentTypeTag"":""Feature"",""articleDate"":""Feb 18, 2022"",""target"":""_self"",""pageImage"":{""small"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=300&hei=225&scl=12.4"",""default"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=300&hei=225&scl=12.4"",""medium2x"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=800&hei=600&scl=4.65"",""large"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=800&hei=600&scl=4.65"",""small2x"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=600&hei=450&scl=6.2"",""medium"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=800&hei=600&scl=4.65"",""large2x"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=1600&hei=1200&scl=2.325""},""autoFeatureImage"":{""small"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=300&hei=225&scl=12.4"",""default"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=300&hei=225&scl=12.4"",""medium2x"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=396%2C0%2C3392%2C2790&wid=800&hei=658&scl=4.240121580547113"",""large"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=292%2C0%2C3600%2C2790&wid=800&hei=620&scl=4.5"",""small2x"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=232%2C0%2C3720%2C2790&wid=600&hei=450&scl=6.2"",""medium"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=301%2C0%2C3582%2C2790&wid=800&hei=623&scl=4.478330658105939"",""large2x"":""https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/r/BR_SACR101101_D017.jpg?crop=286%2C0%2C3611%2C2790&wid=1600&hei=1236&scl=2.2572815533980584""},""pageImageAlt"":""Aerial view of river."",""desktopImageCrop"":""center-middle"",""mobileImageCrop"":""center-middle""}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9pbnRlcnZpZXcvZXhjbHVzaXZlLWludGVydmlldy13aXRoLWFsYW4tbG9ja2V0dC12cC1vZi1tYWNoaW5lLWxlYXJuaW5nLWFuZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1kaXNjb9IBkwFodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvaW50ZXJ2aWV3L2V4Y2x1c2l2ZS1pbnRlcnZpZXctd2l0aC1hbGFuLWxvY2tldHQtdnAtb2YtbWFjaGluZS1sZWFybmluZy1hbmQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZGlzY28?oc=5,"Exclusive interview with Alan Lockett, VP of Machine Learning and Artificial Intelligence, DISCO - Analytics Insight",2022-02-17,Analytics Insight,https://www.analyticsinsight.net,,"DISCO,Legal technology company,Alan Lockett,Machine learning ,Artificial intelligence",Trending technologies like machine learning and artificial intelligence are now being used in almost every sector and the legal industry is no different. Operat,Trending technologies like machine learning and artificial intelligence are now being used in almost every sector and the legal industry is no different. Operat,http://schema.org,,N/A,N/A,"The Best Crypto Stocks of July 2024
+",NewsArticle,https://www.analyticsinsight.net/interview/exclusive-interview-with-alan-lockett-vp-of-machine-learning-and-artificial-intelligence-disco,"Exclusive interview with Alan Lockett, VP of Machine Learning and Artificial Intelligence, DISCO",Interview,2022-02-17T04:35:00Z,2022-02-17T04:35:00Z,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Exclusive-interview-with-Alan-Lockett-VP-of-Machine-Learning-and-Artificial-Intelligence-DISCO.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Exclusive-interview-with-Alan-Lockett-VP-of-Machine-Learning-and-Artificial-Intelligence-DISCO.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",,,"[{'@type': 'Person', 'givenName': 'Market Trends', 'name': 'Market Trends', 'url': 'https://www.analyticsinsight.net/author/market-trends'}]","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/interview/exclusive-interview-with-alan-lockett-vp-of-machine-learning-and-artificial-intelligence-disco'}",2022-02-17T04:35:00Z,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Interview', 'item': 'https://www.analyticsinsight.net/interview'}, {'@type': 'ListItem', 'position': 3, 'name': 'Exclusive interview with Alan Lockett, VP of Machine Learning and Artificial Intelligence, DISCO', 'item': 'https://www.analyticsinsight.net/interview/exclusive-interview-with-alan-lockett-vp-of-machine-learning-and-artificial-intelligence-disco'}]","Trending technologies like machine learning and artificial intelligence are now being used in almost every sector and the legal industry is no different. Operations like research recommendations and folder analysis are currently done with the help of AI. DISCO is a cutting-edge legal technology company developing legal services products backed by AI. Analytics Insight has engaged in an exclusive interview with Alan Lockett, VP of Machine Learning and Artificial Intelligence, DISCO..Can you tell me about DISCO, your role, and your responsibilities?.DISCO is a cutting-edge legal technology company developing legal services products backed by AI. I am the Vice President of Machine Learning and Artificial Intelligence. In that role, I coordinate DISCO's technical approach to AI across products and lead a team of researchers and developers that implement our AI methods..How does AI in legal practice actually work? .Good AI technologies for legal remove obstacles and enable the lawyer to focus on the tasks that require their legal skills. There are two key ways this happens. First, AI channels the flood of digital information into comprehensible streams. In doing so, AI allows lawyers to keep up with the rapid pace of increase in digital information that lawyers have to review as part of their jobs, including emails, spreadsheets, chats, images, video, and audio. Second, AI integrates data from diverse sources such as documentary evidence, depositions, legal precedents, regulations, and statutes to help lawyers attain a cohesive understanding of the key issues for their clients..Do we need to fear the Robo lawyer? .AI technologies as they exist today are not competent to make decisions that require sophisticated legal judgment, but they give back time to the lawyer to make those judgment calls.  Misconceptions and fears about AI's role in the legal industry are misplaced and in some cases may prevent legal practitioners from adopting technology that could streamline their work. Technological innovation has changed the practice of law but not in the ways many might expect. Autonomous cyborgs are far from replacing the uniquely human aspects of legal reasoning. AI in the legal revolution will augment human intelligence––not replace it..Should AI be exciting to someone with a law degree? Why? .Absolutely. Law school graduates at every level of their careers should be excited about AI. Lawyers that do not embrace AI technology will not be able to compete with lawyers that do. The sheer amount of data involved in many legal cases make it unrealistic to practice law without the benefit of advanced technology. Once tasks such as documentation or reviews that don't require legal judgment are automated, lawyers can dedicate more of their time to practicing law. In the end, by allowing lawyers to focus on serious legal questions, AI can help lawyers to deliver more just and equitable outcomes..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","Exclusive interview with Alan Lockett, VP of Machine Learning and Artificial Intelligence, DISCO","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/interview/exclusive-interview-with-alan-lockett-vp-of-machine-learning-and-artificial-intelligence-disco', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Exclusive-interview-with-Alan-Lockett-VP-of-Machine-Learning-and-Artificial-Intelligence-DISCO.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,,,
+https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbGlzdGVuL3Byb2dyYW1zL2JpZ2lkZWFzLzEzNzA4MjI20gEA?oc=5,BBC Reith Lecture 3: Artificial Intelligence In The Economy - ABC News,2022-02-17,ABC News,https://www.abc.net.au,Professor Stuart Russell's Reith lectures explore the role of artificial intelligence and what it means for the way we live our lives. How will we adapt as work is increasingly done by machines?,"paul barclay,big ideas,abc,radio national,stuart lee,artificial intelligence,reith lecture,bbc,economy",Professor Stuart Russell's Reith lectures explore the role of artificial intelligence and what it means for the way we live our lives. How will we adapt as work is increasingly done by machines?,N/A,http://schema.org,,N/A,N/A,"In this series of Reith Lectures, Stuart Russell explores the impact of Artificial Intelligence (AI) on our lives.As the world becomes increasingly reliant on all-powerful AI, are we in danger of losing control over the machines that govern so much of what we do?In this third lecture, he asks how will we - and the economy - adapt as work is increasingly done by machines.Due to copyright reasons the stream and download of this talk is only available for 30 days after first broadcast, but you can access the audio via the BBC website.SpeakerStuart Russell - Professor of Computer Science at the University of California, BerkleyCreditsPaul Barclay, PresenterDamian Rabbitt, ProducerImage DetailsAt a factory on the outskirts of Tokyo, Nextage robots control the floor making ATM and vending machines. They do the work of three human beings 24 hours a day.(ABC News)Program:More from Big IdeasRobotics, Computer Science, Community and Society, WorkGet the ABC listen appTake your favourite podcasts and radio with youMore EpisodesAndrew O’Hagan delivers a defence of literature and truth in the age of the machines Published: 8h agoThu 18 Jul 2024 at 3:00amThe surprising bonds that make us and break us — Ceridwen Dovey, Anna McGahan, Ahona Guha  Published: YesterdayWed 17 Jul 2024 at 3:00amBarkaa, Steph Tisdell and Rudi Bremer: Indigenous performers are expected to be perfectPublished: TueTue 16 Jul 2024 at 3:00amThe Australian far right todayPublished: MonMon 15 Jul 2024 at 3:00am",Article,,BBC Reith Lecture 3: Artificial Intelligence In The Economy,,2022-02-17T09:05:00+00:00,2022-02-16T22:08:24+00:00,"{'@type': 'ImageObject', 'height': 90, 'url': 'https://live-production.wcms.abc-cdn.net.au/ae490dc89a4094cd4f31f911dd3b82c2?impolicy=wcms_crop_resize&cropH=413&cropW=738&xPos=207&yPos=2&width=160&height=90', 'width': 160}",,"{'@type': 'Organization', 'name': 'ABC listen', 'logo': {'@type': 'ImageObject', 'height': 60, 'url': '', 'width': 388}}",,,"[{'@type': 'Person', 'name': 'Paul Barclay'}, {'@type': 'Person', 'name': 'Damian Rabbitt'}]",https://www.abc.net.au/listen/programs/bigideas/13708226,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMilAFodHRwczovL2hvc3BpdGFsaXR5LmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9zcGVha2luZy1oZWFkcy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1lbmNvdXJhZ2VzLWNsb3VkLWtpdGNoZW5zLXRvLWJlLW1vcmUtZWZmZWN0aXZlLzg5NTk4OTA30gGYAWh0dHBzOi8vaG9zcGl0YWxpdHkuZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9zcGVha2luZy1oZWFkcy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1lbmNvdXJhZ2VzLWNsb3VkLWtpdGNoZW5zLXRvLWJlLW1vcmUtZWZmZWN0aXZlLzg5NTk4OTA3?oc=5,Artificial Intelligence encourages cloud kitchens to be more effective - ETHospitality,2022-02-17,ETHospitality,https://hospitality.economictimes.indiatimes.com,ETHospitalityWorld An initiative of The Economic Times,"['Speaking Heads', 'Cloud Kitchens', 'Nirmala Sitharaman', 'Manjari Singh', 'Hospitality Sector', 'Machine', 'Cloud Kitchen']","Cloud Kitchens: After the pandemic and with the new instructions and regulations, the game plan for the industry has changed now.","Cloud Kitchens: After the pandemic and with the new instructions and regulations, the game plan for the industry has changed now.",http://schema.org,,N/A,N/A,N/A,WebSite,https://hospitality.economictimes.indiatimes.com,Artificial Intelligence encourages cloud kitchens to be more effective,Speaking Heads,2022-02-17T14:00:00+05:30,2022-02-17T14:00:00+05:30,"[{'@type': 'ImageObject', 'url': 'https://etimg.etb2bimg.com/thumb/msid-89598907,width-1200,height-900,resizemode-4/.jpg', 'width': 1200, 'height': 900}]",,"{'@type': 'NewsMediaOrganization', 'name': 'ETHospitalityWorld', 'logo': {'@type': 'ImageObject', 'url': 'https://img.etb2bimg.com/files/cp/upload-1679564125-et-hospitality-light-theme.png', 'width': 600, 'height': 60}}",,,"[{'@type': 'Thing', 'name': 'ET HospitalityWorld', 'url': 'https://hospitality.economictimes.indiatimes.com'}]","{'@type': 'WebPage', '@id': 'https://hospitality.economictimes.indiatimes.com/news/speaking-heads/artificial-intelligence-encourages-cloud-kitchens-to-be-more-effective/89598907'}",,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://hospitality.economictimes.indiatimes.com', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://hospitality.economictimes.indiatimes.com/news', 'name': 'News'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://hospitality.economictimes.indiatimes.com/news/speaking-heads', 'name': 'Speaking Heads'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://hospitality.economictimes.indiatimes.com/news/speaking-heads/artificial-intelligence-encourages-cloud-kitchens-to-be-more-effective/89598907', 'name': 'Artificial Intelligence encourages cloud kitchens to be more effective'}}]","By Manjari SinghThe online food delivery industry is moving continuously towards growth and constantly making its impact on the hospitality sector. With the new instructions and some reliefs announced by the finance minister Nirmala Sitharaman for the union budget Hospitality Sector 2022-23. Now the industry is all set to perform its best to realigned its outline. After the pandemic and with the new instructions and regulations, the game plan for the industry has changed now. The current trend that has become famous in the Hospitality industry is Cloud Kitchen and it has been more than two years of the covid 19 pandemic we have seen the cloud kitchen is on the top list when talking about the growth &amp; overall hospitality sector.Cloud kitchens are also known as ghost kitchens. It is like a viable kitchen space that is only used to prepare meals for the online deliveries and takeout. These commercial kitchens are used for the facilities and services needed to make the food items. The dine-in facility is not available in the cloud-based kitchen models. It is worth expressive that cloud kitchens have some great recompense.Cloud kitchen has a massive scale and now it primarily focuses on delivering online food and reaching a larger audience. This way cloud kitchen reinforces its brand and increases greater exposure. They generally provide food within 10 km and that too in 20-30 minutes. Online food delivery has increased by 150% in the past two years due to the pandemic and the work-from-home culture.If we look at our past two years we can witness that number of students and migrants or those who were working outside their cities were stuck due to the covid restrictions and regulations implemented by the government of India. Hence it results in most of the people have adapted work from home culture instead of regular office for too long and the only problem the country was facing is no further involvement &amp; engagement in outside activities like parties, travel &amp; tourism, hangouts, etc.The Cloud- kitchens trends come up in the high spot when people got bored with the restrictions and work from home culture pressurized them with zero involvement in outdoor activities. they start to order food online from cloud kitchens as per their taste and cuisine because that was the only way to taste the food &amp; dishes and now cloud kitchens have become a trend in the overall hospitality sector.Artificial IntelligenceThe support of Artificial intelligence and Machine learning in this sector is giving cloud kitchens the platform for being more effective and restructuring their operations magnificently. The 21st century is observing rapid growth in terms of technology. There have been countless useful inventions and advanced innovative tech that are helping figure out the future of the country. One such invention is AI. everything these days is based on AI and Machine learning the latest ones to join this flourishing tech are restaurateurs.Online food delivery businesses have been running magnificently with this technology for a very long time now but with people getting more happy dining at home, the impression of cloud kitchens is on an all-time rise and AI is only adding to the profits of these kitchens. AI supports cloud kitchens finding out the right cuisines, identifying the menu mix, managing inventory, and dealing with customer feedback. Machine learning has played an enormous role in the way restaurants are doing business.Effective Cloud KitchensTraditional restaurants receive less profit as compared to the ones that have a cloud kitchen because they need a viable space, large staff with waiters, electricity costs, etc. On the other hand, a ghost kitchen can run in a basement or even in a parking lot. They don&rsquo;t need much administer and hence the revenue margin is big as compared to traditional restaurants.It takes a decent amount of money to start a restaurant by leasing a building rather than expensive construction according to the restaurant&rsquo;s needs. Cloud or virtual kitchens save money by leasing a commercial kitchen and it helps in reducing the cost. If you are planning to open your own ghost kitchen-based food chain, all you need is a decent space and some great chefs.At present-day, cloud kitchens are fulfilling the needs of consumers with their satisfaction of providing the facility of the dining experience at home rather than traditional kitchens and AI-based models has big support towards them in focusing on the quality of food, administrative tasks of the kitchen like health, property taxes, security monitoring, utility bills, and the needs of the consumer instead of other problems. The cloud kitchen ensures uniform taste along with the high-quality production of food. The upcoming future of cloud kitchen has incredible scope for the and it can reconstruct the whole figure of Hospitality Sector.Manjari Singh is the Co-founder of The Chhaunk",ETHospitalityWorld,,,"{'@type': 'Place', 'address': 'Times Internet Limited (Times Center), FC - 6, Sector 16 A, Film City, Noida - 201301 Uttar Pradesh, India'}","{'@type': 'ImageObject', 'url': 'https://img.etb2bimg.com/files/cp/upload-1679564125-et-hospitality-light-theme.png', 'width': 600, 'height': 60}",contactus@ethospitalityworld.com,"{'@type': 'SearchAction', 'target': 'https://hospitality.economictimes.indiatimes.com/search/{query}', 'query-input': 'required name=query'}"

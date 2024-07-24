@@ -1,0 +1,439 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,article:section,article:summary,article text,mainEntityOfPage,dateCreated,heading,@graph,inLanguage,thumbnailUrl,copyrightHolder,sameAs,hasPart,creator,articleBody,isPartOf,alternativeHeadline
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc3RldmViYW5rZXIvMjAyMi8wMi8yNC9jb21wYW5pZXMtaW1wcm92ZS10aGVpci1zdXBwbHktY2hhaW5zLXdpdGgtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,Companies Improve Their Supply Chains With Artificial Intelligence - Forbes,2022-02-25,Forbes,https://www.forbes.com,"Supply chain vendors have been touting their investments in artificial intelligence (AI) for years. But the number of places AI is being employed, really is increasing. ",,"Supply chain vendors have been touting their investments in artificial intelligence (AI) for years. But the number of places AI is being employed, really is increasing. ","Supply chain vendors have been touting their investments in artificial intelligence (AI) for years. But the number of places AI is being employed, really is increasing. ",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/6217e9d6209351e6e9949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Steve Banker', 'url': 'https://www.forbes.com/sites/stevebanker/', 'description': 'I am the Vice President of Supply Chain Services at ARC Advisory Group, a leading industry analyst and technology consulting company. I engage in quantitative and qualitative research on supply chain management technologies, best practices, and emerging trends. I’ve been published in Supply Chain Management Review, have a weekly column in Logistics Viewpoints (www.logisticsviewpoints.com), and can be followed on Twitter @steve_scm or contacted at sbanker@arcweb.com.', 'sameAs': ['http://www.logisticsviewpoints.com']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",Companies Improve Their Supply Chains With Artificial Intelligence,2022-02-24T15:28:59-05:00,2022-02-25T10:14:01-05:00,Transportation - Business,Companies Improve Their Supply Chains With Artificial Intelligence,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Transportation', 'item': 'https://www.forbes.com/transportation/'}]",Transportation - Business,N/A,"More From ForbesOct 22, 2022,08:00am EDTEdison’s Solar Power Prediction, Elon Musk’s $100 Billion Loss And Green Gas From LandfillsOct 11, 2022,02:25pm EDTThe Pandemic Has Changed The Supply Chain Management Profession ForeverOct 8, 2022,01:44pm EDTGreener Industrial Chemicals, EV Fleet Challenges And Tesla’s Record DeliveriesOct 6, 2022,01:30pm EDTGrid And Charging Speed Bumps Ahead As Amazon, FedEx And Transit Fleets Go ElectricOct 5, 2022,05:00am EDTGatik Goes Driverless In Canada For Grocery Giant LoblawsOct 4, 2022,09:00am EDTWhy Don’t You Have A Self-Driving Car Yet?  Part Two Outlines Some Social ProblemsOct 4, 2022,04:30am EDTInvestors And Buyers: Very Confusing Sustainability Choices In The Auto IndustryEdit StoryForbesInnovationTransportationCompanies Improve Their Supply Chains With Artificial IntelligenceSteve BankerContributorOpinions expressed by Forbes Contributors are their own.I cover logistics and supply chain management.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itFeb 24, 2022,03:28pm ESTUpdated Feb 25, 2022, 10:14am ESTThis article is more than 2 years old.Share to FacebookShare to TwitterShare to LinkedinData scientists. Male programmer using laptop analyzing and developing in various information on ... [+] futuristic virtual interface screen. Algorithm. marketing and deep learning of artificial intelligencegetty
+Many large enterprises use one form or another of a supply chain application to help manage their supply chains. Supply chain vendors have been touting their investments in artificial intelligence (AI) for the last several years. In the course of updating our annual research on the supply chain planning market, I talked to executives across the industry. Alex Pradhan, Product Strategy Leader John Galt Solutions, told me that “all planning vendors have bold marketing around AI.” But the trick is to find suppliers with “field-proven AI/ML algorithms” that “have been delivered at scale.”
+
+
+Further, while artificial intelligence helps solve certain types of problems, Jay Muelhoefer - the chief marketing officer at Kinaxis pointed out - optimization and heuristics work better for other types of planning problems. This article, which is focused on the different types of artificial intelligence used and the types of problems they are solving, is aimed at helping practitioners cut through the hype.
+
+Let’s start with a definition: any device that can perceive its environment and takes actions that maximize its chance of success at some goal is engaged in some form of artificial intelligence (AI). AI can refer to several different types of math. But, in the supply chain realm, machine learning (ML) is where most of the activity surrounding artificial intelligence has been focused.
+
+PROMOTED
+Garbage In, Garbage Out
+It is also worth pointing out, that based on this definition, not all forms of machine learning are particularly complicated. Planning applications don’t work well if the master data they rely on is not accurate; this is known as the “garbage in, garbage out” problem. Artificial intelligence is beginning to be used to update the data. Lead times, for example, are a critical form of master data for planning purposes. Having an agent detect how long it takes to ship from a supplier site to a manufacturing facility, and then doing a running calculation on how the average lead time is changing, is trivial math. The agent technology is much more complicated than the math. Relying on humans to update this data has not worked at all well; people just don’t want to do it.
+
+But sometimes fixing the bad data problem is complicated. In process industries the supply chain models used for optimization are much more complex than those used in other industries. The processing units in an oil refinery, for example, operate at high temperature and high pressure. These constraints need to be understood. So, models for heavy process industries often include first principle parameters. First principles reflect physical laws such as mass balance, energy balance, heat transfer relations, and reaction kinetics. The first principles are important to understand yields, as well as the energy requirements for running the equipment.
+MORE FROMFORBES ADVISORBest Travel Insurance CompaniesByAmy DaniseEditorBest Covid-19 Travel Insurance PlansByAmy DaniseEditor
+AspenTech has developed in a process simulator which is tuned with real plant operating data. During development, the models automatically perform thousands of permutations and perturbations of the first principles model to create a large data set to which AI algorithms applied. The AspenTech models combine the classic first principles approach with the modern pure data-driven approach. Starting with a first principles model, according to AspenTech, improves accuracy significantly. They tell me, the model with either a first principles or pure data plus AI, the model accuracy would be in the 90-97% range. But hybrid models that combine first principles, data-driven models, and AI, they have 99+% accuracy.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+Demand Planning Models Really Can Learn
+A supply chain planning model learns when the planning application takes an output, like a forecast, observes the accuracy of the output, and then updates its own model so that better outputs will occur in the future.
+
+
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE
+When you look at machine learning this way, artificial intelligence for supply chain planning is nothing new. Machine learning has been used to improve demand forecasting since the early 2000s. But machine learning for demand forecasting is much better than it used to be. There are far more forecasts being made in far more planning horizons and at a greater degree of specificity today than 20 years ago. For example, forecasting how much of a particular product will be sold in a particular store is far more intensive than forecasting how many products in a product family will be sold in a region. This explosion in the number of forecasts would not be possible without the latest generation of machine learning. There were only a few SCP suppliers with mature capabilities in this area a few years ago. Since then, virtually every supplier I talked to in the process of updating this year’s Supply Chain Planning Market Analysis Study has said they are investing in this area.
+One example of the value of machine learning in demand planning comes from Mahindra & Mahindra. Aniruddh Srivastava, Head of Demand and Supply Planning at Mahindra & Mahindra, said at Blue Yonder’s Icon user conference that artificial intelligence and machine learning algorithms are the cornerstone of their strategy. Through their partnership with Blue Yonder, Mahindra & Mahindra was able to increase forecast accuracy by 10%. A better forecast leads to carrying less inventory while maintaining or even improving service levels. The improvement in forecasting contributed to an increase in service levels by 10% while reducing inventory investment by 20%.
+But that was pre-COVID. But after the pandemic hit their safety stock was increased by 30%. “Post-COVID it was not about savings,” Mr. Srivastava explained. “The game changed to a global competition for the same set of raw materials.” This division makes automotive spare parts, so the competition was to secure semiconductor chips.
+During the pandemic, forecasting accuracy was terrible. Forecasting is based on the presumption that history repeats itself. As an E2open forecasting benchmarking report pointed out, “for companies trying to predict demand in March of 2020 as the world was descending into lockdown and everything was being turned upside down, what happened in March of 2019 had little to no relevance.”
+But if there was any silver lining it was that companies that made use of planning systems that combined demand sensing – the use of multiple, real-time signals (like sales in a particular store or shipments from a retailer’s warehouses to their stores) – and machine learning, had significantly less error. And the companies that used these solutions, saw their forecasts improve much more quickly than traditional solutions.
+In making demand forecasts, one can look at product history. An alternative is to look at customer behavior surrounding how clusters of customers buy these products. QAD Dynasys is one of several suppliers investing here.
+One thing that is difficult to forecast are new product introductions. The way this forecasting is done is through the use of attributes. If you are looking at a purse, attributes would include the material it is made of, size, color, and other things as well. To the extent that one product is like another, it may be easier to forecast. But which attributes matter? Infor is using machine learning looking at attributes and past launches to make this determination. Solvoyo and Lily AI are using another form of AI, image recognition, to tackle this problem. Getting merchandisers to enter the attributes has not worked well. Merchandisers see this as an unimportant, dull task and they just don’t take the time to do this properly.
+Machine Learning and the Sustainability Feedback Loop
+One real trend ARC has seen this year, is the increasing investment supply chain planning suppliers are making to improve the ability of SCP to help companies reach their sustainability goals. Cyrus Hadavi, the CEO of Adexa, provides a good explanation for how SCP solutions can calculate the carbon footprint associated with a plan. “The way this works is that every element in the supply chain is given a carbon index, absolute or relative. That is every machine, factory, DC, mode of transportation, supplier, product, material, etc. These indices then become attributes of these objects. Every time we plan and use any of these elements, the system can project the total carbon footprint of the projected plan. Additionally, we have embedded self-correcting algorithms - using ML - in building the model of the digital twin. For example, we learn the energy efficiency of the resource in the month of June vs. December.” In addition to carbon emissions, these attributes can be used for other forms environmental and governance goals as well.
+So, a plan can be produced that predicts the emissions. After a plan is executed, the actual emissions that occurred can be measured, and it is possible to see how close the plan came to what occurred. Just as a demand planning solution compares the forecast to what actually sold and uses machine learning to improve the machines forecasting capabilities, a similar feedback loop can exist with sustainability.
+AI is Also Used for Supply Planning
+Artificial intelligence can also be used in supply and factory planning. But on the supply planning side it is not about using machine learning to select the right algorithms to improve the plans. When supply plans don’t pan out it is less about the model than it is about a data quality issue or an unexpected occurrence. An example of an input issue would be, “We thought it took 20 minutes to set up this machine to make product C, but it really takes 60 minutes when product A was made right before product C.” An example of an unexpected occurrence would be a critical piece of machinery breaking down.
+Machine learning is being used to predict machine breakdowns. But very few vendors are taking those alerts and automatically feeding them into their manufacturing planning solutions. AspenTech has probably done the most in this area. AspenTech, for example, is using predictive analytic inputs on when key machinery in a refinery will break down to allow alternative production schedules to be generated in a more autonomous manner. AspenTech’s advantage is that they have both asset management (a solution that can use machine learning for the predictive maintenance alert) and the supply chain planning models those alerts can feed.
+Natural Language Processing is Also Being Used
+A less commonly used form of AI in supply chain applications is natural language processing (NLP). Google’s Alexa uses NLP to understand a person’s command and then play the music they want. There is a desire to use NLP to allow planners to tell a planning system what to do so they can focus more of their time on higher priority problems.
+But Coupa and Oracle are also leveraging natural language processing for supplier risk assessment. Humans don’t speak with a clarity that machines can understand. A company can go bankrupt, and a machine could be programmed to understand that. But on social media someone might say that a company is about to go “belly up.” Machines don’t understand this type of “unstructured” data. NLP helps to make sense of these kinds of data. Oracle’s DataFox is accessing databases with important company information, but it also has web crawlers examining huge numbers of online news sites as well as social media to discover negative news about a company. That news could be an impending bankruptcy, unhappy customers, key executives leaving the company, or many other things. These “events” are turned into supplier scores, and if significant the score goes flagged in the Oracle procurement system. Now Oracle is working to connect these scores to the planning systems. At Coupa supplier risk is also flagged for single source or capacity constraints. This can then be leveraged by their supply chain design solution to improve risk mitigation.
+AI Drives Autonomous Decision Making
+Companies need to take machine learning driven demand-side predictions – which are particularly good at granular short-term forecasts - and adjust production accordingly. The closer in time a plan’s creation comes to the actual execution of an order, the more a planning system becomes an execution system. The idea is for supply planning application to digest a short horizon demand signals into meaningful plans by using machine learning to suggest courses of action for planners. These suggestions are based upon the way planners had previously solved the same kind of demand/supply disruption. However, this kind of AI does not work out of the box. The system observes planners’ actions over time and then learns to make the pertinent suggestions. QAD and Noodle.ai are among several suppliers working in this area.
+In the last couple of years, RELEX Solutions has developed new capabilities for autonomous capacity balancing. In short, the AI algorithms can pull orders forward (for products with longer shelf-life) to level out the flow of goods into distribution centers and stores as well as to adhere to time-dependent capacity limits. Johanna Småros, Co-founder & Chief Marketing Officer at RELEX, points out “the current difficulties in finding staff have really raised awareness of the value of being able to plan ahead to ensure availability and efficient use of human resources as well as to plan around this availability when it becomes a bottleneck in the supply chain.”
+Blue Yonder, in turn has developed a machine learning powered Dynamic Segmentation solution that automatically groups customers with similar fulfillment or procurement needs based on data changes, and then develops distinct supply chain operations to meet those specific requirements. This enables planners to provide differentiated service levels based on customer value and business parameters
+While this article stemmed from research ARC is doing on the supply chain planning market, and most AI investments have been focused on planning applications, it is worth pointing out that AI investments are increasing in the supply chain execution realm as well. Companies like Oracle, Manhattan Associates, Koerber, and Blue Yonder, are all increasing the R&D in AI in their supply chain execution systems. A transportation system that applies machine learning to predict how long it will take a truck to make a delivery is one example of this. A warehouse management system that can digest a prediction of what ecommerce customers are apt to buy, and then drop the right work orders at the right time to the warehouse floor, is another example of this. 
+Final Thoughts
+To sum it up, Madhav Durbha – the vice president of supply chain strategy at Coupa Software – said that artificial intelligence is becoming much more widely adopted “due to progress occurring on several fronts at the same time. These include the development of new machine learning algorithms, “computing power, big data analytics, and acceptance by industry leaders.”
+But remember, AI only fixes supply chains to a degree; this is not like waving a magic wand and seeing your supply chain problems suddenly vanish. Nevertheless, AI really is improving planning, and it is increasingly being used to improve order execution as well.
+Check out my website. Steve BankerFollowingFollowI am the Vice President of Supply Chain Services at ARC Advisory Group, a leading industry analyst and technology consulting company. I engage in... Read MoreEditorial StandardsPrintReprints & Permissions
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5tY2tpbnNleS5jb20vaW5kdXN0cmllcy90ZWNobm9sb2d5LW1lZGlhLWFuZC10ZWxlY29tbXVuaWNhdGlvbnMvb3VyLWluc2lnaHRzL2hvdy1haS1pcy1oZWxwaW5nLXJldm9sdXRpb25pemUtdGVsY28tc2VydmljZS1vcGVyYXRpb25z0gEA?oc=5,How AI is helping revolutionize telco service operations - McKinsey,2022-02-25,McKinsey,https://www.mckinsey.com,"Solutions that enable advanced retail experiences, smarter scheduling, self-healing, and better coaching can reduce complexity, lower costs, and make both customers and employees happier.",N/A,"Solutions that enable advanced retail experiences, smarter scheduling, self-healing, and better coaching can reduce complexity, lower costs, and make both customers and employees happier.","Solutions that enable advanced retail experiences, smarter scheduling, self-healing, and better coaching can reduce complexity, lower costs, and make both customers and employees happier.",https://schema.org,Article,https://www.mckinsey.com,https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/high%20tech/our%20insights/how%20ai%20is%20helping%20revolutionize%20telco%20service%20operations/standard-service-ops.png,"[{'@type': 'Person', 'name': 'Jorge Amar', 'url': 'https://www.mckinsey.com/our-people/jorge-amar'}, {'@type': 'Person', 'name': 'Tomás Lajous', 'url': 'https://www.mckinsey.com/our-people/tomas-lajous'}, {'@type': 'Person', 'name': 'Shreya Majumder'}, {'@type': 'Person', 'name': 'Zachary Surak', 'url': 'https://www.mckinsey.com/our-people/zachary-surak'}]","{'@type': 'Organization', 'name': 'McKinsey & Company', 'logo': {'@type': 'ImageObject', 'url': 'https://www.mckinsey.com/~/media/Thumbnails/Mck_Logo'}}",,2022-02-25T00:00:00Z,2022-02-25T00:00:00Z,,,,,N/A,N/A,N/A,"{'@type': 'WebPage', '@id': 'https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-ai-is-helping-revolutionize-telco-service-operations'}",2021-11-30T12:42:29Z,How AI is helping revolutionize telco service operations,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lml0YnVzaW5lc3NlZGdlLmNvbS9kYXRhLWNlbnRlci93aGF0LWlzLWdlbmVyYXRpdmUtYWkv0gEA?oc=5,What is Generative AI? IT - IT Business Edge,2022-02-25,IT Business Edge,https://www.itbusinessedge.com,Generative AI is a promising advancement in artificial intelligence. Here is what that means for enterprises large and small.,N/A,Generative AI is a promising advancement in artificial intelligence. Here is what that means for enterprises large and small.,N/A,https://schema.org,BreadcrumbList,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://www.itbusinessedge.com/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.itbusinessedge.com/data-center/', 'name': 'Data Center'}}]",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+Data Center
+
+What is Generative AI?
+
+By Kashyap Vyas
+
+February 25, 2022 
+
+
+
+
+
+
+Share
+FacebookTwitterLinkedinEmailPrint
+
+
+
+
+
+Generative AI is an innovative technology that helps generate artifacts that formerly relied on humans, offering inventive results without any biases resulting from human thoughts and experiences.
+This new tech in AI determines the original pattern entered in the input to generate creative, authentic pieces that showcase the training data features. The MIT Technology Review stated Generate AI is a promising advancement in artificial intelligence.
+Generative AI offers better quality results through self-learning from all datasets. It also reduces the challenges linked with a particular project, trains ML (machine learning) algorithms to avoid partiality, and allows bots to understand abstract concepts.
+Gartner mentioned Generative AI in its lists of major trends of 2022 and highlighted that enterprises could use this innovative technology in two ways:
+Enhancing current innovative workflows together with humans: Developing artifacts to aid better creative tasks performed by humans. For instance, game designers can utilize generative AI to create dungeons, highlighting what they prefer and don’t prefer about the content created in terms like “somewhat like this” or “little less like that.”Functioning as an artifact production unit: Generative AI can produce creative pieces in any quantity with little human involvement (apart from shaping the parameters of what they want to create). It only requires setting the context, and the results will be generated independently.
+
+Table of Contents
+ToggleBenefits of Generative AIChallenges of Generative AIIs Generative AI Just Supervised Training?Applications of Generative AIThe Road Ahead for Generative AI Looks Promising
+Benefits of Generative AI
+Protection of your identity: The avatars produced by generative AI offer security to those who don’t wish to reveal their identities during interview sessions or work.Robotics control: Generative AI strengthens ML models, makes them less partial, and realizes more abstract concepts in imitating the real world.Healthcare: The technology has simple and easy detection of probable malice and develops efficient treatments against it. For instance, Generative Adversarial Networks (GANs) can calculate several angles of an X-ray picture to show the possibility of tumor expansion.
+Also read: What’s Next for Ethical AI?
+Challenges of Generative AI
+Safety: It has been observed that malicious people use generative AI for scamming purposes.Highly estimated abilities: Generative AI algorithms need considerable training data to perform tasks like creating art; however, the images created are not wholly new. Instead, these models only mix and match what they know in the best possible ways.Unpredictable outcomes: In some models of generative AI, it is simple to handle their behavior, but sometimes, they may yield erroneous or unexpected results.Data Security: With the technology relying on data, sectors like healthcare and defense may face privacy concerns when leveraging generative AI applications.
+Is Generative AI Just Supervised Training?
+Generative AI is a semi-supervised training framework. This learning methodology involves manually marked training information for supervised training and unmarked data for unsupervised training methods. Here, unmarked data is used to develop models that can predict more than the marked training by enhancing the data quality.
+Some of the key advantages of GANs, a semi-supervised framework of generative AI against supervised learning, are:
+Overfitting: Generative AI models have lesser parameters, so it may be tougher to overfit. Also, generative models need a high quantity of data because of the training procedure, making them sturdier to obstructions.Human partiality: Human marks are not as evident as in the supervised learning methodology in generative AI modeling. The learning works on the data properties that permit the exclusion of bogus correlations.Model partiality: Generative models don’t generate results the same as the training data. Hence, the shape and texture problem disappears.
+Also read: What Does Explainable AI Mean for Your Business?
+Applications of Generative AI
+AI-generative NFTs
+With sales of non-fungible tokens (NFTs) reaching $25 billion in 2021, the sector is currently one of the most lucrative markets in the crypto world. Art NFT, in particular, is creating a major impact.
+While the most popular art NFTs are cartoons and memes, a new kind of NFT trend is emerging that leverages the power of AI and human imagination. Coined as AI-Generative Art, these non-fungible tokens use GANs to produce machine-based art images.
+Art AI is one such example of an art gallery that showcases AI-generated paintings. It released a tool that transforms text into art and helps the creators sell their art pieces on NFT. Metascapes, on the other hand, combine images to generate a new photograph. It uses two learning models, and the output gets better every time. These art pieces are placed on sale online.
+Identity security
+Generative AI allows people to maintain privacy using avatars instead of images. In addition, it can also help companies opt for impartial recruitment practices and research to present unbiased results.
+Image processing
+AI is used in extraordinary ways to process low-resolution images and develop more precise, clearer, and detailed pictures. For example, Google published a blog post to let the world know they have created two models to turn low-resolution images into high-resolution images.
+The upscale examples include photography of a woman from 64 x 64 input to 1024 x 1024 output. The process helps restore old images and movies and upscale them to 4K and more. It also helps to transform black and white movies into color.
+Healthcare
+Generative AI better identifies an ailment to help patients receive impactful treatment even during the early stages.
+Audio synthesis
+With Generative AI, it is possible to create voices that resemble humans. The computer-generated voice is helpful to develop video voiceovers, audible clips, and narrations for companies and individuals.
+Design
+Many businesses now use generative AI to create more advanced designs. For instance, Jacobs, an engineering company, used generative design algorithms to design a life-support backpack for NASA’s new spacesuits.
+Client segmentation
+AI allows users to acknowledge and differentiate target groups for promotional campaigns. It learns from the available data to estimate the response of a target group to advertisements and marketing campaigns.
+Generative AI also helps develop customer relationships using data and gives marketing teams the power to enhance their upselling or cross-selling strategies.
+Sentiment analysis
+ML involves using text, pictures, and voice evaluation to grasp people’s emotions. For example, AI algorithms can learn from web activity and user data to interpret customers’ opinions towards a company and its products or services.
+Detecting fraud
+Several businesses already use automated fraud-detection practices that leverage the power of AI. These practices have helped them locate malicious and suspicious actions quickly and with superior accuracy. AI is now detecting illegal transactions through preset algorithms and rules and is making the detection of theft identification easier.
+Trend evaluation
+ML and artificial learning technology are helpful to predict the future. These technologies aid in providing valuable insights on the trends beyond conventional calculative analysis.
+Software development
+Generative AI has also influenced the software development sector by automating manual coding. Rather than coding the software completely, the IT professionals now have the flexibility to quickly develop a solution by explaining the AI model about what they are looking for.
+For instance, a model-based tool GENIO can enhance a developer’s productivity multifold compared to a manual coder. The tool helps citizen developers, or non-coders, develop applications specific to their requirements and business processes and reduces their dependency on the IT department.
+The Road Ahead for Generative AI Looks Promising
+While generative AI is becoming a boon today for image production, restoration of movies, and 3D environment creation, the technology will soon have a significant impact on several other industry verticals. By empowering machines to do more than just replace manual labor and take on creative tasks, we will likely see a broader range of use cases and adoption of generative AI across different sectors.
+Read next: Top Artificial Intelligence (AI) Software 2022
+
+
+Previous articleUiPath vs Automation Anywhere: RPA Tool ComparisonNext articleAnsible vs. Terraform: DevOps Tool Comparison
+Kashyap VyasKashyap Vyas is a writer with 9+ years of experience writing about SaaS, cloud communications, data analytics, IT security, and STEM topics. In addition to IT Business Edge, he's been a contributor to publications including Interesting Engineering, Machine Design, Design World, and several other peer-reviewed journals. Kashyap is also a digital marketing enthusiast and runs his own small consulting agency.
+
+
+
+
+
+
+                    Get the Free Newsletter!                
+
+                    Subscribe to Daily Tech Insider for top news, trends, and analysis.                
+
+
+
+
+                        Email Address
+                    
+
+
+
+
+
+
+                            By signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy.                        
+
+
+
+                    Subscribe                
+
+
+
+
+
+
+Latest Articles
+
+
+
+ 
+
+Security
+How DeFi is Reshaping the Future of Finance
+
+
+
+
+
+
+ 
+
+Applications
+Enterprise Software Startups: What It Takes To Get VC Funding
+
+
+
+
+
+
+ 
+
+Applications
+Top RPA Tools 2022: Robotic Process Automation Software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ",,,,"[{'@type': 'WebPage', '@id': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/', 'url': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/', 'name': 'What is Generative AI? IT Business Edge', 'isPartOf': {'@id': 'https://www.itbusinessedge.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/#primaryimage'}, 'image': {'@id': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/#primaryimage'}, 'thumbnailUrl': 'https://assets.itbusinessedge.com/uploads/2022/02/What-is-Generative-AI-.jpg', 'datePublished': '2022-02-25T19:52:18+00:00', 'dateModified': '2022-02-25T19:52:20+00:00', 'author': {'@id': 'https://www.itbusinessedge.com/#/schema/person/e28c3a60ad5139d3e7b69a13660516ce'}, 'description': 'Generative AI is a promising advancement in artificial intelligence. Here is what that means for enterprises large and small.', 'breadcrumb': {'@id': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.itbusinessedge.com/data-center/what-is-generative-ai/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/#primaryimage', 'url': 'https://assets.itbusinessedge.com/uploads/2022/02/What-is-Generative-AI-.jpg', 'contentUrl': 'https://assets.itbusinessedge.com/uploads/2022/02/What-is-Generative-AI-.jpg', 'width': 1800, 'height': 1200, 'caption': 'What is Generative AI?'}, {'@type': 'BreadcrumbList', '@id': 'https://www.itbusinessedge.com/data-center/what-is-generative-ai/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.itbusinessedge.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'What is Generative AI?'}]}, {'@type': 'WebSite', '@id': 'https://www.itbusinessedge.com/#website', 'url': 'https://www.itbusinessedge.com/', 'name': 'IT Business Edge', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.itbusinessedge.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.itbusinessedge.com/#/schema/person/e28c3a60ad5139d3e7b69a13660516ce', 'name': 'Kashyap Vyas', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.itbusinessedge.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/2ff65f9822b86f3d852e57dcdbf6c2b1?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/2ff65f9822b86f3d852e57dcdbf6c2b1?s=96&d=mm&r=g', 'caption': 'Kashyap Vyas'}, 'description': ""Kashyap Vyas is a writer with 9+ years of experience writing about SaaS, cloud communications, data analytics, IT security, and STEM topics. In addition to IT Business Edge, he's been a contributor to publications including Interesting Engineering, Machine Design, Design World, and several other peer-reviewed journals. Kashyap is also a digital marketing enthusiast and runs his own small consulting agency."", 'url': 'https://www.itbusinessedge.com/author/kashyap-vyas/'}]",,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmEtc3Rhci5lZHUuc2cvTmV3cy9hc3Rhck5ld3MvbmV3cy9mZWF0dXJlcy9tYWtpbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd29yay1mb3Itc3VzdGFpbmFiaWxpdHnSAQA?oc=5,"Making artificial intelligence work for sustainability - Agency for Science, Technology and Research (A*STAR)",2022-02-28,"Agency for Science, Technology and Research (A*STAR)",https://www.a-star.edu.sg,Artificial intelligence (AI) systems today are already transforming industries and becoming an indispensable part of our daily lives.,N/A,Artificial intelligence (AI) systems today are already transforming industries and becoming an indispensable part of our daily lives.,N/A,,,,,,,,,,,,,,N/A,N/A,"
+Science Talk
+Published on 28 February 2022 | By Ong Yew Soon and Lim Keng Hui | Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
+
+Artificial intelligence (AI) systems today are already transforming industries and becoming an indispensable part of our daily lives. Such systems, which leverage machines to process and analyse large amounts of data, have vastly changed how humans work and play, and are being used today in many sectors, from banking to energy to agriculture. But AI systems can be energy-intensive, and there is a pressing need for those working in the field of AI to address the potentially large environmental impacts. This is especially as demand for data and intelligent devices continues to proliferate. Singapore has committed itself to environmental sustainability, underlined by its ratification of the Paris Agreement and recent plans to reach net-zero by or around mid-century. Environmental criteria have also become a crucial performance measure for companies and industries. Rising interest in sustainable investing is a strong signal that corporations – including AI-dependent ones – will soon be held accountable for their greenhouse gas emissions.
+
+The Environmental Impact Of Ai
+
+The field of AI is progressing by leaps and bounds, driven by advances in hardware and an exponential increase in computing power. But the massive computation required to obtain these impressive technological feats comes at a price. Training AI models can incur substantial financial and environmental costs due to the energy needed to perform such computations. On top of the monetary costs of hardware, electricity and cloud compute time, powering such hardware for weeks and months at a time could also leave a huge carbon footprint.
+
+Studies have found that Google’s AlphaGo Zero – the AI that plays the game of Go against itself to self-learn – generated a massive 96 tonnes of carbon dioxide over 40 days of research training. That is comparable to 1,000 hours of air travel, as well as the carbon footprint of about 10 average Singaporeans over an entire year.
+
+In Singapore – a popular regional hub for data centres – there is growing concern over the increasing power consumption and widening carbon footprint of its data centre industry. A typical 20MW data centre on the island consumes the same amount of electricity a day as around 60,000 households – or about the energy usage size of Yishun town. With an estimated 60 data centres here accounting for about 7 per cent of the country’s total electricity consumption in 2020, the carbon footprint is significant.
+
+In 2019, a “temporary pause” was imposed on the building of new data centres in Singapore to assess the balance between environment sustainability and supporting business needs. New conditions have since been announced for new data centre applications from the second quarter of this year, and the Government will continue to evaluate its policies towards new data centres.
+
+Globally, the carbon footprint for data centres is estimated at more than 2 per cent of global carbon emissions. This number is expected to rise to 3.2 per cent by 2025 and 14 per cent by 2040. This highlights the critical importance of having sustainable AI, which can address the issues of carbon footprint and resource utilisation.
+
+Working towards greater data use efficiency is a three-year research programme led by the Agency for Science, Technology and Research (A*STAR) in partnership with local institutes of higher learning such as the Nanyang Technological University, National University of Singapore, Singapore Management University and the Singapore University of Technology and Design.
+
+Making Ai More Sustainable
+
+Under the research programme, researchers in Singapore are working on different fronts to make AI more sustainable. For example, as much of the energy usage by AI models occurs during the so-called “training” phase, reducing the need for massive amounts of training data directly translates into energy savings. This is an area that scientists are currently looking into.
+
+One approach involves selecting only the most relevant data for training, or efficiently adapting existing models for a new task, which significantly reduces the cost of training a model. In other words, instead of training the AI system on a massive web of information, researchers may choose to use only select articles relevant to what the system is being used for.
+
+This can help to reduce defects, design time and downtime for advanced manufacturing and engineering environments. Another area that researchers are looking into under the programme relates to edge computing, which refers to computing or data storage that is performed at or near the source of the data.
+
+Combining AI into edge devices – such as lightweight mobile devices or sensors that generate and record data within the infrastructure – reduces the reliance on cloud services for data processing, allowing such devices to deliver better data security, faster computing and insights, with greater efficiency.
+
+Another promising area in AI and computing research is neuromorphic computing, which is inspired by the workings of the brain. The technology uses networks that mimic the workings of the human brain and nervous system.
+
+By replicating the flexibility, resilience and energy efficiency of a human brain, neuromorphic architecture aims to overcome the energy-intensive nature of current models of computing and develop better AI.
+Using Ai To Aid Sustainability Efforts
+
+While the use of AI creates an increasingly large carbon footprint, AI itself can and has actually been used as part of sustainability efforts as well.
+
+One area in which AI is projected to play a key role is energy use. AI applications can balance electricity supply and demand needs in real time, while optimising energy use and storage to reduce rates. In a green-energy future, renewable energy will come from a diversity of sources, such as microgrids, wind farms and solar panels. The energy generated by such sources is prone to uncertain fluctuations depending on prevailing weather conditions, unlike the more predictable outputs from gas or coal plants.
+
+With such a decentralised global energy network, AI will play a crucial role in managing the complexity of deploying power to industrial facilities, office buildings, homes and wherever needed. Given the world’s destabilised climate and unpredictable weather conditions, shifting our current energy system to a smart one centred on AI will result in a more resilient and flexible grid when unforeseen meteorological events occur. Grid flexibility and resilience would also be required as the demand for electricity grows in booming digital economies in an increasingly connected world. 
+
+Another area where AI is changing the game is agriculture. Modern agribusinesses can use AI to analyse their farms’ data for crop yield predictions or climate control. As agriculture is a labour-intensive industry, in space-starved Singapore, AI allows us to grow more food with fewer resources. Locally, one such step in that direction is A*STAR’s partnership with Archisen, an agri-tech firm based in Singapore that incorporated AI in the operations of its indoor farm.
+
+The collaboration yielded a predictive model that statistically determined the key parameters which had the biggest influence on the yield and quality of the farm’s crops, allowing Archisen to produce up to 100 tonnes of vegetables a year.
+
+By leveraging AI-driven innovations and technological breakthroughs to push the boundaries of resource efficiency, the aim is for AI to consume little power and be powerful in performance at the same time.
+
+Overall, if the environmental impact of AI can be reduced, and more organisations start to use AI in their sustainability initiatives, then the use of AI as a whole may be able to attain a level close to carbon neutrality. To pave the way to a truly green digital revolution, we need to start making conscious choices to promote research of more computationally efficient algorithms as well as hardware that require less energy.
+
+Professor Ong Yew Soon is A*STAR’s chief artificial intelligence scientist and president’s chair professor of computer science at the Nanyang Technological University. 
+
+Dr Lim Keng Hui is executive director of A*STAR’s Institute of High Performance Computing. He is also executive director of A*STAR’s AI, Analytics and Informatics Horizontal Technology Programme Office, leading and coordinating the AI and data 
+",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZvcmJlc2luZGlhLmNvbS9hcnRpY2xlL2xpZmVzL2lzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFuLWFydGlzdC1saWtlLWFueS1vdGhlci83NDAxOS8x0gFpaHR0cHM6Ly93d3cuZm9yYmVzaW5kaWEuY29tL2FtcC9hcnRpY2xlL2xpZmVzL2lzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFuLWFydGlzdC1saWtlLWFueS1vdGhlci83NDAxOS8x?oc=5,Is artificial intelligence an artist like any other? - Forbes India,2022-02-26,Forbes India,https://www.forbesindia.com,The art market has recently become infatuated with works generated by artificial intelligence,N/A,The art market has recently become infatuated with works generated by artificial intelligence,The art market has recently become infatuated with works generated by artificial intelligence,https://schema.org,BreadcrumbList,https://www.forbesindia.com/article/lifes/is-artificial-intelligence-an-artist-like-any-other/74019/1,,,"{'@type': 'Organization', 'name': 'ForbesIndia', 'url': 'https://www.forbesindia.com/', 'logo': {'@type': 'ImageObject', 'contentUrl': 'https://www.forbesindia.com/forbes-rvp-files/images/fi-newlogo.jpg'}}",,,,,Is artificial intelligence an artist like any other?,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.forbesindia.com/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.forbesindia.com/life/92/1', 'name': 'Life'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.forbesindia.com/life/92/1', 'name': 'Life'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.forbesindia.com/article/lifes/is-artificial-intelligence-an-artist-like-any-other/74019/1', 'name': 'Is artificial intelligence an artist like any other?'}}]",N/A,N/A,N/A,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmtoYWxlZWp0aW1lcy5jb20vdWFlL2V2ZXItaW1hZ2luZWQtdGhhdC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS13b3VsZC1hcHBseS1qb2JzLW9uLXlvdXItYmVoYWxmLXRoaW5rLWFnYWlu0gF9aHR0cHM6Ly93d3cua2hhbGVlanRpbWVzLmNvbS91YWUvZXZlci1pbWFnaW5lZC10aGF0LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXdvdWxkLWFwcGx5LWpvYnMtb24teW91ci1iZWhhbGYtdGhpbmstYWdhaW4_YW1wPTE?oc=5,"Ever imagined that Artificial Intelligence would Apply jobs on your behalf, Think Again! - Khaleej Times",2022-02-28,Khaleej Times,https://www.khaleejtimes.com,"iApply.ai is the world's first ever Artificial Intelligence powered platform that Apply Jobs on your Behalf, Utilizing AI and Leading Your Career","UAE, Tech, KT Engage, Business"," iApply.ai is the world's first ever Artificial Intelligence powered platform that Apply Jobs on your Behalf, Utilizing AI and Leading Your Career "," iApply.ai is the world's first ever Artificial Intelligence powered platform that Apply Jobs on your Behalf, Utilizing AI and Leading Your Career ",https://schema.org,NewsArticle,,"{'@type': 'ImageObject', 'url': 'https://image.khaleejtimes.com?uuid=00120a4a-657d-5f9b-bce9-c14a304d2023&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99956&x=0&y=0&width=1200&height=675', 'width': 780, 'height': 435}",[],"{'@type': 'Organization', 'name': 'Khaleej Times', 'url': 'https://www.khaleejtimes.com', 'logo': {'@type': 'ImageObject', 'url': 'https://static.khaleejtimes.com/wp-content/uploads/sites/2/2021/10/12171006/khaleej-times-logo.png', 'width': 200}}","Ever imagined that Artificial Intelligence would Apply jobs on your behalf, Think Again! - News | Khaleej Times",2022-02-28T09:57:56+04:00,2022-03-23T14:59:57+04:00,UAE,"Ever imagined that Artificial Intelligence would Apply jobs on your behalf, Think Again! - News | Khaleej Times",,,N/A,N/A,N/A,"{'@type': 'WebPage', '@id': 'https://www.khaleejtimes.com/uae/ever-imagined-that-artificial-intelligence-would-apply-jobs-on-your-behalf-think-again'}",,,,en,https://image.khaleejtimes.com?uuid=00120a4a-657d-5f9b-bce9-c14a304d2023&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99956&x=0&y=0&width=1200&height=675,"{'type': 'Organization', 'name': 'Galadari Printing and Publishing LLC'}","['https://twitter.com/khaleejtimes', 'https://www.facebook.com/khaleejtimes', 'https://www.linkedin.com/company/khaleejtimes', 'https://www.instagram.com/khaleejtimes/', 'https://www.youtube.com/c/khaleejtimes', 'https://en.wikipedia.org/wiki/Khaleej_Times']",,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFjaHJuZXdzLmNvbS9hcnRpY2xlcy8xNDYyNTUtcmVzaWRlby1icmluZ3MtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8taHZhY9IBAA?oc=5,Resideo Brings Artificial Intelligence to HVAC | 2022-02-28 - ACHR NEWS,2022-02-28,ACHR NEWS,https://www.achrnews.com,Resideo Technologies Inc. is applying artificial intelligence to the world of HVAC. The Honeywell spinoff is touting two data-dependent products in its new Pro-IQ line.,"['AHR Expo', 'Trade Shows in HVACR', 'Events in the HVACR Industry', 'labor shortage', 'Training Programs', 'Artificial Intelligence (AI)', 'AHR Expo 2022']",Resideo Technologies Inc. is applying artificial intelligence to the world of HVAC. The Honeywell spinoff is touting two data-dependent products in its new Pro-IQ line.,Resideo Technologies Inc. is applying artificial intelligence to the world of HVAC. The Honeywell spinoff is touting two data-dependent products in its new Pro-IQ line.,http://schema.org,NewsArticle,https://www.achrnews.com/articles/146255-resideo-brings-artificial-intelligence-to-hvac,"{'@type': 'ImageObject', 'url': 'https://www.achrnews.com/ext/resources/2022/02-February/Resideo-Products.jpg?t=1646297007&width=696'}","{'@type': 'Person', 'name': 'Matt Jachman'}","{'@type': 'Organization', 'name': 'ACHR News', 'logo': {'@type': 'ImageObject', 'url': 'https://www.achrnews.com/ext/resources/files/ACHR-News-Logo.png'}}",Resideo Brings Artificial Intelligence to HVAC,2022-02-28T00:00:00-05:00,2022-03-16T13:09:23-04:00,News,,False,,N/A,N/A,"
+NewsHVAC Residential MarketIndoor Air QualityResidential Indoor Air Quality
+Resideo Brings Artificial Intelligence to HVAC
+Controls firm aims to help HVAC pros manage time, sell indoor air quality
+By Matt Jachman
+
+
+NEW AND OLD TECHNOLOGY: Resideo, a Honeywell spinoff, offers everything from the traditional round, nonprogrammable thermostat to programmable digital thermostats, like the one on the left, that can be controlled via an app on a smartphone. (Courtesy of Resideo)
+
+
+
+February 28, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resideo Technologies Inc. is applying artificial intelligence — AI — to the world of HVAC.The Honeywell spinoff is touting two data-dependent products in its new Pro-IQ line. One is designed to help HVAC professionals manage maintenance demands, and thus their time; the other helps technicians turn information about their customers’ indoor air quality (IAQ) into sales of IAQ products.The Pro-IQ line addresses two of the biggest current challenges in HVAC: time management, given the labor shortage in the industry, and increasing concerns about IAQ, according to Levi Bouwman, a Resideo sales manager. Pro-IQ products were prominently displayed at the Resideo booth.The Pro-IQ LifeWhere product allows contractors and technicians to remotely monitor their customers’ HVAC systems and, using predictive analytics, forecast a system’s problems and maintenance needs, allowing professionals to better schedule service calls and smooth out labor demands.LifeWhere “tells you if you're going to have a problem with your heat exchanger, if you’re going to have a problem with one of your igniters, you’re going to have a problem with the gas valve,” Bouwman said during the Expo. “It actually measures the energy current in the unit.” Based on how the energy signal changes, he said, LifeWhere can spot a problem months ahead of time.Bouwman referred to the typical winter deep chill in his home state, Minnesota, to explain how Pro-IQ LifeWhere might help contractors there save time and deploy workers in a way that better meets demand.“So we know, right, that you're going to have a lot of calls when it’s 35 below zero in Minnesota,” he said. “But if you knew that you were going to have a furnace issue, say in the next six months… you could then schedule that work to do when it’s, say, 45 degrees outside.”The other Pro-IQ product, AirCycle, is an air quality monitor that can analyze the air in a home and identify IAQ needs, such as humidification, dehumidification, or better filtration. Linking it to a smartphone, a laptop, or another internet-connected device, a technician can use the AirCycle monitor to illustrate to IAQ issues to the consumer and suggest solutions, Bouwman said.“So it's all about educating the homeowner,” Bouwman said. “And it's one thing to talk about temperature, because we all know what temperature is: I’m hot or I’m cold. But it's a different thing to talk about the number of particulates that you have in your air in order to sell better air filtration.”Resideo is also meeting the needs of HVACR professionals with the recent launch of Resideo Academy, a series of online training webinars. The webinars can be found on the Resideo website and can also be accessed through another HVAC company’s learning management system, if needed.“We want to do what we can to train the next generation of technicians,” Bouwman said.
+
+Read all about AHR EXPO 2022 in our Special Issue
+
+
+
+
+KEYWORDS:  AHR Expo AHR Expo 2022 Artificial Intelligence (AI) Events in the HVACR Industry labor shortage Trade Shows in HVACR Training Programs
+
+
+Share This Story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Matt Jachman is an editor at the ACHR NEWS. He has 30-plus years of experience in community journalism and a bachelor’s degree in English from Wayne State University in Detroit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+      You must login or register in order to post a comment.
+  
+
+
+
+
+
+
+Report Abusive Comment
+
+Thank you for helping us to improve our forums. Is this comment offensive? Please tell us why.
+
+
+ 
+
+
+
+",,2022-02-28T00:00:00-05:00,,,,https://www.achrnews.com/ext/resources/2022/02-February/Resideo-Products.jpg?t=1646297007&width=696,,,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.gsd-paywall'}",['Matt Jachman'],,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2ZvcmdldC1leHBsYWluYWJsZS1haS13aGF0LXdlLW5lZWQtbm93LWlzLXVuZGVyc3RhbmRhYmxlLWFp0gF-aHR0cHM6Ly93d3cuYW5hbHl0aWNzaW5zaWdodC5uZXQvYW1wL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2ZvcmdldC1leHBsYWluYWJsZS1haS13aGF0LXdlLW5lZWQtbm93LWlzLXVuZGVyc3RhbmRhYmxlLWFp?oc=5,Forget Explainable AI! What We Need Now is Understandable AI - Analytics Insight,2022-02-25,Analytics Insight,https://www.analyticsinsight.net,,"AI,Explainable AI,Machine Learning,Data Scientist,Neural Networks","Explainable AI is not enough anymore. The immediate requirement has turned to Understandable AI As artificial intelligence technologies have gained popularity, ","Explainable AI is not enough anymore. The immediate requirement has turned to Understandable AI As artificial intelligence technologies have gained popularity, ",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/forget-explainable-ai-what-we-need-now-is-understandable-ai,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Forget-explainable-AI-we-need-understandable-AI.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Nasreen Parvez', 'name': 'Nasreen Parvez', 'url': 'https://www.analyticsinsight.net/author/nasreen-parvez'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",Forget Explainable AI! What We Need Now is Understandable AI,2022-02-25T06:30:27Z,2022-02-25T06:30:27Z,Artificial Intelligence,Forget Explainable AI! What We Need Now is Understandable AI,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Forget Explainable AI! What We Need Now is Understandable AI', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/forget-explainable-ai-what-we-need-now-is-understandable-ai'}]",N/A,N/A,"The Best Crypto Stocks of July 2024
+","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/forget-explainable-ai-what-we-need-now-is-understandable-ai'}",2022-02-25T06:30:27Z,,,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Forget-explainable-AI-we-need-understandable-AI.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,"Explainable AI is not enough anymore. The immediate requirement has turned to Understandable AI.As artificial intelligence technologies have gained popularity, creators and users have used and modified a variety of terms and phrases to describe and characterize their work. One may probably have heard terms like &quot;narrow AI&quot;, &quot;deep learning&quot;, &quot;neural networks&quot;, and other new descriptors being used to distinguish between distinct types and roles of AI, different sections of AI solutions, and so on. Another result of the rapid expansion of AI's availability and use has been the demand for &quot;explainable AI,&quot; or approaches and procedures that make Artificial Intelligence more accessible to all types of humans..And, while explainable AI is important, it's not really the answer always. The ambition to understand how computers make decisions is admirable, but XAI technologies or approaches will never be sufficient. Instead, we should be considering how to guarantee full confidence for these systems' conclusions by discussing how to deliver &quot;understandable AI&quot;..Why is XAI needed anyway?.From insurance claims and loans to medical diagnostics and employment, businesses are increasingly relying on AI and machine learning (ML) systems. Consumers, on the other hand, have grown increasingly suspicious of artificial intelligence..The concept of explainability in AI systems is nearly as ancient as the discipline itself. Many interesting XAI techniques have arisen from academic research in recent years, and many software businesses have surfaced to bring XAI tools to the consumer. The problem is that all of these methods regard explainability as a purely technical issue. In truth, the demand for Artificial Intelligence explainability and interpretability is a far wider economic and social issue that necessitates a more comprehensive answer than XAI can provide..But why do we need AI that can be explained? .Most crucially, the widespread availability of AI solutions has made them more accessible to workers with only rudimentary expertise in data science and artificial intelligence. Only people with technical competence could or would develop an AI solution in the past. Many of these solutions are ready to use right out of the box for someone like a department manager to deploy on their own, or you can download them straight to your phone. Artificial Intelligence currently has a significant impact on our lives on both a daily and a long-term basis. Today, Artificial Intelligence could prevent you from getting some tedious, time-consuming chores at work, and it could potentially make a life-saving diagnosis at a medical consultation..Two of the main reasons as to why XAI is required are.1. If someone wants to feel comfortable while using AI for their work, they have to first understand how it works, personalize it, choose the best solution from a variety of options, or tune it to operate more successfully for them..2. People have a right to know how Artificial Intelligence works for ethical reasons, as it is used to make choices in areas such as healthcare, law, finance, and other areas where moral and ethical limits are vitally important to most people. Explainability is a method of delving into what is commonly referred to as &quot;AI's black box&quot; and explaining solutions in words that are accessible to the general public. It also aids us in answering vital communal concerns such as &quot;How was this critical decision made?&quot; and &quot;Were there any other viable options?&quot;.Our solution's adoption hinged on its capacity to be explained more clearly. Explainable AI can only help us get closer to our objective of using AI to execute the tasks it's best at while humankind continues to innovate and progress. We can better spend our resources and generate tremendous efficiency on every level if we can identify when our Artificial Intelligence works when it fails, and why. The truth is that most &quot;explainable&quot; AI products can only be understood by someone with a sound knowledge of technology and a thorough understanding of how the model works..XAI is a crucial part of a technologist's toolset, but it isn't a realistic or scalable technique to &quot;explain&quot; AI and machine learning systems' judgments..Importance and Urgency of 'Understandable AI' instead of XAI .Transparency is the cornerstone of comprehension. Every decision taken by the model they supervise should be accessible to non-technical persons. They ought to be able to check a database based on important factors to assess judgments both individually and collectively. They should be able to do a counterfactual analysis of individual decisions, altering particular factors to see if the outcomes are as predicted..The greater environment in which the models' function must also be included in understandable Artificial Intelligence. Business owners should be able to see that human decision-making both preceded and accompanied a model throughout its lifecycle to develop trust..&quot;User-first&quot; approaches should be applied to AI-driven solutions. Understandable AI blends engineers' technical skills with UI/UX specialists' design usability understanding as well as product developers' people-centric design. People may participate in the decision-making procedure in an AI-driven organization if the AI is intelligible. The incorporation of non-data scientists into the creation and design of AI products is also crucial to the Understandable AI process, demonstrating the importance of workforce upskilling for the future AI economy..To assess whether a financial transaction is fraudulent, for example, an algorithm could be utilized. An algorithm is a logical solution to this challenge, given the millions of transactions that take place every day. AI can wrongly identify transactions as fraudulent (false positive) or miss a fraudulent activity (false negative) which carries the risk of losing a customer's confidence. For this Understandable AI needs to be in place..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/forget-explainable-ai-what-we-need-now-is-understandable-ai', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Forget-explainable-AI-we-need-understandable-AI.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL3RoZS10cmFpbmVycy1leHBsYWluZXJzLWFuZC1zdXN0YWluZXJzLW9mLWFpL9IBAA?oc=5,"The trainers, explainers, and sustainers of AI - AIM",2022-02-25,AIM,https://analyticsindiamag.com,"Explainers, the second type of new employment, will bridge the gap between technologists and business leaders.",N/A,N/A,N/A,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+				Challenging the Norm: Bold Predictions for Generative AI in 2024			
+
+
+
+			Vandana Nair		
+
+			05/12/2023		
+
+
+",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RvcC0xMC1jb21wYW5pZXMtYnVpbGRpbmctYWktc3VwZXJjb21wdXRlcnPSAW5odHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvdG9wLTEwLWNvbXBhbmllcy1idWlsZGluZy1haS1zdXBlcmNvbXB1dGVycw?oc=5,Top 10 Companies Building AI Supercomputers - Analytics Insight,2022-02-27,Analytics Insight,https://www.analyticsinsight.net,,"AI,AI supercomputer,supercomputer,artificial intelligence,companies building AI supercomputers","With artificial intelligence in place, organizations are in a position to perceive, understand, process, and respond to inputs to be able to generate the desire","With artificial intelligence in place, organizations are in a position to perceive, understand, process, and respond to inputs to be able to generate the desire",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/top-10-companies-building-ai-supercomputers,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Top-10-Companies-Building-AI-Supercomputers.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Apoorva Bellapu', 'name': 'Apoorva Bellapu', 'url': 'https://www.analyticsinsight.net/author/apoorva-bellapu'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",Top 10 Companies Building AI Supercomputers,2022-02-27T04:00:43Z,2022-02-27T04:00:43Z,Artificial Intelligence,Top 10 Companies Building AI Supercomputers,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Top 10 Companies Building AI Supercomputers', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-companies-building-ai-supercomputers'}]",N/A,N/A,"The Best Crypto Stocks of July 2024
+","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-companies-building-ai-supercomputers'}",2022-02-27T04:00:43Z,,,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Top-10-Companies-Building-AI-Supercomputers.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,"With artificial intelligence in place, organizations are in a position to perceive, understand, process, and respond to inputs to be able to generate the desired results. Talking about AI, what definitely deserves a mention is how important AI supercomputers have become. AI supercomputers are not only faster, but also smarter, and support a greater variety of workloads. On that note, here are the top 10 companies building AI supercomputers..Meta Platforms .Meta Platforms, founded in 2004, develops artificial intelligence for immersive technologies and social media. Recently, the company had announced an AI supercomputer that can work across hundreds of languages, develop augmented reality tools, and pave the way towards the metaverse..HP.When it comes to Artificial intelligence, HP is never behind. Hewlett-Packard offers a set of packages within different products and services with a portfolio boosting HPC Cluster solutions, servers, storage, data centre infrastructure, services and support..Fujitsu .It has been over 3 decades now that Fujitsu, a Japanese company, has been building supercomputers. They believe that supercomputing has the potential to solve the world's most pressing dilemmas. This company always finds its place in the top supercomputer rankings across the globe..NUDT.The National University of Defence Technology (NUDT) takes pride in being the owner of six supercomputers with Yinhe-I being the first opened in 1983. The university's Tianhe-2 AI supercomputer has a performance capability of 33.86 petaflops, equivalent to quadrillions of calculations per second – something that is definitely worth a mention..Dell.Over the years, Dell has won the hearts of millions to become one of the most popular companies building AI supercomputers. The speciality here is that the systems come in different form factors and can be configured to meet density, flexibility and performance needs..Hitachi.As known to many, Hitachi has gained wide recognition from everywhere because of its ability to build high performing Artificial intelligence supercomputers. The supercomputers are such that they stand the potential to maximise the characteristics of the architecture..IBM.Who can deny that IBM has always come up with exceptional supercomputers of all time? What cannot go out of mention is the fact that the IBM Power solutions give their AI supercomputers ultra-scale performance and also save on floor-space, power and cooling expenses..Cray.Cray was founded in 1987 and the enterprise has featured a series of products specifically designed for super-machines ever since. This company has helped scientific and engineering organisations of all types to solve complex computing and analytics challenges. As far as AI supercomputers are concerned, Cray needs no special mention for the world knows how exceptional it is..Silicon Graphics International (SGI).SGI came into existence in the early 1980s. Of late, this AI company has grabbed eyeballs for providing solutions to several customers around the world via ICE and UV systems..PEZY.PEZY is yet another company that was founded to develop and sell microprocessors, electric devices, systems, and software. The company's AI supercomputers are worth a mention as they provide flexibility in a variety of aspects..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-companies-building-ai-supercomputers', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/02/Top-10-Companies-Building-AI-Supercomputers.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",

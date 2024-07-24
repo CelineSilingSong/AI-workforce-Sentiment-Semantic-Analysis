@@ -1,0 +1,960 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,mainEntityOfPage,headline,alternativeHeadline,url,thumbnailUrl,image,datePublished,dateModified,author,isAccessibleForFree,publisher,copyrightHolder,@id,name,alternateName,legalName,foundingDate,logo,masthead,sameAs,address,article:section,article:summary,article text,inLanguage,articleSection,articleBody,hasPart,isPartOf,speakable,@graph,potentialAction,isBasedOn,itemListElement,width,height,worksFor,mainEntity,dateCreated
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9hcnRpZmljaWFsLWdlbmVyYWwtaW50ZWxsaWdlbmNlLWlzLW5vdC1hcy1pbW1pbmVudC1hcy15b3UtbWlnaHQtdGhpbmsxL9IBAA?oc=5,Artificial General Intelligence Is Not as Imminent as You Might Think - Scientific American,2022-07-01,Scientific American,https://www.scientificamerican.com,"Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.",N/A,"A close look reveals that the newest systems, including DeepMind’s much-hyped Gato, are still stymied by the same old problems","A close look reveals that the newest systems, including DeepMind’s much-hyped Gato, are still stymied by the same old problems",https://schema.org,NewsMediaOrganization,"{'@type': 'WebPage', '@id': 'https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/', 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Artificial Intelligence', 'item': 'https://www.scientificamerican.com/artificial-intelligence/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial General Intelligence Is Not as Imminent as You Might Think', 'item': 'https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/'}]}}",Artificial General Intelligence Is Not as Imminent as You Might Think,Artificial General Intelligence Is Not as Imminent as You Might Think,https://www.scientificamerican.com/,https://static.scientificamerican.com/sciam/cache/file/737236C8-7BF8-42C3-913CECC6C90D0295_source.jpg?w=1200,"['https://static.scientificamerican.com/sciam/cache/file/737236C8-7BF8-42C3-913CECC6C90D0295_source.jpg?w=1200', 'https://static.scientificamerican.com/sciam/cache/file/737236C8-7BF8-42C3-913CECC6C90D0295_source.jpg?crop=16%3A9%2Csmart&w=1920', 'https://static.scientificamerican.com/sciam/cache/file/737236C8-7BF8-42C3-913CECC6C90D0295_source.jpg?crop=4%3A3%2Csmart&w=1200', 'https://static.scientificamerican.com/sciam/cache/file/737236C8-7BF8-42C3-913CECC6C90D0295_source.jpg?crop=1%3A1%2Csmart&w=1000']",2022-07-01T13:00:00+00:00,2024-02-20T11:50:01.587000+00:00,"[{'@type': 'Person', 'name': 'Gary Marcus', 'url': 'https://www.scientificamerican.com/author/gary-marcus/'}]",False,"{'@id': 'https://www.scientificamerican.com/#publisher', 'name': 'Scientific American'}","{'@id': 'https://www.scientificamerican.com/#publisher', 'name': 'Scientific American'}",https://www.scientificamerican.com/#publisher,Scientific American,SciAm,"Scientific American, a Division of Springer Nature America, Inc.",1845-08-28,"{'@type': 'ImageObject', 'url': 'https://www.scientificamerican.com/static/sciam.svg'}",https://www.scientificamerican.com/masthead/,"['https://en.wikipedia.org/wiki/Scientific_American', 'https://www.wikidata.org/wiki/Q39379', 'https://www.jstor.org/publisher/sciamerican', 'https://x.com/sciam', 'https://www.youtube.com/user/SciAmerican', 'https://www.tiktok.com/@scientificamerican', 'https://www.threads.net/@scientific_american', 'https://www.facebook.com/ScientificAmerican/']","{'@type': 'PostalAddress', 'streetAddress': '1 New York Plaza', 'addressLocality': 'New York', 'addressRegion': 'NY', 'postalCode': '10004', 'addressCountry': 'US'}",N/A,N/A,"OpinionJuly 1, 20226 min readArtificial General Intelligence Is Not as Imminent as You Might ThinkA close look reveals that the newest systems, including DeepMind’s much-hyped Gato, are still stymied by the same old problemsBy Gary Marcus Michael GlenwoodOctober 2022 IssueArtificial IntelligenceOpinionTo the average person, it must seem as if the field of artificial intelligence is making immense progress. According to some of the more gushing media accounts and press releases, OpenAI's DALL-E 2 can seemingly create spectacular images from any text; another OpenAI system called GPT-3 can talk about just about anything—and even write about itself; and a system called Gato that was released in May by DeepMind, a division of Alphabet, reportedly worked well on every task the company could throw at it. One of DeepMind's high-level executives even went so far as to brag that in the quest to create AI that has the flexibility and resourcefulness of human intelligence—known as artificial general intelligence, or AGI—“the game is over.”Don't be fooled. Machines may someday be as smart as people and perhaps even smarter, but the game is far from over. There is still an immense amount of work to be done in making machines that truly can comprehend and reason about the world around them. What we need right now is less posturing and more basic research.AI is making progress—synthetic images look more and more realistic, and speech recognition can often work in noisy environments—but we are still likely decades away from general-purpose, human-level AI that can understand the true meanings of articles and videos or deal with unexpected obstacles and interruptions. The field is stuck on precisely the same challenges that academic scientists (including myself) having been pointing out for years: getting AI to be reliable and getting it to cope with unusual circumstances.
+
+
+
+
+Credit: Bluesguy from NY/Flickr (CC BY-ND 2.0)
+Take the recently celebrated Gato, an alleged jack of all trades, and how it captioned an image of a pitcher hurling a baseball (above). The system's top three guesses were:A baseball player pitching a ball on top of a baseball field.
+ 
+A man throwing a baseball at a pitcher on a baseball field.
+
+ A baseball player at bat and a catcher in the dirt during a baseball game.The first response is correct, but the other two answers include hallucinations of other players that aren't seen in the image. The system has no idea what is actually in the picture, beyond the rough approximations it draws from statistical similarities to other images. Any baseball fan would recognize that this is a pitcher who has just thrown the ball and not the other way around. And although we expect that a catcher and a batter are nearby, they obviously do not appear in the image.Likewise, DALL-E 2 couldn't tell the difference between an image of a red cube on top of a blue cube versus an image of a blue cube on top of a red cube. A newer system, released this past May, couldn't tell the difference between an astronaut riding a horse and a horse riding an astronaut.
+
+
+
+
+When Google researchers prompted the company’s AI Imagen to produce images of “A horse riding an astronaut,” it instead presented astronauts riding horses. Credit: Imagen
+Recommended StoriesParis Olympics Will Be a Training Ground for AI-Powered Mass SurveillanceAnne Toomey McKenna & The Conversation USChatGPT Isn’t ‘Hallucinating’—It’s Bullshitting!Joe Slater, James Humphries & Michael Townsen HicksThe Nash Equilibrium Is the Optimal Poker Strategy. Expert Players Don’t Always Use ItJack MurtaghCan One Chatbot Catch Another’s Lies?Max SpringerWhen image-creating systems like DALL-E 2 make mistakes, the result can be amusing. But sometimes errors produced by AI cause serious consequences. A Tesla on autopilot recently drove directly toward a human worker carrying a stop sign in the middle of the road, slowing down only when the human driver intervened. The system could recognize humans on their own (which is how they appeared in the training data) and stop signs in their usual locations (as they appeared in the training images) but failed to slow down when confronted by the unfamiliar combination of the two, which put the stop sign in a new and unusual position.Unfortunately, the fact that these systems still fail to work reliably and struggle with novel circumstances is usually buried in the fine print. Gato, for instance, worked well on all the tasks DeepMind reported but rarely as well as other contemporary systems. GPT-3 often creates fluent prose but struggles with basic arithmetic and has so little grip on reality it is prone to creating sentences such as “Some experts believe that the act of eating a sock helps the brain to come out of its altered state as a result of meditation.” A cursory look at recent headlines, however, wouldn't tell you about any of these problems.The subplot here is that the biggest teams of researchers in AI are no longer to be found in the academy, where peer review was the coin of the realm, but in corporations. And corporations, unlike universities, have no incentive to play fair. Rather than submitting their splashy new papers to academic scrutiny, they have taken to publication by press release, seducing journalists and sidestepping the peer-review process. We know only what the companies want us to know.In the software industry, there's a word for this kind of strategy: “demoware,” software designed to look good for a demo but not necessarily good enough for the real world. Often demoware becomes vaporware, announced for shock and awe to discourage competitors but never released at all.Chickens do tend to come home to roost, though, eventually. Cold fusion may have sounded great, but you still can't get it at the mall. AI will likely experience a winter of deflated expectations. Too many products, like driverless cars, automated radiologists and all-purpose digital agents, have been demoed, publicized—and never delivered. For now the investment dollars keep coming in on promise (who wouldn't like a self-driving car?). But if the core problems of unreliability and failure to cope with outliers are not resolved, investment will dry up. We may get solid advances in machine translation and speech and object recognition but too little else to show for all the premature hype. Instead of “smart” cities and “democratized” health care, we will be left with destructive deepfakes and energy-sucking networks that emit immense amounts of carbon.Although deep learning has advanced the ability of machines to recognize patterns in data, it has three major flaws. The patterns that it learns are, ironically, superficial not conceptual; the results it creates are hard to interpret; and the results are difficult to use in the context of other processes, such as memory and reasoning. As Harvard University computer scientist Les Valiant noted, “The central challenge [going forward] is to unify the formulation of ... learning and reasoning.” You can't deal with a person carrying a stop sign if you don't really understand what a stop sign even is.For now we are trapped in a “local minimum” in which companies pursue benchmarks rather than foundational ideas. Current engineering practice is far ahead of scientific skills: these departments focus on eking out small improvements with the poorly understood tools they already have rather than developing new technologies with a clearer theoretical ground. This is why basic research remains crucial. That a large part of the AI research community (like those who shout, “Game over”) doesn't even see that is, well, heartbreaking.Imagine if some extraterrestrial studied all human interaction only by looking down at shadows on the ground, noticing, to its credit, that some are bigger than others and that all shadows disappear at night. Maybe it would even notice that the shadows regularly grew and shrank at certain periodic intervals—without ever looking up to see the sun or recognizing the 3-D world above.It's time for artificial-intelligence researchers to look up from the flashy, straight-to-the-media demos and ask fundamental questions about how to build systems that can learn and reason at the same time.Rights & PermissionsFROM OUR ARCHIVES
+Will Artificial Intelligence Ever Live Up to Its Hype? John Horgan; ScientificAmerican.com, December 4, 2020.Gary Marcus is a scientist, best-selling author, and entrepreneur. His most recent book, co-authored with Ernest Davis, Rebooting AI, is one of Forbes’ 7 Must-Read Books about AI.More by Gary MarcusThis article was originally published with the title “Artificial Confidence” in Scientific American Magazine Vol. 327 No. 4 (October 2022), p. 42doi:10.1038/scientificamerican1022-42View This Issue",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmhlYWx0aGNhcmVpdG5ld3MuY29tL2Jsb2cvc2VudGllbnQtYWktY29udmluY2luZy15b3UtaXQtcy1odW1hbi1qdXN0LXBhcnQtbGFtZGEtcy1qb2LSAQA?oc=5,Sentient AI? Convincing you it's human is just part of LaMDA's job - Healthcare IT News,2022-07-05,Healthcare IT News,https://www.healthcareitnews.com,"For artificial intelligence to demonstrate true sentience, it would have to go beyond using natural language, and show thinking, perception and feeling.",N/A,"For artificial intelligence to demonstrate true sentience, it would have to go beyond using natural language, and show thinking, perception and feeling.","For artificial intelligence to demonstrate true sentience, it would have to go beyond using natural language, and show thinking, perception and feeling.",,,,,,,,,,,,,,,,,,,,,,,,N/A,N/A,"
+HIMSS24 EUROPEAN HEALTH CONFERENCE & EXHIBITIONBetter patient outcomes and stronger workforces are a team project. At HIMSS24 Europe, we’ve built a programme to arm you and your peers with the insights you need to transform health systems back at home.May 29-31, 2024 | RomeLearn More ",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMimQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9ob3ctdG8vc2tpbGxzLW9yLWpvYnMtdGhhdC13b250LWJlLXJlcGxhY2VkLWJ5LWF1dG9tYXRpb24tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaW4tdGhlLWZ1dHVyZS9hcnRpY2xlc2hvdy85MjYwMDIyMi5jbXPSAZ0BaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaG93LXRvL3NraWxscy1vci1qb2JzLXRoYXQtd29udC1iZS1yZXBsYWNlZC1ieS1hdXRvbWF0aW9uLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWluLXRoZS1mdXR1cmUvYW1wX2FydGljbGVzaG93LzkyNjAwMjIyLmNtcw?oc=5,Scared that ChatGPT will take your job? Skills or jobs that won't be replaced by AI in future - The Economic Times,2022-07-01,The Economic Times,https://m.economictimes.com,"Studies suggest that about a quarter of the jobs around the world could be done by machines. Sometimes, this trend causes people to worry about their job security. Nevertheless, despite many concerns, it is believed that automation would not only modify occupations by taking on easy and repetitive work, but also won't necessarily destroy them.","['chatgpt', 'jobloss artificial intelligence', 'artificial', 'artificial intelligence', 'skills', 'jobs', 'ai jobs', 'gpt4']","Studies suggest that about a quarter of the jobs around the world could be done by machines. Sometimes, this trend causes people to worry about their job security. Nevertheless, despite many concerns, it is believed that automation would not only modify occupations by taking on easy and repetitive work, but also won't necessarily destroy them.","Studies suggest that about a quarter of the jobs around the world could be done by machines. Sometimes, this trend causes people to worry about their job security. Nevertheless, despite many concerns, it is believed that automation would not only modify occupations by taking on easy and repetitive work, but also won't necessarily destroy them.",https://schema.org/,WebPage,https://economictimes.indiatimes.com/news/how-to/skills-or-jobs-that-wont-be-replaced-by-automation-artificial-intelligence-in-the-future/articleshow/92600222.cms,Scared that ChatGPT will take your job? Skills or jobs that won't be replaced by AI in future,,https://economictimes.indiatimes.com/news/how-to/skills-or-jobs-that-wont-be-replaced-by-automation-artificial-intelligence-in-the-future/articleshow/92600222.cms,,"{'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-92600222,resizemode-4,width-1200,height-900,imgsize-71074,overlay-economictimes/photo.jpg', 'width': 1200, 'height': 900}",2022-07-01T18:26:00+05:30,2023-04-25T10:11:00+05:30,"{'@type': 'Person', 'name': 'Satyam Sharma'}",https://schema.org/False,"{'@type': 'NewsMediaOrganization', 'name': 'Economic Times', 'logo': {'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg', 'width': 600, 'height': 60}}",,,Scared that ChatGPT will take your job? Skills or jobs that won't be replaced by AI in future,,,,"{'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg', 'width': 600, 'height': 60}",,,,N/A,N/A,"iStockJobs involving high levels of human interaction, strategic interpretation, critical decision making, niche skills or subject matter expertise won't be replaced by automation anytime soon.In the high-tech fast-changing world, the nature of work also keeps changing. In the last few decades computers, robots and artificial intelligence revolution like Chat GPT have changed the nature and roles of almost every job. Automation and artificial intelligence are spurring a new revolution, transforming jobs in every industry from IT to manufacturing.According to some studies, about one fourth of the jobs are at risk of being automated across the globe. This trend sometimes makes people nervous about job security.“Increased adoption and evolution of Automation & Artificial Intelligence brings along skepticism of a large number of roles and skills displacement. Instead, automation and AI should be used to evolve job roles and help make human workers more effective,” Arjun Jolly, Principal, Athena Executive Search & Consulting said.     by Taboolaby TaboolaSponsored LinksSponsored LinksPromoted LinksPromoted LinksYou May LikeHere's What A New Gutter System Should Cost You In 2024Leaf Filter USALearn MoreUndo However, despite several fears, it is estimated that automation won’t necessarily eliminate jobs but will transform them by taking over simple and repetitive tasks. This will help people to move to positions that require more interpersonal skills.Here are some skills and professions that can’t be easily replaced by automation.Jobs involving high levels of human interaction, strategic interpretation, critical decision making, niche skills or subject matter expertise won't be replaced by automation anytime soon. Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 50:00Loaded: 0.70%00:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -50:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Advertisement“For instance - Lawyers, Leadership roles, Medical Professionals, Healthcare practitioners, IT & HR Professionals. We can automate almost every part of the contract workflow process, but will still continue to rely on human intervention to put arguments, establish social relations in the negotiation phase, and find nuances in the data, rather than relying on data and algorithms outright,” Arjun Jolly said. ""So, jobs like solutions architect, designers, professionals providing hospitality services, and consultants having the ability to integrate systems and processes, would remain much in demand, IMHO. In essence, skills with the ability to provide superlative customer experiences would be the skills of the future,” Ruchika Godha, COO, Advaiya said. Creativity Most intelligent computers or robot can’t paint like Picaso and create music like Mozart. Nobody can explain why some humans are more creative than others. So, it’s safe to say it’s near impossible for computers to replicate the spark of creativity that has led to the world’s most amazing feats.""Automation is programmed and cannot replicate creativity which is spontaneous and requires imagination, dreaming and collective inspiration – something humans are best at” Rupali Kaul, Operational Head-West, Marching Sheep said.Nilesh Jahagirdar, VP Marketing, [x]cube LABS said, “While digital technologies such as AI/ML are making quite a few routine jobs redundant, there are some which can’t quite be replaced owing to the complexities involved and the fact that AI evolution is not just as magical as people think it is. At its current state, it’s only repetitive tasks that follow the same rules over and over which can be done by AI. Psychologists, caregivers, most engineers, human resource managers, marketing strategists, and lawyers are some roles that cannot be replaced by AI anytime in the near future”.( Originally published on Jul 01, 2022 )    by Taboolaby TaboolaSponsored LinksSponsored LinksPromoted LinksPromoted LinksYou May Like2 Cards Charging 0% Interest Until Nearly 2026With no annual fee and no interest until nearly 2026, this card is helping Americans pay off debt in record time.CompareCreditUndoThe 7 unusual stocks to double your portfolio in 7 daysZacks Investment ResearchUndoMan Who Picked Nvidia Before Jump Reveals New PredictionIf you have a $500 portfolio, discover 2024's hidden gem. Unravel the secrets right here.GoVisionaryProfitLearn MoreUndoNvidia's New Rival (Hint: It's Not AMZN)Will This Make the World's First Trillionaire?Motley FoolUndoHearing Aid Start Up Reveals Industry Top Secret On PricingSenior DigestLearn MoreUndoHere’s The Average Cost Of Gutter Guards For Smaller HomesClick here to see what’s available in your area.HomeBuddyLearn MoreUndoEstate Planning Basics [Free Guide]Have you saved $500,000 for retirement—and are you unsure about how to start your estate plan? Get TheInvestor’s Guide to Estate Planning now.Fisher InvestmentsLearn MoreUndoDon't Play This Game If You Under 40RAIDPlay NowUndoRevealed: Secret IRS Loophole for Wealthy Retirees!Read the must-know Gold IRA strategies for wealth protection. Get Your Free 2024 Gold IRA Guide.Monetary Gold Learn MoreUndo(You can now subscribe to our Economic Times WhatsApp channel)Read More News onchatgptjobloss artificial intelligenceartificialartificial intelligenceskillsjobsai jobsgpt4(Catch all the Business News, Breaking News, Budget 2024 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online....moreless",en,News,"In the high-tech fast-changing world, the nature of work also keeps changing. In the last few decades computers, robots and artificial intelligence revolution like Chat GPT have changed the nature and roles of almost every job. Automation and artificial intelligence are spurring a new revolution, transforming jobs in every industry from IT to manufacturing.According to some studies, about one fourth of the jobs are at risk of being automated across the globe. This trend sometimes makes people nervous about job security.“Increased adoption and evolution of Automation & Artificial Intelligence brings along skepticism of a large number of roles and skills displacement. Instead, automation and AI should be used to evolve job roles and help make human workers more effective,” Arjun Jolly, Principal, Athena Executive Search & Consulting said.  However, despite several fears, it is estimated that automation won’t necessarily eliminate jobs but will transform them by taking over simple and repetitive tasks. This will help people to move to positions that require more interpersonal skills.Here are some skills and professions that can’t be easily replaced by automation.Jobs involving high levels of human interaction, strategic interpretation, critical decision making, niche skills or subject matter expertise won't be replaced by automation anytime soon. “For instance - Lawyers, Leadership roles, Medical Professionals, Healthcare practitioners, IT & HR Professionals. We can automate almost every part of the contract workflow process, but will still continue to rely on human intervention to put arguments, establish social relations in the negotiation phase, and find nuances in the data, rather than relying on data and algorithms outright,” Arjun Jolly said.  So, jobs like solutions architect, designers, professionals providing hospitality services, and consultants having the ability to integrate systems and processes, would remain much in demand, IMHO. In essence, skills with the ability to provide superlative customer experiences would be the skills of the future,” Ruchika Godha, COO, Advaiya said. Creativity Most intelligent computers or robot can’t paint like Picaso and create music like Mozart. Nobody can explain why some humans are more creative than others. So, it’s safe to say it’s near impossible for computers to replicate the spark of creativity that has led to the world’s most amazing feats. Automation is programmed and cannot replicate creativity which is spontaneous and requires imagination, dreaming and collective inspiration – something humans are best at” Rupali Kaul, Operational Head-West, Marching Sheep said.Nilesh Jahagirdar, VP Marketing, [x]cube LABS said, “While digital technologies such as AI/ML are making quite a few routine jobs redundant, there are some which can’t quite be replaced owing to the complexities involved and the fact that AI evolution is not just as magical as people think it is. At its current state, it’s only repetitive tasks that follow the same rules over and over which can be done by AI. Psychologists, caregivers, most engineers, human resource managers, marketing strategists, and lawyers are some roles that cannot be replaced by AI anytime in the near future”.","{'@type': 'WebPageElement', 'isAccessibleForFree': 'https://schema.org/False', 'cssSelector': '.paywall'}","{'@type': ['CreativeWork', 'Product'], 'name': 'Economic Times', 'productID': 'prime.economictimes.indiatimes.com:prime'}","{'@type': 'SpeakableSpecification', 'cssSelector': ['.article_wrap h1', '.artSyn h2']}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbmV3cy5taWFtaS5lZHUvc3Rvcmllcy8yMDIyLzA3L2Nhbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1oZWxwLWpvdXJuYWxpc3RzLmh0bWzSAQA?oc=5,Can artificial intelligence help journalists? - University of Miami: News@theU,2022-07-01,University of Miami: News@theU,https://news.miami.edu,"Lindsay Grace, an associate professor at the School of Communication, and a team of fellow academics have developed an AI-generated tip sheet that can help news organizations by scouring information and providing leads to pursue.",N/A,"Lindsay Grace, an associate professor at the School of Communication, and a team of fellow academics have developed an AI-generated tip sheet that can help news organizations by scouring information and providing leads to pursue.",N/A,,,,,,,,,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmVudGVycHJpc2VhaS5uZXdzLzIwMjIvMDcvMDQvdGhlcmVzLWEtc2hvcnRhZ2Utb2YtYWktdGFsZW50LWhvdy1jYW4teW91LWZpbGwtdGhlLWdhcC_SAQA?oc=5,There's a Shortage of AI Talent: How Can You Fill the Gap? - EnterpriseAI,2022-07-04,EnterpriseAI,https://www.enterpriseai.news,"Although artificial intelligence seeks to replace and automate some roles, it has also prompted a huge spike in new positions. More companies are now",N/A,"Although artificial intelligence seeks to replace and automate some roles, it has also prompted a huge spike in new positions. More companies are now",N/A,https://schema.org,,,,,,,,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,"[{'@type': 'Article', '@id': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/#article', 'isPartOf': {'@id': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/'}, 'author': {'name': 'Ana Ware', '@id': 'https://www.enterpriseai.news/#/schema/person/a15a24112a1e9fd8115c68f00d5398d1'}, 'headline': 'There’s a Shortage of AI Talent: How Can You Fill the Gap?', 'datePublished': '2022-07-04T08:05:00+00:00', 'dateModified': '2022-06-27T21:52:48+00:00', 'mainEntityOfPage': {'@id': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/'}, 'wordCount': 853, 'publisher': {'@id': 'https://www.enterpriseai.news/#organization'}, 'articleSection': ['In The Spotlight'], 'inLanguage': 'en-US', 'copyrightYear': '2022', 'copyrightHolder': {'@id': 'https://www.enterpriseai.news/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/', 'url': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/', 'name': 'There’s a Shortage of AI Talent: How Can You Fill the Gap?', 'isPartOf': {'@id': 'https://www.enterpriseai.news/#website'}, 'datePublished': '2022-07-04T08:05:00+00:00', 'dateModified': '2022-06-27T21:52:48+00:00', 'description': 'Although artificial intelligence seeks to replace and automate some roles, it has also prompted a huge spike in new positions. More companies are now', 'breadcrumb': {'@id': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.enterpriseai.news/2022/07/04/theres-a-shortage-of-ai-talent-how-can-you-fill-the-gap/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.enterpriseai.news/'}, {'@type': 'ListItem', 'position': 2, 'name': 'There’s a Shortage of AI Talent: How Can You Fill the Gap?'}]}, {'@type': 'WebSite', '@id': 'https://www.enterpriseai.news/#website', 'url': 'https://www.enterpriseai.news/', 'name': 'EnterpriseAI', 'description': 'Advanced Computing in the Age of AI', 'publisher': {'@id': 'https://www.enterpriseai.news/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.enterpriseai.news/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.enterpriseai.news/#organization', 'name': 'EnterpriseAI', 'url': 'https://www.enterpriseai.news/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.enterpriseai.news/#/schema/logo/image/', 'url': 'https://www.enterpriseai.news/wp-content/uploads/2013/09/EAI2-01.png', 'contentUrl': 'https://www.enterpriseai.news/wp-content/uploads/2013/09/EAI2-01.png', 'width': 1598, 'height': 533, 'caption': 'EnterpriseAI'}, 'image': {'@id': 'https://www.enterpriseai.news/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/EnterpriseAINews/', 'https://twitter.com/enterpriseai_', 'https://www.linkedin.com/company/enterprisetech/about/']}, {'@type': 'Person', '@id': 'https://www.enterpriseai.news/#/schema/person/a15a24112a1e9fd8115c68f00d5398d1', 'name': 'Ana Ware', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.enterpriseai.news/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/54780fdda6a549a08c38df0787dd00a7?s=96&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/54780fdda6a549a08c38df0787dd00a7?s=96&r=g', 'caption': 'Ana Ware'}, 'url': 'https://www.enterpriseai.news/author/ana/'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmZyb250aWVyc2luLm9yZy9qb3VybmFscy9wc3ljaG9sb2d5L2FydGljbGVzLzEwLjMzODkvZnBzeWcuMjAyMi44OTU5OTcvZnVsbNIBAA?oc=5,Should I Trust the Artificial Intelligence to Recruit? Recruiters' Perceptions and Behavior When Faced With Algorithm ... - Frontiers,2022-07-05,Frontiers,https://www.frontiersin.org,Resume screening assisted by decision support systems that incorporate artificial intelligence is currently undergoing a strong development in many organizat...,"Artificial Inteligence-AI,Resume screening,Trust,automation bias,Algorithm aversion",Resume screening assisted by decision support systems that incorporate artificial intelligence is currently undergoing a strong development in many organizat...,N/A,,,,,,,,,,,,,,,,,,,,,,,,N/A,N/A,"Recommendations for ethical and responsible use of artificial intelligence in digital agriculture Rozita  Dara, Seyed Mehdi  Hazrati Fard and Jasmin  Kaur",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2hyL3RhbGVudC1tYW5hZ2VtZW50L25ld3MvZ29vZ2xlLWxhdW5jaGVzLWFpLWJhc2VkLWludGVydmlldy1wcmVwLXRvb2wtdG8taGVscC1qb2Itc2Vla2Vycy_SAXZodHRwczovL3d3dy5zcGljZXdvcmtzLmNvbS9oci90YWxlbnQtbWFuYWdlbWVudC9uZXdzL2dvb2dsZS1sYXVuY2hlcy1haS1iYXNlZC1pbnRlcnZpZXctcHJlcC10b29sLXRvLWhlbHAtam9iLXNlZWtlcnMv?oc=5,Google Launches AI-Based Interview Prep Tool To Help Job Seekers - Spiceworks News and Insights,2022-07-06,Spiceworks News and Insights,https://www.spiceworks.com,Preparing for a job interview can be stressful. Discover all about the new AI-based interview preparation tool launched by Google to help job seekers.,interview preparation,Preparing for a job interview can be stressful. Discover all about the new AI-based interview preparation tool launched by Google to help job seekers.,N/A,,,,,,,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Karthik Kashyap
+
+
+
+
+
+
+
+
+July 6, 2022
+
+
+
+
+ 
+
+
+
+
+
+Google recently released an artificial intelligence (AI)-based preparation tool that helps job seekers prepare better for interviews. The tool, called Interview WarmupOpens a new window , boasts of having the only tried-and-true method of getting better at answering interview questions.
+How Interview Warmup Works
+The Google tool starts by asking a few familiar interview questions, like “Can you please tell me a bit about yourself?” and “Please tell me why you would be a good fit for this role?” It also asks questions about previous work experience, how the candidate handles certain situations and skill-specific questions about certain jobs. The tool currently supports skill-specific questions related to ecommerce, data analytics, IT support, project management, user experience, and roles stemming from Google Career Certificates program. The questions on the tool are selected by industry experts.
+See more: A New Era of Hiring: Automated Video Interviews 
+Once the job seeker answers a question, the tool transcribes it in real-time and provides feedback using machine learning. Besides this, the tool’s machine learning also identifies certain job-related terms and phrases that are overused and generates common “talking points” to improve responses. The transcripts and audio from the mock interviews are not saved. However, job candidates can copy or download these transcripts.
+
+According to Jesse HainesOpens a new window , director, Grow with Google initiative in the U.S., “Interviewing in a new field can be hard, especially if you don’t have access to friends, family or mentors in the field who can help you practice and prepare. Preparing for interviews will always take a lot of work, but we hope this tool can make it a little easier for anyone to become more confident and grow comfortable with interviewing.” She further said, “You can see how much time you spend talking about areas like your experience, skills and goals. Your responses aren’t graded or judged, and you can answer questions as many times as you want. It’s your own private space to practice, prepare and get comfortable.”
+Tool Receives Appreciation and Some Caution
+The free-to-use tool has received appreciation from a few industry players and organizations. For example, Chris Russell, managing director, RecTech Media, said, “Anything that helps you practice interviewing is a good idea. The ability to practice even when you can’t find another person is the main draw. It also helps you craft better responses based on feedback.” 
+Carolyn Kleiman, a career coach and resume consultant, ResumeBuilder.com and a senior career counselor at George Mason University, saidOpens a new window , “Other products typically offer a recording of the practice session, which is then either sent to someone who reviews it and provides feedback or to the user for self-evaluation. These tools can also be helpful, but Interview Warmup breaks down your answer and lets you know what is good and why and what could be improved, all on its own. The feedback is also nonjudgmental and unbiased, something you won’t get practicing with another person.” 
+Another big advantage, according to industry players, is that the tool allows job seekers to practice as much as they want without bothering others. This can reduce anxiety.
+That said, experts also recommend candidates practice in front of others. According to them, at this point, only a human can analyze a person’s presentation skills, cues, and ability to improvise based on in-person interactions. Technology also lacks the level of connection humans can provide. Further, tools cannot generate follow-up questions based on a candidate’s response.
+“At some point, you will need to prepare with an actual human. The person’s feedback is subjective, but that subjectivity may be an advantage to the job seeker. Until then, using whatever tools and techniques you can to build your interviewing skills to be able to interview in person is important,” Kleiman said.
+See more: Top 15 DevOps Interview Questions to Prepare for in 2022 (And How to Answer Them)
+What This Could Mean to the Future of Interviews
+Industry players believe that the tool heralds the beginning of AI tools in interview prep. Russell also believes it is a glimpse into the future where robot recruiters will conduct application screenings. He says, “A robot will call you, ask some basic questions and provide some feedback. It will then make the decision to move you into the hiring funnel.” 
+That said, LinkedIn had already added an AI-based instant feedback featureOpens a new window  to its interview preparation tool in 2020. The feature would provide feedback on pacing, the frequency of filler words, and a few phrases to avoid. It further makes it possible to request feedback on the responses from the job seeker’s connections.
+Hence, as we go forward, we may see more AI interview preparation tools with advanced features being released into the market. 
+What do you think of this interview preparation tool by Google? Let us know on FacebookOpens a new window , TwitterOpens a new window , and LinkedInOpens a new window .
+MORE ON INTERVIEWS AND HIRING
+2 Ways To Avoid Pitfalls of AI Usage in Tech Hiring Processes
+How Integrated Technologies Streamline the Recruitment Process in the New Reality
+3 Tips To Hire a Project Manager With the Right Management Skills
+Virtual Hiring: 3 Strategies To Make It More Effective
+
+
+
+
+
+
+
+								                  talent acquisition										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Karthik Kashyap
+
+
+
+
+ opens a new window
+ opens a new window 
+
+
+
+ opens a new window  opens a new window
+  	
+					Karthik comes from a diverse educational and work background. With an engineering degree and a Masters in Supply Chain and Operations Management from Nottingham University, United Kingdom, he has experience of close to 15 years having worked across different industries out of which, he has worked as a content marketing professional for a significant part of his career. Currently, as an assistant editor at Spiceworks Ziff Davis, he covers a broad range of topics across HR Tech and Martech, from talent acquisition to workforce management and from marketing strategy to innovation. Besides being a content professional, Karthik is an avid blogger, traveler, history buff, and fitness enthusiast. To share quotes or inputs for news pieces, please get in touch on karthik.kashyap@swzd.com			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlc2lnbmJvb20uY29tL2FydC9hcnR1cm8tdGVkZXNjaGktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbWVldHMtZmlsbS1zdG9yeWJvYXJkaW5nLTA3LTA0LTIwMjIv0gEA?oc=5,artificial intelligence meets film storyboarding: a work by arturo tedeschi - Designboom,2022-07-04,Designboom,https://www.designboom.com,artificial intelligence meets film storyboarding in arturo tedeschi's latest work. discover how he converts descriptive texts into striking visuals.,N/A, ,N/A,https://schema.org,WebSite,,,,https://www.designboom.com/,,,,,,,,,,,,,,,,,,N/A,N/A,      MAD architects' biomorphic installation in japan gently bubbles out from century-old house art 11k views,,,,,,,"[{'@type': 'Article', '@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#article', 'isPartOf': {'@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/'}, 'author': {'name': 'arturo tedeschi', '@id': 'https://www.designboom.com/#/schema/person/dad3d25c8a7a71c9aa0722532696b67b'}, 'headline': 'using AI, arturo tedeschi converts storyboard texts into striking visuals', 'datePublished': '2022-07-04T18:35:08+00:00', 'dateModified': '2022-07-12T10:22:34+00:00', 'mainEntityOfPage': {'@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/'}, 'wordCount': 763, 'publisher': {'@id': 'https://www.designboom.com/#organization'}, 'image': {'@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#primaryimage'}, 'thumbnailUrl': 'https://www.designboom.com/wp-content/uploads/2022/07/artificial-intelligence-meets-film-storyboarding-designboom-01.jpg', 'keywords': ['artificial intelligence', 'arturo tedeschi', 'dbinstagram'], 'articleSection': ['art', 'readers'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/', 'url': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/', 'name': 'artificial intelligence meets film storyboarding: a work by arturo tedeschi', 'isPartOf': {'@id': 'https://www.designboom.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#primaryimage'}, 'image': {'@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#primaryimage'}, 'thumbnailUrl': 'https://www.designboom.com/wp-content/uploads/2022/07/artificial-intelligence-meets-film-storyboarding-designboom-01.jpg', 'datePublished': '2022-07-04T18:35:08+00:00', 'dateModified': '2022-07-12T10:22:34+00:00', 'description': ""artificial intelligence meets film storyboarding in\xa0arturo tedeschi's\xa0latest work. discover how he converts descriptive texts into striking visuals."", 'breadcrumb': {'@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#primaryimage', 'url': 'https://www.designboom.com/wp-content/uploads/2022/07/artificial-intelligence-meets-film-storyboarding-designboom-01.jpg', 'contentUrl': 'https://www.designboom.com/wp-content/uploads/2022/07/artificial-intelligence-meets-film-storyboarding-designboom-01.jpg'}, {'@type': 'BreadcrumbList', '@id': 'https://www.designboom.com/art/arturo-tedeschi-artificial-intelligence-meets-film-storyboarding-07-04-2022/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'home', 'item': 'https://www.designboom.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'art', 'item': 'https://www.designboom.com/art/'}, {'@type': 'ListItem', 'position': 3, 'name': 'using AI, arturo tedeschi converts storyboard texts into striking visuals'}]}, {'@type': 'WebSite', '@id': 'https://www.designboom.com/#website', 'url': 'https://www.designboom.com/', 'name': 'designboom | architecture &amp; design magazine', 'description': 'designboom magazine | your first source for architecture, design &amp; art news', 'publisher': {'@id': 'https://www.designboom.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.designboom.com/search-result/?q={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.designboom.com/#organization', 'name': 'Designboom', 'url': 'https://www.designboom.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.designboom.com/#/schema/logo/image/', 'url': 'https://www.designboom.com/wp-content/uploads/2015/10/DesignboomLogo.gif', 'contentUrl': 'https://www.designboom.com/wp-content/uploads/2015/10/DesignboomLogo.gif', 'width': 336, 'height': 54, 'caption': 'Designboom'}, 'image': {'@id': 'https://www.designboom.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/designboomnews/', 'https://x.com/designboom', 'https://www.instagram.com/designboom/', 'https://www.pinterest.com/designboom/', 'https://www.youtube.com/channel/UCv6JHGYnS74viHnZ-6zR2Jg']}, {'@type': 'Person', '@id': 'https://www.designboom.com/#/schema/person/dad3d25c8a7a71c9aa0722532696b67b', 'name': 'arturo tedeschi'}]","{'@type': 'SearchAction', 'target': 'https://www.designboom.com/search-result/?q={search_term_string}', 'query-input': 'required name=search_term_string'}",,,,,,,
+https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL2hlYWx0aHRlY2hhbmFseXRpY3MvbmV3cy8zNjY1OTA3MTcvQUktZm9yLU1lZGljYWwtSW1hZ2luZy1Cb29zdHMtQ2FuY2VyLVNjcmVlbmluZ3Mtd2l0aC1Qcm92aWRlci1BaWTSAQA?oc=5,AI for Medical Imaging Boosts Cancer Screenings with Provider Aid - TechTarget,2022-07-05,TechTarget,https://www.techtarget.com,New research shows that a decision-referral approach in which radiologists and artificial intelligence work together for breast cancer screening is better than either’s performance alone.,N/A,New research shows that a decision-referral approach in which radiologists and artificial intelligence work together for breast cancer screening is better than either’s performance alone.,New research shows that a decision-referral approach in which radiologists and artificial intelligence work together for breast cancer screening is better than either’s performance alone.,https://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.techtarget.com/healthtechanalytics/news/366590717/AI-for-Medical-Imaging-Boosts-Cancer-Screenings-with-Provider-Aid'}",AI for Medical Imaging Boosts Cancer Screenings with Provider Aid,,,,https://cdn.ttgtmedia.com/rms/onlineimages/health analytics_a408295425.jpeg,2022-07-05T05:30Z,,"[{'name': 'Shania Kennedy', '@type': 'Person'}]",False,"{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",,,AI for Medical Imaging Boosts Cancer Screenings with Provider Aid,,,,,,,,N/A,N/A,"
+
+
+Chinnapong - stock.adobe.com
+Chinnapong - stock.adobe.com
+
+
+
+
+
+News
+
+
+AI for Medical Imaging Boosts Cancer Screenings with Provider Aid
+
+
+New research shows that a decision-referral approach in which radiologists and artificial intelligence work together for breast cancer screening is better than either’s performance alone.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Shania Kennedy,
+Assistant Editor
+
+
+
+Published: 05 Jul 2022
+
+
+ 
+A study published in The Lancet Digital Health this month highlights how a decision-referral approach, in which radiologists work with artificial intelligence (AI) models to evaluate breast cancer screenings, achieves better results than clinicians or algorithms would have alone.
+
+
+
+
+
+
+
+The researchers note that the rise of AI use in medical imaging has spurred significant research into the development of accurate cancer screening algorithms. Some studies suggest that AI performs on par with clinicians in terms of image interpretation, but more evidence is needed in areas such as breast cancer screening. Other research further suggests that combining the strengths of radiologists and AI leads to improved screening accuracy, but this area also requires more research.
+To add to these areas of medical research, the study’s authors set out to evaluate the performance of an AI, a radiologist, and the two together when tasked with breast cancer screening. To develop the AI model, the researchers used a retrospective dataset consisting of 1,193,197 full field, digital mammography studies carried out between Jan 1, 2007, and Dec 31, 2020. These mammograms were sourced from 453,104 patients at eight separate screening centers in Germany.
+Data from six of the sites were used for model development and internal testing, and the data from the other two were used for model validation and external testing. The internal-test dataset consisted of 1,670 screen-detected cancers and 19,997 normal mammography exams, while the external-test dataset contained 2,793 screen-detected cancers and 80,058 normal exams. Labels used by the model to classify the images were derived from annotations of radiological findings and biopsy information.
+Following model development, the researchers simulated a scenario in which the AI classified each image as normal or suspicious for cancer. As the model classified the images, it also gave an indication of its confidence on its classification. Any images deemed suspicious or that the AI was unconfident about were referred to the radiologist without any indications of the AI’s classification of the images.
+By structuring the simulation in this way, the researchers could evaluate sensitivity and specificity for cancer detection in a scenario that mirrors how the AI would be used in a clinical setting. In the clinical setting, an AI’s predictions that were both labelled as normal and confident would not need to be shown to the radiologist for further consideration. However, those that were labelled as suspicious or unconfident would receive final classification from a radiologist.
+On its own, the AI model achieved a sensitivity of 84.2 percent and a specificity of 89.5 percent on internal-test data, and a sensitivity of 84.6 percent and a specificity of 91.3 percent on external-test data. The radiologist achieved a sensitivity of 85.7 percent and a specificity of 93.4 percent on the internal-test dataset, and a sensitivity of 87.2 percent and a specificity of 93.4 percent on the external-test dataset.
+The radiologist alone outperformed the AI, but the combined decision-referral approach that relied on both the clinician and the model achieved the highest performance, significantly improving the specificity and sensitivity scores.
+These findings indicate that leveraging the combined strengths of AI and radiologists surpasses either’s performance alone. Because of this, the researchers posit, their decision-referral approach has the potential to improve the screening accuracy of radiologists, is adaptive to the requirements of screening, and could allow for the reduction of radiologist workload without sacrificing their expertise.
+
+Next Steps
+Top Opportunities for Artificial Intelligence to Improve Cancer CareHow Can Artificial Intelligence Change Medical Imaging?  Top Challenges of Applying Artificial Intelligence to Medical Imaging
+
+
+
+
+
+Dig Deeper on Artificial intelligence in healthcare
+
+
+
+Deep learning tool may reduce false-positives in screening mammography
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+Breast Cancer Detection AI Performs On Par with Human Mammogram Readers
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+ChatGPT Accurately Selects Breast Imaging Tests, Aids Decision-Making
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+Optimized AI Assists Senior Radiologists in Thyroid Nodule Diagnostics
+
+
+
+
+
+
+
+
+Sponsored News
+
+
+The Future of Private AI: How Industries Take Advantage of AI
+–Equinix
+
+
+Unlock the Value Of Your Data To Harness Intelligence and Innovation
+–HPE
+
+
+Unlock the power of multicloud with AI
+–Equinix
+
+See More
+
+
+
+
+
+Related Content
+
+
+Deep learning tool may reduce false-positives in ...
+– Healthtech Analytics
+
+
+Artificial Intelligence Advances Breast Cancer ...
+– Healthtech Analytics
+
+
+Deep Learning May Detect Breast Cancer Earlier than ...
+– Healthtech Analytics
+
+
+
+
+
+
+
+
+",,,,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2Jpb2dlbi10ZWFtcy1oYXBwaWZ5LWhlYWx0aC1haS1wb3dlcmVkLW1zLXBhdGllbnQtZW5nYWdlbWVudC1wbGF0Zm9ybdIBAA?oc=5,Biogen teams with Happify Health on AI-powered MS patient engagement platform - FiercePharma,2022-07-05,FiercePharma,https://www.fiercepharma.com,"Biogen is joining forces with Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered care community, Kopa.","Biogen,multiple sclerosis,Digital health,Artificial Intelligence,Tecfidera,Tysabri,Plegridy,Avonex,Patient Engagement,Pharma,AI and Machine Learning,Fierce Pharma Homepage,Marketing","Biogen is joining forces with digital health startup Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered online care community Kopa. | Biogen is joining forces with digital health startup Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered online care community, Kopa.","Biogen is joining forces with digital health startup Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered online care community Kopa. | Biogen is joining forces with digital health startup Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered online care community, Kopa.",https://schema.org/,,,,,,,,,,,,,,,,,,,,,,,"Pharma,AI and Machine Learning,Fierce Pharma Homepage",N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Life Sciences Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Pharma
+
+
+
+Vaccines
+
+
+Asia
+
+
+Cell & Gene Therapy
+
+
+Drug Delivery
+
+
+Executives
+
+
+
+
+Manufacturing
+
+
+
+Facilities
+
+
+Recalls
+
+
+Warning Letters
+
+
+
+
+Marketing
+
+
+Special Reports
+
+
+Fierce 50
+
+
+
+Special Report
+
+
+Awards Gala
+
+
+
+
+
+
+
+
+Resources
+
+
+
+Podcasts
+
+
+Fierce Events
+
+
+Industry Events
+
+
+Webinars
+
+
+Whitepapers
+
+
+Survey
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pharma
+
+
+
+Vaccines
+
+
+Asia
+
+
+Cell & Gene Therapy
+
+
+Drug Delivery
+
+
+Executives
+
+
+
+
+Manufacturing
+
+
+
+Facilities
+
+
+Recalls
+
+
+Warning Letters
+
+
+
+
+Marketing
+
+
+Special Reports
+
+
+Fierce 50
+
+
+
+Special Report
+
+
+Awards Gala
+
+
+
+
+
+
+
+
+Resources
+
+
+
+Podcasts
+
+
+Fierce Events
+
+
+Industry Events
+
+
+Webinars
+
+
+Whitepapers
+
+
+Survey
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Life Sciences Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marketing
+
+
+
+
+Biogen teams with Happify Health on AI-powered MS patient engagement platform
+
+
+
+
+
+By 
+Natalie Missakian
+
+
+
+
+
+Jul 5, 2022 7:25am
+
+
+
+
+Biogen
+multiple sclerosis
+Digital health
+Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biogen will provide educational content about its therapies for Happify Health's Kopa app and website to support people with multiple sclerosis. (Happify Health)
+Biogen is joining forces with digital health startup Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered online care community Kopa.Biogen, a major player in the MS space, will provide educational content about its therapies for the Kopa app and website, which aim to support people with MS throughout their care journey, Jason Hawbecker, Biogen’s head of strategic partnerships, told Fierce Pharma Marketing in an interview.The platform offers a place where patients at any stage of MS can learn about treatment options, ask questions and discuss their physical and mental health with experts and others living with the disease, according to the companies. What’s different, said Hawbecker, is that Happify uses artificial intelligence to learn more about patients to personalize that support.A patient who spends a lot of time on the Kopa platform reading articles and chatting with peers about drug side effects, for instance, might be served up content about how best to manage those symptoms, Hawbecker explained. RelatedRoche keeps an eye on MS diversity with latest awareness workBiogen markets several drugs for relapsing MS, including its blockbuster pill Tecfidera and its follow-up Vumerity along with infusion treatment Tysabri and injectables Plegridy and Avonex. Helping patients stay up-to-date with the latest treatment advances and adhere to their medication regimens are among the goals of the site.“Sometimes, an intervention at the right moment is really important,” Hawbecker said. MS is the third disease area to be served by the Kopa platform, which Happify launched for psoriasis patients in July 2020 and expanded to include women’s health last summer.Hawbecker, who previously led strategic partnerships at CVS Health, said Biogen pursued the collaboration as part of its strategy to “meet patients where they are in the community.”“The patients are going to these places [such as Kopa], and they trust these communities,” he said. “We want to be there to support that.”
+
+
+
+
+
+Featured Event
+Revolutionize Your Digital Strategies
+
+
+September 9-12, 2024
+
+
+Philadelphia, PA
+
+
+
+Register Now
+
+RelatedAlmirall enlists Happify to boost psoriasis patients' mental health with digital therapeuticsAlthough Biogen is Happify’s first pharma partner on Kopa, it is not the first drug company to work with the tech startup. In 2019, Happify teamed with Sanofi to work on a digital therapeutic to improve mental health in MS patients. And last year, it partnered with Spanish pharma Almirall on a digital wellness program for psoriasis called Claro, which it launched earlier this month in Spain, Italy and the U.K.Happify raised $73 million in a series D round last year, which it said it would use to build out more specialized solutions for pharmaceutical companies, enterprise customers and health plans.The New York City-based company says it combines digital therapeutics and care delivery solutions to help manage chronic conditions and aims to improve both mental and physical health.The partnership is Biogen’s latest foray into the digital health space. In May, it announced it was working with MedRhythms to employ a music-based digital therapeutic to improve the strides of MS patients who have trouble walking.
+
+Biogen
+multiple sclerosis
+Digital health
+Artificial Intelligence
+Tecfidera
+Tysabri
+Plegridy
+Avonex
+Patient Engagement
+Pharma
+AI and Machine Learning
+Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+Related ContentRegulatory tracker: Lilly's tirzepatide approved in China for weight lossJul 19, 2024 11:00amAbbott CEO eyes ‘guerilla marketing’ to get Lingo CGM to people without diabetesJul 19, 2024 10:50amSiga signs $113M US supply contract for mpox antiviral TpoxxJul 19, 2024 10:35amKorea's Daewoong Bio banned from China drug procurement program after turning down inspectionJul 19, 2024 10:21am
+
+
+
+
+
+
+
+See more articles
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+Connect
+
+
+
+The Team
+
+
+Advertise
+
+
+
+
+Join Us
+
+
+
+Newsletters
+
+
+Resources
+
+
+RSS Feeds
+
+
+
+
+Our Brands
+
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Pharma
+
+
+
+
+Our Events
+
+
+
+Life Sciences Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2024 Questex LLC All rights reserved.
+Terms of use
+Privacy Policy
+Privacy Settings
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,"{'@type': 'NewsArticle', 'headline': 'Biogen teams with Happify Health on MS patient support platform', 'articleSection': None, 'keywords': 'Marketing', 'description': 'Biogen is joining forces with Happify Health to help support multiple sclerosis patients through the tech company’s AI-powered care community, Kopa.', 'datePublished': '2022-07-05T11:25:00', 'isAccessibleForFree': True, 'dateModified': '1657039953', 'author': [[{'@type': 'Person', 'name': 'Natalie Missakian', 'url': 'https://www.fiercepharma.com/person/natalie-missakian'}]], 'publisher': {'@type': 'Organization', 'name': 'FiercePharma', 'url': 'https://www.fiercepharma.com'}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.fiercepharma.com/marketing/biogen-teams-happify-health-ai-powered-ms-patient-engagement-platform'}, 'image': 'https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1616100088/Happify%20Health%20Press%20Visual.jpeg?VersionId=uwj4ypKomYyEOVS7B7mAmFOmaEZ1oGWD'}",,,,,,,,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3lvcmtlci5jb20vbWFnYXppbmUvMjAyMi8wNy8xMS9kYWxsLWUtbWFrZS1tZS1hbm90aGVyLXBpY2Fzc28tcGxlYXNl0gEA?oc=5,"DALL-E, Make Me Another Picasso, Please - The New Yorker",2022-07-04,The New Yorker,https://www.newyorker.com,Laura Lane on the creators of an artificial intelligence that can produce almost any art work imaginable—from “cheeseburger lamp” to “the rest of mona lisa”—sifting through their latest requests for original images.,"['masterpieces', 'new yorker favorites', 'artificial intelligence', 'art', 'images', 'instagram', 'textaboveleftsmallwithrule', 'magazine']",The creators of an artificial intelligence that can produce almost any art work imaginable—from “cheeseburger lamp” to “the rest of mona lisa”—sift through their latest requests for original images.,The creators of an artificial intelligence that can produce almost any art work imaginable—from “cheeseburger lamp” to “the rest of mona lisa”—sift through their latest requests for original images.,https://schema.org/,BreadcrumbList,"{'@type': 'WebPage', '@id': 'https://www.newyorker.com/magazine/2022/07/11/dall-e-make-me-another-picasso-please'}","DALL-E, Make Me Another Picasso, Please",Laura Lane on the creators of an artificial intelligence that can produce almost any art work imaginable—from “cheeseburger lamp” to “the rest of mona lisa”—sifting through their latest requests for original images.,https://www.newyorker.com/magazine/2022/07/11/dall-e-make-me-another-picasso-please,"https://media.newyorker.com/photos/62be25758da4e605676020f0/3:2/w_2559,h_1706,c_limit/220711_r40681web.jpg","['https://media.newyorker.com/photos/62be25758da4e605676020f0/16:9/w_2559,h_1439,c_limit/220711_r40681web.jpg', 'https://media.newyorker.com/photos/62be25758da4e605676020f0/4:3/w_2556,h_1917,c_limit/220711_r40681web.jpg', 'https://media.newyorker.com/photos/62be25758da4e605676020f0/1:1/w_1918,h_1919,c_limit/220711_r40681web.jpg']",2022-06-30T22:10:46.700-04:00,2022-07-04T06:00:00.000-04:00,"[{'@type': 'Person', 'name': 'Laura Lane', 'sameAs': 'https://www.newyorker.com/contributors/laura-lane'}]",True,"{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'The New Yorker', 'logo': {'@type': 'ImageObject', 'url': 'https://www.newyorker.com/verso/static/the-new-yorker/assets/social-image-hub.jpg', 'width': '500px', 'height': '117px'}, 'url': 'https://www.newyorker.com'}",,,,,,,,,,,tags,N/A,"MasterpiecesDALL-E, Make Me Another Picasso, PleaseThe creators of an artificial intelligence that can produce almost any art work imaginable—from “cheeseburger lamp” to “the rest of mona lisa”—sift through their latest requests for original images.By Laura LaneJuly 4, 2022Save this storySave this storySave this storySave this storySince humans invented art, sometime in the Paleolithic era, they’ve produced lots of pictures—“The Starry Night,” some memes, that photo of Donald Trump staring at the eclipse. What does it all add up to? A few years ago, a company called OpenAI fed a good deal of those images, along with text descriptions, into the neural network of an artificial intelligence named DALL-E. DALL-E was being trained to create original art of its own, in any style, depicting in uncanny detail almost anything desired, based on written prompts. But a mastery of the entire universe of human imagery makes for difficult choices. How do you decide what DALL-E should create? After careful deliberation, one of the first images that OpenAI prompted was a doughnut made of porcupine quills.“a real hippopotamus sitting on a sofa smoking a cigarette, 70mm Nikon,” as prompted by Roz Chast.Art work by DALL-E / Courtesy OpenAI“There was this belief that creativity is this deeply special, only-human thing,” Sam Altman, OpenAI’s C.E.O., explained the other day. Maybe not so true anymore, he said. Altman, who wore a gray sweater and had tousled brown hair, was videoconferencing from the company’s headquarters, in San Francisco. DALL-E is still in a testing phase. So far, OpenAI has granted access to a select group of people—researchers, artists, developers—who have used it to produce a wide array of images: photorealistic animals, bizarre mashups, punny collages. Asked by a user to generate “a plate of various alien fruits from another planet, photograph,” DALL-E returned something kind of like rambutans. “The rest of mona lisa” is, according to DALL-E, mostly just one big cliff. Altman described DALL-E as “an extension of your own creativity.”“octopus riding the subway,” as prompted by Roz Chast.Art work by DALL-E / Courtesy OpenAI“octopus doctor performing brain surgery, 65mm lens Kodachrome,” as prompted by Roz Chast.Art work by DALL-E / Courtesy OpenAIFor the more than a million people on DALL-E’s wait list, the only way to extend their creativity is to slide into the A.I.’s Instagram D.M.s with a request. The company launched the account, @openaidalle, in April. “I was worried that maybe it would take more of an explanation to get people engaged,” Natalie Summers, who runs the account for OpenAI, said, from a conference room near Altman. “And it did not.” @openaidalle now has almost two hundred thousand followers. It’s Summers’s job to read through the messages and choose the best of the best. “If I did every single thing that people asked, we would have a lot of raccoons and sloths,” she said. Hits have included “cheeseburger lamp,” “emotional baggage” (suitcases with sad faces), and “attractive dinosaur in a tuxedo, looking at himself in a mirror and seeing his reflection, digital art,” which DALL-E endowed with human-proportioned arms to aid in its hotness. Reviews have been of the mind-blown variety. “I’m gonna lose me job,” one commenter, whose profile said they were a graphic designer, posted, below an image of polymer-clay dragons eating pizza on a boat.To sift through the latest requests, Summers, who wore dangling earrings and a jean jacket, videoconferenced with DALL-E’s product manager, Joanne Jang, and with a member of the technical staff, Aditya Ramesh. Ramesh was responsible for DALL-E’s name; it came to him in the shower. “Some people got it immediately,” he said. “Other people I had to explain that it’s a portmanteau.”“a very sad parakeet in a ball gown in the style of John Singer Sargent,” as prompted by Roz Chast.Art work by DALL-E / Courtesy OpenAI“cartoon t-rex ‘african grey parrot’ monster, photograph 70mm,” as prompted by Roz Chast.Art work by DALL-E / Courtesy OpenAIThere are rules for requesters. Images of public figures are off limits, as is anything remotely offensive, including nudity and violence. Political campaigning is forbidden. “We are worried about deepfakes,” Summers said. Recently, a researcher named Boris Dayma developed a low-fi copycat, called DALL-E Mini, which went viral. Users were permitted to submit prompts like “Ice T in a glass of iced tea” and “Babies fist fighting,” though the output is sometimes eerie: Ice-T’s face appears to be melting; the babies look like zombies. At OpenAI’s request, DALL-E Mini was renamed Craiyon. (“There has been a lot of confusion,” an OpenAI spokesperson said.)Video From The New YorkerHow Does a Plant Grow Without Soil?Summers began scrolling. “Here’s one that I found this morning: ‘a cat with a bed of tulips growing out of its back,’ ” she said. She clicked a button, and the system came up with ten images. All featured tulips, but only one had tulips growing out of a cat’s back—though not enough to qualify as “a bed.” Ramesh gave the prompt a try, and the machine spat out a white cat with two dozen or so tulips sprouting out of its fur. “I love how chubby the cat is,” Jang said. Summers sent the photo to the user, who responded with three smile emojis.They turned to “an astronaut eating in a diner that is floating in space.” Jang spotted a problem with DALL-E’s work: too much gravity.“Oh, that’s true,” Ramesh said. “I’ll see if I can get floating food.” A few wording tweaks yielded an astronaut with a piece of toast, staring out a diner window at the stars. “It’s like he’s contemplating his life’s decisions,” Ramesh said. They went with a less melancholy option.Next up: a fish fishing. “How about this one?” Ramesh said, pulling up an illustration of a green fish wearing a fisherman’s hat, with a smaller fish dangling from a rod.“That one’s good because he looks alarmed to be in this meta situation,” Summers said.The meeting was wrapping up, but they decided to take on a few more requests. One user had asked for, simply, “The Big Bang.” Jang took a deep breath. “There’s a lot of artistic license for that one,” she said. ♦",,masterpieces,"“There was this belief that creativity is this deeply special, only-human thing,” Sam Altman, OpenAI’s C.E.O., explained the other day. Maybe not so true anymore, he said. Altman, who wore a gray sweater and had tousled brown hair, was videoconferencing from the company’s headquarters, in San Francisco. DALL-E is still in a testing phase. So far, OpenAI has granted access to a select group of people—researchers, artists, developers—who have used it to produce a wide array of images: photorealistic animals, bizarre mashups, punny collages. Asked by a user to generate “a plate of various alien fruits from another planet, photograph,” DALL-E returned something kind of like rambutans. “The rest of mona lisa” is, according to DALL-E, mostly just one big cliff. Altman described DALL-E as “an extension of your own creativity.”
+For the more than a million people on DALL-E’s wait list, the only way to extend their creativity is to slide into the A.I.’s Instagram D.M.s with a request. The company launched the account, @openaidalle, in April. “I was worried that maybe it would take more of an explanation to get people engaged,” Natalie Summers, who runs the account for OpenAI, said, from a conference room near Altman. “And it did not.” @openaidalle now has almost two hundred thousand followers. It’s Summers’s job to read through the messages and choose the best of the best. “If I did every single thing that people asked, we would have a lot of raccoons and sloths,” she said. Hits have included “cheeseburger lamp,” “emotional baggage” (suitcases with sad faces), and “attractive dinosaur in a tuxedo, looking at himself in a mirror and seeing his reflection, digital art,” which DALL-E endowed with human-proportioned arms to aid in its hotness. Reviews have been of the mind-blown variety. “I’m gonna lose me job,” one commenter, whose profile said they were a graphic designer, posted, below an image of polymer-clay dragons eating pizza on a boat.
+To sift through the latest requests, Summers, who wore dangling earrings and a jean jacket, videoconferenced with DALL-E’s product manager, Joanne Jang, and with a member of the technical staff, Aditya Ramesh. Ramesh was responsible for DALL-E’s name; it came to him in the shower. “Some people got it immediately,” he said. “Other people I had to explain that it’s a portmanteau.”
+There are rules for requesters. Images of public figures are off limits, as is anything remotely offensive, including nudity and violence. Political campaigning is forbidden. “We are worried about deepfakes,” Summers said. Recently, a researcher named Boris Dayma developed a low-fi copycat, called DALL-E Mini, which went viral. Users were permitted to submit prompts like “Ice T in a glass of iced tea” and “Babies fist fighting,” though the output is sometimes eerie: Ice-T’s face appears to be melting; the babies look like zombies. At OpenAI’s request, DALL-E Mini was renamed Craiyon. (“There has been a lot of confusion,” an OpenAI spokesperson said.)
+Summers began scrolling. “Here’s one that I found this morning: ‘a cat with a bed of tulips growing out of its back,’ ” she said. She clicked a button, and the system came up with ten images. All featured tulips, but only one had tulips growing out of a cat’s back—though not enough to qualify as “a bed.” Ramesh gave the prompt a try, and the machine spat out a white cat with two dozen or so tulips sprouting out of its fur. “I love how chubby the cat is,” Jang said. Summers sent the photo to the user, who responded with three smile emojis.
+They turned to “an astronaut eating in a diner that is floating in space.” Jang spotted a problem with DALL-E’s work: too much gravity.
+“Oh, that’s true,” Ramesh said. “I’ll see if I can get floating food.” A few wording tweaks yielded an astronaut with a piece of toast, staring out a diner window at the stars. “It’s like he’s contemplating his life’s decisions,” Ramesh said. They went with a less melancholy option.
+Next up: a fish fishing. “How about this one?” Ramesh said, pulling up an illustration of a green fish wearing a fisherman’s hat, with a smaller fish dangling from a rod.
+“That one’s good because he looks alarmed to be in this meta situation,” Summers said.
+The meeting was wrapping up, but they decided to take on a few more requests. One user had asked for, simply, “The Big Bang.” Jang took a deep breath. “There’s a lot of artistic license for that one,” she said. ♦",,"{'@type': 'CreativeWork', 'name': 'The New Yorker'}",,,,https://www.newyorker.com/magazine/2022/07/11/dall-e-make-me-another-picasso-please,"[{'@type': 'ListItem', 'position': 1, 'name': 'Magazine', 'item': 'https://www.newyorker.com/magazine'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.newyorker.com/tag/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'DALL-E, Make Me Another Picasso, Please'}]",,,,,
+https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2VkdWNhdGlvbi10b2RheS9qb2JzLWFuZC1jYXJlZXJzL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWluLTIwMjItZW5kbGVzcy1vcHBvcnR1bml0aWVzLWFuZC1ncm93dGgtMTk2OTA1OC0yMDIyLTA3LTAx0gGYAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2VkdWNhdGlvbi10b2RheS9qb2JzLWFuZC1jYXJlZXJzL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWluLTIwMjItZW5kbGVzcy1vcHBvcnR1bml0aWVzLWFuZC1ncm93dGgtMTk2OTA1OC0yMDIyLTA3LTAx?oc=5,Artificial Intelligence in 2022: Endless opportunities and growth - India Today,2022-07-01,India Today,https://www.indiatoday.in,Artificial Intelligence in 2022.,"AI jobs, Artificial Intelligence jobs",The machine learning job market is projected to be worth $31 billion by 2024 – at an annual growth rate of 40 per cent over the last six years. ,The machine learning job market is projected to be worth $31 billion by 2024 – at an annual growth rate of 40 per cent over the last six years. ,https://schema.org,ProfilePage,,,,https://www.indiatoday.in/author/india-today-web-desk,,https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png,,,,,"{'@type': 'Organization', 'name': 'India Today', 'url': 'https://www.indiatoday.in/', 'logo': {'@type': 'ImageObject', 'url': 'https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png', 'width': 600, 'height': 60}}",,,India Today Web Desk,,,,"{'@type': 'ImageObject', 'url': 'https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png', 'width': 600, 'height': 60}",,"['https://www.facebook.com/IndiaToday', 'https://twitter.com/indiatoday', 'https://www.youtube.com/Indiatoday', 'https://www.instagram.com/indiatoday/']","{'@type': 'PostalAddress', 'streetAddress': 'FC-8, Ecity Bioscope Rd, Film City', 'addressLocality': 'Sector 16A, Noida', 'addressRegion': 'India', 'postalCode': '201301', 'telephone': '0120 480 7100'}",N/A,N/A,N/A,,,,"[{'@type': 'Article', 'headline': 'Artificial Intelligence in 2022: Endless opportunities and growth - India Today', 'url': 'https://www.indiatoday.in/education-today/jobs-and-careers/story/artificial-intelligence-in-2022-endless-opportunities-and-growth-1969058-2022-07-01', 'datePublished': '2022-07-01 15:43:20+5:30', 'author': {'@id': 'https://www.indiatoday.in/author/india-today-web-desk'}}]",,"{'@type': 'SpeakableSpecification', 'cssSelector': ['h1', '.story-kicker']}",,"{'@type': 'SearchAction', 'target': 'https://www.indiatoday.in/search/{search_term_string}', 'query-input': 'required name=search_term_string'}",,"[{'@type': 'ListItem', 'name': 'News', 'position': 1, 'item': {'@id': 'https://www.indiatoday.in/', '@type': 'Thing'}}, {'@type': 'ListItem', 'name': 'Education Today', 'position': 2, 'item': {'@id': 'https://www.indiatoday.in/education-today', '@type': 'Thing'}}, {'@type': 'ListItem', 'name': 'Jobs and Careers', 'position': 3, 'item': {'@id': 'https://www.indiatoday.in/education-today/jobs-and-careers', '@type': 'Thing'}}, {'@type': 'ListItem', 'name': 'Artificial Intelligence in 2022: Endless opportunities and growth', 'position': 4}]",1200,675,"{'@type': 'Organization', 'name': 'India Today', 'url': 'https://www.indiatoday.in/'}","{'@id': 'https://www.indiatoday.in/author/india-today-web-desk', '@type': 'Person', 'name': 'India Today Web Desk'}",
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2hvdy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1jaGFuZ2UtY2xvdWQtc2VjdXJpdHktc2VydmljZXPSAX1odHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvaG93LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWNoYW5nZS1jbG91ZC1zZWN1cml0eS1zZXJ2aWNlcw?oc=5,How Artificial Intelligence Change Cloud Security Services? - Analytics Insight,2022-07-04,Analytics Insight,https://www.analyticsinsight.net,,"Artificial Intelligence,Cloud Security Services,Cloud,AI,Cyber Attack",Artificial intelligence is changing the way we live and work. It is also altering the way cloud security services are delivered. Security experts are turning to,Artificial intelligence is changing the way we live and work. It is also altering the way cloud security services are delivered. Security experts are turning to,http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/how-artificial-intelligence-change-cloud-security-services'}",How Artificial Intelligence Change Cloud Security Services?,,https://www.analyticsinsight.net/artificial-intelligence/how-artificial-intelligence-change-cloud-security-services,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Artificial-Intelligence-Change-Cloud-Security-Services.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Artificial-Intelligence-Change-Cloud-Security-Services.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",2022-07-04T07:05:10Z,2022-07-04T07:05:10Z,"[{'@type': 'Person', 'givenName': 'Market Trends', 'name': 'Market Trends', 'url': 'https://www.analyticsinsight.net/author/market-trends'}]",,"{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",,,How Artificial Intelligence Change Cloud Security Services?,,,,,,,,N/A,N/A,"Number of ChatGPT Users and Statistics
+",,Artificial Intelligence,"Artificial intelligence is changing the way we live and work. It is also altering the way cloud security services are delivered. Security experts are turning to artificial intelligence as a way to help them protect against cyber attacks. AI can help identify threats and automate the process of reacting to them..In this article, we will explore how artificial intelligence is changing cloud security services and what this means for businesses..What Is Artificial Intelligence and What Are Its Benefits for Cloud Security Services?.In a nutshell, AI is the ability of machines to perform tasks that would normally require human intelligence, such as decision-making and pattern recognition. This can be done through a variety of methods, such as machine learning (ML) and natural language processing (NLP)..The benefits of using AI for cloud security services include:.Identification of threats that would otherwise go undetected.Automatization of the process of responding to threats.Improvement of the efficiency of security operations.Ability to reduce the cost of security operations..How to Choose a Cloud Security Service Provider?.When choosing a cloud security service provider, it's important to consider their experience in deploying and managing AI-based solutions.It is also essential to look for a provider that has a team of experts. They must be able to help you implement an AI-based solution that meets your specific needs.Don't forget to consider your budget and choose the one you can afford. You also want to make sure that you are getting value for your money. You should choose a provider that offers a money-back guarantee in case you're not satisfied with their services..TRE Group offers a free consultation to help you determine which of their services is right for you..How Can Artificial Intelligence Help to Detect and Prevent Cyber Attacks From Happening?.Cyber-attacks are becoming more advanced and difficult to detect, making it essential for businesses to have strong cybersecurity measures in place. However, there are some ways how AI can change and improve cloud security services..AI can help to identify patterns in data that may indicate an attempted cyber-attack. For example, if there is a sudden spike in activity from a particular IP address, AI can flag this as suspicious and trigger an investigation.AI can also be used to monitor employee behavior. If an employee suddenly starts accessing sensitive data that they don't normally work with, this could be a sign that they are trying to steal company information.Additionally, you can use AI to create virtual firewalls that can block traffic from known malicious IP addresses. This can help to stop cyber-attacks before they even reach your network..What Is Automated Response Work and How Can It Benefit Businesses?.An automated response is a process whereby a computer system is able to automatically respond to a cyber-attack. This can be done by identifying the attack and then taking action to neutralize it..The automated response can benefit businesses by reducing the amount of time that is spent responding to an attack, as well as reducing the cost of response. The automated response can also help to prevent future attacks by providing a record of what happened during an attack..Are There Any Risks Associated With Using Artificial Intelligence for Cloud Security Services?.Though cloud security services that use artificial intelligence are becoming increasingly popular, there are some risks associated with this technology..One worry is that AI could give cyber criminals new ways to attack systems. For example, if a criminal can develop a program that can mimic human behavior, they might be able to bypass security measures that are designed to detect malicious activity.Another concern is that AI-powered security systems might make mistakes and block legitimate users from accessing data or resources. This could cause serious problems for businesses that rely on the cloud for critical operations.Finally, there is the risk that cyber criminals could use AI to create 'backdoors' into systems, giving them undetected access to sensitive data..While these risks are real, it's important to remember that AI-based security systems also have the potential to greatly improve the safety of data stored in the cloud..How does Will Artificial Intelligence continue to Change the Way Cloud Security Services Are Delivered in the Future?.Artificial intelligence is likely to continue to change the way cloud security services are delivered in the future. AI-based systems are becoming more advanced and can identify more sophisticated threats. They are also becoming more widely available and affordable, which means that more businesses will be able to benefit from them..In the future, AI is likely to play an even more important role in helping businesses to protect their data and applications from cyber-attacks..Final Thoughts.Cloud security services that use artificial intelligence are becoming increasingly popular. AI-based systems can identify more sophisticated threats and are becoming more widely available and affordable..By taking the time to understand how AI can benefit your business, you can be sure that you're choosing a cloud security service provider that can help to keep your data safe..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/how-artificial-intelligence-change-cloud-security-services', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Artificial-Intelligence-Change-Cloud-Security-Services.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'How Artificial Intelligence Change Cloud Security Services?', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/how-artificial-intelligence-change-cloud-security-services'}]",,,,,2022-07-04T07:05:10Z

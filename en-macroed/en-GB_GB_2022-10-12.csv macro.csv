@@ -1,0 +1,3140 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,article:section,article:summary,article text,@type,url,publisher,datePublished,dateModified,headline,image,thumbnailUrl,mainEntityOfPage,author,name,sameAs,alternateName,audio,articleSection,speakable,dateCreated,identifier,creator
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5vZW1hbWFnLmNvbS90aGUtZXhwbG9pdGVkLWxhYm9yLWJlaGluZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZdIBAA?oc=5,The Exploited Labor Behind Artificial Intelligence - Noema Magazine,2022-10-13,Noema Magazine,https://www.noemamag.com,Supporting transnational worker organizing should be at the center of the fight for “ethical AI.”,N/A,Supporting transnational worker organizing should be at the center of the fight for “ethical AI.”,"Supporting transnational worker organizing should be at the center of the fight for “ethical AI.”
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/', 'url': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/', 'name': 'The Exploited Labor Behind Artificial Intelligence', 'isPartOf': {'@id': 'https://www.noemamag.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://noemamag.imgix.net/2022/12/DAIR-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=ebb0750c21f860cfb73a218cc85d413a', 'datePublished': '2022-10-13T15:47:21+00:00', 'dateModified': '2022-12-10T00:14:11+00:00', 'description': 'Supporting transnational worker organizing should be at the center of the fight for “ethical AI.”', 'breadcrumb': {'@id': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/#primaryimage', 'url': 'https://noemamag.imgix.net/2022/12/DAIR-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=ebb0750c21f860cfb73a218cc85d413a', 'contentUrl': 'https://noemamag.imgix.net/2022/12/DAIR-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=ebb0750c21f860cfb73a218cc85d413a', 'width': 2048, 'height': 2560, 'caption': 'Nash Weerasekera for Noema Magazine'}, {'@type': 'BreadcrumbList', '@id': 'https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.noemamag.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'The Exploited Labor Behind Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://www.noemamag.com/#website', 'url': 'https://www.noemamag.com/', 'name': 'NOEMA', 'description': 'Noema Magazine', 'publisher': {'@id': 'https://www.noemamag.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.noemamag.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.noemamag.com/#organization', 'name': 'NOEMA', 'url': 'https://www.noemamag.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.noemamag.com/#/schema/logo/image/', 'url': 'https://noemamag.imgix.net/2023/11/noema-logo.png?fm=png&ixlib=php-3.3.1&s=5f5be9b261a7cf7e336f6f6beea6e539', 'contentUrl': 'https://noemamag.imgix.net/2023/11/noema-logo.png?fm=png&ixlib=php-3.3.1&s=5f5be9b261a7cf7e336f6f6beea6e539', 'width': 305, 'height': 69, 'caption': 'NOEMA'}, 'image': {'@id': 'https://www.noemamag.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/NoemaMag', 'https://twitter.com/NoemaMag']}]",N/A,N/A,"
+
+
+
+
+
+The Exploited Labor Behind Artificial Intelligence
+Supporting transnational worker organizing should be at the center of the fight for “ethical AI.”
+
+
+
+
+
+  
+
+Nash Weerasekera for Noema Magazine
+
+
+
+
+
+
+
+EssayTechnology & the Human 
+
+
+
+
+
+        By Adrienne Williams, Milagros Miceli and Timnit Gebru 
+
+      October 13, 2022    
+
+FacebookTwitterEmail
+
+
+
+
+
+
+Credits
+
+Adrienne Williams and Milagros Miceli are researchers at the Distributed AI Research (DAIR) Institute. Timnit Gebru is the institute’s founder and executive director. She was previously co-lead of the Ethical AI research team at Google.
+
+
+The public’s understanding of artificial intelligence (AI) is largely shaped by pop culture — by blockbuster movies like “The Terminator” and their doomsday scenarios of machines going rogue and destroying humanity. This kind of AI narrative is also what grabs the attention of news outlets: a Google engineer claiming that its chatbot was sentient was among the most discussed AI-related news in recent months, even reaching Stephen Colbert’s millions of viewers. But the idea of superintelligent machines with their own agency and decision-making power is not only far from reality — it distracts us from the real risks to human lives surrounding the development and deployment of AI systems. While the public is distracted by the specter of nonexistent sentient machines, an army of precarized workers stands behind the supposed accomplishments of artificial intelligence systems today.
+Many of these systems are developed by multinational corporations located in Silicon Valley, which have been consolidating power at a scale that, journalist Gideon Lewis-Kraus notes, is likely unprecedented in human history. They are striving to create autonomous systems that can one day perform all of the tasks that people can do and more, without the required salaries, benefits or other costs associated with employing humans. While this corporate executives’ utopia is far from reality, the march to attempt its realization has created a global underclass, performing what anthropologist Mary L. Gray and computational social scientist Siddharth Suri call ghost work: the downplayed human labor driving “AI”.
+Tech companies that have branded themselves “AI first” depend on heavily surveilled gig workers like data labelers, delivery drivers and content moderators. Startups are even hiring people to impersonate AI systems like chatbots, due to the pressure by venture capitalists to incorporate so-called AI into their products. In fact, London-based venture capital firm MMC Ventures surveyed 2,830 AI startups in the EU and found that 40% of them didn’t use AI in a meaningful way.
+Far from the sophisticated, sentient machines portrayed in media and pop culture, so-called AI systems are fueled by millions of underpaid workers around the world, performing repetitive tasks under precarious labor conditions. And unlike the “AI researchers” paid six-figure salaries in Silicon Valley corporations, these exploited workers are often recruited out of impoverished populations and paid as little as $1.46/hour after tax. Yet despite this, labor exploitation is not central to the discourse surrounding the ethical development and deployment of AI systems. In this article, we give examples of the labor exploitation driving so-called AI systems and argue that supporting transnational worker organizing efforts should be a priority in discussions pertaining to AI ethics.
+We write this as people intimately connected to AI-related work. Adrienne is a former Amazon delivery driver and organizer who has experienced the harms of surveillance and unrealistic quotas established by automated systems. Milagros is a researcher who has worked closely with data workers, especially data annotators in Syria, Bulgaria and Argentina. And Timnit is a researcher who has faced retaliation for uncovering and communicating the harms of AI systems.
+Treating Workers Like Machines
+Much of what is currently described as AI is a system based on statistical machine learning, and more specifically, deep learning via artificial neural networks, a methodology that requires enormous amounts of data to “learn” from. But around 15 years ago, before the proliferation of gig work, deep learning systems were considered merely an academic curiosity, confined to a few interested researchers.
+In 2009, however, Jia Deng and his collaborators released the ImageNet dataset, the largest labeled image dataset at the time, consisting of images scraped from the internet and labeled through Amazon’s newly introduced Mechanical Turk platform. Amazon Mechanical Turk, with the motto “artificial artificial intelligence,” popularized the phenomenon of “crowd work”: large volumes of time-consuming work broken down into smaller tasks that can quickly be completed by millions of people around the world. With the introduction of Mechanical Turk, intractable tasks were suddenly made feasible; for example, hand-labeling one million images could be automatically executed by a thousand anonymous people working in parallel, each labeling only a thousand images. What’s more, it was at a price even a university could afford: crowdworkers were paid per task completed, which could amount to merely a few cents.
+
+
+
+
+      “So-called AI systems are fueled by millions of underpaid workers around the world, performing repetitive tasks under precarious labor conditions.”    
+
+
+Facebook
+Twitter
+Email
+
+
+
+
+The ImageNet dataset was followed by the ImageNet Large Scale Visual Recognition Challenge, where researchers used the dataset to train and test models performing a variety of tasks like image recognition: annotating an image with the type of object in the image, such as a tree or a cat. While non-deep-learning-based models performed these tasks with the highest accuracy at the time, in 2012, a deep-learning-based architecture informally dubbed AlexNet scored higher than all other models by a wide margin. This catapulted deep-learning-based models into the mainstream, and brought us to today, where models requiring lots of data, labeled by low-wage gig workers around the world, are proliferated by multinational corporations. In addition to labeling data scraped from the internet, some jobs have gig workers supply the data itself, requiring them to upload selfies, pictures of friends and family or images of the objects around them.
+Unlike in 2009, when the main crowdworking platform was Amazon’s Mechanical Turk, there is currently an explosion of data labeling companies. These companies are raising tens to hundreds of millions in venture capital funding while the data labelers have been estimated to make an average of $1.77 per task. Data labeling interfaces have evolved to treat crowdworkers like machines, often prescribing them highly repetitive tasks, surveilling their movements and punishing deviation through automated tools. Today, far from an academic challenge, large corporations claiming to be “AI first” are fueled by this army of underpaid gig workers, such as data laborers, content moderators, warehouse workers and delivery drivers.
+Content moderators, for example, are responsible for finding and flagging content deemed inappropriate for a given platform. Not only are they essential workers, without whom social media platforms would be completely unusable, their work flagging different types of content is also used to train automated systems aiming to flag texts and imagery containing hate speech, fake news, violence or other types of content that violates platforms’ policies. In spite of the crucial role that content moderators play in both keeping online communities safe and training AI systems, they are often paid miserable wages while working for tech giants and forced to perform traumatic tasks while being closely surveilled.
+Every murder, suicide, sexual assault or child abuse video that does not make it onto a platform has been viewed and flagged by a content moderator or an automated system trained by data most likely supplied by a content moderator. Employees performing these tasks suffer from anxiety, depression and post-traumatic stress disorder due to constant exposure to this horrific content.
+Besides experiencing a traumatic work environment with nonexistent or insufficient mental health support, these workers are monitored and punished if they deviate from their prescribed repetitive tasks. For instance, Sama content moderators contracted by Meta in Kenya are monitored through surveillance software to ensure that they make decisions about violence in videos within 50 seconds, regardless of the length of the video or how disturbing it is. Some content moderators fear that failure to do so could result in termination after a few violations. “Through its prioritization of speed and efficiency above all else,” Time Magazine reported, “this policy might explain why videos containing hate speech and incitement to violence have remained on Facebook’s platform in Ethiopia.”
+Similar to social media platforms which would not function without content moderators, e-commerce conglomerates like Amazon are run by armies of warehouse workers and delivery drivers, among others. Like content moderators, these workers both keep the platforms functional and supply data for AI systems that Amazon may one day use to replace them: robots that stock packages in warehouses and self-driving cars that deliver these packages to customers. In the meantime, these workers must perform repetitive tasks under the pressure of constant surveillance — tasks that, at times, put their lives at risk and often result in serious musculoskeletal injuries.
+
+
+
+
+      “Data labeling interfaces have evolved to treat crowdworkers like machines, often prescribing them highly repetitive tasks, surveilling their movements and punishing deviation through automated tools.”    
+
+
+Facebook
+Twitter
+Email
+
+
+
+
+Amazon warehouse employees are tracked via cameras and their inventory scanners, and their performance is measured against the times managers determine every task should take, based on aggregate data from everyone working at the same facility. Time away from their assigned tasks is tracked and used to discipline workers.
+          
+Read Noema in print.
+
+
+Like warehouse workers, Amazon delivery drivers are also monitored through automated surveillance systems: an app called Mentor tallies scores based on so-called violations. Amazon’s unrealistic delivery time expectations push many drivers to take risky measures to ensure that they deliver the number of packages assigned to them for the day. For instance, the time it takes someone to fasten and unfasten their seatbelt some 90-300 times a day is enough to put them behind schedule on their route. Adrienne and many of her colleagues buckled their seat belts behind their backs, so that the surveillance systems registered that they were driving with a belt on, without getting slowed down by actually driving with a belt on.
+In 2020, Amazon drivers in the U.S. were injured at a nearly 50% higher rate than their United Parcel Service counterparts. In 2021, Amazon drivers were injured at a rate of 18.3 per 100 drivers, up nearly 40% from the previous year. These conditions aren’t only dangerous for delivery drivers — pedestrians and car passengers have been killed and injured in accidents involving Amazon delivery drivers. Some drivers in Japan recently quit in protest because they say Amazon’s software sent them on “impossible routes,” leading to “unreasonable demands and long hours.” In spite of these clear harms, however, Amazon continues to treat its workers like machines.
+In addition to tracking its workers through scanners and cameras, last year, the company required delivery drivers in the U.S. to sign a “biometric consent” form, granting Amazon permission to use AI-powered cameras to monitor drivers’ movements — supposedly to cut down on distracted driving or speeding and ensure seatbelt usage. It’s only reasonable for workers to fear that facial recognition and other biometric data could be used to perfect worker-surveillance tools or further train AI — which could one day replace them. The vague wording in the consent forms leaves the precise purpose open for interpretation, and workers have suspected unwanted uses of their data before (though Amazon denied it).
+The “AI” industry runs on the backs of these low-wage workers, who are kept in precarious positions, making it hard, in the absence of unionization, to push back on unethical practices or demand better working conditions for fear of losing jobs they can’t afford to lose. Companies make sure to hire people from poor and underserved communities, such as refugees, incarcerated people and others with few job options, often hiring them through third party firms as contractors rather than as full time employees. While more employers should hire from vulnerable groups like these, it is unacceptable to do it in a predatory manner, with no protections.
+
+
+
+
+      “AI ethics researchers should analyze harmful AI systems as both causes and consequences of unjust labor conditions in the industry.”    
+
+
+Facebook
+Twitter
+Email
+
+
+
+
+Data labeling jobs are often performed far from the Silicon Valley headquarters of “AI first” multinational corporations — from Venezuela, where workers label data for the image recognition systems in self-driving vehicles, to Bulgaria, where Syrian refugees fuel facial recognition systems with selfies labeled according to race, gender, and age categories. These tasks are often outsourced to precarious workers in countries like India, Kenya, the Philippines or Mexico. Workers often do not speak English but are provided instructions in English, and face termination or banning from crowdwork platforms if they do not fully understand the rules.
+These corporations know that increased worker power would slow down their march toward proliferating “AI” systems requiring vast amounts of data, deployed without adequately studying and mitigating their harms. Talk of sentient machines only distracts us from holding them accountable for the exploitative labor practices that power the “AI” industry.
+An Urgent Priority For AI Ethics
+While researchers in ethical AI, AI for social good, or human-centered AI have mostly focused on “debiasing” data and fostering transparency and model fairness, here we argue that stopping the exploitation of labor in the AI industry should be at the heart of such initiatives. If corporations are not allowed to exploit labor from Kenya to the U.S., for example, they will not be able to proliferate harmful technologies as quickly — their market calculations would simply dissuade them from doing so.
+Thus, we advocate for funding of research and public initiatives that aim to uncover issues at the intersection of labor and AI systems. AI ethics researchers should analyze harmful AI systems as both causes and consequences of unjust labor conditions in the industry. Researchers and practitioners in AI should reflect on their use of crowdworkers to advance their own careers, while the crowdworkers remain in precarious conditions. Instead, the AI ethics community should work on initiatives that shift power into the hands of workers. Examples include co-creating research agendas with workers based on their needs, supporting cross-geographical labor organizing efforts and ensuring that research findings are easily accessed by workers rather than confined to academic publications. The Turkopticon platform created by Lilly Irani and M. Six Silberman, “an activist system that allows workers to publicize and evaluate their relationships with employers,” is a great example of this.
+Journalists, artists, and scientists can help by drawing clear the connection between labor exploitation and harmful AI products in our everyday lives, fostering solidarity with and support for gig workers and other vulnerable worker populations. Journalists and commentators can show the general public why they should care about the data annotator in Syria or the hypersurveilled Amazon delivery driver in the U.S. Shame does work in certain circumstances and, for corporations, the public’s sentiment of “shame on you” can sometimes equal a loss in revenue and help move the needle toward accountability.
+Supporting transnational worker organizing should be at the center of the fight for “ethical AI.” While each workplace and geographical context has its own idiosyncrasies, knowing how workers in other locations circumvented similar issues can serve as inspiration for local organizing and unionizing efforts. For example, data labelers in Argentina could learn from the recent unionizing efforts of content moderators in Kenya, or Amazon Mechanical Turk workers organizing in the U.S., and vice versa. Furthermore, unionized workers in one geographic location can advocate for their more precarious counterparts in another, as in the case of the Alphabet Workers Union, which includes both high paid employees in Silicon Valley and outsourced low wage contractors in more rural areas.
+
+
+
+
+      “This type of solidarity between highly-paid tech workers and their lower-paid counterparts — who vastly outnumber them — is a tech CEO’s nightmare.”    
+
+
+Facebook
+Twitter
+Email
+
+
+
+
+This type of solidarity between highly-paid tech workers and their lower-paid counterparts — who vastly outnumber them — is a tech CEO’s nightmare. While corporations often treat their low-income workers as disposable, they’re more hesitant to lose their high-income employees who can quickly snap up jobs with competitors. Thus, the high-paid employees are allowed a far longer leash when organizing, unionizing, and voicing their disappointment with company culture and policies. They can use this increased security to advocate with their lower-paid counterparts working at warehouses, delivering packages or labeling data. As a result, corporations seem to use every tool at their disposal to isolate these groups from each other.
+Emily Cunningham and Maren Costa created the type of cross-worker solidarity that scares tech CEOs. Both women worked as user experience designers at Amazon’s Seattle headquarters cumulatively for 21 years. Along with other Amazon corporate workers, they co-founded the Amazon Employees for Climate Justice (AECJ). In 2019, over 8,700 Amazon workers publicly signed their names to an open letter addressed to Jeff Bezos and the company’s board of directors demanding climate leadership and concrete steps the company needed to implement to be aligned with climate science and protect workers. Later that year, AECJ organized the first walkout of corporate workers in Amazon’s history. The group says over 3,000 Amazon workers walked out across the world in solidarity with a youth-led Global Climate Strike.
+Amazon responded by announcing its Climate Pledge, a commitment to achieve net-zero carbon by 2040 — 10 years ahead of the Paris Climate Agreement. Cunningham and Costa say they were both disciplined and threatened with termination after the climate strike — but it wasn’t until AECJ organized actions to foster solidarity with low-wage workers that they were actually fired. Hours after another AECJ member sent out a calendar invite inviting corporate workers to listen to a panel of warehouse workers discussing the dire working conditions they were facing at the beginning of the pandemic, Amazon fired Costa and Cunningham. The National Labor Relations Board found their firings were illegal, and the company later settled with both women for undisclosed amounts. This case illustrates where executives’ fears lie: the unflinching solidarity of high-income employees who see low-income employees as their comrades.
+In this light, we urge researchers and journalists to also center low-income workers’ contributions in running the engine of “AI” and to stop misleading the public with narratives of fully autonomous machines with human-like agency. These machines are built by armies of underpaid laborers around the world. With a clear understanding of the labor exploitation behind the current proliferation of harmful AI systems, the public can advocate for stronger labor protections and real consequences for entities who break them.
+
+Enjoy the read? Subscribe to get the best of Noema.
+
+
+
+
+More From Noema Magazine
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+              Essay            
+
+Future of Capitalism
+
+
+
+        Overthrowing Our Tech Overlords      
+
+
+Yanis Varoufakis 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+              Feature            
+
+Future of Capitalism
+
+
+
+        The Booming Business Of Alabama's Artificial Reefs      
+
+
+Irina Zhorov 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+              Feature            
+
+Future of Capitalism
+
+
+
+        Chasing Utopia, Startup Style      
+
+
+Lily Lynch 
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigwFodHRwczovL2Jsb2dzLmxzZS5hYy51ay9idXNpbmVzc3Jldmlldy8yMDIyLzEwLzEyL2lzLXdvcmtpbmctd2l0aC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1oYW1wZXJpbmcteW91ci1iZXN0LXBlcmZvcm1pbmctZW1wbG95ZWVzL9IBAA?oc=5,Is working with artificial intelligence hampering your best-performing employees? - LSE Home,2022-10-12,LSE Home,https://blogs.lse.ac.uk,N/A,management,"Conscientious employees—detail oriented, orderly, and hard-working—are considered better performers in the workplace. However, this belief may be based on 20th century evidence that ignores recent …",N/A,,,N/A,N/A,"
+
+
+
+
+
+
+Pok Man Tang
+Joel Koopman
+Shawn McClean
+October 12th, 2022
+
+Is working with artificial intelligence hampering your best-performing employees?
+
+
+0 comments
+          | 7 shares
+      
+Estimated reading time: 3 minutes
+
+
+
+
+
+
+
+Pok Man Tang
+Joel Koopman
+Shawn McClean
+October 12th, 2022
+
+
+Is working with artificial intelligence hampering your best-performing employees?
+
+
+0 comments
+          | 7 shares
+      
+Estimated reading time: 3 minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      7
+      Shares
+
+
+
+
+
+Conscientious employees—detail oriented, orderly, and hard-working—are considered better performers in the workplace. However, this belief may be based on 20th century evidence that ignores recent technological advances, especially artificial intelligence. Pok Man Tang, Joel Koopman, and Shawn McClean write that AI characteristics such as precision, detail orientation, and orderliness that overlap with the conscientious employee’s traits, and research shows that people prefer working with colleagues that possess complementary, not redundant, qualities as compared to their own.
+
+ 
+There is an important and ongoing societal conversation about the fourth industrial revolution and the rapid incorporation of artificial intelligence (AI) into the 21st century workplace. The conversation often tends to emphasise this new technology’s promise to improve employee performance by helping them to understand trends, improve communication, and enhance data analytics. Yet all too often, the promise of new technology can obscure the very real costs that can arise from its implementation. In a recent article, we write that for some employees, working with AI may not live up to its performance-enhancing promises.
+There is a century-old consensus that more conscientious employees are higher performers at work because they are detail oriented, orderly, and hard-working. This consensus has developed based on clear and consistent evidence that these employees were more effective at working with the various performance-enhancing “traditional” technologies associated with the 20th century (e.g., computers, word-processing software, and the internet). As a result, organisational decision-makers worldwide tend to prioritise recruiting, selecting, developing, and promoting these employees. Yet these characteristics may be ill-suited to the future workplace in which employee jobs have been augmented with AI.
+The central premise of our arguments is based on a long-standing stream of research about complementarity—that employees tend to prefer interaction partners (e.g., co-workers, supervisors) who possess complementary—rather than redundant—characteristics. For example, as Adam Grant and his colleagues note, extraverted leaders (i.e., those who tend to command the attention of others) are often best paired with less proactive employees, while more introverted leaders may be best paired with more proactive employees. We expected something similar for how employees prefer to interact with their new non-human “colleagues” (e.g., AI, algorithms, and robots). These intelligent machines are designed to be precise, detail-oriented, and orderly—all characteristics that overlap with those of conscientious employees. On this basis, we expected that the unique value of conscientious employees would be redundant and rendered moot when they have to work with these machines. As a result, when these employees work with AI, the elevated performance that they tend to deliver should be negated.
+Across three different studies with participants from Malaysia, Taiwan, and the United States, we consistently showed that when paired with intelligent machines as part of their work, highly conscientious employees performed worse than their less conscientious counterparts. This was because the autonomous capabilities of AI that enable it to learn and make decisions conflicted with the desire of conscientious employees to remain autonomous and in control of their work. These employees then reported reduced confidence in their abilities to handle work responsibilities and increased levels of ambiguity as to what their responsibilities even were. The result in both cases was a decrease in performance.
+This work has critical implications for managers and other organisational decision-makers who are at the vanguard of the fourth industrial revolution. The workplace is rapidly changing, as modern intelligent machines—equipped with the ability to learn, improve, and adapt based on experience—become ubiquitous at work. Managers must quickly come to realise that some of the old rules may no longer apply in the new digital era. In this case, whereas hiring conscientious employees has long been argued to have little downside, our findings should give managers reason for pause.
+While one remedy might simply be to encourage managers to de-emphasise conscientiousness as a selection characteristic, or at least to not target such employees for working with AI, this may not be feasible in all situations, given the decades of emphasis on hiring these employees and the fact that intelligence machines are increasingly being incorporated into the business operations of companies worldwide. Thus, another option would be to find ways to reaffirm the unique value that conscientious employees offer to organisations. For example, we recommend managers give these employees unique tasks that are not replicated by AI, as well as the autonomy and control to override the information and suggestions provided by AI. In this way, organisations can potentially continue to reap the benefits afforded by conscientious employees without incurring the costs that we identified.
+In closing, we would note that 21st century managerial practices are, in many cases, based on the findings of research conducted in the 20th century. Yet the modern workplace bears little resemblance to the era in which many of these practices were developed. We showed that one such piece of received-wisdom—that of the supremacy of conscientious employees when it comes to performance—may no longer hold. In this way, our research joins an emerging conversation on this new era of work and should spark additional research on intelligent machines and the employees who use them. It would behoove managers to take heed of our findings, and also to be vigilant for other such pieces of wisdom that may no longer hold as well.
+♣♣♣
+Notes:
+
+This blog post is based on When Conscientious Employees Meet Intelligent Machines: An Integrative Approach Inspired by Complementarity Theory and Role Theory, Academy of Management Journal.
+The post represents the views of its author(s), not the position of LSE Business Review or the London School of Economics.
+Featured image by Surface on Unsplash
+When you leave a comment, you’re agreeing to our Comment Policy.
+
+Print Friendly
+
+
+About the author
+
+
+
+Pok Man Tang
+
+
+Pok Man Tang is an assistant professor in the Department of Management at the University of Georgia's Terry College of Business. 
+
+
+
+
+
+Joel Koopman
+
+
+Joel Koopman is an associate professor at Texas A and M University's Mays Business School, College Station, Texas.
+
+
+
+
+
+Shawn McClean
+
+
+Shawn McClean is Assistant Professor at the University of Oklahoma's Price College of Business, Management, and International Business.
+
+
+
+Posted In: 
+              Management
+                          
+
+
+
+
+Leave a Reply Cancel reply 
+Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ 
+
+ 
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed. 
+
+
+
+
+
+
+Related Posts
+
+
+
+
+
+
+Management
+
+
+
+            Transformation is personal
+                      
+January 12th, 2021
+
+              1
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+            Gender equality: focus less on ‘fixing the women’ and more on engaging men
+                      
+September 10th, 2020
+
+
+
+
+
+
+
+
+
+Management
+
+
+
+            Gun control activism reaches the corporate boardroom
+                      
+July 31st, 2018
+
+              1
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Management
+
+
+
+            When new technologies invalidate management theories
+                      
+September 14th, 2023
+
+              1
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy90ZWNobm9sb2d5LTYzMjI4NDY20gEwaHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3RlY2hub2xvZ3ktNjMyMjg0NjYuYW1w?oc=5,AI tools fail to reduce recruitment bias - study - BBC.com,2022-10-13,BBC.com,https://www.bbc.com,"Artificially intelligent analysis of job applications or videos is ""pseudoscience"", researchers say.",N/A,"Artificially intelligent analysis of job applications or videos is ""pseudoscience"", researchers say.","Artificially intelligent analysis of job applications or videos is ""pseudoscience"", researchers say.",http://schema.org,,N/A,N/A,"AI tools fail to reduce recruitment bias - study13 October 2022By Chris Vallance, Technology ReporterShareGetty ImagesArtificially intelligent hiring tools do not reduce bias or improve diversity, researchers say in a study.""There is growing interest in new ways of solving problems such as interview bias,"" the Cambridge University researchers say, in the journal Philosophy and TechnologyThe use of AI is becoming widespread - but its analysis of candidate videos or applications is ""pseudoscience"". A professional body for human resources told BBC News AI could counter bias.In 2020, the study notes, an international survey of 500 human-resources professionals suggested nearly a quarter were using AI for ""talent acquisition, in the form of automation"".But using it to reduce bias is counter-productive and, University of Cambridge's Centre for Gender Studies post-doctoral researcher Dr Kerry Mackereth told BBC News, based on ""a myth"".""These tools can't be trained to only identify job-related characteristics and strip out gender and race from the hiring process, because the kinds of attributes we think are essential for being a good employee are inherently bound up with gender and race,"" she said.Some companies have also found these tools problematic, the study notes.In 2018, for example, Amazon announced it had scrapped the development of an AI-powered recruitment engine because it could detect gender from CVs and discriminated against female applicants.'Modern phrenology'Of particular concern to the researchers were tools to ""analyse the minutiae of a candidate's speech and bodily movements"" to see how closely they resembled a company's supposed ideal employee.Video and image analysis technology had ""no scientific basis"", co-author Dr Eleanor Drage told BBC News, dismissing it as ""modern phrenology"", the false theory skull shape could reveal character and mental faculties.""They say that they can know your personality from looking at your face. The idea is that, like a lie-detector test, AI can see 'through' your face to the real you,"" she told BBC News.Eleanor DrageA screenshot of the Cambridge toolWith six computer-science students, the researchers built their own simplified AI recruitment tool, to rate candidates' photographs for the ""big five"" personality traits: agreeablenessextroversionopennessconscientiousnessneuroticismBut the ratings were skewed by many irrelevant variables.""When you use our tool, you can see that your personality score changes when you alter the contrast/brightness/saturation,"" Dr Drage wrote.Technology news site The Register noted other investigations had reached a similar conclusion. A German public broadcaster found wearing glasses or a headscarf in a video changed a candidate's scores.Hayfa Mohdzaini, from the Chartered Institute of Personnel and Development, told BBC News its research suggested only 8% of employers used AI to select candidates.""AI can efficiently help increase an organisation's diversity by filtering from a larger candidate pool - but it can also miss out on lots of good candidates if the rules and training data are incomplete or inaccurate,"" she said.""AI software to analyse candidates' voice and body language in recruitment is in its infancy and therefore carries both opportunities and risks."" The computers rejecting your job applicationAmazon scrapped 'sexist AI' toolArtificial intelligenceRecruitment",ReportageNewsArticle,https://www.bbc.com/news/technology-63228466,"{'@type': 'NewsMediaOrganization', 'name': 'BBC News', 'publishingPrinciples': 'http://www.bbc.co.uk/news/help-41670342', 'logo': {'@type': 'ImageObject', 'url': 'https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png'}}",2022-10-13T17:00:38.000Z,2022-10-13T17:00:38.000Z,AI tools fail to reduce recruitment bias - study,"{'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://ichef.bbci.co.uk/news/1024/branded_news/7979/production/_127079013_jobint_gettyimages-1193152467.jpg'}",https://ichef.bbci.co.uk/news/1024/branded_news/7979/production/_127079013_jobint_gettyimages-1193152467.jpg,https://www.bbc.com/news/technology-63228466,"[{'@type': 'Person', 'name': 'By Chris Vallance'}]",,,,,,,,,
+https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc3BlY3RydW0uaWVlZS5vcmcvbGFyZ2UtbGFuZ3VhZ2UtbW9kZWxzLW1hdGjSAUNodHRwczovL3NwZWN0cnVtLmllZWUub3JnL2FtcC9sYXJnZS1sYW5ndWFnZS1tb2RlbHMtbWF0aC0yNjU4MzU5ODE3?oc=5,AI Language Models Are Struggling to “Get” Math - IEEE Spectrum,2022-10-14,IEEE Spectrum,https://spectrum.ieee.org,<p>Should this be telling us something? </p>,"large language models, machine learning, artificial intelligence, mathematics","If computers are good at anything, they are good at math. So it may come as a surprise that after much struggling, top machine learning researchers have recently made breakthroughs in teaching computers math.",N/A,http://schema.org,,Artificial Intelligence,N/A,"Artificial IntelligenceDecember 2022MagazineComputingNews
+        AI Language Models Are Struggling to “Get” Math
+    Should this be telling us something? Dan Garisto12 Oct 20224 min read 8 
+        iStockphoto/IEEE Spectrum
+    ",NewsArticle,https://spectrum.ieee.org/large-language-models-math,"{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'height': 210, 'url': 'https://assets.rbl.ms/26794698/origin.png', 'width': 2000}, 'name': 'IEEE Spectrum'}",2022-10-12T13:55:00Z,2023-03-29T22:27:26Z,AI Language Models Are Struggling to “Get” Math,https://assets.rbl.ms/31891762/origin.jpg,,"{'@id': 'https://spectrum.ieee.org/large-language-models-math', '@type': 'WebPage'}","{'@type': 'Person', 'description': 'Dan Garisto is a freelance science journalist who covers physics and other physical sciences. His work has appeared in Scientific American , Physics , Symmetry , Undark , and other outlets.', 'identifier': 'https://spectrum.ieee.org/u/dan-garisto', 'image': {'@type': 'ImageObject', 'url': 'https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMDAxOTcwOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2OTE5Njg3MH0.PCEbCXJv-puVGRCdb1QKDZ5fvM7vj6sOHT7J52c6NSE/image.png?width=210'}, 'name': 'Dan Garisto', 'url': 'https://spectrum.ieee.org/u/dan-garisto'}",,,,,,,,,
+https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy56ZG5ldC5jb20vaG9tZS1hbmQtb2ZmaWNlL3dvcmstbGlmZS90aGlzLWVuZ2luZWVyaW5nLWluc2lnaHRzLWNvbXBhbnktc3dpdGNoZWQtdG8tYS1mb3VyLWRheS13b3Jrd2Vlay10aGV5LWRldGFpbGVkLXRoZS1wcm9jZXNzLXNvLXlvdS1jYW4tdG9vL9IBAA?oc=5,This company successfully switched to a four-day workweek. Here's how they did it - ZDNet,2022-10-13,ZDNet,https://www.zdnet.com,Uplevel permanently switched to a four-day workweek after a trial boosted productivity and work-life balance. The tech company documented its process to help others replicate its success.,N/A,Uplevel permanently switched to a four-day workweek after a trial boosted productivity and work-life balance. The tech company documented its process to help others replicate its success.,Uplevel permanently switched to a four-day workweek after a trial boosted productivity and work-life balance. The tech company documented its process to help others replicate its success.,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vc2lsdmVyY2hpcHMubWJocy5lZHUvY29udGVudC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1oYXMtbm8tcGxhY2UtaW4tYXJ0LWNvbXBldGl0aW9ucy0zNDg3MS_SAQA?oc=5,Artificial intelligence has no place in art competitions | Silver Chips Online - Silver Chips Online,2022-10-13,Silver Chips Online,https://silverchips.mbhs.edu,N/A,N/A,An award-winning newsletter run by students at Montgomery Blair High School.,N/A,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc3BhY2Vjb2FzdGRhaWx5LmNvbS8yMDIyLzEwL3doaWNoLWlzLWJldHRlci1kYXRhLXNjaWVuY2Utb3ItYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,Which is Better: Data Science or Artificial Intelligence? - SpaceCoastDaily.com,2022-10-13,SpaceCoastDaily.com,https://spacecoastdaily.com,"These days, picking the best stream and developing a career in it have grown increasingly difficult. A poor decision while selecting a stream can cause frustration and occasionally result in mid-course withdrawal from the study.",N/A,"These days, picking the best stream and developing a career in it have grown increasingly difficult. A poor decision while selecting a stream can cause frustration and occasionally result in mid-course withdrawal from the study.",N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/'}, 'author': {'name': 'Space Coast Daily', '@id': 'https://spacecoastdaily.com/#/schema/person/859b53c3c923c49b93e07ca62e5d5cb5'}, 'headline': 'Which is Better: Data Science or Artificial Intelligence?', 'datePublished': '2022-10-13T04:00:27+00:00', 'dateModified': '2022-10-14T21:38:49+00:00', 'mainEntityOfPage': {'@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/'}, 'wordCount': 887, 'commentCount': 0, 'publisher': {'@id': 'https://spacecoastdaily.com/#organization'}, 'image': {'@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://spacecoastdaily.com/wp-content/uploads/2021/08/Florida-Tech-artificial-intelligence-600.png', 'keywords': ['Artificial Intelligence', 'Homepage'], 'articleSection': ['Brevard News', 'Featured Story'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#respond']}]}, {'@type': 'WebPage', '@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/', 'url': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/', 'name': 'Which is Better: Data Science or Artificial Intelligence? - Space Coast Daily', 'isPartOf': {'@id': 'https://spacecoastdaily.com/#website'}, 'primaryImageOfPage': {'@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://spacecoastdaily.com/wp-content/uploads/2021/08/Florida-Tech-artificial-intelligence-600.png', 'datePublished': '2022-10-13T04:00:27+00:00', 'dateModified': '2022-10-14T21:38:49+00:00', 'description': 'These days, picking the best stream and developing a career in it have grown increasingly difficult. A poor decision while selecting a stream can cause frustration and occasionally result in mid-course withdrawal from the study.', 'breadcrumb': {'@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#primaryimage', 'url': 'https://spacecoastdaily.com/wp-content/uploads/2021/08/Florida-Tech-artificial-intelligence-600.png', 'contentUrl': 'https://spacecoastdaily.com/wp-content/uploads/2021/08/Florida-Tech-artificial-intelligence-600.png', 'width': 600, 'height': 331}, {'@type': 'BreadcrumbList', '@id': 'https://spacecoastdaily.com/2022/10/which-is-better-data-science-or-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://spacecoastdaily.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Home', 'item': 'https://spacecoastdaily.com/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Which is Better: Data Science or Artificial Intelligence?'}]}, {'@type': 'WebSite', '@id': 'https://spacecoastdaily.com/#website', 'url': 'https://spacecoastdaily.com/', 'name': 'Space Coast Daily', 'description': '', 'publisher': {'@id': 'https://spacecoastdaily.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://spacecoastdaily.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://spacecoastdaily.com/#organization', 'name': 'Space Coast Daily', 'url': 'https://spacecoastdaily.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://spacecoastdaily.com/#/schema/logo/image/', 'url': '', 'contentUrl': '', 'caption': 'Space Coast Daily'}, 'image': {'@id': 'https://spacecoastdaily.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://spacecoastdaily.com/#/schema/person/859b53c3c923c49b93e07ca62e5d5cb5', 'name': 'Space Coast Daily', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://spacecoastdaily.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/ad484cc8af4d1747b4a37439fa33d523?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/ad484cc8af4d1747b4a37439fa33d523?s=96&d=mm&r=g', 'caption': 'Space Coast Daily'}, 'description': 'Developer account for Space Coast Daily', 'url': 'https://spacecoastdaily.com/showme/spacecoastdailymaster/'}]",N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZGF0YWNvbm9teS5jb20vMjAyMi8xMC8xMi9kYXRhLWFuYWx5dGljcy1hbmQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,"Data Analytics And Artificial Intelligence: Salary, Jobs And More - Dataconomy",2022-10-12,Dataconomy,https://dataconomy.com,"Data analytics and artificial intelligence are the future. Today a massive amount of businesses utilize AI, big data, business intelligence, machine learning, augmented reality tools. Let’s explore the role of these technologies.",N/A,Data analytics and artificial intelligence are changing how businesses decide their paths today. All we hear about is data these,Data analytics and artificial intelligence are changing how businesses decide their paths today. All we hear about is data these,http://schema.org,"[{'@type': 'Organization', '@id': 'https://dataconomy.com/#organization', 'name': 'Dataconomy Media', 'sameAs': ['https://www.facebook.com/DataconomyMedia/', 'https://twitter.com/DataconomyMedia'], 'logo': {'@type': 'ImageObject', '@id': 'https://dataconomy.com/#logo', 'url': 'https://dataconomy.com/wp-content/uploads/2022/12/DC-logo-full_multicolor.png', 'contentUrl': 'https://dataconomy.com/wp-content/uploads/2022/12/DC-logo-full_multicolor.png', 'caption': 'Dataconomy', 'inLanguage': 'en-US', 'width': '326', 'height': '90'}}, {'@type': 'WebSite', '@id': 'https://dataconomy.com/#website', 'url': 'https://dataconomy.com', 'name': 'Dataconomy', 'publisher': {'@id': 'https://dataconomy.com/#organization'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://dataconomy.com/wp-content/uploads/2022/10/Data-analytics-and-artificial-intelligence-Salary-jobs-and-more_06.jpg', 'url': 'https://dataconomy.com/wp-content/uploads/2022/10/Data-analytics-and-artificial-intelligence-Salary-jobs-and-more_06.jpg', 'width': '1920', 'height': '1282', 'caption': 'Data analytics and artificial intelligence: Salary, jobs and more', 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://dataconomy.com/2022/10/12/data-analytics-and-artificial-intelligence/#webpage', 'url': 'https://dataconomy.com/2022/10/12/data-analytics-and-artificial-intelligence/', 'name': 'Data Analytics And Artificial Intelligence: Salary, Jobs And More', 'datePublished': '2022-10-12T15:40:45+01:00', 'dateModified': '2022-10-12T15:40:50+01:00', 'isPartOf': {'@id': 'https://dataconomy.com/#website'}, 'primaryImageOfPage': {'@id': 'https://dataconomy.com/wp-content/uploads/2022/10/Data-analytics-and-artificial-intelligence-Salary-jobs-and-more_06.jpg'}, 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://dataconomy.com/author/kerem-gulen/', 'name': 'Kerem Gülen', 'url': 'https://dataconomy.com/author/kerem-gulen/', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/330734b50786b622ec45dfcfd3a3359d?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/330734b50786b622ec45dfcfd3a3359d?s=96&amp;d=mm&amp;r=g', 'caption': 'Kerem Gülen', 'inLanguage': 'en-US'}, 'worksFor': {'@id': 'https://dataconomy.com/#organization'}}, {'@type': 'NewsArticle', 'headline': 'Data Analytics And Artificial Intelligence: Salary, Jobs And More', 'keywords': 'Data analytics and artificial intelligence', 'datePublished': '2022-10-12T15:40:45+01:00', 'dateModified': '2022-10-12T15:40:50+01:00', 'articleSection': 'Artificial Intelligence, Data Science', 'author': {'@id': 'https://dataconomy.com/author/kerem-gulen/', 'name': 'Kerem Gülen'}, 'publisher': {'@id': 'https://dataconomy.com/#organization'}, 'description': 'Data analytics and artificial intelligence are the future. Today a massive amount of businesses utilize AI, big data, business intelligence, machine learning, augmented reality tools. Let’s explore the role of these technologies.', 'name': 'Data Analytics And Artificial Intelligence: Salary, Jobs And More', '@id': 'https://dataconomy.com/2022/10/12/data-analytics-and-artificial-intelligence/#richSnippet', 'isPartOf': {'@id': 'https://dataconomy.com/2022/10/12/data-analytics-and-artificial-intelligence/#webpage'}, 'image': {'@id': 'https://dataconomy.com/wp-content/uploads/2022/10/Data-analytics-and-artificial-intelligence-Salary-jobs-and-more_06.jpg'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://dataconomy.com/2022/10/12/data-analytics-and-artificial-intelligence/#webpage'}}]",Data Science,N/A,"
+
+
+
+
+
+Flow Studio: FlowGPT’s rich library now has a text-to-film tool
+
+ July 19, 2024
+
+",ImageObject,https://dataconomy.com/wp-content/uploads/2022/10/Data-analytics-and-artificial-intelligence-Salary-jobs-and-more_06-620x414.jpg,,,,,https://dataconomy.com/wp-content/uploads/2022/10/Data-analytics-and-artificial-intelligence-Salary-jobs-and-more_06-620x414.jpg,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vdXMtY2VsZWJyaXR5LW5ld3Mva2FyZGFzaGlhbnMtd2l0aG91dC1jb3NtZXRpYy13b3JrLS0yODIyNjM4N9IBAA?oc=5,Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work - Mirror Online - The Mirror,2022-10-13,The Mirror,https://www.mirror.co.uk,A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery,"Kim Kardashian,Keeping Up with the Kardashians,Khloe Kardashian,Kourtney Kardashian,Kylie Jenner,Kris Jenner,Kendall Jenner",A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery,N/A,,,US Celebrity News,N/A,"Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic workA digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery
+
+
+ 
+Click for Sound
+      
+
+
+
+
+
+
+
+Video Loading
+Video Unavailable
+
+
+
+Click to playTap to play
+
+
+
+
+
+
+
+
+
+
+The video will auto-play soon8Cancel
+Play now
+
+
+
+Video will play in 
+
+
+
+
+
+
+
+Watch again
+
+
+Kardashians without cosmetic work according to artificial intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We pay for stories! Send your videos to video@trinitymirror.com
+Kardashians without cosmetic work according to artificial intelligenceNewsPoliticsFootballCelebsTVShoppingRoyalsByAmy DenmanDeputy Showbiz Editor09:17, 13 Oct 2022Updated13:11, 13 Oct 2022|5Comments|BookmarkA TikTok video has predicted how the Kardashian-Jenner family would look without their cosmetic procedures using artificial intelligence. The Kardashian clan are known for being style chameleons, but long-term fans have also noticed a marked chance in their appearances in recent years. From Kylie's plumped up pout to Khloe's secret nose job, the sisters have been more honest with their followers about what they've had done in recent years. But how would the family look without any work at all?  But now a clip, created by Australian streamers Vandahood Live, predicts how Kim Kyli,, Khloe, Kris Jenner and Kourtney could look without their tweaks. The eye-opening clip uses footage from last year's Keeping Up With The Kardashians finale special to make the comparisons. 
+
+
+
+
+
+
+
+
+Khloe Kardashian has rare cancer removed from her face in 'immediate operation'
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial intelligence predicts how the Kardashian-Jenners could look without surgery
+ (
+
+Image:
+Tik Tok)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khloe Kardashian previously opened up about having a nose job
+ (
+
+Image:
+Tik Tok)
+
+  Altered images of the Kardashian-Jenner sisters using artificial intelligence shows how the reality stars could look if they didn't have any cosmetic work. The most obvious differences in the clip are Kylie's thinner lips – after she had lip filler injections – and Khloe's nose, which she had done shortly before her daughter True turned one. The Vandahood Live stars' reactions are heard as the images of the Kardashians appear.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+The streamers who altered the images say the Kardashians look 'great' without enhancements
+ (
+
+Image:
+Tik Tok)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Vanderhood Live stars used 'three different AI software and two different standard graphics software' to get the images
+ (
+
+Image:
+Tik Tok)
+
+ Top Stories
+
+
+
+
+Clint Eastwood's partner Christina Sandera dies aged 61 as star pays heartbreaking tribute
+
+
+
+
+
+Kyle Walker reveals his mum's devastated response to Lauryn Goodman affair
+
+
+
+
+
+Kyle Walker 'so upset' by 'endless games' from Lauryn Goodman as he urges 'circus' to stop
+ In the clip, Vandahoodlive's Charles says: ""Watching that back, I think surgery might be a waste of time and money. They look normal, fine. They look great!"" Meanwhile, Keith from Vandahood Live told PetaPixel of the clip: ""We used three different AI software and two different standard graphics software and a full week to pull it off. ""We had to take a different approach for each member of the family since each one underwent different changes over the years."" The comedy and entertainment streamers used artificial intelligence programmes such as Deep Face Lab, FaceApp and EbSynth to uncover the Kardashian's looks.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khloe admitted to having a nose job
+ (
+
+Image:
+KHLOE KARDASHIAN / INSTAGRAM)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kylie's look has also changed over the years
+ (
+
+Image:
+INSTAGRAM)
+
+  Keith added: ""In the comments section of the TikTok video, there has been all these debates on the Kardashians' influence and people either going against or defending them. But for us it wasn't that deep, it was all only for entertainment purposes."" Last year, Khloe confirmed she had undergone a nose job procedure after feeling insecure for years. She said: ""Well, for me, everyone says, ‘Oh, my gosh, she's had her third face transplant,’ – I've had one nose job, Dr Raj Kanodia."" Khloe, 38, has also revealed she has had fillers in the past, but said they ""do not work"" for her. She said: ""[Fillers] did not work for me. I looked crazy, and I still think the effects are in there. I went to have it all dissolved like three times."" 
+
+
+
+
+
+
+
+
+
+
+
+Kim, Kourtney and Khloe pictured on a family holiday in 2005
+
+ Kim, meanwhile, has always denied getting surgery but admitted to getting Botox which the 41-year-old previously said ""isn't plastic surgery"". Kylie, 25, had lip filler injections as a teen after a boy kissed her and made a cruel comment about her lips. She once said: ""I was 15 and I was insecure about my lips. I have really small lips. 
+
+
+
+
+
+
+
+
+
+
+
+Some of the sisters have discussed having procedures in the past
+ (
+
+Image:
+@khloekardashian / Instagram)
+
+ ""And it was like one of my first kisses and a guy was like, 'I didn't think you would be a good kisser because you have such small lips.' But I took that really hard."" 
+
+
+SIMILAR ARTICLES TO THIS
+
+ Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry comforted by Meghan after bombshell text from William as clip goes viral
+              
+
+
+
+
+163
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Matt Damon and family evacuated from Greek bar over bomb threat as owner reveals police warning
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                90210 star Tori Spelling's heartbreaking response to Shannen Doherty's death
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Meaning behind Meghan Markle's constant Harry hand holding amid smitten display at ESPYs
+              
+
+
+
+
+15
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Gypsy Rose in paternity chaos as ex-husband 'understood to be the father' by law
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry sends message to war hero Pat Tillman's mum in ESPY Awards speech following backlash
+              
+
+
+
+
+28
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Eminem takes aim at Kanye West, Diddy and Ja Rule in scathing new lyrics
+              
+
+
+
+
+4
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Jennifer Lopez 'horrified' over Ben Affleck's quiet exit and 'slap in the face'
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Taylor Swift fans predict massive announcement tonight in Milan after slew of clues
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Rihanna covers up in a loose-fitting two-piece amid 'baby number three' rumours
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Sharon Stone thrills fans as she recreates iconic Basic Instinct scene
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry is ‘in a good place’ after putting on united display with Meghan Markle
+              
+
+
+
+
+101
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Taylor Swift subtly supports Travis Kelce as announcement speculation heats up
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                BREAKING: Richard Simmons dead at 76 years old
+              
+
+
+
+
+19
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Kate Beckinsale ignores 'ageist' critics and shows off her toned stomach after Britney support
+              
+
+
+
+
+3
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Joe Manganiello breaks silence on Sofía Vergara divorce slamming 'simply not true' reason
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Serena Williams' husband reveals unexpected shock diagnosis in health battle
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Eva Longoria, 49, stuns in tiny orange bikini as she enjoys wet and wild beach day with family
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Meghan Markle's defiant display as she stands by Prince Harry's side amid backlash at ESPY awards
+              
+
+
+
+
+57
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Stevie Nicks in 'emotional' return to stage she shared with Tom Petty before his death
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry comforted by Meghan after bombshell text from William as clip goes viral
+              
+
+
+
+
+163
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Matt Damon and family evacuated from Greek bar over bomb threat as owner reveals police warning
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                90210 star Tori Spelling's heartbreaking response to Shannen Doherty's death
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Meaning behind Meghan Markle's constant Harry hand holding amid smitten display at ESPYs
+              
+
+
+
+
+15
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Gypsy Rose in paternity chaos as ex-husband 'understood to be the father' by law
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry sends message to war hero Pat Tillman's mum in ESPY Awards speech following backlash
+              
+
+
+
+
+28
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Eminem takes aim at Kanye West, Diddy and Ja Rule in scathing new lyrics
+              
+
+
+
+
+4
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Jennifer Lopez 'horrified' over Ben Affleck's quiet exit and 'slap in the face'
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Taylor Swift fans predict massive announcement tonight in Milan after slew of clues
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Rihanna covers up in a loose-fitting two-piece amid 'baby number three' rumours
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Sharon Stone thrills fans as she recreates iconic Basic Instinct scene
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry is ‘in a good place’ after putting on united display with Meghan Markle
+              
+
+
+
+
+101
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Taylor Swift subtly supports Travis Kelce as announcement speculation heats up
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                BREAKING: Richard Simmons dead at 76 years old
+              
+
+
+
+
+19
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Beckinsale ignores 'ageist' critics and shows off her toned stomach after Britney support
+              
+
+
+
+
+3
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Joe Manganiello breaks silence on Sofía Vergara divorce slamming 'simply not true' reason
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Serena Williams' husband reveals unexpected shock diagnosis in health battle
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Eva Longoria, 49, stuns in tiny orange bikini as she enjoys wet and wild beach day with family
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Meghan Markle's defiant display as she stands by Prince Harry's side amid backlash at ESPY awards
+              
+
+
+
+
+57
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Stevie Nicks in 'emotional' return to stage she shared with Tom Petty before his death
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry comforted by Meghan after bombshell text from William as clip goes viral
+              
+
+
+
+
+163
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Matt Damon and family evacuated from Greek bar over bomb threat as owner reveals police warning
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                90210 star Tori Spelling's heartbreaking response to Shannen Doherty's death
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Meaning behind Meghan Markle's constant Harry hand holding amid smitten display at ESPYs
+              
+
+
+
+
+15
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Gypsy Rose in paternity chaos as ex-husband 'understood to be the father' by law
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry sends message to war hero Pat Tillman's mum in ESPY Awards speech following backlash
+              
+
+
+
+
+28
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Eminem takes aim at Kanye West, Diddy and Ja Rule in scathing new lyrics
+              
+
+
+
+
+4
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meanwhile, 43-year-old Kourtney underwent a boob job in college but later regretted it. She has previously said: ""I had my boobs done but if I could go back, I wouldn’t have done it. I was so cute before."" Follow Vandahood Live on Instagram, TikTok, Youtube and Twitter.  Read More
+
+
+Kim Kardashian 'increases kids' security at school' in wake of Kanye West's latest rants
+
+ Read More
+
+
+Kim Kardashian undergoes another skin tightening procedure in bid to 'just look good'
+
+ Read More
+
+
+Kim Kardashian booed 'so hard' with son Saint, 6, at football game in Los Angeles
+
+ Read More
+
+
+Kanye West admits it 'hurts my feelings when people assume I'm crazy' amid backlash
+
+ Don't Miss  FollowMirrorFacebookTwitterComments5 MORE ONKeeping Up with the KardashiansKim KardashianKhloe KardashianKourtney KardashianKylie JennerKris JennerKendall JennerCeleb obsessed? Get a daily dose of showbiz gossip direct to your inboxSign upInvalid EmailSomething went wrong, please try again later.We use your sign-up to provide content in ways you’ve consented to and improve our understanding of you. This may include adverts from us and third parties based on our knowledge of you. More infoThank you for subscribingWe have more newslettersShow meSee ourPrivacy NoticeStory SavedYou can find this story in  My Bookmarks.Or by navigating to the user icon in the top right.Up NextClint Eastwood's partner Christina Sandera dies aged 61 as star pays heartbreaking tribute",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL2VudGVydGFpbm1lbnQvY2VsZWJyaXR5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXNob3dzLWhvdy1raW0tMjgyMzEzNDTSAQA?oc=5,Artificial Intelligence shows Kim Kardashian and family with no cosmetic work - Daily Record,2022-10-13,Daily Record,https://www.dailyrecord.co.uk,Altered images of the Kardashian-Jenner sisters using artificial intelligence shows how the reality stars could look if they didn't have any cosmetic work.,The Kardashians,Altered images of the Kardashian-Jenner sisters using artificial intelligence shows how the reality stars could look if they didn't have any cosmetic work.,N/A,,,Celebrity News,N/A,"EntertainmentArtificial Intelligence shows how Kim Kardashian and family look with no cosmetic workAltered images of the Kardashian-Jenner sisters using artificial intelligence shows how the reality stars could look if they didn't have any cosmetic work.dailyrecordBookmarkShareComments
+
+
+
+
+
+
+
+
+EntertainmentByKirsten McStayDeputy Showbiz EditorAmy DenmanDeputy Showbiz Editor15:30, 13 OCT 2022Bookmark
+
+
+ 
+Click for Sound
+      
+
+
+
+
+
+
+
+Video Loading
+Video Unavailable
+
+
+
+Click to playTap to play
+
+
+
+
+
+
+
+
+
+
+The video will auto-play soon8Cancel
+Play now
+
+
+
+Video will play in 
+
+
+
+
+
+
+
+Watch again
+
+
+Kardashians without cosmetic work according to artificial intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We pay for stories! Send your videos to video@trinitymirror.com
+Get the latest Daily Record breaking news on WhatsAppOur community members are treated to special offers, promotions and adverts from us and our partners. You can check out at any time. More infoJoin us on WhatsAppJoin us on WhatsApp
+A TikTok video using artificial intelligence has predicted how the infamous Kardashian-Jenner family would look without their cosmetic procedures. The Kardashian clan are one of the most stylish families in the world but long-term fans have also noticed a marked chance in their appearances in recent years. From Kylie's plumped up pout to Khloe's secret nose job, the sisters have been more honest with their followers about what they've had done in recent years. But how would the family look without any work at all? All has been revealed in a clip created by Australian streamers Vandahood Live, predicts how Kim Kylie, Khloe, Kris Jenner and Kourtney could look without their tweaks, writes The Mirror. The eye-opening clip uses footage from last year's Keeping Up With The Kardashians finale special to make the comparisons. Altered images of the Kardashian-Jenner sisters using artificial intelligence shows how the reality stars could look if they didn't have any cosmetic work.  
+Read More
+Related Articles
+
+
+
+
+ Kate Garraway gives heartbreaking update on husband Derek as hospital battle continues
+
+ 
+Read More
+Related Articles
+
+
+
+
+ Danni Menzies starts 'garden therapy' to recover from moped accident as telly presenter hides scarred face
+
+  The most obvious differences in the clip are Kylie's thinner lips – after she had lip filler injections – and Khloe's nose, which she had done shortly before her daughter True turned one. The Vandahood Live stars' reactions are heard as the images of the Kardashians appear. 
+
+
+
+
+
+
+
+
+
+
+Artificial intelligence predicts how the Kardashian-Jenners could look without surgery
+ (Image: Tik Tok)
+
+ In the clip, Vandahoodlive's Charles says: ""Watching that back, I think surgery might be a waste of time and money. They look normal, fine. They look great!"" Meanwhile, Keith from Vandahood Live told PetaPixel of the clip: ""We used three different AI software and two different standard graphics software and a full week to pull it off. ""We had to take a different approach for each member of the family since each one underwent different changes over the years."" The comedy and entertainment streamers used artificial intelligence programmes such as Deep Face Lab, FaceApp and EbSynth to uncover the Kardashian's looks. 
+
+
+
+
+
+
+
+
+
+
+Khloe Kardashian previously opened up about having a nose job
+ (Image: Tik Tok)
+
+ 
+Top showbiz news
+
+
+
+
+
+
+
+
+Sabrina Carpenter announces Glasgow show
+
+
+
+
+
+
+
+
+Giovani Pernince splits from girlfriend
+
+
+
+
+
+
+
+
+Phillip Schofield breaks silence
+
+
+
+
+
+
+
+
+Kate Garraway's dad rushed to hospital
+
+
+
+
+ Keith added: ""In the comments section of the TikTok video, there has been all these debates on the Kardashians' influence and people either going against or defending them. But for us it wasn't that deep, it was all only for entertainment purposes."" Last year, Khloe confirmed she had undergone a nose job procedure after feeling insecure for years. She said: ""Well, for me, everyone says, ‘Oh, my gosh, she's had her third face transplant,’ – I've had one nose job, Dr Raj Kanodia."" 
+
+
+
+
+
+
+
+
+
+
+The streamers who altered the images say the Kardashians look 'great' without enhancements
+ (Image: Tik Tok)
+
+ Khloe, 38, has also revealed she has had fillers in the past, but said they ""do not work"" for her. She said: ""[Fillers] did not work for me. I looked crazy, and I still think the effects are in there. I went to have it all dissolved like three times."" Kim, meanwhile, has always denied getting surgery but admitted to getting Botox which the 41-year-old previously said ""isn't plastic surgery"". Kylie, 25, had lip filler injections as a teen after a boy kissed her and made a cruel comment about her lips. 
+
+
+
+
+
+
+
+
+
+
+The Vanderhood Live stars used 'three different AI software and two different standard graphics software' to get the images
+ (Image: Tik Tok)
+
+ She once said: ""I was 15 and I was insecure about my lips. I have really small lips. ""And it was like one of my first kisses and a guy was like, 'I didn't think you would be a good kisser because you have such small lips.' But I took that really hard."" 
+
+
+SIMILAR ARTICLES TO THIS
+
+ Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Sabrina Carpenter announces Glasgow date as part of European tour
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price reveals harrowing details in new memoir: From early pregnancy to battling addiction
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton gives 'supportive' statement amid cancer diagnosis in emotional address
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Garraway's dad rushed to hospital after 'suffering stroke and heart attack'
+              
+
+
+
+
+3
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Lottie Tomlinson announces second pregnancy less than two years after first baby
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price makes brutal dig at boyfriend JJ Slater's ex 'they didn't match up'
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price announces bombshell baby news - but it's not with boyfriend JJ Slater
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry and Meghan Markle 'feeling pressure' as 'tense' home life exposed
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Jack Black cancels Tenacious D tour after band mate's Trump joke
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price petition to ban her from owning pets hits 36k signatures
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                'Inappropriate' moment King Charles III's speech is interrupted by phone
+              
+
+
+
+
+4
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry mocked over memoir confusion as he's 'kept at arm's length' by Royals
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Cat Deeley shares rare video of kids on lavish holiday amid This Morning break
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton update shared by Novak Djokovic at Wimbledon final
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Travis Kelce skips ESPYs awards featuring Harry and Meghan just weeks after meeting William
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                TRNSMT 2024 headlining acts: Here's everything you need to know
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price forced to pull son Harvey, 22, from £350k college as funding refused
+              
+
+
+
+
+10
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton health update as she misses major event amid ongoing cancer treatment
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Joe Swash says he and Stacey Solomon 'bicker' as they reveal sleeping arrangements
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Princess Anne breaks cover in first public engagement following injury from horse
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Sabrina Carpenter announces Glasgow date as part of European tour
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price reveals harrowing details in new memoir: From early pregnancy to battling addiction
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton gives 'supportive' statement amid cancer diagnosis in emotional address
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Kate Garraway's dad rushed to hospital after 'suffering stroke and heart attack'
+              
+
+
+
+
+3
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Lottie Tomlinson announces second pregnancy less than two years after first baby
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price makes brutal dig at boyfriend JJ Slater's ex 'they didn't match up'
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price announces bombshell baby news - but it's not with boyfriend JJ Slater
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry and Meghan Markle 'feeling pressure' as 'tense' home life exposed
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Jack Black cancels Tenacious D tour after band mate's Trump joke
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price petition to ban her from owning pets hits 36k signatures
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                'Inappropriate' moment King Charles III's speech is interrupted by phone
+              
+
+
+
+
+4
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry mocked over memoir confusion as he's 'kept at arm's length' by Royals
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Cat Deeley shares rare video of kids on lavish holiday amid This Morning break
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton update shared by Novak Djokovic at Wimbledon final
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Travis Kelce skips ESPYs awards featuring Harry and Meghan just weeks after meeting William
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                TRNSMT 2024 headlining acts: Here's everything you need to know
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price forced to pull son Harvey, 22, from £350k college as funding refused
+              
+
+
+
+
+10
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton health update as she misses major event amid ongoing cancer treatment
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Joe Swash says he and Stacey Solomon 'bicker' as they reveal sleeping arrangements
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Princess Anne breaks cover in first public engagement following injury from horse
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+                Sabrina Carpenter announces Glasgow date as part of European tour
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price reveals harrowing details in new memoir: From early pregnancy to battling addiction
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton gives 'supportive' statement amid cancer diagnosis in emotional address
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Garraway's dad rushed to hospital after 'suffering stroke and heart attack'
+              
+
+
+
+
+3
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Lottie Tomlinson announces second pregnancy less than two years after first baby
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price makes brutal dig at boyfriend JJ Slater's ex 'they didn't match up'
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price announces bombshell baby news - but it's not with boyfriend JJ Slater
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry and Meghan Markle 'feeling pressure' as 'tense' home life exposed
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Jack Black cancels Tenacious D tour after band mate's Trump joke
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price petition to ban her from owning pets hits 36k signatures
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                'Inappropriate' moment King Charles III's speech is interrupted by phone
+              
+
+
+
+
+4
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Prince Harry mocked over memoir confusion as he's 'kept at arm's length' by Royals
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Cat Deeley shares rare video of kids on lavish holiday amid This Morning break
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton update shared by Novak Djokovic at Wimbledon final
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Travis Kelce skips ESPYs awards featuring Harry and Meghan just weeks after meeting William
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                TRNSMT 2024 headlining acts: Here's everything you need to know
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Katie Price forced to pull son Harvey, 22, from £350k college as funding refused
+              
+
+
+
+
+10
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Kate Middleton health update as she misses major event amid ongoing cancer treatment
+              
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Joe Swash says he and Stacey Solomon 'bicker' as they reveal sleeping arrangements
+              
+
+
+
+
+2
+Comments
+
+
+
+
+
+
+
+
+
+
+
+                Princess Anne breaks cover in first public engagement following injury from horse
+              
+
+
+
+
+1
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meanwhile, 43-year-old Kourtney underwent a boob job in college but later regretted it. She has previously said: ""I had my boobs done but if I could go back, I wouldn’t have done it. I was so cute before."" Follow Vandahood Live on Instagram, TikTok, Youtube and Twitter. Get the latest celebrity gossip and telly news sent straight to your inbox. Sign up to our weekly Showbiz newsletter here. READ NEXT:   Scott Disick 'spotted on date' with Rod Stewart's daughter Kimberly hours before car crash Kim Kardashian slammed as North West wears 'seriously wrong' leather face mask Khloe Kardashian shares first snippet of baby son in new video  
+
+
+
+
+
+
+ Story SavedYou can find this story in  My Bookmarks.Or by navigating to the user icon in the top right.Follow Daily RecordFacebookTwitterCommentMore OnThe KardashiansTop Stories1ITV This Morning host Dermot O'Leary walks off set after during discussion2Sarah Ferguson cancels appearance due to clash with King Charles and Camilla3Cat Deeley shares rare video of kids on lavish holiday amid This Morning break4How a Royal family photo influenced Prince Harry and Meghan Markle's decision to step back from role5Prince Harry consoled by Meghan following a critical message from Prince WilliamRecommendedDementia warning as 'four habits linked' to condition - with one most damagingAlthough dementia is more common in people over 65 years-old, it is not a normal part of ageing. Meghan and Harry end 64-year Royal tradition for Archie and Lili with new namePrince Harry and Meghan Markle appear to have defied a long-standing Royal naming tradition, after they launched their new website to much fanfare on Monday.Prince Harry mocked over memoir as he's 'kept at arm's length' by RoyalsThe Duke of Sussex's autobiography was released in hardback 18 months ago, but there is still no sign of the paperback edition, with commentators questioning why.Late Queen's castle she never lived in - but Kate and William almost didDuring the Queen's 70-year reign, she spent a lot of her time at Windsor Castle - but she also didn't venture to one of the other properties on the estate that has been earmarked for the Prince and Princess of Wales.Peter Andre's older kids left 'horrified' by wife Emily's strict new rulePeter Andre has opened up about life as a dad-of-five and the 'strict' new house rule his wife Emily MacDonagh has put in place at mealtimes for all of the children.EntertainmentallMost ReadMost RecentSarah Ferguson, Duchess of YorkSarah Ferguson cancels appearance due to clash with King Charles and CamillaThe Duchess of York had been due to appear at a literary festival in Australia but has now cancelled her overseas trip and tour of Australia due to a 'clash' with King Charles and Queen Camilla.Cat Deeley shares rare video of kids on lavish holiday amid This Morning breakCat DeeleyThis Morning presenter Cat Deeley has shared a rare video of her two young sons as she enjoys a holiday abroad with her family and takes a break from the ITV daytime showITV This Morning host Dermot O'Leary walks off set after during discussionDermot O'LearyThis Morning's Dermot O'Leary left the set and walked off the ITV show as he opened up on being an ITV runner and 'dreaming' of working on the show when he was younger.Kate Middleton's future public appearances in doubt after Wimbledon, expert claimsKate MiddletonThe Princess of Wales made a rare public appearance at the Wimbledon men's singles final on Sunday, but one expert believes it could be one of the last times we see her this yearMeghan and Harry end 64-year Royal tradition for Archie and Lili with new surnamePrince HarryPrince Harry and Meghan Markle appear to have defied a long-standing Royal naming tradition, after they launched their new website to much fanfare on Monday.BBCClive Myrie has 'no regrets' over major decision he made with wifeThe BBC Proms presenter reveals he always dreamt of 'travelling the world,' but knew that meant he would have to sacrifice his chances of having a family of his own.BBC Gavin And Stacey script finalised as James Corden delights fans with announcementGavin and StaceyJames Corden revealed him and Ruth Jones have finished writing the script for Gavin And Stacey’s final episode.Strictly Come Dancing scandal as Anton Du Beke faces legal scrutiny amid misconduct allegationsStrictly Come DancingAnton Du Beke has become the fourth star tied to the BBC dancing show facing legal issues over allegations concerning his former dance partner Laila Rouass.Kate Middleton's future public appearances in doubt after Wimbledon, expert claimsKate MiddletonThe Princess of Wales made a rare public appearance at the Wimbledon men's singles final on Sunday, but one expert believes it could be one of the last times we see her this yearITV This Morning fans concerned for star amid presenter shake-upThis MorningThis Morning viewers were left distracted by Gyles Brandreth's outfit as he wore a jumper in the scorching heat, with some fearing for his health on social media.Most ReadMost RecentPolice Scotland'Depraved' killers drugged and filmed rape of 'complete stranger' Scots dad The judge said '""The evidence has been of the most harrowing nature that this court has ever had the misfortune to listen to.""Mum-of-three chokes to death on holiday weeks before her wedding dayHolidaysSophie Runkee, 34, was due to tie the knot with her partner, who has recently been diagnosed with cancer, in six weeks.Rangers fan died in horror work crash after being thrown from vehicle which landed on himCourtsBob McArthur, 32, was driving a mobile elevated work platform (MEWP) on a slope in Berwickshire when it toppled over and landed on him.Transfer news LIVE as Celtic and Rangers plus Hearts, Hibs and Aberdeen FC eye signingsTransfer TalkThe rumours and DONE DEALS are flowing now and we've got every one covered right here.Rangers transfer news bulletin as Tavernier bid REJECTED and Trabzonspor told 'cheeky' offer unlikely to cut itRangers FCRangers have said no to Trabzonspor's first offer for the skipperRory McIlroyRory McIlroy endures one of worst weeks of career after missing The Open cutMcIlroy missed the cut at The Open for just the third time in his career, as the Northern Irishman endured a torrid time at Royal Troon throughout the weekBBC Strictly's Nadiya Bychkova 'made complaint against show'Strictly Come DancingNadiya Bychkova has reportedly lodged a complaint against Strictly Come Dancing, amid an ongoing probe into Giovanni Pernice and the exit of Graziano Di PrimaAdorable new baby penguins in Scotland revealed by safari park on weigh dayAnimalsBubba weighs twice as much as Rossco even though he is only two weeks older.Clint Eastwood's partner Christina Sandera dies aged 61 as star pays poignant tributeCelebritiesClint Eastwood's partner of 10-year Christina Sandera, has died aged 61Celtic transfer news bulletin as O'Riley sees Liverpool ask the question and Rodgers holds 'talks' with winger targetCeltic Transfer NewsThe Denmark playmaker looks set for a summer bidding war with some of Europe's top clubs circling.RecommendedErica Stoll's bold Scottish Open display reveals state of Rory McIlroy marriageEricica Stoll was back out watching her husband Rory McIlroy at the Scottish Open on Thursday, just weeks after the pair confirmed they had called off their divorceKate Middleton's future public appearances in doubt after Wimbledon, expert saysThe Princess of Wales made a rare public appearance at the Wimbledon men's singles final on Sunday, but one expert believes it could be one of the last times we see her this yearMeghan's 'subtle change' during Harry's speech after controversial awardMeghan sent a clear signal with her body language at the controversial awards ceremony in Los AngelesPrince Andrew set to lose precious Royal Lodge home to unexpected couplePrince Andrew has lived at the Royal Lodge in Windsor, Berkshire since the 2000s but it's been claimed King Charles wants him to move to Frogmore Cottage and has plans for another royal couple to take it off his hands.RecommendedMeghan Markle and Prince Harry 'sacked' first nanny two days into job after rowMegjson Scobie, co-author of Finding Freedom, has claimed that Meghan Markle and Prince Harry sacked their first nanny two days into her job after an ""incident during the night"".'Brilliant' actor to inherit Princess Diana's home over William and HarryLouis Spencer, the Viscount Althorp, will one day inherit the Althorp Estate, the childhood home of Princess Diana - despite having three older sistersPhillip Schofield breaks social media silence amid TV comeback rumoursPhillip Schofield has taken to Instagram for the first time in a while, as he shared a snap of his new puppy Alfie, with the disgraced former This Morning presenter breaking his silence.Sue Radford's 'dreams shattered' after she loses dream home Sue Radford - who has 22 kids with husband Noel - had her heart set on moving into a new £850,000 countryside retreat away from their sprawling 10-bedroom house.Up NextITV This Morning host Dermot O'Leary walks off set after during discussion",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy9zY2llbmNlLzIwMjItMTAtMTQvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWktYXBwZW4tZGF0YS1sYWJlbGxpbmctZ2hvc3Qtd29ya2Vycy8xMDE1MzEwODTSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAxNTMxMDg0?oc=5,Behind 'miracle' AI is an army of 'ghost workers' — and they're speaking out about Appen - ABC News,2022-10-13,ABC News,https://www.abc.net.au,"Australian company Appen claims to have a network of more than 1 million global workers who label the data that AI systems are trained on. But some of these people are speaking out about low pay, late payments and ill treatment.","ai,artificial intelligence,appen,labour rights,ghost workers","Australian company Appen claims to have a network of more than 1 million global workers who label the data that AI systems are trained on. But some of these people are speaking out about low pay, late payments and ill treatment.",N/A,http://schema.org,,N/A,N/A,"ScienceBehind 'miracle' AI is an army of 'ghost workers' — and they're speaking out about AppenABC Science / By technology reporter Ariel BoglePosted Thu 13 Oct 2022 at 2:30pmThursday 13 Oct 2022 at 2:30pmThu 13 Oct 2022 at 2:30pm Companies building artificial intelligence rely on an army of global workers.(Getty Images: The Good Brigade)abc.net.au/news/artificial-intelligence-ai-appen-data-labelling-ghost-workers/101531084Copy linkLink copiedShareShare articleIn news headlines, artificial intelligence is sold as miraculous: somehow better at diagnosing than doctors, more effective at design than architects.Key points:AI tech company Appen boasts of having 1 million ""flexible contributors"" in more than 170 countriesThe term ""ghost workers"" was coined to describe these contributors, some of whom are complaining about being underpaidThe company says it uses location-based minimum wage to ensure they're ""paying above""In the narratives spun by start-ups and industry behemoths, AI is the mysterious creation of those few with six- to seven-figure salaries and degrees from ivy-covered universities.But behind our increasingly smooth experiences online are a vast number of people that label the data that trains these systems, often precariously employed as contractors without sick leave or bargaining power.Sometimes called ""ghost workers"", they may be students in America's Midwest, stay-at-home workers in Canada or, as MIT Technology Review reported, Venezuelan immigrants in Colombia doing digital ""piece work"".This includes manually tagging photos and video, transcribing audio and categorising text, so when we use a search engine or speak to a voice assistant, the process feels effortless.How far-right groups are exploiting AmazonAmazon is one of the world's largest online marketplaces, but it's under scrutiny for allowing far-right publishers and websites to monetise.Read moreThis is the ""sleight of hand"" behind terms like AI or machine learning, according to Sarah T. Roberts, an associate professor of information studies at UCLA, who has spent time with workers in the Philippines who do content moderation for companies like Facebook.""Nothing in any of those terms suggest that there are legions of humans that are needed,"" she said.Some of these legions work for Appen.A globally significant and long-term player in the AI supply chain, the Sydney-headquartered company boasts of having 1 million ""flexible contributors"" in more than 170 countries who do these tasks for clients including Amazon, Google and Boeing.Missed invoices and dead endsDispersed across the world, these workers don't typically meet in person.But in online forums, Appen's ""crowd"" chats about promising projects, the benefits of flexibility and which data-labelling companies pay the most. They also detail frustrations: missed invoices, slow communication from the company and projects that disappear or don't make sense.On a Reddit forum dedicated to working online, posts advise ""Beware of Appen!!"" and ""Appen, save yourself time and frustration"".Several Appen contractors who spoke with the ABC under condition of anonymity, due to fears of repercussions from the company, claimed invoices were sometimes missed for a whole month or delayed.One American worker showed the ABC an invoice tab on Appen's dashboard that showed no invoice generated for the month of June, which they said amounted to hundreds of hours of missing pay.Think you can spot content written by AI?You may not have heard of GPT-3, but there's a good chance you've read its work, used a website that runs its code, or even conversed with it through a chatbot or a character in a game.Read moreThe company did have an issue with invoicing for one project this year that has now been fixed, according to Appen's spokesperson Christina Golden.""We have always kept open communication with our contributors.""If they have a need to share feedback anonymously, we have a whistleblower hotline that is given to all contributors.""But getting in touch with someone who can actually help at Appen is increasingly difficult, according to some of its workers, with slow and seemingly boilerplate responses to problems with jobs or pay.""I used to get generic 'please allow three business days for tickets to be settled' emails,"" one said.""The last three support tickets I sent were automatically closed as soon as I sent them with no reply or action taken on them.""Another said he was invited to participate in projects that simply never materialised.Appen has turned up frequently in the business press after a recent downturn in financial performance.In its first half of 2022 results call, chief executive Mark Brayan said revenue had fallen in part due to a slowdown in spending from some of its large customers.Mr Brayan ascribed this to weaker digital advertising revenue, affecting its ad-related programs.Some have speculated this will impact how the company treats its contractor workforce — especially when it's competing with competitors that chase workers in locations where they can pay the least. There has been growing attention paid to the psychological impact of online content moderation and exposure to disturbing content.(Supplied: The Cleaners)As Appen's former boss Lisa Braden-Harder recently told the Sydney Morning Herald, ""you can definitely do a race to the bottom"".The ABC spoke with workers who said their pay was around or just above minimum wage in their location.Appen spokesperson Ms Golden said the company used location-based minimum wage to ensure they were ""paying above"".""Rates vary by the project due to the different levels of difficulties or expertise required to complete the task.""In fact, ""crowd conditions"" are named as a potential risk in the company's 2021 annual report, with customers requesting information on worker conditions — particularly around content moderation work, which can expose people to extreme and disturbing content.'One of the maids sweeping their nursery room'Technology companies rarely acknowledge the work they contract through companies like Appen, much less the army of people that train their algorithms.Monash University's Jathan Sadowski, who studies the social impact of digital technology, says this kind of data labour is barely discussed in public. And when it is, it is not granted anywhere near the same level of respect or remuneration as other kinds of high-tech work.""You don't want to look at the wizard behind the curtain.""Do you know more?Contact Ariel Bogle using ProtonMail on abogle@protonmail.comAppen's workers described tasks like making voice recordings or taking short videos of certain objects to help develop what they thought was voice command technology. Others seemed to be focused on improving mapping technology or search engine results.Arden*, an Appen contractor from the US Midwest, spoke about one project in which they would be shown a piece of content — an image, video or string of text.They would then have to summarise the purpose of the post in one sentence, and find a link to a trustworthy source that touched on the same subject. They would be given a minute or less to review text, but more time for a long video or streamed content.""[There were] many health-related scams, election fraud, COVID misinformation, fake quotes, faked UFO photos,"" they said.""These were our specialty, but I'd also sometimes see calls to violence, self-harm-related content, violence, gore, abuse material and more.""ABC Science on YouTubeWant more science — plus health, environment, tech and more? Subscribe to our channel.Read moreArden said it was ""both fascinating and unnerving to literally train a computer"" to do their own job.""It's very engaging work, but once these computers learn from us, that job is gone. Possibly forever.""Dr Sadowski suggested data annotation work will only become more specialised as companies attempt to build AI systems in industries like medicine or insurance.But will workers that develop expertise — such as the knowledge of how to spot a melanoma or assess a car damage claim and correctly label it — be recognised as essential to the industries for which they help build these systems, and be rewarded for it?""I tell my friends and family that while the engineers at Google, Amazon, Apple, etc are like birth parents and private tutors of AI babies, I'm one of the maids sweeping their nursery room and cleaning their clothes,"" one worker based in East Asia told the ABC.""I know that I am a replaceable workforce in this business, but Appen had shown such little respect to its contributors that I was constantly reminded of that fact.""*Not their real name.WatchDuration: 6 minutes 21 seconds6m  Who is losing their job to artificial intelligence?Posted 13 Oct 202213 Oct 2022Thu 13 Oct 2022 at 2:30pmShareCopy linkFacebookX (formerly Twitter)Related StoriesModel law proposed to bring Australia's facial recognition 'Wild West' under controlA Google employee falsely claimed a chatbot had sentience. How do we know he was wrong?'Botched' aged care CCTV trial using artificial intelligence had too many false reports, minister saysMore on:Artificial IntelligenceAustraliaBusiness, Economics and FinanceComputer ScienceFundamental RightsNSWScience and TechnologySydneyWorkTop StoriesHow a bug in a little-known piece of software caused a global meltdownAnalysis by Ange LavoipierreThe global tech crash opened like a Hollywood disaster film. So, how does it end?‘Nothing like this has ever happened before’: Australians reflect on chaotic IT outageBiden campaign insists he will stay in presidential race, amid growing calls to stand downIsrael thinks they've assassinated their No.1 enemy. Now all they need is proof that he's really deadHazardous weather across Australia's south-east to bring strong winds, hail, rain and snow Analysis by Laura TingleThe CFMEU's history is a window into Australia's industrial history — and it holds lessons for the next electionFather reveals Wieambilla killers' shocking allegations years before deadly ambushTwelve charts that show how Australia's population changed over 120 yearsAustralians have been hit by a worldwide tech outage. Here's what we knowWhat is CrowdStrike, the American cybersecurity firm linked to today's global outage?'Less emotional labour to eat a cheese sandwich': Indian Australians on what it's like growing up hereRachele rescues the win for Adelaide as Bombers go down at Docklands'He should have thrown it over': Woeful missed conversion costs Warriors the game in Canberrafeel good'My mum's a storyteller': How interviewing your older loved ones can be therapeutic Popular NowDon't miss news that matters to you. Log in to ABC today to get a more personalised experience tailored to your preferences.GET STARTED1.How a bug in a little-known piece of software caused a global meltdown2.Analysis by Ange Lavoipierreanalysis:The global tech crash opened like a Hollywood disaster film. So, how does it end?3.‘Nothing like this has ever happened before’: Australians reflect on chaotic IT outage4.Hazardous weather across Australia's south-east to bring strong winds, hail, rain and snow 5.Father reveals Wieambilla killers' shocking allegations years before deadly ambush6.Israel thinks they've assassinated their No.1 enemy. Now all they need is proof that he's really deadTop StoriesHow a bug in a little-known piece of software caused a global meltdownAnalysis by Ange LavoipierreThe global tech crash opened like a Hollywood disaster film. So, how does it end?‘Nothing like this has ever happened before’: Australians reflect on chaotic IT outageBiden campaign insists he will stay in presidential race, amid growing calls to stand downIsrael thinks they've assassinated their No.1 enemy. Now all they need is proof that he's really deadJust Infeel good'My mum's a storyteller': How interviewing your older loved ones can be therapeutic 33m ago33 minutes agoFri 19 Jul 2024 at 4:00pmAnalysis by Ange LavoipierreThe global tech crash opened like a Hollywood disaster film. So, how does it end?45m ago45 minutes agoFri 19 Jul 2024 at 3:47pm'Less emotional labour to eat a cheese sandwich': Indian Australians on what it's like growing up here56m ago56 minutes agoFri 19 Jul 2024 at 3:36pmTwelve charts that show how Australia's population changed over 120 years58m ago58 minutes agoFri 19 Jul 2024 at 3:34pmMore Just InBack to top",NewsArticle,,"{'@type': 'Organization', 'name': 'ABC News', 'logo': {'@type': 'ImageObject', 'height': 60, 'url': 'https://www.abc.net.au/res/abc/logos/amp-news-logo-60x240.png', 'width': 240}}",2022-10-13T18:30:00+00:00,2022-10-13T06:22:15+00:00,Behind 'miracle' AI is an army of 'ghost workers' — and they're speaking out about Appen,"{'@type': 'ImageObject', 'height': 485, 'url': 'https://live-production.wcms.abc-cdn.net.au/e7225e3c73698dd9f43f8406b6d375bb?impolicy=wcms_crop_resize&cropH=1075&cropW=1909&xPos=0&yPos=70&width=862&height=485', 'width': 862}",,https://www.abc.net.au/news/science/2022-10-14/artificial-intelligence-ai-appen-data-labelling-ghost-workers/101531084,"[{'@type': 'Person', 'name': 'Ariel Bogle'}]",,,,,,,,,
+https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy53b3JrZm9yY2VidWxsZXRpbi5jb20vdGhlLXdoaXRlLWhvdXNlLXJlbGVhc2VzLWJsdWVwcmludC1mb3ItYW4tYWktYmlsbC1vZi1yaWdodHMtbWFraW5nLWF1dG9tYXRlZC1zeXN0ZW1zLXdvcmstZm9yLXRoZS1hbWVyaWNhbi1wZW9wbGXSAQA?oc=5,The White House Releases “Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People” - Workforce Bulletin,2022-10-12,Workforce Bulletin,https://www.workforcebulletin.com,N/A,N/A,N/A,N/A,https://schema.org,,N/A,N/A,"On Tuesday October 4, 2022, the White House Office of Science and Technology Policy (“OSTP”) released a document entitled “Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People” (the “Blueprint”) together with a companion document “From Principles to Practice: A Technical Companion to the Blueprint for an AI Bill of Rights” (the “Technical Companion”).
+
+Non-Binding “Guidance”
+OSTP included a “Legal Disclaimer” which attempts to soften the impact of the release, describing it as a “white paper.”  OSTP states that the Blueprint is “non-binding and does not constitute US government policy” and “does not supersede, modify, or direct an interpretation of any existing statute, regulation, policy, or international instrument.”  While the Foreword to the Blueprint states that it is intended to provide “guidance” in connection with automated systems, the Legal Disclaimer clearly states that the Blueprint “does not constitute binding guidance for the public or Federal agencies and therefore does not require compliance with the principles described herein.”
+Five “Principles”
+The Blueprint and Technical Companion describe five principles and associated practices “to help guide the design, use, and deployment of automated systems.” The five principles are
+
+Safe and Effective Systems;
+Algorithmic Discrimination Protections;
+Data Privacy;
+Notice and Explanation; and
+Human Alternatives, Consideration, and Fallback.
+
+While these five principles often overlap, they combine concepts relevant to employment law and data privacy that are also relevant to the evolving legal landscape around the use of artificial intelligence and automated systems.
+OSTP intends the Blueprint to apply broadly, demonstrated by how it defines “automated system” as “any system, software, or process that uses computation as whole or part of a system to determine outcomes, make or aid decisions, inform policy implementation, collect data or observations, or otherwise interact with individuals and/or communities.”  The “Definitions” section notes that automated systems may include, but are not limited to, those derived from machine learning or artificial intelligence.
+Principle 1: “Safe and Effective Systems”
+The first principle, “Safe and Effective Systems,” states that automated systems should be “developed in consultation from diverse communities, stakeholders, and domain experts” and should “undergo pre-deployment testing, risk identification and mitigation, and ongoing monitoring.”  The Technical Companion highlights that the National Institute of Standards and Technology (NIST) is also developing a risk management framework to better manage risks posed by Artificial Intelligence.
+Principle 2: “Algorithmic Discrimination Protections” 
+Under the second principle, “Algorithmic Discrimination Protections,” Americans “should not face discrimination by algorithms and systems should be used and designed in an equitable way.”  This principle also states that “independent evaluation and plain language reporting in the form of an algorithmic impact assessment, including disparity testing results and mitigation information, should be performed and made public whenever possible[.]”  The Technical Companion describes a handful of examples,  such as “a hiring tool that learned the features of a company’s employees (predominantly men) rejecting women applicants for spurious and discriminatory reasons; [and] resumes with the word ‘women’s,’ such as ‘women’s chess club captain,’ were penalized in the candidate ranking.”
+Principle: 3: “Data Privacy”
+The third principle, “Data Privacy,” provides that “[y]ou should be protected from abusive data practices via built-in protections and you should have agency over how data about you is used.” This principle encourages designers, developers, and deployers of automated systems to request permission and respect decisions regarding “collection, use, access, transfer, and deletion of your data[.]”  The Technical Guidance cautions against companies using “surveillance software to track employee discussions about union activity.”  It encourages privacy by design when designing automated systems, and champions extra protections for “sensitive domains” including “health, employment, education, criminal justice, and personal finance” related data.
+Principle 4: “Notice and Explanation”
+Pursuant to the fourth principle, “Notice and Explanation,” Americans “should know that an automated systems is being used, and understand how and why it contributes to outcomes that impact you.”  The principle encourages clear documentation regarding how the system works, and publicly reporting summaries of the automated systems.  The Technical Guidance notes that notice has “long been a standard practice, and in many cases is a legal requirement[.]” The Technical Guidance also calls attention to the Illinois Biometric Information Privacy Act, which contains a notice requirement, and a California law requiring warehouse employees to be provided with notice and explanation about use of quota systems, which are “often facilitated by algorithmic monitoring systems.”
+Principle 5: “Human Alternatives, Consideration, and Fallback”
+The fifth principle, “Human Alternatives, Consideration, and Fallback,” states that “[y]ou should be able to opt out, where appropriate, and have access to a person who can quickly consider and remedy problems you encounter.” The Technical Guidance provides the example of an unemployment benefits system in Colorado which required applicants to have a smartphone to verify their identity but provided no alternative option.  The Technical Guidance encourages the use of brief, clear, and accessible ways to opt out of automated systems in favor of human alternatives, where doing so would be timely and effective.
+Conclusion
+The Blueprint represents a significant effort by the White House to guide private industry and state and local governments in developing practices and policies around the use of automated systems.  While it is expressly non-binding, it will likely provide a framework for drafts of future legislation.  Some jurisdictions, just as New York City, Illinois, and Maryland, have already passed laws directed at certain automated systems.  The Blueprint may encourage other jurisdictions to pass laws and regulations governing the same.",Organization,https://www.ebglaw.com/,,,,,,,,,"Epstein Becker &amp; Green, P.C.","['https://www.linkedin.com/company/epstein-becker-&amp;-green-p-c-', 'https://twitter.com/ebglaw', 'https://www.facebook.com/pages/Epstein-Becker-Green/140779175933414', 'https://www.instagram.com/ebglaw', 'https://www.youtube.com/user/ebglaw']",,,,,,,
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNiYy5jYS9yYWRpby9kYXk2L2FpLWdlbmVyYXRlZC1kaWdpdGFsLWFydC0xLjY2MTcwNjjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNjYxNzA2OA?oc=5,The rapid rise of AI-generated art and why creative professionals are divided over it - CBC.ca,2022-10-15,CBC.ca,https://www.cbc.ca,Artificial intelligence made art is already being used to create entire graphic novels and award-winning digital art. But artists and everyday users are torn between the creative possibilities of AI art and the ethical and financial challenges it presents.,N/A,Artificial intelligence made art is already being used to create entire graphic novels and award-winning digital art. But artists and everyday users are torn between the creative possibilities of AI art and the ethical and financial challenges it presents.,Artificial intelligence made art is already being used to create entire graphic novels and award-winning digital art. But artists and everyday users are torn between the creative possibilities of AI art and the ethical and financial challenges it presents.,http://schema.org/,,N/A,N/A,N/A,WebPage,,"{'foundingDate': '1936-11-02T05:00Z', 'ethicsPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'verificationFactCheckingPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', '@type': 'NewsMediaOrganization', '@context': 'http://schema.org/', 'ownershipFundingInfo': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'actionableFeedbackPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'missionCoveragePrioritiesPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'diversityPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'masthead': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'diversityStaffingReport': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'unnamedSourcesPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364', 'correctionsPolicy': 'https://www.cbc.ca/news/about-cbc-news-1.1294364'}",2022-10-15T13:10Z,2022-10-15T13:10Z,The rapid rise of AI-generated art and why creative professionals are divided over it,"[{'datePublished': '2022-10-14T19:19Z', '@type': 'ImageObject', 'name': 'Collage Annie Bender AI', 'description': 'A collage of three original AI art pieces created by Annie Bender.', 'dateModified': '2022-10-14T19:18Z', '@context': 'http://schema.org/', 'url': 'https://i.cbc.ca/1.6616992.1665775122!/fileImage/httpImage/collage-annie-bender-ai.jpg'}, {'datePublished': '2022-10-14T20:27Z', '@type': 'ImageObject', 'name': 'Dinosaurs crying rainbow tears AI', 'description': 'An original artificial intelligence art design titled Dinosaurs Crying Rainbow Tears. ', 'dateModified': '2022-10-14T20:27Z', '@context': 'http://schema.org/', 'url': 'https://i.cbc.ca/1.6617312.1665779238!/fileImage/httpImage/dinosaurs-crying-rainbow-tears-ai.jpg'}, {'datePublished': '2023-04-11T15:29Z', '@type': 'ImageObject', 'name': 'sunflower music AI', 'description': 'An original artificial intelligence art design titled Sunflower Music. ', 'dateModified': '2023-04-11T15:29Z', '@context': 'http://schema.org/', 'url': 'https://i.cbc.ca/1.6616927.1681226986!/fileImage/httpImage/sunflower-music-ai.jpg'}, {'datePublished': '2022-10-14T18:23Z', '@type': 'ImageObject', 'name': 'Violin AI', 'description': 'An original artificial intelligence art design titled Violin.', 'dateModified': '2022-10-14T18:23Z', '@context': 'http://schema.org/', 'url': 'https://i.cbc.ca/1.6617016.1665771831!/fileImage/httpImage/violin-ai.jpg'}, {'datePublished': '2022-10-14T18:16Z', '@type': 'ImageObject', 'name': 'Trees AI', 'description': 'An original artificial intelligence art design titled Trees.', 'dateModified': '2022-10-14T18:16Z', '@context': 'http://schema.org/', 'url': 'https://i.cbc.ca/1.6616978.1665771399!/fileImage/httpImage/trees-ai.jpg'}]",https://i.cbc.ca/1.6616992.1665775122!/fileImage/httpImage/collage-annie-bender-ai.jpg,,,The rapid rise of AI-generated art and why creative professionals are divided over it,,"Internet bots generate digital art, sometimes based off of real artists' work","[{'identifier': '2084875843884', 'expires': '2027-10-08T04:00Z', '@type': 'AudioObject', 'description': 'Millions of people have started engaging in an unprecedented new creative practice fusing visual art with artificial intelligence. Research groups and companies like OpenAI and Midjourney develop technologies that produce ""AI-generated images."" But artists and everyday users are torn between the creative possibilities of AI art and the ethical and financial challenges it presents. Day 6 producer Annie Bender explains what\'s at stake.', 'dateModified': '2022-10-14T20:31Z', '@context': 'http://schema.org/', 'datePublished': '2022-10-15T04:00Z', 'alternativeHeadline': 'Millions of people have started engaging in an unprecedented new creative practice fusing visual art with artificial intelligence. Research groups and companies like OpenAI and Midjourney develop technologies that produce ""AI-generated images."" But artists and everyday users are torn between the creative possibilities of AI art and the ethical and financial challenges it presents. Day 6 producer Annie Bender explains what\'s at stake.', 'contentUrl': 'https://www.cbc.ca/player/play/2084875843884', 'dateCreated': '2022-10-14T04:00Z', 'uploadDate': '2022-10-15T04:00Z', 'name': 'The rapid rise of AI-generated art, and why creative professionals are divided over it', 'thumbnailUrl': 'https://thumbnails.cbc.ca/maven_legacy/thumbnails/709/559/day6-generic-1920x1080.jpg'}]",Day 6,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.detailHeadline', '.detailSummary']}",,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYmVjb21pbmdodW1hbi5haS83LXVuZGVycmF0ZWQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZGV2ZWxvcG1lbnRzLXRoYXQtd2lsbC1jaGFuZ2UtdGhlLXdvcmxkLWU4OWE5OGYzOTE2ZNIBAA?oc=5,7 Underrated Artificial Intelligence Developments That Will Change the World - Becoming Human: Artificial Intelligence Magazine,2022-10-16,Becoming Human: Artificial Intelligence Magazine,https://becominghuman.ai,"The future is here, and it's coming for your job. That's the claim of many pundits, who argue that artificial intelligence (AI) will replace human workers in every industry as soon as 2025—and that…",N/A,"The future is here, and it's coming for your job. That's the claim of many pundits, who argue that artificial intelligence (AI) will…","The future is here, and it's coming for your job. That's the claim of many pundits, who argue that artificial intelligence (AI) will…",http://schema.org,,N/A,N/A,"7 Underrated Artificial Intelligence Developments That Will Change the WorldGhulam Mustafa Shoaib·FollowPublished inBecoming Human: Artificial Intelligence Magazine·6 min read·Oct 16, 20228ListenShareThe future is here, and it's coming for your job. That's the claim of many pundits, who argue that artificial intelligence (AI) will replace human workers in every industry as soon as 2025—and that we're already seeing signs of this trend. However, while AI may seem like a great replacement for humans in some cases, it could also lead to a host of unforeseen consequences if we don't take steps to ensure that robots can be trusted with sensitive information or jobs involving human interaction. As such, we need to continue developing technologies that enable machines to learn from their mistakes and develop new skills on their own—without having access to vast amounts of data sets or having any idea where those learning curves might lead us next. If you're looking for ways in which AI is changing our lives today... well... look no further than these seven developments worth noting:AI that can detect liesLie detection is a fascinating field of study, and one that has been around for centuries. But it's only recently that artificial intelligence has come into its own as an important tool in this area.In order to detect lies, researchers can analyze patterns of speech or movement on video footage—or even use brain scans to identify whether someone is telling the truth. These techniques are especially useful when they're combined with more traditional ways of detecting deception: polygraph tests and behavioral analysis like body language and tone of voice (which can be used together).The ability to detect lies could help law enforcement better investigate crimes—and even save lives! For example: if you know someone's lying about something like whether they've ever been arrested before, it could make it easier for police officers to determine what kind of person they're dealing with while investigating crimes such as robbery or murder cases where there may be suspects who aren't always forthcoming about their pasts.""Intelligent algorithms that identify depressionThe algorithm is based on neural networks and can detect depression in real time. It's not just that the algorithm works better than a human at detecting depression, but also that it's able to do so at an affordable price. This means that we might be able to use these algorithms for things like improving treatment for people with depression or even helping them prevent themselves from developing the condition in the first place.The technology could be used as early warning tools for those who are at risk of developing depression, allowing them to get treatment sooner rather than later and avoiding unnecessary suffering later down the line.An AI system that teaches itself to play computer gamesIf you're like me, you've probably spent countless hours playing video games. You probably also know that most of the time, your brain doesn't need to be involved in order for it to be used—the game just makes sense. But what if there was an AI system that could learn how to play games without any human input? What would happen then?A team from Stanford University has been working on this very question and they've come up with some interesting results: an AI system that can teach itself how to play computer games! The researchers trained an agent called ""Lukas"" using reinforcement learning—a method where agents learn by trial and error using rewards or punishments (or both). They gave him access not only over all sorts of different game genres but also allowed him free rein over which ones he wanted access too; he could choose whether or not he wanted a certain genre at any given moment during his training period.Apple's Siri and Microsoft's Cortana are only the beginningSiri and Cortana are only the beginning. Other examples of AI in the real world include:Amazon’s Alexa, which is an intelligent personal assistant that can help you shop, control your smart home devices, stream music, get news headlines and weather updates—all without lifting a finger!Google Assistant (Gmail) has been built into Gmail since late 2016. It understands natural language requests like ""What's my flight status?"" or ""show me recipes I haven't tried yet."" The technology also learns over time so it can answer questions better over time as well as anticipate users' needs automaticallyA robot you can trustYou can't trust the AI in your phone to tell the truth. But what if it could?There's a lot of hype surrounding artificial intelligence (AI), but there are plenty of AI developments that are still under-the-radar. One such development is a robot you can trust—one designed to detect lies and identify depression.Researchers at MIT have created an algorithm that can detect depression using facial analysis software and machine learning techniques, which they tested on real human subjects with over five years' experience working as psychologists or nurses treating patients with mental health issues like anxiety or depression. The team found that their algorithm was able to identify people who were clinically depressed 90% of the time based on fewer than 100 images per person!Automatic translationIn the past, it was always necessary to hire a human translator to help you communicate with someone from another country. With AI-powered translation, however, you don't need that extra step.The technology is still not perfect—but it's getting better all the time. Google Translate has been able to translate between more than 70 languages since its launch in 2006 and now supports over 400 million users worldwide (and counting). Microsoft's Bing Translator offers similar services through its free version as well as paid plans for businesses that need advanced features like video translation or real-time chat conferencing across multiple devicesAutomated journalismWhile the idea of AI writing news articles is a bit off-putting, it’s a reality. In fact, some companies are already using artificial intelligence (AI) to write their own content.For example, IBM Watson has been trained to spot patterns in text and then create human-like speech for use in videos and infographics. It can also generate original ideas for essays or reports by analyzing existing data sources like Wikipedia or social media sites like Twitter.But what if we were able to automate journalism too? What kind of stories would these computers tell us? Would they be objective? Or biased towards one side or another?We've all heard about how AI is going to change the world, but these advancements will have a profound impact on society in the very near future.AI is only as good as the data it is trained on, and there's no shortage of information to train AI with. The technology can be used to perpetuate discrimination and bias, but it can also be used to solve problems that have plagued humanity for centuries.While we're still in the early stages of AI development, we've already seen how powerful this technology can be when combined with other technologies such as machine learning or deep learning algorithms (which allow computers to learn through observation).ConclusionAI is a very exciting field to work in, but it's also one that requires a lot of hard work. If you want to be an expert in artificial intelligence, then you need to put in the time and effort. You can't just expect your computer program or robot to do all the work for you; instead, you have to build them up and teach them how we humans think.https://becominghuman.ai/",NewsArticle,https://becominghuman.ai/7-underrated-artificial-intelligence-developments-that-will-change-the-world-e89a98f3916d,"{'@type': 'Organization', 'name': 'Becoming Human: Artificial Intelligence Magazine', 'url': 'becominghuman.ai', 'logo': {'@type': 'ImageObject', 'width': 146, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:292/1*1fYpRTTpKQNa0zuEPe3itg.png'}}",2022-10-16T14:39:05.284Z,2022-10-25T18:39:37.805Z,7 Underrated Artificial Intelligence Developments That Will Change the World,['https://miro.medium.com/v2/resize:fit:1200/1*l0dTGwHtYXD5fKA7hUx3YQ.jpeg'],,https://becominghuman.ai/7-underrated-artificial-intelligence-developments-that-will-change-the-world-e89a98f3916d,"{'@type': 'Person', 'name': 'Ghulam Mustafa Shoaib', 'url': 'https://becominghuman.ai/@ghulam.mustafa01'}",7 Underrated Artificial Intelligence Developments That Will Change the World,,,,,,2022-10-16T14:39:05.284Z,e89a98f3916d,['Ghulam Mustafa Shoaib']
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2JhY2stdG8tdGhlLW9mZmljZS1kb250LWV4cGVjdC10by1iZS1tb3JlLXByb2R1Y3RpdmUtd2hlbi15b3UtZ2V0LXRoZXJlL9IBAA?oc=5,Going back to the office is 'a productivity killer' - ZDNet,2022-10-13,ZDNet,https://www.zdnet.com,"Employers need to find a better way of using offices for hybrid working, says Slack, after a new survey suggested workers spend up to four hours on video calls each day.",N/A,"Employers need to find a better way of using offices for hybrid working, says Slack, after a new survey suggested workers spend up to four hours on video calls each day.","Employers need to find a better way of using offices for hybrid working, says Slack, after a new survey suggested workers spend up to four hours on video calls each day.",,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL29uY2UtYWdhaW4td29ya2Vycy1zYXktdGhleS13b3VsZC1yYXRoZXItcXVpdC10aGFuLXJldHVybi10by10aGUtb2ZmaWNlL9IBAA?oc=5,"Once again, workers say they would rather quit than return to the office - ZDNet",2022-10-12,ZDNet,https://www.zdnet.com,"Employees have high work expectations for 2023, including flexible schedules, mental health support, and salaries that keep up with inflation.",N/A,"Employees have high work expectations for 2023, including flexible schedules, mental health support, and salaries that keep up with inflation.","Employees have high work expectations for 2023, including flexible schedules, mental health support, and salaries that keep up with inflation.",,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,

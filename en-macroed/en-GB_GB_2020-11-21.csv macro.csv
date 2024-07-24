@@ -1,0 +1,1008 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,headline,author,dateCreated,dateModified,datePublished,editor,publisher,image,genre,article:section,article:summary,article text,mainEntityOfPage,inLanguage,alternativeHeadline,hasPart,comment,commentCount,copyrightHolder,sourceOrganization,copyrightYear,isAccessibleForFree,isPartOf,name,logo,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,articleBody,isBasedOn,articleSection,thumbnailUrl,itemListElement,@graph,identifier,creator
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYXRvLmludC9kb2N1L3Jldmlldy9hcnRpY2xlcy8yMDIwLzExLzI0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWF0LW5hdG8tZHluYW1pYy1hZG9wdGlvbi1yZXNwb25zaWJsZS11c2UvaW5kZXguaHRtbNIBAA?oc=5,"NATO Review - Artificial Intelligence at NATO: dynamic adoption, responsible use - NATO HQ",2020-11-24,NATO HQ,https://www.nato.int,"The deputy head of NATO’s Innovation Unit lays out current efforts to develop Artificial Intelligence policy at NATO.
+",N/A,"The deputy head of NATO’s Innovation Unit lays out current efforts to develop Artificial Intelligence policy at NATO.
+",N/A,http://schema.org,Article,https://www.nato.int/docu/review/articles/2020/11/24/artificial-intelligence-at-nato-dynamic-adoption-responsible-use/index.html,"NATO Review - Artificial Intelligence at NATO: dynamic adoption, responsible use",Edward Hunter Christie ,2020-11-24,2020-11-24,2020-11-24,Nato Review,"{'@type': 'Organization', 'name': 'Nato Review', 'url': 'https://www.nato.int/docu/review/index_en.htm', 'logo': 'https://www.nato.int/docu/review/2018/Templates/Images/NatoReviewLogo/logo_EN.png'}","['https://www.nato.int/docu/review/images/5572e8_2_christie_ai_airport-plane.jpg', 'https://www.nato.int/docu/review/images/5572e8_2_christie_ai_airport-plane.jpg']",Defence and deterrence,N/A,N/A,"
+
+
+                    Artificial Intelligence at NATO: dynamic adoption, responsible use                
+
+
+ Edward Hunter Christie 
+
+ 24 November 2020                    
+
+
+
+
+The deputy head of NATO’s Innovation Unit lays out current efforts to develop Artificial Intelligence policy at NATO.
+ 
+As noted in the first article in this series on innovation at NATO, the Alliance faces a global technology adoption race. Rival powers are leveraging new technologies to pursue the dual goal of greater economic competitiveness alongside greater military capabilities. The Allies face a range of challenges as they seek to exploit emerging and disruptive technologies. These challenges are based on two interrelated pillars of work: ensuring a dynamic adoption of new technologies and governing them responsibly. Artificial Intelligence (AI) is at the heart of these considerations.
+AI is the ability of machines to perform tasks that typically require human intelligence – for example, recognising patterns, learning from experience, drawing conclusions, making predictions, or taking action – whether digitally or as the smart software behind autonomous physical systems (see Science & Technology Trends 2020-2040 – Exploring the S&T Edge).
+As proposed by the RAND think tank in the report The Department of Defense Posture for Artificial Intelligence: Assessment and Recommendations (2019), it is useful to distinguish between three broad types of applications: Enterprise AI, Mission Support AI, and Operational AI.
+ 
+
+Enterprise AI includes applications such as AI-enabled financial or personnel management systems, which are deployed in tightly controlled environments, where the implications of technical failures are low (in terms of immediate danger and potential lethality).
+
+Operational AI, by contrast, can be deployed in missions and operations, i.e. in considerably less controlled environments and such that the implications of failure may be critically high. Examples include the control software of stationary systems or those of unmanned vehicles.
+
+Mission Support AI, an intermediate category in terms of environment control and failure implications, includes a diverse set of applications, e.g. logistics and maintenance, or intelligence-related applications.
+
+
+
+
+These distinctions may prove useful in setting priorities, both for adoption policies and for principles of responsible use, taking into account the differing levels of risk inherent to these categories.
+The contemporary wave of AI, or Second Wave AI, is centered on Machine Learning (ML).  ML involves the development and use of statistical algorithms to find patterns in data. For example, a classification algorithm can be trained on a large set of correctly labelled examples to determine to which previously encountered category a newly observed object belongs. Deep Learning is a subset of ML, which uses multiple computational layers (Artificial Neural Networks with multiple layers) for the handling of computationally demanding pattern recognition or prediction problems, e.g. Convolutional Neural Networks for object detection within images.   Figure one below is an illustration of Deep Learning for the identification of planes, vehicles and buildings within images.
+
+
+
+
+
+
+Deep Learning can be used to detect specific objects within images.
+(Source: Hoeser, T.; Kuenzer, C. Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends. Remote Sens. 2020, 12, 1667.)
+
+
+
+ML thrives on large sets of accurate data and performs poorly with small datasets or with inaccurate data. Under good conditions across a wide range of uses, ML outperforms humans, in terms of both predictive performance and of course speed, over an increasing range of narrow pattern recognition and prediction tasks. This is the central reason for the increasing adoption of ML across vast areas of human activity.
+
+Towards dynamic adoption
+
+
+Traditionally, economists have modelled output as a function of labour and capital (production factors), and material inputs. For AI, the production factors are high-skill specialist talent and Information and Communication Technologies (ICT) infrastructure for computing and storage, and data is the key input.
+Is data then the new oil? Essentially no. While data does need to be ‘extracted’ and then ‘refined’ before further use, its availability grows with the volume of output. Data is also specific, not fungible. For any specific use case, specific datasets that capture exactly relevant real-life observations (or simulations) are needed. To ensure a solid starting point, Allied defence establishments will need to ensure their further digitisation. Overall, data policy needs to address a full value chain, covering collection, access, sharing, storage, metadata, documentation, quality control (including data cleaning and bias mitigation), and processes to ensure compliance with legal requirements.
+Supporting measures for the production factors – talent and infrastructure – should include sound and flexible human resources and contracting policies to attract and nurture the best human talent, as well as the deployment of relevant and secure computational and data storage capacities.
+Next is productivity. Through the ages, economic actors have sought the best ways to combine the factors of production: Are they complementary? Are they substitutable? What combinations bring the highest returns? What production and managerial processes and practices yield the best outcomes? For AI, while trade-offs exist to some extent, the factors of production are far more complements than they are substitutes: one needs substantial investments in all three factors to succeed.
+As for processes and management, software industry best practice indicates that the development and delivery of AI solutions should rely on Agile approaches, rather than on a traditional Waterfall model. This implies highly dynamic and iterative processes, starting from an initial and flexible problem statement, rather than a detailed and rigid statement of requirements. Several variants of Agile exist in industry and some of these variants are actively pursued within certain NATO communities.
+
+
+
+
+
+
+
+Committing to responsible use
+
+
+The Alliance’s success with AI will also depend on new and well-designed principles and practices relating to good governance and responsible use.  Certain Allied governments have already made certain public commitments in the area of responsible use, addressing concepts such as lawfulness, responsibility, reliability, and governability, among others.
+In parallel, Allies have taken part in the Group of Governmental Experts on Lethal Autonomous Weapon Systems under the auspices of the United Nations, leading to the formulation of 11 guiding principles.
+Importantly, there is a good case for viewing work on adopting AI and work on principles of responsible use as complementary and synergistic. In effect, there are certain essential principles or goals that will underpin and facilitate both engineering good practice, as well as responsible state behaviour.
+Certain national principles imply a need for specific design requirements. For example, a principle of governability may be linked to technical abilities to detect and avoid unintended consequences, and to disengage or deactivate in case of unintended behaviour.
+The technical characteristics required to ensure that these and other objectives are met will necessarily be part of the design and testing phases of relevant systems. In turn, the relevant engineering work will be an opportunity to refine understanding, leading to more granular and more mature principles. Further work in the area of Testing, Evaluating, Verifying and Validating (TEVV) will be essential, as will support from relevant Modelling and Simulation efforts. NATO’s well-established strengths in the area of standardization will help frame these lines of effort, while also ensuring interoperability between Allied forces.
+In the meantime, overarching principles such as those developed in some national cases, as well as under UN auspices, offer a baseline for further consultations among Allies, as well as points of reference concerning existing national positions.
+This is the second article of a mini-series by NATO’s innovation team, which focuses on technologies Allies are looking to adopt and the opportunities they will bring to the defence and security of the NATO Alliance.
+ 
+
+
+
+What is published in NATO Review does not constitute the official position or policy of NATO or member governments.NATO Review seeks to inform and promote debate on security issues. The views expressed by authors are their own.
+
+
+About the Author
+
+
+
+
+
+Edward Hunter Christie is Deputy Head of the Innovation Unit, Emerging Security Challenges Division. He is the author of NATO’s White Papers on Artificial Intelligence and on Autonomous Technologies.
+
+
+
+
+
+related tags
+
+
+Defence technology
+
+
+Emerging security threats
+
+
+Cyber
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMTEvMjMvc2NpZW5jZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS1waHlzaWNzLXRoZW9yeS5odG1s0gEA?oc=5,Can a Computer Devise a Theory of Everything? - The New York Times,2020-11-23,The New York Times,https://www.nytimes.com,"It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result.",N/A,"It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result.","It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result.",https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,Can a Computer Devise a Theory of Everything?,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/dennis-overbye', 'name': 'Dennis Overbye'}]",,2020-11-23T18:26:35.000Z,2020-11-23T10:00:17.000Z,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Alex Eben Meyer'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-superJumbo.jpg', 'height': 2048, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-superJumbo.jpg', 'creditText': 'Alex Eben Meyer'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-mediumSquareAt3X.jpg', 'height': 1800, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-mediumSquareAt3X.jpg', 'creditText': 'Alex Eben Meyer'}]",,Science,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTOut ThereCan a Computer Devise a Theory of Everything?It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result.Share full article131Read in appCredit...Alex Eben MeyerBy Dennis OverbyeNov. 23, 2020Once upon a time, Albert Einstein described scientific theories as “free inventions of the human mind.” But in 1980, Stephen Hawking, the renowned Cambridge University cosmologist, had another thought. In a lecture that year, he argued that the so-called Theory of Everything might be achievable, but that the final touches on it were likely to be done by computers.“The end might not be in sight for theoretical physics,” he said. “But it might be in sight for theoretical physicists.”The Theory of Everything is still not in sight, but with computers taking over many of the chores in life — translating languages, recognizing faces, driving cars, recommending whom to date — it is not so crazy to imagine them taking over from the Hawkings and the Einsteins of the world.Computer programs like DeepMind’s AlphaGo keep discovering new ways to beat humans at games like Go and chess, which have been studied and played for centuries. Why couldn’t one of these marvelous learning machines, let loose on an enormous astronomical catalog or the petabytes of data compiled by the Large Hadron Collider, discern a set of new fundamental particles or discover a wormhole to another galaxy in the outer solar system, like the one in the movie “Interstellar”?AdvertisementSKIP ADVERTISEMENTAt least that’s the dream. To think otherwise is to engage in what the physicist Max Tegmark calls “carbon chauvinism.” In November, the Massachusetts Institute of Technology, where Dr. Tegmark is a professor, cashed a check from the National Science Foundation, and opened the metaphorical doors of the new Institute for Artificial Intelligence and Fundamental Interactions.The institute is one of seven set up by the foundation and the U.S. Department of Agriculture as part of a nationwide effort to galvanize work in artificial intelligence. Each receives $20 million over five years.The M.I.T.-based institute, directed by Jesse Thaler, a particle physicist, is the only one specifically devoted to physics. It includes more than two dozen scientists, from all areas of physics, from M.I.T., Harvard, Northeastern University and Tufts.“What I’m hoping to do is create a venue where researchers from a variety of different fields of physics, as well as researchers who work on computer science, machine-learning or A.I., can come together and have dialogue and teach each other things,” Dr. Thaler said over a Zoom call. “Ultimately, I want to have machines that can think like a physicist.”Rediscovering the fundamental lawsTheir tool in this endeavor is a brand of artificial intelligence known as neural networking. Unlike so-called expert systems like IBM’s Watson, which are loaded with human and scientific knowledge, neural networks are designed to learn as they go, similarly to the way human brains do. By analyzing vast amounts of data for hidden patterns, they swiftly learn to distinguish dogs from cats, recognize faces, replicate human speech, flag financial misbehavior and more.AdvertisementSKIP ADVERTISEMENT“We’re hoping to discover all kinds of new laws of physics,” Dr. Tegmark said. “We’re already shown that it can rediscover laws of physics.”Last year, in what amounted to a sort of proof of principle, Dr. Tegmark and a student, Silviu-Marian Udrescu, took 100 physics equations from a famous textbook — “The Feynman Lectures on Physics” by Richard Feynman, Robert Leighton and Matthew Sands — and used them to generate data that was then fed to a neural network. The system sifted the data for patterns and regularities — and recovered all 100 formulas.“Like a human scientist, it tries many different strategies (modules) in turn,” the researchers wrote in a paper published last year in Science Advances. “And if it cannot solve the full problem in one fell swoop, it tries to transform it and divide it into simpler pieces that can be tackled separately, recursively relaunching the full algorithm on each piece.”In another more challenging experiment, Dr. Tegmark and his colleagues showed the network a video of rockets flying around and asked it to predict what would happen from one frame to the next. Never mind the palm trees in the background. “At the end, the computer was able to discover the essential equations of motion,” he said.Finding new particles at a place like CERN’s Large Hadron Collider would be a cinch, Dr. Tegmark said; A.I. likes big data, and the collider data runs to thousands of terabytes a second. Nevermind that a new particle hasn’t appeared in the CERN data since the discovery of the Higgs boson in 2012, despite years of frenzied examinations of every bump in the data stream.AdvertisementSKIP ADVERTISEMENT“Those are curves that humans look at,” Dr. Tegmark said. “In 10 years, machine-learning will be as essential to doing physics as knowing math.”For now, he conceded, there are limits to what can be achieved by the algorithm’s recursive method of problem solving, a practice known as regression. Although the machine can retrieve from a pile of data the fundamental laws of physics, it cannot yet come up with the deep principles — like quantum uncertainty in quantum mechanics, or relativity — that underlie those formulae.“By the times that A.I. comes back and tells you that, then we have reached artificial general intelligence, and you should be very scared or very excited, depending on your point of view,” Dr. Tegmark said. “The reason I’m working on this, honestly, is because what I find most menacing is, if we build super-powerful A.I. and have no clue how it works — right?”‘A dialogue between human and machine’Dr. Thaler, who directs the new institute at M.I.T., said he was once a skeptic about artificial intelligence but now was an evangelist. He realized that as a physicist he could encode some of his knowledge into the machine, which would then give answers that he could interpret more easily.“That becomes a dialogue between human and machine in a way that becomes more exciting,” he said, “rather than just having a black box you don’t understand making decisions for you.”AdvertisementSKIP ADVERTISEMENTHe added, “I don’t particularly like calling these techniques ‘artificial intelligence,’ since that language masks the fact that many A.I. techniques have rigorous underpinnings in mathematics, statistics and computer science.”Yes, he noted, the machine can find much better solutions than he can despite all of his training: “But ultimately I still get to decide what concrete goals are worth accomplishing, and I can aim at ever more ambitious targets knowing that, if I can rigorously define my goals in a language the computer understands, then A.I. can deliver powerful solutions.”Recently, Dr. Thaler and his colleagues fed their neural network a trove of data from the Large Hadron Collider, which smashes together protons in search of new particles and forces. Protons, the building blocks of atomic matter, are themselves bags of smaller entities called quarks and gluons. When protons collide, these smaller particles squirt out in jets, along with whatever other exotic particles have coalesced out of the energy of the collision. To better understand this process, he and his team asked the system to distinguish between the quarks and the gluons in the collider data.“We said, ‘I’m not going to tell you anything about quantum field theory; I’m not going to tell you what a quark or gluon is at a fundamental level,’” he said. “I’m just going to say, ‘Here’s a mess of data, please separate it into basically two categories.’ And it can do it.”That is, the system successfully identified and distinguished between quarks and gluons, without ever knowing what either was. If you then ask the system if there is a third type of object in the data, Dr. Thaler said, it starts to discover that quarks are not just one entity but exist in different types — so-called up-quarks and down-quarks.AdvertisementSKIP ADVERTISEMENT“And so it starts to, like, learn as you give it more flexibility to explore,” he said. “It doesn’t know quantum field theory yet, but it knows to look for patterns. And this is a pattern that I was shocked that the machine would find.” The work, he added, would help collider physicists untangle their results.At one point during a Zoom conversation, Dr. Thaler displayed what he called “a goofy cartoon” of the neural net that had been used for the quark-gluon project. It looked like a pile of multicolored rubber bands, but it represented several layers of processing, involving some 30,000 nodes, or “neurons,” where information was gathered and passed on.“This is the kind of small network you could train on your laptop, if you waited long enough,” he said.It would fit on a small chip and is fast enough to be used in colliders to help decide which collisions to keep for study and which to discard. Since the collisions happen 40 million times a second, there isn’t a lot of time to decide.Another feature of this new field, Dr. Thaler said, was that it provided a common language for researchers from vastly different fields of endeavor. It turned out that the mathematics involved in solving the collider problem were also applicable to optimizing shipping schedules for an outfit like Amazon.AdvertisementSKIP ADVERTISEMENT“The most surprising discoveries have come from realizing that someone else had precisely the tool or precisely the widget that can actually help me understand my problems in a new light,” Dr. Thaler said. “And from there, to actually do things that had never been done before.”The start of something quantum“One of the reasons A.I. has been so successful at solving games,” Dr. Thaler said, “is that games have a very well-defined notion of success.” He added, “If we could define what success means for physical laws, that would be an incredible breakthrough.”“In five to 10 years from now, I’m going to want to do exactly what you’re getting at: Here’s the data, here’s a very rough tool kit; find the equation I could put on a T-shirt, the equation that replaces the Standard Model of particle physics. What’s the equation that replaces Einstein’s general relativity?”Some physicists think the next great leap will come with advent of A.I. on quantum computers. Unlike classical computers, which manipulate bits that can be 1 or 0, the so-called qubits in quantum computers can be both at once. According to quantum physics, that is how elementary particles behave on the smallest scales of nature, and it allows quantum computers to process vast amounts of information simultaneously.Such machines are still in their infancy, but they hold great promise, said Seth Lloyd, a mechanical engineer and quantum computing expert at M.I.T. who is not part of the new artificial-intelligence institute there.AdvertisementSKIP ADVERTISEMENT“The basic insight is that quantum systems can generate patterns that are hard for classical systems to generate,” Dr. Lloyd said. “So maybe quantum systems can also recognize patterns that classical systems recognize.”Or as Joe Lykken, deputy director of research at the Fermi National Accelerator Laboratory in Batavia, Ill., put it, “To paraphrase Richard Feynman, if you want to use A.I. to discover things about our quantum world, you should use quantum A.I.”Maria Spiropulu, a physicist at the California Institute of Technology, pointed to the growing literature “on quantum A.I. and quantum-inspired algorithms that solve problems that we thought of as unsolvable previously.” She added, “It’s like Plato’s allegory of the cave and the theory of forms coming-of-age!”‘It’s just an algorithm running’How far this could go depends on whom you ask. Could a machine produce the abstruse and unintuitive principles of quantum theory, or Einstein’s bulwark principles of relativity? Could it produce a theory that we humans can’t understand? Could we wind up in the Matrix, or a world run by SkyNet, like in the “Terminator” series?I asked a random sample of theoretical physicists whether they were ready to be replaced.“The way you are asking is adding to the confusion,” said Jaron Lanier, a computer engineer now working with Microsoft. The field of computer science, he said, is rife with romantic overstatements about the power and threat of superintelligent machines.AdvertisementSKIP ADVERTISEMENT“Can we form a question in such a way that we can do the computation?” he asked. “Remove the romanticism. It’s not a creature like a cat, it’s just an algorithm running.”Steven Weinberg, a Nobel laureate and a professor at the University of Texas at Austin, called it “a troubling thought” that humans might not be smart enough to understand the final Theory of Everything. “But I suspect in that case,” he wrote in an email, “we will also not be smart enough to design a computer that can find a final theory.”Lisa Randall, a physicist at Harvard, wrote: “I can readily imagine computers finding equations or relationships we don’t know how to interpret. But that is not really different from the many measurements we cannot yet explain.”Nima Arkani-Hamed, a theorist at the Institute for Advanced Study in Princeton, N.J., took issue with the idea that the computer would discover something too deep for humans to comprehend: “This does not reflect what we see in the character of the laws of nature, which we have come to see over the centuries are based on fewer, deeper, simpler if more abstract, mathematical ideas.”If Isaac Newton came back from the dead, for example, Dr. Arkani-Hamed said, he would have no trouble getting up to speed on contemporary physics: “Indeed, scores of non-Newtons manage to do this over the course of a four-year undergraduate education.”AdvertisementSKIP ADVERTISEMENTMichael Turner, a cosmologist at the Kavli Foundation in Los Angeles, said it ultimately didn’t matter where our ideas came from, so long as they were battle-tested before we relied on them.“So where do we get these theories or paradigms? It can be from deep principles — symmetry, beauty, simplicity — philosophical principles, religion or the local drunk,” he said. “As machines become smarter, we can add them to the list of sources.”Edward Witten, also of the Institute for Advanced Study in Princeton, noted that although a theory-of-everything machine didn’t exist yet, it might in the next century. “If there were a machine that appeared to be interested in and curious about physics, I would certainly be interested in conversing with it.”No doubt it would be interested in talking with him.[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]Dennis Overbye joined The Times in 1998, and has been a reporter since 2001. He has written two books: “Lonely Hearts of the Cosmos: The Story of the Scientific Search for the Secret of the Universe” and “Einstein in Love: A Scientific Romance.” More about Dennis OverbyeA version of this article appears in print on Nov. 24, 2020, Section D, Page 12 of the New York edition with the headline: Could a Computer Devise A Theory of Everything?. Order Reprints | Today’s Paper | SubscribeSee more on: CERN, Massachusetts Institute of TechnologyRead 131 CommentsShare full article131Read in appAdvertisementSKIP ADVERTISEMENTComments 131Can a Computer Devise a Theory of Everything?Skip to CommentsThe comments section is closed.
+      To submit a letter to the editor for publication, write to
+      letters@nytimes.com.Enjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html,en,Could a Computer Devise A Theory of Everything?,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",{'@id': '#commentsContainer'},131.0,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LndpcmVkLmNvbS9zdG9yeS9haS1jYW4tcnVuLXdvcmstbWVldGluZ3Mtbm93LWhlYWRyb29tLWNsb2Nrd2lzZS_SAQA?oc=5,AI Can Run Your Work Meetings Now - WIRED,2020-11-24,WIRED,https://www.wired.com,"A new wave of startups is trying to optimize meetings, from automated scheduling tools to facial recognition that measures who’s paying attention.","['business', 'startups', 'ai hub', 'ethics', 'face recognition', 'human-computer interaction', 'personal assistant', 'personal services', 'prediction', 'text analysis', 'text generation', 'big company', 'small company', 'startup', 'it', 'speech', 'text', 'video', 'machine learning', 'machine vision', 'natural language processing', 'artificial intelligence', 'software', 'office', 'work', 'web']","A new wave of startups is trying to optimize meetings, from automated scheduling tools to facial recognition that measures who’s paying attention.","A new wave of startups is trying to optimize meetings, from automated scheduling tools to facial recognition that measures who’s paying attention.",https://schema.org/,BreadcrumbList,https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/,AI Can Run Your Work Meetings Now,"[{'@type': 'Person', 'name': 'Arielle Pardes', 'sameAs': 'https://www.wired.com/author/arielle-pardes/'}]",,2020-11-24T13:43:20.648-05:00,2020-11-24T13:43:20.648-05:00,,"{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'WIRED', 'logo': {'@type': 'ImageObject', 'url': 'https://www.wired.com/verso/static/wired/assets/newsletter-signup-hub.jpg', 'width': '500px', 'height': '100px'}, 'url': 'https://www.wired.com'}","['https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/16:9/w_1920,h_1080,c_limit/business-ai-workplace-optimization-edit-2.jpg', 'https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/4:3/w_1440,h_1080,c_limit/business-ai-workplace-optimization-edit-2.jpg', 'https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/1:1/w_1079,h_1079,c_limit/business-ai-workplace-optimization-edit-2.jpg']",,tags,N/A,"Arielle PardesBusinessNov 24, 2020 1:43 PMAI Can Run Your Work Meetings NowA new wave of startups is trying to optimize meetings, from automated scheduling tools to facial recognition that measures who’s paying attention.Play/Pause ButtonPauseIllustration: Elena LaceySave this storySaveSave this storySaveThe AI Database →ApplicationEthicsFace recognitionHuman-computer interactionPersonal assistantPersonal servicesPredictionText analysisText generationEnd UserBig companySmall companyStartupSectorITSource DataSpeechTextVideoTechnologyMachine learningMachine visionNatural language processingJulian Green was explaining the big problem with meetings when our meeting started to glitch. The pixels of his face rearranged themselves. A sentence came out as hiccups. Then he sputtered, froze, and ghosted.Green and I had been chatting on Headroom, a new video conferencing platform he and cofounder Andrew Rabinovich launched this fall. The glitch, they assured me, was not caused by their software, but by Green’s Wi-Fi connection. “I think the rest of my street is on homeschool,” he said, a problem that Headroom was not built to solve. It was built instead for other issues: the tedium of taking notes, the coworkers who drone on and on, and the difficulty in keeping everyone engaged. As we spoke, software tapped out a real-time transcription in a window next to our faces. It kept a running tally of how many words each person had said (Rabinovich dominated). Once our meeting was over, Headroom’s software would synthesize the concepts from the transcript; identify key topics, dates, ideas, and action items; and, finally, spit out a record that could be searched at a later time. It would even try to measure how much each participant was paying attention.Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews. But as time spent in these corporate conclaves goes up, work seems to suffer. Researchers have found that meetings correlate with a decline in workplace happiness, productivity, and even company market share. And in a year when so many office interactions have gone digital, the usual tedium of meeting culture is compounded by the fits and starts of teleconferencing.Trending NowUnderstanding Algorithms With Sinead BovellRecently, a new wave of startups has emerged to optimize those meetings with, what else, technology. Macro (“give your meeting superpowers”) makes a collaborative interface for Zoom. Mmhmm offers interactive backgrounds and slide-share tools for presenters. Fireflies, an AI transcription tool, integrates with popular video conferencing platforms to create a searchable record of each meeting. And Sidekick (“make your remote team feel close again”) sells a dedicated tablet for video calls.The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head AI at Magic Leap.) The use of video conferencing was already on the rise before 2020; this year it exploded, and Green and Rabinovich are betting that the format is here to stay as more companies grow accustomed to having remote employees. Over the last nine months, though, many people have learned firsthand that virtual meetings bring new challenges, like interpreting body language from other people on-screen or figuring out if anyone is actually listening.“One of the hard things in a videoconference is when someone is speaking and I want to tell them that I like it,” says Green. In person, he says, “you might head nod or make a small aha.” But on a video chat, the speaker might not see if they’re presenting slides, or if the meeting is crowded with too many squares, or if everyone who’s making verbal cues is on mute. “You can't tell if it's crickets or if people are loving it.”Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDPoliticsFar-Right Extremists Call for Violence and War After Trump ShootingBy David Gilbert, WIREDSecurityAT&T Paid a Hacker $370,000 to Delete Stolen Phone RecordsBy Kim Zetter, WIREDHeadroom aims to tackle the social distance of virtual meetings in a few ways. First, it uses computer vision to translate approving gestures into digital icons, amplifying each thumbs up or head nod with little emojis that the speaker can see. Those emojis also get added to the official transcript, which is automatically generated by software to spare someone the task of taking notes. Green and Rabinovich say this type of monitoring is made clear to all participants at the start of every meeting, and teams can opt out of features if they choose.More uniquely, Headroom’s software uses emotion recognition to take the temperature of the room periodically, and to gauge how much attention participants are paying to whoever’s speaking. Those metrics are displayed in a window on-screen, designed mostly to give the speaker real-time feedback that can sometimes disappear in the virtual context. “If five minutes ago everyone was super into what I'm saying and now they're not, maybe I should think about shutting up,” says Green.Emotion recognition is still a nascent field of AI. “The goal is to basically try to map the facial expressions as captured by facial landmarks: the rise of the eyebrow, the shape of the mouth, the opening of the pupils,” says Rabinovich. Each of these facial movements can be represented as data, which in theory can then be translated into an emotion: happy, sad, bored, confused. In practice, the process is rarely so straightforward. Emotion recognition software has a history of mislabeling people of color; one program, used by airport security, overestimated how often Black men showed negative emotions, like “anger.” Affective computing also fails to take cultural cues into context, like whether someone is averting their eyes out of respect, shame, or shyness.Keep ReadingThe latest on artificial intelligence, from machine learning to computer vision and moreFor Headroom’s purposes, Rabinovich argues that these inaccuracies aren’t as important. “We care less if you're happy or super happy, so long that we're able to tell if you're involved,” says Rabinovich. But Alice Xiang, the head of fairness, transparency, and accountability research at the Partnership on AI, says even basic facial recognition still has problems—like failing to detect when Asian individuals have their eyes open—because they are often trained on white faces. “If you have smaller eyes, or hooded eyes, it might be the case that the facial recognition concludes you are constantly looking down or closing your eyes when you’re not,” says Xiang. These sorts of disparities can have real-world consequences as facial recognition software gains more widespread use in the workplace. Headroom is not the first to bring such software into the office. HireVue, a recruiting technology firm, recently introduced an emotion recognition software that suggests a job candidate's ""employability,"" based on factors like facial movements and speaking voice.Constance Hadley, a researcher at Boston University's Questrom School of Business, says that gathering data on people’s behavior during meetings can reveal what is and isn’t working within that setup, which could be useful for employers and employees alike. But when people know their behavior is being monitored, it can change how they act in unintended ways. “If the monitoring is used to understand patterns as they exist, that’s great,” says Hadley. “But if it’s used to incentivize certain types of behavior, then it can end up triggering dysfunctional behavior.” In Hadley’s classes, when students know that 25 percent of the grade is participation, students raise their hands more often, but they don’t necessarily say more interesting things. When Green and Rabinovich demonstrated their software to me, I found myself raising my eyebrows, widening my eyes, and grinning maniacally to change my levels of perceived emotion.Most PopularThe Big StoryPriscila, Queen of the Rideshare MafiaBy Lauren Smiley, WIREDPoliticsTrump Shooting Conspiracies Are Coming From Every DirectionBy David Gilbert, WIREDPoliticsFar-Right Extremists Call for Violence and War After Trump ShootingBy David Gilbert, WIREDSecurityAT&T Paid a Hacker $370,000 to Delete Stolen Phone RecordsBy Kim Zetter, WIREDIn Hadley’s estimation, when meetings are conducted is just as important as how. Poorly scheduled meetings can rob workers of the time to do their own tasks, and a deluge of meetings can make people feel like they’re wasting time while drowning in work. Naturally, there are software solutions to this, too. Clockwise, an AI time management platform launched in 2019, uses an algorithm to optimize the timing of meetings. “Time has become a shared asset inside a company, not a personal asset,” says Matt Martin, the founder of Clockwise. “People are balancing all these different threads of communication, the velocity has gone up, the demands of collaboration are more intense. And yet, the core of all of that, there’s not a tool for anyone to express, ‘This is the time I need to actually get my work done. Do not distract me!’”Clockwise syncs with someone’s Google calendar to analyze how they’re spending their time, and how they could do so more optimally. The software adds protective time blocks based on an individual’s stated preferences. It might reserve a chunk of “do not disturb” time for getting work done in the afternoons. (It also automatically blocks off time for lunch. “As silly as that sounds, it makes a big difference,” says Martin.) And by analyzing multiple calendars within the same workforce or team, the software can automatically move meetings like a “team sync” or a “weekly 1x1” into time slots that work for everyone. The software optimizes for creating more uninterrupted blocks of time, when workers can get into “deep work” without distraction.Clockwise, which launched in 2019, just closed an $18 million funding round and says it’s gaining traction in Silicon Valley. So far, it has 200,000 users, most of whom work for companies like Uber, Netflix, and Twitter; about half of its users are engineers. Headroom is similarly courting clients in the tech industry, where Green and Rabinovich feel they best understand the problems with meetings. But it’s not hard to imagine similar software creeping beyond the Silicon Valley bubble. Green, who has school-age children, has been exasperated by parts of their remote learning experience. There are two dozen students in their classes, and the teacher can’t see all of them at once. “If the teacher is presenting slides, they actually can see none of them,” he says. “They don't even see if the kids have their hands up to ask a question.”Indeed, the pains of teleconferencing aren’t limited to offices. As more and more interaction is mediated by screens, more software tools will surely try to optimize the experience. Other problems, like laggy Wi-Fi, will be someone else’s to solve.Enter your email to get the Wired newsletterclose dialogRecommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyPlease enter abovesign upUsed consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.Recommended NewsletterFast ForwardA weekly dispatch from the future by Will Knight, exploring advances in AI and other technologies set to change our lives. Delivered on Thursdays.WeeklyYou're signed up!Used consistent with and subject to our Privacy Policy & User Agreement. Read terms of Sign-up.close dialogMore Great WIRED Stories📩 Want the latest on tech, science, and more? Sign up for our newsletters!One man’s search for the DNA data that could save his lifeWish List: Gift ideas for your social bubble and beyondThe “dead zone” could help this car take on TeslaThe vulnerable can wait. Vaccinate the super-spreaders first7 simple tech tips to keep your family safe this holiday🎮 WIRED Games: Get the latest tips, reviews, and more🏃🏽‍♀️ Want the best tools to get healthy? Check out our Gear team’s picks for the best fitness trackers, running gear (including shoes and socks), and best headphones","{'@type': 'WebPage', '@id': 'https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/'}",,"A new wave of startups is trying to optimize meetings, from automated scheduling tools to facial recognition that measures who’s paying attention.",,,,,,,True,"{'@type': 'CreativeWork', 'name': 'WIRED'}",,,,,,,,,"Green and I had been chatting on Headroom, a new video conferencing platform he and cofounder Andrew Rabinovich launched this fall. The glitch, they assured me, was not caused by their software, but by Green’s Wi-Fi connection. “I think the rest of my street is on homeschool,” he said, a problem that Headroom was not built to solve. It was built instead for other issues: the tedium of taking notes, the coworkers who drone on and on, and the difficulty in keeping everyone engaged. As we spoke, software tapped out a real-time transcription in a window next to our faces. It kept a running tally of how many words each person had said (Rabinovich dominated). Once our meeting was over, Headroom’s software would synthesize the concepts from the transcript; identify key topics, dates, ideas, and action items; and, finally, spit out a record that could be searched at a later time. It would even try to measure how much each participant was paying attention.
+Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews. But as time spent in these corporate conclaves goes up, work seems to suffer. Researchers have found that meetings correlate with a decline in workplace happiness, productivity, and even company market share. And in a year when so many office interactions have gone digital, the usual tedium of meeting culture is compounded by the fits and starts of teleconferencing.
+Recently, a new wave of startups has emerged to optimize those meetings with, what else, technology. Macro (“give your meeting superpowers”) makes a collaborative interface for Zoom. Mmhmm offers interactive backgrounds and slide-share tools for presenters. Fireflies, an AI transcription tool, integrates with popular video conferencing platforms to create a searchable record of each meeting. And Sidekick (“make your remote team feel close again”) sells a dedicated tablet for video calls.
+The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head AI at Magic Leap.) The use of video conferencing was already on the rise before 2020; this year it exploded, and Green and Rabinovich are betting that the format is here to stay as more companies grow accustomed to having remote employees. Over the last nine months, though, many people have learned firsthand that virtual meetings bring new challenges, like interpreting body language from other people on-screen or figuring out if anyone is actually listening.
+“One of the hard things in a videoconference is when someone is speaking and I want to tell them that I like it,” says Green. In person, he says, “you might head nod or make a small aha.” But on a video chat, the speaker might not see if they’re presenting slides, or if the meeting is crowded with too many squares, or if everyone who’s making verbal cues is on mute. “You can't tell if it's crickets or if people are loving it.”
+Headroom aims to tackle the social distance of virtual meetings in a few ways. First, it uses computer vision to translate approving gestures into digital icons, amplifying each thumbs up or head nod with little emojis that the speaker can see. Those emojis also get added to the official transcript, which is automatically generated by software to spare someone the task of taking notes. Green and Rabinovich say this type of monitoring is made clear to all participants at the start of every meeting, and teams can opt out of features if they choose.
+More uniquely, Headroom’s software uses emotion recognition to take the temperature of the room periodically, and to gauge how much attention participants are paying to whoever’s speaking. Those metrics are displayed in a window on-screen, designed mostly to give the speaker real-time feedback that can sometimes disappear in the virtual context. “If five minutes ago everyone was super into what I'm saying and now they're not, maybe I should think about shutting up,” says Green.
+Emotion recognition is still a nascent field of AI. “The goal is to basically try to map the facial expressions as captured by facial landmarks: the rise of the eyebrow, the shape of the mouth, the opening of the pupils,” says Rabinovich. Each of these facial movements can be represented as data, which in theory can then be translated into an emotion: happy, sad, bored, confused. In practice, the process is rarely so straightforward. Emotion recognition software has a history of mislabeling people of color; one program, used by airport security, overestimated how often Black men showed negative emotions, like “anger.” Affective computing also fails to take cultural cues into context, like whether someone is averting their eyes out of respect, shame, or shyness.
+For Headroom’s purposes, Rabinovich argues that these inaccuracies aren’t as important. “We care less if you're happy or super happy, so long that we're able to tell if you're involved,” says Rabinovich. But Alice Xiang, the head of fairness, transparency, and accountability research at the Partnership on AI, says even basic facial recognition still has problems—like failing to detect when Asian individuals have their eyes open—because they are often trained on white faces. “If you have smaller eyes, or hooded eyes, it might be the case that the facial recognition concludes you are constantly looking down or closing your eyes when you’re not,” says Xiang. These sorts of disparities can have real-world consequences as facial recognition software gains more widespread use in the workplace. Headroom is not the first to bring such software into the office. HireVue, a recruiting technology firm, recently introduced an emotion recognition software that suggests a job candidate's ""employability,"" based on factors like facial movements and speaking voice.
+Constance Hadley, a researcher at Boston University's Questrom School of Business, says that gathering data on people’s behavior during meetings can reveal what is and isn’t working within that setup, which could be useful for employers and employees alike. But when people know their behavior is being monitored, it can change how they act in unintended ways. “If the monitoring is used to understand patterns as they exist, that’s great,” says Hadley. “But if it’s used to incentivize certain types of behavior, then it can end up triggering dysfunctional behavior.” In Hadley’s classes, when students know that 25 percent of the grade is participation, students raise their hands more often, but they don’t necessarily say more interesting things. When Green and Rabinovich demonstrated their software to me, I found myself raising my eyebrows, widening my eyes, and grinning maniacally to change my levels of perceived emotion.
+In Hadley’s estimation, when meetings are conducted is just as important as how. Poorly scheduled meetings can rob workers of the time to do their own tasks, and a deluge of meetings can make people feel like they’re wasting time while drowning in work. Naturally, there are software solutions to this, too. Clockwise, an AI time management platform launched in 2019, uses an algorithm to optimize the timing of meetings. “Time has become a shared asset inside a company, not a personal asset,” says Matt Martin, the founder of Clockwise. “People are balancing all these different threads of communication, the velocity has gone up, the demands of collaboration are more intense. And yet, the core of all of that, there’s not a tool for anyone to express, ‘This is the time I need to actually get my work done. Do not distract me!’”
+Clockwise syncs with someone’s Google calendar to analyze how they’re spending their time, and how they could do so more optimally. The software adds protective time blocks based on an individual’s stated preferences. It might reserve a chunk of “do not disturb” time for getting work done in the afternoons. (It also automatically blocks off time for lunch. “As silly as that sounds, it makes a big difference,” says Martin.) And by analyzing multiple calendars within the same workforce or team, the software can automatically move meetings like a “team sync” or a “weekly 1x1” into time slots that work for everyone. The software optimizes for creating more uninterrupted blocks of time, when workers can get into “deep work” without distraction.
+Clockwise, which launched in 2019, just closed an $18 million funding round and says it’s gaining traction in Silicon Valley. So far, it has 200,000 users, most of whom work for companies like Uber, Netflix, and Twitter; about half of its users are engineers. Headroom is similarly courting clients in the tech industry, where Green and Rabinovich feel they best understand the problems with meetings. But it’s not hard to imagine similar software creeping beyond the Silicon Valley bubble. Green, who has school-age children, has been exasperated by parts of their remote learning experience. There are two dozen students in their classes, and the teacher can’t see all of them at once. “If the teacher is presenting slides, they actually can see none of them,” he says. “They don't even see if the kids have their hands up to ask a question.”
+Indeed, the pains of teleconferencing aren’t limited to offices. As more and more interaction is mediated by screens, more software tools will surely try to optimize the experience. Other problems, like laggy Wi-Fi, will be someone else’s to solve.
+
+More Great WIRED Stories
+
+📩 Want the latest on tech, science, and more? Sign up for our newsletters!
+One man’s search for the DNA data that could save his life
+Wish List: Gift ideas for your social bubble and beyond
+The “dead zone” could help this car take on Tesla
+The vulnerable can wait. Vaccinate the super-spreaders first
+7 simple tech tips to keep your family safe this holiday
+🎮 WIRED Games: Get the latest tips, reviews, and more
+🏃🏽‍♀️ Want the best tools to get healthy? Check out our Gear team’s picks for the best fitness trackers, running gear (including shoes and socks), and best headphones",,business,"https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/1:1/w_1079,h_1079,c_limit/business-ai-workplace-optimization-edit-2.jpg","[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.wired.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'artificial intelligence', 'item': 'https://www.wired.com/tag/artificial-intelligence/'}, {'@type': 'ListItem', 'position': 3, 'name': 'AI Can Run Your Work Meetings Now'}]",,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vbmV1cmFsLW5ldHdvcmtzLWFyZS1ub3ctc21hcnQtZW5vdWdoLXRvLWtub3ctd2hlbi10aGV5LXNob3VsZG4tdC1iZS10cnVzdGVk0gEA?oc=5,Artificial Intelligence Is Now Smart Enough to Know When It Can't Be Trusted - ScienceAlert,2020-11-24,ScienceAlert,https://www.sciencealert.com,"How might The Terminator have played out if Skynet had decided it probably wasn't responsible enough to hold the keys to the entire US nuclear arsenal? As it turns out, scientists may just have saved us from such a future AI-led apocalypse, by creating...",N/A,"How might The Terminator have played out if Skynet had decided it probably wasn't responsible enough to hold the keys to the entire US nuclear arsenal? As it turns out, scientists may just have saved us from such a future AI-led apocalypse, by creating...","Decisions, decisions. ",https://schema.org,,,,,,,,,,,,tech,N/A,"
+Artificial Intelligence Is Now Smart Enough to Know When It Can't Be Trusted
+
+Tech24 November 2020By David Nield 
+
+ 
+(akinbostanci/Getty Images) 
+
+
+
+How might The Terminator have played out if Skynet had decided it probably wasn't responsible enough to hold the keys to the entire US nuclear arsenal? As it turns out, scientists may just have saved us from such a future AI-led apocalypse, by creating neural networks that know when they're untrustworthy.
+
+
+
+These deep learning neural networks are designed to mimic the human brain by weighing up a multitude of factors in balance with each other, spotting patterns in masses of data that humans don't have the capacity to analyse.
+
+
+
+While Skynet might still be some way off, AI is already making decisions in fields that affect human lives like autonomous driving and medical diagnosis, and that means it's vital that they're as accurate as possible. To help towards this goal, this newly created neural network system can generate its confidence level as well as its predictions.
+
+
+
+""We need the ability to not only have high-performance models, but also to understand when we cannot trust those models,"" says computer scientist Alexander Amini from the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+
+
+
+This self-awareness of trustworthiness has been given the name Deep Evidential Regression, and it bases its scoring on the quality of the available data it has to work with – the more accurate and comprehensive the training data, the more likely it is that future predictions are going to work out.
+
+
+
+The research team compares it to a self-driving car having different levels of certainty about whether to proceed through a junction or whether to wait, just in case, if the neural network is less confident in its predictions. The confidence rating even includes tips for getting the rating higher (by tweaking the network or the input data, for instance).
+
+
+
+While similar safeguards have been built into neural networks before, what sets this one apart is the speed at which it works, without excessive computing demands – it can be completed in one run through the network, rather than several, with a confidence level outputted at the same time as a decision.
+
+
+
+""This idea is important and applicable broadly,"" says computer scientist Daniela Rus. ""It can be used to assess products that rely on learned models. By estimating the uncertainty of a learned model, we also learn how much error to expect from the model, and what missing data could improve the model.""
+
+
+
+The researchers tested their new system by getting it to judge depths in different parts of an image, much like a self-driving car might judge distance. The network compared well to existing setups, while also estimating its own uncertainty – the times it was least certain were indeed the times it got the depths wrong.
+
+
+
+As an added bonus, the network was able to flag up times when it encountered images outside of its usual remit (so very different to the data it had been trained on) – which in a medical situation could mean getting a doctor to take a second look.
+
+
+
+Even if a neural network is right 99 percent of the time, that missing 1 percent can have serious consequences, depending on the scenario. The researchers say they're confident that their new, streamlined trust test can help improve safety in real time, although the work has not yet been peer-reviewed.
+
+
+
+""We're starting to see a lot more of these [neural network] models trickle out of the research lab and into the real world, into situations that are touching humans with potentially life-threatening consequences,"" says Amini.
+
+
+
+""Any user of the method, whether it's a doctor or a person in the passenger seat of a vehicle, needs to be aware of any risk or uncertainty associated with that decision.""The research is being presented at the NeurIPS conference in December, and an online paper is available.
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted', 'url': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted', 'name': 'Artificial Intelligence Is Now Smart Enough to Know When It Can&#039;t Be Trusted : ScienceAlert', 'isPartOf': {'@id': 'https://www.sciencealert.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted#primaryimage'}, 'image': {'@id': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted#primaryimage'}, 'thumbnailUrl': 'https://www.sciencealert.com/images/2020-11/processed/010-AI_1024.jpg', 'datePublished': '2020-11-24T17:06:31+00:00', 'dateModified': '2020-11-24T17:06:31+00:00', 'author': {'@id': 'https://www.sciencealert.com/#/schema/person/f7f478d85ced7178c6f48f263a6ac4ee'}, 'breadcrumb': {'@id': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted#primaryimage', 'url': 'https://www.sciencealert.com/images/2020-11/processed/010-AI_1024.jpg', 'contentUrl': 'https://www.sciencealert.com/images/2020-11/processed/010-AI_1024.jpg'}, {'@type': 'BreadcrumbList', '@id': 'https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.sciencealert.com/'}, {'@type': 'ListItem', 'position': 2, 'name': ""Artificial Intelligence Is Now Smart Enough to Know When It Can't Be Trusted""}]}, {'@type': 'WebSite', '@id': 'https://www.sciencealert.com/#website', 'url': 'https://www.sciencealert.com/', 'name': 'ScienceAlert', 'description': 'The Best in Science News and Amazing Breakthroughs', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.sciencealert.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.sciencealert.com/#/schema/person/f7f478d85ced7178c6f48f263a6ac4ee', 'name': 'David Nield', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.sciencealert.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/7513e5ad4ef49b5c5266cb83ca31afdb?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/7513e5ad4ef49b5c5266cb83ca31afdb?s=96&d=mm&r=g', 'caption': 'David Nield'}, 'sameAs': ['fiona'], 'url': 'https://www.sciencealert.com/david-nield'}]",,
+https://news.google.com/rss/articles/CBMieGh0dHBzOi8vaHVtYW5yaWdodHMuZ292LmF1L291ci13b3JrL3RlY2hub2xvZ3ktYW5kLWh1bWFuLXJpZ2h0cy9wdWJsaWNhdGlvbnMvdGVjaG5pY2FsLXBhcGVyLWFkZHJlc3NpbmctYWxnb3JpdGhtaWMtYmlhc9IBAA?oc=5,Technical Paper: Addressing Algorithmic Bias - Australian Human Rights Commission,2020-11-24,Australian Human Rights Commission,https://humanrights.gov.au,Learn about how algorithmic bias arises in AI decision-making and how it can produce unfair and potentially unlawful decisions.,N/A,Learn about how algorithmic bias arises in AI decision-making and how it can produce unfair and potentially unlawful decisions.,N/A,https://schema.org,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+Home
+
+
+Our Work
+
+
+Technology and Human Rights
+
+
+Publications
+
+
+                      Technical Paper: Addressing Algorithmic Bias
+                  
+
+
+
+
+Technical Paper: Addressing Algorithmic Bias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technology and Human Rights
+
+
+
+
+
+
+24th November, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hide
+Show
+                                  Menu
+                              
+
+
+
+Menu
+
+
+
+
+
+
+
+Download (DOC)
+            
+
+
+              68.1MB (DOC)
+            
+
+
+
+
+
+Download (PDF)
+            
+
+
+              3.8MB (PDF)
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+Listen
+
+
+
+
+        Share
+        
+
+
+
+
+
+
+
+
+
+
+Ethical AI
+Artificial intelligence (AI) promises better, more intelligent decision-making.
+Governments are using AI to make decisions in welfare, policing and many other areas. Meanwhile, the private sector has readily adopted AI in to its business models. However, using AI carries with it the risk of algorithmic bias. We cannot achieve ethical AI without fully understanding and addressing this risk.
+Algorithmic bias
+Algorithmic bias is a kind of error associated with using AI, often resulting in unfairness. Algorithmic bias can arise in many ways - sometimes, the problem is with the design of the AI product itself. Other times the problem lies with the data set used to train the AI.
+Algorithmic bias can cause actual harm as it may lead to a person being unfairly treated or even suffering unlawful discrimination based on characteristics such as race, age, sex or disability.
+Technology and human rights
+This project simulated a typical decision-making process and explored how algorithmic bias can ‘creep in’ to AI systems and, most importantly, how this problem can be addressed. 
+The lessons learned in this project will be essential in promoting ethical AI compliance with human rights principles. 
+This technical paper offered some guidance for companies to ensure that when they use AI, their decisions are fair, accurate and comply with human rights. 
+You can read further reports associated with this project below:
+
+Discussion Paper
+Issues Paper
+White Paper
+Final Report.
+
+
+
+Tags
+AHRC Reports
+Technology
+Privacy and Data
+Artificial Intelligence
+
+
+
+
+
+Hide
+Show
+                Menu
+              
+
+
+
+Menu
+
+
+
+
+Menu Link
+
+
+
+
+
+
+
+Download (DOC)
+            
+
+
+              68.1MB (DOC)
+            
+
+
+
+
+
+Download (PDF)
+            
+
+
+              3.8MB (PDF)
+            
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://humanrights.gov.au/our-work/technology-and-human-rights/publications/technical-paper-addressing-algorithmic-bias', 'name': 'Australian Human Rights Commission', 'url': 'https://humanrights.gov.au', 'publisher': {'@type': 'GovernmentOrganization', '@id': 'https://humanrights.gov.au', 'name': 'Australian human rights commission', 'url': 'https://humanrights.gov.au'}, 'inLanguage': 'English'}]",,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmtkbnVnZ2V0cy5jb20vMjAyMC8xMS9ncmVhdGxlYXJuaW5nLWFpLXByb2plY3QtaWRlYXMtYmVnaW5uZXJzLmh0bWzSAQA?oc=5,15 Exciting AI Project Ideas for Beginners - KDnuggets - KDnuggets,2020-11-23,KDnuggets,https://www.kdnuggets.com,"There are many branches to AI to learn, but a project-based approach can keep things interesting. Here is a list of 15 such projects you can get started on implementing today.",N/A,"There are many branches to AI to learn, but a project-based approach can keep things interesting. Here is a list of 15 such projects you can get started on implementing today.","There are many branches to AI to learn, but a project-based approach can keep things interesting. Here is a list of 15 such projects you can get started on implementing today.",,,,,,,,,,,,,"2020 Nov News, Education",N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaHN0b3JhZ2UvZmVhdHVyZS9BcnRpZmljaWFsLWludGVsbGlnZW5jZS12cy1iaWctZGF0YS1Db21wYXJpbmctZW1lcmdpbmctdGVjaHPSAQA?oc=5,Big data vs. artificial intelligence: How they compare - TechTarget,2020-11-23,TechTarget,https://www.techtarget.com,"Artificial intelligence can help synthesize and analyze the large volumes of information provided by big data initiatives. The two are different, but they work well together.",N/A,"When comparing big data vs. artificial intelligence, it's clear they are two very different concepts. Big data collects and analyzes information, while AI learns from it. Nevertheless, for all their differences, they complement one another and work together well.","When comparing big data vs. artificial intelligence, it's clear they are two very different concepts. Big data collects and analyzes information, while AI learns from it. Nevertheless, for all thei...",https://schema.org,Article,,Big data vs. artificial intelligence: How they compare,"[{'name': 'Robert Sheldon', '@type': 'Person'}]",,,2020-11-23T17:15Z,,"{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",https://cdn.ttgtmedia.com/visuals/searchBusinessAnalytics/data_visualization/businessanalytics_article_015.jpg,,N/A,N/A,"
+
+
+
+Feature
+
+
+Big data vs. artificial intelligence: How they compare
+
+
+Artificial intelligence can help synthesize and analyze the large volumes of information provided by big data initiatives. The two are different, but they work well together.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Robert Sheldon
+
+
+
+Published: 23 Nov 2020
+
+
+ 
+Comparing big data and artificial intelligence is like choosing between a shovel and a pick. Although the two complement each other in important ways, they're distinctively different in both nature and purpose.
+
+
+
+
+
+
+
+Big data refers to large volumes of diverse and dynamic data that can be mined for information. AI is a set of technologies that enables machines to simulate human intelligence. AI requires the volumes of big data to effectively learn and evolve. Big data relies on AI to more intelligently mine for information.
+The discussion is less about big data vs. artificial intelligence and more about big data and AI combined. They're both powerful technologies in their own rights, but together, the possibilities are unlimited.
+
+What is big data?
+Big data not only describes large sets of data, but it's also encompasses data that can be extremely varied, moves at a high velocity and has meaning within a defined context. The goal of using big data is data transformation and analytics that lead to specific results.
+For example, data produced by social networks or the internet of things (IoT) by itself isn't enough to qualify as big data in the strictest sense. The data must also be part of a larger analytics strategy that can lead to process automation, enhanced decision-making or other specific results.
+Big data can include structured, semistructured and unstructured data. It can originate from any data source capable of generating large volumes of data, including:
+
+social media
+IoT devices
+websites
+log files
+text files
+spreadsheets
+databases
+machinery sensors
+
+From these data sets, organizations can derive valuable insights into their customers and operations in order to make more informed decisions that lead to strategic advantages in how they operate and do business.
+
+
+
+
+
+What is AI?
+When comparing big data vs. artificial intelligence, AI is a much different phenomenon. It refers to a type of intelligence that makes it possible for a machine to perform cognitive functions like those attributed to humans. A traditional system without AI reacts according to how it's been programmed to act; the AI-enabled machine can analyze and interpret data and then problem-solve based on those interpretations. It's always learning from the data, evolving as the data evolves and reacting to what it learns. In this way, the AI system is constantly improving and adjusting its behavior to accommodate change.
+
+
+
+
+
+
+AI is made up of a broad set of technologies that each provide different methodologies for analyzing data and learning from that analysis. AI technologies are considered subdisciplines of AI or other AI technologies, but they all fall under the AI umbrella. The following categories are four of the most well-known AI technologies:
+
+Machine learning is an AI subdiscipline that enables computers to learn from the collected data and then apply that knowledge without human intervention.
+Deep learning is a subdiscipline of machine learning that enables computers to more closely simulate the analytical capabilities of the human brain to achieve increasingly greater accuracy.
+Natural language processing is an AI subdiscipline that enables a machine to analyze, understand and generate human language and approximate natural conversation.
+Computer vision is an AI subdiscipline that enables a machine to recognize and classify images, such as human faces, and then respond to what it sees.
+
+AI is now being used in a variety of ways to enhance technology and drive innovation. AI technology supports everything from robotics to stock trading to medical imaging and personal assistants.
+
+
+
+
+
+How AI and big data work together
+The bottom line in the big data vs. artificial intelligence comparison is that big data refers to the data itself, while AI describes a machine's ability to use big data when learning to act like a human. They are complementary technologies, able to work together in important ways.
+AI thrives on data. The greater the amount of data, the more effectively an AI system can analyze, learn and evolve. It's only through big data that AI can realize its fullest potential.
+In the past, AI made relatively little progress in becoming useful in a practical sense. AI's slow development was, in part, because of the lack of technologies able to handle massive data sets. But the proliferation of the internet and the influx of unprecedented amount of information have forced these technologies to evolve, particularly when it comes to storage. These advancements enable AI to ingest more data and, as a result, conduct more accurate and thorough data analytics. And as these technologies continue to improve, AI will only become more powerful, accurate and comprehensive.
+At the same time, AI promises to enhance big data so it can derive greater meaning from the data through more advanced analytics. Until recently, the characteristics that defined big data -- volume, velocity and variety -- quickly overwhelmed the capabilities of traditional analytics. AI, however, can help find significant trends and patterns in big data that might otherwise be misinterpreted or go undiscovered. In the same way that AI needs big data, big data needs AI to reach its fullest potential.
+
+
+
+
+
+
+
+
+How storage technologies support AI and big data
+The advancements in storage and data management technologies are what make today's AI and big data offerings possible. Today's solid-state flash arrays can handle greater capacities and support faster I/O operations than ever. Although AI doesn't warrant these capacity and performance levels, its hunger for large data sets does, creating a symbiotic relationship between AI and big data realized, in large part, through modern storage technologies.
+The latest generation of SSDs can deliver greater IOPS and throughput at much lower latencies than could be achieved only a few years ago. Some enterprise SSD arrays can now deliver throughputs of 100 GBps and even much higher, with latency falling to well below 1 millisecond. At the same, they can deliver petabyte-scale capacity without compromising performance.
+One reason for the greater capabilities is NVMe-oF, a storage communications standard that offers speeds comparable to DAS but over network connections. In this way, organizations can set up flexible, shared storage that can more effectively handle AI and big data workloads. In addition, new technologies such as storage class memory promise to continue to break performance barriers to better accommodate AI and big data going forward.
+With the improvement in storage technologies, large data sets have become more available and manageable, making it possible for AI to also evolve. In fact, big data might turn out to be the greatest single influence on AI's imminent rise. Although there is a significant difference between big data and artificial intelligence, the two go hand in hand, and the relationship between them will only continue to grow and intensify.
+
+
+Next Steps
+AI for storage management gets real
+AI and big data go perfectly together -- sometimes
+
+
+
+
+
+Dig Deeper on Storage system and application software
+
+
+
+Enterprise dark web monitoring: Why it's worth the investment
+
+
+
+
+By: Ed Moyle
+
+
+
+
+Armo on the state of Kubernetes open source security
+
+
+
+
+By: Adrian Bridgwater
+
+
+
+
+Piloting machine learning projects through harsh headwinds
+
+
+
+
+By: Kathleen Walch
+
+
+
+
+Optimize a BCDR strategy for 2021 and beyond
+
+
+
+
+By: Paul Kirvan
+
+
+
+
+
+
+
+Sponsored News
+
+
+Driving IT Success From Edge to Cloud to the Bottom Line
+–HPE
+
+
+A Generative AI Use Case Brought to Life with Solutions from Dell Technologies
+–Dell Technologies and Intel
+
+
+Power Your Generative AI Initiatives With High-Performance, Reliable, ...
+–Dell Technologies and Intel
+
+See More
+
+
+
+
+
+
+
+","{'@type': 'WebPage', '@id': 'https://www.techtarget.com/searchstorage/feature/Artificial-intelligence-vs-big-data-Comparing-emerging-techs'}",,,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",,,,,,False,,Big data vs. artificial intelligence: How they compare,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS91c2luZy1zdXBlcmNvbXB1dGVycy1mb3ItZGVlcC1sZWFybmluZy10cmFpbmluZy0zZjljYzNmNTFkM9IBAA?oc=5,Using Supercomputers for Deep Learning Training | by Jordi TORRES.AI - Towards Data Science,2020-11-23,Towards Data Science,https://towardsdatascience.com,"[This post will be used in the master course Supercomputers Architecture at UPC Barcelona Tech with the support of the BSC] In the previous post of this series, we demonstrated that supercomputers…",N/A,Reduce training time for deep neural networks using Supercomputers,Reduce training time for deep neural networks using Supercomputers,http://schema.org,NewsArticle,https://towardsdatascience.com/using-supercomputers-for-deep-learning-training-3f9cc3f51d3,Using Supercomputers for Deep Learning Training - Towards Data Science,"{'@type': 'Person', 'name': 'Jordi TORRES.AI', 'url': 'https://torres-ai.medium.com'}",2020-11-22T22:36:41.584Z,2021-12-16T18:17:47.652Z,2020-11-22T22:36:41.584Z,,"{'@type': 'Organization', 'name': 'Towards Data Science', 'url': 'towardsdatascience.com', 'logo': {'@type': 'ImageObject', 'width': 192, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:384/1*cFFKn8rFH4ZndmaYeAs6iQ.png'}}",['https://miro.medium.com/v2/resize:fit:1200/1*tA-hIEJQBGIS7nbqdhFsew.png'],,N/A,N/A,"Member-only storySUPERCOMPUTING FOR ARTIFICIAL INTELLIGENCE — 02Using Supercomputers for Deep Learning TrainingReduce training time for deep neural networks using SupercomputersJordi TORRES.AI·FollowPublished inTowards Data Science·7 min read·Nov 22, 20205ListenShareMarenostrum Supercomputer — Barcelona Supercomputing Center (image from BSC)[This post will be used in the master course Supercomputers Architecture at UPC Barcelona Tech with the support of the BSC]In the previous post of this series, we demonstrated that supercomputers are a key component of the progress of Artificial Intelligence and what drove changes in effective compute over the last years was the increased parallelization and distribution of the algorithms.This post will demonstrate how these supercomputers can be used, specifically, the one presented in the previous post provided by IBM, CTE-POWER, that each server has two CPUs power 9 and 4 NVIDIA V100 GPUs. If you’ve been following these series, we have been doing all the programming on Jupyter notebooks. But how the same code can be run on a Supercomputer directly as a python program? This is what we present in this post, learn how to allocate and use supercomputing resources.And in the next three posts we will present how we can distribute the training of a single Deep Neural Network (DNN) over many GPUs and servers in order to…",https://towardsdatascience.com/using-supercomputers-for-deep-learning-training-3f9cc3f51d3,,,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.meteredContent'}",,,,,,False,,Using Supercomputers for Deep Learning Training - Towards Data Science,,,,,,,,,,,,,,3f9cc3f51d3,['Jordi TORRES.AI']
+https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2hvdy13aWxsLWJlLXRoZS1haS1qb2ItbWFya2V0LWZhcmUtaW4tY29taW5nLXllYXJz0gF1aHR0cHM6Ly93d3cuYW5hbHl0aWNzaW5zaWdodC5uZXQvYW1wL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2hvdy13aWxsLWJlLXRoZS1haS1qb2ItbWFya2V0LWZhcmUtaW4tY29taW5nLXllYXJz?oc=5,How Will Be The AI Job Market Fare In Coming Years? - Analytics Insight,2020-11-24,Analytics Insight,https://www.analyticsinsight.net,,"AI Job,AI,AI skills,robots,automation","While automation due to AI threatens to steal jobs, AI can also create new job titles. Artificial intelligence (AI) has quite evolved itself over recent decades","While automation due to AI threatens to steal jobs, AI can also create new job titles. Artificial intelligence (AI) has quite evolved itself over recent decades",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/how-will-be-the-ai-job-market-fare-in-coming-years,How Will Be The AI Job Market Fare In Coming Years?,"[{'@type': 'Person', 'givenName': 'Preetipadma', 'name': 'Preetipadma', 'url': 'https://www.analyticsinsight.net/author/preetipadma'}]",2020-11-24T05:30:28Z,2020-11-24T05:30:28Z,2020-11-24T05:30:28Z,,"{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/11/Artificial-Intelligence-27.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",,N/A,N/A,"Ready for iOS 18? Here's How to Install the Public Beta
+","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/how-will-be-the-ai-job-market-fare-in-coming-years'}",,,,,,,,,,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/how-will-be-the-ai-job-market-fare-in-coming-years', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/11/Artificial-Intelligence-27.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",How Will Be The AI Job Market Fare In Coming Years?,,,,,,,,"While automation due to AI threatens to steal jobs, AI can also create new job titles..Artificial intelligence (AI) has quite evolved itself over recent decades. While it sparked numerous innovations and brought digital disruption to many industries, it also changed the jobs market forever. It is true that AI has replaced some jobs, however, it has also brought new roles for human workers. As per a 2017 research from IDC, released by Salesforce, AI is projected to create 823,734 jobs by the year 2021, surpassing the number of jobs lost to AI technologies such as machine learning and automation. The report had also predicted that AI would increase global business revenues by US$1.1 trillion in the same time frame. So, AI will continue to be the big game-changer in the global economy, with much of the value potential up for grabs..This year, while the COVID-19 pandemic had an upsetting impact on the job market as a whole, AI still manages to continue its upward curve. Earlier, Analytics Insight had analyzed the data of open job opportunities for AI professionals from 2018 to 2023. The insights reveal that open AI jobs are expected to increase at a CAGR of 31.6% to reach a total of 1,928,658 in 2023, up from 489,393 in 2018. Analytics Insight also predicts the count to hit 1,006,945 by next year..However, a 2016 report from Forrester reveals a negative forecast in job trends. As per the report, 16% of US jobs will be replaced by 2025, while an equivalent of 9% of jobs will be created, thus resulting in a net loss of 7% of US jobs by 2025. On the contrary, Patrick Moorhead, an analyst with Moor Insights &amp; Strategy, said Forrester's estimate seems a bit high. He expects the number to be closer to 3% or 4%. Forrester also stated in the report that smart systems like autonomous robots, digital assistants, AI software and chatbots would take over customer service rep jobs and eventually even serve as truck and taxi drivers. Further, it asserts that from 2021, AI will undergo significant changes to diversify beyond current machine learning and natural language processing capabilities..Demand for New Skills and Roles.The World Economic Forum's Future of Jobs report, mentions 5 million jobs will have been lost to automation. At the same, it also pointed out that job positions like software developer, computer systems analyst and market-research and marketing specialist jobs are set to grow by around a fifth between now and 2024. This indicates the obvious that with the rise in new job roles in AI, there will also be a similar rise in AI skills. For instance, LinkedIn witnessed a 190% increase from 2015 to 2017 in terms of skills required for AI-based jobs. It also means that the unskilled jobs are under ominous threat. Hence the need for AI-skilling to operate, utilize and advance disruptive technologies will remain unequivocally necessary..With the AI spectrum is expanding, it is also predicted that the job roles will change every ten years too. A 2017 Cognizant whitepaper proposes 21 such jobs that will emerge over the next ten years and create mass employment. Some of these are AI business development managers, man-machine teaming managers, data detective, and AI-assisted healthcare technicians. Simultaneously, jobs like cybersecurity roles, business analysts, and financial analysts will also multiply as a result of AI. A recent survey by Burning Glass, which collects and analyzes millions of job postings from across the country, of how many technology jobs request machine learning skills reveals significant growth for 2021. These job roles include, Software Developer / Engineer, Data Scientist, Network Engineer / Architect, Data Engineer, Data Mining Analyst, Database Architect, and so on. Moreover, it is important to note that AI has also helped create jobs where man and machine can work together via collaboration, e.g., cobots..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",,Artificial Intelligence,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/11/Artificial-Intelligence-27.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'How Will Be The AI Job Market Fare In Coming Years?', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/how-will-be-the-ai-job-market-fare-in-coming-years'}]",,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMTEvMjQvc2NpZW5jZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS1ncHQzLmh0bWzSAQA?oc=5,Meet GPT-3. It Has Learned to Code (and Blog and Argue). (Published 2020) - The New York Times,2020-11-24,The New York Times,https://www.nytimes.com,"The latest natural-language system generates tweets, pens poetry, summarizes emails, answers trivia questions, translates languages and even writes its own computer programs.",N/A,"The latest natural-language system generates tweets, pens poetry, summarizes emails, answers trivia questions, translates languages and even writes its own computer programs.","The latest natural-language system generates tweets, pens poetry, summarizes emails, answers trivia questions, translates languages and even writes its own computer programs.",https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,Meet GPT-3. It Has Learned to Code (and Blog and Argue).,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/cade-metz', 'name': 'Cade Metz'}]",,2020-11-24T14:48:34.000Z,2020-11-24T07:30:09.000Z,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AICOVER/24SCI-AICOVER-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AICOVER/24SCI-AICOVER-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Alex Eben Meyer'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AICOVER/24SCI-AICOVER-superJumbo.gif', 'height': 1578, 'width': 1050, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AICOVER/24SCI-AICOVER-superJumbo.gif', 'creditText': 'Alex Eben Meyer'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AICOVER/24SCI-AICOVER-mediumSquareAt3X.jpg', 'height': 1800, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/24SCI-AICOVER/24SCI-AICOVER-mediumSquareAt3X.jpg', 'creditText': 'Alex Eben Meyer'}]",,Science,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingCredit...Alex Eben MeyerSkip to contentSkip to site indexSearch & Section NavigationSection NavigationMeet GPT-3. It Has Learned to Code (and Blog and Argue).The latest natural-language system generates tweets, pens poetry, summarizes emails, answers trivia questions, translates languages and even writes its own computer programs.Credit...Alex Eben MeyerSupported bySKIP ADVERTISEMENTShare full article197Read in appBy Cade MetzNov. 24, 2020This summer, an artificial intelligence lab in San Francisco called OpenAI unveiled a technology several months in the making. This new system, GPT-3, had spent those months learning the ins and outs of natural language by analyzing thousands of digital books, the length and breadth of Wikipedia, and nearly a trillion words posted to blogs, social media and the rest of the internet.Mckay Wrigley, a 23-year-old computer programmer from Salt Lake City, was one of the few invited to tinker with the system, which uses everything it has learned from that vast sea of digital text to generate new language on its own. Mr. Wrigley wondered if it could imitate public figures — write like them, perhaps even chat like them.One of his experiments involved a pop psychologist, Scott Barry Kaufman. The system took in Mr. Kaufman’s name and a topic for discussion: creativity. Then, when asked “How do we become more creative?” GPT-3 responded instantly:I think creative expression is a natural byproduct of growing up in a diverse world. The more diverse the world is, the more you get exposed to different people, to different opportunities, to different places and to different challenges. And the more diverse that is, the more likely you’ll be to be able to put the dots together to form something new. And in many ways, I think if you want to be creative, you have to go for it. If you want to be a writer, you have to write, if you want to be a musician, you have to create music, if you want to be a comedian, you have to create comedy, and the more you create, the more likely it is that you’ll stumble onto some interesting stuff.Later, when Mr. Wrigley posted the paragraph on Twitter, somebody looped in the real Scott Barry Kaufman. He was stunned. “It definitely sounds like something I would say,” the real Mr. Kaufman tweeted, later adding, “Crazy accurate A.I.”AdvertisementSKIP ADVERTISEMENTIn the weeks since its arrival, GPT-3 has spawned dozens of other experiments that raise the eyebrows in much the same way. It generates tweets, pens poetry, summarizes emails, answers trivia questions, translates languages and even writes its own computer programs, all with very little prompting. Some of these skills caught even the experts off guard.For many artificial intelligence researchers, it is an unexpected step toward machines that can understand the vagaries of human language — and perhaps even tackle other human skills.“It is surprising to me, and to a lot of people,” said Melanie Mitchell, an A.I. researcher at the Santa Fe Institute, an independent lab in New Mexico, who is among those experimenting with the system. “It is hard to figure out exactly what this thing is doing.”GPT-3 is far from flawless. It often spews biased and toxic language. And if you ask for 10 paragraphs in the style of Scott Barry Kaufman, it might give you five that are convincing — and five others that are not. When Mr. Kaufman actually chatted with his A.I. doppelgänger, he was not nearly as impressed as he was at first:Scott Barry Kaufman: What is imagination?“Scott Barry Kaufman”: What is imagination? You should tell me!Scott Barry Kaufman: You should know!“Scott Barry Kaufman”: Nope, you should know. You are the one who knows what imagination is. What do you think it is?But even this looked like real conversation. And notably, it showed what the system could do entirely on its own, without extra coding or fine-tuning.GPT-3 is the culmination of several years of work inside the world’s leading artificial intelligence labs, including OpenAI, an independent organization backed by $1 billion dollars in funding from Microsoft, as well as labs at Google and Facebook. At Google, a similar system helps answer queries on the company’s search engine.AdvertisementSKIP ADVERTISEMENTThese systems — known as universal language models — can help power a wide range of tools, like services that automatically summarize news articles and “chatbots” designed for online conversation. So far, their impact on real-world technology has been small. But GPT-3 — which learned from a far larger collection of online text than previous systems — opens the door to a wide range of new possibilities, such as software that can speed the development of new smartphone apps, or chatbots that can converse in far more human ways than past technologies.As software designers, entrepreneurs, pundits and artists explore this system, each new experiment stokes an already heated debate over how powerful this breed of technology will ultimately be. While some say it may be a path toward truly intelligent machines, others argue that these experiments, while endlessly fascinating, are also misleading.“It is very fluent,” said Mark Riedl, a professor and researcher at the Georgia Institute of Technology. “It is very articulate. It is very good at producing reasonable-sounding text. What it does not do, however, is think in advance. It does not plan out what it is going to say. It does not really have a goal.”An ‘emergent quality’Jordan Singer is a product designer at Square, the Silicon Valley mobile-payments company. He helps design the company’s smartphone apps, building the graphics, menus, buttons and other widgets that define an app’s look and feel. When he heard about GPT-3, he wondered if this automated system could do his job.He fed the system a simple description of a smartphone app, and the computer code needed to create the app. The description was in plain English. The code was built inside Figma, a specialized design tool used by professionals like Mr. Singer.He did this a few more times, feeding the system several more English-language descriptions alongside the matching Figma code. And when he was done, GPT-3 could write such code on its own.If he described a simple app for posting and viewing photos as a user would on Instagram, the system generated the code needed to build it. This code was sometimes flawed. But typically, if Mr. Singer made just a tweak or two, it worked as he wanted. “It’s not absolutely perfect,” he said. “But it is very, very close.”This behavior was entirely new, and it surprised even the designers of GPT-3. They had not built GPT-3 to generate computer code, just as they had not built it to write like Mr. Kaufman or generate tweets or translate languages. They had built it to do just one thing: predict the next word in a sequence of words.GPT-3 is what artificial intelligence researchers call a neural network, a mathematical system loosely modeled on the web of neurons in the brain. This is the same technology that identifies faces in the photos you post to Facebook and recognizes the commands you bark into your iPhone.AdvertisementSKIP ADVERTISEMENTA neural network learns such skills by pinpointing patterns in vast amounts of digital data. By analyzing thousands of cat photos, for instance, it can learn to recognize a cat.About three years ago, researchers at Google and top labs like OpenAI started designing neural networks that learned from enormous amounts of prose, including unpublished books and Wikipedia articles by the thousands. These universal language models could be applied not just to one task, like translation, but to many.GPT-3 analyzed digital prose on an unprecedented scale, spending months looking for patterns in huge amounts of text posted to the internet. In this way, it learned to predict the next word in a sequence. If you type a few words into GPT-3, it will keep going, completing your thought with entire paragraphs of text.But in acquiring this specific skill, it learned much more. During its months of training, GPT-3 identified more than 175 billion parameters — mathematical representations of patterns — in that sea of books, Wikipedia articles and other online texts. These patterns amount to a map of human language: a mathematical description of the way we piece characters together, whether we are writing blogs or coding software programs. Using this map, GPT-3 can perform all sorts of tasks it was not built to do.Before asking GPT-3 to generate new text, you can focus it on particular patterns it may have learned during its training, priming the system for certain tasks. You can feed it descriptions of smartphone apps and the matching Figma code. Or you can show it reams of human dialogue. Then, when you start typing, it will complete the sequence in a more specific way. If you prime it with dialogue, for instance, it will start chatting with you.AdvertisementSKIP ADVERTISEMENT“It has this emergent quality,” said Dario Amodei, vice president for research at OpenAI. “It has some ability to recognize the pattern that you gave it and complete the story, give another example.”Previous language models worked in similar ways. But GPT-3 can do things that previous models could not, like write its own computer code. And, perhaps more important, you can prime it for specific tasks using just a few examples, as opposed to the thousands of examples and several hours of additional training required by its predecessors. Researchers call this “few-shot learning,” and they believe GPT-3 is the first real example of what could be a powerful phenomenon.“It exhibits a capability that no one thought possible,” said Ilya Sutskever, OpenAI’s chief scientist and a key figure in the rise of artificial intelligence technologies over the past decade. “Any layperson can take this model and provide these examples in about five minutes and get useful behavior out of it.”This is both a blessing and a curse.Unsafe for work?OpenAI plans to sell access to GPT-3 via the internet, turning it into a widely used commercial product, and this year it made the system available to a limited number of beta testers through their web browsers. Not long after, Jerome Pesenti, who leads the Facebook A.I. lab, called GPT-3 “unsafe,” pointing to sexist, racist and otherwise toxic language the system generated when asked to discuss women, Black people, Jews and the Holocaust.With systems like GPT-3, the problem is endemic. Everyday language is inherently biased and often hateful, particularly on the internet. Because GPT-3 learns from such language, it, too, can show bias and hate. And because it learns from internet text that associates atheism with the words “cool” and “correct” and that pairs Islam with “terrorism,” GPT-3 does the same thing.AdvertisementSKIP ADVERTISEMENTThis may be one reason that OpenAI has shared GPT-3 with only a small number of testers. The lab has built filters that warn that toxic language might be coming, but they are merely Band-Aids placed over a problem that no one quite knows how to solve.“They are doing the right thing by not just publicly releasing GPT-3,” said Allison Koenecke, a Stanford researcher who explores unwanted bias in A.I. systems. “A lot is still up in the air.”The onus is ultimately on OpenAI to ensure that this behavior remains in check, said Liz O’Sullivan, a vice president with Arthur, a company that helps businesses manage the behavior of artificial intelligence technologies. As it stands, she said, OpenAI is “passing along legal and reputation risk to anyone who might want to use the model in consumer-facing applications.”Other experts worry that these language models could help spread disinformation across the internet, amping up the kind of online campaigns that may have helped sway the 2016 presidential election. GPT-3 points to a future in which we are even less sure if what we are reading is real or fake. That goes for tweets, online conversations, even long-form prose.At the end of July, Liam Porr, a student at the University of California, Berkeley, generated several blog posts with GPT-3 and posted them on the internet, where they were read by 26,000 people. Sixty viewers were inspired to subscribe to the blog, and only a few suspected that the posts were written by a machine.AdvertisementSKIP ADVERTISEMENTThey were not necessarily gullible people. One of the blog posts — which argued that you can increase your productivity if you avoid thinking too much about everything you do — rose to the top of the leader board on Hacker News, a site where seasoned Silicon Valley programmers, engineers and entrepreneurs rate news articles and other online content. (“In order to get something done, maybe we need to think less,” the post begins. “Seems counterintuitive, but I believe sometimes our thoughts can get in the way of the creative process.”)But as with most experiments involving GPT-3, Mr. Porr’s is not as powerful as it might seem.The flaws nobody noticesIn the mid-1960s, Joseph Weizenbaum, a researcher at the Massachusetts Institute of Technology, built an automated psychotherapist he called ELIZA. Judged from our vantage point in 2020, this chatbot was exceedingly simple.Unlike GPT-3, ELIZA did not learn from prose. It operated according to a few basic rules defined by its designer. It pretty much repeated whatever you said to it, only in the form of a question. But much to Dr. Weizenbaum’s surprise, many people treated the bot as if it were human, unloading their problems without reservation and taking comfort in the responses.When dogs and other animals exhibit even small amounts of humanlike behavior, we tend to assume they are more like us than they really are. The same goes for machines, said Colin Allen, a professor at the University of Pittsburgh who explores cognitive skills in both animals and machines. “People get sucked in,” he said, “even if they know they are being sucked in.”That is part of what is happening with GPT-3. Because it can generate convincing tweets, blog posts and computer code, we read humanity into this digital system — and pay less attention to its limits.AdvertisementSKIP ADVERTISEMENTIn practice, the system fails about as often as it succeeds. We overlook that the computer code it writes requires some fine-tuning from human programmers — a line removed here or added there. We do not notice that its talent for conversation breaks down after a few exchanges, when it cannot “remember” what it said just a few seconds before. We do not quite realize that although the system generated a convincing blog post for Mr. Porr, he provided the headline and the photo and the first few sentences, and he removed some sentences that were less convincing.Mr. Porr does not believe GPT-3 is an enormous threat to the battle against disinformation in the short term, because it still requires so much help from humans. A tool like this becomes truly dangerous only if it can generate enormous amounts of convincing disinformation entirely on its own, exceeding what a team of hired hands can do with relative ease today.Similarly, when app designers ask Mr. Singer of Square if GPT-3 is a threat to their careers, he assures them it is not — at least not yet. He sees it as a way of making their jobs easier. “If it can get 70 percent of the way there, that is a lot of tedious work taken out of the equation,” he said.What we do not know is how much this technology will continue to improve in the months and years to come.Smarter, faster, even more expensiveWhile the researchers at OpenAI were training GPT-3 on more than a trillion words posted to the internet, they ran a second experiment, training a similar system on tens of thousands of digital photos. That system could analyze all of those photos and learn to build images in much the same way that GPT-3 builds paragraphs. Given half of a cat photo, it could generate the rest of the cat.AdvertisementSKIP ADVERTISEMENTFor some researchers, the experiment indicates that such a system could ultimately handle tasks across multiple dimensions — language, sight, sound — much like humans do. Even when trained solely on language, they say, the system could already reach into other areas, whether computer programming, playing chess or generating guitar tabs.But continuing to improve this technology is far from trivial. Processing all of that internet data requires a specialized supercomputer running for months on end, an undertaking that is enormously expensive. When asked if such a project ran into the millions of dollars, Sam Altman, OpenAI’s chief executive, said the costs were actually “higher,” running into the tens of millions.Mr. Amodei, OpenAI’s vice president for research, said there was still room to improve the technique, using more processing power to analyze more data. But he also said the approach might be close to running out of “juice.”At the very least, GPT-3 is a new tool for a world of A.I. researchers and entrepreneurs, a way of building all sorts of new technologies and new products. Mr. Wrigley, the computer programmer, recently quit his day job to start a company called LearnFromAnyone, which aims to build a kind of automated tutor using GPT-3 that can assume the guise of everyone from scientist Douglas Hofstadter to venture capitalist Peter Thiel. Others are building companies that aim to automatically generate code for computer programmers and automatically write promotional emails and tweets for marketing professionals.But it is unclear how effective these services will ultimately be. If GPT-3 generates the right text only half of the time, can it satisfy professionals? And it is unclear whether this technique is a path to truly conversational machines, let alone truly intelligent systems. Additional progress on the long road to machines that can mimic the human brain, Mr. Amodei said, will require entirely new ideas.AdvertisementSKIP ADVERTISEMENT“It is kind of like a chemistry reaction,” he said. “We have this one ingredient. But other ingredients are required as well.”[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]Cade Metz is a technology correspondent, covering artificial intelligence, driverless cars, robotics, virtual reality, and other emerging areas. He previously wrote for Wired magazine.  More about Cade MetzA version of this article appears in print on Nov. 24, 2020, Section D, Page 6 of the New York edition with the headline: Meet GPT-3. It Has Learned  To Code (and Blog and Argue).. Order Reprints | Today’s Paper | SubscribeSee more on: OpenAIRead 197 CommentsShare full article197Read in appAdvertisementSKIP ADVERTISEMENTComments 197Meet GPT-3. It Has Learned to Code (and Blog and Argue).Skip to CommentsThe comments section is closed.
+      To submit a letter to the editor for publication, write to
+      letters@nytimes.com.Enjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-gpt3.html,en,Meet GPT-3. It Has Learned  To Code (and Blog and Argue).,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",{'@id': '#commentsContainer'},197.0,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vdGVjaG9ic2VydmVyLmluL25ld3Mvb3Bpbmlvbi9ob3ctYWktbW9uaXRvcmluZy1jYW4tbWFrZS15b3VyLWJ1c2luZXNzLXNtYXJ0ZXItYW5kLWJldHRlci0yNDUzOTUv0gFsaHR0cHM6Ly90ZWNob2JzZXJ2ZXIuaW4vbmV3cy9vcGluaW9uL2hvdy1haS1tb25pdG9yaW5nLWNhbi1tYWtlLXlvdXItYnVzaW5lc3Mtc21hcnRlci1hbmQtYmV0dGVyLTI0NTM5NS8_YW1w?oc=5,How AI monitoring can make your business smarter and better – Tech Observer - Tech Observer,2020-11-25,Tech Observer,https://techobserver.in,"Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks.",N/A,"Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks.","Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks.",https://schema.org,BreadcrumbList,,,,,,,,,,,Opinion,N/A,"
+
+
+
+
+HomeNewsOpinionHow AI monitoring can make your business smarter and better
+
+
+
+Opinion
+
+
+Nov 25, 2020 11:12 AM IST 
+How AI monitoring can make your business smarter and better
+
+
+
+By Devanshi Sharma
+
+
+Updated On Nov 25, 2020 11:12 AM IST 
+
+
+
+FacebookTwitterWhatsAppLinkedinKoo
+
+
+
+
+
+
+
+Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks. (Photo: File)
+
+
+
+Exclusive
+
+
+
+
+Cyber Security
+From Vulnerable to Vigilant: How AI is Revolutionising IoT Security
+
+
+Morgan Wright -  
+
+
+
+
+
+
+
+Opinion
+100-day agenda for Modi 3.0: How to combat corruption in bureaucracy
+
+Opinion
+
+Dinesh Tyagi -  
+
+
+
+
+
+
+
+eHealth
+What can other states learn from Nagaland’s healthcare modernisation success
+
+Modernising Public Healthcare
+
+Sunil Gupta -  
+
+
+
+
+
+
+Artificial Intelligence (AI) is ready to have a transformational effect on business. Information Technology is not, at this point about business automation and codifying business logic. All things being equal, insight is the new currency, and the speed with which we can scale that understanding and the knowledge it brings is the reason for esteem creation and the way to competitive advantage. As per Gartner, AI will be one of the main five venture needs for over 30% of CIOs internationally, by 2020. Many organizations are still early in their journey and are attempting to see how AI can change their organizations.
+What is Artificial Intelligence?
+Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks. AI works by joining a lot of information with quick, iterative processing and intelligent algorithms, permitting the software to adapt consequently by recognizing patterns in the data. Types of AI being used today incorporate, among others, digital assistants, chatbots, and robots.
+Artificial Intelligence incorporates numerous techniques and consistently advancing the scope of technology, following are the major subfields:
+
+Machine Learning (ML) utilizes neural networks and statistical analysis to discover concealed bits of knowledge in information without unequivocally being customized for where to look or what to finish up. It automates building investigative models.
+Natural Language Processing (NLP) is the capacity of computers to analyze, comprehend, and generate human language, including speech.
+Deep Learning (DL) is a variation of machine learning – it includes the capacity of machines to create self-taking abilities from a large amount of information utilizing tremendous neural networks with numerous layers of handling units. Basic applications incorporate picture and discourse acknowledgment.
+
+Why Artificial Intelligence is important?
+The genuine guarantee of AI is to release noteworthy experiences that would otherwise be caught in a massive amount of data. A lot of that data is unstructured data – information that is produced by written reports and business documents, recordings, photographs, online media posts, or even email messages.
+With artificial intelligence, we can assemble a huge number of computers that could all work simultaneously to work on solving complex problems. It is likewise fit for seeing patterns in the information that even trained experts don't generally get.
+Artificial intelligence and machine learning technologies can automate significantly, yet manual and time-consuming tasks, permitting representatives to zero in on higher-esteem work. Artificial intelligence will be utilized to remove new insights, transform decision making, and drive improved business results. A recent PwC report shows that a staggering 72% of business decision-makers that AI gives a serious edge on the business front.
+Early selection of artificial intelligence for specific, clearly characterized applications empowers forward-looking organizations to make huge business value and, at last, to set the stage for transforming business models and processes.
+Artificial Intelligence in organizations can be utilized to:
+
+Increase competitive advantage and improve efficiency
+Advance automated cooperations with clients, partners, and workers
+Multiply productivity gains via computerizing measures
+Power smarter machinery, vehicles, and structures
+Improve client closeness and subsequently increment buyer interest
+Improve the examination of video and audio in real-time
+
+SAP – AI Business Intelligence 
+HANA is SAP's cloud stage that businesses use to oversee information on the basis of data they have gathered. To put it plainly, it replicates and ingests organized information, for example, sales transaction or customer information, from relational databases, applications, and different sources.
+The stage can be installed to run on-premise through a company's servers, or via the cloud. HANA takes in information gathered from access points across over the business—including mobile and work stations, money related exchanges, sensors, and equipment at production plants. If your business staff utilizes organization cell phones or tablets in the field to record purchase orders, data from those exchanges can be analyzed and perceived by HANA to spot patterns and abnormalities.
+Let's take a look at how Artificial learning is making our business smart. Considering 3 industries:
+Retail Sector
+
+AI calculations are being utilized by online retailers in ways given below:
+The online proposal engine allows retailers to offer customized advancements or client experience dependent on the client's previous purchases or activities.
+Better customer service and conveyance frameworks are conceivable utilizing smart machines which can reduce responses time and support in circumstances where assets are less
+Monitoring price changes over a specific timeframe empower e-commerce organizations to follow designs in these variances and set costs as indicated by the request.
+
+Financial Sector
+
+The extraordinary capability of AI is convincing the financial sector to adopt it with vigor. AI can help banks, insurers, and investors settle on smarter decisions in different areas:
+Overseeing customer fulfillment
+Responding to market trends
+Foreseeing hazard
+Innovate to stay competitive
+
+The Banking and Finance (BFSI) sector is taking the help of Artificial Intelligence to manage the huge amount of data that is getting generated. Financial sectors are progressively relying upon AI for portfolio management like forecasting and overseeing wealth and resources. These calculations can recognize drifts more productively than people and react in real-time.
+Health Sector
+Associations can benefit from the crossing point between the Internet of Things (IoT) and information examination to empower smarter healthcare and solutions.
+
+The robot helped medical procedures are getting more normal. They are more exact, however, have a higher achievement rate with quicker recovery and smaller surgery scars.
+Customized wellbeing observing using smart-watches and other wearable gadgets have made wellbeing telemetry a reality
+
+How AI monitoring can better your business?
+The impacts of AI will be amplified in the coming decade, as essentially every industry will change its core processes and plans of action to take advantage of artificial intelligence and machine learning. The bottleneck presently is in business imagination, implementation, and management. For business pioneers, it is basic to get an arrangement for making AI work in the organization. Initial AI tasks may get postponed or underdeliver, yet the risk of organizations turning out to be non-serious by disregarding AI is high.
+The author is technology writer with ESDS Software Solutions. Views are personal.
+
+ALSO READ
+
+
+
+Newly launched Qlik Talend Cloud to enhance data trust and AI reliability: Drew Clarke 
+
+
+
+
+
+
+
+From Vulnerable to Vigilant: How AI is Revolutionising IoT Security 
+
+
+
+
+
+
+
+ExclsuiveAI surge to boost adoption of conversational analytics: Chetan Alsisaria, Polestar 
+
+
+
+
+
+
+
+AI integration set to transform EV and automotive market: Report 
+
+
+
+
+
+
+Get the day's headlines from Tech Observer straight in your inboxSubscribeBy subscribing you agree to our Privacy Policy, T&C and consent to receive newsletters and other important communications.
+Read More News OnArtificial IntelligenceDeep LearningMachine Learning
+
+
+Share
+FacebookTwitterWhatsAppLinkedinKoo
+
+
+Devanshi SharmaDevanshi Sharma is Technology Writer at ESDS Software Solutions
+
+
+
+
+
+- Advertisement -
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Advertisement -
+
+- Advertisement -
+
+- Advertisement -
+
+- Advertisement -
+Podcast
+
+
+
+Pankaj Agrawal of Cisco on WebEx for Productivity in Hybrid Work and Hybrid Workplaces
+
+
+Tech Observer Desk -  
+
+
+Audio Playerhttps://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-3/4bc2f33d-d3e2-a44d-0d1f-68fac32a59fc.mp300:0000:0000:00Use Up/Down Arrow keys to increase or decrease volume.
+
+
+
+
+
+Subscribe to our Newsletter83000+ Industry Leaders read it everyday
+SubscribeBy subscribing you agree to our Privacy Policy, T&C and consent to receive newsletters and other important communications.
+- Advertisement -Sponsored LinksSponsored LinksPromoted LinksPromoted LinksYou May LikeRiver CruiseMajor Cruise Lines Want To Hide How Affordable Viking River Cruises Are For SeniorsRiver CruiseLearn MoreUndoCommonSearchesThe Luxurious New Telluride Has ArrivedCommonSearchesSearch NowUndoFrequent SearchesUnbeatable 2024 SUV Prices for Americans In ChantillyFrequent SearchesLearn MoreUndoLuxury Suv | Search adsThe New Hyundai Lineup Is A Jaw Dropper (Take a Look)Luxury Suv | Search adsLearn MoreUndoby Taboolaby Taboola
+
+Latest in TECH
+
+
+
+
+
+
+
+ 
+
+Tech Observer Desk - 13 hours agoNewly launched Qlik Talend Cloud to enhance data trust and AI reliability: Drew ClarkeQlik Talend Cloud offers AI-augmented data integration capabilities for users across all skill levels, ensuring data integrity and accelerating AI deployment. 
+
+
+
+
+
+
+
+
+ 
+
+Frendy raises Rs 2 crore working capital credit from UC Inclusive Credit
+
+
+Sanjay Singh -  
+
+
+
+
+
+
+
+
+ 
+
+Budget 2024 must prioritise cybersecurity, says Futurex’s Ruchin Kumar
+
+
+Tech Observer Desk -  
+
+
+
+
+
+
+
+
+ 
+
+Oppo Reno 12 Series
+Oppo launches AI-loaded Reno 12 series with Sony sensor 50MP camera
+
+
+Mohd Ujaley -  
+
+
+
+
+
+
+
+
+ 
+
+Donald Trump to speak at Bitcoin 2024 conference in Nashville
+
+
+Tech Observer Desk -  
+
+
+
+
+
+
+
+
+
+
+RELATED ARTICLES
+
+
+
+
+
+
+
+ 
+
+Newly launched Qlik Talend Cloud to enhance data trust and AI reliability: Drew Clarke
+
+Analytics
+
+Tech Observer Desk -  
+
+
+
+
+
+
+
+
+ 
+
+From Vulnerable to Vigilant: How AI is Revolutionising IoT Security
+
+Cyber Security
+
+Morgan Wright -  
+
+
+
+
+
+
+
+
+ 
+
+AI surge to boost adoption of conversational analytics: Chetan Alsisaria, Polestar
+
+Artificial Intelligence
+
+Mohd Ujaley -  
+
+
+
+
+
+
+
+
+ 
+
+AI integration set to transform EV and automotive market: Report
+
+Artificial Intelligence
+
+Sanjay Singh -  
+
+
+
+
+
+by Taboolaby TaboolaSponsored LinksSponsored LinksPromoted LinksPromoted LinksRiver CruiseSeniors are Paying Next to Nothing for Viking River Cruises (See How)River CruiseUndoESDS to hire 300 AI engineers for new autonomous cloud platformUndoCommonSearchesCheck Out The Deals On These Never-Driven 2024 Kia Telluride SUVsCommonSearchesUndoWe are seeing triple-digit growth in India: Veeam India chief Sandeep BhambureUndoTheWalletWatcher.com5 Legal Discounts Seniors Get Only If They AskTheWalletWatcher.comUndoFrom Vulnerable to Vigilant: How AI is Revolutionising IoT SecurityUndoBestSearchesNew Santa Fe Prices In  May Surprise You (Take A Look)BestSearchesLearn MoreUndoMotorola Edge 50 set for India launch after BIS certificationUndo
+  ",,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://techobserver.in/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://techobserver.in/news/', 'name': 'News'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://techobserver.in/news/opinion/', 'name': 'Opinion'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': '', 'name': 'How AI monitoring can make your business smarter and better'}}]","[{'@type': 'Place', '@id': 'https://techobserver.in/#place', 'address': {'@type': 'PostalAddress', 'streetAddress': 'B-13 Street 1, Pratap Nagar Mayur Vihar', 'addressLocality': 'Delhi', 'addressRegion': 'Delhi', 'postalCode': '110091', 'addressCountry': 'IN'}}, {'@type': ['NewsMediaOrganization', 'Organization'], '@id': 'https://techobserver.in/#organization', 'name': 'Tech Observer Magazine', 'url': 'https://techobserver.in', 'sameAs': ['https://www.facebook.com/techobservor', 'https://twitter.com/techobservor', 'https://www.instagram.com/techobserver/', 'https://in.pinterest.com/techobserver_in/', 'https://www.youtube.com/channel/UCtIh8WIums4o689pkZRjkCw', 'https://www.linkedin.com/company/techobserver.in', 'https://soundcloud.com/techobserver'], 'email': 'contact@techobserver.in', 'address': {'@type': 'PostalAddress', 'streetAddress': 'B-13 Street 1, Pratap Nagar Mayur Vihar', 'addressLocality': 'Delhi', 'addressRegion': 'Delhi', 'postalCode': '110091', 'addressCountry': 'IN'}, 'logo': {'@type': 'ImageObject', '@id': 'https://techobserver.in/#logo', 'url': 'https://techobserver.in/wp-content/uploads/2023/09/Favicon.png', 'contentUrl': 'https://techobserver.in/wp-content/uploads/2023/09/Favicon.png', 'caption': 'Tech Observer', 'inLanguage': 'en-GB', 'width': '512', 'height': '512'}, 'description': 'Tech Observer is a premium online technology news magazine published from New Delhi that brings a critical perspective and analysis from a wide spectrum of government technology, enterprise IT, startups, telecom and consumer electronics. The magazine focuses on all aspects of technology usage in government organisations, the public sector and enterprises, with special emphasis on the role of influencers such as senior government officials, CIOs, CTOs, CISOs and IT heads.', 'legalName': 'TechObserver Infomedia Private Limited', 'foundingDate': '13 January 2020', 'taxID': '07AAHCT7073J1ZW', 'location': {'@id': 'https://techobserver.in/#place'}}, {'@type': 'WebSite', '@id': 'https://techobserver.in/#website', 'url': 'https://techobserver.in', 'name': 'Tech Observer', 'alternateName': 'Tech Observer Magazine', 'publisher': {'@id': 'https://techobserver.in/#organization'}, 'inLanguage': 'en-GB'}, {'@type': 'ImageObject', '@id': 'https://techobserver.in/wp-content/uploads/2020/11/ai-techobserver.jpg', 'url': 'https://techobserver.in/wp-content/uploads/2020/11/ai-techobserver.jpg', 'width': '1250', 'height': '654', 'caption': 'Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks.', 'inLanguage': 'en-GB'}, {'@type': 'BreadcrumbList', '@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://techobserver.in', 'name': 'Home'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://techobserver.in/news/opinion/', 'name': 'Opinion'}}, {'@type': 'ListItem', 'position': '3', 'item': {'@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/', 'name': 'How AI monitoring can make your business smarter and better'}}]}, {'@type': 'WebPage', '@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/#webpage', 'url': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/', 'name': 'How AI monitoring can make your business smarter and better – Tech Observer', 'datePublished': '2020-11-25T11:12:20+05:30', 'dateModified': '2020-11-25T11:12:20+05:30', 'isPartOf': {'@id': 'https://techobserver.in/#website'}, 'primaryImageOfPage': {'@id': 'https://techobserver.in/wp-content/uploads/2020/11/ai-techobserver.jpg'}, 'inLanguage': 'en-GB', 'breadcrumb': {'@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/#breadcrumb'}}, {'@type': 'Person', '@id': 'https://techobserver.in/profile/devanshi-sharma/', 'name': 'Devanshi Sharma', 'description': 'Devanshi Sharma is Technology Writer at ESDS Software Solutions', 'url': 'https://techobserver.in/profile/devanshi-sharma/', 'image': {'@type': 'ImageObject', '@id': 'https://techobserver.in/wp-content/uploads/2020/10/Devanshi-Sharma-esds-techobserver-writer-guest-1-96x96.png', 'url': 'https://techobserver.in/wp-content/uploads/2020/10/Devanshi-Sharma-esds-techobserver-writer-guest-1-96x96.png', 'caption': 'Devanshi Sharma', 'inLanguage': 'en-GB'}, 'worksFor': {'@id': 'https://techobserver.in/#organization'}}, {'@type': 'NewsArticle', 'headline': 'How AI monitoring can make your business smarter and better – Tech Observer', 'keywords': 'AI', 'datePublished': '2020-11-25T11:12:20+05:30', 'dateModified': '2020-11-25T11:12:20+05:30', 'articleSection': 'Opinion', 'author': {'@id': 'https://techobserver.in/profile/devanshi-sharma/', 'name': 'Devanshi Sharma'}, 'publisher': {'@id': 'https://techobserver.in/#organization'}, 'description': 'Artificial Intelligence (AI) makes it feasible for machines to learn from experience, adapt to new inputs, and perform human-like tasks.', 'copyrightYear': '2020', 'copyrightHolder': {'@id': 'https://techobserver.in/#organization'}, 'name': 'How AI monitoring can make your business smarter and better – Tech Observer', '@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/#richSnippet', 'isPartOf': {'@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/#webpage'}, 'image': {'@id': 'https://techobserver.in/wp-content/uploads/2020/11/ai-techobserver.jpg'}, 'inLanguage': 'en-GB', 'mainEntityOfPage': {'@id': 'https://techobserver.in/news/opinion/how-ai-monitoring-can-make-your-business-smarter-and-better-245395/#webpage'}}]",,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMTEvMjQvc2NpZW5jZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hcmNoYWVvbG9neS1jbm4uaHRtbNIBAA?oc=5,How Archaeologists Are Using Deep Learning to Dig Deeper (Published 2020) - The New York Times,2020-11-24,The New York Times,https://www.nytimes.com,Trawling ancient history with neural nets.,N/A,Trawling ancient history with neural nets.,Trawling ancient history with neural nets.,https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,How Archaeologists Are Using Deep Learning to Dig Deeper,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': '', 'name': 'Zach Zorich'}]",,2020-11-24T07:30:13.000Z,2020-11-24T07:30:13.000Z,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-videoSixteenByNineJumbo1600.jpg', 'caption': 'Dr. Gino Caspari, right, during a geophysical survey of a royal Scythian tomb in southern Siberia in 2018. ', 'creditText': 'Trevor Wallace'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-superJumbo.jpg', 'height': 1365, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-superJumbo.jpg', 'caption': 'Dr. Gino Caspari, right, during a geophysical survey of a royal Scythian tomb in southern Siberia in 2018. ', 'creditText': 'Trevor Wallace'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/21SCI-AI-ARCHAEOLOGY1-mediumSquareAt3X.jpg', 'height': 1800, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/21SCI-AI-ARCHAEOLOGY1-mediumSquareAt3X.jpg', 'caption': 'Dr. Gino Caspari, right, during a geophysical survey of a royal Scythian tomb in southern Siberia in 2018. ', 'creditText': 'Trevor Wallace'}]",,Science,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTHow Archaeologists Are Using Deep Learning to Dig DeeperTrawling ancient history with neural nets.Share full article12Read in appDr. Gino Caspari, right, during a geophysical survey of a royal Scythian tomb in southern Siberia in 2018. Credit...Trevor WallaceBy Zach ZorichNov. 24, 2020Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.Dr. Caspari, a research archaeologist with the Swiss National Science Foundation, studies the ancient Scythians, a nomadic culture whose horse-riding warriors terrorized the plains of Asia 3,000 years ago. The tombs of Scythian royalty contained much of the fabulous wealth they had looted from their neighbors. From the moment the bodies were interred, these tombs were popular targets for robbers; Dr. Caspari estimates that more than 90 percent of them have been destroyed.He suspects that thousands of tombs are spread across the Eurasian steppes, which extend for millions of square miles. He had spent hours mapping burials using Google Earth images of territory in what is now Russia, Mongolia and Western China’s Xinjiang province. “It’s essentially a stupid task,” Dr. Caspari said. “And that’s not what a well-educated scholar should be doing.”AdvertisementSKIP ADVERTISEMENTAs it turned out, a neighbor of Dr. Caspari’s in the International House, in the Morningside Heights neighborhood of Manhattan, had a solution. The neighbor, Pablo Crespo, at the time a graduate student in economics at City University of New York who was working with artificial intelligence to estimate volatility in commodity prices, told Dr. Caspari that what he needed was a convolutional neural network to search his satellite images for him. The two bonded over a shared academic philosophy, of making their work openly available for the benefit of the greater scholarly community, and a love of heavy metal music. Over beers in the International House bar, they began a collaboration that put them at the forefront of a new type of archaeological analysis.ImageDr. Caspari spent hours mapping Scythian burial sites across a huge swath of territory in present-day Russia, Mongolia and China using Google Earth images.Credit...via Pablo CrespoImageTomb images used by Pablo Crespo and Dr. Caspari to train the neural network.Credit...via Pablo CrespoA convolutional neural network, or C.N.N., is a type of artificial intelligence that is designed to analyze information that can be processed as a grid; it is especially well suited to analyzing photographs and other images. The network sees an image as a grid of pixels. The C.N.N. that Dr. Crespo designed starts by giving each pixel a rating based on how red it is, then another for green and for blue. After rating each pixel according to a variety of additional parameters, the network begins to analyze small groups of pixels, then successively larger ones, looking for matches or near-matches to the data it has been trained to spot.Working in their spare time, the two researchers ran 1,212 satellite images through the network for months, asking it to look for circular stone tombs and to overlook other circular, tomblike things such as piles of construction debris and irrigation ponds.At first they worked with images that spanned roughly 2,000 square miles. They used three-quarters of the imagery to train the network to understand what a Scythian tomb looks like, correcting the system when it missed a known tomb or highlighted a nonexistent one. They used the rest of the imagery to test the system. The network correctly identified known tombs 98 percent of the time.AdvertisementSKIP ADVERTISEMENTCreating the network was simple, Dr. Crespo said. He wrote it in less than a month using the programming language Python and at no cost, not including the price of the beers. Dr. Caspari hopes that their creation will give archaeologists a way to find new tombs and to identify important sites so that they can be protected from looters.Other convolutional neural networks are beginning to automate a variety of repetitive tasks that are usually foisted on to graduate students. And they are opening new windows on to the past. Some of the jobs that these networks are inheriting include classifying pottery fragments, locating shipwrecks in sonar images and finding human bones that are for sale, illegally, on the internet.“Netflix is using this kind of technique to show you recommendations,” Dr. Crespo, now a senior data scientist for Etsy, said. “Why shouldn’t we use it for something like saving human history?”Gabriele Gattiglia and Francesca Anichini, both archaeologists at the University of Pisa in Italy, excavate Roman Empire-era sites, which entails analyzing thousands of broken bits of pottery. In Roman culture nearly every type of container, including cooking vessels and the amphoras used for shipping goods around the Mediterranean, was made of clay, so pottery analysis is essential for understanding Roman life.ImageFrancesca Anichini, an archaeologist at the University of Pisa, studies Roman Empire-era sites.Credit...MAPPALab - University of PisaImageShe and her colleague Gabriele Gattiglia must analyze thousands of broken bits of clay pottery.Credit...MAPPALab - University of PisaImageTheir project, called ArchAIDE, will allow archaeologists to photograph a piece of pottery in the field and have it identified by convolutional neural networks. Credit...MAPPALab - University of PisaThe task involves comparing pottery sherds to pictures in printed catalogs. Dr. Gattiglia and Dr. Anichini estimate that only 20 percent of their time is spent excavating sites; the rest is spent analyzing pottery, a job for which they are not paid. “We started dreaming about some magic tool to recognize pottery on an excavation,” Dr. Gattiglia said.That dream became the ArchAIDE project, a digital tool that will allow archaeologists to photograph a piece of pottery in the field and have it identified by convolutional neural networks. The project, which received financing from the European Union’s Horizon 2020 research and innovation program, now involves researchers from across Europe, as well as a team of computer scientists from Tel Aviv University in Israel who designed the C.N.N.s.The project involved digitizing many of the paper catalogs and using them to train a neural network to recognize different types of pottery vessels. A second network was trained to recognize the profiles of pottery sherds. So far, ArchAIDE can identify only a few specific pottery types, but as more researchers add their collections to the database the number of types is expected to grow.“I dream of a catalog of all types of ceramics,” Dr. Anichini said. “I don’t know if it is possible to complete in this lifetime.”AdvertisementSKIP ADVERTISEMENTSaving time is one of the biggest advantages of using convolutional neural networks. In marine archaeology, ship time is expensive, and divers cannot spend too much time underwater without risking serious pressure-related injuries. Chris Clark, an engineer at Harvey Mudd College in Claremont, Calif., is addressing both problems by using an underwater robot to make sonar scans of the seafloor, then using a convolutional neural network to search the images for shipwrecks and other sites. In recent years he has been working with Timmy Gambin, an archaeologist at the University of Malta, to search the floor of the Mediterranean Sea around the island of Malta.Their system got off to a rough start: On one of its first voyages, they ran their robot into a shipwreck and had to send a diver down to retrieve it. Things improved from there. In 2017, the network identified what turned out to be the wreck of a World War II-era dive bomber off the coast of Malta. Dr. Clark and Dr. Gambin are now working on another site that was identified by the network, but did not want to discuss the details until the research has gone through peer-review.ImageResearchers from Cal Poly SLO, Harvey Mudd College and the University of Malta deploying an autonomous underwater vehicle from the Malta coast.Credit...Dr. Zoe Wood/Harvey Mudd CollegeImageA 3-D reconstruction of a World War II plane wreckage off the coast of Malta.The reconstruction was built using sensor data obtained from an autonomous underwater vehicle, which was programmed to collect the “best” images for making such reconstructions.Credit...Harvey Mudd CollegeShawn Graham, a professor of digital humanities at Carleton University in Ottawa, uses a convolutional neural network called Inception 3.0, designed by Google, to search the internet for images related to the buying and selling of human bones. The United States and many other countries have laws requiring that human bones held in museum collections be returned to their descendants. But there are also bones being held by people who have skirted these laws. Dr. Graham said he had even seen online videos of people digging up graves to feed this market.AdvertisementSKIP ADVERTISEMENT“These folks who are being bought and sold never consented to this,” Dr. Graham said. “This does continued violence to the communities from which these ancestors have been removed. As archaeologists, we should be trying to stop this.”He made some alterations to Inception 3.0 so that it could recognize photographs of human bones. The system had already been trained to recognize objects in millions of photographs, but none of those objects were bones; he has since trained his version on more than 80,000 images of human bones. He is now working with a group called Countering Crime Online, which is using neural networks to track down images related to the illegal ivory trade and sex trafficking.Dr. Crespo and Dr. Caspari said that the social sciences and humanities could benefit by incorporating the tools of information technology into their work. Their convolutional neural network was easy to use and freely available for anyone to modify to suit their own research needs. In the end, they said, scientific advances come down to two things.“Innovation really happens at the intersections of established fields,” Dr. Caspari said. Dr. Crespo added: “Have a beer with your neighbor every once in a while.”[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]A version of this article appears in print on Nov. 24, 2020, Section D, Page 8 of the New York edition with the headline: Archaeologists Let Deep Learning Do  All Those Dull Tasks. Order Reprints | Today’s Paper | SubscribeRead 12 CommentsShare full article12Read in appAdvertisementSKIP ADVERTISEMENTComments 12How Archaeologists Are Using Deep Learning to Dig DeeperSkip to CommentsThe comments section is closed.
+      To submit a letter to the editor for publication, write to
+      letters@nytimes.com.Enjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html,en-US,Archaeologists Let Deep Learning Do  All Those Dull Tasks,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",{'@id': '#commentsContainer'},12.0,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMTEvMjIvc2NpZW5jZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yb2JvdHMtcmFjaXNtLXBvbGljZS5odG1s0gEA?oc=5,Can We Make Our Robots Less Biased Than We Are? (Published 2020) - The New York Times,2020-11-22,The New York Times,https://www.nytimes.com,A.I. developers are committing to end the injustices in how their technology is often made and used.,N/A,A.I. developers are committing to end the injustices in how their technology is often made and used.,A.I. developers are committing to end the injustices in how their technology is often made and used.,https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,Can We Make Our Robots Less Biased Than We Are?,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': '', 'name': 'David Berreby'}]",,2020-12-03T15:53:10.334Z,2020-11-22T10:00:16.000Z,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-videoSixteenByNineJumbo1600.jpg', 'creditText': ''}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-superJumbo.jpg', 'height': 1365, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-superJumbo.jpg', 'creditText': ''}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-mediumSquareAt3X.jpg', 'height': 1800, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-mediumSquareAt3X.jpg', 'creditText': ''}]",,Science,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingChris S. Crawford, a computer scientist at the University of Alabama. “I personally was in Silicon Valley when some of these technologies were being developed,” he said, and more than once, “I would sit down and they would test it on me, and it wouldn’t work. And I was like, You know why it’s not working, right?”Credit...Wes Frazer for The New York TimesSkip to contentSkip to site indexSearch & Section NavigationSection NavigationCan We Make Our Robots Less Biased Than We Are?A.I. developers are committing to end the injustices in how their technology is often made and used.Chris S. Crawford, a computer scientist at the University of Alabama. “I personally was in Silicon Valley when some of these technologies were being developed,” he said, and more than once, “I would sit down and they would test it on me, and it wouldn’t work. And I was like, You know why it’s not working, right?”Credit...Wes Frazer for The New York TimesSupported bySKIP ADVERTISEMENTShare full articleRead in appBy David BerrebyPublished Nov. 22, 2020Updated Dec. 3, 2020On a summer night in Dallas in 2016, a bomb-handling robot made technological history. Police officers had attached roughly a pound of C-4 explosive to it, steered the device up to a wall near an active shooter and detonated the charge. In the explosion, the assailant, Micah Xavier Johnson, became the first person in the United States to be killed by a police robot.Afterward, then-Dallas Police Chief David Brown called the decision sound. Before the robot attacked, Mr. Johnson had shot five officers dead, wounded nine others and hit two civilians, and negotiations had stalled. Sending the machine was safer than sending in human officers, Mr. Brown said.But some robotics researchers were troubled. “Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police officers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon, and in its first use as such, it had killed a Black man.Designed to Deceive: Do These People Look Real to You?The people in this story may look familiar, like ones you’ve seen on Facebook or Twitter or Tinder. But they don’t exist. They were born from the mind of a computer, and the technology behind them is improving at a startling pace.Subscribe to The Times to read as many articles as you like.A version of this article appears in print on Nov. 24, 2020, Section D, Page 9 of the New York edition with the headline: Calling for Robots  To Be Free of Bias. Order Reprints | Today’s Paper | SubscribeShare full articleRead in appAdvertisementSKIP ADVERTISEMENT",https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html,en,Calling for Robots  To Be Free of Bias,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMTEvMjMvaGVhbHRoL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXZldGVyYW5zLXN1aWNpZGUuaHRtbNIBAA?oc=5,Can an Algorithm Prevent Suicide? - The New York Times,2020-11-23,The New York Times,https://www.nytimes.com,The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.,N/A,The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.,The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.,https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,Can an Algorithm Prevent Suicide?,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/benedict-carey', 'name': 'Benedict Carey'}]",,2020-11-23T10:00:14.000Z,2020-11-23T10:00:14.000Z,,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-videoSixteenByNineJumbo1600.jpg', 'caption': 'Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. &ldquo;The fact is, we can&rsquo;t rely on trained medical experts to identify people who are truly at high risk,&rdquo; she said.', 'creditText': 'Bryan Anselm for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/merlin_180238041_b6b60dfa-dbe6-4d2f-a028-6fdcc7007ec5-superJumbo.jpg', 'height': 1365, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/merlin_180238041_b6b60dfa-dbe6-4d2f-a028-6fdcc7007ec5-superJumbo.jpg', 'caption': 'Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. &ldquo;The fact is, we can&rsquo;t rely on trained medical experts to identify people who are truly at high risk,&rdquo; she said.', 'creditText': 'Bryan Anselm for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-mediumSquareAt3X.jpg', 'height': 1799, 'width': 1800, 'contentUrl': 'https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-mediumSquareAt3X.jpg', 'caption': 'Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. &ldquo;The fact is, we can&rsquo;t rely on trained medical experts to identify people who are truly at high risk,&rdquo; she said.', 'creditText': 'Bryan Anselm for The New York Times'}]",,Health,N/A,"AdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTCan an Algorithm Prevent Suicide?The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.Share full article70Read in appDr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. “The fact is, we can’t rely on trained medical experts to identify people who are truly at high risk,” she said.Credit...Bryan Anselm for The New York TimesBy Benedict CareyNov. 23, 2020At a recent visit to the Veterans Affairs clinic in the Bronx, Barry, a decorated Vietnam veteran, learned that he belonged to a very exclusive club. According to a new A.I.-assisted algorithm, he was one of several hundred V.A. patients nationwide, of six million total, deemed at imminent risk of suicide.The news did not take him entirely off guard. Barry, 69, who was badly wounded in the 1968 Tet offensive, had already made two previous attempts on his life. “I don’t like this idea of a list, to tell you the truth — a computer telling me something like this,” Barry, a retired postal worker, said in a phone interview. He asked that his surname be omitted for privacy.“But I thought about it,” Barry said. “I decided, you know, OK — if it’s going to get me more support that I need, then I’m OK with it.”For more than a decade, health officials have watched in vain as suicide rates climbed steadily — by 30 percent nationally since 2000 — and rates in the V.A. system have been higher than in the general population. The trends have defied easy explanation and driven investment in blind analysis: machine learning, or A.I.-assisted algorithms that search medical and other records for patterns historically associated with suicides or attempts in large clinical populations.AdvertisementSKIP ADVERTISEMENTDoctors have traditionally gauged patients’ risks by looking at past mental health diagnoses and incidents of substance abuse, and by drawing on experience and medical instinct. But these evaluations fall well short of predictive, and the artificially intelligent programs explore many more factors, like employment and marital status, physical ailments, prescription history and hospital visits. These algorithms are black boxes: They flag a person as at high risk of suicide, without providing any rationale.But human intelligence isn’t necessarily better at the task. “The fact is, we can’t rely on trained medical experts to identify people who are truly at high risk,” said Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx, and a clinical professor of medicine at the Icahn School of Medicine at Mount Sinai. “We’re no good at it.”Deploying A.I. in this way is not new; researchers have been gathering data on suicides through the National Health Service in Britain since 1996. The U.S. Army, Kaiser Permanente and Massachusetts General Hospital each has separately developed a algorithm intended to predict suicide risk. But the V.A.’s program, called Reach Vet, which identified Barry as at high risk, is the first of the new U.S. systems to be used in daily clinical practice, and it is being watched closely. How these systems perform — whether they save lives and at what cost, socially and financially — will help determine if digital medicine can deliver on its promise.“It is a critical test for these big-data systems,” said Alex John London, the director of the Center for Ethics and Policy at Carnegie Mellon University in Pittsburgh. “If these things have a high rate of false positives, for instance, that marks a lot people at high risk who are not — and the stigma associated with that could be harmful indeed downstream. We need to be sure these risk flags lead to people getting better or more help, not somehow being punished.”The V.A.’s algorithm updates continually, generating a new list of high-risk veterans each month. Some names stay on the list for months, others fall off. When a person is flagged, his or her name shows up on the computer dashboard of the local clinic’s Reach Vet coordinator, who calls to arrange an appointment. The veteran’s doctor explains what the high-risk designation means — it is a warning sign, not a prognosis — and makes sure the person has a suicide safety plan: that any guns and ammunition are stored separately; that photos of loved ones are visible; and that phone numbers of friends, social workers and suicide hotlines are on hand.AdvertisementSKIP ADVERTISEMENTDoctors who have worked with Reach Vet say that the system produces unexpected results, both in whom it flags and whom it does not.To some of his therapists, Chris, 36, who deployed to Iraq and Afghanistan, looked very much like someone who should be on the radar. He had been a Marine rifleman and saw combat in three of his four tours, taking and returning heavy fire in multiple skirmishes. In 2008, a roadside bomb injured several of his friends but left him unscathed. After the attack he had persistent nightmares about it and received a diagnosis of post-traumatic stress. In 2016, he had a suicidal episode; he asked that his last name be omitted to protect his privacy.“I remember going to the shower, coming out and grabbing my gun,” he said in an interview at his home near New York City. “I had a Glock 9-millimeter. For me, I love guns, they’re like a safety blanket. Next thing I know, I’m waking up in cold water, sitting in the tub, the gun is sitting right there, out of the holster. I blacked out. I mean, I have no idea what happened. There were no bullets in the gun, it turned out.”ImageChris, during a deployment to Afghanistan.Credit... The strongest risk factor for suicide is a previous attempt, especially one with a gun. Yet Chris’s name has not turned up on the high-risk list compiled by A.I., and he does not think it ever will.AdvertisementSKIP ADVERTISEMENT“At the time, in 2016, I was going to school for a master’s, working full time,” he said. “Our two kids were toddlers; I was sleeping no more than a few hours a night, if that. It was too much. I was sleep-deprived all the time. I had never been suicidal, never had suicidal thoughts; it was a totally impulsive thing.”The A.I. behind Reach Vet seems to home in on other risk factors, Dr. Goodman said: “The things this program picks up wouldn’t necessarily be the ones I thought about. The analytics are beginning to change our understanding of who’s at greatest risk.”The algorithm is built on an analysis of thousands of previous suicides in the V.A.’s database, dating to 2008. The computer mixes and shuffles scores of facts from the medical records — age, marital status, diagnoses, prescriptions — and settles on the factors that together are most strongly associated with suicide risk. The V.A. model integrates 61 factors in all, including some that are not obvious, like arthritis and statin use, and produces a composite score for each person. Those who score at the very top of the range — the top 0.1 percentage — are flagged as high risk.“The risk concentration for people in the top 0.1 percent on this score was about 40 times,” said John McCarthy, the director of data and surveillance, in Suicide Prevention in the VA Office of Mental Health and Suicide Prevention. “That is, they were 40 times more likely to die of suicide” than the average person.Bridget Matarazzo, the director of clinical services at the Rocky Mountain Mental Illness Research Education and Clinical Center for Veteran Suicide Prevention, said of Reach Vet. “My impression is that it’s identifying some folks who were previously on providers’ radar, but also others who were not.”AdvertisementSKIP ADVERTISEMENTLate in 2018, a V.A. team led by Dr. McCarthy presented the first results of the Reach Vet system. Over a six-month period, with Reach Vet in place, high-risk veterans more than doubled their use of V.A. services. By contrast, in a comparison group tracked for six months before Reach Vet was installed, the use of V.A. services stayed roughly the same.The Reach Vet group also had a lower mortality rate over that time — although it was an overall rate, including any cause of death. The analysis did not detect a difference in suicides, at least up to that stage. “It’s encouraging, but we’ve got much more to do to see if we’re having the impact we want,” Dr. McCarthy said.Ronald Kessler, a professor of health care and policy at Harvard Medical School, said: “Right now, this and other models predict who’s at highest risk. What they don’t tell you is who is most likely to profit from an intervention. If you don’t know that, you don’t know where to put your resources.”For doctors using the system, however, it has already prompted some rethinking of how to assess risk. “You end up with a lot of older men who are really struggling with medical problems,” Dr. Goodman said. “They’re quietly miserable, in pain, often alone, with financial problems, and you don’t see them because they’re not coming in.”And for those whose names have popped up on Reach Vet’s list, the experience of being identified and contacted is not something they can easily forget.AdvertisementSKIP ADVERTISEMENTBarry, the Vietnam veteran, said that he was in a relatively good place, for now. He is close to his two grown children, and he receives regular care at the Bronx V.A., including both individual and group therapy, and medication for recurrent psychotic episodes. But he is also aware of how quickly things can turn dark.“Look, I know I sometimes talk to myself at night, and I hear voices,” he said. “The meds work fine, but once in a while they don’t, and that angers them, the voices. And that is not good for me.”[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]Benedict Carey has been a science reporter for The Times since 2004. He has also written three books, “How We Learn” about the cognitive science of learning; “Poison Most Vial” and “Island of the Unknowns,” science mysteries for middle schoolers. More about Benedict CareyA version of this article appears in print on Nov. 24, 2020, Section D, Page 3 of the New York edition with the headline: Finding a Better Way  To Reach Veterans At the Edge of Suicide. Order Reprints | Today’s Paper | SubscribeRead 70 CommentsShare full article70Read in appAdvertisementSKIP ADVERTISEMENTComments 70Can an Algorithm Prevent Suicide?Skip to CommentsThe comments section is closed.
+      To submit a letter to the editor for publication, write to
+      letters@nytimes.com.Enjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://www.nytimes.com/2020/11/23/health/artificial-intelligence-veterans-suicide.html,en-US,Finding a Better Way  To Reach Veterans At the Edge of Suicide,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}",{'@id': '#commentsContainer'},70.0,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,False,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,

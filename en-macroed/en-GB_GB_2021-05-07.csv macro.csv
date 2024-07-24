@@ -1,0 +1,742 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,article:section,article:summary,article text,@graph,@id,dateCreated,copyrightYear,sourceOrganization,copyrightHolder,mainEntityOfPage,articleBody,mainEntity,thumbnailUrl,isPartOf,alternativeHeadline,hasPart
+https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Jlcm5hcmRtYXJyLzIwMjEvMDUvMTAvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaXMtZGV2ZWxvcGluZy1hLXNlbnNlLW9mLXNtZWxsLXdoYXQtY291bGQtYS1kaWdpdGFsLW5vc2UtbWVhbi1pbi1wcmFjdGljZS_SAQA?oc=5,Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice? - Forbes,2021-05-10,Forbes,https://www.forbes.com,"Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world. ","Artificial Intelligence Is Developing A Sense Of Smell,Aryballe,ai,artificial intelligence,smell,senses,sense of smell,digital","Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world. ","Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world. ",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/6098b3bc2cd0e76d77a5e166/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?,2021-05-10T00:21:41-04:00,2021-05-10T00:21:41-04:00,Enterprise Tech,Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",Enterprise Tech,N/A,"More From ForbesJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelJul 12, 2024,09:00am EDT‘Knowledge Is Power’: The Antipattern That Is Holding Your Team BackJul 12, 2024,07:00am EDTHow Generative AI Rattles the WorkplaceJul 11, 2024,12:49pm EDTReality Check: Generative AI’s Impact May Be Overstated, For NowJul 11, 2024,11:00am EDTVirtuous Innovation Adobe To Zappos—The Flywheel And AIJul 11, 2024,02:43am EDTHow Generative AI Will Change The Job Of Real Estate AgentsEdit StoryForbesInnovationEnterprise TechArtificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?Bernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itMay 10, 2021,12:21am EDTUpdated May 10, 2021, 12:21am EDTThis article is more than 3 years old.Share to FacebookShare to TwitterShare to LinkedinWe already know we can teach machines to see. Sensors enable autonomous cars to take in visual information and make decisions about what to do next when they’re on the road.
+
+But did you know machines can smell, too?
+Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?Adobe Stock
+
+Aryballe, a startup that uses artificial intelligence and digital olfaction technology to mimic the human sense of smell, helps their business customers turn odor data into actionable information.
+
+You’d be surprised how many practical use cases there are for technology like this. I interviewed Sam Guillaume, CEO of Aryballe, and asked him how digital olfaction works, how it's currently being used on the market, and what his predictions are for the future of fragrance tech.
+
+PROMOTED
+How the Nose Knows
+Our human noses work by processing odor molecules released by organic and inorganic objects. When energy in objects increases (through pressure, agitation, or temperature changes), odors evaporate, making it possible for us to inhale and absorb them through our nasal cavities.
+The odors then stimulate our nasal olfactory neurons and the olfactory bulb. Our brains pull together other information (like visual cues and memories of things we’ve smelled before) to identify the smell and decide what to do next.
+MORE FROMFORBES ADVISORBest High-Yield Savings Accounts Of 2024ByKevin PayneContributorBest 5% Interest Savings Accounts of 2024ByCassidy HortonContributor
+How Digital Olfaction Works
+Digital olfaction mimics the way humans smell by capturing odor signatures using biosensors, then using software solutions to analyze and display the odor data. Artificial Intelligence (AI) interprets the signatures and classifies them based on a database of previously collected smells.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+“Over the last few years, technology has allowed us to essentially duplicate the way human olfaction actually works,” Guillaume says. “And by porting this technology to readily available techniques like semiconductors, for instance, we can make sensors that are small, convenient, easy to use, and cheap. In terms of performance and its ability to discriminate between smells, it's pretty close to the way your nose works.”
+
+
+1/100:28Forbes Innovation
+
+
+
+
+
+Skip Ad
+ 
+Continue watching3 Things The Memes You Share Say About You, By A Psychologistafter the adVisit Advertiser websiteGO TO PAGE
+Practical Use Cases for Digital Olfaction
+So how does all this digital olfaction data turn into valuable insights for companies?
+Odor analytics can help companies do things like:
+●    Engineer the perfect “new car” smells in the automotive industry
+●    Predict when maintenance needs to be done in industrial or automotive equipment
+●    Automatically detect food spoilage in consumer appliances
+●    Reject or approve raw material supply
+●    Reduce R&D time for new foods and beverages
+●    Ensure fragrances of personal care products like deodorants and shampoos last for a long time
+●    Give riders peace of mind on public transportation by emitting an ambient smell
+●    Create personal care devices and health sensors that use odors to detect issues and alert users
+Leveraging the Power of Odor Data
+In the future, companies like Aryballe will potentially be collaborating on projects that will create digital odor libraries for companies, or even creating devices that help COVID-19 patients recover their sense of smell.
+Look for more advances as we can continue to find ways to teach computers how to sense the world around them and use the data they collect to help us in our everyday lives.
+Find out more about Aryballe’s technology here, and learn more about machine learning and artificial intelligence on my blog.
+You can watch my full interview with Aryballe CEO Sam Guillaume here:
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing... Read MoreEditorial StandardsPrintReprints & Permissions",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZGlzY292ZXIubGFubC5nb3YvbmV3cy8wNTA5LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,Artificial intelligence helps solve the most complex problems beneath our feet - Discover LANL,2021-05-09,Discover LANL,https://discover.lanl.gov,Explore everything Los Alamos is doing,"Hari Viswanathan, santa fe new mexican, science on the hill",Explore everything Los Alamos is doing,Explore everything Los Alamos is doing,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYmlrZWJpei5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8taGVscC1mdWVsLWxvbmRvbnMtY3ljbGluZy1ib29tL9IBTmh0dHBzOi8vYmlrZWJpei5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8taGVscC1mdWVsLWxvbmRvbnMtY3ljbGluZy1ib29tLw?oc=5,Artificial intelligence to help fuel London’s cycling boom - Bike Biz,2021-05-08,Bike Biz,https://bikebiz.com,"TfL has worked with London tech firm Vivacity Labs on a UK-first trial of artificial intelligence technology, which could make it much easier to plan and operate new cycle routes in the capital. Until","artificial intelligence,London,TfL,Vivacity Labs,Will Norman",TfL has worked with London tech firm Vivacity Labs on a UK-first trial of artificial intelligence te,N/A,http://schema.org,Article,https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/,"{'@type': 'ImageObject', 'url': 'https://bikebiz.com/wp-content/uploads/cycling-london.jpg', 'width': 2000, 'height': 1000}","{'@type': 'Person', 'name': 'Rebecca Morley', 'url': 'https://bikebiz.com/author/rebecca-editor/'}","{'@id': '#Publisher', '@type': 'Organization', 'name': 'BikeBiz', 'logo': {'@type': 'ImageObject', 'url': 'https://bikebiz.com/wp-content/uploads/BikeBiz-logo_smaller-.png'}, 'sameAs': ['https://www.facebook.com/bikebiz', 'https://twitter.com/bikebizonline', 'https://www.instagram.com/bikebizmag/']}",Artificial intelligence to help fuel London’s cycling boom,2020-01-21T10:04:17+00:00,2023-08-29T18:06:24+01:00,News,Artificial intelligence to help fuel London’s cycling boom,,"[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Home', '@id': 'https://bikebiz.com/'}}, {'@type': 'ListItem', 'position': 2, 'item': {'name': 'News', '@id': 'https://bikebiz.com/category/news/'}}]",N/A,N/A,"
+
+ 
+
+Artificial intelligence to help fuel London’s cycling boom
+
+Rebecca Morley 
+21/01/2020
+News
+
+
+
+
+Share
+
+ Facebook
+ Twitter
+ LinkedIn
+ Pinterest
+
+
+ 
+TfL has worked with London tech firm Vivacity Labs on a UK-first trial of artificial intelligence technology, which could make it much easier to plan and operate new cycle routes in the capital.
+Until now, TfL has relied mainly on manual traffic counts to work out how many people are cycling on any given road. This helps assess demand for new cycle routes and helps TfL improve how it operates the road network for the growing numbers of people cycling. Manual traffic counts, which are carried out at limited locations on London’s road network, are only able to give a snapshot of road use on the given day or time.
+Since 2018, TfL has trialled using Vivacity Labs sensors at two busy locations along Millbank. The sensors use artificial intelligence to detect road users and decide which mode of transport they are using. The competitive trial, which is the first time the technology has been used within London, showed that the Vivacity sensors are up to 98% accurate.
+Mark Nicholson, CEO and co-founder of Vivacity Labs, said: “We are delighted to have been successful in the competitive trials, and to now be rolling out a set of sensors at critical junctions in a global city such as London.”
+The sensors gather data around the clock, which provides a significantly more detailed picture of how London’s roads are being used by everyone 24/7. All video captured by the sensors is processed and discarded within seconds, meaning that no personal data is ever stored. TfL is in the process of introducing 43 more Vivacity sensors at 20 central London locations to gather data and further test to understand the full range of capabilities the technology has to offer.
+London’s walking and cycling commissioner Will Norman said: “By getting more people cycling and walking, we can help to tackle congestion and pollution in London and improve our health. Our Healthy Streets approach is based on evidence and data and we welcome new technology that supports this.”
+
+
+
+Data about the numbers of people cycling is part of TfL’s planning for new Cycleways across London. As the network continues to grow, TfL will use data from sources such as the sensors to work out where investment in new infrastructure can best be targeted. Enabling more people to walk and cycle is central to the Mayor’s efforts to tackle London’s toxic air, ill-health and the climate emergency. The Mayor’s Transport Strategy target is for 80% of journeys in London made by walking, cycling and public transport by 2041.
+Glynn Barton, TfL’s director of Network Management, said: “We work around the clock to keep people on in London moving and we’re always looking for innovative new ways of making our roads safer and more efficient. New data from trials such as this will be really valuable as we invest and make day-to-day decisions to enable more people to walk and cycle.”
+As well as detecting people cycling, the sensors also detect people walking and other types of traffic, including cars, HGVs, vans, motorcyclists and buses. The sensors are part of a wider programme of modernisation of TfL’s current road network systems and have the potential to link up to London’s traffic signals and control centre systems to provide data in real time.
+The technology used by Vivacity has been developed over four years of research and development, supported by investment from the Mayor of London.
+
+
+Share
+
+ Facebook
+ Twitter
+ LinkedIn
+ Pinterest
+
+
+ 
+
+
+
+","[{'@type': 'Article', '@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#article', 'isPartOf': {'@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/'}, 'author': {'name': 'Rebecca Morley', '@id': 'https://bikebiz.com/#/schema/person/71829f74182809c16cc47c77a4749a96'}, 'headline': 'Artificial intelligence to help fuel London’s cycling boom', 'datePublished': '2020-01-21T10:04:17+00:00', 'dateModified': '2023-08-29T17:06:24+00:00', 'mainEntityOfPage': {'@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/'}, 'wordCount': 581, 'publisher': {'@id': 'https://bikebiz.com/#organization'}, 'image': {'@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#primaryimage'}, 'thumbnailUrl': 'https://149764339.v2.pressablecdn.com/wp-content/uploads/cycling-london.jpg', 'keywords': ['artificial intelligence', 'London', 'TfL', 'Vivacity Labs', 'Will Norman'], 'articleSection': ['News'], 'inLanguage': 'en-GB'}, {'@type': 'WebPage', '@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/', 'url': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/', 'name': 'Artificial intelligence to help fuel London’s cycling boom - BikeBiz', 'isPartOf': {'@id': 'https://bikebiz.com/#website'}, 'primaryImageOfPage': {'@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#primaryimage'}, 'image': {'@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#primaryimage'}, 'thumbnailUrl': 'https://149764339.v2.pressablecdn.com/wp-content/uploads/cycling-london.jpg', 'datePublished': '2020-01-21T10:04:17+00:00', 'dateModified': '2023-08-29T17:06:24+00:00', 'description': 'TfL has worked with London tech firm Vivacity Labs - BikeBiz', 'breadcrumb': {'@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#primaryimage', 'url': 'https://149764339.v2.pressablecdn.com/wp-content/uploads/cycling-london.jpg', 'contentUrl': 'https://149764339.v2.pressablecdn.com/wp-content/uploads/cycling-london.jpg', 'width': 2000, 'height': 1000}, {'@type': 'BreadcrumbList', '@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bikebiz.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial intelligence to help fuel London’s cycling boom'}]}, {'@type': 'WebSite', '@id': 'https://bikebiz.com/#website', 'url': 'https://bikebiz.com/', 'name': 'BikeBiz', 'description': 'Bicycle and cycling retail news', 'publisher': {'@id': 'https://bikebiz.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://bikebiz.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://bikebiz.com/#organization', 'name': 'BikeBiz', 'url': 'https://bikebiz.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bikebiz.com/#/schema/logo/image/', 'url': 'https://149764339.v2.pressablecdn.com/wp-content/uploads/bikebiz-350-1.png', 'contentUrl': 'https://149764339.v2.pressablecdn.com/wp-content/uploads/bikebiz-350-1.png', 'width': 350, 'height': 74, 'caption': 'BikeBiz'}, 'image': {'@id': 'https://bikebiz.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://bikebiz.com/#/schema/person/71829f74182809c16cc47c77a4749a96', 'name': 'Rebecca Morley', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bikebiz.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/84e1cab23663f968345fafb812c73a85?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/84e1cab23663f968345fafb812c73a85?s=96&d=mm&r=g', 'caption': 'Rebecca Morley'}}]",#Breadcrumb,2020-01-21T10:04:17+00:00,2020,{'@id': '#Publisher'},{'@id': '#Publisher'},"{'@type': 'WebPage', '@id': 'https://bikebiz.com/artificial-intelligence-to-help-fuel-londons-cycling-boom/', 'breadcrumb': {'@id': '#crumbs'}}","TfL has worked with London tech firm Vivacity Labs on a UK-first trial of artificial intelligence technology, which could make it much easier to plan and operate new cycle routes in the capital.
+
+Until now, TfL has relied mainly on manual traffic counts to work out how many people are cycling on any given road. This helps assess demand for new cycle routes and helps TfL improve how it operates the road network for the growing numbers of people cycling. Manual traffic counts, which are carried out at limited locations on London's road network, are only able to give a snapshot of road use on the given day or time.
+
+Since 2018, TfL has trialled using Vivacity Labs sensors at two busy locations along Millbank. The sensors use artificial intelligence to detect road users and decide which mode of transport they are using. The competitive trial, which is the first time the technology has been used within London, showed that the Vivacity sensors are up to 98% accurate.
+
+Mark Nicholson, CEO and co-founder of Vivacity Labs, said: ""We are delighted to have been successful in the competitive trials, and to now be rolling out a set of sensors at critical junctions in a global city such as London.""
+
+The sensors gather data around the clock, which provides a significantly more detailed picture of how London's roads are being used by everyone 24/7. All video captured by the sensors is processed and discarded within seconds, meaning that no personal data is ever stored. TfL is in the process of introducing 43 more Vivacity sensors at 20 central London locations to gather data and further test to understand the full range of capabilities the technology has to offer.
+
+London's walking and cycling commissioner Will Norman said: ""By getting more people cycling and walking, we can help to tackle congestion and pollution in London and improve our health. Our Healthy Streets approach is based on evidence and data and we welcome new technology that supports this.""
+
+Data about the numbers of people cycling is part of TfL's planning for new Cycleways across London. As the network continues to grow, TfL will use data from sources such as the sensors to work out where investment in new infrastructure can best be targeted. Enabling more people to walk and cycle is central to the Mayor's efforts to tackle London's toxic air, ill-health and the climate emergency. The Mayor's Transport Strategy target is for 80% of journeys in London made by walking, cycling and public transport by 2041.
+
+Glynn Barton, TfL's director of Network Management, said: ""We work around the clock to keep people on in London moving and we're always looking for innovative new ways of making our roads safer and more efficient. New data from trials such as this will be really valuable as we invest and make day-to-day decisions to enable more people to walk and cycle.""
+
+As well as detecting people cycling, the sensors also detect people walking and other types of traffic, including cars, HGVs, vans, motorcyclists and buses. The sensors are part of a wider programme of modernisation of TfL's current road network systems and have the potential to link up to London's traffic signals and control centre systems to provide data in real time.
+
+The technology used by Vivacity has been developed over four years of research and development, supported by investment from the Mayor of London.",,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmFyY3dlYi5jb20vaW5kdXN0cnktYmVzdC1wcmFjdGljZXMvY29udmVyZ2VuY2UtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaW5kdXN0cmlhbC1pb3TSAQA?oc=5,The Convergence of Artificial Intelligence and Industrial IoT - ARC Advisory Group,2021-05-08,ARC Advisory Group,https://www.arcweb.com,"AIoT, the Convergence of Artificial Intelligence and Industrial IoT technological forces, gives rise to a new digital solution category – the Artificial Intelligence of Things (AIoT).",Convergence of Artificial Intelligence,"AIoT, the Convergence of Artificial Intelligence and Industrial IoT technological forces, gives rise to a new digital solution category – the Artificial Intelligence of Things (AIoT).","AIoT, the Convergence of Artificial Intelligence and Industrial IoT technological forces, gives rise to a new digital solution category – the Artificial Intelligence of Things (AIoT).",,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+By
+          Peter Reynolds
+                  
+
+
+
+
+Summary
+AIoT, the confluence of AI and Industrial IoT technological forces, gives rise to a new digital solution category – the Artificial Intelligence of Things (AIoT). AIoT is built for industrial companies looking for better ways to connect their evolving workforce to data-driven decision tools and digitally augment work and business processes and make better use of industrial data already collected. ARC Advisory Group has observed that the convergence and overlap of IT and OT groups, driven largely by the digital transformation of industry in recent years has created organizational confusion and a significant “gray-space” of common technologies between each area, one area being AI.
+However, leveraging AI requires data science capability, which adds additional complexity to an already complex environment. While engineering roles are skilled in analyzing large amounts of data, setting up and creating production grade machine learning environments is not easily accomplished. Unlocking the value of industrial data through AI requires a hybrid approach. This is where we get to the paradigm of Industrial AI, which combines data science and AI with software and domain expertise to deliver measurable business outcomes for capital-intensive industries.
+At one time, this manufacturing digital nervous system was primarily based solely on legacy systems and architectures. But today, the industry is borrowing from IT approaches and architectures developed for enterprise systems with a focus on speed and scale. These next generation of Industrial AI solutions make it easier for the industry to embed and deploy AI into industrial systems and allow users to solve industrial problems without retraining or adding data science capabilities to industrial organizations.
+Key drivers for AI-IoT convergence include:
+
+The overlap of IT and OT groups driven largely by the digital transformation and significant “gray-space” of common technologies between each area.
+Interest in the democratization of the application of AI in the industrial domain by converging data science with IT systems and OT domain expertise.
+Aspen Technology announced the Aspen AIoT Hub that provides production-grade integrated data management, edge, and cloud infrastructure to build, deploy and host industrial AI applications and unlock the business value from industrial data assets at enterprise speed and scale.
+
+IT/OT Organizations Leave an Abundance of Gray Space
+Information technology or “IT” commonly provides the applications and infrastructure that enables business functions to run their respective business processes. Operational technology or “OT,” in turn, executes the physical value-add via real-time systems.
+
+Historically, the scope and ownership of IT covers the spectrum of systems that support centralized corporate functions like finance, HR, supply chain, order management, sales, etc. These functions and their processes tend to have commonality across industries. However, OT involves the spectrum of systems that deal with the physical transformation of products and services. These task-specific and often mission-critical systems are highly customized for individual industries. They typically fall under the domain of a centralized (global) engineering services group or de-centralized (plant-level) engineering group.
+ARC has observed that the convergence and overlap of IT and OT groups, driven largely by the digital transformation of industry in recent years, has created organizational confusion around ownership and responsibility. This historical view is somewhat clouded by technology change and convergence, centralization versus decentralization, and the prevalence of significant “gray-space” of common technologies between each area.
+Convergence of AI and Industrial IoT
+Industrial companies are looking for better ways to connect their workforce to decision tools and digitally enhance or augment work and business processes. At the center of industrial technology strategies, leaders are looking to make better use of industrial data already collected and help diverse persons within the organization make better decisions that improve business performance. We see this dynamic across all aspects of manufacturing, from design engineering to operations and maintenance to supply chain and human resources.
+However, leveraging AI requires data science capability, adding additional complexity to an already complex environment. An AI system built for industrial processes without adequate knowledge of a plant or process or without appropriate controls and systems could create a potentially dangerous situation by introducing serious errors and impacting plant decision making.
+Industrial manufacturing has not typically built organizational competency in data science. While engineering roles are skilled in analyzing large amounts of data, setting up and creating production-grade machine learning environments is not easily accomplished.
+AIoT is the convergence of AI and the IoT, bringing intelligence from the edge to the cloud in industrial environments, transforming the data into useful information for an improved decision-making process, with processing done in a location where it is most needed. The foundation of Industrial IoT is the ability to collect massive quantities of data at high frequency and making these integrated datasets mobile and accessible across the organization for strategic decision making. AIoT is the democratization of AI and machine learning in the industrial domain by converging data science with IT providing software at scale and OT domain expertise.
+
+Artificial Intelligence is the brain of a system, while the Industrial IoT (Internet of Things) functions like the digital nervous system. At one time, this digital nervous system was primarily based solely on legacy systems and architectures, such as control systems, networks, and process historian infrastructure. But today, the industry is borrowing again from IT and approaches and architectures developed for enterprise systems including the cloud. These systems make it easier for the industry to embed AI into operational technologies by leveraging a scalable data infrastructure to power Industrial AI models from training to productization and allow users to solve industrial problems without significantly adding data science capabilities to industrial organizations.
+AspenTech Industrial AI Infrastructure: Aspen AIoT Hub
+To help embed data science, Aspen Technology announced the Aspen AIoT Hub -- a fit-for-purpose, cloud-ready and built-for-industry Industrial AI infrastructure solution. The AIoT Hub provides the integrated data management, edge and cloud infrastructure and production-grade AI environment to build, deploy and host industrial AI applications at enterprise speed and scale.
+The Aspen AIoT Hub consists of several well-established and innovative technologies. At its core is Aspen InfoPlus.21, which integrates cloud-native connectivity, capabilities providing the ability to assemble and deploy AI-driven IoT applications, and the advanced enterprise workflows, analytics, and governance that is designed for industrial companies. Key capabilities of the Aspen AIoT Hub include:
+Data Integration & Mobility
+Through the Aspen AIoT Hub, organizations will be able to access and leverage fully integrated data, from sensors to the edge and cloud, across the enterprise.
+Cloud-ready Infrastructure
+Scaling AI requires providing the tools, infrastructure, and workflows for broader collaboration between development, data science, and infrastructure capabilities such as CloudOps, DevOps, MLOps and others.
+Enterprise-wide Visualization
+The Aspen AIoT Hub enables enterprise users access to real-time data and analytics to do all of this – improving collaboration, project efficiency and operations by tapping into the power of accelerated insights and enhanced visualizations.
+Industrial AI Applications Ecosystem
+Provides an embedded workbench for feature engineering, training, and rapidly productizing machine learning (ML) models, as well as supports versioning and collaboration. It empowers data scientists, at customers and partners, to collaborate with domain experts on data-rich AI apps.
+
+Conclusion
+ARC Advisory Group research finds interest in AI in manufacturing to be strong; however, a recent digital transformation study of 157 process manufacturers finds barriers to organizational accountability, change leadership, and competency. This disconnect between ambition and ability is cause for industrial companies to seek ways to democratize application of AI through Industrial AI, just as Industrial IoT has democratized the access to data.
+The confluence of AI and Industrial IoT technological forces gives rise to a new digital solution category -- the Artificial Intelligence of Things (AIoT) -- that centers on unlocking the untapped business value in industrial data. This category describes the combination of AI technologies with the Industrial IoT to enable the next generation of Industrial AI infrastructure, allowing organizations to enable seamless human-machine workflows, harmonize industrial data management, and rapidly transform raw data into tangible business outcomes.
+Today, the industry stands at a tipping point – they must tap into the disruptive power of these technologies to transform their business operations and redefine their sustainable competitive advantage or else risk obsolescence. As AI and Industrial IoT converge into AIoT, the information technology (IT) and operations technology (OT) functions are also converging -- unlocking additional opportunities and challenges.
+Drivers for AI and Industrial IoT convergence place an emphasis on using data already gathered. ARC Advisory Group recommends industrial users consider the following business drivers to justify an AIoT strategy.
+
+*All products mentioned in this ARC View are the proprietary trademarks of Aspen Technology.
+ 
+  ARC Advisory Group clients can view the complete report at ARC Client Portal
+ If you would like to speak with the author, please  Contact Us
+
+
+
+ 
+Related Content
+
+Services for Industry Leaders
+Supplier Selection Guides
+Market Analysis Services
+Industrial Analytics
+
+
+
+
+
+
+",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFib3V0YW1hem9uLmNvbS9uZXdzL2F3cy9idWlsZGluZy1jYXJlZXItcGF0aHMtZm9yLXdvbWVuLWluLWFp0gEA?oc=5,Building career paths for women in AI - About Amazon,2021-05-10,About Amazon,https://www.aboutamazon.com,A new report from the Deloitte AI Institute looks into women’s experiences working in Artificial Intelligence and what businesses can do to encourage greater representation.,N/A,A new report from the Deloitte AI Institute looks into women’s experiences working in Artificial Intelligence and what businesses can do to encourage greater representation.,A new report from the Deloitte AI Institute looks into women’s experiences working in Artificial Intelligence and what businesses can do to encourage greater representation.,http://schema.org,Article,https://www.aboutamazon.com/news/aws/building-career-paths-for-women-in-ai,"[{'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 1025, 'url': 'https://assets.aboutamazon.com/dims4/default/9f0fe84/2147483647/strip/false/crop/2000x1380+0+0/resize/1486x1025!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F26%2Ff0%2F11fd2abf4fda9dde8553c2566598%2Fallie-miller-headshot-2.jpg', 'width': 1486}, {'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 675, 'url': 'https://assets.aboutamazon.com/dims4/default/72d02f9/2147483647/strip/false/crop/2000x1125+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F26%2Ff0%2F11fd2abf4fda9dde8553c2566598%2Fallie-miller-headshot-2.jpg', 'width': 1200}]","[{'@context': 'http://schema.org', '@type': 'Person', 'name': 'Amazon Staff '}]","{'@type': 'Organization', 'name': 'US About Amazon', 'logo': {'@type': 'ImageObject', 'url': 'https://amazon-blogs-brightspot-lower.s3.amazonaws.com/about/00/92/0260aab44ee8a2faeafde18ee1da/amazon-logo-inverse.svg'}, 'parentOrganization': {'@type': 'Organization', 'name': 'Amazon', 'url': 'https://www.amazon.com'}}",Building career paths for women in AI,"May 10, 2021",,AWS,,,,N/A,N/A,"A new report from the Deloitte AI Institute looks into women’s experiences working in Artificial Intelligence and what businesses can do to encourage greater representation.Allie K. Miller works with some of the world’s most innovative Artificial Intelligence companies in her role at Amazon Web Services. Her career path and unique job helped her get involved in a new report that looks at the opportunities for women in AI and ways to close the industry’s gender gap.“My job didn’t exist three years ago. It was nowhere in the world."" said Miller, global head of machine learning and business development for startups and venture capital at AWS. “Today, there are infinite paths to get into AI and machine learning. It’s not this narrow little sidewalk you have to tiptoe. It’s a 14-lane highway.”Miller was one of several women in AI leadership positions interviewed for Women in AI, a new report by AWS partner Deloitte and their AI Institute. The report examines the roots of the gender gap in the industry—as well as what can be done to fix it—and the opportunities available to women in the fast-growing field. Allie K. Miller, global head of machine learning and business development for startups and venture capital at AWS.The report is based on in-depth interviews with 12 executives, all women, and a survey of 200 experts working in AI, a quarter of whom identified as male. AWS co-sponsored the Women in AI report. It includes a foreword from LaDavia Drane, who heads Global Inclusion, Diversity, and Equity at AWS, and Kavitha Prabhakar, chief officer of Diversity, Equity, and Inclusion at Deloitte.In order to build an effective AI system, an AI team needs to be as diverse as the population the team’s AI will impact. Given that half the world’s population is female, having more gender diversity in AI is “common sense,” as Miller put it. Yet women only make up 26% of data and AI positions in the global workforce. Why?One of the main barriers to women working in AI comes long before they enter the job market, according to the report. Social and cultural stereotypes, such as girls not being as capable as boys in math or science, often dissuade young women from pursuing study focused on STEM (science, technology, engineering, and math).Many of the women Deloitte researchers interviewed said they wouldn’t have pursued a path to AI had they not had a direct influence to get into STEM, such as a mother who worked in science or an engineering camp in middle school. The women also emphasized the roles of mentors. “When I look back at my career, most of my successes can be traced back to a mentor,” Miller said. “The benefits of the mentor-mentee relationship cannot be overestimated.”“The advice I would have given my younger self on my professional development is ‘don’t be afraid to ask for help,’” said Dr. Nashlie Sephus, applied science manager for AWS, another leader interviewed for the report.Dr. Nashlie Sephus, applied science manager for AWS.The report emphasizes that although a strong mathematical or statistical background can be important in AI, it is not a prerequisite. And even though men outnumber women in the AI industry, men aren’t necessarily more advanced in their AI careers, according to the report. AI is still a nascent field where relatively few people have leading expertise, and many organizations and workforces are just beginning their AI journeys.Among the report’s key recommendations:Build and showcase archetypes of women working in AI Researchers said it is vital to have women in visible roles as scientists or AI leaders within business and society. Those leaders provide other women working in AI with clear examples of how to advance professionally, and their visibility helps deconstruct stereotypes about women and girls not belonging in STEM fields.Provide education on AIOrganizations need to remove the ambiguity surrounding what it means to work in AI and showcase the numerous opportunities in the industry beyond engineering and tech roles. Businesses also must promote a culture of continuous learning and provide women interested in AI with professional development opportunities.Mentor future women in AIMany of the women interviewed for the report said mentorship was a key driver behind their success. They said informal relationships had as much, if not more, influence on their trajectory than formal programs.Create a culture of diversity and inclusion at all levelsThe report found that organizational programs to address gender diversity are likely not enough on their own. Creating a culture of inclusion means constantly searching for and eliminating biases and discrimination against women in the workforce, while at the same time placing women into organizational opportunities where they have been historically underrepresented.“What struck me most about this research is that it clearly shows the way to increase representation of women in AI goes far beyond recruitment,” said Drane, who leads AWS’s global inclusion, diversity, and equity efforts.“It starts with supporting early STEM education and showing young women and girls what AI roles are out there. It’s real, active mentorship that’s organic and from peers, and it’s ongoing training and development to build AI leaders that organizations can then champion.“All of this resonates with me because it's clear we're on the right track at AWS with our focus and commitments,” Drane said. “But it's also clear we need to do more. We all do. And now we know the path to get there.”Get the full report here.",,,,,,,"{'@type': 'WebPage', '@id': 'https://www.aboutamazon.com/news/aws/building-career-paths-for-women-in-ai'}",,,,,,
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvZGV0ZWN0aW5nLWFuZC1taXRpZ2F0aW5nLWJpYXMtaW4tbmF0dXJhbC1sYW5ndWFnZS1wcm9jZXNzaW5nL9IBAA?oc=5,Detecting and mitigating bias in natural language processing | Brookings - Brookings Institution,2021-05-10,Brookings Institution,https://www.brookings.edu,Another front in the fight against AI bias.,N/A,Another front in the fight against AI bias.,N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+ Back to Janesville 
+
+
+
+
+
+
+
+
+
+                        Back to Janesville 
+","[{'@type': 'WebPage', '@id': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/', 'url': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/', 'name': 'Detecting and mitigating bias in natural language processing | Brookings', 'isPartOf': {'@id': 'https://www.brookings.edu/#website'}, 'primaryImageOfPage': {'@id': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/#primaryimage'}, 'image': {'@id': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/#primaryimage'}, 'thumbnailUrl': 'https://www.brookings.edu/wp-content/uploads/2020/01/iran_cyber001.jpg?quality=75', 'datePublished': '2021-05-10T12:47:50+00:00', 'dateModified': '2022-03-09T05:36:25+00:00', 'description': 'Another front in the fight against AI bias.', 'breadcrumb': {'@id': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/#primaryimage', 'url': 'https://www.brookings.edu/wp-content/uploads/2020/01/iran_cyber001.jpg?quality=75', 'contentUrl': 'https://www.brookings.edu/wp-content/uploads/2020/01/iran_cyber001.jpg?quality=75', 'width': 3000, 'height': 2000, 'caption': ""John Bumgarner, a cyber warfare expert who is chief technology officer of the U.S. Cyber Consequences Unit, a non-profit group that studies the impact of cyber threats, works on his laptop computer during a portrait session in Charlotte, North Carolina December 1, 2011. A cyber warfare expert claims he has linked the Stuxnet computer virus that attacked Iran's nuclear program in 2010 to Conficker, a mysterious worm that surfaced in late 2008 and infected millions of PCs. Conficker was used to open back doors into computers in Iran, then infect them with Stuxnet, according to research Bumgarner, a retired U.S. Army special-operations veteran and former intelligence officer. To match Insight - CYBERSECURITY/IRAN REUTERS/John Adkisson (UNITED STATES - Tags: SCIENCE TECHNOLOGY MILITARY)""}, {'@type': 'BreadcrumbList', '@id': 'https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.brookings.edu/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Detecting and mitigating bias in natural language processing'}]}, {'@type': 'WebSite', '@id': 'https://www.brookings.edu/#website', 'url': 'https://www.brookings.edu/', 'name': 'Brookings', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.brookings.edu/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmlibS5jb20vYmxvZy90cnVzdHdvcnRoeS1haS_SAQA?oc=5,The four keys to trustworthy AI - IBM,2021-05-11,IBM,https://www.ibm.com,N/A,N/A,"Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including the 40,000 client engagements with IBM Watson across 20 industries in […]",N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+
+ 
+
+
+
+
+
+
+
+                              Artificial intelligence  
+                        
+
+
+                        July 15, 2024                  
+
+
+Are bigger language models always better?
+
+  4 min read - As enterprises look to separate the hype from where AI can add true value, it’s unclear if increasingly larger language models will always lead to better business solutions.                        
+
+
+","[{'@type': 'WebPage', '@id': 'https://www.ibm.com/blog/trustworthy-ai/', 'url': 'https://www.ibm.com/blog/trustworthy-ai/', 'name': 'The four keys to trustworthy AI - IBM Blog', 'isPartOf': {'@id': 'https://www.ibm.com/blog/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ibm.com/blog/trustworthy-ai/#primaryimage'}, 'image': {'@id': 'https://www.ibm.com/blog/trustworthy-ai/#primaryimage'}, 'thumbnailUrl': 'https://www.ibm.com/blog/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg', 'datePublished': '2021-05-11T13:00:48+00:00', 'dateModified': '2021-09-30T21:16:49+00:00', 'author': {'@id': 'https://www.ibm.com/blog/#/schema/person/44a8a60b27cc63f6ae81c5fbde136589'}, 'breadcrumb': {'@id': 'https://www.ibm.com/blog/trustworthy-ai/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ibm.com/blog/trustworthy-ai/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ibm.com/blog/trustworthy-ai/#primaryimage', 'url': 'https://www.ibm.com/blog/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg', 'contentUrl': 'https://www.ibm.com/blog/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg', 'width': 2001, 'height': 1001, 'caption': 'Trustworthy AI'}, {'@type': 'BreadcrumbList', '@id': 'https://www.ibm.com/blog/trustworthy-ai/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://ibm.com/blog/'}, {'@type': 'ListItem', 'position': 2, 'name': 'The four keys to trustworthy AI', 'item': ''}]}, {'@type': 'WebSite', '@id': 'https://www.ibm.com/blog/#website', 'url': 'https://www.ibm.com/blog/', 'name': 'IBM Blog', 'description': 'IBM Blog', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ibm.com/blog/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.ibm.com/blog/#/schema/person/44a8a60b27cc63f6ae81c5fbde136589', 'name': 'Seth Dobrin', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ibm.com/blog/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/446f25f0d9b769d3944e40d3fb2f109f?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/446f25f0d9b769d3944e40d3fb2f109f?s=96&d=mm&r=g', 'caption': 'Seth Dobrin'}, 'url': 'https://www.ibm.com/blog/author/seth-dobrin/'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lmx1eHVvLmNvbS9saWZlc3R5bGUvZ2FkZ2V0cy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hLWJsZXNzaW5nLW9yLWEtY3Vyc2UuaHRtbNIBAA?oc=5,Artificial Intelligence: a Blessing or a Curse? - LUXUO,2021-05-11,LUXUO,https://www.luxuo.com,"Artificial intelligence is changing the world as we know it today, but should we be embracing the new technology or avoiding it?",N/A,"Artificial intelligence is changing the world as we know it today, but should we be embracing the new technology or avoiding it?",N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,N/A,"[{'@type': 'Article', '@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#article', 'isPartOf': {'@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html'}, 'author': {'name': 'Abram Yum', '@id': 'https://www.luxuo.com/#/schema/person/73f1dc86838177efaec678ed0ce294cc'}, 'headline': 'Artificial Intelligence: a Blessing or a Curse?', 'datePublished': '2021-05-11T07:39:26+00:00', 'dateModified': '2021-05-11T07:39:28+00:00', 'mainEntityOfPage': {'@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html'}, 'wordCount': 586, 'publisher': {'@id': 'https://www.luxuo.com/#organization'}, 'image': {'@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#primaryimage'}, 'thumbnailUrl': 'https://cdn.luxuo.com/2021/05/Artificial-Intelligence-feature-660-X-550.jpg', 'keywords': ['Artificial intelligence'], 'articleSection': ['Gadgets'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html', 'url': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html', 'name': 'Artificial Intelligence: a Blessing or a Curse?', 'isPartOf': {'@id': 'https://www.luxuo.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#primaryimage'}, 'image': {'@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#primaryimage'}, 'thumbnailUrl': 'https://cdn.luxuo.com/2021/05/Artificial-Intelligence-feature-660-X-550.jpg', 'datePublished': '2021-05-11T07:39:26+00:00', 'dateModified': '2021-05-11T07:39:28+00:00', 'description': 'Artificial intelligence is changing the world as we know it today, but should we be embracing the new technology or avoiding it?', 'breadcrumb': {'@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#primaryimage', 'url': 'https://cdn.luxuo.com/2021/05/Artificial-Intelligence-feature-660-X-550.jpg', 'contentUrl': 'https://cdn.luxuo.com/2021/05/Artificial-Intelligence-feature-660-X-550.jpg', 'width': 660, 'height': 550}, {'@type': 'BreadcrumbList', '@id': 'https://www.luxuo.com/lifestyle/gadgets/artificial-intelligence-a-blessing-or-a-curse.html#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.luxuo.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence: a Blessing or a Curse?'}]}, {'@type': 'WebSite', '@id': 'https://www.luxuo.com/#website', 'url': 'https://www.luxuo.com/', 'name': 'LUXUO', 'description': 'The Luxury Lifestyle Portal', 'publisher': {'@id': 'https://www.luxuo.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.luxuo.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.luxuo.com/#organization', 'name': 'Luxuo', 'url': 'https://www.luxuo.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.luxuo.com/#/schema/logo/image/', 'url': 'https://eoouae45rgb.exactdn.com/2022/06/favicon-1.png?strip=all&lossy=1&quality=75&ssl=1', 'contentUrl': 'https://eoouae45rgb.exactdn.com/2022/06/favicon-1.png?strip=all&lossy=1&quality=75&ssl=1', 'width': 512, 'height': 512, 'caption': 'Luxuo'}, 'image': {'@id': 'https://www.luxuo.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.luxuo.com/#/schema/person/73f1dc86838177efaec678ed0ce294cc', 'name': 'Abram Yum', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.luxuo.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/3a6da185a9b374c3de09e61b6a1d04cd?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/3a6da185a9b374c3de09e61b6a1d04cd?s=96&d=mm&r=g', 'caption': 'Abram Yum'}, 'url': 'https://www.luxuo.com/author/abram-yum'}]",,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Jlcm5hcmRtYXJyLzIwMjEvMDUvMDcvdml2aW5vLWNob29zZS15b3VyLW5leHQtZ3JlYXQtd2luZS13aXRoLWJpZy1kYXRhLWFuZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,Vivino: Choose Your Next Great Wine With Big Data And Artificial Intelligence - Forbes,2021-05-07,Forbes,https://www.forbes.com,"If you’ve ever longed for a personal wine steward to hold your hand in the supermarket and help you select the perfect wine for you, you’ll love Vivino. Find out how this game-changing app is using big data and AI to eliminate overwhelm for wine buyers. ","Vivino,vine,ai,artificial intelligence,data,big data","If you’ve ever longed for a personal wine steward to hold your hand in the supermarket and help you select the perfect wine for you, you’ll love Vivino. Find out how this game-changing app is using big data and AI to eliminate overwhelm for wine buyers. ","If you’ve ever longed for a personal wine steward to hold your hand in the supermarket and help you select the perfect wine for you, you’ll love Vivino. Find out how this game-changing app is using big data and AI to eliminate overwhelm for wine buyers. ",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2021/05/07/vivino-choose-your-next-great-wine-with-big-data-and-artificial-intelligence/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/6094c14993aadca867246750/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",Vivino: Choose Your Next Great Wine With Big Data And Artificial Intelligence,2021-05-07T00:28:02-04:00,2021-05-07T00:28:02-04:00,Enterprise Tech,Vivino: Choose Your Next Great Wine With Big Data And Artificial Intelligence,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",Enterprise Tech,N/A,"More From ForbesJul 17, 2024,11:06am EDTAI Adoption Is Driving Real Top - And Bottom-Line Impact For EnterprisesJul 16, 2024,01:02pm EDTThe CEO’s Guide To Building Generative AIJul 16, 2024,01:24am EDT22 Generative AI Workplace Tools And How To Use ThemJul 15, 2024,09:02am EDTWhen Will Quantum Computers Affect Your Competitive Landscape?Jul 15, 2024,09:00am EDTAristotle’s Timeless Guide To Mastering AIOpsJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelEdit StoryForbesInnovationEnterprise TechVivino: Choose Your Next Great Wine With Big Data And Artificial IntelligenceBernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itMay 7, 2021,12:28am EDTUpdated May 7, 2021, 12:28am EDTThis article is more than 3 years old.Share to FacebookShare to TwitterShare to LinkedinHave you ever wished you had a personal sommelier to help you choose the right wine?
+
+A wine that’s perfect for the occasion, tastes great according to your personal preferences, and is at the right price point for you?
+
+That’s exactly what Vivino can do for you. Vivino is the world’s largest online wine marketplace, and with the help of the data being generated by their 51 million users, you can always find the right wine for you.
+
+Vivino: Choose Your Next Great Wine With Big Data And Artificial Intelligence Adobe Stock
+I interviewed Heini Zachariassen, Vivino’s Founder and CEO, about how Vivino is using big data and artificial intelligence to help people find and purchase their perfect wine.
+
+PROMOTED
+Getting More Info in the Wine Aisle
+Most people aren’t wine experts, and there are a lot of choices on the market. So when people walk into a supermarket or beverage store and see a wall of wine choices, it’s easy to get overwhelmed.
+Heini Zachariassen originally founded the Vivino app to empower people with the knowledge to make better choices for them, and remove a lot of the mystery from the wine world.
+When you snap a photo of a bottle of wine, you can immediately look at crowdsourced reviews, check prices, and even place an order right from your phone. You can also scan wine lists in restaurants to help you pick the right vino when you’re out at a nice restaurant.
+MORE FOR YOUFather Of Suspected Trump Gunman Was Profiled As Pro-Gun Voter By Trump Campaign: What We Know About Thomas Matthew Crooks‘The Acolyte’ Episode 8 Recap And Review: A Dreadful Season Finale And The Cameos Can’t Save ItAmazon Prime Day 2024: The 110 Best Deals Of Day Two So Far
+Vivino’s unique wine shopping experience is 100% powered by community data – 20,000 new users download the app every day.
+When asked how important data is to Vivino, Heini said:
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+""The real game-changer for us is that we know all these wines by now. We have 1.5 billion pictures of wine labels, 200 million ratings, and 10 million wines in the database. 200 million ratings. The data is the key to our business, and no other company can compete with us because we have that information and have 50 million users helping us maintain it.”
+
+
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE
+The Vivino app can tell you whether the wine has the level of smoothness or dryness you’re looking for, whether it’s a good match for your meal, and even whether or not it’s a good deal.
+After you’ve tried the wine, you can record your own rating and tasting notes in the app, and it will add that information to your profile to expand its knowledge of your tastes and preferences.
+Personalized Matches for Every Wine Drinker
+Vivino recently built artificial intelligence (AI) on top of all their review and profile data to create algorithms that generate a personalized match score for every user and every wine.
+Once you've rated at least five wines, every wine in the database will have a ""match score"" that's generated just for you, letting you know if there's a high, medium, or low chance that you’ll like it.
+These match scores are generated specifically for you – Vivino knows that a 5-star wine for someone else might not be a knockout choice for you.
+“Even I'm surprised how accurate it is,” Heini says. “The app knows things about me that I didn't even realize. For example, I love champagne. Some champagnes are based on Pinot Noir, and some are based on Chardonnay. The Vivino algorithm actually recognized that the champagnes I didn’t care for were all Chardonnay-based ones. I had no idea.”
+The Data That Connects User to Vineyard
+Heini believes that the wine industry will be able to build on the big data Vivino and other wine tech companies have gathered, and use machine learning and artificial intelligence to continue to push the boundaries of the industry in the future.
+You can watch my full interview with Vivino founder and CEO Heini Zachariassen here:
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is... Read MoreEditorial StandardsPrintReprints & Permissions",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvZDQxNTg2LTAyMS0wMTI1NC140gEA?oc=5,A deep-rooted appreciation for the health benefits of plants - Nature.com,2021-05-10,Nature.com,https://www.nature.com,Kehinde Apara draws on artificial intelligence and her own family background to source flora for her work at a California bioprospecting company.,N/A,Kehinde Apara draws on artificial intelligence and her own family background to source flora for her work at a California bioprospecting company.,Nature - Kehinde Apara draws on artificial intelligence and her own family background to source flora for her work at a California bioprospecting company.,https://schema.org,WebPage,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+WHERE I WORK
+10 May 2021
+
+A deep-rooted appreciation for the health benefits of plants
+
+
+                    Kehinde Apara draws on artificial intelligence and her own family background to source flora for her work at a California bioprospecting company.
+                
+
+
+
+
+    By
+    
+        
+        
+                James Mitchell Crow0
+
+
+
+
+James Mitchell Crow
+
+
+James Mitchell Crow is a freelance science writer in Melbourne, Australia.
+
+
+
+
+View author publications
+
+You can also search for this author in PubMed
+ Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kehinde Apara is a raw-materials research and sourcing associate at Brightseed in San Francisco, California. Credit: Ian Tuttle for Nature
+
+
+
+
+
+
+
+
+
+
+Access through your institution
+
+
+
+
+Buy or subscribe
+
+
+
+
+I love being surrounded by plants every day. Here, it’s February, and I’m in my laboratory in San Francisco, California, where I work for a company called Brightseed. I break plants down into fine powders so our scientists can uncover each plant’s metabolome — the complete set of small molecules that it makes. Brightseed aims to find the molecules that matter in terms of human health and nutrition.
+
+Access options
+
+
+
+
+
+Access through your institution
+
+
+
+
+
+
+
+
+
+Access through your institution
+
+
+
+
+Change institution
+
+
+
+
+Buy or subscribe
+
+
+
+Access Nature and 54 other Nature Portfolio journalsGet Nature+, our best-value online-access subscription$29.99 / 30 dayscancel any timeLearn moreSubscribe to this journalReceive 51 print issues and online access$199.00 per yearonly $3.90 per issueLearn moreRent or buy this articlePrices vary by article typefrom$1.95to$39.95Learn morePrices may be subject to local taxes which are calculated during checkout
+
+Additional access options:
+
+
+Log in
+
+
+Learn about institutional subscriptions
+
+
+Read our FAQs
+
+
+Contact customer support
+
+
+
+
+Nature 593, 306 (2021)
+doi: https://doi.org/10.1038/d41586-021-01254-x
+
+
+Related Articles
+
+
+
+
+
+                        
+                        The scientist-gardener who is harnessing tobacco’s power to heal
+                    
+
+
+
+
+
+
+                        
+                        A fine soft day for surveying moss and liverworts
+                    
+
+
+
+
+
+
+                        
+                        Top banana: developing varieties that resist disease
+                    
+
+
+
+Subjects
+
+
+Careers
+
+
+Industry
+
+
+Plant sciences
+
+
+
+Latest on:
+
+
+Careers
+
+
+
+
+
+The geneticist who uses science to free parents wrongly convicted of killing their children
+Career Feature 16 JUL 24
+
+
+
+
+
+Science on the edge: how extreme outdoor skills enhanced our fieldwork
+Career Feature 15 JUL 24
+
+
+
+
+
+Maggie Aderin-Pocock on diversity: ‘It’s hard to find an argument against it’
+Career Q&A 12 JUL 24
+
+
+
+
+
+
+Industry
+
+
+
+
+
+A Trojan horse for thirsty tumours
+Outlook 11 JUL 24
+
+
+
+
+
+A light-touch approach to intracellular delivery
+Outlook 11 JUL 24
+
+
+
+
+
+Infrared spectrometry guides cancer treatment
+Outlook 11 JUL 24
+
+
+
+
+
+
+Plant sciences
+
+
+
+
+
+Things fall into place: how plants sense and respond to gravity
+News & Views 17 JUL 24
+
+
+
+
+
+Identification of plant transcriptional activation domains
+Article 17 JUL 24
+
+
+
+
+
+Many plant names are offensive: botanists will vote on whether to change them
+News 16 JUL 24
+
+
+
+
+
+
+
+
+
+
+The geneticist who uses science to free parents wrongly convicted of killing their children
+Career Feature 16 JUL 24
+
+
+
+
+
+Science on the edge: how extreme outdoor skills enhanced our fieldwork
+Career Feature 15 JUL 24
+
+
+
+
+
+Maggie Aderin-Pocock on diversity: ‘It’s hard to find an argument against it’
+Career Q&A 12 JUL 24
+
+
+
+
+
+
+
+
+
+
+Jobs
+                
+
+
+
+
+
+Editor (Electrical and Electronic Engineering)
+
+The Associate/Senior Editor role at Nature Communications is ideal for researchers who love science and engineering.
+London, Berlin or Pune – hybrid working model.
+Springer Nature Ltd
+
+
+
+
+
+
+
+
+High-Level Talents at the First Affiliated Hospital of Nanchang University
+
+For clinical medicine and basic medicine; basic research of emerging inter-disciplines and medical big data.
+Nanchang, Jiangxi, China
+The First Affiliated Hospital of Nanchang University
+
+
+
+
+
+
+
+
+Associate or Senior Editor, Nature Electronics
+
+Job Title: Associate or Senior Editor, Nature Electronics   Location: New York, Shanghai or Beijing — Hybrid Working   Closing date for application...
+New York City, New York (US)
+Springer Nature Ltd
+
+
+
+
+
+
+
+
+Postdoctoral Fellow
+
+To study how a population of skeletal stem cells mediate bone regeneration and orchestrate a composite tissue regeneration program using mouse models.
+Hospital for Special Surgery, New York City, New York (US)
+Hospital for Special Surgery
+
+
+
+
+
+
+
+
+Lecturer / Associate Professor in Advanced Cell Models
+
+Lecturer / Associate Professor in Advanced Cell Models Cell and Developmental Biology Location: Highfield Campus Salary: £44,263 to £72,018 per ann...
+Southampton, Hampshire (GB)
+University of Southampton
+
+
+
+
+
+
+
+
+
+",,,,,,,,,"{'headline': 'A deep-rooted appreciation for the health benefits of plants', 'description': 'Kehinde Apara draws on artificial intelligence and her own family background to source flora for her work at a California bioprospecting company.  Kehinde Apara draws on artificial intelligence and her own family background to source flora for her work at a California bioprospecting company.', 'datePublished': '2021-05-10T00:00:00Z', 'dateModified': '2021-05-10T00:00:00Z', 'pageStart': '306', 'pageEnd': '306', 'sameAs': 'https://doi.org/10.1038/d41586-021-01254-x', 'keywords': ['Careers', 'Industry', 'Plant sciences', 'Science', 'Humanities and Social Sciences', 'multidisciplinary'], 'image': [], 'isPartOf': {'name': 'Nature', 'volumeNumber': '593', '@type': ['Periodical', 'PublicationVolume']}, 'publisher': {'name': 'Nature Publishing Group UK', 'logo': {'url': 'https://www.springernature.com/app-sn/public/images/logo-springernature.png', '@type': 'ImageObject'}, '@type': 'Organization'}, 'author': [{'name': 'James Mitchell Crow', '@type': 'Person'}], 'isAccessibleForFree': True, '@type': 'NewsArticle'}",,,,
+https://news.google.com/rss/articles/CBMiiAFodHRwczovL3N3YXJhanlhbWFnLmNvbS9zY2llbmNlL2hvdy1hbi1paXQta2hhcmFncHVyLWNvbXB1dGVyLXNjaWVudGlzdC1pcy11bnZlaWxpbmctc2Fuc2tyaXQtbGl0ZXJhdHVyZS10aHJvdWdoLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNl0gGSAWh0dHBzOi8vc3dhcmFqeWFtYWcuY29tL2FtcC9zdG9yeS9zY2llbmNlL2hvdy1hbi1paXQta2hhcmFncHVyLWNvbXB1dGVyLXNjaWVudGlzdC1pcy11bnZlaWxpbmctc2Fuc2tyaXQtbGl0ZXJhdHVyZS10aHJvdWdoLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNl?oc=5,How An IIT Kharagpur Computer Scientist Is Unveiling Sanskrit Literature Through Artificial Intelligence - Swarajya,2021-05-07,Swarajya,https://swarajyamag.com,,,N/A,N/A,http://schema.org,NewsArticle,https://swarajyamag.com/science/how-an-iit-kharagpur-computer-scientist-is-unveiling-sanskrit-literature-through-artificial-intelligence,"{'@type': 'ImageObject', 'url': 'https://swarajya.gumlet.io/swarajya/2021-05/13d9796d-0217-4a23-aef5-41a2a801d244/Prof_Pawan_Goyal_pics.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Karan Kamble', 'name': 'Karan Kamble', 'url': 'https://swarajyamag.com/author/karan-kamble'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'id': ''}",How An IIT Kharagpur Computer Scientist Is Unveiling Sanskrit Literature Through Artificial Intelligence,2021-05-07T13:31:00+04:00,2021-05-07T13:31:00+04:00,Science,How An IIT Kharagpur Computer Scientist Is Unveiling Sanskrit Literature Through Artificial Intelligence,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://swarajyamag.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Science', 'item': 'https://swarajyamag.com/section/science'}, {'@type': 'ListItem', 'position': 3, 'name': 'How An IIT Kharagpur Computer Scientist Is Unveiling Sanskrit Literature Through Artificial Intelligence', 'item': 'https://swarajyamag.com/science/how-an-iit-kharagpur-computer-scientist-is-unveiling-sanskrit-literature-through-artificial-intelligence'}]",N/A,N/A,N/A,,,2021-05-07T13:31:00+04:00,,,,"{'@type': 'WebPage', '@id': ''}","&lt;p&gt;Researchers led by IIT Kharagpur's Dr Pawan Goyal have developed an artificial intelligence-based system to process Sanskrit texts.&lt;/p&gt;&lt;p&gt;The goal is to provide access to ancient literature.&lt;/p&gt;.&lt;p&gt;Sanskrit may be the least spoken of the scheduled languages in India, but it has been mighty resilient — even perhaps making a small comeback — in recent years.&lt;/p&gt;&lt;p&gt;According to 2011 Census data, &lt;ins&gt;&lt;a href=""https://censusindia.gov.in/2011Census/C-16_25062018_NEW.pdf""&gt;close to 25,000 people&lt;/a&gt;&lt;/ins&gt; had Sanskrit as their mother tongue, and while that may not seem like much in a population of over 130 crore, it marks a growth of more than 10,000 speakers over a decade.&lt;/p&gt;&lt;p&gt;For all we know, this number may be even higher.&lt;/p&gt;&lt;p&gt;Dr Bibek Debroy, addressing a gathering in Paris for a 2016 UNESCO event, &lt;ins&gt;&lt;a href=""https://swarajyamag.com/culture/the-wonder-that-is-sanskrit""&gt;said&lt;/a&gt;&lt;/ins&gt;, “Indians speak more than one language. For Sanskrit to be the first language or mother tongue is rare. But it can be the third or fourth language. We don’t capture that. Hence, we don’t know how many Indians speak Sanskrit.”&lt;/p&gt;&lt;p&gt;For its part, the Union government has been keen to preserve and promote Sanskrit. Among the more recent examples is the passing of the Central Sanskrit Universities Bill — granting central university status to three deemed-to-be Sanskrit universities — to broaden the scope of Sanskrit education and research in the country.&lt;/p&gt;&lt;p&gt;Additionally, the New Education Policy 2020 called for Sanskrit to be available for study across the school and higher education levels, notably pulling back the grade at which a student can begin learning Sanskrit, to the primary level.&lt;/p&gt;&lt;p&gt;The reasons to promote Sanskrit are good and many, but perhaps the most tempting is to unveil the vast treasure house of ancient Indian knowledge.&lt;/p&gt;&lt;p&gt;There’s &lt;ins&gt;&lt;a href=""https://www.dailyo.in/arts/ten-sanskrit-texts-everyone-must-read/story/1/1067.html""&gt;more to Sanskrit literature&lt;/a&gt;&lt;/ins&gt; than the &lt;em&gt;Vedas&lt;/em&gt;, &lt;em&gt;Puranas&lt;/em&gt;, and the epics &lt;em&gt;Mahabharata&lt;/em&gt; and &lt;em&gt;Ramayana&lt;/em&gt;. If only Sanskrit is made more accessible to the interested, it allows us to tap into an earlier era of Indian history, culture, and thought, and discover more about our past.&lt;/p&gt;&lt;p&gt;In this regard, the efforts of a computer scientist at the Indian Institute of Technology (IIT), Kharagpur, and his team is commendable.&lt;/p&gt;&lt;p&gt;Researchers led by Dr Pawan Goyal are working to make Sanskrit texts more accessible with the help of automated computational processing techniques.&lt;/p&gt;&lt;p&gt;The work combines machine learning and traditional linguistic knowledge to build an artificial intelligence system for processing ancient literature.&lt;/p&gt;.&lt;p&gt;Dr Goyal studied electrical engineering at IIT Kanpur (2003-2007) and received his doctoral degree from the University of Ulster, United Kingdom, in 2011. He thereafter worked as a postdoctoral researcher at INRIA Paris Rocquencourt, developing the “Sanskrit Heritage Site” with Gérard Huet, for two years.&lt;/p&gt;&lt;p&gt;In 2013, he joined the Department of Computer Science and Engineering at IIT Kharagpur and has been there ever since, exploring the research areas of text mining, natural language processing, and Sanskrit computational linguistics.&lt;/p&gt;&lt;p&gt;Dr Goyal has also taught the course “natural language processing” as part of the National Programme on Technology Enhanced Learning (NPTEL) educational initiative by the seven IITs and the Indian Institute of Science.&lt;/p&gt;&lt;p&gt;He is also the recipient of various awards, like INAE Young Engineer Awards 2020, Google India AI/ML Research Awards 2020, and Facebook AI and Ethics Research Award India, 2019.&lt;/p&gt;&lt;p&gt;Dr Goyal spoke to &lt;em&gt;Swarajya&lt;/em&gt; about his work combining two things dear to him — Sanskrit and computation.&lt;/p&gt;&lt;p&gt;&lt;em&gt;1) You have devised a way to digitally process Sanskrit texts. What led you in this direction of research?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Sanskrit has a rich literary tradition spanning more than two millennia that encapsulates the cultural ethos of this civilisational nation. Works in Sanskrit, numbering more than 30 million extant manuscripts, include extensive epics, subtle and intricate philosophical, mathematical, and scientific treatises, and rich literary, poetic, and dramatic texts. The design and implementation of computer-aided processing tools is thus of paramount importance to analyse the enormous store of knowledge and literature available as Sanskrit text.&lt;/p&gt;&lt;p&gt;My first encounter with the computational aspects of Sanskrit was through Panini’s grammar. More recently, the Paninian computational system was recognised as a pioneer in information theory and informatics. While my initial efforts were concentrated on computational implementation of Panini’s grammar, as I pursued my research in Natural Language Processing (NLP), I realised that NLP can really be an effective tool to provide a better access to the Sanskrit knowledge.&lt;/p&gt;&lt;p&gt;The proposed AI-based system, used in conjunction with interactive tools such as the &lt;a href=""https://sanskrit.inria.fr/""&gt;Sanskrit Heritage reader&lt;/a&gt;, can aid the users in easier analysis of these manuscripts with word by word analysis and translation, relation between words, poetry to prose conversion, search and question answering, etc.&lt;/p&gt;&lt;p&gt;&lt;em&gt;2) Your work with computer science and Sanskrit extends back to your days at the French National Institute for Research in Digital Science and Technology (Inria). You worked there on ""&lt;ins&gt;&lt;a href=""https://sanskrit.inria.fr/""&gt;The Sanskrit Heritage Site&lt;/a&gt;&lt;/ins&gt;"". Could you tell us about your work there and what you were trying to build?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Sanskrit Heritage Site at INRIA provides various web services for Sanskrit users. Developed by Prof Gérard Huet, the main web service for this site is Sanskrit Heritage Reader which, given a Sanskrit sequence, provides all possible ways of doing word segmentation (संधि विच्छेद). At the back end, it uses elegant finite state machinery to provide all possible solutions in real time.&lt;/p&gt;&lt;p&gt;As can be seen from an example sentence from Kalidasa, the number of solutions can be really large for long sentences. One of the works we did was to develop this lean interface, which could show all the solutions in a compact form, and a Sanskrit expert could then select the correct segmentation solution (&lt;em&gt;pada patha&lt;/em&gt;) by using clicks.&lt;/p&gt;.&lt;p&gt;Other notable work was to align all the root forms (lemma) information for this interface to Sanskrit-English Monier Williams dictionary. Thus, the interface now offers lexicon access to both Heritage dictionary (Sanskrit-French) and Monier Williams.&lt;/p&gt;&lt;p&gt;&lt;em&gt;3) Sanskrit is considered a 'morphologically rich language'. What does that mean exactly, and how does it dictate your approach to working with it?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The sentence construction and comprehension in any language relies a lot on how the grammatical information is encoded. Sanskrit has a rich morphology and the grammatical information is encoded using morphological markers. Thus, “सुन्दरः रामः रावणम् हन्ति” and “रावणम् हन्ति सुन्दरः रामः” mean the same because the morphological markers encode the information, but this is not the case for “Dog kills cat” and “Cat kills dog”, where the information is encoded in the word order. This also makes Sanskrit a relatively free word order language. A lot of the literature is in the form of verses and follows relatively free word order.&lt;/p&gt;&lt;p&gt;Keeping these in mind, we propose a generic graph-based framework that is able to take advantage of the free word order nature of the language. Our search-based structured prediction framework allows encoding of relevant linguistic information as constraints. Further, we automate feature learning for the structured-prediction model, based on the morphological properties expressed by the words in the language.&lt;/p&gt;.&lt;p&gt;&lt;em&gt;4) Ever since the &lt;ins&gt;&lt;a href=""https://ojs.aaai.org//index.php/aimagazine/article/view/466""&gt;Rick Briggs article&lt;/a&gt;&lt;/ins&gt; about Sanskrit and AI appeared in &lt;/em&gt;AI Magazine&lt;em&gt; in 1985, there have been various interpretations of how the two (Sanskrit and AI) might be linked favourably or otherwise. From your point of view as an expert in the field, could you clarify what we should be taking away on this matter?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;That was a very interesting article, which focused on how concepts from Indian grammatical tradition could be used for knowledge representation in artificial intelligence research. The article itself is rigorous and interesting, but it spread on the Internet as uncontrollable disinformation. At some point it was quoted saying that Sanskrit is the ultimate programming language, studied in secret NASA laboratories. These are just rumours. Sanskrit, like any other natural language such as English or Hindi, is definitely not directly usable as a programming language. These rumours are detrimental to the respect that the ancient science of Vyakaraṇa genuinely deserves.&lt;/p&gt;&lt;p&gt;&lt;em&gt;5) How is it to computationally process Sanskrit relative to any other language(s)?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Sanskrit presents unique challenges in automated computational processing. In addition to the sheer volume and diversity, both stylistic and chronological, found in these texts, the linguistic peculiarities expressed by the language, pose several challenges in making these works accessible to the world.&lt;/p&gt;&lt;p&gt;First, following the oral tradition, the phonetic transformations at the word boundaries (&lt;em&gt;sandhi&lt;/em&gt;) are reflected also in writing. Secondly, the language shows high lexical productivity in terms of inflection, derivation, and compounding. Thirdly, a lot of the literature is in the form of verses and follows relatively free word order.&lt;/p&gt;.&lt;p&gt;&lt;em&gt;6) What doors do you see your AI system opening for us in the future, especially in regard to our relationship with Sanskrit? Will we see, for instance, better access to our ancient literature?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The &lt;a href=""https://direct.mit.edu/coli/article/46/4/785/97327/A-Graph-Based-Framework-for-Structured-Prediction""&gt;current work&lt;/a&gt; published in the &lt;em&gt;Computational Linguistics&lt;/em&gt; journal (published by the MIT Press) presents a machine learning system and addresses the tasks of word segmentation (संधि विच्छेद), morphological parsing (पद विश्लेषण), dependency parsing (कारक विश्लेषण), and poetry to prose conversion of Sanskrit text (अन्वय). We are now actively collaborating with several research groups to extend the application of the proposed system for automatic speech recognition and question-answering in Sanskrit.&lt;/p&gt;&lt;p&gt;The end-objective is to develop robust tools that can be used to access the ancient literature seamlessly, like we are able to access information available in other languages.&lt;/p&gt;&lt;p&gt;&lt;em&gt;7) Does your work with Sanskrit have a personal significance for you?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yes, it has a lot of personal significance. During my B.Tech days at IIT Kanpur, I attended various seminars and courses organised by Prof. Laxmidhar Behera on the essence of the &lt;em&gt;Bhagavad Gita&lt;/em&gt;. Going through the books of His Divine Grace A C Bhaktivedanta Swami Srila Prabhupada, I developed immense respect for our ancient literature, in particular, the &lt;em&gt;Bhagavad Gita&lt;/em&gt; and &lt;em&gt;Srimad Bhagavatam&lt;/em&gt;. I have been greatly benefited by this timeless knowledge in my own pursuit, and I hope that my small efforts will help in making this knowledge accessible to one and all.&lt;/p&gt;",,https://swarajya.gumlet.io/swarajya/2021-05/13d9796d-0217-4a23-aef5-41a2a801d244/Prof_Pawan_Goyal_pics.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'WebPage', 'url': 'https://swarajyamag.com/science/how-an-iit-kharagpur-computer-scientist-is-unveiling-sanskrit-literature-through-artificial-intelligence', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://swarajya.gumlet.io/swarajya/2021-05/13d9796d-0217-4a23-aef5-41a2a801d244/Prof_Pawan_Goyal_pics.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,"[{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.paywall'}]"

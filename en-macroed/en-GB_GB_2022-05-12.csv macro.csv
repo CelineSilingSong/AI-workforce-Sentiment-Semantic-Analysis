@@ -1,0 +1,1171 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@graph,@type,publisher,headline,mainEntityOfPage,datePublished,dateModified,author,image,itemListElement,@id,name,thumbnailUrl,contentUrl,duration,uploadDate,url,speakable
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL3RlY2gvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWNsZXMvd2hhdC1pcy1jb21wdXRlci12aXNpb24v0gFZaHR0cHM6Ly93d3cuc3BpY2V3b3Jrcy5jb20vdGVjaC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9hcnRpY2xlcy93aGF0LWlzLWNvbXB1dGVyLXZpc2lvbi8?oc=5,"Computer Vision Meaning, Examples, Applications - Spiceworks Inc - Spiceworks News and Insights",2022-05-13,Spiceworks News and Insights,https://www.spiceworks.com,Computer vision is the process of using artificial intelligence to enable computers to obtain meaningful data from visual inputs.,Computer Vision,Computer vision is the process of using artificial intelligence to enable computers to obtain meaningful data from visual inputs.,N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Hossein Ashtari
+
+
+
+					Technical Writer 				
+
+
+
+
+May 13, 2022
+
+
+
+
+ 
+
+
+
+
+
+Computer vision is defined as a solution that leverages artificial intelligence (AI) to allow computers to obtain meaningful data from visual inputs. The insights gained from computer vision are then used to take automated actions. This article details the meaning, examples, and applications of computer vision. 
+
+Table of Contents 
+
+What Is Computer Vision?
+5 Examples of Computer Vision
+Top 10 Applications of Computer Vision in 2022
+
+
+What Is Computer Vision?
+Computer vision leverages artificial intelligence (AI) to allow computers to obtain meaningful data from visual inputs such as photos and videos. The insights gained from computer vision are then used to take automated actions. Just like AI gives computers the ability to ‘think’, computer vision allows them to ‘see’.
+Human Vision vs. Computer Vision
+Source: ManningOpens a new window 
+
+As humans, we generally spend our lives observing our surroundings using optic nerves, retinas, and the visual cortex. We gain context to differentiate between objects, gauge their distance from us and other objects, calculate their movement speed, and spot mistakes. Similarly, computer vision enables AI-powered machines to train themselves to carry out these very processes. These machines use a combination of cameras, algorithms, and data to do so.
+However, unlike humans, computers do not get tired. You can train machines powered by computer vision to analyze thousands of production assets or products in minutes. This allows production plants to automate the detection of defects indiscernible to the human eye.
+Computer vision needs a large database to be truly effective. This is because these solutions analyze information repeatedly until they gain every possible insight required for their assigned task. For instance, a computer trained to recognize healthy crops would need to ‘see’ thousands of visual reference inputs of crops, farmland, animals, and other related objects. Only then would it effectively recognize different types of healthy crops, differentiate them from unhealthy crops, gauge farmland quality, detect pests and other animals among the crops, and so on.
+Two key technologies drive computer vision: a convolutional neural network and deep learning, a type of machine learning.
+Machine learning (ML) leverages algorithm-based models to enable computers to learn context through visual data analysis. Once sufficient data is provided to the model, it will be able to ‘see the big picture’ and differentiate between visual inputs. Instead of being programmed to recognize and differentiate between images, the machine uses AI algorithms to learn autonomously.
+Convolutional neural networks help ML models see by fractionating images into pixels. Each pixel is given a label or tag. These labels are then collectively used to carry out convolutions, a mathematical process that combines two functions to produce a third function. Through this process, convolutional neural networks can process visual inputs.
+To see images just like a human would, neural networks execute convolutions and examine the accuracy of the output in numerous iterations. Just like humans would discern an object far away, a convolutional neural network begins by identifying rudimentary shapes and hard edges. Once this is done, the model patches the gaps in its data and executes iterations of its output. This goes on until the output accurately ‘predicts’ what is going to happen.
+While a convolutional neural network understands single images, a recurrent neural network processes video inputs to enable computers to ‘learn’ how a series of pictures relate to each other.
+See More: What Is Artificial Intelligence: History, Types, Applications, Benefits, Challenges, and Future of AI
+5 Examples of Computer Vision
+Listed below are five key examples of computer vision that exhibit the potential of this AI-powered solution to revolutionize entire industries.
+1. Google Translate
+In 2015, technology leader Google rolled out its instant translation service that leverages computer vision through smartphone cameras. Neural Machine Translation, a key system that drives instantaneous and accurate computer vision-based translation, was incorporated into Google Translate web results in 2016. 
+When the app is opened on internet-enabled devices with cameras, the cameras detect any text in the real world. The app then automatically detects the text and translates it into the language of the user’s choice. For instance, a person can point their camera at a billboard or poster that has text in another language and read what it says in the language of their choice on their smartphone screen.
+Apart from Translate, Google also uses computer vision in its Lens service. Both services are capable of instantly translating over 100 languages. Google’s translation services are already benefiting users across Asia, Africa, and Europe, with numerous languages concentrated in relatively small geographic areas.
+Over the past few years, more than half of Google’s translation toolkit languages have been made available for offline use. As such, no network connection is required for these neural net-powered translations.
+2. Facebook 3D Photo
+Not to be left behind, technology giant Meta (earlier known as Facebook) is also dabbling in computer vision for various exciting applications. One such use is the conversion of 2D pictures into 3D models.
+Launched in 2018, Facebook 3D Photo originally required a smartphone with dual cameras to generate 3D images and create a depth map. While this originally limited the popularity of this feature, the widespread availability of economically priced dual-camera phones has since increased the use of this computer vision-powered feature.
+3D Photo turns ordinary two-dimensional photographs into 3D images. Users can rotate, tilt, or scroll on their smartphones to view these pictures from different perspectives. Machine learning is used for the extrapolation of the 3D shape of the objects depicted in the image. Through this process, a realistic-looking 3D effect is applied to the picture.
+Advances in computer vision algorithms used by Meta have enabled the 3D Photo feature to be applied to any image. Today, one can use mid-range Android or iOS phones to turn decades-old pictures into 3D, making this feature popular among Facebook users.
+Meta is not the only company exploring the application of computer vision in 2D-to-3D image conversion. Google-backed DeepMind and GPU market leader Nvidia are both experimenting with AI systems that allow computers to perceive pictures from varying angles, similar to how humans do.
+3. YOLO
+YOLO, which stands for You Only Look Once, is a pre-trained object detection model that leverages transfer learning. You can use it for numerous applications, including enforcing social distancing guidelines.
+As a computer vision solution, the YOLO algorithm can detect and recognize objects in a visual input in real-time. This is achieved using convolutional neural networks that can predict different bounding boxes and class probabilities simultaneously.
+As its name implies, YOLO can detect objects by passing an image through a neural network only once. The algorithm completes the prediction for an entire image within one algorithm run. It is also capable of ‘learning’ new things quickly and effectively, storing data on object representations and leveraging this information for object detection.
+Enforcing social distancing measures during the height of the COVID-19 pandemic was critical yet extremely difficult for jurisdictions with limited resources and large populations. To address this issue, authorities in some parts of the world adopted computer vision solutions such as YOLO to develop social distancing tools.
+YOLO can track people within a specific geographical area and judge whether social distancing norms are being followed. It applies object detection and tracking principles in real-time to detect social distancing violations and alert the relevant authorities.
+In practice, YOLO works by capturing each person present in the visual input by using bounding boxes. The movement of these boxes is tracked within the frame, and the distance among them is constantly recalculated. If a violation of social distancing guidelines is detected, the algorithm highlights the offending bounding boxes and enables further actions to be triggered.
+4. Faceapp
+Faceapp is a popular image manipulation application that modifies visual inputs of human faces to change gender, age, and other features. This is achieved through deep convolutional generative adversarial networks, a specific subtype of computer vision.
+Faceapp combines image recognition principles, a key aspect of facial recognition, with deep learning to recognize key facial features such as cheekbones, eyelids, nose bridge, and jawline. Once these features are outlined on the human face, the app can modify them to transform the image.
+Faceapp works by collecting sample data from the smartphones of multiple users and feeding it to the deep neural networks. This allows the system to ‘learn’ every small detail of the appearance of the human face. These learnings are then used to bolster the app’s predictive ability and enable it to simulate wrinkles, modify hairlines, and make other realistic changes to images of the human face.
+Faceapp relies on computer vision to recognize patterns. Its artificial intelligence capabilities have enabled it to imitate images with increasing efficiency over time, using the data it receives from numerous sources. Faceapp transfers facial information from one picture to another at the micro-level. This leads to impressive capabilities at the macro level, consequently allowing the app to create a large database by processing millions of user photos.
+5. SentioScope
+SentioScope is a fitness and sports tracking system developed by Sentio. It primarily operates as a player tracking solution for soccer, processing real-time visual inputs from live games. Recorded data is uploaded to cloud-based analytical platforms.
+SentioScope relies on a 4K camera setup to capture visual inputs. It then processes these inputs to detect players and gain real-time insights from their movement and behavior.
+This computer vision-powered solution creates a conceptual model of the soccer field, representing the game in a two-dimensional world. This 2D model is partitioned into a grid of dense spatial cells. Each cell represents a unique ground point on the field, shown as a fixed image patch in the video.
+SentioScope is powered by machine learning and trained with more than 100,000 player samples. This enables it to detect ‘player’ cells in the footage of soccer games. The probabilistic algorithm can function in numerous types of challenging visibility conditions.
+Sentio is one of the many companies working to infuse computer vision with sports training regimens. These solutions usually analyze live feeds from high-resolution cameras to track moving balls, detect player positions, and record other useful information that one can use to enhance player and team performance.
+See More: Top 10 Python Libraries for Machine Learning
+Top 10 Applications of Computer Vision in 2022
+Although the capabilities of the human eyes are beyond incredible, present-day computer vision is working hard to catch up. Listed below are the top 10 applications of computer vision in 2022.
+1. Agriculture
+Agriculture is not traditionally associated with cutting-edge technology. However, outdated methodologies and tools are slowly being phased out from farmlands worldwide. Today, farmers are leveraging computer vision to enhance agricultural productivity.
+Companies specializing in agriculture technology are developing advanced computer vision and artificial intelligence models for sowing and harvesting purposes. These solutions are also useful for weeding, detecting plant health, and advanced weather analysis.
+Computer vision has numerous existing and upcoming applications in agriculture, including drone-based crop monitoring, automatic spraying of pesticides, yield tracking, and smart crop sorting & classification. These AI-powered solutions scan the crops’ shape, color, and texture for further analysis. Through computer vision technology, weather records, forestry data, and field security are also increasingly used.
+2. Autonomous vehicles
+2022 is the year of self-driving cars. Market leaders such as Tesla, backed by advanced technologies such as computer vision and 5G, are making great strides.
+Tesla’s autonomous cars use multi-camera setups to analyze their surroundings. This enables the vehicles to provide users with advanced features, such as autopilot. The vehicle also uses 360-degree cameras to detect and classify objects through computer vision.
+Drivers of autonomous cars can either drive manually or allow the vehicle to make autonomous decisions. In case a user chooses to go with the latter arrangement, these vehicles use computer vision to engage in advanced processes such as path planning, driving scene perception, and behavior arbitration.
+3. Facial recognition
+While facial recognition is already in use at the personal level, such as through smartphone applications, the public security industry is also a noteworthy driver of facial detection solutions. Detecting and recognizing faces in public is a contentious application of computer vision that is already being implemented in certain jurisdictions and banned in others.
+Successful facial detection relies on deep learning and machine vision. Computer vision algorithms detect and capture images of people’s faces in public. This data is then sent to the backend system for analysis. A typical facial recognition solution for large-scale public use combines analysis and recognition algorithms.
+Proponents support computer vision-powered facial recognition because it can be useful for detecting and preventing criminal activities. These solutions also have applications in tracking specific persons for security missions.
+4. Human pose tracking
+Human pose tracking models use computer vision to process visual inputs and estimate human posture. Tracking human poses is another capability of computer vision applied in industries such as gaming, robotics, fitness apps, and physical therapy. 
+For instance, the Microsoft Kinect gaming device can accurately monitor player actions through the use of AI vision. It works by detecting the positions of human skeletal joints on a 3D plane and recognizing their movements.
+5. Interactive entertainment
+Gone are the days when digital entertainment meant that the viewer had to sit and watch without participating. Today, interactive entertainment solutions leverage computer vision to deliver truly immersive experiences. Cutting-edge entertainment services use artificial intelligence to allow users to partake in dynamic experiences.
+For instance, Google Glass and other smart eyewear demonstrate how users can receive information about what they see while looking at it. The information is directly sent to the user’s field of vision. These devices can also respond to head movements and changes in expressions, enabling users to transmit commands simply by moving their heads.
+6. Medical imaging
+Medical systems rely heavily on pattern detection and image classification principles for diagnoses. While these activities were largely carried out manually by qualified healthcare professionals, computer vision solutions are slowly stepping up to help doctors diagnose medical conditions.
+There has been a noteworthy increase in the application of computer vision techniques for the processing of medical imagery. This is especially prevalent in pathology, radiology, and ophthalmology. Visual pattern recognition, through computer vision, enables advanced products, such as Microsoft InnerEye, to deliver swift and accurate diagnoses in an increasing number of medical specialties.
+7. Manufacturing
+Manufacturing is one of the most technology-intensive processes in the modern world. Computer vision is popular in manufacturing plants and is commonly used in AI-powered inspection systems. Such systems are prevalent in R&D laboratories and warehouses and enable these facilities to operate more intelligently and effectively.
+For instance, predictive maintenance systems use computer vision in their inspection systems. These tools minimize machinery breakdowns and product deformities by constantly scanning the environment. If a likely breakdown or low-quality product is detected, the system notifies human personnel, allowing them to trigger further actions. Apart from this, computer vision is used by workers in packaging and quality monitoring activities.
+Thanks to advancements brought about by Industry 4.0, computer vision is also being used to automate otherwise labor-intensive processes such as product assembly and management. AI-powered product assembly is most commonly seen in assembly lines for delicate commodities, such as electronics. Companies such as Tesla are bringing about the complete automation of manufacturing processes in their plants.
+8. Retail management
+While interaction-free shopping experiences were always the inevitable future, the COVID-19 pandemic certainly helped speed up the retail industry’s adoption of computer vision applications. Today, tech giants such as Amazon are actively exploring how retail can be revolutionized using AI vision to allow customers to ‘take and leave’.
+Retail stores are already embracing computer vision solutions to monitor shopper activity, making loss prevention non-intrusive and customer-friendly. Computer vision is also being used to analyze customer moods and personalize advertisements. Apart from this, AI-driven vision solutions are being used to maximize ROI through customer retention programs, inventory tracking, and the assessment of product placement strategies.
+9. Education
+With remote education receiving a leg-up due to the COVID-19 pandemic, the education technology industry is also leveraging computer vision for various applications. For instance, teachers use computer vision solutions to evaluate the learning process non-obstructively. These solutions allow teachers to identify disengaged students and tweak the teaching process to ensure that they are not left behind.
+Apart from this, AI vision is being used for applications such as school logistic support, knowledge acquisition, attendance monitoring, and regular assessments. One common example of this is computer vision-enabled webcams, which are being used to monitor students during examinations. This makes unfair practices easier to spot through the analysis of eye movements and body behavior.
+10. Transportation
+Finally, computer vision systems are being increasingly applied to increase transportation efficiency. For instance, computer vision is being used to detect traffic signal violators, thus allowing law enforcement agencies to minimize unsafe on-road behavior.
+Intelligent sensing and processing solutions are also being used to detect speeding and wrong‐side driving violations, among other disruptive behaviors. Apart from this, computer vision is being used by intelligent transportation systems for traffic flow analysis.
+See More: What Are the Types of Artificial Intelligence: Narrow, General, and Super AI Explained
+Takeaway
+Computer vision is a groundbreaking technology with many exciting applications. This cutting-edge solution uses the data that we generate every day to help computers ‘see’ our world and give us useful insights that will help increase the overall quality of life. In 2022, computer vision is expected to unlock the potential of many new and exciting technologies, helping us lead safer, healthier, and happier lives.
+Did you gain a comprehensive understanding of computer vision through this article? Share your thoughts with us on LinkedInOpens a new window , TwitterOpens a new window , or FacebookOpens a new window ! We’d love to hear from you.
+MORE ON AI
+
+Top 10 Open Source Artificial Intelligence Software in 2021
+What Is Artificial Intelligence (AI) as a Service? Definition, Architecture, and Trends
+What Is Machine Learning? Definition, Types, Applications, and Trends for 2022
+Top 21 Artificial Intelligence Software, Tools, and Platforms
+10 Industries AI Will Disrupt the Most by 2030
+
+
+
+
+
+
+
+
+								                  artificial intelligence										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Hossein Ashtari
+
+				                  Technical Writer 	                          
+
+
+ opens a new window
+ opens a new window  opens a new window 
+
+
+
+ opens a new window  opens a new window
+ opens a new window   	
+					Interested in cutting-edge tech from a young age, Hossein is passionate about staying up to date on the latest technologies in the market and writes about them regularly. He has worked with leaders in the cloud and IT domains, including Amazon—creating and analyzing content, and even helping set up and run tech content properties from scratch. When he’s not working, you’re likely to find him reading or gaming!			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vYWJvdXQtdXMvd2hvLXdlLWFyZS93aGF0LXdlLWRvL9IBAA?oc=5,What we do | Who we are - Capgemini,2022-05-13,Capgemini,https://www.capgemini.com,What we do FacebookLinkedinDo you want to be reactive to what’s happening? Or relevant for tomorrow?Capgemini is the strategic partner who will help you,N/A,What we do FacebookLinkedinDo you want to be reactive to what’s happening? Or relevant for tomorrow?Capgemini is the strategic partner who will help you,N/A,N/A,N/A,"
+
+What we do 
+FacebookLinkedinDo you want to be reactive to what’s happening? Or relevant for tomorrow?Capgemini is the strategic partner who will help you ask the tough questions – and find the right answers – by harnessing the power of technology. We apply a breadth of expertise to address the full range of business needs across four areas: Strategy and transformation, applications and technology, engineering, and operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strategy and transformation
+
+																		Applying expertise in technology, data science, and creative design to provide strategy, innovation, and transformation consulting.																		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applications and technology
+
+																		Developing, modernizing, extending, and securing IT and digital environments using the latest technologies to develop, optimize, and maintain applications.																		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Engineering
+
+																		Fostering synergies between the digital and the engineering worlds to help our clients unleash their R&D potential and engineer intelligent products, operations, and services at scale.																		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operations
+
+																		Delivering greater efficiency and operational and technological excellence through business process outsourcing and managed services of applications hosted in data centers or the cloud.																		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We focus on helping drive value in three key areas: customer experience, intelligent industry, and enterprise management. As we do this, we help our clients embrace key technologies such as cloud, data, and artificial intelligence, and also work to improve their cybersecurity and environmental impact.
+Thanks to deep, sector-specific expertise, we are able to develop solutions that are aligned to our clients’ unique challenges and can help them meet their specific objectives.
+
+Download infographics69 KB png 
+
+Introduction to CapgeminiSee how we deliver on our brand promise Get The Future You Want  for our clients, our people, and our communities in this short presentation.Download presentation
+
+Explore CapgeminiOur servicesOur brandsThe way we work
+
+",https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/', 'url': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/', 'name': 'What we do | Who we are | Capgemini', 'isPartOf': {'@id': 'https://www.capgemini.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/wp-content/uploads/2021/06/Capgemini_What-we-do.jpg', 'datePublished': '2021-04-08T05:31:05+00:00', 'dateModified': '2024-03-14T10:55:12+00:00', 'description': 'What we do FacebookLinkedinDo you want to be reactive to what’s happening? Or relevant for tomorrow?Capgemini is the strategic partner who will help you', 'breadcrumb': {'@id': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/about-us/who-we-are/what-we-do/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/#primaryimage', 'url': 'https://www.capgemini.com/wp-content/uploads/2021/06/Capgemini_What-we-do.jpg', 'contentUrl': 'https://www.capgemini.com/wp-content/uploads/2021/06/Capgemini_What-we-do.jpg', 'width': 2880, 'height': 1800}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/about-us/who-we-are/what-we-do/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.capgemini.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'About us', 'item': 'https://www.capgemini.com/about-us/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Who we are', 'item': 'https://www.capgemini.com/about-us/who-we-are/'}, {'@type': 'ListItem', 'position': 4, 'name': 'What we do'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/#website', 'url': 'https://www.capgemini.com/', 'name': 'Capgemini', 'description': 'Capgemini', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}]",,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wNS8xMi8xMDk4NjAxNDU4L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWpvYi1kaXNjcmltaW5hdGlvbi1kaXNhYmlsaXRpZXPSAQA?oc=5,U.S. warns of discrimination in using artificial intelligence to screen job candidates - NPR,2022-05-12,NPR,https://www.npr.org,The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities.,N/A,The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities.,N/A,N/A,N/A,WAMU 88.51A,http://schema.org,,NewsArticle,"{'@type': 'Organization', 'name': 'NPR', 'logo': {'@type': 'ImageObject', 'url': 'https://media.npr.org/chrome/npr-logo.jpg'}}",U.S. warns of discrimination in using artificial intelligence to screen job candidates,"{'@type': 'WebPage', '@id': 'https://www.npr.org/2022/05/12/1098601458/artificial-intelligence-job-discrimination-disabilities'}",2022-05-12T17:04:48-04:00,2022-05-12T17:04:48-04:00,"{'@type': 'Person', 'name': ['The Associated Press']}","{'@type': 'ImageObject', 'url': 'https://media.npr.org/assets/img/2022/05/12/ap22132601475019_custom-76d613b4c1a55592c5a482d239eb62ce77596082.jpg'}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmZyb250aWVyc2luLm9yZy9hcnRpY2xlcy8xMC4zMzg5L2ZyYWkuMjAyMi44NjkyODLSAQA?oc=5,"How Are Patented AI, Software and Robot Technologies Related to Wage Changes in the United States? - Frontiers",2022-05-16,Frontiers,https://www.frontiersin.org,"We analyze the relationships of three different types of patented technologies, namely artificial intelligence, software and industrial robots, with individu...","artificial  intelligence,Software,robots,Wage dynamics,Labor market","We analyze the relationships of three different types of patented technologies, namely artificial intelligence, software and industrial robots, with individu...",N/A,N/A,N/A,"An Analysis of Music Perception Skills on Crowdsourcing Platforms Ioannis Petros  Samiotis, Sihang  Qiu, Christoph  Lofi, Jie  Yang, Ujwal  Gadiraju and Alessandro  Bozzon",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmRlbG9pdHRlLmNvbS9pZS9lbi9zZXJ2aWNlcy9jb25zdWx0aW5nL3Jlc2VhcmNoL2lyZWxhbmRzLWFpLWZ1dHVyZS5odG1s0gEA?oc=5,AI with purpose: Ireland's vision for artificial intelligence - Deloitte,2022-05-16,Deloitte,https://www.deloitte.com,"In this article, we highlight why AI is important, how Ireland can become AI fuelled by drawing on Government support, and why enterprises across industries are key to the success of this strategy.",N/A,"In this article, we highlight why AI is important, how Ireland can become AI fuelled by drawing on Government support, and why enterprises across industries are key to the success of this strategy.","In this article, we highlight why AI is important, how Ireland can become AI fuelled by drawing on Government support, and why enterprises across industries are key to the success of this strategy.",N/A,N/A,N/A,https://schema.org/,,Article,"{'@type': 'Organization', 'name': 'Deloitte', 'logo': {'@type': 'ImageObject', 'url': 'https://www.deloitte.com/content/dam/modern/logo/deloitte-print.png'}}",AI with purpose: Ireland's vision for artificial intelligence | Deloitte Ireland,,2022-05-16T00:00:00.0Z,,[],"['https://assets.deloitte.com/is/image/deloitte/ie-irelandsaifuture-promo-16052022:660-x-660?$Responsive$&fmt=webp&fit=stretch,1&dpr=off', 'https://assets.deloitte.com/is/image/deloitte/ie-irelandsaifuture-promo-16052022:800-x-600?$Responsive$&fmt=webp&fit=stretch,1&dpr=off', 'https://assets.deloitte.com/is/image/deloitte/ie-irelandsaifuture-promo-16052022:1200-x-675?$Responsive$&fmt=webp&fit=stretch,1&dpr=off']","[{'item': {'@id': '', 'name': 'What we do '}, 'position': 1, '@type': 'ListItem'}, {'item': {'@id': '/ie/en/services.html', 'name': 'Services'}, 'position': 2, '@type': 'ListItem'}, {'item': {'@id': '/ie/en/services/consulting.html', 'name': 'Consulting'}, 'position': 3, '@type': 'ListItem'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYmR0ZWNodGFsa3MuY29tLzIwMjIvMDUvMTYvb3B0LTE3NWItbGFyZ2UtbGFuZ3VhZ2UtbW9kZWxzL9IBRmh0dHBzOi8vYmR0ZWNodGFsa3MuY29tLzIwMjIvMDUvMTYvb3B0LTE3NWItbGFyZ2UtbGFuZ3VhZ2UtbW9kZWxzL2FtcC8?oc=5,Can large language models be democratized? - TechTalks,2022-05-16,TechTalks,https://bdtechtalks.com,Meta's move to make large language models transparent has undeniable benefits. But LLMs are inherently undemocratic.,N/A,Meta's move to make large language models transparent has undeniable benefits. But LLMs are inherently undemocratic.,Meta's move to make large language models transparent has undeniable benefits. But LLMs are inherently undemocratic.,N/A,N/A,"
+
+Blog
+
+Can large language models be democratized?
+
+By Ben Dickson -   May 16, 2022 
+
+
+
+
+Facebook
+
+
+Twitter
+
+
+ReddIt
+
+
+Linkedin
+
+
+
+
+
+Image credit: 123RF (with modifications)
+This article is part of our coverage of the latest in AI research.
+In early May, Meta released Open Pretrained Transformer (OPT-175B), a large language model (LLM) that can perform various tasks. Large language models have become one of the hottest areas of research in artificial intelligence in the past few years.
+OPT-175B is the latest entrant in the LLM arms race triggered by OpenAI’s GPT-3, a deep neural network with 175 billion parameters. GPT-3 showed that LLMs can perform many tasks without undergoing extra training and only seeing a few examples (zero- or few-shot learning). Microsoft later integrated GPT-3 into several of its products, showing not only the scientific but also the commercial promises of LLMs.
+What makes OPT-175B unique is Meta’s commitment to “openness,” as the model’s name implies. Meta has made the model available to the public (with some caveats). It has also released a ton of details about the training and development process. In a post published on the Meta AI blog, the company described its release of OPT-175B as “Democratizing access to large-scale language models.”
+Meta’s move toward transparency is commendable. However, the competition over large language models has reached a point where it can no longer be democratized.
+
+Looking inside large language models
+
+
+Meta’s release of OPT-175B has some key features. It includes both pretrained models as well as the code needed to train and use the LLM. Pretrained models are especially useful for organizations that do not have the computational resources for training the model (training neural networks is much more resource-intensive than running them). It will also help reduce the massive carbon footprint caused by the computational resources needed to train large neural networks.
+Like GPT-3, OPT comes in different sizes, ranging from 125 million to 175 billion parameters (models with more parameters have more capacity for learning). At the time of this writing, all models up to OPT-30B are accessible for download. The full 175-billion-parameter model will be made available to select researchers and institutions that fill a request form.
+
+
+
+
+
+According to the Meta AI blog, “To maintain integrity and prevent misuse, we are releasing our model under a noncommercial license to focus on research use cases. Access to the model will be granted to academic researchers; those affiliated with organizations in government, civil society, and academia; along with industry research laboratories around the world.”
+
+
+In addition to the models, Meta has released a full logbook that provides a detailed technical timeline of the development and training process of large language models. Published papers usually only include information about the final model. The logbook gives valuable insights about “how much compute was used to train OPT-175B and the human overhead required when underlying infrastructure or the training process itself becomes unstable at scale,” according to Meta.
+Contrast with GPT-3
+
+
+In its blog post, Meta states that large language models are mostly accessible through “paid APIs” and that restricted access to LLMs has “limited researchers’ ability to understand how and why these large language models work, hindering progress on efforts to improve their robustness and mitigate known issues such as bias and toxicity.”
+This is a jab at OpenAI (and by extension Microsoft), which released GPT-3 as a black-box API service instead of making its model’s weights and source code available to the public. Among the reasons OpenAI stated for not making GPT-3 public was controlling misuse and development of harmful applications.
+Meta believes that by making the models available to a wider audience, it will be in a better position to study and prevent any harm they can cause.
+Here’s how Meta describes the effort: “We hope that OPT-175B will bring more voices to the frontier of large language model creation, help the community collectively design responsible release strategies, and add an unprecedented level of transparency and openness to the development of large language models in the field.”
+The costs of large language models
+However, it is worth noting that “transparency and openness” is not the equivalent of “democratizing large language models.” The costs of training, configuring, and running large language models remain prohibitive and are likely to grow in the future.
+According to Meta’s blog post, its researchers have managed to considerably reduce the costs of training large language models. The company says that the model’s carbon footprint has been reduced to a seventh of GPT-3. Experts I had previously spoken to estimated GPT-3’s training costs to be up to $27.6 million.
+This means that OPT-175B will still cost several million dollars to train. Fortunately, the pretrained model will obviate the need to train the model, and Meta says it will provide the codebase used to train and deploy the full model “using only 16 NVIDIA V100 GPUs.” This is the equivalent of an Nvidia DGX-2, which costs about $400,000, not a small sum for a cash-constrained research lab or an individual researcher. (According to a paper that provides more details on OPT-175B, Meta trained their own model with 992 80GB A100 GPUs, which are significantly faster than the V100.)
+Meta AI’s logbook further confirms that training large language models is a very complicated task. The timeline of OPT-175B is filled with server crashes, hardware failures, and other complications that require a highly technical staff. The researchers also had to restart the training process several times, tweak hyperparameters, and change loss functions. All of these incur extra costs that small labs can’t afford.
+The (undemocratic) future of large language models
+
+
+Language models such as OPT and GPT are based on the transformer architecture. One of the key features of transformers is their ability to process large sequential data (e.g., text) in parallel and at scale.
+In recent years, researchers have shown that by adding more layers and parameters to transformer models, they can improve their performance on language tasks. Some researchers believe that reaching higher levels of intelligence is only a scale problem. Accordingly, cash-rich research labs like Meta AI, DeepMind (owned by Alphabet), and OpenAI (backed by Microsoft) are moving toward creating larger and larger neural networks.
+
+
+
+Last year, Microsoft and Nvidia created a 530-billion parameter language model called Megatron-Turing (MT-NLG). Last month, Google introduced the Pathways Language Model (PaLM), an LLM with 540 billion parameters. And there are rumors that OpenAI will release GPT-4 in the next few months.
+However, larger neural networks also require larger financial and technical resources. And while larger language models will have new bells and whistles (and new failures), they will inevitably centralize power within the hands of a few wealthy companies by making it even harder for smaller research labs and independent researchers to work on large language models.
+On the commercial side, big tech companies will have an even greater advantage. Running large language models is very expensive and challenging. Companies like Google and Microsoft have special servers and processors that allow them to run these models at scale and in a profitable way. For smaller companies, the overhead of running their own version of an LLM like GPT-3 is too prohibitive. Just as most businesses use cloud hosting services instead of setting up their own servers and data centers, out-of-the-box systems like the GPT-3 API will gain more traction as large language models become more popular.
+This in turn will further centralize AI in the hands of big tech companies. More AI research labs will have to enter partnerships with big tech to fund their research. And this will give big tech more power to decide the future directions of AI research (which will probably be aligned with their financial interests). This can come at the cost of areas of research that do not have a short-term return on investment.
+The bottom line is that, while we celebrate Meta’s move to bring transparency to LLMs, let’s not forget that the very nature of large language models is undemocratic and in favor of the very companies that are publicizing them.
+
+Like this:Like Loading... 
+
+
+TAGSAI research papersfacebookgpt-3large language modelsnatural language processing 
+
+
+Facebook
+
+
+Twitter
+
+
+ReddIt
+
+
+Linkedin
+
+
+ Previous articleThe diary of a CTONext articleMitigating ESG risk in AI systems through AI quality Ben DicksonBen is a software engineer and the founder of TechTalks. He writes about technology, business and politics.
+
+
+
+
+  
+",http://schema.org,"[{'@type': 'BlogPosting', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#blogposting', 'name': 'Can large language models be democratized? - TechTalks', 'headline': 'Can large language models be democratized?', 'author': {'@id': 'https://bdtechtalks.com/author/bendee983/#author'}, 'publisher': {'@id': 'https://bdtechtalks.com/#organization'}, 'image': {'@type': 'ImageObject', 'url': 'https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/05/meta-openai-deepmind.jpg?fit=1920%2C1200&ssl=1', 'width': 1920, 'height': 1200, 'caption': 'meta openai deepmind'}, 'datePublished': '2022-05-16T12:59:13+00:00', 'dateModified': '2022-07-17T17:53:58+00:00', 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#webpage'}, 'isPartOf': {'@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#webpage'}, 'articleSection': 'Blog, AI research papers, facebook, gpt-3, large language models, natural language processing, bendee983'}, {'@type': 'BreadcrumbList', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#breadcrumblist', 'itemListElement': [{'@type': 'ListItem', '@id': 'https://bdtechtalks.com/#listItem', 'position': 1, 'name': 'Home', 'item': 'https://bdtechtalks.com/', 'nextItem': 'https://bdtechtalks.com/2022/#listItem'}, {'@type': 'ListItem', '@id': 'https://bdtechtalks.com/2022/#listItem', 'position': 2, 'name': '2022', 'item': 'https://bdtechtalks.com/2022/', 'nextItem': 'https://bdtechtalks.com/2022/05/#listItem', 'previousItem': 'https://bdtechtalks.com/#listItem'}, {'@type': 'ListItem', '@id': 'https://bdtechtalks.com/2022/05/#listItem', 'position': 3, 'name': 'May', 'item': 'https://bdtechtalks.com/2022/05/', 'nextItem': 'https://bdtechtalks.com/2022/05/16/#listItem', 'previousItem': 'https://bdtechtalks.com/2022/#listItem'}, {'@type': 'ListItem', '@id': 'https://bdtechtalks.com/2022/05/16/#listItem', 'position': 4, 'name': '16', 'item': 'https://bdtechtalks.com/2022/05/16/', 'nextItem': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#listItem', 'previousItem': 'https://bdtechtalks.com/2022/05/#listItem'}, {'@type': 'ListItem', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#listItem', 'position': 5, 'name': 'Can large language models be democratized?', 'previousItem': 'https://bdtechtalks.com/2022/05/16/#listItem'}]}, {'@type': 'Organization', '@id': 'https://bdtechtalks.com/#organization', 'name': 'TechTalks', 'description': 'Technology solving problems... and creating new ones', 'url': 'https://bdtechtalks.com/'}, {'@type': 'Person', '@id': 'https://bdtechtalks.com/author/bendee983/#author', 'url': 'https://bdtechtalks.com/author/bendee983/', 'name': 'Ben Dickson', 'image': {'@type': 'ImageObject', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#authorImage', 'url': 'https://secure.gravatar.com/avatar/5184782561a26df20cb56c8eb87eef27?s=96&d=identicon&r=g', 'width': 96, 'height': 96, 'caption': 'Ben Dickson'}}, {'@type': 'WebPage', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#webpage', 'url': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/', 'name': 'Can large language models be democratized? - TechTalks', 'description': ""Meta's move to make large language models transparent has undeniable benefits. But LLMs are inherently undemocratic."", 'inLanguage': 'en-US', 'isPartOf': {'@id': 'https://bdtechtalks.com/#website'}, 'breadcrumb': {'@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#breadcrumblist'}, 'author': {'@id': 'https://bdtechtalks.com/author/bendee983/#author'}, 'creator': {'@id': 'https://bdtechtalks.com/author/bendee983/#author'}, 'image': {'@type': 'ImageObject', 'url': 'https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/05/meta-openai-deepmind.jpg?fit=1920%2C1200&ssl=1', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#mainImage', 'width': 1920, 'height': 1200, 'caption': 'meta openai deepmind'}, 'primaryImageOfPage': {'@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/#mainImage'}, 'datePublished': '2022-05-16T12:59:13+00:00', 'dateModified': '2022-07-17T17:53:58+00:00'}, {'@type': 'WebSite', '@id': 'https://bdtechtalks.com/#website', 'url': 'https://bdtechtalks.com/', 'name': 'TechTalks', 'description': 'Technology solving problems... and creating new ones', 'inLanguage': 'en-US', 'publisher': {'@id': 'https://bdtechtalks.com/#organization'}}]",BreadcrumbList,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://bdtechtalks.com/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://bdtechtalks.com/category/blog/', 'name': 'Blog'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://bdtechtalks.com/2022/05/16/opt-175b-large-language-models/', 'name': 'Can large language models be democratized?'}}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm1za2NjLm9yZy9uZXdzL3NlbnNvci1zbmlmZnMtY2FuY2VyLXVzaW5nLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNl0gEA?oc=5,"A Sensor Sniffs for Cancer, Using Artificial Intelligence - On Cancer - Memorial Sloan Kettering",2022-05-12,On Cancer - Memorial Sloan Kettering,https://www.mskcc.org,"By detecting molecular signatures in the blood, the sensor may help improve cancer screenings.",N/A,"By detecting molecular signatures in the blood, the sensor may help improve cancer screenings.","By detecting molecular signatures in the blood, the sensor may help improve cancer screenings.",N/A,N/A,"
+
+
+
+
+
+
+
+
+In the News 
+
+
+
+
+
+A Sensor Sniffs for Cancer, Using Artificial Intelligence
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday, May 12, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biomedical engineer Daniel Heller leads the Cancer Nanomedicine Laboratory at MSK.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kravis WiSE Postdoctoral Fellow Mijin Kim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSK surgeon Kara Long Roche
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lakshmi Ramanathan, Chief of the Clinical Chemistry Service at MSK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Researchers at Memorial Sloan Kettering Cancer Center (MSK) have developed a sensor that can be trained to sniff for cancer, with the help of artificial intelligence.Although the training doesn’t work the same way one trains a police dog to sniff for explosives or drugs, the sensor has some similarity to how the nose works. The nose can detect more than a trillion different scents, even though it has just a few hundred types of olfactory receptors. The pattern of which odor molecules bind to which receptors creates a kind of molecular signature that the brain uses to recognize a scent.Like the nose, the cancer detection technology uses an array of multiple sensors to detect a molecular signature of the disease. Instead of the signals going to the brain, they are interpreted by machine learning — a type of computer artificial intelligence.MSK researchers led by Kravis WiSE Postdoctoral Fellow Mijin Kim and biomedical engineer Daniel Heller, head of the Cancer Nanomedicine Laboratory at MSK, built the technology using an array of sensors composed of carbon nanotubes. Carbon nanotubes are tiny tubes, nearly 100,000 times smaller than the width of a human hair. They are fluorescent, and the light they give off is very sensitive to minute interactions with molecules in their environment.Each nanotube sensor can detect many different molecules in a blood sample. By combining the many responses of the sensors, the technology creates a unique fluorescent pattern. The pattern can then be recognized by a machine-learning algorithm that has been trained to identify the difference between a cancer fingerprint and a normal one.In experiments conducted on blood samples obtained from patients with ovarian cancer, the researchers found that their nanosensor detected ovarian cancer more accurately than currently available biomarker tests. (A biomarker is a particular chemical produced by tumors and spread through the blood circulation that indicates the presence of disease. In this case, the biomarker tests were ones for the ovarian cancer-related proteins CA125, HE4, and YKL40.)The hope for patients is that researchers will develop the technology further so that it can eventually be used in the clinic to rapidly screen for early-stage ovarian cancer and many other cancers.
+
+
+
+
+
+
+
+
+
+Molecular Pharmacology Program
+
+Our research program serves as a conduit for bringing basic science discoveries to preclinical and clinical evaluation.
+
+
+
+Learn more 
+
+
+
+
+
+Need for Better Cancer Screening Tests
+Tests that detect early-stage cancers using blood markers hold great promise for improving outcomes for people with cancer — especially those types, like ovarian cancer, that have few early signs or symptoms.Several serum biomarker tests for ovarian cancer are already in use. Unfortunately, these standalone biomarker measurements have proven to be ineffective at early detection. Currently, no screening strategy can identify ovarian cancer at an early enough stage to reduce mortality.The nanosensor approach could potentially provide a better way.“Ovarian cancer spreads along the surfaces of the abdomen and pelvis [as opposed to through the blood], which makes finding it with a blood test especially challenging,” says MSK surgeon Kara Long Roche, who was an author on the study. “This technology could potentially find more subtle, complex changes in the blood, which may be the key to early detection — and early detection will save lives.”To train the machine-learning algorithm, the researchers needed to collect sensor responses from many blood samples, as this method requires many examples to be accurate. In addition, samples from patients with other conditions besides ovarian cancer were used: “Certain other diseases can trick the sensor because they produce some of the same components in the blood,” says Dr. Kim, the lead author of the study.Although the technology improves the accuracy of ovarian cancer detection over current biomarker-based methods, more work is needed to enable the detection of early-stage ovarian cancer and confirm that this test works in people.“We won’t stop until there is a way to prevent ovarian cancer deaths,” says Dr. Heller.
+
+
+Back to top
+
+
+
+Toward a Universal Cancer Sensor
+The researchers say the technology can be adapted to detect many types of cancers using the same set of sensors, without the need to first identify a biomarker.“A major limitation in the development of cancer screening tests has been the lack of sufficient biomarkers,” says Lakshmi Ramanathan, Chief of the Clinical Chemistry Service at MSK and an author of the study. “The ability to develop a screening test without the need for a biomarker is an exciting possibility for this type of technology.”In addition, the same set of sensors could be used to train algorithms to detect different types of cancers. “We think that this technology can be developed to simultaneously detect many diseases, although additional measurements must be conducted using samples from patients with these conditions,” Dr. Heller says.
+
+
+Back to top
+
+
+
+Reigniting the Cancer Moonshot
+The technology comes as the Biden Administration reignites the Cancer Moonshot effort, now focusing it on cancer screening. Using a “universal” cancer sensor approach, the technology has the potential “to help make screenings more accessible and available to all,” as the report states.Early detection, facilitated by cancer screening efforts, is a crucial strategy to prevent cancer deaths. As a recent briefing from the White House states, “With regular recommended screenings, we can often catch cancer when there may be more effective treatment options or even prevent it from developing by removing precancerous tissue.”The paper was published in the journal Nature Biomedical Engineering. In addition to those from MSK, the paper features authors from Weill Cornell Medicine, Montefiore Medical Center, the University of Maryland, Lehigh University, Hunter College High School, and the National Institute of Standards and Technology. 
+Key Takeaways
+
+
+
+Ovarian cancer is difficult to detect early because it causes few symptoms.
+
+
+Existing standalone biomarker tests for ovarian cancer are not effective at early detection.
+
+
+An AI-assisted nansosensor developed by researchers at MSK can detect ovarian cancer signals in the blood.
+
+
+Once validated, the test could potentially aid early detection of ovarian cancer.
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+This work was supported in part by NIH grants R01-CA215719, U54-CA137788, U54-CA132378 and P30-CA008748; the National Science Foundation CAREER Award (1752506); the Honorable Tina Brozman Foundation for Ovarian Cancer Research; the Tina Brozman Ovarian Cancer Research Consortium 2.0; the Kelly Auletta Fund for Ovarian Cancer Research; the American Cancer Society Research Scholar Grant (GC230452); the Pershing Square Sohn Cancer Research Alliance; the Expect Miracles Foundation – Financial Services Against Cancer; the Experimental Therapeutics Center; W. H. Goodwin and A. Goodwin and the Commonwealth Foundation for Cancer Research. Dr. Kim was supported by the Marie-Josée Kravis Women in Science Endeavor Postdoctoral Fellowship. Dr. Heller is a co-founder and officer, with an equity interest, of Goldilocks Therapeutics Inc., Lime Therapeutics Inc., and Resident Diagnostics Inc., and is a member of the Scientific Advisory Board of Concarlo Holdings LLC, Nanorobotics Inc., and Mediphage Bioceuticals Inc. The other authors declare no competing interests.
+
+
+
+
+Article traversal links for On Cancer
+
+
+Previous
+
+In the News
+
+
+
+Next
+
+To Detect Ovarian Cancer Early, Researchers Look to Nanotechnology
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3RlY2gvdGVjaC1uZXdzL2hpcmluZy1hbGdvcml0aG1zLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXJpc2stdmlvbGF0aW5nLWFtZXJpY2Fucy1kaXMtcmNuYTI4NDgx0gEqaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTI4NDgx?oc=5,"Hiring algorithms, artificial intelligence risk violating Americans with Disabilities Act, Biden admin says - NBC News",2022-05-12,NBC News,https://www.nbcnews.com,"Tech companies in Silicon Valley are starting to use their resources to help combat wildfire season. As the U.S. sees record burning, the space-based technology, including drones and artificial intelligence, can map fires in real time and assist with communication.",N/A,"“We hope this sends a strong message to employers that we are prepared to stand up for people with disabilities,"" said Assistant Attorney General Kristen Clarke.","“We hope this sends a strong message to employers that we are prepared to stand up for people with disabilities,"" said Assistant Attorney General Kristen Clarke.",N/A,N/A,"Tech NewsUsing algorithms and artificial intelligence for hiring risks violating the Americans with Disabilities Act, Biden admin says“We hope this sends a strong message to employers that we are prepared to stand up for people with disabilities,"" said Assistant Attorney General Kristen Clarke.PrintSaveCreate your free profile or log in to save this articleMay 12, 2022, 11:00 AM EDTBy Kit RamgopalThe Biden administration announced Thursday that employers who use algorithms and artificial intelligence to make hiring decisions risk violating the Americans with Disabilities Act if applicants with disabilities are disadvantaged in the process.The majority of American employers now use the automated hiring technology — tools such as resume scanners, chatbot interviewers, gamified personality tests, facial recognition and voice analysis.AdChoicesADVERTISINGThe ADA is supposed to protect people with disabilities from employment discrimination, but just 19 percent of disabled Americans were employed in 2021, according to the Bureau of Labor Statistics.Kristen Clarke, the assistant attorney general for civil rights at the Department of Justice, which made the announcement jointly with the Equal Employment Opportunity Commission, told NBC News there is “no doubt” that increased use of the technologies is “fueling some of the persistent discrimination.”“We hope this sends a strong message to employers that we are prepared to stand up for people with disabilities who are locked out of the job market because of increased reliance on these bias-fueled technologies,” she said.0 seconds of 4 minutes, 54 secondsVolume 90%Press shift question mark to access a list of keyboard shortcutsKeyboard ShortcutsEnabledDisabledPlay/PauseSPACEIncrease Volume↑Decrease Volume↓Seek Forward→Seek Backward←Captions On/OffcFullscreen/Exit FullscreenfMute/UnmutemDecrease Caption Size-Increase Caption Size+ or =Seek %0-9
+ 
+
+
+SettingsOffEnglishFont ColorWhiteFont Opacity100%Font Size100%Font FamilyArialCharacter EdgeNoneBackground ColorBlackBackground Opacity50%Window ColorBlackWindow Opacity0%ResetWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%200%175%150%125%100%75%50%ArialCourierGeorgiaImpactLucida ConsoleTahomaTimes New RomanTrebuchet MSVerdanaNoneRaisedDepressedUniformDrop ShadowWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%WhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%
+
+
+
+
+
+
+
+Live00:0004:5404:54 How artificial intelligence is taking over our decisionmaking04:54The Biden administration is concerned that the widely used technology can screen out people who have disabilities that do not affect their ability to do the job; gamified personality tests could select against even slight mental disabilities, while software that tracks speech and body language could discriminate against physical disabilities that may be invisible to the naked eye.“This is essentially turbocharging the way in which employers can discriminate against people who may otherwise be fully qualified for the positions that they’re seeking,” Clarke said. EEOC Chair Charlotte Burrows said the message to employers is, “if you’re buying a product to look at employment decision-making with AI, check under the hood.” The EEOC released a 14-page technical assistance document Thursday that emphasizes that bias need not be intentional to be illegal.“We are not trying to stifle innovation here, but also want to make absolutely clear that the civil rights laws still still apply,” said Burrows. The joint announcement is the product of months of investigation into the impact of automated hiring tools. Amid mounting concern from Congress, the public and state and local lawmakers, the EEOC launched an initiative in October to ensure that the emerging hiring tools comply with civil rights laws.0 seconds of 4 minutes, 7 secondsVolume 90%Press shift question mark to access a list of keyboard shortcutsKeyboard ShortcutsEnabledDisabledPlay/PauseSPACEIncrease Volume↑Decrease Volume↓Seek Forward→Seek Backward←Captions On/OffcFullscreen/Exit FullscreenfMute/UnmutemDecrease Caption Size-Increase Caption Size+ or =Seek %0-9
+ 
+
+
+SettingsOffEnglishFont ColorWhiteFont Opacity100%Font Size100%Font FamilyArialCharacter EdgeNoneBackground ColorBlackBackground Opacity50%Window ColorBlackWindow Opacity0%ResetWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%200%175%150%125%100%75%50%ArialCourierGeorgiaImpactLucida ConsoleTahomaTimes New RomanTrebuchet MSVerdanaNoneRaisedDepressedUniformDrop ShadowWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%WhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%
+
+
+
+
+
+
+
+Live00:0004:0704:07 Artificial intelligence could be the latest tool in fighting wildfires04:07A week ago, the EEOC filed its first algorithmic discrimination case — an age-discrimination suit naming several Asia-based companies operating in New York under the brand name iTutorGroup. All defendants are allegedly owned or controlled by Ping An Insurance, the biggest insurance group in China.Prosecutors allege that the iTutorGroup enterprise — which hires thousands of U.S.-based tutors each year to provide English-language tutoring services to students in China — programmed application software to automatically reject female applicants over the age of 55 and male applicants over the age of 60.No company affiliated with the iTutorGroup brand responded to requests for comment.RecommendedBusiness NewsBusiness NewsHow a single failure can take down a fragile web of global commerceTech NewsTech NewsMicrosoft's ‘Blue Screen of Death’ makes a return to computers around the worldDiscrimination charges are not public until the EEOC  decides to prosecute them — and there were no complaints about hiring technologies on the agency’s radar prior to 2021. It can be challenging for workers to claim discrimination in the hiring process, because applicants usually do not know why they were rejected, and what role technology may have played. But experts say there is no such thing as an unbiased hiring algorithm, in part because the technology is built to predict successful employees based on data about what worked for the company in the past. “The algorithm doesn’t have a theory of the world, or a concept for disability,” said Amir Goldberg, a Stanford Graduate School of Business associate professor who teaches a class on human resources technologies. “It just learns and predicts based on the data. If the data has biases, it will only reproduce the biases.”A new wave of state and local legislation is trying to put guardrails on the fast-moving technology. A New York City law will require annual bias audits, while Maryland and Illinois have prohibited the use of facial recognition in video interviews without employee consent. Absent federal regulation, a private sector-led initiative called the Data & Trust Alliance has convened more than 200 experts, as well as major businesses and institutions across industries — such as American Express, Walmart, Meta, CVS, the NFL and Comcast (the parent company of NBC News) to develop safeguards against algorithmic bias in workforce decisions. “Whenever you say, ‘We would like to find a person who has the following expertise background,’ you have a 'bias' towards certain people,” said Jon Iwata, founding executive director of the Data & Trust Alliance. “What we want to identify and mitigate is unfair bias.”Companies and AI vendors see the technology as key to increasing diversity in the workforce over the long run — a way for hiring managers to engage a wider pool of applicants while trimming out human emotional biases. But the proprietary algorithms are still largely sold by outside vendors who are not subject to uniform audits or regulation — leaving officials, employers and employees in the dark about exactly how metrics like “employability scores” are calculated. “The risks of snake oil are significantly high at this stage,” Goldberg said.Kit RamgopalKit Ramgopal is a reporter with the NBC News Investigative Unit.",http://schema.org,,VideoObject,"{'@type': 'NewsMediaOrganization', 'name': 'NBC News', 'logo': {'@type': 'ImageObject', 'url': 'https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png'}, 'sameAs': ['https://twitter.com/nbcnews', 'https://www.pinterest.com/nbcnews/', 'https://www.facebook.com/NBCNews/', 'https://www.instagram.com/nbcnews/', 'https://www.youtube.com/nbcnews', 'https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240', 'https://www.tiktok.com/@nbcnews?lang=en']}",,,,,,,,https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795,Artificial intelligence could be the latest tool in fighting wildfires,"['https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/mpx/2704722219/2021_07/1627502461610_ott_now_wildfires_ai_210728_1920x1080.jpg']",https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/ott_now_wildfires_ai_210728/1/index.m3u8?format=redirect,PT4M7S,2021-07-28T20:01:50.000Z,https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS9zdHVkZW50LXNwb3RsaWdodC1tYXN0ZXJpbmctc3BlY2lhbGl6ZWQtYWktc2tpbGxzLXJldmlldy1hcnRpY2xl0gEA?oc=5,Simplilearn Artificial Intelligence Review: Mastering Specialized Skills - Simplilearn,2022-05-13,Simplilearn,https://www.simplilearn.com,You cannot stay relevant in these times without upskilling. Here is how Bammakanti took charge of his future by learning ✅Artificial Intelligence skills.,Tracking the Future by Mastering Specialized Skills,You cannot stay relevant in these times without upskilling. Here is how Bammakanti took charge of his future by learning ✅Artificial Intelligence skills.,You cannot stay relevant in these times without upskilling. Here is how Bammakanti took charge of his future by learning ✅Artificial Intelligence skills.,N/A,N/A,"
+As documented by Trinadh Bammakanti.
+Gone are the days when most workers would enter a specific line of work and retire from that same profession, often after staying with the same employer for several decades. Professionals like me, now switch jobs every three to five years on average and some even switch careers entirely from time to time. The world has always been changing, but the speed at which technology has advanced—altering how businesses compete and thrive—continues to accelerate exponentially. 
+I am a senior software test engineer with Accenture in Hyderabad, India, and I understood quite early in my career that I would be left behind if I continued along the same path. I don't think you can stay relevant in these times without upskilling and staying up-to-date, so I started eyeing a future in the blossoming field of artificial intelligence (AI), I charted a new trajectory by mastering new skills with the help of Simplilearn.
+
+The Challenge: Minimum Growth Potential
+We all start out somewhere in our career journey, but it’s rarely our dream job. By working hard, taking on new challenges, and possessing a growth mindset, we can set ourselves up for better opportunities in the future. After earning my bachelor’s degree in IT from Sri Indu College of Engineering & Technology, I started his career as a functional tester for Accenture. While I enjoyed the work, I realized after several years that it wouldn’t necessarily lead to bigger and better things.
+I’ve always been a forward-thinking person and I knew that when I felt stagnated at my current job, I would eventually hit my ceiling. Functional testing is an important role, as it provides quality assurance for software development prior to release. However I realized it’s not a niche skill, therefore it wasn’t in demand and wouldn’t offer many senior-level opportunities. 
+Become a AI & Machine Learning Professional$267 billionExpected Global AI Market Value By 202737.3%Projected CAGR Of The Global AI Market From 2023-2030$15.7 trillionExpected Total Contribution Of AI To The Global Economy By 2030Artificial Intelligence EngineerIndustry-recognized AI Engineer Master’s certificate from SimplilearnDedicated live sessions by faculty of industry experts11 Months monthsView ProgramProfessional Certificate Program in Generative AI and Machine Learning11 Months monthsView ProgramprevNextHere's what learners are saying regarding our programs:Indrakala Nigam BeniwalTechnical Consultant, Land Transport Authority (LTA) SingaporeI completed a Master's Program in Artificial Intelligence Engineer with flying colors from Simplilearn. Thanks to the course teachers and others associated with designing such a wonderful learning experience. Aman KukretiBusiness Process Analyst, DS GroupThe generative ai machine learning module was an eye opener for me. The mentor's teaching style in the weekend sessions was spot on. While there's a lot of Gen AI content online, this module stood out for its structured approach and the mentor's interactive guidance. It made learning about AI easy, even for beginners like me.
+prevNextNot sure what you’re looking for?View all Related Programs
+This is when I started doing some research into emerging tech fields and quickly realized that data science and AI offered seemingly endless opportunities, with thousands of unfilled positions. By updating my data science skillset and charting a career path toward AI, I knew I could redirect my trajectory toward a more satisfying and lucrative career.
+The Simplilearn Solution: Targeted Skills Development Online
+I had a vision for my future but I needed to chart my path. After consulting with friends and colleagues, I decided to pursue additional training in data science and the Python programming language in particular. I knew that proficiency with Python would not only prepare me for my chosen field but also is versatile enough for other types of work. I could put it to use right away even before I transitioned into data science.
+
+Next up: finding the right learning solution. While I originally wanted to find a classroom-based course, I ultimately decided that it might not be feasible with my job. A flexible learning solution, with self-paced courses as well as live, online classes, would allow me to do my coursework in the evening and on weekends. After extensive research, I found Simplilearn had the best content at a reasonable price.  
+Simplilearn allowed me to be able to attend live, online classes at times that worked with my schedule, along with access to multiple, highly qualified instructors.
+I completed Simplilearn’s Artificial Intelligence Engineer Master’s Program and it helped me become proficient in the programming language, as well as the disciplines of data analysis, machine learning, data visualization, web scraping, and natural language processing. I was also very satisfied with the course work from Simplilearn, especially the ability to attend classes at various times that worked best with my schedule, even watching recorded lessons if necessary.
+The practice labs helped me apply what I learned to real-world scenarios and become career-ready once the course finished. Since I’m the on-the-go type of person, the Simplilearn mobile app was particularly useful for accessing recorded sessions without having to carry my laptop everywhere. 
+The trainers were also top-notch and I was very impressed with the quick response from the support team when I had any questions about the platform. Overall, I was very satisfied with my choice.
+The Results: A New Career Trajectory
+With Simplilearn’s program, I was able to use what I had learned to take on new tasks within my company. I even received a promoted my now current role as a senior-level testing engineer,  although my longer-term focus is the field of data science with further specialization in the lucrative field of AI engineering.
+The best part has been that I have now developed the confidence of knowing that I have more control over the direction of my career. My suggestion to anyone reading this would be, if you want to keep up, you really owe it to yourself to explore your upskilling options. 
+Simplilearn has renewed my interest to learn more and grow in my career and I’m looking forward to taking more Simplilearn courses in the future.
+It’s Better to Upskill Than to Fade Away: Get Started Today!
+Where do you see yourself in five years? How about a decade from now? Whatever your future ambitions might be, it’s a fair bet that you’ll need to learn new skills and be able to apply them. Simplilearn’s unique Blended Learning approach combines self-paced instructional videos with live, online, instructor-led courses, and hands-on, industry-aligned projects. If you’re serious about your career, or an organization investing in your existing talent, learn how Simplilearn can be your partner in upskilling. Simplilearn's Artificial Intelligence Engineer Master’s Program, in collaboration with IBM, imparts training on the skills required to become a successful Artificial Intelligence Engineer.
+
+",https://schema.org,,BreadcrumbList,"{'@type': 'Organization', 'name': 'Simplilearn', 'logo': {'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/logo.png', 'width': '200', 'height': '200'}}",Simplilearn Artificial Intelligence Review: Mastering Specialized Skills,"{'@type': 'WebPage', '@id': 'https://www.simplilearn.com/student-spotlight-mastering-specialized-ai-skills-review-article'}",2020-09-15T11:17:07+05:30,2022-05-13T20:09:29+05:30,"{'@type': 'Person', 'name': 'Simplilearn', 'url': 'https://www.simplilearn.com/authors/simplilearn'}","{'@type': 'ImageObject', 'url': 'https://www.simplilearn.com/ice9/free_resources_article_thumb/Student_Spotlight_Tracking_the_Future_by_Mastering_Specialized_Skills.jpg', 'height': '506', 'width': '900'}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.simplilearn.com', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.simplilearn.com/resources', 'name': 'Resources'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.simplilearn.com/resources/artificial-intelligence-machine-learning', 'name': 'AI & Machine Learning'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@id': 'https://www.simplilearn.com/student-spotlight-mastering-specialized-ai-skills-review-article', 'name': 'Simplilearn Artificial Intelligence Review: Mastering Specialized Skills'}}]",,Simplilearn Artificial Intelligence Review: Mastering Specialized Skills,,,,,https://www.simplilearn.com/student-spotlight-mastering-specialized-ai-skills-review-article,"{'@type': 'SpeakableSpecification', 'xpath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}"
+https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vbmV3cy5hcnRuZXQuY29tL2FydC13b3JsZC93YW5nc2h1aS13aGl0bmV5LWJpZW5uaWFsLWFpLTIxMTMyNzDSAU9odHRwczovL25ld3MuYXJ0bmV0LmNvbS9hcnQtd29ybGQvd2FuZ3NodWktd2hpdG5leS1iaWVubmlhbC1haS0yMTEzMjcwL2FtcC1wYWdl?oc=5,‘They Are About Capturing the Process of Merging’: How Artist WangShui Collaborated With A.I. to Make Paintings for the Whitney Biennial - artnet News,2022-05-12,artnet News,https://news.artnet.com,WangShui brings artificial technology to the “Whitney Biennial 2022: Quiet as It’s Kept” with a stunning LED installation.,"artnet-news, WangShui artificial intelligence, WangShui whitney biennial, whitney biennial, whitney biennial quiet as it's kept, whitney biennial 2022, the Isle of Vitr∴ ous, wangshui vitr∴ ous, Contemporary",WangShui brings artificial technology to the “Whitney Biennial 2022: Quiet as It’s Kept” with a stunning LED installation.,N/A,Art & Tech,N/A,"
+
+
+
+
+
+Art & Tech
+
+‘They Are About Capturing the Process of Merging’: How Artist WangShui Collaborated With A.I. to Make Paintings for the Whitney Biennial
+The AI-driven piece responds to viewers' presence in the galleries.
+
+
+
+
+
+WangShui. Photo by Sam Clarke.
+
+
+
+
+
+
+
+
+
+
+Sarah Cascone 
+May 11, 2022
+
+
+ ShareShare This Article
+
+
+
+
+In the darkened halls of the sixth floor of the Whitney Biennial, viewers will come across a quiet alcove with comfortable couches positioned beneath gently glowing LED screens and surrounded by sculptural netting. The pulsating display is the work of artist WangShui—and of artificial intelligence.
+When it comes to applications of AI in art, most have been more impressive technologically than artistically. But WangShui’s work at the Whitney Biennial represents a more sophisticated meeting of art and technology, where the artist has programmed AI to help create landscapes of otherworldly beauty.
+Their contribution to the nation’s leading biennial serves as a reminder that as our increasingly plugged in world becomes even more technology dependent, artists are finding exciting ways to harness the power for art.
+We spoke with WangShui about “collaborating” with AI, and how their biennial installation—as soothing as it is high-tech—interacts with viewers in the galleries.
+Work by WangShui at the Whitney Biennial. Photo courtesy of the artist.
+How did you begin to incorporate artificial intelligence into your work and what initially interested you about it?
+So many arms of my practice naturally converged and coalesced in AI. It’s been a long slow approach that wasn’t at all intentional. For example, I realized recently that all of my woven LED video sculptures were attempts to physically interpolate the latent space between pixels. I also found that my research into perception, posthumanism, and neurodivergence all gently entangled under the lens of AI.
+The wall text describes the LED ceiling work as “a collage of ‘selfconscious’ generative adversarial networks.” Can you explain what that means?
+[The work, titled] Scr∴ pe II is composed of various types of GANs that are woven or “collaged” together across various types of LED screens. For example, if you look closely, there are two skin-like LED films metastasized into the parasitic screen which sense and dimensionalize GANs from the main screen into 3D animations. Then there are active sensors in the work that read light levels emitted from the screens themselves and CO2 levels from viewers. This data is fed back into the image generation to effect diversion, pace, and even brightness of the videos. At night, when the museum is empty, the work dims and slows down to a state of suspended animation.
+Work by WangShui at the Whitney Biennial. Photo courtesy of the artist.
+Were you surprised that the Whitney Biennial was interested in showing a work partially authored by artificial intelligence? Do you think we will see more art involving AI at major exhibitions?
+AI is already so fundamental to contemporary daily life and thus also to art production. As the technologies advance and become more prevalent they will weave together more seamlessly and become more invisible. In this sense, it’s important for me to represent complex configurations across a myriad of physical and algorithmic structures.
+What are some of the challenges you encountered “coauthoring” art with artificial intelligence?
+Co-authoring is just another form of circumventing the ego. It’s psychedelic in that sense, so I enjoyed every second. I’m on a mission to deliquesce.
+Work by WangShui at the Whitney Biennial. Photo courtesy of the artist.
+How often did you have to retrain the algorithm, or try again to generate the result you wanted? Or were there a lot of happy accidents? Would the work appear differently in a less controlled environment? 
+I think of the training process as a sort of breathwork between me, my incredible programmers Moises Sanabria and Fabiola Larios, and the various AI programs we used. It’s about experimentation, deep learning, and ultimately syncing.
+The neural networks are working to generate imagery based on a dataset you provided. What is in that dataset?
+Each dataset is a sort of journal for me. They are composed of images and subjects I’m researching at the moment. Each iteration from the “Scr∴ pe” series builds on the previous dataset to develop an ever evolving consciousness. At this point it includes datasets of thousands of images that span deep sea corporeality, fungal structures, cancerous cells, baroque architecture, and so much more.
+WangShui, Titration Point (Isle of Vitr∴ous). Photo courtesy of the artist. Photo by Alon Koppel Photography.
+The paintings have a real sense of the artist’s hand. How important was that for you to maintain in a piece that is so closely linked to AI?
+Since the paintings are interpolations of my gestures and those of the AI, they are about capturing the process of merging.
+What is the painting process like? Do you make marks based on the decisions made by the AI?
+The process is a recursive feedback loop. I use AI programs to algorithmically generate new images from my previous paintings which I then sketch, collage, and abrade into the aluminum surfaces. I keep thinking about the term “deep learning” in relation to carefully drawing, mirroring, and abrading lines produced by the AI. I then paint thinly over the abraded images to try and find the sweet spot where the latent space of the oil is revealed through the refractive index below. Of course I improvise all along the way and end up just following the energy.
+Work by WangShui at the Whitney Biennial. Photo courtesy of the artist.
+What inspired your otherworldly landscape, “the Isle of Vitr∴ ous,” and how do you hope viewers experience this space?
+I think of these works as a series of post-human cave paintings that mark a specific moment in human evolution. In that sense, “Isle of Vitr∴ ous” is sort of my Galapagos, but as a non-place that exists only between structures of perception. Vitreous is the clear gel in mammalian eyes that allows for light to pass through to the retina.
+People never believe me when I tell them that I look at landscape painting more than any other kind of art, but the AI picked up on it and reflected it back to me. The title, Titration Point (Isle of Vitr∴ ous), is about the mountain of tiny scratches I enacted on the aluminum surface as a form of sensory integration between myself and the AI.
+“Whitney Biennial 2022: Quiet as It’s Kept” is on view at the Whitney Museum of American Art, 99 Gansevoort Street, New York, April 6–September 5, 2022.
+Follow Artnet News on Facebook: 
+
+Want to stay ahead of the art world? Subscribe to our newsletter to get the breaking news, eye-opening interviews, and incisive critical takes that drive the conversation forward.
+
+
+
+
+
+
+
+
+ Share This ArticleShare This Article
+
+
+
+
+
+
+
+                                                        Article topics
+                                                    
+
+Contemporary
+
+
+
+
+
+
+
+
+
+ 
+ 
+ Sarah Cascone
+Senior Writer
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+            The best of Artnet News in your inbox.
+        
+
+            Sign up to our daily newsletter.
+        
+
+
+
+
+
+
+
+
+Please enter a valid email address
+Signup failed. Please try again later.
+
+
+
+Thank you!
+You have successfully subscribed to Artnet News.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            The best of Artnet News in your inbox.
+        
+
+            Sign up to our daily newsletter.
+        
+
+
+
+
+
+
+
+
+Please enter a valid email address
+Signup failed. Please try again later.
+
+
+
+Thank you!
+You have successfully subscribed to Artnet News.
+
+
+
+
+ 
+
+
+
+
+                                More Trending Stories
+                            
+
+
+
+Art World
+                                                    
+
+
+
+
+
+
+
+                                                            Two Halves of a Medieval Manuscript Page Are Reunited After More Than a Century
+                                                        
+
+
+
+
+
+Art & Exhibitions
+                                                    
+
+
+
+
+
+
+
+                                                            In a New Show at Gladstone, Alissa Bennett Unpacks the Mystery Novel ‘The Secret History’
+                                                        
+
+
+
+
+
+Art World
+                                                    
+
+
+
+
+
+
+
+                                                            How an Art Heist at Taco Bell Is Fueling a Thriving Black Market
+                                                        
+
+
+
+
+
+Up Next
+                                                    
+
+
+
+
+
+
+
+                                                            Why the Art World Is Just Waking Up to Sophie von Hellermann’s Dream-Like Visions
+                                                        
+
+
+
+
+
+
+
+
+
+                                                            Art World
+                                                        
+
+
+                                                                Two Halves of a Medieval Manuscript Page Are Reunited After More Than a Century
+                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            Art & Exhibitions
+                                                        
+
+
+                                                                In a New Show at Gladstone, Alissa Bennett Unpacks the Mystery Novel ‘The Secret History’
+                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            Art World
+                                                        
+
+
+                                                                How an Art Heist at Taco Bell Is Fueling a Thriving Black Market
+                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            Up Next
+                                                        
+
+
+                                                                Why the Art World Is Just Waking Up to Sophie von Hellermann’s Dream-Like Visions
+                                                            
+
+
+
+
+
+
+
+
+
+
+
+",https://schema.org,"[{'@type': 'Organization', '@id': 'https://news.artnet.com/#organization', 'name': 'Artnet News', 'url': 'https://news.artnet.com/', 'sameAs': [], 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.artnet.com/#/schema/logo/image/', 'url': 'https://news.artnet.com/app/news-upload/2023/02/news-logo-64x64-1.png', 'contentUrl': 'https://news.artnet.com/app/news-upload/2023/02/news-logo-64x64-1.png', 'width': 64, 'height': 64, 'caption': 'Artnet News'}, 'image': {'@id': 'https://news.artnet.com/#/schema/logo/image/'}}, {'@type': 'WebSite', '@id': 'https://news.artnet.com/#website', 'url': 'https://news.artnet.com/', 'name': 'Artnet News', 'description': 'The world’s most-read and best trusted art publication', 'publisher': {'@id': 'https://news.artnet.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://news.artnet.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#primaryimage', 'url': 'https://news.artnet.com/app/news-upload/2022/05/WangShui_Portrait_by_Sam_Clarke.jpg', 'contentUrl': 'https://news.artnet.com/app/news-upload/2022/05/WangShui_Portrait_by_Sam_Clarke.jpg', 'width': 1500, 'height': 2100, 'caption': 'WangShui. Photo by Sam Clarke.'}, {'@type': 'WebPage', '@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#webpage', 'url': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270', 'name': ""'They Are About Capturing the Process of Merging': How Artist WangShui Collaborated With A.I. to Make Paintings for the Whitney Biennial"", 'isPartOf': {'@id': 'https://news.artnet.com/#website'}, 'primaryImageOfPage': {'@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#primaryimage'}, 'datePublished': '2022-05-12T06:00:08+00:00', 'dateModified': '2022-05-12T12:09:42+00:00', 'description': 'WangShui brings artificial technology to the “Whitney Biennial 2022: Quiet as It’s Kept” with a stunning LED installation.', 'breadcrumb': {'@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270']}]}, {'@type': 'BreadcrumbList', '@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://news.artnet.com/'}, {'@type': 'ListItem', 'position': 2, 'name': '&#8216;They Are About Capturing the Process of Merging&#8217;: How Artist WangShui Collaborated With A.I. to Make Paintings for the Whitney Biennial'}]}, {'@type': 'NewsArticle', '@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#article', 'isPartOf': {'@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#webpage'}, 'author': {'@id': 'https://news.artnet.com/#/schema/person/2f7cb33e97c426c210b53691158b93c4'}, 'headline': '&#8216;They Are About Capturing the Process of Merging&#8217;: How Artist WangShui Collaborated With A.I. to Make Paintings for the Whitney Biennial', 'datePublished': '2022-05-12T06:00:08+00:00', 'dateModified': '2022-05-12T12:09:42+00:00', 'mainEntityOfPage': {'@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#webpage'}, 'wordCount': 1106, 'publisher': {'@id': 'https://news.artnet.com/#organization'}, 'image': {'@id': 'https://news.artnet.com/art-world/wangshui-whitney-biennial-ai-2113270#primaryimage'}, 'thumbnailUrl': 'https://news.artnet.com/app/news-upload/2022/05/WangShui_Portrait_by_Sam_Clarke.jpg', 'articleSection': 'Art &amp; Tech', 'inLanguage': 'en-US', 'isAccessibleForFree': 'True', 'hasPart': {'@type': 'WebPageElement', 'isAccessibleForFree': 'True', 'cssSelector': '.article-body'}, 'alternativeHeadline': '&#8216;They Are About Capturing the Process of Merging&#8217;: How Artist WangShui Collaborated With A.I. to Make Paintings for the Whitney Biennial | Artnet News', 'description': {}, 'keywords': ['Contemporary']}, {'@type': 'Person', '@id': 'https://news.artnet.com/#/schema/person/2f7cb33e97c426c210b53691158b93c4', 'name': 'Sarah Cascone', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://news.artnet.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/42eb30b598e974d54930af67d8b222e5?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/42eb30b598e974d54930af67d8b222e5?s=96&d=mm&r=g', 'caption': 'Sarah Cascone'}, 'description': 'Sarah Cascone is a senior writer for artnet News, where she has worked since its 2014 launch. She is the co-founder of Young Women in the Arts, and was previously on staff at Art in America. A native of Northport, New York, she went to Fordham University in the Bronx, graduating magna cum laude from the honors program with a double major in visual art and history.', 'sameAs': ['https://news.artnet.com/about/sarah-cascone-25/', 'https://www.facebook.com/sarahcascone', 'https://instagram.com/sarahecascone/', 'https://twitter.com/sarahecascone'], 'url': 'https://news.artnet.com/about/sarah-cascone-25'}]",,,,,,,,,,,,,,,,,

@@ -1,0 +1,1004 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,mainEntityOfPage,headline,dateModified,datePublished,author,isPartOf,publisher,isAccessibleForFree,hasPart,image,itemListElement,url,inLanguage,alternativeHeadline,video,comment,commentCount,copyrightHolder,sourceOrganization,copyrightYear,name,logo,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,@graph,articleBody,articleSection,thumbnailUrl,dateCreated
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDIxLzA3L2FpLW1hY2hpbmUtbGVhcm5pbmctYmlhcy1kaXNjcmltaW5hdGlvbi_SAQA?oc=5,Research shows AI is often biased. Here's how to make algorithms work for all of us - World Economic Forum,2021-07-19,World Economic Forum,https://www.weforum.org,"There are many multiple ways in which artificial intelligence can fall prey to bias – but careful analysis, design and testing will ensure it serves the widest population possible","World Economic Forum,WEF,Davos,Klaus Schwab, globalization, globalization4.0, globalization4, globalization four, what does globalization mean?","There are many multiple ways in which artificial intelligence can fall prey to bias – but careful analysis, design and testing will ensure it serves the widest population possible","There are many multiple ways in which artificial intelligence can fall prey to bias – but careful analysis, design and testing will ensure it serves the widest population possible",N/A,N/A,"Emerging TechnologiesResearch shows AI is often biased. Here's how to make algorithms work for all of usJul 19, 2021People walk past a poster advertising facial recognition software at a technology exhibition.Image: Reuters/Thomas PeterAgbolade OmowoleCEO, Mascot IT NigeriaShare:Our ImpactWhat's the World Economic Forum doing to accelerate action on Emerging Technologies?The Big PictureExplore and monitor how Data Science is affecting economies, industries and global issuesCrowdsource InnovationGet involved with our crowdsourced digital platform to deliver impact at scaleStay up to date:Data ScienceFollowListen to the article9 min listenExisting human bias is too often transferred to artificial intelligence.Here are five types of bias and how to address them.Can you imagine a just and equitable world where everyone, regardless of age, gender or class, has access to excellent healthcare, nutritious food and other basic human needs? Are data-driven technologies such as artificial intelligence and data science capable of achieving this – or will the bias that already drives real-world outcomes eventually overtake the digital world, too?Bias represents injustice against a person or a group. A lot of existing human bias can be transferred to machines because technologies are not neutral; they are only as good, or bad, as the people who develop them. To explain how bias can lead to prejudices, injustices and inequality in corporate organizations around the world, I will highlight two real-world examples where bias in artificial intelligence was identified and the ethical risk mitigated. In 2014, a team of software engineers at Amazon were building a program to review the resumes of job applicants. Unfortunately, in 2015 they realized that the system discriminated against women for technical roles. Amazon recruiters did not use the software to evaluate candidates because of these discrimination and fairness issues. Meanwhile in 2019, San Francisco legislators voted against the use of facial recognition, believing they were prone to errors when used on people with dark skin or women.Have you read?How to use AI hiring tools to reduce bias in recruitingAI is showing signs of serious pro-male bias, study findsAI has a bias problem. This is how we can solve itThe National Institute of Standards and Technology (NIST) conducted research that evaluated facial-recognition algorithms from around 100 developers from 189 organizations, including Toshiba, Intel and Microsoft. Speaking about the alarming conclusions, one of the authors, Patrick Grother, says: ""While it is usually incorrect to make statements across algorithms, we found empirical evidence for the existence of demographic differentials in the majority of the algorithms we studied.”Ridding AI and machine learning of bias involves taking their many uses into consideration Image: British Medical JournalTo list some of the source of fairness and non-discrimination risks in the use of artificial intelligence, these include: implicit bias, sampling bias, temporal bias, over-fitting to training data, and edge cases and outliers. Implicit biasImplicit bias is discrimination or prejudice against a person or group that is unconscious to the person with the bias. It is dangerous because the person is unaware of the bias – whether it be on grounds of gender, race, disability, sexuality or class.Sampling bias This is a statistical problem where random data selected from the population do not reflect the distribution of the population. The sample data may be skewed towards some subset of the group.Temporal biasThis is based on our perception of time. We can build a machine-learning model that works well at this time, but fails in the future because we didn't factor in possible future changes when building the model.Over-fitting to training dataThis happens when the AI model can accurately predict values from the training dataset but cannot predict new data accurately. The model adheres too much to the training dataset and does not generalize to a larger population.Edge cases and outliers These are data outside the boundaries of the training dataset. Outliers are data points outside the normal distribution of the data. Errors and noise are classified as edge cases: Errors are missing or incorrect values in the dataset; noise is data that negatively impacts on the machine learning process.How to identify fairness and non-discrimination risksAnalytical techniquesAnalytical techniques require meticulous assessment of the training data for sampling bias and unequal representations of groups in the training data. You can investigate the source and characteristics of the dataset. Check the data for balance. For instance, is one gender or race represented more than the other? Is the size of the data large enough for training? Are some groups ignored?A recent study on mortgage loans revealed that the predictive models used for granting or rejecting loans are not accurate for minorities. Scott Nelson, a researcher at the University of Chicago, and Laura Blattner, a Stanford University economist, found out that the reason for the variance between mortgage approval for majority and minority group is because low-income and minority groups have less data documented in their credit histories. Without strong analytical study of the data, the cause of the bias will be undetected and unknown.Test the model in different environmentsWhat if the environment you trained the data is not suitable for a wider population? Expose your model to varying environments and contexts for new insights. You want to be sure that your model can generalize to a wider set of scenarios. A review of a healthcare-based risk prediction algorithm that was used on about 200 million American citizens showed racial bias. The algorithm predicts patients that should be given extra medical care. It was found out that the system favoured white patients over black patients. The problem with the algorithm’s development is that it wasn't properly tested with all major races before deployment.Strategies for mitigating fairness and non-discrimination risksInclusive design and foreseeabilityInclusive design emphasizes inclusion in the design process. The AI product should be designed with consideration for diverse groups such as gender, race, class, and culture. Foreseeability is about predicting the impact the AI system will have right now and over time.Recent research published by the Journal of the American Medical Association (JAMA) reviewed more than 70 academic publications based on the diagnostic prowess of doctors against digital doppelgangers across several areas of clinical medicine. A lot of the data used in training the algorithms came from only three states: Massachusetts, California and New York. Will the algorithm generalize well to a wider population?A lot of researchers are worried about algorithms for skin-cancer detection. Most of them do not perform well in detecting skin cancer for darker skin because they were trained primarily on light-skinned individuals. The developers of the skin-cancer detection model didn't apply principles of inclusive design in the development of their models.Perform user testingTesting is an important part of building a new product or service. User testing in this case refers to getting representatives from the diverse groups that will be using your AI product to test it before it is released. STEEPV analysisThis is a method of performing strategic analysis of external environments. It is an acronym for social (i.e. societal attitudes, culture and demographics), technological, economic (ie interest, growth and inflation rate), environmental, political and values. Performing a STEEPV analysis will help you detect fairness and non-discrimination risks in practice.DiscoverWhat's the World Economic Forum doing about diversity, equity and inclusion? Show moreThe COVID-19 pandemic and recent social and political unrest have created a profound sense of urgency for companies to actively work to tackle inequity.The Forum's work on Diversity, Equality, Inclusion and Social Justice is driven by the New Economy and Society Platform, which is focused on building prosperous, inclusive and just economies and societies. In addition to its work on economic growth, revival and transformation, work, wages and job creation, and education, skills and learning, the Platform takes an integrated and holistic approach to diversity, equity, inclusion and social justice, and aims to tackle exclusion, bias and discrimination related to race, gender, ability, sexual orientation and all other forms of human diversity. The Platform produces data, standards and insights, such as the Global Gender Gap Report and the Diversity, Equity and Inclusion 4.0 Toolkit, and drives or supports action initiatives, such as Partnering for Racial Justice in Business, The Valuable 500 – Closing the Disability Inclusion Gap, Hardwiring Gender Parity in the Future of Work, Closing the Gender Gap Country Accelerators, the Partnership for Global LGBTI Equality, the Community of Chief Diversity and Inclusion Officers and the Global Future Council on Equity and Social Justice. It is very easy for the existing bias in our society to be transferred to algorithms. We see discrimination against race and gender easily perpetrated in machine learning. There is an urgent need for corporate organizations to be more proactive in ensuring fairness and non-discrimination as they leverage AI to improve productivity and performance. One possible solution is by having an AI ethicist in your development team to detect and mitigate ethical risks early in your project before investing lots of time and money.Don't miss any update on Data ScienceSign up for free and access the latest publications and insights across various topics.Sign up for freeLicense and RepublishingWorld Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.The views expressed in this article are those of the author alone and not the World Economic Forum.Related topics:Emerging TechnologiesEconomic GrowthEquity, Diversity and InclusionShare:Global AgendaThe Agenda WeeklyA weekly update of the most important issues driving the global agendaSubscribe todayYou can unsubscribe at any time using the link in our emails. For more details, review our privacy policy.More on Emerging TechnologiesSee allThe rise of smart contracts and strategies for mitigating cyber and legal risksJerome Desbonnet and Oded VanunuJuly 16, 2024Digital public infrastructure is transforming lives in Pakistan. Here's how Tariq Malik and Prerna SaxenaJuly 12, 2024What is the bioeconomy and how can it drive sustainable development?Stefanie ÓlivesJuly 12, 2024From decision-making to efficiency gains: Leaders at 'Summer Davos' discuss ways to harness AICathy Li, Maria Basso and Benjamin LarsenJuly 10, 20243 surprising ways technologies are being deployed to tackle the climate crisisRebecca GeldardJuly 10, 2024The path forward for sustainable space explorationPascale Ehrenfreund and Carissa ChristensenJuly 8, 2024",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZHJleGVsLmVkdS9jY2kvc3Rvcmllcy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1pbi1tZWRpY2luZS1wcm9zLWFuZC1jb25zL9IBAA?oc=5,Pros & Cons of Artificial Intelligence in Medicine - College of Computing & Informatics - Drexel,2021-07-21,Drexel,https://drexel.edu,"AI in healthcare is no longer something out of a Sci-Fi novel, and it’s in use today. Find out its applications, benefits, and risks from Professor Christopher Yang, PhD. ",N/A,N/A,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIxLzA3LzIxL2FpLXdlLXNob3VsZC1mZWFyLWlzLWFscmVhZHktaGVyZS_SAQA?oc=5,Opinion | The AI we should fear is already here - The Washington Post,2021-07-21,The Washington Post,https://www.washingtonpost.com,Dire warnings about the possibility of artificial intelligence running amok and endangering civilization distract from its pernicious effects in the here and now.,"Bill Gates, Stephen Hawking, AI, artificial intelligence, Elon Musk",Dire warnings about the possibility of artificial intelligence running amok and endangering civilization distract from its pernicious effects in the here and now.,Dire warnings about the possibility of artificial intelligence running amok and endangering civilization distract from its pernicious effects in the here and now.,Opinions,N/A,"(iStock)By  Daron AcemogluJuly 21, 2021 at 2:12 p.m. EDTDaron Acemoglu is an Institute Professor at the Massachusetts Institute of Technology and the co-author of “Why Nations Fail: The Origins of Power, Prosperity, and Poverty.""Alarm over the rise of artificial intelligence tends to focus too much on some distant point in the future, when the world achieves Artificial General Intelligence. That is the moment when — as AI’s boosters dream — machines reach the ability to reason and perform at human or superhuman levels in most activities, including those that involve judgment, creativity and design.Sign up for the Prompt 2024 newsletter for opinions on the biggest questions in politicsAI detractors have focused on the potential danger to human civilization from a super-intelligence if it were to run amok. Such warnings have been sounded by tech entrepreneurs Bill Gates and Elon Musk, physicist Stephen Hawking and leading AI researcher Stuart Russell.AdvertisementStory continues below advertisementWe should indeed be afraid — not of what AI might become, but of what it is now.Almost all of the progress in artificial intelligence to date has little to do with the imagined Artificial General Intelligence; instead, it has concentrated on narrow tasks. AI capabilities do not involve anything close to true reasoning. Still, the effects can be pernicious.Narrow AI is already displacing workers. My research, with David Autor, Jonathon Hazell and Pascual Restrepo, finds that firms that increase their AI adoption by 1 percent reduce their hiring by approximately 1 percent. And of course narrow AI is powering new monitoring technologies used by corporations and governments — as with the surveillance state that Uyghurs live under in China. It is also being used in the U.S. justice system for bail decisions and, now increasingly, in sentencing. And it is warping public discourse on social media, hampering the functioning of modern democracies.AdvertisementStory continues below advertisementThe labor-market effects of AI may be the most ominous. The U.S. economy once created plentiful good jobs — paying decent wages and providing job security and career-building opportunities — for workers with all kinds of backgrounds and skills. From the end of World War II to the mid-1970s, the United States witnessed not just robust employment growth but also rapid wage growth for both high-education and low-education workers.This growth stopped long before AI. From the 1980s onward, median wages stagnated. Men with less than a college degree started experiencing sharp declines in their real earnings.During that period, automation and corporations’ off-shoring jobs to other countries drove the declines. But now AI is accelerating the trend, approaching or sometimes even exceeding human productivity in some very specific tasks in offices, warehouses and elsewhere. Many employers, focused on cost-cutting, will jump at any opportunity to eliminate jobs using these nascent technologies.AdvertisementStory continues below advertisementSome economists think fears of automation and AI displacing workers are overblown. They argue that as work becomes more AI-automated, the resulting productivity gains will spearhead labor demand in other parts of the economy, and sometimes even in the same firms doing the AI-driven automation.Share this articleShareIf AI technologies were truly spectacular in the tasks they performed today, the argument would have some validity. Alas, current AI technologies are not just far from general intelligence; they are not even that good at things that are second nature to humans — such as facial recognition, language comprehension and problem-solving. This means a double whammy for labor, because AI technologies displace labor and don’t generate any of the labor-demand boost that would have resulted if the technology had delivered more meaningful productivity gains.Other applications of AI are likely to exacerbate the growing power of corporations and capital over labor, adding to these troubling trends. AI enables much better monitoring of workers — for example, in warehouses, fast-food restaurants and the delivery business.AdvertisementStory continues below advertisementThe applications of AI in government decision-making, most importantly in the criminal justice system, are no less worrying. Existing evidence suggests that algorithms are inheriting and sometimes intensifying existing biases and inequities.Then there is AI’s damage to democratic discourse and politics. This is not only because of algorithmic misinformation in social media but also because the growing ability of companies and governments to monitor and manipulate the behaviors of millions of people, which is fundamentally inconsistent with true democracy.Every new technology creates challenges, necessitating critical decisions that determine who benefits and who loses out, and whether the benefits justify the damage.Story continues below advertisementThis is doubly true for AI, and not just because of its pervasive effects throughout society and impacts on areas typically untouched by other technologies, such as human judgment. It is also because there are many different ways in which the future of AI can be shaped: Will AI be allowed to work increasingly to displace and monitor humans, or steered toward complementing and augmenting human capabilities, creating new opportunities for workers?AdvertisementThese choices need oversight from society and government to prevent misuses of the technology and to regulate its effects on the economy and democracy. If the choices are left in the hands of AI’s loudest enthusiasts, decisions that benefit the decision-makers and impose myriad costs on the rest of us become more likely.The best way to reverse this trend is to recognize the tangible costs that AI is imposing right now — and stop worrying about evil super-intelligence.Story continues below advertisementRead more:The Post’s View: The United States can’t let other countries write AI policy for itAriel Procaccia: It’s time for AI to outgrow gamingLeana S. Wen: The pandemic has changed course again. The Biden administration urgently needs to do the same.Greg Sargent: Kevin McCarthy’s top pick for the Jan. 6 panel is already trying to sabotage itKaren Tumulty: My mother had a ‘vaccine passport’ from decades ago. So why are we so averse to the idea now?Share370 CommentsNewsletterSundaysThe Week in IdeasThought-provoking opinions you may have missed amid the news of the week.Sign upSubscribe to comment and get the full experience. Choose your plan →",https://schema.org,BreadcrumbList,https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/,The AI we should fear is already here,2021-07-21T18:12:30.486Z,2021-07-21T18:12:30.525Z,"{'@type': 'Person', 'name': 'Daron Acemoglu'}","{'@type': ['CreativeWork', 'Product'], 'name': 'The Washington Post', 'productID': 'washingtonpost.com:basic', 'description': 'Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.', 'sku': 'https://subscribe.washingtonpost.com', 'image': 'https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png', 'brand': {'@type': 'brand', 'name': 'The Washington Post'}, 'offers': {'@type': 'offer', 'url': 'https://subscribe.washingtonpost.com/acquisition?promo=o26'}}","{'@id': 'washingtonpost.com', '@type': 'NewsMediaOrganization', 'logo': {'@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png', 'width': {'@type': 'Distance', 'name': '344 px'}, 'height': {'@type': 'Distance', 'name': '60 px'}}, 'name': 'The Washington Post'}",False,"{'@type': 'WebPageElement', 'cssSelector': '.meteredContent', 'isAccessibleForFree': False}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg&w=1600&h=900', 'height': 900, 'width': 1600}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg&w=1800&h=1800', 'height': 1800, 'width': 1800}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg&w=800&h=600', 'height': 800, 'width': 600}]","[{'@context': 'https://schema.org', '@type': 'ListItem', 'name': 'Opinions', 'position': 1, 'item': 'https://www.washingtonpost.com/opinions/'}]",,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nYW1lcy8yMDIxL2p1bC8xOS92aWRlby1nYW1pbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWktaXMtZXZvbHZpbmfSAWFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZ2FtZXMvMjAyMS9qdWwvMTkvdmlkZW8tZ2FtaW5nLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFpLWlzLWV2b2x2aW5n?oc=5,"Think, fight, feel: how video game artificial intelligence is evolving - The Guardian",2021-07-19,The Guardian,https://www.theguardian.com,AI in games has long been geared towards improving computer-controlled opponents. Will it soon create diverse characters we can talk to instead of just shoot?,N/A,AI in games has long been geared towards improving computer-controlled opponents. Will it soon create diverse characters we can talk to instead of just shoot?,N/A,Games,N/A," Life stories and relationships … Watch Dogs Legion. Photograph: UbisoftView image in fullscreenLife stories and relationships … Watch Dogs Legion. Photograph: UbisoftGames This article is more than 2 years oldThink, fight, feel: how video game artificial intelligence is evolvingThis article is more than 2 years oldAI in games has long been geared towards improving computer-controlled opponents. Will it soon create diverse characters we can talk to instead of just shoot?Keith StuartMon 19 Jul 2021 04.30 EDTLast modified on Mon 19 Jul 2021 06.26 EDTShare149149In May, as part of an otherwise unremarkable corporate strategy meeting, Sony CEO Kenichiro Yoshida made an interesting announcement. The company’s artificial intelligence research division, Sony AI, would be collaborating with PlayStation developers to create intelligent computer-controlled characters. “By leveraging reinforcement learning,” he wrote, “we are developing game AI agents that can be a player’s in-game opponent or collaboration partner.” Reinforcement learning is an area of machine learning in which an AI effectively teaches itself how to act through trial and error. In short, these characters will mimic human players. To some extent, they will think.Sign up to Alex Hern’s weekly technology newsletter, TechScape.This is just the latest example of AI’s evolving and expanding role in video game development. As open world games become more complex and ambitious, with hundreds of characters and multiple intertwined narratives, developers are having to build systems capable of generating intelligent, reactive, creative characters and emergent side quests.For its Middle-earth games, developer Monolith created the acclaimed Nemesis AI system, which lets enemies remember their fights against the player, creating blood feuds that flare up throughout the adventure. The recent Watch Dogs: Legion generates life stories, relationships and daily routines for every London citizen you interact with – so if you save a character’s life one day, their best mate may well join you the next. The experimental text adventure AI Dungeon uses OpenAI’s natural language modeller GPT-3 to create new emergent narrative experiences.View image in fullscreenMiddle-earth: Shadow of Mordor. Photograph: Warner BrosBut the field of AI has a problem with diversity. Research published by New York University in 2019 found that 80% of AI professors speaking at major events were men, while just 15% of AI researchers at Facebook were women and only 10% at Google. Statistics for people of colour in tech are worse: just 2.5% of Google’s workforce are black; 4% at Facebook. The risk of such a homogeneous working culture is that gender and racial biases can feed unchecked into AI algorithms, producing results that replicate entrenched imbalances and prejudices. There have been numerous examples over the past five years, from facial recognition systems that discriminate against people of colour to AI recruitment tools that favour male applicants.Now that the games industry is exploring many of the same AI and machine learning systems as academia and the big tech giants, is the diversity problem something it should be tackling? We know that video game development has presented similar issues with homogeneity, both in its work force and in its products – it is something the industry claims it is keen to address. So if we’re going to see AI-generated characters and stories about diverse backgrounds and experiences, don’t developers need to be thinking about diversifying the teams behind them?We’ll see new forms of play that leverage feelings of creativity, love and joy more so than triumph or dominationUma Jayaram, general manager of SEED, the innovation and applied research team at Electronic Arts, certainly thinks so. As a tech entrepreneur she has worked in cloud computing, VR and data-at-scale as well as AI, and says she has sought to comprise her global team – based in Sweden, the UK, Canada and the US – of different genders, ethnicities and cultures.“A diverse team allows for multiple points of view to coalesce and creates possibilities for a more representative outcome and product,” she says. “It also enhances opportunities to create awareness, empathy and respect for individuals who are different from us. A video game is in a way an extension of our physical world, and a place where people spend time and form rich experiences that loop back into the collective sense of self and community. As such, it is a great opportunity to bring in diversity in two ways: in the teams designing and architecting these worlds, and in the worlds being created and the denizens that inhabit them.”Electronic Arts is currently looking into developing systems that can use machine learning to replicate facial expressions, skin types and body movements from video and photos, rather than having to bring actors into a mo-cap studio. In theory, this should expand the range of genders and ethnicities that can be produced in games, and Jayaram says EA is committed to using diverse data in its R&D projects. The company is also looking at employing user-generated content in games, and allowing players to make a unique avatar by capturing their own likeness and expressions on a smartphone or webcam and uploading it into the game.View image in fullscreenCaves of Qud is a ‘roguelike’ fantasy game with deep simulation and AI components. Photograph: Freehold GamesThe emphasis on diverse data is important, because it highlights a misconception about AI: that it is somehow objective because it is the result of computation. AI algorithms rely on data, and if that data is coming from a single demographic, it will reflect that group’s biases and blind spots. “We’re used to thinking about AI like physics engines or multiplayer code – something technical that happens behind the scenes,” says AI researcher and game developer Michael Cook. “But AI today is a part of the whole creative work. It controls how little AI people behave and treat each other in The Sims; it generates cultures and religions in games like Caves of Qud and Ultima Ratio Regum; it’s part of political statements in Watch Dogs: Legion. AI engineers have as much responsibility to the player as the writers and designers. They create part of the experience, and they have a huge capacity to harm. We’ve seen recently how AI Dungeon is generating stories that are potentially traumatic for the player, without warning.”At Microsoft, the company’s AI research team in Cambridge have several ongoing studies into machine learning and games, including Project Paidia, which is investigating the use of reinforcement-learning in game AI agents that can collaborate with human players. The company’s recent virtual summit included several talks on ethical considerations in games AI.View image in fullscreenMicrosoft’s research team in Cambridge is using the game Bleeding Edge to investigate reinforcement learning. Photograph: Microsoft“AI agents can be built to develop, grow and learn over time, and are only as good as what you are putting in,” says Jimmy Bischoff, director of quality at Xbox Game Studios. “Being culturally appropriate in terms of dialogue and content comes down to how it is trained. We want to build games that everyone wants to play and that everyone can relate to, so we need to have people that can represent all our players.”Microsoft also sees potential in player modelling – AI systems that learn how to act and react by observing how human players behave in game worlds. As long as you have a wide player base, this is one way to increase the diversity of data being fed into AI learning systems. “Next will be characters that are trained to provide a more diverse, or more human-like range of opponents,” says Katja Hofmann, a principle researcher at Microsoft Cambridge. “The scenario of agents learning from human players is one of the most challenging – but also one of the most exciting directions.“At the same time, I want to emphasise that AI technologies will not automatically give rise to diverse game experiences. Technology developers and creators need to make choices on how to use AI technologies, and those choices determine whether and how well the resulting characters and experiences reflect different genders and heritages.”Amanda Phillips, the author of Gamer Trouble: Feminist Confrontations in Digital Culture, is similarly cautious about placing the impetus for change solely on diverse people in AI teams. “Having a diverse team is absolutely necessary for ensuring more design angles are being considered, but I think it’s important not to fetishise underrepresented and marginalised individuals as the solutions to problems that often have very deep roots in company and industry practices,” says Phillips. “It puts a tremendous amount of pressure on folks who often have less job security, clout and resources to educate their peers (and supervisors) about issues that can be very personal. This is what is popularly called an “add diversity and stir” approach, where companies bring in “diverse” individuals and expect them to initiate change without any corresponding changes to the workplace.“Teams need to diversify, but they also need to hire consultants, audit their own practices, make organisational changes, shake up the leadership structure – whatever is necessary to ensure that the folks with the perspectives and the knowledge to understand diversity and equity in a deep way have the voice and the power to influence the product output.”One of the most fundamental elements set to unconsciously shape AI is the games industry’s inclination to think about video games purely as adversarial systems, where AI’s role is to create allies or enemies that are more effective in combat. But if we look outside the mainstream industry, we do see alternatives. Coder and NYU professor Mitu Khandaker set up her studio Glow Up Games with technologist Latoya Peterson to make social narrative games for diverse audiences. The team is currently working on Insecure: The Come Up Game, a smartphone life sim based around the hit HBO series, which explores the relationships between characters.“What I’m really interested in as a designer is, how do we build tools that let players construct fun AI systems or AI agents for other people to play with?” says Khandaker. “I’ve been saying this for ages – there’s a broader cultural point around how important it is to create a legibility of AI – creating a way for people to understand how AI even works – and we can do that by exposing them to it in a playful way. It’s effectively just computers doing some calculations and trying to predict stuff it should do. It’s not magic, but certainly what it produces can be delightful.”The development studio Tru-Luv, which created the hugely successful Self-Care app, is working on AI technologies that reflect the company’s own diverse, progressive and supportive studio culture. “Our company is currently one-third BIPOC [black, indigenous and people of colour] and two-thirds women,” says studio founder Brie Code. “Our executive team is 100% women, and our board is one-third BIPOC and two-thirds women. We work with consultants and partner organisations from emerging development communities such as those in Pakistan, Tunisia, and Morocco.”View image in fullscreenSelfCare by Tru-LuvLike Khandaker, Code argues that a diverse workforce won’t just eliminate problematic biases from conventional games, it will allow for the development of new interactive experiences. “The games industry has focused on a narrow subset of human psychology for several years,” she says. “It is very good at creating experiences that help people feel a sense of achievement or dominance. Game AI created by a diverse workforce will bring life to NPCs and experiences that represent the breadth and depth of the human experience. We’ll see more non-zero-sum experiences, more compassion, more emotional resonance, more insight, more transcendence. We’ll see new forms of play that leverage feelings of creativity, love and joy more so than triumph or domination.”As developers begin to understand and exploit the greater computing power of current consoles and high-end PCs, the complexity of AI systems will increase in parallel. Developers will explore elements such as natural language processing, player modelling and machine learning to develop imaginative, reactive AI characters, facilitated by emerging AI middleware companies such as Spirit AI and Sonantic; worlds will begin to tell their own stories to augment those penned by game designers and writers. But it’s right now that those teams need to think about who is coding those algorithms and what the aim is.“[We have] a golden opportunity to create a ‘new normal’,” says Jayaram. “We can reject stereotypes in portrayal, source diverse data for the machine learning models, and ensure that the algorithms powering the games promote fairness and respect across gender and ethnicity.”Mike Cook agrees. “Right now, the field of game AI is overwhelmingly male and white, and that means we’re missing out on the perspectives and ideas of a lot of people,” he says. “Diversity isn’t just about avoiding mistakes or harm – it’s about fresh ideas, different ways of thinking, and hearing new voices. Diversifying game AI means brilliant people get to bring their ideas to life, and that means you’ll see AI applied in ways you haven’t seen before. That might mean inventing new genres of game, or supercharging your favourite game series with fresh new ideas.“But also, diversity is about recognising that everyone should be given a chance to contribute. If Will Wright were a Black woman, would The Sims have gotten made? If we don’t open up disciplines like Game AI to everyone, then we are missing out on every Black genius, every female genius, every queer genius, we’re missing out on the amazing ideas they have, the huge changes they might make.”Explore more on these topicsGamesArtificial intelligence (AI)XboxComputingfeaturesShareReuse this contentMost viewedRepublican convention day three: JD Vance to speak as focus turns to foreign policy‘Some of the most shocking photographs ever taken’ – The Camera Never Lies reviewJon Stewart on Trump assassination attempt: ‘We dodged a catastrophe’LiveBiden says he’d consider withdrawing from 2024 race if ‘medical condition’ emerges – liveWho is Usha Vance, the Indian American lawyer married to JD Vance?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjEvMDcvMTYvdGVjaG5vbG9neS93aGF0LWhhcHBlbmVkLWlibS13YXRzb24uaHRtbNIBAA?oc=5,What Ever Happened to IBM’s Watson? - The New York Times,2021-07-17,The New York Times,https://www.nytimes.com,"IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.",N/A,"IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.","IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.",Technology,N/A,"Artificial IntelligenceMicrosoft’s Risk-TakerFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingCredit...Video by Maria ChimishkyanSkip to contentSkip to site indexSearch & Section NavigationSection NavigationWhat Ever Happened to IBM’s Watson?IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.Credit...Video by Maria ChimishkyanSupported bySKIP ADVERTISEMENTShare full article293Read in appBy Steve LohrPublished July 16, 2021Updated July 17, 2021A decade ago, IBM’s public confidence was unmistakable. Its Watson supercomputer had just trounced Ken Jennings, the best human “Jeopardy!” player ever, showcasing the power of artificial intelligence. This was only the beginning of a technological revolution about to sweep through society, the company pledged.“Already,” IBM declared in an advertisement the day after the Watson victory, “we are exploring ways to apply Watson skills to the rich, varied language of health care, finance, law and academia.”But inside the company, the star scientist behind Watson had a warning: Beware what you promise.David Ferrucci, the scientist, explained that Watson was engineered to identify word patterns and predict correct answers for the trivia game. It was not an all-purpose answer box ready to take on the commercial world, he said. It might well fail a second-grade reading comprehension test.His explanation got a polite hearing from business colleagues, but little more.“It wasn’t the marketing message,” recalled Mr. Ferrucci, who left IBM the following year.AdvertisementSKIP ADVERTISEMENTIt was, however, a prescient message.IBM poured many millions of dollars in the next few years into promoting Watson as a benevolent digital assistant that would help hospitals and farms as well as offices and factories. The potential uses, IBM suggested, were boundless, from spotting new market opportunities to tackling cancer and climate change. An IBM report called it “the future of knowing.”IBM’s television ads included playful chats Watson had with Serena Williams and Bob Dylan. Watson was featured on “60 Minutes.” For many people, Watson became synonymous with A.I.And Watson wasn’t just going to change industries. It was going to breathe new life into IBM — a giant company, but one dependent on its legacy products. Inside IBM, Watson was thought of as a technology that could do for the company what the mainframe computer once did — provide an engine of growth and profits for years, even decades.Watson has not remade any industries. And it hasn’t lifted IBM’s fortunes. The company trails rivals that emerged as the leaders in cloud computing and A.I. — Amazon, Microsoft and Google. While the shares of those three have multiplied in value many times, IBM’s stock price is down more than 10 percent since Watson’s “Jeopardy!” triumph in 2011.The company’s missteps with Watson began with its early emphasis on big and difficult initiatives intended to generate both acclaim and sizable revenue for the company, according to many of the more than a dozen current and former IBM managers and scientists interviewed for this article. Several of those people asked not to be named because they had not been authorized to speak or still had business ties to IBM.AdvertisementSKIP ADVERTISEMENTManoj Saxena, a former general manager of the Watson business, said that the original objective — to do pioneering work that was good for society — was laudable. It just wasn’t realistic.“The challenges turned out to be far more difficult and time-consuming than anticipated,” said Mr. Saxena, who is now executive chairman of Cognitive Scale, an A.I. start-up whose investors include IBM.Martin Kohn, a former chief medical scientist at IBM Research, recalled recommending using Watson for narrow “credibility demonstrations,” like more accurately predicting whether an individual will have an adverse reaction to a specific drug, rather than to recommend cancer treatments.“I was told I didn’t understand,” Dr. Kohn said.The company’s top management, current and former IBM insiders noted, was dominated until recently by executives with backgrounds in services and sales rather than technology product experts. Product people, they say, might have better understood that Watson had been custom-built for a quiz show, a powerful but limited technology.ImageWatson, ready for its “Jeopardy!” appearance, in 2011.Credit...Carolyn Cole/Los Angeles TimesIBM describes Watson as a learning journey for the company. There have been wrong turns and setbacks, IBM says, but that comes with trying to commercialize pioneering technology.AdvertisementSKIP ADVERTISEMENT“Innovation is always a process,” said Rob Thomas, the executive in charge of the Watson business in the past few years. Mr. Thomas, who earlier this month was named senior vice president for global sales, sees the A.I. development at IBM in three stages: the technical achievement with “Jeopardy!,"" the years of “experimentation” with big services contracts and, now, a shift to a product business.IBM insists that its revised A.I. strategy — a pared-down, less world-changing ambition — is working. The job of reviving growth was handed to Arvind Krishna, a computer scientist who became chief executive last year, after leading the recent overhaul of IBM’s cloud and A.I. businesses.But the grand visions of the past are gone. Today, instead of being a shorthand for technological prowess, Watson stands out as a sobering example of the pitfalls of technological hype and hubris around A.I.The march of artificial intelligence through the mainstream economy, it turns out, will be more step-by-step evolution than cataclysmic revolution.AdvertisementSKIP ADVERTISEMENTA New Wave to RideTime and again during its 110-year history, IBM has ushered in new technology and sold it to corporations. The company so dominated the market for mainframe computers that it was the target of a federal antitrust case. PC sales really took off after IBM entered the market in 1981, endorsing the small machines as essential tools in corporate offices. In the 1990s, IBM helped its traditional corporate customers adapt to the internet.IBM executives came to see A.I. as the next wave to ride.Mr. Ferrucci first pitched the idea of Watson to his bosses at IBM’s research labs in 2006. He thought building a computer to tackle a question-answer game could push science ahead in the A.I. field known as natural language processing, in which scientists program computers to recognize and analyze words. Another research goal was to advance techniques for automated question answering.After overcoming initial skepticism, Mr. Ferrucci assembled a team of scientists — eventually more than two dozen — who worked out of the company’s lab in Yorktown Heights, N.Y., about 20 miles north of IBM’s headquarters in Armonk.The Watson they built was a room-size supercomputer with thousands of processors running millions of lines of code. Its storage disks were filled with digitized reference works, Wikipedia entries and electronic books. Computing intelligence is a brute force affair, and the hulking machine required 85,000 watts of power. The human brain, by contrast, runs on the equivalent of 20 watts.All along, the company’s goal was to push the frontiers of science and burnish IBM’s reputation. IBM made a similar — and successful — bet with its chess-playing Deep Blue computer, which beat the world chess champion Garry Kasparov in 1997. In a nod to the earlier project, the scientists originally called their A.I. computer DeepJ! But the marketers stepped in and decided to name the machine for IBM’s founder, Thomas Watson Sr.AdvertisementSKIP ADVERTISEMENTWhen Watson triumphed at “Jeopardy!,” the response was overwhelming. IBM’s customers clamored for one of their own. Executives saw a big business opportunity.Clearly, there was a market for Watson. But there was a problem.IBM had little to sell.A Health Care ‘Moon Shot’Executives got to work figuring out how to turn a business out of its new star. One possibility kept coming up: health care.Health care is the nation’s largest industry and spending is rising worldwide. It is a field rich in data, the essential fuel for modern A.I. programs. And the social benefit is undeniable — the promise of longer, healthier lives.Ginni Rometty, IBM’s chief executive at the time, described the big bet on health care as the next chapter in the company’s heritage of tackling grand challenges, from counting the census to helping guide the Apollo 11 mission to the moon.“Our moon shot will be the impact we have on health care,” Ms. Rometty said. “I’m absolutely positive about it.”ImageGinni Rometty and IBM steered Watson to a focus on health care.Credit...Mandel Ngan/Agence France-Presse — Getty ImagesIBM started with cancer. It sought out medical centers where researchers worked with huge troves of data. The idea was that Watson would mine and make sense of all that medical information to improve treatment.At the University of North Carolina School of Medicine, one of IBM’s partners, the difficulties soon became apparent. The oncologists, having seen Watson’s “Jeopardy!” performance, assumed it was an answer machine. The IBM technologists were frustrated by the complexity, messiness and gaps in the genetic data at the cancer center.“We thought it would be easy, but it turned out to be really, really hard,” said Dr. Norman Sharpless, former head of the school’s cancer center, who is now the director of the National Cancer Institute. “We talked past each other for about a year.”Eventually, the oncologists and technologists found an approach that suited Watson’s strength — quickly ingesting and reading many thousands of medical research papers. By linking mentions of gene mutations in the papers with a patient’s genetic profile, Watson could sometimes point to other treatments the physicians might have missed. It was a potentially useful new diagnostic tool.AdvertisementSKIP ADVERTISEMENTBut it turned out to be not useful or flexible enough to be a winning product. At the end of last year, IBM discontinued Watson for Genomics, which grew out of the joint research with the University of North Carolina. It also shelved another cancer offering, Watson for Oncology, developed with another early collaborator, the Memorial Sloan Kettering Cancer Center.Another cancer project, called Oncology Expert Advisor, was abandoned in 2016 as a costly failure. It was a collaboration with the MD Anderson Cancer Center in Houston. The aim was to create a bedside diagnostic tool that would read patients’ electronic health records, volumes of cancer-related scientific literature and then make treatment recommendations.The problems were numerous. During the collaboration, MD Anderson switched to a new electronic health record system and Watson could not tap patient data. Watson struggled to decipher doctors’ notes and patient histories, too.Physicians grew frustrated, wrestling with the technology rather than caring for patients. After four years and spending $62 million, according to a public audit, MD Anderson shut down the project.“They chose the highest bar possible, real-time cancer diagnosis, with an immature technology,” said Shane Greenstein, a professor and co-author of a recent Harvard Business School case study on the Watson project at MD Anderson. “It was such a high-risk path.”AdvertisementSKIP ADVERTISEMENTIBM continued to invest in the health industry, including billions on Watson Health, which was created as a separate business in 2015. That includes more than $4 billion to acquire companies with medical data, billing records and diagnostic images on hundreds of millions of patients. Much of that money, it seems clear, they are never going to get back.Now IBM is paring back Watson Health and reviewing the future of the business. One option being explored, according to a report in The Wall Street Journal, is to sell off Watson Health.Back to RealityMany outside researchers long dismissed Watson as mainly a branding campaign. But recently, some of them say, the technology has made major strides.In an analysis done for The New York Times, the Allen Institute for Artificial Intelligence compared Watson’s performance on standard natural language tasks like identifying persons, places and the sentiment of a sentence with the A.I. services offered by the big tech cloud providers — Amazon, Microsoft and Google.Watson did as well as, and sometimes better than, the big three. “I was quite surprised,” said Oren Etzioni, chief executive of the Allen Institute. “IBM has gotten its act together, certainly in these capabilities.”The business side of Watson also shows signs of life. Now, Watson is a collection of software tools that companies use to build A.I.-based applications — ones that mainly streamline and automate basic tasks in areas like accounting, payments, technology operations, marketing and customer service. It is workhorse artificial intelligence, and that is true of most A.I. in business today.ImageSerena Williams talking with Watson in an ad for IBM.Credit...IBMA core Watson capability is natural language processing — the same ability that helped power the “Jeopardy!” win. That technology powers IBM’s popular Watson Assistant, used by businesses to automate customer service inquiries.The company does not report financial results for Watson. But Mr. Thomas, who now leads worldwide sales for IBM, points to signs of success.It is early for A.I. in the corporate market, he said, the market opportunity will be huge and the key at this stage is to hasten adoption of the Watson software offerings.AdvertisementSKIP ADVERTISEMENTIBM says it has 40,000 Watson customers across 20 industries worldwide, more than double the number four years ago. Watson products and services are being used 140 million times a month, compared with a monthly rate of about 10 million two years ago, IBM says. Some of the big customers are in health, like Anthem, a large insurer, which uses Watson Assistant to automate customer inquiries.“Adoption is accelerating,” Mr. Thomas said.Five years ago, Watson, a nerdy, disembodied voice from the A.I. future, chatted and joked in advertisements with the tennis superstar Serena Williams. Today, the TV ads proclaim the technology’s potential to save time and work in offices and on factory floors.Watson, one TV ad says, helps companies “automate the little things so they can focus on the next big thing.”The contrast in ambition seems striking. That’s fine with IBM. Watson is no longer the next big thing, but it may finally become a solid business for IBM.Steve Lohr has covered technology, business and economics for The Times for more than 20 years. In 2013, he was part of the team awarded the Pulitzer Prize for Explanatory Reporting. He is the author of “Data-ism” and “Go To.” More about Steve LohrA version of this article appears in print on July 18, 2021, Section BU, Page 1 of the New York edition with the headline: Watson’s Life After ‘Jeopardy!’. Order Reprints | Today’s Paper | SubscribeRead 293 CommentsShare full article293Read in appAdvertisementSKIP ADVERTISEMENTComments 293What Ever Happened to IBM’s Watson?Skip to CommentsThe comments section is closed.
+      To submit a letter to the editor for publication, write to
+      letters@nytimes.com.Enjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://schema.org,NewsMediaOrganization,https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html,What Ever Happened to IBM’s Watson?,2021-07-17T14:48:21.000Z,2021-07-16T09:00:26.000Z,"[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/steve-lohr', 'name': 'Steve Lohr'}]","{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",False,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}","[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-videoSixteenByNineJumbo1600.jpg', 'height': 899, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Illustration by Maria Chimishkyan'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-superJumbo.jpg', 'height': 1352, 'width': 2028, 'contentUrl': 'https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-superJumbo.jpg', 'creditText': 'Illustration by Maria Chimishkyan'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-mediumSquareAt3X.jpg', 'height': 1352, 'width': 1352, 'contentUrl': 'https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-mediumSquareAt3X.jpg', 'creditText': 'Illustration by Maria Chimishkyan'}]",,https://www.nytimes.com/,en,Watson’s Life After ‘Jeopardy!’,[{}],{'@id': '#commentsContainer'},293.0,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,The New York Times,"{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vYm1tYWdhemluZS5jby51ay9idXNpbmVzcy9hcnRpZmljaWFsLWludGVsbGlnZW5jZXMtaW1wYWN0LW9uLWF0dG9ybmV5cy_SAVNodHRwczovL2JtbWFnYXppbmUuY28udWsvYnVzaW5lc3MvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2VzLWltcGFjdC1vbi1hdHRvcm5leXMvP2FtcA?oc=5,Artificial Intelligence’s Impact on Attorneys - Business MattersBusiness Matters,2021-07-21,Business MattersBusiness Matters,https://bmmagazine.co.uk,"Artificial Intelligence (AI) has already had a profound impact on our society, and in many ways, this technology is still in its infancy. You might think that attorneys are exempt from the effects of Artificial Intelligence, but this is not the case.",N/A,"Artificial Intelligence (AI) has already had a profound impact on our society, and in many ways, this technology is still in its infancy. You might think that attorneys are exempt from the effects of Artificial Intelligence, but this is not the case.",N/A,N/A,N/A,"
+
+Artificial Intelligence’s Impact on  Attorneys
+
+ 21 July 202123 February 2022 Business  Business Matters 
+
+
+
+
+
+Artificial Intelligence (AI) has already had a profound impact on our society, and in many ways, this technology is still in its infancy. You might think that attorneys are exempt from the effects of Artificial Intelligence, but this is not the case.
+
+AI tools have already been impacting the way attorneys do their jobs. While many people fear that the automation of low-level tasks will lead to job loss, automation of these tasks will lead to new job creation. For example, by automating laborious, repetitive tasks lawyers and their staff can spend more time working on complex problems, interacting with clients, and law firm marketing.
+Let’s look at some of the critical ways attorneys can put Artificial Intelligence tools to use today.
+
+Key Ways AI Can Be Used by Attorneys
+App development
+ projects are constantly finding new, effective ways to put AI to use. We’re not close to the point where true AI can speak, think, and make decisions for itself in the same manner that humans do, but AI has many practical applications, especially in the legal field. AI can be used to help:
+
+
+Perform research
+Review documents
+Manage contracts
+Predict the outcome of litigation
+
+Perform Research
+
+Legal research is an essential part of the law. Lawyers need to be able to review previous cases and the precedents set by the courts in order to present a compelling case. However, searching for applicable case law is a very tedious process. Even with the aid of online legal research tools, you could still have thousands of cases to review in order to find the precedent you are looking for.
+Artificial Intelligence can be used to narrow the scope from thousands of cases to potentially a handful. Plus, once the initial results have been returned, a lawyer can have AI tools continue to search through case law.
+
+Review Documents
+
+Lawyers have to handle an immense amount of paperwork. Whether you are working in business litigation or criminal cases, you cannot avoid the mountain of paperwork that comes with legal proceedings.
+Attorneys are obligated to review any documents that are sent to them regarding their case. This task chews up a lot of time and often requires a lot of late nights. Firms can put AI to use here by teaching these tools how they review documents. Once criteria have been set for the Artificial Intelligence tool, it can review all the documents and highlight which ones it thinks are the most important based on the criteria entered.
+
+Manage Contracts
+
+Managing a large volume of contracts can be a real challenge. Artificial Intelligence tools can help attorneys organize their contracts, track their outcomes, and in some cases, even aid in negotiations. The more data the AI tool can gather, the more effective it will be in future contract negotiations. These tools can also help lawyers gain valuable insights into their contract strategies.
+Besides managing contracts, AI tools can also be used to predict how long it will take a contract to be accepted. While this may not seem like a big deal on the surface, if you have an accurate idea of when a contract will be accepted, this information can have a monumental impact on the strategy a business chooses to take.
+
+Predict the Outcome of Litigation
+
+Predicting outcomes of litigation is a skill that attorneys develop over years of practice and studying law. It is important to know if you have a winnable case. Having an idea about the potential outcome of your case has a major impact on settlement negotiations and whether plea deals are accepted.
+Nobody wants to take a case to court and lose. AI can be used to analyze previous cases with similar facts and circumstances. These tools can then provide attorneys with a statistical analysis of the likely outcomes of the litigation. Having this information allows an attorney to give their clients better advice about their case.
+
+AI Equals More Time
+
+Artificial Intelligence provides people with more time to focus on other tasks. In the case of lawyers, there are a number of tasks that they could be focusing their energies on if they had AI tools to aid them in some of the laborious tasks mentioned above.
+Some of the tasks that lawyers can spend more time doing thanks to the power of AI are:
+
+
+Taking on more clients
+Spending more time with clients
+Doing complex analysis
+Strategic planning
+Writing briefs
+
+Final Thoughts
+
+While Artificial Intelligence is becoming more commonplace, many people still think that it can’t be effectively used in the legal field. They are wrong. Not only are AI tools already helping lawyers around the world, but AI tools are getting more adept at handling complex analyses.
+Law firms should take a good look at the different AI tools available to them. This technology can make law firms more efficient and even more profitable. Artificial Intelligence will never replace a skilled attorney, but it can make their job and the job of their staff much easier.
+
+
+
+Sharing
+ Facebook Twitter LinkedIn Pinterest Email 
+
+
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#article', 'isPartOf': {'@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/'}, 'author': {'name': 'Business Matters', '@id': 'https://bmmagazine.co.uk/#/schema/person/a930a2812a66d5854d91552519b7e43f'}, 'headline': 'Artificial Intelligence’s Impact on Attorneys', 'datePublished': '2021-07-20T23:04:52+00:00', 'dateModified': '2022-02-23T12:21:01+00:00', 'mainEntityOfPage': {'@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/'}, 'wordCount': 843, 'commentCount': 0, 'publisher': {'@id': 'https://bmmagazine.co.uk/#organization'}, 'image': {'@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#primaryimage'}, 'thumbnailUrl': 'https://bmmagazine.co.uk/wp-content/uploads/2021/07/shutterstock_1722492775-scaled.jpg', 'articleSection': ['Business'], 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#respond']}], 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://bmmagazine.co.uk/#organization'}}, {'@type': 'WebPage', '@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/', 'url': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/', 'name': 'Artificial Intelligence’s Impact on Attorneys', 'isPartOf': {'@id': 'https://bmmagazine.co.uk/#website'}, 'primaryImageOfPage': {'@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#primaryimage'}, 'image': {'@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#primaryimage'}, 'thumbnailUrl': 'https://bmmagazine.co.uk/wp-content/uploads/2021/07/shutterstock_1722492775-scaled.jpg', 'datePublished': '2021-07-20T23:04:52+00:00', 'dateModified': '2022-02-23T12:21:01+00:00', 'description': 'Artificial Intelligence (AI) has already had a profound impact on our society, and in many ways, this technology is still in its infancy. You might think that attorneys are exempt from the effects of Artificial Intelligence, but this is not the case.', 'breadcrumb': {'@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#breadcrumb'}, 'inLanguage': 'en-GB', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#primaryimage', 'url': 'https://bmmagazine.co.uk/wp-content/uploads/2021/07/shutterstock_1722492775-scaled.jpg', 'contentUrl': 'https://bmmagazine.co.uk/wp-content/uploads/2021/07/shutterstock_1722492775-scaled.jpg', 'width': 850, 'height': 478}, {'@type': 'BreadcrumbList', '@id': 'https://bmmagazine.co.uk/business/artificial-intelligences-impact-on-attorneys/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bmmagazine.co.uk/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Business', 'item': 'https://bmmagazine.co.uk/business/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Artificial Intelligence’s Impact on Attorneys'}]}, {'@type': 'WebSite', '@id': 'https://bmmagazine.co.uk/#website', 'url': 'https://bmmagazine.co.uk/', 'name': 'Business Matters', 'description': 'UK&#039;s leading SME business magazine', 'publisher': {'@id': 'https://bmmagazine.co.uk/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://bmmagazine.co.uk/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-GB'}, {'@type': 'Organization', '@id': 'https://bmmagazine.co.uk/#organization', 'name': 'Business Matters', 'url': 'https://bmmagazine.co.uk/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bmmagazine.co.uk/#/schema/logo/image/', 'url': 'https://bmmagazine.co.uk/wp-content/uploads/2021/01/logo-1.png', 'contentUrl': 'https://bmmagazine.co.uk/wp-content/uploads/2021/01/logo-1.png', 'width': 459, 'height': 90, 'caption': 'Business Matters'}, 'image': {'@id': 'https://bmmagazine.co.uk/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/BusinessMatters', 'https://x.com/BizMattersmag', 'https://www.instagram.com/businessmatters/', 'https://www.linkedin.com/company/business-matters-magazine/about/', 'https://en.wikipedia.org/wiki/Business_Matters']}, {'@type': 'Person', '@id': 'https://bmmagazine.co.uk/#/schema/person/a930a2812a66d5854d91552519b7e43f', 'name': 'Business Matters', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-GB', '@id': 'https://bmmagazine.co.uk/#/schema/person/image/', 'url': 'https://bmmagazine.co.uk/wp-content/uploads/2012/07/bm_twitter2.png', 'contentUrl': 'https://bmmagazine.co.uk/wp-content/uploads/2012/07/bm_twitter2.png', 'caption': 'Business Matters'}, 'sameAs': ['https://x.com/BizMattersmag'], 'url': 'https://bmmagazine.co.uk/author/businessmatters/'}]",,,,
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYWktcmlnaHQtZXhwbGFuYXRpb27SAQA?oc=5,How Does AI Make Decisions We Don't Understand? Why is it a Problem? - Built In,2021-07-19,Built In,https://builtin.com,"Fixing it won’t be easy, however.",N/A,"Fixing it won’t be easy, however.","Fixing it won’t be easy, however.",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEWED BY
+Jye Sawtell-Rickson | Sep 19, 2022
+
+
+
+Machine learning algorithms, the technology that powers AI, have advanced quickly in recent decades. Today, deep learning algorithms power facial recognition software and enable anyone to create realistic deepfake photos and videos in just a few minutes.
+AI algorithms are also increasingly used by companies and institutions, from creating smart voice assistants to generating automatic language translations. But along with the growing adoption of AI is the problem that AI models are not well understood — much of the time, people don’t know why AI models make certain determinations.
+And it’s not just the average person off the street who doesn’t understand — even the researchers and programmers creating them don’t really understand why the models they have built make the decisions they make.
+“If you cannot adequately describe what your algorithm is doing, that seems problematic,” said Bryan Routledge, associate professor of finance at Carnegie Mellon University.
+Not being well understood by its own creator is a strange phenomenon of AI, but it’s also the reason for its power and success — using AI methods, people can create something that’s self-training and able to perform certain calculations beyond people’s capabilities.
+
+“If you cannot adequately describe what your algorithm is doing, that seems problematic.”
+
+This phenomenon has created a growing gap between what we’re able to do with AI techniques and our ability as humans to understand the technology we use, and it’s part of the reason some have called for a “right to explanation” when it comes to the use of AI.
+Routledge and co-author Tae Wan Kim recently published an analysis on the right to explanation, concluding that the public has an ethical right to know how companies’ AI models make decisions. They reasoned that consumers should be able to demand explanations for specific AI decisions that appear biased, and also to learn about how those models make decisions so they can make informed choices about which companies to give their business to.
+Routledge said AI models should be held to a similar standard as medicine, another complex field that makes important decisions about people, but whose decisions are backed up by explanations.
+“Being able to explain things in a way that patients are informed is part of what it means to be a doctor,” he said. “Medicine has been dealing with this for a long time, so it’s fairly second nature. When there’s a new treatment, part of what they think about is, ‘How will we properly communicate this to patients so that they can be informed when they choose yes or no?’”
+More on Explainable AIWeighing the Trade-Offs of Explainable AI 
+Explanations Are Important When Humans Can’t Verify AI’s Work
+Not every use case for AI is equally in need of explanations, said Rayid Ghani, a machine learning professor at Carnegie Mellon University. For example, it’s usually easy to tell if an image recognition program has been mislabeling things — like if an image labeled “dog” actually depicts a cat. And some use cases are not consequential enough to require explanations.
+“If you’re showing somebody an ad, I don’t really care if you have a great explanation or not,” he said. “The cost to me of seeing a good or a bad ad, there’s very little difference — I don’t care, I don’t want to see any ads.”
+Ghani said AI technology is used to accomplish two categories of tasks: either tasks humans are good at doing but do slowly, or tasks humans are incapable of doing. For instance, humans are great at recognizing and labeling images. AI models can be trained to do that as well — not necessarily better than humans, but much, much faster.
+On the other hand, AI models can also be used to help make predictions — something people do not do well.
+“Who’s going to be involved in a shooting, or who’s going to not graduate from high school on time, or who’s going to be unemployed long term — humans are not very good at that problem,” Ghani said.
+Understanding how AI models make their decisions is particularly important for those types of predictive use cases because humans aren’t able to verify whether the model is working correctly. Unlike image categorization, where humans can simply look at the images to check whether they have been labeled correctly, predictive AI gives outputs that humans can’t verify for themselves.
+
+“It sort of helps you figure out how to separate the correct predictions from the incorrect predictions.”
+
+“So when an explanation comes from the system, we don’t really know whether it’s correct or not because we don’t have that understanding. If we did, we wouldn’t need a computer to help us solve that problem,” Ghani said. “Because we’re not trying to be efficient — we’re trying to be better than humans.”
+Ghani welcomed the idea of a right to explanation, anticipating many benefits once it’s possible to explain the decisions AI models make. Explanations could help people figure out how to change their behavior to get better results and detect if models are drawing conclusions based on faulty reasoning.
+Ghani gave the example of a hypothetical medical AI model that predicts patient outcomes. If explanations of the model revealed that a significant factor behind its decision making was based on the day of the week patients are admitted, people would know to be suspicious of the accuracy of the model — or the hospital would know to investigate this unacceptable pattern in patient prognosis.
+“It sort of helps you figure out how to separate the correct predictions from the incorrect predictions,” Ghani said. “It helps you sanity check.”
+Perhaps most importantly, explanations might be able to satisfy that part of us that is rightfully suspicious when asked to trust things we don’t understand, and to answer our many questions: Why did the AI model make that particular prediction? Is the AI model actually answering the question we’re asking in the way that we expect? Is it reliable?
+More on Artificial IntelligenceThe Future of AI: How Artificial Intelligence Will Change the World 
+What Do We Mean by ‘Explanation’?
+How did we even get here, where even the experts creating AI models don’t understand how those models are making decisions?
+The way machine learning works is it uses a lot of data to refine models. The data scientist takes an AI algorithm, points it at a desired result and basically lets the algorithm run itself using some initial random values and a mountain of testing data. Eventually, the algorithm will refine the model into something that can achieve the desired result. AI algorithms take advantage of computers’ abilities to do math and calculate at great speeds.
+But the outcome from this brand of problem-solving is that the interactions in the model built by absorbing so much data are too much for a person to wrap their minds around. That’s what makes many AI models black boxes — difficult or impossible to understand.
+Because the way AI models work is so specific and math-based, as you dig into the topic of explainable AI, you eventually run into the fundamental question of what basic ideas like “explanation” and “understanding” really mean.
+
+“Who decides if something is explainable? If I gave you an explanation, is that a good explanation or a bad one?”
+
+It may seem like a silly debate over semantics, but how these concepts are defined could have real-world impacts on business and regulatory decisions if a right to explanation comes to pass. That’s because good regulation first requires precise and accurate definitions.
+“‘Explainable’ and ‘accurate’ — in some ways, both of those are ambiguous concepts,” Ghani said. “Who decides if something is explainable? If I gave you an explanation, is that a good explanation or a bad one? What does it mean to be good? What does it mean to be bad?”
+There’s one way of defining “explanation” that is quite simple, but doesn’t satisfy our human search for understanding: just follow the data as it flows through the model’s mathematical functions, tracing through all the paths until it finally becomes the model’s output.
+That definition is rooted in the idea that algorithms are like machines — the only pure way to “understand” one is to follow the machine’s mechanism. “Why” is a human question that doesn’t apply to machines. You would never ask a car “why” — the real question is “how.” That same logic should be applied to algorithms, argues Zachary Lipton, who runs the Approximately Correct Machine Intelligence Lab at Carnegie Mellon University.
+
+
+
+
+Find out who's hiring.
+See all Developer + Engineer jobs at top tech companies & startups
+
+
+
+View 10000+ Jobs
+
+
+
+“One question you might ask is, ‘Account to me how the models arrived at the answer?’” Lipton said. “And the answer is: There is no specific answer besides the weights of the model.”
+Still, that might provide some understanding for very simple models. But AI models created by algorithms like deep learning can easily take in data with thousands of attributes. You can trace inputs through those models, but it would not provide a deep-level understanding of how the model arrives at its conclusions — mostly because of human limitations.
+“A deep neural network that was trained on images takes every single possible input in a 400,000-dimensional space,” Lipton said. “The full mapping is not something that you can put in your head.”
+Who the audience is that’s getting an explanation can also affect how explanations should be defined because people have different levels of understanding when it comes to AI concepts. Explaining a model to an AI researcher may be very different from explaining it to a layperson, policymaker or business person.
+
+“A deep neural network that was trained on images takes every single possible input in a 400,000-dimensional space. The full mapping is not something that you can put in your head.”
+
+When you dig into it, it’s hard to pin down exactly what it means to make AI explainable. People are used to getting explanations from other people, such as when someone gives the reasoning behind a decision they made or an action they took. But how do we know the reasons they give are an accurate account of their true motivations? How do we know theirs is a full explanation?
+When people take actions and make decisions, they’re not drawing just from pure logic, but also from personal experience, knowledge, emotion and their personalities. Most of the time, someone’s explanation is probably more of an approximation, the very top layer of a jumble of subconscious factors. Maybe they don’t even know the true motivation behind their behavior themselves.
+AI models built using deep learning algorithms and large amounts of data also take on some narrow form of this complexity, mostly in terms of experience and knowledge.
+So which layer of explanation do we want? Maybe what people want is for the way AI models actually reach decisions to be approximated and simplified enough so that we can wrap our minds around the whole process all at once. But is it possible to have that and still call it an explanation?
+ 
+The (Questionable) Promise of Explainable AI
+There is already a field of study known as explainable AI. Its researchers use mathematical techniques to examine patterns in AI models and draw conclusions about how those models reach their decisions. Many explainable AI techniques are “general” techniques, meant to be applicable for explaining any kind of machine learning model.
+But Lipton considers the current field of explainable AI to be littered with false promises. He said the benefits of applying explainable AI techniques to any type of AI model, which makes these techniques compelling, also makes them incapable of explaining anything meaningful.
+Some explainable AI techniques for labeling images, for example, black out sections of an image at a time. They then run the altered images through the original AI model to see what differences the new output has from the original.
+But Lipton hypothesized that blacking out parts of images may render them so unlike natural images that it affects models’ outcomes beyond what researchers might expect. Although explainable AI methods use math to get their results, he said, those mathematical techniques have not yet been proven to offer insights into AI models.
+
+“Many of these methods are providing something that really doesn’t tell you anything at all.”
+
+“If there’s two equations in what you’re calling an explanation, and you’re presenting it to someone who’s mathematically illiterate, they don’t have the ability to look at that and call bullshit,” Lipton said. “Many of these methods are providing something that really doesn’t tell you anything at all.”
+He said AI researchers can change explainable AI conclusions drastically by making small tweaks to AI models while retaining the same model outcomes.
+“Clearly, it wasn’t an explanation in the first place, if you’re able to induce whatever explanations you want without changing what you’re actually doing,” he said.
+The ambiguity of the term “explanation” is part of what concerns Lipton. Because the definition of explanation for AI models is so loosely defined, people may come to accept math-heavy “explanations” that confuse and dazzle, but don’t actually provide real answers.
+“A huge fraction of the field is overrun by precisely that sort of thing,” Lipton said. “Basically what people do is they propose some algorithm and it’s just some sort of trick.”
+It can also be difficult to understand the explanations offered. If an explanation of an image classifier simply highlights areas on an image, is that really an explanation? What is it really saying about how the model makes decisions?
+
+“The problem is they’re being fooled by a cottage industry that thinks you can somehow take predictive machine learning models, kind of wave a magic wand on them, generate some images, and call that an explanation.”
+
+It’s even possible to get into a scenario where you need another algorithm to interpret the explanation, Ghani said.
+“It’s sort of this weird thing where now you have to build another system, on top of the explanation system, to sort of explain the explainer,” he said.
+Though Lipton is opposed to the methods used by the current field of explainable AI, he is sympathetic to the right to explanation’s core goal of being able to understand what AI models are doing.
+“People think that certain decisions should be guided by sound reasoning and you should be able to provide explanations when you make certain categories of decisions — and those people are absolutely right,” Lipton said. “The problem is they’re being fooled by a cottage industry that thinks you can somehow take predictive machine learning models, kind of wave a magic wand on them, generate some images, and call that an explanation.”
+He worries that people accepting anything as an “explanation” would instead be enabling unethical uses of AI.
+“The worst-case scenario is that you have the academic community be complicit in giving people the impression that they actually now have an academic seal of approval,” Lipton said.
+More on Machine LearningInside the Machine Learning Effort to Organize the Library of Congress Digital Collection 
+Ask Specific Questions Instead
+Instead of trying to explain an entire AI model all at once, it may be more effective to analyze models using tools specific to the questions you want to ask and to the AI model.
+That’s because AI algorithms and AI models vary widely. For instance, there’s not only one way of doing deep learning — it’s actually a whole category of methods, and each use case of a method can be wildly different depending on the training data and what researchers are optimizing for.
+“It’s not like you download [a] deep learning [model] and you click a button and run it,” Ghani said. “When you build these types of systems, you build hundreds of versions of them. ... You then define a performance metric that you care about, and you choose the one that’s doing well on that performance metric.”
+Machine learning models output results in the form of probabilities rather than clear-cut yes and no answers. An image recognition program would predict that one image has a 40 percent chance of being a cat and another has an 89 percent likelihood, instead of saying this one isn’t a cat and this one is. It’s up to data scientists to determine what the cutoff for labeling should be.
+
+“We need to be very deliberate in designing systems that are focused on a specific use case and a specific user in designing an explanation.”
+
+If it’s more important that the model not miss any images with cats — even if a few non-cat images are mistaken for cats — the labeling threshold for cats should be set at a low percentage. On the other hand, if it’s expensive to review the image labels, the maker might want to set a high threshold. Each of these variations corresponds to a different AI model.
+“In the explainable AI world, we’re trying to build this general-purpose, monolithic explainable AI system that’s supposed to just do everything for every type of problem, for every type of model, for every type of user — and I think that’s just wrong,” Ghani said. “We need to be very deliberate in designing systems that are focused on a specific use case and a specific user in designing an explanation, and then experimentally validating whether that explanation helps that user achieve the goal of the system.”
+Some statistical methods already exist that are effective at answering very specific questions, such as ablation tests and counterfactuals, Lipton said. If a bank used AI models to determine whether to approve mortgages for clients and turned someone down, counterfactuals could give people concrete feedback on what they can improve to change the result next time.
+“If they said, ‘You have four lines of credit and a late payment in the last year. But if you had six lines of credit and no late payment for at least 18 months, then you would have been approved,’” Lipton said. “So this is affording some degree of transparency and providing someone with something actionable.”
+ 
+More Investigation Is Needed
+The only thing certain about explainability in AI is that there’s still plenty of room left for investigation.
+My first introduction to explainability in AI was talking to a professor about the use of AI in the insurance industry. He cautioned that AI would make insurance companies difficult to audit because questions of bias can’t be evaluated if the insurance companies themselves don’t even know how insurance decisions are made. 
+Curiously, both Lipton and Ghani pushed back against the idea of using explanations in AI to help determine bias in AI models. They argued that the two concepts are not related because explaining why an AI model produced a given output doesn’t provide any insight into whether the overall model is biased.
+That’s partly why some who oppose a right to explanation argue that monitoring AI models’ results over time for hints of bias, and adjusting when needed, is better than requiring explanations from AI models.
+Routledge, co-author of the right to explanation analysis, said monitoring AI model results for bias over time is a good practice, but not a substitute.
+“If you applied for a loan and were denied, while someone who looks similar to you got a loan, and you ask why that is, and the company’s answer is, ‘Don't worry, we adjust things as we go forward’ — that’s not very satisfying,” he said. “It doesn’t seem like it would be an adequate explanation.”
+There are plenty of people who oppose explaining AI models at all. One common argument is that it limits AI’s potential by tying it down to unnecessary human constraints. Another is that a right to explanation would be impossible to enforce, especially considering how imprecise the human concept of “understanding” is.
+
+“When you actually have real concerns about discrimination ... maybe what should actually be happening is people should be taking the technology off the table altogether.”
+
+Lipton himself favors banning the use of AI outright for certain cases instead of using unreliable techniques to explain AI models and spending time debating the definition of “explain.”
+“When you actually have real concerns about discrimination ... maybe what should actually be happening is people should be taking the technology off the table altogether,” Lipton said. “Like, ‘Algorithmic resume screening is not a mature or appropriate technology and should not be applied.’”
+Whether establishing a right to explanation is viable depends in large part on whether it’s possible to develop techniques that can explain AI models in the first place, but there hasn’t been nearly enough rigorous study in this field to figure out whether that’s the case.
+Ghani said a big hurdle for the field currently is using more realistic scenarios in research, which is important because AI models are built to perform specific tasks.
+“One of the things that we’re working on is building these collaborations with organizations — whether it’s governments or nonprofits or companies — where things can be anchored in real problems, using real data, tested on real users, so that you can see what actually works or not,” he said.
+There are some reasons for cautious optimism. When people talk about black box AI models, such as those built by deep learning algorithms, there seems to be an implication that the more powerful and successful the algorithm, the more of a black box it is. But that’s not necessarily the case.
+“That concept is often used that there’s this trade-off, but we actually don’t know if there is a trade-off — it’s not a universal concept that needs to be true,” Ghani said. “I think people say that a lot, but I think people don’t say it based on empirical evidence.”
+Maybe researchers can find ways to use existing techniques to explain AI models, or maybe new AI techniques can be developed that prioritizes explainability. Routledge, for one, was hopeful.
+“I guess everything I’m saying is that it’s not easy, but it does not seem impossible,” he said.
+
+
+
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@context': 'https://schema.org', '@type': 'Article', 'headline': 'AI Makes Decisions We Don’t Understand. That’s a Problem.', 'name': 'AI Makes Decisions We Don’t Understand. That’s a Problem.', 'description': 'Machine learning algorithms, the technology that powers AI, have advanced quickly in recent decades. Today, deep learning algorithms power facial recognition software and enable anyone to create realistic deepfake photos and videos in just a few minutes.', 'image': {'@type': 'ImageObject', 'url': 'https://builtin.com/sites/www.builtin.com/files/2021-07/mangroves.png', 'representativeOfPage': True}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://builtin.com/artificial-intelligence/ai-right-explanation', 'name': 'AI Makes Decisions We Don’t Understand. That’s a Problem.', 'reviewedBy': {'@type': 'Person', '@id': 'https://builtin.com/authors/jye-sawtell-rickson', 'name': 'Jye Sawtell-Rickson', 'description': 'Jye Sawtell-Rickson is a senior data scientist at Meta in London. Sawtell-Rickson has worked on a wide variety of data science and analytics applications ranging from recommendation engines, delivery time prediction algorithms, logistic optimization problems, sales forecasting and customer segmentation models.\r\n\r\nHe has held positions at corporate firms including Meta, Rakuten and KPMG as well as in the startup industry in Asia. This work has spanned many sectors including e-commerce, finance, cybersecurity and now, the metaverse. During his career, he has also held roles as a product manager and marketing manager which gives him a wide set of viewpoints to bring to his analytics work.\r\n', 'jobTitle': 'Senior Data Scientist', 'sameAs': 'https://www.linkedin.com/in/jyesawtellrickson/', 'url': 'https://builtin.com/authors/jye-sawtell-rickson', 'alumniOf': {'@type': 'Organization', 'name': 'Imperial College London, The University of Queensl'}, 'knowsAbout': 'Data science, artificial intelligence, algorithms'}}, 'url': 'https://builtin.com/artificial-intelligence/ai-right-explanation', 'about': [{'@type': 'Thing', 'name': 'Chorus.AI'}, {'@type': 'Thing', 'name': 'Artificial Intelligence'}], 'author': {'@type': 'Person', '@id': 'https://builtin.com/authors/tammy-xu', 'name': 'Tammy Xu', 'description': 'Tammy Xu is a former Built In staff reporter covering software development and trends across the software industry. She holds a master of science in computer science from the University of Illinois Urbana-Champaign and a bachelor of arts in chemistry from Northwestern University. Prior to joining Built In, she spent five years as a software developer for The Dow Chemical Company. Xu is also a former contributing editor and director of fact checking for South Side Weekly. She is currently a reporting fellow at MIT Technology Review.\r\n', 'jobTitle': 'Staff Reporter', 'sameAs': 'https://www.linkedin.com/in/tammy-xu-b4569540/', 'url': 'https://builtin.com/authors/tammy-xu', 'alumniOf': {'@type': 'Organization', 'name': 'University of Illinois Urbana-Champaign; Northwest'}, 'honorificSuffix': 'M.S.', 'knowsAbout': 'Software development'}, 'datePublished': '2021-07-19T17:44:00+00:00', 'publisher': {'@type': 'Organization', '@id': 'https://builtin.com', 'name': 'Built In', 'url': 'https://builtin.com', 'sameAs': ['https://www.facebook.com/BuiltInHQ/', 'https://twitter.com/builtin', 'https://www.instagram.com/builtin/', 'https://www.linkedin.com/company/built-in'], 'brand': {'@type': 'Brand', 'name': 'Built In'}, 'logo': {'@type': 'ImageObject', 'url': 'https://static.builtin.com/dist/images/built-logo.png', 'representativeOfPage': True}}}]",,,,
+https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmNpby5jb20vYXJ0aWNsZS8xODg5ODkvdG9wLWFpb3BzLXBsYXRmb3Jtcy5odG1s0gE7aHR0cHM6Ly93d3cuY2lvLmNvbS9hcnRpY2xlLzE4ODk4OS90b3AtYWlvcHMtcGxhdGZvcm1zLmh0bWw?oc=5,AIops buyer’s guide: Top 10 AIops platforms - CIO,2021-07-21,CIO,https://www.cio.com,"Infrastructure monitoring tools injected with artificial intelligence and machine learning algorithms can anticipate and analyze events and alerts, keeping your enterprise stack humming.",N/A,"Infrastructure monitoring tools injected with artificial intelligence and machine learning algorithms can anticipate and analyze events and alerts, keeping your enterprise stack humming.","Infrastructure monitoring tools injected with artificial intelligence and machine learning algorithms can anticipate and analyze events and alerts, keeping your enterprise stack humming.",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+		Infrastructure monitoring tools injected with artificial intelligence and machine learning algorithms can anticipate and analyze events and alerts, keeping your enterprise stack humming.	
+
+
+
+
+ 
+Credit: IBM
+
+
+
+
+
+
+
+
+Artificial intelligence was once a magical concept, the stuff of science fiction. Now, after decades of research and commercialization, it’s just another foundational tool to keep the enterprise stack running.
+Nowhere is this more evident than in the world of devops, a data-rich, back-office practice that presents a perfect sandbox for exploring the power of artificial intelligence. The teams in charge of operations now have a burgeoning collection of labor-saving and efficiency-boosting tools and platforms on offer under the acronym AIops, all of which promise to apply the best artificial intelligence algorithms to the work of maintaining IT infrastructure.
+[ Cut through the hype with our practical guide to machine learning in business and find out the 10 signs you’re ready for AI — but might not succeed. | Get the latest insights with our CIO Daily newsletter. ]
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+AIops is among the better use cases for artificial intelligence. Servers and networks generate petabytes upon petabytes of data. We know when processes start and stop, surge and ebb, often down to the millisecond. RAM and CPU demands are often well-understood and so are the prices for renting hardware in the cloud. All are often calculated down to six or seven significant digits. Creating an autonomous car may mean struggling with a world filled with pedestrians, livestock, and shadows, but when it comes to IT infrastructure, everything is already digitized and ready for analysis.
+
+More Videos0 seconds of 56 minutes, 23 secondsVolume 0%Press shift question mark to access a list of keyboard shortcutsKeyboard ShortcutsEnabledDisabledShortcuts Open/Close/ or ?Play/PauseSPACEIncrease Volume↑Decrease Volume↓Seek Forward→Seek Backward←Captions On/OffcFullscreen/Exit FullscreenfMute/UnmutemDecrease Caption Size-Increase Caption Size+ or =Seek %0-9
+ 
+
+
+Next UpCIO Leadership Live Karen Higgins-Carter59:43SettingsOffAutomated Captions - en-USFont ColorWhiteFont Opacity100%Font Size100%Font FamilyArialCharacter EdgeNoneBackground ColorBlackBackground Opacity50%Window ColorBlackWindow Opacity0%ResetWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%200%175%150%125%100%75%50%ArialCourierGeorgiaImpactLucida ConsoleTahomaTimes New RomanTrebuchet MSVerdanaNoneRaisedDepressedUniformDrop ShadowWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%WhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%
+
+
+
+
+
+
+
+Live00:0056:2356:23 
+
+Some of the simplest tasks for AIops involve speeding up the way software is deployed to cloud instances. All the work that devops teams do can be enhanced with smarter automation capable of watching loads, predicting demand, and even starting up new instances when the hordes descend.
+Good AIops tools generate forward-looking guesses about machine load and then watch to see if anything deviates from these estimates. Anomalies might be turned into alerts that generate emails, Slack posts, or, if the deviation is large enough, pager messages. A good part of the AIops stack is devoted to managing alerts and ensuring that only the most significant problems turn into something that interrupts a meeting or a good night’s sleep.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+These methods for watching for unusual levels or activity are sometimes deployed to bolster security, a more challenging task, making some AIops tools the purview of both security watchdogs and the devops team.
+Sophisticated AIops tools also offer “root cause analysis,” which creates flowcharts to track how problems can ripple through the various machines in a modern enterprise application. A database that’s overloaded will slow down an API gateway that, in turn, freezes a web service. These automated catalogs of the workflow can often help teams spot the real problem faster by documenting and tracking the chains of troublemaking. 
+Many of the tools in this survey are built on monitoring systems with a long history. They began as tools that tracked events in complex enterprise stacks and have now been extended with artificial intelligence. A few of the tools began in AI labs and grew outwards. In either case, anyone evaluating these platforms will want to look at the range of connectors that gather data. Some AIops platforms will better integrate with your stack than others. All offer a basic set of pathways to collect raw data, but some connectors are better than others. Anyone considering adopting an AIops platform will want to evaluate how well each AIops offering integrates with your particular databases and services.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Here are 10 of the leading AIops tools simplifying the job of keeping enterprise IT infrastructure humming.
+
+
+
+
+
+
+Explore related questions
+
+
+What are the benefits of using AIOps platforms in DevOps?When should I consider adopting an AIOps platform for my IT infrastructure?Who are the leading vendors of AIOps platforms?Will AIOps platforms replace human DevOps teams?Does AIOps require a high level of machine learning expertise?
+
+
+
+
+
+Ask
+
+
+
+
+AppDynamics
+AppDynamics is a division of Cisco that specializes in performance monitoring. It has added machine learning to its flagship platform to watch for metrics that diverge from the historical baseline. The system can build a flowchart and learn how events can cascade until system failure, thereby helping identify root causes. AppDynamics pushes correlating these metrics with hard “business outcomes” such as sales numbers and a “self-healing mentality” for its platform by providing links that can automate the resolution of common failures.
+BigPanda
+BigPanda focuses on both detecting strange behavior and orchestrating the teams assigned to solve it. Its eponymous platform offers root cause analysis and event detection that integrates with the major cloud providers. Its “Level-0 Automation” handles the workload that comes after a problem appears. BigPanda simplifies the workflow by creating tickets, sending out alerts, and even starting up virtual “war rooms” for serious issues.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Datadog
+Datadog recently added the Watchdog module to its performance management tool so devops teams can ask for automated warnings when performance begins to fail. The tool builds performance forecasts based on historical records adjusted for season and time of day. Changes in metrics such as latency, RAM consumption, or network bandwidth can trigger alerts if they depart from norms. The tool is integrated with Datadog’s security detection system, and it can work with virtual machines, cloud instances, and also serverless functions.
+Dynatrace
+Dynatrace is a broad, full-featured monitoring tool for tracking cloud-based VMs, containers, and other serverless solutions. It sucks up log files, event reports, and other triggers to deliver what it calls “precise, AI-powered answers.” The core is called Davis, a deterministic AI that constructs flowcharts and trees so that it can pinpoint the root cause of any anomaly or failure. If it’s properly configured, it can run autonomously by triggering changes that should fix the cause. It could be as simple as rebooting an instance, but it might happen without waiting for a human to get in the loop.
+Github Copilot
+Most AIops tools are designed to help software that’s already up and running. Github Copilot starts earlier in the process, helping when code is first being written. The tool watches what a programmer types and makes suggestions for how to complete it. It was trained on a gazillion lines of open source code so these ideas are grounded in some form of reality. There are still questions that are somewhat philosophical about who is the ultimate author of the new code, whether the AI can be trusted, and whether the millions of open source coders out there deserve some kind of credit or hat tip for assistance. The answer may be “perhaps.” A bigger question is how much better does Copilot understand your code and does it really do much better than autocomplete. That answer is that it probably varies.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+IBM Watson Cloud Pak for AIops
+IBM created the “Watson Cloud Pak for AIops“ by integrating its general Watson brand AI with its larger cloud presence. The tool brings automated root cause analysis to the data collected from the cloud monitoring software. When the events reach a configurable level of severity, they can trigger either basic alerts or more automated responses from the toolchain. IBM has integrated the results with its other Cloud Paks for providing Network, Business, and some Robotic Process Automation.
+LogicMonitor
+LogicMonitor calls its AI “LM Intelligence.” It bundles a root cause detector with an alert system based on dynamic thresholds adjusted from historical data. Its early warning system depends on a forecasting module that’s extends this historical data to compute thresholds on latency, bandwidth, and other metrics. LogicMonitor prioritizes reducing “alert fatigue” to help teams focus their efforts on truly anomalous behavior. The data collectors tap into the major clouds and watch compute resources (Kubernetes, containers, etc.), network traffic, and storage systems (databases, buckets, etc.).
+Moogsoft
+Moogsoft is a specialized AI engine that integrates with major performance monitoring tools such as New Relic, Datadog, AWS Cloudwatch, and AppDynamics. If your stack is running something different, such as open source or in-house solutions, Moogsoft professes the desire to integrate with “anything, anywhere and anytime.” The product moves the data through a pipeline that de-duplicates events, enriches them with contextual data from other sources, and then correlates the data before raising an alarm. The clustering algorithms and historical records help reduce the noise and produce more useful reports of problems.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+New Relic One
+New Relic added an AI engine to its performance monitoring tool One and it tracks all events ingested, including those from other tools such as Splunk, Grafana, and AWS’s CloudWatch. The tool can be configured with flexible levels of sensitivity for a variety of events of potential severity. You can tell New Relic that, for instance, a low-priority error should raise an alarm only if it occurs several times over fifteen minutes. But a high-priority event like a crashed server will generate a pager alert immediately. The issue log tracks all events and includes a Correlation Decision report that lays out the logical steps taken by the AI en route to raising an alarm.
+Splunk
+Splunk began as a tool for gathering log files and building a comprehensive reporting tool for tracking performance, identifying anomalies, and helping the team diagnose problems. The product integrates informational graphics with a deep indexing tool to catalog the events. Artificial intelligence and machine learning algorithms within Splunk can anticipate problems and understand their source. These algorithms track all of the services integrated with Splunk to find the root causes. The machine learning features are deeply integrated with the platform so that service engineers skilled at tracking performance can leverage the best machine learning without much additional training. They can track the historical performance and watch for divergence through the main dashboard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Related content
+
+ 
+
+
+brandpost
+
+							Sponsored by DataXstream						
+
+Tech-driven sales:  The role of technology in elevating customer relationships
+Updating technology and streamlining sales processes frees up sales teams to better serve customers, becoming essential partners to their businesses 
+
+				By DataXstream				
+
+
+Jul 17, 2024
+
+4 mins 
+
+
+IT Leadership
+
+
+
+
+
+
+events promotion
+
+Unlocking the Secrets to IT Success: Why Attend the CIO100 Symposium & Awards Even if You Haven’t Won an Award
+ 
+
+				By Elizabeth Cutler				
+
+
+Jul 17, 2024
+
+2 mins 
+
+
+Events
+Innovation
+IT Leadership
+
+
+
+
+
+
+news
+
+Fujitsu partners with Cohere to build LLMs for Japanese enterprises
+Once developed, the new LLMs will be integrated into Fujitsu’s Kozuchi AI services, specifically designed for private cloud environments. 
+
+				By Gyana Swain				
+
+
+Jul 17, 2024
+
+5 mins 
+
+
+Technology Industry
+Artificial Intelligence
+
+
+
+
+
+
+case study
+
+Unpacking Leroy Merlin’s marketplace strategy
+By the end of the year, B2C marketplaces are expected to reach $3.5 trillion in sales. So offering a better UX and connecting businesses with a wider customer base are vital ways to outsmart the competition. It’s a business model that’s p 
+
+				By Joanne Carew				
+
+
+Jul 17, 2024
+
+5 mins 
+
+
+CIO
+E-commerce Services
+Retail Industry
+
+
+
+
+
+
+PODCASTS
+
+
+VIDEOS
+
+
+RESOURCES
+
+
+EVENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SUBSCRIBE TO OUR NEWSLETTER			
+
+				From our editors straight to your inbox			
+
+			Get started by entering your email address below.		
+
+
+ 
+
+
+
+Please enter a valid email address
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmlibS5jb20vYmxvZy9hbm5vdW5jZW1lbnQvZmllbGQtZ3VpZGVzLXRvLWlibS1vcGVyYXRpb25zLWNzbW8tYW5kLWFpb3BzL9IBAA?oc=5,New Field Guides to IBM Operations: CSMO and AIOps - IBM,2021-07-19,IBM,https://www.ibm.com,N/A,N/A,"IBM, IBM Cloud and the IBM Garage are proud to announce the release of two IBM architecture field guides. These field guides are handy introductions to applying IBM’s agile service management operations methodology to your organization and streamlining your processes. The first guide is an overall view of of the domain of modern reliability operations […]",N/A,N/A,N/A,"
+
+
+ 
+
+
+
+
+
+
+
+                              Artificial intelligence  
+                        
+
+
+                        July 15, 2024                  
+
+
+Are bigger language models always better?
+
+  4 min read - As enterprises look to separate the hype from where AI can add true value, it’s unclear if increasingly larger language models will always lead to better business solutions.                        
+
+
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/', 'url': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/', 'name': 'New Field Guides to IBM Operations: CSMO and AIOps - IBM Blog', 'isPartOf': {'@id': 'https://www.ibm.com/blog/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/#primaryimage'}, 'image': {'@id': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/#primaryimage'}, 'thumbnailUrl': 'https://www.ibm.com/blog/wp-content/uploads/2021/07/ian-simmonds-4sK8v8GYmlM-unsplash.jpg', 'datePublished': '2021-07-19T12:00:00+00:00', 'dateModified': '2021-07-19T12:00:00+00:00', 'breadcrumb': {'@id': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/#primaryimage', 'url': 'https://www.ibm.com/blog/wp-content/uploads/2021/07/ian-simmonds-4sK8v8GYmlM-unsplash.jpg', 'contentUrl': 'https://www.ibm.com/blog/wp-content/uploads/2021/07/ian-simmonds-4sK8v8GYmlM-unsplash.jpg', 'width': 1440, 'height': 653, 'caption': 'Featured image for field-guides-to-ibm-operations-csmo-and-aiops'}, {'@type': 'BreadcrumbList', '@id': 'https://www.ibm.com/blog/announcement/field-guides-to-ibm-operations-csmo-and-aiops/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://ibm.com/blog/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Announcements', 'item': 'https://www.ibm.com/blog/announcement/'}, {'@type': 'ListItem', 'position': 3, 'name': 'New Field Guides to IBM Operations: CSMO and AIOps', 'item': ''}]}, {'@type': 'WebSite', '@id': 'https://www.ibm.com/blog/#website', 'url': 'https://www.ibm.com/blog/', 'name': 'IBM Blog', 'description': 'IBM Blog', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ibm.com/blog/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}]",,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlcHJpbnQuaW4vZmVhdHVyZS9vbmx5LTIyLXdvbWVuLWluLWFpLWpvYnMtdGhlLWdlbmRlci1nYXAtaW4tc2NpZW5jZS1hbmQtdGVjaG5vbG9neS1pbi1udW1iZXJzLzY5NzkxNy_SAXRodHRwczovL3RoZXByaW50LmluL2ZlYXR1cmUvb25seS0yMi13b21lbi1pbi1haS1qb2JzLXRoZS1nZW5kZXItZ2FwLWluLXNjaWVuY2UtYW5kLXRlY2hub2xvZ3ktaW4tbnVtYmVycy82OTc5MTcvP2FtcA?oc=5,"Only 22% women in AI jobs — The gender gap in science and technology, in numbers - ThePrint",2021-07-17,ThePrint,https://theprint.in,"Women are still under-represented in fields such as computing, engineering, mathematics and physics, finds a UNESCO report.
+",N/A,"Women are still under-represented in fields such as computing, engineering, mathematics and physics, finds a UNESCO report.","Women are still under-represented in fields such as computing, engineering, mathematics and physics, finds a UNESCO report.",N/A,N/A,"
+
+
+
+
+
+HomeFeaturesOnly 22% women in AI jobs — The gender gap in science...
+Features
+
+Only 22% women in AI jobs — The gender gap in science and technology, in numbers
+
+Women are still under-represented in fields such as computing, engineering, mathematics and physics, finds a UNESCO report.
+
+
+ Natalie Marchant
+
+17 July, 2021 03:29 pm IST 
+
+
+
+
+
+
+
+
+
+
+FacebookTwitterWhatsAppLinkedin
+
+
+
+
+Women scientists working in a lab | Representational image | Pxfuel
+Follow Us :
+
+
+
+
+
+
+
+
+
+
+
+
+	Text Size:
+A-
+A+
+
+
+
+Women remain a significant minority in the scientific fields driving the digital revolution, amid a general skills shortage that’s holding back progress.
+
+The UNESCO Science Report 2021 found that women are still under-represented in fields such as computing, digital information technology, engineering, mathematics and physics.
+
+
+The report authors advise that strenuous efforts need to be made at government, academic and corporate levels to address this gender imbalance. The challenge is to attract and then retain women in these subject areas and maintain momentum in the Fourth Industrial Revolution.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:23/Duration 21:44Loaded: 6.14%00:23Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -21:21 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Advertisement
+
+
+					Show Full Article
+					
+
+
+
+By the numbers: Women in STEM
+
+
+Women made up a third (33%) of researchers in 2018 and have achieved parity when it comes to numbers in life sciences in many countries, the report says.
+
+
+But women make up just 28% of graduates in engineering and 40% of those in computer sciences – skills vital for the jobs of the future, it added.
+
+Female workers also account for just 22% of people working in artificial intelligence (AI) worldwide, although there are regional differences, according to UNESCO.
+Countries such as Singapore, Italy and South Africa were leading the way with each having women make up about 28% of professionals with AI skills, compared to just 14% in Brazil, 15% in Mexico, and 16% in both Germany and Poland.
+
+Gender gap at top tech companies
+
+
+Women are also under-represented at the top of multinational tech companies, despite efforts to close the gender gap in technical and leadership roles, the UNESCO report warns.
+
+
+Facebook leads the way with women accounting for 23% of technical roles, and 33% of leadership positions.
+
+Apple has been implementing measures to hire more women and under-represented minorities since 2014, but women still only make up 23% of technical roles and 29% of leadership ones.
+
+Meanwhile, Amazon has been working to correct the gender imbalance since 2018, when it realised that its AI system was not ranking women candidates for software developer and other technical roles.
+
+The online retail giant has since committed $50m to supporting science, technology, engineering and mathematics (STEM) programmes for under-represented communities, but still only 27% of its managers around the world are women.
+
+Also read: These are the 11 Indian women scientists the new STEM chairs are named after
+
+
+Women less likely to access funding
+
+
+Women in science and tech are also less likely than men to access funding.
+
+Start-ups led by women received just 2.3% of venture capital in 2020, according to a report from Harvard Business Review, citing data from Crunchbase.
+Women in academia were also found to receive less grant funding despite being twice as productive.
+
+
+And though women account for four in 10 academics globally, they often face an impenetrable glass ceiling, says UNESCO.
+
+In 2015, across 69 national science academies, women made up 10% or less of members in 30 countries.
+
+They were also considerably better represented in the social sciences, humanities and the arts (16%), biological sciences (15%) and medical and health sciences (14%), than in mathematical (6%) and engineering (5%) sciences.
+
+Women in science and engineering were also disproportionately affected by COVID-19, with female scientists reporting at least a 5% decline in research time compared to their male counterparts.
+
+
+Women ‘must not be left behind’ with jobs for the future
+
+
+In a digitally driven future, advances in technologies such as AI will blur the boundaries between male and female that form the basis of the gender gap, says UNESCO.
+
+COVID-19 prompted changes in work-life balance and these need to be translated into policies that ensure women do not spend a disproportionate amount of time as unpaid carers, educators and home-makers, it adds.
+
+Women must be given equal access to education and information that will enable them to compete equally with men for the jobs of the future, says UNESCO.
+Also read: Lack of support, not ‘likeable’ — why India doesn’t have more women in science
+
+
+
+Global gender gap increased by a generation
+
+
+UNESCO’s findings echo those of the World Economic Forum’s Global Gender Gap Report 2021, which found that the time it will take to close the worldwide gender gap has increased by a generation from 99.5 to 135.6 years.
+
+Gender parity has only been achieved in two of eight tracked “jobs of tomorrow” clusters – people & culture, and content production, UNESCO says.
+Gender gaps are more likely in sectors that require disruptive technical skills such as cloud computing (where women make up 14% of workforce); engineering (20%) and data and AI (32%), it adds.Natalie Marchant Writer, Formative Content
+This article was first published in World Economic Forum. Read the original article here.
+
+
+
+
+ 
+
+
+
+
+
+Subscribe to our channels on YouTube, Telegram & WhatsApp
+Support Our Journalism
+India needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that.
+Sustaining this needs support from wonderful readers like you.
+Whether you live in India or overseas, you can take a paid subscription by clicking here.
+Support Our Journalism 
+
+TagsscienceUNESCOwomen in science
+FacebookTwitterWhatsAppLinkedin
+
+
+
+
+
+ 
+LEAVE A REPLY Cancel
+
+
+Comment:
+Please enter your comment!
+
+
+Name:*
+Please enter your name here
+
+
+
+Email:*
+You have entered an incorrect email address!
+Please enter your email address here
+
+
+
+Save my name, email, and website in this browser for the next time I comment.
+
+ 
+
+Δ 
+
+CompareCredit2 Cards Charging 0% Interest Until Nearly 2026With no annual fee and no interest until nearly 2026, this card is helping Americans pay off debt in record time.CompareCredit|SponsoredSponsoredUndoOnline Shopping ToolsAmazon's Worst Nightmare: Thousands Canceling Prime for This Clever HackThis simple trick can save tons of money on Amazon, but most Prime members are ignoring it.Online Shopping Tools|SponsoredSponsoredUndoLeaf Filter USAHere's What A New Gutter System Should Cost You In 2024Leaf Filter USA|SponsoredSponsoredLearn MoreUndoFashionInUSAWhy this 'Sleeved' Cashmere Wrap is a Must-have Gift of 2024It's so soft and warm...FashionInUSA|SponsoredSponsoredLearn MoreUndoBarefoot VitalityThese Barefoot Shoes are Leaving Neuropathy Experts BaffledBarefoot Vitality|SponsoredSponsoredBuy NowUndoWolf &amp; ShepherdThousands of Men Wear These Shoes For Their First Class ComfortShoes Much More Comfortable Than Traditional Dress Shoes. Italian Leather and Running Shoe Technology Providing First Class Comfort All Day Long.Wolf & Shepherd|SponsoredSponsoredLearn MoreUndo24hr bathroomPut Bananas in Your Garden and Just Watch24hr bathroom|SponsoredSponsoredUndo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+
+Cometh the hour, cometh Mr Dependable. Rahul Dravid’s journey comes full circle from player to coach
+
+
+Navneet Oberoi -  13 July, 2024 
+
+
+
+
+
+
+
+Stop this North-South divide over mangoes. The real match is playing out in Bihar and Bengal
+
+
+Sopan Joshi -  13 July, 2024 
+
+
+
+
+
+
+
+Govt job aspirants with fake degrees — how nexus of Rajasthan private universities, gangs was exposed
+
+
+Bismee Taskin -  13 July, 2024 
+
+
+
+
+  ",http://schema.org,BreadcrumbList,"{'@type': 'WebPage', 'url': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/'}","Only 22% women in AI jobs — The gender gap in science and technology, in numbers",2021-07-17T15:29:06+05:30,2021-07-17T15:29:06+05:30,"{'@type': 'Person', 'name': 'Natalie Marchant', 'url': 'https://theprint.in/author/natalie-marchant/'}",,"{'@type': 'Organization', 'name': 'theprint', 'logo': {'@type': 'ImageObject', 'url': 'https://static.theprint.in/wp-content/uploads/2022/01/logo_800x149_transp-11.png?dpr=1.0&q=70&compress=true&quality=80&w=320', 'width': '320', 'height': '60'}}",,,"{'@type': 'ImageObject', 'url': 'https://static.theprint.in/wp-content/uploads/2021/07/Untitled-design-18-1.jpg', 'width': 1200, 'height': 675}","[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://theprint.in/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://theprint.in/category/feature/', 'name': 'Features'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': '', 'name': 'Only 22% women in AI jobs — The gender gap in science...'}}]",https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/,en,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#article', 'isPartOf': {'@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/'}, 'author': [{'@id': 'https://theprint.in/#/schema/person/0a771fd628cc0a07f760de852680f703'}], 'headline': 'Only 22% women in AI jobs — The gender gap in science and technology, in numbers', 'datePublished': '2021-07-17T09:59:06+00:00', 'dateModified': '2021-07-17T09:59:06+00:00', 'mainEntityOfPage': {'@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/'}, 'wordCount': 747, 'commentCount': 0, 'publisher': {'@id': 'https://theprint.in/#organization'}, 'image': {'@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#primaryimage'}, 'thumbnailUrl': 'https://static.theprint.in/wp-content/uploads/2021/07/Untitled-design-18-1.jpg', 'keywords': ['science', 'UNESCO', 'women in science'], 'articleSection': ['Features'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#respond']}]}, {'@type': 'WebPage', '@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/', 'url': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/', 'name': 'Only 22% women in AI jobs — The gender gap in science and technology, in numbers', 'isPartOf': {'@id': 'https://theprint.in/#website'}, 'primaryImageOfPage': {'@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#primaryimage'}, 'image': {'@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#primaryimage'}, 'thumbnailUrl': 'https://static.theprint.in/wp-content/uploads/2021/07/Untitled-design-18-1.jpg', 'datePublished': '2021-07-17T09:59:06+00:00', 'dateModified': '2021-07-17T09:59:06+00:00', 'description': 'Women are still under-represented in fields such as computing, engineering, mathematics and physics, finds a UNESCO report.', 'breadcrumb': {'@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#primaryimage', 'url': 'https://static.theprint.in/wp-content/uploads/2021/07/Untitled-design-18-1.jpg', 'contentUrl': 'https://static.theprint.in/wp-content/uploads/2021/07/Untitled-design-18-1.jpg', 'width': 1200, 'height': 675, 'caption': 'Women scientists working in a lab | Representational image | Pxfuel'}, {'@type': 'BreadcrumbList', '@id': 'https://theprint.in/feature/only-22-women-in-ai-jobs-the-gender-gap-in-science-and-technology-in-numbers/697917/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://theprint.in/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Only 22% women in AI jobs — The gender gap in science and technology, in numbers'}]}, {'@type': 'WebSite', '@id': 'https://theprint.in/#website', 'url': 'https://theprint.in/', 'name': 'ThePrint', 'description': 'India’s digital platform for latest news and ground reports, insightful analyses, opinion on politics, policy, governance, economy, education, defence and culture', 'publisher': {'@id': 'https://theprint.in/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://theprint.in/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://theprint.in/#organization', 'name': 'ThePrint', 'url': 'https://theprint.in/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://theprint.in/#/schema/logo/image/', 'url': 'https://static.theprint.in/wp-content/uploads/2018/07/512x512.png', 'contentUrl': 'https://static.theprint.in/wp-content/uploads/2018/07/512x512.png', 'width': 512, 'height': 512, 'caption': 'ThePrint'}, 'image': {'@id': 'https://theprint.in/#/schema/logo/image/'}, 'sameAs': ['http://facebook.com/ThePrintIndia', 'https://x.com/ThePrintIndia', 'http://instagram.com/ThePrintIndia', 'https://www.linkedin.com/company/13185521/', 'http://youtube.com/ThePrintIndia', 'https://en.wikipedia.org/wiki/ThePrint'], 'publishingPrinciples': 'https://theprint.in/about-us/', 'ownershipFundingInfo': 'https://theprint.in/about-us/', 'actionableFeedbackPolicy': 'https://theprint.in/contact/', 'ethicsPolicy': 'https://theprint.in/about-us/'}, {'@type': 'Person', '@id': 'https://theprint.in/#/schema/person/0a771fd628cc0a07f760de852680f703', 'name': 'Natalie Marchant', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://theprint.in/#/schema/person/image/38856e9722777e0c347427c6e777e6f3', 'url': 'https://secure.gravatar.com/avatar/1487d1207c5f5e5f75bb84649c687a21?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/1487d1207c5f5e5f75bb84649c687a21?s=96&d=mm&r=g', 'caption': 'Natalie Marchant'}, 'url': 'https://theprint.in/author/natalie-marchant/'}]","Women remain a significant minority in the scientific fields driving the digital revolution, amid a general skills shortage that’s holding back progress.The UNESCO Science Report 2021 found that women are still under-represented in fields such as computing, digital information technology, engineering, mathematics and physics.The report authors advise that strenuous efforts need to be made at government, academic and corporate levels to address this gender imbalance. The challenge is to attract and then retain women in these subject areas and maintain momentum in the Fourth Industrial Revolution.By the numbers: Women in STEMWomen made up a third (33%) of researchers in 2018 and have achieved parity when it comes to numbers in life sciences in many countries, the report says.But women make up just 28% of graduates in engineering and 40% of those in computer sciences – skills vital for the jobs of the future, it added.Female workers also account for just 22% of people working in artificial intelligence (AI) worldwide, although there are regional differences, according to UNESCO.Countries such as Singapore, Italy and South Africa were leading the way with each having women make up about 28% of professionals with AI skills, compared to just 14% in Brazil, 15% in Mexico, and 16% in both Germany and Poland.Gender gap at top tech companiesWomen are also under-represented at the top of multinational tech companies, despite efforts to close the gender gap in technical and leadership roles, the UNESCO report warns.Facebook leads the way with women accounting for 23% of technical roles, and 33% of leadership positions.Apple has been implementing measures to hire more women and under-represented minorities since 2014, but women still only make up 23% of technical roles and 29% of leadership ones.Meanwhile, Amazon has been working to correct the gender imbalance since 2018, when it realised that its AI system was not ranking women candidates for software developer and other technical roles.The online retail giant has since committed $50m to supporting science, technology, engineering and mathematics (STEM) programmes for under-represented communities, but still only 27% of its managers around the world are women.Also read: These are the 11 Indian women scientists the new STEM chairs are named afterWomen less likely to access fundingWomen in science and tech are also less likely than men to access funding.Start-ups led by women received just 2.3% of venture capital in 2020, according to a report from Harvard Business Review, citing data from Crunchbase.Women in academia were also found to receive less grant funding despite being twice as productive.And though women account for four in 10 academics globally, they often face an impenetrable glass ceiling, says UNESCO.In 2015, across 69 national science academies, women made up 10% or less of members in 30 countries.They were also considerably better represented in the social sciences, humanities and the arts (16%), biological sciences (15%) and medical and health sciences (14%), than in mathematical (6%) and engineering (5%) sciences.Women in science and engineering were also disproportionately affected by COVID-19, with female scientists reporting at least a 5% decline in research time compared to their male counterparts.Women ‘must not be left behind’ with jobs for the futureIn a digitally driven future, advances in technologies such as AI will blur the boundaries between male and female that form the basis of the gender gap, says UNESCO.COVID-19 prompted changes in work-life balance and these need to be translated into policies that ensure women do not spend a disproportionate amount of time as unpaid carers, educators and home-makers, it adds.Women must be given equal access to education and information that will enable them to compete equally with men for the jobs of the future, says UNESCO.Also read: Lack of support, not ‘likeable’ — why India doesn’t have more women in scienceGlobal gender gap increased by a generationUNESCO’s findings echo those of the World Economic Forum’s Global Gender Gap Report 2021, which found that the time it will take to close the worldwide gender gap has increased by a generation from 99.5 to 135.6 years.Gender parity has only been achieved in two of eight tracked “jobs of tomorrow” clusters – people &amp; culture, and content production, UNESCO says.Gender gaps are more likely in sectors that require disruptive technical skills such as cloud computing (where women make up 14% of workforce); engineering (20%) and data and AI (32%), it adds.Natalie Marchant Writer, Formative ContentThis article was first published in World Economic Forum. Read the original article here.&nbsp;",Features,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vc2NpZW50aXN0cy1hcmUtdHJ5aW5nLXRvLWdldC1haS10by1oYXZlLWltYWdpbmF0aW9u0gEA?oc=5,Scientists Are Giving AI The Ability to Imagine Things It's Never Seen Before - ScienceAlert,2021-07-19,ScienceAlert,https://www.sciencealert.com,"Artificial intelligence (AI) is proving very adept at certain tasks – like inventing human faces that don't actually exist, or winning games of poker – but these networks still struggle when it comes to something humans do naturally: imagine.",N/A,"Artificial intelligence (AI) is proving very adept at certain tasks – like inventing human faces that don't actually exist, or winning games of poker – but these networks still struggle when it comes to something humans do naturally: imagine.",Wild. ,tech,N/A,"
+Scientists Are Giving AI The Ability to Imagine Things It's Never Seen Before
+
+Tech19 July 2021By David Nield 
+
+ 
+(Artur Debat/Getty Images) 
+
+
+
+Artificial intelligence (AI) is proving very adept at certain tasks – like inventing human faces that don't actually exist, or winning games of poker – but these networks still struggle when it comes to something humans do naturally: imagine.
+
+
+
+Once human beings know what a cat is, we can easily imagine a cat of a different color, or a cat in a different pose, or a cat in different surroundings. For AI networks, that's much harder, even though they can recognize a cat when they see it (with enough training).
+
+
+
+To try and unlock AI's capacity for imagination, researchers have come up with a new method for enabling artificial intelligence systems to work out what an object should look like, even if they've never actually seen one exactly like it before.
+
+
+
+""We were inspired by human visual generalization capabilities to try to simulate human imagination in machines,"" says computer scientist Yunhao Ge from the University of Southern California (USC).
+
+
+
+""Humans can separate their learned knowledge by attributes – for instance, shape, pose, position, color – and then recombine them to imagine a new object. Our paper attempts to simulate this process using neural networks.""
+
+
+
+The key is extrapolation – being able to use a big bank of training data (like pictures of a car) to then go beyond what's seen into what's unseen. This is difficult for AI because of the way it's typically trained to spot specific patterns rather than broader attributes.
+
+
+
+What the team has come up with here is called controllable disentangled representation learning, and it uses an approach similar to those used to create deepfakes – disentangling different parts of a sample (so separating face movement and face identity, in the case of a deepfake video).
+
+
+
+It means that if an AI sees a red car and a blue bike, it will then be able to 'imagine' a red bike for itself – even if it has never seen one before. The researchers have put this together in a framework they're calling Group Supervised Learning.Extrapolating new data from training data. (Itti et al., 2021)One of the main innovations in this technique is processing samples in groups rather than individually, and building up semantic links between them along the way. The AI is then able to recognize similarities and differences in the samples it sees, using this knowledge to produce something completely new.
+
+
+
+""This new disentanglement approach, for the first time, truly unleashes a new sense of imagination in AI systems, bringing them closer to humans' understanding of the world,"" says USC computer scientist Laurent Itti.
+
+
+
+These ideas aren't completely new, but here the researchers have taken the concepts further, making the approach more flexible and compatible with additional types of data. They've also made the framework open source, so other scientists can make use of it more easily.
+
+
+
+In the future, the system developed here could guard against AI bias by removing more sensitive attributes from the equation – helping to make neural networks that aren't racist or sexist, for example.
+
+
+
+The same approach could also be applied in the fields of medicine and self-driving cars, the researchers say, with AI able to 'imagine' new drugs, or visualize new road scenarios that it hasn't been specifically trained for in the past.
+
+
+
+""Deep learning has already demonstrated unsurpassed performance and promise in many domains, but all too often this has happened through shallow mimicry, and without a deeper understanding of the separate attributes that make each object unique,"" says Itti.The research has been presented at the 2021 International Conference on Learning Representations and can be read here.
+
+
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination', 'url': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination', 'name': 'Scientists Are Giving AI The Ability to Imagine Things It&#039;s Never Seen Before : ScienceAlert', 'isPartOf': {'@id': 'https://www.sciencealert.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination#primaryimage'}, 'image': {'@id': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination#primaryimage'}, 'thumbnailUrl': 'https://www.sciencealert.com/images/2021-07/processed/010-AI-imagination_1024.jpg', 'datePublished': '2021-07-19T15:08:27+00:00', 'dateModified': '2021-07-19T15:08:27+00:00', 'author': {'@id': 'https://www.sciencealert.com/#/schema/person/f7f478d85ced7178c6f48f263a6ac4ee'}, 'breadcrumb': {'@id': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination#primaryimage', 'url': 'https://www.sciencealert.com/images/2021-07/processed/010-AI-imagination_1024.jpg', 'contentUrl': 'https://www.sciencealert.com/images/2021-07/processed/010-AI-imagination_1024.jpg'}, {'@type': 'BreadcrumbList', '@id': 'https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.sciencealert.com/'}, {'@type': 'ListItem', 'position': 2, 'name': ""Scientists Are Giving AI The Ability to Imagine Things It's Never Seen Before""}]}, {'@type': 'WebSite', '@id': 'https://www.sciencealert.com/#website', 'url': 'https://www.sciencealert.com/', 'name': 'ScienceAlert', 'description': 'The Best in Science News and Amazing Breakthroughs', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.sciencealert.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.sciencealert.com/#/schema/person/f7f478d85ced7178c6f48f263a6ac4ee', 'name': 'David Nield', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.sciencealert.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/7513e5ad4ef49b5c5266cb83ca31afdb?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/7513e5ad4ef49b5c5266cb83ca31afdb?s=96&d=mm&r=g', 'caption': 'David Nield'}, 'sameAs': ['fiona'], 'url': 'https://www.sciencealert.com/david-nield'}]",,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3doYXQtYXJlLXRoZS1pbXBsaWNhdGlvbnMtb2YtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2XSAXdodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uvd2hhdC1hcmUtdGhlLWltcGxpY2F0aW9ucy1vZi1hcnRpZmljaWFsLWludGVsbGlnZW5jZQ?oc=5,What are the Implications of Artificial Intelligence? - Analytics Insight,2021-07-18,Analytics Insight,https://www.analyticsinsight.net,,"Implications of artificial intelligence,Ethical implications of artificial intelligence,Artificial intelligence,AI,Implications of AI","With the advancement in technology, life has become way simpler than it earlier used to be. On the technological front, Artificial intelligence has served to be","With the advancement in technology, life has become way simpler than it earlier used to be. On the technological front, Artificial intelligence has served to be",N/A,N/A,What is AI and Data Science Engineering? ,http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/what-are-the-implications-of-artificial-intelligence'}",What are the Implications of Artificial Intelligence?,2021-07-18T06:59:12Z,2021-07-18T06:59:12Z,"[{'@type': 'Person', 'givenName': 'Apoorva Bellapu', 'name': 'Apoorva Bellapu', 'url': 'https://www.analyticsinsight.net/author/apoorva-bellapu'}]","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/what-are-the-implications-of-artificial-intelligence', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/07/Implications-of-AI.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",,,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/07/Implications-of-AI.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'What are the Implications of Artificial Intelligence?', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/what-are-the-implications-of-artificial-intelligence'}]",https://www.analyticsinsight.net/artificial-intelligence/what-are-the-implications-of-artificial-intelligence,,,,,,,,,What are the Implications of Artificial Intelligence?,,,,,,,,,"With the advancement in technology, life has become way simpler than it earlier used to be. On the technological front, Artificial intelligence has served to be no less than a savior. Right from controlling the traffic on roads, detecting frauds to assisting the doctors and surgeons in numerous medical procedures, AI has paved the way for all of this. Needless to say, how AI can be put into use to reduce the workload and to address the various issues of the organization is of utmost importance. However, what cannot be overlooked is having a fair idea about the political, social and ethical implications of artificial intelligence..Now that AI has integrated into our lives like never before, it is high time that we ensure that the technology is employed ethically and that our politics remain democratic. Ensuring that our policies are well informed is equally important as well..With both, Artificial intelligence and machine learning continue to dominate the world of technology, we have seen massive transformations over the years. Well, not just that. The possibility of this trend to continue for the years to come is high, without a doubt.  Considering the fact that these powerful new technologies like AI and machine learning stand a chance of both, improving as well as disrupting human lives, these transformations will have a deep ethical impact. Artificial intelligence offers us, in amplified form, everything that humanity already is, both good and evil. It is therefore important that we pay utmost importance pertaining to how these transitions are made..Talking about AI ethics, it is worth noting that it has turned a little problematic now. A few key reasons identified in this aspect are –.Insane increase in the size of data setsHuge increase in computing powerDrastic improvement in Machine learning algorithms and advanced human talent to write them..When it comes to AI, one of the most commonly faced questions is whether the AI systems would work as they are promised or will they fail? Issues don't arise when the AI systems work as promised. But what if they fail? On failing, what would be the results of those failures? Is it possible to survive without them if these systems fail? Though paying significant attention to this is important, what is even more important is whether AI stands true to its main purpose – to help people lead longer, more flourishing, more fulfilling lives. The fact that there are innumerable instances where AI has left a remarkable positive impact in society makes us believe how good of a technology it is..On the flip side, there are cases where a perfectly well functioning technology, such as a nuclear weapon, can, when put to its intended use, cause immense evil. What can be concluded from here is that Artificial intelligence can be used maliciously, similar to how human intelligence can be used. So what could be the conclusion then? Well, the technology itself is neutral: only the way we decide to use it in society determines whether it has good or bad effects..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",Artificial Intelligence,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/07/Implications-of-AI.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,2021-07-18T06:59:12Z
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmV3c2doYW5hLmNvbS5naC9lbXBsb3ltZW50LW9mLWFpLWFuZC1vdGhlci1kaWdpdGFsLXRlY2hub2xvZ2llcy1iZW5lZml0cy1jaXRpemVucy1pbi1zaGFuZ2hhaS_SAWdodHRwczovL25ld3NnaGFuYS5jb20uZ2gvZW1wbG95bWVudC1vZi1haS1hbmQtb3RoZXItZGlnaXRhbC10ZWNobm9sb2dpZXMtYmVuZWZpdHMtY2l0aXplbnMtaW4tc2hhbmdoYWkv?oc=5,Employment of AI and other digital technologies benefits citizens in Shanghai - News Ghana,2021-07-20,News Ghana,https://newsghana.com.gh,"By Xie Weiqun, Shen Wenmin Residents in east China’s Shanghai are witnessing and benefiting from the application of a good number of AI and other digital technologies catering for economic and social development, people’s livelihood and other fields. In 2018, Shanghai Tenth People’s Hospital carried out in-depth cooperation with relevant…",N/A,"By Xie Weiqun, Shen Wenmin Residents in east China’s Shanghai are witnessing and benefiting from the application of a good number of AI and other digital technologies catering for economic and social development, people’s livelihood and other fields. In 2018, Shanghai Tenth People’s Hospital carried out in-depth cooperation with relevant…","By Xie Weiqun, Shen Wenmin Residents in east China’s Shanghai are witnessing and benefiting from the application of a good number of AI and other digital technologies catering for economic and social development, people’s livelihood and other fields. In 2018, Shanghai Tenth People’s Hospital carried out in-depth cooperation with relevant…",China,N/A,"
+
+World NewsChina
+
+Employment of AI and other digital technologies benefits citizens in Shanghai
+
+By People's Daily -   July 20, 2021 0 
+
+
+
+
+FacebookTwitterPinterestWhatsApp
+
+
+
+A visitor plays Chinese chess with a humanoid robot during the warm-up for the 2021 World Artificial Intelligence Conference (WAIC) held in east China’s Shanghai, July 7, 2021. (Photo by Yang Jianzheng/People’s Daily Online)
+
+By Xie Weiqun, Shen Wenmin
+Residents in east China’s Shanghai are witnessing and benefiting from the application of a good number of AI and other digital technologies catering for economic and social development, people’s livelihood and other fields.
+In 2018, Shanghai Tenth People’s Hospital carried out in-depth cooperation with relevant science and technology enterprises in the diagnosis and treatment of venous thromboembolism. They creatively designed an AI system to assist doctors with diagnosis and formulation of treatment regimens and nursing staff in their work, helping medical workers better safeguard patients’ health and safety.
+A few days ago, a 55-year-old female patient hospitalized for meniscus injury at the Shanghai Tenth People’s Hospital got two different results in the assessment of her condition. She got two points in the assessment by a doctor, but three points in the assessment by the AI system.
+It was found out that while assessing the patient’s health condition, the AI system automatically identified the fact that the patient had chronic obstructive pulmonary disease. As proven by further inquiries, the patient was admitted to the respiratory medicine department of the hospital a year ago.
+By complementing “blind spots” in the acquisition of information through manual work, the AI system helps make diagnosis and treatment more effective and accurate.
+At the beginning of 2021, Shanghai issued a guideline on comprehensively promoting digital transformation in economy, people’s life and social governance, aiming to become an internationally influential metropolis for digitization by 2035.
+The city has successfully held the World Artificial Intelligence Conference for three consecutive years, and recently won the approval for the implementation of its Field Experiment Plan for AI Application. It is seeing steady progress in the construction of the country’s new-generation national AI innovative development pilot zone and national pilot zone for the innovation and application of AI.
+These achievements have laid a sound foundation for developing Shanghai into a leader in AI industry and building world-class AI industrial clusters in the city during the 14th Five-Year Plan period (2021-2025) of China.
+As of 2020, the city had 1,149 key enterprises in the AI industry and formed a relatively complete AI industrial chain. The city saw the combined annual industrial output value of its AI enterprises above designated size reach 224.6 billion yuan (about $34.68 billion) last year, up around 50 percent year on year.
+Attaching great importance to the employment of AI for improving people’s livelihood, Shanghai installed intelligent water meter for elderly people who live alone. If the reading on the water meter of a house is below 0.01 cubic meter in 12 hours, the unified management platform of the subdistrict will automatically raise the alarm. Then people from the management office or the residents’ committee of the subdistrict will immediately go to the home of the elderly resident to check his/her condition.
+The city also established a platform to address social problems using AI and big data technologies. For instance, if a citizen discovers disorderly parking of shared bicycles, he/she can take photos of it and post them on the platform, which will then quickly identify the problem and automatically inform relevant people of the situation.
+AI and digital transformation reinforce, complement and integrate with each other, said Wu Jincheng, director of Shanghai Economy and Information Technology Commission.
+According to Wu, on the one hand, AI is an important driving force for digital transformation of the city, and on the other hand, digital transformation in Shanghai provides better opportunities, a huge stage, and more application scenarios for the development of AI.
+Starting from the smallest unit of the city’s governance, Shanghai has embarked upon a brand new path of social governance, trying to connect and benefit residents in the whole city with AI systems and smart technologies.
+On July 7, Shanghai released the results of the second phase of its “smallest governance unit” digital governance innovation project, which suggested that the city had established 12 innovation scenarios of urban smart complex, which have involved 58 urban digital transformation ecosystem partners.
+
+Send your news stories to newsghana101@gmail.com
+Follow News Ghana on Google News 
+
+
+TAGSbenefits citizensdigital technologiesEmployment of AIotherPeople's DailyShanghaiShen WenminXie Weiqun 
+FacebookTwitterPinterestWhatsApp
+
+ Previous articleVerimatrix Offers Much-Needed Scalability and Affordability for Digital TV Switchover Initiative in NigeriaNext articleChina sets in motion national carbon emission trading market People's Dailyhttp://en.people.cn/People.cn, founded on Jan. 1, 1997, is a large-scale news platform built by People’s Daily, one of the top ten newspapers in the world. It is also one of the largest comprehensive media sources on the Internet.
+People.cn is available in seven ethnic minority languages and nine foreign languages. It publishes news in the form of text, picture, video, Weibo and Apps around the clock. It has formed a reliable and extensive readership consisting of users from 200 countries and regions around the world.
+
+
+
+Facebook
+
+
+
+
+
+Instagram
+
+
+
+
+
+Twitter
+
+
+
+
+
+Youtube
+
+  
+",https://schema.org,BreadcrumbList,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://newsghana.com.gh/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://newsghana.com.gh/world-news/', 'name': 'World News'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://newsghana.com.gh/world-news/china/', 'name': 'China'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'WebPage', '@id': 'https://newsghana.com.gh/employment-of-ai-and-other-digital-technologies-benefits-citizens-in-shanghai/', 'name': 'Employment of AI and other digital technologies benefits citizens in Shanghai'}}]",,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,3592 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,mainEntity,@context,@type,article:section,article:summary,article text,@graph,name,thumbnailUrl,uploadDate,duration,contentUrl,embedUrl,url,logo,itemListElement,sameAs,mainEntityOfPage,isPartOf,isAccessibleForFree,headline,dateline,hasPart,sourceOrganization,datePublished,dateModified,copyrightYear,copyrightHolder,author,image,publisher,articleBody,dateCreated,articleSection,alternativeHeadline,@id,alternateName,datemodified,potentialAction,speakable,specialty,mainContentOFPage,inLanguage,associatedMedia
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNzQ2LTAyMC0wMDMxOC150gEA?oc=5,Developing a delivery science for artificial intelligence in healthcare | npj Digital Medicine - Nature.com,2020-08-21,Nature.com,https://www.nature.com,"Artificial Intelligence (AI) has generated a large amount of excitement in healthcare, mostly driven by the emergence of increasingly accurate machine learning models. However, the promise of AI delivering scalable and sustained value for patient care in the real world setting has yet to be realized. In order to safely and effectively bring AI into use in healthcare, there needs to be a concerted effort around not just the creation, but also the delivery of AI. This AI “delivery science” will require a broader set of tools, such as design thinking, process improvement, and implementation science, as well as a broader definition of what AI will look like in practice, which includes not just machine learning models and their predictions, but also the new systems for care delivery that they enable. The careful design, implementation, and evaluation of these AI enabled systems will be important in the effort to understand how AI can improve healthcare.",N/A,"Artificial Intelligence (AI) has generated a large amount of excitement in healthcare, mostly driven by the emergence of increasingly accurate machine learning models. However, the promise of AI delivering scalable and sustained value for patient care in the real world setting has yet to be realized. In order to safely and effectively bring AI into use in healthcare, there needs to be a concerted effort around not just the creation, but also the delivery of AI. This AI “delivery science” will require a broader set of tools, such as design thinking, process improvement, and implementation science, as well as a broader definition of what AI will look like in practice, which includes not just machine learning models and their predictions, but also the new systems for care delivery that they enable. The careful design, implementation, and evaluation of these AI enabled systems will be important in the effort to understand how AI can improve healthcare.","npj Digital Medicine - Artificial Intelligence (AI) has generated a large amount of excitement in healthcare, mostly driven by the emergence of increasingly accurate machine learning models....","{'headline': 'Developing a delivery science for artificial intelligence in healthcare', 'description': 'Artificial Intelligence (AI) has generated a large amount of excitement in healthcare, mostly driven by the emergence of increasingly accurate machine learning models. However, the promise of AI delivering scalable and sustained value for patient care in the real world setting has yet to be realized. In order to safely and effectively bring AI into use in healthcare, there needs to be a concerted effort around not just the creation, but also the delivery of AI. This AI “delivery science” will require a broader set of tools, such as design thinking, process improvement, and implementation science, as well as a broader definition of what AI will look like in practice, which includes not just machine learning models and their predictions, but also the new systems for care delivery that they enable. The careful design, implementation, and evaluation of these AI enabled systems will be important in the effort to understand how AI can improve healthcare.', 'datePublished': '2020-08-21T00:00:00Z', 'dateModified': '2020-08-21T00:00:00Z', 'pageStart': '1', 'pageEnd': '3', 'license': 'http://creativecommons.org/licenses/by/4.0/', 'sameAs': 'https://doi.org/10.1038/s41746-020-00318-y', 'keywords': ['Health services', 'Translational research', 'Medicine/Public Health', 'general', 'Biomedicine', 'Biotechnology'], 'image': ['https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-020-00318-y/MediaObjects/41746_2020_318_Fig1_HTML.png'], 'isPartOf': {'name': 'npj Digital Medicine', 'issn': ['2398-6352'], 'volumeNumber': '3', '@type': ['Periodical', 'PublicationVolume']}, 'publisher': {'name': 'Nature Publishing Group UK', 'logo': {'url': 'https://www.springernature.com/app-sn/public/images/logo-springernature.png', '@type': 'ImageObject'}, '@type': 'Organization'}, 'author': [{'name': 'Ron C. Li', 'url': 'http://orcid.org/0000-0002-4310-7137', 'affiliation': [{'name': 'Stanford University School of Medicine', 'address': {'name': 'Division of Hospital Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Stanford University School of Medicine', 'address': {'name': 'Center for Biomedical Informatics Research, Department of Medicine, Stanford University School of Medicine, Stanford, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], 'email': 'ronl@stanford.edu', '@type': 'Person'}, {'name': 'Steven M. Asch', 'url': 'http://orcid.org/0000-0001-5838-5335', 'affiliation': [{'name': 'Stanford University School of Medicine', 'address': {'name': 'Division of Primary Care and Population Health, Department of Medicine, Stanford University School of Medicine, Stanford, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}, {'name': 'Center for Innovation to Implementation, Department of Veterans Affairs', 'address': {'name': 'Center for Innovation to Implementation, Department of Veterans Affairs, Palo Alto, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], '@type': 'Person'}, {'name': 'Nigam H. Shah', 'affiliation': [{'name': 'Stanford University School of Medicine', 'address': {'name': 'Center for Biomedical Informatics Research, Department of Medicine, Stanford University School of Medicine, Stanford, USA', '@type': 'PostalAddress'}, '@type': 'Organization'}], '@type': 'Person'}], 'isAccessibleForFree': True, '@type': 'ScholarlyArticle'}",https://schema.org,WebPage,N/A,N/A,"
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Comment
+
+Open access
+
+Published: 21 August 2020
+
+Developing a delivery science for artificial intelligence in healthcare
+Ron C. Li 
+            ORCID: orcid.org/0000-0002-4310-71371,2, Steven M. Asch 
+            ORCID: orcid.org/0000-0001-5838-53353,4 & Nigam H. Shah2 
+
+npj Digital Medicine
+volume 3, Article number: 107 (2020)
+            Cite this article
+
+
+
+
+18k Accesses
+
+
+87 Citations
+
+
+113 Altmetric
+
+
+Metrics details
+
+
+
+
+
+
+Artificial Intelligence (AI) has generated a large amount of excitement in healthcare, mostly driven by the emergence of increasingly accurate machine learning models. However, the promise of AI delivering scalable and sustained value for patient care in the real world setting has yet to be realized. In order to safely and effectively bring AI into use in healthcare, there needs to be a concerted effort around not just the creation, but also the delivery of AI. This AI “delivery science” will require a broader set of tools, such as design thinking, process improvement, and implementation science, as well as a broader definition of what AI will look like in practice, which includes not just machine learning models and their predictions, but also the new systems for care delivery that they enable. The careful design, implementation, and evaluation of these AI enabled systems will be important in the effort to understand how AI can improve healthcare.
+
+
+
+Artificial intelligence (AI) has generated much excitement, but relatively little impact in how healthcare is delivered. While progress has accelerated in using machine learning (ML) to develop prediction and classification models that make up the bulk of current AI methods1, efforts to use these models in the real world setting have not taken off at nearly the same pace2 and typically remain within the realm of “innovation” outside of the core processes that drive care delivery3. To address how AI can be leveraged at scale, we need to both broaden and deepen our thinking around how AI fits into the complexities of healthcare delivery. As the data and computer sciences for developing AI based solutions have matured, we now need a delivery science to bring those solutions into use in healthcare.Current efforts to use AI in healthcare often begin with “I have a ML model that can accurately predict or classify X”, but then get stuck at “how do I use it and for whom?”4 As a result, libraries of ML models remain on the shelf without finding appropriate use cases, or models are implemented but deemed to not be as valuable as initially imagined5. A recently published ML model that predicts acute kidney injury with high accuracy6 was assumed by the authors to provide valuable information to clinicians, but when implemented in a real clinical environment, did not significantly improve patient care and in fact resulted in additional work for the physicians that was of unclear value7. This example highlights the importance of understanding the complexities of care delivery associated with the clinical use case before building the ML model; just focusing on the capability to accurately perform a prediction task is not sufficient for improving care. This conundrum is not unique to AI; it frequently affects innovation pipelines for other biomedical technologies. For example, the lengthy and rigorous process required in drug development from preclinical experiments to observed health benefits in the real world illustrate the amount of work needed to translate scientific advances into useful therapies that actually improve care8. Much of the in silico work around training and validating ML models can be compared to the preclinical testing of active ingredients in pharmaceutical research. Just as the active ingredient alone is not sufficient for creating a drug that works in humans, much less a clinical intervention that improves outcomes for a patient population, a ML model alone is unlikely to make significant improvements in healthcare outcomes.It is time to move from model development in silico to design, implementation, and evaluation of AI enabled solutions in vivo where healthcare delivery happens. We propose a delivery science for AI in healthcare that rests on the following principles: (1) much of healthcare is delivered in complex adaptive systems9, so AI must accommodate this complexity, (2) AI should be viewed as not the end product, but rather an enabling component of broader solutions, and (3) solutions enabled by AI are often complex systems of people, processes, and technologies. We need to take a more holistic view of what AI enabled solutions would look like beyond just a set of ML models. Rather, the human and technical components of the end product, such as the workflows, teams, and digital tools made possible by tasks that a ML model can perform, should be designed and implemented together as a system. The effects—beneficial or harmful—of AI enabled solutions on healthcare should also be evaluated at the system level as emergent properties that may be greater than the sum of its individual components. Identifying these emergent properties and characterizing their impact will require the system to be designed and implemented in its entirety in the healthcare environment where it is meant to operate. The task of implementing AI in healthcare, therefore, should not be about deploying a ML model; rather, it should be about how to design the best possible care delivery system for a given problem, using the ML model as a component in that delivery system.Our initial experiences with the design, implementation, and evaluation of an AI enabled solution at an academic medical center has revealed the importance of marrying data science with disciplines, such as process improvement, design thinking, and implementation science (Fig. 1). We had previously developed an all-cause mortality prediction model to act as a proxy for who may benefit from palliative care services such as advance care planning10. Rather than jumping to a solution of simply showing the model output to physicians, we first leveraged methods from process improvement to derive the sources of process inefficiencies and breakdowns11, and design thinking to observe how these processes affected the thoughts, feelings, and experiences of frontline stakeholders12. These steps allowed us to first understand the complex system in which advance care planning is currently delivered before designing a solution enabled by our ML model that could improve on that delivery system.Fig. 1: Multidisciplinary process for creating, implementing, and evaluating an AI enabled system for healthcare.Methods from process improvement, design thinking, data science, information technology, and implementation science are combined into an iterative participatory process to build an AI enabled system for improving advance care planning. The expertize used across the different disciplines are as follows: (1) user experience design, (2) data science, (3) healthcare operations, (4) clinical informatics, (5) evaluation, and (6) ethical integrity assessment.Full size imageWe made a key decision upfront to engage a multidisciplinary group of stakeholders, including frontline nurses, physicians, social workers, and occupational therapists—all who participate in the care of patients with serious illnesses who may benefit from advance care planning—from the beginning of the design process without any preconceived notions of how the ML model would be used. Interviews and process analyses of the current state quickly revealed key barriers to advance care planning that would unlikely be solved by simply showing a model’s output to any one group of clinicians. For example, clinical and logistical considerations around the appropriate timing of advance care planning, what should be discussed, and how should these discussions fit into the broader context of the hospitalization require coordinated, multidisciplinary efforts. Similarly, design thinking tools such as empathy mapping13 helped us more deeply understand how underlying feelings around role clarity and power structures between physician and non-physician members of the care team affected advance care planning workflow. These insights led us to identify key design goals that otherwise would not have surfaced, such as the need to empower non-physician care team members to identify candidate patients and lead the coordination of advance care planning—a task that was enabled by making transparent to the entire care team the list of candidate patients generated by the mortality prediction model each day and creating a workflow for the physician and non-physician team members to discuss these patients with each other about advance care planning needs. This objective identification of candidate patients by the prediction model allowed for the democratization of responsibility for deciding who needs advance care planning to the non-physician providers such as nurses, social workers, and occupational therapists—all who spend a lot of time with patients and are trained to engage in this topic. The design process also includes analyses to verify that our model’s execution and runtime characteristics (such when in the day are predictions available) fit the logistical needs of these new workflows14. This deeper understanding of current state gaps and improvement opportunities allowed us to build a system of workflows, teams, and digital tools enabled by the mortality prediction model to drive change in the complex environment of healthcare delivery. Other AI efforts that address the broader sociotechnical components of healthcare beyond just the ML model have offered similar lessons. For example, recent work around using AI to improve the treatment of sepsis committed months to assessing clinical processes and user experiences prior to even training a ML model, which yielded important insights for implementation, such as the need to focus on not just sepsis detection, but a method for standardizing follow up care15.To be most useful, evaluations of AI enabled solutions should not simply ask whether it achieved the desired improvement in clinical process or outcome (e.g., did the frequency or quality of advance care planning improve), but also how well or poorly was the solution implemented. Implementation science and systems engineering tell us that we can use rigorous scientific methods for both effectiveness and implementation questions. Such hybrid evaluations can assess the mechanism(s) by which AI enables the changes that lead to the desired clinical outcome (how did the mortality prediction tasks performed by the ML model mediate the improvement in advance care planning) and the properties of the overall AI enabled systems (what are the structures, patterns, and processes of the workflows, teams, and technologies that make up the new AI enabled system for delivering advance care planning). Frameworks such as RE-AIM13 (reach, effectiveness, adoption, implementation, and maintenance) can help identify the dimensions by which to assess implementation and subsequent dissemination efforts, and models for sociotechnical systems such as SEIPS14 (Systems Engineering Initiative for Patient Safety) can help assess the complex interactions between people and technologies in a work system.Naturally, questions about who is responsible for implementing such delivery systems, and quality control of the ML workflows will arise. Aside from existing processes in healthcare systems to design standard operating procedures, additional attention will be needed to implement quality controls on the models itself. Specifically, to monitor a model’s calibration over time, it will be important to watch population drifts and ensure timely retraining so that the model’s performance remains with in the execution and runtime characteristics required by the AI enabled system16,17. Just as with clinical laboratory instruments, ML models in healthcare will need to be regularly re-calibrated and tuned. The characteristics of the ML models will also need to be appropriately communicated to clinical users18. Fortunately, there is deep experience in the technology sector to draw upon19,20. In-house informatics teams within health systems with expertize in data science, information technology, and clinical operations may be required to own this work. While the nature of these teams may vary across organizations, what is certain is that such a team will need to exist to ensure that AI will be used responsibly and deliver sustained value.It is time to move AI research out from in silico model development into real world design, implementation, and evaluation for improving healthcare delivery. We will likely see that ML models will be necessary, but not sufficient components of broader AI enabled solutions. The delivery science of AI will need to address how such systems are designed, implemented, and evaluated, and how their emergent properties can be captured and utilized to transform healthcare.
+
+
+ReferencesTopol, E. J. High-performance medicine: the convergence of human and artificial intelligence. Nat. Med. 25, 44–56 (2019).Article 
+    CAS 
+    
+                    Google Scholar 
+                Emanuel, E. J. & Wachter, R. M. Artificial intelligence in health care will the value match the hype? J. Am. Med. Assoc. 321, 2281–2282 (2019).Article 
+    
+                    Google Scholar 
+                Schulman, K. A. & Richman, B. D. Toward an effective innovation agenda. N. Engl. J. Med. 380, 900–901 (2019).Article 
+    
+                    Google Scholar 
+                Fihn, S. D. et al. Deploying AI in Clinical Settings. In Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril (eds Matheny, M., Thadaney-Israni, S., Ahmed, M. & Whicher, D.) (National Academy of Medicine, 2019).Challener, D. W., Prokop, L. J. & Abu-Saleh, O. The proliferation of reports on clinical scoring systems: issues about uptake and clinical utility. J. Am. Med. Assoc. 321, 2405–2406 (2019).Article 
+    
+                    Google Scholar 
+                Tomašev, N. et al. A clinically applicable approach to continuous prediction of future acute kidney injury. Nature 572, 116–119 (2019).Article 
+    
+                    Google Scholar 
+                Connell, A. et al. Implementation of a digitally enabled care pathway (Part 2): qualitative analysis of experiences of health care professionals. J. Med. Internet Res. 21, e13143 (2019).Article 
+    
+                    Google Scholar 
+                Westfall, J. M., Mold, J. & Fagnan, L. Practice-Based Research—“Blue Highways” on the NIH Roadmap. JAMA. 297, 403–406 (2007).Howell, M. & Stevens, J. Complexity: thinking about healthcare as a living organism. In Understanding Healthcare Delivery Science (Lange, 2019).Avati, A. et al. Improving palliative care with deep learning. In Proceedings—2017 IEEE International Conference on Bioinformatics and Biomedicine, BIBM (2017).Juran, J. & Godfrey, A. B. Juran’s Quality Handbook. https://doi.org/10.1007/978-3-540-78773-0_5 (McGraw-Hill, 1998)Yock, P. et al. Biodesign: The Process of Innovating Medical Technologies, 2nd edn (Cambridge University Press, 2015).Foundation, I. D. Empathy Map—Why and How to Use It. Available at: https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it.Shah, N. H., Milstein, A. & Bagley, S. C. Making machine learning models clinically useful. J. Am. Med. Assoc. 322, 1351–1352 (2019).Article 
+    
+                    Google Scholar 
+                Sendak, M. et al. “The human body is a black box”: supporting clinical decision-making with deep learning. In FAT* 2020—Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. 99–109 (2020).The Ultimate Guide to Model Retraining. Available at: https://mlinproduction.com/model-retraining/.Davis, S. E. et al. A nonparametric updating method to correct clinical prediction model drift. J. Am. Med. Inform. Assoc. 26, 1448–1457 (2019).Article 
+    
+                    Google Scholar 
+                Sendak, M. P., Gao, M., Brajer, N. & Balu, S. Presenting machine learning model information to clinical end users with model facts labels. npj Digit. Med. 3 (2020). https://www.nature.com/articles/s41746-020-0253-3.Google. Machine learning Crash Course. Available at: https://developers.google.com/machine-learning/crash-course/production-ml-systems.Sculley, D. et al. Hidden Technical Debt in Machine Learning Systems. In Proceedings of the 28th International Conference on Neural Information Processing Systems—Volume 2. 2503–2511 (MIT Press, 2015).Download referencesAcknowledgementsThis work was supported by the Stanford Medicine Program for AI in Healthcare, the Department of Medicine at Stanford University School of Medicine, and Stanford Health Care.Author informationAuthors and AffiliationsDivision of Hospital Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USARon C. LiCenter for Biomedical Informatics Research, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USARon C. Li & Nigam H. ShahDivision of Primary Care and Population Health, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USASteven M. AschCenter for Innovation to Implementation, Department of Veterans Affairs, Palo Alto, CA, USASteven M. AschAuthorsRon C. LiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSteven M. AschView author publicationsYou can also search for this author in
+                        PubMed Google ScholarNigam H. ShahView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsR.C.L. and N.H.S. conceived of the idea for the manuscript. R.C.L. wrote the paper. S.M.A. and N.H.S. provided feedback and revisions.Corresponding authorCorrespondence to
+                Ron C. Li.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional informationPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Rights and permissions
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and permissionsAbout this articleCite this articleLi, R.C., Asch, S.M. & Shah, N.H. Developing a delivery science for artificial intelligence in healthcare.
+                    npj Digit. Med. 3, 107 (2020). https://doi.org/10.1038/s41746-020-00318-yDownload citationReceived: 03 January 2020Accepted: 06 July 2020Published: 21 August 2020DOI: https://doi.org/10.1038/s41746-020-00318-yShare this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+Subjects
+
+Health servicesTranslational research
+
+
+
+
+
+This article is cited by
+
+
+
+
+
+                                        Towards proactive palliative care in oncology: developing an explainable EHR-based machine learning model for mortality risk prediction
+                                    
+
+
+Qingyuan ZhuangAlwin Yaoxian ZhangNan Liu
+
+BMC Palliative Care (2024)
+
+
+
+
+                                        Human–AI collaboration enables more empathic conversations in text-based peer-to-peer mental health support
+                                    
+
+
+Ashish SharmaInna W. LinTim Althoff
+
+Nature Machine Intelligence (2023)
+
+
+
+
+                                        Diagnosis of autism spectrum disorder based on functional brain networks and machine learning
+                                    
+
+
+Caroline L. AlvesThaise G. L. de O. ToutainFrancisco A. Rodrigues
+
+Scientific Reports (2023)
+
+
+
+
+                                        Artificial Intelligence and Cancer Control: Toward Prioritizing Justice, Equity, Diversity, and Inclusion (JEDI) in Emerging Decision Support Technologies
+                                    
+
+
+Peter TaberJulie S. ArminSonoo Thadaney Israni
+
+Current Oncology Reports (2023)
+
+
+
+
+                                        Value assessment of artificial intelligence in medical imaging: a scoping review
+                                    
+
+
+Iben FasterholdtMohammad Naghavi-BehzadKristian Kidholm
+
+BMC Medical Imaging (2022)
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5pc3QuZ292L25ld3MtZXZlbnRzL25ld3MvMjAyMC8wOC9uaXN0LWFza3MtYWktZXhwbGFpbi1pdHNlbGbSAQA?oc=5,NIST Asks A.I. to Explain Itself | NIST - NIST,2020-08-18,NIST,https://www.nist.gov,,N/A,,,,https://schema.org,,N/A,N/A,N/A,"[{'@type': 'Article', '@id': 'https://www.nist.gov/news-events/news/2020/08/nist-asks-ai-explain-itself', 'headline': 'NIST Asks A.I. to Explain Itself', 'name': 'NIST Asks A.I. to Explain Itself', 'description': '', 'image': {'@type': 'ImageObject', 'url': 'https://www.nist.gov/sites/default/files/images/2020/08/17/EinAI_static.png', 'width': '220', 'height': '80'}, 'datePublished': '2020-08-18T08:00-04:00', 'dateModified': '2021-08-31T10:36-04:00', 'author': {'@type': 'Person', '@id': 'https://www.nist.gov/people/chad-boutin', 'name': 'Chad Boutin', 'url': 'https://www.nist.gov/people/chad-boutin'}, 'publisher': {'@type': 'Organization', '@id': 'https://www.nist.gov/', 'name': 'National Institute of Standards and Technology', 'url': 'https://www.nist.gov/'}}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vYXJpc3RvdGxlLWFuZC10aGUtY2hhdGJvdC1ob3ctYW5jaWVudC1ydWxlcy1vZi1sb2dpYy1jb3VsZC1tYWtlLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW1vcmUtaHVtYW4tMTQyODEx0gEA?oc=5,Aristotle and the chatbot: how ancient rules of logic could make artificial intelligence more human - The Conversation,2020-08-18,The Conversation,https://theconversation.com,Machine logic can be too precise to seem fully human. Chatbots that learn logic from Aristotle instead might behave more like people.,N/A,Machine logic can be too precise to seem fully human. Chatbots that learn logic from Aristotle instead might behave more like people.,N/A,,,,N/A,N/A,"
+
+
+
+
+
+
+Raffaello Sanzio da Urbino
+
+
+
+
+
+
+
+
+
+            Aristotle and the chatbot: how ancient rules of logic could make artificial intelligence more human
+          
+
+
+
+
+Published: August 18, 2020 4:08pm EDT
+
+
+
+
+
+
+
+
+
+
+
+
+David Ireland, Dana Kai Bradford, CSIRO
+
+
+
+Authors
+
+
+
+
+
+        David Ireland
+      
+
+
+      Research Scientist at the Australian E-Health Research Centre., CSIRO
+    
+
+
+
+
+
+        Dana Kai Bradford
+      
+
+
+      Senior Research Scientist, CSIRO
+    
+
+
+
+
+
+Disclosure statement
+The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.
+
+
+Partners
+
+CSIRO provides funding as a founding partner of The Conversation AU.
+View all partners
+
+We believe in the free flow of informationRepublish our articles for free, online or in print, under a Creative Commons license.Republish this article
+
+
+
+
+
+ Email
+
+
+ X (Twitter)65
+
+
+ Facebook653
+
+
+ LinkedIn
+
+
+ WhatsApp
+
+
+ Messenger
+
+ Print
+
+
+Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.
+In our work building therapy chatbots, we have found using a different kind of logic — one first formalised by the Greek philosopher Aristotle more than 2,000 years ago — can produce results that are more fallible, but also much more like real people.
+
+
+
+
+      Read more:
+      The future of chatbots is more than just small-talk
+
+
+
+
+The different kinds of logic
+The underpinning science of our chatbots is formal logic. Modern formal logic has its basis in mathematics — but that wasn’t always the case.   
+The discovery and formalisation of logic is attributed to Aristotle (384-322 BC) in his collected works, the Organon (or “instrument”).
+Here he documented the first principle of reaching a conclusion from a set of premises. This would be later called inference, guided by rules known as syllogisms.  
+Since the 20th century, the field of logic has moved away from Aristotle’s approach towards systems that use predicate and propositional logic. These types of logic have been developed by mathematicians for mathematical applications; hence they are referred to as mathematical logics. Their reasoning is required to be infallible.
+Human reasoning, on the other hand, is not always infallible. We mainly reason via deduction, induction and abduction. 
+You can think of deduction as using generalised rules to reason about a specific example, while induction and abduction involve looking at a collection of examples and trying to work out the rules that explain them. 
+While deduction tends to be most accurate, induction and abduction are less reliable. These are complex processes not easily programmed into machines. 
+Arguably, induction and abduction are what separate human intelligence, which is vast and general but often inaccurate, from the narrow yet increasingly accurate intelligence of machines.  
+Chat logic
+We have found that using mathematical logic makes our chatbots less able to have meaningful interactions with humans. 
+For example, a single human utterance often makes little sense without a large context of what linguists call entailments, presuppositions and implicatures. 
+While our brains factor in this context automatically, machines must use some form of equivalent logic.    
+Artificial general intelligence
+One school of thought suggests parts of Aristotle’s logic, nowadays referred to as term logic, and his rules of inference, could form core components of an artificial general intelligence (AGI).  
+The OpenCog and OpenNars are prominent AGI research platforms with term logic at the core. At present these platforms are capable of general-purpose reasoning for potential applications in health and robotics.  
+
+
+A robot using the OpenCog system in 2016.
+
+Term logic
+Term logic is composed of basic units of meaning, which are linked by what linguists call a “copula”. To write “a bird is an animal” in term logic, we could use the copula denoted “->” which intuitively means “is a special kind of”, like this: 
+Bird -> Animal 
+This is a very simple example, but more complex and expressive statements are also possible.
+Term logic and syllogisms also avoid some of the logical paradoxes that often occur when fitting natural language into a logical framework. 
+For example, in most systems of formal logic, a nonsense statement like “if the moon is made of cheese, the world is coming to an end” counts as a valid argument. (This is called the paradox of material implication, and occurs because if often has very different meanings in natural language and in formal logic.) 
+Aristotle, however, stated syllogisms are what must follow from two independent premises that share one (and only one) term. This rule lets us dismiss the argument above, as the two pieces of the argument (“the moon is made of cheese” and “the world is coming to an end”) don’t share a term.
+Fallible reasoning
+AGI researchers have extended Aristotle’s syllogisms by allowing conclusions that may be true with a degree of uncertainty (fallible reasoning) as well as those that must be true (like those from deductive reasoning). Term logic readily supports these forms of reasoning. 
+
+
+
+Examples of different forms of reasoning that term logic aptly supports. Conclusions are given in red. Deduction is infallible while induction and abduction are fallible.
+
+
+Beliefs and truths
+Now that we can derive conclusions that may be true, we need to identify these as beliefs  with a corresponding truth value. 
+How to determine the truth value of a belief is where some AGI researchers differ. The OpenNars project approach is most similar to the human belief system, where it counts the number of independent pieces of evidence for and against a belief to to determine how much confidence to place in it.
+Virtual AI companions
+So how can Aristotle’s voice be heard in our chatbot technology? 
+At the CSIRO Australian e-Health Research Centre we are developing chatbots to help people better manage their health and wellbeing. 
+
+
+
+
+      Read more:
+      To stop the machines taking over we need to think about fuzzy logic
+
+
+
+
+We have started to use AGI in our chatbot technology for those with communication challenges and who benefit from technology interactions. Our version is mostly inspired from the OpenNars platform but infused with other components we found useful. 
+Rather than just computing a response from a sequence of words, responses from the chatbot are derived from the relationships between billions of terms. Beliefs with low confidence can be sent back to the user (for example, a person asking a health chatbot about symptoms) as questions. 
+In the future we think this will allow for more engaging, deeper and natural interactions between humans and machine. The beliefs and “personality” of the chatbot will become tailored to the user.  
+Aristotle’s 2,000-year-old logic has had a profound influence on Western civilisation. A revamp of his ancient works could very well shift us into a new frontier of human-computer interaction.
+
+
+
+
+
+Philosophy
+
+
+Logic
+
+
+Aristotle
+
+
+Chatbots
+
+
+artifical intelligence
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZGFpbHlub3VzLmNvbS8yMDIwLzA4LzE5L3BoaWxvc29waGVycy13aW4tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYXdhcmQv0gEA?oc=5,Philosophers Win Artificial Intelligence Award - Daily Nous - Daily Nous,2020-08-19,Daily Nous,https://dailynous.com,"The Tetrad Automated Causal Discovery Platform, a software and text project developed by Peter Spirtes, Clark Glymour, Richard Scheines and Joe Ramsey of Carnegie Mellon University's Department of Philosophy, earned the ""Leader"" Award at the 2020 World Artificial Intelligence Conference this past July. The Leader Award is one of four awards presented at the conference that aim to recognize ""the best in terms of impact",N/A,"The Tetrad Automated Causal Discovery Platform, a software and text project developed by Peter Spirtes, Clark Glymour, Richard Scheines and Joe Ramsey of Carnegie Mellon University's Department of Philosophy, earned the ""Leader"" Award at the 2020 World Artificial Intelligence Conference this past July. The Leader Award is one of four awards presented at the conference that aim to recognize ""the best in terms of impact","The Tetrad Automated Causal Discovery Platform, a software and text project developed by Peter Spirtes, Clark Glymour, Richard Scheines and Joe Ramsey of Carnegie Mellon University's Department of Philosophy, earned the ""Leader"" Award at the 2020 World Artificial Intelligence Conference this past July. The Leader Award is one of four awards presented at the conference that aim to recognize ""the best in terms of impact",,https://schema.org,,Awards grants honors,N/A,"
+
+
+
+Home
+
+Awards Grants Honors
+
+Philosophers Win Artificial Intelligence Award
+
+
+
+
+By Justin Weinberg. 
+
+ August 19, 2020 at 9:29 am
+27
+
+
+ 
+
+
+
+
+
+The Tetrad Automated Causal Discovery Platform, a software and text project developed by Peter Spirtes, Clark Glymour, Richard Scheines and Joe Ramsey of Carnegie Mellon University’s Department of Philosophy, earned the “Leader” Award at the 2020 World Artificial Intelligence Conference this past July.
+
+The Leader Award is one of four awards presented at the conference that aim to recognize “the best in terms of impact and innovation in AI”. There were over 800 nominees for the awards, including projects by Amazon, Bosch, Huawei, Nvidia, Open AI Lab, and Siemens, among others.
+The Tetrad Automated Causal Discovery Platform is a tool for discovering “valid, novel, and significant causal relationships” in data. A press release from CMU provides further information about the project:
+The Tetrad project was started nearly 40 years ago by Glymour, then a professor of history and philosophy of science at the University of Pittsburgh and now Alumni University Professor Emeritus of Philosophy at CMU, and his doctoral students, Richard Scheines, now Bess Family Dean of the Dietrich College of Humanities and Social Sciences and a professor of philosophy at CMU, and Kevin Kelly, now professor of philosophy at CMU.
+Glymour was fascinated by English psychologist Charles Spearman’s argument for a single “general intelligence,” proposed in the early 20th century, and later work by Hubert Blalock, a sociologist. Both researchers explored the possibility of distinguishing causal models by patterns of constraints they implied on the data. Glymour and his students undertook to generalize that idea, turn it into a computer algorithm and explore related mathematical properties.
+The first version of the Tetrad program became the basis of Scheines’ doctoral research, which required him to learn as much computer science and statistics as philosophy, an interdisciplinary approach that was encouraged at CMU.
+Peter Spirtes joined the project while studying for a master’s degree in computer science at Pitt following his doctoral work. A number of doctoral students at CMU have based their work around the Tetrad project.
+Fundamental to the work was providing a set of general principles, or axioms, for deriving testable predictions from any causal structure. For example, consider the coronavirus. Exposure to the virus causes infection, which in turn causes symptoms (Exposure –> Infection –> Symptoms). Since not all exposures result in infections, and not all infections result in symptoms, these relations are probabilistic. But if we assume that exposure can only cause symptoms through infection, the testable prediction from the axiom is that Exposure and Symptoms are independent given Infection. That is, although knowing whether someone was exposed is informative about whether they will develop symptoms, once we already know whether someone is infected or not — knowing whether they were exposed adds no extra information — a claim that can be tested statistically with data.
+Spirtes, Glymour and Scheines then turned this kind of reasoning on its head and extended it to massively complex causal systems. They developed algorithms that take measured data and background knowledge as input, and then compute the set of underlying causal systems that might have produced specific patterns in the measured data. What can the algorithms tell us about the causal system that underlies the measured data? According to Scheines, “not everything, but in some cases quite a lot.” Spirtes led the effort to prove that the algorithms were theoretically reliable. This approach to causal discovery constituted a breakthrough in fundamental methods in AI.
+The next step was to make the work practical — which required efficient algorithms and massive amounts of simulation and real scientific testing. In the late 1990s, Joe Ramsey joined the team as a systems developer, and he has developed several important algorithms, and has made many others dramatically more efficient. With help from Spirtes, Glymour, Scheines and many others, Ramsey developed the Java-based Tetrad platform, which supports model building and testing, full simulation, and implements dozens of causal discovery algorithms that can be executed on one’s laptop or on the Bridges Pittsburgh Supercomputer.
+Over the last 15 to 20 years, the free, open-source software platform has been successfully applied to scientific problems from economics to psychology to educational research to neuroscience by the original team and by researchers around the world. 
+More here.
+
+ 
+
+
+Categories
+Awards Grants Honors 
+
+Tags
+artificial intelligenceawardsdataphilosophyscience 
+
+
+
+
+
+
+9 likes 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+ Subscribe
+
+
+
+
+ Login 
+
+
+
+
+Notify of 
+
+
+new follow-up comments
+new replies to my comments
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+Label
+
+
+    
+    
+        
+       
+     
+    
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name*
+
+
+
+
+
+Email*
+
+
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+Δ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name*
+
+
+
+
+
+Email*
+
+
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+Δ 
+
+
+
+
+
+
+27 Comments 
+
+
+
+
+
+
+
+Oldest
+
+
+Newest
+Most Voted
+
+
+
+
+
+ Inline Feedbacks 
+View all comments
+
+
+
+
+
+
+
+
+
+
+
+M. Nisa Khan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 years ago
+
+
+
+If you have the valid background knowledge and are writing effective and valid algorithms based on mathematical relations and axioms, you already know the causal relationships in the data you will acquire via machines. Therefore, by and large, you have a high degree of apriori knowledge of a system in terms of causal relationships. I would like to see or learn about what specifically machine learning and AI are providing us other than handling a very large set of data statistically that we may already have the knowledge of how the data would behave.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+M. Nisa Khan
+
+
+
+3 years ago
+
+
+
+This is a great question, as I would believe AI and ML will provide the capacity of computation not currently capable of man. The way AI/ML can handle data is more sufficient and in turn more progressive towards predictive systems. Example I would say is creating a system that can take health data and predict possible health issues from possible long term habits, or tracking the growth of a tumor or cancer. The creation of writing the algorithms is great, but for that algorithm to grow instinctively and intuitively based on the way the data influences it can cut back a lot of time on many things we can create to help our world, and that to me is amazing.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+M. Nisa Khan
+
+
+
+3 years ago
+
+
+
+“If you have the valid background knowledge and are writing effective and valid algorithms based on mathematical relations and axioms, you already know the causal relationships in the data you will acquire via machines.”
+That’s often not the case. A common way to train AI is to just let it try something within an environment, “reward” or “punish” it depending on the result of what it tried, then repeat a bunch of times. For example, we don’t need to know the causal relationships between particular moves in a game of chess and a victory in a game of chess to be able to tell a computer “I’ll give you a 1 every time you win. Figure out how you can get as many 1s as you can.” We could be terrible at chess but get a computer to play pretty well by doing that. 
+Algorithms that help AI learn don’t require that prior knowledge of relationships either. They usually have very broad application. For example, you can measure how badly the chess bot lost (some ways of measuring might be more useful than others but you can still measure it) and then tell it to make adjustments to how it decides what to do in proportion to how good/bad it did relative to the desired outcome using some other algorithm that nudges the AIs decisions in some direction other than where they were when it lost. This can be extended to countless other domains and you don’t need to have prior mastery over chess or any of those other domains. There are also other machine learning methods that don’t require prior human knowledge of the causal relationships that could be discovered by a machine. 
+What I’m actually wondering about Tetrad is how it differs from forms of reinforcement and unsupervised machine learning that can already discover causal relationships that we weren’t aware of.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 years ago
+
+
+
+After looking into it more, it seems like Tetrad isn’t doing anything that can’t already be done by other programs as far as machine learning goes. Its big strength, from what I could tell, is in its aim to be more user friendly. You don’t need to be able to code to use it and its visualizations are probably easier to understand and manage than some other data visualization tools.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+Most machine learning aims at generating good predictions. This can often be done without an understanding of causal structure. For example, you can pretty reliably predict the divorce rate in a state from the number of Waffle Houses there. (This is an example McElreath discusses at length in his book _Statistical Rethinking_.)
+But having more Waffle Houses doesn’t cause the divorce rate to be higher. 
+Tetrad isn’t aiming to produce good predictions; it is supposed to help us uncover causal structure. This is a completely different task, so I’m not sure why you think that “Tetrad isn’t doing anything that can’t already be done by other programs as far as machine learning goes.”
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Adam
+
+
+
+3 years ago
+
+
+
+You cannot generate reliably good predictions without an understanding of causal structure. Causal modeling (whether from the CMU school or the UCLA school) allows you to make a lot of assumptions explicit (and in an intuitive way) so that you aren’t just blinding looking at data and haphazardly applying this or that statistical estimation or machine learning procedure.
+Even if you are just interested in figuring out what is correlated with what, you need to be aware of how different underlying causal structure can generate those correlations so you are justified in making your claims. E.g., is policy brutality incidence is correlated with race? Some who just look at data and statistics say “no” after they condition on whether you’ve been stopped by police. But that third variable that is being conditioned on is likely a collider and conditing on the collider, in this case, can generate some associations and make others disappear. But the lingo of graphical causal modeling and, in particular, “collider” is completely missing from the discussion. Consequently, it is impossible to evaluate many claims being thrown around. 
+Moreover, if you are interested in figuring out the expected value of Y given X, you are not making a justified inference absent a causal model. It is permissible to extrapolate outside the data set, to project to individuals (inside or outside) of the population data, or, more generally, to test subjunctives such as “if X were x, then P(Y = 1) would be p” only if you first have a causal model that graphically encodes your assumptions about how variables are causally related (okay, the graphical bit is not necessary, but it’s practically necessary given how clear and intuitive it is). You cannot get reliable counterfactual information outside of your data set from mere associations. Otherwise, all you can say (given assumptions that the data is representative, large, not given by the Trump administration, etc) is that I found a correlation in this data set and this data set is all I wish to talk about. Only die-hard empiricists make these claims.
+The point is this: You need to have some understanding of causal structure to make responsible and reliable predictions. Consequently, the discovery of (or the theory-driven hypothesizing about) causal structure should not be separated from prediction. The two should go hand and hand.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Wes
+
+
+
+3 years ago
+
+
+
+“You need to have some understanding of causal structure to make responsible and reliable predictions.”
+I’m not sure whether we disagree (partly because I’m not sure what you mean by “responsible”, “reliable”, and “some understanding of causal structure”).
+I agree that causal knowledge is fantastic if you can get it. I agree that graphical causal models are important. But causal inference is really, really hard, and (this may be a point of disagreement) it’s often possible to get by with statistical or machine learning models that are blind to causal structure, depending on the context. 
+Also, I shouldn’t have said that “Tetrad isn’t aiming to produce good predictions.” I don’t really know what the Tetrad folks’ goals are, so let’s pretend I didn’t say that!
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Adam
+
+
+
+3 years ago
+
+
+
+“I’m not sure why you think that ‘Tetrad isn’t doing anything that can’t already be done by other programs as far as machine learning goes.'”
+I think that because, after looking at the program, I don’t see anything that would prevent it from uncovering “causal structure” in, for example, data about waffle houses and divorce rates. What I’m seeing is a flexible and user-friendly tool for data visualization, predictions, and tinkering with variables to see the effects. 
+I understand the point you’re making about the distinction between predictions and causal structure but it doesn’t seem like what’s meant by “causal structure” in Tetrad is what you mean by “causal structure.” 
+The “causal structures” being uncovered by the program depend on the data sets that are fed to it. An example they use is a data set with variables like temperature, ice cream eaten, and sunscreen used. As expected, higher temperatures “cause” more ice cream to be eaten and more sunscreen to be applied. There’s nothing stopping someone from renaming the variables to include waffle houses and divorce rates. If someone did that, and unless someone explicitly tells Tetrad that there’s no causal relationship, the program would produce the same results because it doesn’t care about the names of the variables, it cares about the numeric values of the variables. 
+If someone can point me to to a part of the program that I’m overlooking, please do. Again, I’m not trying to downplay the value of Tetrad, I can see it being very useful, but the write-up and people’s posts make it sound like Tetrad is doing something that it doesn’t actually do.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+Read Spirtes et al Causation, Prediction, and Search. Usually it helps to know what something is doing before using it. It’s also generally a good idea to learn about a theory before dismissing it.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Wes
+
+
+
+3 years ago
+
+
+
+I’m not dismissing it, I’m trying to understand it and based on what I read on Tetrad’s website, how the program works doesn’t match what people are saying. So, thanks for the recommendation, I’ll read it.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 years ago
+
+
+
+My understanding of the Tetrad project is that it is by and large used to discover a set of causal structures that are consistent with the data and some set of assumptions that link the joint probability distribution over the variables to causal structures. So, Tetrad is unique in that it’s backed up by theoretical assumptions concerning the link between joint probability distributions and causal structures. As far as I know, you can also build in prior background causal assumptions, but the point of using Tetrad is to look for a set of data-consistent causal structures chiefly with some axioms about how causal structure and probabilities are related. So Tetrad is not operating on reinforcement and unsupervised machine learning principles that are “theory-free.” To get reliable predictions that aren’t by sheer accident, you need a background theory. Also, to understand what the algorithm is doing, you need background theory; not brute machine learning. I don’t know how machine learning, as is typically practiced, can reliably “already discover causal relationships” if not by sheer happy accidents. The Tetrad algorithms can and have RELIABLY discovered causal relationships in a way that is comprehensible to humans because it is principled.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Wes
+
+
+
+3 years ago
+
+
+
+Wes, thank you and sorry if I came off as downplaying the value of the program. I’m much more familiar with ml in practice than theory. 
+“it’s backed up by theoretical assumptions concerning the link between joint probability distributions and causal structures.” That’s helpful. If I’m understanding correctly, it’s essentially a broad-purpose encoder, which could be useful in pretty much any domain. 
+I’m still a little confused about some other things you wrote. Would a typical instance of training a convolutional network to make predictions count as “theory-free”? If it would, there are reliable methods of training the networks that don’t rely on just hoping it accidentally finds good weights. Either way, isn’t it still discovering causal relationships? The difference would be in how those relationships are represented and how easy it is for anyone to understand the representation. In the case of Tetrad, it seems very straightforward for most people to understand, in the case of a cnn you could inspect the weights and represent those weights in different ways, making them more or less easy to understand what it is that they’re representing, but it presupposes you have certain math abilities.
+Sorry, if I misunderstood anything.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+“Either way, isn’t [a well-trained CNN] still discovering causal relationships?”
+(I accidentally posted this comment below in the wrong place. I don’t see a way to delete the other version, unfortunately. Apologies to everyone in this thread!)
+No. Suppose I create a dataset of ten thousand paintings as follows. I look at each painting, and if I like it, I add a big, red check mark in MS paint. I then train a CNN to take an image of a painting as input and predict whether I liked it.
+One of the things that the CNN is going to latch onto is that the presence of a big, red check mark is positively correlated with Adam liking the painting. Is this uncovering causal structure? I don’t think so. What if you’re interested in the question, “if I add a check mark to [points to painting on the wall that is not in the training data], then will that cause Adam to like it?” You might try to answer this by adding a big, red check mark to the painting and feeding that to the CNN. The CNN is going to predict that I’ll like the painting. But that’s getting the causal structure backwards. I added the check mark because I liked the painting. I didn’t like the painting because of the check.
+This case is basically the same thing as the Waffle House case I mentioned above, but with CNNs.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clark Glymour
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Wes
+
+
+
+3 years ago
+
+
+
+I don’t know who Wes is, but thank you for responding correctly and coherently to some of these posts.
+Clark Glymour
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seymour Borgman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Clark Glymour
+
+
+
+3 years ago
+
+
+
+Congratulations on the award.
+Is the CMU approach to causal modeling mathematically equivalent to the UCLA (Pearl) approach?
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Seymour Borgman
+
+
+
+3 years ago
+
+
+
+Yes, congratulations to Clark and everyone who contributed to Tetrad. Long time coming!
+To Seymour: To my mind, the most important foundational thinkers on graphical causal modeling are the CMU group (and their students) and Pearl (and his students). But, it seems to me, that the emphasis of these two groups is different albeit complementary. The CMU group focuses on the discovery of a set of causal structures from data and some assumptions (chiefly assumptions that connect probability distribution to causal structure). The Pearl group focuses on identifying causal parameters, given a set of hypotheses about the causal structure, before willy-nilly statistical estimation. Both make fundamental use of graphical criteria such as d-separation. 
+Also in another post, you write: “Glymour about 10 years ago wrote a manifesto that advocated de-funding the 99 percent of academic philosophy that could not be sensibly housed in a computer science department. Funny to see him and group of philosophers-turned-statisticians honored here.” 
+This fundamentally misunderstands Glymour and is not at all charitable. Calling for a kind of philosophy with its roots in Euclid and proof is not advocacy for defunding philosophy. In addition, they certainly are not philosophers-turned-statisticians. This misunderstands either statistics or their work.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seymour Borgman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Wes
+
+
+
+3 years ago
+
+
+
+If I understand you correctly, the two schools use the same or interchangeable mathematical formalism but address different questions. Pearl showed that his formalism is equivalent to, or generalizes, some others in statistics, economics, epidemiology, etc. So it’s good to hear that the CMU stuff is fully compatible.
+Glymour’s “manifesto” is archived at
+https://web.archive.org/web/20120108061810/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/
+I don’t think it’s a mischaracterization to say he views most of traditional, and current academic, philosophy as somewhere between useless and a racket in need of external correction —- and he has stated similar views in other interviews and talks that can be found online. His views are pretty much identical to what you can hear in any STEM department, the only difference is that he is nominally within the field.
+“Calling for a kind of philosophy with its roots in Euclid and proof is not advocacy for defunding philosophy. In addition, they certainly are not philosophers-turned-statisticians. This misunderstands either statistics or their work.”
+That isn’t actually what Glymour was saying. He wasn’t merely calling for formal philosophy, but a kind that engages with mathematics (and science, statistics, engineering, CS) using the formal tools typical of those fields, not “formal” as used by philosophers. That means (inter alia) quantitative, numerical or probabilistic/statistical sorts of “formalism”, rather than logic and its relatives that he specifically criticizes (at least the style done by philosophers).
+In interviews, Glymour says that were he a student today pursuing his interests from the time of his PhD he would do machine learning (a.k.a “statistics”). Similarly, Spirtes says he wasted five years getting a PhD in philosophy. Their papers that use math can be read knowing statistics, ML or causal DAG stuff and zero philosophy, and they frequently publish in ML/statistics/CS journals. Seems pretty ML-ish to me!
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 years ago
+
+
+
+“Either way, isn’t [a well-trained CNN] still discovering causal relationships?”
+No. Suppose I create a dataset of ten thousand paintings as follows. I look at each painting, and if I like it, I add a big, red check mark in MS paint. I then train a CNN to take an image of a painting as input and predict whether I liked it. 
+One of the things that the CNN is going to latch onto is that the presence of a big, red check mark is positively correlated with Adam liking the painting. Is this uncovering causal structure? I don’t think so. What if you’re interested in the question, “if I add a check mark to [points to painting on the wall that is not in the training data], then will that cause Adam to like it?” You might try to answer this by adding a big, red check mark to the painting and feeding that to the CNN. The CNN is going to predict that I’ll like the painting. But that’s getting the causal structure backwards. I added the check mark because I liked the painting. I didn’t like the painting because of the check.
+This case is basically the same thing as the Waffle House case I mentioned above, but with CNNs.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Adam
+
+
+
+3 years ago
+
+
+
+“Is this uncovering causal structure? I don’t think so.” 
+I understand the difference between correlation and causation but, again, the program doesn’t seem to be able to account for what you’re talking about. As they say on their website, people mean a lot of different things by causal, and they go on to give the ice cream example I mentioned. 
+I’m going to look at the book Wes recommended to see if it makes better sense to me.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+Sorry to beat a dead horse!  I just noticed that the Tetrad folks have videos on Youtube of a short course on their software (plus background on graphical causal models).  You may find it interesting.  Here’s a clip from the first video in which Spirtes talks a little bit about causal models vs. ML/statistical models here: https://youtu.be/9yEYZURoE3Y?t=1750
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+Scheines, not Spirtes.  Apologies!
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 years ago
+
+
+
+So, I decided to run some experiments with Tetrad.
+I made a data set including every US state except about 5 that didn’t have complete data available. It included number of waffle houses, divorce rate, average annual temperature, rank by percentage of high school graduates, and the number of times I’ve visited the state. 
+I fed the dataset with several different parameters that struck me as reasonable and it didn’t make a difference to the causal graph that was output, which indicated the following:
+– Where A and B are Waffle Houses and temp, exactly one of the following holds: (a) A is a cause of B, or (b) B is a cause of A, or (c) there is an unmeasured variable that is a cause of A and B, or (d) both a and c, or (e) both b and c.
+– Where A and B are temp and HS rank, exactly one of the following holds: (a) A is a cause of B, or (b) B is a cause of A, or (c) there is an unmeasured variable that is a cause of A and B, or (d) both a and c, or (e) both b and c.
+– Where A and B are HS rank and visits, either A is a cause of B, or there is an unmeasured variable that is a cause of A and B, or both.
+– Where A and B are divorce rate and visits, either A is a cause of B, or there is an unmeasured variable that is a cause of A and B, or both.
+The last two seemed right to me in that I could easily think of some unmeasured variables that could explain the relationship. The first two seemed strange. I’ll probably continue playing with this as it is really useful and visualizes the relationships better than other options. My main problem is that people seem to think this is discovering causal structures beyond high correlation when the strongest relation that Tetrad actually claims acknowledges that ” there may be an unmeasured confounder of A and B.”
+Adam, I just noticed that earlier today too! Thanks, though. I’m definitely going to check it out.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+David Duffy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+I might point to an old paper of ours which was a practical test of related methods that infer causation –
+https://genepi.qimr.edu.au/contents/publications/staff/CV143.pdf
+The point of that paper is that one can make correct inferences if the relative strengths of association between the different variables are favourable (and measurement error is known!), otherwise one cannot exclude a more distant unobserved cause. In the genetic models we were testing, the direction of some of the arrows is fixed by previous knowledge (eg genotype causes phenotype), and it is the propagation of that information through the model that allows inference about other variables. Mendelian Randomization is another nonexperimental method (an instrumental variables approach) that leverages genetic information to make causative inferences about pairs of phenotypes that is currently extremely popular among epidemiologists.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+David Duffy
+
+
+
+3 years ago
+
+
+
+Thanks, that’s really interesting. I’ve been doing tests with weird data sets like I mentioned above but I’ve had thoughts about how it could be used to make training game AI more efficient using previous knowledge. Do you know if the algorithms are meant to work well if arrays are given as the value of a variable?
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+David Duffy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+“arrays are given as the value of a variable?”. No, you’ll have to split those into multiple relevant variables – maybe higher dimensional summaries like principal components (remembering this is what the NN layers do “for free”). All this assume the variables are unitary in nature (like unobserved component parts don’t have grotesquely different relations with your putative causes), and causative relations are linear (or polynomial etc)
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+David B Kinney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Alex
+
+
+
+3 years ago
+
+
+
+I’d like to hear more about why the first two outputs seem strange? 
+Waffle house is a chain headquartered in Georgia that has more locations in the South, so it seems to me that there’s a fairly straightforward common factor that could explain the relationship between number of Waffle Houses and temperature; namely, being in the Southern part of the country. 
+Rates of HS graduates and temps are a little trickier, but there too a common cause story isn’t that crazy; we know that some southeastern states in the US are poorer than the country as a whole, and its not too big a leap to think that this affects HS graduation rates in some way. 
+If the correlation goes the other way in either case, such that high temps are associated with fewer waffle houses, or high temps are correlated with high graduation rates, then I’d be a bit stumped.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seymour Borgman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 years ago
+
+
+
+Glymour about 10 years ago wrote a manifesto that advocated de-funding the 99 percent of academic philosophy that could not be sensibly housed in a computer science department. Funny to see him and group of philosophers-turned-statisticians honored here.
+
+
+
+
+
+
+0
+
+
+
+Reply
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+","[{'@type': 'BlogPosting', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#blogposting', 'name': 'Philosophers Win Artificial Intelligence Award - Daily Nous', 'headline': 'Philosophers Win Artificial Intelligence Award', 'author': {'@id': 'https://dailynous.com/author/justindn/#author'}, 'publisher': {'@id': 'https://dailynous.com/#organization'}, 'image': {'@type': 'ImageObject', 'url': 'http://dailynous.com/wp-content/uploads/2020/08/cmu-philosophers-ai-award-1024x766.png', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#articleImage'}, 'datePublished': '2020-08-19T09:29:23-04:00', 'dateModified': '2020-08-19T09:33:25-04:00', 'inLanguage': 'en-US', 'commentCount': 27, 'mainEntityOfPage': {'@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#webpage'}, 'isPartOf': {'@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#webpage'}, 'articleSection': 'Awards Grants Honors, artificial intelligence, awards, data, philosophy, science'}, {'@type': 'BreadcrumbList', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#breadcrumblist', 'itemListElement': [{'@type': 'ListItem', '@id': 'https://dailynous.com/#listItem', 'position': 1, 'name': 'Home', 'item': 'https://dailynous.com/', 'nextItem': 'https://dailynous.com/2020/#listItem'}, {'@type': 'ListItem', '@id': 'https://dailynous.com/2020/#listItem', 'position': 2, 'name': '2020', 'item': 'https://dailynous.com/2020/', 'nextItem': 'https://dailynous.com/2020/08/#listItem', 'previousItem': 'https://dailynous.com/#listItem'}, {'@type': 'ListItem', '@id': 'https://dailynous.com/2020/08/#listItem', 'position': 3, 'name': 'August', 'item': 'https://dailynous.com/2020/08/', 'nextItem': 'https://dailynous.com/2020/08/19/#listItem', 'previousItem': 'https://dailynous.com/2020/#listItem'}, {'@type': 'ListItem', '@id': 'https://dailynous.com/2020/08/19/#listItem', 'position': 4, 'name': '19', 'item': 'https://dailynous.com/2020/08/19/', 'nextItem': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#listItem', 'previousItem': 'https://dailynous.com/2020/08/#listItem'}, {'@type': 'ListItem', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#listItem', 'position': 5, 'name': 'Philosophers Win Artificial Intelligence Award', 'previousItem': 'https://dailynous.com/2020/08/19/#listItem'}]}, {'@type': 'Organization', '@id': 'https://dailynous.com/#organization', 'name': 'Daily Nous', 'url': 'https://dailynous.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://dailynous.com/wp-content/uploads/2018/05/daily-nous-logo-hex-color-1j-sm.jpg', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#organizationLogo', 'width': 700, 'height': 631}, 'image': {'@id': 'https://dailynous.com/#organizationLogo'}}, {'@type': 'Person', '@id': 'https://dailynous.com/author/justindn/#author', 'url': 'https://dailynous.com/author/justindn/', 'name': 'Justin Weinberg', 'image': {'@type': 'ImageObject', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#authorImage', 'url': 'https://secure.gravatar.com/avatar/f39adaeaa1c47765eb0bc41b4bfbaf86?s=96&d=identicon&r=pg', 'width': 96, 'height': 96, 'caption': 'Justin Weinberg'}}, {'@type': 'WebPage', '@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#webpage', 'url': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/', 'name': 'Philosophers Win Artificial Intelligence Award - Daily Nous', 'description': 'The Tetrad Automated Causal Discovery Platform, a software and text project developed by Peter Spirtes, Clark Glymour, Richard Scheines and Joe Ramsey of Carnegie Mellon University\'s Department of Philosophy, earned the ""Leader"" Award at the 2020 World Artificial Intelligence Conference this past July. The Leader Award is one of four awards presented at the conference that aim to recognize ""the best in terms of impact', 'inLanguage': 'en-US', 'isPartOf': {'@id': 'https://dailynous.com/#website'}, 'breadcrumb': {'@id': 'https://dailynous.com/2020/08/19/philosophers-win-artificial-intelligence-award/#breadcrumblist'}, 'author': {'@id': 'https://dailynous.com/author/justindn/#author'}, 'creator': {'@id': 'https://dailynous.com/author/justindn/#author'}, 'datePublished': '2020-08-19T09:29:23-04:00', 'dateModified': '2020-08-19T09:33:25-04:00'}, {'@type': 'WebSite', '@id': 'https://dailynous.com/#website', 'url': 'https://dailynous.com/', 'name': 'Daily Nous', 'description': 'news for & about the philosophy profession', 'inLanguage': 'en-US', 'publisher': {'@id': 'https://dailynous.com/#organization'}}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vaGFpLnN0YW5mb3JkLmVkdS9uZXdzL3doeS1yb2JvdHMtYW5kLWFpLW1heS1ub3QtaGVyYWxkLWpvYi1hcG9jYWx5cHNl0gEA?oc=5,Why Robots and AI May Not Herald a Job Apocalypse - Stanford HAI,2020-08-19,Stanford HAI,https://hai.stanford.edu,Data from three robot-adopting industries shows that human jobs change but don’t disappear.,N/A,Data from three robot-adopting industries shows that human jobs change but don’t disappear.,Data from three robot-adopting industries shows that human jobs change but don’t disappear.,,,,N/A,N/A,"
+
+
+ 
+
+
+
+
+
+            Our Misplaced Fear of Job-Stealing Robots
+          
+
+
+by
+Bill Snyder
+
+
+          March 6th, 2019
+        
+
+
+                          At a Future of Work forum, experts say demographic shifts, not artificial intelligence, create the biggest challenges...
+                      
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2FpLWluLXRoZS1taWRkbGUtZWFzdC1oZXJlcy13aGF0LXlvdS1uZWVkLXRvLWtub3cv0gEA?oc=5,AI in the Middle East: Here's what you need to know - ZDNet,2020-08-20,ZDNet,https://www.zdnet.com,A new report tells us which criminal applications of AI we should really worry about.,N/A,Investment is enabling the Middle East and Africa region to explore the potential that artificial intelligence may deliver.,Investment is enabling the Middle East and Africa region to explore the potential that artificial intelligence may deliver.,,https://schema.org,VideoObject,N/A,N/A,N/A,,Artificial intelligence: These criminal applications of AI are a big threat,https://www.zdnet.com/a/img/resize/66d0d2535ec0d4c7efeef927e76a2456e85d3e9b/2020/08/11/9ce4b925-7033-4a63-aa84-22894e173fe1/artificial-intelligence-these-criminal-a-5f2bce12717231042a0ac533-1-aug-11-2020-11-05-55-poster.jpg?auto=webp&fit=crop&height=675&width=1200,2020-08-11T12:07:42.000Z,PT0H1M9S,https://mt-rv-v5.zdnet.com/vr/2020/08/11/1774453315582/wochit-5f2bce12717231042a0ac533-artificial_intelligence_these_criminal_applications_of_ai_are_a_big_threat_450179_742.mp4,https://www.zdnet.com/video/share/artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vZW4taW4vdGVjaG5vbG9neS9ob3ctdG8tbGV2ZXJhZ2Utb24tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8tdHJhbnNmb3JtLXRoZS8zNTQ5NzPSAQA?oc=5,How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business - Entrepreneur,2020-08-19,Entrepreneur,https://www.entrepreneur.com,"This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role","Artificial Intelligence, ways Artificial Intelligence can grow your business, AI and Business, Artificial Intelligence trends, Artificial Intelligence future, Artificial Intelligence tools for business","This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role","This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",,https://schema.org,BreadcrumbList,How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business | Entrepreneur,N/A,"
+
+
+  How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business
+  
+    This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role
+  
+
+
+
+
+
+                  By          
+            Julian Jewel Jeyaraj
+          
+
+            Aug 19, 2020
+          
+
+
+
+
+          Share        
+
+
+Copy
+
+
+ 
+
+
+
+
+
+    Opinions expressed by Entrepreneur contributors are their own.  
+
+    You're reading Entrepreneur India, an international franchise of Entrepreneur Media.
+  
+
+
+
+
+
+
+
+
+Pixabay
+
+
+Turning an organization into one powered by Artificial Intelligence (AI) requires everyone's participation and contribution. Even though transformation takes time, multiple tactics can begin democratizing AI right away. It has often been said that crises reveal real character, both in individuals and in organizations. Crises force organizations to rethink how they work and are often the source of lasting change and growth. The Covid-19 pandemic is a humanitarian crisis more enormous than any recently experienced. This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role.Entrepreneurs must fundamentally change their culture to one that embraces data, experimentation, and agile principles.1. Entrepreneurs can easily migrate to the digital environment.Digital and exponential transformation change the way companies and entrepreneurs run, optimizing processes, and evolve business models by incorporating exponential technologies such as artificial intelligence, IoT, Blockchain, advanced analytics, machine learning, etc. It is an urgent need for all organizations in all sectors.
+
+
+
+Migrating to the digital environment is a first step that goes beyond digitizing or automating some tasks. It is about making that digital environment permeate and evolve all actions within organizations; it also seeks to have an impact on the way of working and on obtaining greater efficiencies and productivity in the strategies that are undertaken to grow businesses or improve customer experiences. Likewise, its objective is to determine how regulations are complied with so that a company can improve its risk management or fraud prevention.In all these processes, analytics allows you to convert data into intelligence to make better business decisions and become relevant. This is how SAS has helped the world's leading business organizations grow and transform by optimizing their operations and increasing their productivity.Additionally, artificial intelligence technology is no longer reserved for Fortune 500 tech companies as the number of small businesses and entrepreneurs entering the AI market is rapidly increasing. Here are the ways entrepreneurs can leverage artificial intelligence to transform the way they do business2. AI can help build better marketing strategies for entrepreneurs
+
+
+Machine learning algorithms know us better than we know ourselves.  The ability to analyze data to increase sales is one of the most lucrative applications of artificial intelligence. AI algorithms can sift through large volumes of user data for patterns and trends, which could open the doors to more effective marketing and inform your content strategy. For instance, a recent report on Harvard shows that screening chats for words and phrases correlated to successful sales can improve success rates by 54%.3. Using Artificial Intelligence to get to know customersEntrepreneurs and their marketing professionals must be up to date with news in social networks and how Artificial Intelligence changes their working ways. For example, something that cannot be missing in the marketing and sales departments: study the users' search habits and discover the demographics to develop the strategies with your ads.Also, rather than guessing your target audience and customers' behaviors, AI uses data to conclude the various ways your business can serve them better. AI can also be used for data drive optimizations, improving the conversion rate on your website, analyze your customers' buying patterns, and generally excellent user experience.
+
+
+4. AI as a competitive tool on social mediaIn business, knowing what a competitor is doing is as important as making your business plans. AI has helped online marketers track their competitors' activities, learn what they have done on their social media profiles to use that information, and reevaluate their business plan. For example, review the visual content, what is consumed the most, what types of interactions users have with it, and what kind of platform(s) work best.5. Artificial Intelligence in social networks to improve the user experienceEntrepreneurs can leverage on Artificial Intelligence on social media to get to their target audience. The number of social media users is approaching 2.8 billion, a large enough to immerse themselves in the world of Social Media. As more users join the platforms, the more work is needed, and the more elaborate the strategies will have to be.
+
+
+6. To build task-centric applicationsAI algorithms can substitute human workers for various tasks, freeing up time, money, and resources. Although doomsayers may see it as the beginning of the robotic takeover and the inevitable loss of jobs, most entrepreneurs' trend is a more realistic view.AI is the perfect match for a human worker. Technology streamlines administrative tasks, allowing humans to focus on more exciting and creative jobs in more essential areas. As an entrepreneur, you can take a cue to outsource a part of your work to AI, thus reducing the number of employees you bring on board, and the amount of work to be done.Moreover, as an entrepreneur, the onus falls on you to make stringent decisions daily, and which is where AI comes in; it can be set up and harnessed to advise you against making hasty and wrong decisions daily. This can be achieved when AI goes through your work data with an insight to make critical business decisions, whatever it is.
+
+
+7. Business process efficiencyImproving day-to-day operations can help your business grow faster, and machine learning algorithms are ready to do the heavy lifting. The IA can analyze systems like supply chains and workflows to identify areas for improvement.  With optimized workflow, resources are used more efficiently, and costs associated with lost time, maintenance, and redundancy are minimized. The manufacturing sector can benefit considerably from the integration of AI.Before investing in AI applications, make sure you have all the tools you need to make it work. Calculate the Internet speed you will need, decide which specialists you might have to hire and plan for additional costs you might incur.As an entrepreneur, keep in mind that you don't need to hire a data scientist to integrate AI into your business. There are tons of companies that design AI tools for entrepreneurs and small businesses.  For example, an AI-powered application like Grammarly can help you write consistently and with high quality across your brand, while tools like Legal Robot help you create transparent and compliant legal documents and contracts.
+
+",,,,,,,,https://www.entrepreneur.com,https://assets.entrepreneur.com/static/20190308065725-ENT-India-Logo-Black.svg,"[{'@type': 'ListItem', 'position': 0, 'name': 'Artificial Intelligence', 'item': 'https://www.entrepreneur.com/topic/artificial-intelligence'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnNjdS5lZHUvZXRoaWNzL2FsbC1hYm91dC1ldGhpY3MvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYW5kLWV0aGljcy1zaXh0ZWVuLWNoYWxsZW5nZXMtYW5kLW9wcG9ydHVuaXRpZXMv0gEA?oc=5,Artificial Intelligence and Ethics: Sixteen Challenges and Opportunities - Markkula Center for Applied Ethics - Santa Clara University,2020-08-18,Santa Clara University,https://www.scu.edu,"Artificial intelligence offers great opportunity, but it also brings potential
+hazards—this article presents 16 of them.",,"Artificial intelligence offers great opportunity, but it also brings potential hazards—this article presents 16 of them.","Artificial intelligence offers great opportunity, but it also brings potential hazards—this article presents 16 of them.",,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMjMxOTk0NS9kb2QtcGFydG5lcnMtd2l0aC1hZ2VuY2llcy10by11c2UtYWktZm9yLWRpc2FzdGVyLWh1bWFuaXRhcmlhbi1yZWxpZWYv0gEA?oc=5,"DOD Partners With Agencies to Use AI for Disaster, Humanitarian Relief - Department of Defense",2020-08-20,Department of Defense,https://www.defense.gov,N/A,N/A,The Defense Department is partnering with other agencies to develop deep-learning artificial intelligence algorithms to provide near-real-time data to improve the decision-making of first responders,The Defense Department is partnering with other agencies to develop deep-learning artificial intelligence algorithms to provide near-real-time data to improve the decision-making of first responders,,http://schema.org,Organization,N/A,N/A,"
+        You have accessed part of a historical collection on defense.gov. Some of the information contained within may be outdated and links may not function. Please contact the DOD Webmaster with any questions.
+    ",,U.S. Department of Defense,,,,,,https://www.defense.gov/,https://www.defense.gov/Portals/1/Images/DOD-Icon-Header.png?ver=5sAfFl2--9znca0j3SrX_g%3d%3d,,[],,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnByaW5jZXRvbi5lZHUvbmV3cy8yMDIwLzA4LzE3L3J1c3Nha292c2t5LXJlY29nbml6ZWQtZmlnaHRpbmctYmlhcy1hbmQtYWR2YW5jaW5nLWRpdmVyc2l0eS1haS1yZXNlYXJjaNIBAA?oc=5,Russakovsky recognized for fighting bias and advancing diversity in AI research - Princeton University,2020-08-17,Princeton University,https://www.princeton.edu,"Olga Russakovsky, an assistant professor of computer science, has been recognized with two early-career awards from organizations that promote diversity in technical fields. The awards honor her contributions in research, education and outreach.    ",N/A,"Olga Russakovsky, an assistant professor of computer science, has been recognized with two early-career awards from organizations that promote diversity in technical fields. The awards honor her contributions in research, education and outreach.    ","Olga Russakovsky, an assistant professor of computer science, has been recognized with two early-career awards from organizations that promote diversity in technical fields. The awards honor her contributions in research, education and outreach.    ",,,,N/A,N/A,"
+
+
+
+
+
+
+Russakovsky recognized for fighting bias and advancing diversity in AI research
+
+
+
+
+
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Email
+Print
+
+
+By  the Office of Engineering Communications  on 
+            Aug. 17, 2020, 8:53 a.m.
+       
+
+Olga RussakovskyPhoto byPhil McAuliffe
+
+
+
+Olga Russakovsky, an assistant professor of computer science, has been recognized with two early-career awards from organizations that promote diversity in technical fields. The awards honor her contributions in research, education and outreach.
+Russakovsky(link is external) was selected by the nonprofit organization AnitaB.org for its 2020 Emerging Leader Abie Award in Honor of Denice Denton(link is external), recognizing her work to fight bias in artificial intelligence through research and mentorship. The Computing Research Association’s Committee on Widening Participation in Computing Research (CRA-WP) honored Russakovsky with this year’s Anita Borg Early Career Award(link is external), given to a woman in computer science or engineering for significant research contributions and service to their profession, especially outreach to women.
+Russakovsky leads the Princeton Visual AI Lab(link is external), which seeks to improve artificial intelligence (AI) systems’ ability to understand the visual world, both through improved image and video analysis and better object recognition and visual understanding. To that end, her team applies machine learning techniques to large data sets to allow systems to understand the context of a scene as well as identify the objects in the scene. They are also developing tools to track and mitigate biases(link is external) in computer vision data sets such as ImageNet, a groundbreaking database of more than 14 million images created by researchers at Princeton and Stanford.
+With the goal of making AI technology more inclusive and beneficial to society, Russakovsky helped establish the national AI4ALL nonprofit(link is external) in 2017. Russakovsky co-directs Princeton’s AI4All summer program(link is external), which brings together high school students from underrepresented groups to learn the basics of the field through intensive training, group projects and guest lectures.
+Russakovsky is being recognized “for using AI as a tool for social good, both through her individual research addressing algorithmic bias in AI, and the co-founding of AI4ALL to help develop and support a diverse future generation of AI technologists,” Brenda Darden Wilkerson, president and CEO of AnitaB.org, said in a statement.
+She is among five Abie Award recipients selected this year by AnitaB.org for roles in supporting women in tech. The winners will speak at a virtual Grace Hopper Celebration, an annual event focused on the research and career interests of women in computing, to be held from Sept. 26 to Oct. 3.
+Russakovsky earned her doctorate in computer science from Stanford University and was a postdoctoral researcher at Carnegie Mellon University before joining the Princeton faculty in 2017.
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnNjaWVuY2Uub3JnLmF1L2N1cmlvdXMvdGVjaG5vbG9neS1mdXR1cmUvYWktYW5kLXJvYm90aWNzLXJldm9sdXRpb27SAQA?oc=5,AI and the robotics revolution - Curious - Australian Academy of Science,2020-08-17,Australian Academy of Science,https://www.science.org.au,The future is now—but is it fair?,N/A,The future is now—but is it fair?,The future is now—but is it fair?,,,,N/A,N/A,"
+
+ ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmRpY2FyZGlvbG9neS5jb20vYXJ0aWNsZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hcHBsaWNhdGlvbnMtY2FyZGlvbG9nedIBAA?oc=5,Artificial Intelligence Applications in Cardiology | DAIC - Diagnostic and Interventional Cardiology,2020-08-18,Diagnostic and Interventional Cardiology,https://www.dicardiology.com,ACC working with vendors to develop AI and solutions in development hold much promise,N/A,"The No. 1 overarching hot topic at all the medical conferences over the past couple years has been artificial intelligence (AI). What was once science fiction or far-fetched research projects are now starting to gain U.S. Food and Drug Administration (FDA) market clearance. Some AI elements are already being used without clinicians knowing it, being integrated into the backend of cardiology imaging systems and IT reporting systems to help speed workflow.  However, beyond the hype of AI, there are practical concerns, including the need for validation, clinical evidence showing AI helps patient care, and the payment system based on how medicine did things 20-30 years ago needs to change. ACC gets Involved in AI Development for Cardiology “We have a huge gap between all this AI investment and how we actually take care of patients. We need to integrate it into our care, because if it is not part of how we take care of patients, this isn’t going to work,” explained John Rumsfeld, M.D., Ph.D., FACC, American College Cardiology (ACC) chief innovation officer, and professor of medicine at the University of Colorado School of Medicine. “The clinical evidence needs to be there, and right now there is way more hype for artificial intelligence. We need to build that evidence and we also need alignment with our payment models.” Rumsfeld said there is a need to reverse engineer the current cardiac care system used by most hospitals if AI is going to play a big role. The reimbursement system also needs to change in order for the investment in AI to be justified. For these reasons, the Rumsfeld is involved with an ACC project called the “Roadmap for Innovation,” which is trying to coordinate cardiology AI efforts by working with AI vendors directly. He said there is a tremendous amount of investment in AI for healthcare, but to date there has been very little of this translating into changes in the way cardiology care is delivered.  Rumsfeld also discussed the current ACC efforts to advance evidence-based implementation of AI in cardiac care, including applications for ACC National Cardiovascular Data Registry (NCDR). The ACC has partnered with numerous AI companies to co-develop technologies useful for cardiology. He said this includes integrating AI-enabled smartphone apps and patient monitoring devices like Apple Watches directly with electronic medical record (EMR), a remote monitoring platform for heart failure patient management, and use of natural language processing to get more meaningful data out of the EMR than can be found in structured data. This last point is aimed at using AI to reduce the staff burden now involved in data collection for registries and trials.  “What I am hoping is that we can get from where we are today to actually lead the digital transformation in healthcare,” Rumsfeld explained.  Another area where ACC offers an advantage to AI developers is its access to large amounts of data from its NCDR. For example, ACC is partnering with Yale University to use AI developed there and NCDR data to find where AI can make a difference in terms of outcomes.  “The best technology is what they call ‘quiet technology,’ you don’t even know it’s there and it makes you more efficient and does a task. In the non-healthcare world we don’t even realize when AI is being used,” Rumsfeld explained. This includes use of AI to automatically create local weather forecasts based on your cell phone location, traffic congestion maps based on real-time AI analysis of big data, instant driving directions to any location with alternate routes and estimate travel times, or even intelligent algorithms that power internet search engines. “As cardiologists we are comfortable with advances in technology, but we need it to be efficient, useful and make our lives better and not worse like many would argue the EMR has done, and it really should be in the background. But if it is going to run in the background, we need to know it has been clinically validated and that we have shown it is safe, effective and actually does what you need it to do,” Rumsfeld said. Hear more from Rumsfeld on this topic in the VIDEO: ACC Efforts to Advance Evidence-based Implementation of AI in Cardiovascular Care. Deep Learning AI Will help Address Personalized Medicine for Complex Patients Under the umbrella of AI is machine learning, which uses complex analytical software to problem solve, explained Anthony Chang, M.D., chief artificial intelligence officer, Children’s Hospital of Orange County (CHOC), and founder of AIMed, an organization that is attempting to facilitate discussion, connections and collaboration between the various companies and hospitals developing AI. He said machine learning will eventually plateau with its abilities to solve more complex problems, which is where the newest iteration of AI, deep learning comes in.  This technology uses convolutional neuro networks to learn from mistakes and experience gained as it performs tasks, operating very similar to the human brain. When it comes to AI in the future helping manage complex patients, this is the technology that can do it. “Deep learning is harder to do and it requires a lot more data, but I think the dividends for particularly complex situations are going to be much bigger than anything we have seen before,” Change said.  For example, a complex heart failure patient might have several other chronic comorbities, take numerous drugs from different doctors that might have interactions, and they may have a long list of tests and past procedures. Chang said deep learning systems will be able to sort through all the patient’s data, prior and current lab test results, radiology reports, ECGs, and procedure reports and very quickly offer suggestions for how to best manage the patient based on current guidelines or recent large clinical study data. He said a big advantage of deep learning is that you can give the computer a lot of data where you know the outcome and then you let the computer sift through it. The AI then determines how to create a new algorithm needed to improve risk stratification. “This is a paradigm, because we do not set the rules, we let the computers figure it out, and then we take that algorithm developed by the computer and apply it to new patients and see if it makes sense,” Chang explained. “We should not let the algorithms be the only solution, there should be cognition as well, where there can be collaboration between humans and the machine to get the best outcome.” Many AI apps have been developed to aid identification of various radiological findings in medical images. However, the development of these automated detection algorithms are similar to training a computer to identify a cat or dog using thousands of photos. In cardiology, patient issues usually are much more complex than what is seen alone in the imaging.  “Cardiology is one of the best fields to use AI, because it has this set of problems, like complex patients, the need for decision support, wearable technology and the AI needed for that. Cardiology certainly has the portfolio of problems with the solutions that can be engendered by artificial intelligence,” Chang said.    AI Already in Use in Cardiology AI is already helping augment cardiologists and medical imaging. Examples of AI commercially available today include automated ejection fraction (EF) calculations for point-of-care ultrasound systems (POCUS), like on the GE Healthcare Vscan.  Premium cardiac ultrasound systems like the Philips Epiq and the Siemens SC2000 use AI to automatically identify the anatomy, segment, label it, identify the optimal echo views and perform automatic measurements before the physician begins to read the case.  The GE Healthcare Vscan app LVivo EF offers AI-automated ejection fraction calculations. The vendor said this has been helpful in assessing COVID-19 patients at the bedside without the need to use full-sized echocardiography systems that need to be sterilized following an exam. A couple CT software vendors now offer AI-automated calcium scoring software for cardiac CT scans, creating the report quantification information in seconds and color coding the calcium by vessel segment on the dataset slices. In the past year, GE healthcare and Canon gained FDA approval for AI-based CT iterative reconstruction algorithms to enable high diagnostic quality images from very low-dose CT scans. Siemens uses AI to isocenter patients on the scanning bed to aid in optimizing CT images. Comparison of a stabndard CT scan interative reconstruction method (left image) and artificial intelligence assisted CT image reconstruction for lower-dose CT scans using the Canon Aquilion Precision CT AiCE software. Arterys AI-based cardiac MRI analysis software automates the quantification required to speed exam post-processing. AI is also being applied to speedup exam times and enable multiple protocol images to be created from a single scan, greatly reducing the time patients need to spend inside the MRI machine, allowing more patients to be scanned per day.  Another example is an AI app developed at St. Luke's Mid America Heart Institute to automatically risk stratify atrial fibrillation (AFib) patients. The Epic-based app stratifies patients into those who should be placed on anticoagulation, those who do not need anticoagulation, and those who are candidates for left atrial appendage (LAA) occlusion, explained Sanjaya Gupta, M.D., electrophysiologist, St. Luke's Mid America Heart Institute, and assistant professor, University of Missouri – Kansas City School of Medicine. He said this has greatly enhanced the patient selection process for LAA occlusion procedures. “Most importantly, this helps us identify those patients that we did not realize had a problem, that’s what is really key. This also helps us identify as risk patients between their regular clinic visits and allow us to call and intervene. That is really where the next level of this is going and will make a big impact on patient care quality,” Gupta said.  Watch an interview with Gupta in the VIDEO: Artificial Intelligence to Automatically Risk Stratify Atrial Fibrillation Patients. AI algorithms are being used to automatically detect arrythmias and send alerts to patients using wearables or smartphone-based apps that record ECG. Examples of this technology are the Apple Watch and the Kardia Alivecor device. AI will likely see its biggest steps forward in cardiology for point-of-care (POC) triage apps and wearables cardiac monitoring technologies. This will speed the process of getting at-risk patients examined by a human cardiology specialist and aid in earlier detection of cardiovascular diseases.    Related Artificial Intelligence in Cardiology Content: Applications for Artificial Intelligence in Cardiovascular Imaging VIDEO: Artificial Intelligence Applications for Cardiology — Interview with Anthony Chang, M.D. Canon Medical Introduces Deep Learning-Based CT Image Reconstruction VIDEO: ACC Efforts to Advance Evidence-based Implementation of AI in Cardiovascular Care — Interview with John Rumsfeld, M.D. VIDEO: Example of Artificial Intelligence Integrated Into Cardiac Ultrasound VIDEO: Use of Artificial Intelligence To Speed Cardiac Clinical Research — James Januzzi, M.D., How Machine Learning Empowers Echo Users Today VIDEO: How Hospitals Should Prepare for Artificial Intelligence Implementation — Interview with Paul Chang, M.D. How Artificial Intelligence Will Change Medical Imaging PODCAST: Fitting Artificial Intelligence Into Cardiology — Interview with Anthony Chang, M.D. How Will Artificial Intelligence Impact Healthcare? VIDEO: Artificial Intelligence for Echocardiography at Mass General — Interview with Judy Hung, M.D. VIDEO: Example of Artificial Intelligence Integrated Into Cardiac Ultrasound. VIDEO: Overview of Artificial Intelligence and its Use in Cardiology — Interview with Anthony Chang, M.D. Combatting the No. 1 Cause of Death With the Help of Artificial Intelligence and Advanced Technology VIDEO: Use of Technology to Address Underserved Populations — Interview with Partho Sengupta, M.D. Three High Impact AI Market Trends in Medical Imaging at RSNA 2019 Technology Report: Artificial Intelligence ",N/A,,,,N/A,N/A,"
+
+ 
+In February 2020, the U.S. Food and Drug Administration (FDA) cleared artificial intelligence software to assist in the acquisition of cardiac ultrasound images. The Caption Guidance software from Caption Health is an accessory to compatible diagnostic ultrasound systems and uses artificial intelligence to help the user capture images of a patient’s heart that are of acceptable diagnostic quality. It is aimed at point of care ultrasound (POCUS) exams, where users may not be regular sonographers.
+
+
+
+
+The No. 1 overarching hot topic at all the medical conferences over the past couple years has been artificial intelligence (AI). What was once science fiction or far-fetched research projects are now starting to gain U.S. Food and Drug Administration (FDA) market clearance. Some AI elements are already being used without clinicians knowing it, being integrated into the backend of cardiology imaging systems and IT reporting systems to help speed workflow. 
+However, beyond the hype of AI, there are practical concerns, including the need for validation, clinical evidence showing AI helps patient care, and the payment system based on how medicine did things 20-30 years ago needs to change.
+
+ACC gets Involved in AI Development for Cardiology
+“We have a huge gap between all this AI investment and how we actually take care of patients. We need to integrate it into our care, because if it is not part of how we take care of patients, this isn’t going to work,” explained John Rumsfeld, M.D., Ph.D., FACC, American College Cardiology (ACC) chief innovation officer, and professor of medicine at the University of Colorado School of Medicine. “The clinical evidence needs to be there, and right now there is way more hype for artificial intelligence. We need to build that evidence and we also need alignment with our payment models.”
+Rumsfeld said there is a need to reverse engineer the current cardiac care system used by most hospitals if AI is going to play a big role. The reimbursement system also needs to change in order for the investment in AI to be justified. For these reasons, the Rumsfeld is involved with an ACC project called the “Roadmap for Innovation,” which is trying to coordinate cardiology AI efforts by working with AI vendors directly. He said there is a tremendous amount of investment in AI for healthcare, but to date there has been very little of this translating into changes in the way cardiology care is delivered. 
+Rumsfeld also discussed the current ACC efforts to advance evidence-based implementation of AI in cardiac care, including applications for ACC National Cardiovascular Data Registry (NCDR).
+The ACC has partnered with numerous AI companies to co-develop technologies useful for cardiology. He said this includes integrating AI-enabled smartphone apps and patient monitoring devices like Apple Watches directly with electronic medical record (EMR), a remote monitoring platform for heart failure patient management, and use of natural language processing to get more meaningful data out of the EMR than can be found in structured data. This last point is aimed at using AI to reduce the staff burden now involved in data collection for registries and trials. 
+“What I am hoping is that we can get from where we are today to actually lead the digital transformation in healthcare,” Rumsfeld explained. 
+Another area where ACC offers an advantage to AI developers is its access to large amounts of data from its NCDR. For example, ACC is partnering with Yale University to use AI developed there and NCDR data to find where AI can make a difference in terms of outcomes. 
+“The best technology is what they call ‘quiet technology,’ you don’t even know it’s there and it makes you more efficient and does a task. In the non-healthcare world we don’t even realize when AI is being used,” Rumsfeld explained. This includes use of AI to automatically create local weather forecasts based on your cell phone location, traffic congestion maps based on real-time AI analysis of big data, instant driving directions to any location with alternate routes and estimate travel times, or even intelligent algorithms that power internet search engines.
+“As cardiologists we are comfortable with advances in technology, but we need it to be efficient, useful and make our lives better and not worse like many would argue the EMR has done, and it really should be in the background. But if it is going to run in the background, we need to know it has been clinically validated and that we have shown it is safe, effective and actually does what you need it to do,” Rumsfeld said.
+Hear more from Rumsfeld on this topic in the VIDEO: ACC Efforts to Advance Evidence-based Implementation of AI in Cardiovascular Care.
+
+Deep Learning AI Will help Address Personalized Medicine for Complex Patients
+Under the umbrella of AI is machine learning, which uses complex analytical software to problem solve, explained Anthony Chang, M.D., chief artificial intelligence officer, Children’s Hospital of Orange County (CHOC), and founder of AIMed, an organization that is attempting to facilitate discussion, connections and collaboration between the various companies and hospitals developing AI. He said machine learning will eventually plateau with its abilities to solve more complex problems, which is where the newest iteration of AI, deep learning comes in. 
+This technology uses convolutional neuro networks to learn from mistakes and experience gained as it performs tasks, operating very similar to the human brain. When it comes to AI in the future helping manage complex patients, this is the technology that can do it.
+“Deep learning is harder to do and it requires a lot more data, but I think the dividends for particularly complex situations are going to be much bigger than anything we have seen before,” Change said. 
+For example, a complex heart failure patient might have several other chronic comorbities, take numerous drugs from different doctors that might have interactions, and they may have a long list of tests and past procedures. Chang said deep learning systems will be able to sort through all the patient’s data, prior and current lab test results, radiology reports, ECGs, and procedure reports and very quickly offer suggestions for how to best manage the patient based on current guidelines or recent large clinical study data.
+He said a big advantage of deep learning is that you can give the computer a lot of data where you know the outcome and then you let the computer sift through it. The AI then determines how to create a new algorithm needed to improve risk stratification.
+“This is a paradigm, because we do not set the rules, we let the computers figure it out, and then we take that algorithm developed by the computer and apply it to new patients and see if it makes sense,” Chang explained. “We should not let the algorithms be the only solution, there should be cognition as well, where there can be collaboration between humans and the machine to get the best outcome.”
+Many AI apps have been developed to aid identification of various radiological findings in medical images. However, the development of these automated detection algorithms are similar to training a computer to identify a cat or dog using thousands of photos. In cardiology, patient issues usually are much more complex than what is seen alone in the imaging. 
+“Cardiology is one of the best fields to use AI, because it has this set of problems, like complex patients, the need for decision support, wearable technology and the AI needed for that. Cardiology certainly has the portfolio of problems with the solutions that can be engendered by artificial intelligence,” Chang said. 
+ 
+AI Already in Use in Cardiology
+AI is already helping augment cardiologists and medical imaging. Examples of AI commercially available today include automated ejection fraction (EF) calculations for point-of-care ultrasound systems (POCUS), like on the GE Healthcare Vscan.  Premium cardiac ultrasound systems like the Philips Epiq and the Siemens SC2000 use AI to automatically identify the anatomy, segment, label it, identify the optimal echo views and perform automatic measurements before the physician begins to read the case. 
+
+The GE Healthcare Vscan app LVivo EF offers AI-automated ejection fraction calculations. The vendor said this has been helpful in assessing COVID-19 patients at the bedside without the need to use full-sized echocardiography systems that need to be sterilized following an exam.
+
+A couple CT software vendors now offer AI-automated calcium scoring software for cardiac CT scans, creating the report quantification information in seconds and color coding the calcium by vessel segment on the dataset slices. In the past year, GE healthcare and Canon gained FDA approval for AI-based CT iterative reconstruction algorithms to enable high diagnostic quality images from very low-dose CT scans. Siemens uses AI to isocenter patients on the scanning bed to aid in optimizing CT images.
+
+Comparison of a stabndard CT scan interative reconstruction method (left image) and artificial intelligence assisted CT image reconstruction for lower-dose CT scans using the Canon Aquilion Precision CT AiCE software.
+
+Arterys AI-based cardiac MRI analysis software automates the quantification required to speed exam post-processing. AI is also being applied to speedup exam times and enable multiple protocol images to be created from a single scan, greatly reducing the time patients need to spend inside the MRI machine, allowing more patients to be scanned per day. 
+Another example is an AI app developed at St. Luke's Mid America Heart Institute to automatically risk stratify atrial fibrillation (AFib) patients. The Epic-based app stratifies patients into those who should be placed on anticoagulation, those who do not need anticoagulation, and those who are candidates for left atrial appendage (LAA) occlusion, explained Sanjaya Gupta, M.D., electrophysiologist, St. Luke's Mid America Heart Institute, and assistant professor, University of Missouri – Kansas City School of Medicine. He said this has greatly enhanced the patient selection process for LAA occlusion procedures.
+“Most importantly, this helps us identify those patients that we did not realize had a problem, that’s what is really key. This also helps us identify as risk patients between their regular clinic visits and allow us to call and intervene. That is really where the next level of this is going and will make a big impact on patient care quality,” Gupta said. 
+Watch an interview with Gupta in the VIDEO: Artificial Intelligence to Automatically Risk Stratify Atrial Fibrillation Patients.
+AI algorithms are being used to automatically detect arrythmias and send alerts to patients using wearables or smartphone-based apps that record ECG. Examples of this technology are the Apple Watch and the Kardia Alivecor device. AI will likely see its biggest steps forward in cardiology for point-of-care (POC) triage apps and wearables cardiac monitoring technologies. This will speed the process of getting at-risk patients examined by a human cardiology specialist and aid in earlier detection of cardiovascular diseases. 
+ 
+Related Artificial Intelligence in Cardiology Content:
+Applications for Artificial Intelligence in Cardiovascular Imaging
+VIDEO: Artificial Intelligence Applications for Cardiology — Interview with Anthony Chang, M.D.
+Canon Medical Introduces Deep Learning-Based CT Image Reconstruction
+VIDEO: ACC Efforts to Advance Evidence-based Implementation of AI in Cardiovascular Care — Interview with John Rumsfeld, M.D.
+VIDEO: Example of Artificial Intelligence Integrated Into Cardiac Ultrasound
+VIDEO: Use of Artificial Intelligence To Speed Cardiac Clinical Research — James Januzzi, M.D.,
+How Machine Learning Empowers Echo Users Today
+VIDEO: How Hospitals Should Prepare for Artificial Intelligence Implementation — Interview with Paul Chang, M.D.
+How Artificial Intelligence Will Change Medical Imaging
+PODCAST: Fitting Artificial Intelligence Into Cardiology — Interview with Anthony Chang, M.D.
+How Will Artificial Intelligence Impact Healthcare?
+VIDEO: Artificial Intelligence for Echocardiography at Mass General — Interview with Judy Hung, M.D.
+VIDEO: Example of Artificial Intelligence Integrated Into Cardiac Ultrasound.
+VIDEO: Overview of Artificial Intelligence and its Use in Cardiology — Interview with Anthony Chang, M.D.
+Combatting the No. 1 Cause of Death With the Help of Artificial Intelligence and Advanced Technology
+VIDEO: Use of Technology to Address Underserved Populations — Interview with Partho Sengupta, M.D.
+Three High Impact AI Market Trends in Medical Imaging at RSNA 2019
+Technology Report: Artificial Intelligence 
+
+Log in or register to post commentsIf you enjoy this content, please share it with a colleagueEmailFacebookTwitterLinkedInShare
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vY3hvdG9kYXkuY29tL2Nvcm5lci1vZmZpY2Uvd2h5LXRhbGVudC1tYW5hZ2VtZW50LW5lZWRzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,Why Talent Management Needs Artificial Intelligence - CXOToday.com,2020-08-18,CXOToday.com,https://cxotoday.com,An AI-based Talent Intelligence Platform relies on supervised and unsupervised machine learning to find the potential of each candidate.,N/A,By Ashish Mediratta  Human Resource (HR) departments in most organizations go through a constant talent-management crisis. It usually leaves most of them wond,By Ashish Mediratta  Human Resource (HR) departments in most organizations go through a constant talent-management crisis. It usually leaves most of them wond,,https://schema.org,,N/A,N/A,"HomeCorner OfficeWhy Talent Management Needs Artificial Intelligence Aug. 18, 2020 at 8:30 amCorner OfficeExpert OpinionWhy Talent Management Needs Artificial IntelligenceCXOtoday News Desk4 years agoDecember 3, 2020By Ashish MedirattaHuman Resource (HR) departments in most organizations go through a constant talent-management crisis. It usually leaves most of them wondering where they are going wrong. Most HR recruiters will swear by their rulebooks of recruitment that they follow to the T. They churn through resumes and CVs, running the required numbers of interviews, tests, offering employee benefits. Signing bonuses and industry standard salary packages are all ticked off on their list. And yet, most of them are failing to attract the best available talent or keep their own best from moving out.Most HR Tools Work In SilosOrganizations can no longer afford to be satisfied with having just an applicant tracking system and human resource information system on board. They can’t expect those systems to solely be responsible for holistic HR management. ATS and HRMS are useful tools, but they do not really identify the right talent. They may aid in processing recruitment and management activities, but they are not designed to improve diversity and inclusion by removing data that triggers biases, or know what most and least motivates a high-performing applicant to move companies.This results simply because such systems are mostly designed to function independently, or in silos. A survey by Eightfold and Harris Interactive, the Talent Intelligence and Management Report how siloed ATS and HRIS systems are. Enterprises are finding their retention programs are ineffective; they don’t effectively keep individuals who want a new role and not a new company. Seventy-eight percent of CEOs and Chief Human Resource Officers say talent programs are important, but 56 percent say their current programs are ineffective. Fifty-seven percent of employees say diversity and inclusion initiatives aren’t working. Forty percent  say their companies lack qualified diverse talent.HR’s Complacency Can Be the Nail in The CoffinOnce they invest in an ATS or HRIS system, most organizations turn complacent. This is where the danger lies. A seasoned sales manager will agree that the sales process of a product or a service does not end with the client or customer making the complete payment; it continues with retaining the customer for future business, upselling, and getting references from them. Similarly, in HR, a recruitment journey does not end in closing the job requisition itself. It is about finding the right fit who will not only be an excellent performer, but one who will stick around and energize entire teams to excel. Having more of these advocates in the organization decides the fate of the business: whether it will survive and grow or stagnate. Yet, this does not stop talent from quitting within a short span of time for another opportunity that will enable them to grow and make the most of their potential. Replace Siloed Apps with AI Platforms To SucceedBusiness processes are changing faster than ever. Skill requirements change frequently, with the half-life of a skill now being just four years. Workers demand greater flexibility in their work arrangements, including shifting in and out of the full-time workforce, remote work, and contingent or contract work. Organizations hire for current skills matched to current needs, but these skills become obsolete quickly.Organizations accumulate a great volume of data in their talent hunt, but that data is mostly left ignored or are not used to its potential. Through Artificial Intelligence (AI and machine learning), great insights can be gained that will help in freeing up HR departments, hiring managers, and senior management to focus on improving candidates’ and employees’ experiences.An AI-based Talent Intelligence Platform relies on supervised and unsupervised machine learning to find the potential of each candidate. It helps companies to judge people by their capabilities, not on who they know, where they worked, or where they went to school. The AI has analyzed so many millions of data points, it knows what skills a candidate has that make them prime candidates for a job, even if they’re not in that actual job right now. AI helps companies through the whole employee lifecycle of sourcing, screening, retention, internal mobility, and succession planning. For example, regarding internal mobility, AI can help employees find internal jobs they may have never even considered, perhaps in a different department, based on their capabilities. Succession planning can identify replacements for people based on people’s capabilities, not more inequitable criteria. Screening with AI matches people based on capabilities, not based on a vague sense that someone is “passionate,” “enthusiastic,” a “go-getter,” and so on. ConclusionRecruitment and selection process is a complex one. Instead of scurrying through resumes and CVs in ATS and HRIS systems, machine learning and AI algorithms can find candidates with the right capabilities. AI Talent Intelligence Platforms offer HR, hiring managers, and senior management acuity of insight, intelligence, and speed across all of talent management. This leaves HR managers able to find more top candidates, and lower the cost of hire, all while removing bias from hiring decisions. (The author is Vice President and Principal, Talent Transformation, Eightfold India and the views expressed in the article are his own)    Tags :Artificial IntelligenceHRMachine learningTalent Intelligence PlatformTalent Managementadd a commentLeave a Response Cancel replyCommentNameEmailSave my name, email, and website in this browser for the next time I comment.  ΔCXOtoday News DeskAugust 18, 2020Why VPN Services Are Getting More And More PopularCisco Invests In Fostering Entrepreneurship, Social InitiativesTop ReviewsVideo Widget gallery                     View stream on flickr subscribe to my newsletter!""Get all latest content delivered straight to your inbox."" [mc4wp_form id=""36""]You Might Also LikeSpecialsIndustry Leaders Advocating for the Humanization of AI Across Various SectorsCXOtoday News Desk7 days agoIn today’s rapidly evolving technological landscape, industry leaders are championing the cause of humanizing artificial intelligence (AI) across various sectors....Corner OfficeHow to combat cloud data loss preventionCXOtoday News Desk2 weeks agoBy Piyush Somani Cloud as a platform has proven to be a revolutionary alteration to the IT infrastructure of businesses across...CXO BytesThe Platform Approach: Transforming the Future of Work and Human Potential with AICXOtoday News Desk4 weeks agoBy N Shashidhar Companies are investing heavily in transformation initiatives, yet many of these efforts need to catch up to...Corner OfficeData Leaks: How AI-Led Teams Are the Only AnswerCXOtoday News Desk4 weeks agoBy Morgan Wright  In a shocking revelation, a massive data leak has exposed sensitive personal information of over 1.6 million...     latest postsAI-Driven Incident Response: Automating Cybersecurity with GenAI1 hour agoHCLTech Grant Symposium at Dehradun discusses how CSR is making a difference in enhancing biodiversity through climate action2 hours agoContinental Develops Software Solutions for Mobile Robots, Leveraging the Power of Amazon Web Services2 hours agoJuly 16, 2024Guarding the Gateway: Safeguarding APIs from Cyber Attacks with Cutting-Edge Security Protocols3 hours agoPress ReleaseHCLTech Grant Symposium at Dehradun discusses how CSR is making a difference in enhancing biodiversity through climate action2 hours agoContinental Develops Software Solutions for Mobile Robots, Leveraging the Power of Amazon Web Services2 hours agoJuly 16, 2024CIO 500 Enhances eScan Cybersecurity Enterprise Recognition4 hours agoPrinceton Digital Group Releases 2023-2024 ESG Report: Sustainability in the Era of AI5 hours agoBridging the Skills Gap: JAGSoM’s New PGDM Tailored for SME Executives5 hours ago- Advertisement -     ","[{'@type': 'Article', '@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/'}, 'author': {'name': 'CXOtoday News Desk', '@id': 'https://cxotoday.com/#/schema/person/233a7e806549c013139cfcdf6995c047'}, 'headline': 'Why Talent Management Needs Artificial Intelligence', 'datePublished': '2020-08-18T03:00:30+00:00', 'dateModified': '2020-12-03T15:27:59+00:00', 'mainEntityOfPage': {'@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/'}, 'wordCount': 852, 'commentCount': 0, 'publisher': {'@id': 'https://cxotoday.com/#organization'}, 'image': {'@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://cxotoday.com/wp-content/uploads/2020/08/hr-management-AI.jpg', 'keywords': ['Artificial Intelligence', 'HR', 'Machine learning', 'Talent Intelligence Platform', 'Talent Management'], 'articleSection': ['Corner Office', 'Expert Opinion'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#respond']}]}, {'@type': 'WebPage', '@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/', 'url': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/', 'name': 'Why Talent Management Needs Artificial Intelligence', 'isPartOf': {'@id': 'https://cxotoday.com/#website'}, 'primaryImageOfPage': {'@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://cxotoday.com/wp-content/uploads/2020/08/hr-management-AI.jpg', 'datePublished': '2020-08-18T03:00:30+00:00', 'dateModified': '2020-12-03T15:27:59+00:00', 'description': 'An AI-based Talent Intelligence Platform relies on supervised and unsupervised machine learning to find the potential of each candidate.', 'breadcrumb': {'@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#primaryimage', 'url': 'https://cxotoday.com/wp-content/uploads/2020/08/hr-management-AI.jpg', 'contentUrl': 'https://cxotoday.com/wp-content/uploads/2020/08/hr-management-AI.jpg', 'width': 600, 'height': 450, 'caption': 'manager'}, {'@type': 'BreadcrumbList', '@id': 'https://cxotoday.com/corner-office/why-talent-management-needs-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://cxotoday.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://cxotoday.com/blog/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Why Talent Management Needs Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://cxotoday.com/#website', 'url': 'https://cxotoday.com/', 'name': 'CXOToday.com', 'description': 'Technology News, Business Technology News, Information Technology News, Tech News India', 'publisher': {'@id': 'https://cxotoday.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://cxotoday.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://cxotoday.com/#organization', 'name': 'CXOToday', 'url': 'https://cxotoday.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://cxotoday.com/#/schema/logo/image/', 'url': 'https://cxotoday.com/wp-content/uploads/2018/08/cxo-logo.png', 'contentUrl': 'https://cxotoday.com/wp-content/uploads/2018/08/cxo-logo.png', 'width': 258, 'height': 63, 'caption': 'CXOToday'}, 'image': {'@id': 'https://cxotoday.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/CXOToday/', 'https://x.com/CXOtodayAlerts', 'https://in.linkedin.com/in/cxotoday-trivone-8361ba67']}, {'@type': 'Person', '@id': 'https://cxotoday.com/#/schema/person/233a7e806549c013139cfcdf6995c047', 'name': 'CXOtoday News Desk', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://cxotoday.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/0e794d833e149b2f4de904d00193c842?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/0e794d833e149b2f4de904d00193c842?s=96&d=mm&r=g', 'caption': 'CXOtoday News Desk'}, 'url': 'https://cxotoday.com/author/cxonewsdesk/'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVnbG9iZWFuZG1haWwuY29tL2J1c2luZXNzL2NhcmVlcnMvbGVhZGVyc2hpcC9hcnRpY2xlLXdoeS1vdXItY29uY2VwdC1vZi1yZXRpcmVtZW50LWlzLW91dGRhdGVkLWFuZC1ob3ctYXJ0aWZpY2lhbC_SAQA?oc=5,Why our concept of retirement is outdated - and how artificial intelligence can help - The Globe and Mail,2020-08-18,The Globe and Mail,https://www.theglobeandmail.com,"Recently, the Harvard Business Review concluded that the concept of retirement itself may be flawed","noastack,retirement,post-work life,career,wellness,remote work,work-life balance,leadership,age,work,people,concept,model,okinawa,prussia","Recently, the Harvard Business Review concluded that the concept of retirement itself may be flawed","Recently, the Harvard Business Review concluded that the concept of retirement itself may be flawed",,http://schema.org,BreadcrumbList,N/A,N/A,N/A,,,https://www.theglobeandmail.com/resizer/v2/AI6C43TTPZA5FMSQTNK3XMPWQU.JPG?auth=f921ee26a8aac7bbe37b9d314cabab86c8a68e78373500e240cf01a37bfd1600&width=640&quality=80,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Report on Business', 'item': 'https://www.theglobeandmail.com/business/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Careers', 'item': 'https://www.theglobeandmail.com/business/careers/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Leadership', 'item': 'https://www.theglobeandmail.com/business/careers/leadership/'}, {'@type': 'ListItem', 'position': 4, 'name': 'Why our concept of retirement is outdated - and how artificial intelligence can help', 'item': 'https://www.theglobeandmail.com/business/careers/leadership/article-why-our-concept-of-retirement-is-outdated-and-how-artificial/'}]",,"{'@type': 'WebPage', '@id': 'https://www.theglobeandmail.com/business/careers/leadership/article-why-our-concept-of-retirement-is-outdated-and-how-artificial/'}","{'@type': ['CreativeWork', 'Product'], 'name': 'The Globe and Mail', 'productID': 'theglobeandmail.com:access'}",False,Why our concept of retirement is outdated - and how artificial intelligence can help,,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.l-article'}","{'@type': 'Organization', 'name': 'The Globe and Mail'}",2020-08-18T09:00:00Z,2020-08-18T09:00:00Z,2020.0,"{'@context': 'http://schema.org', 'name': 'The Globe and Mail', '@type': 'NewsMediaOrganization', '@id': 'theglobeandmail.com', 'url': 'https://www.theglobeandmail.com/', 'inLanguage': 'en'}","[{'@type': 'Person', 'name': 'Sinead Bovell', 'affiliation': {'@type': 'Organization', 'name': 'The Globe and Mail'}}]","[{'@type': 'ImageObject', 'representativeOfPage': True, 'url': 'https://www.theglobeandmail.com/resizer/v2/AI6C43TTPZA5FMSQTNK3XMPWQU.JPG?auth=f921ee26a8aac7bbe37b9d314cabab86c8a68e78373500e240cf01a37bfd1600&width=1200&height=675&quality=80&smart=true', 'width': 1200, 'height': 675, 'description': 'File Number: 3437394\rRetired vs Employed\rMan on Bench Retired Vs. Employed \rCredit:  paul kline / iStockphoto\r\r(Royalty-Free)'}, {'@type': 'ImageObject', 'representativeOfPage': True, 'url': 'https://www.theglobeandmail.com/resizer/v2/AI6C43TTPZA5FMSQTNK3XMPWQU.JPG?auth=f921ee26a8aac7bbe37b9d314cabab86c8a68e78373500e240cf01a37bfd1600&width=1200&height=900&quality=80&smart=true', 'width': 1200, 'height': 900, 'description': 'File Number: 3437394\rRetired vs Employed\rMan on Bench Retired Vs. Employed \rCredit:  paul kline / iStockphoto\r\r(Royalty-Free)'}, {'@type': 'ImageObject', 'representativeOfPage': True, 'url': 'https://www.theglobeandmail.com/resizer/v2/AI6C43TTPZA5FMSQTNK3XMPWQU.JPG?auth=f921ee26a8aac7bbe37b9d314cabab86c8a68e78373500e240cf01a37bfd1600&width=1200&height=1200&quality=80&smart=true', 'width': 1200, 'height': 1200, 'description': 'File Number: 3437394\rRetired vs Employed\rMan on Bench Retired Vs. Employed \rCredit:  paul kline / iStockphoto\r\r(Royalty-Free)'}]","{'@context': 'http://schema.org', 'name': 'The Globe and Mail', '@type': 'NewsMediaOrganization', '@id': 'theglobeandmail.com', 'url': 'https://www.theglobeandmail.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://www.theglobeandmail.com/files/dev/www/cache-long/images/logos/tgam-logo.png', 'width': 310, 'height': 36}, 'sameAs': ['https://www.facebook.com/theglobeandmail/', 'https://twitter.com/globeandmail/', 'https://www.youtube.com/user/TheGlobeandMail/', 'https://www.instagram.com/globeandmail/', 'https://en.wikipedia.org/wiki/The_Globe_and_Mail'], 'ethicsPolicy': 'https://www.theglobeandmail.com/about/editorial-code/', 'diversityPolicy': 'https://www.theglobeandmail.com/about/work-at-the-globe/#diversity', 'masthead': 'https://www.theglobeandmail.com/about/#masthead', 'correctionsPolicy': 'https://www.theglobeandmail.com/about/editorial-code/#corrections', 'foundingDate': '1844', 'contactPoint': [{'@type': 'ContactPoint', 'contactType': 'Newsroom Contact', 'telephone': '+1-416-585-5000', 'url': 'https://www.theglobeandmail.com/about/contact/'}, {'@type': 'ContactPoint', 'contactType': 'Public Engagement', 'email': 'publiceditor@globeandmail.com', 'url': 'https://www.theglobeandmail.com/about/contact/'}]}",,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGVjaG5vbG9neS5pbnF1aXJlci5uZXQvMTAzMTg3L2hhcm5lc3NpbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYXMtYS1maXJlZmlnaHRpbmctdG9vbC1vZi10aGUtZnV0dXJl0gFyaHR0cHM6Ly90ZWNobm9sb2d5LmlucXVpcmVyLm5ldC8xMDMxODcvaGFybmVzc2luZy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hcy1hLWZpcmVmaWdodGluZy10b29sLW9mLXRoZS1mdXR1cmUvYW1w?oc=5,Harnessing artificial intelligence as a firefighting tool of the future - Inquirer.net,2020-08-17,Inquirer.net,https://technology.inquirer.net,Researchers developed artificial intelligence models that will eventually be able to predict wildfires and megafires everywhere in the world.,N/A,Researchers developed artificial intelligence models that will eventually be able to predict wildfires and megafires everywhere in the world. ,Researchers developed artificial intelligence models that will eventually be able to predict wildfires and megafires everywhere in the world.,,,,N/A,N/A,"
+
+
+
+technology / Earth and Environment
+ Earth and Environment
+
+
+
+Harnessing artificial intelligence as a firefighting tool of the future
+
+
+
+
+ AFP Relaxnews / 04:52 PM August 17, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INQUIRER.net stock photo
+Researchers have developed artificial intelligence (AI) models that will eventually be able to predict wildfires and megafires everywhere in the world.
+In the collective imagination, global warming is responsible for the increasing power and frequency of forest fires. However, this is only partially true. As paradoxical as it may seem, some researchers suggest that the growing strength of fires is also due to the efficient work of fire services. By systematically extinguishing burning vegetation, firefighters would have inadvertently created the conditions for more and more fires.
+
+
+
+This observation is based on the recent discovery of the essential role played by wildfire in the periodic regeneration of forests: the theory is that the oldest woods will naturally catch fire from the sun’s heat to make way for fresh growth.FEATURED STORIES
+TECHNOLOGY
+Alden-approved vivo V30 5G marked down by Php 2,000
+
+TECHNOLOGY
+Enjoy vivo V30 5G's triple 50MP Aura Portrait cameras with Smart Signature Plans+ 999
+
+TECHNOLOGY
+‘Best size’ to make women orgasm is 8 inches, study finds
+
+The occurrence of megafires
+This cycle is now being amplified by climate imbalances, which have disrupted the frequency of fires. As a result, forest fires are increasingly powerful and difficult to control to the point where we have now entered an era of megafires like those that have been observed in Australia, the Amazon, and more recently in Siberia. Footage of millions of acres of burnt vegetation and hundreds of thousands of dead animals have raised awareness of the environmental and safety risks posed by such huge blazes.
+
+
+
+In this context, prevention is the best remedy. Scientists and firefighters working together to develop new tools that can take into account the complexity of how fires emerge and spread have turned to artificial intelligence to provide solutions.
+
+
+
+
+Artificial intelligence vs. megafires
+ADVERTISEMENT
+
+
+
+
+
+
+The main advantage of artificial intelligence is its capacity to rapidly perform highly complex calculations that humans would take several days to resolve. For these calculations to be accurate, researchers have to feed massive amounts of information on past fires and associated meteorological conditions and vegetation into a computer. The goal is to enable the machine to mathematically link all of the data in a model that scientists can then use to predict future wildfire outbreaks.
+The archiving work necessary for projects of this kind can take months, and even years, to optimize the AI agent’s understanding of the environment that it is supposed to supervise.
+ADVERTISEMENT
+
+
+
+
+
+
+Several research groups are already experimenting with these futuristic firefighting tools, among them teams at the WiFire Lab in California, USA and the University of Alberta in Canada. Thanks to predictions provided by these AI agents, among other things, firefighters will soon be able to take advantage of recommendations for prescribed burns to save certain parts of the forest while allowing the natural process of forest regeneration to take its course. CC
+RELATED STORIES: 
+
+
+
+
+Hundreds evacuated as wildfires rage in Florida Panhandle  
+
+
+
+
+
+
+
+Your subscription could not be saved. Please try again.
+
+
+
+
+
+
+
+
+
+
+Your subscription has been successful.
+
+
+
+
+
+
+
+
+Subscribe to our daily newsletter
+
+
+
+
+
+
+
+
+
+
+
+SIGN ME UP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smoke from wildfires near Chernobyl engulfs Ukraine capital 
+
+
+TOPICS: Artificial Intelligence, Climate change, firefighters, forests, Global warming, wildfires
+
+
+
+READ NEXT
+
+
+
+Google slams Australia law forcing tech giants to pay for news
+
+
+
+Do animals also self-isolate?
+
+
+
+
+
+
+
+
+
+
+
+
+EDITORS' PICK
+
+
+
+
+
+
+
+Kim Chiu, Dingdong Dantes among PH nominees at ContentAsia Awards 2024
+
+
+
+
+
+
+My dream job disappeared when I graduated
+
+
+
+
+
+
+DMW online systems hit by ransomware attack; alternate measures up
+
+
+
+
+
+
+West PH Sea: No Ayungin resupply since violent June 17 encounter
+
+
+
+
+
+
+John Estrada confirms ‘mutual break’ with Priscilla Meirelles
+
+
+
+
+
+
+NDRRMC: Southwest monsoon affects over 200,000 people
+
+
+
+
+
+
+MOST READ
+
+
+
+
+
+
+
+BIZ BUZZ: For added comfort: More toilets inside Naia
+
+
+
+
+
+
+Kevin Quiambao is Gilas Pilipinas’ ‘future’–Tim Cone
+
+
+
+
+
+
+PVL: Elena Samoilenko powers PLDT past Creamline in five sets
+
+
+
+
+
+
+PVL: Meegan Hart powers Nxled past Galeries in opener
+
+
+
+
+
+
+
+View comments
+
+
+
+
+
+
+
+
+EDITORS' PICK
+MOST READ
+
+
+
+
+
+
+
+
+entertainment
+Kim Chiu, Dingdong Dantes among PH nominees at ContentAsia Awards 2024
+
+
+
+
+
+
+
+
+lifestyle
+My dream job disappeared when I graduated
+
+
+
+
+
+
+
+
+newsinfo
+DMW online systems hit by ransomware attack; alternate measures up
+
+
+
+
+
+
+
+
+www
+West PH Sea: No Ayungin resupply since violent June 17 encounter
+
+
+
+
+
+
+
+
+entertainment
+John Estrada confirms ‘mutual break’ with Priscilla Meirelles
+
+
+
+
+
+
+
+
+newsinfo
+NDRRMC: Southwest monsoon affects over 200,000 people
+
+
+
+
+
+
+
+
+
+
+BUSINESS
+BIZ BUZZ: For added comfort: More toilets inside Naia
+
+
+
+
+
+
+
+
+
+SPORTS
+Kevin Quiambao is Gilas Pilipinas’ ‘future’–Tim Cone
+
+
+
+
+
+
+
+
+
+SPORTS
+PVL: Elena Samoilenko powers PLDT past Creamline in five sets
+
+
+
+
+
+
+
+
+
+SPORTS
+PVL: Meegan Hart powers Nxled past Galeries in opener
+
+
+
+
+
+
+
+
+
+NEWSINFO
+Rainy, cloudy Tuesday due to LPA off Davao City, 'habagat'
+
+
+
+
+
+
+
+
+
+BUSINESS
+Gov’t upsizes T-bills sale, but pays more for shorter tenors
+
+
+
+
+
+
+
+TAGS: Artificial Intelligence, Climate change, firefighters, forests, Global warming, wildfires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your subscription could not be saved. Please try again.
+
+
+
+
+
+
+
+
+
+
+Your subscription has been successful.
+
+
+
+
+
+
+
+
+Subscribe to our technology news
+
+
+
+
+
+
+
+
+
+
+
+SIGN ME UP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FpLXJlYWRpbmVzcy10aHJlYXQtZXRoaWNzLXRlY2hub2xvZ3ktc2VjdG9y0gFvaHR0cHM6Ly93d3cuYW5hbHl0aWNzaW5zaWdodC5uZXQvYW1wL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FpLXJlYWRpbmVzcy10aHJlYXQtZXRoaWNzLXRlY2hub2xvZ3ktc2VjdG9y?oc=5,AI Readiness: a Threat to Ethics in Technology Sector - Analytics Insight,2020-08-19,Analytics Insight,https://www.analyticsinsight.net,,"AI Readiness,AI Ethics,Data Ethics,Artificial Intelligence ,ownership of data",Artificial Intelligence (AI) is bringing new technology and changes to the world every day. Thanks to 'AI Readiness.' People are willing to take technological c,Artificial Intelligence (AI) is bringing new technology and changes to the world every day. Thanks to 'AI Readiness.' People are willing to take technological c,,http://schema.org,NewsArticle,N/A,N/A,"Ready for iOS 18? Here's How to Install the Public Beta
+",,AI Readiness: a Threat to Ethics in Technology Sector,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/08/Artificial-Intelligence-7-scaled.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,https://www.analyticsinsight.net/artificial-intelligence/ai-readiness-threat-ethics-technology-sector,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'AI Readiness: a Threat to Ethics in Technology Sector', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/ai-readiness-threat-ethics-technology-sector'}]",,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/ai-readiness-threat-ethics-technology-sector'}","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/ai-readiness-threat-ethics-technology-sector', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/08/Artificial-Intelligence-7-scaled.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,AI Readiness: a Threat to Ethics in Technology Sector,,,,2020-08-19T23:30:36Z,2020-08-19T23:30:36Z,,,"[{'@type': 'Person', 'givenName': 'Adilin Beatrice', 'name': 'Adilin Beatrice', 'url': 'https://www.analyticsinsight.net/author/adilin-beatrice'}]","{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/08/Artificial-Intelligence-7-scaled.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.linkedin.com/company/analytics-insight/', 'https://www.facebook.com/analyticsinsight.net', 'https://twitter.com/analyticsinme', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l'], 'id': 'https://www.analyticsinsight.net'}","Artificial Intelligence (AI) is bringing new technology and changes to the world every day. Thanks to 'AI Readiness.' People are willing to take technological changes as they adapt to a society where intelligence and robotics do most of the job. But the problem here is ethics..While talking about artificial intelligence and AI Readiness, very less is taken into consideration on the ethical part. Ethical implications and setting up the mechanism for compliance is a must in opening the world to a high-tech position without trouble..What is AI Readiness?.The initiative by organisations to the next stage or to ongoing success depending on having the right elements in place across skills and resources, infrastructure and technology, process and module is AI readiness. The organisations could be at various stages in the AI journey. To pursue and generate real value for AI initiative, organisations must have a degree of AI readiness..Organisational readiness: Companies that prefer to work seriously on AI and bring development should have an appropriate organisational structure, leadership and talent among employees. The leadership in the AI sector should be strong with talented analytics-specialized role players. Vision on why, how and what to work and strategy to plan for making the vision reality are the mandatory readiness. Stakeholders of the company should show their willingness to sponsor and support the initiative..Technological readiness: The organisation requires equipped infrastructure and technologies like cloud-based tools and services, analytics tools and algorithms, effective software development processes and methodologies to comply with the AI readiness. Technologies are functional only when humans set their hands at work. So, technological improvement needs people to work on it. Another vital part is played by data readiness which includes its quantity, depth, balance, representativeness, completeness and cleanliness..Financial Readiness: AI could be expensive at times. Therefore, all the inventiveness requires a budget on money, labour and technological usage. It is not an easy task to acquire all these in a company that has multiple departments working in different initiatives. The AI development group should have a grip on their project, have an insight into its outcome and talk effectively to acquire financial and physical support..Cultural readiness: To promote scientific innovation and disruption, the organisation should have culture, mindset and a set of processes. Earlier, people used to make decisions based on their individual perception and gut feeling. But this doesn't work anymore. The decision one takes on AI-related queries should incorporate data into account..AI readiness plays a vital role in the development with its wide-angle coverage on all the AI-related extensions. But it neglects to follow 'Ethics' throughout the process. In a study conducted by Capgemini Consulting on Artificial Intelligence Benchmark, it is revealed that the term 'ethics' appears only once in 30 pages. Ethics should be embedded with the working system as it is often ignored in the AI development process. Ethics and trustworthy AI requires more than just a written or printed script in the paper. It needs to be followed practically with training and monitoring in the AI works..There are various ethical risks involved when the organisation is not sticking to ethical conduct. In general, ethics refer to standards of morally good or bad, right or wrong initiatives. When humans are given control over the robotics and AI, the possibility of them imposing their strategy on race, gender, inequality to the system is high. This is a societal threat as it could end with robots and AI technologies becoming discriminatory high-powered humans..Detecting unethical behaviour or processes with AI requires keen attention on numerous social contexts like discrimination, diversity and inclusion, gender equality, improper use of health records, invasion of privacy, lack of sustainability, missing governance, conflicts of interest, insensibility and inequality. If an AI system works without considering any of this, then it might face serious problems..A major setback to break the routine mistakes could be by learning the risks of using prohibited and high-risk data. By sensitizing the damage control ways to the organisation and learning the well known-failures, the wrong steps could be avoided in further use..AI should follow data ethics.Data ethics are a regulatory measure to current and historic frameworks, cultural mores and physical organizations. The most important part to understand when it comes to ethical issues involving data is the combination of personal information and ownership of data. The personal information of a person's data file could even feature the individual's qualification, living strategy, people and institutions they interact with..The use of such personal information involves a lot of issues if it fails to cope with ethics. Therefore, ethical applications should follow simple guidelines that could be useful for formulating a more detailed policy..• Technical experts need to sensitize policymakers regarding ethical threats..• AI researchers involved in AI technology development should acknowledge that their works could be used maliciously if it doesn't follow ethical guidelines..• The protection gears and techniques should be brought into use with the help of cybersecurity experts..• Ethical framework for AI should be developed and followed in accordance with the individual or the technology involved..• Discussion based on the ethical framework of AI should involve AI scientists, policymakers, businesses operating in the sector and the general public..• Identify data risks associated with the dataset, data collection and sourcing, data types, data utilisation and correct in as quickly as possible..• AI employees should learn the documentation techniques to guarantee reproducibility, interpretability and peer review..AI might look like a simple thing when people speak or read about it. However, working with AI and making use of it in everyday life involves a lot of process and strategies. AI mandates good infrastructure, skills and data to progress. What is left quite often is AI ethics. If AI takes initiative work with the ethics to protect human data privacy, then it could lead to a secure AI future..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",2020-08-19T23:30:36Z,Artificial Intelligence,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZWRtb250b25nbG9iYWwuY2EvbmV3cy9zb25naXN0cnktdXNpbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8tcm9jay10aGUtbXVzaWMtaW5kdXN0cnkv0gEA?oc=5,Songistry – using artificial intelligence to rock the music industry - Edmonton Global,2020-08-19,Edmonton Global,https://edmontonglobal.ca,Edmonton Global is a foreign direct investment (FDI) and international business development agency. Discover opportunities in the Edmonton region.,N/A,Edmonton Global is a foreign direct investment (FDI) and international business development agency. Discover opportunities in the Edmonton region.,Edmonton Global is a foreign direct investment (FDI) and international business development agency. Discover opportunities in the Edmonton region.,,https://schema.org,,Stories,N/A,"
+Songistry is using the power of artificial intelligence and machine learning to unlock value across the entertainment industry. It’s run by the innovative minds of CEO Curtis Serna, two-time nominee for Entrepreneur of the Year in Canada and Justin Gray, Founder and Chief Creative Officer. Justin is a Canadian born producer and songwriter who has worked with top tier artists, Avril Lavigne, Mariah Carey, John Legend, Amy Winehouse, and international artists including J-Pop Super Stars Superjunior, Chinese Mega Star Chris Lee and most recently enjoyed twelve, #1 hits in China including a hit with TF Boys’ Roy Wang. Justin brings a combination of music credibility and a personal understanding of the challenges faced by artists and the entertainment industry related to digital copyright, publishing, and royalties.
+In 2019, approximately 46 million music creators and corporations lost out on the opportunity to collect royalties due to a lack of copyright information (often referred to as “metadata”), resulting in a 2.5-billion-dollar loss (USD). Songistry’s premier product, MDIIO (Music Data Intelligence In/Out), solves this problem and more. MDIIO is a music asset/copyright management tool and marketplace that leverages the latest developments in AI to protect the work of music creatives worldwide. By using copyright and other metadata details, MDIIO helps artists and music corporations protect their hard work, assets, and livelihoods. MDIIO is driven to provide Canadian artists a scientific, competitive advantage in getting their music discovered and licensed in TV/ film and advertising.
+Justin was first inspired to create the platform when he realized how vulnerable songwriters were to being taken advantage of.
+“A system that hasn’t traditionally supported songwriters is ripe for disruption,” said Justin. “Having worked in music for 20 plus years, I was really saddened to see songwriters and creators getting the short end of the stick. Especially with the onset of digital music streaming. Songwriters were the slowest to adapt and therefore the most vulnerable. I wanted to make sure that songwriters were provided a platform that not only fostered their creativity and organized their assets, but also democratized monetization of their hard work.”
+
+
+Justin Gray, Founder and Chief Creative Officer 
+
+
+When Justin was introduced to Curtis, who initially came on as an investor it quickly became evident that Curtis had the commercialization expertise that Songistry needed to help bring MDIIO to life and to help protect the interest of songwriters.
+
+
+Curtis Serna, CEO 
+
+
+MDIIO is now being featured in Global Affairs Canada’s Spring 2020 Software and Technologies Dealbook. The Dealbook is “a tool formulated to increase exposure to some of Canada’s most promising technology companies,” says Chief Trade Commissioner of Canada, Aillish Campbell. MDIIO fits the bill and their placement in the Dealbook has helped Songistry increase its profile to international audiences. In the first day the Dealbook was launched, Songistry was approached by two venture capital groups from Silicon Valley, that are interested in leading the investment into the Edmonton-based company.
+The MDIIO platform allows creatives, from songwriters to artists, to musicians, bands, DJ’s and composers, to upload their music, apply metadata to their copyright, and then register the song with SOCAN, Canada’s performance rights organization that collects royalties for members. SOCAN is comprised of 170,000 members, 86% of which are unaffiliated independent artists and songwriters. MDIIO represents and helps protect these artists and their copyrights, while getting their work in front of companies such as Netflix, Hallmark, and Sony to name just a few studio networks. MDIIO works as a marketplace where these companies can come to license music for various projects – allowing more artists to monetize their work and gain exposure by leveraging science as their competitive advantage.
+
+
+
+
+
+
+ 
+
+MDIIO has multiple features specifically designed to help spotlight the work of indie creators while simultaneously helping music supervisors find new music for their tv/ film or advertising projects. These licensors that use MDIIO have access to features such as mood track analysis, and dynamic emotional analysis (visualizing the emotion of the song on a second by second basis), as well as several additional A.I. features in development – all designed to allow licensors to find that perfect song that evokes the right emotions and story alignment without the complexity and the higher price points often associated with more well-known songs. For example, a mainstream Bruno Mars song can be licensed on average for $500,000. MDIIO’s recommendation/ search engine can identify songs that sound similar to Bruno Mars for a fraction of the cost, making the value proposition very attractive to licensors and network studios.
+Creators who use MDIIO don’t have to compromise between gaining exposure and a paycheck. MDIIO receives a 20% commission on licensing transactions facilitated through the MDIIO platform, which is far less than agents who charge 50 to 75% in commission.
+With so many innovative features and incentives, it is no surprise that there are more than 3,600+ creators from 19 different countries using MDIIO, representing 15,000 songs being hosted on the platform today. Not all users are indie creators; in fact, some of these users include high profile songwriters that have collaborated with the world’s biggest artists such as Beyonce, Rihanna, Shawn Mendes, and Madonna (to name a few). 
+As MDIIO continues to grow on the home stage, Songistry is simultaneously striving to expand the platform farther into Asia, where Justin Gray continues to leverage his extensive success and relationships. Songistry has already begun preliminary conversations with labels, publishers, and management companies in Greater China and Asia.
+“China is an important emerging market for us,” says Justin. “As copyright protection becomes more critical and major players such as Tencent and Youkou move into royalty-based payment systems, the necessity to track all of the pertinent and important data associated with copyright is more important than ever. Over the next 5 years, royalties and copyrights via China alone will amount to billions and billions of dollars. Someone needs to help provide the infrastructure and ability to shepherd these revenues and create new business models. Songistry/MDIIO is technologically prepared to do exactly that.”
+“Despite the impacts of COVID, we continue to grow,” says Curtis, “but no amount of success will ever change the fact that we are an Alberta corporation with access to tremendous support and resources. Edmonton provides us the competitive advantage we would be hard-pressed to find elsewhere.”
+You can read more about what the Songistry team is up to here.
+","[{'@type': ['GovernmentOrganization', 'Organization'], '@id': 'https://edmontonglobal.ca/#organization', 'name': 'Edmonton Global', 'url': 'https://edmontonglobal.ca', 'logo': {'@type': 'ImageObject', '@id': 'https://edmontonglobal.ca/#logo', 'url': 'https://edmontonglobal.ca/wp-content/uploads/2022/09/EG-Logo.svg', 'contentUrl': 'https://edmontonglobal.ca/wp-content/uploads/2022/09/EG-Logo.svg', 'caption': 'Edmonton Global', 'inLanguage': 'en-US', 'width': '805', 'height': '220'}}, {'@type': 'WebSite', '@id': 'https://edmontonglobal.ca/#website', 'url': 'https://edmontonglobal.ca', 'name': 'Edmonton Global', 'publisher': {'@id': 'https://edmontonglobal.ca/#organization'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://edmontonglobal.ca/wp-content/uploads/2020/08/Songistry.png', 'url': 'https://edmontonglobal.ca/wp-content/uploads/2020/08/Songistry.png', 'width': '576', 'height': '314', 'caption': 'A laptop is sitting on a table next to a cup of coffee.', 'inLanguage': 'en-US'}, {'@type': 'BreadcrumbList', '@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': '1', 'item': {'@id': 'https://edmontonglobal.ca', 'name': 'Home'}}, {'@type': 'ListItem', 'position': '2', 'item': {'@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/', 'name': 'Songistry – using artificial intelligence to rock the music industry'}}]}, {'@type': 'WebPage', '@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#webpage', 'url': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/', 'name': 'Songistry – using artificial intelligence to rock the music industry | Edmonton Global', 'datePublished': '2020-08-19T08:51:54-06:00', 'dateModified': '2023-10-23T14:07:31-06:00', 'isPartOf': {'@id': 'https://edmontonglobal.ca/#website'}, 'primaryImageOfPage': {'@id': 'https://edmontonglobal.ca/wp-content/uploads/2020/08/Songistry.png'}, 'inLanguage': 'en-US', 'breadcrumb': {'@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#breadcrumb'}}, {'@type': 'Person', '@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#author', 'name': 'paperleaf', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/70c2f3d585661477f71fcbc38d470f23?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/70c2f3d585661477f71fcbc38d470f23?s=96&amp;d=mm&amp;r=g', 'caption': 'paperleaf', 'inLanguage': 'en-US'}, 'sameAs': ['http://edmontonglobal.flywheelsites.com'], 'worksFor': {'@id': 'https://edmontonglobal.ca/#organization'}}, {'@type': 'BlogPosting', 'headline': 'Songistry – using artificial intelligence to rock the music industry | Edmonton Global', 'datePublished': '2020-08-19T08:51:54-06:00', 'dateModified': '2023-10-23T14:07:31-06:00', 'author': {'@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#author', 'name': 'paperleaf'}, 'publisher': {'@id': 'https://edmontonglobal.ca/#organization'}, 'description': 'Edmonton Global is a foreign direct investment (FDI) and international business development agency. Discover opportunities in the Edmonton region.', 'name': 'Songistry – using artificial intelligence to rock the music industry | Edmonton Global', '@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#richSnippet', 'isPartOf': {'@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#webpage'}, 'image': {'@id': 'https://edmontonglobal.ca/wp-content/uploads/2020/08/Songistry.png'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://edmontonglobal.ca/news/songistry-using-artificial-intelligence-to-rock-the-music-industry/#webpage'}}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8yMzE1MDk0L2RvZC1sZWFkZXJzLXByb3ZpZGUtZGlnaXRhbC1tb2Rlcm5pemF0aW9uLXVwZGF0ZXMv0gEA?oc=5,DOD Leaders Provide Digital Modernization Updates - Department of Defense,2020-08-17,Department of Defense,https://www.defense.gov,N/A,N/A,"Data will be the fuel and the engine for everything the Defense Department has to do to bring intelligence and operations together, DOD's chief information officer said.","Data will be the fuel and the engine for everything the Defense Department has to do to bring intelligence and operations together, DOD's chief information officer said.",,http://schema.org,Organization,N/A,N/A,"
+        You have accessed part of a historical collection on defense.gov. Some of the information contained within may be outdated and links may not function. Please contact the DOD Webmaster with any questions.
+    ",,U.S. Department of Defense,,,,,,https://www.defense.gov/,https://www.defense.gov/Portals/1/Images/DOD-Icon-Header.png?ver=5sAfFl2--9znca0j3SrX_g%3d%3d,,[],,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmVxdWl0eXBhbmRpdC5jb20vaWl0LXBhdG5hLWpvaW5zLWZsaXBrYXJ0LXRvLXJlc2VhcmNoLW9uLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,IIT Patna Joins Flipkart to Research on Artificial Intelligence - EquityPandit,2020-08-18,EquityPandit,https://www.equitypandit.com,"Flipkart which is owned by the e-commerce giant Walmart-owned has signed an MoU with IIT Patna for doing joint applied research with industry applicability in the focusing; on the areas of Artificial Intelligence (AI), Natural Language Processing (NLP) and Machine Learning (ML). This collaboration seeks to provide real-world industry exposure to...",N/A,"Flipkart which is owned by the e-commerce giant Walmart-owned has signed an MoU with IIT Patna for doing joint applied research with industry applicability in the focusing; on the areas of Artificial Intelligence (AI), Natural Language Processing (NLP) and Machine Learning (ML). This collaboration seeks to provide real-world industry exposure to...",N/A,,http://schema.org/,BlogPosting,N/A,N/A,"
+
+INDIAIIT Patna Joins Flipkart to Research on Artificial Intelligence
+
+August 18, 2020August 18, 2020 
+
+ 
+
+Flipkart which is owned by the e-commerce giant Walmart-owned has signed an MoU with IIT Patna for doing joint applied research with industry applicability in the focusing; on the areas of Artificial Intelligence (AI), Natural Language Processing (NLP) and Machine Learning (ML). This collaboration seeks to provide real-world industry exposure to students and scholars of IIT Patna and to facilitate the faculty members to work on research projects with Flipkart.This MOU encompasses a whole list of activities comprising of joint research, writing research papers, organizing seminars, internship/mentorship opportunities, etc. This was announced by the Chief Data Scientist of FlipKart Mayur Datta. He said, “The aim behind this collaboration is to create industry-focused applied research which could help reach e-commerce to more consumers and sellers alike. With this MoU, we aim to establish deeper academia collaborations which could help students and the academia to leverage our data and platform knowledge to work on India specific e-commerce challenges, in addition to publishing research papers,”Prof Asif Ekbal computer science professor at IIT Patna opined that the objective of this research was to develop robust machine translation techniques that will help in translation of voluminous user reviews written in English to the Indian vernacular languages.Flipkart’s academic collaboration includes some of the premier institutes including Indian Institute of Science (IISC), IIT (Kharagpur, Bombay and Kanpur), IIM (Ahmedabad and Kolkata) and a few foreign universities like Carnegie Mellon University and the University of California, San Diego.Subscribe to newsletters
+
+
+
+
+
+
+
+
+
+
+Get Daily Prediction & Stocks Tips On Your Mobile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I agree to the Terms & Conditions
+Submit
+
+
+
+
+0 
+","[{'@type': 'Article', '@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/'}, 'author': {'name': 'Amrita Chakravorty', '@id': 'https://www.equitypandit.com/#/schema/person/3f2f757b15295fce5ac0d8db00d94068'}, 'headline': 'IIT Patna Joins Flipkart to Research on Artificial Intelligence', 'datePublished': '2020-08-18T08:56:05+00:00', 'dateModified': '2020-08-18T08:56:09+00:00', 'mainEntityOfPage': {'@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/'}, 'wordCount': 257, 'commentCount': 0, 'publisher': {'@id': 'https://www.equitypandit.com/#organization'}, 'image': {'@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://www.equitypandit.com/wp-content/uploads/2020/08/Flipkart_EP.jpg', 'keywords': ['artificial intelligence (AI)', 'Flipkart', 'Natural Language Processing (NLP) and Machine Learning (ML)'], 'articleSection': ['INDIA'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/', 'url': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/', 'name': 'IIT Patna Joins Flipkart to Research on Artificial Intelligence - Equitypandit', 'isPartOf': {'@id': 'https://www.equitypandit.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://www.equitypandit.com/wp-content/uploads/2020/08/Flipkart_EP.jpg', 'datePublished': '2020-08-18T08:56:05+00:00', 'dateModified': '2020-08-18T08:56:09+00:00', 'breadcrumb': {'@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#primaryimage', 'url': 'https://www.equitypandit.com/wp-content/uploads/2020/08/Flipkart_EP.jpg', 'contentUrl': 'https://www.equitypandit.com/wp-content/uploads/2020/08/Flipkart_EP.jpg', 'width': 1600, 'height': 1200}, {'@type': 'BreadcrumbList', '@id': 'https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.equitypandit.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'IIT Patna Joins Flipkart to Research on Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://www.equitypandit.com/#website', 'url': 'https://www.equitypandit.com/', 'name': 'Equitypandit', 'description': 'EquityPandit | Breaking News, NSE/BSE, Share Price, Nifty, Sensex Today', 'publisher': {'@id': 'https://www.equitypandit.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.equitypandit.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.equitypandit.com/#organization', 'name': 'Equitypandit', 'url': 'https://www.equitypandit.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.equitypandit.com/#/schema/logo/image/', 'url': 'https://www.equitypandit.com/wp-content/uploads/2021/02/ep-logo.png', 'contentUrl': 'https://www.equitypandit.com/wp-content/uploads/2021/02/ep-logo.png', 'width': 767, 'height': 125, 'caption': 'Equitypandit'}, 'image': {'@id': 'https://www.equitypandit.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.equitypandit.com/#/schema/person/3f2f757b15295fce5ac0d8db00d94068', 'name': 'Amrita Chakravorty', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.equitypandit.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/59d0a55c65e19fb00f1ad69e2a96126b?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/59d0a55c65e19fb00f1ad69e2a96126b?s=96&d=mm&r=g', 'caption': 'Amrita Chakravorty'}, 'url': 'https://www.equitypandit.com/author/amrita/'}]",Sidebar Left,,,,,,https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence,"{'@type': 'ImageObject', 'url': 'https://www.equitypandit.com/wp-content/uploads/2021/02/ep-logo.png'}",,,https://www.equitypandit.com/iit-patna-joins-flipkart-to-research-on-artificial-intelligence/,,,IIT Patna Joins Flipkart to Research on Artificial Intelligence,,,,2020-08-18,,,,"{'@type': 'Person', '@id': '#person-AmritaChakravorty', 'name': 'Amrita Chakravorty'}","{'@type': 'ImageObject', 'url': 'https://www.equitypandit.com/wp-content/uploads/2020/08/Flipkart_EP.jpg', 'width': 1600, 'height': 1200}","{'@type': 'Organization', 'name': 'Equitypandit', 'logo': {'@type': 'ImageObject', 'url': 'https://www.equitypandit.com/wp-content/uploads/2021/02/ep-logo.png'}}",,,,,#organization,Add widgets here to display them on page,2020-08-18,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRxaW5kaWEuY29tL3RlY2gtbWFoaW5kcmEtbGV2ZXJhZ2UtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYmFzZWQtbGVhcm5pbmctcGxhdGZvcm0tdXBza2lsbC1lbXBsb3llZXMv0gFxaHR0cHM6Ly93d3cuZHFpbmRpYS5jb20vdGVjaC1tYWhpbmRyYS1sZXZlcmFnZS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1iYXNlZC1sZWFybmluZy1wbGF0Zm9ybS11cHNraWxsLWVtcGxveWVlcy8?oc=5,Tech Mahindra to leverage artificial intelligence based learning platform to upskill employees - DATAQUEST,2020-08-18,DATAQUEST,https://www.dqindia.com,"Tech Mahindra plans to leverage Upskilling-as-a-Service platform along with aggressive industry-academia partnerships, re-skilling and research programs",N/A,"Tech Mahindra plans to leverage Upskilling-as-a-Service platform along with aggressive industry-academia partnerships, re-skilling and research programs","Tech Mahindra plans to leverage Upskilling-as-a-Service platform along with aggressive industry-academia partnerships, re-skilling and research programs",,https://schema.org,ItemList,N/A,N/A,"
+
+
+
+
+
+
+                                News
+                            
+
+
+
+
+Tech Mahindra to leverage artificial intelligence based learning platform to upskill employees
+                        
+
+
+Tech Mahindra plans to leverage Upskilling-as-a-Service platform along with aggressive industry-academia partnerships, re-skilling and research programs
+                            
+
+
+
+
+
+
+
+
+
+DQINDIA Online
+
+
+
+
+
+
+                                                    18 Aug 2020 07:10 IST
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Update
+
+
+
+
+
+
+
+
+
+
+Tech Mahindra will leverage artificial intelligence-based learning platform to create 'Fit for Future' workforce. The Upskilling-as-a-Service’ (UaaS) platform by Tech Mahindra aims at accelerating new-age skill development for over 60,000 employees globally. Powered by New Age Delivery (NAD), UaaS is aimed at enhancing employee competencies across emerging technologies like 5G, cloud, big data, robotic process automation.
+Advertisment
+
+
+The learning platform leverages AI to provide interactive, on-demand, contextual and hyper-personalised upskilling to employees in self-service mode. UaaS enables employees to access world-class content and assessments from across 30+ partners along with cloud-based practice platforms and deployment avenues, said a statement from the company. The platform empowers employees for a seamless transition to digital jobs.
+Harshvendra Soin, global chief people officer and head of marketing, Tech Mahindra, said: ""As a global digital transformation leader, we continue to leverage digital technologies to enhance human experiences and talent development to meet changing business and market requirements. Upskilling as a Service platform is empowering our associates to identify and pursue their career aspirations at a speed of their preference, while also giving the tools to work with renewed passion and confidence to create future-ready workforce ‘today’.”
+UaaS deploys Skill Knowledge Unit (SKU – a set of related skills cutting across various roles), aimed at providing holistic learning for employees across multiple technical as well as functional (domain), behavioural and professional skills thus grooming well-rounded professionals with entrepreneurial and solution-oriented mindset. The platform further recommends relevant career paths and SKUs to the employees based on their current skillset, time to upskill and opportunities available.
+Advertisment
+
+
+Vaishali Phatak, head - technical learning services and global head of diversity and inclusion (D&I) said: ""UaaS (upskilling as a service) is enabling our employees to continuously upskill and take charge of their growth and relevance to business throughout their journey with Tech Mahindra. The platform is helping us deliver value to our customers by grooming employees in full stack/ end to end professionals for current projects as well as future assignments. We plan to extend the platform to academia, thereby helping college students become future ready by the time they graduate.”
+Tech Mahindra developed this unique upskilling platform in-house to create an ecosystem for a higher scale and speed of skill development and fulfil people supply chain needs of the organization amidst a dynamic business environment.
+
+
+
+
+
+Advertisment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+              Be the first to get exclusive offers and the latest news
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          LIVE
+      
+
+
+
+
+                                                      Hitachi Vantara Unveils Partner Advisory Board in India
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          LIVE
+      
+
+
+
+
+                                                      US Tech Giant  EPAM Opens New Tech Hubs in Bengaluru and Chennai
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          LIVE
+      
+
+
+
+
+                                                      Infor's Data Play: Albanero & Acumen Acquired
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          LIVE
+      
+
+
+
+
+                                                      Olympics Paris 2024: How Technology is Transforming Athlete Training
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          LIVE
+      
+
+
+
+
+                                                      Tech Talent in India Seeks More Than Just a Paycheck in 2024: Survey
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          LIVE
+      
+
+
+
+
+                                                      Platform Fee Hike Sparks Debate: Boycott Zomato and Swiggy?
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Read the Next Article
+                     
+
+
+
+
+
+",,"['home', 'NEWS', 'Interview', 'Opinion', 'Editors Blog', 'Features', 'BUSINESS TECHNOLOGIES', 'DQDEEPTECH', 'ANNUALS', 'DQ40YEARS', 'EVENTS', 'BUSINESS SOLUTIONS', 'Tech4Growth', 'DQConclave Event Site', 'TechSchools Event Site', 'Magazine']",,,,,,"['www.dqindia.com', 'https://www.dqindia.com/news', 'https://www.dqindia.com/interview', 'https://www.dqindia.com/opinion', 'https://www.dqindia.com/editors-blog', 'https://www.dqindia.com/features', 'https://www.dqindia.com/business-technologies', 'https://www.dqindia.com/dqdeeptech', 'https://www.dqindia.com/annuals', 'https://www.dqindia.com/tag/dq40years', 'https://www.dqindia.com/events', 'https://www.dqindia.com/business-solutions', 'https://tech4growth.dqindia.com/', 'https://dqconclave.com/', 'https://techschools.in/', 'https://resources.dqindia.com/dq-rsr/dataquestarchive/']",,[],,"{'@type': 'WebPage', '@id': 'https://www.dqindia.com/tech-mahindra-leverage-artificial-intelligence-based-learning-platform-upskill-employees/'}",,True,Tech Mahindra to leverage artificial intelligence based learning platform to upskill employees,,,,2020-08-18T07:10:22+05:30,,,,"[{'@type': 'Person', 'name': 'DQINDIA Online', 'url': 'https://www.dqindia.com/author/dq-online'}]",['https://img-cdn.thepublive.com/fit-in/1200x675/filters:format(webp)/dq/media/post_banners/wp-content/uploads/2020/02/Tech-Mahindra-Office.jpg'],"{'@type': 'Organization', 'name': 'DQ', 'SameAs': ['https://www.facebook.com/dataquestindia/', 'https://www.linkedin.com/company/dataquestindia/', 'https://twitter.com/dataquestindia', 'https://www.instagram.com/dataquestindia/', 'https://www.youtube.com/@dataquestindia9605', 'None'], 'logo': {'@type': 'ImageObject', 'url': 'https://img-cdn.thepublive.com/fit-in/600x60/filters:format(webp)/dq/media/agency_attachments/UPxQAOdkwhCk8EYzqyvs.png', 'width': 600, 'height': 60}}",,,,,,,,"{'@type': 'SearchAction', 'target': 'https://www.dqindia.com/search?title={search_term_string}', 'query-input': 'required name=search_term_string'}","{'@type': 'SpeakableSpecification', 'xpath': ['//title', ""//meta[@name='description']/@content""]}",https://schema.org/NewsMediaOrganization,News,en,"{'@type': 'ImageObject', 'url': 'https://img-cdn.thepublive.com/fit-in/1200x675/filters:format(webp)/dq/media/post_banners/wp-content/uploads/2020/02/Tech-Mahindra-Office.jpg', 'width': 1200, 'height': 675}"

@@ -1,0 +1,914 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,article:section,article:summary,article text,mainEntityOfPage,thumbnailUrl,editor,hasPart,logo,alternativeHeadline,copyrightHolder,sourceOrganization,copyrightYear,isPartOf,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,@graph,identifier,dateCreated,creator,contactPoint,potentialAction,breadcrumb,primaryImageOfPage,articleBody
+https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Jlcm5hcmRtYXJyLzIwMTgvMDcvMTAvdGhlLWVjb25vbWljcy1vZi1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1ob3ctY2hlYXBlci1wcmVkaWN0aW9ucy13aWxsLWNoYW5nZS10aGUtd29ybGQv0gEA?oc=5,The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World - Forbes,2018-07-10,Forbes,https://www.forbes.com,"AI and machine learning are going to change our world significantly but what will this mean for humans? In this article we look at AI through the lenses of economics and asked professor Joshua Gans, co-author of the new book Prediction Machines, to explain why it all comes down to better predictions",,"AI and machine learning are going to change our world significantly but what will this mean for humans? In this article we look at AI through the lenses of economics and asked professor Joshua Gans, co-author of the new book Prediction Machines, to explain why it all comes down to better predictions","AI and machine learning are going to change our world significantly but what will this mean for humans? In this article we look at AI through the lenses of economics and asked professor Joshua Gans, co-author of the new book Prediction Machines, to explain why it all comes down to better predictions",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2018/07/10/the-economics-of-artificial-intelligence-how-cheaper-predictions-will-change-the-world/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/blogs-images/bernardmarr/files/2018/07/AdobeStock_195979981-1200x703.jpeg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World,2018-07-10T00:28:00-04:00,2018-07-10T00:28:02-04:00,Tech,The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",Tech,N/A,"More From ForbesMar 15, 2024,07:08am EDTUK And Germany Double Down On Joint AI, Clean Energy R&D EffortsNov 28, 2023,01:05am ESTDecarbonizing Heavy Transportation: Quantron's Michael Perschke On Pioneering Hydrogen SolutionsNov 20, 2023,01:59am ESTBridging The Digital Divide In The AI Era - The UNDP WayOct 15, 2023,01:36pm EDTBig Tech Ramps Up Content Moderation Amid EU PressureOct 10, 2023,01:34pm EDTSpain's Successful Miura 1 Launch Reignites Europe's Hopes For Space ExplorationOct 7, 2023,02:39am EDTUNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AISep 23, 2023,04:47am EDTEurope's Bid To Become A Semiconductor SuperpowerEdit StoryForbesInnovationEnterprise TechThe Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The WorldBernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itJul 10, 2018,12:28am EDTUpdated Jul 10, 2018, 12:28am EDTThis article is more than 6 years old.Share to FacebookShare to TwitterShare to LinkedinArtificial Intelligence (AI) is a lot of things. It's a game changer for business, it can enable humans to work smarter and faster than ever before, and it could potentially have a significant impact on economies and the labor market.
+But at the root of it all – the function which gives AI value – is the ability to make predictions. Calculating – more quickly and accurately than has ever been possible – what the likelihood is of a particular outcome, is the fundamental advance which AI brings to the table.
+
+
+
+
+
+
+
+
+
+Adobe Stock
+Adobe Stock
+
+
+
+
+
+To start with, it’s worth defining what we mean when we talk about AI. In recent years the leaps in technology which have been generating the biggest buzz are around machine learning and deep learning. These are specific implementations of technology which can be used to give machines the ability to learn, without human input, by merely being fed data.
+PROMOTED
+This means they can become increasingly better at routine tasks – such as examining image data from cameras and working out what is shown, or reading through thousands of pages of documents and understanding the relevant pieces of information for the task at hand.
+
+How this will affect the role of humans is a hot topic and the question is very much up in the air. Some predict that the near-future will see us becoming used to working alongside “smart” machines, hugely boosting our productivity. Others say the arrival of these machines will make us redundant when it comes to many forms of labor, leading to widespread unemployment and eventually civil unrest.
+In their latest book: Prediction Machines – The Simple Economics of Artificial Intelligence, authors Ajay Agrawal, Joshua Gans and Avi Goldfarb seek to demonstrate how that prediction is fundamental to the changes that AI makes possible. In their book they explain that understanding this concept – and preparing our reaction to it – could determine which of those two possible futures is likely to come about.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+Key to this, they argue, will be whether human AI “managers” can learn to differentiate between tasks involving prediction, and those where a more human touch is still essential.
+When I met with Joshua Gans – professor of strategic management and holder of the Jeffrey S Skoll Chair of Technical Innovation and Entrepreneurship at the University of Toronto – he gave me some insight into how economists are tackling the issues raised by AI.
+""As economists studying innovation and technological change, a conventional frame for trying to understand and forecast the impact of new technology would be to think about what the technology really reduces the cost of,"" he tells me.
+""And really its an advance in statistical methods – a very big advance – and really not about intelligence at all, in a way a lot of people would understand the term ‘intelligence.' It's about one aspect of intelligence, which is prediction.
+“When I look up at the sky and see there are grey clouds, I take that information and predict that it’s going to rain. When I’m going to catch a ball, I predict the physics of where it’s going to end up. I have to do a lot of other things to catch the ball, but one of the things I do is make that prediction.”
+In business, we have to make these predictions many, many times each day. Will we make a higher profit by selling large volumes cheaply, or small volumes at a high price? Who is the best team member to take on a job? Where will we get the best ""bang for our buck"" out of our marketing budget?
+Traditionally these predictions relied heavily on “gut instinct” – what our intuition or experience tells us is the likely outcome. They are data-driven too of course – our instincts are informed by what we’ve learned, but there’s only so much time that can be spent reading reports and books.
+That generally isn't a constraint for a computer – which, if given the right algorithms, can automatically ingest vast amounts of data and use it to make predictions more quickly and accurately than we could ever hope to ourselves.
+“Sometimes we [humans] avoid making decisions because we can’t make a prediction – we may have a ‘rule of thumb’ or something like that,” Gans explains.
+“So what’s going to happen is that these prediction machines are going to make predictions better and faster and cheaper, and when you do that, two things happen. The first is that we will do a lot more predicting. And the second is that we will think of new ways of doing things for problems where the missing bit was prediction.”
+Self-driving cars are an obvious example. The idea isn't new, but humans had struggled for decades with making them a reality, because there was no way to enable a machine to make the accurate predictions it would need to navigate safely. This changed with the arrival of machine learning and deep learning.
+“People weren’t formulating it as a prediction problem and, once we got the tools, lo and behold, they started to make improvements,” Gans says.
+So what does this actually all mean, for us as humans?
+“Well, firstly, as heavy users of predictions, it’s good news for us,” he says. “Predictions are something we like, and we’re getting them faster and cheaper, so that’s good.”
+As an example, he asks me to think about a school bus driver.
+“Ok, so we can replace a human driver with an automated vehicle – great! So we throw the driver off the bus and get a robot to go and pick up the children. But then you immediately think – wait a second – a whole load of unsupervised children on a bus sounds like a stupid idea.”
+As tempting a solution as it sounds, human rights organizations probably wouldn’t look too kindly on the idea of also giving robots the ability to discipline unruly children during transit.
+A more socially acceptable solution could be to replace the drivers with human supervisors or, more productively, educators.
+“Then we could start the lessons as soon as the kids get on the bus,” says Gans. “Or we could have the school assembly on the bus. It frees up time – we just have to be imaginative.”
+The fact is, no one right now knows what impact AI will have had on society in 20 years’ time, let alone 50 or 100 years.
+Advances which genuinely can make humans redundant on a large scale are likely to take some time to come to fruition.
+“I know people talk about the concept of the ‘singularity’ and that it’s all going to happen overnight. But I don’t know if it’s actually going to occur that way,” Gans tells me.
+""It's likely to be slowly, slowly … and I feel that slow-moving problems are the ones we work out how to deal with. That would be the source of my confidence.""
+Gans’ new book ‘Predictive Machines: The Simple Economics of Artificial Intelligence’ is now available from Harvard Business School Press.Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is... Read MoreEditorial StandardsPrintReprints & Permissions
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmVudHJlcHJlbmV1ci5jb20vc2NpZW5jZS10ZWNobm9sb2d5L3RoZS1zb29uZXIteW91LWdldC15b3VyLWZpcnN0LWFpLWpvYi10aGUtYmV0dGVyLWZvci15b3VyLzMxNTU2NdIBAA?oc=5,"The Sooner You Get Your First AI Job, the Better for Your Career - Entrepreneur",2018-07-11,Entrepreneur,https://www.entrepreneur.com,Artificial intelligence is in its infancy. Businesses are eager to hire people who can help them adapt and then move ahead.,"['Science & Technology', 'Data & Recovery', 'Technology', 'Big Data', 'Artificial Intelligence', 'Machine Learning']",Artificial intelligence is in its infancy. Businesses are eager to hire people who can help them adapt and then move ahead.,Artificial intelligence is in its infancy. Businesses are eager to hire people who can help them adapt and then move ahead.,https://schema.org,BreadcrumbList,https://www.entrepreneur.com,"['https://assets.entrepreneur.com/content/3x2/2000/20180710163722-GettyImages-968289472.jpeg?format=pjeg&auto=webp&crop=1:1', 'https://assets.entrepreneur.com/content/3x2/2000/20180710163722-GettyImages-968289472.jpeg?format=pjeg&auto=webp&crop=4:3', 'https://assets.entrepreneur.com/content/3x2/2000/20180710163722-GettyImages-968289472.jpeg?format=pjeg&auto=webp&crop=16:9']","{'@type': 'Person', 'name': 'Stephanie Glass', 'image': 'https://assets.entrepreneur.com/content/1x1/300/20180621204129-10460867-10152172097901720-4536994038505784992-o-1.jpeg', 'sameAs': ['https://x.com/Aera_Technology', 'https://www.linkedin.com/in/stephanieroseglass/', 'https://www.aeratechnology.com/'], 'description': 'Stephanie Glass is head of Product Marketing for Aera Technology&amp;rsquo;s AI solutions, where she&amp;rsquo;s responsible for product strategy and the execution of product marketing programs. She brings to Aera experience in AI, machine learning, planning and analytics.', 'worksFor': 'Aera Technology', 'jobTitle': 'Head of Product Marketing, AI Solutions', 'url': 'https://www.entrepreneur.com/author/stephanie-glass'}","{'@type': 'Organization', 'name': 'Entrepreneur', 'logo': {'@type': 'ImageObject', 'url': 'https://assets.entrepreneur.com/static/20240220061344-entrepreneur-logo-black.svg'}, 'sameAs': ['https://www.facebook.com/entrepreneur', 'https://x.com/entrepreneur', 'https://www.linkedin.com/company/entrepreneur-media', 'https://www.youtube.com/user/EntrepreneurOnline', 'https://www.instagram.com/entrepreneur/', 'https://www.tiktok.com/@entrepreneur', 'https://story.snapchat.com/p/79f50f16-1715-45da-9dd4-842c96d79d05/2407079582115840', 'https://www.entrepreneur.com/latest.rss']}","The Sooner You Get Your First AI Job, the Better for Your Career",2018-07-11T12:30:00+00:00,2018-07-11T12:30:00+00:00,Science & Technology,,True,"[{'@type': 'ListItem', 'position': 0, 'name': 'Science & Technology', 'item': 'https://www.entrepreneur.com/science-technology'}]","The Sooner You Get Your First AI Job, the Better for Your Career | Entrepreneur",N/A,"
+
+
+  The Sooner You Get Your First AI Job, the Better for Your Career
+  
+    Artificial intelligence is in its infancy. Businesses are eager to hire people who can help them adapt and then move ahead.
+  
+
+
+
+
+
+                  By          
+            Stephanie Glass
+          
+
+            Edited by 
+                          Heather Wilkerson
+                      
+
+            Jul 11, 2018
+          
+
+
+
+
+          Share        
+
+
+Copy
+
+
+ 
+
+
+
+
+
+
+Subscribe to the Entrepreneur Daily newsletter to get business news, tips and inspiration sent to your inboxSubscribeI understand that the data I am submitting will be used to provide me with the above-described products and/or services and communications in connection therewith.Read our privacy policy for more information.
+
+
+
+    Opinions expressed by Entrepreneur contributors are their own.  
+
+
+
+
+
+
+
+
+gorodenkoff | Getty Images
+
+
+Artificial intelligence is already reshaping society as we know it in both business and consumer realms. Early use cases with Alexa, autonomous vehicles and AI-driven supply chains provide just a glimpse of the disruption that AI is poised to deliver in the near future and for years to come.Yet despite all the AI hype and initial successes, it remains in its infancy. That makes now the ideal time for young people to build the knowledge, skill sets and connections they need to capitalize on the fast-growing market for AI jobs and build a strong AI career.One reason is simply practical. Gartner predicts that AI may eliminate 1.8 million jobs by 2020, yet is on track to create 2.3 million new positions. It clearly makes sense to map out an AI career path as new roles emerge that focus on problem-solving, collaboration and strategic decision-making.
+
+
+
+The second reason is that AI offers a truly exciting opportunity to make an impact on our world. AI is an ideal career path for undergraduates and recent graduates with a passion for technology and an entrepreneurial spirit who relish a challenge and a front-line role in game-changing innovation.Related: This Is How to Get Started With AI When the Only Thing You Know Is the Acronym
+
+
+AI has been called ""the next Industrial Revolution,"" and I think that analogy is spot on. The convergence of machine learning, big data and internet-scale cloud compute power is opening opportunities to transform healthcare, grow the economy, reduce waste, save energy, improve education, strengthen security and decrease poverty.There's virtually no area of society that will be untouched by AI. Given the myriad possibilities, how does a young person chart his or her course in the AI field?Practical steps to an AI career.One first step is to simply narrow down key interests and strengths. AI offers technological roles in data science, machine learning development and architecting an AI technology stack. And it offers plenty of positions as a user or analyst with AI software, or in sales and marketing, HR, customer support and more.Company type is another important consideration, as B2B and B2C can be distinctly different work environments. Candidates should also target industries they gravitate toward, be it technology, manufacturing, retail, higher education, services or others. To narrow down interests, hands-on research and learning is available through avenues such as:
+
+
+AI and data science courses. Many free and low-cost online learning opportunities in AI can be found at providers such as Udacity, Coursera, Codeacademy and fast.ai. These courses are a great way to build knowledge and enrich a resume.Industry and company conferences. AI experts and thought leaders discuss trends at conferences hosted by NIPS, Re-Work, O'Reilly, Gartner and others, while AI vendors also sponsor conferences. Students and young professionals are often able to gain free or discounted admission.Related: Robots Are Our Friends -- How Artifical Intelligence Is Leveling-Up MarketingMeetup.com. The website lists many regional in-person meetups among AI enthusiasts, as well as online groups and discussions on topical areas including machine learning, Python, R, data science and advanced statistics.
+
+
+General immersion. Keeping up-to-date on fast-moving AI news and trends pays off. So does using AI products, sharing code on GitHub or entering a code contest on the global Kaggle community. In short, would-be AI professionals should learn as much as they can, as fast as they can.With this knowledge, young people are better able to address two key questions that can guide AI careers:What's my prospective employer's technology stack?What are the employer's leadership motivations and potential social impact?As a Stanford graduate now working in artificial intelligence, those were critical considerations for me as I looked to move from traditional software companies into the AI space. I had decided to pursue an AI career because of the positive change that AI promises to unleash. It was a matter of finding an employer that aligned with my interests and skills.The technology stack.Impactful AI is not easy to build. It is complex, and the success of any AI company depends on a strong technology base. Yet some companies label themselves as AI simply to jump on the bandwagon. Discerning true AI companies from pretenders sets the stage for a gratifying first job and successful career.
+
+
+Effective AI must have strong compute power, access to large data sets and the ability to understand, predict, recommend and act. In particular, machine learning is largely driving the recent success of AI. Products with machine learning will be especially impactful.Related: Walking With AI: How to Spot, Store and Clean the Data You NeedCompany direction.What are the motivations of the leadership team? AI can have a major impact on driving positive change. However, since the technology is particularly powerful, it is important to keep in mind what the mission of the company is and the motivations of the leadership team.With AI, keeping in mind potential social impact is also important. In particular, those job-seekers who value a role in bettering society with technology should diligently size up early successes and long-term benefits of any prospective employer.
+
+
+AI is already transforming the job market. In fact, LinkedIn's 2017 Emerging Jobs Report found that machine learning engineers and data scientists are the two fastest-growing new jobs in the U.S. Now is the time for young people to assess what a role in AI could mean and take proactive steps to launch a successful career.
+ ","{'@type': 'WebPage', '@id': 'https://www.entrepreneur.com/science-technology/the-sooner-you-get-your-first-ai-job-the-better-for-your/315565'}",https://assets.entrepreneur.com/content/3x2/2000/20180710163722-GettyImages-968289472.jpeg?format=pjeg&auto=webp&width=300&crop=1:1,"{'@type': 'Person', 'name': 'Heather Wilkerson', 'jobTitle': 'Entrepreneur Staff Editor', 'worksFor': 'Entrepreneur', 'description': '', 'url': 'https://www.entrepreneur.com'}","{'@type': 'WebPageElement', 'isAccessibleForFree': True, 'cssSelector': '.gate-check'}",https://assets.entrepreneur.com/static/20240220061344-entrepreneur-logo-black.svg,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDcvMDcvYnVzaW5lc3MvZWNvbm9teS9hbGdvcml0aG0tZmFzaGlvbi1qb2JzLmh0bWzSAQA?oc=5,"High-Skilled White-Collar Work? Machines Can Do That, Too (Published 2018) - The New York Times",2018-07-07,The New York Times,https://www.nytimes.com,Few jobs would appear less prone to automation than fashion industry taste-making. But artificial intelligence is undeterred.,N/A,Few jobs would appear less prone to automation than fashion industry taste-making. But artificial intelligence is undeterred.,Few jobs would appear less prone to automation than fashion industry taste-making. But artificial intelligence is undeterred.,https://schema.org,BreadcrumbList,https://www.nytimes.com/,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2018/07/08/business/08ALGO-5/merlin_138557946_b533fa21-43f5-42d8-a12e-550b528a6510-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2018/07/08/business/08ALGO-5/merlin_138557946_b533fa21-43f5-42d8-a12e-550b528a6510-videoSixteenByNineJumbo1600.jpg', 'caption': 'Nathan Cates, a Bombfell buyer, in a T-shirt from among the company’s offerings, with Will Noguchi, a stylist. Bombfell’s algorithms help Mr. Cates make choices about what to buy, but he is obsessive about touching the fabric before acquiring an item and almost always tries it on first.', 'creditText': 'Jeenah Moon for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2018/07/08/business/08ALGO-5/merlin_138557946_b533fa21-43f5-42d8-a12e-550b528a6510-superJumbo.jpg', 'height': 1365, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2018/07/08/business/08ALGO-5/merlin_138557946_b533fa21-43f5-42d8-a12e-550b528a6510-superJumbo.jpg', 'caption': 'Nathan Cates, a Bombfell buyer, in a T-shirt from among the company’s offerings, with Will Noguchi, a stylist. Bombfell’s algorithms help Mr. Cates make choices about what to buy, but he is obsessive about touching the fabric before acquiring an item and almost always tries it on first.', 'creditText': 'Jeenah Moon for The New York Times'}]","[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/noam-scheiber', 'name': 'Noam Scheiber'}]","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","High-Skilled White-Collar Work? Machines Can Do That, Too",2018-07-07T10:00:06.000Z,2018-07-07T15:07:58.000Z,,The New York Times,False,"[{'@context': 'https://schema.org', '@type': 'ListItem', 'name': 'Business', 'position': 1, 'item': 'https://www.nytimes.com/section/business'}, {'@context': 'https://schema.org', '@type': 'ListItem', 'name': 'Economy', 'position': 2, 'item': 'https://www.nytimes.com/section/business/economy'}]",Business,N/A,"Artificial IntelligenceFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingHumane’s A.I. Device FlopAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTHigh-Skilled White-Collar Work? Machines Can Do That, TooShare full articleRead in appA Stitch Fix warehouse in San Francisco. The company relies on algorithms to help personalize shipments to customers.Credit...Christie Hemm Klok for The New York TimesBy Noam ScheiberJuly 7, 2018One of the best-selling T-shirts for the Indian e-commerce site Myntra is an olive, blue and yellow colorblocked design. It was conceived not by a human but by a computer algorithm — or rather two algorithms.The first algorithm generated random images that it tried to pass off as clothing. The second had to distinguish between those images and clothes in Myntra’s inventory. Through a long game of one-upmanship, the first algorithm got better at producing images that resembled clothing, and the second got better at determining whether they were like — but not identical to — actual products.This back and forth, an example of artificial intelligence at work, created designs whose sales are now “growing at 100 percent,” said Ananth Narayanan, the company’s chief executive. “It’s working.”Clothing design is only the leading edge of the way algorithms are transforming the fashion and retail industries. Companies now routinely use artificial intelligence to decide which clothes to stock and what to recommend to customers.And fashion, which has long shed blue-collar jobs in the United States, is in turn a leading example of how artificial intelligence is affecting a range of white-collar work as well. That’s especially true of jobs that place a premium on spotting patterns, from picking stocks to diagnosing cancer.ImageA popular T-shirt sold on the Indian e-commerce site Myntra was conceived by two algorithms. One generated random images; the other identified those that resembled existing designs without duplicating them. “A much broader set of tasks will be automated or augmented by machines over the coming years,” Erik Brynjolfsson, an economist at the Massachusetts Institute of Technology, and Tom Mitchell, a Carnegie Mellon computer scientist, wrote in the journal Science last year. They argued that most of the jobs affected would become partly automated rather than disappear altogether.The fashion industry illustrates how machines can intrude even on workers known more for their creativity than for cold empirical judgments. Among those directly affected will be the buyers and merchandise planners who decide which dresses, tops and pants should populate their stores’ inventory.A key part of a buyer’s job is to anticipate what customers will want using a well-honed sense of where fashion trends are headed. “Based on the fact that you sold 500 pairs of platform shoes last month, maybe you could sell 1,000 next month,” said Kristina Shiroka, who spent several years as a buyer for the Outnet, an online retailer. “But people might be over it by then, so you cut the buy.”AdvertisementSKIP ADVERTISEMENTMerchandise planners then use the buyer’s input to figure out what mix of clothing — say, how many sandals, pumps and flats — will help the company reach its sales goals.In the small but growing precincts of the industry where high-powered algorithms roam free, however, it is the machine — and not the buyer’s gut — that often anticipates what customers will want.ImageStitch Fix’s business would probably not exist without the use of algorithms. Among other things, they project how many clients will be in a certain situation, or “state,” several months in the future, and what volume of clothes people buy in each situation.Credit...Christie Hemm Klok for The New York TimesThat’s the case at Stitch Fix, an online styling service that sends customers boxes of clothing whose contents they can keep or return, and maintains detailed profiles of customers to personalize their shipments.Stitch Fix relies heavily on algorithms to guide its buying decisions — in fact, its business probably could not exist without them. Those algorithms project how many clients will be in a given situation, or “state,” several months into the future (like expanding their wardrobe after, say, starting a new job), and what volume of clothes people tend to buy in each situation. The algorithms also know which styles people with different profiles tend to favor — say, a petite nurse with children who lives in Texas.AdvertisementSKIP ADVERTISEMENTMyntra, the Indian online retailer, arms its buyers with algorithms that calculate the probability that an item will sell well based on how clothes with similar attributes — sleeves, colors, fabric — have sold in the past. (The buyers are free to ignore the projection.)All of this has clouded the future of buyers and merchandise planners, high-status workers whose annual earnings can exceed $100,000.At more conventional retailers, a team of buyers and support workers is assigned to each type of clothing (like designer, contemporary or casual) or each apparel category, like dresses or tops. Some retailers have separate teams for knit tops and woven tops. A parallel merchandise-planning group could employ nearly as many people.ImageBombfell, which is similar to Stitch Fix but caters specifically to men, relies on a single buyer for its tops and accessories. The company’s data and algorithmic tools help the buyer project clothing demand.Credit...Jeenah Moon for The New York TimesBuyers say this specialization helps them intuitively understand trends in styles and colors. “You’re so immersed in it, you almost get a feeling,” said Helena Levin, a longtime buyer at retailers like Charlotte Russe and ModCloth.AdvertisementSKIP ADVERTISEMENTMs. Levin cited mint-green dresses, a top seller earlier this decade. “One day it just died,” she said. “It stopped. ‘O.K., everything mint, get out.’ Right after, it looked old. You could feel it.”But retailers adept at using algorithms and big data tend to employ fewer buyers and assign each a wider range of categories, partly because they rely less on intuition.At Le Tote, an online rental and retail service for women’s clothing that does hundreds of millions of dollars in business each year, a six-person team handles buying for all branded apparel — dresses, tops, pants, jackets.Brett Northart, a co-founder, said the company’s algorithms could identify what to add to its stock based on how many customers placed the items on their digital wish lists, along with factors like online ratings and recent purchases.ImageNathan Cates, a Bombfell buyer, in a T-shirt from among the company’s offerings, with Will Noguchi, a stylist. Bombfell’s algorithms help Mr. Cates make choices about what to buy, but he is obsessive about touching the fabric before acquiring an item and almost always tries it on first.Credit...Jeenah Moon for The New York TimesBombfell, a box service similar to Stitch Fix catering only to men, relies on a single employee, Nathan Cates, to buy all of its tops and accessories.AdvertisementSKIP ADVERTISEMENTThe company has built algorithmic tools and a vast repository of data to help Mr. Cates, who said he could more accurately project demand for clothing than a buyer at a traditional operation.“We know exactly who our customers are,” he said. “We know exactly where they live, what their jobs are, what their sizing is.”For now, at least, only a human can do parts of his job. Mr. Cates is obsessive about touching the fabric before purchasing an item and almost always tries it on first.“If this is a light color, are we going to see your nipples?” he explained. (The verdict on a mint T-shirt he donned at the company’s headquarters in New York? “A little nipply.”)AdvertisementSKIP ADVERTISEMENTImageOne sector of the fashion industry that is adding jobs is the ranks of the stylists who pick clothes to send to customers, based partly on recommendations from algorithms. One stylist, Mary Kate Makowski, fulfilled an order at Trunk Club.Credit...Whitten Sabbatini for The New York TimesThere are other checks on automation. Negotiations with suppliers typically require a human touch. Even if an algorithm can help buyers make decisions more quickly and accurately, there are limits to the number of supplier relationships they can juggle.Arti Zeighami, who oversees advanced analytics and artificial intelligence for the H & M group, which uses artificial intelligence to guide supply-chain decisions, said the company was “enhancing and empowering” human buyers and planners, not replacing them. But he conceded it was hard to predict the effect on employment in five to 10 years.Experts say some of these jobs will be automated away. The Bureau of Labor Statistics expects employment of wholesale and retail buyers to contract by 2 percent over a decade, versus a 7 percent increase for all occupations. Some of this is because of the automation of less sophisticated tasks, like cataloging inventory, and buying for less stylistically demanding retailers (say, auto parts).There is at least one area of the industry where the machines are creating jobs rather than eliminating them, however. Bombfell, Stitch Fix and many competitors in the box-fashion niche employ a growing army of human stylists who receive recommendations from algorithms about clothes that might work for a customer, but decide for themselves what to send.AdvertisementSKIP ADVERTISEMENT“If they’re not overly enthusiastic upfront when I ask how do you feel about it, I’m making a note of it,” said Jade Carmosino, a sales manager and stylist at Trunk Club, a Stitch Fix competitor owned by Nordstrom.In this, stylists appear to reflect a broader trend in industries where artificial intelligence is automating white-collar jobs: the hiring of more humans to stand between machines and customers.For example, Chida Khatua, the chief executive of EquBot, which helped create an exchange-traded fund that is  actively managed by artificial intelligence, predicted that the asset-management industry would hire more financial advisers even as investing became largely automated.The downside is that work as a stylist or financial adviser will probably pay less than the lost jobs of buyers and stock pickers. The good news, said Daron Acemoglu, an economist at M.I.T. who studies automation, is that these jobs may still pay substantially more than many positions available to low- and middle-skilled workers in recent decades.And these jobs may be hard to automate in the end.“If I’m the customer explaining what I want, humans need to be involved,” Mr. Khatua said. “Sometimes I don’t know what I really want.”Follow Noam Scheiber on Twitter: @noamscheiber. A version of this article appears in print on July 8, 2018, Section BU, Page 1 of the New York edition with the headline: A.I. Comes Into Fashion. Order Reprints | Today’s Paper | SubscribeShare full articleRead in appAdvertisementSKIP ADVERTISEMENTEnjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html,,,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}","{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",A.I. Comes Into Fashion,"{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vcm9ib3RpY3NhbmRhdXRvbWF0aW9ubmV3cy5jb20vMjAxOC8wNy8xMS9ldmVudC1wcmV2aWV3LXJlLXdvcmstb3BlbnMtdXAtdG8td29tZW4taW4tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvMTgxNDQv0gEA?oc=5,Opening up to women in artificial intelligence – Robotics & Automation News - Robotics and Automation News,2018-07-11,Robotics and Automation News,https://roboticsandautomationnews.com,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4ZWN1dGl2ZXMub3JnL0ZFSS1EYWlseS9KdWx5LTIwMTgvQXV0b21hdGlvbi1hbmQtSHVtYW4tSnVkZ21lbnQtVW5kZXJzdGFuZGluZy1Ib3ctVC5hc3B40gEA?oc=5,Automation and Human Judgment: Understanding How They Work Together - FEI Daily,2018-07-09,FEI Daily,https://www.financialexecutives.org,N/A,N/A,"Insights on how automation, combined with human value, can have a significant impact on meeting the needs of today’s finance organizations.","Insights on how automation, combined with human value, can have a significant impact on meeting the needs of today’s finance organizations.",,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lmdlb3NwYXRpYWx3b3JsZC5uZXQvYmxvZ3MvMTMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdHJlbmRzLTIwMTgv0gEA?oc=5,13 major Artificial Intelligence trends to watch for in 2018 - Geospatial World,2018-07-10,Geospatial World,https://www.geospatialworld.net,Artificial Intelligence isn’t only limited to powerful supercomputers and big devices; it is also becoming a part and parcel of smartphones and wearable devices and equipment. Edge computing is emerging as the next big area in AI. Apple released its A11 chip with a neural engine for iPhone 8 and X.,N/A,Artificial Intelligence isn’t only limited to powerful supercomputers and big devices; it is also becoming a part and parcel of smartphones and wearable devices and equipment. Edge computing is emerging as the next big area in AI. Apple released its A11 chip with a neural engine for iPhone 8 and X.,N/A,http://schema.org,BreadcrumbList,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'WebSite', '@id': 'https://www.geospatialworld.net/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'WebPage', '@id': 'https://www.geospatialworld.net/blogs/', 'name': 'Blogs'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'WebPage', '@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/', 'name': '13 major Artificial Intelligence trends to watch for in 2018'}}]",N/A,N/A,"
+
+Home  Blogs  13 major Artificial Intelligence trends to watch for in 2018
+Blogs
+
+13 major Artificial Intelligence trends to watch for in 2018
+
+By Aditya Chaturvedi -   07/10/2018      7 Minutes Read 
+
+
+
+
+Artificial Intelligence (AI) has the peculiar ability to simultaneously amaze, enthrall, leave us gasping and intimidate. The possibilities of AI are innumerable and they easily surpass our most artistically fecund imaginations. What all we read in science fiction novels or saw in movies like ‘The Matrix’ could someday materialize into reality. Bill Gates, the founder of Microsoft, recently said that ‘AI can be our friend’ and is good for the society. From decision-making to computing to robotics to vehicles and even cosmetics, AI has left its mark everywhere and it will usher in the grandest social engineering experiment in the history of the world.
+CBInsights has prepared a list of the major AI trends to follow in 2018. Let’s have a look at the 13 trends In AI that will have a huge impact in years to come.
+Robotic workforce
+It is no more a closely guarded secret that in the future much of the labor-intensive work in assembly lines of factories would be done by AI programmed robots and not workers. This would bring down the cost of hiring workers and also reduce outsourcing and offshoring.
+Recently, a Chinese T-shirt manufacturer Tianyuan Garments Company signed a Memorandum of Understanding (MoU) with the Arkansas government to employ 400 workers at $14/hr at its new garment factory in Arkansas. Operations were scheduled to begin by the end of 2017. Tianyuan’s factory in Little Rock, Arkansas, will use sewing robots developed by Georgia-based startup SoftWear Automation to manufacture apparel.
+In Japan, by 2025, more than 80% of elderly care would be done by robots, not caregivers.
+Ubiquitous Artificial Intelligence
+Artificial Intelligence impacts multiple fields, even those that we least expect it to. Machine learning, a crucial component of AI, refers to the training of algorithms on large data sets so that they learn how to identify desired patterns better at their tasks.
+The functioning of AI is getting more versatile with each passing day.
+UK’s IntelligentX wants to introduce the world’s first AI brewed beer; DeepFish in Russia is using neural networks to identify fish, and Sweden’s Hoofstep is raising VC money to bring deep learning-based behavioral analysis to horses.
+Uncle Sam vs The Dragon in the realm of AI
+Courtesy: CBInsights
+China is all set to prove its prowess in AI and outshine the US and other western countries. The Chinese government is investing a lot in this futuristic technology.
+The Chinese government is promoting an intelligence plan. It includes everything from smart agriculture and intelligent logistics to military applications.
+In 2017 China’s artificial intelligence startups took 48% of all dollars going to AI startups globally in, more than that of the USA. In deep learning also China publishes six times more patents than the US.
+The US is also, seemingly, losing its preponderance in AI startups to China. In technologies like face recognition, China has poured in billions.
+In July 2017, the Chinese government said it planned to reach the level of United States in artificial intelligence by 2020 and become the world leader by 2030. One government-backed project is to create a chip that has 20 times the performance and energy efficiency of NVIDIA’s GPUs. Chinese company Cambricon is pledging to make one billion processing units in the next three years and is developing chips specifically for deep learning.
+Battlefields in the age of AI
+The wars of the future will rely on smart technology like never before. Drones are just the beginning. With the increasing convergence of conventional defense, surveillance, and reconnaissance with cybersecurity, the need for algorithm-based AI only expands.
+Cybersecurity is a real opportunity area for AI since attacks are constantly-evolving and the main challenge is new forms of malware. Prima facie, AI would have an extra edge here given its ability to operate at scale and sift through millions of incidents to identify aberrations, risks, and signals of future threats.
+The market is mushrooming with new cybersecurity companies trying to leverage machine learning to some extent.
+A total of 134 startups have raised $3.65B in equity funding in the last 5 years. About 34 of them raised equity for the first time last year to compete in a market still dominated by larger companies like Cybereason, CrowdStrike, Cylance, and Tanium.
+Voice Assistants
+Voice-enabled computing was all over at the Consumer Electronics Show in 2018. Barely any IoT device was without integration into the Amazon Echo or Google Home.
+Samsung is also working on its own voice assistant, Bixby. It wants all of its products to be internet-connected and have intelligence from Bixby by 2020.
+LG made all of its appliances in 2017 WiFi-enabled.
+AI to throw the gauntlet before professionals
+Skilled professionals — including lawyers, consultants, financial advisors etc —will face the heat of artificial intelligence as much as unskilled and semi-skilled workers.
+For instance, artificial intelligence has huge potential to reduce the time and improve efficiency in legal work. As AI platforms become more efficient, affordable and commercialized, this will influence the remuneration structure of external law firms that charge by the hour.
+Decentralization and Democratization 
+Courtesy: CBInsights
+Artificial Intelligence isn’t only limited to powerful supercomputers and big devices; it is also becoming a part and parcel of smartphones and wearable devices and equipment. Edge computing is emerging as the next big area in AI.
+Apple released its A11 chip with a neural engine for iPhone 8 and X. Apple claims it can perform machine learning tasks at up to 600B operations per second.
+Another case for edge AI would be training your personal AI assistant locally on your device to recognize your unique accent or identify faces.
+
+Capsule Networks
+Neural networks have myriad architectures. One of the most popular one in deep learning these days is known as convolutional neural networks. Now a new architecture, capsule networks, has been developed and it would outpace the convolutional neural networks (CNNs) on multiple fronts.
+CNNs have certain limitations that lead to lack of performance or gaps in security.
+Capsule Networks would allow AIs to identify general patterns with less data and be less susceptible to false results.
+Capsule Networks would take relative positions and orientation of an object into consideration without needing to be trained exhaustively on variations.
+Dream salaries in AI talent hunt
+As per a recent report, the approximate number of qualified researchers currently in the field of AI is 300,000, including students in relevant research areas. Meanwhile, companies require a million or more AI specialists for their engineering needs.
+In the US, a Glassdoor search for “artificial intelligence” shows over 32,000 jobs currently listed, with several salary ranges well into the 6 digits. Companies are more than willing to pay handsome emoluments to intelligent AI experts.
+Also Read: What is the difference between AI, machine learning and deep learning?
+ Bigwigs of enterprise AI
+As tech giants like Google, Amazon, Salesforce, and Microsoft improve their enterprise AI capability, it would be very difficult for the smaller players to sustain themselves.
+Google released Cloud AutoML. Customers can bring their own data to train the algorithms to suit their specific needs.
+Amazon began selling AI-as-a-Service with “Amazon AI” under its AWS banner. Amazon AI‘s goal is to serve big.
+AI medical diagnostics
+AI to revolutionize medical science. Image Courtesy: Paysa
+Regulators in the US are looking forward at approving AI for use in clinical settings. The advantage of AI in diagnostics is early detection and better accuracy.
+Machine learning algorithms can compare a medical image with those of millions of other patients, picking up on nuances that a human eye may otherwise miss.
+Consumer-focused AI monitoring tools like SkinVision — which uses computer vision to monitor suspicious skin boils — are already in use. But a new wave of healthcare AI applications will set the ground for machine learning capabilities in hospitals and clinics.
+Recently, AstraZeneca, an Anglo–Swedish pharmaceutical and biopharmaceutical company, declared a partnership with Alibaba subsidiary Ali Health to develop AI-assisted screening and diagnostics applications in China.
+GE and Nvidia have also joined hands to bring deep learning capabilities to GE’s medical imaging devices.
+Build your own AI
+Because of open source software libraries, hundreds of APIs and SDKs, and easy assembly kits from Amazon and Google, the barrier to entry in AI could not have been lower. Google launched an “AI for all ages” project called AIY (artificial Intelligence yourself).
+Its first product was a voice recognition kit for Raspberry Pi that enabled the users to give any voice they desired to their personal voice assistant.
+Point of no return for Machine Learning? 
+2017 was the peak year for machine learning, but now the graph is expected to fall steeply. Courtesy: CBInsights
+First was big data, and then came cloud, then the machine learning frenzy. We reached peak machine learning in 2017.
+Last year investors pumped in over $15.2B in funding to AI startups across multiple industries. It was a 141% spike in funding from 2016.
+Over 1,100 new AI companies have raised their first rounds of funding since 2016. And that’s more than half the historic number of AI startups that have ever raised an equity round.
+The normalization and mainstreaming of machine learning will make investors picky about the AI companies they fund.
+
+
+ 
+
+ TAGSArtificial IntelligenceFuture Technologies 
+
+
+Facebook
+
+
+Twitter
+
+
+WhatsApp
+
+
+Linkedin
+
+
+  Aditya ChaturvediDeputy Executive Editor at Geospatial World. Intrigued by the intersection of society, politics, popular culture and technology, he believes that the key to unraveling present complexities lie in the wisdom of the past.
+
+
+
+
+
+
+
+
+
+
+
+ 
+",,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#article', 'isPartOf': {'@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/'}, 'author': {'name': 'Aditya Chaturvedi', '@id': 'https://www.geospatialworld.net/#/schema/person/e4bafe7bd62a870690c9f930a971a948'}, 'headline': '13 major Artificial Intelligence trends to watch for in 2018', 'datePublished': '2018-07-10T05:15:48+00:00', 'dateModified': '2019-01-09T06:41:11+00:00', 'mainEntityOfPage': {'@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/'}, 'wordCount': 1550, 'publisher': {'@id': 'https://www.geospatialworld.net/#organization'}, 'image': {'@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#primaryimage'}, 'thumbnailUrl': 'https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/02/5912042-16x9-940x529.jpg', 'keywords': ['Artificial Intelligence', 'Future Technologies'], 'articleSection': ['Blogs'], 'inLanguage': 'en-US', 'copyrightYear': '2018', 'copyrightHolder': {'@id': 'https://www.geospatialworld.net/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/', 'url': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/', 'name': '13 major Artificial Intelligence trends to watch for in 2018', 'isPartOf': {'@id': 'https://www.geospatialworld.net/#website'}, 'primaryImageOfPage': {'@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#primaryimage'}, 'image': {'@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#primaryimage'}, 'thumbnailUrl': 'https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/02/5912042-16x9-940x529.jpg', 'datePublished': '2018-07-10T05:15:48+00:00', 'dateModified': '2019-01-09T06:41:11+00:00', 'description': 'Artificial Intelligence isn’t only limited to powerful supercomputers and big devices; it is also becoming a part and parcel of smartphones and wearable devices and equipment. Edge computing is emerging as the next big area in AI. Apple released its A11 chip with a neural engine for iPhone 8 and X.', 'breadcrumb': {'@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#primaryimage', 'url': 'https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/02/5912042-16x9-940x529.jpg', 'contentUrl': 'https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/02/5912042-16x9-940x529.jpg', 'width': 940, 'height': 529}, {'@type': 'BreadcrumbList', '@id': 'https://www.geospatialworld.net/blogs/13-artificial-intelligence-trends-2018/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.geospatialworld.net/'}, {'@type': 'ListItem', 'position': 2, 'name': '13 major Artificial Intelligence trends to watch for in 2018'}]}, {'@type': 'WebSite', '@id': 'https://www.geospatialworld.net/#website', 'url': 'https://www.geospatialworld.net/', 'name': 'Geospatial World', 'description': 'Top destination for geospatial industry trends', 'publisher': {'@id': 'https://www.geospatialworld.net/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.geospatialworld.net/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.geospatialworld.net/#organization', 'name': 'Geospatial Media & Communications', 'url': 'https://www.geospatialworld.net/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.geospatialworld.net/#/schema/logo/image/', 'url': 'https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/10/geospatial-world-logo.png', 'contentUrl': 'https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/10/geospatial-world-logo.png', 'width': 378, 'height': 181, 'caption': 'Geospatial Media & Communications'}, 'image': {'@id': 'https://www.geospatialworld.net/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/GeospatialMedia/', 'https://x.com/geoworldmedia', 'https://www.instagram.com/geospatialmedia/', 'https://www.linkedin.com/company/2391107', 'https://www.pinterest.com/geospatialworld/', 'https://www.youtube.com/channel/UC2UaNw8A-fQhIBBnaZPKEmA']}, {'@type': 'Person', '@id': 'https://www.geospatialworld.net/#/schema/person/e4bafe7bd62a870690c9f930a971a948', 'name': 'Aditya Chaturvedi', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.geospatialworld.net/#/schema/person/image/', 'url': 'https://www.geospatialworld.net/wp-content/uploads/2022/06/Adi-150x150.jpg', 'contentUrl': 'https://www.geospatialworld.net/wp-content/uploads/2022/06/Adi-150x150.jpg', 'caption': 'Aditya Chaturvedi'}, 'description': 'Deputy Executive Editor at Geospatial World. Intrigued by the intersection of society, politics, popular culture and technology, he believes that the key to unraveling present complexities lie in the wisdom of the past.', 'sameAs': ['https://www.linkedin.com/in/aditya-chaturvedi-0730241a2/', 'https://x.com/https://twitter.com/ACphenomen'], 'url': 'https://www.geospatialworld.net/author/aditya-chaturvedi/'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnBoaWxhbnRocm9weS5jb20vYXJ0aWNsZS93aGF0LWEtaS1tZWFucy1mb3ItZG9pbmctZ29vZC_SAQA?oc=5,The Promise and Peril of Artificial Intelligence in the Nonprofit World - The Chronicle of Philanthropy,2018-07-10,The Chronicle of Philanthropy,https://www.philanthropy.com,Technologies being tested today could transform nonprofits. But what happens when charity loses some of its human element?,"['Advocacy', 'Innovation', 'Executive Leadership', 'Technology']",Technologies being tested today could transform nonprofits. But what happens when charity loses some of its human element?,Technologies being tested today could transform nonprofits. But what happens when charity loses some of its human element?,http://schema.org,NewsArticle,,"{'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://chronicle.brightspotcdn.com/8e/54/9c0d13d3ec894ef8c75528285092/3c2f35c5ff0b5776a2310b036ad30fdf.jpg'}","[{'@context': 'http://schema.org', '@type': 'Person', 'affiliation': 'The Chronicle of Philanthropy', 'description': 'Nicole Wallace is features editor of the Chronicle of Philanthropy. Follow her on Twitter @NicoleCOP.', 'email': 'Nicole.Wallace@philanthropy.com', 'identifier': '0000016f-f6e1-d930-ab7f-f6f7e3fc0000', 'image': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://chronicle.brightspotcdn.com/dd/fa/10a66a574e5fa4d1aafb17433acc/wallace-nicole.jpg'}, 'jobTitle': 'Features Editor', 'name': 'Nicole Wallace', 'url': 'https://www.philanthropy.com/author/nicole-wallace'}]","{'@type': 'Organization', 'name': 'The Chronicle of Philanthropy', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://chronicle.brightspotcdn.com/dd/fa/10a66a574e5fa4d1aafb17433acc/wallace-nicole.jpg'}}",What A.I. Means for Doing Good,2018-07-10T12:30:00Z,,News,,False,,News,N/A,"
+
+
+                                        News
+                                    
+
+
+
+
+Twitter
+
+
+
+LinkedIn
+
+
+
+Show more sharing options
+
+
+
+
+Share
+Close extra sharing options
+
+
+
+Twitter
+
+
+
+LinkedIn
+
+
+
+Email
+
+
+ 
+Facebook
+
+
+
+Copy Link URLCopied!
+
+
+Print
+
+
+
+
+
+
+
+        What A.I. Means for Doing Good
+    
+Technologies being tested today could transform nonprofits. But what happens when charity loses some of its human element?
+
+
+By 
+Nicole Wallace
+
+
+
+        July 10, 2018
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jirsak/Getty Images/iStockphotoArtificial intelligence (AI), data mining, expert system software, genetic programming, machine learning, deep learning, neural networks and another modern computer technologies concepts. Brain representing artificial intelligence with printed circuit board (PCB) design.
+
+
+ None of the pleas for help that pour into the Crisis Text Line are easy. Young people wrestle with eating disorders and question their sexuality. Students struggle to deal with bullies in school and online. Desperate parents seek help for their children’s substance abuse.In the most severe cases, people text the hotline because they’re contemplating suicide. It’s imperative that those messages are flagged for immediate attention. Early on, the organization’s volunteer counselors made that call on their own. They read messages waiting in the hotline’s queue and responded to the person who seemed in the greatest distress.
+
+
+
+
+
+
+
+
+
+To continue reading for FREE, please sign up.
+To continue reading for FREE, please sign up.
+A free account provides you access to free articles each month, newsletters, job postings, salary data, and exclusive store discounts.
+
+
+
+Sign Up First Name  Last Name  Email  Password Sign Up
+Yes, please send me Philanthropy Today, The Chronicle's daily flagship newsletter.
+
+
+
+
+
+By creating a free account, you are agreeing to receive updates and special offers from The Chronicle and our selected partners. Unsubscribe links are provided in every email.  View our user agreement and privacy policy. 
+
+
+
+
+Already have an account?
+Sign In
+
+
+
+
+Subscribe today! Try unlimited digital access for as low as $8 a month.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Jirsak/Getty Images/iStockphotoArtificial intelligence (AI), data mining, expert system software, genetic programming, machine learning, deep learning, neural networks and another modern computer technologies concepts. Brain representing artificial intelligence with printed circuit board (PCB) design.
+
+
+ None of the pleas for help that pour into the Crisis Text Line are easy. Young people wrestle with eating disorders and question their sexuality. Students struggle to deal with bullies in school and online. Desperate parents seek help for their children’s substance abuse. In the most severe cases, people text the hotline because they’re contemplating suicide. It’s imperative that those messages are flagged for immediate attention. Early on, the organization’s volunteer counselors made that call on their own. They read messages waiting in the hotline’s queue and responded to the person who seemed in the greatest distress. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+A.I. for Social Good?
+Data science has the power to transform nonprofit work. Leaders are thrilled by the opportunity to scour vast amounts of data for connections but unnerved by the prospect of data tainted by bias and unseen algorithms deciding who gets services. For our July cover package, the Chronicle examines how philanthropy is grappling with what it means when machines take on tasks that humans usually to do.
+
+
+Opinion: Chatbots, A.I., Cyborgs, and More Have the Potential to Help Fundraising
+
+
+How Charities Are Using Artificial Intelligence to Boost Impact
+
+
+
+
+ As the five-year-old group gained experience, however, it turned to data to triage incoming messages. Using past text exchanges with people who were suicidal, it trained an algorithm to identify the highest-risk texters, label them “code orange,” and move them to the top of the list. Now, instead of poring over messages, counselors click a button marked “Help another texter.” The algorithm eventually proved so effective that it identified 86 percent of the people who are suicidal within their first couple messages. The result: People at greatest risk got help faster, and overall wait times dropped by roughly 40 percent. Today Crisis Text Line’s algorithms monitor the conversations. An exchange might drop down from code orange if the counselor de-escalates the situation or might move up to code orange as a texter opens up about more severe problems. The group is working on a system that will color code conversations by level of severity.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ The Crisis Text Line employees who supervise counselors often oversee 20 or more conversations at once. The ongoing risk assessment helps them determine which exchanges warrant the most attention. “What we’re talking about is real-time analysis,” says Bob Filbin, chief data scientist at Crisis Text Line. “The true end game of artificial intelligence is thinking like a human would think at the speed or better than a human would think.” Crisis Text Line’s innovation illustrates the potential for artificial intelligence, or A.I., to transform the nonprofit world. But talk of A.I. makes Filbin uncomfortable. He’d rather call it machine learning or data science. The term “artificial intelligence” can be polarizing and comes with baggage about moral values, he says. “People either really like it or really dislike it,” Filbin says. “Personally, I think it distracts from the work.” As Filbin suggests, the nonprofit field is equal parts thrilled and unnerved by the promise of artificial intelligence for social good. Leaders marvel at the opportunity to scour huge amounts of data for connections that would otherwise go unnoticed. But the specter of unseen algorithms deciding who gets services and the fear of bias-tainted data make the technological future seem more menacing than transformational. And nonprofits are terrified about what clients and the public would think about computers taking over tasks traditionally done by people.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ 
+
+
+Sorting Photos with A.I.
+Motion-sensitive cameras snap hundreds of thousands of photographs that scientists at the Lincoln Park Zoo study to learn about the coyotes, raccoons, and other critters that prowl greater Chicago. An employee or volunteer reviews each image and culls any in which incidental motion triggers the camera — a task so painstaking and slow that the zoo has a two-year backlog. The researchers, however, are working with a data-science company to train an algorithm to label the animal images — and to select the roughly 70 percent of photos that include no wildlife at all and the 10 percent that show humans.       
+Photographs courtesy of Lincoln Park Zoo
+
+
+ Ambitious Projects The number of charities that deploy artificial intelligence is still minuscule, but interest is growing. Sometimes the technology drives ambitious projects. The Anti-Defamation League, for example, uses artificial intelligence to better understand online hate speech, information that shapes its prescriptions for lawmakers and tech companies. The research would be nearly impossible to do any other way, says Brittan Heller, director of technology and society at the nonprofit. “What A.I. does is identify patterns at scale.” Perhaps the most common nonprofit use is to automate repetitive tasks. To glimpse the hidden lives of urban wildlife, researchers at the Lincoln Park Zoo study thousands of photographs taken by motion-sensitive cameras installed throughout Chicago and its suburbs. The cameras take 400,000 to 500,000 pictures annually, with a staff member or volunteer reviewing each one. It’s an enormous task, and there’s a two-year backlog. Uptake.org, the philanthropic arm of the artificial-intelligence company Uptake, is teaming up with the Urban Wildlife Institute, a research center at the zoo, to train an algorithm to electronically label the photos. Ultimately, the organizations hope the technology will differentiate between, say, a coyote and a racoon. First, however, the algorithm has to learn to weed out the thousands of images in which something other than wildlife — like grass blowing in the wind — triggered the camera. Some 70 percent of photos show no living creatures. Another 10 percent show people.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ Just eliminating those photos could enhance the institute’s ability to influence policy and planning decisions, says Seth Magle, the institute’s director. He often fields questions like, Does your data show there are fewer squirrels this year? “Right now what we have to tell them is, ‘Well, we’re so backlogged I don’t know. I’m still working on data from three years ago,’ "" Magle says. Benefit and Risk Even the biggest backers of artificial intelligence argue that its benefits come with risks. “Like any tool, if it’s misused, it’s going to cause harm,” says Andrew Means, director of Uptake.org. “The new thing is that the scale of harm can be quite large if it goes unchecked. But that also means that the scale of benefit can be larger than ever before as well.”  In addition to the work with the Urban Wildlife Institute, Means and his Uptake.org team are developing A.I. tools to help low-income students decide where to go to college. It’s also building a system to improve collaboration among anti-trafficking groups. For the past five years, Means has been organizing conferences about nonprofit data use, including the Good Tech Fest in May.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ Still, he worries about data science done badly. Analysts don’t always understand the data they work with, know what they can build with it, or grasp its limits. The buzz about data science is attracting new people to the field, not all of whom are skilled, Means says. “They’re misinterpreting data all over the place.” Critics also worry that combining flawed data and advanced analytics will replicate and magnify discrimination. Take criminal-justice data. Researchers and others are concerned that policing practices and prosecution are racially biased. Yet numbers generated from law-enforcement agencies and criminal-justice proceedings are plugged into algorithms designed to predict, for instance, which criminals are likely to land in jail again. It’s fair to ask: Is the algorithm’s end product accurate, or does it reflect bias? “Garbage in, garbage out,” says Roy Austin, who co-authored a report on big data and civil rights when he was director of the Office of Urban Affairs, Justice, and Opportunity in the Obama White House.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ Officials at the Laura and John Arnold Foundation think a lot about such issues. They acknowledge shortcomings in criminal-justice data but still think the information is critical. The foundation is taking on the cash-bail system, which often results in indigent defendants languishing in jail before they are tried. Detention can mean the loss of a job, housing, or even child custody. It also creates an incentive for people to accept a plea deal whether or not they committed the crime. One way the foundation is trying to reduce unnecessary pretrial detention: Public Safety Assessment, which judges can use to help decide whether to release a defendant or set bail. Created with outside experts, the tool relies on an algorithm with nine factors to gauge the risk of a defendant committing a new crime if released before trial or failing to appear for future hearings. The foundation lists on its website those nine factors and how they’re weighted. Perhaps most important, the tool determines risk scores drawing on convictions data, not arrests. “Arrests don’t always lead to convictions, and arrests are sometimes made on a flimsy legal basis,” says Jeremy Travis, executive vice president of criminal justice at the foundation. The assessment is currently in use in 40 jurisdictions, including statewide in Arizona, Kentucky, and New Jersey. More than 500 jurisdictions have expressed interest in it. The foundation is looking for a national organization to help it make the assessment available broadly. Travis says he understands critics’ concerns that such assessments will perpetuate past injustices, but he says the alternative is the inconsistency that comes with each judge.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ “It doesn’t make the decisions for them,” he says. “But if it guides the decisions and there’s less subjectivity in those decisions, that’s progress.” The Omidyar Network is thinking about how data is used by the biggest supporter of nonprofits — governments. It has long supported efforts to encourage policy makers to be transparent and release more data to the public. Over time, the network’s leaders became concerned about how that data was being used. “When the allocation of public resources is being decided by an automated decision-making system, it raises massive questions of fairness, of bias, of inclusion, exclusion, and equity,” says Martin Tisné, an investment partner at Omidyar. Three years ago, the network began making grants related to digital rights. It supports organizations that conduct research on artificial intelligence and recommends how to regulate data use. Last year Omidyar committed $10 million to help create the Ethics and Governance of Artificial Intelligence Fund, which supports research on A.I. in the public interest. LinkedIn founder Reid Hoffman, the Knight Foundation, and others kicked in $17 million more. The race is on to determine how data use and artificial intelligence will be regulated, Tisné says. “I fundamentally believe that the public should have a voice in those matters.”
+
+
+ADVERTISEMENT
+
+
+
+
+
+ Human vs. Machine The opportunity to automate decision making is alluring. But some leaders worry about removing the human element from decision making. Overwhelmed by people in need, social-service organizations could be tempted to turn tough decisions over to an algorithm, says Allison Fine, an expert on nonprofit leadership and strategy. She argues the field needs to think carefully about what tasks are appropriate for computers. 
+
+
+
+
+
+
+
+Feeding Children EverywhereFeeding Children Everywhere’s Fed 40 mobile app lets people apply easily for temporary food assistance.
+
+
+ “It’s really easy to begin to have the machines do the hard work of choosing who gets services and who doesn’t,” Fine says. “You’re going to lose that empathetic touch if we head toward too much automation.” Feeding Children Everywhere decided the benefits of A.I. outweigh the costs. The Florida nonprofit’s Fed 40 program lets applicants apply for temporary food assistance, often during a crisis, through a mobile app. Those who qualify are mailed the ingredients for 40 free meals. Roughly half of applicants qualify automatically, but when even one criterion is missed, an employee reviews the application. As the program grew, the nonprofit realized it would need to hire more case workers to keep up with applications. But when employees listed the reasons a denied applicant might be approved after further consideration, it became clear that artificial intelligence could identify the patterns. Some applicants, for example, had made too much money to qualify but recently lost a job or were the victim of a natural disaster.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ The organization used previously approved applications to train an algorithm that now reviews requests that don’t meet basic requirements. As a check, case workers now review applications denied by the algorithm. Eventually, however, technology will make the final call. What clinched the decision? By not hiring more case workers, the charity will provide 200,000 more meals next year. Sensitive to the concern that technology lacks heart, Feeding Children Everywhere named its A.I. effort Project Teresa in honor of Mother Teresa. “Anybody who’s on the team working on this understands that a compassionate approach is our number-one goal,” says Dave Green, the nonprofit’s CEO. 
+
+
+
+
+
+
+
+Feeding Children EverywhereUsing its Fed 40 app and artificial intelligence, Feeding Children Everywhere can sort efficiently through applications for food aid. Thanks to the technology, the organization’s volunteers and staff will prepare and provide 200,000 more meals next year.
+
+
+ Green says that his family was denied food assistance when he was a child, an experience that has shaped his leadership of the group. He says auditing technology-produced denials in the beginning will ensure that no one truly in need is turned away and that the artificial intelligence will continue to improve over time. “It’s like if you hired an employee to look at those applications; they’d get better and better and better over time, knowing what they can approve or deny,” he says. “The difference is that with an employee, they get promoted, they move to a new department, or they move on to a different job.” The Empathy Factor Technology has always been critical to Beyond 12’s work to help first-generation and low-income college students complete their degrees. The charity pairs students with “virtual coaches,” recent graduates who help them navigate college life by phone, email, and even Snapchat.
+
+
+ADVERTISEMENT
+
+
+
+
+
+ The charity now is using technology to provide automatic services, which in turn will mean the group can work with more students. Step one is an app that sends students notifications about things like the deadline for picking courses. The group also plans to add a chatbot to answer students’ most frequent questions: Can I drop a class after the add-drop period? Where can I find my PIN number for the financial-aid website? Coaches are on hand if students run into problems, and they call every two weeks and text or email between conversations. Over time, Beyond 12 wants to use artificial intelligence to analyze data and predict when a student is headed for trouble. With that, coaches could spend more time working out small issues before they snowball and focus a little less on students who are thriving. “This came from our coaches,” says Alexandra Bernadotte, founder and CEO of Beyond 12. Counselors complain that because basic logistics conversations take so much time, they can’t do enough to inspire students and encourage big-picture thinking. Artificial intelligence will never replace coaches, Bernadotte says. The technology’s greatest promise is to manage rote tasks so employees have more time for the things that people still do best. “Humans can’t scale, but machines can’t empathize.”
+
+
+
+","{'@type': 'WebPage', '@id': 'https://www.philanthropy.com/article/what-a-i-means-for-doing-good/'}",,,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.contentBody'}",,,,,,,,,,,,,,0000016f-f7bb-d930-ab7f-f7bf5fe1019a,,,,,,,
+https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNhcGdlbWluaS5jb20vaW4tZW4vaW5zaWdodHMvZXhwZXJ0LXBlcnNwZWN0aXZlcy9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yZWFkaW5lc3MtYW5kLXBlcmZvcm1hbmNlLWJlbmNobWFyay_SAQA?oc=5,Artificial Intelligence Readiness and -Performance Benchmark - Capgemini,2018-07-10,Capgemini,https://www.capgemini.com,Artificial Intelligence Readiness and -Performance BenchmarkCapgemini2018-07-10 Artificial Intelligence (AI) will disrupt a large breath of markets and,N/A,Artificial Intelligence Readiness and -Performance BenchmarkCapgemini2018-07-10 Artificial Intelligence (AI) will disrupt a large breath of markets and,N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+Artificial Intelligence Readiness and -Performance BenchmarkCapgemini2018-07-10 
+
+
+Artificial Intelligence (AI) will disrupt a large breath of markets and transform organizations, institutions and societies. AI is expected to bring profound positive impacts while at the same time there are also possible risks and pitfalls to watch out for. For countries, it is therefore of paramount importance to become ‘AI ready’, thus to gain the ability to reap the benefits of AI. Capgemini Consulting conducted a benchmark of countries to compare and see where they stand in this process of becoming an ‘AI ready’.  “Artificial intelligence readiness is the extent to which a country and its institutions & businesses have the ability to reap the benefits of AI”
+The benchmark contains indicators for three large components that are defined as the foundation of AI readiness, namely the (1) Institutional Environment, the (2) Technological Maturity and the (3) Skill Advancement. These are aggregated to form a total score on which a countries rank is based. The results are as follow:
+
+
+We also conducted an assessment of the level of performance in AI.  “AI performance is the extent to which a country and its institutions & businesses have committed to the pursuit of a leading position in artificial intelligence.”
+The AI Performance Benchmark uses performance indicators to indicate a global leadership rank by creating five categories: (1) Personnel, (2) Monetary Impact, (3) Competitiveness, (4) Research & Education and (5) Technology.
+
+
+The detailed AI Readiness and -Performance Benchmark can be downloaded here: AI Readiness Benchmark.
+To avoid missing out on the potential of AI and to safeguard us from any potential risks, companies and countries need to make fundamental changes to become ready for integrating AI holistically into their strategies, operations and lives. These policy changes should be made to aid in this process:
+
+AI awareness should be increased by intensively experimenting with AI
+Existing legal frameworks need to be revised to create a favourable AI-enabled environment
+SMEs and bigger companies should work collaboratively and prioritize the low complexity and high benefit projects to create quick wins
+Data sharing and accessibility should be stimulated in initiatives and innovation hubs
+The skills gap between the general workforce and the one that can work with AI needs to be decreased
+
+Dinand TinholtExpert in Analytics, Data, Data-driven transformationData-driven transformations can deliver great value to an organization and elevate the enterprise in competitive markets where every bit of advantage counts.I am a Vice President at Capgemini’s Insights & Data global business line, responsible for the consumer products, retail, and distribution (CPRD) market in North America. Previously, I was a lead for our AI strategy and operating models and a part of our global insights-driven enterprise leadership team.My daily work includes helping clients use data and analytics to improve their business performance and drive innovation in their products and services. I am passionate about helping organizations unlock the potential of their data to truly become data-driven enterprises.Some of my recent work includes:Delivering data transformations and multiple data infrastructure and cloud migrations for major consumer-goods companies in North AmericaDesigning and implementing a data innovation Center of ExcellenceLeading promotional effectiveness and pricing analytics projects for retailers.I have experience working for global clients in a range of sectors beyond CPRD, including energy, automotive, aerospace, government, and manufacturing. I have been an advisor to multiple organizations and have helped them focus on digital strategy and improve their ability to leverage data and accelerate innovation.I have great interest in photography, and I love hiking. I am also fluent in Dutch, and can hold conversations in German, French, and Indonesian.
+
+
+",,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/', 'url': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/', 'name': 'Artificial Intelligence Readiness and -Performance Benchmark - Capgemini India', 'isPartOf': {'@id': 'https://www.capgemini.com/in-en/#website'}, 'primaryImageOfPage': {'@id': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/#primaryimage'}, 'image': {'@id': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/#primaryimage'}, 'thumbnailUrl': 'https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/05/shutterstock_675107101-4.jpg', 'datePublished': '2018-07-10T18:15:00+00:00', 'dateModified': '2023-12-21T06:50:53+00:00', 'author': {'@id': 'https://www.capgemini.com/in-en/#/schema/person/e18c469582cc4e2dd2649041406912d2'}, 'description': 'Artificial Intelligence Readiness and -Performance BenchmarkCapgemini2018-07-10 Artificial Intelligence (AI) will disrupt a large breath of markets and', 'breadcrumb': {'@id': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/#breadcrumb'}, 'inLanguage': 'en-IN', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-IN', '@id': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/#primaryimage', 'url': 'https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/05/shutterstock_675107101-4.jpg', 'contentUrl': 'https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/05/shutterstock_675107101-4.jpg', 'width': 4500, 'height': 3000}, {'@type': 'BreadcrumbList', '@id': 'https://www.capgemini.com/in-en/insights/expert-perspectives/artificial-intelligence-readiness-and-performance-benchmark/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.capgemini.com/in-en/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence Readiness and -Performance Benchmark'}]}, {'@type': 'WebSite', '@id': 'https://www.capgemini.com/in-en/#website', 'url': 'https://www.capgemini.com/in-en/', 'name': 'Capgemini India', 'description': 'Just another www.capgemini.com site', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.capgemini.com/in-en/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-IN'}, {'@type': 'Person', '@id': 'https://www.capgemini.com/in-en/#/schema/person/e18c469582cc4e2dd2649041406912d2', 'name': 'Sai Kiran', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-IN', '@id': 'https://www.capgemini.com/in-en/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/f4d2f4ca8eb151bdcb41a37e2d99c11a?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/f4d2f4ca8eb151bdcb41a37e2d99c11a?s=96&d=mm&r=g', 'caption': 'Sai Kiran'}, 'url': 'https://www.capgemini.com/in-en/author/saikiranb/'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS94a2NkLWNvbS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hNGNiZjYzMDNiMWXSAQA?oc=5,"xkcd.com + Artificial Intelligence | by Daniel Shapiro, PhD - Towards Data Science",2018-07-09,Towards Data Science,https://towardsdatascience.com,"This article shows you how we created an xkcd.com comic classifier using data science, deep learning, and elbow grease. We can predict the topic of the comic from the description of the comic. My…",N/A,"This article shows you how we created an xkcd.com comic classifier using data science, deep learning, and elbow grease. We can predict the…","This article shows you how we created an xkcd.com comic classifier using data science, deep learning, and elbow grease. We can predict the…",http://schema.org,NewsArticle,https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e,['https://miro.medium.com/v2/resize:fit:1200/1*bijBa9eUlzpzUnpIC7L62A.png'],"{'@type': 'Person', 'name': 'Daniel Shapiro, PhD', 'url': 'https://towardsdatascience.com/@lemaysolutions'}","{'@type': 'Organization', 'name': 'Towards Data Science', 'url': 'towardsdatascience.com', 'logo': {'@type': 'ImageObject', 'width': 192, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:384/1*cFFKn8rFH4ZndmaYeAs6iQ.png'}}",xkcd.com + Artificial Intelligence - Towards Data Science,2018-07-09T20:46:13.071Z,2018-07-18T02:08:09.916Z,,xkcd.com + Artificial Intelligence - Towards Data Science,,,N/A,N/A,"xkcd.com + Artificial IntelligenceDaniel Shapiro, PhD·FollowPublished inTowards Data Science·7 min read·Jul 9, 20181.1K3ListenShareThis article shows you how we created an xkcd.com comic classifier using data science, deep learning, and elbow grease. We can predict the topic of the comic from the description of the comic.xkcd is an excellent example of time well wasted.My circle of friends has a huge nerd crush on Randall Munroe, the author of the xkcd comics, and books like what if?. Mary Kate MacPherson took the initiative, and scraped the transcripts for every comic, and used my patent analyzer code to turn the transcripts into embedding vectors. She then tossed the vectors and labels into tensorflow and crunched the data down into clusters using t-SNE. Those of you who know xkcd.com will be well aware that the comics are numbered sequentially. I have a bet going that Randall will mention when the comic number is the same as the current year (2018) and so I have to publish this article quickly! As of writing this sentence he is already at 2017!Here is a video of how that dimensionality reduction looks, both in 3D and in 2D:Sorry I didn’t have the time to clip and edit the video like I wanted to, so it’s a bit long. Feel free to jump around and see the difference between 2D and 3D, and other settings. A learning rate of 1 worked best for us. The result we used is shown in an annotated screenshot below.The output of t-SNE dimensionality reduction was a bunch of points in 2D space, crunched down from the original 300 dimensional embedding space.Mary Kate MacPherson then looked through the clusters on the 2D result to understand what they mean. The figure below shows us that the articles cluster by topic and entity.This is our look into Randall Munroe’s brain.Looking at the the big picture, we can see that comics about food clump together, as do articles about star wars, trends, wordplay, kids, charts/diagrams, and so forth. As humans we can identify small clusters of a dozen or less items (e.g. kid cluster), but in order to do a really good job, deep learning wants to see lots of examples, and so I will show you how to build an xkcd topic model below using fewer clusters. For context, xkcd.com has a total of about 2,000 comics.Let’s have a look at how the comics cluster in the time domain:Brighter dot = newer comic. Darker dot = older comic.Here is a look at the original code:Original patent application to vectors code… but comics are way more fun!Applying t-SNE and GMM in python, we get the following clusters:Not super nice clumps. Let’s try again….When we see clusters like this one above, it is not a good result. We want to see clumps where there is data, and empty holes between clusters. It reminds me of a quote I often hear from a friend of mine “ The future is already here — it’s just not very evenly distributed.” And so when we see even distributions like this, it is usually a sign that we need to try again.Here is an example of the type of separation we would like to see:This MNIST example looks way better than what we got from our python code so far… Source: this online book.The color of each dot shows the cluster membership for that dot. There are still not as nice separations as we saw with the embedding projector…I think I found the reason for the mismatch between tensorboard and my python code. I had perplexity at 25 instead of 12. DOH. Now I changed the 2D and 3D perplexity values and reran the code. Here is what we get:Each color is a different cluster. It looks quite similar to the original non-working example… But a later version worked amazing, as you will see…2D slice of the 3D t-SNE results. Clusters 4 and 6 are pretty mixed up.I am pretty happy with the 2D t-SNE result, but GMM didn’t do a great segmentation job:More separation than the last time.Normalizing the 300 columns before t-SNE gave us this result:Let’s just go for it…Let’s back out of nerding out on t-SNE and try to understand the clusters, but first here is the data used to do all this stuff…Just to remind you, we have used comics to create a topic model. Here are the topic model vectors for each comic, and here are the topic labels (just integers) for each comic. I’ve organized stuff into a github repo for your coding pleasure.Here are the cluster dataframes for each comic using the automated methods described above: 3D and 2D. And here is the notebook for applying t-SNE in 2D and 3D. Here are the cluster labels (just integers) for each comic (samples for 10 clusters) using the manual method described below.What does it all mean?Here is our interpretation of the clusters for the 3D t-SNE data clustered by GMM:Cluster examples from this 3D dataset are: ZERO (questions), ONE (tech), TWO (graphs), THREE (dates+places), FOUR (time), FIVE (thinking stuff), SIX (hats! yes, hats!), SEVEN (bad stuff), EIGHT (math), and NINE (interwebz).And here is our interpretation of the 2D cluster data we created using the embedding projector by hand:Cluster examples from this dataset are: ONE (time), TWO (philosophy), THREE (science), FOUR (perspective), FIVE (excited), SIX (Megan), SEVEN (computerwebs), EIGHT (hyphens), NINE (tech), and TEN (thinking stuff).A special thank you to Mary Kate MacPherson for doing all the manual labor on the cluster labeling, and Mathieu Lemay for letting her do it.To make your own cluster labels manually…To get the clusters (labels) manually instead, we run 10,000 iterations of t-SNE (learning rate = 1; perplexity = 12) and instead of using clustering (k-means or GMM) we just eyeballed it and pulled out the IDs for each cluster. I absolutely LOVE that you the reader can head over to projector.tensorflow.org and completely replicate this experiment.Here is a big picture view of how to do this yourself the “manual” way:This is the picture of the hand-made data we used.Now let’s go through this step by step:1) Load the dataHere is a link to an interactive version of the data in the embedding projector:xkcd Embedding projector THIS-IS-SO-COOLVisualize high dimensional data.2) Run t-SNE. Stop when you feel like clustering looks good.3) Create clusters by hand by dragging with the annotation toolThis is the tool you wantDrag the tool to make a box over the points you want to label. We can see that the cluster includes samples such as 1834, 128, 307, 459, 89, and 477. They are about disaster, pain, disaster, angry exclamation… I see a pattern.The points will show up in the list on the right hand side4) Inspect the source of the list on the right, and copy out the HTML DIV of the list (I know: gross, and it has a limit 100, so you don’t get all the data for big clusters)5) replace all the HTML with spaces in notepad++. To do this, simply go to the replace menu (CTRL+H), and replace this regular expression with a space character:<[^>]+>Now replace all double spaces with single spaces until there are only single spaces, and then replace all the single spaces with newlines. Chopping off the first space character, we now have a list of IDs for this cluster. Repeat for each cluster until you covered all the clusters you care about. BAM. Done.You can merge all the clusters into one file either in python or excel. For here it is pretty easy to see how we got to building the pandas dataframe of the topic model.Predict Stuff!It would be really great to build a topic model of xkcd and predict what kind of topic a given comic is about.We know the input (X) is the topic model vector for the comic and the ascending ID of the comic, and the prediction (Y) is the cluster label. So we know this is a categorical problem that will need a softmax, and an MLP (DNN) seems up for the job.Here is the network we used on the 3D t-SNE dataset (random_state=42!):model = Sequential()model.add(Dense(128, activation='relu', input_dim=X_train.shape[1]))model.add(Dropout(0.5))model.add(Dense(128, activation='relu'))model.add(Dropout(0.5))model.add(Dense(128, activation='relu'))model.add(Dropout(0.5))model.add(Dense(y_train.shape[1], activation='softmax'))And we got very good predictions from this network (89% accuracy):Confusion Matrix[[11  0  0  1  0  0  0  0  0  0] [ 0 27  0  0  0  0  1  2  1  1] [ 0  2 11  0  0  0  0  0  4  2] [ 0  1  0 16  0  0  0  0  0  0] [ 0  0  0  0 24  0  1  1  0  0] [ 1  0  0  1  0 25  0  0  0  0] [ 0  0  0  0  1  0 18  0  0  0] [ 0  0  0  0  0  0  0 12  0  0] [ 0  0  0  0  0  0  0  0 23  0] [ 0  2  0  0  0  0  0  0  0 13]]If you do play around with this dataset it would be wonderful to hear about your results! I’m sure Randall will be pleased that we are all nerding out on his years of doodling.Happy xkcd coding,-Danieldaniel@lemay.ai ← Say hi.Lemay.ai1(855)LEMAY-AIOther articles you may enjoy:Artificial Intelligence and Bad DataImage Datasets for Artificial IntelligenceArtificial Intelligence: Get your users to label your data",https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e,,,,,,,,,,,,,,,,,a4cbf6303b1e,2018-07-09T20:46:13.071Z,"['Daniel Shapiro, PhD']",,,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmZhc2tlbi5jb20vZW4va25vd2xlZGdlLzIwMTgvMDcvY2FuLWFpLWJlLWFuLWF1dGhvci1hY2NvcmRpbmctdG8tY29weXJpZ2h00gEA?oc=5,[Part 2] Could the Creations of Artificial Intelligence be Entitled to Intellectual Property Protection? - Fasken,2018-07-10,Fasken,https://www.fasken.com,,N/A,,N/A,https://schema.org,WebPage,https://www.fasken.com/en/knowledge/2018/07/can-ai-be-an-author-according-to-copyright,https://www.fasken.com/-/media/c2914b930c02467585f5410c234330fe.jpg?modified=20220314172904,Fasken,"{'@type': 'Organization', 'name': 'Fasken', 'logo': {'@type': 'ImageObject', 'url': 'https://www.fasken.com/assets/global/img/favicons/favicon-32x32.png?v=-30881008956'}}",[Part 2] Could the Creations of Artificial Intelligence be Entitled to Intellectual Property Protection?,2018-07-10,,,[Part 2] Could the Creations of Artificial Intelligence be Entitled to Intellectual Property Protection?,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.fasken.com/en', 'name': 'Home', 'description': 'As a premier law firm with over 950 lawyers worldwide, Fasken is where excellence meets expertise. We are dedicated to shaping the future our clients want,'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.fasken.com/en/knowledge', 'name': 'Knowledge', 'description': 'Search Fasken publications, blogs and webinars for insight on the legal developments that you want to know about.'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://www.fasken.com/en/knowledge/2018/07/can-ai-be-an-author-according-to-copyright', 'name': '[Part 2] Could the Creations of Artificial Intelligence be Entitled to Intellectual Property Protection?', 'description': ''}}]",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,"['https://www.facebook.com/154446131283771/', 'https://www.linkedin.com/company/163768/', 'https://www.youtube.com/channel/UCRZHjLjO0AiY4qE7Y7gWIbQ']",,,,,"[{'@type': 'ContactPoint', 'telephone': '+1 403 261 5350', 'email': 'calgary@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Calgary', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'Alberta', 'addressLocality': 'Calgary'}}}, {'@type': 'ContactPoint', 'telephone': '+27 11 586 6000', 'email': 'johannesburg@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Johannesburg', 'address': {'@type': 'PostalAddress', 'addressCountry': 'South Africa', 'addressRegion': '', 'addressLocality': 'Johannesburg'}}}, {'@type': 'ContactPoint', 'telephone': '+44 20 7917 8500', 'email': 'london@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - London', 'address': {'@type': 'PostalAddress', 'addressCountry': 'United Kingdom', 'addressRegion': '', 'addressLocality': 'London'}}}, {'@type': 'ContactPoint', 'telephone': '+1 514 397 7400', 'email': 'montreal@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Montréal', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'Québec', 'addressLocality': 'Montréal'}}}, {'@type': 'ContactPoint', 'telephone': '+1 613 236 3882', 'email': 'ottawa@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Ottawa', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'Ontario', 'addressLocality': 'Ottawa'}}}, {'@type': 'ContactPoint', 'telephone': '+1 418 640 2000', 'email': 'quebec@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Québec City', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'Québec', 'addressLocality': 'Québec'}}}, {'@type': 'ContactPoint', 'telephone': '+1 604 631 3131', 'email': 'surrey@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Surrey', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'British Columbia', 'addressLocality': 'Surrey'}}}, {'@type': 'ContactPoint', 'telephone': '+1 416 366 8381', 'email': 'toronto@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Toronto', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'Ontario', 'addressLocality': 'Toronto'}}}, {'@type': 'ContactPoint', 'telephone': '+1 587 233 4113', 'email': 'tsuutina@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': ""Fasken - Tsuut'ina"", 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'Alberta', 'addressLocality': ""Tsuut'ina""}}}, {'@type': 'ContactPoint', 'telephone': '+1 604 631 3131', 'email': 'vancouver@fasken.com', 'contactType': 'customer service', 'areaServed': {'@type': 'Place', 'name': 'Fasken - Vancouver', 'address': {'@type': 'PostalAddress', 'addressCountry': 'Canada', 'addressRegion': 'British Columbia', 'addressLocality': 'Vancouver'}}}]","{'@type': 'SearchAction', 'target': 'https://www.fasken.com/en/searchresults#q={search_term_string}&amp;sort=relevancy', 'query-input': 'required name=search_term_string'}",Home > Knowledge > [Part 2] Could the Creations of Artificial Intelligence be Entitled to Intellectual Property Protection?,"{'@type': 'imageObject', 'url': 'https://www.fasken.com/-/media/c2914b930c02467585f5410c234330fe.jpg?modified=20220314172904'}",
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2lzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWEtdGhyZWF0LXRvLXlvdXItam9i0gFyaHR0cHM6Ly93d3cuYW5hbHl0aWNzaW5zaWdodC5uZXQvYW1wL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2lzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWEtdGhyZWF0LXRvLXlvdXItam9i?oc=5,Is Artificial Intelligence a threat to your Job? - Analytics Insight,2018-07-10,Analytics Insight,https://www.analyticsinsight.net,,"Artificial Intelligence,Automation,Job Threat","New technologies bring innovations, in business, and change the course of the work being done. But does a technical revolution bring shift in employment pattern","New technologies bring innovations, in business, and change the course of the work being done. But does a technical revolution bring shift in employment pattern",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/is-artificial-intelligence-a-threat-to-your-job,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2018/07/AI-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Kamalika Some', 'name': 'Kamalika Some', 'url': 'https://www.analyticsinsight.net/author/kamalika-some'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.linkedin.com/company/analytics-insight/', 'https://www.facebook.com/analyticsinsight.net', 'https://twitter.com/analyticsinme', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/'], 'id': 'https://www.analyticsinsight.net'}",Is Artificial Intelligence a threat to your Job?,2018-07-10T13:10:54Z,2018-07-10T13:10:54Z,Artificial Intelligence,Is Artificial Intelligence a threat to your Job?,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Is Artificial Intelligence a threat to your Job?', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/is-artificial-intelligence-a-threat-to-your-job'}]",N/A,N/A,"How Macroeconomic Factors Influence Crypto Market Volatility
+","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/is-artificial-intelligence-a-threat-to-your-job'}",https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2018/07/AI-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,,,,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/is-artificial-intelligence-a-threat-to-your-job', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2018/07/AI-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,,,,,,,2018-07-10T13:10:54Z,,,,,,"New technologies bring innovations, in business, and change the course of the work being done. But does a technical revolution bring shift in employment patterns too?.The Industrial Revolution which began in the 18th century was a transition to new manufacturing processes characterised by new inventions. The industrial revolution effectively increased the output levels and also saw improved systems of transportation, communication and banking. But the Industrial Revolution also took some key sacrifices, the change destroyed traditional jobs, but it also created new ones. The technology of the Industrial Revolution helped in discoveries of the modern industrial marvels and gave us the standard of living we are accustomed to. In the short term it was a difficult transition to the technology of the industrial revolution but in the long term, it was worth it..Short term pain for long term gain holds true for the 21stcentuary marked with artificial intelligence. Like the gruelling employment pattern changes witnessed in the industrial revolution, our generation will go through a similar transition with artificial intelligence to make way for an improved standard of living..Here Is How Artificial Intelligence Will Change the Future of Work:.1. Bring Automation.John Maynard Keynes coined the term &quot;technological unemployment&quot; way back in 1930. Simply described, technological unemployment is the loss of jobs due to advances in automation and other technologies. An Oxford University research carried out by Carl Benedikt Frey and Michael Osborne in 2013, predicted that 47% of the jobs can be easily automated in the next couple of decades. The research was carried out on 702 occupational groupings and the jobs were grouped into either routine or non-routine and either analytic/interactive or manual categories..While the routine jobs covering the same tasks every day, or month, or year like data entry, production logistics can be easily automated the non-routine jobs requiring creative responses to new things which are less likely to be automated. Similarly, manual jobs involving the work to be done by hands like cleaning, painting can be automated, but those that require high cognitive and good social skills have less chances of automation. These include social media personalities, marketing professionals persuading you to buy their products, relationship managers and empathetic medical professionals..2. Create New Jobs .Artificial intelligence through robotics will take away repetitive, standardised tasks that require the least of the human cognitive mind. The routine jobs will give way to complex and non-routine creative and challenging jobs built on new skills and education. Jobs such as being a YouTube blogger, or an SEO expert or a creative professional that were unheard of in the older times will be up for grabs. The new technologies will pave way to individuals devoting most of their waking hours to hobbies, volunteering, and community services while leaving the routine and mundane work to the robots..3. Increase the Gap Between the Owner and the Worker .Artificial intelligence will further increase the inequality between the highly skilled and less skilled workers. The highly skilled professionals will on the gaining edge of complex new opportunities with educational up gradation and skill adoption.  The less skilled will be on the receiving end as they will need time to adapt with limited resources and skills. Another inequality AI will bring is the widening gap between the owner and the workers. The routine work will be taken up by robots and common customer questions will be answered by a chatbot. This will lead to layoffs and the owner getting richer with increased revenue margins. The profit share that was paid for employees' salaries will now be deployed into buying machines that do not report sick leaves or demand overtime allowances..Artificial Intelligence Is A Job Creator.According to a report from the global research and advisory firm Gartner, artificial intelligence is currently creating more jobs than it is destroying. Surprised? artificial intelligence has bought a net increase of over two million jobs by 2025 and this includes not only the tech friendly job profiles like software engineers and data scientists but also allied jobs such as artificial intelligence trainers and analytics mentors..Artificial intelligence will be at its best when it assists humans to perform jobs and not compete against each other. Artificial intelligence- powered robots should not aim to replace human workers but to make them more efficient at work. An excellent example is when the artificial intelligence-enabled robots free employees from the tedious task of walking the aisles looking for out of stock or damaged products, and instead allows them to focus on fixing problems that require critical thinking to improve customer experience..The potential of artificial intelligence is underexplored and coupled with human intelligence is all set to create wonders and bring a revolutionary change in the way we live today..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here."
+https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vaHJtYXNpYS5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2VzLWltcGFjdC1vbi1oci_SAQA?oc=5,Artificial intelligence's impact on HR | HRM Asia - HRM Asia,2018-07-09,HRM Asia,https://hrmasia.com,,N/A,The robot revolution poses both opportunities and challenges for the human resource management function.,N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+Artificial intelligence’s impact on HR
+
+        The robot revolution poses both opportunities and challenges for the human resource management function.    
+
+
+        By: HRM Asia Newsroom | July 9, 2018
+            
+
+Topics: Australia | Features | HR Technology | Talent Management   
+
+Paul Findlay is the Managing Director at PD Training.
+
+
+
+ 
+
+The legal compliance team at JPMorgan Chase & Co wait anxiously to see if their new gadget will achieve what they think it can. A machine is reviewing a year’s worth of legal contracts that traditionally would require the team to put in some 360,000 professional hours.
+In little over two seconds, the information is delivered. It wasn’t a year, a month, a week or even a whole day. In just 2.85 seconds, an algorithm replicated the efforts of hundreds of contract lawyers and clerks.
+The algorithms were given the contracts prior to correction and then the same contracts after they were reviewed and amended. After reviewing thousands, the algorithm learned what was different and what changes were needed. The algorithm kept developing until it was able to produce the same results as if lawyers had reviewed and corrected the document themselves – no law degree required.
+Not only is this story astounding and exciting, but it also marks a significant shift in the role of artificial intelligence in our daily lives and the multiple occupations surrounding it. From voice-activated home appliances, self-driven cars, to a trip to the grocery store with no staff member in sight – we have finally reached the age of AI.
+
+AI’s introduction into the employment market has provided human resources management with both challenges and opportunities.
+While once AI came with an underlying fear of a robot apocalypse – destroying jobs, industries and everything else in its path – organisations across the private and public sector are now taking the initiative to not only embrace the technology, but to also create AI powered solutions.
+
+
+
+Say hello to the freelance market
+As part of these powered solutions, the workplace as we know it is changing.
+Yes, some jobs are disappearing, but there are plenty of new and exciting roles evolving too. Not only are job roles changing, but the traditional 9-5 employee could also soon cease to exist. The rise of a ‘gig economy’ has established a growing number of workers abandoning traditional employment for self-employment or casual work.
+This new market means changes are occurring in talent identification and hiring, with the supply and demand of labour constantly changing. In relation to demand, the rise of AI has played an interesting role in how an employee markets and differentiates themselves – seeking skills that robots cannot learn.
+ 
+
+
+A new workplace currency
+Emotional intelligence has become a new currency of its own, with those who possess it seen as an emerging elite, the untouchable.
+Humans have always excelled not necessarily in calculation but in context, in the space between the processes, in human interaction. Along with emotional intelligence, the emergence of soft skills will become prevalent among human employees. Employers and HR managers will become increasingly reliant on employees who have critical thinking and the capability to deal with complex problems.
+According to research by Deloitte Australia, the number of soft skill-intensive jobs will grow 2.5 times faster than other jobs.  Furthermore, the research predicts that soft skill-intensive jobs will make up almost two-thirds of the workforce by 2030.
+ 
+
+
+Adapting to the latest revolution
+There’s much to consider and answer when it comes to how humans can remain relevant in the Artificial Intelligence Revolution, a world where the algorithms are swallowing jobs and industries.
+It’s clear that a much-needed conversation is needed with some of Australia’s leading human resources executives to determine what the current and future opportunities are for the industry and the challenges we may face in the wider HR sector moving forward.
+I was fortunate enough to be part of such a conversation, when the Org Dev Institute  (ODi) hosted a roundtable with HR leaders, which unearthed some interesting insights and observations.  I look forward to reading the resulting whitepaper in the near future.
+This forward thinking is vital not only to ensure the longevity of the HR industry, but also its prosperity.
+
+ShareTweetShare
+
+ 
+
+
+
+
+ 
+",,,,,,,,,,,,,,,,,"[{'@type': 'WebPage', '@id': 'https://hrmasia.com/artificial-intelligences-impact-on-hr/', 'url': 'https://hrmasia.com/artificial-intelligences-impact-on-hr/', 'name': ""Artificial intelligence's impact on HR | HRM Asia"", 'isPartOf': {'@id': 'https://hrmasia.com/#website'}, 'primaryImageOfPage': {'@id': 'https://hrmasia.com/artificial-intelligences-impact-on-hr/#primaryimage'}, 'image': {'@id': 'https://hrmasia.com/artificial-intelligences-impact-on-hr/#primaryimage'}, 'thumbnailUrl': 'https://hrmasia.com/wp-content/uploads/2018/09/AI-impact-on-HR.jpg', 'datePublished': '2018-07-09T08:08:27+00:00', 'dateModified': '2018-09-05T08:12:42+00:00', 'author': {'@id': 'https://hrmasia.com/#/schema/person/b29372701a854890161e0ea362a6b0c6'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://hrmasia.com/artificial-intelligences-impact-on-hr/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://hrmasia.com/artificial-intelligences-impact-on-hr/#primaryimage', 'url': 'https://hrmasia.com/wp-content/uploads/2018/09/AI-impact-on-HR.jpg', 'contentUrl': 'https://hrmasia.com/wp-content/uploads/2018/09/AI-impact-on-HR.jpg', 'width': 1200, 'height': 800}, {'@type': 'WebSite', '@id': 'https://hrmasia.com/#website', 'url': 'https://hrmasia.com/', 'name': 'HRM Asia', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://hrmasia.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://hrmasia.com/#/schema/person/b29372701a854890161e0ea362a6b0c6', 'name': 'HRM Asia Newsroom', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://hrmasia.com/#/schema/person/image/', 'url': 'https://hrmasia.com/wp-content/uploads/2018/09/HRM_Avatar2-120x120.jpg', 'contentUrl': 'https://hrmasia.com/wp-content/uploads/2018/09/HRM_Avatar2-120x120.jpg', 'caption': 'HRM Asia Newsroom'}, 'url': 'https://hrmasia.com/author/hrmasia/'}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdG9kYXkudXNjLmVkdS9zY2FyZWQtYnktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZmVhci1ub3QtdGVjaC1zYXZ2eS11c2MtZ3JhZC1zYXlzL9IBAA?oc=5,"Scared by artificial intelligence? Fear not, tech-savvy USC grad says - University of Southern California",2018-07-10,University of Southern California,https://today.usc.edu,University of Southern California News,N/A,"Artificial intelligence. For many, those two words evoke visions of robot overlords running amok and terrorizing citizens. But to USC's Eric Deng, the future of robotics and artificial intelligence isn’t scary at all.",N/A,https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+      Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Science/Technology
+
+
+Scared by artificial intelligence? Fear not, tech-savvy USC grad says
+
+Electrical engineer Eric Deng sees robots as future caretakers, companions and even therapists of sorts. He’ll join Facebook as its first robotics engineer this fall
+
+
+July 10, 2018
+Eric Lindberg
+
+
+
+
+
+
+Artificial intelligence.
+For many, those two words evoke visions of robot overlords running amok and terrorizing citizens. Others lament the steady automation of factory and manufacturing jobs, with precise machinery taking the place of humans.
+But to Eric Deng, the future of robotics and artificial intelligence isn’t scary at all. Instead, he sees smart machines as a force for social good. Imagine interactive androids that keep older adults company while monitoring their health. Or friendly and engaging robots that help children with autism develop social skills.
+As an electrical engineering undergrad and Stamps Scholar at USC, Deng helped program and design robots to begin taking on those socially assistive roles. The recent graduate heads to work at Facebook this fall as its first robotics engineer, with visions of ensuring that artificial intelligence remains safe, helpful and accessible.
+
+I want to make AI and high-tech systems easier to design, create and use.
+Eric Deng
+
+“I want to make AI and high-tech systems easier to design, create and use, with the goal of giving more people the opportunity to build these powerful systems to help themselves and others,” he said.
+Inspired to bring a human touch to artificial intelligence
+Growing up in California’s Bay Area, Deng seemed destined for a career in the tech industry. He drew inspiration from watching his parents, both engineers, work on various projects in their Fremont home. In addition to its technical aspects, he enjoyed the aesthetic side of engineering — how art and design can influence how a product is used or perceived. He was also fascinated by how and why people make certain decisions.
+The Interaction Lab’s work on robots that interact socially with humans piqued Deng’s interest. (USC Photo/Eric Lindberg)
+Deng found a good outlet for his mechanical talents as captain of his high school robotics team. During summers, he took university courses in behavioral economics to better understand human behavior. But he wasn’t sure he could find a field that would allow him to combine his eclectic interests. By the time he enrolled at the USC Viterbi School of Engineering, Deng had resigned himself to focusing solely on engineering.
+That’s when he stumbled on the Interaction Lab run by Maja Matarić, USC Viterbi’s vice dean for research and the Chan Soon-Shiong Professor of Computer Science, Neuroscience, and Pediatrics. The lab focuses on designing and building robots to help people through social interaction. Its current projects involve developing robot-assisted therapies for survivors of stroke and traumatic brain injury, people with Alzheimer’s disease and children with autism.
+The lab’s human-centered approach to artificial intelligence was a great fit for Deng. Rather than just building functional machines to perform a repetitive task, the lab’s researchers have to pay close attention to how robots look, feel and act. Even minor changes in their appearance or behavior can affect how they’re perceived and whether they elicit the desired response.
+Some robots, like ones for children, might send the right message if they look cute, Deng said. That’s the wrong look for other robots, though. “If it’s a doctor robot, you don’t want it to be cute,” he said. “You want it to look intelligent and trustworthy and even a little bit more serious.”
+Impressed by his early work with her team, Matarić soon took on Deng as a mentee. She acknowledged that many undergrads want to work with her, but they often need guidance and are unsure of their direction. Deng, however, is motivated and self-driven, she said.
+“Three years later, he’s basically doing the work of a grad student.”
+A complex challenge: making robots seem human
+Deng has collaborated with researchers to understand how robots can better follow social norms such as maintaining appropriate personal space or use gestures and nonverbal signals to symbolize various objects.
+In another project, he explored how robots can catch and maintain the attention of children with autism. Is it effective to wait patiently or emit soft noises? Are wild and erratic movements counterproductive? The trick is finding the right balance to promote engagement.
+“You don’t want to have a mean robot or a rude robot,” Deng said. “The robot could yell and the kid will look up every time, but that quickly deteriorates the rest of the intervention.”
+As the hardware lead for the project, he helped design, build and program the robot prototypes, which resemble colorful owls. The research team recently sent a handful of the devices to be tested by kids in their homes, and a short video about the project drew millions of views when shared by Twitter on World Autism Awareness Day.
+Deng doesn’t expect these smart machines to replace trained caregivers and therapists anytime soon. Instead, they can fill in the gaps, he said, providing companionship and care when health professionals aren’t available or between regular therapy sessions.
+“You aren’t replacing caregivers like nurses,” he said. “You are just allowing them to focus on more complicated work.”
+Deng’s achievements in the lab earned him numerous accolades, including the Richardson Endowed Undergraduate Merit Research Award and the Order of Areté. He was named a Viterbi Undergraduate Fellow and Grand Challenges Scholar, in addition to his prestigious Stamps Scholarship, which covered his tuition and provided funding for personal research projects and travel to a major overseas tech conference.
+As he wraps up work on a few remaining research papers with fellow Trojans, Deng looks forward to his new position with Facebook, which starts in August. It promises to be a smooth transition — he interned at the social networking giant every summer since coming to USC.
+He can’t say much about his new role as its first robotics engineer, partly because the company is just starting to explore new fields.
+“The opportunity it presents is pretty exciting,” he said. “It’s so new, you don’t really know what it will turn out to be.”
+Killer robots? Highly improbable
+As for the future of artificial intelligence, Deng expects to see some automation and replacement of human jobs. But it’s much more likely that the robot revolution will involve assistance rather than automation, he said, with robots encouraging their mortal masters to do better work.
+And despite the pop culture cliché of artificial intelligence gone wild, he’s even less concerned about the potential for robots turning into evil monsters intent on destroying society.
+“Any technology has potential for harm,” Deng said. “Problems arise when you have homogeneous teams that just think about their specific issue. Then a lot of populations get marginalized.”
+As long as we build empathetic, ethical and diverse groups of designers and engineers, he’s convinced humankind has no reason to worry about a robot uprising.
+
+
+",,,,,,,,,,,,,,,,,"[{'@type': 'Article', '@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#article', 'isPartOf': {'@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/'}, 'author': {'name': 'David Medzerian', '@id': 'https://today.usc.edu/#/schema/person/7d448d851a658bd48939b6389b8b39ae'}, 'headline': 'Scared by artificial intelligence? Fear not, tech-savvy USC grad says', 'datePublished': '2018-07-10T15:00:07+00:00', 'dateModified': '2024-07-09T18:47:18+00:00', 'mainEntityOfPage': {'@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/'}, 'wordCount': 10, 'publisher': {'@id': 'https://today.usc.edu/#organization'}, 'image': {'@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#primaryimage'}, 'thumbnailUrl': 'https://today.usc.edu/wp-content/uploads/2018/07/Eric-Deng-AI-robots-web.jpg', 'keywords': ['Alumni', 'Artificial Intelligence', 'Electrical Engineering', 'Emerging Technology', 'FOC', 'Frontiers of Computing', 'Moonshots', 'Robotics', 'Scholarships'], 'articleSection': ['Science/Technology'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/', 'url': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/', 'name': 'Scared by artificial intelligence? Fear not, tech-savvy USC grad says', 'isPartOf': {'@id': 'https://today.usc.edu/#website'}, 'primaryImageOfPage': {'@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#primaryimage'}, 'image': {'@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#primaryimage'}, 'thumbnailUrl': 'https://today.usc.edu/wp-content/uploads/2018/07/Eric-Deng-AI-robots-web.jpg', 'datePublished': '2018-07-10T15:00:07+00:00', 'dateModified': '2024-07-09T18:47:18+00:00', 'description': ""Artificial intelligence. For many, those two words evoke visions of robot overlords running amok and terrorizing citizens. But to USC's Eric Deng, the future of robotics and artificial intelligence isn’t scary at all."", 'breadcrumb': {'@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#primaryimage', 'url': 'https://today.usc.edu/wp-content/uploads/2018/07/Eric-Deng-AI-robots-web.jpg', 'contentUrl': 'https://today.usc.edu/wp-content/uploads/2018/07/Eric-Deng-AI-robots-web.jpg', 'width': 1800, 'height': 1200, 'caption': 'Eric Deng'}, {'@type': 'BreadcrumbList', '@id': 'https://today.usc.edu/scared-by-artificial-intelligence-fear-not-tech-savvy-usc-grad-says/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://today.usc.edu/'}, {'@type': 'ListItem', 'position': 2, 'name': 'All News', 'item': 'https://today.usc.edu/news/all-news/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Scared by artificial intelligence? Fear not, tech-savvy USC grad says'}]}, {'@type': 'WebSite', '@id': 'https://today.usc.edu/#website', 'url': 'https://today.usc.edu/', 'name': 'USC Today', 'description': 'University of Southern California News', 'publisher': {'@id': 'https://today.usc.edu/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://today.usc.edu/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://today.usc.edu/#organization', 'name': 'University of Southern California', 'url': 'https://today.usc.edu/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://today.usc.edu/#/schema/logo/image/', 'url': 'https://today.usc.edu/wp-content/uploads/2023/10/PrimShield_Mono_RegUse_Card-Blk_RGB.png', 'contentUrl': 'https://today.usc.edu/wp-content/uploads/2023/10/PrimShield_Mono_RegUse_Card-Blk_RGB.png', 'width': 796, 'height': 391, 'caption': 'University of Southern California'}, 'image': {'@id': 'https://today.usc.edu/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/usc/', 'https://x.com/usc', 'https://www.instagram.com/uscedu/', 'https://www.linkedin.com/school/3084', 'https://www.youtube.com/user/USC']}, {'@type': 'Person', '@id': 'https://today.usc.edu/#/schema/person/7d448d851a658bd48939b6389b8b39ae', 'name': 'David Medzerian', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://today.usc.edu/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/fbca2845a33cafbdb369959b027688cf?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/fbca2845a33cafbdb369959b027688cf?s=96&d=mm&r=g', 'caption': 'David Medzerian'}}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBoaWxhbnRocm9weS5jb20vcGFja2FnZS9hLWktZm9yLXNvY2lhbC1nb29k0gEA?oc=5,A.I. for Social Good? - The Chronicle of Philanthropy,2018-07-10,The Chronicle of Philanthropy,https://www.philanthropy.com,N/A,N/A,"Data science has the power to transform nonprofit work. Leaders are thrilled by the opportunity to scour vast amounts of data for connections but unnerved by the prospect of data tainted by bias and unseen algorithms deciding who gets services. For our July cover package, the Chronicle examines how…","Data science has the power to transform nonprofit work. Leaders are thrilled by the opportunity to scour vast amounts of data for connections but unnerved by the prospect of data tainted by bias and unseen algorithms deciding who gets services. For our July cover package, the Chronicle examines how philanthropy is grappling with what it means when machines take on tasks that humans usually to do.",,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+Twitter
+
+
+
+LinkedIn
+
+
+
+Show more sharing options
+
+
+
+
+Share
+Close extra sharing options
+
+
+
+Twitter
+
+
+
+LinkedIn
+
+
+
+Email
+
+
+ 
+Facebook
+
+
+
+Copy Link URLCopied!
+
+
+Print
+
+
+
+
+
+
+
+        A.I. for Social Good?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+iStockArtificial intelligence (AI), data mining, expert system software, genetic programming, machine learning, deep learning, neural networks and another modern computer technologies concepts. Brain representing artificial intelligence with printed circuit board (PCB) design.
+
+
+ Data science has the power to transform nonprofit work. Leaders are thrilled by the opportunity to scour vast amounts of data for connections but unnerved by the prospect of data tainted by bias and unseen algorithms deciding who gets services. For our July cover package, the Chronicle examines how philanthropy is grappling with what it means when machines take on tasks that humans usually to do.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        News
+                    
+
+The Promise and Peril of Artificial Intelligence in the Nonprofit World
+
+
+By Nicole Wallace
+
+Technologies being tested today could transform nonprofits. But what happens when charity loses some of its human element?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        News
+                    
+
+How Charities Are Using Artificial Intelligence to Boost Impact
+
+
+By Nicole Wallace
+
+Advanced technology is helping nonprofits track endangered animals, fight sex trafficking, and reunite refugees after years of separation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Opinion
+                    
+
+Opinion: Chatbots, A.I., Cyborgs, and More Have the Potential to Help Fundraising
+
+
+By Beth Kanter and Allison Fine
+
+By freeing up staff, advanced technology could give humans more time to build personal ties with supporters.
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZW5ld3NtaW51dGUuY29tL2thcm5hdGFrYS9tZWV0LWFkaXR5YS1wYWxpd2FsLWJlbmdhbHVydS1zdHVkZW50LXdoby1iYWdnZWQtcnMtMTItY3ItcGFja2FnZS1nb29nbGUtODQ0MDHSAYABaHR0cHM6Ly93d3cudGhlbmV3c21pbnV0ZS5jb20vYW1wL3N0b3J5L2thcm5hdGFrYS9tZWV0LWFkaXR5YS1wYWxpd2FsLWJlbmdhbHVydS1zdHVkZW50LXdoby1iYWdnZWQtcnMtMTItY3ItcGFja2FnZS1nb29nbGUtODQ0MDE?oc=5,"Meet Aditya Paliwal, the Bengaluru student who bagged a Rs 1.2 cr package at Google - The News Minute",2018-07-08,The News Minute,https://www.thenewsminute.com,,,"Landing a job with a handsome pay through campus placements in premier engineering colleges across India is quite the norm, and if the offer is from one of the ","Landing a job with a handsome pay through campus placements in premier engineering colleges across India is quite the norm, and if the offer is from one of the ",http://schema.org,NewsArticle,https://www.thenewsminute.com/karnataka/meet-aditya-paliwal-bengaluru-student-who-bagged-rs-12-cr-package-google-84401,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/tnm/import/sites/default/files/29135946_10216286000889398_7084788050718359552_o.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Soumya Chatterjee', 'name': 'Soumya Chatterjee', 'url': 'https://www.thenewsminute.com/author/soumya-chatterjee'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'The News Minute', 'url': 'https://www.thenewsminute.com', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'thenewsminute', 'contentUrl': 'https://gumlet.assettype.com/thenewsminute/2023-08/ba18786d-35ff-4545-b897-3590fe1bbc0b/hori_logo.png', 'url': 'https://gumlet.assettype.com/thenewsminute/2023-08/ba18786d-35ff-4545-b897-3590fe1bbc0b/hori_logo.png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.facebook.com/TheNewsMinute', 'https://twitter.com/thenewsminute', 'https://www.instagram.com/thenewsminute/', 'https://www.youtube.com/channel/UCspQie3i29iIFbCgfGisO9Q'], 'id': 'https://www.thenewsminute.com'}","Meet Aditya Paliwal, the Bengaluru student who bagged a Rs 1.2 cr package at Google ",2018-07-08T10:58:55Z,2021-05-28T00:10:01Z,Karnataka,"Meet Aditya Paliwal, the Bengaluru student who bagged a Rs 1.2 cr package at Google ",,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.thenewsminute.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Karnataka', 'item': 'https://www.thenewsminute.com/karnataka'}, {'@type': 'ListItem', 'position': 3, 'name': 'Meet Aditya Paliwal, the Bengaluru student who bagged a Rs 1.2 cr package at Google ', 'item': 'https://www.thenewsminute.com/karnataka/meet-aditya-paliwal-bengaluru-student-who-bagged-rs-12-cr-package-google-84401'}]",N/A,N/A,N/A,"{'@type': 'WebPage', '@id': 'https://www.thenewsminute.com/karnataka/meet-aditya-paliwal-bengaluru-student-who-bagged-rs-12-cr-package-google-84401'}",https://media.assettype.com/tnm/import/sites/default/files/29135946_10216286000889398_7084788050718359552_o.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,,,,,,"{'@type': 'WebPage', 'url': 'https://www.thenewsminute.com/karnataka/meet-aditya-paliwal-bengaluru-student-who-bagged-rs-12-cr-package-google-84401', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/tnm/import/sites/default/files/29135946_10216286000889398_7084788050718359552_o.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,,,,,,,2018-07-08T10:58:55Z,,,,,,"Landing a job with a handsome pay through campus placements in premier engineering colleges across India is quite the norm, and if the offer is from one of the world’s biggest companies, then there is definitely reason to rejoice..But 22-year-old coder Aditya Paliwal from Mumbai has set the bar high after he got an offer from Google — to work for their Artificial Intelligence (AI) research wing in New York at a mind-boggling pay of Rs 1.2 crore per annum..Aditya finished his integrated M.Tech course in Computer Science at the International Institute of Information Technology-Bangalore (IIIT-B) recently. He was introduced to coding in Class 8, but he said that at that time it was a passive interest. It remained so till the time he cleared his IIT-JEE, and secured a seat in IIIT-B..“So after coming into the college, the curriculum and the environment made the passive interest grow into an active interest,” he said..The Google offer did not come easy. He was one of the 50 finalists at the ACM International Collegiate Programming Contest after he beat 6,000 from students across the globe who cleared the preliminary round of the selection process..Out of those 50 who landed a job at Google’s prestigious AI Research wing, five are from India, including Aditya. The competition saw close to 50,000 participants from a total of 111 counties and 3,098 universities..Explaining the process, Aditya told TNM: “It’s open to all students across the world and you apply with your resume along with a Statement of Purpose and a recommendation letter. Based on this they shortlist you, and there are subsequent rounds of interviews and at the end of it, you get the job.”.“Usually, after a CS degree, people get a proper engineering job but this is a job in the research domain. So more than common problems, it is more about trying to solve open problems and shortlisting potential future problems and finding answers to them,” he said..AI is also Aditya’s subject of choice. “I had a couple of papers and after AI came, I felt like that the field is progressing rapidly and I got the confidence that with a little bit of effort in research we can do a lot more in the future,” he said..But according to him, his focus was never on the job he would get at the end of five years, but on learning..“I never worried about it (getting a job) too much. I knew I would always have one year at the end of the course to prepare to refocus on employment tests. So the focus was mostly on learning as many things as possible and meeting interesting people and ideas. The goal was to develop new interests and master a few,” Aditya said..But even he admits it was kind of a “big deal” when this job was in the realm of possibilities..When asked about his current professional goals. Aditya remains consistent on the learning part..“At this moment, I can't really tell. There are vague ideas here and there but nothing concrete.  All I want to do is learn the maximum as I can and meet as many interesting people as I can,” he said..While his parents work in their family business, his younger brother is studying Commerce. Aditya is set to start his career at Google on July 18."

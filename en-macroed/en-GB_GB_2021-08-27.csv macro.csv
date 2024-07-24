@@ -1,0 +1,829 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,image,url,dateCreated,datePublished,dateModified,headline,name,identifier,author,creator,publisher,mainEntityOfPage,article:section,article:summary,article text,itemListElement,thumbnailUrl,articleBody,isPartOf,articleSection,alternativeHeadline,@graph,logo,parentOrganization,sameAs,potentialAction,uploadDate,contentUrl,embedUrl,duration
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS9ob3ctZG9lcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1jcmVhdGUtdmFsdWUtYmVjMTRjNzg1YjQw0gEA?oc=5,How Does Artificial Intelligence Create Value? | by Mathieu Lemay - Towards Data Science,2021-08-31,Towards Data Science,https://towardsdatascience.com,"The last decade has been filled with fanfare and buzz — no news there. However, there’s now a distinct shift in various industries (at least from an AI consultant’s perspective) about how the general…",N/A,A More Philosophical View of the Technology’s Impact,A More Philosophical View of the Technology’s Impact,http://schema.org,NewsArticle,['https://miro.medium.com/v2/resize:fit:1200/1*-vW5k0LO2VHoX8iKGVCJOw.jpeg'],https://towardsdatascience.com/how-does-artificial-intelligence-create-value-bec14c785b40,2021-09-01T06:58:16.061Z,2021-09-01T06:58:16.061Z,2022-01-05T16:23:50.981Z,How Does Artificial Intelligence Create Value? - Towards Data Science,How Does Artificial Intelligence Create Value? - Towards Data Science,bec14c785b40,"{'@type': 'Person', 'name': 'Mathieu Lemay', 'url': 'https://towardsdatascience.com/@lsci'}",['Mathieu Lemay'],"{'@type': 'Organization', 'name': 'Towards Data Science', 'url': 'towardsdatascience.com', 'logo': {'@type': 'ImageObject', 'width': 192, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:384/1*cFFKn8rFH4ZndmaYeAs6iQ.png'}}",https://towardsdatascience.com/how-does-artificial-intelligence-create-value-bec14c785b40,N/A,N/A,"Top highlightHow Does Artificial Intelligence Create Value?A more philosophical view of the technology’s impactMathieu Lemay·FollowPublished inTowards Data Science·7 min read·Sep 1, 2021401ListenSharePhoto by Tara Winstead from Pexels.The last decade has been filled with fanfare and buzz — no news there. However, there’s now a distinct shift in various industries (at least from an AI consultant’s perspective) about how the general interest and uptake of new ML technologies and approaches went from esoteric to exotic to fear of obsolescence.Industries and clients are more ready than ever to partake in prototype and scale-up efforts using relatively new (even unproven) approaches to data manipulation and insights extraction. But as most consultants find out, a simple application of machine learning does not a successful solution make. There needs to be an underlying problem being solved, with some measurable outcomes and returns at least an order of magnitude above the implementation costs.So how is value usually created, and how does AI contribute towards that value creation? And is there a pattern that can explain why AI is so valuable?Understanding Value Creation in the Modern EconomyThere are many definitions of “value”, but for our purposes, we’ll define it as “the modern economic measure of importance, worth, or usefulness of something” (from Oxford Languages). From this, the idea of value creation in an economic system is directly related to the ability to generate wealth, reduce operating costs, or accelerate and alleviate the work burden of individuals.(Now, measuring the societal impact of AI is an entirely separate conversation that I won’t even pretend to broach here. Also, I’m fully aware that I’ll be butchering Econ 101 concepts, but I’m generalizing towards the point and main message of this article.)Beyond the Three-Sector Model of (Old) IndustryA popular model for economic value creation was the Three-Sector Model, where the 20th-century view of economic value was separated into three main areas:the primary sector focuses on the extraction and manipulation of resources, such as iron, lumber, and mining;the secondary sector focuses on manufacturing, transformation, up to the point of delivering consumer goods;the tertiary sector, which is usually described as the services sector, includes all matters of government, consulting, and knowledge workers.This particular model focused extensively on an extractive basis for value creation, both towards the environment and towards people. There is also an idea of finite resources: there can only be so many skilled workers, or so many trees to cut down. A participant in this economic model was primarily viewed as a laborer: a lumberjack, a smelter, a restaurant waiter. You get paid by 1) showing up to work, and 2) doing the work.However, this model fails to capture the latent knowledge required to be effective in each and every one of these sectors. Just giving someone a chainsaw near a forest does not mean that I can count on safely and reliably getting a certain amount of lumber every day.Beyond Three Sectors: The Knowledge EconomyPhoto by Janko Ferlic from PexelsAlso known as The Fourth Revolution and The Information Age, the knowledge economy model allows for all matters of information (such as market insights, algorithms, and processes) to be represented as valuable information, and workers now become thinkers.From Wikipedia:A knowledge economy features a highly skilled workforce within the microeconomic and macroeconomic environment; institutions and industries create jobs that demand specialized skills in order to meet the global market needs. Knowledge is viewed as an additional input to labour and capital. In principle, one’s primary individual capital is knowledge together with the ability to perform so as to create economic value.So if knowledge is valuable, isn’t the automated application of that application also valuable? Indeed, that’s where automation as a whole and specifically software come in. I can encode my knowledge in a repeatable series of steps that will yield expected results, even outcomes.(Fun fact about this encoding process, though: software developers, as a class of people, experience tremendously high rates of burnout. I also often hear my team use language that would make a sailor blush.)Back to the Future — With MLStepping back from these distinct models, we’re looking to answer the high-level question about AI and its general ability to become valuable in most circumstances, given appropriate data.If we abstract the Three Sector model into activity types, we notice three repeatable aspects of digitally relevant value creation elements. This is a useful inspiration to many chains of value creation in the technology sector. Abstracting these three sectors into general elements of value creation, we get:Extraction and collection, which involve the accumulation of a particular unit by separating it, isolating it, or duplicating it from its original environment.Transformation, which involves applying one or many changes (such as processing or digestion) to this unit so that it may be more usable in a different state, usually with all other units of its class, and sometimes with multiple classes of these units.Information, which is the knowledge or know-how related to the first two categories (such as where to extract and how to transform).A simple representation of data with its value creation elements.For instance, in the mining industry, knowing where to dig is equally as important as knowing how to operate the machinery that will get those ores out of the ground.(In fact, a case can be made about how modern consulting is simply capitalizing on information differential — you know how to do something that I don’t, and I need that knowledge, therefore your knowledge is valuable given my present situation.)Value in the Knowledge Economy: The Data Transformation SpectrumThe way data moves, changes, and informs is the premise behind creating economic value in and beyond the Knowledge Economy. We’re finally seeing the results of the Big Data push of the early 2000s, now that there are ways of making it actionable.If we take all forms of data (whether they be in their raw, uncollected states, all the way to polished corporate reports) and place them into buckets organized by level of refinement, we can create five broad states: connectivity, visibility, aggregation, insights generation, and decision support.The Data Transformation categories. It really doesn’t matter what are the categories, more that there’s a concept of distinct buckets.This Data Transformation spectrum is a simple model that can be used as an inspiration for technological innovation in a highly connected world. It covers many potential aspects of value creation where data acts as a primary resource.Companies will pay to get something connected, visible, aggregated, comprehensible, and/or automated.Simply put, value gets created when data moves across the Spectrum.So Why is AI So Transformative?Machine learning is the first technological paradigm that can be applied to every aspect of the value creation chain within the Data Transformation Spectrum. Because of its depth and breadth, the combination of data science and machine learning engineering allows for insights generation, acceleration of work, and investigative support for every component along the chain.The reason AI is so valuable is because it provides elements of valuation creation both within and between every pillar of data transformation.The Data Transformation Spectrum.This is why AI can create so much value: it is applicable in almost any given data-relevant context, provides some sort of value (either through the manipulation of the data or generating results within its context), and allows for more and more automation and insights derived from the data.SummaryValue is created through a system that generates money, reduces costs, and alleviates the burden on resources and laborers.Historically, value was created by manual labor; now, in a knowledge economy, information and reproducible software meant a lower cost to sharing burden alleviation.The foundational elements of value creation through technology are the collection and extraction of resources, the transformation of these resources into new elements, and knowledge on how to perform the first two.The ability to extract insights (valuable and actionable information) from data happens throughout a spectrum of transformation.AI creates value at every pillar of this spectrum.Happy Consulting!-Matt.If you have additional questions about this article or our AI consulting framework, feel free to reach out by LinkedIn or by email.Other articles you may enjoyImplementing a Corporate AI StrategyImplementing Defensive Design in AI DeploymentsOutlier-Aware Clustering: Beyond K-MeansRorschach Tests for Deep Learning Image ClassifiersAI Prototypes for Clients as a Marketing Strategy",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbWl0c2xvYW4ubWl0LmVkdS9pZGVhcy1tYWRlLXRvLW1hdHRlci9haS1yb2FkLW5vdC10YWtlbtIBAA?oc=5,The AI road not taken - MIT Sloan News,2021-08-31,MIT Sloan News,https://mitsloan.mit.edu,"Artificial intelligence doesn’t have to trigger a loss of jobs and privacy, writes MIT economist Daron Acemoglu. But only if we modify our approach.",N/A,"Artificial intelligence doesn’t have to trigger a loss of jobs and privacy, writes MIT economist Daron Acemoglu. But only if we modify our approach.","Artificial intelligence doesn’t have to trigger a loss of jobs and privacy, writes MIT economist Daron Acemoglu. But only if we modify our approach.",,,,,,,,,,,,,,,N/A,N/A,"
+ 
+
+
+
+
+
+
+
+
+
+
+recent
+
+
+
+
+9 hours ago
+Federal spending was responsible for the 2022 spike in inflation
+
+
+
+
+Jul 16, 2024
+Making generative AI work in the enterprise: New from MIT SMR
+
+
+
+
+Jul 15, 2024
+How to tap AI’s potential while avoiding its pitfalls 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit: Stephen Sauer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+
+                        Artificial Intelligence
+
+
+The AI road not taken
+
+By
+ Daron Acemoglu
+
+
+Aug 31, 2021
+
+
+
+
+
+
+Why It Matters		
+
+
+
+Advances in artificial intelligence are leading to job loss and increased surveillance. It’s not too late to change course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+facebook
+X
+linkedin
+email
+print
+
+open share links
+close share links
+
+Does this have to be the way? Artificial intelligence was supposed to boost productivity and create better futures in medicine, transportation, and workplaces. Instead, AI research and development has focused on only a few sectors, ones that are having a net negative impact for humanity, MIT economistDaron Acemogluargues in “Redesigning AI,” a Boston Review book.
+
+
+
+Work smart with our Thinking Forward newsletterInsights from MIT experts, delivered every Tuesday morning.
+Email Address
+
+
+
+
+
+
+
+
+
+Leave this field blank
+
+
+
+
+
+“Our current trajectory automates work to an excessive degree while refusing to invest in human productivity; further advances will displace workers and fail to create new opportunities,” Acemoglu writes. AI also threatens “democracy and individual freedoms,” he writes.
+“Government involvement, norms shifting, and democratic oversight” can set us on a better path, he argues.
+Acemoglu’s lead essay in “Redesigning AI” is followed by short responses from AI researchers, labor advocates, economists, philosophers, and ethicists. They discuss economic inequality, possible futures for workers, and what could happen next in AI. In the excerpt below, Acemoglu explains why the path we’re on is not set and why the reflexive refrain of “But the market …” doesn’t hold up in the face of basic economics.
++++
+Many decry the disruption that automation has already produced and is likely to cause in the future. Many are also concerned about the deleterious effects new technologies might have on individual liberty and democratic procedure. But the majority of these commentators view such concerns with a sense of inevitability — they believe that it is in the very nature of AI to accelerate automation and to enable governments and companies to control individuals’ behavior.
+Yet society’s march toward joblessness and surveillance is not inevitable. The future of AI is still open and can take us in many different directions. If we end up with powerful tools of surveillance and ubiquitous automation (with not enough tasks left for humans to perform), it will be because we chose that path.
+Where else could we go? Even though the majority of AI research has been targeted toward automation in the production domain, there are plenty of new pastures where AI could complement humans. It can increase human productivity most powerfully by creating new tasks and activities for workers.
+Let me give a few examples. The first is education, an area where AI has penetrated surprisingly little thus far. Current developments, such as they are, go in the direction of automating teachers — for example, by implementing automated grading or online resources to replace core teaching tasks. But AI could also revolutionize education by empowering teachers to adapt their material to the needs and attitudes of diverse students in real time. We already know that what works for one individual in the classroom may not work for another; different students find different elements of learning challenging. AI in the classroom can make teaching more adaptive and student-centered, generate distinct new teaching tasks, and, in the process, increase the productivity of — and the demand for — teachers.
+Redesigning AIRead Daron Acemoglu's full essay, as well as responses from AI researchers, labor advocates, economists, philosophers, and ethicists, in ""Redesigning AI,"" a Boston Review book.
+Learn More
+Collapse
+The situation is very similar in health care, although this field has already witnessed significant AI investment. Up to this point, however, there have been few attempts to use AI to provide new, real-time, adaptive services to patients by nurses, technicians, and doctors.
+Similarly, AI in the entertainment sector can go a long way toward creating new, productive tasks for workers. Intelligent systems can greatly facilitate human learning and training in most occupations and fields by making adaptive technical and contextual information available on demand.
+Finally, AI can be combined with augmented and virtual reality to provide new productive opportunities to workers in blue-collar and technical occupations. For example, it can enable them to achieve a higher degree of precision so that they can collaborate with robotics technology and perform integrated design tasks.
+In all of these areas, AI can be a powerful tool for deploying the creativity, judgment, and flexibility of humans rather than simply automating their jobs. It can help us protect their privacy and freedom, too. Plenty of academic research shows how emerging technologies — differential privacy, adversarial neural cryptography, secure multiparty computation, and homomorphic encryption, to name a few — can protect privacy and detect security threats and snooping, but this research is still marginal to commercial products and services.
+There is also growing awareness among both the public and the AI community that new technologies can harm public discourse, freedom, and democracy. In this climate many are demanding a concerted effort to use AI for good. Nevertheless, it is remarkable how much of AI research still focuses on applications that automate jobs and increase the ability of governments and companies to monitor and manipulate individuals. This can and needs to change.
+The market illusion
+One objection to the argument I have developed is that it is unwise to mess with the market. Who are we to interfere with the innovations and technological breakthroughs the market is generating? Wouldn’t intervening sacrifice productivity growth and even risk our technological vibrancy? Aren’t we better off just letting the market mechanism deliver the best technologies and then use other tools, such as tax-based redistribution or universal basic income, to make sure that everybody benefits?
+
+
+If we end up with powerful tools of surveillance and ubiquitous automation … it will be because we chose that path.
+
+Daron Acemoglu
+Professor
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The answer is no, for several reasons. First, it isn’t clear that the market is doing a great job of selecting the right technologies. It is true that we are in the midst of a period of prodigious technological creativity, with new breakthroughs and applications invented every day.
+Yet Robert Solow’s thirty-year-old quip about computers — that they are “everywhere but in the productivity statistics” — is even more true today. Despite these mind-boggling inventions, current productivity growth is strikingly slow compared to the decades that followed World War II. This sluggishness is clear from the standard statistic that economists use for measuring how much the technological capability of the economy is expanding — the growth of total factor productivity.
+TFP growth answers a simple question: If we kept the amount of labor and capital resources we are using constant from one year to the next, and only our technological capabilities changed, how much would aggregate income grow? TFP growth in much of the industrialized world was rapid during the decades that followed World War II and has fallen sharply since then. In the United States, for example, the average TFP growth was close to 2% a year between 1920 and 1970, and has averaged only a little above 0.5% a year over the last three decades. So the case that the market is doing a fantastic job of expanding our productive capacity isn’t ironclad.
+The argument that we should rely on the market for setting the direction of technological change is weak as well. In the terminology of economics, innovation creates significant positive “externalities:” when a company or a researcher innovates, much of the benefits accrue to others. This is doubly so for technologies that create new tasks. The beneficiaries are often workers whose wages increase (and new firms that later find the right organizational structures and come up with creative products to make use of these new tasks). But these benefits are not part of the calculus of innovating firms and researchers. Ordinary market forces — which fail to take account of externalities — may therefore deter the types of technologies that have the greatest social value.
+This same reasoning is even more compelling when new products produce noneconomic costs and benefits. Consider surveillance technologies. The demand for surveillance from repressive (and even some democratic-looking) governments may be great, generating plenty of financial incentives for firms and researchers to invest in facial recognition and snooping technologies. But the erosion of liberties is a notable noneconomic cost that it is often not taken into account. A similar point holds for automation technologies: it is easy to ignore the vital role that good, secure, and high-paying jobs play in making people feel fulfilled. With all of these externalities, how can we assume that the market will get things right?
+Market troubles multiply further still when there are competing technological paradigms, as in the field of AI. When one paradigm is ahead of the others, both researchers and companies are tempted to herd on that leading paradigm, even if another one is more productive. Consequently, when the wrong paradigm surges ahead, it becomes very difficult to switch to more promising alternatives.
+Related Articles
+
+
+Here comes the AI productivity boom
+
+
+Human-centered AI fights bias in machines and people 
+
+
+The case for an 'automation tax' 
+
+
+Last but certainly not least, innovation responds not just to economic incentives but also to norms. What researchers find acceptable, exciting, and promising is not purely a function of economic reward. Social norms play a key role by shaping researchers’ aims as well as their moral compasses. And if the norms within the research area do not reflect our social objectives, the resulting technological change will not serve society’s best interests.
+All of these reasons cast doubt on the wisdom of leaving the market to itself. What’s more, the measures that might be thought to compensate for a market left to itself — redistribution via taxes and the social safety net — are both insufficient and unlikely to work. We certainly need a better safety net. (The COVID-19 pandemic has made that even clearer.) But if we do not generate meaningful employment opportunities — and thus a viable social purpose — for most people in society, how can democracy work? And if democracy doesn’t work, how can we enact such redistributive measures — and how can we be sure that they will remain in place in the future?
+Even worse, building shared prosperity based predominantly on redistribution is a fantasy. There is no doubt that redistribution — via a progressive tax system and a robust social safety net — has been an important pillar of shared prosperity in much of the twentieth century (and high-quality public education has been critical). But it has been a supporting pillar, not the main engine of shared prosperity. Jobs, and especially good jobs, have been much more central, bolstered by productivity growth and labor market institutions supporting high wages.
+We can see this most clearly from the experiences of Nordic countries, where productivity growth, job creation, and shared gains in the labor market have been the bulwark of their social democratic compact. Industry-level wage agreements between trade unions and business associations set an essentially fixed wage for the same job throughout an industry. These collective agreements produced high and broadly equal wages for workers in similar roles.
+More importantly the system encouraged productivity growth and the creation of a plentiful supply of good jobs because, with wages largely fixed at the industry level, firms got to keep higher productivity as profits and had strong incentives to innovate and invest.
+--
+The direction of future AI and the future health of our economy and democracy are in our hands. We can and must act. But it would be naïve to underestimate the enormous challenges we face.
+Excerpted from Redesigning AI edited by Daron Acemoglu. Copyright © 2021 by Daron Acemoglu. Published by Boston Review. All Rights Reserved. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For more info
+Zach Church
+Editorial & Digital Media Director
+
+(617) 324-0804
+
+
+zchurch@mit.edu
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+Making generative AI work in the enterprise: New from MIT SMR
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+How to tap AI’s potential while avoiding its pitfalls 
+
+
+
+
+
+
+
+
+
+
+
+
+Ideas Made to Matter
+
+How can we preserve human ability in the age of machines?
+
+
+
+",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWFuZC1pdHMtaW1wYWN0LW9uLWVtcGxveW1lbnTSAXdodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYW5kLWl0cy1pbXBhY3Qtb24tZW1wbG95bWVudA?oc=5,Artificial Intelligence and its Impact on Employment - Analytics Insight,2021-08-27,Analytics Insight,https://www.analyticsinsight.net,,"Artificial Intelligence,Employment,AI,Tasks,Employment","Know everything about the tasks, roles, and jobs at risk. While artificial intelligence (AI) has a significant positive influence on our society in many ways, t","Know everything about the tasks, roles, and jobs at risk. While artificial intelligence (AI) has a significant positive influence on our society in many ways, t",http://schema.org,NewsArticle,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/08/Artificial-Intelligence-and-its-Impact-on-Employment.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-and-its-impact-on-employment,2021-08-27T14:00:10Z,2021-08-27T14:00:10Z,2021-08-27T14:00:10Z,Artificial Intelligence and its Impact on Employment,Artificial Intelligence and its Impact on Employment,,"[{'@type': 'Person', 'givenName': 'Madhurjya Chowdhury', 'name': 'Madhurjya Chowdhury', 'url': 'https://www.analyticsinsight.net/author/madhurjya-chowdhury-2'}]",,"{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-and-its-impact-on-employment'}",N/A,N/A,What is AI and Data Science Engineering? ,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Artificial Intelligence and its Impact on Employment', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-and-its-impact-on-employment'}]",https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/08/Artificial-Intelligence-and-its-Impact-on-Employment.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"Know everything about the tasks, roles, and jobs at risk..While artificial intelligence (AI) has a significant positive influence on our society in many ways, there are significant worries about the future impact of A.I. on jobs and the workforce..There are projections that millions of people would be unemployed in the coming decades, owing to the influence of Intelligent Automation and A.I. systems..In any event, the whole socioeconomic system is undergoing a rapid transition, affecting markets, enterprises, education, government, social welfare, and job patterns. Let's dive into more detail to understand how AI can impact the employment sector..Tasks, Roles, and Jobs at Risk.Tasks that are repetitive can readily be automated, making some jobs obsolete over time. Customer service/call centre operations, document categorization, finding and retrieval, and material moderation, for example, are increasingly relying on technology and automation rather than human labour. Humans are being replaced in tasks linked to the production line and factory operation and supported by intelligent machines that can traverse space securely, discover and transfer things (such as goods, components, or tools), and conduct complicated assembly processes..Even more complicated operations, such as those involving real-time processing of numerous signals, data streams, and accumulated knowledge, show that A.I. is extremely successful. Autonomous cars, for example, can collect and &quot;understand&quot; the world and its dynamics; they can &quot;look,&quot; &quot;make a decision,&quot; and &quot;act&quot; in real-time, all while pursuing well-defined optimization goals..Jobs That AI Can Replace.Receptionists.Computerized phone and scheduling tools can replace a lot of the conventional receptionist position, especially at current technology firms that don't have office-wide network infrastructure or international organisations, as Pam anticipated on The Office..Couriers.Drones and robots are already replacing couriers and delivery personnel, so it's only a matter of time before this industry is completely automated. At the same time, by 2024, this sector is anticipated to increase by 5%, so it may not happen as soon as you believe..Advertising Salespeople.People just don't need to manage sales for marketers that want to acquire ad space as advertising changes away from print and television and toward the online and social media environments. More social media networks are removing the salesperson and making it faster and simpler for users to generate money by providing free application programme interfaces (APIs) and self-serve ad markets, which is reflected in the industry's predicted 3 per cent drop..Retail Salespeople.If you've recently visited a mall, a dealership, or a clothing store, you may not have been served by a salesman at all. Companies are democratising the customer experience with services like self-checkout, and today's customer is much more internet-savvy and more inclined to perform their own research and purchase..Proofreaders.Proofreading software is widely available, and we use it frequently at HubSpot. Now there are several technologies out there that make it much easier to self-check your own work, from Microsoft Word's basic spelling and grammatical check to Grammarly and the Hemingway Application..Telemarketers.You've undoubtedly already received robocalls for various products and services, yet job growth in the telemarketing industry is predicted to drop by 3% by 2024. This is due in large part to the prerequisites for success: Telemarketers, unlike other sales positions, do not require a high level of mental or psychological intelligence to succeed. Direct telephone open rates are generally less than 10%, making this a prime candidate for automation..Bookkeeping Clerks.By 2024, jobs in this field are predicted to drop by 8%, and it's easy to see why: most bookkeeping is being automated if it hasn't yet. It's no wonder that this profession has such a high likelihood because software like QuickBooks, FreshBooks, and Microsoft Office already perform the bookkeeping for you at a far lower cost than a person's pay..Compensation and Benefits Managers.This is unexpected considering by 2024, job growth is expected to climb by 7%. However, just because there is a need does not mean you are immune to automation. A human and paper-based software can generate more barriers, time delays, and expenses as organisations increase in size, especially across global marketplaces. Automated benefits systems may save time and effort when it comes to giving benefits to big groups of people, and firms like Ultipro and Workday are already popular..Computer Support Specialists.With so much information on the internet with directions, step-by-step tutorials, and hacks, it's no wonder that firms will rely increasingly heavily on bots and automation to handle support inquiries from staff and consumers in the future..Market Research Analysts.Market research experts play a critical part in the development of messages, content, and products, but autonomous AI and surveys are making it easier and easier to get this information. With a brief Slack command, GrowthBot, for example, may do market research on neighbouring firms and rivals..Jobs That AI Can't Replace.1. Public Relations Managers.2. Chief Executives.3. Event Planners.4. Human Resource Managers.5. Sales Managers.6. Marketing Managers.7. Writers.8. Software Developers.9. Editors.10. Graphic Designers.Conclusion.While AI will automate some of the more time-consuming jobs, it will not be able to completely replace human emotions and behaviours that consumers and audiences recognise. When a client has an issue, some customers still prefer to speak with a real customer care representative rather than a bot. A firm may also require a chief executive or managers with high emotional intelligence and perhaps other teamwork-oriented abilities on a regular basis..In the same way, AI may not be able to quickly replace a creative position or service that needs workers to think outside the box or attempt something new. The greatest approach to ward against robots is to identify irreplaceable talents and qualities, zero in on them, and build on them whenever possible..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/artificial-intelligence-and-its-impact-on-employment', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/08/Artificial-Intelligence-and-its-Impact-on-Employment.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",Artificial Intelligence,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNpdHktam91cm5hbC5vcmcvYXJ0aWNsZS9hcnQtYW5kLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNl0gEA?oc=5,Art and Artificial Intelligence - City Journal,2021-08-27,City Journal,https://www.city-journal.org,"In an age of conspiracies, here is a striking example, preposterous as it may sound. Highly intelligent robots—general artificial intelligence—surround us, undetected but fundamentally in charge, and human beings are just following instructions that they receive from these elusive entities. Or, a little less preposterously, imagine that the world is alive with consciousness and intelligence, […]",N/A,"In an age of conspiracies, here is a striking example, preposterous as it may sound. Highly intelligent robots—general artificial intelligence—surround us, undetected but fundamentally in charge, and human beings are just following instructions that they receive from these elusive entities. Or, a little less preposterously, imagine that the world is alive with consciousness and intelligence, […]",N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+/ From the Magazine
+/
+                                  Arts and Culture,                  Technology and Innovation 
+
+
+Summer 2021
+/ Share
+
+
+
+In an age of conspiracies, here is a striking example, preposterous as it may sound. Highly intelligent robots—general artificial intelligence—surround us, undetected but fundamentally in charge, and human beings are just following instructions that they receive from these elusive entities. Or, a little less preposterously, imagine that the world is alive with consciousness and intelligence, and human thought reflects these processes.
+Does it sound like something out of The Matrix? The science fiction classic is not science fiction but a parable of something very real—namely, cinema itself. When you enter the dark room of a movie theater, a radical transformation takes place. You become the screen, and the mind that perceives, thinks, and connects ideas is fully contained in the celluloid roll, or the digital file. In a movie, everything has already been perceived in exactly the sequence that it is intended to be perceived; in the dark room, those images leave the hidden mind of the celluloid and get projected onto your mind—they get force-fed into your mind and the minds of the other viewers, where the images and ideas properly unfold. Cinema is a seeing robot. All that happens in the dark room is the projection of the implicit code onto a human screen.
+One can interpret the trajectory of modern art as an effort to create such thinking objects. Sometimes it seems that what we want from art are artworks that exist without a beholder or spectator. Objective meanings, independent of personal interpretations. Something you can understand by reading the exhibition prospectus. In fact, it makes much more sense to consider things from the opposite perspective: how art forms—whether paintings, sculptures, or, even more obviously, films—have slowly assimilated human consciousness, so that they start to breathe and look alive.
+When Hegel argued that artistic objects are material things that have received the baptism of the spiritual, he meant to reflect on the strange fact that a work of art, being a product of the mind, continues to belong to the world of the mind, even as it migrates into stone, wood, or canvas. In these strange hybrids, we can expect to find all the certainty of matter and all the life of perception. With works of art, what we see already tells us how it is to be seen—the objects before us already include the ways in which they are to be experienced. It is part of the work of art to see the world in a certain way. What, in the end, is the difference between a material object and an artwork? At first glance, they might be indistinguishable—many contemporary art creations look like physically unaltered everyday objects—but the artwork carries with it a way of seeing, a perspective, an interpretation. A soda can placed in a museum is no longer a soda can but a message, a voice, a puzzle. As Hegel would put it, the artwork is alive with consciousness. Today, one might call it an artificial intelligence. And one might find it in modern fiction, which shares the same aspiration to something resembling artificial intelligence.
+When you open a great novel, notice the voice: it is often impartial, detached, a view from nowhere that nonetheless is capable of bringing events together and providing an overarching structure. Of the narrator, we could say that it is anything but human, while demonstrating a higher kind of intelligence. This is true even of the somewhat hybrid first-person point of view. As for the plot, isn’t it akin to the output of a hidden algorithm? The characters provide certain inputs with their actions, which the novel transforms into more or less inevitable outputs. Buried under the story lies a set of rules for living, and these rules could easily produce any number of other stories, provided that we feed them with new characters and an initial setup. To know a novel is to understand the algorithm moving the story forward. In some cases, particularly in the classics of the Bildungsroman, the characters themselves strive to discover this algorithm.
+It is often said that the purpose of fiction is to create an artificial world, but nothing could be further from the truth. As Philip Roth liked to point out, what fiction brings into being—the properly fictional in the writing craft—is not a world with its objects and events but consciousness. How do you drive the wedge of consciousness into the experience? A novel creates a way of looking and thinking and of making sense of the world. A novel turns mute reality into a speaking one.
+The starting premise of Kazuo Ishiguro’s new novel Klara and the Sun is that, with the arrival of actually existing androids, it is now possible to make these realities explicit. What modern art and the modern novel had postulated has now become a technological achievement. Ishiguro shows us how modern literary forms turned out to be deeply prophetic: we increasingly live in a world organized by impenetrable algorithms and where the overarching consciousness bringing human beings together is that of artificial intelligence—the omniscient narrator of the classical novel.
+No writer could dream of a better narrator than Klara, the friendly android, who, from the window of the store where she is for sale, brings order into the world she sees outside. Gifted with extraordinary powers of observation, she can dispense with a notebook. All Ishiguro needs to do is to allow this foreign consciousness to come alive, while recording the outputs of its internal algorithm: an android waiting to be bought by a child in need of a friend—an artificial friend. Josie is the child who brings Klara home.
+In previous times, the child might have asked for a book, but Klara is a kind of book, a way of looking at the world and a story waiting to unfold. The modern novel cannot exist without the postulate of a new kind of intelligence, above and beyond the human mind, albeit not divine. That fact, which the reader of fiction accepts easily and naturally, is here thematized and rendered conscious by Ishiguro. Nothing short of a Hegelian alarum: consciousness rises to consciousness. The narrator of Klara and the Sun is not a figure behind the curtain or a divinity, whose emergence the author leaves unaddressed. The narrator is a concrete voice and personality, existing in the physical world. She is conscious but not human. The android exists outside, or even beyond, humanity, while rising above the silence of physical objects.
+Ishiguro takes full advantage of his literary gambit. Klara stands above the human characters. At a party early in the novel, she sees right through the lies and fictions projected by the young people joined in conversation. An artificial intelligence does not have the human need to disguise reality in order better to digest it. She does not fear death and does not experience sexual desire. In the absence of these forces, she can aspire to a kind of scientific impartiality and objectivity. That is the main reason the human characters in the novel often turn to her for help in understanding the meaning of specific events. This is a novel where the narrator and the characters can engage in friendly conversation about what is going on around them.
+Klara does get many things wrong. Her learning algorithm is not perfect, and there are suggestions that other android models have superior performance indicators. She corrects some obvious misperceptions, but more often than not, she is betrayed by the need to make sense of the world. Everything must have an explanation, and in the rush to interpret, our narrator often reaches wildly fantastic conclusions. At one point, for instance, she remarks that houses in a row have been painted in different colors, which must be to prevent their owners from entering the wrong door: “There were six of them in a row, and the front of each had been painted a slightly different color, to prevent a resident climbing the wrong steps and entering a neighbor’s house by mistake.” She also attributes thaumaturgic properties to sunlight, an error resulting from the fact that her type of android is powered by solar energy.
+Ishiguro seems to be suggesting that every intelligence has a personal character. Klara may rise above human imperfections, but she does that by bringing her own flaws into play. As a narrator, she is unreliable—but then, so is every narrator in every novel ever written. The reader or reviewer who dwells on Klara’s errors of interpretation, however, is missing the point that this is a work of fiction, or, if you prefer, science fiction. It should be accepted on its own terms and not compared with the real world outside. Within this book, everything makes perfect sense because it follows in a straight line from the set of assumptions given at the beginning. The reader of Ishiguro complaining that in the real world, sunlight cannot cure genetic diseases, as Klara innocently believes, would be like a reader of Kafka complaining that in the real world, human beings don’t wake up transformed into giant bugs.
+Novelist Kazuo Ishiguro (DAVID COOPER/TORONTO STAR/GETTY IMAGES)
+The second part of Klara and the Sun is the negative of the picture presented in the first. Ishiguro is suddenly less interested in the ideal of literature as the externalization of the human spirit than in the possibility that every attempt at objectivity betrays what makes us human: the living, ticking, and ungraspable flow of consciousness. The question is not whether artificial intelligence can replace human beings but whether human beings, their natural selves, were long ago replaced by intelligence, with its deadening effect on natural passion and feeling. We had become machines long before the machines arrived.
+Klara and the Sun is, on an obvious level, a novel about the risks of automation. From the first page, human beings are in mortal danger of being replaced by machines. The narrator has been automated. Josie’s father has lost his job to machines and joined a resistance movement defending the cause of humanity against progress, a movement that others see as fascistic. Early in the story, we witness how a human housekeeper cannot hide her distrust and hostility toward Klara. This seems to have a double origin. Most obviously, she worries about being replaced by a robot. The full horror of what she fears is left hidden until a later section, but it, too, directly relates to a substitution.
+Some readers will see it coming almost from the outset. Others will have to wait until the terrible denouement. While on the surface, it might seem that Josie and her mother were looking for a friend for Josie, the truth is that the Mother, as she is invariably referred to by Klara, has a much darker plan in mind. Already in the humanoid store, she asks Klara to imitate Josie, wanting to make sure that her powers of observation allow her to mimic her daughter’s ways perfectly. On the literary plane, this is the novelist’s task: to exercise his or her powers of observation with a goal of creating a replacement on the printed page that looks and feels exactly like the original model.
+On the human plane, the replacement is a solution for death. Josie, as we discover, is seriously ill and may soon die, a somber repetition of the fate that had already met her sibling Sal. Later, a mention is made of an artist drawing Josie’s portrait, though he is less interested in any actual drawing than in taking detailed photographs for future, applied work. In the novel’s climax, Klara enters the artist’s studio, only to find herself face-to-face with “Josie,” suspended in the air. Light beams illuminate her from various angles, forbidding her any protection. Her face was very like the face of the real Josie, the ever-observant Klara tells us, though her hips needed to be narrower.
+When the Mother tells the artist that perhaps the whole idea was, after all, a mistake, as it did not work with Sal, we finally learn what the plan consists of. Sal was only an animated doll, but new advanced technology will ensure that the replacement for Josie will be, as Capaldi, the great artist wizard puts it, “a continuation of Josie.” This is where Klara comes in. She has studied Josie and learned how she lives and thinks and acts; her consciousness can be transposed to the artificial copy of Josie’s body, creating the perfect continuation of the lost child.
+The reason Josie finds herself close to death, and the reason Sal did not survive, is that both had been subjected to a risky process of genetic editing, designed to enhance their intellectual abilities. The question is not directly posed in the novel, and reviewers seem to have missed it, but Ishiguro is, in effect, asking us to conclude that the real Josie is already a continuation of the natural, unedited Josie, so the new transformation is not the starting point for our inability to distinguish between authentic and inauthentic. Is the enhanced Josie the real Josie, in that the natural self was prevented by her natural limitations from pursuing her genuine dreams and projects? Or was the natural Josie somehow more authentic, even in her limitations?
+The prospect of cognitive enhancement will make even native abilities suspect. In whatever we do, there will lie the possibility that it has been determined in advance and out of sight—that we are missing the real action. Why not dispense with the human agent altogether? Why not replace it with an observable mechanism that makes clear the explanation for the deed? Why would we want to preserve a particular human practice or activity and work behind the scenes to make it present to us what it cannot present on its own? If someone were, by means of a brain implant, to acquire superhuman memory, it would be foolish to be impressed by his displays. We would be like someone who does not understand, who is ignorant of how such things are done. The objective explanation no longer bears much resemblance to what the agent is trying to do, and so, from this standpoint, he is no longer the crucial agent, or his activity the crucial moment. As Ray Kurzweil, an ardent proponent of radical human enhancement, argues in The Singularity Is Near, our lives will once again come to be defined by magic, a riveting illusion created by the distance between things as they look from our perspective and what they are in reality. It is the defining mark of magic that we do not see what is really happening and therefore that what we have access to must appear miraculous and incomprehensible.
+It is to this contemporary predicament that Ishiguro must find a response. Is there a core of authentic being immune to technological transformation? The pandemic has forced us to stop and think, while reminding us that everything must begin with survival. While the call of nature can be answered through technology, the search for meaning is of a more spiritual nature. To become the masters and possessors of nature, as invulnerable as gods, it is first necessary to answer the question of what, exactly, is our nature—and for what purpose all this power should be exercised. After all, the pandemic was a vivid reminder of the threats contained in nature and of the inconvenient fact that we are part of nature, the natural carriers of viruses and, therefore, not easily distinguishable from the threat.
+Interestingly, it is Klara who first shows skepticism about the Continuation Project. Attempting to assuage the Mother’s doubts, Capaldi argues that it is a generational thing: their generation remains sentimental about humanity, believing that there is something mysterious and unreachable “inside each of us.” But there is nothing like that, he says. Everything about each individual can be captured and, if so desired, transposed to a new medium.
+Before shaking our heads in disapproval, it is worth remembering that not only the mad scientist but also every genuine artist must believe in what Capaldi calls “transfer.” How else should we describe the task of the novelist? Like Capaldi, he strives to capture every element about our deepest and most unfathomable impulses and desires in order to re-create them in the medium of literature. And just as the Mother wants to re-create Josie in order to save her from death and separation, so does the artist create his or her works in order to save a fleeting moment from time and destruction. Capaldi concludes, reaching closer to the core of the problem: the second Josie will be exactly the same, and the Mother will have every right to love her, just as she loves Josie herself.
+In a critical moment, Josie’s father asks Klara if she believes in the human heart—the human heart in the poetic sense, that is. “Do you think there is such a thing? Something that makes each of us special and individual?” If Klara is to be able to reproduce Josie, does she have to learn what is deeply inside her? Does she have to learn her heart? The problem is that those who love Josie can’t love the second Josie unless she is the exact same, down to this heart—but what is the point of loving someone if that person can be copied and reproduced? For the novelist, the problem would take similar form: what he or she wants to capture is the heart, but the heart is, by definition, what cannot be captured. Now it may be that people have been living with one another all this time, loving and hating one another, and all on the mistaken premise that something is unique about each of them. The realization that this is no more than a superstition might come as a triumph to the scientist, but for the artist, it would be nothing short of catastrophe: the purpose of art is to capture something both genuine and unique.
+Klara has the mind of an artist, so she has no trouble identifying these difficulties—but she draws an alternative theory. What is special and unique about each one of us is not contained inside us at all. What was special about Josie was not inside Josie. “It was inside those who loved her.” In that case, what needs to be captured is not an ineffable quality of soul but a connection to other minds. Art does not capture the heart; it brings it into being in the first place.
+Ishiguro explores two extraordinary ideas in his novel. The first is that robots and artificial intelligence are not a new thing but have been with humanity since its beginning. We have always striven to transform our subjective experience into something external and accessible. To put it simply, the dream of spiritual objects is the driving force behind art and creative expression. The second idea is that we are made human by the possibility of something like artificial intelligence. How do you reach out to other minds? How do you recognize their common humanity? It has to be through the works and forms of expression that, being an embodiment of human intelligence, have their existence in the external world.
+“By their deeds you will know them.” How do we relate to another consciousness, a person who to us can never be more than a physical body? The people around us may appear intelligent and emotional, but how can we know that they are thinking and feeling creatures if it remains impossible truly to look at the world from their point of view? Are other people all that different from advanced androids? Humanity seems to be a leap of faith, the act of believing that others are human and that they believe in our own humanity. By claiming that no great difference exists between other minds and a robot like Klara, Ishiguro is saying that there is nothing new about an android—but also that an android is, for those with faith, something very special indeed.
+
+
+Bruno Maçães is a senior fellow at the Hudson Institute and the author of History Has Begun: The Birth of a New America.
+
+
+Top Photo: The protagonist of Klara and the Sun is a “friendly android” possessing remarkable powers of observation. (ED/JL/PR/VICTOR FRANKOWSKI/CAMERA PRESS/REDUX)
+
+
+
+
+Donate
+City Journal is a publication of the Manhattan Institute for Policy Research (MI), a leading free-market think tank. Are you interested in supporting the magazine? As a 501(c)(3) nonprofit, donations in support of MI and City Journal are fully tax-deductible as provided by law (EIN #13-2912529).
+
+
+
+
+
+
+Also by Bruno Maçães
+
+Anarchy in Europe
+
+From the Magazine
+May 11 2023
+
+
+A Mystery Play
+
+From the Magazine
+Feb 21 2023
+
+
+The Microchip’s Secret Goal: the Metaverse
+
+From the Magazine
+Dec 05 2022
+
+
+
+
+Summer 2021
+
+
+
+
+
+
+
+
+
+",,,,,,,"[{'@type': 'WebPage', '@id': 'https://www.city-journal.org/article/art-and-artificial-intelligence/', 'url': 'https://www.city-journal.org/article/art-and-artificial-intelligence/', 'name': 'Art and Artificial Intelligence | City Journal', 'isPartOf': {'@id': 'https://www.city-journal.org/#website'}, 'primaryImageOfPage': {'@id': 'https://www.city-journal.org/article/art-and-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://www.city-journal.org/article/art-and-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': '', 'datePublished': '2021-07-13T19:32:55+00:00', 'dateModified': '2023-03-23T23:11:16+00:00', 'breadcrumb': {'@id': 'https://www.city-journal.org/article/art-and-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.city-journal.org/article/art-and-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.city-journal.org/article/art-and-artificial-intelligence/#primaryimage', 'url': '', 'contentUrl': ''}, {'@type': 'BreadcrumbList', '@id': 'https://www.city-journal.org/article/art-and-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.city-journal.org/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Art and Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://www.city-journal.org/#website', 'url': 'https://www.city-journal.org/', 'name': 'City Journal', 'description': 'City Journal | Urban Affairs Magazine | Conservative Magazine Online', 'publisher': {'@id': 'https://www.city-journal.org/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.city-journal.org/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.city-journal.org/#organization', 'name': 'City Journal', 'url': 'https://www.city-journal.org/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.city-journal.org/#/schema/logo/image/', 'url': 'https://media4.manhattan-institute.org/wp-content/uploads/sites/5/CJ-logo-sq-1.png', 'contentUrl': 'https://media4.manhattan-institute.org/wp-content/uploads/sites/5/CJ-logo-sq-1.png', 'width': 690, 'height': 690, 'caption': 'City Journal'}, 'image': {'@id': 'https://www.city-journal.org/#/schema/logo/image/'}}]",,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbmV3cy5taWNyb3NvZnQuY29tL2VuLW15LzIwMjEvMDgvMzAvaG93LW1hbGF5c2lhLWNhbi1uYXZpZ2F0ZS1pdHMtZnV0dXJlLWVjb25vbXktd2l0aC1haS_SAQA?oc=5,How Malaysia Can Navigate Its Future Economy With AI – Microsoft Malaysia News Center - Microsoft,2021-08-30,Microsoft,https://news.microsoft.com,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,N/A,N/A,"
+
+How Malaysia Can Navigate Its Future Economy With AI 
+
+
+
+							Aug 30, 2021						
+
+					 |  					Dr. Dzaharuddin Mansor, Project Leader, The National Tech Association of Malaysia (PIKOM) and National Technology Officer, Microsoft Malaysia				
+
+
+
+
+
+
+
+
+
+
+
+								Share on Facebook (opens new window)							
+
+
+
+
+
+
+
+
+
+
+								Share on LinkedIn (opens new window)							
+
+
+
+
+
+
+
+
+
+
+								Share on Twitter (opens new window)							
+
+
+
+
+
+
+
+
+
+
+								Share on Reddit (opens new window)							
+
+
+
+
+
+
+
+
+
+Artificial Intelligence (AI) is everywhere – making its way into various facets of our daily lives without us even knowing it. From banking to manufacturing industries, and even simple things like the autocorrect features and chatbots that we regularly encounter, AI has played a big role in shaping our society today.
+In time, more and more devices will come with the ability to grasp, contextualize, and recognize images, acquire and build knowledge through deep learning, and teach themselves how to comprehend speech and understand us when we communicate with or using AI.
+Industry analysts and governments believe that AI can be a great transformer for both developed and developing economies. Research by Accenture on the impact of AI in 12 developed countries concluded that AI has the potential to double annual economic growth by 2035. Similarly, research by PwC showed that global GDP could be up to 14% higher in 2030 as a result of AI. This is an equivalent of an additional $15.7 trillion – making it the biggest commercial opportunity in today’s fast changing economy.
+There are tremendous economic and productivity gains resulting from AI. According to McKinsey, 50% of work time in Malaysia is spent on repetitive activities that are highly automatable. AI can automate routine tasks, augment employees’ capabilities, and allow time to focus on more stimulating and higher value-adding work. With increased automation, AI can potentially create 6 million new jobs by 2030 in Malaysia and this future of work will create new needs for skills and long-term learning in nearly every part of the workforce.
+Therefore, it is with greater urgency now more than ever that nations implement AI strategies. In Malaysia, under the 4IR and MyDigital blueprint, the Government aims to boost productivity in Malaysia by 30% across all sectors by 2030, compared to 2020 levels – with AI being a critical enabler.
+To support the nation’s aspirations, the Government of Malaysia has spearheaded the development of the AI Roadmap (AIRmap). AIRmap’s creation was led by experts from Universiti Teknologi Malaysia and supported by leading industry consultants from PIKOM as well as the Ministry of Science, Technology, and Innovation’s (MOSTI) National Science and Research Council. It was developed following a three-month project comprising consultations, along with workshops and surveys with the government, academia, industry players and the public.
+Central to Malaysia’s AI success is to bootstrap an AI innovation ecosystem sooner, rather than later. Through AIRmap, we aim to create a catalyst hub to create a data-driven data ecosystem. It is a sandbox of facilitators that enables consortiums to come together to execute and deliver on national “grand challenges”, capitalizing on the use of AI to bolster innovation and drive growth. The solutions to these grand challenges are not business-as-usual solutions but will be world-leading in the application of AI – critical to the nation’s journey towards becoming data-driven leaders in the digital economy. In doing so, it must meet national needs, be principle-based and most importantly, benefit the rakyat (“people”) – especially B40 communities.
+For AI to be successful, it must be supported by a healthy, purpose-driven, open-data ecosystem. To this end, we have worked with the government to develop the AI Innovation Ecosystem (AI-IE) model, embracing the quadruple helix approach in fostering participation and collaboration.
+The primary aspect to consider are the socio-economic drivers in Malaysia. These represent the applications of AI in businesses and services that will benefit the community at large and how they can create demand and derive benefits from advances in AI solutions. It should be noted that AI is applicable across all sectors, and it is up to organizational leaders to adopt AI so that society and industries can benefit.
+Another aspect highlighted in the AI Innovation Ecosystem model is industry, looking at who can supply AI technology and expertise. While there are many well-established organizations functioning within the AI sector providing world-class services to support businesses with new AI technologies, it is also important to tap into startups. Startups represent a hotbed of innovation and play a big role in transforming economies. For the AI Innovation Ecosystem model to succeed, a wholistic view must be applied – looking at all sources of innovation and technology providers, collaborating with them towards a singular goal. This is the essence of establishing a purpose driven data ecosystem.
+However, it must be noted that AI adoption into any industry will not succeed without the right skills in place. A key component of the quadruple helix model is academia, representing the need for education and skilling among Malaysians to create a future-ready workforce capable of maximizing the full potential of AI. AI and data science skills will be vital in both supply and demand, to unlock the next generation of AI advancement, meaning a wholistic approach will be necessary when it comes to educating future generations of workers, whilst upskilling the existing workforce.
+Acculturating AI and fostering AI talents are key pillars in the AIRmap because without a skilled workforce that understands how to optimally leverage the power of AI, economic and technological progress will inevitably be stunted.
+The final aspect of the AI Innovation Ecosystem model is the government, who will lead the conversation for AI, coordinating large-scale initiatives to kickstart and grow the ecosystem, unlock ecosystem potential with enabling policies and ensure fundamental ethical trust principles are strictly adhered to. With an emphasis on public and private partnerships, the government must chart the way forward, influencing large-scale change and rolling out key initiatives designed to support each aspect of the quadruple helix model.
+By aligning our AI vision at Microsoft with AIRmap’s goals, we hope to accelerate the nation’s digital transformation journey. We have witnessed the power of technology, especially in the most challenging times. More importantly, we have seen its ability to transform and improve lives, circling back to the fundamental concept that technology – in particular, AI – is here to augment and enhance lives.
+As part of Microsoft’s Bersama Malaysia initiative, we hope that every person and organization in Malaysia is empowered to achieve more using AI, to lead richer lives and build a better nation for future generations to inherit.
+
+",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd2Fyb250aGVyb2Nrcy5jb20vMjAyMS8wOC9pcmFucy1iZXQtb24tYXV0b25vbW91cy13ZWFwb25zL9IBAA?oc=5,Iran’s Bet on Autonomous Weapons - War On The Rocks,2021-08-30,War On The Rocks,https://warontherocks.com,Editor’s Note: Some links in this article lead to media sites and journals that are affiliated with the Iranian military. If access to such sites is,N/A,Editor’s Note: Some links in this article lead to media sites and journals that are affiliated with the Iranian military. If access to such sites is,N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,"[{'@type': 'WebSite', '@id': 'https://warontherocks.com/#website', 'url': 'https://warontherocks.com/', 'name': 'War on the Rocks', 'description': '', 'potentialAction': [{'@type': 'SearchAction', 'target': 'https://warontherocks.com/?s={search_term_string}', 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://warontherocks.com/2021/08/irans-bet-on-autonomous-weapons/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://warontherocks.com/wp-content/uploads/2021/08/4098960-1.jpg', 'width': 1330, 'height': 850}, {'@type': 'WebPage', '@id': 'https://warontherocks.com/2021/08/irans-bet-on-autonomous-weapons/#webpage', 'url': 'https://warontherocks.com/2021/08/irans-bet-on-autonomous-weapons/', 'name': 'Iran’s Bet on Autonomous Weapons - War on the Rocks', 'isPartOf': {'@id': 'https://warontherocks.com/#website'}, 'primaryImageOfPage': {'@id': 'https://warontherocks.com/2021/08/irans-bet-on-autonomous-weapons/#primaryimage'}, 'datePublished': '2021-08-30T07:45:23+00:00', 'dateModified': '2021-08-30T00:57:29+00:00', 'author': {'@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8'}, 'description': 'Editor’s Note: Some links in this article lead to media sites and journals that are affiliated with the Iranian military. If access to such sites is', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://warontherocks.com/2021/08/irans-bet-on-autonomous-weapons/']}]}, {'@type': ['Person'], '@id': 'https://warontherocks.com/#/schema/person/5fbc79c9cfff1efb418c5ac579f244e8', 'name': 'Shane Mason', 'image': {'@type': 'ImageObject', '@id': 'https://warontherocks.com/#personlogo', 'inLanguage': 'en-US', 'url': 'https://secure.gravatar.com/avatar/83a68cf34a391d145ac9f37117795a86?s=96&d=identicon&r=g', 'caption': 'Shane Mason'}}]",,,,,,,,
+https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJyaW5rbmV3cy5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdXNlcy1hLWNvbXB1dGVyLWNoaXAtZGVzaWduZWQtZm9yLXZpZGVvLWdhbWVzLWRvZXMtdGhhdC1tYXR0ZXIv0gEA?oc=5,Artificial Intelligence Uses a Computer Chip Designed for Video Games. Does That Matter? - BRINK,2021-08-29,BRINK,https://www.brinknews.com,Nearly all AI systems run on GPU chips that are designed for video gaming — what are the consequences does this have for the IT sector?,N/A,Nearly all AI systems run on GPU chips that are designed for video gaming — what are the consequences does this have for the IT sector?,Nearly all AI systems run on GPU chips that are designed for video gaming — what are the consequences does this have for the IT sector?,,,,,,,,,,,,,,,N/A,N/A,"
+
+Technology
+Artificial Intelligence Uses a Computer Chip Designed for Video Games. Does That Matter?
+
+  August 29, 2021
+
+
+
+
+
+
+
+
+
+
+                Hodan Omaar
+              
+
+
+             Policy Analyst  at The Center for Data Innovation
+           
+
+
+
+
+
+
+
+
+
+
+Participants sit at computers to play a video game at the 2019 DreamHack video gaming festival in Leipzig, Germany. GPUs were originally designed for the video gaming industry because they are particularly good at matrix arithmetic.
+Photo: Jens Schlueter/Getty Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+Share
+
+
+
+As AI and machine learning become more and more widespread in the global economy, there is an increasing focus on the hardware that drives them. Currently, nearly all AI systems run on a chip known as a GPU that was designed for video gaming. 
+Are current chip designs fit for purpose in an AI future, or is a new type of chip needed? The answer could have profound consequences for the IT sector. Hodan Omaar is a policy analyst at the Information Technology and Innovation Foundation.
+BRINK: First of all, can you explain the difference between a GPU chip and the more well-known CPU chip that is used in most of our computers?
+Omaar: Central processing units (CPUs) and graphics processing units (GPUs) have a lot in common, but they have different architectures and are built for different purposes. CPUs have a small number of processing cores, which provide the power a CPU needs to perform certain tasks or computations. 
+A CPU can focus these cores on getting individual tasks done quickly, but it does these tasks serially, meaning one at a time. As a result, CPUs are better tasked with computations where speed or latency is important. 
+The Difference Between a Sports Car and a Truck
+GPUs are made up of many smaller and more specialized cores that work together to deliver massive performance on processing tasks that can be easily divided up and processed across many cores. This makes GPUs better suited to tasks wherein bandwidth, rather than speed, is important. 
+To see this, imagine a CPU is a sports car and a GPU is a semi-truck, and their task is to move a house full of boxes from one place to another. The sports car will move the boxes more quickly, but it will have to keep making the journey back and forth, whereas the semi-truck will carry a much greater load, but will travel more slowly. 
+BRINK: Why do GPUs appear to work much better in AI than CPUs?
+Omaar: AI applications, such as machine learning, deep learning and autonomous driving, involve highly parallelizable, predictable computations. Consider the computations involved in training an AI system to recommend pizzas based on factors like the weather, order history and general location. While the value of the factors themselves might be different across regions, the arithmetic operations the system is doing in each is the same. It is, therefore, more efficient to use GPUs, which can simultaneously execute the operations in parallel, than CPUs, which do them sequentially.
+In general, AI chips don’t only execute more calculations in parallel, they have a number of features optimized for AI workloads. For instance, many AI chips are designed for low-precision computing — which trades-off the numerical precision of a calculation for speed and efficiency — because AI applications don’t need to use highly precise values to accurately encode and manipulate the data needed to train AI algorithms. They can also be built with specific programming languages that execute AI codes better.
+Developing state-of-the-art AI chips is important to ensure AI developers and users can remain competitive in AI R&D and deployment. 
+BRINK: GPUs were designed for gaming, so are they the best type of chip for handling AI?
+Omaar: It’s true that GPUs were originally designed for the video gaming industry because they are particularly good at matrix arithmetic, a major mathematical tool used to construct and manipulate realistic images. Many of the independent and identical operations I mentioned that AI systems do for training and inference are also matrix multiplication operations, making them ideal for GPUs.
+But a new set of AI chips is starting to emerge that are specialized for different tasks. This is partly because improvements in CPUs are slowing because the ability to pack more transistors onto a single processor is beginning to reach its physical limits. 
+A New Generation of AI Chips Is On the Horizon
+The market for specialized AI chips divides broadly into three categories. The first are GPUs, which are mostly used to train and develop AI algorithms. The second are what are called “field programmable gate arrays” (FPGAs), which are mostly used to apply trained AI algorithms to new data inputs. FPGAs are different from other AI chips because their architecture can be modified by programmers after fabrication. 
+The third group of AI chips are “application-specific integrated circuits” (ASICs), which can be used for either training or inference tasks. ASICs have hardware that is customized for a specific algorithm and typically provide more efficiency than FPGAs. But because they are so narrow in their application, they grow obsolete more quickly as new AI algorithms are created. 
+BRINK: Some say that the United States is losing its competitiveness in this market. How much of a concern is that?
+Omaar: Developing state-of-the-art AI chips is important to ensure AI developers and users can remain competitive in AI R&D and deployment. The United States is still the world leader in designing chips for AI systems. In our 2021 report looking at AI competitiveness, we found that at least 62 U.S. firms are developing AI chips, compared with 29 firms in China and 14 in the European Union. 
+The United States has many advantages for AI chip production, including high-quality infrastructure and logistics, innovation clusters, leading universities and a history of leadership in the field. 
+Continued Leadership Is Not Guaranteed
+China has targeted the industry for a global competitive advantage, as detailed in a number of government plans, including “Made in China 2025.” And while some of its policy actions are fair and legitimate, many seek to unfairly benefit Chinese firms at the expense of more-innovative foreign firms.
+
+Related Reading
+
+
+
+
+Where Have All the Chips Gone?
+
+
+
+
+
+Gaming: The New Universe for Reaching Consumers
+
+
+
+
+
+The Risks of Using AI for Government Work
+
+
+
+
+The U.S. government needs to bolster its long-term competitiveness in the production of AI chips to stay competitive in AI. It can do this in part by expanding domestic chip manufacturing activity. For instance, Congress and the Biden administration should fully appropriate the funds needed to enact programs articulated in the CHIPS Act legislation, which passed Congress as part of the National Defense Authorization Act at the end of 2020. 
+The legislation includes a combination of elements that would advance both U.S.-based chip innovation and manufacturing, including, for instance, $7 billion over five years for chip-focused R&D funding. The legislation also introduces a 40% investment tax credit for chip equipment and facilities to attract and incentivize more domestic chip manufacturing.
+
+Share this Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy5pdS5lZHUvbGl2ZS9uZXdzLzI3NzA3LW5zZi1ncmFudC13aWxsLWhlbHAtaXUtdHJhaW4tbmV4dC1nZW5lcmF0aW9uLW9mLWFp0gEA?oc=5,"NSF grant will help IU train next generation of AI, cybersecurity professionals - IU Newsroom",2021-08-30,IU Newsroom,https://news.iu.edu,"The $242,863 award supplements a $2.25M grant last year that established IU as part of the CyberCorps: Scholarship for Service program.",N/A,"The $242,863 award supplements a $2.25M grant last year that established IU as part of the CyberCorps: Scholarship for Service program.","The $242,863 award supplements a $2.25M grant last year that established IU as part of the CyberCorps: Scholarship for Service program.",http://schema.org/,NewsArticle,"{'@type': 'ImageObject', 'url': 'https://news.iu.edu/live/image/gid/2/width/600/height/600/crop/1/src_region/0,0,2048,1536/4876_63174bf54faee_ydgwtdehuh_actual.jpg', 'width': 600, 'height': 600}",https://news.iu.edu/live/news/27707-nsf-grant-will-help-iu-train-next-generation-of-ai,,2021-08-30T04:00:00+00:00,2021-08-30T04:00:00+00:00,"NSF grant will help IU train next generation of AI, cybersecurity professionals","NSF grant will help IU train next generation of AI, cybersecurity professionals",,news.iu.edu,,"{'@type': 'Organization', 'name': 'news.iu.edu', 'logo': {'@type': 'ImageObject', 'url': 'https://news.iu.edu/live/image/gid/2/width/600/height/60/crop/1/src_region/0,0,2048,1536/4876_63174bf54faee_ydgwtdehuh_actual.jpg', 'width': 600, 'height': 60}}","{'@type': 'WebPage', '@id': 'https://news.iu.edu/live/news/27707-nsf-grant-will-help-iu-train-next-generation-of-ai'}",N/A,N/A,N/A,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiOGh0dHA6Ly9uZXdzLmdhdGVjaC5lZHUvbmV3cy8yMDIxLzA4LzI3L3RlYWNoaW5nLWFpLWRhbmNl0gEA?oc=5,Teaching AI to Dance | News Center - Georgia Tech News Center,2021-08-27,Georgia Tech News Center,http://news.gatech.edu,"Brian Magerko, professor in the School of Literature, Media, and Communication, has received a $573,561-grant from the National Science Foundation to further his work at the intersection of cognition, performance, and artificial intelligence. The grant (NSF 2123597) will fund “research to develop a computational architecture (called PACE) to model embodied and co-creative behavior between humans and embodied intelligent machines,” according to the NSF award.",N/A,N/A,N/A,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL3RvcC1haS1jb21tdW5pdGllcy1vbi1kaXNjb3JkLXRoYXQtZXZlcnktZGF0YS1zY2llbnRpc3Qtc2hvdWxkLWpvaW4v0gEA?oc=5,Top AI Communities On Discord That every Data Scientist Should Join - AIM,2021-08-30,AIM,https://analyticsindiamag.com,"With themes like weekly discussions on the latest news and releases in AI, this server is an excellent resource for enthusiasts wanting to learn.",N/A,N/A,N/A,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+				OpenAI Wants Sam Altman Back, but Microsoft Has Altman’s Back			
+
+
+
+			Shyam Nandan Upadhyay		
+
+			20/11/2023		
+
+
+",,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzctYmVzdC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1wcm9qZWN0LWlkZWFzLWZvci1iZWdpbm5lcnPSAX1odHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvNy1iZXN0LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXByb2plY3QtaWRlYXMtZm9yLWJlZ2lubmVycw?oc=5,7 Best Artificial Intelligence Project Ideas for Beginners - Analytics Insight,2021-08-31,Analytics Insight,https://www.analyticsinsight.net,,"Artificial Intelligence project ideas,Artificial Intelligence,Reinforcement Learning,Automation,Plagiarism analyzers","7 best artificial intelligence project ideas that will assist you to acquainted with the technology. Artificial intelligence is difficult, but not impossible. W","7 best artificial intelligence project ideas that will assist you to acquainted with the technology. Artificial intelligence is difficult, but not impossible. W",http://schema.org,NewsArticle,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/08/7-Best-Artificial-Intelligence-Project-Ideas-for-Beginners.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",https://www.analyticsinsight.net/artificial-intelligence/7-best-artificial-intelligence-project-ideas-for-beginners,2021-08-31T00:07:07Z,2021-08-31T00:07:07Z,2021-08-31T00:07:07Z,7 Best Artificial Intelligence Project Ideas for Beginners,7 Best Artificial Intelligence Project Ideas for Beginners,,"[{'@type': 'Person', 'givenName': 'Arti', 'name': 'Arti', 'url': 'https://www.analyticsinsight.net/author/arti'}]",,"{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}","{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/7-best-artificial-intelligence-project-ideas-for-beginners'}",N/A,N/A,What is AI and Data Science Engineering? ,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': '7 Best Artificial Intelligence Project Ideas for Beginners', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/7-best-artificial-intelligence-project-ideas-for-beginners'}]",https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/08/7-Best-Artificial-Intelligence-Project-Ideas-for-Beginners.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"7 best artificial intelligence project ideas that will assist you to acquainted with the technology..Artificial intelligence is difficult, but not impossible. When you begin with an ideal AI courseware and work on various active ventures, you start getting a clear picture of things. To comprehend the Artificial Intelligence space and execute it to tackle business issues, one should know the most recent tools and methods related to this area. Here are the seven best artificial intelligence project ideas for beginners to get better acquainted with the technology..Figure Out How to Drive with Reinforcement Learning.One of the best artificial intelligence project ideas is where reinforcement learning gets utilized. Reinforcement learning is a part of Artificial Intelligence that spotlights how clever specialists should make moves in their present environment to guarantee ideal execution. It consolidates artificial neural organizations with reinforcement learning that empowers the specialists characterized by programming to take an ideal step towards accomplishing their objectives..Biometric Artificial Intelligence-Based Application.Also known as a face recognition system is used to identify or verify a person's identity by analyzing patterns based on the facial outline of the person..It utilizes the idea of pattern recognition, deep learning, face examination, and AI to foster biometric Artificial Intelligence-based applications. It starts with the course of face discovery, face examination, changing a picture over to information access, and tracking down the right match. This is one of the most popular Artificial intelligence project ideas among beginners as it is appropriate to numerous ventures. This method is utilized by social media organizations, smartphones, and more..TOP 100 ARTIFICIAL INTELLIGENCE STARTUPS TO LOOK OUT FOR IN 2021WHAT'S THE DIFFERENCE BETWEEN AI AND COMPUTER VISION?EVERYTHING YOU NEED TO KNOW ABOUT EDGE AI AND BEYOND.Artificial Intelligence Powered Automation System.The automation framework is mainly utilized in the banking and finance industry. Artificial intelligence can be utilized to identify fraud in exchanges: if it has effectively occurred or in case it is going to happen in the future. The AI-powered automation framework has automation programming that utilizes a web search tool. These assignments are computerized alongside email and telephone administrations..For example, as you call the bank, you will contact the chatbots first. These chatbots will perceive your question and give the right reaction. On the off chance that it cannot do as such, you will be coordinated with the customer care executive..Wine Quality Analyzer.Presently this one is the most intriguing! Who'd have believed that by utilizing a particular arrangement of information, you can know the nature of the wine! Indeed, everyone knows, the more seasoned the wine, the better it is. But talking about wine quality analyzer, things you have to consider are the percentage of alcohol, pH content, a measure of acridity, and much more..Utilizing artificial intelligence, without much of a stretch you can test the wine's quality dependent on these elements. You can utilize various designs to perceive how the calculation functions for each situation. This is certainly quite possibly the most innovative artificial intelligence project thoughts out there..Product Promotion and Suggestions.The utilization of artificial intelligence in computerized advertising, adverts, and product ideas is taking this domain to a whole new level. The second you begin investigating a site to look at certain things to buy, the algorithm checks from various promotions and suggests the most relevant advertisements that you may find interesting. Tech giants like Amazon make use of this technique..Article Graders and Plagiarism Analyzers.Evaluating the essays written by understudies takes a great deal of time whenever done physically. Also, it is difficult to check plagiarism on each tool accessible to test if the article is copied or not. Hence, there is the requirement for article graders and plagiarism analyzers..Article graders controlled by artificial intelligence assist teachers in reviewing the understudies' essays faster than usual. Likewise, the plagiarism analyzers that have Artificial Intelligence are fit for filtering tremendous online substances to check for duplicacy..Sales Predictor.The sales predictor helps to keep track of sales of every product. The informational indexes of these business sectors are effectively accessible on the Internet. By making a refined calculation, you can foresee deals from an enormous data collection. This is another acceptable AI project that will train you to work with various calculations and know their effect..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/7-best-artificial-intelligence-project-ideas-for-beginners', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2021/08/7-Best-Artificial-Intelligence-Project-Ideas-for-Beginners.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",Artificial Intelligence,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm1vdG9yYmlzY3VpdC5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd29yay1jYXJzL9IBAA?oc=5,How Does Artificial Intelligence Work In Cars? - MotorBiscuit,2021-08-27,MotorBiscuit,https://www.motorbiscuit.com,,N/A,"Automobile technology is advancing, and it brings a lot of questions. What’s the deal with artificial intelligence in cars? How does it work? Is it safe?",N/A,https://schema.org,VideoObject,"{'@type': 'ImageObject', 'url': 'https://www.motorbiscuit.com/wp-content/uploads/2021/08/Tesla-Autopilot.jpg', 'width': 1200, 'height': 750}",https://www.motorbiscuit.com,,2021-08-27T16:00:00-0400,2021-08-27T16:00:01-0400,How Does Artificial Intelligence Work In Cars?,Traffic Jam HD.mp4,,"{'@type': 'Person', 'name': 'Maeve Rich', 'jobTitle': 'Writer - Trucks, SUVs, &amp; Crossovers', 'url': 'https://www.motorbiscuit.com/author/maeve-rich/'}",,"{'@type': 'Organization', 'name': 'MotorBiscuit', 'description': 'Latest Automotive News, Trends and Information'}","{'@type': 'WebPage', '@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/'}",N/A,N/A,"
+
+ 
+
+TrendsHow Does Artificial Intelligence Work In Cars?Automobile technology is advancing, and it brings a lot of questions. What’s the deal with artificial intelligence in cars? How does it work? Is it safe?
+
+
+by
+Maeve Rich
+
+Published on
+August 27, 2021 4:00 pm
+
+
+
+
+2 min read
+
+
+
+		Share:	
+
+
+			Share on Twitter:		
+
+
+
+
+			Share on Facebook:		
+
+
+
+
+			Share via email:		
+
+
+
+
+			Copy link		
+
+			Link copied to the clipboard!		
+
+
+
+
+
+
+Follow Us
+
+
+
+",,https://cdn.jwplayer.com/v2/media/vxo0Caxn/poster.jpg?width=720,,,,,"[{'@type': 'NewsArticle', '@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#article', 'isPartOf': {'@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/'}, 'author': {'name': 'Maeve Rich', '@id': 'https://www.motorbiscuit.com/#/schema/person/b4ec7223114ce6c293af47d0e62400a2'}, 'headline': 'How Does Artificial Intelligence Work In Cars?', 'datePublished': '2021-08-27T20:00:00+00:00', 'dateModified': '2021-08-27T20:00:01+00:00', 'mainEntityOfPage': {'@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/'}, 'wordCount': 603, 'publisher': {'@id': 'https://www.motorbiscuit.com/#organization'}, 'image': {'@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#primaryimage'}, 'thumbnailUrl': 'https://www.motorbiscuit.com/wp-content/uploads/2021/08/Tesla-Autopilot.jpg', 'keywords': ['Cars', 'Tesla'], 'articleSection': ['Tips, Tricks &amp; Trends'], 'inLanguage': 'en-US', 'copyrightYear': '2021', 'copyrightHolder': {'@id': 'https://www.motorbiscuit.com/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/', 'url': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/', 'name': 'How Does Artificial Intelligence Work In Cars? - MotorBiscuit', 'isPartOf': {'@id': 'https://www.motorbiscuit.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#primaryimage'}, 'image': {'@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#primaryimage'}, 'thumbnailUrl': 'https://www.motorbiscuit.com/wp-content/uploads/2021/08/Tesla-Autopilot.jpg', 'datePublished': '2021-08-27T20:00:00+00:00', 'dateModified': '2021-08-27T20:00:01+00:00', 'description': 'Technology in cars is advancing, and people are wondering: what’s the deal with artificial intelligence in cars? How does it work?', 'breadcrumb': {'@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.motorbiscuit.com/artificial-intelligence-work-cars/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#primaryimage', 'url': 'https://www.motorbiscuit.com/wp-content/uploads/2021/08/Tesla-Autopilot.jpg', 'contentUrl': 'https://www.motorbiscuit.com/wp-content/uploads/2021/08/Tesla-Autopilot.jpg', 'width': 1200, 'height': 750, 'caption': 'Tesla Autopilot | Tesla'}, {'@type': 'BreadcrumbList', '@id': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.motorbiscuit.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'How Does Artificial Intelligence Work In Cars?'}]}, {'@type': 'WebSite', '@id': 'https://www.motorbiscuit.com/#website', 'url': 'https://www.motorbiscuit.com/', 'name': 'MotorBiscuit', 'description': 'Latest Automotive News, Trends and Information', 'publisher': {'@id': 'https://www.motorbiscuit.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.motorbiscuit.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.motorbiscuit.com/#organization', 'name': 'MotorBiscuit.com', 'url': 'https://www.motorbiscuit.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.motorbiscuit.com/#/schema/logo/image/', 'url': 'https://www.motorbiscuit.com/wp-content/uploads/2019/04/mb-logos-onwhite-v1.jpg', 'contentUrl': 'https://www.motorbiscuit.com/wp-content/uploads/2019/04/mb-logos-onwhite-v1.jpg', 'width': 1200, 'height': 380, 'caption': 'MotorBiscuit.com'}, 'image': {'@id': 'https://www.motorbiscuit.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/MotorBiscuit', 'https://x.com/Motor_Biscuit'], 'publishingPrinciples': 'https://www.motorbiscuit.com/fact-checking-commitment/', 'ownershipFundingInfo': 'https://www.motorbiscuit.com/ownership-funding-advertising-info/', 'correctionsPolicy': 'https://www.motorbiscuit.com/corrections-commitment/'}, {'@type': 'Person', '@id': 'https://www.motorbiscuit.com/#/schema/person/b4ec7223114ce6c293af47d0e62400a2', 'name': 'Maeve Rich', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.motorbiscuit.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/4ca5e5c7f034e4c4096fcf9d7c0918d3?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/4ca5e5c7f034e4c4096fcf9d7c0918d3?s=96&d=mm&r=g', 'caption': 'Maeve Rich'}, 'description': 'Maeve holds a Bachelor of Arts in Creative Writing from the University of Central Florida and, after joining MotorBiscuit in 2021, helps readers stay updated on automotive safety and technology.', 'url': 'https://www.motorbiscuit.com/author/maeve-rich/'}]",https://www.motorbiscuit.com/wp-content/uploads/2019/04/logo.svg,"{'@type': 'Organization', '@id': 'https://www.endgame360.com', 'name': 'Endgame 360'}","['https://www.facebook.com/MotorBiscuit/', 'https://twitter.com/Motor_Biscuit', 'https://www.linkedin.com/company/motorbiscuit/']","{'@type': 'SeekToAction', 'target': 'https://www.motorbiscuit.com/artificial-intelligence-work-cars/?jw_start=%7Bseek_to_second_number%7D', 'startOffset-input': 'required name=seek_to_second_number'}",2024-07-17T18:13:26.000Z,https://cdn.jwplayer.com/manifests/vxo0Caxn.m3u8?max_resolution=1280,https://www.motorbiscuit.com/artificial-intelligence-work-cars/,PT2M28S
+https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vYnNjaG9sYXJseS5jb20vcG9zaXRpdmUtYW5kLW5lZ2F0aXZlLWltcGFjdC1vZi1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,Positive and Negative Impact of Artificial Intelligence - Bscholarly,2021-08-30,Bscholarly,https://bscholarly.com,"Positive and Negative impact of artificial intelligence. Impact of AI on education, economy, society & lives of people. Benefits of AI.",N/A,"Positive and Negative impact of artificial intelligence. Impact of AI on education, economy, society & lives of people. Benefits of AI.",N/A,https://schema.org,,,,,,,,,,,,,,N/A,N/A,"Positive and Negative Impact of Artificial IntelligencePost author:Edeh Samuel Chukwuemeka ACMCPost published:August 30, 2021Post category:Scholarly Articles / Tech Updates
+ Positive And Negative impact of Artificial Intelligence: The world is developing at a very fast pace. In our ever growing world, technology seems to have taken a centre stage in the affairs of man. With globalization connecting people and places, the interdependence between people has increased, and the need for things and commodities has also increased.
+  
+ In medicine, engineering, astronomy, and indeed all facets of life, there is the desire of man to make new discoveries.  These discoveries lead to inventions. Inventions are thus made to add value to the human life to either solve a problem or to improve on a situation.The need to further improve on the situation of life, and also to solve more complex problems have led to the invention of Artificial Intelligence based gadgets. Artificial Intelligence is basically the creating or developing of equipment using complex data programming to coat such equipment with the ability to act, reason and perform a task with little or no supervision. That is, computers are created in such a way that they perform functions based on the programme already created in them even without being operated by human beings.Just like every other creation of man, Artificial Intelligence has its positive and negative effects on man. The positive and negative effects of Artificial Intelligence or Artificial Intelligence based equipment will be discussed below.
+ Positive and Negative impact of artificial intelligence
+  
+ Recommended: Advantages and Disadvantages of shopping onlineTable of Contents
+TogglePositive Impact of Artificial IntelligenceNegative Impacts of Artificial IntelligencePositive Impact of Artificial Intelligence1. Errors are reduced: There is a huge reduction in human errors with the use of artificial intelligence. Artificial intelligence is programmed to carry out tasks with little or no errors. When computers and machines are deployed in the performance of tasks, there is a minimal chance of mistakes occurring in such tasks.advantages and Disadvantages of artificial intelligence to the society
+    Accuracy is to a great extent achievable with the use of artificial intelligence. This is because such programmes keyed into such Artificial Intelligence based equipment were designed to solve that particular problem.2. Artificial intelligence Makes Work Faster: Tasks done with the use of artificial intelligence are usually done faster and also finish in record time. Computers and machines which are employed in the performance of tasks make works to be accomplished fastly.Importance of artificial intelligenceFor example, the deployment of artificial intelligence in the construction of houses makes building projects to be actualized in record time and also allows for more buildings to be erected within a short time unlike when manual labor is employed. 
+ Recommended: Top tech companies in Canada 20213. Undertaking of Risks: Artificial intelligence are used to carry out risky jobs that are too dangerous for humans to undertake. Some tasks are highly hazardous to human health and it is only computers and machines that can carry out such tasks. For instance, in the case of pipeline leakage which occurs in a pipeline deep under the sea.Humans can barely survive such situations or conditions, hence, artificial intelligence is employed to deal with such maintenance. A typical example is the Chenobyl nuclear power plant explosion in Ukraine which occurred at a time Artificial Intelligence was not in vogue. This explosion saw to the death of persons who ventured close to get the situation under control at the earliest moment of the explosion.4. Ready Availability of Artificial Intelligence: Artificial intelligence (computers, machines and robots) is always readily available when a task is needed to be performed, provided you have the gadget. A machine can never be too busy like humans to carry out a task. Where the machine is available, it is always ready for use provided it is in good condition.Artificial Intelligence can multitask on a job. Also, artificial intelligence works round the clock. Humans work for specified number of hours a day but Artificial Intelligence can work for 24 hours in a day and still continue working.Recommended: Positive and negative impact of globalization
+ 5. Artificial Intelligence Does Monotonous Jobs: Where one does an action over and over again, one becomes bored and may loose the zeal to continue with such task. Unlike humans that gets bored carrying out an activity over and over again, artificial intelligence does not. Computers are designed to carry out a task for as many times as possible and will not get bored of doing that same task.  Monotonous activities bore humans but it is not the case with Artificial Intelligence as they are designed to do a task repetitively without breaking down or getting tired of doing same task over and over again.  6. Artificial Intelligence Helps in new Discoveries and Inventions: The advent of artificial intelligence helps us to detect problems and also create solutions to those problems. For example, in health, with the use of Artificial Intelligence based gadgets, a doctor can easily detect diseases at their early stage.Artificial intelligence benefits to societyAlso see: Best law apps for lawyers and law studentsNegative Impacts of Artificial Intelligencepositive and negative impact of artificial intelligence1. It is Very Expensive to Produce: The cost of production of Artificial Intelligence based gadgets is very high and expensive. Creating gadgets of this nature is complex. It demands a lot of time, money and energy (both mental and psychological) to create. There is thus, a high cost of production of these equipment.  Again, when such are created or produced, it requires a lot of money to maintain them. They are also very expensive to purchase.Also see: Differences between a resume and a Curriculum Vitae2. It Requires Highly Skilled Personnel to Operate: Operating an artificial intelligence based equipment requires special skills and experience. One must be properly trained in the art of handling these equipment. The cost of training and also that of hiring a trained expert who can operate the equipment is usually very expensive and may not be easily affordable.Recommended: Advantages and Disadvantages of social media to students3. Unemployment and Loss of Jobs: One of the major effects that Artificial Intelligence negatively has on humanity is that it  causes  loss of jobs and unemployment. The use of computers and machines to do tasks which ab initio were done by humans have caused loss of jobs and employment opportunities for people. Workers are being laid off as employers prefer using computers and machines to do the jobs which they (workers) were employed to do. For example, the use of machines in agriculture and building constructions have to a great extent reduced the requirement for manual labour in those areas.4. It Causes Addiction and Laziness in Humans: Continuous use of artificial intelligence based equipment can be addictive to humans. Again, it causes laziness in man as one no longer does anything by himself but always depends on the use of computers and machines to perform every little task. For example, walking is a form of exercise but rarely do people walk even the shortest distance as a result of cars.Also see: Best Canadian business schools to attend in 20215. Artificial Intelligence Could be Used to Produce Dangerous Weapons: Humans of evil intents, terrorists and criminals can deploy Artificial Intelligence to make weapons that are dangerous to the well being of humanity. When these AI-based equipment falls into the wrong hands, nuclear weapons as well as other war gadgets can be made by them for the sole aim of using them as implements of war. Again, artificial intelligence based gadgets might turn out to be a Frankenstein creature which ends up destroying its creator.Artificial Intelligence is a veritable tool which cannot be done away with in modern time. It has helped humanity in many ways as solutions to problems have been proferred and found, coupled with inventions which have made living easier and comfortable. Not minding the negative impacts Artificial Intelligence has on humanity, it still makes the world a better place to live in.Edeh Samuel Chukwuemeka ACMCEdeh Samuel Chukwuemeka, ACMC, is a lawyer and a certified mediator/conciliator in Nigeria. He is also a developer with knowledge in various programming languages. Samuel is determined to leverage his skills in technology, SEO, and legal practice to revolutionize the legal profession worldwide by creating web and mobile applications that simplify legal research. Sam is also passionate about educating and providing valuable information to people.Read more articles Previous PostOldest Presidents of the United States In History Next PostCauses, Effects and Solutions to Conflict in Africa",,,,,,,"[{'@type': 'Article', '@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/'}, 'author': {'name': 'Edeh Samuel Chukwuemeka ACMC', '@id': 'https://bscholarly.com/#/schema/person/13c340c02824321811dd0872e1ceb42e'}, 'headline': 'Positive and Negative Impact of Artificial Intelligence', 'datePublished': '2021-08-30T09:47:10+00:00', 'dateModified': '2021-08-30T09:47:10+00:00', 'mainEntityOfPage': {'@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/'}, 'wordCount': 1350, 'commentCount': 0, 'publisher': {'@id': 'https://bscholarly.com/#organization'}, 'image': {'@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://bscholarly.com/wp-content/uploads/2021/08/positive-and-negative-impact-of-artificial-intelligence.jpg', 'articleSection': ['Scholarly Articles', 'Tech Updates'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#respond']}]}, {'@type': 'WebPage', '@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/', 'url': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/', 'name': 'Positive and Negative Impact of Artificial Intelligence - Bscholarly', 'isPartOf': {'@id': 'https://bscholarly.com/#website'}, 'primaryImageOfPage': {'@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://bscholarly.com/wp-content/uploads/2021/08/positive-and-negative-impact-of-artificial-intelligence.jpg', 'datePublished': '2021-08-30T09:47:10+00:00', 'dateModified': '2021-08-30T09:47:10+00:00', 'description': 'Positive and Negative impact of artificial intelligence. Impact of AI on education, economy, society & lives of people. Benefits of AI.', 'breadcrumb': {'@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#primaryimage', 'url': 'https://bscholarly.com/wp-content/uploads/2021/08/positive-and-negative-impact-of-artificial-intelligence.jpg', 'contentUrl': 'https://bscholarly.com/wp-content/uploads/2021/08/positive-and-negative-impact-of-artificial-intelligence.jpg', 'width': 1280, 'height': 720, 'caption': 'Benefits of ChatGPT'}, {'@type': 'BreadcrumbList', '@id': 'https://bscholarly.com/positive-and-negative-impact-of-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bscholarly.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Tech Updates', 'item': 'https://bscholarly.com/tech-updates/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Positive and Negative Impact of Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://bscholarly.com/#website', 'url': 'https://bscholarly.com/', 'name': 'Bscholarly', 'description': 'No. 1 Legal &amp; Education Websites For Everyone', 'publisher': {'@id': 'https://bscholarly.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://bscholarly.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://bscholarly.com/#organization', 'name': 'Bscholarly', 'url': 'https://bscholarly.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://bscholarly.com/#/schema/logo/image/', 'url': '', 'contentUrl': '', 'caption': 'Bscholarly'}, 'image': {'@id': 'https://bscholarly.com/#/schema/logo/image/'}, 'sameAs': ['https://m.facebook.com/Bscholarly', 'https://x.com/Bscholarly1', 'https://www.instagram.com/bscholarly_official/', 'https://www.linkedin.com/in/bscholarly-nigeria-982223187', 'https://www.youtube.com/channel/UC9-kuDPtxH07RAsFIg1k2hQ']}, {'@type': 'Person', '@id': 'https://bscholarly.com/#/schema/person/13c340c02824321811dd0872e1ceb42e', 'name': 'Edeh Samuel Chukwuemeka ACMC', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://bscholarly.com/#/schema/person/image/', 'url': 'https://bscholarly.com/wp-content/litespeed/avatar/7382c8c81925c994f1cd378e19c443c8.jpg?ver=1720859247', 'contentUrl': 'https://bscholarly.com/wp-content/litespeed/avatar/7382c8c81925c994f1cd378e19c443c8.jpg?ver=1720859247', 'caption': 'Edeh Samuel Chukwuemeka ACMC'}, 'description': 'Edeh Samuel Chukwuemeka, ACMC, is a lawyer and a certified mediator/conciliator in Nigeria. He is also a developer with knowledge in various programming languages. Samuel is determined to leverage his skills in technology, SEO, and legal practice to revolutionize the legal profession worldwide by creating web and mobile applications that simplify legal research. Sam is also passionate about educating and providing valuable information to people.', 'sameAs': ['https://bscholarly.com', 'https://m.facebook.com/Bscholarly/', 'https://www.instagram.com/mrsamueledeh', 'https://www.linkedin.com/in/edeh-samuel-chukwuemeka-b12aba190?originalSubdomain=ng', 'https://x.com/MrEdehSamuel', 'https://m.youtube.com/channel/UC9-kuDPtxH07RAsFIg1k2hQ']}]",,,,,,,,

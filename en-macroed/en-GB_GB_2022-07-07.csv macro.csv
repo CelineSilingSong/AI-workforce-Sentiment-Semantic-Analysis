@@ -1,0 +1,947 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,article:section,article:summary,article text,@type,headline,url,dateCreated,datePublished,dateModified,articleSection,wordCount,mainEntityOfPage,publisher,thumbnailUrl,image,creator,author,itemListElement,name,address,inLanguage,articleBody,isPartOf,alternativeHeadline,potentialAction,speakable
+https://news.google.com/rss/articles/CBMiggFodHRwczovL2pvdXJuYWxpc3RzcmVzb3VyY2Uub3JnL2hvbWUvcmVzZWFyY2gtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtY2FuLWZ1ZWwtcmFjaWFsLWJpYXMtaW4taGVhbHRoLWNhcmUtYnV0LWNhbi1taXRpZ2F0ZS1pdC10b28v0gEA?oc=5,Artificial intelligence exacerbates and mitigates racial bias in health care - Journalist's Resource,2022-07-11,Journalist's Resource,https://journalistsresource.org,"While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",N/A,"While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.","While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",https://schema.org,"[{'@type': 'WebSite', '@id': 'https://journalistsresource.org/#website', 'url': 'https://journalistsresource.org/', 'name': 'The Journalist&#039;s Resource', 'potentialAction': {'@type': 'SearchAction', 'target': 'https://journalistsresource.org/?s={search_term_string}', 'query-input': 'required name=search_term_string'}}, {'@type': 'ImageObject', '@id': 'https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/#primaryimage', 'url': 'https://journalistsresource.org/wp-content/uploads/2022/06/artificial-intelligence-g55ddc4275_1920.jpg', 'width': 1920, 'height': 1280, 'caption': 'artificial intelligence'}, {'@type': 'WebPage', '@id': 'https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/#webpage', 'url': 'https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/', 'inLanguage': 'en-US', 'name': 'Artificial intelligence exacerbates and mitigates racial bias in health care', 'isPartOf': {'@id': 'https://journalistsresource.org/#website'}, 'primaryImageOfPage': {'@id': 'https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/#primaryimage'}, 'datePublished': '2022-07-11T12:02:00-04:00', 'dateModified': '2024-02-01T19:09:31-05:00', 'author': {'@id': 'https://journalistsresource.org/#/schema/person/c7cf6cd47615896847014feb627b4f3a'}, 'description': 'While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.'}, {'@type': ['Person'], '@id': 'https://journalistsresource.org/#/schema/person/c7cf6cd47615896847014feb627b4f3a', 'name': 'Julia Sklar', 'image': {'@type': 'ImageObject', '@id': 'https://journalistsresource.org/#authorlogo', 'url': 'https://secure.gravatar.com/avatar/0c6284ee84dd924ef449aca03f6d1f0c?s=96&d=blank&r=g', 'caption': 'Julia Sklar'}, 'description': ""Julia Sklar is an award-winning science journalist. She reports on health, food innovation and medical technology as they intersect with people's lives. Her reporting has appeared in National Geographic, the Boston Globe and many other publications. She lives in Boston. You can find her work at juliasklar.com."", 'sameAs': []}]",Home,N/A,"
+
+
+Expert Commentary
+
+
+
+
+
+
+
+Health, Race & GenderResearch: Artificial intelligence can fuel racial bias in health care, but can mitigate it, too While some algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps, a growing body of research shows.
+by  Julia Sklar 
+
+		 |  July 11, 2022  | artificial intelligence, health disparities, technology( Gerd Altmann from Pixabay)
+
+
+
+Facebook  
+Twitter 
+LinkedIn
+Reddit 
+Email
+
+Republish This Article
+
+Artificial intelligence has come to stay in the health care industry. The term refers to a constellation of computational tools that can comb through vast troves of data at rates far surpassing human ability, in a way that can streamline providers’ jobs. Some types of AI commonly found in health care already are:
+
+Machine learning AI, where a computer trains on datasets and “learns” to, for example, identify patients who would do well with a certain treatment.
+Natural language processing AI, which can identify the human voice, and might transcribe a doctor’s clinical notes.
+Rules-based AI, where computers train to act in a specific way if a particular data point shows up–these kinds of AI are commonly used in electronic medical records to perhaps flag a patient who has missed their last two appointments.
+
+Regardless of the specific type of AI, these tools are generally capable of making a massive, complex industry run more efficiently. But several studies show it can also propagate racial biases, leading to misdiagnosis of medical conditions among people of color, insufficient treatment of pain, under-prescription of life-affirming medications, and more. Many patients don’t even know they’ve been enrolled in healthcare algorithms that are influencing their care and outcomes.
+A growing body of research shows a paradox, however. While some algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.
+Popular press tends to cover AI in medicine only when something goes wrong. While such reports are critical in holding institutions to account, they can also paint the picture that when AI enters health care, trouble is always around the corner. If done correctly, AI can actually make health care fairer for more people.
+Historically, much of the research in the medical sciences and in the biological sciences has relied on subject pools of white—often male—people of European ancestry. These foundational studies on everything from normal internal body temperature to heart disease become the stuff of textbooks and trainings that doctors, nurses, and other health care professionals engage with as they move up the professional ladder.
+However, those studies offer a limited, one-size-fits-all view of human health that opens the door to racial bias—which patients get treated and how. The most easily graspable example of this type of knowledge gone wrong is consulting images of white skin to diagnose dermatological diseases across all skin types, when such diseases may manifest in unique ways depending on the pigmentation of someone’s skin.
+When AI is trained by data that lack diversity, then it is more likely to mimic the same racial bias that healthcare professionals can themselves exhibit. A poorly structured AI training dataset is no better (and in fact is sometimes worse) than a human with a medical degree predicated on lessons learned about the health of primarily white patients.
+On the flipside, when AI is trained on datasets that include information from a diverse population of patients, it can help move the health care field away from deep-seated biases.
+Below are summaries of some of the research on the intersection of AI and race.  
+Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations
+Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. Science, October 2019.
+What the researchers focused on: This study dove into how a nationally circulated health care algorithm perpetuated the under-serving of Black patients as compared with white patients. Such algorithms have the potential to do immense harm, by replicating the same racial biases in play by humans, but at an even more massive scale, the authors write.
+What they found: Commercially applied risk-prediction algorithms are among the most common types of AI the health care industry currently uses. They’re applied to the care of some 200 million Americans every year. In this study, researchers show one unnamed algorithm assigned Black patients the same level of health risk as white patients, when in reality the Black patients were sicker.
+The researchers learned that the machine-learning algorithm had trained itself to to see health care costs as a proxy for a patient’s level of health, when in reality it is reflective of the health care industry’s inequitable investment in some patient populations over others.
+In other words, the algorithm assumed that because it cost hospitals less to care for Black patients, Black patients were healthier and required less care. However, hospital costs are lower for Black patients even when they are sicker than white patients, because hospitals funnel fewer resources toward the care of sick Black patients. The researchers suggest that training the algorithm not to equate cost with health would undo this tripwire.   
+What researchers did with their findings: “After completing the analyses described above, we contacted the algorithm manufacturer for an initial discussion of our results,” the authors write. “In response, the manufacturer independently replicated our analyses on its national dataset of 3,695,943 commercially insured patients. This effort confirmed our results—by one measure of predictive bias calculated in their dataset, Black patients had 48,772 more active chronic conditions than White patients, conditional on risk score—illustrating how biases can indeed arise inadvertently.”
+Researchers then began experimenting with solutions with the algorithm manufacturer and have already made improvements in the product.
+“Of course, our experience may not be typical of all algorithm developers in this sector,” they write. “But because the manufacturer of the algorithm we study is widely viewed as an industry leader in data and analytics, we are hopeful that this endeavor will prompt other manufacturers to implement similar fixes.”
+AI Recognition of Patient Race in Medical Imaging: A Modelling Study
+Judy Wawira Gichoya; et al. The Lancet: Digital Health, May 2022.
+What the researchers focused on: Previous research has shown that AI can be trained to detect a person’s race from medical images, even though human experts who are looking at the images aren’t able to tell the patient’s race just from looking at those images. The authors wanted to find out more about AI’s ability to recognize a patient’s race from medical images.           They analyzed a total of 680,201 chest X-rays across 3 datasets where Black patients comprised 4.8% to 46.8% of the subjects, white patients 42.1% to 64.1%, Asian patients 3.6% to 10.8%; 458,317 chest CTs also across 3 datasets where Black patients comprised 9.1% to 72% of the subjects, white patients 28% to 90.9% and Asian patients were unrepresented; 691 digital radiography X-rays where Black patients comprised 48.2% of the subjects, white patients 51.8%, and Asian patients were unrepresented; 86,669 breast mammograms where Black patients comprised 50.4% of the subjects, white patients 49.6% and Asian patients were unrepresented; and 10,358 lateral c-spine X-rays where Black patients comprised 24.8% of the subjects, white patients 75.2%, and Asian patients were unrepresented. The images themselves contained no racial information and represented different degrees of image clarity, full and cropped views and other variations.   
+What they found: The deep learning model was able to identify a patient’s race accurately from medical images that contained no identifiable racial information. Researchers thought perhaps the model was learning to do this by matching known health outcomes with racial information.
+There is “evidence that Black patients have a higher adjusted bone mineral density and a slower age-adjusted annual rate of decline in bone mineral density than White patients,” the researchers write, so they thought perhaps they could trick the model by cropping out parts of medical images that showed such characteristic bone density information. Even still, the model was able to identify the patient’s race from the images. “This finding is striking as this task is generally not understood to be possible for human experts,” the authors write.
+How they explain it: “The results from our study emphasize that the ability of AI deep learning models to predict self-reported race is itself not the issue of importance. However, our finding that AI can accurately predict self-reported race, even from corrupted, cropped, and noised medical images, often when clinical experts cannot, creates an enormous risk for all model deployments in medical imaging,” the researchers write. “The regulatory environment in particular, while evolving, has not yet produced strong processes to guard against unexpected racial recognition by AI models; either to identify these capabilities in models or to mitigate the harms that might be caused.”
+An Algorithmic Approach to Reducing Unexplained Pain Disparities in Underserved Populations
+Emma Pierson; et al. Nature Medicine, January 2021.
+What the researchers focused on: Previous research has shown Black patients are more likely than white patients to have their pain dismissed and untreated. One example is knee pain due to osteoarthritis. Researchers wanted to find out if an AI could undo biases in how knee pain is diagnosed and treated.
+What they found: The researchers used a deep learning model trained on X-rays of osteoarthritis in the knee of 2,877 patients —18% of whom were Black, 38% were low-income, and 39% were non-college graduates  —  to predict the level of pain a patient would be expected to have based on the progression of their osteoarthritis. The model was better at assigning pain levels to underserved patients than human radiologists. The researchers conclude that the model was able to predict pain even when the imaging did not necessarily show the expected level of disease severity. That’s because patients of color are more likely than white patients to have “factors external to the knee” that influence their level of pain, such as work conditions and higher stress, the researchers write. In other words, the same level of osteoarthritis severity can result in very different levels of pain depending on the patient population, and evaluating a patient without that context can lead to underdiagnosis for underserved patients. In this case, an AI could solve an issue that persists because of human racial bias.
+How they explain it: “In addition to raising important questions regarding how we understand potential sources of pain, our results have implications for the determination of who receives arthroplasty for knee pain … Consequently, we hypothesize that underserved patients with disabling pain but without severe radiographic disease could be less likely to receive surgical treatments and more likely to be offered non-specific therapies for pain. This approach could lead to overuse of pharmacological remedies, including opioids, for underserved patients and contribute to the well-documented disparities in access to knee arthroplasty.”
+Other academic studies, reports and commentaries to consider:
+The Algorithm Bias Playbook
+Ziad Obermeyer, Rebecca Nissan, Michael Stern, Stephanie Eaneff, Emily Joy Bembeneck, and Sendhil Mullainathan. Center for Applied Artificial Intelligence, The University of Chicago Booth School of Business. June 2021. Jonathan Huang, Galal Galal, Mozziyar Etemadi and Mahesh Vaidyanathan. JMIR Medical Informatics, May 2022.
+Evaluation and Mitigation of Racial Bias in Clinical Machine Learning Models: Scoping Review
+Jonathan Huang, Galal Galal, Mozziyar Etemadi and Mahesh Vaidyanathan. JMIR Medical Informatics, May 2022.
+Systemic Kidney Transplant Inequities for Black Individuals: Examining the Contribution of Racialized Kidney Function Estimating Equations
+L. Ebony Boulware, Tanjala S. Purnell and Dinushika Mohottige. JAMA Network Open, January 2021
+Hidden in Plain Sight – Reconsidering the Use of Race Correction in Clinical Algorithms
+Darshali A. Vyas, Leo G. Eisenstein and David S. Jones. New England Journal of Medicine. August 2020
+Challenging the Use of Race in the Vaginal Birth after Cesarian Section Calculator
+Darshali A. Vyas, David S. Jones, Audra R. Meadows, Khady Diouf, Nawal M. Nour and Julianna Schantz-Dunn. Women’s Health Issues, April 2019.
+
+
+",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1pbnR6LmNvbS9pbnNpZ2h0cy1jZW50ZXIvdmlld3BvaW50cy8yMjMxLzIwMjItMDctMTEtYmVuZWZpdHMtdXNpbmctY29weXJpZ2h0cy1wcm90ZWN0LWFydGlmaWNpYWzSAQA?oc=5,Benefits of Using Copyrights to Protect Artificial Intelligence and Machine Learning Inventions - Mintz,2022-07-11,Mintz,https://www.mintz.com,N/A,N/A,N/A,N/A,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuY29tLzIwMjIvMDcvMTEvMTA1NTY3Ny9haS1kaWFnbm9zZS1icmVhc3QtY2FuY2VyLW1hbW1vZ3JhbXMv0gFdaHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyMi8wNy8xMS8xMDU1Njc3L2FpLWRpYWdub3NlLWJyZWFzdC1jYW5jZXItbWFtbW9ncmFtcy9hbXAv?oc=5,Doctors using AI catch breast cancer more often than either does alone - MIT Technology Review,2022-07-11,MIT Technology Review,https://www.technologyreview.com,"A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads.","artificial intelligence, breast cancer, radiology, diagnostics, medicine, mammogram","A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads.","A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads.",http://schema.org,,N/A,N/A,N/A,Organization,Doctors using AI catch breast cancer more often than either does alone,https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/,2022-07-11T05:00:00-04:00,2022-07-11T05:00:00-04:00,2022-07-22T19:30:46-04:00,Artificial intelligence,1196.0,"{'@type': 'WebPage', '@id': 'https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/'}","{'@type': 'Organization', 'name': 'MIT Technology Review', 'logo': {'@type': 'ImageObject', 'url': 'https://wp.technologyreview.com/wp-content/themes/mittr/client/src/images/logo.png', 'width': 203, 'height': 100}}","https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?resize=854,569","{'@type': 'ImageObject', 'url': 'https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?resize=854,569', 'height': 569, 'width': 854}","{'@type': 'Person', 'name': 'Hana Kiros'}","{'@type': 'Person', 'name': 'Hana Kiros'}","[{'@type': 'ListItem', 'position': 1, 'name': 'Artificial intelligence', 'item': {'@type': 'Thing', '@id': 'https://www.technologyreview.com/topic/artificial-intelligence/'}}, {'@type': 'ListItem', 'position': 2, 'name': 'Doctors using AI catch breast cancer more often than either does alone', 'item': {'@type': 'Thing', '@id': 'https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/'}}]",MIT Technology Review,"{'@type': 'PostalAddress', 'addressLocality': 'Cambridge, MA, USA', 'postalCode': '02142', 'streetAddress': '1 Main Street'}",,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vbWFya2V0aW5nL2FtZ2VuLWxhdW5jaGVzLW5ldy1zY2llbmNlLXBvZGNhc3Qtc2hvd2Nhc2UtaXRzLXdvcmstYWktZHJpdmVuLWRydWctcmTSAQA?oc=5,"Amgen showcases its scientists, AI advances in new podcast - FiercePharma",2022-07-07,FiercePharma,https://www.fiercepharma.com,"Amgen's latest podcast series, The Generative Biology Revolution, focuses on the use of AI in drug discovery and development.","Amgen,podcast,Artificial Intelligence,drug discovery,machine learning,digital marketing,Pharma,AI and Machine Learning,Fierce Pharma Homepage,Marketing","Amgen is tapping into the rising popularity of audio streaming with its latest podcast about generative biology, an emerging field that uses artificial intelligence and machine learning to discover | Amgen is tapping into the rising popularity of audio streaming with its latest podcast about generative biology, an emerging field that uses artificial intelligence and machine learning to discover and develop new biologic drugs.","Amgen is tapping into the rising popularity of audio streaming with its latest podcast about generative biology, an emerging field that uses artificial intelligence and machine learning to discover | Amgen is tapping into the rising popularity of audio streaming with its latest podcast about generative biology, an emerging field that uses artificial intelligence and machine learning to discover and develop new biologic drugs.",https://schema.org/,"{'@type': 'NewsArticle', 'headline': 'Amgen showcases its scientists, AI advances in new podcast', 'articleSection': None, 'keywords': 'Marketing', 'description': ""Amgen's latest podcast series, The Generative Biology Revolution, focuses on the use of AI in drug discovery and development."", 'datePublished': '2022-07-07T11:45:00', 'isAccessibleForFree': True, 'dateModified': '1657550094', 'author': [[{'@type': 'Person', 'name': 'Natalie Missakian', 'url': 'https://www.fiercepharma.com/person/natalie-missakian'}]], 'publisher': {'@type': 'Organization', 'name': 'FiercePharma', 'url': 'https://www.fiercepharma.com'}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.fiercepharma.com/marketing/amgen-launches-new-science-podcast-showcase-its-work-ai-driven-drug-rd'}, 'image': 'https://qtxasset.com/quartz/qcloud5/media/image/AmgenFlag.jpg?VersionId=F_3kNwe29oNowsUNJ5NwMdIRdHGso64Q'}","Pharma,AI and Machine Learning,Fierce Pharma Homepage",N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Life Sciences Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Pharma
+
+
+
+Vaccines
+
+
+Asia
+
+
+Cell & Gene Therapy
+
+
+Drug Delivery
+
+
+Executives
+
+
+
+
+Manufacturing
+
+
+
+Facilities
+
+
+Recalls
+
+
+Warning Letters
+
+
+
+
+Marketing
+
+
+Special Reports
+
+
+Fierce 50
+
+
+
+Special Report
+
+
+Awards Gala
+
+
+
+
+
+
+
+
+Resources
+
+
+
+Podcasts
+
+
+Fierce Events
+
+
+Industry Events
+
+
+Webinars
+
+
+Whitepapers
+
+
+Survey
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pharma
+
+
+
+Vaccines
+
+
+Asia
+
+
+Cell & Gene Therapy
+
+
+Drug Delivery
+
+
+Executives
+
+
+
+
+Manufacturing
+
+
+
+Facilities
+
+
+Recalls
+
+
+Warning Letters
+
+
+
+
+Marketing
+
+
+Special Reports
+
+
+Fierce 50
+
+
+
+Special Report
+
+
+Awards Gala
+
+
+
+
+
+
+
+
+Resources
+
+
+
+Podcasts
+
+
+Fierce Events
+
+
+Industry Events
+
+
+Webinars
+
+
+Whitepapers
+
+
+Survey
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+Fierce Pharma
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Life Sciences Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marketing
+
+
+
+
+Amgen launches new science podcast to showcase its work in AI-driven drug R&D
+
+
+
+
+
+By 
+Natalie Missakian
+
+
+
+
+
+Jul 7, 2022 7:45am
+
+
+
+
+Amgen
+podcast
+Artificial Intelligence
+drug discovery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amgen’s latest podcast, ""The Generative Biology Revolution,"" follows the success of its earlier “DNA Unlocked” and “Undruggable” podcasts, which the drugmaker rolled out during the second half of 2021. (AmgenFlag)
+Amgen is tapping into the rising popularity of audio streaming with its latest podcast about generative biology, an emerging field that uses artificial intelligence and machine learning to discover and develop new biologic drugs.The four-part series, ""The Generative Biology Revolution,"" debuted June 22 and is hosted by Ray Deshaies, Ph.D., Amgen’s senior vice president of global research.In each episode, Deshaies chats with scientists within Amgen as well as experts from outside research institutions about how AI and machine learning can make drug discovery “more predictable, shorten timelines and increase success rates of bringing life-saving medicines to patients who need them most.”“Our primary goal with The Generative Biology Revolution is to communicate the excitement of the potential this field has for advancing drug discovery and development at Amgen and throughout the industry,” Michael Strapazon, Amgen director of corporate affairs, told Fierce Pharma Marketing in an email.RelatedPharma marketers are tuning in to audio's popularity, but there's still plenty of room to grow, experts sayThe podcast also gives the company a chance to showcase its scientists and their research, which, as we’ve seen during the pandemic, can go a long way toward boosting the industry’s standing with the public.Podcasts are a way for the public to “hear the voices of our scientists and learn about how we and others in the industry approach the discovery and development of novel medicines for the most challenging diseases,” said Strapazon.“We’re very proud of our R&D scientists and our leadership, particularly in our unique areas of strength like world-class human genetics, disease biology and the molecular engineering expertise needed to design the right medicine for the right target,” he said.Amgen partnered with The Scientist’s “LabTalk,” well known in the scientific community, to produce the podcast, which is available to stream on all major platforms. While it primarily targets scientists, Deshaies aims to explain the complex science in a way that makes it accessible to a broader audience.In the first episode, he chats with Alan Russell, Ph.D., Amgen’s vice president of biologics, about how the company is working on harnessing AI to predict new sequences of proteins “with functions that we want them to have” so they can be better suited to treat a disease.
+
+
+
+
+
+Featured Event
+Revolutionize Your Digital Strategies
+
+
+September 9-12, 2024
+
+
+Philadelphia, PA
+
+
+
+Register Now
+
+Using a surfing analogy, Russell said scientists can either “watch the waves breaking” or “figure out what are the surfboards that will allow us to surf that wave and will allow us to harness the power and the energy behind this new science.”RelatedDefinitive Healthcare launches a new podcast aimed at 'data-driven conversations' in healthcare“What the [Amgen] team did is they simply said, ‘OK, for each one of these waves, what are the surfboards? How do we build them? What do we need to put in place? How can we do our experiments in different ways? How can we create the systems that will generate the data that will power the algorithm? How do we deploy the automation?'” he explained in the episode.Amgen is one of a long list of pharma companies that have launched their own podcasts since Genentech rolled out the industry’s first with its “Two Scientists Walk into a Bar'' back in 2016. Other pharma podcasts include Eli Lilly’s “The Elixir Factor” and Pfizer's “The Antigen” while drugmakers like ViiV Healthcare, Novartis and Merck have launched podcasts specifically for patients with HIV, psoriasis and cancer.  Amgen’s latest podcast, which has a new episode out today (July 7) and another on July 14, follows the success of its earlier “DNA Unlocked” and “Undruggable” podcasts, which the drugmaker rolled out during the second half of 2021.And it won’t be the last. Amgen has two more podcasts in the pipeline for later in 2022, focusing on clinical trial innovation and the power of harnessing human data.
+
+Amgen
+podcast
+Artificial Intelligence
+drug discovery
+machine learning
+digital marketing
+Pharma
+AI and Machine Learning
+Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+Related ContentRegulatory tracker: Lilly's tirzepatide approved in China for weight lossJul 19, 2024 11:00amAbbott CEO eyes ‘guerilla marketing’ to get Lingo CGM to people without diabetesJul 19, 2024 10:50amSiga signs $113M US supply contract for mpox antiviral TpoxxJul 19, 2024 10:35amKorea's Daewoong Bio banned from China drug procurement program after turning down inspectionJul 19, 2024 10:21am
+
+
+
+
+
+
+
+See more articles
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+Connect
+
+
+
+The Team
+
+
+Advertise
+
+
+
+
+Join Us
+
+
+
+Newsletters
+
+
+Resources
+
+
+RSS Feeds
+
+
+
+
+Our Brands
+
+
+
+Fierce Biotech
+
+
+Fierce Healthcare
+
+
+Fierce Pharma
+
+
+
+
+Our Events
+
+
+
+Life Sciences Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2024 Questex LLC All rights reserved.
+Terms of use
+Privacy Policy
+Privacy Settings
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5vcGVuY3VsdHVyZS5jb20vMjAyMi8wNy9zY2ktZmktd3JpdGVyLWFydGh1ci1jLWNsYXJrZS1wcmVkaWN0cy10aGUtZnV0dXJlLWluLTE5NjQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaW5zdGFudGFuZW91cy1nbG9iYWwtY29tbXVuaWNhdGlvbi1yZW1vdGUtd29yay1tb3JlLmh0bWzSAQA?oc=5,"Sci-Fi Writer Arthur C. Clarke Predicts the Future in 1964: Artificial Intelligence, Instantaneous Global Communication ... - Open Culture",2022-07-08,Open Culture,https://www.openculture.com,"Are you feeling confident about the future? No? We understand. Would you like to know what it was like to feel a deep certainty that the decades to come were going to be filled with wonder and the fantastic? Well then, gaze upon this clip from the BBC Archive YouTube channel of sci-fi author Arthur C. Open Culture, openculture.com",N/A,"Are you feeling confident about the future? No? We understand. Would you like to know what it was like to feel a deep certainty that the decades to come were going to be filled with wonder and the fantastic? Well then, gaze upon this clip from the BBC Archive YouTube channel of sci-fi author Arthur C.",N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#article', 'isPartOf': {'@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html'}, 'author': {'name': 'Ted Mills', '@id': 'https://www.openculture.com/#/schema/person/6ee37f1fe9392bd51ac2c273b4afd76f'}, 'headline': 'Sci-Fi Writer Arthur C. Clarke Predicts the Future in 1964: Artificial Intelligence, Instantaneous Global Communication, Remote Work, Singularity &amp; More', 'datePublished': '2022-07-08T19:00:06+00:00', 'dateModified': '2022-07-09T19:48:57+00:00', 'mainEntityOfPage': {'@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html'}, 'wordCount': 642, 'commentCount': 1, 'publisher': {'@id': 'https://www.openculture.com/#organization'}, 'image': {'@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#primaryimage'}, 'thumbnailUrl': 'https://cdn8.openculture.com/2022/06/07222859/clarkefuture.jpeg', 'articleSection': ['Science'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#respond']}]}, {'@type': 'WebPage', '@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html', 'url': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html', 'name': 'Sci-Fi Writer Arthur C. Clarke Predicts the Future in 1964: Artificial Intelligence, Instantaneous Global Communication, Remote Work, Singularity & More', 'isPartOf': {'@id': 'https://www.openculture.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#primaryimage'}, 'image': {'@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#primaryimage'}, 'thumbnailUrl': 'https://cdn8.openculture.com/2022/06/07222859/clarkefuture.jpeg', 'datePublished': '2022-07-08T19:00:06+00:00', 'dateModified': '2022-07-09T19:48:57+00:00', 'breadcrumb': {'@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#primaryimage', 'url': 'https://cdn8.openculture.com/2022/06/07222859/clarkefuture.jpeg', 'contentUrl': 'https://cdn8.openculture.com/2022/06/07222859/clarkefuture.jpeg', 'width': 1280, 'height': 720}, {'@type': 'BreadcrumbList', '@id': 'https://www.openculture.com/2022/07/sci-fi-writer-arthur-c-clarke-predicts-the-future-in-1964-artificial-intelligence-instantaneous-global-communication-remote-work-more.html#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.openculture.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Sci-Fi Writer Arthur C. Clarke Predicts the Future in 1964: Artificial Intelligence, Instantaneous Global Communication, Remote Work, Singularity &#038; More'}]}, {'@type': 'WebSite', '@id': 'https://www.openculture.com/#website', 'url': 'https://www.openculture.com/', 'name': 'Open Culture', 'description': 'The best free cultural &amp; educational media on the web', 'publisher': {'@id': 'https://www.openculture.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.openculture.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.openculture.com/#organization', 'name': 'Openculture.com', 'url': 'https://www.openculture.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.openculture.com/#/schema/logo/image/', 'url': 'https://cdn8.openculture.com/2021/04/24113050/OC-favicon.png', 'contentUrl': 'https://cdn8.openculture.com/2021/04/24113050/OC-favicon.png', 'width': 400, 'height': 400, 'caption': 'Openculture.com'}, 'image': {'@id': 'https://www.openculture.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://www.openculture.com/#/schema/person/6ee37f1fe9392bd51ac2c273b4afd76f', 'name': 'Ted Mills', 'url': 'https://www.openculture.com/author/ted-mills'}]",N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lmluc2lkZWhpZ2hlcmVkLmNvbS9uZXdzLzIwMjIvMDcvMTEvd2h5LWRvZXMtYWktZmFjdWx0eS1zaG9ydGFnZS1leGlzdC1pdHMtY29tcGxpY2F0ZWTSAQA?oc=5,Why does an AI faculty shortage exist? It's complicated - Inside Higher Ed,2022-07-10,Inside Higher Ed,https://www.insidehighered.com,"The dearth of artificial intelligence professors at U.S. universities is not the result of a distorted job market, according to a recent report. Some experts urge caution in relying on industry to fill the AI teaching gap.","Higher, Education, News, Jobs, Events, Career",N/A,N/A,https://schema.org,"[{'@type': 'Article', 'headline': ""Why does an AI faculty shortage exist? It's complicated"", 'image': {'@type': 'ImageObject', 'url': '/sites/default/files/media/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048%20%281%29%20-%20Z_0.jpg'}, 'datePublished': '2022-07-10EDT15:00:00EDT', 'dateModified': '2023-04-04EDT22:42:48EDT', 'author': {'@type': 'NewsMediaOrganization', 'name': 'Susan D’Agostino'}}, {'@type': 'ImageObject', 'url': ''}]",N/A,N/A,"
+
+
+
+You have 4/5 articles left.Sign up for a free account or log in.
+
+Sign Up, It’s FREE
+Login
+
+
+
+
+ 
+
+The dearth of AI professors at U.S. universities is not the result of a distorted job market, according to a recent report.
+
+Mikemacmarketing/Wikimedia Commons
+
+
+When the ride-hailing company Uber sought to establish a new facility in Pittsburgh in 2015 focused on self-driving cars, it looked to the researchers and scientists at the nearby Carnegie Mellon University robotics center. Soon after, the company lured away 40 of the center’s employees, including the director, with doubled salaries and bonuses in the hundreds of thousands.
+High-profile stories like these have contributed to a prevailing narrative that artificial intelligence experts leave academe for industry in droves. But the dearth of AI professors at U.S. universities is not the result of a distorted job market, according to a report issued this month from the Center for Security and Emerging Technology. Rather, AI experts remain interested in academic careers, but university hiring of AI faculty has not kept pace with student demand. Though big tech has stepped in to fill some of the gap, some experts urge caution given that the industry’s incentive structure differs from that of academe.
+Historically, academe has delivered a steady stream of developers, engineers and entrepreneurs that has fueled an AI innovation ecosystem. This stream has been directly correlated with AI faculty teaching capacity. But while student enrollment in computer science programs has skyrocketed in the past decade, universities have not hired enough computer science faculty to meet that demand. (The researchers used student demand for computer science as a proxy for student demand in AI, as the latter is difficult to quantify.)
+In an apparent response to increased student demand, universities have restricted access to AI programs by limiting enrollment in high-demand classes, reducing the number of small-enrollment classes and tightening computer science admission requirements, according to Jack Corrigan, one of the report’s authors. At the same time, burgeoning numbers of computer science Ph.D. recipients have expressed interest in academic careers, but universities have not responded with a commensurate increase in faculty positions. Contrary to the prevailing narrative that industry poaching of computer science faculty is rampant, universities generally succeed when they seek to hire AI faculty.
+Technology companies, for their part, have stepped in to pick up some of the student demand by offering alternative pathways to AI education and training.
+“Tech companies are becoming the new ‘cauldrons of innovation’ and functional universities where innovation occurs,” said John Nosta, Google Health Advisory Board member and World Health Organization founding member of the digital health expert roster. Nosta noted that Google, for example, does not always require prospective employees to have earned bachelor of science degrees. “The excitement is no longer coming from the universities, but from innovative companies driving transformation like SpaceX, Amazon, Apple, OpenAI and other for-profit businesses that are leaving a traditional education model in the dust,” Nosta said. His view is that the trend is especially noteworthy in artificial intelligence.
+Google is not the only company to have responded to the AI workforce shortage by removing the college degree requirement for some positions. IBM and Apple have also dropped the requirement, an effort they also expect may diversify the talent pool by providing access to those who did not have as many early-life opportunities.
+“The jobs are there, and there’s one structural barrier we can remove,” former IBM Corporation chief executive Virginia Rometty told The Wall Street Journal last year. In place of a degree, she said IBM screens for a “propensity to learn” and provides training. The results? The “new-collar employees”—her term for those without a four-year degree—performed at a level that was equal or better than their college-educated co-workers.
+Not everyone agrees that industry is the proper training ground for AI experts.
+“I’d be loath to call the tech companies ‘universities,’” said Dan Rockmore, a computer science professor at Dartmouth College. “They are really only interested in a targeted set of skills—hardly universal ones—but I do think they are becoming a new kind of focused technical school.”
+Rockmore agreed that university AI curricula do not always address marketplace needs but cautioned against relying on tech companies for AI education.
+“This will be a narrowly trained group of workers whose products will have extraordinary ramifications on the ways we interact and are governed,” he said. “They build technocratic ‘solutions’ without the perspective of a broad education or possibly a broad and thoughtful outlook on the implications of the work.”
+Others point to the historic interplay between higher education and the tech industry. Consider, for example, the field of computer graphics, suggested Cherri Pancake, an Oregon State University computer science professor and former Association for Computing Machinery (ACM) president.
+“Nowadays, the vast majority of graphics practitioners are not specialists, though their work still relies on a core of specialists at universities and companies to keep driving the field forward.” Likewise, she noted that artificial intelligence, and specifically machine learning—a high-demand subfield of AI industry—is no different. Academics worked for decades to achieve cost-effective machine learning. “Now, everyone is crying out for that specialty, but the real need is for people who can apply [machine learning] in practical settings,” Pancake said.
+She noted that this necessitates a different kind of education—one focused on safe use. “Universities now recognize this need, but it takes time to establish new curricula,” she said.
+Some are frustrated by academe’s slow pace. For example, the Seattle Times editorial board penned an op-ed last month in which the editors lamented that colleges and universities in Washington—home of Microsoft headquarters—are “awarding computer-related degrees at less than half the rate the state’s tech companies are adding new positions—let alone filling openings for existing jobs.” They blamed not the students, who are interested in undergraduate computer science programs and technology careers, but the paucity of accessible training programs at the state’s universities. More than 7,500 incoming University of Washington first-year students applied for admission to the computer science and engineering school, they noted, but enrollment limitations likely mean that only 550 new undergraduates will enter in a given year.
+Educating the next generation of AI scientists in the U.S. and beyond also weighs on the mind of Jim Hendler, director of the Institute for Data, Artificial Intelligence, and Computation at Rensselaer Polytechnic Institute and chair of the ACM global technology policy council.
+“ACM is seeing this issue arising not just in the U.S., but around the world,” he said. “Our curriculum committees are looking at not just college education, but whether some of these gaps could be filled by new programs in K-12 and particularly high school/precollege educational programs.”
+While Corrigan acknowledged that industry has a role to play in developing AI talent, he advises policy makers and academic leaders to think critically about the role that universities play.
+“The incentive structure for private companies is much different than the incentive structure for universities … If we want to develop the tech workforce in an equitable, just and socially optimal way, we should consider the incentives that are driving the behaviors of each of those actors.”
+
+
+
+
+Want articles like this sent straight to your inbox?
+
+Subscribe to a Newsletter
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vdGVjaG5pY2FsLmx5L3N0YXJ0dXBzL2Z1dHVyZS1haS1zYWxsaWUv0gEA?oc=5,DC's Future AI is working on the 'holy grail' of artificial intelligence - Technical.ly,2022-07-11,Technical.ly,https://technical.ly,"With his new artificial general intelligence startup, FutureAI Founder Charles Simon wants to change, well, the future of AI. ",N/A,"With his new artificial general intelligence startup, FutureAI Founder Charles Simon wants to change, well, the future of AI. ","With his new artificial general intelligence startup, FutureAI Founder Charles Simon wants to change, well, the future of AI. ",https://schema.org,"[{'@type': 'Article', '@id': 'https://technical.ly/startups/future-ai-sallie/#article', 'isPartOf': {'@id': 'https://technical.ly/startups/future-ai-sallie/'}, 'author': [{'@id': 'https://technical.ly/#/schema/person/6af0dae6bff3abf9ddb75e751113335f'}], 'headline': 'DC&#8217;s Future AI is working on the &#8216;holy grail&#8217; of artificial intelligence', 'datePublished': '2022-07-11T15:07:51+00:00', 'dateModified': '2022-07-11T15:07:51+00:00', 'mainEntityOfPage': {'@id': 'https://technical.ly/startups/future-ai-sallie/'}, 'wordCount': 540, 'publisher': {'@id': 'https://technical.ly/#organization'}, 'image': {'@id': 'https://technical.ly/startups/future-ai-sallie/#primaryimage'}, 'thumbnailUrl': 'https://technical.ly/wp-content/uploads/2022/07/Sallie-Sensory-Pods.jpg', 'keywords': ['AI', 'Robotics', 'Startups'], 'articleSection': ['Startups'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://technical.ly/startups/future-ai-sallie/', 'url': 'https://technical.ly/startups/future-ai-sallie/', 'name': ""DC's Future AI is working on the 'holy grail' of artificial intelligence - Technical.ly"", 'isPartOf': {'@id': 'https://technical.ly/#website'}, 'primaryImageOfPage': {'@id': 'https://technical.ly/startups/future-ai-sallie/#primaryimage'}, 'image': {'@id': 'https://technical.ly/startups/future-ai-sallie/#primaryimage'}, 'thumbnailUrl': 'https://technical.ly/wp-content/uploads/2022/07/Sallie-Sensory-Pods.jpg', 'datePublished': '2022-07-11T15:07:51+00:00', 'dateModified': '2022-07-11T15:07:51+00:00', 'description': 'With his new artificial general intelligence startup, FutureAI Founder Charles Simon wants to change, well, the future of AI.\xa0', 'breadcrumb': {'@id': 'https://technical.ly/startups/future-ai-sallie/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://technical.ly/startups/future-ai-sallie/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://technical.ly/startups/future-ai-sallie/#primaryimage', 'url': 'https://technical.ly/wp-content/uploads/2022/07/Sallie-Sensory-Pods.jpg', 'contentUrl': 'https://technical.ly/wp-content/uploads/2022/07/Sallie-Sensory-Pods.jpg', 'width': 660, 'height': 429, 'caption': 'The AI-based Sallie pods from FutureAI use artificial general intelligence.'}, {'@type': 'BreadcrumbList', '@id': 'https://technical.ly/startups/future-ai-sallie/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://technical.ly/'}, {'@type': 'ListItem', 'position': 2, 'name': 'DC&#8217;s Future AI is working on the &#8216;holy grail&#8217; of artificial intelligence'}]}, {'@type': 'WebSite', '@id': 'https://technical.ly/#website', 'url': 'https://technical.ly/', 'name': 'Technical.ly', 'description': 'Better cities through technology.', 'publisher': {'@id': 'https://technical.ly/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://technical.ly/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://technical.ly/#organization', 'name': 'Technical.ly', 'url': 'https://technical.ly/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://technical.ly/#/schema/logo/image/', 'url': 'https://technical.ly/wp-content/uploads/2023/02/Untitled-design-1.png', 'contentUrl': 'https://technical.ly/wp-content/uploads/2023/02/Untitled-design-1.png', 'width': 700, 'height': 700, 'caption': 'Technical.ly'}, 'image': {'@id': 'https://technical.ly/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/technicallymedia/', 'https://x.com/technical_ly']}, {'@type': 'Person', '@id': 'https://technical.ly/#/schema/person/6af0dae6bff3abf9ddb75e751113335f', 'name': 'Michaela Althouse', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://technical.ly/#/schema/person/image/be586cbb60d5a8e6613fb7372c38623f', 'url': 'https://secure.gravatar.com/avatar/7edcc1cded27142355b7557394141aa8?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/7edcc1cded27142355b7557394141aa8?s=96&d=mm&r=g', 'caption': 'Michaela Althouse'}, 'description': ""Michaela Althouse was the lead reporter for Technical.ly's DC market. Before starting at Technical.ly, she was the West Coast reporter at New Project Media, and has previously written for Washingtonian Magazine, Philadelphia Magazine and Metro Eireann in Dublin, Ireland."", 'sameAs': ['https://www.linkedin.com/in/michaela-althouse-80a8a0117/'], 'url': 'https://technical.ly/author/malthouse/'}]",N/A,N/A,N/A,NewsArticle,DC&#8217;s Future AI is working on the &#8216;holy grail&#8217; of artificial intelligence,,,"Jul. 11, 2022 11:07 am",,,,"{'@type': 'WebPage', '@id': 'https://google.com/article'}","{'@type': 'Organization', 'name': 'Technically Media', 'logo': {'@type': 'ImageObject', 'url': 'https://technical.ly/wp-content/themes/national/images/logo-schema.jpg'}}",,['https://technical.ly/wp-content/uploads/2022/07/Sallie-Sensory-Pods-600x390.jpg'],,"{'@type': 'Person', 'name': 'Michaela Althouse', 'url': 'https://technical.ly/author/malthouse/'}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL3RlY2gvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWNsZXMvY29ib2wtcHJvZ3JhbW1lci_SAVJodHRwczovL3d3dy5zcGljZXdvcmtzLmNvbS90ZWNoL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGljbGVzL2NvYm9sLXByb2dyYW1tZXIv?oc=5,"Cobol Programmer Role, Key Skills, Salary - Spiceworks Inc - Spiceworks News and Insights",2022-07-11,Spiceworks News and Insights,https://www.spiceworks.com,"A COBOL programmer writes, maintains, and tests code in COmmon, Business-Oriented Language (COBOL). Explore related career opportunities in 2022.",Cobol Programmer,"A COBOL programmer writes, maintains, and tests code in COmmon, Business-Oriented Language (COBOL). Explore related career opportunities in 2022.",N/A,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Chiradeep BasuMallick
+
+
+
+					Technical Writer 				
+
+
+
+
+Last Updated: July 11, 2022
+
+
+
+
+ 
+
+
+
+
+
+A COBOL programmer is a technical professional whose primary skill is writing code in COmmon, Business-Oriented Language or COBOL, maintaining and testing COBOL codebases, and using relevant tools like ENDEVOR and Xpeditor. This article explains the job description of a COBOL programmer, the skills necessary for the job, and the salary levels for 2022. 
+
+Table of Contents 
+
+Job Description of a COBOL Programmer
+Top 12 Skills to Acquire
+COBOL Programmer Salary in 2022
+
+
+Job Description of a COBOL Programmer
+A COBOL programmer is a technical professional whose primary skill is writing code in COmmon, Business-Oriented Language or COBOL, maintaining and testing COBOL codebases, and using relevant tools like ENDEVOR and Xpeditor. 
+Common, Business-Oriented Language (COBOL) is a computer programming language that originated as a way for programmers to build programs that could run on several computers within the same enterprise. FORTRAN was its main rival at the time of its creation in 1959. In addition, unlike FORTRAN, it was designed for business rather than scientific applications.
+COBOL was invented in 1959 by CODASYL and was partially based on Grace Hopper’s FLOW-MATIC programming language. It was created as part of a project by the United States Department of Defense to create a portable data processing programming language. The objective was to develop a language centered on business requirements. This entailed having English-like commands, the ability to handle massive volumes of data (for example, customer records), and significant reporting capabilities. 
+COBOL programmers are people who work with and write programs using the COBOL programming language. They are often valuable for data science and corporate data processing. Typically, COBOL programmers create, build, and set up the code for new programs, evaluate them, and make any required revisions. 
+With modern languages such as Java, Python, Swift, and many others receiving more attention than ever before during the era of social media and the fourth industrial revolution, the prevailing opinion is that COBOL is a dying language. However, this may not be entirely correct. 
+See More: 5 AI Programming Languages for Beginners 
+Why is COBOL important?
+Despite being around for so many decades, COBOL remains a popular programming language and an important technical skill for developers. This is due to several reasons:
+
+Given that legacy code is vast and complex, it is often difficult to maintain. Since governments and businesses widely use COBOL, there are still numerous COBOL systems that they must maintain.
+As per Tom Taulli, the author of Modern Mainframe Development: COBOL, Databases, and Next-Generation Approaches, it facilitates over 80% of in-person financial services transactions and 95% of ATM swipes. It processes $3 trillion in commerce every day. Over 220 billion COBOL code streams exist, with 1.5 billion written each year.
+It is especially beneficial for simple procedures–such as percentage calculation or essential addition and subtraction – that must be applied on a large scale. 
+Since COBOL is clear to read and easy to comprehend, it is impossible to hide malicious or disruptive computer code within it. In addition, programming faults are easy to detect and rectify.
+
+As a result, a COBOL programmer’s job is both rewarding and lucrative. The typical job responsibilities of a COBOL programmer include: 
+Responsibilities of a COBOL Programmer
+1. Training and supervision
+ A COBOL programmer’s job includes training the local programming employees in JCL and modifying COBOL coding to take advantage of the increased mainframe processing power. In some cases, programmers also provide UNIX training for new employees. In addition, they are supposed to supervise the work of junior application developers as required and provide them with valuable feedback on performance improvement. 
+2. Implementing automation
+COBOL programmers analyze and test code using automated techniques. In addition, they are responsible for designing a variety of Visual Basic for Applications (VBA) macro tools to simplify reporting and assure data integrity, avoidance of overlap, and management control.
+3. Code quality control
+Programmers ought to set coding guidelines to protect code integrity. Apart from setting the guidelines, they check various COBOL programs for flaws and repair faulty lines accordingly. This includes modifying and running SAS, SQL, COBOL, and UNIX testing systems. Modern COBOL programmers may use test automation for this purpose. Programmers may use SQL queries to generate test data for quality assurance, and as necessary, they are also to assist with system and client integration testing efforts.
+4. Leveraging code libraries for smooth functioning of systems
+Programmers utilize code libraries that are compilations of different lines of code generated internally or made accessible as open-source to facilitate programming. Developing new code to handle data sharing between front-end and back-end systems lies under the responsibilities of a COBOL programmer. In addition, they also maintain the sub-system programs running in both batch and customer information control system (CICS) programming language across the system. 
+5. Enhancement projects
+An enhancement project is one in which new capabilities are added to an existing system. They might also involve correcting defects, adding recent reports, and modifying functionality to comply with revised business rules or needs. COBOL programmers are responsible for generating thorough analysis and design documentation for enhancement projects.
+See More: What Is Artificial Intelligence: History, Types, Applications, Benefits, Challenges, and Future of AI
+6. Department collaboration
+Programmers interact with the technical department staff for software development lifecycles, planning, development, scheduling, and applications. Good communication skills are essential in effective collaboration, especially for COBOL projects in DevOpsOpens a new window  environments. 
+7. Project planning
+Before working on projects, programmers must collect all the appropriate data for the desired results. This involves understanding the application’s transactional requirements and collecting and defining system requirements, among other information. In other words, project management responsibilities are also part of the COBOL programmer’s job description. 
+8. Web development
+Importantly, COBOL programmers are expected to be proficient in web development using Web Focus, HTML, Java, and JavaScript. For those familiar with basic web application security concepts, it can be an added advantage. 
+See More: What Is Artificial Intelligence (AI) as a Service? Definition, Architecture, and Trends
+Top 12 Skills to Acquire
+The primary, mandatory skill to become a COBOL programmer is knowledge of COBOL as a scripting language. In addition to this, the job role requires:
+Skills Required by a COBOL Programmer
+1. Technical development skills 
+To grasp the inner workings of computer systems and software, COBOL programmers must first and foremost acquire technical development expertise. They require these skills to troubleshoot problems and create new systems and applications. Such technical skills include math skills, knowledge of different computer programming languages (Visual Basic, CICS, TSO, COBOL, QMF, and JSL), etc.
+2. Communication skills 
+COBOL programmers must communicate with other team members and clients to comprehend project goals, obtain information, and present their work. Furthermore, they must provide the clients explanations about technical aspects and answer inquiries about their work. Keeping this in mind, the capacity to form constructive and productive relationships within a team or personally can come in handy. COBOL programmers with practical communication skills can effectively build trust with clients and colleagues, which can lead to promotions and professional growth. 
+3. DevOps proficiency
+While not a direct prerequisite, as businesses become more dependent on technology, the demand for COBOL programmers familiar with DevOps is likely to expand. DevOps is a software development approach that entails collaboration among developers and operations personnel. It seeks to increase the speed and quality of software development by combining these two professions. Aspiring COBOL programmers can also explore DevOps courses to upskill in this area.
+4. Mainframe capabilities 
+Mainframes are high-performance computers with plenty of memory and processors that can do billions of basic calculations and transactions in real-time. Big corporations utilize them for mission-critical applications, high transaction volumes, and reliable performance. They are built for intensive high-speed processing for large-scale computing needs that demand higher availability and security than a more miniature computer can provide. With mainframes supporting much of the world’s most critical IT infrastructure, excellent mainframe programming skills are essential for a COBOL programmer. 
+5. Versatility and the ability to learn fast
+Organizational needs constantly change as technology and processes evolve. To ensure that one’s work is up to date and effective, COBOL programmers must adapt to new technologies and methods. And the best way to do that is to keep up with the latest programming languages and tools as they become available. 
+See More: Top 10 AI Companies in 2022
+6. DB2
+IBM’s relational database management system called DB2 is a solution designed to run and operate software such as Windows, Unix, and Linux systems. This system was initially built for IBM but has now been adapted to work on various operating systems. The essential characteristic of the DB2 is its ability to handle and manage large amounts of data while allowing users to access the database engine easily.
+7. XML 
+XML is a data storage and transmission medium independent of software and hardware. XML is an abbreviation for eXtensible Markup Language. XML, like HTML, is a markup language for storing and transporting data. It was designed to be self-descriptive. The XML language has no predefined tags. Additionally, another advantage of XML is its extensibility. 
+8. Knowledge of the software development life cycle
+In software engineering, SDLC (an acronym for software development life cycle) is also called application development lifecycle. SDLC is a method that aids in the planning, testing, and administration of an information system. This method can be applied to both software and hardware and their combination. The SDLC is divided into six steps, beginning with analysis and concluding with evaluation. It also includes web application security. 
+9. Excellent focus and concentration
+COBOL programmers must be able to focus for extended periods while they work out problems and write lines of clean code. Furthermore, they must carefully review their code, as even a minor error can significantly impact the entire program. Thus, concentration and attention to detail are essential for a COBOL programmer.
+10. Intellectual curiosity 
+The most effective and successful programmers are adept at determining how something is done and devising ways to do it more effectively. A healthy sense of curiosity can aid in the consistent growth and development of a programmer. 
+11. Problem-solving and mathematical skills
+ Many elements of COBOL programming necessitate a more advanced understanding of math. To become proficient in programming, one must first master algebra and arithmetic. Furthermore, a code is frequently written to address a challenge. Therefore, a COBOL programmer must be able to identify problems and devise the most optimal solutions to fix them through programming. 
+12. Knowledge of other programming languages
+ Although COBOL programmers mainly work with one programming language, proficiency in different programming languages can go a long way career-wise. Codes are widely written in programming languages such as SQL, Java, C++, and Python. Even though programmers are expected to be experts in all these languages, knowledge in at least two of them can open up many career opportunities. A common approach amongst programmers is to first decide on an area of specialization and then focus on the programming languages widely utilized in that field.
+See More: What Is Linear Regression? Types, Equation, Examples, and Best Practices for 2022
+COBOL Programmer Salary in 2022
+A COBOL programmer’s compensation can vary as per their level of education, years of experience, and the sort of corporation for which they work. Aside from the regular salary, many employees also receive extra rewards in the form of bonuses. While most COBOL programmers have a bachelor’s degree, some businesses hire candidates with a vocational degree or diploma, provided they have adequate field expertise. 
+In software development, one’s programming skills are far more valuable than their degree. However, businesses require a Bachelor’s degree in computer science and can give applicants an edge over those without one.
+Remember that COBOL programming is no longer included in most computer science degrees. Consequently, most COBOL experts today are older generation programmers and new-age aficionados, even though COBOL is expected to become popular soon. The majority of COBOL programmer salaries range from $79,000 (25th percentile) to $100,000 (75th percentile), with top earners (90th percentile) earning $110,000 per year.
+They have a wide range of opportunities career-wise going forth, and they could become software developers or managers of the software engineering department. They may also advance to become senior software engineers or lead software developers as they gain expertise. Furthermore, some may also work as project managers in information technology.
+The following are various Jobs taken up by COBOL programmers and their respective salaries, as per PayScale data last updated on May 02, 2022: 
+
+Senior programmer analyst: Their salaries range from $71k to $113k, averaging $91,063 per annum.
+Software developers with COBOL skills: Their salaries range from $50k to $98k, averaging $68,767 per annum.
+COBOL programmer analyst: Their salaries range from $53k to $109k, averaging $73,664 per annum.
+COBOL-focused software engineers: Their salaries range from $58k to $121k, averaging $81,972 per annum.
+Senior software engineer, developer, or programmer: Their salaries range from $71k to $118k, with an average of $95,687 per annum.
+Application developer: Their salaries range from $54k to $96k, averaging $71,008 per annum.
+
+Aside from regular jobs, COBOL programmers also work as freelancers. The average freelancing rate for COBOL professionals is $125 per hour. 
+See More: What Is Knowledge Management? Definition, Process, Examples, Strategy, Best Practices, and Trends 
+How to become a COBOL programmer? 
+There are four broad steps candidates must take to secure a career as a COBOL engineer and earn the compensation mentioned above: 
+
+Tailor your education trajectory: COBOL programmers are often required to have a bachelor’s degree in information technology, computer science, software engineering, or a related field. These curricula include essential programming modules such as software design, computer programming, database management, and mathematics.
+Obtain the appropriate experience: Typically, employers are more inclined to consider hiring an applicant with at least five years of relevant experience. However, a minimum of 10 years of experience may be required by certain businesses. 
+Seek training: COBOL programmers can acquire expertise as a computer programmer, a computer systems analyst, or in a related profession such as a computer systems engineer or a computer scientist. Courses in any of these fields can bolster existing programming knowledge.
+Ensure you have the right qualifications: Certifications are generally not required to become a COBOL programmer, although they can help someone stand out from the crowd. People with degrees often have an advantage in landing jobs at big enterprises.
+
+See More: Narrow AI vs. General AI vs. Super AI: Key Comparisons
+Takeaway
+While COBOL is now rarely used in end-user app development, it remains a staple for mainframes and enterprise backends. A gradual decline in COBOL was precipitated by the Y2K bug, which had the potential to cause computing errors due to systematic flaws in COBOL-based systems. However, despite this, COBOL remained popular and was one of the most in-demand skills in the U.S. during the pandemic. In the future, candidates who balance next-gen skills like the cloud with COBOL programming will be particularly advantageous as they can help guide end-to-end digital transformation programs. 
+Did this article help you learn about a career as a COBOL programmer? Tell us on LinkedInOpens a new window , TwitterOpens a new window , or FacebookOpens a new window . We’d love to hear from you! 
+MORE ON AI
+
+What Is Artificial Intelligence (AI)? Definition, Types, Goals, Challenges, and Trends in 2022
+Top 10 Python Machine Learning Libraries in 2022
+Top 10 Machine Learning Algorithms in 2022
+What Is a Decision Tree? Algorithms, Template, Examples, and Best Practices
+
+
+
+
+
+
+
+
+								                  Database										
+
+								                  DevOps										
+
+								                  Software Development										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Chiradeep BasuMallick
+
+				                  Technical Writer 	                          
+
+
+ opens a new window 
+
+
+
+ opens a new window
+  	
+					Chiradeep is a content marketing professional, a startup incubator, and a tech journalism specialist. He has over 11 years of experience in mainline advertising, marketing communications, corporate communications, and content marketing. He has worked with a number of global majors and Indian MNCs, and currently manages his content marketing startup based out of Kolkata, India. He writes extensively on areas such as IT, BFSI, healthcare, manufacturing, hospitality, and financial analysis & stock markets. He studied literature, has a degree in public relations and is an independent contributor for several leading publications.			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvY2hpbmEtYm9hc3RzLW9mLW1pbmQtcmVhZGluZy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS10aGF0LXN1cHBvcnRzLWFpLXRvY3JhY3ktLzY2NTE5ODYuaHRtbNIBd2h0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2FtcC9jaGluYS1ib2FzdHMtb2YtbWluZC1yZWFkaW5nLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXRoYXQtc3VwcG9ydHMtYWktdG9jcmFjeS0vNjY1MTk4Ni5odG1s?oc=5,China Boasts of 'Mind-reading' Artificial Intelligence that Supports 'AI-tocracy' - Voice of America - VOA News,2022-07-09,Voice of America - VOA News,https://www.voanews.com,"Analysts say China has improved its AI-powered surveillance, using big data, machine learning, facial recognition and AI to 'get into the brains and minds of its people,' building what many call a draconian digital dictatorship","East Asia, China News, China’s AI-tocracy ","Analysts say China has improved its AI-powered surveillance, using big data, machine learning, facial recognition and AI to 'get into the brains and minds of its people,' building what many call a draconian digital dictatorship","Analysts say China has improved its AI-powered surveillance, using big data, machine learning, facial recognition and AI to 'get into the brains and minds of its people,' building what many call a draconian digital dictatorship",https://schema.org,,N/A,N/A,N/A,NewsArticle,China Boasts of 'Mind-reading' Artificial Intelligence that Supports 'AI-tocracy',https://www.voanews.com/a/china-boasts-of-mind-reading-artificial-intelligence-that-supports-ai-tocracy-/6651986.html,,2022-07-09 16:07:10Z,2022-07-09 16:07:10Z,East Asia,,https://www.voanews.com/a/china-boasts-of-mind-reading-artificial-intelligence-that-supports-ai-tocracy-/6651986.html,"{'logo': {'width': 512, 'height': 220, '@type': 'ImageObject', 'url': 'https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png'}, '@type': 'NewsMediaOrganization', 'url': 'https://www.voanews.com', 'sameAs': ['https://www.facebook.com/VOANews', 'https://twitter.com/voanews', 'https://www.youtube.com/user/VOAvideo', 'https://www.instagram.com/voanews/'], 'name': 'Voice of America (VOA News)', 'alternateName': ''}",,"{'width': 1080, 'height': 608, '@type': 'ImageObject', 'url': 'https://gdb.voanews.com/10050000-0aff-0242-b190-08da61bf4088_w1080_h608.jpg'}",,"{'@type': 'Person', 'url': 'https://www.voanews.com/author/joyce-huang/puq_r', 'description': '', 'image': {'@type': 'ImageObject', 'url': 'https://gdb.voanews.com/6fda24bd-6411-421e-a12d-9943d3aebc7b.jpg'}, 'name': 'Joyce Huang'}",,China Boasts of 'Mind-reading' Artificial Intelligence that Supports 'AI-tocracy',,en-US,,,,,
+https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2F6ZXR0ZS5tdW4uY2EvdGVhY2hpbmctYW5kLWxlYXJuaW5nL25ldy1jZW50cmUtZm9yLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,New Centre for Artificial Intelligence - Gazette,2022-07-08,Gazette,https://gazette.mun.ca,N/A,N/A,"Memorial University has received funding for a new Centre for Artificial Intelligence on the St. John’s campus. The centre will build partnerships with industry and the province’s entrepreneurial ecosystem through collaborative projects, outreach and continuing education, particularly in artificial intelligence (AI) and computer related courses. It will also serve as a collaborative space for seminars […]",N/A,https://schema.org,"[{'@type': 'Article', '@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#article', 'isPartOf': {'@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/'}, 'author': {'name': 'mlosmond@mun.ca', '@id': 'https://gazette.mun.ca/#/schema/person/c5c9320cc805d856303ba1e08a5e4c00'}, 'headline': 'New Centre for Artificial Intelligence', 'datePublished': '2022-07-08T14:05:55+00:00', 'dateModified': '2022-08-03T15:55:57+00:00', 'mainEntityOfPage': {'@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/'}, 'wordCount': 410, 'publisher': {'@id': 'https://gazette.mun.ca/#organization'}, 'image': {'@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2022/07/Centre-for-Artificial-Intelligence-1200x600-1.jpg?fit=1200%2C600&quality=100&ssl=1', 'keywords': ['ACOA', 'Campus and Community', 'Faculty of Engineering and Applied Science', 'Faculty of Science', 'Teaching and Learning'], 'articleSection': ['Teaching and Learning'], 'inLanguage': 'en-CA'}, {'@type': 'WebPage', '@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/', 'url': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/', 'name': 'New Centre for Artificial Intelligence', 'isPartOf': {'@id': 'https://gazette.mun.ca/#website'}, 'primaryImageOfPage': {'@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#primaryimage'}, 'image': {'@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#primaryimage'}, 'thumbnailUrl': 'https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2022/07/Centre-for-Artificial-Intelligence-1200x600-1.jpg?fit=1200%2C600&quality=100&ssl=1', 'datePublished': '2022-07-08T14:05:55+00:00', 'dateModified': '2022-08-03T15:55:57+00:00', 'breadcrumb': {'@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#breadcrumb'}, 'inLanguage': 'en-CA', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-CA', '@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#primaryimage', 'url': 'https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2022/07/Centre-for-Artificial-Intelligence-1200x600-1.jpg?fit=1200%2C600&quality=100&ssl=1', 'contentUrl': 'https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2022/07/Centre-for-Artificial-Intelligence-1200x600-1.jpg?fit=1200%2C600&quality=100&ssl=1', 'width': 1200, 'height': 600, 'caption': 'Blue and white background with angular shapes'}, {'@type': 'BreadcrumbList', '@id': 'https://gazette.mun.ca/teaching-and-learning/new-centre-for-artificial-intelligence/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://gazette.mun.ca/'}, {'@type': 'ListItem', 'position': 2, 'name': 'New Centre for Artificial Intelligence'}]}, {'@type': 'WebSite', '@id': 'https://gazette.mun.ca/#website', 'url': 'https://gazette.mun.ca/', 'name': 'Gazette - Memorial University of Newfoundland', 'description': 'The Gazette is Memorial University’s official news site, featuring news and events from all Memorial campuses.', 'publisher': {'@id': 'https://gazette.mun.ca/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://gazette.mun.ca/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-CA'}, {'@type': 'Organization', '@id': 'https://gazette.mun.ca/#organization', 'name': 'Memorial University of Newfoundland', 'url': 'https://gazette.mun.ca/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-CA', '@id': 'https://gazette.mun.ca/#/schema/logo/image/', 'url': 'https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2019/05/logo.png?fit=365%2C231&quality=100&ssl=1', 'contentUrl': 'https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2019/05/logo.png?fit=365%2C231&quality=100&ssl=1', 'width': 365, 'height': 231, 'caption': 'Memorial University of Newfoundland'}, 'image': {'@id': 'https://gazette.mun.ca/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/MemorialUniversity/', 'https://x.com/MemorialU', 'https://www.instagram.com/memorialuniversity/', 'https://www.youtube.com/user/MemorialUVideos']}, {'@type': 'Person', '@id': 'https://gazette.mun.ca/#/schema/person/c5c9320cc805d856303ba1e08a5e4c00', 'name': 'mlosmond@mun.ca', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-CA', '@id': 'https://gazette.mun.ca/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/6b16d66b9604380da3a49cd72d467c87?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/6b16d66b9604380da3a49cd72d467c87?s=96&d=mm&r=g', 'caption': 'mlosmond@mun.ca'}, 'url': 'https://gazette.mun.ca/author/mlosmondmun-ca/'}]",N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RvcC0xMC1haS1jb21wYW5pZXMtcHJvbW90aW5nLXRyYW5zZm9ybWF0aW9uLWluLXRoZS10ZWNoLWluZHVzdHJ50gGEAWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FtcC9zdG9yeS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS90b3AtMTAtYWktY29tcGFuaWVzLXByb21vdGluZy10cmFuc2Zvcm1hdGlvbi1pbi10aGUtdGVjaC1pbmR1c3RyeQ?oc=5,Top 10 AI Companies Promoting Transformation in the Tech Industry - Analytics Insight,2022-07-10,Analytics Insight,https://www.analyticsinsight.net,,"AI unicorns,Artificial intelligence ,AI startups ,AI,AI companies ","Take a look at these top AI unicorns that are creative massive technological disruption Technology venture capital deals may be slowing down, but investment in ","Take a look at these top AI unicorns that are creative massive technological disruption Technology venture capital deals may be slowing down, but investment in ",http://schema.org,,N/A,N/A,"Number of ChatGPT Users and Statistics
+",NewsArticle,Top 10 AI Companies Promoting Transformation in the Tech Industry,https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-companies-promoting-transformation-in-the-tech-industry,2022-07-10T07:00:00Z,2022-07-10T07:00:00Z,2022-07-10T07:00:00Z,Artificial Intelligence,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-companies-promoting-transformation-in-the-tech-industry'}","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Top-10-AI-Companies-Promoting-Transformation-in-the-Tech-Industry.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Top-10-AI-Companies-Promoting-Transformation-in-the-Tech-Industry.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",,"[{'@type': 'Person', 'givenName': 'IndustryTrends', 'name': 'IndustryTrends', 'url': 'https://www.analyticsinsight.net/author/industrytrends'}]","[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Top 10 AI Companies Promoting Transformation in the Tech Industry', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-companies-promoting-transformation-in-the-tech-industry'}]",Top 10 AI Companies Promoting Transformation in the Tech Industry,,,"Take a look at these top AI unicorns that are creative massive technological disruption.Technology venture capital deals may be slowing down, but investment in AI companies continues to boom. Investments in AI research and applications are set to hit US$500 billion by 2024, according to research firm IDC, while PwC predicts AI will contribute US$15.7 trillion to the global economy by 2030. So, it's no surprise that among the 206 new 2022 &quot;unicorns&quot;- that is, privately held startups with a value of over US$1 billion- a boatload are in artificial intelligence and machine learning. Here is the list of top 10 AI unicorns that are setting the stage on fire..DeepMap.DeepMap is boosting safe autonomy by providing the world's best autonomous mapping as well as localization solutions. It is known for developing high-definition maps for self-driving vehicles and assisting with navigation. The AI-based mapping consists of precision with the digital camera images that are combined with Lidar. It is beneficial for drivers to have localization solutions for safe autonomy with the integration of artificial intelligence..Dialpad.Dialpad is known as the cloud-based platform for enterprise communications that can work across all personal devices. It also offers a wide range of tools designed to provide businesses with unified communications including a company mainline, customer IVR, and Google Apps integration..ECARX.ECARX is one of the developers of intelligent car software, hardware, and system while focusing on automotive intelligence and networking. It provides operating services for the Internet of Vehicles cloud platform and big data platform by obtaining intelligent services and enhancing the driving experience with artificial intelligence..Eightfold.Eightfold provides an AI-powered talent intelligence platform to transform how one hires, retains, and grows a diverse global workforce. Organizations can make a lasting impact with this AI company by upskilling employee skills. The talent intelligence suite products include talent acquisition, talent management, talent flex, and workforce exchange..Element AI.Element AI is gaining popularity as one of the leading AI companies with Responsibility AI, AI maturity framework, and AI for the climate. It is focused on driving fair, sustainable, and transparent technology engaging with governments, academia, businesses, and other technical aspects. It ensures proper data governance, protection of the natural environment, explainability in AI systems, and many more..Enflame.Enflame is known as a China-based artificial intelligence company to provide cutting-edge software and hardware solutions to revolutionize AI technology. It fuses the uniqueness of turning devasting AI cloud chips and differentiation of building a highly efficient software ecosystem. It is gaining popularity as an AI universe-opener with the integration of engineering and software solutions..Feedzai.Feedzai is well-known for offering end-to-end protection from fraud and financial crime risks. It serves global industries such as retail, fintech, and many more with multiple AI solutions such as anti-money laundering, transaction fraud, watchlist screening, and many more. It is the market leader in fighting financial crime by leveraging artificial intelligence, big data, and machine learning..Fractal Analytics.Fractal Analytics is focused on providing artificial intelligence products such as Senseforth.ai, Samya.ai, Qure.ai, Crux intelligence, and Eugenie.ai. It is also known for solutions such as AIDE, Consumer Hub, Concordia, revenue growth management, image and video analytics, and many more..Gong.Gong is one of the top AI companies to analyze customer-facing interactions across different mediums such as phone, email, as well as web conferencing. It helps to deliver meaningful and autonomous insights to guide enterprises. It provides AI solutions such as sales, customer success, marketing, strategic initiatives, and many more..Graphcore .Graphcore is an AI company to boost next-gen machine learning models and delivers state-of-the-art digital experiences at scale. It offers IPU (Intelligence Processing Unit) to create the next breakthroughs in machine learning to enhance human potential. It is designed.Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.","{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-companies-promoting-transformation-in-the-tech-industry', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/07/Top-10-AI-Companies-Promoting-Transformation-in-the-Tech-Industry.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,
+https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvaW5kaWEtbXVzdC1iZS1yZWFkeS10by1mYWNlLXVwaGVhdmFsLWR1ZS10by1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yYWpuYXRoLXNpbmdoLTMxNDY0OTXSAX9odHRwczovL3d3dy5uZHR2LmNvbS9pbmRpYS1uZXdzL2luZGlhLW11c3QtYmUtcmVhZHktdG8tZmFjZS11cGhlYXZhbC1kdWUtdG8tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcmFqbmF0aC1zaW5naC0zMTQ2NDk1L2FtcC8x?oc=5,India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh - NDTV,2022-07-11,NDTV,https://www.ndtv.com,"&quot;We cannot stop the progress of artificial intelligence and we should not try to stop its progress. But we need to be careful about it,&quot; he said.","Artificial Intelligence (AI),Artificial Intelligence in Defence,Rajnath  Singh","The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back.","The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back.",http://schema.org/,,N/A,N/A,"He noted that AI's ethics and dangers must be properly thought out.New Delhi:  India needs to work on the artificial intelligence mechanism ""extremely carefully"" and it must be ready to face a legal, ethical, political, and economic upheaval that may follow due to this technology, Defence Minister Rajnath Singh said on Monday. ""We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,"" he mentioned.Mr Singh was speaking after inaugurating an event titled 'AIDef (Artificial Intelligence in Defence)' here.He noted that AI's ethics and dangers must be properly thought out.""We cannot stop the progress of artificial intelligence and we should not try to stop its progress. But we need to be careful about it,"" he mentioned.When a new technology brings a huge change, its transition period is also as huge and serious, he said.""Since AI is a technology that can bring a massive change, we must be ready to face the legal, ethical, political, and economic upheaval that may follow,"" Singh noted.""We need to work on AI extremely carefully so that this (technology) does not go out of our control in the coming times,"" he added.The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back.""Whenever a new technology comes, society takes its time to adjust itself to it,"" he added.He also said that the country should ensure democratic use of the technology.The defence sector is undergoing important changes due to AI. The training of soldiers is also being improved with the help of AI, he mentioned.Mr Singh launched 75 defence products powered by artificial intelligence at the event.Out of these 75 products, some are already being used by the armed forces while the rest are in the process of deployment.PromotedListen to the latest songs, only on JioSaavn.comThese 75 products are in the domains of robotics systems, cyber security, human behaviour analysis, intelligent monitoring system, supply chain management, voice analysis and C4ISR (command, control, communication, computer and intelligence, surveillance and reconnaissance), and operational data analytics.(This story has not been edited by NDTV staff and is auto-generated from a syndicated feed.)Track Latest News Live on NDTV.com and get news updates from India  and around the world. Watch Live News:Follow Us:Artificial Intelligence (AI)Artificial Intelligence in DefenceRajnath  Singh",WebPage,,https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495,,,,,,,"{'@type': 'Organization', 'name': 'NDTV', 'url': 'https://www.ndtv.com'}",,,,,,India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh,,,,,,"{'@type': 'SearchAction', 'target': 'https://www.ndtv.com/search?searchtext={search_term_string}', 'query-input': 'required name=search_term_string'}","{'@type': 'SpeakableSpecification', 'xPath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""]}"
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kZWZlbmNld2F0Y2guaW4vZGVmZW5jZS1uZXdzL2luZGlhLW5lZWRzLXRvLXdvcmstb24tYWktbXVzdC1iZS1yZWFkeS10by1mYWNlLWxlZ2FsLWV0aGljYWwtdXBoZWF2YWwtZGVmZW5jZS1taW5pc3RlctIBigFodHRwczovL3d3dy5kZWZlbmNld2F0Y2guaW4vYW1wL3N0b3J5L2RlZmVuY2UtbmV3cy9pbmRpYS1uZWVkcy10by13b3JrLW9uLWFpLW11c3QtYmUtcmVhZHktdG8tZmFjZS1sZWdhbC1ldGhpY2FsLXVwaGVhdmFsLWRlZmVuY2UtbWluaXN0ZXI?oc=5,"India needs to work on AI, must be ready to face legal, ethical upheaval: Defence Minister - Defence Watch",2022-07-11,Defence Watch,https://www.defencewatch.in,,,"New Delhi: India needs to work on artificial intelligence mechanism &quot;extremely carefully&quot; and be ready to face the legal, ethical, political and econo","New Delhi: India needs to work on artificial intelligence mechanism &quot;extremely carefully&quot; and be ready to face the legal, ethical, political and econo",http://schema.org,,N/A,N/A,HAL announces revision in LCA IOC contract value,NewsArticle,"India needs to work on AI, must be ready to face legal, ethical upheaval: Defence Minister",https://www.defencewatch.in/defence-news/india-needs-to-work-on-ai-must-be-ready-to-face-legal-ethical-upheaval-defence-minister,2022-07-11T13:13:18Z,2022-07-11T13:13:18Z,2022-07-11T13:13:18Z,Defence News,,"{'@type': 'WebPage', '@id': 'https://www.defencewatch.in/defence-news/india-needs-to-work-on-ai-must-be-ready-to-face-legal-ethical-upheaval-defence-minister'}","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Defence Watch', 'url': 'https://www.defencewatch.in', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'defencewatch', 'contentUrl': 'https://gumlet.assettype.com/defencewatch/2023-07/f94d05a7-b34d-478b-88fd-0b681a7ce6ba/DW_logo.png', 'url': 'https://gumlet.assettype.com/defencewatch/2023-07/f94d05a7-b34d-478b-88fd-0b681a7ce6ba/DW_logo.png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.facebook.com/defencewatch.in'], 'id': 'https://www.defencewatch.in'}",https://media.assettype.com/defencewatch/import/wp-content/uploads/2022/07/IMG_20220711_153630-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/defencewatch/import/wp-content/uploads/2022/07/IMG_20220711_153630-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}",,"[{'@type': 'Person', 'givenName': 'Vivek Shukla', 'name': 'Vivek Shukla', 'url': 'https://www.defencewatch.in/author/vivek-shukla'}]","[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.defencewatch.in'}, {'@type': 'ListItem', 'position': 2, 'name': 'Defence News', 'item': 'https://www.defencewatch.in/defence-news'}, {'@type': 'ListItem', 'position': 3, 'name': 'India needs to work on AI, must be ready to face legal, ethical upheaval: Defence Minister', 'item': 'https://www.defencewatch.in/defence-news/india-needs-to-work-on-ai-must-be-ready-to-face-legal-ethical-upheaval-defence-minister'}]","India needs to work on AI, must be ready to face legal, ethical upheaval: Defence Minister",,,"New Delhi: India needs to work on artificial intelligence mechanism &quot;extremely carefully&quot; and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology, Defence Minister Rajnath Singh said on Monday. He stressed that AI technology should not be dominated by a country or a group, as has been the case with nuclear technology, and India needs to make advancements in the field..Singh was speaking after inaugurating an event titled 'AIDef (Artificial Intelligence in Defence)' here in the national capital..&quot;We have to use artificial intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology – just like nuclear power – and the remaining countries are not able to enjoy the fruits of this technology,&quot; the defence minister said..He noted that AI's ethics and possible dangers must be properly thought-out..&quot;We cannot stop the progress of artificial intelligence and we should not try to stop its progress. But we need to be careful about it,&quot; he mentioned..When a new technology brings a considerable change, its transition period is also as big and serious, he said..&quot;Since AI is a technology that can bring a massive change, we must be ready to face the legal, ethical, political and economic upheaval that may follow,&quot; Singh noted..&quot;We need to work on AI extremely carefully so that this (technology) does not go out of our control in the coming times,&quot; he added..The defence minister said the arrival of technology is just like the movement of a clock because once it moves forward, it is not possible to turn it back..&quot;Whenever a new technology comes, society takes its time to adjust itself to it,&quot; he added..He also said that the country should ensure democratic use of technology..The defence sector is undergoing important changes due to AI. The training of soldiers is also being improved with the help of AI, he said..Referring to Russia's continuous progress in science and technology, he said, &quot;On AI, Russian President Vladimir Putin had said 'Whoever becomes the leader in this sphere will become the ruler of the world'.&quot;.&quot;Although India believes in the principle of 'Vasudhaiva Kutumbakam' (the whole world is one family) and has no intention to rule the world, we must develop the capability of our AI technology so that no country can even think of rulling us, he added..India has started incorporating AI applications in remote piloted, unmanned aerial vehicles, etc, he mentioned..There is a need to move further in this direction so that India can develop autonomous weapon systems, he noted..&quot;Timely infusion of technologies like AI and Big Data in the defence sector is of utmost importance so that we are not left behind the technological curve and are able to take maximum advantage of technology for our services, he mentioned..Singh launched 75 defence products powered by artificial intelligence at the event..Some are already being used by the armed forces while the rest are in the process of deployment..These 75 products are in the domains of robotics systems, cyber security, human behaviour analysis, intelligent monitoring system, supply chain management, voice analysis and C4ISR (command, control, communication, computer and intelligence, surveillance and reconnaissance) and operational data analytics..(Defence Watch– India's Defence News centre that places the spotlight on Defence Manufacturing, Defence Technology, Strategy and Military affairs is on Twitter. Follow us here and stay updated.)","{'@type': 'WebPage', 'url': 'https://www.defencewatch.in/defence-news/india-needs-to-work-on-ai-must-be-ready-to-face-legal-ethical-upheaval-defence-minister', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/defencewatch/import/wp-content/uploads/2022/07/IMG_20220711_153630-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,

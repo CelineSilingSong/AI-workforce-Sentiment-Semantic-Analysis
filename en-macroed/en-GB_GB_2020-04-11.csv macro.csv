@@ -1,0 +1,945 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,headline,image,author,genre,wordcount,publisher,mainEntityOfPage,dateModified,datePublished,article:section,article:summary,article text,url,articleSection,name,isAccessibleForFree,itemListElement,hasPart,dateCreated,identifier,creator,@graph
+https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZW1lcmouY29tL2FpLXNlY3Rvci1vdmVydmlld3MvZXZlcnlkYXktZXhhbXBsZXMtb2YtYWkv0gEA?oc=5,Everyday Examples of Artificial Intelligence and Machine Learning - Emerj,2020-04-11,Emerj,https://emerj.com,What are examples of artificial intelligence that you're already using—right now? In this article we explore the real world applications of AI that alrea...,,What are examples of artificial intelligence that you're already using—right now? In this article we explore the real world applications of AI that alrea...,N/A,https://schema.org,Article,Everyday Examples of Artificial Intelligence and Machine Learning,https://emerj.com/wp-content/uploads/2017/02/Everyday-Examples-of-Artificial-Intelligence-and-Machine-Learning-950x540-690x392.jpg,Daniel Faggella,AI Sector Overviews,4078,"{'@type': 'Organization', 'name': 'Emerj', 'url': 'https://emerj.com', 'logo': {'@type': 'ImageObject', 'url': 'https://emerj.com/wp-content/themes/emerj/src/logo/emerj-logo-w-500-min.png'}}",https://emerj.com/ai-sector-overviews/everyday-examples-of-ai,2020-04-11,2017-02-14,N/A,N/A," E-commerceConsumer goodsProcess automationFinance Everyday Examples of Artificial Intelligence and Machine Learning Daniel FaggellaLast updated on April 11, 2020  Last updated on April 11, 2020, published by Daniel Faggella Daniel Faggella is Head of Research at Emerj. Called upon by the United Nations, World Bank, INTERPOL, and leading enterprises, Daniel is a globally sought-after expert on the competitive strategy implications of AI for business and government leaders. Share to: LinkedIn Twitter Facebook Email  With all the excitement and hype about AI that’s “just around the corner”—self-driving cars, instant machine translation, etc.—it can be difficult to see how AI is affecting the lives of regular people from moment to moment. What are examples of artificial intelligence that you’re already using—right now? At Emerj, the AI Research and Advisory Company, we work with ambitious enterprise leaders to develop powerful AI strategies and find high-ROI AI projects. While this often implies examining the AI initiatives of their peers, new AI use-cases and application ideas can come from consumer technologies as well – and that’s the focus of this article. In the process of navigating to these words on your screen, you almost certainly used AI. You’ve also likely used AI on your way to work, communicating online with friends, searching on the web, and making online purchases.  We distinguish between AI and machine learning (ML) throughout this article when appropriate. At Emerj, we’ve developed concrete definitions of both artificial intelligence andmachine learning based on a panel of expert feedback. To simplify the discussion, think of AI as the broader goal of autonomous machine intelligence, and machine learning as the specific scientific methods currently in vogue for building AI. All machine learning is AI, but not all AI is machine learning. Our enumerated examples of AI are divided into Work & School and Home applications, though there’s plenty of room for overlap. Each example is accompanied with a “glimpse into the future” that illustrates how AI will continue to transform our daily lives in the near future.  Examples of Artificial Intelligence: Work & School Commuting According to a 2015 report by the Texas Transportation Institute at Texas A&M University, commute times in the US have been steadily climbing year-over-year, resulting in 42 hours of rush-hour traffic delay per commuter in 2014—more than a full work week per year, with an estimated $160 billion in lost productivity. Clearly, there’s massive opportunity here for AI to create a tangible, visible impact in every person’s life. Reducing commute times is no simple problem to solve.  A single trip may involve multiple modes of transportation (i.e. driving to a train station, riding the train to the optimal stop, and then walking or using a ride-share service from that stop to the final destination), not to mention the expected and the unexpected: construction; accidents; road or track maintenance; and weather conditions can constrict traffic flow with little to no notice. Furthermore, long-term trends may not match historical data, depending on the changes in population count and demographics, local economics, and zoning policies. Here’s how AI is already helping to tackle the complexities of transportation. 1 –  Google’s AI-Powered Predictions Using anonymized location data from smartphones, Google Maps (Maps) can analyze the speed of movement of traffic at any given time. And, with its acquisition of crowdsourced traffic app Waze in 2013, Maps can more easily incorporate user-reported traffic incidents like construction and accidents. Access to vast amounts of data being fed to its proprietary algorithms means Maps can reduce  commutes by suggesting the fastest routes to and from work.   Image: Dijkstra’s algorithm (Motherboard) 2 –  Ridesharing Apps Like Uber and Lyft How do they determine the price of your ride? How do they minimize the wait time once you hail a car? How do these services optimally match you with other passengers to minimize detours? The answer to all these questions is ML. Engineering Lead for Uber ATC  Jeff Schneider discussed in an NPR interview how the company uses ML to predict rider demand to ensure that “surge pricing”(short periods of sharp price increases to decrease rider demand and increase driver supply) will soon no longer be necessary. Uber’s Head of Machine Learning Danny Lange confirmed Uber’s use of machine learning for ETAs for rides, estimated meal delivery times on UberEATS, computing optimal pickup locations, as well as for fraud detection.   Image: Uber heat map (Wired) 3 — Commercial Flights Use an AI Autopilot AI autopilots in commercial airlines is a  surprisingly early use of AI technology that dates as far back as 1914, depending on how loosely you define autopilot. The New York Times reports that the average flight of a Boeing plane involves only seven minutes of human-steered flight, which is typically reserved only for takeoff and landing. Glimpse into the future In the future, AI will shorten your commute even further via self-driving cars that result in up to 90% fewer accidents, more efficient ride sharing to  reduce the number of cars on the road by up to 75%, and smart traffic lights that reduce wait times by 40% and overall travel time by 26% in a pilot study. The timeline for some of these changes is unclear, as predictions vary about when self-driving cars will become a reality: BI Intelligence predicts fully-autonomous vehicles will debut in 2019; Uber CEO Travis Kalanick says the timeline for self-driving cars is “a years thing, not a decades thing”; Andrew Ng, Chief Scientist at Baidu and Stanford faculty member, predicted in early 2016 that self-driving cars will be mass produced by 2021. On the other hand, The Wall Street Journal interviewed several experts who say fully autonomous vehicles are decades away. Emerjalso discussed the timeline for a self-driving car with Eran Shir, CEO of AI-powered dashcam app Nexar, who believes virtual chauffeurs are closer than we think.   Email 1 – Spam Filters Your email inbox seems like an unlikely place for AI, but the technology is largely powering one of its most important features: the spam filter. Simple rules-based filters (i.e. “filter out messages with the words ‘online pharmacy’ and ‘Nigerian prince’ that come from unknown addresses”) aren’t effective against spam, because spammers can quickly update their messages to work around them. Instead, spam filters must continuously learn from a variety of signals, such as the words in the message, message metadata (where it’s sent from, who sent it, etc.). It must further personalize its results based on your own definition of what constitutes spam—perhaps that daily deals email that you consider spam is a welcome sight in the inboxes of others. Through the use of machine learning algorithms, Gmail successfully filters 99.9% of spam.   2 – Smart Email Categorization Gmail uses a similar approach to categorize your emails into primary, social, and promotion inboxes, as well as labeling emails as important. In a research paper titled, “The Learning Behind Gmail Priority Inbox”, Google outlines its machine learning approach and notes “a huge variation between user preferences for volume of important mail…Thus, we need some manual intervention from users to tune their threshold. When a user marks messages in a consistent direction, we perform a real-time increment to their threshold.” Every time you mark an email as important, Gmail learns. The researchers tested the effectiveness of Priority Inbox on Google employees and found that those with Priority Inbox “spent 6% less time reading email overall, and 13% less time reading unimportant email.” Glimpse into the future Can your inbox reply to emails for you? Google thinks so, which is why it  introduced smart reply toInbox in 2015, a next-generation email interface. Smart reply uses machine learning to automatically suggest three different brief (but customized) responses to answer the email. As of early 2016, 10% of mobile Inbox users’ emails were sent via smart reply. In the near future, smart reply will be able to provide increasingly complex responses. Google has already demonstrated its intentions in this area withAllo, a new instant messaging app which can use smart reply to provide both text and emoji responses.  Grading and Assessment    1 –Plagiarism Checkers Many high school and college students are familiar with services like Turnitin, a popular tool used by instructors to analyze students’ writing for plagiarism. While Turnitin doesn’t reveal precisely how it detects plagiarism, research demonstrates how ML can be used to develop a plagiarism detector. Historically, plagiarism detection for regular text (essays, books, etc.) relies on a having a massive database of reference materials to compare to the student text; however, ML can help detect the plagiarizing of sources that are not located within the database, such as sources in foreign languages or older sources that have not been digitized. For instance, two researchers used ML to predict, with 87% accuracy, when source code had been plagiarized. They looked at a variety of stylistic factors that could be unique to each programmer, such as average length of line of code, how much each line was indented, how frequent code comments were, and so on. The algorithmic key to plagiarism is the similarity function, which outputs a numeric estimate of how similar two documents are. An optimal similarity function not only is accurate in determining whether two documents are similar, but also efficient in doing so. A brute force search comparing every string of text to every other string of text in a document database will have a high accuracy, but be far too computationally expensive to use in practice. One MIT paper highlights the possibility of using machine learning to optimize this algorithm. The optimal approach will most likely involve a combination of man and machine. Instead of reviewing every single paper for plagiarism or blindly trusting an AI-powered plagiarism detector, an instructor can manually review any papers flagged by the algorithm while ignoring the rest. 2 –Robo-readers Essay grading is very labor intensive, which has encouraged researchers and companies to build essay-grading AIs. While their adoption varies among classes and educational institutions, it’s likely that you (or a student you know) has interacted with these “robo-readers’ in some way. The Graduate Record Exam (GRE), the primary test used for graduate school, grades essays using one human reader and one robo-reader called e-Rater. If the scores differ substantially, a second human reader is brought in to settle the discrepancy. This addresses the primary concern with robo-readers: if students can deduce the heuristics e-Rater’s use for determining their grade, they could easily exploit them to write nonsensical essays that would still score highly. This hybrid approach contrasts with how the ETS handles the SAT, where two human graders evaluate essays and a third is brought in if the scores differ substantially between the two humans. The synergistic approach in the former shows that by pairing human intelligence with artificial intelligence, the overall grading system costs less and accomplishes more. Glimpse into the future There are many promising avenues for AI to improve education in the future. One-size-fits-all classes may be replaced by personalized, adaptive learning that is tailored to each student’s individual strength and weaknesses. ML may also be used to identify at-risk students early on so that schools can focus extra resources on those students and decrease dropout rates. Banking/Personal Finance One of Emerj’s most popular guides is on machine learning in finance. While the guide discusses machine learning in an industry context, your regular, everyday financial transactions are also heavily reliant on machine learning. 1 – Mobile Check Deposits Most large banks offer the ability to deposit checks through a smartphone app, eliminating a need for customers to physically deliver a check to the bank. According to a 2014 SEC filing, the vast majority of major banks rely on technology developed by Mitek, which uses AI and ML to decipher and convert handwriting on checks into text via OCR.   Image: Mobile deposit (The New York Times) 2 – Fraud Prevention How can a financial institution determine if a transaction is fraudulent? In most cases, the daily transaction volume is far too high for humans to manually review each transaction. Instead, AI is used to create systems that learn what types of transactions are fraudulent. FICO, the company that creates the well-known credit ratings used to determine creditworthiness, uses neural networks to predict fraudulent transactions. Factors that may affect the neural network’s final output include recent frequency of transactions, transaction size, and the kind of retailer involved. 3 – Credit Decisions Whenever you apply for a loan or credit card, the financial institution must quickly determine whether to accept your application and if so, what specific terms (interest rate, credit line amount, etc.) to offer. FICO uses ML both in developing your FICO score, which most banks use to make credit decisions, and in determining the specific risk assessment for individual customers. MIT researchers found that machine learning could be used to reduce a bank’s losses on delinquent customers by up to 25%. Glimpse into the future Can a robot give you sound investing advice? That’s the premise behind upstarts like Wealthfront and Betterment, which attempt to automate the best practices of seasoned investors and offer them to customers at a much lower cost than traditional fund managers. In early 2016, Wealthfront announced it was taking an AI-first approach, promising “an advice engine rooted in artificial intelligence and modern APIs, an engine that we believe will deliver more relevant and personalized advice than ever before.” While there is no data on the long-term performance of robo-advisors (Betterment was founded in 2008, Wealthfront in 2011), they will become the norm for regular people looking to invest their savings. This is already happening with younger people—in the above announcement, Wealthfront notes that 60% of its customers are under the age of 35. Examples of Artificial Intelligence: Home Social Networking 1 – Facebook When you upload photos to Facebook, the service automatically highlights faces and suggests friends to tag. How can it instantly identify which of your friends is in the photo? Facebook uses AI to recognize faces. In a short video highlighting their AI research (below), Facebook discusses the use of artificial neural networks—ML algorithms that mimic the structure of the human brain—to power facial recognition software. The company has invested heavily in this area not only within Facebook, but also through the acquisitions of facial-recognition startups like Face.com, which Facebook acquired in 2012 for a rumored $60M, Masquerade (2016, undisclosed sum),  and Faciometrics (2016, undisclosed sum).  Image: Facebook’s facial recognition (Huffington Post) Facebook also uses AI to personalize your newsfeed and ensure you’re seeing posts that interest you, as discussed in an Emerj interview with Facebook’s Hussein Mehanna. And, of particular business interest to Facebook is showing ads that are relevant to your interests. Better targeted ads mean you’re more likely to click them and buy something from the advertisers—and when you do, Facebook gets paid. In the first quarter of 2016, Facebook and Google secured a total of 85% of the online ad market—precisely because of deeply-targeted advertisements. In June 2016, Facebook announced a new AI initiative: DeepText, a text understanding engine that, the company claims “can understand with near-human accuracy the textual content of several thousand posts per second, spanning more than 20 languages.” DeepText is used in Facebook Messenger to detect intent—for instance, by allowing you to hail an Uber from within the app when you message “I need a ride” but not when you say, “I like to ride donkeys.” DeepText is also used for automating the removal of spam, helping popular public figures sort through the millions of comments on their posts to see those most relevant, identify for sale posts automatically and extract relevant information, and identify and surface content in which you might be interested. 2 – Pinterest  Pinterest uses computer vision, an application of AI where computers are taught to “see,” in order to automatically identify objects in images (or “pins”) and then recommend visually similar pins. Other applications of machine learning at Pinterest include spam prevention, search and discovery, ad performance and monetization, and email marketing. 3 – Instagram Instagram, which Facebook acquired in 2012, uses machine learning to identify the contextual meaning of emoji, which have been steadily replacing slang (for instance, a laughing emoji could replace “lol”). By algorithmically identifying the sentiments behind emojis, Instagram can create and auto-suggest emojis and emoji hashtags. This may seem like a trivial application of AI, but Instagram has seen a massive increase in emoji use among all demographics, and being able to interpret and analyze it at large scale via this emoji-to-text translation sets the basis for further analysis on how people use Instagram. 4 – Snapchat Snapchat introduced facial filters, called Lenses, in 2015. These filters track facial movements, allowing users to add animated effects or digital masks that adjust when their faces moved. This technology is  powered by the 2015 acquisition of Looksery (for a rumored $150 million), a Ukranian company with patents on using machine learning to track movements in video. Glimpse into the future Facebook is betting that the future of messaging will involve conversing with AI chatbots. In early 2015, it  acquired Wit.ai, an engine that allows developers to create bots that easily integrate natural language processing into their software. A few months later, it opened its messenger platform to developers, allowing anyone to build a chatbot and integrate Wit.ai’s bot training capability to more easily create conversational bots. Slack, a social messaging tool typically used in the workplace, also allows third parties to incorporate AI-powered chatbots and has even invested in companies that make them. Soon, your shopping, errands, and day-to-day tasks may be completed within a conversation with an AI chatbot on your favorite social network.  GIF: Facebook-hosted chatbot (VentureBeat) Online Shopping 1 –Search Your Amazon searches (“ironing board”, “pizza stone”, “Android charger”, etc.) quickly return a list of the most relevant products related to your search. Amazon doesn’t reveal exactly how its doing this, but in a description of its product search technology, Amazon notes that its algorithms “automatically learn to combine multiple relevance features. Our catalog’s structured data provides us with many such relevance features and we learn from past search patterns and adapt to what is important to our customers.” 2 –Recommendations You see recommendations for products you’re interested in as “customers who viewed this item also viewed” and  “customers who bought this item also bought”, as well as via personalized recommendations on the home page,  bottom of item pages, and through email. Amazon uses artificial neural networks to generate these product recommendations. While Amazon doesn’t reveal what proportion of its sales come from recommendations, research has shown that recommenders increase sales (in this linked study, by 5.9%, but in other studies recommenders have shown up to a 30% increase in sales) and that a product recommendation carries the same sales weight as a two-star increase in average rating (on a five-star scale). 3 – (More) Fraud Protection Machine learning is used for fraud prevention in online credit card transactions. Fraud is the primary reason for online payment processing being more costly for merchants than in-person transactions. Square, a credit card processor popular among small businesses, charges 2.75% for card-present transactions, compared to 3.5% + 15 cents for card-absent transactions. AI is deployed to not only prevent fraudulent transactions, but also minimize the number of legitimate transactions declined due to being falsely identified as fraudulent. In a press release announcing the rollout of its AI technology, MasterCard noted that 13 times more revenue is lost to false declines than to fraud. By utilizing AI that can learn your purchasing habits, credit card processors minimize the probability of falsely declining your card while maximizing the probability of preventing somebody else from fraudulently charging it. Glimpse into the future The key to online shopping has been personalization; online retailers increase revenue by helping you find and buy the products you’re interested in. We may soon see retailers take it one step further and design your entire experience individually for you. Google already does this with search, even with users who are logged out, so this is well within the realm of possibility for retailers. Startups likeLiftIgniter offer “personalization as a service” to online businesses. Others, like Optimizely, allow businesses to run extensive “A/B tests”, where businesses can run multiple versions of their sites simultaneously to determine which results in the most engaged users.  Mobile Use 1 –Voice-to-Text A standard feature on smartphones today is voice-to-text. By pressing a button or saying a particular phrase (“Ok Google”, for example), you can start speaking and your phone converts the audio into text. Nowadays, this is a relatively routine task, but for many years, accurate automated transcription was beyond the abilities of even the most advanced computers. Google uses artificial neural networks to power voice search. Microsoft claims to have developed a speech-recognition system that can transcribe conversation slightly more accurately than humans. 2 – Smart Personal Assistants Now that voice-to-text technology is accurate enough to rely on for basic conversation, it has become the control interface for a new generation of smart personal assistants. The first iteration were simpler phone assistants like Siri and Google Now (now succeeded by the more sophisticated Google Assistant), which could perform internet searches, set reminders, and integrate with your calendar. Amazon expanded upon this model with the announcement of complimentary hardware and software components:  Alexa, an AI-powered personal assistant that accepts voice commands to create to-do lists, order items online, set reminders, and answer questions (via internet searches) Echo (and later, Dot) smart speakers that allow you to integrate Alexa into your living room and use voice commands to ask natural language questions, play music, order pizza, hail an Uber, and integrate with smart home devices.  Microsoft has followed suit with Cortana, its own AI assistant that comes pre-loaded on Windows computers and Microsoft smartphones. Glimpse into the future Smart assistants will be the key to bridging the gap between humans and “smart” homes. In October 2016, Google announced Google Home—its competitor to Amazon Echo that features deep integration with other Google products, like YouTube, Google Play Music, Nest, and Google Assistant. Through voice commands, users can play music; ask natural language questions; receive sports, news, and finance updates; call an Uber; and make appointments and reminders. According to market research firm Consumer Intelligence Research Partners, Amazon has sold over 5 million Echo devices as of November 2016; however, a month later Amazon’s press release boasted a 9x increase in Echo family sales over the previous year’s holiday sales, suggesting that 5 million sold is a significant underestimate. AI-assistants, while still not used by the majority of Americans, are rapidly spilling over into the mainstream. Facebook CEO Mark Zuckerberg showed what’s currently possible by spending a year building Jarvis, an imitation of the super-intelligent AI assistant in Robert Downey Jr.’s Iron Man films. In a Facebook post, he outlines connecting the myriad of home devices to one network; teaching Jarvis his preferences so it could play music and recognize friends at the door and let them in; building a Facebook messenger bot for Jarvis to issue text commands; and creating an iOS speech recognition app to issue voice commands. The primary limitation for Zuckerberg, a billionaire with daily access to the world’s best engineers, was not technology, but rather having devices that could easily communicate with each other and Jarvis in a central, unified system. This suggests that if Google or Amazon is successful in integrating their smart speakers with many other home devices (or proprietary versions), that Jarvis-like home AI would be available to anyone in the next five years.  Image: Mark Zuckerberg’s Jarvis Wrap Up We’ve only scratched the surface of examples of AI and ML in day-to-day life. Specific industries and hobbies have habitual interaction with AI far beyond what’s explored in this article. For example, casual chess players regularly use AI powered chess engines to analyze their games and practice tactics, and bloggers often use mailing-list services that use ML to optimize reader engagement and open-rates. How will AI affect daily life on a grand scale in the near future? Futurist and Wired magazine co-founder Kevin Kelly predicts that, as AI becomes more deeply integrated in our lives, it will become the new infrastructure powering a second industrial revolution. Emerj for Enterprise Leaders Many of the AI capabilities listed in this article have strong use-cases in business. At Emerj, we help business leaders discover where AI fits at their companies through our AI Opportunity Landscapes. Clients use AI Opportunity Landscapes to pick high ROI AI projects that allow them to keep up with their competitors and win market share. Contact us to find out where your company can take advantage of AI capabilities like machine vision, chatbots, and predictive analytics. Further reading for current and future uses of AI: Unseen Ways AI is Making the World a Better Place Three Scenarios for the Future of Work in the AI Economy How to Apply Machine Learning to Business Problems Artificial Intelligence Industry – An Overview by Segment   Image credit: Geek Photography Related Posts Examples of Artificial Intelligence in EducationThough yet to become a standard in schools, artificial intelligence in education has been taught… Artificial Intelligence Plus the Internet of Things (IoT) - 3 Examples Worth Learning FromThe Internet of Things (IoT) has the potential to fall into the general pit of… The Artificial Intelligence Tutor - The Current Possibilities of Smart Virtual LearningThe K-12 online tutoring market is a growing sector and is projected by market research… How Will Artificial Intelligence Affect the Future of Retail?After a presentation at the Shop!Association’s national conference late last year, I had plenty of… Machine Learning for Restaurants and Food Services - Examples, Challenges, TrendsThis year has been marked by an increase in artificial intelligence interest from new business… Share to: LinkedIn Twitter Facebook Email  3 Ways to Discover AI Trends in Any SectorSee critical AI applications and trends faster than ever. Uncover AI opportunity and ROI without getting caught up in hype.
+
+Download this succinct 4-page white paper: Get the White Paper",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNjaWVuY2Uub3JnL2NvbnRlbnQvYXJ0aWNsZS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1ldm9sdmluZy1hbGwtaXRzZWxm0gEA?oc=5,Artificial intelligence is evolving all by itself - Science,2020-04-13,Science,https://www.science.org,N/A,N/A,Advance replicates decades of AI research in days,Advance replicates decades of AI research in days,,,,,,,,,,,,N/A,N/A,"
+
+
+Artificial intelligence (AI) is evolving—literally. Researchers have created software that borrows concepts from Darwinian evolution, including ""survival of the fittest,"" to build AI programs that improve generation after generation without human input. The program replicated decades of AI research in a matter of days, and its designers think that one day, it could discover new approaches to AI. ""While most people were taking baby steps, they took a giant leap into the unknown,"" says Risto Miikkulainen, a computer scientist at the University of Texas, Austin, who was not involved with the work. ""This is one of those papers that could launch a lot of future research."" Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific tasks—for instance spotting road signs—and researchers can spend months working out how to connect them so they work together seamlessly.
+
+SIGN UP FOR OUR CAREERS NEWSLETTER
+Get great career content biweekly!
+Sign up
+
+
+In recent years, scientists have sped up the process by automating some steps. But these programs still rely on stitching together ready-made circuits designed by humans. That means the output is still limited by engineers' imaginations and their existing biases. So Quoc Le, a computer scientist at Google, and colleagues developed a program called AutoML-Zero that could develop AI programs with effectively zero human input, using only basic mathematical concepts a high school student would know. ""Our ultimate goal is to actually develop novel machine learning concepts that even researchers could not find,"" he says. The program discovers algorithms using a loose approximation of evolution. It starts by creating a population of 100 candidate algorithms by randomly combining mathematical operations. It then tests them on a simple task, such as an image recognition problem where it has to decide whether a picture shows a cat or a truck.Advertisement In each cycle, the program compares the algorithms' performance against hand-designed algorithms. Copies of the top performers are ""mutated"" by randomly replacing, editing, or deleting some of its code to create slight variations of the best algorithms. These ""children"" get added to the population, while older programs get culled. The cycle repeats. The system creates thousands of these populations at once, which lets it churn through tens of thousands of algorithms a second until it finds a good solution. The program also uses tricks to speed up the search, like occasionally exchanging algorithms between populations to prevent any evolutionary dead ends, and automatically weeding out duplicate algorithms. In a preprint paper published last month on arXiv, the researchers show the approach can stumble on a number of classic machine learning techniques, including neural networks. The solutions are simple compared with today's most advanced algorithms, admits Le, but he says the work is a proof of principle and he's optimistic it can be scaled up to create much more complex AIs. Still, Joaquin Vanschoren, a computer scientist at the Eindhoven University of Technology, thinks it will be a while before the approach can compete with the state-of-the-art. One thing that could improve the program, he says, is not asking it to start from scratch, but instead seeding it with some of the tricks and techniques humans have discovered. ""We can prime the pump with learned machine learning concepts."" That's something Le plans to work on. Focusing on smaller problems rather than entire algorithms also holds promise, he adds. His group published another paper on arXiv on 6 April that used a similar approach to redesign a popular ready-made component used in many neural networks. But Le also believes boosting the number of mathematical operations in the library and dedicating even more computing resources to the program could let it discover entirely new AI capabilities. ""That's a direction we're really passionate about,"" he says. ""To discover something really fundamental that will take a long time for humans to figure out.""
+
+
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvdG9tdGF1bGxpLzIwMjAvMDQvMTEvYWktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcHJvamVjdHMtd2hlcmUtdG8tc3RhcnQv0gEA?oc=5,AI (Artificial Intelligence) Projects: Where To Start? - Forbes,2020-04-11,Forbes,https://www.forbes.com,Focus on the pain points and make sure you have buy-in.,,Focus on the pain points and make sure you have buy-in.,Focus on the pain points and make sure you have buy-in.,http://schema.org,BreadcrumbList,AI (Artificial Intelligence) Projects: Where To Start?,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/5e91e9f381295f00079a210b/0x0.jpg?format=jpg&crop=7952,4473,x0,y10,safe&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Tom Taulli', 'url': 'https://www.forbes.com/sites/tomtaulli/', 'description': 'Tom (@ttaulli) is the author of Artificial Intelligence Basics: A Non-Technical Introduction ( https://amzn.to/2InAZeT) and The Robotic Process Automation Handbook: A Guide to Implementing RPA Systems ( https://amzn.to/2tURWJx)', 'sameAs': ['https://www.linkedin.com/in/tomtaulli', 'https://www.twitter.com/ttaulli', 'http://www.taulli.com/', 'ttaulli']}",,,"{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",,2020-04-22T18:58:20-04:00,2020-04-11T12:22:06-04:00,Entrepreneurs,N/A,"More From ForbesJun 13, 2024,12:58pm EDTAmerica’s New Startup Boom Emerges In Legacy CitiesMay 6, 2024,09:43am EDTThe Future Of Entrepreneurship In IndiaMay 6, 2024,09:36am EDTDoha Dispatches: Katherine Maher, Loren Gray, AI Apps And MansplainingMar 5, 2024,08:26am ESTHRH Princess Lamia: Satellite Data Offers Way To Slow DeforestationFeb 27, 2024,12:23pm ESTThe Future Of Data Storytelling Is Augmented, Not AutomatedJan 31, 2024,10:25pm ESTAn Innovator Aims To Fix The U.S.’s Broken System Of Mother-Baby CareJan 31, 2024,10:04pm ESTWhen Does Pumped Breast Milk Go Bad? An Innovation From Real LifeEdit StoryForbesSmall BusinessEntrepreneursAI (Artificial Intelligence) Projects: Where To Start?Tom TaulliFormer ContributorOpinions expressed by Forbes Contributors are their own.I write about tech & finance.Click to save this article.You'll be asked to sign into your Forbes account.Got itApr 11, 2020,12:22pm EDTUpdated Apr 22, 2020, 06:58pm EDTThis article is more than 4 years old.Share to FacebookShare to TwitterShare to LinkedinGUI (Graphical User Interface) concept.Getty
+Artificial Intelligence (AI) is clearly a must-have when it comes to being competitive in today’s markets. But implementing this technology has been challenging, even for some of the world’s top companies. There are issues with data, finding the right talent and creating models that generate sufficient ROI.
+
+
+As a result, many AI projects fail. According to IDC, only abut 35% of organizations succeed in getting models into production successfully.
+
+“While we see AI technologies performing a swath of incredible feats such as Google Translate, AlphaGo, and solving a rubik's cube, it can be hard to tell which business problems AI is apt to solve,” said Ankur Goyal, who is the CEO at Impira. “This has led to a lot of confusion—and a vendor community that has taken advantage of it by labeling things as AI when they aren’t. It’s very reminiscent of early last decade when cloud technologies took off and we had a lot of cloud washing going on. We had vendors marketing themselves as cloud players when their offerings were vaporware. Similarly, we are going through a period of AI washing now.”
+
+So then, if your company is thinking of implementing AI, what is the best way to start? How can you help boost the odds of success and avoid the pitfalls?
+
+Here’s a look at some strategies:
+PROMOTED
+MORE FOR YOUBlackRock CEO Issues ‘Massive’ Warning After Crypto Flip That Powered A Bitcoin, Ethereum And XRP Price BoomIngrid Andress’ National Anthem At 2024 Home Run Derby Draws Criticism OnlineApple iPhone 16 Pro Design Upgrade Promises Key Feature Boost, Report Says
+Beware Of The Hype
+AI is not magic. It will not solve all your company’s problems.  Rather, you need to take a realistic approach to the technology.
+“Unlike traditional data analytics, machine learning (ML) models that power AI are not always going to offer clear-cut answers,” said Santiago Giraldo, who is the Senior Product Marketing Manager of Data Engineering at Cloudera. “Implementing AI into the business requires experimentation and an understanding that not every experiment is going to drive ROI. When an AI project is successful, it is often built on top of many failed data science experiments. Taking a portfolio approach to ML and AI enables greater longevity in projects and the ability to build on the successes more effectively in the future.”
+Governance First
+You don’t want to spend time and money on a project and then realize there are legal or compliance restrictions. This could easily mean having to abandon the effort.
+“First, customer data should not be used without permission,” said Debu Chatterjee, who is the senior director of platform AI engineering at ServiceNow. “Secondly, bias from data should be mitigated. Any model which is a black box and cannot be tested through APIs for bias should be avoided. The risk of bias is present in nearly any AI model, even in an algorithmic decision, regardless of whether the algorithm was learned from data or written by humans.”
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+Identify the Problem To Be Solved
+In the early phases of an AI project, there should be lots of brainstorming. This should also involve a cross-section of people in the organization, which will help with buy-in. The goal is to identify a business problem to be solved. 
+
+
+1/100:08Forbes Leadership
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingHow Parents Can Juggle Work And Support Their Child’s Educationafter the adVisit Advertiser websiteGO TO PAGE
+“For many companies, the problem is that they start with a need for technology, and not with an actual business need,” said Colin Priest, who is the VP of AI Strategy at DataRobot. “It reminds me of this famous quote from Steve Jobs, ‘You’ve got to start with the customer experience and work backwards to the technology. You can’t start with the technology and try to figure out where you’re going to sell it.’”
+The problem to be solved should also be specific–that is, something that can be measured–and narrow. Don’t boil the ocean.
+“It is the small steps that count,” said Mike Brooks, who is the Senior Director of APM Consulting at Aspen Technology. “Do not make the mistake of trying to make AI work for everything, all at once. After analyzing value for each AI initiative, the real benefits come when it solves a very specific goal.”
+Costs
+While it is important to estimate the ROI of a project, there is often too little attention paid to the cost side of the equation. But this can lead to disappointment. After all, it is never fun to be over budget on a corporate initiative. 
+“Companies looking to implement an AI project should start by looking at the cost of the operation and doing an analysis on how that cost structure compares to best practices,” said Jerry Kurtz, who is the EVP and Head of I&D at Capgemini North America. “The cost of storing and transforming data is typically 70% of the budget, and only brings 10% of the value. Being able to leverage AI to solve business problems is only 30% of the cost, and brings 90% of the value. If an organization can reduce data costs and improve data quality, they’ll have more budget to put toward leveraging AI to solve those business problems, like improving productivity and efficiency.”
+Buy-In
+Implementing AI can be wrenching for an organization.  Employees may be skeptical of the technology and could fear for their jobs. 
+This is why there needs to be focus on getting buy-in, which means having clear communication of the benefits. It should also involve a commitment from the C-Suite. Consider that—according to a recent survey from O’Reilly—the biggest bottleneck for AI is an unsupportive culture. 
+“For AI to succeed you must have the buy-in of your workforce and the right employee upskilling programs,” said Anand Rao, who is the Global AI Lead at PwC. “You can’t simply offer AI training courses to employees; you need to go further and offer both immediate opportunities and incentives to apply what they’ve learned. Furthermore, business stakeholders and end-users—not just the tech staff—need to be included from the beginning of any project. If they’re not brought in at the start, your organization risks building a solution that does not work for the people who will be using it.”
+Tom (@ttaulli) is the author of Artificial Intelligence Basics: A Non-Technical Introduction and The Robotic Process Automation Handbook: A Guide to Implementing RPA Systems.
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Tom TaulliTom (@ttaulli) is the author of Artificial Intelligence Basics: A Non-Technical Introduction ( https://amzn.to/2InAZeT) and The Robotic Process... Read MoreEditorial StandardsPrintReprints & Permissions
+1/100:00How Toto Wolff Became CEO Of Mercedes F1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingHow Toto Wolff Became CEO Of Mercedes F1after the adVisit Advertiser websiteGO TO PAGE",https://www.forbes.com/sites/tomtaulli/2020/04/11/ai-artificial-intelligence-projects-where-to-start/,Entrepreneurs,AI (Artificial Intelligence) Projects: Where To Start?,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Small Business', 'item': 'https://www.forbes.com/small-business/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Entrepreneurs', 'item': 'https://www.forbes.com/entrepreneurs/'}]",,,,,
+https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc29jaWFsLWlubm92YXRpb24uaGl0YWNoaS9lbi1ldS9zdG9yaWVzL2NvbW11bml0aWVzL2Z1dHVyZS13b3JrL9IBAA?oc=5,The future of work : Social Innovation : Hitachi - Hitachi Social Innovation,2020-04-13,Hitachi Social Innovation,https://social-innovation.hitachi,N/A,N/A,N/A,N/A,https://schema.org,NewsArticle,The future of work,,,,,,,2020-04-24T09:31:43Z,2019-12-01T00:00:00Z,N/A,N/A,N/A,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50ZWNodGFyZ2V0LmNvbS9oZWFsdGh0ZWNoYW5hbHl0aWNzL25ld3MvMzY2NTkxNjk4L01pY3Jvc29mdC1HaXZlcy0yME0tdG8tRmlnaHQtQ09WSUQtMTktd2l0aC1BcnRpZmljaWFsLUludGVsbGlnZW5jZdIBAA?oc=5,Microsoft Gives $20M to Fight COVID-19 with Artificial Intelligence - TechTarget,2020-04-13,TechTarget,https://www.techtarget.com,"The grant will support COVID-19-related research efforts in artificial intelligence, data science, and diagnostics.",N/A,"Microsoft is donating $20 million to help COVID-19-related research efforts in artificial intelligence, data science, and diagnostics.","Microsoft is donating $20 million to help COVID-19-related research efforts in artificial intelligence, data science, and diagnostics.",https://schema.org,NewsArticle,Microsoft Gives $20M to Fight COVID-19 with Artificial Intelligence,https://cdn.ttgtmedia.com/rms/onlineimages/machine_learning_g1205538888.jpg,"[{'name': 'Jessica Kent', '@type': 'Person'}]",,,"{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}","{'@type': 'WebPage', '@id': 'https://www.techtarget.com/healthtechanalytics/news/366591698/Microsoft-Gives-20M-to-Fight-COVID-19-with-Artificial-Intelligence'}",,2020-04-13T06:52Z,N/A,N/A,"
+
+
+Getty Images
+Getty Images
+
+
+
+
+
+News
+
+
+Microsoft Gives $20M to Fight COVID-19 with Artificial Intelligence
+
+
+The grant will support COVID-19-related research efforts in artificial intelligence, data science, and diagnostics. 
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Jessica Kent
+
+
+Published: 13 Apr 2020
+
+
+ 
+Microsoft is dedicating $20 million to advance the use of artificial intelligence and data science in COVID-19 research, with a particular focus on diagnostics, hospital resources, and other critical areas.
+
+
+
+
+
+
+
+For more coronavirus updates, visit our resource page, updated twice daily by Xtelligent Healthcare Media.
+The donation will bolster the efforts of Microsoft’s AI for Health initiative, a five-year, $40 million project that aims to advance the health of people and communities around the world.
+“As of the time of writing, the COVID-19 virus has infected more than 1.4 million people around the world. The crisis has made it painfully clear that health transcends every border, impacting every person on the planet,” John Kahan, chief data analytics officer at Microsoft, wrote in a blog post.
+“Given the urgency, we are mobilizing our AI for Health initiative to focus on helping those on the front lines of research of COVID-19. We’re focusing our efforts in five specific areas where we think data, analysis and the skills of our data scientists can have the biggest impact.”
+COVID-19-related research efforts will focus on data and insights to inform safety and economic impacts, as well as the development of vaccines, therapeutics and diagnostics. Research will also explore the allocation of resources at hospitals across the country, dissemination of accurate information, and scientific studies to understand COVID-19.
+“Data and computation will help light the path to mitigating the pandemic. We’re passionate about aiming our computing resources and expertise at empowering those with the most promising directions, including efforts in biomedicine, logistics, epidemiology and public health,” said Eric Horvitz, Microsoft’s Chief Scientific Officer.
+The donation is part of Microsoft’s larger commitment to combating COVID-19. The corporation is working to support remote education and empower students around the world, helping businesses work from home, and securing needed medical supplies.
+“Given the global scale of the pandemic, technology will play a critical role in nearly every facet of addressing COVID-19, from using AI to crunch massive datasets to analyzing disease vectors and identifying treatment impacts,” Kahan said.
+“We will collaborate with nonprofits, governments and academic researchers on solutions, and bring our experience to the table, providing access to Microsoft AI, technical experts, data scientists and other resources.”
+Microsoft has already engaged in several key partnerships to accelerate the fight against COVID-19, including the COVID-19 High Performance Computing Consortium, a public-private effort led by the White House Office of Science and Technology Policy. As part of the consortium, Microsoft is offering researchers access to the world’s most powerful computing resources, helping to speed the pace of scientific discovery during the COVID-19 pandemic.
+Microsoft has also partnered with the Institute for Health Metrics and Evaluation (IHME), a global health research organization at the University of Washington School of Medicine. The institute is releasing a set of COVID-19 data visualizations and forecasts that the White House, governors, and hospital administrators can use to mobilize resources.
+Additionally, Microsoft is collaborating with the Washington State Department of Health on a dashboard that aims to increase the speed, timeliness, and accuracy of data reporting to the public. The dashboard relies on data reported by local health jurisdictions, healthcare facilities, and labs.
+Finally, to better track understanding and progress against COVID-19, Microsoft has developed a set of interactive visualizations that the company will continue to update and refine with new data and insights.
+Combating the COVID-19 pandemic, a global challenge, is well-suited for the goals of Microsoft’s AI for Health initiative. Launched in January 2020, AI for Health is designed to empower nonprofits, researchers, and organizations with AI and data science tools.
+“Through AI for Health, we will support specific nonprofits and academic collaboration with Microsoft’s leading data scientists, access to best-in-class AI tools and cloud computing, and select cash grants. As a tech company, it is our responsibility to ensure that organizations working on the most pressing societal issues have access to our latest AI technology and the expertise of our technical talent,” Kahan said when Microsoft announced the initiative.
+“We look forward to working with researchers, academics, nonprofits, health industry professionals and policymakers around the world as we accelerate research and insights. Together, we can improve the health of people and communities globally.”
+With this $20 million contribution, Microsoft expects to accelerate the speed with which researchers and healthcare professionals understand and develop solutions for COVID-19.
+“COVID-19 is a global problem and finding a solution will take all our efforts. We are humbled and honored to work with researchers across the globe and support them with this additional dedicated support from AI for Health,” Kahan concluded.
+
+Next Steps
+Tool Helps Hospitals Plan for Critical Care Surges During COVID-19
+
+
+
+
+
+Dig Deeper on Artificial intelligence in healthcare
+
+
+
+Deep learning links lung shape differences and COVID-19 severity
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+UAE improves healthcare through information technology
+
+
+
+
+By: Pat Brans
+
+
+
+
+Florida Researchers to Use AI to Track Coronavirus Variants
+
+
+
+
+
+Using machine learning to address COVID-19 vaccine hesitancy
+
+
+
+
+By: Esther Ajao
+
+
+
+
+
+
+
+Sponsored News
+
+
+Flexible IT: When Performance and Security Can’t Be Compromised
+–Dell Technologies
+
+
+Hybrid Cloud, Consumption-Based IT: Empowering Transformation in Healthcare ...
+–HPE
+
+
+Three Innovative AI Use Cases for Natural Language Processing
+–Dell Technologies
+
+See More
+
+
+
+
+
+Related Content
+
+
+Mount Sinai Receives Microsoft Grant for COVID-19 ...
+– Healthtech Analytics
+
+
+Microsoft Launches $40M Healthcare Artificial ...
+– Healthtech Analytics
+
+
+Microsoft launches AI for Health initiative
+– Enterprise AI
+
+
+
+
+
+
+
+
+",,,Microsoft Gives $20M to Fight COVID-19 with Artificial Intelligence,False,,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",,,,
+https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYmVjb21pbmdodW1hbi5haS9haS1mb3ItY2ZkLWludHJvLXBhcnQtMS1kMTE4NDkzNmZjNDfSAQA?oc=5,AI for CFD: Intro (part 1). First part of byteLAKE’s story about… | by Marcin Rojek - Becoming Human: Artificial Intelligence Magazine,2020-04-15,Becoming Human: Artificial Intelligence Magazine,https://becominghuman.ai,"Thank you for stopping by! This is the first part, a kind of introductory story to a series where I will be describing my company’s efforts and progress in bringing AI (Artificial Intelligence) to…",N/A,First part of byteLAKE’s story about bringing AI to the world of CFD (Computational Fluid Dynamics).,First part of byteLAKE’s story about bringing AI to the world of CFD (Computational Fluid Dynamics).,http://schema.org,NewsArticle,AI for CFD: Intro (part 1) - Becoming Human: Artificial Intelligence Magazine,['https://miro.medium.com/v2/resize:fit:1200/1*OXXzjska203GU1FvQLHUdw.jpeg'],"{'@type': 'Person', 'name': 'Marcin Rojek', 'url': 'https://marcrojek.medium.com'}",,,"{'@type': 'Organization', 'name': 'Becoming Human: Artificial Intelligence Magazine', 'url': 'becominghuman.ai', 'logo': {'@type': 'ImageObject', 'width': 146, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:292/1*1fYpRTTpKQNa0zuEPe3itg.png'}}",https://becominghuman.ai/ai-for-cfd-intro-part-1-d1184936fc47,2021-12-14T04:52:27.637Z,2020-04-15T18:31:23.672Z,N/A,N/A,"AI for CFD: Intro (part 1)Marcin Rojek·FollowPublished inBecoming Human: Artificial Intelligence Magazine·6 min read·Apr 15, 2020873ListenShareSourceThank you for stopping by! This is the first part, a kind of introductory story to a series where I will be describing my company’s efforts and progress in bringing AI (Artificial Intelligence) to the world of CFD (Computational Fluid Dynamics). We believe it will be a complete game-changer for many industries, not only bringing speedup and cutting TCO (Total Cost of Ownership) but most importantly, offering entirely new possibilities for the CFD users. These 3 elements are also the goals for us as a company, and I will be referring to them in my subsequent stories while sharing the progress of this fascinating research project at byteLAKE. So let me say, welcome to the AI for CFD, season premiere. Follow us on a journey to bring your CFD work to a very new level. Also, you are very welcome to join the discussions and actively participate in the groups I linked below. We’re really looking forward to hearing your comments, and hopefully, our work will inspire you to open up your thoughts with us.byteLAKE’s CFD Suite: AI for CFDAI for CFD will be a complete game-changer for many industries, not only bringing speedup and cutting TCO but most importantly, offering entirely new possibilities for the CFD users.I am pretty sure that the audience of this story is very well familiar with what the CFD is and I bet most of you bring tons of precious experience in the field. But just in case you landed here by chance or out of sheer curiosity or simply wonder how to pave your way to getting started with fluid dynamics, let me start by saying a few words of definition. In that context, and I will explain it in more detail in my future posts, we’re also thinking of lowering the entry barrier for those who want to get started with CFD simulations to solve particular engineering problems. In other words, part of our job is to make the CFD learning curve much steeper: straight forward tools you need to rapidly solve complex problems.CFD, Computational Fluid Dynamics tools combine numerical analysis and algorithms to solve fluid flows problems. They are used to model fluids density, velocity, pressure, temperature, and chemical concentrations in relation to time and space.A range of industries such as automotive, chemical, aerospace, biomedical, power and energy, and construction rely on fast CFD analysis turnaround time. It is a key part of their design workflow to understand and design how liquids and gases flow and interact with surfaces.Typical applications include weather simulations, aerodynamic characteristics modeling and optimization, and petroleum mass flow rate assessment.As a company, we’ve been working in the CFD field for many years now. We are not your typical CFD user or adopter. Our take on the subject is more from the algorithmics perspective and its adaptation or optimization (if you like) to various, heterogeneous HPC configurations.For instance, one of the projects we did was about moving weather simulation engine from Fortran-based desktop implementation to a fully scalable, MPI-enabled C++ & NVIDIA CUDA optimized version. Needless to say, the work included a tremendous effort to mathematically redesign the computations, as well as reorganize the data to efficiently deploy it in many-CPU and many-GPU cluster environments. One such was Piz Daint supercomputer in Switzerland (still the fastest supercomputer in Europe). We’ve summarized some of the key parts of that project in the case study on our website: www.byteLAKE.com/en/MPDATA (CFD acceleration with GPU).Then, we shifted our gears towards FPGAs, a story that led us to explore the potential of datacenter accelerator cards named Alveo. In collaboration with Xilinx, we designed from scratch the Advection algorithm and adapted it heavily to the U250 and later U280 Alveo boards. Again, straight-forward porting was not an option due to hardware specifics and our ambition to make the most of it. We decided to go with OpenCL though. However, in that particular example, our code reached almost 99% of the attainable performance. Hence, we saw no reason for moving to C++. Eventually, as in the previous case, we saw some interesting acceleration numbers. What is different though, we achieved these within extremely low energy budgets, positioning the Alveo-based configurations as a preferred accelerator if Green Computing is on your agenda. We’ve described all the technical details at www.byteLAKE.com/en/FPGA as well as in a linked technical blog post.Jobs in Big DataBoth of these experiences (and many other, similar in scope) led us to a conclusion that:CFD adaptation to hardware accelerator cards, while promising in many cases, certainly does not bring substantially new value to the industries.The speedup offered by GPUs and FPGAs is definitely of value. Energy efficiency concerns seem to be gaining a wider audience, pushing the engineers further towards more efficient designs. However, we need to remember that CFD codes have primarily been designed for and still are heavily being customized for CPU-only machines. Therefore adaptation to heterogeneous architectures comes at a cost. A substantial one to be honest. And while such efforts are indeed interesting and just referring to the case studies I linked above, “CFD on steroids” makes sense in many cases. However, we as a company see it as an intermediate step, leading to a completely new, refreshed approach to the engineering simulations as a whole.Beyond HPC, it is AI that we as a team always strive to leverage everywhere we possibly can to augment the intelligence of humans, machines, and even algorithms. Therefore we have been experimenting with applied machine learning for CFD for quite some time. The first time we successfully used it, was probably in combination with a mixed-precision arithmetic to further increase the efficiency of calculations in terms of shortening the time to results and lowering the energy consumption. Then we modeled a simplified advection of sin(x) * cos(y) by predicting its result with a custom-designed AI model, based on machine learning and 2D convolution. We trained the model with 1000 time steps. As a result, it needed only 3 time steps of simulation to predict the next 100 time steps. And the accuracy loss was under 0.001. Quite a simple scenario to start with and we are now tackling on a way more complex simulations, details of which I will be covering in the next parts of this series.Top 4 Most Popular Ai Articles:1. 10 trends of Artificial Intelligence (AI)2. Tutorial: Stereo 3D reconstruction with openCV using an iPhone camera3. 100 days to Deep Learning: Part 2 the 100 days4. Bursting the Jargon bubbles — Deep LearningAs a sneak peek preview, we have just completed the full simulation of the OpenFOAM’s (OPENFOAM®) motorBike and used AI to predict its first returning matrix. At this very early stage, the accuracy of calculations is 95% (as compared between AI vs. motorBike solver results). We are now focusing on accuracy and memory optimizations. I will share more soon.So if you are working in the AI + CFD field or are curious about the topic, feel free to reach out to me. I am always looking forward to hearing your perspective on the subject. Also, if you have your thoughts about what AI could or should do for CFD, what benefits you’d expect to see, or would warmly welcome, do leave your comment below.—Since I used the OpenFOAM name, a short disclaimer: OPENFOAM® is a registered trade mark of OpenCFD Limited, producer and distributor of the OpenFOAM software via www.openfoam.com.Don’t forget to give us your 👏 !",https://becominghuman.ai/ai-for-cfd-intro-part-1-d1184936fc47,,AI for CFD: Intro (part 1) - Becoming Human: Artificial Intelligence Magazine,,,,2020-04-15T18:31:23.672Z,d1184936fc47,['Marcin Rojek'],
+https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3dhY2hoaW5kaWEubmR0di5jb20vcXVhcmFudGluZS1zb2NpYWwtZGlzdGFuY2luZy1iZXN0LXRvb2xzLXRvLWZpZ2h0LWNvcm9uYXZpcnVzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWV4cGVydC00MzQ1Ny_SAYMBaHR0cHM6Ly9zd2FjaGhpbmRpYS5uZHR2LmNvbS9xdWFyYW50aW5lLXNvY2lhbC1kaXN0YW5jaW5nLWJlc3QtdG9vbHMtdG8tZmlnaHQtY29yb25hdmlydXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZXhwZXJ0LTQzNDU3L2FtcC8?oc=5,"Quarantine, Social Distancing Best Tools To Fight Coronavirus: Artificial Intelligence Expert - Swachh India NDTV",2020-04-15,Swachh India NDTV,https://swachhindia.ndtv.com,"According to an Artificial Intelligence expert, AI promises to make life better and healthier but old-fashioned measures like quarantine and self-isolation can help win the war against coronavirus",N/A,"According to an Artificial Intelligence expert, AI promises to make life better and healthier but old-fashioned measures like quarantine and self-isolation can help win the war against coronavirus","According to an Artificial Intelligence expert, AI promises to make life better and healthier but old-fashioned measures like quarantine and self-isolation can help win the war against coronavirus",https://schema.org,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+Home/News/Quarantine, Social Distancing Best Tools To Fight Coronavirus: Artificial Intelligence Expert
+
+
+
+News
+Quarantine, Social Distancing Best Tools To Fight Coronavirus: Artificial Intelligence Expert
+According to an Artificial Intelligence expert, AI promises to make life better and healthier but old-fashioned measures like quarantine and self-isolation can help win the war against coronavirus
+
+
+
+ 
+
+
+Press Trust Of India  | 
+
+
+April 15, 2020
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HighlightsAn AI expert was the first to identify signs of COVID-19 pandemicSocial distancing along with AI can help win the war against COVID-19Expert says that AI will change the world dramatically in coming yearsNew Delhi: Artificial Intelligence (AI) is being used across many levels in the fight against the coronavirus, but the best tools to tackle any pandemic are quarantine and social distancing, asserts one of the world’s leading AI experts Toby Walsh. He says an AI epidemiologist was the first to identify the first signs of the pandemic, scanning millions of tweets and blog posts to pinpoint a new disease coming out of Wuhan back in December 2019. Mr. Walsh who is Scientia Professor of AI at the University of New South Wales and a fellow of the Australian Academy of Science said,
+AI can be (and is being) used across many levels of the fight to beat the coronavirus. AI is also being used in the diagnosis, treatment, and prevention of COVID-19. Technology will help. But old-fashioned tools will help win the war. The best tool we have is the oldest – the one we’ve used for 700 years against any pandemic, namely quarantine. In Venice in 1377, ships from plague-stricken countries were forced to wait off its port for 40 days to assure that no latent cases were aboard.
+Also Read: Explainer: What Is The Difference Between Pandemic And Epidemic?
+He further said that the next best tool that will help us prevent the spread is social distancing. Technologies like AI will help on top of this. But it is these simple, blunt and old tools that will ultimately decide how many people die, he say.
+On the role of AI in the fight against this deadly virus, he says,
+AI is being used in the hunt to search for existing drugs that can be repurposed to fight the disease. It is also being used to understand the biochemistry of the coronavirus. Besides, AI help is taken to diagnose those infected with COVID-19 by reading CT-scans for the distinctive patterns on people’s lungs.
+Mr. Walsh has recently come out with a book “2062: The World that AI Made” in which he explores the impact artificial intelligence will have on work, war, economics, politics, everyday life and even human death. He started writing the book, published by Speaking Tiger, the day he finished reading Yuval Noah Harari’s “Home Deus”. He says,
+AI is a profound technology that will change the very fabric of our society. But we won’t become gods. In fact, it’s quite the opposite. It is our mortality and our humanity that will become deeply important as the features that will distinguish us from the immortal and omnipotent machines that we will create.
+Also Read: Doctors, Healthcare Workers Deputed At COVID-19 Wards Share Their Challenges, Apprehensions As Crisis Deepens
+When Mr. Walsh finished writing the book, his eight-year-old daughter asked him what it was about. He recalls,
+I told her the book was about the world she will inherit. How will the world in 40 or 50 years be when machines are as smart if not smarter than us, when machines can do almost all our jobs. Will these machines even be conscious? What will our society be like then? And then I did the maths, and in 2062, she will be exactly my age to the year. This book focuses on the year 2062. Most experts in AI believe that there’s a 50 per cent chance we will have created machines that can think as well as us by 2062.
+Artificial Intelligence, says Mr. Walsh, will change the world dramatically. He adds,
+We need, therefore, to think big about the changes we should make to society today if we are to ensure that the world of 2062 is the one we want. If we make the right choices, AI promises to make life better – not just for the few but for the many. It can let us all live healthier, wealthier and perhaps even happier lives.
+Also Read: The Decision To Lockdown India Was Taken Early And It Was Smart But Testing Needs To Scale Up: Expert On Country’s Fight Against Coronavirus
+[corona_data_new]
+																											
+
+
+Related Topics:Coronavirus Swasth India
+
+
+
+
+
+
+
+
+
+
+Up Next
+Social Distancing Necessary Until 2022 To Prevent COVID-19 Seasonal Outbreaks: Study
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don't Miss
+Drowning In Plastic: Visualising The World’s Addiction To Plastic Bottles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may like
+
+
+
+
+
+  
+
+Delhi Sees Dengue Spike, Karnataka Offers Free Testing And Treatment
+
+
+
+
+
+
+  
+
+Water And Sanitation Department Joins Campaign Against Diarrhoea
+
+
+
+
+
+
+  
+
+Delhi Health Minister Chairs Meeting Over Preparedness Against Dengue, Malaria
+
+
+
+
+
+
+  
+
+Kerala Climate Activist, Kallur Balan Devotes His Life To Environmental Conservation
+
+
+
+
+
+
+  
+
+Uttar Pradesh Becomes First State To Generate One Crore Tokens Through ABHA ID
+
+
+
+
+
+
+  
+
+समावेश संग सेवा: द ट्रांस कैफे, जहां सपनों को मिलती है उड़ान
+
+
+
+ 
+
+Click to comment
+
+
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name * 
+Email * 
+
+
+ − 
+2
+ = 
+three
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+ Reckitt’s Commitment To A Better Future
+
+
+
+
+
+
+
+  
+
+
+Self Care For New Moms And Kids Under Five, An Initiative By Reckitt Joins Forces With Government’s ‘Stop Diarrhoea Campaign’
+
+
+
+
+
+
+
+
+
+  
+
+
+Press Release: Mortein Celebrates World Malaria Day 2024 In Bareilly, Intensifies Efforts To Make Bareilly Malaria-Free
+
+
+
+
+
+
+
+
+
+
+
+
+World Malaria Day Special
+
+
+
+
+
+
+
+
+
+  
+
+
+OHO Hill Yatra Campaign Presented By Dettol Banega Swasth India – Dettol Climate Resilient School Witnessed A Grand Finale In Dehradun
+
+
+
+
+
+
+
+
+
+  
+
+
+Best Of 2023: Banega Swasth India Campaign Turns 10
+
+
+
+
+
+
+
+
+
+                                    More Reckitt’s Commitment To A Better Future                                
+
+
+
+
+Latest News
+
+
+
+
+
+
+  
+
+
+
+Health5 days ago
+
+Delhi Sees Dengue Spike, Karnataka Offers Free Testing And Treatment
+As of July 6, Delhi recorded over 256 dengue cases, which is nearly double of the 136 cases recorded in...
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Climate Change1 week ago
+
+June Warmest On Record; Every Month Since July 2023 Breached 1.5 Degrees Celsius Threshold
+Several countries experienced record-breaking heat and devastating floods and storms in June due to climate change
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Madhya Pradesh1 week ago
+
+Madhya Pradesh CM Mohan Yadav Kick-Starts ‘Ek Ped Maa Ke Naam’ Campaign In Bhopal
+Madhya Pradesh Chief Minister Mohan Yadav, accompanied by state BJP head V. D. Sharma, planted a sapling at Jamburi Maidan...
+
+
+
+
+
+
+
+  
+
+
+
+
+",,,,,,,,,,"[{'@type': 'Article', '@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#article', 'isPartOf': {'@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/'}, 'author': [{'@id': 'https://swachhindia.ndtv.com/#/schema/person/3ce9877301ad31c1a03737bdb1d92675'}], 'headline': 'Quarantine, Social Distancing Best Tools To Fight Coronavirus: Artificial Intelligence Expert', 'datePublished': '2020-04-15T13:36:03+00:00', 'dateModified': '2020-04-15T13:38:15+00:00', 'mainEntityOfPage': {'@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/'}, 'wordCount': 675, 'commentCount': 0, 'publisher': {'@id': 'https://swachhindia.ndtv.com/#organization'}, 'image': {'@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#primaryimage'}, 'thumbnailUrl': 'https://w.ndtvimg.com/sites/3/2020/04/15190041/660x330-artificial-intelligence.jpg', 'keywords': ['Coronavirus', 'Swasth India'], 'articleSection': ['Coronavirus Outbreak', 'News', 'Swasth India'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#respond']}]}, {'@type': 'WebPage', '@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/', 'url': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/', 'name': 'Quarantine, Social Distancing Best Tools To Fight Coronavirus: Artificial Intelligence Expert | News', 'isPartOf': {'@id': 'https://swachhindia.ndtv.com/#website'}, 'primaryImageOfPage': {'@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#primaryimage'}, 'image': {'@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#primaryimage'}, 'thumbnailUrl': 'https://w.ndtvimg.com/sites/3/2020/04/15190041/660x330-artificial-intelligence.jpg', 'datePublished': '2020-04-15T13:36:03+00:00', 'dateModified': '2020-04-15T13:38:15+00:00', 'description': 'According to an Artificial Intelligence expert, AI promises to make life better and healthier but old-fashioned measures like quarantine and self-isolation can help win the war against coronavirus', 'breadcrumb': {'@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#primaryimage', 'url': 'https://w.ndtvimg.com/sites/3/2020/04/15190041/660x330-artificial-intelligence.jpg', 'contentUrl': 'https://w.ndtvimg.com/sites/3/2020/04/15190041/660x330-artificial-intelligence.jpg', 'width': 660, 'height': 330, 'caption': 'Artificial Intelligence can be used in the diagnosis, treatment, and prevention of COVID-19, says AI expert Toby Walsh'}, {'@type': 'BreadcrumbList', '@id': 'https://swachhindia.ndtv.com/quarantine-social-distancing-best-tools-to-fight-coronavirus-artificial-intelligence-expert-43457/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://swachhindia.ndtv.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Quarantine, Social Distancing Best Tools To Fight Coronavirus: Artificial Intelligence Expert'}]}, {'@type': 'WebSite', '@id': 'https://swachhindia.ndtv.com/#website', 'url': 'https://swachhindia.ndtv.com/', 'name': 'NDTV-Dettol Banega Swasth Swachh India', 'description': '', 'publisher': {'@id': 'https://swachhindia.ndtv.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://swachhindia.ndtv.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://swachhindia.ndtv.com/#organization', 'name': 'NDTV-Dettol Banega Swasth Swachh India', 'url': 'https://swachhindia.ndtv.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://swachhindia.ndtv.com/#/schema/logo/image/', 'url': 'https://w.ndtvimg.com/sites/3/2024/03/19112149/BSI-10-Year-OG.png', 'contentUrl': 'https://w.ndtvimg.com/sites/3/2024/03/19112149/BSI-10-Year-OG.png', 'width': 1200, 'height': 630, 'caption': 'NDTV-Dettol Banega Swasth Swachh India'}, 'image': {'@id': 'https://swachhindia.ndtv.com/#/schema/logo/image/'}}, {'@type': 'Person', '@id': 'https://swachhindia.ndtv.com/#/schema/person/3ce9877301ad31c1a03737bdb1d92675', 'name': 'Barkha Mathur', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://swachhindia.ndtv.com/#/schema/person/image/857c1bdd9f0994538246132a45159b10', 'url': 'https://secure.gravatar.com/avatar/ce552393febb465dc5b2da384a1b78b7?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/ce552393febb465dc5b2da384a1b78b7?s=96&d=mm&r=g', 'caption': 'Barkha Mathur'}, 'url': 'https://swachhindia.ndtv.com/author/barkhamathur/'}]"
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL3Rlbi1mYW1vdXMtcXVvdGVzLWFib3V0LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,Ten Famous Quotes About Artificial Intelligence - AIM,2020-04-12,AIM,https://analyticsindiamag.com,N/A,N/A,N/A,N/A,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+				Meta AI Glasses Miss The Mark 			
+
+
+
+			Tarunya S		
+
+			16/07/2024		
+
+
+",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vaGVhbHRoaXRhbmFseXRpY3MuY29tL25ld3MvbmV3LWluaXRpYXRpdmUtdXNlcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1mb3ItdmFjY2luZS1kZXZlbG9wbWVudNIBAA?oc=5,New Initiative Uses Artificial Intelligence for Vaccine Development - HealthCareExecIntelligence,2020-04-14,HealthCareExecIntelligence,https://healthitanalytics.com,The Human Immunomics Initiative will develop artificial intelligence tools to speed the development of vaccines for a wide range of diseases.,N/A,The Human Immunomics Initiative will use artificial intelligence tools to accelerate the development of vaccines for a wide range of diseases.,The Human Immunomics Initiative will use artificial intelligence tools to accelerate the development of vaccines for a wide range of diseases.,https://schema.org,NewsArticle,New Initiative Uses Artificial Intelligence for Vaccine Development,https://cdn.ttgtmedia.com/rms/onlineimages/health analytics_g1271502504.jpg,"[{'name': 'Jessica Kent', '@type': 'Person'}]",,,"{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}","{'@type': 'WebPage', '@id': 'https://www.techtarget.com/healthtechanalytics/news/366591696/New-Initiative-Uses-Artificial-Intelligence-for-Vaccine-Development'}",,2020-04-14T08:06Z,N/A,N/A,"
+
+
+Rasi Bhadramani/istock via Getty
+Rasi Bhadramani/istock via Getty
+
+
+
+
+
+News
+
+
+New Initiative Uses Artificial Intelligence for Vaccine Development
+
+
+The Human Immunomics Initiative will develop artificial intelligence tools to speed the development of vaccines for a wide range of diseases.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Jessica Kent
+
+
+Published: 14 Apr 2020
+
+
+ 
+The Harvard T.H. Chan School of Public Health and the Human Vaccines Project have announced the Human Immunomics Initiative, a joint effort that will use artificial intelligence models to accelerate vaccine development.
+
+
+
+
+
+
+
+For more coronavirus updates, visit our resource page, updated twice daily by Xtelligent Healthcare Media.
+The Human Immunomics Initiative (HII) will bring together Harvard Chan experts in epidemiology, causal inference, immunology, and computational and systems biology with the resources of the Human Vaccines Project, a human immunology-based clinical research consortium.
+HII will design artificial intelligence-powered models of immunity that can accelerate vaccine development and testing for a wide range of diseases, including COVID-19.
+Vaccine development can be a long and laborious process, mainly due to the complexity of the human immune system and its variability among different people and groups. With advances in computing and artificial intelligence, genomics, systems biology, and bioinformatics, HII will try to decode the underlying ways the human immune system fights disease.
+“Successful vaccination requires four components —knowing the vaccine target, what kind of immune response you want, how to generate that response, and understanding responses in the people who you want to vaccinate,” said Sarah Fortune, chair of Harvard Chan’s Department of Immunology and Infectious Diseases. 
+“We understand a lot about the first two elements and very little about the last two. But by addressing these critical knowledge gaps, we envision a day when there are modular blueprints for successful vaccines that speed the process and increase likelihood of success.”
+The initiative will specifically focus on the principles of effective immunity in aging populations, the world’s largest growing demographic. These individuals have a massive disease burden, as well as high morbidity and mortality in the current COVID-19 pandemic.
+Recent research has shown that older adults are at greater risk of complications from coronavirus. A study from UTHealth estimated that areas with high concentrations of residents over the age of 65 or with chronic diseases are at high risk for severe illness from COVID-19, and are most likely to require hospitalization.
+In its pilot phase, HII will examine how immunity changes with age, and how to predict or improve immune response among older adults.
+“Decline or dysfunction of the immune system among people age 70 and older is a major public health issue as the global population ages. We are seeing this acutely now with COVID-19, which is mostly spread by younger people, but which older people die from at much higher rates,” said Jaap Goudsmit, adjunct professor of epidemiology and infectious diseases at Harvard Chan School and chief scientific officer of the Human Vaccines Project.
+The insights from HII will help develop artificial intelligence-powered models that allow researchers to virtually test potential vaccines and predict which therapies might work best across populations. This could accelerate vaccine and drug development, resulting in less money spent on trials and testing.
+“The way we fight disease is broken—we launch into disease-specific battles without understanding the rules that affect our chances of success,” said Michelle A. Williams, Dean of Harvard T.H. Chan School of Public Health.
+“The Human Vaccines Project set out to change that by decoding the human immunome, and we are already seeing initial findings from their tremendous work. We are excited to bring the intellectual and technological resources of Harvard Chan School, and our colleagues across Harvard, to further those efforts through HII.”
+HII will work with blood samples from thousands of people enrolled in epidemiological studies around the world. Members of the Human Vaccine Project and Harvard Chan scientists have done extensive work in various cohorts, and specific pilot studies are almost completed.
+HII will build on these longitudinal cohort studies and apply state-of-the-art methods in epidemiology, immune monitoring, systems biology, AI and machine learning to define effective immunity in aging populations. Researchers will then apply this data towards speeding vaccine and therapeutic development.
+“The world’s population is aging at unprecedented rates, significantly increasing the burden of non-communicable diseases and vulnerability to infectious diseases, as evidenced by the current COVID-19 pandemic,” said Wayne C. Koff, president and CEO of the Human Vaccines Project.
+“The complexity of the human immune system has confounded efforts to prevent and control diseases in aging populations, and this collaboration will marry expansive data collection through clinical research with new technologies and cutting-edge science to catalyze new approaches to fighting major global diseases.”
+By combining the Human Vaccine Project’s global network of academic, biotech, and pharma partners with Harvard’s expertise, HII will enhance the potential for defining effective immunity in aging populations. The initiative will aim to develop novel strategies for enabling longer, healthier lives.
+“We are very excited to launch the Human Immunomics Initiative with the Harvard Chan School, and bring together our synergistic capabilities towards accelerating disease prevention for aging populations,” said Koff.
+
+Next Steps
+Artificial Intelligence Research Collaborative Targets COVID-19Is Artificial Intelligence Mature Enough to Combat COVID-19?Artificial Intelligence Model Tracks Spread of Lyme Disease
+
+
+
+
+
+Dig Deeper on Artificial intelligence in healthcare
+
+
+
+Surveillance tool has mixed impact on hospital outbreak response
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+Artificial Intelligence Model May Help Predict Future Viral Outbreaks
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+Poor Interoperability Limited Primary Care COVID-19 Vaccination Efforts
+
+
+
+
+By: Hannah Nelson
+
+
+
+
+High Out-of-Pocket Healthcare Costs Dissuade Patient Care Access
+
+
+
+
+
+
+
+
+Sponsored News
+
+
+Driving Digital Transformation in Healthcare
+–Dell Technologies
+
+
+How GenAI is Saving Lives in Healthcare
+–Dell Technologies and Intel
+
+
+Flexible IT: When Performance and Security Can’t Be Compromised
+–Dell Technologies
+
+See More
+
+
+
+
+
+Related Content
+
+
+Machine Learning Approach Could Accelerate COVID-19 ...
+– Healthtech Analytics
+
+
+County-Level Data Reveals Factors Related to COVID-19...
+– Healthtech Analytics
+
+
+How Will Big Data Analytics Factor into the Next ...
+– Healthtech Analytics
+
+
+
+
+
+
+
+
+",,,New Initiative Uses Artificial Intelligence for Vaccine Development,False,,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",,,,

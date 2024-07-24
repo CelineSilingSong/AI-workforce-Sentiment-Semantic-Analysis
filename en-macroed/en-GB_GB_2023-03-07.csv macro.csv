@@ -1,0 +1,2232 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@graph,article:section,article:summary,article text,@type,dateModified,datePublished,headline,mainEntityOfPage,author,publisher,@id,image,priceRange,telephone,name,logo,geo,url,sameAs,contactPoint,address,potentialAction,articleBody,articleSection,genre,associatedMedia,hasPart,isAccessibleForFree,identifier,episode,alternativeHeadline,thumbnailUrl,creator,dateCreated,authorByline,inLanguage,isPartOf,speakable,itemListElement,mainEntity
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmlibS5jb20vYmxvZy93aGF0LWlzLWdlbmVyYXRpdmUtYWktd2hhdC1hcmUtZm91bmRhdGlvbi1tb2RlbHMtYW5kLXdoeS1kby10aGV5LW1hdHRlci_SAQA?oc=5,"What is generative AI, what are foundation models, and why do they matter? - IBM",2023-03-08,IBM,https://www.ibm.com,"To answer these questions, it helps to start with an understanding of the underlying technology that supports generative AI.",N/A,"To answer these questions, it helps to start with an understanding of the underlying technology that supports generative AI.",N/A,https://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/', 'url': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/', 'name': 'What is generative AI, what are foundation models, and why do they matter? - IBM Blog', 'isPartOf': {'@id': 'https://www.ibm.com/blog/#website'}, 'primaryImageOfPage': {'@id': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/#primaryimage'}, 'image': {'@id': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/#primaryimage'}, 'thumbnailUrl': 'https://www.ibm.com/blog/wp-content/uploads/2023/03/What-is-Generative-AI-what-are-Foundation-Models-and-why-do-they-matter-scaled.jpg', 'datePublished': '2023-03-08T23:17:29+00:00', 'dateModified': '2023-08-09T18:54:33+00:00', 'author': {'@id': 'https://www.ibm.com/blog/#/schema/person/b712a2ea31f367c689e3bb8c5cc92389'}, 'description': 'To answer these questions, it helps to start with an understanding of the underlying technology that supports generative AI.', 'breadcrumb': {'@id': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/#primaryimage', 'url': 'https://www.ibm.com/blog/wp-content/uploads/2023/03/What-is-Generative-AI-what-are-Foundation-Models-and-why-do-they-matter-scaled.jpg', 'contentUrl': 'https://www.ibm.com/blog/wp-content/uploads/2023/03/What-is-Generative-AI-what-are-Foundation-Models-and-why-do-they-matter-scaled.jpg', 'width': 2560, 'height': 1280}, {'@type': 'BreadcrumbList', '@id': 'https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://ibm.com/blog/'}, {'@type': 'ListItem', 'position': 2, 'name': 'What is generative AI, what are foundation models, and why do they matter?', 'item': ''}]}, {'@type': 'WebSite', '@id': 'https://www.ibm.com/blog/#website', 'url': 'https://www.ibm.com/blog/', 'name': 'IBM Blog', 'description': 'IBM Blog', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.ibm.com/blog/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Person', '@id': 'https://www.ibm.com/blog/#/schema/person/b712a2ea31f367c689e3bb8c5cc92389', 'name': 'Manish Goyal', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.ibm.com/blog/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/0b3e23296e0147f12498f0bb7a7f70cd?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/0b3e23296e0147f12498f0bb7a7f70cd?s=96&d=mm&r=g', 'caption': 'Manish Goyal'}, 'description': 'Manish Goyal is a VP &amp; Senior Partner and the Global Leader of IBM Consulting’s Artificial Intelligence &amp; Analytics practice. In this role, Manish’s consulting practice is responsible for bringing the best AI &amp; Analytics solutions to help enterprises transform their businesses and capture the tremendous value from the disruption AI offers. Manish works with clients across Banking, Insurance, Telco &amp; Media, and Government helping them apply and scale AI in their operations. Prior to this role, Manish held various senior product management roles at IBM and has successfully launched several AI products to market. Manish brings a unique mix of product and consulting skills to help clients adopt and scale AI responsibly.', 'url': 'https://www.ibm.com/blog/author/manishgoyal/'}]",N/A,N/A,"
+
+
+ 
+
+
+
+
+
+
+
+                              Artificial intelligence  
+                        
+
+
+                        July 15, 2024                  
+
+
+Are bigger language models always better?
+
+  4 min read - As enterprises look to separate the hype from where AI can add true value, it’s unclear if increasingly larger language models will always lead to better business solutions.                        
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmJjZy5jb20vcHVibGljYXRpb25zLzIwMjMvY2VvLWd1aWRlLXRvLWFpLXJldm9sdXRpb27SAQA?oc=5,The CEO's Guide to the Generative AI Revolution - BCG,2023-03-07,BCG,https://www.bcg.com,"This powerful technology has the potential to disrupt nearly every industry, promising both competitive advantage and creative destruction. Here’s how to strategize for that future.",N/A,"This powerful technology has the potential to disrupt nearly every industry, promising both competitive advantage and creative destruction. Here’s how to strategize for that future.","This powerful technology has the potential to disrupt nearly every industry, promising both competitive advantage and creative destruction. Here’s how to strategize for that future.",http://schema.org,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+Generative AI
+
+
+                Generative artificial intelligence is a form of AI that uses deep learning and GANs for content creation. Learn how it can disrupt or benefit businesses.
+            
+
+",Article,"May 25, 2023","March 07, 2023",The CEO’s Guide to the Generative AI Revolution,"{'@type': 'WebPage', '@id': 'https://www.bcg.com/publications/2023/ceo-guide-to-ai-revolution'}","[{'@context': 'http://schema.org', '@type': 'Person', 'jobTitle': 'Alumnus', 'name': 'François Candelon'}, {'@context': 'http://schema.org', '@type': 'Person', 'description': 'Artificial IntelligenceResponsible AI\u202fTechnology Industry', 'jobTitle': 'Senior Solution Delivery Manager, Responsible AI', 'name': 'Abhishek Gupta', 'url': 'https://www.bcg.com/about/people/experts/abhishek-gupta'}, {'@context': 'http://schema.org', '@type': 'Person', 'description': 'Artificial IntelligenceCloud ComputingData and Analytics', 'jobTitle': 'Project Leader', 'name': 'Lisa Krayer', 'url': 'https://www.bcg.com/about/people/experts/lisa-krayer'}, {'@context': 'http://schema.org', '@type': 'Person', 'description': 'Generative AI', 'jobTitle': 'Vice President - Data Science', 'name': 'Leonid Zhukov'}]","{'@type': 'Organization', 'name': 'BCG Global', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://web-assets.bcg.com/f0/bd/bab076fa4349a6f0639f2a45f240/fancois-candelon-headshot-1.jpg'}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vam9zaGJlcnNpbi5jb20vMjAyMy8wMy90aGUtcm9sZS1vZi1nZW5lcmF0aXZlLWFpLWFuZC1sYXJnZS1sYW5ndWFnZS1tb2RlbHMtaW4taHIv0gEA?oc=5,The Role Of Generative AI And Large Language Models in HR - Josh Bersin,2023-03-10,Josh Bersin,https://joshbersin.com,"The Josh Bersin Company provides advisory services, professional development, and research on all areas of HR, HR technology, recruiting, training, leadership development, and HR operations.",N/A,Generative AI and Large Language Models will transform Human Resources. Here are just a few ways this is happening.,N/A,https://schema.org,"[{'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Home', 'url': 'https://joshbersin.com'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Membership', 'url': 'https://joshbersin.com/about-2/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Bersin Research is Back', 'url': 'https://joshbersin.com/bersin-research-is-back/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'About Us', 'url': 'https://joshbersin.com/about-the-josh-bersin-company/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Topics', 'url': 'https://joshbersin.com/2019-talent-technology-and-hr-predictions/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Enterprise Learning', 'url': 'https://joshbersin.com/category/enterprise-learning/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HR Technology', 'url': 'https://joshbersin.com/category/hr-technology/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Human Resources', 'url': 'https://joshbersin.com/category/human-resources/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Sourcing and Recruiting', 'url': 'https://joshbersin.com/category/talent-management/sourcing-and-recruiting/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Diversity and Inclusion', 'url': 'https://joshbersin.com/category/human-resources/diversity-and-inclusion/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Employee Experience', 'url': 'https://joshbersin.com/category/human-resources/employee-engagement/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Wellbeing', 'url': 'https://joshbersin.com/category/human-resources/well-being/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'People Analytics', 'url': 'https://joshbersin.com/category/talent-management/talent-analytics-talent-management/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HR Skills and Capability', 'url': 'https://joshbersin.com/category/human-resources/hr-skills-and-capability/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Research', 'url': 'https://joshbersin.com/research/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Employee Experience, Engagement, Hybrid Work', 'url': 'https://joshbersin.com/research/employee-engagement-experience-and-hybrid-work/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Corporate Learning, Training, Career Management', 'url': 'https://joshbersin.com/research/corporate-learning-training-and-career-management/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HCM Excellence Resources', 'url': 'https://joshbersin.com/hcm-excellence-resources/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HCM Best Practices SAP SuccessFactors', 'url': 'https://joshbersin.com/hcm-excellence-sap-successfactors/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HCM Best Practices Oracle Report', 'url': 'https://joshbersin.com/hcm-best-practices-report/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'The Definitive Guide: HCM Excellence', 'url': 'https://joshbersin.com/research/hcm/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HR Technology, Vendors and Tools', 'url': 'https://joshbersin.com/research/hr-technology-vendors-and-tools/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Diversity, Leadership &#038; Culture', 'url': 'https://joshbersin.com/research/diversity-leadership-culture/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Talent, Recruiting, and Career Mobility', 'url': 'https://joshbersin.com/research/talent-recruiting-and-career-mobility/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'The Big Reset Research', 'url': 'https://joshbersin.com/research/big-reset-2020/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Healthy Organization', 'url': 'https://joshbersin.com/just-released-research/healthy-organization-definitive-guide-to-wellbeing-2021/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'HR Capabilities', 'url': '/the-global-hr-capability-project/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Talent Climate Series', 'url': 'https://joshbersin.com/talent-climate-series/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Talent Acquisition Factbook', 'url': 'https://joshbersin.com/talent-acquisition-factbook/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Internal Hiring Factbook', 'url': 'https://joshbersin.com/internal-hiring-factbook/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Time-to-Hire Factbook', 'url': 'https://joshbersin.com/time-to-hire-benchmark-factbook/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Just Released', 'url': 'https://joshbersin.com/just-released-research/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Enterprise Talent Intelligence', 'url': 'https://joshbersin.com/enterprise-talent-intelligence/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Talent Acquisition Factbook', 'url': 'https://joshbersin.com/talent-acquisition-factbook/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': '2024 HR Predictions', 'url': 'https://joshbersin.com/josh-bersins-predictions-for-2024/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Definitive Guide to HR: Systemic HR Initiative', 'url': 'https://joshbersin.com/systemichr/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Systemic HR Intiative', 'url': 'https://joshbersin.com/systemic-hr-intiative/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'AI in HR', 'url': 'https://joshbersin.com/understanding-ai-in-hr/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'The Four-Day Work Week', 'url': 'https://joshbersin.com/the-four-day-work-week/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Post-Industrial Age', 'url': 'https://joshbersin.com/post-industrial-age/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'The Dynamic Organization', 'url': 'https://joshbersin.com/definitive-guide-to-dynamic-organizations/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Systemic People Analytics', 'url': 'https://joshbersin.com/systemic-people-analytics/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Definitive Guide to Leadership', 'url': 'https://joshbersin.com/definitive-guide-to-leadership/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Definitive Guide to Pay and Benefits', 'url': 'https://joshbersin.com/definitive-guide-to-pay-and-benefits/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Definitive Guide to Pay Equity', 'url': 'https://joshbersin.com/the-definitive-guide-to-pay-equity-increasing-productivity-innovation-and-sustainability/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'GWI Project', 'url': 'https://joshbersin.com/gwi/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'GWI Project Research', 'url': 'https://joshbersin.com/gwi-project-research/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'GWI Project Pacesetters', 'url': 'https://joshbersin.com/gwi-project-pacesetters-steps-ahead-of-the-competiton/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'GWI Project Details', 'url': 'https://joshbersin.com/gwi-project-details/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'GWI Project FAQs', 'url': 'https://joshbersin.com/gwi-project-faqs/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Access the GWI Project', 'url': 'https://joshbersin.com/gwi-project-membership/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Podcasts', 'url': '/podcast/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Conference', 'url': 'https://www.uscmarshallexeced.org/event/Irresistible2025/regProcessStep1'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Academy', 'url': 'https://bersinacademy.com/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Josh&#039;s Book', 'url': 'https://irresistible.work/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Galileo™', 'url': 'https://joshbersin.com/galileo/'}]",N/A,N/A,"
+
+The Role Of Generative AI And Large Language Models in HR
+
+       by     
+joshbersin
+
+     ·
+                            
+                                Published March 10, 2023
+                · Updated March 22, 2023
+
+
+
+
+Human Resources is one of the most complex, imperfect areas of business. Virtually every decision we make about people (who to hire, who to promote, how much to pay someone, how to develop someone) is based on judgment, experience, personal bias, and some amount of data. And since well over 50% of all corporate spending is on salaries (United States payroll is around $15 Trillion), these “judgmental decisions” cost companies a lot of money.
+And in my world, where we deeply study every part of management, leadership, and HR, we often try to correlate various “HR practices” against outcomes to figure out what works. Much of our business is based on this work, and we regularly “re-run” most of our analysis every few years as culture, the labor market, and technology changes.
+Right now, for example, we know that workplace stress, pay equity, and career growth are among the most important drivers of employee satisfaction and workforce productivity. Only a few years ago it was all about fancy benefits, bonuses, and grandiose titles.
+So what I’m essentially saying is that much of HR is based on organizational psychology, many forms of social science research, and never-ending effort to experiment, learn from others, and figure out what works. And it’s difficult, imperfect, and always subject to debate.
+The Underlying Data Set In HR Is Textual
+While this massive effort has been going on, most of the “hard science” in HR and management has been focused on numbers. We ask people to take tests, we look at people’s “performance ratings” and grade point averages (which are extremely subjective), and we ask people for surveys, feedback, and lots of data to make decisions. And then we correlate business results (sales, profit, market share) against various people metrics, and think “we have the answer.”
+For recruiting and selection we look at experience, job-related tests, and opinions and scores from interviewers. Theoretically if we get enough of this data we can make better and better hiring decisions. And the precise same thing happens when we look at who to promote, who to demote, and who should make it to the very top ranks of the company.
+The whole premise of promotion is based on old ideas of “promotability” or “potential” rated against “current job performance” (the 9-box grid). That approach, which sounds quantitative, is filled with bias, so we have to “infer” who has high potential from various assessments, observations, and inputs. Again, when we get lots of data (looking at the background and behaviors of many high performers), we can improve the science of promotion. But for the most part this is based on judgement.
+The core “science” of HR is often rooted in Industrial Psychology, which is a fascinating domain which studies attributes, behaviors, and psychology at work. And as much as I admire and follow much of this science, most companies don’t use it very much. There is a billion dollar industry of “validated pre-hire assessments” and they are extremely useful. But for many jobs they are misleading and companies have to validate these tests so they don’t get sued for discrimination.
+So if you want to really do a “big data” analysis of your workforce’s skills, experience, and suitability for different work, you’re dealing with mountains of “anecdotal data,” much of which is encoded in biographies, work output, company leadership frameworks, assessments, and lots of communications. And of course there are performance appraisals, business results, and more.
+
+Consider the two most common parts of HR: a job requisition (job posting) and a job description. Both these artifacts are “thrown together” by hiring managers or HR professionals, often based on what people think a job is like, a set of company standards, and some “technical skills” we know this person will use. As we all know, these artifacts don’t really predict who will succeed, because so much of “success” is based on ambition, learning agility, culture fit, and alignment with purpose.
+In other words, this is one of the most complicated and fascinating “mixed data” problems in the world, and making decisions a few percent better can drive billions of dollars of business value.
+How Generative AI and Large Language Models Can Help
+Given the complex, important, and messy business we are in, how can Generative AI and Large Language Models help? Well while it’s still early days, let me venture the idea that this new branch of AI has the potential to totally reinvent how much of HR works. And in this disruptive change we will see new platforms, new vendors, and new ways of running our companies.
+(For those of you who don’t know what Generative AI and Large Language Models are, let me simply say these AI systems can index, categorize, and cluster billions of “tokens” which include words, phrases, numbers, and even code, to find patterns and predictions you can query. And through English language interface (and other language as well) they can analyze, summarize, and infer meaning from all this mess. Read about the statistics behind it here.)
+Let me rattle off a few of the huge use-cases we’ve uncovered in the last few months:
+1/ Creating content for job descriptions, competency guides, learning outlines, and onboarding and transition tools.
+I’ve always felt that the best way to “describe a job” is to watch what people are doing. If you actually observe, capture, and analyze a few months of work, you could literally “write the job description” based on the actual work. Well Generative AI can do this.
+You could use Generative AI to look at “the sales operation in your company” and analyze all the biographies, work histories, sales tools, and various sales materials in your sales organization. And it could likely describe “what sales people in your company do” and help you write realistic job reqs based on real roles.
+Then if you want to know how to train sales people, you could ask it “tell me what the top performers do vs. the low performers.” And it would find things you may not know. And then you could ask the Generative AI machine to “read all our sales and product training” and “give me an outline of what people need to learn and know.” It could then build you tests, online learning guides, and eventually become the “sales coach” for your company.  (This is essentially what Salesforce Einstein GPT is trying to do – you don’t need to buy this from Salesforce by the way, you can do it yourself.)
+Then you could ask the tool “who are our top accounts measured by total revenue and total profit” and if it has access to financial data it could answer that too.  So not only could it help you improve and rewrite all your job descriptions, it could help you “define the success criteria,” help you “evaluate who is performing well and why,” and then build the killer “sales training materials” you know are badly needed.
+Now replicate this idea in manufacturing, marketing, finance, logistics, and even HR.
+I’m sure it won’t be perfect at all this, but in a short period of time you’ll learn things you didn’t know and I would not be surprised to see these types of apps come “out of the box” within a year.
+2/ Create skills models, experience models, and candidate profiles for recruiting
+The second, and probably biggest spending area for improvement is recruiting. You all know how hard it is to find, assess, and select the “right person” for a job. Well right now everyone is gaga about “skills-based hiring.” But what does that really mean? Does it mean this person has passed a test in some tool or programming language? Does it mean they’ve done it 100 times before? Or does it mean they worked in a company that was really good at this so they probably learned a lot about it there?
+See, it’s complicated. Supposed you could crawl millions of employee profiles and then look at the “work they did” (ie. scan Github, articles written, legal briefs, etc) and then decide “how good” this person is at this job? That would be almost impossible to do manually, but Generative AI can do this. And it can do much more.
+Suppose it looks at this person’s biography and work history and then compares it to other candidates. It could probably tell you which has higher education, which has better spelling, and what other personal characteristics vary. One of the second-generation talent intelligence vendors we’re working with now has a tool that can show you “the leadership profile of company A” compared to “the leadership profile of company B” simply by scanning, analyzing, and deeply understanding the different experiences, language, education, and credentials of leaders from these two companies. Not a bad way to do your competitive analysis or recruiting eh?
+I know L&D vendors who have already used ChatGPT to build lesson plans, learning objectives, and skills assessments from existing content. This kind of analysis applied to billions of job candidates can start to show recruiters who the “adjacent skilled” professionals are who could take that hard to fill job. They may have “related experience” that is 100% perfect for the job you’re filling. This is already happening, and it’s going to get better.
+And by the way, with tuning these models can remove gender bias, age bias, racial bias, and more. So not only are they potentially more useful, they’re actually likely to be “safer” as well.
+3/ Analyze and improve pay, salary benchmarks and rewards
+A third massive challenge in HR is “how much to pay people” and “what benefits to provide.” And this is a very tricky subject. More than 95% of companies have pay equity problems already (our new research details this whole area) and as inflation goes up and salaries keep varying based on demand, HR departments are always struggling to keep up.
+Generative AI can quickly do salary benchmarking, assess pay levels across millions of open jobs, and analyze external and labor market data to help understand competitive pay, rewards, incentives, and other benefit programs. Most companies try to do this by hiring expensive consultants: these consultants should soon come armed with AI-enabled tools, and then you’ll be able to get the tools yourself. I know of at least five vendors leaning into this today, and it is likely to make all these decisions better.
+The whole issue of pay equity is a mess to fix as well. While some AI vendors are starting to focus here, we know from our research that most companies have 5-15% of their total aggregate payroll in some from of “inequitable pay” distribution. People get raises for political reasons and then over time we end up with highly paid, highly tenured people far overpaid based on their market salary or competition with others. I know software engineers who make $500K or more just because they hired into a “hot company at a hot time.” Suddenly a few months later they’re making 1.5-2X more than their peers. Companies hate trying to solve these problems.
+4/ Performance management and feedback
+One of the most difficult and often despised part of HR is performance management, performance appraisal, and development planning. While there are hundreds of fantastic books and models to define this process, it often comes down to personal judgement. And in most cases the manager gives an appraisal without doing a comprehensive look at an employee’s entire year of work. Imagine if the Generative AI system indexed a year of an employee’s work, hours worked, meetings, and other production and helped managers assess what happened?
+Imagine then if the Generative AI took this work effort and perhaps compared it to similar roles to show the manager where this employee was outperforming and perhaps underperforming?  I know the technology can do this to some degree today: I recently asked Bing Chat to tell me how Microsoft’s financial performance varied from 2021 to 2022 and it did a pretty good job. Many of the new models of Generative AI can “learn skills” from this kind analysis and these “skills” can be saved and shared with others. And this leads me to the next use-case: Coaching and Development.
+5/ Coaching and leadership development
+As most of us know, the most valuable assistance we have in our careers is a “coach.” A Coach is someone who watches what we do, knows how it should be done, and gives us developmental feedback. They coach may or may not be an “experts” (many coaching models are built around the idea of “coach as psychologist”) so the coach may simply be observing us and giving us badly needed support. They may interview our peers and help us see blind spots and understand challenging situations.
+Well today this market is explosive. Vendors like BetterUp, CoachHub, Torch, SoundingBoard, Skillsoft, and many others have created nearly a $billion dollar market for “coaching on demand.” Well what if this coaching came from an intelligent bot? Medical providers have built these systems for suicide prevention, medical intervention, and other support needs and they work quite well. In the business world this is an enormous area of “low hanging fruit.”
+Imagine, for example, if I have to lay someone off. I could easily ask the ChatBot (which may have access to many guides, books, and videos from our company and experts): “how should I approach the layoff conversation?” Or “what is the best way to coach someone who keeps coming late to meetings? Or even “how can I have greater impact on my team” or even “how can I make my meetings more effective?”
+These types of questions have been asked millions of time by millions of leaders, so there are well honed answers, suggestions, and tips for all of them. And most companies have license to leadership development content, compliance content, and all sorts of “difficult conversation” content now. The Generative AI system can easily find this, interpret it, and make it easy for managers to use.
+And it will get better. Imagine, as I described above, if you put your own particular leadership model and approach to management into this system. You would get “the Starbucks store manager coach” or “the Fiat Chrysler manufacturing leader coach” and so on. My friends in the leadership development and coaching industry are probably excited (and nervous as well). This is coming fast.
+6/ Individual Coaching, Mental Health, and Wellbeing
+Perhaps one of the biggest successes in Generational AI has been the success of tools like “Woebot” which help treat mental health, stress, and suicide. This tool, which was launched in 2017, has reduced stress, anxiety, and suicide with almost twice the effectiveness of therapy. How could it be so good? By using the feedback loops in Generative AI (with human training), the system can quickly identify a user who is considering suicide and just by listening, help them relax and move forward.
+I strongly recommend the story in the New Yorker this week (Can AI Treat Mental Illness) which convincingly explains how this technology has become so successful. These tools were not trained for work-related stress, but the problem is very similar. Over the last five years the Workplace Wellbeing market has grown to over $50 Billion in size and our research on The Healthy Organization found that the typical solutions (EAP programs, online coaches, training, mindfulness) have less impact than we expected. Witness the fact that most statistics on workplace mental health show that it continues to be a problem, even after billions of dollars have been invested.
+This particular use case, which every company needs, could end up being pretty important. So we can expect healthcare providers, insurance companies, and forward-thinking vendors like Ginger.io (who now owns Headspace) to jump into this market.
+7/ HR self service and knowledge management
+The final use-case I will mention is self-service and knowledge management, perhaps the “lowest hanging fruit” of all. We all have thousands of documents, compliance books, diversity guidelines, safety rules, process maps, and help systems to aid employees in selecting benefits, understanding company policies, and even just resetting our password. And things like “figuring out what button to push in Workday or SAP” goes into this category as well.
+All this complicated “knowledge enablement” and self-service stuff is perfect for Generative AI. Microsoft’s new Power Platform interface to OpenAI lets companies embed workflows into the system, so you could tell the chatbot “please apply for family leave and ask my manager for approval” or “please put a case into IT for me to upgrade my laptop.” And the use cases will go wild. Many of you who work in HR operations, call centers, and service delivery centers will be investing in this almost immediately. And that means every HR Tech vendor from Oracle to Workday to SAP, ServiceNow and ADP will embed this technology into its platforms.
+Bottom Line: This Technology Will Make Work Better
+Let me make one final point. Despite the fears and inflammatory headlines you read in the New York Times (the NYT seems particularly unhappy about this technology), I want you to remember that this technology will be a massive step forward in business. Last week I published an article by two MIT PhD students who analyzed the use of ChatGPT on 400+ business professionals and the productivity improvements were stunning. This will start to happen in all these other areas as well.
+I would remind you to consider Generative AI a tool, not a living person.  Just as Microsoft Excel was groundbreaking in the early 1980s (and there were fears of it putting accountants out of business), so this system will become an essential business tool as well. We all have to learn how to use it.
+Will it be perfect? Of course not. But today, as I touch on above, we make thousands of critical decisions with poor data, uneducated judgement, and often just not enough internal research. I believe Generative AI and all its variations will be a total gamechanger in HR. And for everything we do just a little bit better, our employees end up with a better work experience and our companies perform at a higher level.
+Stay tuned, there is much more to come.
+How To Learn More: Come To Irresistible 2023
+How can you learn more?  Here are a few big resources.
+First, come to Irresistible 2023 – our big annual conference held at USC on June 20-22. We are bringing in several famous experts in Generative AI for HR to that event and we are going to have a big discussion about how it will impact HR. I promise you this will be well worth your time.
+
+Second, if you’re a geek like me, read Steven Wolfram’s article “What is ChatGPT and How Does it Work.” And I will post some other cool articles below.
+Finally, if you are doing something exciting and want to share, please let us know. We are talking with hundreds of companies about these tools and I promise we will share more as time goes on. I will be presenting some of our newest research at the HR TechFest Singapore in mid-May and then much more at the Irresistible Conference in June.
+Onward and upward!
+Additional Resources
+New MIT Research Shows Spectacular Increase In White Collar Productivity From ChatGPT
+Microsoft Launches OpenAI CoPilots For Dynamics Apps And The Enterprise.
+Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival
+Mark Zuckerberg announces Meta’s new large language model as A.I. race heats up
+Understanding Chat-GPT, And Why It’s Even Bigger Than You Think (*updated)
+What Is A Large Language Model (LLM) Anyway? (good overview)
+Why Microsoft’s Investment in OpenAI Threatens Google (Fortune)
+Listen to Satya Nadella Describe Microsoft’s View of OpenAI
+Something Bothering You? Tell It to Woebot.
+ 
+ 
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+",ProfessionalService,,,,,,,https://joshbersin.com,https://joshbersin.com/wp-content/uploads/2018/07/josh_bersin_color5.jpg,,,The Josh Bersin Company,https://joshbersin.com/wp-content/uploads/2023/03/black-with-blue-on-white-outlined-square.jpg,"{'@type': 'GeoCircle', 'geoMidpoint': {'@type': 'GeoCoordinates', 'latitude': '37.811002', 'longitude': '-122.262967'}, 'geoRadius': '50'}",https://joshbersin.com,"['Josh_Bersin', 'https://www.linkedin.com/in/bersin/', 'https://www.youtube.com/channel/UCd_IFuZJRL83Ozy6mg-Y2NA', 'https://www.facebook.com/JoshBersinAcademy', 'https://www.instagram.com/bersincompany/']","{'@type': 'ContactPoint', 'telephone': '', 'contactType': 'customer service', 'email': '', 'contactOption': '', 'areaServed': '', 'availableLanguage': None}","{'@type': 'PostalAddress', 'addressCountry': 'United States', 'addressLocality': 'Oakland', 'addressRegion': 'CA', 'postalCode': '94611', 'streetAddress': '6114 La Salle Ave., Suite 475'}",,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5L3ZpZGVvLzIwMjMvbWFyLzA5L2lzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWNvbWluZy1mb3IteW91ci1qb2ItdmlkZW_SAQA?oc=5,Is artificial intelligence coming for your job? - video - The Guardian,2023-03-09,The Guardian,https://www.theguardian.com,<p>Technology reporter Chris Stokel-Walker explains how the latest chatbots could jeopardise the careers of anyone who interprets information and generates written reports or commands.&nbsp;</p>,N/A,Technology reporter Chris Stokel-Walker explains how the latest chatbots could jeopardise the careers of anyone who interprets information and generates written reports or commands. ,N/A,,,Technology,N/A,"3:29ChatGPT This article is more than 1 year oldIs artificial intelligence coming for your job? - videoThis article is more than 1 year oldFor decades people have worried about the rise of robots coming for jobs but rarely does the reality match the concern. Then came ChatGPT, an AI chatbot that has gone viral, becoming the fastest-growing app with 100m active users just two months after launching. Technology reporter Chris Stokel-Walker explains how the latest chatbots could jeopardise the careers of anyone who interprets information and generates written reports or commands.  Scarlet Pestell, Source: The Guardian Thu 9 Mar 2023 08.41 ESTLast modified on Thu 9 Mar 2023 08.47 ESTShareExplore more on these topicsChatGPTArtificial intelligence (AI)ChatbotsComputing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBhbGF0aW5hdGUub3JnLnVrL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWF0LXVuaXZlcnNpdHktYS1ndWlkZS10by11c2luZy1jaGF0Z3B0LWZvci13b3JrL9IBAA?oc=5,Artificial Intelligence at University: A guide to using ChatGPT for work - Palatinate,2023-03-09,Palatinate,https://www.palatinate.org.uk,"With ChatGPT becoming more and more popular, Will Brown goes through some of the ways that students can use it at university.",N/A,"With ChatGPT becoming more and more popular, Will Brown goes through some of the ways that students can use it at university.","With ChatGPT becoming more and more popular, Will Brown goes through some of the ways that students can use it at university.",,,N/A,N/A,"
+
+
+
+
+
+Print Edition Science & Tech 
+
+
+					Artificial Intelligence at University: A guide to using ChatGPT for work				
+
+
+ March 9, 2023March 9, 2023
+
+
+
+
+						sub.editors					
+
+
+
+ 1 Comment 
+Will Brown
+
+By Will Brown
+Artificial Intelligence is everywhere at the moment. 
+At first it was a novelty, something to have funny conversations with and send them to your group chat. Now, we’re beginning to grapple with the real-world consequences of artificial intelligence. Unsurprisingly, a lot of university students are now starting to wonder how the sudden boom in AI can help them with their work.
+Firstly, don’t get it to write your essays. That’s just dumb.
+Granted, it has been done. ChatGPT will write you an essay if you ask it to. It won’t be a very good one, it won’t be referenced, and it may well have just copied text from the internet – which will send your plagiarism score soaring.
+Don’t get it to write your essays. That’s just dumb
+Universities are unsurprisingly scrambling to find a way to reliably detect whether or not essays are written by artificial intelligence. There are some rudimentary detectors available, including one offered by ChatGPT’s creators OpenAI. Sometimes they work, sometimes they don’t. But it won’t be long before these detectors get better. I don’t think it’s worth risking the academic misconduct charge.
+So, how can you use AI to your benefit? I’ll tell you how. But firstly, I’m going to go into this with a massive caveat. AI is not perfect, far from it. Don’t take it’s word as gospel, and check over anything it’s helped you with before using it in your summatives.
+With that caveat out the way, I genuinely believe that artificial intelligence has the potential to be an immensely positive, transformation experience for our education. It might be in its early days, but here’s all the ways I’ve found it can be of use so far.
+A Personal Tutor
+Wouldn’t it be great if you had someone that you could talk through a topic with?
+You could go to your lecturer’s office hours, of course. But not everyone has the confidence for that, and sometimes it’s such a quick question that you don’t feel it’s worth troubling them. ChatGPT, on the other hand, is merely a click away.
+Struggling to grasp the specificities of dialectical materialism? Not quite getting the hang of quantum entanglement? Can’t distinguish cadere from caedere? For everything from answering a quick question to generating lesson plans with follow-up questions that it will mark for you, ChatGPT is here to help.
+Alternatively, Bing AI is perfect for this task. Whereas ChatGPT cannot connect to the internet and is only trained on data up until 2021, Bing is an AI-powered search engine that can have a conversation with you. It can’t talk for as long as ChatGPT can, and cannot come up with lesson plans. But if you’ve got a quick question that needs a quick discussion, then Bing is perfect.
+Want to give it a try? Try asking ChatGPT: “Explain [a topic] to me with the necessary complexity required of a university course”.
+A Writing Assistant
+University requires a lot of writing. Whilst I’ve already cautioned against using it to write your essays, I’d happily recommend using it to help you with other aspects of writing.
+Want someone to summarise your lecture notes in a simple paragraph? Ask ChatGPT to do just that. Need to cut fifty words out your final paragraph in order to squeeze under the word count? Ask ChatGPT to find what’s irrelevant.
+It can also restructure your sentences for you. If you’ve got a clunky sentence in one of your lab reports that could do with re-wording, then just ask ChatGPT to make it clearer for you. You’re also likely to see this sort of technology appearing elsewhere. Notion already has an artificial intelligence function as part of its premium plans, and thanks to Microsoft’s partnership with OpenAI it likely won’t be long before you’ll be able to do this directly inside Word or OneNote.
+A Reading Assistant
+As it says in the DCAD posters, Academic English is nobody’s first language. I’m sure we’ve all stared at a paragraph from a random article that apparently revolutionised the discipline, and yet is so deeply couched in jargon that it’s more or less unreadable. Wouldn’t it be great if someone could read it for you and then explain it back to you in easier terms?
+Thankfully, ChatGPT can do just that. It’s able to read lengthy chunks of academic jargon and send it back to you in a fashion that’s actually legible. I’ve often found it useful to get complex paragraphs ‘translated’, and then go back and read the original with an understanding of what it is trying to convey.
+Try the following prompt: “I’m reading an academic article for my course, but I can’t understand it. Can you read it for me and then summarise in simpler terms?”
+A Proof-Reader
+No matter how many times I read through my essays, it always seems like there’s another mistake that needs fixing. Microsoft Word doesn’t catch everything, Grammarly is quite pricy. But ChatGPT? That’s free.
+Ask ChatGPT if it will proofread your work for you, and it’ll happily oblige – returning your text for you, with any errors fixed up nicely.
+However, exercise caution with this one. I’ve heard reports it ChatGPT adding in a few extra sentences out of nowhere when it does this. Perhaps better used on shorter texts.
+A Reference Compiler
+Referencing is complicated. It’s no wonder that so many options exist to automate it, ranging from citethisforme.com to Microsoft Word’s built-in referencing system. If you’re looking for another way to compile your references, feel free to ask ChatGPT for help. It’ll ask you for all the necessary information (author, year, title, etc.) and generate a reference in whatever style you’ve asked for.
+This is particularly helpful for more complex references. We’ve all gotten used to directly citing papers, but more complex tasks – secondary referencing, for example – can be made easier with a bit of AI assistance.
+You can’t put the AI-genie back in the bottle. Artificial Intelligence is undoubtedly going to change the way we approach education. We’ve been warned not to use it for our essays, which I’d agree is sensible. But it’d be foolish not to make use of this technology to help improve our own learning process. There are a variety of applications for ChatGPT in education, and it’s important to remember that AI language bots are really still in their infancy. OpenAI’s ChatGPT is currently running on version 3.5 of their language software, with version 4 rumoured both to be coming this year and to be a significant upgrade on the current version. Universities are going to need to reckon with how this changes education, and they’re going to need to reckon with it fast. Otherwise, there may soon be an epidemic of perfectly-written AI essays that nobody can tell the difference between.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi90ZWNobm9sb2d5LzM4ODQzMjQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd2lsbC1kZXN0cm95LWxhcHRvcC1jbGFzcy13b3JrZXJzL9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi90ZWNobm9sb2d5LzM4ODQzMjQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd2lsbC1kZXN0cm95LWxhcHRvcC1jbGFzcy13b3JrZXJzL2FtcC8?oc=5,Artificial intelligence will destroy ‘laptop class’ workers - The Hill,2023-03-08,The Hill,https://thehill.com,"The coming artificial intelligence economic revolution will be a major shock to the world. There is a serious possibility that the next decade will bring about a series of social and economic changes akin to the Industrial Revolution and the advent of the internet combined. Many writers, human resource officers, lawyers, writers, artists, and even…",N/A,The coming artificial intelligence economic revolution will be a major shock to the world. There is a serious possibility that the next decade will bring about a series of social and economic chang…,The coming artificial intelligence economic revolution will be a major shock to the world. There is a serious possibility that the next decade will bring about a series of social and economic chang…,https://schema.org,,N/A,N/A,"
+
+
+
+
+Opinion>Technology
+
+			The views expressed by contributors are their own and not the view of The Hill		
+
+		Artificial intelligence will destroy ‘laptop class’ workers	
+
+
+			by Kristin Tate, Opinion Contributor - 03/08/23 10:30 AM ET
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Post
+
+
+
+ 
+		
+
+
+
+
+
+...
+
+
+More
+
+
+
+
+
+			by Kristin Tate, Opinion Contributor - 03/08/23 10:30 AM ET
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Post
+
+
+
+ 
+		
+
+
+
+
+
+...
+
+
+More
+
+
+
+
+
+
+
+Share
+✕
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+						LinkedIn					
+
+
+
+
+
+
+
+Whatsapp
+
+
+
+
+
+
+
+						Whatsapp					
+
+
+
+
+
+
+
+Email
+
+
+
+
+						Email					
+
+
+
+
+
+
+
+
+Video Player is loading.Play VideoUnmuteCurrent Time 0:10/Duration 1:00Loaded: 90.05%0:10Stream Type LIVESeek to live, currently behind liveLIVE 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedQuality360p720p1080pAuto, selectedAudio Trackdefault, selectedFullscreenSharePauseThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.The Hill's Headlines – Mar. 8, 2023The Hill Headlines – July 19, 2024Donald Trump formally accepts GOP nomination for presidentEmerson College Polling: 44% of Virginians want less strict abortion lawsBiden administration forgiving another $1.2B in student loansFour Democrats outpace Biden by 5 points against Trump in key statesTrump ear bandages to MAGA dresses: Fashion at the RNCWhat role will JD Vance play in Trump's campaign?Warren: Democrats ‘will suspend the filibuster’ to codify Roe v. WadeNewsom to Musk after HQs move announcement: ‘You bent the knee’Details of Trump shooting security breakdown start to emerge
+
+
+
+
+
+
+
+
+The coming artificial intelligence economic revolution will be a major shock to the world. There is a serious possibility that the next decade will bring about a series of social and economic changes akin to the Industrial Revolution and the advent of the internet combined. Many writers, human resource officers, lawyers, writers, artists, and even coders increasingly will be replaced by AI as the “laptop class” of workers is decimated. At the same time, blue-collar workers who work with their hands will enjoy job security; their services cannot be replaced by technology. Unfortunately for waves of young people, the media’s advice to “learn to code” may have been like investing in typewriters.      
+Artificial intelligence is advancing at a breakneck speed. Recent announcements of programs that can mimic human conversation, copy our voice, write research papers, and paint beautiful pictures are just a small sliver of the coming AI revolution. The coming changes in everyday life soon will become noticeable, including the popularity of AI-generated video games, music, art, and even movies. A short description and a click of the mouse can spit out a new novel by John Steinbeck or an economic treatise by Thomas Sowell.
+
+
+  
+
+Scores of jobs that require a college education will be changed nearly overnight. Rapid advances in this new technology will wreak havoc on the very people who prospered during COVID, especially those who work in the “knowledge economy” and can often carry out their duties from their laptops at home. Artificial intelligence advances within the next one to five years will outpace most work a human can input into a keyboard. Most content on the web will be written by chatbots. There will be AI influencers. Code will be written in a tiny fraction of the time it takes for humans to produce it. Graphic artists will lose most of their business to art generators. Even accountants and financial analysts may be outpaced by computers. ChatGPT already helps coders through basic code, which often needs refining. The chat service also can help replace many of the smarts needed to build a website. It already has passed an MBA exam and law exams.
+Some white-collar jobs will fare better than others with the advancement of AI. Those who pioneer new techniques or are at the top of their fields will still be able to earn a respectable wage. At the same time, workers whose jobs rely on an element of personality and face-to-face relationships likely will weather the storm. Would you rather have an actual human advising you on legal matters, your finances, and your health care decisions — or a machine? Still, the shift toward a nearly labor-free creative world may make white-collar jobs across the board fewer and farther between.  
+The coming economic earthquake will be something of a reverse Industrial Revolution. Professions requiring practical knowledge will provide far more security than “knowledge economy jobs” that can be supplanted by algorithms. Replacing sheetrock can be done only by doing. AI cannot build a house, fix a plumbing issue, give you a haircut, or install lights in a public space. AI could make the lives of blue-collar workers easier with new tools and techniques, but the basics of construction, utility work and intricate machining will remain the same.
+We are entering into a world where general knowledge will be known mostly by machines and practical knowledge still will be implemented by human hands. There are tremendous social implications for the loss of millions of currently well-paying jobs. Many people who invested their time and careers into a certain profession will undergo a collective identity crisis. The increasing rate of social change and technological progress may mean serious shifts from year to year.
+Ironically, the massive advances in the STEM field also may prove to be its undoing. There will be a need for engineers and academics for the foreseeable future. However, many of the job paths related to the science, technology, engineering and math programs may be seriously reduced due to AI. The majors would have been worth more than social science degrees, but that’s damning with faint praise.
+The elite sneering at an honest day’s labor may be the economic and educational error of the last century. Unfortunately, the last generation in education elevated white-collar ideals over blue-collar experience. It may have been a very bad choice to convince would-be electricians to be English or even math majors. 
+
+
+  
+
+Many Americans will be shocked by the speed with which artificial intelligence changes their daily life. And just as the “new normal” sets in, there will be even larger changes. But as pink slips go out for online journalists, there will still be a need for a person able to fix a furnace.
+Kristin Tate is a libertarian writer and an analyst for Young Americans for Liberty. She is an author whose latest book is “How Do I Tax Thee? A Field Guide to the Great American Rip-Off.” Follow her on Twitter @KristinBTate.
+
+
+
+
+
+Tags 
+
+		AI chatbot		
+
+		Artificial intelligence		
+
+		ChatGPT		
+
+		Kristin Tate		
+
+		STEM fields		
+
+
+
+Copyright 2024 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Post
+
+
+
+ 
+		
+
+
+
+
+
+...
+
+
+More
+
+
+
+
+
+
+
+Share
+✕
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+						LinkedIn					
+
+
+
+
+
+
+
+Whatsapp
+
+
+
+
+
+
+
+						Whatsapp					
+
+
+
+
+
+
+
+Email
+
+
+
+
+						Email					
+
+
+
+
+
+
+
+SPONSORED CONTENTPrivacy PolicyPrivacy PolicyCar Insurance DiscountVirginia Launches New Coverage for Cars Used Less Than 50 Miles/DayCar Insurance Discount|SponsoredSponsoredRead MoreUndoOnline Shopping ToolsUnsold Cruise Cabins Cost Almost Nothing For Seniors (See Why)Online Shopping Tools|SponsoredSponsoredLearn MoreUndoBarestepThese New Shoes Are Leaving Neuropathy Experts BaffledBarestep|SponsoredSponsoredLearn MoreUndoMotley FoolNvidia's New Rival (Hint: It's Not AMZN)Motley Fool|SponsoredSponsoredUndoHomeBuddyHere's an Estimated Cost for a One-Day Walk-in ShowerHomeBuddy|SponsoredSponsoredUndoSherumSecret Revealed: How Gardeners Remove Gravel Weeds 'Faster' Than Other MethodsfSherum|SponsoredSponsoredLearn MoreUndoTravel DealsAverage Cost to Charter A Private Jet May Surprise You (See Prices)Travel Deals|SponsoredSponsoredUndoAudienHearingForbes And Walmart Shoppers Agree. These Are The Best Hearing Aids On The MarketAudienHearing|SponsoredSponsoredShop NowUndoCommonSearchesNew Electric Cars Are So Cheap Now (Take A Look)CommonSearches|SponsoredSponsoredClick HereUndo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				More Technology News			
+
+
+
+							See All						
+
+
+
+
+
+
+
+
+
+
+
+
+				Technology			
+
+
+
+
+			Can the Boeing Starliner bring back its astronauts and its reputation?			
+
+
+
+
+
+
+
+
+				by Mark R. Whittington, opinion contributor			
+
+
+						16 hours ago		
+
+
+
+
+
+					Technology				
+
+
+				 / 
+			
+
+									16 hours ago							
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Technology			
+
+
+
+
+			How to win at online dating using AI			
+
+
+
+
+
+
+
+
+				by Liberty Vittert, Opinion Contributor			
+
+
+						18 hours ago		
+
+
+
+
+
+					Technology				
+
+
+				 / 
+			
+
+									18 hours ago							
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Technology			
+
+
+
+
+			End Big Tech’s free ride 			
+
+
+
+
+
+
+
+
+				by Adonis Hoffman, opinion contributor  			
+
+
+						3 days ago		
+
+
+
+
+
+					Technology				
+
+
+				 / 
+			
+
+									3 days ago							
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Technology			
+
+
+
+
+			Apollo 11's memories are fueling excitement for the Artemis generation 			
+
+
+
+
+
+
+
+
+				by Mark R. Whittington, opinion contributor			
+
+
+						6 days ago		
+
+
+
+
+
+					Technology				
+
+
+				 / 
+			
+
+									6 days ago							
+
+
+
+
+
+
+
+
+				See All			
+
+
+
+
+ 
+
+
+
+
+
+
+
+		Video/Hill.TV	
+
+
+
+					See all Hill.TV				
+
+
+
+					See all Video				
+
+
+
+
+
+
+
+
+
+
+
+
+				Rising			
+
+
+
+			Rising: July 19, 2024		
+
+
+
+
+
+
+
+				by TheHill.com			
+
+
+						07/19/24 12:43 PM ET		
+
+
+
+
+
+					Rising				
+
+
+				 / 
+			
+
+									3 days ago							
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Rising			
+
+
+
+
+			Rising: July 18, 2024			
+
+
+
+
+
+
+
+
+				by TheHill.com			
+
+
+						3 days ago		
+
+
+
+
+
+					Rising				
+
+
+				 / 
+			
+
+									4 days ago							
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Rising			
+
+
+
+
+			Rising: July 17, 2024			
+
+
+
+
+
+
+
+
+				by TheHill.com			
+
+
+						4 days ago		
+
+
+
+
+
+					Rising				
+
+
+				 / 
+			
+
+									4 days ago							
+
+
+
+
+
+
+
+
+			See all Hill.TV		
+
+
+
+			See all Video		
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Top Stories			
+
+
+
+							See All						
+
+
+
+
+
+
+
+
+
+
+
+
+				House			
+
+
+
+
+			Harris races to lock down support after Biden drops out			
+
+
+
+
+
+
+
+
+				by Mychael Schnell 
+
+
+						6 hours ago		
+
+
+
+
+
+					House				
+
+
+				 / 
+			
+
+									6 hours ago							
+
+
+
+
+
+
+
+
+				See All			
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+		Most Popular	
+
+
+
+					Harris vs. Trump: What the polls tell us				
+
+
+
+					Who could be Harris’s running mate?				
+
+
+
+					House Republicans say Biden must resign after ending reelection campaign				
+
+
+
+					Delegate tracker: Harris gets quick start on road to 1,986				
+
+
+
+					Succession by defenestration: How Biden’s withdrawal could trigger a 25th ...				
+
+
+
+					ActBlue rakes in nearly $50 million in 7 hours after Harris campaign launch				
+
+
+
+					Pelosi, Jeffries stop short of backing Harris as 2024 nominee				
+
+
+
+					RFK Jr. reinforces possibility of winning 2024 after Biden drops out				
+
+
+
+					Biden withdraws from race in presidential earthquake				
+
+
+
+					Ready for Round 2: Why we Need Hillary more than ever 				
+
+
+
+					Manchin considering rejoining Democratic Party to challenge Harris				
+
+
+
+					Republicans see opportunity in Harris presidential run after Biden exit				
+
+
+
+					Crockett says she hopes ‘the geniuses that pushed’ Biden out ‘have a ...				
+
+
+
+					Biden endorses Harris as Democratic nominee after ending his candidacy				
+
+
+
+					Obama stops short of backing Harris				
+
+
+
+					Here’s how Kamala Harris has performed against Trump in recent polls				
+
+
+
+					Recap: Biden endorses Harris after dropping out of 2024 race 				
+
+
+
+					A 28-day path forward for the Democratic Party				
+
+
+
+		Load more	
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+",NewsArticle,2023-03-08T15:55:00+00:00,2023-03-08T15:30:00+00:00,Artificial intelligence will destroy ‘laptop class’ workers,"{'@type': 'WebPage', '@id': 'https://thehill.com/opinion/technology/3884324-artificial-intelligence-will-destroy-laptop-class-workers/'}","[{'@type': 'Person', 'name': 'Kristin Tate, Opinion Contributor', 'url': ''}]","{'@type': 'Organization', 'name': 'The Hill'}",,"{'@type': 'ImageObject', 'url': 'https://thehill.com/wp-content/uploads/sites/2/2023/02/chatbot_020323_getty_educationAI.jpg', 'name': 'In this photo illustration, the welcome screen for the OpenAI &#8220;ChatGPT&#8221; app is displayed on a laptop screen on February 03, 2023 in London. OpenAI, whose online chatbot ChatGPT made waves when it debuted in December, announced that a commercial version of the service, called ChatGPT Plus, would soon be available to users in the United States.'}",,,The Hill,,,https://thehill.com/opinion/technology/3884324-artificial-intelligence-will-destroy-laptop-class-workers/,,,,"{'@type': 'SearchAction', 'target': 'https://thehill.com/search/{search_term_string}/', 'query-input': 'required name=search_term_string'}","The coming artificial intelligence economic revolution will be a major shock to the world. There is a serious possibility that the next decade will bring about a series of social and economic changes akin to the Industrial Revolution and the advent of the internet combined. Many writers, human resource officers, lawyers, writers, artists, and even coders increasingly will be replaced by AI as the “laptop class” of workers is decimated. At the same time, blue-collar workers who work with their hands will enjoy job security; their services cannot be replaced by technology. Unfortunately for waves of young people, the media’s advice to “learn to code” may have been like investing in typewriters.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Artificial intelligence is advancing at a breakneck speed. Recent announcements of programs that can mimic human conversation, copy our voice, write research papers, and paint beautiful pictures are just a small sliver of the coming AI revolution. The coming changes in everyday life soon will become noticeable, including the popularity of AI-generated video games, music, art, and even movies. A short description and a click of the mouse can spit out a new novel by John Steinbeck or an economic treatise by Thomas Sowell. Scores of jobs that require a college education will be changed nearly overnight. Rapid advances in this new technology will wreak havoc on the very people who prospered during COVID, especially those who work in the “knowledge economy” and can often carry out their duties from their laptops at home. Artificial intelligence advances within the next one to five years will outpace most work a human can input into a keyboard. Most content on the web will be written by chatbots. There will be AI influencers. Code will be written in a tiny fraction of the time it takes for humans to produce it. Graphic artists will lose most of their business to art generators. Even accountants and financial analysts may be outpaced by computers. ChatGPT already helps coders through basic code, which often needs refining. The chat service also can help replace many of the smarts needed to build a website. It already has passed an MBA exam and law exams. Some white-collar jobs will fare better than others with the advancement of AI. Those who pioneer new techniques or are at the top of their fields will still be able to earn a respectable wage. At the same time, workers whose jobs rely on an element of personality and face-to-face relationships likely will weather the storm. Would you rather have an actual human advising you on legal matters, your finances, and your health care decisions — or a machine? Still, the shift toward a nearly labor-free creative world may make white-collar jobs across the board fewer and farther between.&nbsp;&nbsp; The coming economic earthquake will be something of a reverse Industrial Revolution. Professions requiring practical knowledge will provide far more security than “knowledge economy jobs” that can be supplanted by algorithms. Replacing sheetrock can be done only by doing. AI cannot build a house, fix a plumbing issue, give you a haircut, or install lights in a public space. AI could make the lives of blue-collar workers easier with new tools and techniques, but the basics of construction, utility work and intricate machining will remain the same. We are entering into a world where general knowledge will be known mostly by machines and practical knowledge still will be implemented by human hands. There are tremendous social implications for the loss of millions of currently well-paying jobs. Many people who invested their time and careers into a certain profession will undergo a collective identity crisis. The increasing rate of social change and technological progress may mean serious shifts from year to year. Ironically, the massive advances in the STEM field also may prove to be its undoing. There will be a need for engineers and academics for the foreseeable future. However, many of the job paths related to the science, technology, engineering and math programs may be seriously reduced due to AI. The majors would have been worth more than social science degrees, but that’s damning with faint praise. The elite sneering at an honest day’s labor may be the economic and educational error of the last century. Unfortunately, the last generation in education elevated white-collar ideals over blue-collar experience. It may have been a very bad choice to convince would-be electricians to be English or even math majors.&nbsp; Many Americans will be shocked by the speed with which artificial intelligence changes their daily life. And just as the “new normal” sets in, there will be even larger changes. But as pink slips go out for online journalists, there will still be a need for a person able to fix a furnace. Kristin Tate is a libertarian writer and an analyst for Young Americans for Liberty. She is an author whose latest book is “How Do I Tax Thee? A Field Guide to the Great American Rip-Off.” Follow her on Twitter @KristinBTate.",Technology,"['Opinion', 'Technology']","[{'@context': 'https://schema.org', '@type': 'VideoObject', 'name': ""The Hill's Headlines – Mar. 8, 2023"", 'description': ""The Hill's Headlines – Mar. 8, 2023"", 'thumbnailUrl': 'https://c104216-fcdn.mp.lura.live/expiretime=2082787200/2d219465c42b88d76917211a30e5f9bb792836587e8715244f9a102f939cd42c//1/938892/pvw_lin/EE5/142/EE5142D72C839C1E898BE753F2630533_5_160x90.jpg', 'contentUrl': '', 'uploadDate': '2023-03-08T09:54:00-05:00', 'duration': 'P0DT0H1M0S'}]",,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNpby5jb20vYXJ0aWNsZS80NjM3NTAvZW50ZXJwcmlzZS1pdC1tb3Zlcy1mb3J3YXJkLWNhdXRpb3VzbHktd2l0aC1nZW5lcmF0aXZlLWFpLmh0bWzSAWFodHRwczovL3d3dy5jaW8uY29tL2FydGljbGUvNDYzNzUwL2VudGVycHJpc2UtaXQtbW92ZXMtZm9yd2FyZC1jYXV0aW91c2x5LXdpdGgtZ2VuZXJhdGl2ZS1haS5odG1s?oc=5,Enterprise IT moves forward — cautiously — with generative AI - CIO,2023-03-07,CIO,https://www.cio.com,CIOs see opportunities to use breakthrough AI models to increase productivity in areas ranging from writing marketing copy to software coding — but only if enterprises have the right guardrails in place.,N/A,CIOs see opportunities to use breakthrough AI models to increase productivity in areas ranging from writing marketing copy to software coding — but only if enterprises have the right guardrails in place.,CIOs see opportunities to use breakthrough AI models to increase productivity in areas ranging from writing marketing copy to software coding — but only if enterprises have the right guardrails in place.,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+		CIOs see opportunities to use breakthrough AI models to increase productivity in areas ranging from writing marketing copy to software coding — but only if enterprises have the right guardrails in place.	
+
+
+
+
+ 
+Credit: Shutterstock / Laurent T
+
+
+
+
+
+
+
+
+Vince Kellen understands the well-documented limitations of ChatGPT, DALL-E and other generative AI technologies — that answers may not be truthful, generated images may lack compositional integrity, and outputs may be biased — but he’s moving ahead anyway. Kellen, CIO at the University of California San Diego (UCSD), says employees are already using ChatGPT to write code as well as job descriptions.
+OpenAI’s text-generating ChatGPT, along with its image generation cousin DALL-E, are the most prominent among a series of large language models, also known as generative language models or generative AI, that have captured the public’s imagination over the last year. The models respond to written requests to generate a variety of responses ranging from text documents and images to programming code.
+Kellen sees ChatGPT-generated code as a productivity-enhancing tool in much the same way that compilers were an improvement over assembly language. “Something that produces libraries and software is no different than searching GitHub,” he says. “We also use it to write job descriptions that are sensitive to our content and formatting. You can then move on to editing very quickly, looking for errors and confabulations.” While the technology is still in its early stages, for some enterprise applications, such as those that are content and workflow-intensive, its undeniable influence is here now — but proceed with caution.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Ready for the right applications
+Generative AI is ready for use in coding, administrative workflows, data refinement, and simple use cases such as pre-filling forms, says Oliver Wittmaier, CIO and product owner at DB SYSTEL GmbH, the wholly owned subsidiary of DB AG and digital partner for all group companies. And in the transportation industry, he says, “AI can directly or indirectly impact the avoidance of transport, the steering of transport, and the management of transport.”
+
+More Videos0 seconds of 8 minutes, 41 secondsVolume 0%Press shift question mark to access a list of keyboard shortcutsKeyboard ShortcutsEnabledDisabledShortcuts Open/Close/ or ?Play/PauseSPACEIncrease Volume↑Decrease Volume↓Seek Forward→Seek Backward←Captions On/OffcFullscreen/Exit FullscreenfMute/UnmutemDecrease Caption Size-Increase Caption Size+ or =Seek %0-9
+ 
+
+
+Next UpCIO Leadership Live Karen Higgins-Carter59:43SettingsOffAutomated Captions - en-USFont ColorWhiteFont Opacity100%Font Size100%Font FamilyArialCharacter EdgeNoneBackground ColorBlackBackground Opacity50%Window ColorBlackWindow Opacity0%ResetWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%200%175%150%125%100%75%50%ArialCourierGeorgiaImpactLucida ConsoleTahomaTimes New RomanTrebuchet MSVerdanaNoneRaisedDepressedUniformDrop ShadowWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%WhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%
+
+
+
+
+
+
+
+Live00:0008:4108:41 
+
+Oliver Wittmaier, CIO and product owner at DB SYSTEL GmbH
+DB SYSTEL GmbH
+Content generation is also an area of particular interest to Michal Cenkl, director of innovation and experimentation at Mitre Corp. “I want contextual summarization and refinement via dialog, and that’s what these large-language models deliver, he says. Currently his team is looking into two use cases in the knowledge and expertise domains. “The first is if I want to write an email to one of our sponsors that summarizes the work we’ve done that’s relevant to them—and write it in the context of communications we’ve already had with them. That’s incredibly powerful.”
+The second is for project staffing. Normally Cenkl reviews résumés and searches by skills tags to find the right people for a project. Generative AI can facilitate that. “For example, I might want to ask, ‘What can Michael do on this project,’ based on what he’s doing now, and get a summary of what he could do without me having to construct that from a résumé.”
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+And over at used car retailer CarMax, they’ve been using generative AI for over a year, leveraging OpenAI’s APIs to consolidate customer review text to summaries that are more manageable and readable. But CIO Shamim Mohammad says his team has expanded its use of the technology into other areas as well.
+One application, in vehicle imaging, was conceived as a way to improve customer experience. AI optimizes images for every vehicle the company adds to its inventory, which at any given time includes between 50,000 and 60,000 vehicles, he says. “We make every image as realistic as possible without losing the validity of it,” he says. For example, its data scientists created a “digital sweeper” model that replaces a photo of a car sitting on a dirty floor with an image that shows the car sitting on a clean one. “It’s still the same car, but looks better and it’s a better experience for the customer,” he says.
+Similarly, Nike has been using generative AI to generate product prototype images, says Forrester analyst Rowan Curran. “You can use a text-to-3D modeler, test in 3D space, and get a much more visceral feel for how it will look in the real world — all with very little effort,” he says.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Applications with the greatest potential payback
+Creating code and improving customer experience are the main areas companies can take advantage of today using generative AI, and they have the greatest potential payback in terms of efficiency gains, Mohammad says.
+
+
+
+
+
+
+Explore related questions
+
+
+What are the most promising applications of generative AI in enterprise IT?How can generative AI improve coding productivity in software development?What are the benefits of using generative AI for content generation in enterprise workflows?Can generative AI replace human writers in creating job descriptions?How does generative AI impact the transportation industry?
+
+
+
+
+
+Ask
+
+
+
+
+Shamim Mohammad, CIO, CarMax
+CarMax
+Gary Jeter, EVP and CIO at TruStone Financial Credit Union, says these are areas his developers have also pursued with GitHub’s implementation of OpenAI’s Codex. And, he says, using generative AI for coding has worked well. Cenkl adds that generative AI models work better on coding than on human language because programming languages are more structured. “It can tease out that structure, and that’s why it works,” says Cenkl.
+CarMax is experimenting with GitHub’s Copilot, where he says engineers in some cases could potentially generate up to 40% of their code. “This is evolving quickly,” Mohammad says. “But you have to make sure there’s no copyright infringement, fake content or malware embedded if you’re using it to create software.” You can’t just plug that code in without oversight.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Other areas ripe for enterprise applications, says Curran, include generating marketing copy, images, designs, and creating better summaries of existing data so people can consume it more effectively. “Some people are even using these large language models as a way to clean unstructured data,” he says. And in the coming year, generative AI capabilities may begin to appear in some enterprise software ranging from help desk software to Microsoft Office applications.
+Don’t trust, verify
+Aside from the benefits, CIOs deploying the technology need to be aware of potential intellectual property issues regarding generated outputs, CarMax’s Mohammad cautions. Generative models, such as DALL-E that trains on data from the Internet, have generated content that may infringe on copyrighted content, which is why Getty Images recently sued Stability AI over its AI-driven art generation tool Stable Diffusion.
+Michal Cenkl, director of innovation and experimentation, Mitre Corp.
+Mitre Corp.
+The technology also needs human oversight. “Systems like ChatGPT have no idea what they’re authoring, and they’re very good at convincing you that what they’re saying is accurate, even when it’s not,” says Cenkl. There’s no AI assurance — no attribution or reference information letting you know how it came up with its response, and no AI explainability, indicating why something was written the way it was. “You don’t know what the basis is or what parts of the training set are influencing the model,” he says. “What you get is purely an analysis based on an existing data set, so you have opportunities for not just bias but factual errors.”
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Wittmaier is bullish on the technology, but still not sold on customer-facing deployment of what he sees as an early-stage technology. At this point, he says, there’s short-term potential in the office suite environment, customer contact chatbots, help desk features, and documentation in general, but in terms of safety-related areas in the transportation company’s business, he adds, the answer is a clear no. “We still have a lot to learn and improve to be able to include generative AI in such sensitive areas,” he says.
+Jeter has similar concerns. While his team used ChatGPT to identify a code fix and deploy it to a website within 30 minutes — “It would have taken much longer without ChatGPT” — and he thinks it’s useful for drafting terms and conditions in contracts, it’s not entirely proven. “We will not expose any generative AI to external members,” he says. “TruStone will not be bleeding edge in this space.”
+Gary Jeter, EVP and CIO, TruStone Financial Credit Union
+TruStone Financial Credit Union
+When TruStone eventually starts using the technology for the benefit of its members, he adds, it will monitor conversations through human and automated review to protect its members and the brand.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Today, the key to successful deployment is still having a human in the loop to review generated content for accuracy and compliance, says UCSD’s Kellen. “Making sure the machine makes the right decision becomes an important litigation point,” he says. “It’ll be quite a while before organizations [use it] for anything that’s high risk, such as medical diagnoses.” But generative AI works fine for generating something like review summaries, provided there’s a human overseeing them. “That slows us down a bit, but it’s the right thing to do,” he says. Eventually, he adds, “We’ll find automated ways to ensure that quality is good. But right now, you must have a review process to make sure the content generated is accurate.”
+Vince Kellen, CIO, UCSD
+UCSD
+Another well-documented risk, in addition to accuracy, is the potential for bias in the models introduced from the data used to train them. This is especially problematic when generative AI is using content from the Internet, as ChatGPT does, but that may be less of an issue when training the model against your own private corporate data that you can review for potential bias, Kellen says. “The more you get to the enterprise, where the class of data is more constrained and more mundane, the more generative AI shines,” he says.
+The thing to understand about large-language models, says Cenkl, is these machines are to some degree savants. “They don’t understand, but they’re very good at computing,” he says.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Changes in job responsibilities, roles
+“Technology has made things better, but it’s also created a lot of extra work for us,” says Mohammad. However, he believes generative AI is different. “It’s exciting because it’s going to take away some of the stuff we don’t like to do and make us more intelligent,” he says. “It will augment humans.”
+
+But Curran points out that there’s no expectation that generative AI will completely replace any role in the short term. “It may reduce the number of people needed to execute a role, such as in content development, product information management or software development,” he says. “But there will always be the need for a human in the loop.” And Mohammad adds that even if the technology can write and summarize, human intelligence will always be needed to ensure quality, and to control what’s been generated to make it better.
+Steps to get started
+Now is the time to get up to speed on generative AI technology and start experimenting, says Kellen. “CIOs have to get their heads inside this puzzle before they’re bamboozled by vendors who are embedding the technology into their enterprise software offerings,” he says. “If you spend the next year procrastinating, you’ll be behind the curve.”
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+It’s important to get educated and go deeper than the public discussion on ChatGPT in order to understand that this technology is much more complex than one application, says Curran. Then start considering use cases where generative AI might improve the efficiency or quality of existing processes. Finally, ask what types of capabilities you’ll need and whether you should acquire that from a vendor or build it yourself.
+From there it’s a matter of testing the technology and consider potential use cases. “A lot of your systems, whether they use structured or unstructured data, will have at least some component of natural language and conversational interface,” says Cenkl. “Think about the data you have and what parts of that can be augmented by these technologies,” and then demonstrate the potential. For example, Jeter says he generated a template of terms and conditions and sent it to his compliance department to show how they could use it. 
+Generative AI models are large, and training them from scratch is expensive, so the best way to get started is to use one of the cloud services, says Curran. CarMax, for example, uses Microsoft’s Azure OpenAI Service with GPT 3.5. “The data we load is our own — it’s not shared with others,” Mohammad says. “We can have massive amounts of data and process it very quickly to run our models. If you have a small team or business problem that might take advantage of generative AI technology, give it a shot.”
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+More on generative AI: 
+
+Expedia poised to take flight with generative AI
+ServiceNow offers virtual agent to assist with generative AI
+AI push or pause: CIOs speak out on the best path forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Related content
+
+ 
+
+
+news
+
+CrowdStrike incident has CIOs rethinking their cloud strategies
+CIOs are looking at ways to avoid single points of failure and are re-evaluating their cloud strategies to prevent any 'blue screen of death' incidents. 
+
+				By Gyana Swain				
+
+
+Jul 22, 2024
+
+7 mins 
+
+
+Business Continuity
+Cloud Computing
+
+
+
+
+
+
+brandpost
+
+							Sponsored by Avaya						
+
+Data security and privacy: The foundation of customer trust
+Striking the balance between enhanced customer engagement, robust data security measures, and upholding customer privacy: Exploring innovations, challenges, and regulatory landscapes in the pursuit of seamless, trustworthy experiences. 
+
+				By  Chris Hill, Chief Information Security Officer, and Niklas Potthoff, Global Data Privacy Officer, Avaya				
+
+
+Jul 22, 2024
+
+7 mins 
+
+
+Data Management
+
+
+
+
+
+
+brandpost
+
+							Sponsored by Ultrium LTO						
+
+LTO technology: One of the most enduring – and most effective – ways to protect your data from cybercrime
+Linear Tape-Open (LTO) not only reads and writes data faster than disk, but also creates an airgap that is impassable for cybercriminals. 
+
+				By Jeff Miller				
+
+
+Jul 22, 2024
+
+3 mins 
+
+
+Security
+
+
+
+
+
+
+brandpost
+
+							Sponsored by Ultrium LTO						
+
+Why LTO technology is a vital solution for protecting enterprise data
+Linear Tape-Open (LTO) hasn’t stood still as a technology; it has been in continuous development for almost a quarter-century. It provides a reliable, offline, cost-effective means of protecting and securing data, creating a formidable last lin 
+
+				By Jeff Miller				
+
+
+Jul 22, 2024
+
+3 mins 
+
+
+Security
+
+
+
+
+
+
+PODCASTS
+
+
+VIDEOS
+
+
+RESOURCES
+
+
+EVENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SUBSCRIBE TO OUR NEWSLETTER			
+
+				From our editors straight to your inbox			
+
+			Get started by entering your email address below.		
+
+
+ 
+
+
+
+Please enter a valid email address
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGVudGVycHJpc2VhaS9mZWF0dXJlL0dBTnMtdnMtVkFFcy1XaGF0LWlzLXRoZS1iZXN0LWdlbmVyYXRpdmUtQUktYXBwcm9hY2jSAQA?oc=5,GANs vs. VAEs: What is the best generative AI approach? - TechTarget,2023-03-08,TechTarget,https://www.techtarget.com,"The use of generative AI is taking off across industries. Two popular approaches are GANs, which are used to generate multimedia, and VAEs, used more for signal analysis.",N/A,Read about the differences between GANs vs. VAEs and how the generative AI approaches are used in the tech sector.,Read about the differences between GANs vs. VAEs and how the generative AI approaches are used in the tech sector.,https://schema.org,,N/A,N/A,"
+
+
+
+
+
+Tech Accelerator
+What is generative AI? Everything you need to know
+
+
+Prev
+Next
+generative adversarial network (GAN)
+deepfake AI (deep fake)
+Download this guide1
+
+
+
+
+
+
+
+
+
+Feature
+
+
+GANs vs. VAEs: What is the best generative AI approach?
+
+
+The use of generative AI is taking off across industries. Two popular approaches are GANs, which are used to generate multimedia, and VAEs, used more for signal analysis.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+George Lawton
+
+
+
+Published: 08 Mar 2023
+
+
+ 
+Generative adversarial networks and variational autoencoders are two of the most popular approaches used for producing AI-generated content. In general, GANs tend to be more widely used for generating multimedia, while VAEs see more use in signal analysis.
+
+
+
+
+
+
+
+How does this translate to real-world, pragmatic value? Generative AI techniques help create AI models, synthetic data and realistic multimedia, such as voices and images. Although these techniques are sometimes used for creating deepfakes, they can also create realistic dubs for movies and generate images from brief text descriptions. They also generate drug discovery targets, recommend product design choices and improve security algorithms.
+
+How do GANs work?
+Ian Goodfellow and fellow researchers at the University of Montreal introduced GANs in 2014. They have shown tremendous promise in generating many types of realistic data. Yann LeCun, chief AI scientist at Meta, has written that GANs and their variations are ""the most interesting idea in the last ten years in machine learning.""
+For starters, GANs have been used to generate realistic speech, including matching voices and lip movements to produce better translations. They have also translated imagery, differentiated between night and day and delineated dance moves between bodies. Combined with other AI techniques, they improve security and build better AI classifiers.
+
+
+
+This article is part of
+What is generative AI? Everything you need to know
+
+Which also includes:
+8 top generative AI tool categories for 2024
+Will AI replace jobs? 9 job types that might be affected
+19 of the best large language models in 2024
+
+
+
+
+The actual mechanics of GANs involve the interplay of two neural networks that work together to generate and then classify data that is representative of reality. GANs generate content using a generator neural network that is tested against a second neural network: the discriminator, which determines whether the content looks ""real."" This feedback helps train a better generator network. The discriminator can also detect fake content or a piece of content that is not part of the domain. Over time, both neural networks get better, and the feedback helps them learn to generate data that's as close to reality as possible.
+
+
+
+GAN training method
+
+
+
+
+
+
+
+How do VAEs work and compare with GANs?
+VAEs were also introduced in 2014, but by Diederik Kingma, a research scientist at Google, and Max Welling, research chair in machine learning at the University of Amsterdam. VAEs also promise to create more effective classification engines for various tasks, with different mechanics. At their core, they build on neural network autoencoders made up of two neural networks: an encoder and a decoder. The encoder network optimizes for more efficient ways of representing data, while the decoder network optimizes for more efficient ways of regenerating the original data set.
+Traditionally, autoencoder techniques clean data, improve predictive analysis, compress data and reduce the dimensionality of data sets for other algorithms. VAEs take this further to minimize errors between the raw signal and the reconstruction.
+""VAEs are extraordinarily strong in providing near-original content with just a reduced vector. It also allows us to generate inexistent content that can be used free of licensing,"" said Tiago Cardoso, group product manager at Hyland Software.
+The biggest difference found when juxtaposing GANs vs. VAEs is how they are applied. Pratik Agrawal, partner in the digital transformation and AI practice at management consulting company Kearney, said that GANs are typically employed when dealing with any kind of imagery or visual data. He finds that VAEs work better for signal processing uses cases, such as anomaly detection for predictive maintenance or security analytics applications.
+
+
+Generative AI use cases
+Generative AI techniques likes GANs and VAEs can be deployed in a seemingly limitless variety of use cases, including the following:
+
+Implementing chatbots for customer service and technical support.
+Deploying deepfakes for mimicking people.
+Improving dubbing for movies.
+Writing email responses, dating profiles, resumes and term papers.
+Creating photorealistic art in a particular style.
+Suggesting new drug compounds to test.
+Designing physical products and buildings.
+Optimizing new chip designs.
+Writing music in a specific style or tone.
+
+
+
+Since both VAEs and GANs are examples of neural networks, their applications can be limited in actual live business examples, Agrawal said. Data scientists and developers working with these techniques must tie results back to inputs and run sensitivity analysis. It is also essential to consider factors such as the sustainability of these solutions and to address who runs them, how often they are maintained and the technology resources needed to update them.
+It's worth noting that a variety of other techniques have recently emerged in generative AI, including diffusion models, which are used for generating and optimizing images; transformers such as Open AI's ChatGPT, widely used in language generation; and neural radiance fields, or NeRFs, a new technique being used to create realistic 3D media from 2D data.
+
+
+Next Steps
+GAN vs. transformer models: Comparing architectures and uses
+Assessing different types of generative AI applications
+History of generative AI innovations spans 9 decades
+Generative AI ethics: 8 biggest concerns
+Generative AI landscape: Potential future trends
+
+
+
+
+
+Related Resources
+
+
+Buying an AI Infrastructure: What You Should Know
+–Data Science Central
+
+
+Vishing attacks increasing, but AI's role still unclear
+–TechTarget ComputerWeekly.com
+
+
+Human-like AI quest drives general AI development efforts
+–TechTarget ComputerWeekly.com
+
+
+Optimising content management workflows with AI
+–TechTarget ComputerWeekly.com
+
+
+
+
+
+Dig Deeper on AI technologies
+
+
+
+Generative models: VAEs, GANs, diffusion, transformers, NeRFs
+
+
+
+
+By: George Lawton
+
+
+
+
+What is generative AI? Everything you need to know
+
+
+
+
+By: George Lawton
+
+
+
+
+What are masked language models (MLMs)?
+
+
+
+
+By: Kinza Yasar
+
+
+
+
+Artificial intelligence in healthcare: defining the most common terms
+
+
+
+
+
+
+
+
+Sponsored News
+
+
+Three Innovative AI Use Cases for Natural Language Processing
+–Dell Technologies
+
+
+Power Your Generative AI Initiatives With High-Performance, Reliable, ...
+–Dell Technologies and Intel
+
+
+A Generative AI Use Case Brought to Life with Solutions from Dell Technologies
+–Dell Technologies and Intel
+
+See More
+
+
+
+
+
+Related Content
+
+
+Generative models: VAEs, GANs, diffusion, ...
+– Enterprise AI
+
+
+variational autoencoder (VAE)
+– Enterprise AI
+
+
+generative modeling
+– Enterprise AI
+
+
+
+
+
+
+
+
+",Article,,2023-03-08T12:54Z,GANs vs. VAEs: What is the best generative AI approach?,"{'@type': 'WebPage', '@id': 'https://www.techtarget.com/searchenterpriseai/feature/GANs-vs-VAEs-What-is-the-best-generative-AI-approach'}","[{'name': 'George Lawton', '@type': 'Person'}]","{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",,https://cdn.ttgtmedia.com/rms/onlineimages/ai_a279596285.jpg,,,GANs vs. VAEs: What is the best generative AI approach?,,,,,,,,,,,,"{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",False,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vaGFpLnN0YW5mb3JkLmVkdS9uZXdzL2FpLXdpbGwtdHJhbnNmb3JtLXRlYWNoaW5nLWFuZC1sZWFybmluZy1sZXRzLWdldC1pdC1yaWdodNIBAA?oc=5,AI Will Transform Teaching and Learning. Let's Get it Right. - Stanford HAI,2023-03-09,Stanford HAI,https://hai.stanford.edu,"At the recent AI+Education Summit, Stanford researchers, students, and industry leaders discussed both the potential of AI to transform education for the better and the risks at play.",N/A,"At the recent AI+Education Summit, Stanford researchers, students, and industry leaders discussed both the potential of AI to transform education for the better and the risks at play.","At the recent AI+Education Summit, Stanford researchers, students, and industry leaders discussed both the potential of AI to transform education for the better and the risks at play.",,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXVnbWVudGVkLWludGVsbGlnZW5jZdIBAA?oc=5,What Is Augmented Intelligence? - Built In,2023-03-07,Built In,https://builtin.com,Augmented intelligence is a subset of AI that uses machine learning and deep learning to process data and assist humans in making data-driven decisions. ,N/A,Augmented intelligence is a subset of AI that uses machine learning and deep learning to process data and assist humans in making data-driven decisions. ,Augmented intelligence is a subset of AI that uses machine learning and deep learning to process data and assist humans in making data-driven decisions. ,https://schema.org,"[{'@context': 'https://schema.org', '@type': 'Article', 'headline': 'What Is Augmented Intelligence?', 'name': 'What Is Augmented Intelligence?', 'description': 'Augmented intelligence refers to the assistive role artificial intelligence can play in improving human decision making, which is different from the popular conception of AI in which computers replace humans. A subset of artificial intelligence, augmented intelligence seeks to center the ways humans and machines can work together, not remove the human element from certain work.', 'image': {'@type': 'ImageObject', 'url': 'https://builtin.com/sites/www.builtin.com/files/2022-10/connected-heads-artificial-intelligence-augmented-intelligence.png', 'representativeOfPage': True}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://builtin.com/artificial-intelligence/augmented-intelligence', 'name': 'What Is Augmented Intelligence?', 'lastReviewed': '2023-03-07T06:00:00+00:00', 'reviewedBy': {'@type': 'Person', '@id': 'https://builtin.com/authors/artem-oppermann', 'name': 'Artem Oppermann', 'description': 'Artem Oppermann is a research engineer at BTC Embedded Systems with a focus on artificial intelligence and machine learning. He began his career during university as a freelance machine learning developer and consultant in 2016. In 2020, Oppermann earned his master’s degree in physics and began working in the autonomous driving industry. For years, Artem has been sharing his expertise in AI with the public by writing technical, detailed articles on the subject.\r\n', 'jobTitle': 'Research Engineer', 'sameAs': 'https://www.linkedin.com/in/artem-oppermann/', 'url': 'https://builtin.com/authors/artem-oppermann', 'alumniOf': {'@type': 'Organization', 'name': 'Carl von Ossietzky University of Oldenburg'}, 'honorificSuffix': 'M.Sc.', 'knowsAbout': 'Artificial intelligence, machine learning and physics'}}, 'url': 'https://builtin.com/artificial-intelligence/augmented-intelligence', 'about': [{'@type': 'Thing', 'name': 'Artificial Intelligence'}, {'@type': 'Thing', 'name': 'Data Science'}], 'author': {'@type': 'Person', '@id': 'https://builtin.com/authors/dawn-kawamoto', 'name': 'Dawn Kawamoto', 'description': ""Dawn Kawamoto is a Built In staff reporter covering workplace trends, with a focus on tech workers and HR.&nbsp;\r\n\r\nShe has written and edited for publications including technology careers site&nbsp;Dice, where she was an Associate Editor, and also CNET, where she was News.com's first business editor and a long-time business tech reporter.&nbsp;While working at CNET, Kawamoto received national journalism awards from Sigma Delta Chi and the distinguished Gerald Loeb Awards.&nbsp;&nbsp;\r\n\r\n&nbsp;\r\n"", 'jobTitle': 'Staff Reporter', 'sameAs': 'https://www.linkedin.com/in/dawnkawamoto/', 'url': 'https://builtin.com/authors/dawn-kawamoto', 'alumniOf': {'@type': 'Organization', 'name': 'California Polytechnic State University, San Luis '}, 'knowsAbout': 'Careers, workplace and tech'}, 'dateModified': '2023-03-07T06:00:00+00:00', 'datePublished': '2023-03-08T05:50:00+00:00', 'publisher': {'@type': 'Organization', '@id': 'https://builtin.com', 'name': 'Built In', 'url': 'https://builtin.com', 'sameAs': ['https://www.facebook.com/BuiltInHQ/', 'https://twitter.com/builtin', 'https://www.instagram.com/builtin/', 'https://www.linkedin.com/company/built-in'], 'brand': {'@type': 'Brand', 'name': 'Built In'}, 'logo': {'@type': 'ImageObject', 'url': 'https://static.builtin.com/dist/images/built-logo.png', 'representativeOfPage': True}}}]",N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image: Shutterstock / Built In
+
+UPDATED BY
+Jessica Powers | Mar 07, 2023REVIEWED BY
+Artem Oppermann
+
+
+
+Augmented intelligence refers to the assistive role artificial intelligence can play in improving human decision making, which is different from the popular conception of AI in which computers replace humans. A subset of artificial intelligence, augmented intelligence seeks to center the ways humans and machines can work together, not remove the human element from certain work.
+ 
+What Is Augmented Intelligence?
+Augmented intelligence is designed to work with humans to enhance their capabilities, rather than remove humans from the picture. It relies on machine learning and deep learning to crunch through reams of data, which humans then use to make decisions and take action.
+What Is Augmented Intelligence?Augmented intelligence is a subset of artificial intelligence in which AI technologies assist humans rather than replace them. It’s typically done using machine learning to analyze data and help humans make smarter decisions.
+ 
+
+Humans can use augmented intelligence to enhance their capabilities and tools. This is especially true for industries that employ data science and analytics. 
+In retail, for instance, augmented intelligence can suggest the optimal store layout and product placement to merchandisers based on shopper data, such as foot traffic patterns. And the medical field is also benefiting from augmented intelligence, with surgeons and healthcare providers receiving recommendations on patient treatments based on a mountain of medical data, research and the patient’s own medical record history.
+“Artificial intelligence is one of many, many different technologies, and augmented intelligence is a manifestation or outcome of how you choose to implement those AI technologies,” Frances Karamouzis, a VP analyst at research firm Gartner, told Built In.
+More on Human-AI Interactions Don’t Fear the Robot: The Human Consequences of Automation 
+Augmented Intelligence vs. Artificial Intelligence: What’s the Difference?
+The goal of AI is to show intelligent behavior that mimics the human mind and can ultimately automate processes and make decisions without any human intervention. (This goal, however, has yet to be reached.)
+Augmented Intelligence vs. Artificial IntelligenceArtificial intelligence seeks to automate processes by delving deep into data to yield answers and operate autonomously. Augmented intelligence uses AI technologies but in a fashion where humans are kept in the loop and play a key role in making decisions.
+
+Augmented intelligence is designed to show intelligent behavior too, but its differentiator is working with humans to improve the task to be done or decision to be made, said Heni Ben Amor, associate professor at Arizona State University’s School of Computing and Augmented Intelligence.
+Social intelligence, as it pertains to technology, is a feature of augmented intelligence that allows for the understanding of both the task and actions that the human is seeking to do before they do it, Subbarao Kambhampati, professor at the School of Computing and Augmented Intelligence at Arizona State University, said.
+AI systems don’t need to have much social intelligence because they are designed to work autonomously. But with augmented intelligence, social intelligence is required because it needs to give humans explanations about what it’s doing and allow people to advise it about what it should be doing in a way similar to how humans interact with one another, Kambhampati explained.
+
+
+
+
+Find out who's hiring.
+See all Developer + Engineer jobs at top tech companies & startups
+
+
+
+View 10000+ Jobs
+
+
+
+ 
+How Augmented Intelligence Works
+Augmented intelligence uses AI and machine learning to gather structured and unstructured data from multiple sources, which it then analyzes and interprets. 
+When teamed with humans, augmented intelligence systems have the benefit “of a bigger picture on common sense,” which AI systems tend to lack due to their deep and narrow view of data and information, Kambhampatihe said. For example, two supercomputers programmed to play chess may attempt to finish the game despite a fire in their office, whereas a supercomputer playing chess against a human would be instructed by the human to turn itself off. 
+“If I want a future where we are essentially replaced, then this is the future we are inventing with AI systems,” Kambhampati added. “But if I want a future where humans have a productive role to play, then augmented intelligence will become more and more increasingly important.”
+Read Next: What Should We Expect From AI? 
+How Augmented Intelligence Is Used 
+Self-Driving Cars Navigating Safely 
+“Self-driving cars” might sound like no human oversight is needed, but that isn’t always the case. In fact, Tesla vehicles use augmented intelligence. Although its autopilot software is being developed so that cars can largely navigate roads autonomously, there are times when they require human intervention in certain emergencies, like cars suddenly pulling into the driver’s lane or slamming on the brakes on short notice.
+
+
+They're Hiring | View 15 JobsTesla is Hiring | View 15 Jobs
+
+
+ 
+Helping Retailers Identify Store Bottlenecks
+Retail is one industry that has a lot to gain from augmented intelligence. The technology can be used to analyze customer and storefront data to improve operations both online and in-person.
+Data visualization company RadiusAI uses augmented intelligence to suggest to retailers where bottlenecks are occurring in their stores that could impede sales or where product placements may get noticed more. But it’s up to humans to then make those changes and optimize retail operations based on suggestions from the augmented intelligence system.
+
+
+ 
+Suggesting Diagnoses and Treatments 
+AI and healthcare have proven to be an ideal match and augmented intelligence in the healthcare industry is no different. With augmented intelligence, medical professionals can comb through patient data quickly and receive actionable insights and recommendations from the system. 
+One example of this is VisualDx’s use of augmented intelligence, which culls through its expansive curated medical image library. With this technology, dermatologists receive recommendations about the types of skin diseases and skin problems that may be affecting their patients. 
+
+
+ 
+Analyzing Blood Tests to Detect Cancer 
+Augmented intelligence can be used for more than just sifting through records and images in the medical field. When the technology is applied to blood test data sets, it might even be able to detect cancer. Biotech company Freenome uses biological analysis of data sets to cull through blood tests looking for early warning signs of cancer with its augmented intelligence technology. With the enhanced blood test results, physicians are armed with additional information to treat patients.
+
+
+They're Hiring | View 1 JobsFreenome is Hiring | View 1 Jobs
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnVzY2hhbWJlci5jb20vdGVjaG5vbG9neS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1jb21taXNzaW9uLXJlcG9ydNIBAA?oc=5,Artificial Intelligence Commission Report - uschamber.com,2023-03-09,uschamber.com,https://www.uschamber.com,"The U.S. Chamber’s AI Commission report highlights the promise of Artificial Intelligence (AI) while calling for a risk-based, regulatory framework.","['siteGroup: MainChamber', 'articleType: report', 'Topic: Technology', 'Major Initiative: Artificial Intelligence: Preparing for the Future', 'Program: Chamber Technology Engagement Center', 'CMS: Reports']","The U.S. Chamber’s AI Commission report highlights the promise of Artificial Intelligence (AI) while calling for a risk-based, regulatory framework.","The U.S. Chamber’s AI Commission report highlights the promise of Artificial Intelligence (AI) while calling for a risk-based, regulatory framework.",http://schema.org,,N/A,N/A,"Artificial Intelligence Commission ReportThe U.S. Chamber’s AI Commission report highlights the promise of Artificial Intelligence (AI) while calling for a risk-based, regulatory framework.Topics/Technology/Artificial Intelligence Commission 2023 - Full Report
+                                    Download
+                            Artificial Intelligence Commission 2023 - Executive Summary
+                                    Download
+                            PublishedMarch 09, 2023ShareTable of Contents
+                        Key takeaways
+                    
+                        Five pillars of AI regulation
+                    
+                        Recommendations
+                    
+                        The Chamber's work on Artificial Intelligence
+                                            U.S. Chamber’s AI Commission Report Highlights the Promise of AI While Calling for a Risk-Based, Regulatory Framework
+                                                The EU Data Act: A Misguided Policy
+                                                U.S. Chamber Letter on a Hearing on Data Privacy
+                        
+    The use of artificial intelligence (AI) is expanding rapidly. These technological breakthroughs present both opportunity and potential peril. AI technology offers great hope for increasing economic opportunity, boosting incomes, speeding life science research at reduced costs, and simplifying the lives of consumers. With so much potential for innovation, organizations investing in AI-oriented practices are already ramping up initiatives that boost productivity to remain competitive.
+
+    Like most disruptive technologies, these investments can both create and displace jobs. If appropriate and reasonable protections are not put in place, AI could adversely affect privacy and personal liberties or promote bias. Policymakers must debate and resolve the questions emanating from these opportunities and concerns to ensure that AI is used responsibly and ethically.
+
+    This debate must answer several core questions: What is the government’s role in promoting the kinds of innovation that allow for learning and adaptation while leveraging core strengths of the American economy in innovation and product development? How might policymakers balance competing interests associated with AI—those of economic, societal, and quality-of-life improvements—against privacy concerns, workforce disruption, and built-in-biases associated with algorithmic decision-making? And how can Washington establish a policy and regulatory environment that will help ensure continued U.S. global AI leadership while navigating its own course between increasing regulations from Europe and competition from China’s broad-based adoption of AI?
+Statement on AI Commission ReportU.S. Chamber’s AI Commission Report Highlights the Promise of AI While Calling for a Risk-Based, Regulatory FrameworkRead more
+    The United States faces stiff competition from China in AI development. This competition is so fierce that it is unclear which nation will emerge as the global leader, raising significant security concerns for the United States and its allies. Another critical factor that will affect the path forward in the development of AI policy making is how nations historically consider important values, such as personal liberty, free speech, and privacy.
+
+    To maintain its competitive advantage, the United States, and like-minded jurisdictions, such as the European Union, need to reach agreement to resolve key legal challenges that currently impede industry growth. At this time, it is unclear if these important allies will collaborate on establishing a common set of rules to address these legal issues or if a more competitive—and potentially damaging—legal environment will emerge internationally.
+
+    AI has the capacity to transform our economy, how individuals live and work, and how nations interact with each other. Managing the potential negative impacts of this transition should be at the center of public policy. There is a growing sense that we have a short window of opportunity to address key risks while maximizing the enormous potential benefits of AI.
+The time to address these issues is now.
+    In 2022, the U.S. Chamber of Commerce formed the Commission on AI Competitiveness, Inclusion, and Innovation (“Commission”) to answer the questions central to this debate. The Commission, cochaired by former representatives John Delaney (D-MD) and Mike Ferguson (R-NJ), was tasked with the mission to provide independent, bipartisan recommendations to aid policymakers. Commissioners met over the course of a year with over 87 expert witnesses during five separate field hearings across the country and overseas, while also receiving written feedback from stakeholders answering three separate requests for information posed by the Commission.
+
+    The Commission observed six major themes from its fact finding:
+
+    Key takeaways
+
+                                    The development of AI and the introduction of AI-based systems are growing exponentially. Over the next 10 to 20 years, virtually every business and government agency will use AI. This will have a profound impact on society, the economy, and national security.
+                            
+                                    Policy leaders must undertake initiatives to develop thoughtful laws and rules for the development of responsible AI and its ethical deployment.
+                            
+                                    A failure to regulate AI will harm the economy, potentially diminish individual rights, and constrain the development and introduction of beneficial technologies.
+                            
+                                    The United States, through its technological advantages, well-developed system of individual rights, advanced legal system, and interlocking alliances with democracies, is uniquely situated to lead this effort.
+                            
+                                    The United States needs to act to ensure future economic growth, provide for a competitive workforce, maintain a competitive position in a global economy, and provide for our future national security needs.
+                            
+                                    Policies to promote responsible AI must be a top priority for this and future administrations and Congresses.
+                            
+    Understanding the importance of these findings, the Commission also determined that the following five pillars should be at the core of AI regulatory policy making:
+
+    Five pillars of AI regulation
+Efficiency
+    Policymakers must evaluate the applicability of existing laws and regulations. Appropriate enforcement of existing laws and regulations provides regulatory certainty and guidance to stakeholders and would help inform policymakers in developing future laws and regulations. Moreover, lawmakers should focus on filling gaps in existing regulations to accommodate new challenges created by AI usage.
+Collegiality
+    Federal interagency collaboration is vital to developing cohesive regulation of AI across the government. AI use is cross-cutting, complex, and rapidly changing and will require a strategic and coordinated approach among agencies. Therefore, the government will need to draw on expertise from the different agencies, thus allowing sector and agency experts the ability to narrow in on the most important emerging issues in their respective areas.
+Neutrality
+    Laws should be technology neutral and focus on applications and outcomes of AI, not the technologies themselves. Laws regarding AI should be created only as necessary to fill gaps in existing law, protect citizens’ rights, and foster public trust. Rather than trying to develop a onesize-fits-all regulatory framework, this approach to AI regulation allows for the development of flexible, industry-specific guidance and best practices.
+Flexibility
+    Laws and regulations should encourage private sector approaches to risk assessment and innovation. Policymakers should encourage soft law and best practice approaches developed collaboratively by the private sector, technical experts, civil society, and the government. Such non-binding, self-regulatory approaches provide the flexibility of keeping up with rapidly changing technology as opposed to laws that risk becoming outdated quickly.
+Proportionality
+    When policymakers determine that existing laws have gaps, they should attempt to adopt a risk-based approach to AI regulation. This model ensures a balanced and proportionate approach to creating an overall regulatory framework for AI.
+Back to top
+    Recommendations
+
+    Having understood the urgency to develop policies to promote responsible AI and to ensure economic and workforce growth, the Commission used these pillars to develop policy recommendations to put these priorities into action. The Commission recommends areas that policymakers must address, including preparing the workforce through education, bolstering global competitiveness in the areas of intellectual property while shoring up partnerships, and protecting national security.
+Preparing the WorkforceUse an Evidence-Based Approach. Policymakers must take action to understand the potential impact of AI on the American workforce by leveraging new data sources and advanced analytics to understand the evolving impact of AI and machine learning on the American public.
+                            Educate the Future Workforce. The United States must increase education around AI in both the K-12 and higher education systems by encouraging policymakers to reform the standard curriculum to better prepare students for developing AI and machine learning systems.
+                            Train and Reskill. The public and private sectors must invest in training and reskilling the future workforce. These investments should be targeted toward programs that help ease worker transitions and improve incentives for businesses to invest in retraining. Policymakers should also leverage community colleges and vocational schools to train workers to perform jobs alongside AI-enabled systems.
+                            Attract High-Skilled Talent. In areas where a worker shortage cannot be addressed through education, training, and reskilling, Congress must act to increase the AI talent pool through targeted refinements to the H-1B visa process to encourage highskilled immigration to the United States.
+                            Bolstering global competitivenessShore Up Global Partnerships. U.S. officials must collaborate with key partners and allies to develop more sensible global governance frameworks that advance our common democratic goals and values.
+                            Advance Intellectual Property Protections. Building on the foundation of the current system, policymakers must clarify intellectual property law requirements to ensure adequate protection of AI-enabled intellectual property. Before any change, policymakers must involve relevant stakeholders to consider potential unintended effects.
+                            Provide Necessary Resources. Policymakers should provide additional resources to the U.S. Patent and Trademark Office to support the acquisition of technical expertise, training, and other resources to speed the review of AI- and machine learning– related public patent applications.
+                            Protect Ingenuity. Policymakers should also explore opportunities to grant provisional approvals for submissions under review where appropriate to mitigate the effects of lengthy delays.
+                            Protecting national securityHuman Rights. The United States must drive the development and implementation of laws and codes of conduct focused on promoting human rights and innovation.
+                            Establish International Rules of Conduct. As the United States leads in the development of AI-enabled weapons, it should follow and encourage other countries to align with existing international norms and laws.
+                            Systems Validation. The U.S. should invest heavily in new ways of testing, evaluating, verifying, and validating (“TEVV”) military AI and machine learning systems to ensure that they are used safely.
+                            Streamline Procurement. To capitalize on American ingenuity, Congress and the Pentagon must look at streamlining acquisition processes and finding new ways of incorporating industry expertise and experience within the military enterprise.
+                            Work with Allies. The United States should look to open investment opportunities for AI-enabled systems to like-minded countries and allies and vice versa.
+                            
+    These findings and recommendations are not exhaustive, and we welcome the insights of others who may contribute to the AI policy debate. The Commission and individual Commissioners stand ready to collaborate with policymakers to address these issues that are of utmost importance to the United States and the economic wellbeing and safety of the global community.
+Artificial Intelligence Commission Report Social Toolkit
+    Join us in driving awareness for the potential of AI systems and the need for smart regulation, investment, and modern policies. Click the link below to share sample social media posts and visuals.
+
+                                Read more
+                        Artificial Intelligence Commission 2023 - Full Report
+                                    Download
+                            Artificial Intelligence Commission 2023 - Executive Summary
+                                    Download
+                            Topics
+    Technology
+            Back to top",Article,2024-04-12T10:53:52-04:00,2023-03-09T00:00:00-05:00,Artificial Intelligence Commission Report,"{'@type': 'WebPage', '@id': 'https://www.uschamber.com/technology/artificial-intelligence-commission-report'}","{'@type': 'Person', 'name': 'U.S. Chamber Staff'}","{'@type': 'Organization', 'name': 'U.S. Chamber of Commerce', 'url': 'https://www.uschamber.com', 'logo': {'@type': 'ImageObject', 'url': 'https://www.uschamber.com/assets/images/uscc-default-1200x600.png', 'width': '1200', 'height': '600'}}",,https://www.uschamber.com/assets/images/AI_Commission_Cover_2.jpg,,,,,,https://www.uschamber.com/technology/artificial-intelligence-commission-report,,,,,,Technology,,,,,"{'@type': 'PropertyValue', 'propertyID': 'USCC', 'value': 'uscc-332387'}",,,,,,,,,,,
+https://news.google.com/rss/articles/CBMimAFodHRwczovL292ZXJzaWdodC5ob3VzZS5nb3YvcmVsZWFzZS9oZWFyaW5nLXdyYXAtdXAtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcG9zZXMtZ3JlYXQtcmlza3MtYnV0LXNhZmUtaW50ZWdyYXRpb24td2lsbC15aWVsZC1wb3NpdGl2ZS1yZXN1bHRzJUVGJUJGJUJDL9IBAA?oc=5,Hearing Wrap Up: Artificial Intelligence Poses Great Risks but Safe Integration Will Yield Positive Results - United ... - House Committee on Oversight and Reform |,2023-03-09,House Committee on Oversight and Reform |,https://oversight.house.gov,United States House Committee on Oversight and Accountability,N/A,United States House Committee on Oversight and Accountability,N/A,https://schema.org,"[{'@type': 'Organization', '@id': 'https://oversight.house.gov/#organization', 'name': 'Oversight Committee Republicans Verified account', 'url': 'https://oversight.house.gov/', 'sameAs': ['http://facebook.com/oversight', 'http://instagram.com/gopoversight', 'https://www.youtube.com/user/oversightandreform', 'https://twitter.com/gopoversight'], 'logo': {'@type': 'ImageObject', '@id': 'https://oversight.house.gov/#logo', 'inLanguage': 'en-US', 'url': 'https://oversight.house.gov/wp-content/uploads/2023/01/social-share.png', 'contentUrl': 'https://oversight.house.gov/wp-content/uploads/2023/01/social-share.png', 'width': 1200, 'height': 630, 'caption': 'Oversight Committee Republicans Verified account'}, 'image': {'@id': 'https://oversight.house.gov/#logo'}}, {'@type': 'WebSite', '@id': 'https://oversight.house.gov/#website', 'url': 'https://oversight.house.gov/', 'name': 'United States House Committee on Oversight and Accountability', 'description': '', 'publisher': {'@id': 'https://oversight.house.gov/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://oversight.house.gov/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/#primaryimage', 'inLanguage': 'en-US', 'url': 'https://oversight.house.gov/wp-content/uploads/2023/03/Mace-linl-1.png', 'contentUrl': 'https://oversight.house.gov/wp-content/uploads/2023/03/Mace-linl-1.png', 'width': 1200, 'height': 675}, {'@type': 'WebPage', '@id': 'https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/#webpage', 'url': 'https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/', 'name': 'Hearing Wrap Up: Artificial Intelligence Poses Great Risks but Safe Integration Will Yield Positive Results - United States House Committee on Oversight and Accountability', 'isPartOf': {'@id': 'https://oversight.house.gov/#website'}, 'primaryImageOfPage': {'@id': 'https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/#primaryimage'}, 'datePublished': '2023-03-09T17:12:51+00:00', 'dateModified': '2023-10-02T20:31:04+00:00', 'description': 'United States House Committee on Oversight and Accountability', 'breadcrumb': {'@id': 'https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://oversight.house.gov/release/hearing-wrap-up-artificial-intelligence-poses-great-risks-but-safe-integration-will-yield-positive-results%ef%bf%bc/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://oversight.house.gov/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Press Releases', 'item': 'https://oversight.house.gov/release/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Hearing Wrap Up: Artificial Intelligence Poses Great Risks but Safe Integration Will Yield Positive Results'}]}]",N/A,N/A,"
+
+
+Press Release
+
+Published:
+											Mar 9, 2023
+
+Hearing Wrap Up: Artificial Intelligence Poses Great Risks but Safe Integration Will Yield Positive Results
+
+
+
+
+
+
+
+
+
+Share via Email
+
+
+
+WASHINGTON — The Subcommittee on Cybersecurity, Information Technology, and Government Innovation held a hearing yesterday titled “Advances in AI: Are We Ready For a Tech Revolution?” Subcommittee members discussed with experts ways in which artificial intelligence can and will be practically applied across industries and the risks and rewards it poses to the public. Republicans inquired how guardrails can be implemented to manage the social, moral, and ethical dilemmas surrounding AI while making sure innovation will not be stifled by government overreach and inaction.
+Key Takeaways:
+Artificial intelligence is ingrained in many aspects of our daily lives and is one of the great technology revelations of our time. With the power of AI comes great responsibility.
+
+
+Dr. Aleksander Mądry—Director, MIT Center for Deployable Machine Learning and Cadence Design Systems Professor of Computing—outlined how AI usage will spread across society as it becomes increasingly accessible to the public: “AI is no longer confined to research labs, the genie is out of the bottle. The key factor that has made recent AI tools so popular is the accessibility.  Tools like ChatGPT can be directed using simple language commands…no AI expertise required.  As the barrier to adopting AI gets lower and lower, AI will spread across our economy and our society. We are at an inflection point of what the future of AI will bring.”
+
+Quantum computation is a powerful tool used to make AI more accurate and effective.
+
+Dr. Scott Crowder—Vice President, IBM Quantum, and CTO, IBM Systems, Technical Strategy and Transformation—spoke on the role that quantum computational tools will play as the widespread adoption of artificial intelligence continues to increase: “One primary reason quantum computing can benefit artificial intelligence is because it uses a different method to find patterns in data. For example, in fraud detection, a quantum algorithm may be better at detecting true fraud and reducing false positives. Put simply, quantum will be another computational tool to improve AI results.”
+
+America must lead in harnessing and implementing artificial intelligence technology to combat the future prospect of AI-based threats from foreign adversaries.
+
+Dr. Eric Schmidt—Chair, Special Competitive Studies Project—explained how the U.S. must lead in artificial intelligence in the coming race with hostile foreign nations like China to utilize this powerful software: “Can you imagine technology that imbues how we think, how we teach, how we entertain and how we interact with each other, imbued with Chinese values, not American values. Not the values and rules that we have in our democracy. It’s chilling.  The most important thing to understand is that we need to win because we want America to win.”
+
+
+Member Highlights:
+Chairwoman Mace (R-S.C.) discussed the balance of unleashing the power of AI capabilities in a safe way while being sure that government red tape does not get in the way of technological progress.
+
+Chairwoman Mace: “How can we ensure that AI technology is developed in a way that is safe, transparent, and beneficial for society without stifling innovation?”
+Dr. Schmidt: “I come back to a much simpler formulation: let American ingenuity, American scientists, the American government and American corporations invent this future and we’ll get something pretty close to what we want.  Then [the government] can work on the edges where you have misuse.”
+Rep. Eric Burlison (R-Mo.) discussed the potential threats that bad actors pose with the capabilities presented in artificial intelligence now and in the future. 
+
+Rep Burlison: “Given the state of the size and scope of the equipment that’s necessary today, we are limited to what actors do have the ability to use AI, is that correct?”
+Dr. Schmidt: “I can assure you it’s coming…I would expect us to see terrorists, other bad actors begin to use this technology in ways that we should anticipate.”
+Rep. William Timmons (R-S.C.) noted the potential positive impacts on accuracy and efficiency that AI integration could have on the U.S. workforce.
+
+Rep. Timmons: “What are the most promising use cases for AI as a tool in the workforce and how do you anticipate AI will influence industries?”
+Dr. Crowder: “There’s lots and lots of applications. I think we need to look at AI as augmenting what humans can do, as opposed to replace. Good utilization of AI is to make our workforce more efficient. I would argue one of the things we do a good job of in the United States is funding basic science, but we also need to look at how do we encourage our workforce to use the technology and not just develop the technology.”
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1hcmtldHBsYWNlLm9yZy9zaG93cy9tYXJrZXRwbGFjZS10ZWNoL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWlzLWhhcmQtYXQtd29yay1pbi1ob2xseXdvb2Qv0gEA?oc=5,AI is hard at work in Hollywood - Marketplace,2023-03-10,Marketplace,https://www.marketplace.org,The latest disruption to the film industry is artificial intelligence. Bard College’s Joshua Glick says that may not be a bad thing.,N/A,The latest disruption to the film industry is artificial intelligence. Bard College’s Joshua Glick says that may not be a bad thing.,N/A,http://schema.org,"[{'@type': 'WebPage', '@id': 'https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood/', 'url': 'https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood/', 'name': 'AI is hard at work in Hollywood - Marketplace', 'isPartOf': {'@id': 'https://www.marketplace.org/#website'}, 'primaryImageOfPage': {'@id': 'https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood/#primaryimage'}, 'image': {'@id': 'https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood/#primaryimage'}, 'thumbnailUrl': 'https://www.marketplace.org/wp-content/uploads/2023/03/GettyImages-1370657285-e1678393330125.jpg?fit=2612%2C1469', 'datePublished': '2023-03-10T10:53:58+00:00', 'dateModified': '2023-03-13T20:10:17+00:00', 'description': 'The latest disruption to the film industry is artificial intelligence. Bard College’s Joshua Glick says that may not be a bad thing.', 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood/#primaryimage', 'url': 'https://www.marketplace.org/wp-content/uploads/2023/03/GettyImages-1370657285-e1678393330125.jpg?fit=2612%2C1469', 'contentUrl': 'https://www.marketplace.org/wp-content/uploads/2023/03/GettyImages-1370657285-e1678393330125.jpg?fit=2612%2C1469', 'width': 2612, 'height': 1469, 'caption': ''}, {'@type': 'WebSite', '@id': 'https://www.marketplace.org/#website', 'url': 'https://www.marketplace.org/', 'name': 'Marketplace', 'description': 'Raising your economic intelligence', 'publisher': {'@id': 'https://www.marketplace.org/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.marketplace.org/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.marketplace.org/#organization', 'name': 'Marketplace', 'url': 'https://www.marketplace.org/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.marketplace.org/#/schema/logo/image/', 'url': 'https://www.marketplace.org/wp-content/uploads/2020/07/marketplace_pod.jpg?fit=1000%2C1001', 'contentUrl': 'https://www.marketplace.org/wp-content/uploads/2020/07/marketplace_pod.jpg?fit=1000%2C1001', 'width': 1000, 'height': 1001, 'caption': 'Marketplace'}, 'image': {'@id': 'https://www.marketplace.org/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/marketplaceapm/', 'https://twitter.com/Marketplace', 'https://www.youtube.com/user/marketplacevideos/featured']}]",N/A,N/A,N/A,RadioSeries,,,,,,,,,,,,,,https://www.marketplace.org/shows/marketplace-tech/,,,,,,,,,,,,"{'@type': 'RadioEpisode', 'publication': [{'@type': 'BroadcastEvent', 'publishedOn': {'@type': 'BroadcastService', 'url': 'http://www.npr.org'}, 'startDate': '2023-03-10T10:53:58+00:00'}, {'@type': 'OnDemandEvent', 'startDate': '2023-03-10T10:53:58+00:00'}], 'url': 'https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-is-hard-at-work-in-hollywood'}",,,,,,,,,,
+https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVoaW5kdS5jb20vc2NpLXRlY2gvdGVjaG5vbG9neS9leHBsYWluZWQtd2lsbC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1sZWFkLXRvLWpvYi1kaXNwbGFjZW1lbnRzL2FydGljbGU2NjU5NzAyOS5lY2XSAYYBaHR0cHM6Ly93d3cudGhlaGluZHUuY29tL3NjaS10ZWNoL3RlY2hub2xvZ3kvZXhwbGFpbmVkLXdpbGwtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbGVhZC10by1qb2ItZGlzcGxhY2VtZW50cy9hcnRpY2xlNjY1OTcwMjkuZWNlL2FtcC8?oc=5,Explained | Will artificial intelligence lead to job displacements? - The Hindu,2023-03-09,The Hindu,https://www.thehindu.com,How are artificial general and narrow intelligence systems different from each other? What are the possible ways in which AI can disrupt jobs and industries?,"artificial intelligence,job market artificial intelligence,robots taking jobs,AI taking jobs,high-skilled jobs,machine learning and datasets,computing power,technology based jobs,shrinking job market,generaL aI advent,Artificial General Intelligence (AGI) ,Artificial Narrow Intelligence (ANI).,can ai take over jobs,can ChatGPT take over jobs? ",How are artificial general and narrow intelligence systems different from each other? What are the possible ways in which AI can disrupt jobs and industries?,How are artificial general and narrow intelligence systems different from each other? What are the possible ways in which AI can disrupt jobs and industries?,,,Technology,N/A,"
+
+
+
+
+
+
+You may like...
+
+                Nvidia preparing version of new flagship AI chip for Chinese market
+              
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vcHVyc3VpdC51bmltZWxiLmVkdS5hdS9hcnRpY2xlcy9haS1hdXRvbWF0aW9uLWFuZC13b21lbtIBAA?oc=5,"AI, automation and women | Pursuit by the University of Melbourne - Pursuit",2023-03-07,Pursuit,https://pursuit.unimelb.edu.au,"As artificial intelligence becomes an increasing part of our lives, what does the expansion of technology mean for the futures of women?",N/A,"On International Women's Day, University of Melbourne experts ask what the expansion of technologies like AI and automation mean for the futures of women.","On International Women's Day, University of Melbourne experts ask what the expansion of technologies like AI and automation mean for the futures of women.",http://schema.org,,N/A,N/A,Business & EconomicsOvercoming gender bias of boardroom gatekeepers ,NewsArticle,2024-07-10T20:07:32+10:00,2023-03-07T13:18:11+11:00,"AI, automation and women","{'@type': 'WebPage', '@id': 'https://pursuit.unimelb.edu.au/articles/ai-automation-and-women'}","[{'@type': 'Person', 'name': 'Professor Leah Ruppanner', 'url': 'https://pursuit.unimelb.edu.au/individuals/professor-leah-ruppanner'}, {'@type': 'Person', 'name': 'Dr Brendan Churchill', 'url': 'https://pursuit.unimelb.edu.au/individuals/dr-brendan-churchill'}]","{'@type': 'Organization', 'name': 'The University of Melbourne', 'logo': {'@type': 'ImageObject', 'url': 'https://pursuit.unimelb.edu.au/__data/assets/file/0020/929/UOMLogo.svg', 'width': 80, 'height': 80}}",,"{'@type': 'ImageObject', 'url': 'https://pursuit.unimelb.edu.au/__data/assets/image/0028/76861/AI,-automation-and-women_2576edd0-61b7-4b49-9080-a7051b4da1d7.jpg', 'height': 1200, 'width': 1800}",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbWlubmxhd3llci5jb20vMjAyMy8wMy8xMC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1wb3Nlcy10d2lzdC1mb3ItZW1wbG95bWVudC1iYXIv0gEA?oc=5,Artificial intelligence poses 'twist' for employment bar - Minnesota Lawyer,2023-03-10,Minnesota Lawyer,https://minnlawyer.com,"As employers increasingly use automated systems to make decisions regarding hiring, firing, promotions and pay, the U.S. Equal Employment Opportunity Commission is raising the red flag on discrimination risks.","All News, Wire Stories","As employers increasingly use automated systems to make decisions regarding hiring, firing, promotions and pay, the U.S. Equal Employment Opportunity Commission is raising the red flag on discrimination risks.","As employers increasingly use automated systems to make decisions regarding hiring, firing, promotions and pay, the U.S. Equal Employment Opportunity Commission is raising the red flag on discrimination risks.",http://schema.org,"[{'@type': 'Article', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#article', 'name': 'Artificial intelligence poses ‘twist’ for employment bar', 'description': 'As employers increasingly use automated systems to make decisions regarding hiring, firing, promotions and pay, the U.S. Equal Employment Opportunity Commission is raising the red flag on discrimination risks.', 'inLanguage': 'en-US', 'headline': 'Artificial intelligence poses ‘twist’ for employment bar', 'author': {'@id': 'https://minnlawyer.com/author/bridgetower-media-newswires/#author'}, 'publisher': {'@id': 'https://minnlawyer.com/#organization'}, 'datePublished': '2023-03-10T16:11:34-06:00', 'dateModified': '2023-03-10T16:15:12-06:00', 'articleSection': 'All News, Wire Stories', 'mainEntityOfPage': {'@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#webpage'}, 'isPartOf': {'@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#webpage'}, 'image': {'@type': 'ImageObject', 'url': 'https://minnlawyer.com/files/2023/03/Depositphotos_217012980_XL-ai.jpg', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#articleImage', 'width': 620, 'height': 330, 'caption': 'Depositphotos.com image'}}, {'@type': 'BreadcrumbList', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#breadcrumblist', 'itemListElement': [{'@type': 'ListItem', '@id': 'https://minnlawyer.com/#listItem', 'position': 1, 'name': 'Home', 'item': 'https://minnlawyer.com/', 'nextItem': 'https://minnlawyer.com/2023/#listItem'}, {'@type': 'ListItem', '@id': 'https://minnlawyer.com/2023/#listItem', 'position': 2, 'name': '2023', 'item': 'https://minnlawyer.com/2023/', 'nextItem': 'https://minnlawyer.com/2023/03/#listItem', 'previousItem': 'https://minnlawyer.com/#listItem'}, {'@type': 'ListItem', '@id': 'https://minnlawyer.com/2023/03/#listItem', 'position': 3, 'name': 'March', 'item': 'https://minnlawyer.com/2023/03/', 'nextItem': 'https://minnlawyer.com/2023/03/10/#listItem', 'previousItem': 'https://minnlawyer.com/2023/#listItem'}, {'@type': 'ListItem', '@id': 'https://minnlawyer.com/2023/03/10/#listItem', 'position': 4, 'name': '10', 'item': 'https://minnlawyer.com/2023/03/10/', 'nextItem': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#listItem', 'previousItem': 'https://minnlawyer.com/2023/03/#listItem'}, {'@type': 'ListItem', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#listItem', 'position': 5, 'name': 'Artificial intelligence poses ‘twist’ for employment bar', 'previousItem': 'https://minnlawyer.com/2023/03/10/#listItem'}]}, {'@type': 'Organization', '@id': 'https://minnlawyer.com/#organization', 'name': 'Minnesota Lawyer', 'url': 'https://minnlawyer.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://minnlawyer.com/files/2023/06/header-logo.svg', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#organizationLogo', 'width': 602, 'height': 72}, 'image': {'@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#organizationLogo'}, 'sameAs': ['https://www.linkedin.com/company/minnesota-lawyer/']}, {'@type': 'WebPage', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#webpage', 'url': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/', 'name': 'Artificial intelligence poses ‘twist’ for employment bar', 'description': 'As employers increasingly use automated systems to make decisions regarding hiring, firing, promotions and pay, the U.S. Equal Employment Opportunity Commission is raising the red flag on discrimination risks.', 'inLanguage': 'en-US', 'isPartOf': {'@id': 'https://minnlawyer.com/#website'}, 'breadcrumb': {'@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#breadcrumblist'}, 'author': 'https://minnlawyer.com/author/bridgetower-media-newswires/#author', 'creator': 'https://minnlawyer.com/author/bridgetower-media-newswires/#author', 'image': {'@type': 'ImageObject', 'url': 'https://minnlawyer.com/files/2023/03/Depositphotos_217012980_XL-ai.jpg', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#mainImage', 'width': 620, 'height': 330, 'caption': 'Depositphotos.com image'}, 'primaryImageOfPage': {'@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/#mainImage'}, 'datePublished': '2023-03-10T16:11:34-06:00', 'dateModified': '2023-03-10T16:15:12-06:00'}, {'@type': 'WebSite', '@id': 'https://minnlawyer.com/#website', 'url': 'https://minnlawyer.com/', 'name': 'Minnesota Lawyer', 'inLanguage': 'en-US', 'publisher': {'@id': 'https://minnlawyer.com/#organization'}}]",N/A,N/A,N/A,NewsArticle,2023-03-10T10:15:12-06:00,2023-03-10T10:11:34-06:00,Artificial intelligence poses ‘twist’ for employment bar,"{'@type': 'WebPage', '@id': 'https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/'}","{'@type': 'Person', 'name': 'BridgeTower Media Newswires'}","{'@type': 'Organization', 'name': 'Minnesota Lawyer'}",,https://minnlawyer.com/files/2023/03/Depositphotos_217012980_XL-ai.jpg,,,,,,https://minnlawyer.com/2023/03/10/artificial-intelligence-poses-twist-for-employment-bar/,,,,,,All News,,,,,,,,https://minnlawyer.com/files/2023/03/Depositphotos_217012980_XL-ai.jpg,"{'@type': 'Person', 'name': 'BridgeTower Media Newswires'}",2023-03-10T10:11:34-06:00,"{'@type': 'Person', 'name': 'BridgeTower Media Newswires'}",,,,,
+https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoaXNkYXlsaXZlLmNvbS9pbmRleC5waHAvMjAyMy8wMy8wOS9wb3RlbnRpYWwtYmVuZWZpdHMtcmlza3Mtb2YtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,"Potential Benefits, Risks of Artificial Intelligence – THISDAYLIVE - THISDAY Newspapers",2023-03-09,THISDAY Newspapers,https://www.thisdaylive.com,N/A,N/A,N/A,N/A,,,N/A,N/A,"
+
+
+
+
+
+
+Tinubu Appoints John Obafunwa DG of NIMR
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2hvdy10by93aWxsLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXRha2Utb3Zlci1oZWFsdGhjYXJlLWpvYnMvYXJ0aWNsZXNob3cvOTg1NDM1MjUuY21z0gF7aHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaG93LXRvL3dpbGwtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdGFrZS1vdmVyLWhlYWx0aGNhcmUtam9icy9hbXBfYXJ0aWNsZXNob3cvOTg1NDM1MjUuY21z?oc=5,Will artificial intelligence take over healthcare jobs? - The Economic Times,2023-03-10,The Economic Times,https://m.economictimes.com,"With automation dominating the healthcare ecosystem, it is being believed that it would take away job opportunities. However, in reality, human intervention is still considered to be valuable in terms of determining the best application and overseeing machine operations. According to a Gartner report, advanced machine learning may potentially increase the number of job prospects in the healthcare sector rather than decrease them.","['healthcare', 'automation', 'artifical intelligence', 'ai ml', 'healthcare jobs', 'reliance']","With automation dominating the healthcare ecosystem, it is being believed that it would take away job opportunities. However, in reality, human intervention is still considered to be valuable in terms of determining the best application and overseeing machine operations. According to a Gartner report, advanced machine learning may potentially increase the number of job prospects in the healthcare sector rather than decrease them.","With automation dominating the healthcare ecosystem, it is being believed that it would take away job opportunities. However, in reality, human intervention is still considered to be valuable in terms of determining the best application and overseeing machine operations. According to a Gartner report, advanced machine learning may potentially increase the number of job prospects in the healthcare sector rather than decrease them.",https://schema.org/,,N/A,N/A,"AgenciesThe integration of AI, ML, and deep learning into the healthcare ecosystem has produced a wide range of advantages that have improved healthcare delivery and reduced costs. The onset of the Covid-19 pandemic unveiled the vulnerabilities in the healthcare system, which as a result, highlighted the need for automation in the sector in order to streamline processes better and facilitate quick decision-making. Artificial intelligence, machine learning and deep learning are some of the significant contributions of technology which have proved to be valuable for the healthcare sector. The process of collecting and analyzing health data was once thought to be time-consuming and prone to errors, but the development of these technologies have made it easier while producing accurate results. Moreover, administrative tasks such as pre-authorizing insurance and maintaining records demanded extensive effort but integrating AI into the healthcare ecosystem has eased the workload of healthcare professionals by automating these tasks and saving money in return.Apart from that, machine learning has made early disease detection possible, which has further enabled patients to target quick treatment and cure, thereby decreasing the number of hospital readmissions. Also, the emergence of AI-enabled chatbots has revolutionized how medical operations are performed, speeding up supply and delivery and enabling professionals to interact with and care for patients. According to McKinsey, 70% of purchasing decisions are influenced by the way the client believes they are being treated. Because of this, many startups are now placing a high priority on smart customer service strategies that use AI-powered tools like chatbots, voice search, and virtual assistants.    by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links You May LikeMiami M.D.Surgeon Reveals: Don't Laser Your Dark Spots! (Use This Household Item Instead)Miami M.D.UndoThe rapid growth of technology and its incorporation into the healthcare system was initially seen as a threat to human jobs but in reality, it has opened the room for endless job opportunities. Undoubtedly, technology is automating repetitious jobs, but this does not imply that human intervention is no longer necessary. Someone who possesses an in-depth knowledge of technology and understands its application is needed to oversee machine operations. This, in return, underlines the need for upskilling and updating in regards to modern-day technology in order to make a valuable asset to healthcare institutions. Hence, today upskilling has become the need of the hour as it will not only provide you with a rigorous understanding of modern technologies but will also make you fully equipped with its right application.AI, ML and deep learning in healthcareThe integration of AI, ML, and deep learning into the healthcare ecosystem has produced a wide range of advantages that have improved healthcare delivery and reduced costs. Earlier identifying the critical areas of patient care was considered to be time-consuming but with AI, determining those areas and recognizing an ideal treatment has become an easy task. In fact, wearable technologies nowadays also incorporate artificial intelligence with the goal of better serving patients by giving them health insights and warning them of potential problems and risks. According to International Data Corporation (IDC), the wearable market in India grew 144.3% year on year (YoY) in 2020. These statistics provide some insight into the reasons why a large number of entrepreneurs are emerging in the wearable technology space. Furthermore, as we advance, there will be growing reliance on data, which will cause a boom in demand for wireless devices.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 50:00Loaded: 1.01%00:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -50:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.AdvertisementMoreover, there are moments when patients fail to realize a health condition before its too late but with the advent of machine learning, quick disease detection has been made possible, which has further enabled prompt treatments. In addition, it has made the procedure for compiling and maintaining extensive data as well as performing diagnosis simpler. Deep learning, on the other hand, is proving to be helpful in recognizing patterns, employing algorithms and data to give healthcare professionals automated insights that may then be used to modify patient treatments. For instance, IBM created Watson with the goal of addressing important patient-care issues and utilizing data-driven insights to provide treatment choices.Automation: Doorway to increased healthcare job opportunitiesWith automation dominating the healthcare ecosystem, it is being believed that it would take away job opportunities. However, in reality, human intervention is still considered to be valuable in terms of determining the best application and overseeing machine operations. According to a Gartner report, advanced machine learning may potentially increase the number of job prospects in the healthcare sector rather than decrease them. In fact, there is a dire need for professionals who understand the technology and know its right application, thereby proving to be a great asset to healthcare institutions. Here updating and upskilling has become an absolute necessity which has further emphasized the need for tech-backed courses. Moreover, given the pace of technological developments, new skill sets would be required, which would again result in the creation of new job opportunities. And to develop those skill sets, enrolling in technology-enabled courses is a must.New-age technology: The future of healthcareIn light of how new healthcare conditions are evolving, modern-day technology is bound to be at the behest of the creation of novel and original treatments. Artificial intelligence, machine and deep learning have undoubtedly simplified healthcare management. These technologies have contributed significantly to the development of new medications, tailored therapies, and patient condition assessments.Considering the changing nature of technology, it is anticipated that new advancements will come to the fore altering the functioning of the healthcare system. To meet the demands of the new developments, new skill sets will be required, resulting in massive job opportunities. (The writer is Information Technology Professor in FORE School of Management)(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)CompareCredit2 Cards Charging 0% Interest Until Nearly 2026CompareCredit|SponsoredSponsoredUndoWolf &amp; ShepherdThousands of Men Wear These Shoes For Their First Class ComfortWolf & Shepherd|SponsoredSponsoredUndoGeorgetown UniversityUp Your SPF and GPA with Georgetown's Summer SessionsGeorgetown University|SponsoredSponsoredUndo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(You can now subscribe to our Economic Times WhatsApp channel)Read More News onhealthcareautomationartifical intelligenceai mlhealthcare jobsreliance(Catch all the Business News, Breaking News, Budget 2024 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online....moreless",WebPage,2023-03-10T17:47:00+05:30,2023-03-10T17:44:00+05:30,Will artificial intelligence take over healthcare jobs?,https://economictimes.indiatimes.com/news/how-to/will-artificial-intelligence-take-over-healthcare-jobs/articleshow/98543525.cms,"{'@type': 'Thing', 'name': 'ET CONTRIBUTORS'}","{'@type': 'NewsMediaOrganization', 'name': 'Economic Times', 'logo': {'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg', 'width': 600, 'height': 60}}",,"{'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-98543525,resizemode-4,width-1200,height-900,imgsize-886190,overlay-economictimes/photo.jpg', 'width': 1200, 'height': 900}",,,Will artificial intelligence take over healthcare jobs?,"{'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg', 'width': 600, 'height': 60}",,https://economictimes.indiatimes.com/news/how-to/will-artificial-intelligence-take-over-healthcare-jobs/articleshow/98543525.cms,,,,,"The onset of the Covid-19 pandemic unveiled the vulnerabilities in the healthcare system, which as a result, highlighted the need for automation in the sector in order to streamline processes better and facilitate quick decision-making. Artificial intelligence, machine learning and deep learning are some of the significant contributions of technology which have proved to be valuable for the healthcare sector. The process of collecting and analyzing health data was once thought to be time-consuming and prone to errors, but the development of these technologies have made it easier while producing accurate results. Moreover, administrative tasks such as pre-authorizing insurance and maintaining records demanded extensive effort but integrating AI into the healthcare ecosystem has eased the workload of healthcare professionals by automating these tasks and saving money in return.Apart from that, machine learning has made early disease detection possible, which has further enabled patients to target quick treatment and cure, thereby decreasing the number of hospital readmissions. Also, the emergence of AI-enabled chatbots has revolutionized how medical operations are performed, speeding up supply and delivery and enabling professionals to interact with and care for patients. According to McKinsey, 70% of purchasing decisions are influenced by the way the client believes they are being treated. Because of this, many startups are now placing a high priority on smart customer service strategies that use AI-powered tools like chatbots, voice search, and virtual assistants.The rapid growth of technology and its incorporation into the healthcare system was initially seen as a threat to human jobs but in reality, it has opened the room for endless job opportunities. Undoubtedly, technology is automating repetitious jobs, but this does not imply that human intervention is no longer necessary. Someone who possesses an in-depth knowledge of technology and understands its application is needed to oversee machine operations. This, in return, underlines the need for upskilling and updating in regards to modern-day technology in order to make a valuable asset to healthcare institutions. Hence, today upskilling has become the need of the hour as it will not only provide you with a rigorous understanding of modern technologies but will also make you fully equipped with its right application.AI, ML and deep learning in healthcareThe integration of AI, ML, and deep learning into the healthcare ecosystem has produced a wide range of advantages that have improved healthcare delivery and reduced costs. Earlier identifying the critical areas of patient care was considered to be time-consuming but with AI, determining those areas and recognizing an ideal treatment has become an easy task. In fact, wearable technologies nowadays also incorporate artificial intelligence with the goal of better serving patients by giving them health insights and warning them of potential problems and risks. According to International Data Corporation (IDC), the wearable market in India grew 144.3% year on year (YoY) in 2020. These statistics provide some insight into the reasons why a large number of entrepreneurs are emerging in the wearable technology space. Furthermore, as we advance, there will be growing reliance on data, which will cause a boom in demand for wireless devices.Moreover, there are moments when patients fail to realize a health condition before its too late but with the advent of machine learning, quick disease detection has been made possible, which has further enabled prompt treatments. In addition, it has made the procedure for compiling and maintaining extensive data as well as performing diagnosis simpler. Deep learning, on the other hand, is proving to be helpful in recognizing patterns, employing algorithms and data to give healthcare professionals automated insights that may then be used to modify patient treatments. For instance, IBM created Watson with the goal of addressing important patient-care issues and utilizing data-driven insights to provide treatment choices.Automation: Doorway to increased healthcare job opportunitiesWith automation dominating the healthcare ecosystem, it is being believed that it would take away job opportunities. However, in reality, human intervention is still considered to be valuable in terms of determining the best application and overseeing machine operations. According to a Gartner report, advanced machine learning may potentially increase the number of job prospects in the healthcare sector rather than decrease them. In fact, there is a dire need for professionals who understand the technology and know its right application, thereby proving to be a great asset to healthcare institutions. Here updating and upskilling has become an absolute necessity which has further emphasized the need for tech-backed courses. Moreover, given the pace of technological developments, new skill sets would be required, which would again result in the creation of new job opportunities. And to develop those skill sets, enrolling in technology-enabled courses is a must.New-age technology: The future of healthcareIn light of how new healthcare conditions are evolving, modern-day technology is bound to be at the behest of the creation of novel and original treatments. Artificial intelligence, machine and deep learning have undoubtedly simplified healthcare management. These technologies have contributed significantly to the development of new medications, tailored therapies, and patient condition assessments.Considering the changing nature of technology, it is anticipated that new advancements will come to the fore altering the functioning of the healthcare system. To meet the demands of the new developments, new skill sets will be required, resulting in massive job opportunities. (The writer is Information Technology Professor in FORE School of Management)",News,,,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'https://schema.org/False', 'cssSelector': '.paywall'}",https://schema.org/False,,,,,,,,en,"{'@type': ['CreativeWork', 'Product'], 'name': 'Economic Times', 'productID': 'prime.economictimes.indiatimes.com:prime'}","{'@type': 'SpeakableSpecification', 'cssSelector': ['.article_wrap h1', '.artSyn h2']}",,
+https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbmV3cy51b2d1ZWxwaC5jYS8yMDIzLzAzL3VuaXZlcnNpdHktb2YtZ3VlbHBoLXN0YXRlbWVudC1vbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1zeXN0ZW1zLWNoYXRncHQtYWNhZGVtaWMtaW50ZWdyaXR5L9IBAA?oc=5,"University of Guelph Statement on Artificial Intelligence Systems, ChatGPT, Academic Integrity - University of Guelph News",2023-03-09,University of Guelph News,https://news.uoguelph.ca,"Artificial intelligence (AI) systems are powerful tools that promise to revolutionize research, teaching and learning. In all three areas and in the future of…",N/A,"Artificial intelligence (AI) systems are powerful tools that promise to revolutionize research, teaching and learning. In all three areas and in the future of work, there exist creative and forward…","Artificial intelligence (AI) systems are powerful tools that promise to revolutionize research, teaching and learning. In all three areas and in the future of work, there exist creative and forward…",https://schema.org,"[{'@type': 'WebSite', '@id': 'https://news.uoguelph.ca/#/schema/WebSite', 'url': 'https://news.uoguelph.ca/', 'name': 'U of G News', 'description': 'University of Guelph', 'inLanguage': 'en-US', 'potentialAction': {'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://news.uoguelph.ca/search/{search_term_string}/'}, 'query-input': 'required name=search_term_string'}, 'publisher': {'@type': 'Organization', '@id': 'https://news.uoguelph.ca/#/schema/Organization', 'name': 'U of G News', 'url': 'https://news.uoguelph.ca/'}}, {'@type': 'WebPage', '@id': 'https://news.uoguelph.ca/2023/03/university-of-guelph-statement-on-artificial-intelligence-systems-chatgpt-academic-integrity/', 'url': 'https://news.uoguelph.ca/2023/03/university-of-guelph-statement-on-artificial-intelligence-systems-chatgpt-academic-integrity/', 'name': 'University of Guelph Statement on Artificial Intelligence Systems, ChatGPT, Academic Integrity &#x2d; U of G News', 'description': 'Artificial intelligence (AI) systems are powerful tools that promise to revolutionize research, teaching and learning. In all three areas and in the future of&#8230;', 'inLanguage': 'en-US', 'isPartOf': {'@id': 'https://news.uoguelph.ca/#/schema/WebSite'}, 'breadcrumb': {'@type': 'BreadcrumbList', '@id': 'https://news.uoguelph.ca/#/schema/BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': 'https://news.uoguelph.ca/', 'name': 'U of G News'}, {'@type': 'ListItem', 'position': 2, 'item': 'https://news.uoguelph.ca/category/campus-news/', 'name': 'Category: Campus News'}, {'@type': 'ListItem', 'position': 3, 'name': 'University of Guelph Statement on Artificial Intelligence Systems, ChatGPT, Academic Integrity'}]}, 'potentialAction': {'@type': 'ReadAction', 'target': 'https://news.uoguelph.ca/2023/03/university-of-guelph-statement-on-artificial-intelligence-systems-chatgpt-academic-integrity/'}, 'datePublished': '2023-03-09T15:24+00:00', 'dateModified': '2023-03-09T15:24+00:00', 'author': {'@type': 'Person', '@id': 'https://news.uoguelph.ca/#/schema/Person/fe9c69b6454fab6be65383e63f36ec47', 'name': 'UofG News Service'}}]",N/A,N/A,"
+
+ 
+
+
+ 
+
+
+
+
+Campus NewsUniversity of Guelph Statement on Artificial Intelligence Systems, ChatGPT, Academic Integrity 
+
+
+
+
+ 
+University of Guelph Statement on Artificial Intelligence Systems, ChatGPT, Academic Integrity 
+
+
+
+
+
+Artificial intelligence (AI) systems are powerful tools that promise to revolutionize research, teaching and learning. In all three areas and in the future of work, there exist creative and forward-thinking opportunities for the use of AI. Many University of Guelph faculty, instructors, staff and students are currently looking at ethical uses of AI, including research through U of G’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI).  
+At the same time, the development of increasingly sophisticated AI systems such as ChatGPT poses potential threats to academic integrity. Unauthorized student use of AI systems undermines student learning, the achievement of learning outcomes and violates the University’s academic misconduct policies.
+The University is committed to ensuring that the use of AI in teaching and learning complies with existing policies and regulations that govern academic and scholarly integrity. We continue to engage the University community, including students, as we work to refine academic integrity policies and their intersection with AI tools. We affirm the following:
+Students’ work must reflect their unique intellectual capacity and demonstrate the application of critical thinking and problem solving. Unauthorized use of AI to complete assessments violates the fundamental intellectual purposes of the University and does not demonstrate student achievement of course learning outcomes.Submission of materials completed by AI, without permission of the instructor, constitutes an offence under the University’s academic misconduct policies, either as a form of plagiarism or the use of unauthorized aids. Acceptable use of AI should be determined by the course instructor and may vary across disciplines, programs and types of assessments. In setting out course requirements and assessment criteria, the instructor should specify allowable uses of AI, if any, through the course outline and/or the learning management system (e.g., CourseLink). Clarity about the acceptable use of AI is critical for students and instructors. Students are responsible for appropriately referencing how and to what extent they have used AI in assessments in keeping with University and course requirements.
+Faculty and instructors are encouraged to continue to develop modes of assessment that foster academic integrity and assess learning outcomes. Where appropriate, this may include building into assessments requirements that students explain and provide evidence of the research and thought processes used in completing the assignment.
+Ongoing information and education sessions on artificial intelligence and academic integrity will be available across the University.
+Relevant academic integrity policies:
+Undergraduate CalendarAssociate Diploma CalendarGuelph-Humber CalendarGraduate Calendar
+
+
+
+
+
+
+
+
+Share this page
+Share to Twitter
+Share to Facebook
+Share to LinkedIn
+Share via Email
+
+
+Posted Thursday, March 9, 2023Updated Thursday, March 9, 2023  Lead photo: Johnston Hall Filed underCampus News 
+
+
+Search News
+
+
+
+Search News
+
+
+ 
+
+ Search U of G News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",WebSite,,,,,,,,,,,University of Guelph,https://www.uoguelph.ca/img/university-of-guelph-cornerstone.png,,https://uoguelph.ca,"['https://www.facebook.com/uofguelph/', 'http://www.twitter.com/uofg', 'https://www.instagram.com/uofguelph/', 'https://www.youtube.com/user/uofguelph']",,,"{'@type': 'SearchAction', 'target': 'https://uoguelph.ca/search/?q={search_term_string}', 'query-input': 'required name=search_term_string'}",,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL3RlY2hub2xvZ3kvc3RvcnkvY2hhdGdwdC1jYW50LXRha2UtaHVtYW4tam9icy1pdC1zdGFsd2FydHMtbnItbmFyYXlhbmEtbXVydGh5LWRlYmphbmktZ2hvc2gtY29tZS1pbi1zdXBwb3J0LW9mLWFpLTM3MjUxMi0yMDIzLTAzLTA30gEA?oc=5,"'ChatGPT can't take human jobs': IT Stalwarts NR Narayana Murthy, Debjani Ghosh come in support of AI - Business Today",2023-03-07,Business Today,https://www.businesstoday.in,,ChatGPTAIjobsNarayana MurthyTCSNasscom,"Indian IT industry's stalwarts like NR Narayana Murthy, CP Gurnani, Krishnana Ramanujam share their thoughts on artificial intelligence and its impact on employment.","Indian IT industry's stalwarts like NR Narayana Murthy, CP Gurnani, Krishnana Ramanujam share their thoughts on artificial intelligence and its impact on employment.",https://www.schema.org,,N/A,N/A,N/A,ProfilePage,2023-03-07\T12:53:57+05:30,2023-03-07\T12:38:53+05:30,,https://www.businesstoday.in/technology/story/chatgpt-cant-take-human-jobs-it-stalwarts-nr-narayana-murthy-debjani-ghosh-come-in-support-of-ai-372512-2023-03-07,"[{'@type': 'Person', 'name': 'Rachna Manojkumar Dhanrajani', 'url': 'https://www.businesstoday.in/author/rachna-manojkumar-dhanrajani'}]","{'@type': 'Organization', 'name': 'Business Today', 'url': 'https://www.businesstoday.in', 'logo': {'@type': 'ImageObject', 'url': 'https://akm-img-a-in.tosshub.com/businesstoday/resource/img/bt-schema-logo.png', 'height': '60', 'width': '600'}}",,"{'@type': 'ImageObject', 'url': 'https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/tch36-01-scaled-sixteen_nine.jpg?size=1280:720', 'height': '720', 'width': '1280'}",,,"&#039;ChatGPT can&#039;t take human jobs&#039;: IT Stalwarts NR Narayana Murthy, Debjani Ghosh come in support of AI",,,https://www.businesstoday.in/technology/story/chatgpt-cant-take-human-jobs-it-stalwarts-nr-narayana-murthy-debjani-ghosh-come-in-support-of-ai-372512-2023-03-07,,,,,"With the rise of ChatGPT, the big fear of artificial intelligence (AI) taking over jobs has only gotten stronger by the day. However, contrary to popular perception, India&#039;s IT sector, and its industry body, Nasscom, believe that instead AI would help facilitate the creation of more jobs.Last week, Nasscom released a strategic review report highlighting that AI is the highest employment-generating sector within the tech industry and is likely to only grow more as the Indian tech industry aims to reach $245 billion in size by the end of FY2023.Track Budget 2024 updates real-time with BT&#039;s non-stop live streaming of India&#039;s most-important event from 8 am to 7 pm Talking to BT, Debjani Ghosh, President of Nasscom, said that the world has always reacted in a negative way when a new thing arrives. She pointed out that when automation arrived on the scene, there was widespread fear that this new technology would end up eating away many jobs. &amp;quot;But the data strongly suggests that new technology is only making more jobs. There are so many new jobs being created because of AI and emerging tech. AI will definitely make jobs easier and create a need to upskill but it will only take over jobs that don&#039;t require humans. New tech has always been a creator of jobs, earlier there were no Uber drivers, or Zomato/Swiggy delivery boys, these jobs were created because of technology,&amp;quot; Ghosh explained.Echoing Ghosh, Krishnan Ramanujam, President, of Enterprise Growth Group, at TCS, is of the opinion that AI and automation taking away livelihood has now become an old and boring story.&amp;quot;For the last four generations we have seen that AI and automation will never take your job away, they are not job killers but only creators. So be it generative AI or any new form it will never take away jobs. However, it will require Indian techies to upskill constantly,&amp;quot; he said.He further underscored that generative AI and its products are meant to help and facilitate human jobs, that&#039;s when true transformation happens. He highlights sectors like BFSI or medical, where the role of technology, especially AI and data, have increased to a point where now it is impossible to solve problems without them. &amp;quot;The key is in finding the right kind of generative AI,&amp;quot; he said.Even IT doyen and Infosys founder NR Narayana Murthy too is on the same page. Talking to BT, Murthy came in support of ChatGPT and stressed on the fact that it can never take away jobs. &amp;quot;I have used ChatGPT and no it can never take over human jobs. It can facilitate better and smooth functioning but humans will never be replaced by AI,&amp;quot; he noted.He also said that his son introduced him to ChatGPT and described the chatbot as a &#039;nice thing&#039;&amp;quot;There has always been a fear of losing jobs with anything new coming to the world but we must not fall for that. We must take AI as the good thing that it is and use it for the right purposes,&amp;quot; Murthy underscored. CP Gurnani, CEO and Managing Director of Tech Mahindra, too explained his thought on generative AI and said, &amp;quot;I am so happy about the generative AI. To me, it did not take away jobs. It created jobs. Technology is the heart of everything.&amp;quot; He added that the use cases of generative AI are still being defined, which means that it has the potential to create more job opportunities in the future.",,,"{'@type': 'imageObject', 'url': 'https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/tch36-01-scaled-sixteen_nine.jpg?size=1280:720', 'caption': 'Artificial Intelligence', 'width': '1200', 'height': '900'}","[{'@type': 'Article', 'headline': '&#039;ChatGPT can&#039;t take human jobs&#039;: IT Stalwarts NR Narayana Murthy, Debjani Ghosh come in support of AI', 'url': 'https://www.businesstoday.in/technology/story/chatgpt-cant-take-human-jobs-it-stalwarts-nr-narayana-murthy-debjani-ghosh-come-in-support-of-ai-372512-2023-03-07', 'datePublished': '2023-03-07\\T12:38:53+05:30', 'author': {'@id': 'https://www.businesstoday.in/author/rachna-manojkumar-dhanrajani'}}]",,,,,,,,,en_US,,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.headline', '.summary']}","[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.businesstoday.in', 'name': 'News'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.businesstoday.in/technology', 'name': 'TECHNOLOGY'}}]","{'@id': 'https://www.businesstoday.in/author/rachna-manojkumar-dhanrajani', '@type': 'Person', 'name': 'Rachna Manojkumar Dhanrajani'}"

@@ -1,0 +1,1590 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,article:section,article:summary,article text,@graph,about,dateCreated,thumbnailUrl,genre,wordcount,mainEntityOfPage,logo,sameAs,audio,articleBody,timeRequired,isPartOf,alternativeHeadline,creator,dateline,hasPart,video,speakable,target,width,height,alternateName,email,foundingDate,legalName,foundingLocation,address,founder
+https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYmVybmFyZG1hcnIvMjAyMC8xMC8wNS93aGF0LWlzLWdwdC0zLWFuZC13aHktaXMtaXQtcmV2b2x1dGlvbml6aW5nLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence? - Forbes,2020-10-05,Forbes,https://www.forbes.com,"Could GPT-3 be the most powerful artificial intelligence ever developed? When OpenAI, a research business co-founded by Elon Musk, released the tool recently, it created a massive amount of hype. Here we look through the hype and outline what it is and what it isn’t.","elon musk,ai,artificial intelligence,open ai,machine learning,machine language,gpt-3,technology","Could GPT-3 be the most powerful artificial intelligence ever developed? When OpenAI, a research business co-founded by Elon Musk, released the tool recently, it created a massive amount of hype. Here we look through the hype and outline what it is and what it isn’t.","Could GPT-3 be the most powerful artificial intelligence ever developed? When OpenAI, a research business co-founded by Elon Musk, released the tool recently, it created a massive amount of hype. Here we look through the hype and outline what it is and what it isn’t.",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/5f7a9e7748827b624703d16a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?,2020-10-05T00:21:53-04:00,2021-12-10T08:30:38-05:00,Enterprise Tech,What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",Enterprise Tech,N/A,"More From ForbesJul 16, 2024,01:02pm EDTThe CEO’s Guide To Building Generative AIJul 16, 2024,01:24am EDTThe Best Generative AI Workplace Productivity ToolsJul 15, 2024,09:02am EDTWhen Will Quantum Computers Affect Your Competitive Landscape?Jul 15, 2024,09:00am EDTAristotle’s Timeless Guide To Mastering AIOpsJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelJul 12, 2024,09:00am EDT‘Knowledge Is Power’: The Antipattern That Is Holding Your Team BackEdit StoryForbesInnovationEnterprise TechWhat Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?Bernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itOct 5, 2020,12:21am EDTUpdated Dec 10, 2021, 08:30am ESTThis article is more than 3 years old.Share to FacebookShare to TwitterShare to LinkedinThere’s been a great deal of hype and excitement in the artificial intelligence (AI) world around a newly developed technology known as GPT-3. Put simply; it's an AI that is better at creating content that has a language structure – human or machine language – than anything that has come before it.
+What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?Adobe Stock
+
+GPT-3 has been created by OpenAI, a research business co-founded by Elon Musk and has been described as the most important and useful advance in AI for years.
+
+But there’s some confusion over exactly what it does (and indeed doesn’t do), so here I will try and break it down into simple terms for any non-techy readers interested in understanding the fundamental principles behind it. I’ll also cover some of the problems it raises, as well as why some people think its significance has been overinflated somewhat by hype.
+
+PROMOTED
+What is GPT-3?
+
+Starting with the very basics, GPT-3 stands for Generative Pre-trained Transformer 3 – it’s the third version of the tool to be released.
+In short, this means that it generates text using algorithms that are pre-trained – they’ve already been fed all of the data they need to carry out their task. Specifically, they’ve been fed around 570gb of text information gathered by crawling the internet (a publicly available dataset known as CommonCrawl) along with other texts selected by OpenAI, including the text of Wikipedia.
+MORE FROMFORBES ADVISORBest Travel Insurance CompaniesByAmy DaniseEditorBest Covid-19 Travel Insurance PlansByAmy DaniseEditor
+If you ask it a question, you would expect the most useful response would be an answer. If you ask it to carry out a task such as creating a summary or writing a poem, you will get a summary or a poem.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+More technically, it has also been described as the largest artificial neural network every created – I will cover that further down.
+
+
+1/100:09Forbes Innovation
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingCall Of Duty Black Ops 6 Beta Dates And More Revealedafter the adVisit Advertiser websiteGO TO PAGE
+What can GPT-3 do?
+GPT-3 can create anything that has a language structure – which means it can answer questions, write essays, summarize long texts, translate languages, take memos, and even create computer code.
+In fact, in one demo available online, it is shown creating an app that looks and functions similarly to the Instagram application, using a plugin for the software tool Figma, which is widely used for app design.
+This is, of course, pretty revolutionary, and if it proves to be usable and useful in the long-term, it could have huge implications for the way software and apps are developed in the future.
+As the code itself isn't available to the public yet (more on that later), access is only available to selected developers through an API maintained by OpenAI. Since the API was made available in June this year, examples have emerged of poetry, prose, news reports, and creative fiction.
+This article is particularly interesting – where you can see GPT-3 making a – quite persuasive – attempt at convincing us humans that it doesn’t mean any harm. Although its robotic honesty means it is forced to admit that ""I know that I will not be able to avoid destroying humankind,"" if evil people make it do so!
+How does GPT-3 work?
+In terms of where it fits within the general categories of AI applications, GPT-3 is a language prediction model. This means that it is an algorithmic structure designed to take one piece of language (an input) and transform it into what it predicts is the most useful following piece of language for the user.
+It can do this thanks to the training analysis it has carried out on the vast body of text used to “pre-train” it. Unlike other algorithms that, in their raw state, have not been trained, OpenAI has already expended the huge amount of compute resources necessary for GPT-3 to understand how languages work and are structured. The compute time necessary to achieve this is said to have cost OpenAI $4.6 million.
+To learn how to build language constructs, such as sentences, it employs semantic analytics - studying not just the words and their meanings, but also gathering an understanding of how the usage of words differs depending on other words also used in the text.
+It's also a form of machine learning termed unsupervised learning because the training data does not include any information on what is a ""right"" or ""wrong"" response, as is the case with supervised learning. All of the information it needs to calculate the probability that it's output will be what the user needs is gathered from the training texts themselves.
+This is done by studying the usage of words and sentences, then taking them apart and attempting to rebuild them itself.
+For example, during training, the algorithms may encounter the phrase “the house has a red door.” It is then given the phrase again, but with a word missing – such as “the house has a red X.""
+It then scans all of the text in its training data – hundreds of billions of words, arranged into meaningful language – and determines what word it should use to recreate the original phrase.
+To start with, it will probably get it wrong – potentially millions of times. But eventually, it will come up with the right word. By checking its original input data, it will know it has the correct output, and “weight” is assigned to the algorithm process that provided the correct answer. This means that it gradually “learns” what methods are most likely to come up with the correct response in the future.
+The scale of this dynamic ""weighting"" process is what makes GPT-3 the largest artificial neural network ever created. It has been pointed out that in some ways, what it does is nothing that new, as transformer models of language prediction have been around for many years. However, the number of weights the algorithm dynamically holds in its memory and uses to process each query is 175 billion – ten times more than its closest rival, produced by Nvidia.
+ What are some of the problems with GPT-3?
+GPT-3's ability to produce language has been hailed as the best that has yet been seen in AI; however, there are some important considerations.
+The CEO of OpenAI himself, Sam Altman, has said, ""The GPT-3 Hype is too much. AI is going to change the world, but GPT-3 is just an early glimpse.""
+Firstly, it is a hugely expensive tool to use right now, due to the huge amount of compute power needed to carry out its function. This means the cost of using it would be beyond the budget of smaller organizations.
+Secondly, it is a closed or black-box system. OpenAI has not revealed the full details of how its algorithms work, so anyone relying on it to answer questions or create products useful to them would not, as things stand, be entirely sure how they had been created.
+Thirdly, the output of the system is still not perfect. While it can handle tasks such as creating short texts or basic applications, its output becomes less useful (in fact, described as ""gibberish"") when it is asked to produce something longer or more complex.
+These are clearly issues that we can expect to be addressed over time – as compute power continues to drop in price, standardization around openness of AI platforms is established, and algorithms are fine-tuned with increasing volumes of data.
+All in all, it’s a fair conclusion that GPT-3 produces results that are leaps and bounds ahead of what we have seen previously. Anyone who has seen the results of AI language knows the results can be variable, and GPT-3’s output undeniably seems like a step forward. When we see it properly in the hands of the public and available to everyone, its performance should become even more impressive.
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is... Read MoreEditorial StandardsPrintReprints & Permissions",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LnNvY2lhbGV1cm9wZS5ldS9taW5kLXRoZS1nYXDSAQA?oc=5,Mind the gap - Social Europe,2020-10-06,Social Europe,https://www.socialeurope.eu,"The digitalisation of work, despite its potential, risks becoming an impersonal means by which employers tilt the balance of power.",N/A,"The digitalisation of work, despite its potential, risks becoming an impersonal means by which employers tilt the balance of power.","The digitalisation of work, despite its potential, risks becoming an impersonal means by which employers tilt the balance of power.",https://schema.org,,,,,,,,,,,,,Politics,N/A,"
+The digitalisation of work, despite its potential, risks becoming an impersonal means by which employers tilt the balance of power.
+Oliver Suchy
+Since we have come to live with the coronavirus around the globe, ‘digital work’ has been enjoying an unprecedented boom. To ensure social distance, we had to work in a kind of isolation for months (and still have to or will have to again), but it works. Thanks to digitalisation, we use more and more tools to work, communicate and collaborate productively, even from home. Yet realising the goal of ‘good mobile work’ depends closely on the labour-law framework and collective agreements—including over working time, privacy and surveillance and individual circumstances such as childcare. 
+We are working on bridging this gap. And at least employers have to admit now that flexible work, allowing employees more self-determination, is successful and doesn’t ruin the company. Prejudices regarding the motivation and work discipline of ‘home-office’ workers have not been confirmed. That’s the good message.
+Turning the tables
+But employers are already starting to turn the tables: companies are reducing office spaces, to create a ‘more distributed workforce’—and to cut costs, because, as we know, work at home works. But what does it mean for the future of office work? Do employees have to work out of office because they have lost the daily ‘hot-desking’? Shall we have to book a ticket for the use of an office? And will the further availability of working space or equipment for employees depend on their performance—all monitored by artificial-intelligence (AI) systems?
+
+
+
+
+
+
+
+
+
+
+Join 24,000+ informed readers and stay ahead with our insightful content. 
+It's free.
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+  Loading... 
+
+
+
+
+
+
+
+
+
+
+Subscribe
+  Loading... 
+
+
+
+
+
+
+Thank you!
+Please check your inbox and click on the link in the confirmation email to complete your newsletter subscription.
+
+
+
+
+
+
+
+
+
+The nature of ‘mobile work’, including work at home as an opportunity for self-determined flexible work, would then change fundamentally. Under German labour and constitutional law, it is not possible simply to transfer work to the private rooms of employees. If employees work at home regularly it has to be linked to certain provisions, to safeguard occupational health and safety, which means additional efforts on the part of employers. 
+Employers are trying to prevent exactly this. They are declaring ‘home office’ as mobile work—suggesting a new, limitless freedom—to circumvent regulation.
+Dealing with the digitalisation of work, we witness the power of employers to set ‘the facts’, as we have known it for ages. At the same time, technology is being used to change work, and power, structures. And the coronavirus crisis seems to be being exploited as an accelerator, to enforce employers’ or shareholders’ interests—particularly through job cuts via automation and a new level of surveillance.
+
+Become a Social Europe Member
+
+Support independent publishing and progressive ideas by becoming a Social Europe member for less than 5 Euro per month. Your support makes all the difference!
+
+Click here to become a member
+Massive job losses
+On the one hand, many companies are obviously under pressure due to the pandemic. So while the digital push can engender new, collaborative forms of work, managers can use the opportunities offered by digitalisation to cut jobs as far as possible via automation. Trade unions and workers are already facing massive job losses and job security is a high priority in many areas. The pressure will likely only increase.
+This scenario is linked to the new wave of AI systems at workplaces. It’s no coincidence that there are initiatives such as IBM’s ‘Human Friendly Automation’, demanding a higher awareness of the impacts of AI in the workplace, especially regarding the number and quality of jobs. ‘Change impact plans’ to assess the consequences of AI systems for employees, as proposed in March by the German trade union confederation, the DGB, are not mandatory but they should be—and the sooner the better. 
+While policy-makers focus on assistance systems and the much-invoked human-centred design, corporate strategies seems to have changed significantly. The assumption of increasing risks to workers makes regulation all the more necessary—for example, in relation to AI systems affecting workers’ rights and job security—as proposed in the European Commission White Paper on Artificial Intelligence. 
+The crisis shows in particular that a shift in the balance of power at the expense of employees must be countered politically. This applies to the legal framework, especially regarding co-determination and the negotiating position of employees, works councils and unions.
+Surveillance software
+On the other hand, the upheaval caused by the pandemic has been accompanied by increasing use of surveillance software. Here we can witness a link to AI systems, too: the ‘spyware’ is not only being used to track or control employees but offers opportunities to measure individual productivity and workers’ behaviour. This form of ‘management by algorithm’ shows that new, remote-control systems are emerging.
+Disguised as support for the workforce, it’s as if workers are themselves being turned into machines. And while AI systems provide an appearance of objectivity, this cannot be verified appropriately due to the lack of transparency. If such systems were to be established in the world of work on a large scale, there would be far-reaching consequences in terms of the balance of power, remuneration systems, occupational health and safety and so on. 
+Of course, there are safeguards in data-protection law (GDPR) and certain co-determination rights (in Germany), although there are loopholes and gaps. But experience shows companies tend to test the limits and often breach them. Moreover, not all employees are protected by collective agreements or works councils.
+This is not painting a future dystopia but the evidence of today. Managers talk about a ‘new normal’ in the world of work but this must not mean that appropriate regulation is no longer required. German employers’ associations have been calling for a softening of labour law for years—and are exploiting the crisis to assert these claims from the last century.
+Appropriate framework
+Policy-makers have to act and set out an appropriate framework to foster good digital work by using technology. Here we can see another gap, however—between the political discourse and the reality created by business. The lively debate on the use of AI at work is engendering much dialogue but no tangible results, in terms of regulation to resolve what are inevitably conflicting goals.
+There is an urgent need for a modern framework for the work of the future: fostering transparency and traceability of technology, bargaining on an equal footing, protecting privacy adequately and empowering workers. In this context, additional training opportunities for employees should be supported and publicly funded to a much greater extent. 
+So far digitalisation has been a great promise on the political stage. It would be a disaster if it turns out to be an empty one—and the much-vaunted possibilities for self-determination result in more insecurity, alienation and inequality.
+This is part of a series on the Transformation of Work supported by the Friedrich Ebert Stiftung
+
+
+
+ Oliver SuchyOliver Suchy is head of the Digital Workplaces and Workplace Reporting department of the German Trade Union Confederation (DGB), with a focus on shaping artificial-intelligence systems for good work.You are here: Home / Politics / Mind the gap
+
+
+
+
+
+
+
+ Most Popular Posts
+ The assault on labour rights in FinlandAntti Alaja and Joel Kaitila George Orwell and Europe’s new normalJan Zielonka Ukraine: Putin’s ‘reality’ … and the real worldFrank Hoffer Will the young save Europe from the rise of the far right?Albena Azmanova Housing crisis: Europe cannot afford itGerald Koessl
+
+
+ Most Recent Posts
+ Trump and the darkness threatening US politicsRichard Hargy The young generation needs quality traineeshipsMarc Steiert Rebuilding trust in democracy in MoldovaStanislav Pavlovschi Rising tides, sinking boats: growth, climate and justiceBasak Kus Ostrich politics and its alternativesEszter Kováts
+
+
+ Other Social Europe Publications
+ Global cities Strategic autonomy RE No. 13: Failed Market Approaches to Long-Term Care Towards a social-democratic century? National recovery and resilience plans
+
+
+","[{'@type': 'Organization', '@id': 'https://www.socialeurope.eu/#organization', 'name': 'Social Europe (SE)', 'sameAs': ['https://www.facebook.com/socialeurope.eu', 'https://twitter.com/socialeurope'], 'logo': {'@type': 'ImageObject', '@id': 'https://www.socialeurope.eu/#logo', 'url': 'https://www.socialeurope.eu/wp-content/uploads/2022/06/SE-8.png', 'contentUrl': 'https://www.socialeurope.eu/wp-content/uploads/2022/06/SE-8.png', 'caption': 'Social Europe', 'inLanguage': 'en-GB', 'width': '750', 'height': '422'}}, {'@type': 'WebSite', '@id': 'https://www.socialeurope.eu/#website', 'url': 'https://www.socialeurope.eu', 'name': 'Social Europe', 'publisher': {'@id': 'https://www.socialeurope.eu/#organization'}, 'inLanguage': 'en-GB'}, {'@type': 'ImageObject', '@id': 'https://www.socialeurope.eu/wp-content/uploads/2020/10/Oliver-Suchy.png', 'url': 'https://www.socialeurope.eu/wp-content/uploads/2020/10/Oliver-Suchy.png', 'width': '460', 'height': '458', 'caption': 'mobile work', 'inLanguage': 'en-GB'}, {'@type': 'WebPage', '@id': 'https://www.socialeurope.eu/mind-the-gap#webpage', 'url': 'https://www.socialeurope.eu/mind-the-gap', 'name': 'Mind the gap', 'datePublished': '2020-10-06T05:00:00+02:00', 'dateModified': '2020-10-13T16:44:49+02:00', 'isPartOf': {'@id': 'https://www.socialeurope.eu/#website'}, 'primaryImageOfPage': {'@id': 'https://www.socialeurope.eu/wp-content/uploads/2020/10/Oliver-Suchy.png'}, 'inLanguage': 'en-GB'}, {'@type': 'Person', '@id': 'https://www.socialeurope.eu/author/oliver-suchy', 'name': 'Oliver Suchy', 'url': 'https://www.socialeurope.eu/author/oliver-suchy', 'image': {'@type': 'ImageObject', '@id': 'https://secure.gravatar.com/avatar/a1480f952808fa5dafe32b405d2a71b7?s=96&amp;d=mm&amp;r=g', 'url': 'https://secure.gravatar.com/avatar/a1480f952808fa5dafe32b405d2a71b7?s=96&amp;d=mm&amp;r=g', 'caption': 'Oliver Suchy', 'inLanguage': 'en-GB'}, 'sameAs': ['https://twitter.com/herrsuschi'], 'worksFor': {'@id': 'https://www.socialeurope.eu/#organization'}}, {'@type': 'NewsArticle', 'headline': 'Mind the gap', 'keywords': 'mobile work', 'datePublished': '2020-10-06T05:00:00+02:00', 'dateModified': '2020-10-13T16:44:49+02:00', 'articleSection': 'Politics', 'author': {'@id': 'https://www.socialeurope.eu/author/oliver-suchy', 'name': 'Oliver Suchy'}, 'publisher': {'@id': 'https://www.socialeurope.eu/#organization'}, 'description': 'The digitalisation of work, despite its potential, risks becoming an impersonal means by which employers tilt the balance of power.', 'copyrightYear': '2020', 'copyrightHolder': {'@id': 'https://www.socialeurope.eu/#organization'}, 'name': 'Mind the gap', '@id': 'https://www.socialeurope.eu/mind-the-gap#richSnippet', 'isPartOf': {'@id': 'https://www.socialeurope.eu/mind-the-gap#webpage'}, 'image': {'@id': 'https://www.socialeurope.eu/wp-content/uploads/2020/10/Oliver-Suchy.png'}, 'inLanguage': 'en-GB', 'mainEntityOfPage': {'@id': 'https://www.socialeurope.eu/mind-the-gap#webpage'}}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vc2xhdGUuY29tL3RlY2hub2xvZ3kvMjAyMC8xMC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1qb2ItaW50ZXJ2aWV3cy5odG1s0gEA?oc=5,A.I. job interviews are stressing out applicants. - Slate,2020-10-05,Slate,https://slate.com,"“One wrong thing and the A.I. could just kick you out. … Or something. I don’t know how they work,” said one applicant.","['artificial-intelligence', 'jobs', 'robots', 'redux', 'Section:technology', 'AdNode:technology/future_tense']","“One wrong thing and the A.I. could just kick you out. … Or something. I don’t know how they work,” said one applicant.","“One wrong thing and the A.I. could just kick you out. … Or something. I don’t know how they work,” said one applicant.",http://schema.org,NewsArticle,https://slate.com/technology/2020/10/artificial-intelligence-job-interviews.html,"{'url': 'https://compote.slate.com/images/d22cf52a-7d88-470c-82f7-7c96c0d03815.jpeg?width=1200&rect=1560x1040&offset=0x0', '@type': 'ImageObject', 'width': 1200, 'height': 800}","{'name': 'Rachel Withers', '@type': 'Person'}","{'logo': {'url': 'https://dot.cdnslate.com/static/media/sites/slate-com/icon.400x400.09ec623.png', '@type': 'ImageObject', 'width': 400, 'height': 400}, 'name': 'Slate', '@type': 'Organization'}",A.I. Job Interviews Are Taking the “Human” Out of Human Resources,2020-10-05T13:00:00+00:00,,Future Tense,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Should Robots Be Conducting Job Interviews?
+A.I. is playing a new role in hiring.
+
+
+By
+      
+Rachel Withers
+
+
+Oct 05, 20209:00 AM
+
+
+
+
+
+
+
+
+
+
+
+Photo illustration by Slate. Photo by DigtialStorm/iStock/Getty Images Plus and Gearstd/iStock/Getty Images Plus.
+
+
+
+
+
+
+
+
+Tweet
+  
+
+
+
+Share
+
+
+
+
+Share
+
+
+
+
+Comment
+    
+
+
+
+
+
+
+
+
+
+
+Tweet
+  
+
+
+
+Share
+
+
+
+
+Share
+
+
+
+
+Comment
+    
+
+
+
+
+“Congratulations, you have been selected for an interview for the professional minigamer position at Open Mind Corporation,” a robotic voice announces over a blank screen. “My name is Alex. I will be guiding you through the interview. The whole process will take no more than 10 minutes. Let’s hear your voice. … Smile for the camera. … Welcome to the interview.”
+This is the start of An Interview With Alex, a dystopian online interactive experience taking viewers through a “job interview” conducted by an A.I. hiring manager—one that measures tone to score users on a “State of Mind Index.” Carrie Sijia Wang, the multimedia artist behind the project, writes that her work is meant to “criticize the present by speculating about the future.” But it’s not that far off how your next job interview might look, if you’re applying for high-volume, low-skilled roles (or even some high-skilled ones). A growing number of real-life recruiters are turning to A.I.-led job interviews, using programs that interview and assess candidates before a human recruiter even lays eyes on them.
+
+
+1/100:07Meeting Cleve Jones, Harvey Milk’s Intern | Slow Burn: Gays Against Briggs
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingMeeting Cleve Jones, Harvey Milk’s Intern | Slow Burn: Gays Against Briggsafter the adVisit Advertiser websiteGO TO PAGE
+
+
+Odds are, if you’re applying for the kinds of jobs that attract lots of applicants, you’re going to be interviewed by an A.I. eventually.
+
+Alex won’t be interviewing you, but it might be Hubert, or Ella, or Tengai, or Phai, or simply automated words on a screen. Most of the bots aren’t running the decision-making process from end-to-end (although sometimes they are—see Ryan Fan’s OneZero article “I Got a Job at an Amazon Warehouse Without Talking to a Single Human”). Instead, recruiters generally use A.I. at the “top of the funnel” to sort or rank candidates before they reach a still human-run stage. Like humans, these bot recruiters have their own unique styles of interviewing. Some are merely seeking logistical information, like availability and ongoing interest, while others might be looking to assess drive, initiative, team-working skills, adaptability, or even your tendency to job hop. Some will ask everyone the same set of questions in the same order, while others will tailor their questions to you, verifying that you can really do the things you say you can.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+For many positions, every single applicant receives an automated interview link. Applicants are free to log into the “interview” on their own time, and there will often be practice questions they can try before they face the official questions. Some are text-based, while others require applicants to record themselves on video. Questions, posed by a bot or prerecorded message (or, in one case, a disembodied head), are usually fairly stock standard probes: Tell us about your previous experience, why are you interested in this company? But there is no human listening. The answers are recorded and analyzed by A.I., marking the candidate’s suitability on certain traits, before human recruiters use this analysis to decide whom to invite to another interview or hire. By the time answers are reviewed by a human (if at all), A.I. has already passed judgment.
+
+
+
+Advertisement
+
+
+
+
+
+Odds are, if you’re applying for the kinds of jobs that attract lots of applicants, you’re going to be interviewed by one eventually. It’s so prevalent that Fast Company ran an article telling readers about “4 things you must do to prep for an AI-powered job interview,” while LinkedIn runs a free A.I. video interview practice tool. And as much as the companies behind them tell me otherwise, you might not love it.
+
+
+
+Advertisement
+
+
+
+
+
+Artificial intelligence has played a growing role in recruiting and hiring for some time, as both a timesaver and a matchmaker. A.I. has been used to generate job descriptions, to post and share jobs, to automate candidate searches, and to scan résumés and cover letters, leading some to hide keywords in white text on their applications. (Don’t do that.) Candidates may not have even noticed this shift, and perhaps it makes very little difference to most whether a job is promoted by a faceless HR manager or a faceless bot. But it’s one thing to have A.I. “read” your résumé—it’s quite another to have to answer its questions.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+These systems are now being used by major companies, including Unilever, Vodafone, Intel, L’Oréal, Mars, and Citibank, to name but a few. Kevin Parker, CEO of Utah-based HireVue, one of the more prominent platforms in the space, tells me that one of the company’s customers, “a large grocery chain in the U.S.,” used the platform to interview about 20,000 people a day for stocker and cashier jobs. But A.I. interviews are also being used for internships and professional positions, especially in the age of social distancing.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+The startups behind these platforms are all quick to point out their unique ability to improve efficiency and fairness, cutting out human bias and inconsistency. A.I. can avoid many human interviewer foibles: It is immune to charisma and distractions, never gets tired or cranky, and will remain on-script, ensuring consistent interviews and meritocratic decision-making. Plus, this way, 20,000 candidates a day can be interviewed and assessed by the same “interviewer.” While efficiency features prominently on these platforms’ websites (PredictiveHire has a free tool calculating how much time and money automating interviews can save), almost all of them make some mention of eliminating unconscious bias, overcoming societal preferences for certain races, genders, ages, and appearances. But algorithms have often been found to replicate human bias, especially if fed with human data sets, and certain characteristics may be unfairly associated with hirability. (In 2015, Amazon abandoned an “experimental” A.I. recruiting tool, which analyzed résumés rather than interviews, because it was discriminating against women for technical roles based on previously skewed hires. It preferred “masculine” words to feminine ones.) A.I. recruitment companies argue that with the right amount of auditing of data, these biases can be drawn out and removed. “We can look to see how the questions impact different groups,” says HireVue’s Parker. “Are men scoring differently than women, are Asians scoring different than Caucasians, are African Americans impacted differently? There’s a whole series of tests and statistical analyses that we go through to make sure that the algorithms aren’t introducing bias.”
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Many of the companies behind these systems also market themselves on their “candidate experience.” While the hiring company is ultimately their true customer, A.I. firms are acutely aware of the impact a bad interview experience can have for a company, especially one that wants to keep its failed candidates as customers, and use this as a selling point. Hubert+1, a Swedish startup, notes that “a full 11% of candidates with bad experiences will sever all business relations with the company in question” and boasts that its “Hubert,” on the other hand, provides “a candidate experience fit for a king.” (As though kings are applying to jobs!) PredictiveHire, an Australian company that runs chat-based A.I. interviews, shares positive candidate reviews on its website. Parker says that HireVue’s average net promoter score, measuring if the candidate had a good experience, is “somewhere in the high 60s, low 70s”; Hubert+1’s website brags of 92 percent candidate satisfaction, PredictiveHire of 99 percent. “And if I gave you access to any hundred interviews and asked you to watch them with the sound off well, what you’d probably see most often is people smiling,” says Parker.
+
+
+
+Advertisement
+
+
+
+
+
+But I wanted to hear more from the people who have actually done one of these interviews—and there are quite a few complaining about the process online. To be fair, these anecdotes may be skewed: People who had perfectly fine experiences aren’t likely to tweet about them. It’s clear, however, that many find it difficult, disrespectful, and dehumanizing. Reddit is full of rants about HireVue, one of the most prominent platforms in the space, with posters calling it “the worst interviewing experience” or “a pure waste of time.” (Others use more colorful language.) Many say they won’t be taking them again.  “This is a hard pass,” wrote one user.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Lauren, a 23-year-old college grad who has been applying for jobs since May 2019, told me that getting one of these interview requests isn’t the same feeling as landing a real interview. “You get the email and it’s like, ‘Oh my gosh I landed an interview!’ ” she says. “And then you realize it’s an A.I. thing and you’re like, ‘OK. Sigh. I guess we’ll just do this and hopefully get an actual interview.’ ”
+
+
+
+Advertisement
+
+
+
+
+
+
+“One wrong thing and the A.I. could just kick you out. … Or something. I don’t know how they work.”
+
+      —
+      Lauren
+    
+
+Part of the problem is that bot interviews create more work for applicants, asking even those who are unlikely to get hired to invest the time. Jade, a recent college grad looking for work in retail, told me: “We have to do all this song and dance for A.I., or a robot, or whatever it is before we even talk to an actual person—if that ever happens.” Aurora, a job-hunting friend of mine who worked in the travel industry prior to COVID-19, says this addition takes up “so much time.” Despite being done alone and from the comfort of your own home, for video interviews, you’re still encouraged to look presentable every time—whether because the A.I. will judge now or a human reviewer will later. “You have to do your hair and your makeup and your clothes and get your background right,” she says. “That makes it extra exhausting, because you’re doing that every couple of days, just so that you can be seen on a screen in a professional manner.” (When I pointed this out to the A.I. firms, they were quick to argue the opposite: that this gives everyone a chance and allows applicants to complete on-demand interviews at their convenience.)
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Others saw a different problem with A.I. sorting the initial pool: that it is being used to eliminate people before applications even reach a human. “It’s almost like they are trying to trip people up, that’s the feeling I got with a couple of them,” Aurora says. “That they were trying to get rid of people by making them have a certain kind of answer.” Lauren also got the feeling the A.I. was just waiting for her to slip up. “One wrong thing and the A.I. could just kick you out. … Or something. I don’t know how they work.”
+
+
+
+Advertisement
+
+
+
+
+
+One person who does understand how they work is Kat, a 33-year-old software engineering student who was recently offered two different HireVue interviews in her search for an internship. She tweeted about her concerns as a dark-skinned Black woman, because A.I. is known to perpetuate bias against people of color or fail to recognize them at all. She says most who responded to her viral tweet advised her to decline the interviews, although a number of recruiters showed up to reassure her. “One of my Twitter buddies, she actually does ethics and A.I., and she was like, ‘This is … this is … like, no. Absolutely not,’ ” she says. Kat did do the interviews in the end, against most of her friends’ advice. What put her mind at ease, she says, was learning that not all recruiters that use HireVue to automate questions actually use the A.I. tool analyze the answers. (Some merely use it to interview en masse, with human recruiters still watching and scoring them.) But she was disappointed to later read the terms and conditions and realize one of her interviews did use A.I. analysis; she plans to decline the next time she receives one. “It just felt like I was not valued as a human,” she says. “It just makes me feel like a collection of data points.”
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+But even when the answers aren’t analyzed by A.I., the automated interview process was still dispiriting to the candidates I spoke with. “It’s all one-way,” says Kat. “I think a lot of these recruiters and companies forget that the hiring process is a conversation between two parties. When you have a one-way recorded interview, I can’t ask them questions.” She, along with many people I spoke to, says it makes for a terrible first impression of a company. “If you don’t even take the effort to invite me to a company presentation, a meet-and-greet, or any sort of interaction before you throw me into your, you know, recruitment machine, then it’s a reflection of what your company culture is like.” Aurora, who hung up on a stilted A.I. interview with questions that made little sense, says this job hunt has been more demoralizing than her last. “The bot really upset me,” she says. “I feel like I need a job, but I’m just waiting for one to be an actual person that interviews me, so that I feel like I’m valued. I have a very clear idea of my worth, what I want to be paid, how I want to be treated—and that’s not how I want to be treated.” Lauren agreed: “It’s like you’re talking to a wall almost.” It’s no surprise that many of these automated hiring processes seem to be connected to the sorts of jobs that treat humans as machines anyway.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Parker acknowledges the lack of natural flow can be difficult but at least candidates have the opportunity to do retakes, unlike in real life. Plus, he adds, “we’re not looking for movie stars here. This isn’t a screen test.” (Jade, however, described it as feeling “like an audition reel.”)
+This was, for me, the worst part of the mock interview HireVue sent me to try—an interview for a customer support representative with a made-up paper company. Although the questions were posed to me by cheerful fake staff from the company in prerecorded messages, I felt entirely alone—and I was, sitting in my bedroom trying to sell myself to A.I. Despite being given 30 seconds to prepare before answering each question, it was difficult to give full and engaging answers to no one, and my mind often went blank staring at either the timer or my own face. (This could be switched off, but I found the blank screen even worse.) What’s more, it was hard to quell my (very real) nerves without the niceties and introduction and small talk upfront.
+
+
+
+Advertisement
+
+
+
+
+
+That lack of chit-chat, Parker says, is actually one of the many advantages of these systems. “If we’re going to be hiring for you, everybody’s going to get the same experience, everybody’s going to get the same questions,” he says. It erases the advantage of some applicants being able to connect with an interviewer based on cheering for the same sports team or being from the same town, he says. There are other real benefits to A.I. interviews, too—as every single CEO I spoke to explained. Interviews can be done on demand, with no need for scheduling, meaning those currently working another job can interview without having to take time off. A typical Sunday for HireVue currently sees around 10,000 people interview, most on a mobile device. Many mentioned being able to make sure every candidate actually hears back, even the rejected ones. (Lauren says she never heard back from her HireVue, although it was just before the pandemic kicked off.) There is also an opportunity to provide automated, personalized feedback to every candidate—something PredictiveHire prides itself on. The company’s chatbot, Phai, is able to create and share constructive “insights” with a candidate almost immediately following an interview (“you take a logical and planned approach,” “you are independent minded”), along with “coaching tips” to work on particular attributes (“practice speaking your opinion”). CEO Barb Hyman wants to get this feature into the hands of students, and even those applying for jobs not being recruited by Phai.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+And while many are concerned about these platforms’ ability to replicate existing bias, others are excited about the ability to overcome it—if done right. There’s one group that both HireVue and PredictiveHire mentioned as really enjoying their interviews when polled: those in the twilight years of their career.
+After speaking to many of these A.I. firms, I believe that some of them do care about the candidate experience. HireVue has worked to improve its candidate experience based on the feedback of 1.5 million surveyed candidates. PredictiveHire’s “hiring with heart” sounds rather hollow, but Hyman and I spoke at great length about the need for humanity and empathy, especially now. “In a world of unemployment, how do you create some sort of dignity and some humanity when actually, life is pretty hard.” She said they avoided using video for this very reason.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Recommended for You
+
+
+
+The Worst Thing You Can Do While Flying Has Nothing to Do With Reclining Your Seat
+
+
+
+My Wife and I Filled Out a List of Our Secret Desires for Sex. We Found a Match. Now Comes the Hard Part.
+
+
+
+How the Right Is Prepared to Attack Kamala Harris
+
+
+
+
+But as much as these firms might try to ease the process for candidates, A.I. interviews exist because they are a cost-saving measure for recruiters. Viktor Nordmark, co-founder of Hubert+1 (with its “candidate experience fit for a king”), was rather blunt when I asked how he would respond to people who may feel undervalued by the process. “As companies you always seek to make more money,” he said. “I think it’s really hard to change that basic principle.”
+
+
+
+Advertisement
+
+
+
+
+
+The fact that these automated interviews are economically rational makes them no less upsetting for those who might be stuck doing them over the coming months and years. Maybe this is something we’ll all get used to, the way we’ve gotten used to Zoom; maybe HireVue’s smiling candidates really are having a fantastic time and are not just desperately trying to please the opaque A.I. But I keep thinking about a scene from the Netflix improv show Middleditch and Schwartz. When the comedians asked audience members for fodder from their everyday lives to kick things off, one offered up his A.I. job interview. Thomas Middleditch’s outraged horror said it all. “What the fuck is that?” he cried. “That’s so mean!”
+
+Future Tense
+    is a partnership of
+    Slate,
+    New America, and
+    Arizona State University
+    that examines emerging technologies, public policy, and society.
+
+
+
+
+
+Tweet
+  
+
+
+
+Share
+
+
+
+
+Share
+
+
+
+
+Comment
+    
+
+
+
+
+
+              Artificial Intelligence
+            
+
+
+              Robots
+            
+
+
+              Jobs
+            
+ 
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+",,"“One wrong thing and the A.I. could just kick you out. … Or something. I don’t know how they work,” said one applicant.",2020-10-05T13:00:00+00:00,https://compote.slate.com/images/d22cf52a-7d88-470c-82f7-7c96c0d03815.jpeg?width=780&height=520&rect=1560x1040&offset=0x0,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8xMC8wMS9zb25vcy1zcG90aWZ5LWloZWFydHJhZGlvLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlL9IBAA?oc=5,How A.I. is playing a bigger role in music streaming than you ever imagined - Fortune,2020-10-01,Fortune,https://fortune.com,"Behind the scenes of some of the most popular online music streaming services, artificial intelligence is hard at work.","Spotify, iheartradio, songs, songs radio, music streaming, machine learning, music recommendation, artificial intelligence, AI and music, machine learning recommendation, music playlists, super hifi, machine learning music","Behind the scenes of some of the most popular online music streaming services, artificial intelligence is hard at work.","Behind the scenes of some of the most popular online music streaming services, artificial intelligence is hard at work.",,,,,,,,,,,,,,N/A,N/A,"Tech - Brainstorm TechWhy Grindr’s CEO believes ‘synthetic employees’ are about to unleash a brutal talent war for tech startupsBYJason Del ReyJuly 16, 2024",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3c3Jvb20uaWJtLmNvbS8yMDIwLTEwLTA1LUlCTS1CcmluZ3MtQXJ0aWZpY2lhbC1JbnRlbGxpZ2VuY2UtQXQtU2NhbGUtVG8tVGhlLU1hcmtldGluZy1BbmQtTWVkaWEtSW5kdXN0cnnSAQA?oc=5,IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry - IBM Newsroom,2020-10-05,IBM Newsroom,https://newsroom.ibm.com,"IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed to allow brands to reach consumers while considering user privacy. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath, LiveRamp and Beeswax to help scale the use of AI across the industry. The announcement was made this morning at Advertising Week's digital-first virtual event #AW2020.",,IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed to allow brands to...,IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed to allow brands to...,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZW1lcmouY29tL3BhcnRuZXItY29udGVudC90aGUtaW1wYWN0LW9mLWFpLW9uLWJ1c2luZXNzLWxlYWRlcnNoaXAtYW5kLXRoZS1tb2Rlcm4td29ya2ZvcmNlL9IBAA?oc=5,The Impact of AI on Business Leadership and the Modern Workforce - Emerj,2020-10-05,Emerj,https://emerj.com,"According to a recent global survey on AI*, a majority of organizations began deploying AI to automate or improve routine or inefficient processes...",,"According to a recent global survey on AI*, a majority of organizations began deploying AI to automate or improve routine or inefficient processes...",N/A,https://schema.org,Article,,https://emerj.com/wp-content/uploads/2018/04/sample-690x303.png,Partner Content,"{'@type': 'Organization', 'name': 'Emerj', 'url': 'https://emerj.com', 'logo': {'@type': 'ImageObject', 'url': 'https://emerj.com/wp-content/themes/emerj/src/logo/emerj-logo-w-500-min.png'}}",The Impact of AI on Business Leadership and the Modern Workforce,2018-02-25,2020-10-05,,,,,N/A,N/A," Process automationSPONSORED The Impact of AI on Business Leadership and the Modern Workforce Partner ContentLast updated on October 5, 2020 Last updated on October 5, 2020, published by Partner Content This author account is for Partner Content with Emerj advertising and content partnership clients. Learn more at Emerj.com/partnerships. Share to: LinkedIn Twitter Facebook Email  This article was written by Sudhir Jha (Senior Vice President & Global Head of Product Management and Strategy), and was edited and created in partnership with Infosys. For more information about content and promotional partnerships with Emerj, visit the Emerj Partnerships page. This article is based on insights from Infosys’ recent Leadership in the Age of AI research report. View the report itself to learn more, and to read about the research methods used. As businesses around the world continue to produce new use cases for artificial intelligence (AI), the technology’s ability to foster or eliminate a level playing field creates a growing concern about its overall power and influence on the future workforce. While most agree AI holds vast potential to unlock discoveries we haven’t yet conceived, for many, AI strikes concerns over job displacement, economic instability and skills shortages. Elon Musk has been vocal on his perspective of AI, illustrating worst-case scenarios that pin humans versus robots in a battle for jobs and control of human destiny. Yet despite passionate concerns and potential implications of AI, the technology holds enormous potential for human empowerment and gives us the tools necessary to automate redundant tasks, spot patterns within new and existing data and uncover important insights that have the potential make our lives better (in medicine, in finance, and everyday life). AI’s Return on Investment  According to a recent global survey on AI*, a majority of organizations began deploying AI to automate or improve routine or inefficient processes. In fact, 66 percent of those surveyed are leveraging AI technologies primarily for business process automation, often viewed as a good starting point as it can deliver quick improvements. While AI is still in its infancy, 9 out of 10 C-level executives reported tangible benefits from the artificial intelligence applications in their companies. In addition to security and privacy issues, respondents also reported that because their organization’s data is not ready from a support standpoint, they are unable to deploy the AI technologies they want. As a result, expect to see continued investment in data management as companies aggressively adopt AI technologies.  Leadership in the Age of AI 2 Integrating AI into the Workforce With nearly half of all respondents reporting that their organization’s AI deployment is greatly outpacing the accuracy and productivity of comparable human activity, it is clear that AI is already matching human capabilities in certain areas. And business leaders are well aware of AI’s potential ethical and human dilemmas, as 69 percent of C-level executives reported that their employees are concerned that AI technologies will replace them. To fully integrate employees into a successful AI deployment, organizations will need to leverage AI to augment existing human skills and make employees better at their work as well as focus on employee training to help them develop adaptable skills for the future. Leadership in the Age of AI 3 Leaders Embracing Greater Presence of AI As AI is integrated into more operations within organizations, the fundamental components of leadership must be refined across several levels, including overall strategy, customer experience and leveraging technology and human capital. Recognizing this shift in leadership, four out of five C-level executives surveyed said that their future business strategy will be informed through opportunities made available with AI technology. Tellingly, 80 percent of C-level executives were also confident that their organization’s executive team has the ability to adapt their leadership skills as AI technologies are adopted within their business. Along with a belief in leadership strength, 70 percent of all C-level executives surveyed strongly agreed that AI will benefit employees at all levels of their organization. Leadership in the Age of AI 1 While many leaders take a positive view, the data also revealed an area of concern with AI among business leaders in losing transparency into their business due to the technology’s ability to run autonomously. As a result, 52 percent of the CEOs surveyed said they are fearful that leadership will have less transparency into their business due to AI and automation. Concluding Thoughts Some organizations are already experiencing the benefits of AI as it becomes mainstream in business, and there is a fear those who are not already experimenting with AI will be left behind (given a long enough time horizon, this will likely be the case). In order to remain competitive, businesses investing in AI should also invest in their employees. And as AI increases in scale and drives further change, businesses that embrace training and re-skilling current employees will realize tangible benefits. Transparency about AI initiatives and their benefits can also improve AI effectiveness: Business leaders can uncover new opportunities and head off potential risks before they cause serious problems or harm to the company’s customers, employees or reputation. Because AI will bring continuous change, training cannot be a one-time initiative. The most successful organizations will be those that adopt a culture of lifelong learning and facilitate opportunities for staff to continuously develop new skills. Business leaders will also need to evolve their skills to gain a deeper understanding of the technologies that are driving their business forward in the years to come.   *In the Infosys report, “artificial intelligence” is defined as “software technologies that make a computer or robot perform equal to or better than normal human computational ability in accuracy, capacity and speed. Examples can include Natural Language Processing, Knowledge Representation, Automated Reasoning, Machine Learning, Robotics, Rational Agent and Chatbots. Header image credit: Infosys Related Posts How Business Leaders Should Think About AI HardwareIn this episode of the AI in Industry podcast, we speak with Marshall Choy, VP… What Executives Should be Asking about AI Use-Cases in BusinessWe talked to Ben Lorica, the Chief Data Scientist at O’Reilly Media, to get his… The Value of Networking for AI-Focused Business LeadersAs interest in artificial intelligence has exploded in the last two years, the prevalence of… Why Executives Should Keep Up with AI Trends in BusinessI hope that by the end of this episode of the AI in Industry podcast,… Data Collection and Enhancement Strategies for AI Initiatives in BusinessThere’s more to successful AI adoption than picking the right technology. Business leaders should be… Share to: LinkedIn Twitter Facebook Email Stay Ahead of the AI Curve Discover the critical AI trends and applications that separate winners from losers in the future of business. Sign up for the 'AI Advantage' newsletter:   Subscribe",,,,,Partner Content,928,https://emerj.com/partner-content/the-impact-of-ai-on-business-leadership-and-the-modern-workforce,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRlY2hub2xvZ3luZXR3b3Jrcy5jb20vaW5mb3JtYXRpY3MvbmV3cy93aG8tZ2V0cy1jcmVkaXQtZm9yLWFpLWdlbmVyYXRlZC1hcnQtMzQxMDk40gEA?oc=5,Who Gets Credit for AI-Generated Art? - Technology Networks,2020-10-01,Technology Networks,https://www.technologynetworks.com,"Intelligent algorithms are used to create paintings, write poems, and compose music. According to a new study, whether people perceive artificial intelligence (AI) as the ingenious creator of art or simply another tool used by artists depends on how information about AI art is presented.",N/A,"Intelligent algorithms are used to create paintings, write poems, and compose music. According to a new study, whether people perceive artificial intelligence (AI) as the ingenious creator of art or simply another tool used by artists depends on how information about AI art is presented.",N/A,https://schema.org,NewsArticle,https://www.technologynetworks.com,"{'@type': 'ImageObject', 'url': 'https://assets.technologynetworks.com/production/dynamic/images/content/341098/who-gets-credit-for-ai-generated-art-341098-270x270.jpg', 'height': 360, 'width': 360}","[{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Technology Networks', 'sameAs': ['https://www.facebook.com/technologynetworks', 'https://www.twitter.com/tech_networks', 'https://www.linkedin.com/company/1179113']}]","{'@type': 'Organization', 'name': 'Technology Networks', 'logo': {'@type': 'ImageObject', 'url': 'https://assets.technologynetworks.com/production/static/images/logos/TNLogo_StructuredData_2021.png?cb=2024-05-08-11-00', 'width': 600, 'height': 60}, 'sameAs': ['https://www.facebook.com/technologynetworks', 'https://www.twitter.com/tech_networks', 'https://www.linkedin.com/company/1179113'], 'correctionsPolicy': 'https://www.technologynetworks.com/tn/editorial-policies'}",Who Gets Credit for AI-Generated Art?,2020-10-01T00:00:00.000+00:00,2020-10-01T08:55:09.480+00:00,Informatics,Technology Networks,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.technologynetworks.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Informatics', 'item': 'https://www.technologynetworks.com/informatics'}, {'@type': 'ListItem', 'position': 3, 'name': 'News', 'item': 'https://www.technologynetworks.com/informatics/news'}, {'@type': 'ListItem', 'position': 4, 'name': 'Content Piece'}]",N/A,N/A,N/A,,,,,,,"{'@type': 'WebPage', '@id': 'https://www.technologynetworks.com/informatics/news/who-gets-credit-for-ai-generated-art-341098'}",https://assets.technologynetworks.com/production/static/images/logos/TNLogo_StructuredData_2021.png?cb=2024-05-08-11-00,"['https://www.facebook.com/technologynetworks', 'https://www.twitter.com/tech_networks', 'https://www.linkedin.com/company/1179113']","{'@type': 'AudioObject', 'contentUrl': 'https://www.technologynetworks.com/informatics/news/who-gets-credit-for-ai-generated-art-341098#audio_player', 'description': 'Audio version of the Article: Who Gets Credit for AI-Generated Art?', 'duration': 'PT2M', 'encodingFormat': 'audio/*', 'requiresSubscription': True}","Intelligent algorithms are used to create paintings, write poems, and compose music. According to a study by an international team of researchers from the Massachusetts Institute of Technology (MIT), and the Center of Humans and Machines at the Max Planck Institute for Human Development, whether people perceive artificial intelligence (AI) as the ingenious creator of art or simply another tool used by artists depends on how information about AI art is presented. The results were published in the journal iScience.In October 2018, a work of art by Edmond de Belamy, which was created with the help of an intelligent algorithm, was auctioned for 432,500 USD at Christie's Auction House. According to Christie's auction advertisement, the portrait was created by artificial intelligence (AI). The media often described this as the first work of art not created by a human but rather autonomously by a machine. The proceeds were not given to the machine but instead to the French artists' collective Obvious. This collective had fed an algorithm with pictures of real paintings by human painters and trained it to create images autonomously. They then selected a certain picture, printed it, gave it a name, and marketed it. However, the programmers who developed the artificial neural networks and algorithms used were not mentioned, nor did they receive any of the proceeds from the sale of the painting.""Many people are involved in AI art: artists, curators and programmers alike. At the same time, there is a tendency - especially in the media - to endow AI with humanlike characteristics. According to the reports you read, creative AI autonomously creates ingenious works of art. We wanted to know whether there is a connection between this humanization of AI and the question of who gets credit for AI art"", Ziv Epstein, PhD student at the MIT Media Lab and first author of the study, explained.To this end, the researchers informed almost 600 participants about how AI art is created and asked who should receive recognition for the work of art. At the same time, they determined the extent to which each participant humanizes AIs. The individual answers varied greatly. But on average, people who humanized AI and did not perceive it merely as a tool also felt that AI should receive recognition for the AI art and not the people involved in the creation process.When asked which people deserve the most recognition in the process of creating AI art, recognition was initially given to the artists who provided the learning algorithms with data and trained them. Only then were curators named, followed by technicians who programmed the algorithms. And finally, the ""crowd"" (i.e. the mass of Internet users who produce the data material with which AIs are often trained) was mentioned. Respondents who humanized the AI gave more recognition to the technicians and the crowd, but proportionally less to the artists. A similar picture emerges when respondents are asked about who is responsible, for example when an AI artwork violates copyright. Here, too, the ones who humanized the AIs placed more responsibility on the AIs.A key finding of the study is that it is possible to actively manipulate whether people humanize AIs by changing the language used to report on AI systems in art. The creative process can be described by explaining the fact that AI, supported only by an artistic collaborator, conceives and creates new works of art. Alternatively, the process can be described by explaining the fact that an artist conceives the artwork and that the AI executes simple commands given by the artist. The different descriptions changed the degree of humanization and thus also to whom the participants attributed recognition and responsibility for AI art from among the human actors.""Because AI is increasingly penetrating our society, we will have to pay more attention to who is responsible for what is created with AI. In the end, there are humans behind every AI. This is particularly relevant when the AI malfunctions and causes damage - for example, in an accident involving an autonomous vehicle. It is therefore important to understand that language influences our view of AI and that a humanization of AI leads to problems in assigning responsibility"", says Iyad Rahwan, director of the Center for Humans and Machine at the Max Planck Institute for Human Development and co-author of the study.Reference: Epstein Z, Levine S, Rand DG, Rahwan I. Who Gets Credit for AI-Generated Art? iScience. 2020;23(9). doi:This article has been republished from the following . Note: material may have been edited for length and content. For further information, please contact the cited source.   ",PT2M,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Jlcm5hcmRtYXJyLzIwMjAvMTAvMDIvaG93LWlzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXVzZWQtaW4tYjJiLWNvbXBhbmllcy1oZXJlLWFyZS1wb3dlcmZ1bC1leGFtcGxlcy_SAQA?oc=5,How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples - Forbes,2020-10-02,Forbes,https://www.forbes.com,"Can B2B companies leverage AI just as well as B2C companies? Absolutely! Artificial intelligence is vitally important to helping B2B companies improve their products and services as well as operations and business processes, just like it is for B2C companies.","ai,artificial intelligence,b2b,b2c,business","Can B2B companies leverage AI just as well as B2C companies? Absolutely! Artificial intelligence is vitally important to helping B2B companies improve their products and services as well as operations and business processes, just like it is for B2C companies.","Can B2B companies leverage AI just as well as B2C companies? Absolutely! Artificial intelligence is vitally important to helping B2B companies improve their products and services as well as operations and business processes, just like it is for B2C companies.",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2020/10/02/how-is-artificial-intelligence-used-in-b2b-companies-here-are-powerful-examples/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/specials-images/imageserve/5f76aa7a27e990f9cc618fe8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples,2020-10-02T00:22:08-04:00,2020-10-02T00:22:08-04:00,Enterprise Tech,How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",Enterprise Tech,N/A,"More From ForbesJul 15, 2024,09:02am EDTWhen Will Quantum Computers Affect Your Competitive Landscape?Jul 15, 2024,09:00am EDTAristotle’s Timeless Guide To Mastering AIOpsJul 15, 2024,03:25am EDTIEEE Travels In July (Japan, China And Greece)Jul 14, 2024,03:19am EDTMaking A More Accurate And Sustainable AI ModelJul 12, 2024,09:00am EDT‘Knowledge Is Power’: The Antipattern That Is Holding Your Team BackJul 12, 2024,07:00am EDTHow Generative AI Rattles the WorkplaceJul 11, 2024,12:49pm EDTReality Check: Generative AI’s Impact May Be Overstated, For NowEdit StoryForbesInnovationEnterprise TechHow Is Artificial Intelligence Used In B2B Companies: Here Are Powerful ExamplesBernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itOct 2, 2020,12:22am EDTUpdated Oct 2, 2020, 12:22am EDTThis article is more than 3 years old.Share to FacebookShare to TwitterShare to LinkedinThere’s often a misconception that artificial intelligence (AI) is only applicable to businesses in the B2C space. It's thought that since B2C companies have more customers, they have more data to leverage to make AI impactful. However, this couldn't be further from the truth. AI is as relevant to a B2B company as it is to a B2C company. It's important for every B2B company to evaluate the ways AI can help them produce better products, provide better services, and improve business processes. Here are just a few of the ways some B2B companies are using artificial intelligence today.
+How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful ExamplesAdobe Stock
+
+Better Products
+
+One of the ways artificial intelligence supports B2B companies is by helping to create better products. In healthcare, AI is behind many innovative tools such as the CT scanner created by Siemens Healthineers that is powered by AI algorithms. This tool assists radiologists with step-by-step instructions specific to each patient to acquire the best images possible. With the support of AI, clinical decision-making can be more quantitative and accurate. Artificial intelligence also enables predictive maintenance, which helps improve product performance and reduces costly downtime.
+
+Better Services
+
+There are many businesses that use artificial intelligence to provide better services to their clients. At Autodesk, intelligent design software changes how to design and build things. With machine learning, Autodesk provides its customers in manufacturing, architecture, engineering, and construction automated generative design technology. Artificial intelligence is also behind Salesforce Einstein, a customer relationship management system that features machine learning, natural language processing capability, and predictive analytics. This can help catapult the sales and marketing services of businesses. When it comes to transaction processing and data warehousing Oracle’s autonomous databases help reduce operational costs. 
+PROMOTED
+Better Business Processes
+One of the most powerful ways artificial intelligence supports any company, including B2B organizations, is by improving business processes. B2B businesses must adopt AI technologies if they want to remain competitive in their industries. AI is changing the game with business processes from support services such as marketing, recruiting/human resources, finance, manufacturing, and more. In addition, automation of a variety of tasks in multiple functions also helps reduce costs.
+Manufacturing
+When it comes to manufacturing, artificial intelligence and machine learning have been revolutionary. Everything from supply chain and inventory management to predictive maintenance was improved or resulted from Industry 4.0 innovations for manufacturing. With the adoption of machine learning, McKinsey predicted a drop in forecasting errors by as much as 50 percent, and there are similar cost and time savings throughout every stage of the manufacturing process.
+MORE FOR YOUSuspected Trump Shooter Remembered By Rifle Team Member As ‘Comically Bad Shot’: What We Know About Thomas Matthew Crooks‘House Of The Dragon’ Season 2, Episode 5 Recap And Review: The Seeds Of The DragonBiden Vs. Trump 2024 Election Polls: Biden Narrowly Leads Trump In Virginia, After 10-Point Win There In 2020
+Marketing
+Once artificial intelligence is put to work in the sales and marketing processes, data from websites, social media accounts, and contact databases can be analyzed for insights to help improve the number of leads generated as well as the quality of those leads. The hyper-personalization of marketing campaigns that's possible thanks to AI technology and machine learning can also boost B2B business results in part because relevant content can be delivered at the right time. Now that chatbots and other AI-powered communication systems can provide customer service 24/7, there’s a lot of heavy lifting already completed before your human workforce needs to engage with your customers.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+Human Resources
+Is there room for AI in human resources? Absolutely! While the HR function is focused on humans, the reality is that AI can help optimize and analyze HR efforts just as it does for other disciplines. If you’ve applied for a job using a digital platform, you’ve experienced AI at work. Algorithms scan your credentials to spot relevant terms on your resume that might indicate a fit for the open position. But it’s not just recruiting that benefits from AI integration. Insights from AI can help HR departments understand employee referrals and analyze feedback from employees to make data-driven decisions. Responding effectively and accurately to employee feedback can improve the employee experience.
+
+
+1/1
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingafter the adVisit Advertiser websiteGO TO PAGE
+Finance
+The finance arena is a natural fit for AI and machine learning applications since they already rely heavily on digital workflows and databases. Certainly, one of the biggest cost centers and areas that AI can help out finance departments is in the prevention and detection of fraud. AI is able to quickly process and learn from historical data to apply that learning to current reality and spot fraud. Also, AI can automate many mundane tasks associated with finance and accounting to free up human professionals to do tasks they are more qualified for.
+Robotic Process Automation
+Another way B2B companies can adopt AI technologies is through robotic process automation (RBA)—basically, RBA automates the tasks of workers. Solutions such as those from Automation Anywhere makes it easy for any company—not just those leading in the tech space or who have tech talent on staff—to get an out-of-the-box solution for RBA.
+As you can see, there are a plethora of ways B2B companies can use artificial intelligence to their advantage. To learn more about how Ai is reshaping our world have a look at my new book, The Intelligence Revolution: Transforming Your Business With AI.
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is... Read MoreEditorial StandardsPrintReprints & Permissions",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9yZWJvb3QvcnVzc2lhcy1zaXh0aC1nZW5lcmF0aW9uLXN0ZWFsdGgtZmlnaHRlci1jb3VsZC11c2UtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd2VhcG9uc9IBAA?oc=5,Russia's Sixth-Generation Stealth Fighter Could Use Artificial Intelligence Weapons - The National Interest,2020-10-03,The National Interest,https://nationalinterest.org,"Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet.","Security, Russia, Weapons, Jet, Military, Technology, Su-57, Stealth","Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet.","Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet.",https://schema.org,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+Share on Facebook
+F
+
+
+
+
+Share on Twitter
+L
+
+
+
+
+Share on LinkedIn
+I
+
+
+
+
+Subscribe to RSS
+R
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+October 3, 2020
+
+Topic: Security
+
+Region: Eurasia
+
+Blog Brand: The Reboot
+
+Tags: RussiaWeaponsJetMilitaryTechnologySu-57Stealth
+
+Russia's Sixth-Generation Stealth Fighter Could Use Artificial Intelligence Weapons 
+Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet.
+
+by Peter Suciu
+
+Follow PeterSuciu on Twitter
+L
+
+
+
+
+ 
+
+
+Here's What You Need To Remember: Russia, along with China, has continued to explore ways of utilizing machine learning and artificial intelligence (AI) in weapons platforms—a move that the Pentagon has considered dangerous, as AI may not be able to properly separate civilians from targets in hostile zones.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+
+Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet, which could be developed under the MiG-Sukhoi joint brand. Such a fighter could build on the best features of the MiG-21, which has become the most-produced supersonic jet in aviation history; and the very capable MiG-35, as well as the Su-57. 
+
+“Possibly, this will be so: the fighter produced by the MiG-Sukhoi,” Rostec Aviation Cluster Industrial Director Anatoly Serdyukov told Tass on Tuesday. “But so far, all the work is at the stage of discussions and it is early to speak about details.”
+This is not the first time that Russia has suggested a sixth-generation fighter jet could be developed in the near future. In March 2016, then-Deputy Prime Minister of Russia Dmitry Rogozin, announced that Russia had launched work on the sixth-generation combat plane. Rogozin said at the time that the Sukhoi Design Bureau had even submitted a preliminary project “for creating the sixth-generation fighter.”
+
+
+
+
+
+While the delivery of the Su-57 has been slowed, in part due to problems in the advanced aircraft’s development, the fifth-generation fighter is still intended to succeed the MiG-29 and Su-27 in the Russian Air Force. It is unclear how the Su-57 would fare against the American Lockheed Martin-built F-35 Lightning II, which has become the world’s most dominant multi-role fighter. The F-35’s detection range, geolocation, threat identification, and system response capabilities allow the jet to precisely fix and destroy the most advanced threats in the world including every layer of Russia's latest SA-20 surface-to-air missile (SAM) system. 
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+Instead of going on all-in with the Su-57, Moscow could now be turning its attention to a sixth-generation fighter, which specialists have noted would have the capability to perform combat missions without human participation and use its artificial intelligence along with the availability of a radio-photonic radar to reach a target. Such a fighter aircraft would also likely have the ability to utilize hypersonic speed and fly into the near-Earth space and employ weapons based on new physical principles. 
+Russian Aerospace Force Ex-Commander-in-Chief, Chairman of the Federation Council’s Defense and Security Committee Viktor Bondarev previously told TASS that the Russian Armed Forces would be switching to sixth-generation hardware, including strike drones, smoothly and gradually, after being convinced in the reliability of previous-generation aircraft.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+
+Russia, along with China, has continued to explore ways of utilizing machine learning and artificial intelligence (AI) in weapons platforms—a move that the Pentagon has considered dangerous, as AI may not be able to properly separate civilians from targets in hostile zones.
+Moscow is not alone in its announcement of the next generation of fighter aircraft. The United States, China, the United Kingdom, Italy, Sweden, Japan, Germany, Spain, Taiwan and France have all made progress on the jet fighter of the future. A common element to emerge at this point is more of modular design that could enable the aircraft to tackle a variety of missions, while swarms of drones or similar mini-aircraft could work to provide defense and reconnaissance for the fighter.
+However, it will likely still be a decade or longer before any actual aircraft even comes into focus.
+Peter Suciu is a Michigan-based writer who has contributed to more than four dozen magazines, newspapers and websites. He is the author of several books on military headgear including A Gallery of Military Headdress, which is available on Amazon.com. This article first appeared earlier this year.
+Image: Wikimedia Commons.
+ 
+
+
+","[{'@type': 'NewsArticle', 'headline': ""Russia's Sixth-Generation Stealth Fighter Could Use Artificial Intelligence Weapons"", 'description': 'Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet.', 'author': {'@type': 'Person', 'name': 'Peter Suciu', 'url': ''}, 'datePublished': 'October 3, 2020 - 11:30', 'dateModified': 'October 3, 2020 - 11:40', 'image': {'@type': 'ImageObject', 'url': 'https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849580577193%29.jpg?itok=R67KGdma', 'width': '1200', 'height': '800'}, 'mainEntityOfPage': 'https://nationalinterest.org/blog/reboot/russias-sixth-generation-stealth-fighter-could-use-artificial-intelligence-weapons', 'about': ['Security', 'Russia', 'Weapons', 'Jet', 'Military', 'Technology', 'Su-57', 'Stealth'], 'publisher': {'@type': 'Organization', '@id': 'https://nationalinterest.org', 'name': 'The National Interest', 'url': 'https://nationalinterest.org', 'logo': {'@type': 'ImageObject', 'url': '/sites/default/files/national-interest.png'}}}, {'@type': 'ImageObject', 'url': 'https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849580577193%29.jpg?itok=R67KGdma', 'width': '1200', 'height': '800'}, {'@type': 'Organization', '@id': 'https://nationalinterest.org', 'name': 'The National Interest'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnVudi5vcmcvU3VjY2Vzcy1zdG9yaWVzL3NpdGUtdW4tdm9sdW50ZWVycy1hbmQtb25saW5lLXZvbHVudGVlcnMtam9pbi1mb3JjZXMtZGlnaXRhbC10cmFuc2Zvcm1hdGlvbtIBAA?oc=5,On-site UN Volunteers and Online Volunteers join forces for digital transformation to accelerate SDG achievement - UNV,2020-10-02,UNV,https://www.unv.org,"During the COVID-19 pandemic, the tremendous need for worldwide digital transformation to achieve the Sustainable Development Goals (SDGs) has become apparent. With the help of on-site UN Volunteers and Online Volunteers, an SDG Artificial Intelligence Lab in Turkey is developing and implementing digital solutions to address the challenges of achieving the 2030 Agenda in a context of widening digital inequality.","IICPSD, Online Volunteering service, Artificial intelligence, Germany, France, Republic of Korea","The SDG AI Lab is introducing big data and artificial intelligence into the everyday work of the UN agencies and other development partners. A partnership between the United Nations Volunteers (UNV) programme, UNDP amd the Istanbul International Centre for Private Sector in Development (IICPSD) has faciliated this process.","The SDG AI Lab is introducing big data and artificial intelligence into the everyday work of the UN agencies and other development partners. A partnership between the United Nations Volunteers (UNV) programme, UNDP amd the Istanbul International Centre for Private Sector in Development (IICPSD) has faciliated this process.",,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+During the COVID-19 pandemic, the tremendous need for worldwide digital transformation to achieve the Sustainable Development Goals (SDGs) has become apparent. With the help of on-site UN Volunteers and Online Volunteers, an SDG Artificial Intelligence Lab in Turkey is developing and implementing digital solutions to address the challenges of achieving the 2030 Agenda in a context of widening digital inequality.
+
+The SDG AI Lab is introducing big data and artificial intelligence into the everyday work of the UN agencies and other development partners. A partnership between the United Nations Volunteers (UNV) programme, UNDP amd the Istanbul International Centre for Private Sector in Development (IICPSD) has faciliated this process.
+The SDG AI Lab has mobilized volunteer data scientists, and now 10 on-site UN Volunteers and Online Volunteers collaborate in developing and implementing digital transformation projects.
+
+Two on-site UN Volunteer Data Scientists, Jonas Nothnagel (Germany) and Ken Y. Jung (funded by the Republic of Korea) drive the large teams of Online Volunteer data scientists. As we have found this an effective solution, we plan to recruit more on-site UN Volunteers and mobilize even more online data scientists. --Mr Gökhan Dikmener, SDG AI Lab Technical Advisor
+
+The data scientists specialize in machine learning and artificial intelligence, and come from diverse backgrounds and different countries. They delivering services ranging from social media content analysis during crises to portfolio sense-making software to improve efficiency in UNDP programmes.
+To manage the teams of Online Volunteers, on-site UN Volunteers Data Scientists Ken Jung and Jonas Nothangel come with solutions for coordinating and operating the tasks.
+
+We were able to build up international volunteer teams consisting of PhD students, data scientists employed in both the public and private sector and aspiring students from all around the world. This is both beneficial for the volunteers to learn to work in teams beyond borders and for us, as we got the benefit of creating a fruitful network of international data scientists. --Jonas Nothangel, UN Volunteer Data Scientist
+
+The process works in an agile framework, where Online Volunteers are divided into small teams. Each team works on a specific task for a limited time, called iteration. Each iteration consists of clearly stated inputs and outputs, which allows the monitoring of progress and guidance throughout the whole process. To coordinate volunteers and ensure effective communication, on-site data scientists rely on technologies such as GitHub repositories, online team spaces and more.
+
+Even after the pandemic challenge is resolved through vaccination and cure, the need for digital collaboration skills is here to stay-- Ken Y. Jung, UN Volunteer Data Scientist
+
+The value of online volunteerism lies in the opportunity it provides to gain problem-solving skills without limitations like distance or time difference. These obstacles do not exist in a virtual environment. Online Volunteers spare time in exchange for their contribution to the public good, and can use this experience to append projects to their data science portfolio.
+Since volunteering online relies primarily on having an internet connection, its strongest asset is that it enables teamwork among volunteers with different skillsets and from different parts of the world. These are also highly motivated professionals interested in serving with the international UN team.
+Nathan Rouff (France/Switzerland) currently working on his Master's degree, has been supporting the SDG AI Lab’s “Twitter Analysis Framework: COVID-19 use” project for four months. The project analyzes Twitter posts using Big Data techniques to explore the trends and correlation between social media usage and crises response. Nathan shares, ""I was very excited to explore the potential of using Artificial Intelligence methods on social media data.""
+Oumaima Hourrane (Morocco) is a Computer Science Ph.D. student interested in machine learning and natural language processing.
+
+I find it exciting to work with my volunteer team on distilling insights, brainstorming solutions and turning these ideas into real-world applications. --Oumaima Hourrane, Online Volunteer
+
+Another project, UNDP Project and Programme Portfolio Sensemaking, uses topic-modelling techniques to analyze UNDP project portfolios. This allows the automatic creation of cluster insights and key features from past projects to revisit the results and reframe the strategic direction of the organization for the future. Data scientist Stephen Okya Shisoka (Kenya) has been supporting the project for three months.
+
+Digital volunteering is helpful both on the demand and supply side. As a volunteer, I get flexible working conditions, while my team benefits from my skills. --Okya Shisoka, Online Volunteer
+
+As it is not yet clear when the COVID-19 situation and measures will end, the demand for online volunteer assistance to accelerate the SDGs around the world is increasing.
+The SDG AI Lab will continue to enable young volunteers to gain experience in data science and help them to develop their careers, while simultaneously contributing to the achievement of the SDGs. Thus, UNV Turkey and IICPSD/SDG AI Lab plan to explore how to leverage their complementary strengths in managing projects, AI technologies, volunteers’ deployment to bring digital solutions to Turkey and UNDP country offices.
+
+Digital volunteerism connects projects and competent and motivated people, while removing the constraints of physical distance. It presents an opportunity to engage with professionals with diverse expertise from different parts of the world, while sharing the perspective and goal of giving back to society. --Reshma Elizabeth Roy Kurian (France), Online Volunteer
+
+The SDG AI Lab continues to play an active role in introducing artificial intelligence methods and their implementation through UNV mechanisms. The next intake of volunteer data scientists is planned to take place in late September and early October.
+
+UN Volunteers and other volunteers always stand as leaders of innovation for sustainable development. We highly appreciate the outstanding contributions of our volunteers to boost unique digital solutions for the Sustainable Development Goals within the SDG AI Lab initiative, as a response to COVID-19. --Dmitry Frischin, Regional Manager, UNV Regional Office in Europe and the Commonwealth of Independent States
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNscmxvdW5nZS5jb20vbHVtaW5hci1haS1odW1hbi1pbnNwaXJlZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1mb3ItYS1uZXctZWRpdGluZy1leHBlcmllbmNlL9IBAA?oc=5,Luminar AI Uses Human-Inspired Artificial Intelligence for A Faster Editing Experience - SLR Lounge,2020-10-01,SLR Lounge,https://www.slrlounge.com,LuminarAI challenges the traditional approach of presets and sliders with the ability to use adaptive Templates and human-centric edits powered by AI.,N/A,LuminarAI challenges the traditional approach of presets and sliders with the ability to use adaptive Templates and human-centric edits powered by AI.,LuminarAI challenges the traditional approach of presets and sliders with the ability to use adaptive Templates and human-centric edits powered by AI.,https://schema.org,BreadcrumbList,https://www.slrlounge.com,"{'@type': 'ImageObject', 'url': 'https://cloudfront.slrlounge.com/wp-content/uploads/2020/09/LuminarAI-Drives-Artist-Creativity-SLR-Lounge.jpg', 'width': 2000, 'height': 1125}","{'@type': 'Person', 'name': 'David J. Crewe'}","{'@type': 'Organization', 'name': 'SLR Lounge', 'logo': {'@type': 'ImageObject', 'url': 'https://cloudfront.slrlounge.com/wp-content/uploads/2014/01/slrlounge-logo-2-60x60.jpg', 'width': 60, 'height': 60}}",Luminar AI Uses Human-Inspired Artificial Intelligence for A Faster Editing Experience,2020-10-01T05:00:49,2020-10-01T09:53:06,,SLR Lounge,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.slrlounge.com/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.slrlounge.com/luminar-ai-human-inspired-artificial-intelligence-for-a-new-editing-experience/', 'name': 'Luminar AI Uses Human-Inspired Artificial Intelligence for A Faster Editing Experience'}}]",Luminar,N/A,"
+
+
+
+
+
+
+
+
+
+Photography News
+
+
+
+																Luminar AI Uses Human-Inspired Artificial Intelligence for A Faster Editing Experience							
+
+
+
+
+
+David J. Crewe,
+                                    
+                                                                            4 years ago                                            
+
+
+
+
+
+
+With traditional photo editors, creating the perfect photo is a time-consuming process that involves moving dozens of sliders. Many seek to use presets to speed this up, but there are severe limitations. Presets tend to only work on images that are virtually identical to the original.
+
+
+To change this tedious and frustrating process, innovative companies race to embrace Artificial Intelligence. But some creatives have been skeptical about its effectiveness and limitations. Their fears center around a loss of control and a homogenization of creative output. This does not need to be the case if AI is properly trained.
+
+[Related Reading: Twice-Baked Photo Editing Technique with Lightroom & Luminar 4]
+With LuminarAI, Artificial Intelligence is woven throughout the entire editing process. The AI has been trained with expert input from artists, photographers, colorists, and scientists. LuminarAI offers creatives the ability to save time and obtain consistent quality throughout their images. LuminarAI brings the perfect balance of technology and human innovation.
+
+“With LuminarAI, we wanted to ensure that AI not only was easy to use, but that it also provided creatives a way to express themselves. Through our unique 3D depth-mapping and segmentation technologies, we’re able to recognize the contents of a photo, recommend edits and then allow creatives to refine every aspect of that recommendation,” said Alex Tsepko, CEO of Skylum. “Doing this lets creatives retain their unique style in their edits without tedious, manual work. Professional results, but in a fraction of the time.”
+
+
+With LuminarAI, Artificial Intelligence is applied from the moment you open a photograph for editing. The contents of a photo are identified, problems analyzed and the depth of a photo calculated. After an analysis of the subject matter and issues, LuminarAI makes editing suggestions. These improvements come in complete workflows — through an approach called Templates — as well as suggestions in the AI tools. Instead of blindly guessing and clicking on a list of presets, the user chooses from a list tailored to their image’s needs.
+
+With Templates, beginning editors can choose to get inspired through recommendations on how to edit their photographs. At the same time, experienced editors can choose to have more control, selectively applying AI tools as they edit their images. They can then create their own templates, and save up to 90% of their time spent editing.
+
+Guide Your Edits and Apply Artificial Intelligence
+As experienced editors create an image, they can selectively choose which AI tools to utilize. This radically speeds up the editing process by removing the need for selections and masks. LuminarAI learns how creatives modify things like lighting, composition, detail and color. Creatives can also take advantage of Local Adjustments, letting them make targeted edits to specific areas of their image.
+
+Once the first image is edited, artists can sync their adjustments across a group of images. LuminarAI recognizes the intent of the edit — the visual outcome — and adaptively conforms the other images to match the creative’s goal. This leads to massive time savings without the loss of creative control. AI tools adapt to the artist’s desires and can handle variation in lighting and subject. The edits can also be saved as a custom template for future use.
+[Related Reading: How to Recover Lost Or Hidden Details In Your Images With AI Structure In Luminar 4]
+Get Inspired Through LuminarAI
+For those that might feel challenged by photo editing or uninspired, LuminarAI is the perfect tool. Images are analyzed for content, and then recommendations are presented for editing. Edits for selections, color, tone, and more are built by top artists and photo editors, giving creatives a professional look and feel to their own images.
+
+Creatives can audition each Template presented to them and use them, or they can select and refine the edits. Built-in Template Collections are catered to the subject of the image — things like wildlife, macro, astrophotography, underwater, and more. This inspires artists by providing ideas that they might not have thought of initially. And each recommended Template can be previewed in less than a second to see its results.
+This also lets the creative learn what LuminarAI can do for their images. Exploring a Template reveals which technologies were used. This helps the newer editor learn the tools in a contextual manner that dramatically improves the efficacy of editing.
+An Ongoing Journey of Creativity
+Creatives who choose to take advantage of LuminarAI Templates can modify and refine the AI tools to create their own look. They can update built-in Templates to refer back to, and apply them across a series of images.
+
+And for those that build their own AI-powered solutions, they can save their own Templates.  Giving them the desired combination of control and time savings.
+Skylum will also continue to release new Templates designed in partnership with photographers and artists across the world. These updates will inspire users to continue their creative evolution.
+With these different workflows, Skylum is committed to bring quality images to creatives no matter what their experience level is. With LuminarAI, users can capture and preserve human intelligence into the next generation of AI photo editing.
+More Images Generated With LuminarAI
+
+
+
+
+
+
+
+To learn more or Pre-Order Luminar AI, please visit the official website here or the FAQ page here
+
+
+
+
+
+
+
+
+
+
+
+								Tags							
+
+								#Announcement							
+
+								#Preorder							
+
+								#Sample Images							
+
+								#artificial intelligence							
+
+								#AI							
+
+								#luminar							
+
+								#skylum							
+
+								#Press Release							
+
+								#Preview							
+
+								#Luminar AI							
+
+
+
+
+
+
+
+
+
+
+ Previous
+
+																TTartisan Released A $73 35mm F1.4 for Fujifilm X															
+
+
+
+ Next
+
+																Create Interesting Light With Your Phone															
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+David J. Crewe
+
+David J. Crewe is a full-time commercial photographer and Senior Editor with SLR Lounge. Based out of both Southern California & Las Vegas, Nevada. View his work and blog: DavidJCrewe.com
+ Follow his Instagram: @DavidJCrewe
+
+ 
+
+
+
+","[{'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'About Pye Jirsa', 'url': 'https://slrlounge.com/pye-jirsa-photographer-and-educator/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'SLR Lounge Testimonials', 'url': 'https://www.slrlounge.com/testimonials/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'Frequently Asked Questions', 'url': 'https://www.slrlounge.com/faq/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'Free Downloads', 'url': 'https://www.slrlounge.com/free-downloads-for-photographers/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'Photo Glossary', 'url': 'https://slrlounge.com/glossary'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'Ambassadors', 'url': 'https://www.slrlounge.com/slr-lounge-educational-ambassadors/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'Contact Us and Support', 'url': 'https://www.slrlounge.com/contact-us/'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', 'id': 'site-navigation', 'name': 'About Us', 'url': 'https://www.slrlounge.com/about-us/'}]",,,,,,"{'@type': 'WebPage', '@id': 'https://www.slrlounge.com/luminar-ai-human-inspired-artificial-intelligence-for-a-new-editing-experience/'}","{'@type': 'ImageObject', 'url': 'https://cloudfront.slrlounge.com/wp-content/uploads/2014/01/slrlounge-logo-2.jpg', 'width': 200, 'height': 200}","['https://www.facebook.com/slrlounge', 'https://twitter.com/slrlounge', 'https://plus.google.com/+SlrloungeOfficial/posts', 'https://www.instagram.com/slrlounge', 'https://www.youtube.com/slrlounge', 'https://www.linkedin.com/company/slr-lounge', 'https://www.pinterest.com/slrlounge']",,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RpbWUtcHJpb3JpdGl6ZS1lbmVyZ3ktZWZmaWNpZW50LWdyZWVuLWFp0gFsaHR0cHM6Ly93d3cuYW5hbHl0aWNzaW5zaWdodC5uZXQvYW1wL3N0b3J5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RpbWUtcHJpb3JpdGl6ZS1lbmVyZ3ktZWZmaWNpZW50LWdyZWVuLWFp?oc=5,It’s Time to Prioritize Energy Efficient Green Artificial Intelligence - Analytics Insight,2020-10-05,Analytics Insight,https://www.analyticsinsight.net,,"Green Artificial intelligence,Artificial intelligence,energy-efficient Green AI,sustainable development,climate change","The drive for Green AI is gaining momentum, but what does it require to push forward? Rapid developments in AI have triggered digital advancements in almost eve","The drive for Green AI is gaining momentum, but what does it require to push forward? Rapid developments in AI have triggered digital advancements in almost eve",http://schema.org,NewsArticle,https://www.analyticsinsight.net/artificial-intelligence/time-prioritize-energy-efficient-green-ai,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/10/Artificial-Intelligence-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Vivek Kumar', 'name': 'Vivek Kumar', 'url': 'https://www.analyticsinsight.net/author/vivek-kumar'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://www.linkedin.com/company/analytics-insight/', 'https://www.facebook.com/analyticsinsight.net', 'https://twitter.com/analyticsinme', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l'], 'id': 'https://www.analyticsinsight.net'}",It’s Time to Prioritize Energy Efficient Green Artificial Intelligence,2020-10-05T01:00:42Z,2020-10-05T01:00:42Z,Artificial Intelligence,It’s Time to Prioritize Energy Efficient Green Artificial Intelligence,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'It’s Time to Prioritize Energy Efficient Green Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/time-prioritize-energy-efficient-green-ai'}]",N/A,N/A,"Ready for iOS 18? Here's How to Install the Public Beta
+",,,2020-10-05T01:00:42Z,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/10/Artificial-Intelligence-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,,,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/time-prioritize-energy-efficient-green-ai'}",,,,"The drive for Green AI is gaining momentum, but what does it require to push forward?.Rapid developments in AI have triggered digital advancements in almost every industry. The technology is capable of construing data contextually to provide requested information, supply analysis, and push events based on findings. Simultaneously, businesses need to meet social, investor and regulatory requirements regarding how they use advanced technologies like AI. Significantly, it is also crucial that organizations must commit to using the technology with a purpose, which leads to the way of sustainable development..In its recent study, the Allen Institute for AI argued the prioritization of &quot;Green AI&quot; efforts that focus on the energy efficiency of AI systems. The study was based on many high-profile advances in AI that have wavered carbon footprints. According to an OpenAI blog post, the amount of compute required for the largest AI training runs has been surged exponentially by 300,000 times since 2012. This increase in computational requirements leads to the pessimistic environmental impacts of artificial intelligence..Associate Director of the USC Center for AI in Society and a member of the Association for Computing Machinery, Bistra Dilkina said that environmental problems typically involve complex processes that scientists do not yet fully understand, and for which we have limited available resources. With advances in machine learning and deep learning, we can now tap the predictive power of AI to make better data-driven models of environmental processes to improve our ability to study current and future trends, including water availability, ecosystem wellbeing, and pollution..AI can also play a key role in enhancing environmental decisions and policy-making work, by bringing an algorithmic approach to that work, she added..What is Green AI?.Green AI refers to the part of a broader, long-standing interest in environmentally-friendly scientific research. AI research can be computationally expensive in numerous ways; however, each provides opportunities for efficient improvements. For example, research papers could be required to plot accuracy as a function of computational cost and training set size, giving a baseline for more data-efficient research in the future. Reporting the computational price tag of finding, training, and running models is a key Green AI practice..Solving Sustainability Challenges with AI.AI has the potential to solve several environmental problems. Google, for instance, uses its own AI expertise to improve its energy efficiency, leveraging DeepMind's machine learning capabilities that have reduced the amount of energy needed to cool its data centers by 40%..As noted by Deloitte, delivering societal and environmental well-being through artificial intelligence are key strategic considerations of the European Commission, who acknowledge that &quot;AI systems promise to help tackle the most pressing concerns, including climate change and environmental degradation&quot;. To this context, the UK Government has observed that AI can assist addressing the country's Grand Challenges that are four transformative global trends set out in the UK Industrial Strategy, which include issues related to climate change..The efforts include £200 million of funding towards 1,000 new Ph.D. places over the next five years to study AI that could help industries become more sustainable. On the other side, following the publication of the AI Sector Deal in April 2018, collaborations between the UK Government Office for AI, the Open Data Institute and Innovate UK have supported many sustainable initiatives, including global food waste reduction efforts. Considering these efforts, it is clear that the government shows an increased interest in implementing Green AI, particularly in Smart Cities such as around energy network management..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/time-prioritize-energy-efficient-green-ai', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2020/10/Artificial-Intelligence-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}",,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZmVkc2Nvb3AuY29tL2phaWMtZGlyZWN0b3ItbWljaGFlbC1ncm9lbi_SAQA?oc=5,JAIC gets new director after Senate confirmation - FedScoop,2020-10-05,FedScoop,https://fedscoop.com,"The Senate confirmed Lt. Gen. Michael Groen by voice vote at the end of the September, giving the JAIC its second confirmed director.","['artificial intelligence (ai)', 'department of defense (dod)', 'joint artificial intelligence center (jaic)', 'marine corps', 'michael groen', 'national security agency (nsa)', 'workforce']",Lt. Gen. Michael Groen's confirmation comes with a promotion to major general. He'll have important oversight of how the Pentagon fields AI technologies.,N/A,https://schema.org,NewsArticle,http://fedscoop.com/jaic-director-michael-groen/,"{'@type': 'ImageObject', 'url': 'https://fedscoop.com/wp-content/uploads/sites/5/2020/10/1436622.jpg'}","[{'@type': 'Person', 'name': 'Jackson Barnett'}]","{'@type': 'Organization', 'name': 'FedScoop', 'logo': 'https://fedscoop.com/wp-content/uploads/sites/5/2023/01/cropped-fs_favicon-3.png'}",JAIC gets new director after Senate confirmation,2020-10-05T16:30:20Z,2020-10-05T16:30:20Z,Defense,,,,N/A,N/A,"
+
+
+
+
+
+
+Defense
+
+
+
+
+								JAIC gets new director after Senate confirmation							
+
+								Lt. Gen. Michael Groen's confirmation comes with a promotion to major general. He'll have important oversight of how the Pentagon fields AI technologies.							
+
+
+By
+Jackson Barnett
+
+
+
+October 5, 2020
+
+
+
+
+
+
+ 
+											The 35th Commandant of the Marine Corps, Gen. James F. Amos, right, promotes Col. Michael S. Groen to the rank of brigadier general during a ceremony in Crawford Hall at Marine Barracks Washington, D.C., April 10, 2014. (U.S. Marine Corps photo by Sgt. Mallory S. VanderSchans/Released)										
+
+
+
+
+
+Lt. Gen. Michael Groen has been confirmed by the Senate to be the new director of the Joint Artificial Intelligence Center, the Department of Defense’s hub for fielding AI technologies.
+The general’s confirmation comes with a promotion to major general as he assumes a DOD position with important oversight of emerging technologies. Groen comes to the JAIC at a critical time as the center expands some of its key work around warfighting initiatives and transitioning away from some of its earlier, lower-risk projects.
+“The @DoDJAIC welcomed our new Director, Lieutenant General Michael Groen, USMC, to the team today. We look forward to his leadership!” The JAIC tweeted Oct. 1. Groen was confirmed by voice vote at the end of September.
+Groen has a long history of working with military technology and intelligence. Before his appointment he served as the chief of Marine Corps intelligence and on the Joint Staff in senior positions. The general most recently came from the National Security Agency, where he led computer network operations.
+
+
+Advertisement
+
+
+
+Groen is the second confirmed director of the JAIC, following in the footsteps of Lt. Gen. Jack Shanahan, who retired from service in the Air Force this summer after standing up the JAIC.
+
+
+
+
+
+
+
+
+Written by Jackson Barnett
+			Jackson Barnett Jackson Barnett Jackson Barnett 210 jackson.barnett@fedscoop.com		
+
+
+In This Story
+
+
+
+														Artificial Intelligence (AI)													
+
+
+
+														workforce													
+
+
+
+														Department of Defense (DOD)													
+
+
+
+														Marine Corps													
+
+
+
+														Joint Artificial Intelligence Center (JAIC)													
+
+
+
+														Michael Groen													
+
+
+
+														National Security Agency (NSA)													
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Twitter
+
+
+
+
+
+Copy Link
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+More Like This
+
+
+
+
+
+
+								MPEs gain momentum for sharing information with allied partners			
+
+
+
+By 
+
+						Scoop News Group					
+
+
+
+
+
+
+
+
+
+
+								State Department officials say they’re trying to set the tone globally on AI usage, as lawmakers question if it’s enough			
+
+
+
+By 
+
+						Caroline Nihill					
+
+
+
+
+
+
+
+
+
+
+								VA plans to award AI tech sprint winners contracts for ambient medical transcription services			
+
+
+
+By 
+
+						Caroline Nihill					
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Top Stories
+
+
+
+
+
+
+								FedRAMP ‘undeniably’ in state of limbo without final OMB modernization guidance, Rep. Connolly says			
+
+
+
+By 
+
+						Caroline Nihill					
+
+
+
+
+
+
+
+
+
+
+								After 2023 outage that paused flights nationwide, FAA now has backup system			
+
+
+
+By 
+
+						Rebecca Heilweil					
+
+
+
+
+
+
+
+
+
+
+								How the IRS’s ‘cautious’ approach with Direct File prevented its ‘failure’			
+
+
+
+By 
+
+						Matt Bracken					
+
+
+
+
+
+
+
+
+
+
+								Social Security Administration transitioning long-time users to Login.gov			
+
+
+
+By 
+
+						Rebecca Heilweil					
+
+
+
+
+
+
+
+
+
+
+								Energy Department’s national labs get AI boost in bipartisan Senate bill			
+
+
+
+By 
+
+						Matt Bracken					
+
+
+
+
+
+
+
+
+
+
+								GSA begins FedRAMP pilot to change request process			
+
+
+
+By 
+
+						Caroline Nihill					
+
+
+
+
+
+
+
+
+
+
+								White House to require increased cybersecurity protocols for R&D institutions			
+
+
+
+By 
+
+						Caroline Nihill					
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+","[{'@type': 'WebPage', '@id': 'https://fedscoop.com/jaic-director-michael-groen/', 'url': 'https://fedscoop.com/jaic-director-michael-groen/', 'name': 'JAIC gets new director after Senate confirmation | FedScoop', 'isPartOf': {'@id': 'https://fedscoop.com/#website'}, 'primaryImageOfPage': {'@id': 'https://fedscoop.com/jaic-director-michael-groen/#primaryimage'}, 'image': {'@id': 'https://fedscoop.com/jaic-director-michael-groen/#primaryimage'}, 'thumbnailUrl': 'https://fedscoop.com/wp-content/uploads/sites/5/2020/10/1436622.jpg', 'datePublished': '2020-10-05T16:30:20+00:00', 'dateModified': '2020-10-05T16:30:20+00:00', 'description': 'The Senate confirmed Lt. Gen. Michael Groen by voice vote at the end of the September, giving the JAIC its second confirmed director.', 'breadcrumb': {'@id': 'https://fedscoop.com/jaic-director-michael-groen/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://fedscoop.com/jaic-director-michael-groen/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://fedscoop.com/jaic-director-michael-groen/#primaryimage', 'url': 'https://fedscoop.com/wp-content/uploads/sites/5/2020/10/1436622.jpg', 'contentUrl': 'https://fedscoop.com/wp-content/uploads/sites/5/2020/10/1436622.jpg', 'width': 5616, 'height': 3744, 'caption': 'The 35th Commandant of the Marine Corps, Gen. James F. Amos, right, promotes Col. Michael S. Groen to the rank of brigadier general during a ceremony in Crawford Hall at Marine Barracks Washington, D.C., April 10, 2014. (U.S. Marine Corps photo by Sgt. Mallory S. VanderSchans/Released)'}, {'@type': 'BreadcrumbList', '@id': 'https://fedscoop.com/jaic-director-michael-groen/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://fedscoop.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'JAIC gets new director after Senate confirmation'}]}, {'@type': 'WebSite', '@id': 'https://fedscoop.com/#website', 'url': 'https://fedscoop.com/', 'name': 'FedScoop', 'description': 'FedScoop delivers up-to-the-minute breaking government tech news and is the government IT community&#039;s platform for education and collaboration through news, events, radio and TV. FedScoop engages top leaders from the White House, federal agencies, academia and the tech industry both online and in person to discuss ways technology can improve government, and to exchange best practices and identify how to achieve common goals.', 'publisher': {'@id': 'https://fedscoop.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://fedscoop.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://fedscoop.com/#organization', 'name': 'FedScoop', 'url': 'https://fedscoop.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://fedscoop.com/#/schema/logo/image/', 'url': 'https://fedscoop.com/wp-content/uploads/sites/5/2023/01/FedScoop-Black.png', 'contentUrl': 'https://fedscoop.com/wp-content/uploads/sites/5/2023/01/FedScoop-Black.png', 'width': 1231, 'height': 182, 'caption': 'FedScoop'}, 'image': {'@id': 'https://fedscoop.com/#/schema/logo/image/'}}]",,2020-10-05T16:30:20Z,https://fedscoop.com/wp-content/uploads/sites/5/2020/10/1436622.jpg?w=150&h=150&crop=1,,,"{'@type': 'WebPage', '@id': 'http://fedscoop.com/jaic-director-michael-groen/'}",,,,,,,,['Jackson Barnett'],,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcXouY29tL2luZGlhLzE5MTM0NjQvcmVsaWFuY2Utamlvcy1hbWJhbmktc3VwcG9ydHMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZm9yLWluZGlh0gEA?oc=5,Reliance Jio's Ambani supports artificial intelligence for India - Quartz,2020-10-06,Quartz,https://qz.com,Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource.,[],Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource.,Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource.,http://schema.org,NewsArticle,https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india,"{'@type': 'ImageObject', 'height': 675, 'width': 1200, 'url': 'https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4507727596fdd166376da4d992d71a7c.jpg', 'thumbnail': {'@type': 'ImageObject', 'height': 180, 'width': 320, 'url': 'https://i.kinja-img.com/image/upload/c_fill,h_180,pg_1,q_80,w_320/4507727596fdd166376da4d992d71a7c.jpg'}}","[{'@type': 'Person', 'name': 'Niharika Sharma'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Quartz', 'url': 'https://qz.com', 'logo': {'@type': 'ImageObject', 'width': 500, 'url': 'https://x.kinja-static.com/assets/images/logos/newsletter/quartz-500px.png'}, 'sameAs': ['https://www.facebook.com/quartznews', 'https://www.youtube.com/channel/UC9f78Z5hgtDt0n8JWyfBk8Q', 'https://twitter.com/qz', 'https://instagram.com/qz']}","For Mukesh Ambani, AI is indispensable to India’s “digital destiny”",2020-10-06T00:57:33-04:00,2022-07-20T22:09:15-04:00,,,False,,N/A,N/A,N/A,,,,,,,"{'@type': 'WebPage', 'url': 'https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india'}",,,,"After telecom and e-commerce, India’s richest man has now put his weight behind artificial intelligence (AI).
+
+Mukesh Ambani, chairman of India’s most valued private company Reliance Industries, believes that AI is “indispensable” to India for achieving its “digital destiny.”
+
+“The time is ripe, and the tools are ready to make India a world leader in artificial intelligence, and to make AI work for all Indians,” Ambani said at the Responsible Artificial Intelligence for Social Empowerment summit (RAISE 2020) yesterday (Oct. 5).
+
+The 63-year-old second-generation businessman, who has started dabbling in all things internet over the last few years, said AI could help India achieve its goals across economic growth, agriculture modernisation, affordable healthcare, and world-class education.
+
+Ambani’s push for AI comes at a time when his digital business vertical, Jio Platforms, has been emerging as one of the youngest and fastest-growing tech firms in the world. The business has attracted investors such as Facebook and Google, which are considered pioneers in AI.
+
+Ambani’s data and AI play
+
+Calling them a part of a “fourth industrial revolution,” Ambani said technologies such as AI could help achieve a “strong, sustainable, and equitable new India.”
+
+This is ironic, given the fact that Ambani’s growing digital clout has raised some fears of monopoly and unfair competition.
+
+Afterall, Reliance Industries has in recent years become a treasure trove of data about Indians through its several industry-leading businesses. Reliance’s retail arm, Reliance Retail, for instance, is India’s largest organised retail chain, while the group’s telecom venture, Reliance Jio, is the country’s largest telecom operator. And Jio Platforms is fast becoming a leader across new technologies with significant investments across broadband connectivity, smart devices, cloud and edge computing, big data analytics, AI, internet of things, augmented and mixed reality, and blockchain.
+
+However, in his speech yesterday, Ambani called for “sound data regulations” in India, when he said:
+
+“We now have all the crucial components in place to make India a premier digital society. Together, our economy and society will generate data at an explosive and exponential rate.
+
+Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource. In the past, nations have competed on physical capital, financial capital, human capital and intellectual capital. But, in the coming decades, nations will increasingly compete on digital capital…We are confident that the government will introduce a sound data regulation framework to protect this national resource and ensure data privacy.”
+
+",,,,,10/06/2020 at 00:57,"{'@type': 'WebPageElement', 'isAccessibleForFree': 'False', 'cssSelector': '.js_regwalled-content'}",[],,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL2hvdy1hZGl0eWEtYmlybGEtc3VuLWxpZmUtYW1jLXVzZXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,How Aditya Birla Sun Life AMC Uses Artificial Intelligence - AIM,2020-10-05,AIM,https://analyticsindiamag.com,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+				Eerily, AI Can Now Do Your KYC!			
+
+
+
+			Vandana Nair		
+
+			06/01/2024		
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYXJlbmRyYW1vZGkuaW4vdGV4dC1vZi1wbS1zLWFkZHJlc3MtYXQtdGhlLWluYXVndXJhdGlvbi1vZi1yZXNwb25zaWJsZS1haS1mb3Itc29jaWFsLWVtcG93ZXJtZW50LTIwMjAtc3VtbWl0LTU1MTc1NNIBAA?oc=5,We want India to become a global hub for Artificial Intelligence: PM Modi - Narendra Modi,2020-10-05,Narendra Modi,https://www.narendramodi.in,"PM Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence. During his address, PM Modi urged to protect the world against weaponization of AI by Non-State Actors. He said human creativity and human emotions continue to be our greatest strength and are our unique advantage over machines.","Good Governance, Summit, Artificial Intelligence, Social Empowerment, Technology, New India, Digital India, Innovation, Optical Fibre, National Optical Fibre Network, Global, Leadership, Students, Youth, Yuva Shakti, Virtual Summit, Atal Innovation Mission, Culture, Ease Of Living, Development, Children, Human Development, Agriculture, Infrastructure, Disaster Management, Climate Change, Environment, Healthcare, Health, Science and Technology, Ease of doing Science, Speeches","PM Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence. During his address, PM Modi urged to protect the world against weaponization of AI by Non-State Actors. He said human creativity and human emotions continue to be our greatest strength and are our unique advantage over machines.","PM Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence. During his address, PM Modi urged to protect the world against weaponization of AI by Non-State Actors. He said human creativity and human emotions continue to be our greatest strength and are our unique advantage over machines.",http://schema.org,Organization,https://www.narendramodi.in/,,,,,,,,NarendraModi,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://www.narendramodi.in/', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://www.narendramodi.in/text-of-pm-s-address-at-the-inauguration-of-responsible-ai-for-social-empowerment-2020-summit-551754', 'name': 'News'}}]",N/A,N/A,"
+India to become global hub for Artificial Intelligence: PM
+National Programme on AI will be used for solving the problems of society: PM
+
+Distinguished guests from India and abroad, Namaste!
+Welcome to RAISE Responsible AI for Social Empowerment Summit. This is a great effort to encourage discussion on Artificial Intelligence. You all have rightly highlighted aspects relating to technology and human empowerment. Technology has transformed our work places. It has improved connectivity. Time and again, technology has helped us solve key challenges. I am sure this merge between social responsibility and AI will enrich AI with human touch. 
+Friends,
+Artificial intelligence is a tribute to human intellectual power. The power to think enabled humans to make tools and technologies. Today, these tools and technologies have also acquired the power to learn and think! In this, one key emerging technology is AI. The teamwork of AI with humans can do wonders for our planet.
+
+ | 
+
+Friends,
+At every step of history, India has led the world in knowledge and learning. In today's age of IT as well, India is making outstanding contributions. Some of the brightest tech leaders belong to India. India has also proved to be the power-house of the global IT services Industry. We will continue to digitally excel and delight the world.
+Friends,
+In India, we have experienced that technology improves transparency and service delivery. We are home to the world's largest unique identity system- Aadhaar. We also have the world's most innovative digital payments system-UPI. This has enabled providing access to digital services, including financial services, like Direct Cash Transfers to the poor and marginalised. In the pandemic situation, we saw how India's digital readiness was of great help. We reached out to people with help, at the earliest and in the most efficient manner. India is rapidly expanding its optical fibre network. The aim is to provide every village with high speed internet connectivity.
+Friends,
+Now, we want India to become a global hub for AI. Many Indians are already working on this. I hope many more do so in the times to come. Our approach to this is powered by core principles of: Teamwork, Trust, Collaboration, Responsibility and Inclusivity.
+
+ | 
+
+Friends,
+India has recently adopted the National Education Policy 2020. It focuses on technology-based learning and skilling as a major part of education. E-courses will also be developed in various regional languages and dialects. This whole effort will benefit from Natural Language Processing (NLP) capabilities of AI platforms. We launched Responsible AI for Youth program this year in April, under this programme, more than 11000 students from schools completed the basic course. They are now building their AI projects.
+Friends,
+The National Educational Technology Forum (NETF) is being formed. This will create an
+e-Education unit to boost the digital infrastructure, digital content and capacity. Virtual labs are being established to provide hands-on experience to learners. We have also launched the Atal Innovation Mission to promote a culture of innovation and entrepreneurship. Through these steps, we aim to keep pace with emerging technologies for people's benefit.
+Friends.
+I would also like to mention about the National Programme on Artificial Intelligence. This will be dedicated towards rightful use of AI for solving problems of society. It will be implemented with the support of all stakeholders. RAISE can be a platform to brain storm in this regard. I invite all of you to actively participate in these efforts.
+Friends,
+There are a few challenges that I would like to pose to this august audience. Can we use Artificial Intelligence for the optimal management of our assets and resources? At some places, resources are idle. While in other place, there is a shortage of resources. Can we dynamically reallocate them to find optimal use? Can we delight our citizens with proactive and prompt delivery of services at their doorsteps.?
+Friends,
+The future belongs to the youth. And, every youngster matters. Each child has unique talents, capabilities and aptitudes. At times, the right person ends up at the wrong place.
+There is a way we can change that. How about every child observing him or herself while growing up? Can parents, teachers and friends- carefully observe children? Observe them from their childhood to the start of adulthood. And, keep a record of them. This will go a long way in helping a child discover his or her natural calling. Those observations can be effective guiding forces for youngsters. Can we have a system which gives an analytic report on the aptitude of each child? This would open doors of opportunity for many youngsters. Such human resource mapping will have long-lasting benefits, in governments and businesses.
+Friends,
+I see a big role for AI in empowering Agriculture, healthcare. Creating next generation urban infrastructure. And, addressing urban issues like: reducing traffic jams. Improving sewage systems and Laying our energy grids. It can be used for making our disaster management systems stronger. It can even be used to solve the problem of climate change.
+Friends,
+Our planet is blessed with several languages. In India, we have several languages and dialects. Such diversity makes us a better society. As Professor Raj Reddy just suggested, why not use AI to seamlessly bridge language barriers. Let us think about simple and effective ways of how AI can empower Divyang sisters and brothers.
+Friends,
+Why not use AI for knowledge sharing? There are few things as empowering as making knowledge, information and skills easily accessible.
+Friends,
+It remains our collective responsibility to ensure trust in how AI is used. Algorithm Transparency is key to establishing this Trust. Equally important is accountability. We must protect the world against weaponistion of AI by Non-State Actors.
+Friends,
+While we discuss AI, let also have no doubts that human creativity and Human emotions continue to be our greatest strength. They are our unique advantage over machines. the smartest of AI cannot solve mankind's problems without blending with our intellect and empathy. We should also think of how we will retain this intellectual edge over machines? We should ensure that we take care so that human intelligence is always a few steps ahead of AI. We should think about how AI can help humans to increase their own capacities. I want to state again:- AI will unlock the unique potential of each person. It will empower them to contribute more effectively to the society.
+Friends,
+Here at RAISE 2020, we have created a global forum for the world's leading stakeholders. Let us exchange ideas and chart a common course for the adoption of Artificial Intelligence. It is critical that all of us work together as partners for this. I thank you for coming together to participate in this truly global event. I wish the Global Summit all success. I am sure that the discussions over the next four days will help create an Action Roadmap for Responsible AI. A roadmap that can truly help transform lives and livelihoods across the world. My best wishes to you all.
+Thank you.
+Thank you very much.
+ 
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,https://staticmain.narendramodi.in/images/favicon.ico,"['https://www.facebook.com/narendramodi', 'https://twitter.com/narendramodi', 'https://in.linkedin.com/in/narendramodi', 'https://www.youtube.com/user/narendramodi', 'https://www.instagram.com/narendramodi/']",,,,,,,,,,"{'@type': 'SpeakableSpecification', 'cssSelector': ['PM Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence. During his address, PM Modi urged to protect the world against weaponization of AI by Non-State Actors. He said human creativity and human emotions continue to be our greatest strength and are our unique advantage over machines.']}","{'type': 'EntryPoint', 'urlTemplate': 'android-app://com.narendramodi.in/https://www.narendramodi.in/'}",298.0,36.0,Narendra Modi,,"April 6th, 1980",Bharatiya Janta Party,"6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002","{'@type': 'PostalAddress', 'addressLocality': 'New Delhi', 'addressRegion': 'india', 'postalCode': '110002', 'streetAddress': '', 'Telephone': ''}","[{'@type': 'Person', 'name': 'Admin'}]"

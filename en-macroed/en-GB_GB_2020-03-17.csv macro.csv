@@ -1,0 +1,1443 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,name,alternateName,url,logo,headline,datePublished,dateModified,isFamilyFriendly,inLanguage,mainEntityOfPage,articleBody,wordcount,genre,image,author,publisher,article:section,article:summary,article text,hasPart,isAccessibleForFree,@graph,dateCreated,identifier,creator,thumbnailUrl,target
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxhYm1hbmFnZXIuY29tL3B1dHRpbmctYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdG8td29yay1pbi10aGUtbGFiLTIyMDYw0gEA?oc=5,Putting Artificial Intelligence to Work in the Lab - Lab Manager Magazine,2020-03-19,Lab Manager Magazine,https://www.labmanager.com,Automated scanning probe microscopy controlled by artificial intelligence/machine learning&nbsp;,"Product Resource: Industry News, Industry News, Materials Science, computer science, nanotechnology, Microscopy, Imaging, Machine Learning, Artificial Intelligence","Automated scanning probe microscopy, AI","Automated scanning probe microscopy, AI",http://schema.org/,Article,Lab Manager Magazine,Lab Manager,https://www.labmanager.com,https://www.labmanager.com/assets/main_logo.svg,Putting Artificial Intelligence to Work in the Lab,2020-03-19 09:41:30,2020-03-19 13:56:27,True,English,https://www.labmanager.com/putting-artificial-intelligence-to-work-in-the-lab-22060,"Dr. Agustin Schiffrin and his team at the School of Physics and Astronomy at Monash University).FLEETAn Australian-German collaboration has demonstrated fully-autonomous scanning probe microscopy (SPM) operation, applying artificial intelligence and deep learning to remove the need for constant human supervision.The new system, dubbed DeepSPM, bridges the gap between nanoscience, automation, and artificial intelligence (AI), and firmly establishes the use of machine learning for experimental scientific research.Image acquired by scanning tunneling microscopy (STM): individual silver atoms on a crystalline metal surface.FLEET&quot;Optimizing SPM data acquisition can be very tedious. This optimization process is usually performed by the human experimentalist, and is rarely reported,&quot; says ARC Centre of Excellence in Future Low-Energy Electronics Technologies (FLEET) chief investigator Dr. Agustin Schiffrin of Monash University.&quot;Our new AI-driven system can operate and acquire optimal SPM data autonomously, for multiple straight days, and without any human supervision.&quot;The advance brings advanced SPM methodologies such as atomically-precise nanofabrication and high-throughput data acquisition closer to a fully automated turnkey application.The new deep learning approach can be generalized to other SPM techniques. The researchers have made the entire framework publicly available online as open source, creating an important resource for the nanoscience research community.Image acquired by atomic force microscopy (AFM): a single molecule, similar to chlorophyll.FLEETFully-Autonomous&nbsp;DeepSPM&quot;Crucial to the success of DeepSPM is the use of a self-learning agent, as the correct control inputs are not known beforehand,&quot; says Dr. Cornelius Krull, project co-leader.&quot;Learning from experience, our agent adapts to changing experimental conditions and finds a strategy to maintain the system stable,&quot; says Krull, who works with Shiffrin at Monash School of Physics and Astronomy.The AI-driven system begins with an algorithmic search of the best sample regions and proceeds with autonomous data acquisition.It then uses a convolutional neural network to assess the quality of the data. If the quality of the data is not good, DeepSPM uses a deep reinforcement learning agent to improve the condition of the probe.DeepSPM can run for several days, acquiring and processing data continuously, while managing SPM parameters in response to varying experimental conditions, without any supervision.The study demonstrates fully autonomous, long-term SPM operation for the first time by combining:an algorithmic approach for sample area selection and SPM data acquisition;supervised machine learning using convolutional neural networks for quality assessment and classification of SPM data, anddeep reinforcement learning for dynamic automated in-situ probe management and conditioning.- This press release was originally published on the&nbsp;ARC Centre of Excellence in Future Low-Energy Electronics Technologies website",449,science,"{'@type': 'ImageObject', 'height': '220', 'width': '220', 'url': 'https://cdn.labmanager.com/assets/articleNo/22060/aImg/40792/dr-agustin-schiffrin-and-his-team-fleet-t.jpg'}","[{'@type': 'Person', 'name': 'ARC Centre of Excellence in Future Low-Energy Electronics Technologies'}]","{'@type': 'NewsMediaOrganization', 'logo': {'@type': 'ImageObject', 'url': 'https://www.labmanager.com/assets/magazine_cover.jpg'}, 'name': 'Lab Manager Magazine'}",N/A,N/A,"NewsPutting Artificial Intelligence to Work in the LabAutomated scanning probe microscopy controlled by artificial intelligence/machine learning by ARC Centre of Excellence in Future Low-Energy Electronics TechnologiesMar 19, 2020|2 min readDownload PDFShare this ArticleFacebookTwitterLinkedInEmailShare Register for free to listen to this articleListen with   Speechify0:005:00Dr. Agustin Schiffrin and his team at the School of Physics and Astronomy at Monash University).FLEETAn Australian-German collaboration has demonstrated fully-autonomous scanning probe microscopy (SPM) operation, applying artificial intelligence and deep learning to remove the need for constant human supervision.The new system, dubbed DeepSPM, bridges the gap between nanoscience, automation, and artificial intelligence (AI), and firmly establishes the use of machine learning for experimental scientific research.Want the latest lab management news?Subscribe to our free Lab Manager Monitor newsletter.Business Email*Country*Please ChooseUnited StatesCanadaUnited KingdomAfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua & BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosnia & HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCook IslandsCosta RicaCroatiaCubaCuracaoCyprusCzech RepublicDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGaza StripGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard & McDonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CoastJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorthern Mariana IslandsNorfolk IslandNorth KoreaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRepublic of the CongoReunionRomaniaRussiaRwandaSaint HelenaSaint BarthelemySaint Kitts & NevisSaint LuciaSaint MartinSaint Pierre & MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome & PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia & South Sandwich IslandsSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad & TobagoTunisiaTurkeyTurkmenistanTurks & Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUruguayUS Minor Outlying IslandsUS Virgin IslandsUzbekistanVanuatuVatican City StateVenezuelaVietnamWallis and FutunaWest BankWestern SaharaYemenZambiaZimbabweExplicit Consent Confirmed - LMBy subscribing, you agree to receive email related to Lab Manager content and products. You may unsubscribe at any time.Image acquired by scanning tunneling microscopy (STM): individual silver atoms on a crystalline metal surface.FLEET""Optimizing SPM data acquisition can be very tedious. This optimization process is usually performed by the human experimentalist, and is rarely reported,"" says ARC Centre of Excellence in Future Low-Energy Electronics Technologies (FLEET) chief investigator Dr. Agustin Schiffrin of Monash University.""Our new AI-driven system can operate and acquire optimal SPM data autonomously, for multiple straight days, and without any human supervision.""The advance brings advanced SPM methodologies such as atomically-precise nanofabrication and high-throughput data acquisition closer to a fully automated turnkey application.The new deep learning approach can be generalized to other SPM techniques. The researchers have made the entire framework publicly available online as open source, creating an important resource for the nanoscience research community.Image acquired by atomic force microscopy (AFM): a single molecule, similar to chlorophyll.FLEETFully-Autonomous DeepSPM""Crucial to the success of DeepSPM is the use of a self-learning agent, as the correct control inputs are not known beforehand,"" says Dr. Cornelius Krull, project co-leader.""Learning from experience, our agent adapts to changing experimental conditions and finds a strategy to maintain the system stable,"" says Krull, who works with Shiffrin at Monash School of Physics and Astronomy.The AI-driven system begins with an algorithmic search of the best sample regions and proceeds with autonomous data acquisition.It then uses a convolutional neural network to assess the quality of the data. If the quality of the data is not good, DeepSPM uses a deep reinforcement learning agent to improve the condition of the probe.DeepSPM can run for several days, acquiring and processing data continuously, while managing SPM parameters in response to varying experimental conditions, without any supervision.The study demonstrates fully autonomous, long-term SPM operation for the first time by combining:an algorithmic approach for sample area selection and SPM data acquisition;supervised machine learning using convolutional neural networks for quality assessment and classification of SPM data, anddeep reinforcement learning for dynamic automated in-situ probe management and conditioning.- This press release was originally published on the ARC Centre of Excellence in Future Low-Energy Electronics Technologies website",,,,,,,,
+https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1vbmFzaC5lZHUvc2NpZW5jZS9uZXdzLWV2ZW50cy9uZXdzLzIwMjAvcHV0dGluZy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS10by13b3JrLWluLXRoZS1sYWLSAQA?oc=5,Putting artificial intelligence to work in the lab - Monash University,2020-03-19,Monash University,https://www.monash.edu,,,N/A,N/A,,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+You are here:
+
+
+Home
+|
+
+
+News & Events
+|
+
+
+News
+|
+
+
+2020
+|
+
+Putting artificial intelligence to work in the lab
+
+
+Putting artificial intelligence to work in the lab
+
+
+
+            19 March 2020
+        
+
+
+
+
+ Dr Agustin Schiffrin and his team at the Monash School of Physics and Astronomy. An Australian-German collaboration has demonstrated fully-autonomous Scanning Probe Microscopy (SPM) operation, applying artificial intelligence and deep learning to remove the need for constant human supervision.The new system, dubbed DeepSPM, bridges the gap between nanoscience, automation and artificial intelligence (AI), and firmly establishes the use of machine learning for experimental scientific research.“Optimising SPM data acquisition can be very tedious. This optimisation process is usually performed by the human experimentalist, and is rarely reported,” said FLEET Chief Investigator Dr Agustin Schiffrin from the Monash University School of Physics and Astronomy.“Our new AI-driven system can operate and acquire optimal SPM data autonomously, for multiple straight days, and without any human supervision.”The advance brings advanced SPM methodologies such as atomically-precise nanofabrication and high-throughput data acquisition closer to a fully automated turnkey application.The new deep learning approach can be generalised to other SPM techniques. The researchers have made the entire framework publicly available online as open source, creating an important resource for the nanoscience research community.)“Crucial to the success of DeepSPM is the use of a self-learning agent, as the correct control inputs are not known beforehand,” said Dr Cornelius Krull, the study project co-leader who is also from the Monash School of Physics and Astronomy.“Learning from experience, our agent adapts to changing experimental conditions and finds a strategy to maintain the system stable.”The AI-driven system begins with an algorithmic search of the best sample regions and proceeds with autonomous data acquisition.It then uses a convolutional neural network to assess the quality of the data. If the quality of the data is not good, DeepSPM uses a deep reinforcement learning agent to improve the condition of the probe.DeepSPM can run for several days, acquiring and processing data continuously, while managing SPM parameters in response to varying experimental conditions, without any supervision.The study demonstrates fully autonomous, long-term SPM operation for the first time by combining:an algorithmic approach for sample area selection and SPM data acquisition;supervised machine learning using convolutional neural networks for quality assessment and classification of SPM data, anddeep reinforcement learning for dynamic automated in-situ probe management and conditioning. The StudyResearchers at Monash University’s School of Physics and Astronomy worked closely with collaborators at the Max Planck Institute of Molecular Cell Biology and Genetics (Dresden), Max Delbrück Center for Molecular Medicine (Berlin) and Heidelberg University.All experiments were performed at Monash, partly funded by the Australian Research Council. Computations were performed at the Center for Information Services and High Performance Computing (European Research Council funded). For more information about the study contact:Dr Agustin Schiffrin agustin.schiffrin@monash.eduMedia enquiries:Silvia DropulichMarketing, Media & Communications Manager, Monash ScienceT: +61 3 9902 4513 M: +61 435 138 743Email:  silvia.dropulich@monash.edu
+
+
+
+Categories
+
+Physics and Astronomy
+Science
+Research
+
+
+
+Tags
+
+Artificial Intelligence
+Scanning Probe Microscopy
+DeepSPM
+Dr Agustin Schiffrin
+FLEET
+Dr Cornelius Krull
+
+
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1hbmFnaW5naXAuY29tL2FydGljbGUvMmE1Y3dhZXd1MmNkcTd2NG92dG9nL2NoaW5hLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWNhbi1haS1jcmVhdGVkLXdvcmtzLWJlLWNvcHlyaWdodGVk0gEA?oc=5,China: Artificial Intelligence: Can AI-created works be copyrighted? - Managing Intellectual Property,2020-03-17,Managing Intellectual Property,https://www.managingip.com,"Our summer article talked about the judgment of the Beijing Film Law Firm v Baidu Network Technology Co., Ltd. (hereinafter Film and Baidu) made by Beijing Internet Court and discussed in detail whether AI-created works are copyrightable or not. In the judgment, it was held that, only when a piece of work possessed ingenuity in itself and was created by a natural person, could it be deemed as a ""work"" in the sense of the Copyright Law and be protected as such. Since the figures in the article involved in the case were created by AI software instead of a natural person, they could not be protected under the Copyright Law; however, the text portion of the article could be protected.",N/A,"Our summer article talked about the judgment of the Beijing Film Law Firm v Baidu Network Technology Co., Ltd. (hereinafter Film and Baidu) made by Beijing Internet Court and discussed in detail whether AI-created works are copyrightable or not. In the judgment, it was held that, only when a piece…","Our summer article talked about the judgment of the Beijing Film Law Firm v Baidu Network Technology Co., Ltd. (hereinafter Film and Baidu) made by Beijing Internet Court and discussed in detail whether AI-created works are copyrightable or not. In the judgment, it was held that, only when a piece of work possessed ingenuity in itself and was created by a natural person, could it be deemed as a ""work"" in the sense of the Copyright Law and be protected as such. Since the figures in the article involved in the case were created by AI software instead of a natural person, they could not be protected under the Copyright Law; however, the text portion of the article could be protected.",http://schema.org,Article,China: Artificial Intelligence: Can AI-created works be copyrighted? | Managing Intellectual Property,,https://www.managingip.com/article/2a5cwaewu2cdq7v4ovtog/china-artificial-intelligence-can-ai-created-works-be-copyrighted,,China: Artificial Intelligence: Can AI-created works be copyrighted?,"March 17, 2020","June 13, 2022",,,"{'@type': 'WebPage', '@id': 'https://www.managingip.com/article/2a5cwaewu2cdq7v4ovtog/china-artificial-intelligence-can-ai-created-works-be-copyrighted'}",,,,"[{'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 400, 'url': 'https://assets.euromoneydigital.com/dims4/default/ee3281d/2147483647/strip/false/crop/600x400+0+0/resize/600x400!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F05%2F97%2F2b475ec7cab8b39d31d9343eeac9%2Fturkey-artificial-intelligence-min-final.jpg', 'width': 600}, {'@context': 'http://schema.org', '@type': 'ImageObject', 'height': 675, 'url': 'https://assets.euromoneydigital.com/dims4/default/09d51fe/2147483647/strip/false/crop/600x338+0+31/resize/1200x675!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F05%2F97%2F2b475ec7cab8b39d31d9343eeac9%2Fturkey-artificial-intelligence-min-final.jpg', 'width': 1200}]","[{'@context': 'http://schema.org', '@type': 'Person', 'image': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://assets.euromoneydigital.com/27/e5/28ef2f3fcc59bf052157e8220da1/managing-ip.png'}, 'name': 'Managing IP Correspondent', 'url': 'https://www.managingip.com/managing-ip-correspondent'}]","{'@type': 'Organization', 'name': 'MIP', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'url': 'https://assets.euromoneydigital.com/27/e5/28ef2f3fcc59bf052157e8220da1/managing-ip.png'}}",N/A,N/A,"
+
+
+        China: Artificial Intelligence: Can AI-created works be copyrighted?
+    
+
+
+
+Managing IP Correspondent
+
+      
+        March 17, 2020
+      
+    
+
+
+
+
+
+
+
+
+Show more sharing options
+
+
+
+
+
+
+Copy Link URLCopied!
+
+
+Print
+
+
+X
+
+
+
+LinkedIn
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  Our summer article talked about the judgment of the Beijing Film Law Firm v Baidu Network Technology Co., Ltd. (hereinafter Film and Baidu) made by Beijing Internet Court and discussed in detail whether AI-created works are copyrightable or not. In the judgment, it was held that, only when a piece of work possessed ingenuity in itself and was created by a natural person, could it be deemed as a ""work"" in the sense of the Copyright Law and be protected as such. Since the figures in the article involved in the case were created by AI software instead of a natural person, they could not be protected under the Copyright Law; however, the text portion of the article could be protected. 
+  Recently, the Shenzhen Nanshan District Court (hereinafter Nanshan Court) issued a new judgment for the copyright infringement dispute between Shenzhen Tencent Computer System Co., Ltd. (hereinafter referred to as Tencent Corporation) and Shanghai Yingxun Technology Co., Ltd. (hereinafter Yingxun Corporation). In this judgment, Nanshan Court advanced the judgment of the Beijing Internet Court and determined copyright infringement for AI-created works. This judgment provided new thought around copyright protection of AI-created works. 
+  Dreamwriter was an intelligent writing assistance system based on big data and algorithms, and was developed by Tencent. Tencent had used the Dreamwriter intelligent writing assistant to create about 300,000 articles per year. One of the articles created by the Dreamwriter was a financial report (hereinafter involved article) entitled Noon Review: Shanghai Index Slightly Rise by 0.11% and Closed at 2691.93 points, Leading Sectors including Telecommunication Operation, Oil Exploration, etc. The involved article was first published on the ""finance-stock"" website of Tencent, with the signature ""this article was automatically written by Tencent Robot Dreamwriter"" at the end of the article. Yingxun Corporation copied the involved article and re-published it on its website the Home of Internet Loan, without the permission of Tencent Company. 
+  Based on the above facts, the Nanshan Court pinpointed two focuses of dispute: firstly, whether AI-related works could be works under the Copyright Law and secondly, whether Tencent Corporation, which hosts the creation of the involved article, is entitled to be a copyright owner. 
+  Regarding the first issue, the Nanshan Court held that the involved article was generated by the staff of the Tencent team using Dreamwriter software, and met the formality requirements for a piece of literary work. Its content reflected the selection, analysis and judgment of relevant stock market information and data the morning of that day. The article possessed ingenuity in view of its structure and expression. The involved article should come from the personal choices and arrangements of the creators, and the Dreamwriter software was a tool used by the creators during the creation. It satisfied the protection requirements for literary works under the Copyright Law, and thus should be protected as such. 
+  Regarding the second issue, the Nanshan Court held that the involved article was created by the Tencent team with intelligence and labour. It reflected the demand and intention of Tencent Corporation for finance-stock review articles, and thus it was a piece of legal-person-created work of Tencent Corporation. 
+  This judgment was the first one which explicitly confirmed the protection of AI-created works under the Copyright Law. This judgment acknowledged the contribution of human intellectual labour in the process of generating AI-created works, and protected some AI-related works which met certain requirements of the Copyright Law. It will definitely encourage people to create AI-related works and urge the dissemination of AI-related works. 
+  However, some copyright issues connected to AI-related works are still left open in the judgment. 
+  Firstly, the judgment fails to provide a standard for determining copyrightable AI-created works. 
+  Specifically, this judgment acknowledged the ingenuity of the ""involved article"", and deemed that it originated from the personal choices and arrangements of the creators. Therefore, the judgment held the involved article was copyrightable. The judgment tried to provide copyright protection for some AI-related works involving human participation in the generation of the AI-created works, but failed to discuss how to determine such human participation. For example, what will happen if the human participation occurs in the process of designing or developing AI software, such as in the process of collecting data or materials for the learning of machines, or creating AI models or constructing knowledge graphs? What will happen if the human participation occurs in the process of using an AI software, such as entering keywords to generate works using AI tools as in the case of Film v Baidu? 
+  AI technologies are increasingly involved in applications and significantly reduce human participation. It should be clarified to what degree human participation can make a piece of AI-created work still eligible for copyright protection. 
+  In addition, the judgment left a blank as to how to determine a copyright owner of AI-created works. In this case, Tencent Corporation was not only the designer of the AI system but also its user. It is therefore easy to determine that Tencent Corporation was the copyright owner. However, in most cases, a designer of the AI system and a user of such an AI system will be different. The user uses the AI system as a tool to generate a piece of work. It will be hard to tell who contributes more to the ingenuity of the final work. As such, it will be difficult to determine the copyright owner of such works. 
+  Since the courts have not reached consensus on the copyright issues relating to AI-created works and the criteria for them is still unclear, we recommend that AI users and designers avoid tagging their works as ""Automatically Generated by AI system"" when they use an AI system to generate works. In circumstances where that tagging is necessary, the work should at least be tagged as ""Under Assistance of AI system"". Furthermore, it is better if an entity which creates a piece of work by using an AI tool could mark itself on the work. 
+  This judgment from Nanshan Court provided a new perspective on AI protection. It supported the idea of copyright protection for works created by a human being with the help of an AI system. It can be seen from this case and the previous case that the China courts are willing to give protection to AI-created works, and the only question is how to give such protection. The China courts and IP practitioners will continue to consider proper ways of protecting the AI industry. Our firm will keep an eye on this issue and report its latest developments.
+Youping Ma and Guoquan Yang
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZW1lcmouY29tL2FpLXNlY3Rvci1vdmVydmlld3MvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtZ29sZG1hbi1zYWNocy_SAQA?oc=5,Artificial Intelligence at Goldman Sachs - Current Initiatives - Emerj,2020-03-18,Emerj,https://emerj.com,"Discover what Goldman Sachs is doing with artificial intelligence, including applications for wealth management and cybersecurity.",,"Discover what Goldman Sachs is doing with artificial intelligence, including applications for wealth management and cybersecurity.",N/A,https://schema.org,Article,,,,,Artificial Intelligence at Goldman Sachs &#8211; Current Initiatives,2020-03-17,2020-03-18,,,https://emerj.com/ai-sector-overviews/artificial-intelligence-goldman-sachs,,845,AI Sector Overviews,https://emerj.com/wp-content/uploads/2020/03/al-jazeera-690x327.jpg,Niccolo Mejia,"{'@type': 'Organization', 'name': 'Emerj', 'url': 'https://emerj.com', 'logo': {'@type': 'ImageObject', 'url': 'https://emerj.com/wp-content/themes/emerj/src/logo/emerj-logo-w-500-min.png'}}",N/A,N/A," Business intelligence and analyticsFinanceSecurity Artificial Intelligence at Goldman Sachs – Current Initiatives Niccolo MejiaLast updated on March 18, 2020  Last updated on March 18, 2020, published by Niccolo Mejia Niccolo is a content writer and Junior Analyst at Emerj, developing both web content and helping with quantitative research. He holds a bachelor's degree in Writing, Literature, and Publishing from Emerson College. Share to: LinkedIn Twitter Facebook Email  The top 100 global banks, including Goldman Sachs, are beginning to take AI strategies very seriously. Most banks are focusing their efforts on AI-enabled applications for risk mitigation, particular fraud detection and cybersecurity systems. These applications have a proven history of ROI in the financial services industry. According to our AI Opportunity Landscape research in financial services, fraud and cybersecurity applications account for more than 26% of the AI-related venture funding raised in financial services, a total of $757 million, more than any other individual area of financial services. It’s clear that banks and venture capital firms are eager to fund anomaly detection vendors with products that can combat payment fraud and security breaches that threaten the privacy of financial services customers. Goldman Sachs seems to be no exception. But as an investment bank, Goldman Sachs may have more niche AI needs than many retail and commercial banks; their foray into AI for equity trading highlights this. In this article, we break down two of Goldman Sachs’ publicized AI initiatives: AI for Wealth and Asset Management: The bank’s AI-enabled investment trust, its work with H20.ai, and its interest in leveraging AI for trading and making the best investments for its clients. AI for Cybersecurity: The bank’s data mining initiative to combat cyber attacks. We begin our discussion of Goldman Sachs’ current AI initiatives with their recent investment in the machine learning startup platform H2O.ai.  AI  for Wealth and Asset Management AI-Enabled Investment Trust Goldman Sachs tested its investment trust, which it claimed makes decisions using AI, in Japan in 2017. The software purportedly runs on natural language processing, a type of artificial intelligence that can discern the meaning within digital text. The software seems to run through analyst reports and news reports (over 26 million as of the 2017 press release) in order to determine the best investments for clients. Goldman Sachs claims the software can help user wealth and asset managers in the following ways: Predicting the Best Investments: he bank also claims its application analyzes data on new investment targets and determines how promising they are based on historical investment data. This indicates the software has some predictive power, likely generated via predictive analytics. Identifying Undervalued Shares: Data about potential investment targets can reveal if a company’s shares are undervalued and possibly worth buying. Determining Profitability: The application can purportedly judge how profitable a company is by analyzing their financial data in comparison with previous investment targets. According to Goldman Sachs, the software generated a return of 28.% between 2014 and 2017. Investment in H2O.ai In 2019, Goldman Sachs led a $72.5 million investment round in the AI startup, H2O.ai. The bank’s Vice President of Venture Capital and Growth, Jade Mandel, also joined the AI company’s board of directors. She said of the decision: H2O.ai’s focus on machine learning transparency and model interpretability facilitates adoption across our industry, and we are delighted to continue to invest in H2O.ai and to further deepen our partnership. This gets to a key problem with adopting AI in finance: AI is in large part a black box, meaning it’s sometimes impossible to figure out why an AI model made the decision it did to buy or sell stocks, approve a loan applicant, and more crucial decisions. For more on this problem, read our full article, AI Transparency in Finance – Understanding the Black Box. The bank claims they are also interested in further adopting H2O’s machine learning platform to help with market making, or providing liquidity to the bank to endorse more trades.  AI for Cybersecurity Goldman Sachs claims to use data mining and machine learning to combat cyber attacks, but it’s unclear exactly which techniques they use to do this. The same resource mentions the bank’s exploration with anomaly detection technology, a type of machine learning that can identify changes within normal patterns. Anomaly detection is well-regarded in use-cases like crybersecurity and fraud detection. Many banks have been leveraging it since the early 2010s, working with companies like Darktrace. Below is a an overview of Darktrace from CNBC:  Anomaly detection software works by first establishing a sense for a normal digital environment. To do this, it often needs to run within a digital ecosystem for several months. Then, once the software “learns” what constitutes a normal environment, it can begin to flag events that deviate from that norm. This allows cyber security specialists to have a better gauge of which events to focus on and which to ignore as normal activity. The bank claims it is looking to expand their AI staff in both cybersecurity and financial modelling.  Emerj for Financial Services Companies There are several key players in the AI-enabled cybersecurity space. Global banks and financial institutions use Emerj AI Opportunity Landscapes to find the nuances between them and determine which vendor is the right fit for their needs. They work with Emerj to develop strategies for investing in high ROI AI opportunities and find out what their competitors are doing. Learn more about our research services. Header Image Credit: Al Jazeera   Related Posts Artificial Intelligence in Retail Banking - Current ApplicationsMany business processes in retail banking are ripe for automation with AI. All types of… Artificial Intelligence at Citibank - Current InitiativesBanks and other financial institutions can be tight-lipped about how they implement AI technologies within… Artificial Intelligence in Corporate Banking - Current ApplicationsAI software for corporate banks is not too different from those for retail banks, although… Artificial Intelligence at HSBC - 2 Use-CasesHSBC Holdings is a multinational banking and financial services holding company and is ranked 99th… Artificial Intelligence at Morgan Stanley - Current InitiativesMorgan Stanley is a US financial institution known mostly for its financial advisory services. According… Share to: LinkedIn Twitter Facebook Email Stay Ahead of the AI Curve Discover the critical AI trends and applications that separate winners from losers in the future of business. Sign up for the 'AI Advantage' newsletter:   Subscribe",,,,,,,,
+https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50ZWNodGFyZ2V0LmNvbS9oZWFsdGh0ZWNoYW5hbHl0aWNzL25ld3MvMzY2NTkxNjg5L1doaXRlLUhvdXNlLVVyZ2VzLUFJLUV4cGVydHMtdG8tRGV2ZWxvcC1Ub29scy1mb3ItQ09WSUQtMTktRGF0YXNldNIBAA?oc=5,White House Urges AI Experts to Develop Tools for COVID-19 Dataset - TechTarget,2020-03-17,TechTarget,https://www.techtarget.com,The White House is calling for the development of new artificial intelligence techniques that can help researchers answer key questions about COVID-19.,N/A,The White House is calling for the development of artificial intelligence tools to answer key scientific questions related to COVID-19.,The White House is calling for the development of artificial intelligence tools to answer key scientific questions related to COVID-19.,https://schema.org,NewsArticle,White House Urges AI Experts to Develop Tools for COVID-19 Dataset,,,,White House Urges AI Experts to Develop Tools for COVID-19 Dataset,2020-03-17T06:30Z,,,,"{'@type': 'WebPage', '@id': 'https://www.techtarget.com/healthtechanalytics/news/366591689/White-House-Urges-AI-Experts-to-Develop-Tools-for-COVID-19-Dataset'}",,,,https://cdn.ttgtmedia.com/rms/onlineimages/health analytics_g690610092.jpg,"[{'name': 'Jessica Kent', '@type': 'Person'}]","{'name': 'TechTarget', 'logo': {'url': 'https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png', 'height': 60, 'width': 115, '@type': 'ImageObject'}, '@type': 'Organization'}",N/A,N/A,"
+
+
+traffic_analyzer/DigitalVision V
+traffic_analyzer/DigitalVision V
+
+
+
+
+
+News
+
+
+White House Urges AI Experts to Develop Tools for COVID-19 Dataset
+
+
+The White House is calling for the development of new artificial intelligence techniques that can help researchers answer key questions about COVID-19.
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Jessica Kent
+
+
+Published: 17 Mar 2020
+
+
+ 
+The White House Office of Science and Technology Policy has issued a call to action for experts to build artificial intelligence tools that can be applied to a new COVID-19 dataset.
+
+
+
+
+
+
+
+For more coronavirus updates, visit our resource page, updated twice daily by Xtelligent Healthcare Media.
+Requested by the Office of Science and Technology Policy, the dataset represents the most extensive machine-readable coronavirus literature collection available for data mining to date. The dataset includes over 29,000 articles, more than 13,000 of which have full text.
+The COVID-19 Open Research Dataset (CORD-19) was put together by researchers from the Allen Institute for AI, the Chan Zuckerberg Initiative (CHI), Georgetown University’s Center for Security and Emerging Technology (CSET), Microsoft, and the National Library of Medicine (NLM) at NIH.
+“Decisive action from America’s science and technology enterprise is critical to prevent, detect, treat, and develop solutions to COVID-19. The White House will continue to be a strong partner in this all hands-on-deck approach,” said Michael Kratsios, US Chief Technology Officer, the White House.
+“We thank each institution for voluntarily lending its expertise and innovation to this collaborative effort, and call on the United States research community to put artificial intelligence technologies to work in answering key scientific questions about the novel coronavirus.”
+To build the dataset, researchers used Microsoft’s web-scale literature curation tools to identify and gather worldwide scientific efforts and results. CZI provided access to pre-publication content, NLM provided access to literature content, and the Allen AI team transformed this content into a machine-readable form, making the data ready for analysis and study.
+“It’s all-hands on deck as we face the COVID-19 pandemic,” said Dr. Eric Horvitz, chief scientific officer at Microsoft.
+“We need to come together as companies, governments, and scientists and work to bring our best technologies to bear across biomedicine, epidemiology, AI, and other sciences. The COVID-19 literature resource and challenge will stimulate efforts that can accelerate the path to solutions on COVID-19.”
+The CORD-19 resource will continue to be updated as new research is published in archival services and peer-reviewed publications. Researchers interested in submitting the text and data mining tools they develop can do so via the Kaggle platform, a machine learning and data science community owned by Google Cloud. Through Kaggle, these tools will be made available to researchers around the world.
+“It’s difficult for people to manually go through more than 20,000 articles and synthesize their findings. Recent advances in technology can be helpful here. We’re putting machine readable versions of these articles in front of our community of more than 4 million data scientists. Our hope is that AI can be used to help find answers to a key set of questions about COVID-19,” said Anthony Goldbloom, co-Founder and chief executive officer at Kaggle.
+To better inform the call to action, researchers collaborated with the National Academies of Sciences, Engineering, and Medicine’s Standing Committee on Emerging Infectious Diseases and 21st Century Health Threats and the World Health Organization to develop key scientific questions related to COVID-19.
+The questions aim to discover what is known about COVID-19 transmission, risk factors, origin, diagnostics, and other critical information.
+“Sharing vital information across scientific and medical communities is key to accelerating our ability to respond to the coronavirus pandemic,” said Dr. Cori Bargmann, head of science at the Chan Zuckerberg Initiative. “The new COVID-19 Open Research Dataset will help researchers worldwide to access important information faster.”
+Kaggle is sponsoring a $1,000 per task award to the winner whose submission best meets the evaluation criteria. The winner may choose to receive this award as a monetary payment or as a charitable donation to COVID-19 research efforts.
+With the development of this dataset, researchers expect to advance their understanding of COVID-19 and its impact on patient populations.
+“One of the most immediate and impactful applications of AI is in the ability to help scientists, academics, and technologists find the right information in a sea of scientific papers to move research faster. We applaud the OSTP, WHO, NIH and all organizations that are taking a proactive approach to use the most advanced technology in the fight against COVID-19,” said Dr. Oren Etzioni, chief executive officer of the Allen Institute for AI. 
+“The Allen Institute for AI, and particularly the Semantic Scholar team, is committed to updating and improving this important resource and the associated AI methods the community will be using to tackle this crucial problem.”
+New AI tools will help accelerate COVID-19 research and relief, paving the way for medicine in the future.
+“This valuable new resource is the fruit of unselfish collaboration and now offers the opportunity to find answers to important questions about COVID-19,” said Dr. Dewey Murdick, Director of Data Science at CSET, who coordinated the cross-team effort. “Once the crisis has passed, we hope this project will inspire new ways to use machine learning to advance scientific research.”
+
+Next Steps
+Artificial Intelligence Model Tracks Spread of Lyme DiseaseArtificial Intelligence Identifies Worsening Heart Failure53% of Execs Say Healthcare Leads Artificial Intelligence Adoption
+
+
+
+
+
+Dig Deeper on Artificial intelligence in healthcare
+
+
+
+“All of Us” Program Expands Whole Genome Data Available to Researchers
+
+
+
+
+By: Shania Kennedy
+
+
+
+
+Risk Models Show Vital Signs, Age Linked to COVID-19 Severity
+
+
+
+
+
+Framework Enables Real-Time Data Analytics During Pandemic
+
+
+
+
+
+Artificial Intelligence Tool Combats New COVID-19 Mutations
+
+
+
+
+
+
+
+
+Sponsored News
+
+
+3 Transformative VDI Use Cases for Hybrid Work
+–Dell Technologies
+
+
+Driving Digital Transformation in Higher Education
+–Dell Technologies
+
+
+Three Innovative AI Use Cases for Natural Language Processing
+–Dell Technologies
+
+See More
+
+
+
+
+
+Related Content
+
+
+Microsoft and Google join forces on Covid-19 dataset
+– ComputerWeekly.com
+
+
+Coronavirus: Mobilising data science
+– ComputerWeekly.com
+
+
+Podcast: The Computer Weekly Downtime Upload – ...
+– ComputerWeekly.com
+
+
+
+
+
+
+
+
+","{'cssSelector': '.paywall', '@type': 'WebPageElement', 'isAccessibleForFree': False}",False,,,,,,
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRhdGFuYW1pLmNvbS8yMDIwLzAzLzE4L2FpLWNhbGxlZC1vbi10by1taW5lLW1hc3NpdmUtY29yb25hdmlydXMtZGF0YXNldC1jb3JkLTE5L9IBAA?oc=5,"AI Called on to Mine Massive Coronavirus Dataset, CORD-19 - Datanami",2020-03-18,Datanami,https://www.datanami.com,"Working with a coalition of government, academic, and industry leaders, the White House this week released COVID-19 Open Research Data (CORD-19), a",N/A,"Working with a coalition of government, academic, and industry leaders, the White House this week released COVID-19 Open Research Data (CORD-19), a",N/A,https://schema.org,,,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,"[{'@type': 'Article', '@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#article', 'isPartOf': {'@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/'}, 'author': {'name': 'Alex Woodie', '@id': 'https://www.datanami.com/#/schema/person/e72504f688134b83bdcb060f54ad8f9b'}, 'headline': 'AI Called on to Mine Massive Coronavirus Dataset, CORD-19', 'datePublished': '2020-03-18T21:26:18+00:00', 'dateModified': '2022-04-11T01:39:25+00:00', 'mainEntityOfPage': {'@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/'}, 'wordCount': 853, 'commentCount': 0, 'publisher': {'@id': 'https://www.datanami.com/#organization'}, 'image': {'@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#primaryimage'}, 'thumbnailUrl': 'https://www.datanami.com/wp-content/uploads/2020/03/coronavirus_shutterstock_red_diamond.jpg', 'keywords': ['CORD-19', 'coronavirus', 'COVID-19', 'data', 'white house'], 'articleSection': ['Features'], 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'CommentAction', 'name': 'Comment', 'target': ['https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#respond']}], 'copyrightYear': '2020', 'copyrightHolder': {'@id': 'https://www.datanami.com/#organization'}}, {'@type': 'WebPage', '@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/', 'url': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/', 'name': 'AI Called on to Mine Massive Coronavirus Dataset, CORD-19', 'isPartOf': {'@id': 'https://www.datanami.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#primaryimage'}, 'image': {'@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#primaryimage'}, 'thumbnailUrl': 'https://www.datanami.com/wp-content/uploads/2020/03/coronavirus_shutterstock_red_diamond.jpg', 'datePublished': '2020-03-18T21:26:18+00:00', 'dateModified': '2022-04-11T01:39:25+00:00', 'description': 'Working with a coalition of government, academic, and industry leaders, the White House this week released COVID-19 Open Research Data (CORD-19), a', 'breadcrumb': {'@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#primaryimage', 'url': 'https://www.datanami.com/wp-content/uploads/2020/03/coronavirus_shutterstock_red_diamond.jpg', 'contentUrl': 'https://www.datanami.com/wp-content/uploads/2020/03/coronavirus_shutterstock_red_diamond.jpg', 'width': 1000, 'height': 667, 'caption': '(red_diamond/Shutterstock)'}, {'@type': 'BreadcrumbList', '@id': 'https://www.datanami.com/2020/03/18/ai-called-on-to-mine-massive-coronavirus-dataset-cord-19/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.datanami.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'AI Called on to Mine Massive Coronavirus Dataset, CORD-19'}]}, {'@type': 'WebSite', '@id': 'https://www.datanami.com/#website', 'url': 'https://www.datanami.com/', 'name': 'Datanami', 'description': 'Data Science • AI • Advanced Analytics', 'publisher': {'@id': 'https://www.datanami.com/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.datanami.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.datanami.com/#organization', 'name': 'Datanami', 'url': 'https://www.datanami.com/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.datanami.com/#/schema/logo/image/', 'url': 'https://www.datanami.com/wp-content/uploads/2021/10/dat_200x200.jpg', 'contentUrl': 'https://www.datanami.com/wp-content/uploads/2021/10/dat_200x200.jpg', 'width': 200, 'height': 200, 'caption': 'Datanami'}, 'image': {'@id': 'https://www.datanami.com/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/pages/Datanami/124760547631010', 'https://twitter.com/datanami', 'https://www.linkedin.com/groups/4166980/']}, {'@type': 'Person', '@id': 'https://www.datanami.com/#/schema/person/e72504f688134b83bdcb060f54ad8f9b', 'name': 'Alex Woodie', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.datanami.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/b0307dd70ffe024a023722c06b737966?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/b0307dd70ffe024a023722c06b737966?s=96&d=mm&r=g', 'caption': 'Alex Woodie'}, 'description': 'Alex Woodie is the managing editor of Datanami', 'url': 'https://www.datanami.com/author/alex/'}]",,,,,
+https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnNvZnR3YXJlYWR2aWNlLmNvbS9yZXNvdXJjZXMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcHJvamVjdC1tYW5hZ2VtZW50LWJlbmVmaXRzL9IBAA?oc=5,5 Benefits of Artificial Intelligence in Project Management - Software Advice,2020-03-17,Software Advice,https://www.softwareadvice.com,Learn what AI in project management means to you and the 5 major benefits of AI-enhanced project management software.,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,N/A,N/A,N/A,,,,,,,,
+https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMC8wMy8xNy9zYWZld2F5LWFsYmVydHNvbnMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdW5pb24v0gEA?oc=5,Why Safeway grocery clerks worry about artificial intelligence - Fortune,2020-03-17,Fortune,https://fortune.com,Safeway workers in the San Francisco Bay Area recently voiced concerns about a push by parent company Albertsons to add more A.I to its operations.,"artificial intelligence, Ai, eye on a.i., deep learning, machine learning, Safeway, Albertsons, grocery, grocery union, artificial intelligence union, future of work, grocery clerks",Safeway workers in the San Francisco Bay Area recently voiced concerns about a push by parent company Albertsons to add more A.I to its operations.,Safeway workers in the San Francisco Bay Area recently voiced concerns about a push by parent company Albertsons to add more A.I to its operations.,,,,,,,,,,,,,,,,,,,N/A,N/A,"Newsletters - Data SheetThe security company that Alphabet may buy for $23 billion launched at the perfect timeBYDavid MeyerJuly 16, 2024",,,,,,,,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2FybXktd2lsbC1zb29uLWJlLWFibGUtY29tbWFuZC1yb2JvdC10YW5rcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS0xMzM5MzLSAQA?oc=5,The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence - The National Interest,2020-03-17,The National Interest,https://nationalinterest.org,How would it work?,"Technology, AI, Robots, Robot Tanks, Drones, U.S. Army",How would it work?,How would it work?,https://schema.org,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+Share on Facebook
+F
+
+
+
+
+Share on Twitter
+L
+
+
+
+
+Share on LinkedIn
+I
+
+
+
+
+Subscribe to RSS
+R
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+March 17, 2020
+
+Topic: Technology
+
+Region: Americas
+
+Blog Brand: The Buzz
+
+Tags: AIRobotsRobot TanksDronesU.S. Army
+
+The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence
+How would it work?
+
+by Kris Osborn
+
+
+
+ 
+
+
+(Washington, D.C.) The Army Research Laboratory is exploring new applications of AI designed to better enable forward operating robot “tanks” to acquire targets, discern and organize war-crucial information, surveil combat zones and even fire weapons when directed by a human.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+
+“For the first time the Army will deploy manned tanks that are capable of controlling robotic vehicles able to adapt to the environment and act semi-independently. Manned vehicles will control a number of combat vehicles, not small ones but large ones. In the future we are going to be incorporating robotic systems that are larger, more like the size of a tanks,” Dr. Brandon Perelman, Scientist and Engineer, Army Research Laboratory, Combat Capabilities Development Command, Army Futures Command, told Warrior in an interview, Aberdeen Proving Ground, Md. 
+
+The concept is aligned with ongoing research into new generations of AI being engineered to not only gather and organize information for human decision makers but also advance networking between humans and machines. Drawing upon advanced algorithms, computer technology can organize, and disseminate otherwise dis-aggregated pools of data in seconds -- or even milliseconds. AI-empowered sensors can bounce incoming images, video or data off a seemingly limitless existing database to assess comparisons, differences and perform near real-time analytics.
+At the speed of the most advanced computer processing, various AI systems can simultaneously organize and share information, perform analyses and solve certain problems otherwise impossible for human address within any kind of comparable timeframe. At the same time, there are many key attributes, faculties and problem solving abilities unique to human cognition. The optimal approach is, according to Perelman, to simultaneously leverage the best of both.
+
+
+
+
+
+“We will use the power of human intelligence and the speed of AI to get novel interactions,” Perelman added.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+This blending, or synthesis of attributes between mind and machine is expected to evolve quickly in coming years, increasingly giving warzone commanders combat-sensitive information much faster and more efficiently. For instance, a forward operating robotic “wingman” vehicle could identify a target that might otherwise escape detection, and instantly analyze the data in relation to terrain, navigational details, previous missions in the area or a database of known threats.
+“You have an AI system that is not better than a human but different than a human. It might be faster and it might be more efficient at processing certain kinds of data. It will deal with threats in concert with human teammates that are completely different than the way we do things today,” Perelman said.
+
+
+
+SPONSORED CONTENT
+
+Recommended by
+
+ 
+
+
+
+
+
+With these goals in mind, the ARL is now working on mock up interfaces intended to go into the services’ emerging family of Next Generation Combat Vehicles. Smaller robots such as IED-clearing PackBots have been in existence for more than a decade; many of them have integrated software packages enabling various levels of “semi-autonomy,” able to increasingly perform a range of tasks without needing human intervention. Current ARL efforts now venture way beyond these advances to engineer much greater levels of autonomy and also engineer larger robots themselves… such as those the size of “tanks.”
+Army Research Lab Mock Up of Next-Gen Combat Vehicle AI-Enabled System
+Bringing this kind of manned-unmanned teaming to fruition introduces new strategic and tactical nuances to combat, enabling war commanders a wider and more immediate sphere of options.
+“Commanders will be able to view a target through vehicle sensor packages, or if there is an aided target recognition technology or some kind of AI to spot targets, they might see battlespace target icons pop up on the map indicating the location of that target,” Perelman said.
+AI-oriented autonomous platforms can greatly shorten sensor-to-shooter time and enable war commanders to quickly respond to, and attack, fast emerging moving targets or incoming enemy fire.
+“Everything that a soldier does today…. Shooting, moving, communicating.. Will be different in the future because you do not just have human to human teammates, you have humans working with AI-teammates,” Perelman said.
+Enabling robots to understand and properly analyze humans is yet another challenging element of this complex equation. “When you have two humans, they know when the other is cold and tired, but when you bring in an AI system you don’t necessarily have that shared understanding,” Perelman said.
+Various kinds of advanced autonomy, naturally, already exists, such as self-guiding aerial drones and the Navy’s emerging “ghost fleet” of coordinated unmanned surface vessels operating in tandem. Most kinds of air and sea autonomous vehicles confront fewer operational challenges when compared to ground autonomy. Ground warfare is of course known to incorporate many fast-changing variables, terrain and maneuvering enemy forces - at times to a greater degree than air and sea conditions - fostering a need for even more advanced algorithms in some cases. Nevertheless, the concepts and developmental trajectory between air, land and ground autonomy have distinct similarities; they are engineered to operate as part of a coordinated group of platforms able to share sensor information, gather targeting data and forward-position weapons -- all while remaining networked with human decision makers.
+“You can take risks you would never do with a manned platform. A robotic system with weapons does not need to account for crew protection,” Perelman said.
+Interestingly, the Army Research Lab current efforts with human-machine interface are reinforced by an interesting 2015 essay in the “International Journal of Advanced Research in Artificial Intelligence,” which points to networking, command and control and an ability to integrate with existing technologies as key to drone-human warfare.
+“They (drones) should effectively interact with manned components of the systems and operate within existing command and control infrastructures, to be integral parts of the system,” in Military Robotics: Latest Trends and Spatial Grasp Solutions, by Peter Simon Sapaty - Institute of Mathematical Machines and Systems, National Academy of Sciences.
+Increased use of networked drone warfare not only lowers risks to soldiers but also brings the decided advantage of being able to operate in more of a dis-aggregated, or less condensed formation, with each drone and soldier system operating as a “node” in a larger integrated network. Dispersed forces can not only enable longer-range connectivity and improved attack options but also reduce force vulnerability to enemy fire by virtue of being less aggregated.
+“Despite the diversity of sizes, shapes, and orientations, they (drones and humans) should all be capable of operating in distributed, often large, physical spaces, thus falling into the category of distributed systems,” Sapaty writes in the essay.
+Also of great significance, Army thinkers explain, is that greater integration of drone attack assets can streamline a mission, thereby lessening the amount of soldiers needed for certain high-risk operations.
+“When you are calling in artillery or air support, there is a minimum distance from where you are able to do that as a human being. You don’t have the same restrictions with robotic systems, so it allows you to take certain risks,” Perelman.
+A paper in an Army University Press publication explains how drones can “expand” the battlefield. By utilizing drone systems for combat…”fewer warfighters are needed for a given mission, and the efficacy of each warfighter is greater. Next, advocates credit autonomous weapons systems with expanding the battlefield, allowing combat to reach into areas that were previously inaccessible,” the essay states. (Amitai Etzioni, Phd, Oren Etzioni, Phd)
+This article by Kris Osborn originally appeared in WarriorMaven in 2020.
+Kris Osborn previously served at the Pentagon as a Highly Qualified Expert with the Office of the Assistant Secretary of the Army - Acquisition, Logistics& Technology. Osborn has also worked as an anchor and on-air military specialist at national TV networks. He has appeared as a guest military expert on Fox News, MSNBC, The Military Channel and The History Channel. He also has a Masters Degree in Comparative Literature from Columbia University.
+Image: Reuters
+ 
+
+
+",,,"[{'@type': 'NewsArticle', 'headline': 'The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence', 'description': 'How would it work?', 'author': {'@type': 'Person', 'name': 'Kris Osborn', 'url': ''}, 'datePublished': 'March 17, 2020 - 15:11', 'dateModified': 'March 17, 2020 - 15:11', 'image': {'@type': 'ImageObject', 'url': 'https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/A49%20%281%29_0.jpg?itok=oR5b0FZP', 'width': '1280', 'height': '819'}, 'mainEntityOfPage': 'https://nationalinterest.org/blog/buzz/army-will-soon-be-able-command-robot-tanks-artificial-intelligence-133932', 'about': ['Technology', 'AI', 'Robots', 'Robot Tanks', 'Drones', 'U.S. Army'], 'publisher': {'@type': 'Organization', '@id': 'https://nationalinterest.org', 'name': 'The National Interest', 'url': 'https://nationalinterest.org', 'logo': {'@type': 'ImageObject', 'url': '/sites/default/files/national-interest.png'}}}, {'@type': 'ImageObject', 'url': 'https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/A49%20%281%29_0.jpg?itok=oR5b0FZP', 'width': '1280', 'height': '819'}, {'@type': 'Organization', '@id': 'https://nationalinterest.org', 'name': 'The National Interest'}]",,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNvbXB1dGVyd29ybGQuY29tL2FydGljbGUvMTYxNjIwMy9ob3ctdGhlLW56LWdvdmVybm1lbnQtd2lsbC1yZWd1bGF0ZS1haS5odG1s0gFeaHR0cHM6Ly93d3cuY29tcHV0ZXJ3b3JsZC5jb20vYXJ0aWNsZS8xNjE2MjAzL2hvdy10aGUtbnotZ292ZXJubWVudC13aWxsLXJlZ3VsYXRlLWFpLmh0bWwvYW1wLw?oc=5,How the NZ government will regulate AI - Computerworld,2020-03-17,Computerworld,https://www.computerworld.com,"Rather than have a specific AI law, existing regulations will be updated over time to govern appropriate uses of artificial intelligence",N/A,"Rather than have a specific AI law, existing regulations will be updated over time to govern appropriate uses of artificial intelligence","Rather than have a specific AI law, existing regulations will be updated over time to govern appropriate uses of artificial intelligence",,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+		Rather than have a specific AI law, existing regulations will be updated over time to govern appropriate uses of artificial intelligence	
+
+
+
+
+ 
+Credit: MetamorWorks / Getty Images
+
+
+
+
+
+
+
+
+The New Zealand Government plans to regulate the use of artificial intelligence (AI) algorithms by progressively incorporating AI controls into existing regulations and legislation as they are amended and updated, rather than having any specific regulation to control the use of AI.
+Last month, the AI Forum of New Zealand — representing organisations from across New Zealand’s artificial intelligence ecosystem —published a set of principles designed to help build public trust in the development and use of AI in New Zealand. It marked a new development in a long-running debate in New Zealand about the regulation of AI.
+In response to questions from Computerworld on this latest development, a spokesperson for the Department of Internal Affairs said, “AI informs a number of government services and processes and is covered off by a multitude of existing regulations or legislation. As acts are updated and amended, AI and algorithm use will be incorporated into those bills. At this stage, the Government has not made any decisions to explicitly regulate the use of AI.”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+The NZ Government’s strategy for AI
+These initiatives will form part of the NZ Government’s Strategy for a Digital Public Service, released in November 2019 and described as “a call to action for the public service to operate in the digital world in a more modern and efficient way — delivering the outcomes that … New Zealand needs.”
+More Videos0 seconds of 14 minutes, 9 secondsVolume 0%Press shift question mark to access a list of keyboard shortcutsKeyboard ShortcutsEnabledDisabledShortcuts Open/Close/ or ?Play/PauseSPACEIncrease Volume↑Decrease Volume↓Seek Forward→Seek Backward←Captions On/OffcFullscreen/Exit FullscreenfMute/UnmutemDecrease Caption Size-Increase Caption Size+ or =Seek %0-9
+ 
+
+
+Next UpDEMO Observe09:31SettingsOffAutomated Captions - en-USFont ColorWhiteFont Opacity100%Font Size100%Font FamilyArialCharacter EdgeNoneBackground ColorBlackBackground Opacity50%Window ColorBlackWindow Opacity0%ResetWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%200%175%150%125%100%75%50%ArialCourierGeorgiaImpactLucida ConsoleTahomaTimes New RomanTrebuchet MSVerdanaNoneRaisedDepressedUniformDrop ShadowWhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%WhiteBlackRedGreenBlueYellowMagentaCyan100%75%50%25%0%
+
+
+
+
+
+
+
+Live00:0014:0914:09 
+
+The spokesperson said: “The strategy for a Digital Public Service identifies the need to establish strong digital foundations that can be used across the public sector. This includes, for example, determining appropriate policy and regulatory requirements for emerging technologies, such as AI. This will ensure new technologies are adopted lawfully, safely, transparently, and with the continued support of the public.
+“The strategy … confirms that our government will ensure the human rights that apply offline continue to be recognised and protected in the digital environment.”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+The current round of activity around controlling the use of AI algorithms started in April 2018 when the University of Otago called for government use of AI analytics to be regulated. Then, in May 2019, the New Zealand Law Foundation warned against the unregulated user of artificial intelligence algorithms by government. In response, in November 2019, the Government announced it would examine regulation of AI with the World Economic Forum (WEF).
+WEF collaboration on AI
+The spokesperson said the NZ Government had been invited to work with the WEF’s San Francisco-based Centre for the Fourth Industrial Revolution on the development of new and agile regulatory approaches for Al.
+“As a small country, New Zealand is seen by WEF as being an ideal test bed for this kind of agile thinking,” the spokesperson said. “We have a small, stable democracy, with a government that can move quickly. We are well-connected, both internally, across our government and wider society, and we have strong relationships with other countries. We are seen as a leading digital nation.”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+Lofred Madzou, WEF’s project lead for artificial intelligence, tells Computerworld, “A draft roadmap for policymakers to help shape thinking when regulating AI has been developed by the project team. This roadmap includes a tools and approaches section that suggests policymakers look at a range of soft and hard regulatory tools and levers. Work is underway within the New Zealand government on identifying options for the regulation of government algorithms. This work, while a New Zealand government piece, will provide a useful case study to the project as it will be testing elements of this high level roadmap. Work with the global community since the creation of the roadmap has further refined the scoping and the emphasis has moved from the high-level roadmap to being about the gathering of evidence and development of tools. The community workshops held by the project team have recommended that the innovative approaches and tools should concentrate on the areas of national conversations about AI ethics and values, assessment and options for a centre of excellence.”
+Algorithm charter coming
+In another Government AI development, Statistics New Zealand has released a draft algorithm charter that it says, “commits government agencies to use algorithms in a fair, ethical, and transparent way.”
+The charter would apply to ‘operational algorithms’ as defined in Statistics NZ’s Algorithm assessment report, released in October 2018: “These impact significantly on individuals or groups. … [They] interpret or evaluate information (often using large or complex data sets) that result in, or materially inform, decisions that impact significantly on individuals or groups…[and] may use personal information about the individuals or groups concerned, but do not need to do so exclusively.”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+The charter is expected to be finalised in the second half of 2020. Public submissions on the draft closed on 31 December 2019; Statistics NZ has published a summary of these and provides updates on the project’s progress on its website.
+Questions on private sector AI use
+The Law Foundation’s warnings on AI were contained in a report prepared by the University of Otago’s Artificial Intelligence and Law in New Zealand Project (AILNZP).
+The report’s co-author, associate professor Alistair Knott, told Computerworld that the same issues existed in the private sector, but the report had chosen to focus only on government use because the question of regulation was easier to answer in this narrower context.
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+“The same questions arise for private sector on uses of decision systems or classifiers. How accurate are they? Do they perform the same way for all different groups in society? In other words, is there any bias? There are other questions of interest. Are the people using these machines actually in charge? Or are the machines on some form of autopilot? You might have the illusion that a person is in the loop when in fact they’re just taking the recommendation of the system, especially when the system gets sufficiently good. So are there protocols for making sure that people are awake to the system making mistakes?”
+The university is now working on Phase 2 of the Law Foundation project with the results due out later in 2020.
+Knott said it would focus on the employment issues thrown up by the use of AI. “How will human work change? Which jobs might be lost? How might new jobs be created? What effects there will be on whole professions possibly, of widespread introduction of AI? What aspect of those professions be at risk of being lost if there’s widespread automation?”
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Related content
+
+ 
+
+
+news analysis
+
+RCS now works on iPhones running the iOS 18 beta
+Apple's Messages app now supports RCS for richer media and more reliable group messaging compared to SMS and MMS. 
+
+				By Jonny Evans				
+
+
+Jul 16, 2024
+
+5 mins 
+
+
+iPhone
+Apple
+iOS
+
+
+
+
+
+
+news analysis
+
+Are AI posts on social media protected free speech?
+A recent Supreme Court case that involved Florida and Texas statutes placed AI in the crosshairs of First Amendment protections. 
+
+				By Lucas Mearian				
+
+
+Jul 16, 2024
+
+6 mins 
+
+
+Regulation
+Government
+Facebook
+
+
+
+
+
+
+opinion
+
+Where does Apple Intelligence come from?
+And how long will the 'fair use' defense last in the age of AI? 
+
+				By Jonny Evans				
+
+
+Jul 15, 2024
+
+4 mins 
+
+
+Regulation
+Apple
+Generative AI
+
+
+
+
+
+
+news analysis
+
+AI chip battleground shifts as software takes center stage
+Chipmakers race to acquire advanced software capabilities to win the AI chip war. 
+
+				By Prasanth Aby Thomas				
+
+
+Jul 15, 2024
+
+7 mins 
+
+
+CPUs and Processors
+Technology Industry
+
+
+
+
+
+
+Podcasts
+
+
+Videos
+
+
+Resources
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SUBSCRIBE TO OUR NEWSLETTER			
+
+				From our editors straight to your inbox			
+
+			Get started by entering your email address below.		
+
+
+ 
+
+
+
+Please enter a valid email address
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS90aGUtbWF0dGVyLW9mLWFpLXRha2VvdmVyLXdpbGwtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcmVwbGFjZS1odW1hbi1iZWluZ3MtNzlkMmM3ODhmMzU40gEA?oc=5,The Matter Of AI Takeover: Will Artificial Intelligence Replace Human Beings? - Towards Data Science,2020-03-18,Towards Data Science,https://towardsdatascience.com,"The so-called robot/AI uprising has been a popular plot point for much dystopian fiction. Whether on the big screen or on the small screen, we have all witnessed the plot unfold as the AI-driven…",N/A,The so-called robot/AI uprising has been a popular plot point for much dystopian fiction. Whether on the big screen or on the small screen…,The so-called robot/AI uprising has been a popular plot point for much dystopian fiction. Whether on the big screen or on the small screen…,http://schema.org,NewsArticle,The Matter Of AI Takeover: Will Artificial Intelligence Replace Human Beings?,,https://towardsdatascience.com/the-matter-of-ai-takeover-will-artificial-intelligence-replace-human-beings-79d2c788f358,,The Matter Of AI Takeover: Will Artificial Intelligence Replace Human Beings?,2020-03-19T06:46:23.809Z,2021-12-13T20:27:34.878Z,,,https://towardsdatascience.com/the-matter-of-ai-takeover-will-artificial-intelligence-replace-human-beings-79d2c788f358,,,,['https://miro.medium.com/v2/resize:fit:1200/1*GoNyGQ9yucZnpdFR02YEYg.jpeg'],"{'@type': 'Person', 'name': 'Jessica Bennett — Tech Enthusiast and Marketer', 'url': 'https://towardsdatascience.com/@jessicajournal'}","{'@type': 'Organization', 'name': 'Towards Data Science', 'url': 'towardsdatascience.com', 'logo': {'@type': 'ImageObject', 'width': 192, 'height': 60, 'url': 'https://miro.medium.com/v2/resize:fit:384/1*cFFKn8rFH4ZndmaYeAs6iQ.png'}}",N/A,N/A,"The Matter Of AI Takeover: Will Artificial Intelligence Replace Human Beings?Will AI take over the human race, both admirers and critics alike?Jessica Bennett — Tech Enthusiast and Marketer·FollowPublished inTowards Data Science·8 min read·Mar 19, 202065ListenSharePhoto by Jason Yuen on UnsplashThe so-called robot/AI uprising has been a popular plot point for much dystopian fiction. Whether on the big screen or on the small screen, we have all witnessed the plot unfold as the AI-driven robotic overlords slowly, surely and ruthlessly take over the human race. However, in the movies, the human race always wins. We are not yet sure about the outcome of the AI takeover if it happens in real life!The topic of the AI revolution is pretty debatable. While some have nothing but amazing things to say on the AI revolution, there are many AI experts who have openly spoken out about the kind of negative effect AI can have on the society and requested the researchers to look into the societal effects of Artificial Intelligence.The omniscient, omnipresent and almost omnipotent power of AI has been put to question time and time again. The future possibilities of this technology can easily be compared to the myth of Pandora’s Box. However, we know what pandora’s box contained, the future of AI, on the other hand, remains quite foggy, which justifies the question that we are faced with again and again, and that is- will AI replace us human beings?AI Takeover: The Beginning Of The EndToday the AI technology is being used to perform tasks that range from trivial to monumental. Whether it’s enhancing mobile photography with AI cameras or financial asset management, AI has some truly amazing applications in various fields of human life.But as the applications of AI increases, more and more people are starting to wonder if it is going to erase the importance of human skills and experiences in different tasks. What happens to the skills and experiences of a veteran photographer when all the person holding an enhanced AI camera needs to do is to point the camera and click? What happens to the skills and intuitions of an experienced stockbroker when AI is trained to predict stocks and help people make decisions based on that?Source: Photo by Franck V. on UnsplashSome will argue that AI only helps the users to reap the benefits of having years of experience without having to struggle for years to gain that experience. But what happens to the fundamental human values when that experience gaining process is removed entirely, and nothing stands between the user and gaining the optimal results?If you keep all these questions in mind, then the entire “AI will replace human beings” premise does not seem that ridiculous. However, to confirm, or reject that thought, we really have to get to the bottom of the visibly positive and negative effects of AI on society.AI Automation: Different Sides Of The Same CoinEverything has its positive and negative effects, that much is evident. Artificial Intelligence is not an exception. The effects of AI automation ranges from extremely good to severely bad. And these effects need to be observed and analyzed closely before making any assumptions about the long term effect of AI in society.The Positive Side Of The CoinThere are many facets of the positive sides of AI- from speeding up mundane tasks to enhancing the inner workings of bigger industries. The analytical and predictive power of AI has proven to be a valuable asset for many industries. Whether it is predicting the weather or stock market, the accuracy of AI technology’s predictive power is affecting many industries in a positive manner. Not only data analysis and making predictions based on that, but AI is also being used for more dangerous tasks such as space explorations, sea exploration and many more.The next positive is definitely enhancing the diagnostic and monitoring procedures in the medical industry. With wearable integration, doctors today are better equipped to diagnose a patient and monitor their situation, which leads to better and accurate treatment. The AI effect not only enhances the medical procedures, but it is also reducing the cost of medical treatment across the world drastically.Source: https://www.pexels.com/photo/gray-and-white-robot-73910/Thanks to the increase in smart home automation development, AI has also entered our homes and turned it into a smarter household. The AI-based smart home systems, often called the “Phantom Load” or “Vampire energy” is working wonders when it comes to reducing power consumption and controlling the carbon footprints of a household. The AI-based facial recognition systems are also helping the authorities to deal with criminals in an advanced manner.There are many, many other positive uses of Artificial Intelligence. But in short, we can definitely say that the positive sides of AI do not only span across different industries but also affects the individual lives of everyone attached to those industries.The Negative Side Of The CoinSince there’s a positive side, there is bound to be a negative side of AI as well. Starting from AI bias to social media manipulation, AI is affecting society in ways that were previously unimaginable.The introduction of AI automation has brought about a serious shift in the modern human lifestyle. The tasks that once required manual labor, can be done without having to live a finger today. This means that users today have more free time and they are looking for new experiences to fill that void. However, this search for new experiences is easier for some people than others, which has some serious social and psychological impact on society.Source: https://www.harvard.co.uk/6-things-you-need-to-know-about-artificial-intelligence/One of the most glaring examples of the negative effects of AI would be the incident involving a racist medical AI system putting millions of lives in danger. The racial bias of human society entered the AI through data sets used to train that AI system. This led to millions of black people suffering from their illness due to not receiving good enough treatment.Besides these, there are far more sinister impacts, such as social media manipulation, that is changing our point of view, the lack of privacy and security as is evident from China’s social credit system, etc. The main problem with all these negative effects of AI is that we don’t even think about these effects until they are right in front of us. The negative effects of AI seem superficial when really it is working on a deeper level, changing the fabric of society as we know it.Can AI Penetrate All Industries And Fields?Until now we have this understanding that AI can be used in a wide range of industries. But can it be used in all of them?Even though AI IS disrupting multiple fields of studies and works, there are many other areas where AI is not exactly that effective. Be it the Human Resource manager of an organization, PR manager or an artist, there are fields that require a greater amount of human sympathy, experience, and skills.Source: Photo by Franck V. on UnsplashDespite all its possibilities, Artificial Intelligence is still believed to be at its very first stage of development. All that we are seeing today is just a precursor to a much smarter and intelligent version that is yet to come. And that’s why we can rest assured, as today’s AI still has not achieved the kind of skills needed to accomplish a lot of jobs.Jobs such as writing and editing, graphic designing, teaching are yet to be automated, all because these jobs need the human touch. Sure with AI-based systems, these jobs can be made easy. But AI can not completely take over these tasks, not yet. Academic fields too are exempt from the AI automation trends. Tasks such as grading papers can be assigned to the AI system, but when it comes to teaching or researching, the field still requires human influence.Where Do They Differ- AI Vs HumansIf we are to finally answer the question of whether human beings are to be replaced by AI systems, we would need to understand that there are fundamental differences between the human psyche and an Artificial Intelligence system.Source: Photo by Andy Kelly on UnsplashWhile both work with cognitive functions such as problem-solving, memorizing, planning, reasoning, and perception gathering, a human mind is far more capable of performing these simple tasks. The human brain is able to integrate their emotional intelligence, self-awareness, and human experience into these tasks and give it a flare that is unique to every individual. The AI system, on the other hand, is still not developed enough to learn on its own. It still needs to be trained using data sets by human beings so that they can perform different tasks.At the end of the day, AI is an invention of the human mind. The complete automation of various tasks today is possible because of Human imagination. Even though the question persists whether we are going to be replaced by AI or not, we can rest assured that for the time being, the AI system is not at all close to achieving the kind of technical maturity to take over the human race.ConclusionThere might not be any conclusive answer to the question of AI replacing human beings in various industries. What we only have are predictions and observations. And here are the top three observations that we can consider when wondering about the AI takeover-Human beings have created AI, and even though greater attempts are being made to replicate human intelligence through AI systems, we still have a long way to go in order to create an intelligent system that can overpower us.AI will replace human beings in some jobs and industries and that much is inevitable. Many jobs that require manual labor will be automated in the future. This is, however, not the first step of AI domination. Something similar happened when computers became mainstream, but we are not yet its slaves. (despite our obsession with computers and smartphones)With enough regulation and limitation, we can be prepared if an AI takeover ever comes into play. Even now there needs to be proper regulatory laws in the AI industry, that include laws about how AI is trained, used and how it affects the users.The rapid expansion of AI technology needs constant regulation and observation before the negative effects of it become too much. With proper laws guarding the users, AI takeover will only be limited to the entertaining plots of dystopian movies and fictional worlds.",,,,2020-03-19T06:46:23.809Z,79d2c788f358,['Jessica Bennett — Tech Enthusiast and Marketer'],,
+https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmVuZXJneS5nb3YvYXJ0aWNsZXMvaW5zcGlyaW5nLW5leHQtZ2VuZXJhdGlvbi13b21lbi1zdGVtLWxlYWRlcnPSAQA?oc=5,Inspiring Next Generation of Women as STEM Leaders - Energy.gov,2020-03-20,Energy.gov,https://www.energy.gov,"Why Cheryl Ingstad, Director of the Office of Artificial Intelligence & Technology Office, is aiming to inspire more women to pursue STEM careers.",N/A,"Why Cheryl Ingstad, Director of the Office of Artificial Intelligence & Technology Office, is aiming to inspire more women to pursue STEM careers.","Why Cheryl Ingstad, Director of the Office of Artificial Intelligence & Technology Office, is aiming to inspire more women to pursue STEM careers.",,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+STEM jobs change the world. Science, technology, engineering and mathematics (STEM) enable the discovery of more efficient energy sources and the development of new materials to optimize energy storage, advance our artificial intelligence (AI) and supercomputing capabilities, and enhance our understanding of the building blocks of matter – to name just a few of the things we work on at the Department of Energy (DOE).  When I was appointed as the inaugural Director of DOE’s Artificial Intelligence & Technology Office (AITO), which was established to help address national challenges, it was humbling to say the least.  How exciting to contribute to the direction and success of this new office at the dawn of the Age of AI! Without diversity of gender, race, backgrounds, and ideas, we won’t be able to sufficiently capitalize on critical and creative solutions to our nation’s most urgent challenges. This commitment to diversity is shared across the Administration with the goal of advocating for and advancing achievements in the STEM fields to benefit the American people.It’s a truly awesome responsibility to work with the best and brightest minds overseeing hundreds of AI projects at DOE and our world-leading National Laboratories making profound differences. Earlier this month, I had a pleasure of visiting Oak Ridge National Lab where I was able to take a look at Summit, the world’s fastest supercomputer. Our supercomputers have allowed us to expedite testing enabling us to find treatments for deadly diseases. All of our 17 National Laboratories are working to advance AI and I want to help highlight their successes.With so much to discover and improve in our world, I hope these exciting fields inspire more women and girls to pursue STEM education and careers. Indeed, the Department of Energy specifically has benefited from the contributions of the many female STEM pioneers and advocates including former Secretary of Energy, Hazel O'Leary, the nation’s first and only female and African American Secretary of Energy. Today at DOE, I am proud to work alongside female leaders such as Lisa E. Gordon-Hagerty, the first woman to serve as the Under Secretary for Nuclear Security and Administrator of the National Nuclear Security Administration; Rita Baranwal, the first woman and woman of color to serve as Assistant Secretary for Nuclear Energy; and Melissa Burnison, the Assistant Secretary for the Office of Congressional and Intergovernmental Affairs. I know the appreciation for diversity is increasing.  Yet, women only currently make up around 28 percent of the STEM workforce overall and even less – 13 percent – of the engineering workforce.We must do better. Changes to the STEM pipeline must be made at several points. We see attrition starting in middle school, as kids begin to picture themselves pursuing various careers, then again during critical periods, such as when students are deciding to take Advanced Placement courses and enter honors programs in STEM, when parents select programs for their kids, when Hollywood casts leads and write scripts to portray people in STEM, and when applicants are screened for internships, positions, leadership and awards.STEM skills are at the heartbeat of DOE. More than 40 percent of federal DOE employees are in STEM careers, and many more are contractors at our 17 National Laboratories.I’m particularly proud to work at DOE during a time in which leadership is implementing a multipronged outreach effort to further promote STEM literacy through education and workforce outreach, enhance engagement with the communities around our labs, plants and sites, and help ensure the future includes a diverse STEM workforce.  March is Women’s History Month.  In recognition, I highly encourage women and girls visit energy.gov/STEM to learn about the Department’s exhaustive effort – including programs supporting more than 250,000 students and educators, from K-12 to postdoctoral researchers, national lab internships, fellowships and research experiences, local science fairs, career days, STEM conferences, clubs, and afterschool learning - just to name but a few.But it’s not just the government’s role to ensure American competitiveness by helping to encourage and train more women and girls to join the STEM workforce. This next generation of scientists and engineers will drive discovery and innovation, and the world will be a safer and better place for it.We must never stop innovating ways to interest a more diverse body of students in STEM activities and lighting that STEM spark across all demographics and backgrounds.Our future depends upon it.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+      Cheryl Ingstad
+    
+Cheryl Ingstad, Director, Office of Artificial Intelligence & Technology Office
+more by this author
+
+
+
+
+
+
+
+
+
+",,,,,,,,
+https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZpZXJjZWVsZWN0cm9uaWNzLmNvbS9zZW5zb3JzL3NtYXJ0LWluc29sZS11c2VzLWNoZWFwLXNlbnNvcnMtYWktdG8tYW5hbHl6ZS1nYWl00gEA?oc=5,"Smart insole uses cheap sensors, AI to analyze gait - FierceElectronics",2020-03-20,FierceElectronics,https://www.fierceelectronics.com,"Taking one step might be trivial for most people, but Stevens Institute of Technology researchers believe that analyzing how someone walks can tell a lot for people who have trouble moving or have","artificial intelligence,Medical,Sensor Applications,Sensors At Work,wearable sensors,wearables,Stevens Institute of Technology,Electronics,Fierce Electronics Homepage,IoT & Wireless,Sensors","Taking one step might be trivial for most people, but Stevens Institute of Technology researchers believe that analyzing how someone walks can tell a lot for people who have trouble moving or have | Stevens Institute of Technology researchers have developed an AI-powered, smart insole that instantly turns any shoe into a portable gait-analysis laboratory.","Taking one step might be trivial for most people, but Stevens Institute of Technology researchers believe that analyzing how someone walks can tell a lot for people who have trouble moving or have | Stevens Institute of Technology researchers have developed an AI-powered, smart insole that instantly turns any shoe into a portable gait-analysis laboratory.",https://schema.org/,,,,,,,,,,,,,,,,,,"Electronics,Fierce Electronics Homepage,IoT & Wireless",N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fierce Network
+
+
+Fierce Electronics
+
+
+Sensors Converge
+
+
+Electronics Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Electronics
+
+
+IoT & Wireless
+
+
+Sensors
+
+
+Embedded
+
+
+AutoTech
+
+
+
+
+
+
+Resources
+
+
+
+Industry Events
+
+
+Whitepapers
+
+
+Webinars
+
+
+Survey
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electronics
+
+
+IoT & Wireless
+
+
+Sensors
+
+
+Embedded
+
+
+AutoTech
+
+
+
+
+
+
+Resources
+
+
+
+Industry Events
+
+
+Whitepapers
+
+
+Webinars
+
+
+Survey
+
+
+
+ Events 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+Fierce Network
+
+
+Fierce Electronics
+
+
+Sensors Converge
+
+
+Electronics Events
+
+
+
+
+
+
+Advertise
+
+
+About Us
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brought to you by:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sensors
+
+
+
+
+Smart insole uses cheap sensors, AI to analyze gait
+
+
+
+
+
+By 
+Spencer Chin
+
+
+
+
+
+Mar 20, 2020 12:16pm
+
+
+
+
+artificial intelligence
+Medical
+Sensor Applications
+Sensors At Work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stevens Institute of Technology researchers have developed an AI-powered, smart insole that instantly turns any shoe into a portable gait-analysis laboratory. (Stevens Institute of Technology)
+Taking one step might be trivial for most people, but Stevens Institute of Technology researchers believe that analyzing how someone walks can tell a lot for people who have trouble moving or have injuries.According to research published in IEEE Transactions on Neural Systems and Rehabilitation Engineering, the scientists have developed an AI-powered, smart insole that instantly turns any shoe into a portable gait-analysis laboratory. The work could give clinical researchers a new way to precisely measure walking function in patients with movement disorders or musculoskeletal injuries, in their living environments. The technology could also help athletes improve their running technique. “From a practical standpoint, that’s invaluable,” said Damiano Zanotto, lead author and director of Stevens Wearable Robotic Systems Lab. “We’re now able to accurately analyze a person’s gait in real time, in real-world environments.”RELATED: Bargain-hunting engineers say sensors still too costlyCapturing reliable information about a person’s gait in real-life environments remains challenging for researchers. Standard gait-analysis technologies, such as camera-based motion-capture systems and force plates, are expensive and can only be used inside laboratories, so they offer few insights into how people walk around in the real world. Emerging wearable technologies such as smart shoes, pods, and insoles can potentially overcome this limitation, but the existing products cannot provide accurate gait data.In their work, Zanotto and his team show that their smart insole can deliver real-time data on the length, speed, and power of a wearer’s stride with better accuracy than existing foot-worn technologies—and at a fraction of the cost of traditional laboratory equipment.The team’s SportSole technology uses accelerometers and gyroscopes to monitor its own movement and orientation in space and an array of force sensors to detect plantar pressure, allowing it to capture 500 readings per second—around a fivefold improvement over smart pedometers and other wearable gait-analysis tools. Because wearable motion sensors are inherently noisy, Zanotto processes those 500 measurements per second down to just a few key features, then feeds the results into an AI algorithm that can rapidly extract gait parameters that are accurate to within a couple of percentage points.The smart sole works regardless of whether the wearer is walking or running and generates accurate results without requiring calibration or customization for individual users. Preliminary testing suggests the SportSole even works with children as young as three years of age and elderly users with vestibular disorders, whose gait patterns are very different from those of healthy adults. Noteworthy in the smart insole is the use of off-the-shelf sensors that will ultimately make the technology easier to scale. According to the researchers, the sensors used cost around $100, accompanied by AI to extract reliable data. “We’re achieving the same or better results at a far lower cost, and that’s a big deal when it comes to scaling this technology,” said Zanotto.The team is currently focusing on testing the SportSole for clinical use.
+
+artificial intelligence
+Medical
+Sensor Applications
+Sensors At Work
+wearable sensors
+wearables
+Stevens Institute of Technology
+Electronics
+IoT & Wireless
+Sensors
+
+
+
+
+
+
+
+
+
+Educational ResourcesFrom prototype to production with Qube and ParticleFrom 10 seconds to 1 with Field Intell and Particle30 billion liters of water saved with Alert LabsFrom 10 seconds to 1 with Field Intell and ParticleFrom prototype to production with Qube and Particle30 billion liters of water saved with Alert Labs
+
+
+Related ContentWi-Fi HaLow moves forward after completing WBA field trialsJul 15, 2024 12:22pmSamsung speeds production of AI chips, making use of new GAA techJul 15, 2024 11:08amDell now shipping PowerEdge with AMD MI300X acceleratorsJul 14, 2024 01:15pmMicrochip eyes skrocketing market for spaceflight computingJul 12, 2024 04:16pm
+
+
+
+
+
+
+
+See more articles
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Connect
+
+
+
+The Team
+
+
+Advertise
+
+
+
+
+Join Us
+
+
+
+Newsletters
+
+
+Resources
+
+
+RSS Feeds
+
+
+
+
+Our Brands
+
+
+
+Fierce Wireless
+
+
+Fierce Telecom
+
+
+StreamTV Insider
+
+
+Fierce Electronics
+
+
+
+
+Our Events
+
+
+
+Electronics
+
+
+Entertainment
+
+
+Wireless & Telecom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2024 Questex LLC All rights reserved.
+Terms of use
+Privacy Policy
+Privacy Settings
+
+
+
+
+
+
+
+
+
+
+
+",,,"{'@type': 'NewsArticle', 'headline': 'Smart insole uses cheap sensors, AI to analyze gait', 'articleSection': None, 'keywords': 'Sensors', 'description': 'Stevens Institute of Technology researchers have developed an AI-powered, smart insole that  turns any shoe into a portable gait-analysis lab.', 'datePublished': '2020-03-20T16:16:16', 'isAccessibleForFree': True, 'dateModified': '1712371191', 'author': [[{'@type': 'Person', 'name': 'Spencer Chin', 'url': 'https://www.fierceelectronics.com/person/spencer-chin'}]], 'publisher': {'@type': 'Organization', 'name': 'Fierce Electronics', 'url': 'https://www.fierceelectronics.com'}, 'mainEntityOfPage': {'@type': 'WebPage', '@id': 'https://www.fierceelectronics.com/sensors/smart-insole-uses-cheap-sensors-ai-to-analyze-gait'}, 'image': 'https://qtxasset.com/quartz/qcloud4/media/image/fierceelectronics/1584721440/Screen%20Shot%202020-03-20%20at%2011.47.02%20AM.png/Screen%20Shot%202020-03-20%20at%2011.47.02%20AM.png?VersionId=fG.Xg2O56SoT9OC.8MOED_sxQ.8DDSAB'}",,,,,
+https://news.google.com/rss/articles/CBMiigFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ob21lL3NjaWVuY2UvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtdGFraW5nLWxlc3NvbnMtb24taG93LXRvLXNlY29uZC1ndWVzcy11cy9hcnRpY2xlc2hvdy83NDcyMjk1Ny5jbXPSAY4BaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaG9tZS9zY2llbmNlL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXRha2luZy1sZXNzb25zLW9uLWhvdy10by1zZWNvbmQtZ3Vlc3MtdXMvYW1wX2FydGljbGVzaG93Lzc0NzIyOTU3LmNtcw?oc=5,Artificial intelligence taking lessons on how to second-guess us - The Times of India,2020-03-20,The Times of India,https://timesofindia.indiatimes.com,Science News:  Scientists are teaching artificial intelligence systems the subtleties of human behaviour so that they may be better placed to predict our intentions,"UNSW,University of New South Wales,Systems,researchers,machines,intent,intelligence,australia,ability",Science News:  Scientists are teaching artificial intelligence systems the subtleties of human behaviour so that they may be better placed to predict our intentions,Science News:  Scientists are teaching artificial intelligence systems the subtleties of human behaviour so that they may be better placed to predict our intentions,http://schema.org/,ViewAction,Artificial intelligence taking lessons on how to second-guess us,,https://timesofindia.indiatimes.com/home/science/artificial-intelligence-taking-lessons-on-how-to-second-guess-us/articleshow/74722957.cms,,Artificial intelligence taking lessons on how to second-guess us,2020-03-20T09:11:00+05:30,2020-03-20T09:11:00+05:30,,en,https://timesofindia.indiatimes.com/home/science/artificial-intelligence-taking-lessons-on-how-to-second-guess-us/articleshow/74722957.cms,"MELBOURNE: Scientists are teaching artificial intelligence systems the subtleties of human behaviour so that they may be better placed to predict our intentions.One of the holy grails in the development of Artificial intelligence is giving machines the ability to predict intent when interacting with humans, said researchers at the University of New South Wales (UNSW) in Australia.Currently, AI may do a plausible job at detecting the intent of another person. It may even have a list of predefined, possible responses that a human will respond within a given situation, they said.However, when an AI system or machine only has a few clues or partial observations to go on, its responses can sometimes be a little, noted the researchers.“What we’re doing in these early phases is to help machines learn to act like humans based on our daily interactions and the actions that are influenced by our own judgment and expectations — so that they can be better placed to predict our intentions,” said Lina Yao, a lecturer at UNSW. “This may even lead to new actions and decisions of our own, so that we establish a cooperative relationship,” Yao said.The researchers want to see awareness of less obvious examples of human behaviour integrated into AI systems to improve intent prediction. However, doing so is a tall order, as humans themselves are not infallible when trying to predict the intention of another person, the researchers said.“Sometimes people may take some actions that deviate from their own regular habits, which may have been triggered by the external environment or the influence of another person’s actions,” she said.Yao and her team are developing a prototype humanmachine interface system designed to capture the intent behind human movement.“We can learn and predict what a human would like to do when they’re wearing an EEG (electroencephalogram) device,” Yao said. “While wearing one of these devices, whenever the person makes a movement, their brainwaves are collected which we can then analyse,” she said.Yao said recording this data has the potential to help people unable to move or communicate freely due to disability or illness.“Someone in an intensive care unit may not have the ability to communicate, but if they were wearing an EEG device, the pattern in their brainwaves could be interpreted to say they were in pain, for example,” Yao explained.Yao noted the ultimate goal in developing AI systems and machines that assist humans is for them to be seen not merely as tools, but as partners.",,,"{'@type': 'ImageObject', 'url': 'https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-74722996/74722996.jpg', 'width': 1280, 'height': 720}","{'@type': 'Thing', 'name': 'PTI'}","{'@type': 'Organization', 'name': 'Times Of India', 'url': 'https://timesofindia.indiatimes.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://static.toiimg.com/photo/msid-92877370/92877370.jpg', 'width': 600, 'height': 60}}",N/A,N/A,N/A,,,,,,,"https://static.toiimg.com/thumb/msid-74722996,width-1280,height-720,imgsize-132699,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg","{'type': 'EntryPoint', 'urlTemplate': 'android-app://com.toi.reader.activities/toi.index.deeplink/t/a/74722957'}"
+https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGVoZWxrYS5jb20vYXJlLW91ci1zY2hvb2xzLXJlYWR5LWZvci1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,Are our schools ready for Artificial Intelligence? | Tehelka - Tehelka,2020-03-20,Tehelka,https://tehelka.com,N/A,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,N/A,N/A,"
+
+
+Are our schools ready for Artificial Intelligence?
+The CBSE had announced the introduction of Artificial Intelligence (AI) as an optional subject at Class 9 from the Session 2019-2020 onward and has been conducting training for teachers on how to use AI in the classroom. A training video was also to be prepared to amalgamate AI as a multi-disciplinary integrated pedagogical approach to further enhance teaching and learning. Idea was to make India’s next-generation ‘AI ready’. But are we really ready for the big launch? A report by BHARAT HITESHI
+
+By Bharat Hiteshi -   March 20, 2020 
+
+
+
+
+Facebook
+
+
+Twitter
+
+
+Google+
+
+
+Pinterest
+
+
+WhatsApp
+
+
+
+
+It is only on February 27, 2020, that NITI Aayog joined hands with NASSCOM to roll out artificial intelligence modules in Indian schools. Mind it 2019-2020 academic session is almost over now when the NITI Aayog and NASSCOM have joined hands to roll out the AI in schools. A statement issued after the event said that with an imperative to empower the youngest minds of the country with the latest technologies, NITI Aayog, Atal Innovation Mission (AIM) in collaboration with the National Association of Software and Services Companies (NASSCOM) on February 27 launched an AI-based Module rolled out for students in Indian schools.
+The AI-Base Module has been introduced with an objective for students to leverage the full potential of AIM’s Atal Tinkering Lab (ATL) and further empowers them to innovate and create valuable solutions benefiting societies at large. The module contains activities, videos and experiments that enable students to work through and learn the various concepts of AI.
+Sharing his thoughts, CEO, NITI Aayog Amitabh Kant says that India could add 1.3 per cent to its GDP on an annual basis through the use of machine learning and artificial intelligence. “Indians can find solutions to the challenges of a shared connected zero-emission world, improving learning outcomes, disease like tuberculosis, cancer, etc. If we are able to find solutions to these challenges for the 1.3 billion people of India, we can find solutions for the 7.5 billion people of the world too,” he says. The AI module is so critical, in the sense that it will start teaching young children from a very young age then Indians will become major players in AI, as it has been done in the past for robots, 3D printing, IoT. “This is path-breaking, it combines playing and academics and our job is to make things very interesting. We want to make artificial intelligence a great fun so that children can enjoy it, they can evolve and learn and take India forward.”
+CBSE for ‘AI ready’ next gen
+Significantly, the CBSE had issued a Circular No 14/ 2019-dated 09-03-2019 and had clearly communicated that: “Artificial Intelligence (AI) is being widely recognized to be the power that will fuel the future global digital economy. AI in the past few years has gained geo-strategic importance and a large number of countries are striving hard to stay ahead with their policy initiatives to get their country ready. 
+India’s own AI Strategy identifies AI as an opportunity and solution provider for inclusive economic growth and social development. The report also identifies the importance of skills-based education (as opposed to knowledge-intensive education), and the value of project-related work in order to “effectively harness the potential of AI in a sustainable manner” and to make India’s next generation to be ‘AI ready’.
+CEO, NITI Aayog Amitabh Kant says that this AI module is so critical, in the sense that it will start teaching young children from a very young age then Indians will become major players in AI, like it has been done in the past for robots, 3D printing, IoT. “This is path-breaking, it combines playing and academics and our job are to make things very interesting. We want to make artificial intelligence a great fun so that children can enjoy it, they can evolve and learn and take India forward.”
+Technology innovation over the last decade was breathtakingly fast as industries got intertwined with emerging technologies like never before. It has been estimated that by 2030, the global market in AI is likely to be in the range of 15 to 15.5 trillion dollars, out of which India’s share will be close to a trillion. Mission Director Atal Innovation Mission, NITI Aayog R Ramanan says that AI is going to be an integral part of the new 21st century innovations and we are proud to introduce the Learn-It-Yourself module in all our 5000 Atal Tinkering Labs with over 2.5 million students having access to it. “This is the first-ever industry-government academia initiative on such a scale to keep the school students abreast of the latest technologies.”
+For India to lead and remain relevant in this new ‘tech-driven decade’, especially in emerging technologies like AI, and the ubiquity of AI in society, it is critical for the government and academia to collaborate and introduce AI learning at schools and prepare young minds for the AI-led Digital future.
+About the collaboration, Debjani Ghosh, President, NASSCOM, says, “AI has become a strategic lever for economic growth across nations and will continue to be one of the most crucial technologies of the future. Given its impact, it is an embracing step taken by NITI Aayog to introduce the resources for students to learn AI. This will create the right foundations for students, especially the K-12 segment, to onboard onto future technologies and prepare them fully for the digital and AI era. The partnership is a crucial step in building citizens and a workforce that is aware of AI and can work with AI.”
+The hands-on AI module has been designed considering academic, co-scholastic and other ATL programs at school and is formulated to encourage young students to contribute to the journey of nation-building. The module will be a catalyst for the youth to explore, ideate and learn the latest technologies and build a generation of innovators at the grassroots level.
+Atal Innovation Mission housed at NITI Aayog is the Government of India’s flagship initiative to promote a culture of innovation and entrepreneurship. At the school level, AIM is establishing ATLs in all districts across India. As of today, AIM has selected a total of 14,916 schools across the country spread across 33 different states and union territories, for the establishment of ATLs.
+NASSCOM acknowledges the role played by AI and other emerging technologies, as an imperative to build a digitally powered tomorrow. By inculcating AI and a ‘learning by doing’ culture in schools, huge opportunities are bound to arise for the overall industries at a global scale. To achieve this, NASSCOM and AIM have worked in collaboration with industry members and universities to develop the special modules on Artificial Intelligence learning.
+Promoting digital talent for the nation building has been one of the consistent efforts laid out by the IT-ITeS Sector Skills Council, NASSCOM. For this important initiative and many such programs, the IT-ITeS Sector Skills Council has been a key pillar for NASSCOM to catalyze the skill development ecosystem in the country and build industry-ready talent for the IT sector in India. The AI Base Module is ready to be introduced to the ATL students. Additionally, an AI Step-up Module is under development, which will be the next step, that builds on the base module.
+Artificial Intelligence explained
+World Economic Forum Artificial intelligence (AI) is the software engine that drives the Fourth Industrial Revolution. Its impact can already be seen in homes, businesses and political processes. In its embodied form of robots, it will soon be driving cars, stocking warehouses and caring for the young and elderly. It holds the promise of solving some of the most pressing issues facing society but also presents challenges such as inscrutable “black box” algorithms, unethical use of data and potential job displacement. As rapid advances in machine learning (ML) increase the scope and scale of AI’s deployment across all aspects of daily life, and as the technology itself can learn and change on its own, multi-stakeholder collaboration is required to optimize accountability, transparency, privacy, and impartiality to create trust.
+Artificial Intelligence is a Cognitive Science and the history of its evolution suggests that it has grown out of the knowledge derived from disciplines such as Science, Mathematics, Philosophy, Sociology, computing and others. Hence, it is fair for any education system to recognize the importance of integrating AI Readiness to maximize learning across other disciplines. AI is being widely recognized to be the power that will fuel the future global digital economy; and has gained geo-strategic importance. A large number of countries are striving hard to stay ahead with their policy initiatives to get their youth ready to function in an environment driven by AI and other emerging technologies. India’s own AI Strategy identifies AI as an opportunity and solution provider for inclusive economic growth and social development.
+Artificial Intelligence refers to the ability of machines to perform cognitive tasks like thinking, perceiving, learning, problem-solving and decision making; it is inspired by the ways people use their brains to perceive, learn, reason out and decide the action.
+Initially conceived as a technology that could mimic human intelligence, AI has evolved in ways that far exceed its original conception. With incredible advances made in data collection, processing and computation power, intelligent systems can now be deployed to take over a variety of tasks, enable connectivity and enhance productivity.
+CBSE initiatives for AI
+What is CBSE’s new initiative encompassing Artificial Education? Making school students ‘AI Aware’ or forging ‘AI Readiness’ among students is the primary task. Central Board of Secondary Education under the guidance of Ministry of Human Resource Development has taken a ‘twin initiative’ in this regard. The first is to introduce AI as an elective subject in classes 8,9 and 10. To begin with, schools have to apply to CBSE and be approved to run this course. AI curriculum for classes 8 and 9 has been chalked out and a Facilitators’ Handbook has been produced. CBSE is also supporting extensive teacher training for the teaching of AI in schools.
+The second part of the CBSE initiative deals with the premise that AI is a Cognitive Science that can be linked to various subjects that concern themselves with cognition and reasoning. Almost every one of the school subjects would fall into this domain. Be it — Mathematics, Computing, Neuro-Sciences, Psychology, Physics, Economics, Sociology, Philosophy, Languages and some others. It is, therefore, mandated by CBSE that all its schools would begin to integrate AI with other disciplines from classes 1 -12.
+AI integrated learning would help to develop Key Competencies for Lifelong Learning, some of which are:
+◆ Acquiring the subject knowledge using AI as a tool
+◆ Learning problem-solving
+◆ Innovativeness and taking initiative
+◆ Application across key disciplines
+◆ Developing interaction and Learning
+◆ Assuming social responsibilities and applications
+◆ Learning Vocational ethics
+◆ Applying Communication skills.
+The future of higher education is intrinsically linked with developments on new technologies and computing capacities of the new intelligent machines. In this field, advances in artificial intelligence open to new possibilities and challenges for teaching and learning in higher education, with the potential to fundamentally change governance and the internal architecture of institutions of higher education.
+India to lead in AI
+Home to one-sixth of the world’s population, India is bound to play a leading role in determining the global success of the Sustainable Development Goals (SDGs). By 2030, India will have the largest number of young people in the globe, a population size which will be a boon only if these young people are skilled enough to join the workforce.
+Recently, Niti Aayog published a paper “Indian Education Sector is ripe for disruption by Artificial Intelligence” authored by Abhijay Arora which said that the recently launched SDG Index 2019-2020 by Niti Aayog assigned a composite score of 58 to India under the SDG on Quality Education, with only 12 states and UTs having a score of more than 64.
+The current government expenditure on education is less than 3 per cent of the GDP and the pupil-teacher ratio for elementary school stands at 24:1, lower than that of comparable countries such as Brazil and China.
+Further, with the rapidly increasing population and dwindling resources, it would not be possible to match the demand for teachers.
+There is a need for a bottom up approach — the SDGs will have to be localized at the grass root level. As we enter the last decade to achieve the targets set by the UN, there is a need to propel the progress towards these goals and a key step to achieve the same would be monitoring their indicators on a real time basis. The ‘Transformation of Aspirational Districts’ programme has shown how monitoring and tracking the targets to rank the districts can promote healthy competition among the districts, encouraging each of them to achieve the set mandates. The momentum needed to accelerate the progress towards these goals will be provided by Artificial Intelligence (AI) that will be a gamechanger in converting these aspirations into achievements.
+The unprecedented availability of data points in the second-most populous country of the world coupled with access to heavy computational power could potentially make India one of the strongest beneficiaries of the AI wave. Once initiated and operationalized, the AI-powered systems are only going to get better as they learn more and more data is available.
+One of the targets under the agenda of Quality Education says that by 2030, our nation must substantially increase the supply of qualified teachers. While it may not be possible to fill the large demand-supply gap that exists, it is possible that the teachers be made more efficient.
+What AI can do?
+Real-time text to speech and text translation systems can be used to disseminate information seamlessly in the regional language, in line with the Draft National Education Policy 2019 that has encouraged learning of mother-tongue languages. These translation systems can be integrated with DISKHA, Digital Infrastructure for Knowledge Sharing, the digital infrastructure that has been set up by MHRD or with e-PATHSHALA, (initiatives under the Sarva Shiksha Abhiyaan). For example, if a textbook on E-PATHSHALA is available only in Hindi, text translation services can make it available in other regional languages and make it more accessible. Because of these language translation systems, the language barrier could be removed and the inter-operability of teachers across states can be achieved, helping meet the demand better than previously.
+Biometric authentication
+Mundane and support tasks of the teacher — attendance and other administrative tasks-can be taken over by AI. For example, biometric authentication for the students can be introduced and integrated with UDISE+ (Unified District Information System for Education) — an application that is one of the largest Management Information Systems on School Education. The biometric attendance records could also be used as a proxy for inclusiveness of the education in the district, state and block and can be easily tracked, helping monitor the national indicators such as participation rate of youth and adults and proportion of male-female enrolled in higher education, technical and vocational education. This can help monitor the quality of education in the school.
+Chatbots & Grading
+In a country as diverse as India, integration of chatbots in the digital infrastructure or availability via IVRS system education domain could be transformational — they could be trained on subject matter and a good percentage of doubts of the students could be answered instantly, thereby reducing current workload of teachers who could focus on more creative tasks. Mobile penetration would not be a hindrance here as it is being driven by rural India, the number of internet users in Rural India is expected to reach 290 million by the end of 2019.
+With Draft National Education Policy prioritizing online learning in its agenda, machine learning methods such as Natural Language Processing could be used for automated grading of assessments on a large scale on platforms such as DIKSHA, E-PATHSHALA and SWAYAM (Study Webs of Active Learning for Young Aspiring Minds) — not just objective questions but subjective ones as well. Automated creation of content is another field where AI can intervene — given large sources of information on the internet, NLP techniques will be able to use Automatic Text Summarization to create crisp content and publish them on these e-learning websites.
+The standard unified curriculum created by ML-based methods will be in line with the nationally defined learning outcomes (MHRD has designed a 70 indicators-based matrix called Performance Grading Index (PGI) to grade the states and UTs) and will objectively help evaluate indicators on the percentage of students achieving at least a minimum proficiency level.
+Personalized e-learning
+When such content is in place on these e-learning platforms, personalized feedback and recommendations at a large scale could be possible: Currently, it is not possible to provide individual attention to every student. However, when content is created and graded by AI, it would ensure personalized avenues of learning for the children by identifying pain points for the students and providing recommendations accordingly. Essentially, educational infrastructure powered by AI would give each student of India a personalized tutor.
+In an age where technology is shrinking the world, it is also making quality education more accessible to a larger population in the form of smart content. With advanced applications of AI, educators are setting content as per the local needs of the students in different parts of the country. They often offer education through virtual content like video conferencing, lectures, etc. Now even the textbooks would be transformed as AI systems are now being used to create digital textbooks for specific topics and subjects. This is helping engage students of all academic grades and ages.
+Reduced drop-outs
+When AI systems provide personalized feedback, we can curb the all India drop-out rates that stand at 4 per cent at the primary level but rise to 20 per cent in higher education. As these personalized tutors continue to collect data points at each juncture in the child’s education journey, classification ML models could be used to predict the children at risk of dropping out and proper redressal mechanisms can be put in place. A culmination of these activities would help a higher education enrolment ratio and make sure a substantial proportion of adults achieve literacy, mandates in line with targets under this SDG.
+AI for inclusiveness
+Targets revolving around elimination of gender disparities in education and inclusion of persons with disabilities can be influenced positively with the use of AI — not only are Apple’s Siri and Amazon’ Alexa becoming pronounced among the urban section of the society, allowing the visually impaired users to be more participative, but near real-time text to speech systems are allowing the mute to have active information exchange.
+To support Inclusive Education for Children with Special Needs (CWSN) Children under the Samagra Shiksha program of MHRD, children affected with autism, Parkinson’s disease or any other disease that results in a speech disorder could benefit by integration of machine learning models in the e-learning websites that detect speech patterns, augment the speech by correcting mispronunciations or broken words and then output the same in an audio or a text format. Additionally, in today’s system, certain educational institutions may have inherent implicit biases, knowingly or otherwise, such as selecting more students of one gender or having policies inhibiting equal opportunities for certain indigenous groups.
+The digital learning and AI learning algorithms can be set up to aid and monitor enrolment and be explicitly programmed to get rid of such biases. For example, selection criteria for jobs can involve a screening by such AI systems to ensure the process is just, a system that will become a precursor to inclusive education. Building on the neurosciences of learning, which shows that parts of the brain can be ‘wired’ or ‘trained’ in intellectual as well as emotional intelligence, the whole-brain approach to learning and harnesses the power of digital technologies to enable innovative pedagogies.
+Dr Anantha Duraiappah, Director, UNESCO, Mahatma Gandhi Institute of Education for Peace and Sustainable Development (MGIEP) sums up “It is imperative for education systems to go beyond merely applying AI to reinforce existing teaching methodologies. We should explore transformative pedagogical approaches that apply the technology to build cognitive and emotional intelligence of learners”.
+
+letters@tehelka.com
+
+
+
+
+TAGSAIArtificial IntelligenceAtal Innovation MissionCBSENASSCOMNiti Aayogschools 
+Previous articleCoronavirus heavily impacts tourismNext articleCoronavirus: All offices in Mumbai, Pune, Nagpur shut till March 31, essential services open Bharat Hiteshi  
+",,,,,,,,

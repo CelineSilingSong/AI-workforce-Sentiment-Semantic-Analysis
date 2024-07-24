@@ -1,0 +1,833 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,@context,@type,mainEntityOfPage,headline,datePublished,dateModified,image,author,publisher,article:section,article:summary,article text,name,url,logo,sameAs,potentialAction,@graph,@id,contactPoint,address,telephone,itemListElement,alternativeHeadline,articleBody,articleSection,dateCreated,genre,inLanguage,isAccessibleForFree,locationCreated,publishingPrinciples,caption,copyrightYear,sourceOrganization,copyrightHolder,thumbnailUrl,isPartOf
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdmVudHVyZWJlYXQuY29tL2FpL3doYXQtaXMtZ2VuZXJhdGl2ZS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS_SAQA?oc=5,What is generative artificial intelligence (AI)? - VentureBeat,2022-06-17,VentureBeat,https://venturebeat.com,"Generative AIs are frequently found in various content creation roles. They’re used by movie makers to either fill narrative gaps or, sometimes, carry much of the storyline. Some news organizations generate short snippets or even entire stories about events, especially highly structured sports or financial reports.",N/A,"Generative AIs are frequently found in various content creation roles. They’re used by movie makers to either fill narrative gaps or, sometimes, carry much of the storyline. Some news organizations generate short snippets or even entire stories about events, especially highly structured sports or financial reports.",N/A,http://schema.org,NewsArticle,https://venturebeat.com/ai/what-is-generative-artificial-intelligence-ai/,What is generative artificial intelligence (AI)?,2022-06-17T13:20:00+00:00,2022-08-16T19:25:22+00:00,"{'@type': 'ImageObject', 'url': 'https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1249853438.jpg', 'width': 1024, 'height': 717}","{'@type': 'Person', 'name': 'Peter Wayner'}","{'@type': 'Organization', 'logo': {'@type': 'ImageObject', 'url': 'https://vbstatic.co/brand/img/logos/VB_Extended_Logo_60H.png', 'width': 416, 'height': 60}, 'name': 'VentureBeat'}",N/A,N/A,"
+
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+
+
+Table of contentsWhat are the dangers of generative AIs?Can the results of generative AIs be distinguished from real images?What are generative architectures? What are the political challenges of generative AI? Are computer game companies using generative AI? How are market leaders using Generative AI? What about generative AI startups? Is there anything generative AI can’t do? 
+Many artificial intelligence (AI) algorithms are used to classify, organize or reason about data. Generative algorithms create data using models of the world to synthesize images, sounds and videos that often look increasingly realistic. The algorithms begin with models of what a world must be like and then they create a simulated world that fits the model. 
+Generative AIs are frequently found in various content creation roles. They’re used by movie makers to either fill narrative gaps or, sometimes, carry much of the storyline. Some news organizations generate short snippets or even entire stories about events, especially highly structured sports or financial reports. 
+1/7Synergy in Synthesis: Forging the Future of AI with Cross-Functional ExpertiseRead More
+
+
+
+45.7K
+
+
+
+227
+
+
+
+
+
+Video Player is loading.Play VideoUnmuteDuration 0:00/Current Time 0:00Playback Speed Settings1xLoaded: 0%0:00
+
+Remaining Time -0:00 FullscreenPlayRewind 10 SecondsUp NextThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.SharePlayback Speed0.25x0.5x1x Normal1.5x2xReplay the list
+
+TOP ARTICLES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by AnyClip Privacy PolicyKeyboard Shortcuts
+
+
+
+Synergy in Synthesis: Forging the Future of AI with Cross-Functional Expertise
+
+
+
+Not all generative algorithms produce content. Some algorithms are deployed in user interfaces to enhance the screen or user interfaces. Others help the blind by generating audio descriptions. In  many applications, the techniques assist rather than take center stage. 
+The algorithms are now common enough that developers make artistic decisions about their goals. Some aim for the most realistic output and judge it by how indistinguishable the people or animals may be from photographic footage of actual creatures. Others think like artists or animators and want to produce a more stylized product that is obviously not real but more like a cartoon. 
+What are the dangers of generative AIs?
+Some generative AI algorithms are good enough to deceive. These results, sometimes called “deep fakes,” may be used to masquerade as another person and commit all manners of fraud in their name. Some may try to imitate a person and withdraw money from a bank. Others may try to place words in another person’s mouth to frame them for a crime like libel, slander or more.
+One particularly salacious approach involves generating pornography that seems to include another person. These results may be used for blackmail, coercion, extortion or revenge. 
+Also read: ‘Sentient’ artificial intelligence: Have we reached peak AI hype?
+Can the results of generative AIs be distinguished from real images?
+The results of modern algorithms are often very realistic but a trained eye can usually spot small differences. This is harder with some of the best algorithms that are often found in the best computer graphics for Hollywood movies with large budgets. 
+The differences are often visible because the generated images are too perfect. The skin tone may follow a steady gradient. The hairs may all bend and wave in the same amounts with the same periods. The colors may be too consistent. 
+One research project at MIT suggested looking at these areas for inconsistencies that could indicate the work of a generative AI:
+Cheeks and foreheads: The wrinkles in these areas are often nonexistent. If there are wrinkles that are added, they don’t move in a realistic way. Shadows: In the areas around the eyes, the nose and an open mouth, the shadows are often poorly formed. They may not follow the lighting of the scene as the head changes position. Glasses: The position and angle of any lighting glare on the lenses should shift correctly as the head moves relative to the lights. Beards and mustaches: Do these move with the face? Are they all similar in shading and coloring, something that is rare in real life?Blinking: Do the eyes blink? Do they blink too often? Or not enough? Lips: Do they always move in the same way for all phonemes? Is the size and shape consistent with the rest of the face? Deep fake algorithms try to generate new positions of the lips for each word that is spoken and this leaves many opportunities for detection. If the process is too regular and repetitive, the lip movements may be generated by an algorithm. 
+The research project at MIT also offers a chance for readers to explore various deep fakes and attempt to detect them. 
+What are generative architectures? 
+The area of creating realistic images, sounds and storylines is new and the focus of much active research. The approaches are varied and far from fixed. Scientists are still discovering new architectures and strategies today. 
+One common approach is called Generative Adversarial Networks (GAN) because it depends on at least two different AI algorithms competing against each other and then converging upon a result. 
+One algorithm, often a neural network, is responsible for creating a draft of a solution. It’s called the “generative network.” A second algorithm, also usually a neural network, evaluates the quality of the solution by comparing it to other realistic answers. This is often called the “discriminator network.” Sometimes there can be multiple versions of either the generator or discriminator. 
+The entire process repeats a number of times and each side of the algorithm helps train the other. The generator learns which results are more acceptable. The discriminator learns which parts of the results are most likely to indicate realism. 
+Another solution, sometimes called Transformers, avoids the adversarial approach. A single network is trained to produce the most realistic solutions. Microsoft has one, known as GPT-n for General, Pre-trained Network, that’s been trained over the years using large blocks of text gathered from Wikipedia and the general internet. The latest version, GPT-3, is closed source and licensed directly for many tasks including generative AI. It’s said to have more than 175 billion parameters. Several other similar models include Google’s  LaMDA (Language Model for Dialogue Applications) and China’s Wu Dao 2.0. 
+A third variety is sometimes called a “Variational Auto-Encoder.” These solutions depend upon compression algorithms that are designed to shrink data files using some of the patterns and structures within. These algorithms work in reverse, using random values to drive the creation. 
+What are the political challenges of generative AI? 
+Storytelling and fiction are old traditions that are well understood and usually harmless. Generating fake images, videos or audio recordings for political advantage is also an old tradition, but it is far from harmless. 
+The greatest danger is that generative AI will be used to create fake news stories to influence the political decisions of leaders and citizens. Stories of atrocities, crimes and other forms of misbehavior are easy to concoct. When the AI is able to generate fake evidence, it becomes difficult or even impossible for people to make informed decisions. Truth becomes impossible to ascertain. 
+For this reason, many believe that truly successful Generative AIs pose a very grave danger to the philosophical foundation of our political and personal lives. 
+Also read: Report: 5 key trends for AI’s future
+Are computer game companies using generative AI? 
+Many of the leaders in creating simulated visual scenes and audio are computer game companies. The companies that specialize in computer graphics have spent the last few decades creating more elaborate versions of reality that are increasingly realistic. There are dozens of good examples of computer games that allow the game player to imagine being in another realm.
+The generative AI scientists often borrow many of the ideas and techniques from computer graphics and games. Still, many draw a distinction between generative AI and the world of computer gaming. 
+One reason why the game companies are usually not mentioned is because they’ve relied heavily on human artists to create much of what we see on the screen. While they’ve been leaders in creating extensive graphics algorithms for rendering the scenes, most of the details were ultimately directed by humans. 
+Generative AI algorithms seek to take over this role from the artists. The AI is responsible for structuring the scenes, choosing the elements and then arranging them inside it. While the rules inside the model may be crafted, in part, by some human, the goal is to make the algorithm the ultimate director or creator. 
+How are market leaders using Generative AI? 
+Amazon’s Web Services offers Polly, a tool for turning text into speech. The service offers three different tiers of service. The basic version uses tried and tested algorithms. The middle tier uses what it calls Neural Text-to-Speech (NTTS) for an approach using neural networks that’s been tuned to deliver a neutral voice that’s common in news narration. The third version allows companies to create their own personalized voice for their brand so the speaking sound will be associated only with their products. 
+Microsoft’s Github offers a service called CodeAssist that helps programmers by suggesting snippets of software that might help fill a gap. It’s been trained on more than a billion lines of code from public, open source git repositories. It can turn a short phrase or comment like “fetch tweets” into a full function by searching through its knowledge. The system, while much more intelligent than simple code completion, is still intended to just be an assistant for a human. The marketing literature calls it a co-pilot but “you’re the pilot.” 
+Amazon also offers DeepComposer, an AI that can turn a short melody into a complete song. The system comes with pre-trained models that are designed to fit many of the common genres of music. The system is also meant to be an assistant for a human who first creates some simple musical segments and then guides the composition by adjusting some of the parameters for the machine learning algorithm. 
+IBM uses some of its generative models to help with drug design. That is, they’re exploring how to train their AIs to imagine new molecules that may have the right shape to work as drugs. In particular, they’re looking for antimicrobial peptides that can target specific diseases. The marketing literature announces, “In just the field of drug discovery, it’s believed that there are some 1063 possible drug-like molecules in the universe. Trial and error can’t possibly get us through all those combinations.”
+Many of the game companies are, by their very nature, experts at creating artificial worlds and building stories around them. Companies like Nintendo, Rockstar, Valve, Activision, Electronic Arts and Ubisoft are just a few of the major names. They are rarely discussed in the context of generative AI even though they’ve been creating and deploying many similar algorithms. Indeed, their expertise often goes back decades and originated before people used the term AI to describe their work. 
+What about generative AI startups? 
+Many of the startups and established companies that work with generative AI algorithms are in the gaming industry. Indeed, many of the video game companies have been actively pursuing creating the most realistic representations from the beginning. It’s fair to say that many, if not most, video game companies are involved in some form of Generative AI. 
+Some, though, standout for their focus on using AI techniques. Respeacher is building voice cloning technology for the advertising, entertainment and video game businesses. Their machine learning technology begins with a sample voice and then learns all of the parameters so that new dialog can be rendered in this voice. 
+Rephrase.ai, Synthesia, offers a full text-to-video solution that is used in the advertising industry to create customized or even personalized sales pitches. Their tools begin with models that learn how a person’s face moves for each phoneme and then use this to create synthetic video from the models. They also maintain a collection of stock models, some generated from celebrities who license their image.
+D-ID tries to apply all of the lessons from creating deep fake in reverse. It will take a real video of a human and then remove many of the recognizable attributes like the position of the eyes or the shape of the nose. The idea is to offer some anonymization while retaining the essential message of the video. 
+Rosebud.ai offers a full collection of synthetic algorithms that begin with a simple text description and then build models of humans or worlds that match the request. Their tools are used by people to explore creative ideas and then see them rendered. They ship versions as apps for iOS and Android. They are also bundling some creations as non-fungible tokens (NFTs) that can be resold on various cryptocurrency marketplaces.  
+Is there anything generative AI can’t do? 
+The capability of a generative AI is largely in the eyes or ears or the beholders. Do the results feel real enough to serve a purpose? If it’s meant to be realistic, does it appear indistinguishable from a photograph? If it’s meant to be artistic or stylized, does it reach those artistic goals? 
+The world of deep fakes is already delivering on the goal of distorting and replacing reality for people. Many are worried that some of these will destroy our ability to trust images or sound recordings because skilled purveyors will be able to create any version of the past that they would like. 
+The implications for politics and the justice system are serious and many believe that it’s essential for counterfeit detection algorithms must also be available to battle this scourge. For now, many of the algorithms that can detect anomalies from the synthesis process are good enough to detect the deep fakes from well-known algorithms. 
+The future, though, of detection could evolve into a cat-and-mouse game. The deep fake creators search for better algorithms that can evade detectors while the detection teams work to look for more telltale patterns that can flag synthetic results. 
+Already the different techniques described above for detecting deep fakes are being turned into automated tools. While the deep fakes may fool some people initially, a concerted effort seems likely to be able to detect the fakes with enough accuracy, time and precision. Read more:Doubling down on AI: Pursue one clear path and beware two critical risks
+Table of contentsWhat are the dangers of generative AIs?Can the results of generative AIs be distinguished from real images?What are generative architectures? What are the political challenges of generative AI? Are computer game companies using generative AI? How are market leaders using Generative AI? What about generative AI startups? Is there anything generative AI can’t do? 
+Table of contentsWhat are the dangers of generative AIs?Can the results of generative AIs be distinguished from real images?What are generative architectures? What are the political challenges of generative AI? Are computer game companies using generative AI? How are market leaders using Generative AI? What about generative AI startups? Is there anything generative AI can’t do? 
+Table of contentsWhat are the dangers of generative AIs?Can the results of generative AIs be distinguished from real images?What are generative architectures? What are the political challenges of generative AI? Are computer game companies using generative AI? How are market leaders using Generative AI? What about generative AI startups? Is there anything generative AI can’t do? 
+
+
+
+VB Daily
+Stay in the know! Get the latest news in your inbox daily
+
+
+
+
+ Subscribe
+
+By subscribing, you agree to VentureBeat's Terms of Service.
+
+					Thanks for subscribing. Check out more VB newsletters here.
+				
+An error occured.
+
+
+ 
+
+
+Find Your Place In The World BY Amply
+
+
+
+
+
+ 
+Entry Level Mortgage Specialist with Sign-On Bonus
+United Wholesale Mortgage
+Pontiac
+See Job
+
+
+
+
+
+ 
+Expert Network Engineer
+Nestlé IT
+Phoenix
+$100,000 - $153,000 a year
+See Job
+
+
+
+
+
+ 
+Staff Platform Engineer- iOS
+PayPal
+Scottsdale
+$84,500 - $204,600 a year
+See Job
+
+
+
+
+
+ 
+Communications Engineer (Joint and Services Center)
+The MITRE Corporation
+Lexington Park
+See Job
+
+
+
+
+            Search More Roles
+          
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmF6b3JvYm90aWNzLmNvbS9OZXdzLmFzcHg_bmV3c0lEPTEzMDQ40gEA?oc=5,Artificial Intelligence Shines a Light on How Autistic Brains Work - AZoRobotics,2022-06-20,AZoRobotics,https://www.azorobotics.com,"Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",N/A,"Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.","Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",http://schema.org,WebSite,,,,,,,,Robotics News,N/A,1IDS: Intelligent Robotic Vision System Destacks Up to 800 Objects Per Hour,AZoRobotics,https://www.azorobotics.com/,https://www.azorobotics.com/themes/Standard/images/full_site_logo.png,"['https://www.facebook.com/AZoNetwork', 'https://twitter.com/AZoRobotics']","{'@type': 'SearchAction', 'target': 'https://www.azorobotics.com/search.aspx?q={search_term_string}', 'query-input': 'required name=search_term_string'}",,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL3RlY2gvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYXJ0aWNsZXMvd2hhdC1pcy1zZW1hbnRpYy1hbmFseXNpcy_SAVtodHRwczovL3d3dy5zcGljZXdvcmtzLmNvbS90ZWNoL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2FydGljbGVzL3doYXQtaXMtc2VtYW50aWMtYW5hbHlzaXMv?oc=5,"Semantic Features Analysis Definition, Examples, Applications - Spiceworks Inc - Spiceworks News and Insights",2022-06-16,Spiceworks News and Insights,https://www.spiceworks.com,Semantic analysis is the part of NLP that analyzes unstructured data to draw critical insights in real-time. Semantic analysis and its working are explained in detail here.,Semantic Analysis,Semantic analysis is the part of NLP that analyzes unstructured data to draw critical insights in real-time. Semantic analysis and its working are explained in detail here.,N/A,,,,,,,,,,N/A,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Vijay Kanade
+
+
+
+					AI Researcher				
+
+
+
+
+Last Updated: June 16, 2022
+
+
+
+
+ 
+
+
+
+
+
+Semantic analysis is defined as a process of understanding natural language (text) by extracting insightful information such as context, emotions, and sentiments from unstructured data. This article explains the fundamentals of semantic analysis, how it works, examples, and the top five semantic analysis applications in 2022.
+
+Table of Contents 
+
+What Is Semantic Analysis?
+How Does Semantic Analysis Work?
+Examples of Semantic Analysis
+Top 5 Applications of Semantic Analysis in 2022
+
+
+What Is Semantic Analysis?
+Semantic analysis refers to a process of understanding natural language (text) by extracting insightful information such as context, emotions, and sentiments from unstructured data. It gives computers and systems the ability to understand, interpret, and derive meanings from sentences, paragraphs, reports, registers, files, or any document of a similar kind.
+Semantic analysis analyzes the grammatical format of sentences, including the arrangement of words, phrases, and clauses, to determine relationships between independent terms in a specific context. This is a crucial task of natural language processing (NLP) systems. It is also a key component of several machine learning tools available today, such as search engines, chatbots, and text analysis software.
+The semantic analysis process begins by studying and analyzing the dictionary definitions and meanings of individual words also referred to as lexical semantics. Following this, the relationship between words in a sentence is examined to provide clear understanding of the context.
+When fueled by natural language processing and machine learning, systems of semantic analysis tend to achieve human-level accuracy. Several companies rely heavily on semantic analysis-driven tools that automatically draw valuable data from unstructured data such as emails, client reports, and customer reviews.
+Advantages of semantic analysis
+Semantic analysis tech is highly beneficial for the customer service department of any company. Moreover, it is also helpful to customers as the technology enhances the overall customer experience at different levels. Let’s understand these key advantages in greater detail.
+1. Gaining customer insights
+Semantic analysis helps in processing customer queries and understanding their meaning, thereby allowing an organization to understand the customer’s inclination. Moreover, analyzing customer reviews, feedback, or satisfaction surveys helps understand the overall customer experience by factoring in language tone, emotions, and even sentiments.
+2. Boosting company performance
+Automated semantic analysis allows customer service teams to focus on complex customer inquiries that require human intervention and understanding. Also, machines can analyze the messages received on social media platforms, chatbots, and emails. This improves the overall productivity of the employees as the tech frees them from mundane tasks and allows them to concentrate on critical inquiries or operations.
+3. Fine-tuning SEO strategy
+Semantic analysis helps fine-tune the search engine optimization (SEO) strategy by allowing companies to analyze and decode users’ searches. For example, understanding users’ Google searches. The approach helps deliver optimized and suitable content to the users, thereby boosting traffic and improving result relevance.
+See More: What Is Artificial Intelligence (AI) as a Service? Definition, Architecture, and Trends
+How Does Semantic Analysis Work?
+The semantic analysis method begins with a language-independent step of analyzing the set of words in the text to understand their meanings. This step is termed ‘lexical semantics‘ and refers to fetching the dictionary definition for the words in the text. Subsequently, words or elements are parsed. Each element is designated a grammatical role, and the whole structure is processed to cut down on any confusion caused by ambiguous words having multiple meanings.
+Upon parsing, the analysis then proceeds to the interpretation step, which is critical for artificial intelligence algorithms. For example, the word ‘Blackberry’ could refer to a fruit, a company, or its products, along with several other meanings. Moreover, context is equally important while processing the language, as it takes into account the environment of the sentence and then attributes the correct meaning to it.
+For example, ‘Blackberry is known for its sweet taste’ may directly refer to the fruit, but ‘I got a blackberry’ may refer to a fruit or a Blackberry product. As such, context is vital in semantic analysis and requires additional information to assign a correct meaning to the whole sentence or language.
+Technically, semantic analysis involves:
+
+Data processing.
+Defining features, parameters, and characteristics of processed data
+Data representation
+Defining grammar for data analysis
+Assessing semantic layers of processed data
+Performing semantic analysis based on the linguistic formalism
+
+How Does Semantic Analysis Work?
+Critical elements of semantic analysis
+The critical elements of semantic analysis are fundamental to processing the natural language:
+
+Hyponyms: This refers to a specific lexical entity having a relationship with a more generic verbal entity called hypernym. For example, red, blue, and green are all hyponyms of color, their hypernym.
+Meronomy: Refers to the arrangement of words and text that denote a minor component of something. For example, mango is a meronomy of a mango tree.
+Polysemy: It refers to a word having more than one meaning. However, it is represented under one entry. For example, the term ‘dish’ is a noun. In the sentence, ‘arrange the dishes on the shelf,’ the word dishes refers to a kind of plate.
+Synonyms: This refers to similar-meaning words. For example, abstract (noun) has a synonyms summary–synopsis.
+Antonyms: This refers to words with opposite meanings. For example, cold has the antonyms warm and hot.
+Homonyms: This refers to words with the same spelling and pronunciation, but reveal a different meaning altogether. For example, bark (tree) and bark (dog).
+
+Apart from these vital elements, the semantic analysis also uses semiotics and collocations to understand and interpret language. Semiotics refers to what the word means and also the meaning it evokes or communicates. For example, ‘tea’ refers to a hot beverage, while it also evokes refreshment, alertness, and many other associations. On the other hand, collocations are two or more words that often go together. For example, fast food, dark chocolate, etc.
+Machine learning algorithm-based automated semantic analysis
+One can train machines to make near-accurate predictions by providing text samples as input to semantically-enhanced ML algorithms. Such estimations are based on previous observations or data patterns. Machine learning-based semantic analysis involves sub-tasks such as relationship extraction and word sense disambiguation.
+Let’s understand each one in further detail:
+1. Word sense disambiguation
+In semantic analysis, word sense disambiguation refers to an automated process of determining the sense or meaning of the word in a given context. As natural language consists of words with several meanings (polysemic), the objective here is to recognize the correct meaning based on its use.
+For example, ‘Raspberry Pi’ can refer to a fruit, a single-board computer, or even a company (UK-based foundation). Hence, it is critical to identify which meaning suits the word depending on its usage.
+2. Relationship extraction
+Relationship extraction is a procedure used to determine the semantic relationship between words in a text. In semantic analysis, relationships include various entities, such as an individual’s name, place, company, designation, etc. Moreover, semantic categories such as, ‘is the chairman of,’ ‘main branch located a’’, ‘stays at,’ and others connect the above entities.
+Let’s consider a phrase as an example. ‘Elon Musk is one of the co-founders of Tesla, which is based in Austin, Texas.’
+This phrase illustrates two different relationships.
+Elon Musk is the co-founder of Tesla
+[Person]                          [Company]
+Tesla is based in Austin, Texas
+[Company]                [Place]
+Semantic analysis techniques
+The semantic analysis uses two distinct techniques to obtain information from text or corpus of data. The first technique refers to text classification, while the second relates to text extractor.
+1. Semantic classification
+Semantic classification implies text classification wherein predefined categories are assigned to the text for faster task completion. Following are the various types of text classification covered under semantic analysis:
+
+Topic classification: This classifies text into preset categories on the basis of the content type. For example, customer support teams in a company may intend to classify the tickets raised by customers at the help desk into separate categories so that the concerned teams can address them. In this scenario, ML-based semantic analysis tools may recognize tickets based on their content and classify them under a ‘payment concern’ or ‘delayed delivery’ category.
+Sentiment analysis: Today, sentiment analysis is used by several social media platforms such as Twitter, Facebook, Instagram, and others to detect positive, negative, or neutral emotions hidden in text (posts, stories). These sentiments, in a way, denote urgency and may raise ‘call to action’ alarms for respective platforms. Sentiment analysis helps brands identify dissatisfied customers or users in real-time and gets a hint on what customers feel about the brand as a whole.
+Intent classification: Intent classification refers to the classification of text based on customers’ intentions in the context of what they intend to do next. You can use it to tag customers as ‘interested’ or ‘not Interested’ to effectively reach out to those customers who may intend to buy a product or show an inclination toward buying it.
+
+2. Semantic extraction
+Semantic extraction refers to extracting or pulling out specific data from the text. Extraction types include:
+
+Keyword extraction: This technique helps identify relevant terms and expressions in the text and gives deep insights when combined with the above classification techniques.
+For example, one can analyze keywords in multiple tweets that have been labeled as positive or negative and then detect or extract words from those tweets that have been mentioned the maximum number of times. One can later use the extracted terms for automatic tweet classification based on the word type used in the tweets.
+
+
+Entity extraction: As discussed in the earlier example, this technique is used to identify and extract entities in text, such as names of individuals, organizations, places, and others. This method is typically helpful for customer support teams who intend to extract relevant information from customer support tickets automatically, including customer name, phone number, query category, shipping details, etc.
+
+Semantic analysis techniques and tools allow automated text classification or tickets, freeing the concerned staff from mundane and repetitive tasks. In the larger context, this enables agents to focus on the prioritization of urgent matters and deal with them on an immediate basis. It also shortens response time considerably, which keeps customers satisfied and happy.
+Moreover, granular insights derived from the text allow teams to identify the areas with loopholes and work on their improvement on priority. By using semantic analysis tools, concerned business stakeholders can improve decision-making and customer experience.
+For example, semantic analysis can generate a repository of the most common customer inquiries and then decide how to address or respond to them. It leads to high customer satisfaction levels.
+See More: Top 10 AI Companies in 2022
+Examples of Semantic Analysis
+Semantic analysis plays a vital role in the automated handling of customer grievances, managing customer support tickets, and dealing with chats and direct messages via chatbots or call bots, among other tasks.
+Let’s take a look at some of the known examples of semantic analysis:
+Uber’s social listening
+Uber uses semantic analysis to analyze users’ satisfaction or dissatisfaction levels via social listening. This implies that whenever Uber releases an update or introduces new features via a new app version, the mobility service provider keeps track of social networks to understand user reviews and feelings on the latest app release.
+Thus, as and when a new change is introduced on the Uber app, the semantic analysis algorithms start listening to social network feeds to understand whether users are happy about the update or if it needs further refinement.
+2. Google’s semantic algorithm – Hummingbird
+Google incorporated ‘semantic analysis’ into its framework by developing its tool to understand and improve user searches. The Hummingbird algorithm was formed in 2013 and helps analyze user intentions as and when they use the google search engine. As a result of Hummingbird, results are shortlisted based on the ‘semantic’ relevance of the keywords. Moreover, it also plays a crucial role in offering SEO benefits to the company.
+3. Cdiscount’s semantic analysis of customer reviews
+Cdiscount, an online retailer of goods and services, uses semantic analysis to analyze and understand online customer reviews. When a user purchases an item on the ecommerce site, they can potentially give post-purchase feedback for their activity. This allows Cdiscount to focus on improving by studying consumer reviews and detecting their satisfaction or dissatisfaction with the company’s products.
+Cdiscount started using semantic analysis in 2019. It has immensely helped the company handle user queries associated with product deliveries and product returns.
+4. Uber’s customer support platform to improve maps
+Maps are essential to Uber’s cab services of destination search, routing, and prediction of the estimated arrival time (ETA). All these services perform well when the app renders high-quality maps. Along with services, it also improves the overall experience of the riders and drivers.
+All factors considered, Uber uses semantic analysis to analyze and address customer support tickets submitted by riders on the Uber platform. The analysis can segregate tickets based on their content, such as map data-related issues, and deliver them to the respective teams to handle. The platform allows Uber to streamline and optimize the map data triggering the ticket.
+5. IBM’s Watson conversation service
+IBM’s Watson provides a conversation service that uses semantic analysis (natural language understanding) and deep learning to derive meaning from unstructured data. It analyzes text to reveal the type of sentiment, emotion, data category, and the relation between words based on the semantic role of the keywords used in the text. According to IBM, semantic analysis has saved 50% of the company’s time on the information gathering process.
+See More: What Is Narrow Artificial Intelligence (AI)? Definition, Challenges, and Best Practices for 2022
+Top 5 Applications of Semantic Analysis in 2022
+According to a 2020 survey by Seagate technology, around 68% of the unstructured and text data that flows into the top 1,500 global companies (surveyed) goes unattended and unused. With growing NLP and NLU solutions across industries, deriving insights from such unleveraged data will only add value to the enterprises.
+Semantic analysis methods will provide companies the ability to understand the meaning of the text and achieve comprehension and communication levels that are at par with humans.
+These are the top five applications of semantic analysis in 2022:
+1. Conversational chatbots
+Chatbots are playing an essential role for most organizations. These chatbots act as semantic analysis tools that are enabled with keyword recognition and conversational capabilities. These tools help resolve customer problems in minimal time, thereby increasing customer satisfaction.
+Chatbots help customers immensely as they facilitate shipping, answer queries, and also offer personalized guidance and input on how to proceed further. Moreover, some chatbots are equipped with emotional intelligence that recognizes the tone of the language and hidden sentiments, framing emotionally-relevant responses to them.
+All in all, semantic analysis enables chatbots to focus on user needs and address their queries in lesser time and lower cost.
+2. Automated ticketing support
+As discussed earlier, semantic analysis is a vital component of any automated ticketing support. It understands the text within each ticket, filters it based on the context, and directs the tickets to the right person or department (IT help desk, legal or sales department, etc.).
+Customers benefit from such a support system as they receive timely and accurate responses on the issues raised by them. Moreover, the system can prioritize or flag urgent requests and route them to the respective customer service teams for immediate action with semantic analysis.
+3. Sentiment analysis
+Several companies are using the sentiment analysis functionality to understand the voice of their customers, extract sentiments and emotions from text, and, in turn, derive actionable data from them. It helps capture the tone of customers when they post reviews and opinions on social media posts or company websites.
+With sentiment analysis, companies can gauge user intent, evaluate their experience, and accordingly plan on how to address their problems and execute advertising or marketing campaigns. In short, sentiment analysis can streamline and boost successful business strategies for enterprises.
+4. Search engine results
+Search engines use semantic analysis to understand better and analyze user intent as they search for information on the web. Moreover, with the ability to capture the context of user searches, the engine can provide accurate and relevant results.
+A ‘search autocomplete‘ functionality is one such type that predicts what a user intends to search based on previously searched queries. It saves a lot of time for the users as they can simply click on one of the search queries provided by the engine and get the desired result.
+Also, ‘smart search‘ is another functionality that one can integrate with ecommerce search tools. The tool analyzes every user interaction with the ecommerce site to determine their intentions and thereby offers results inclined to those intentions.
+5. Language translation
+Today, semantic analysis methods are extensively used by language translators. Earlier, tools such as Google translate were suitable for word-to-word translations. However, with the advancement of natural language processing and deep learning, translator tools can determine a user’s intent and the meaning of input words, sentences, and context. All these parameters play a crucial role in accurate language translation.
+See More: What Is Linear Regression? Types, Equation, Examples, and Best Practices for 2022
+Takeaway
+As we enter the era of ‘data explosion,’ it is vital for organizations to optimize this excess yet valuable data and derive valuable insights to drive their business goals. Semantic analysis allows organizations to interpret the meaning of the text and extract critical information from unstructured data. Semantic-enhanced machine learning tools are vital natural language processing components that boost decision-making and improve the overall customer experience.
+Did this article help you understand the fundamentals of semantic analysis? Comment below or let us know on LinkedInOpens a new window , TwitterOpens a new window , or FacebookOpens a new window . We’d love to hear from you!
+MORE ON ARTIFICIAL INTELLIGENCE
+
+Top 10 Machine Learning Algorithms in 2022
+Top 10 Python Machine Learning Libraries in 2022
+Narrow AI vs. General AI vs. Super AI: Key Comparisons
+What Is Logistic Regression? Equation, Assumptions, Types, and Best Practices
+What Is a Decision Tree? Algorithms, Template, Examples, and Best Practices
+
+
+
+
+
+
+
+
+
+
+
+
+								                  Data Visualization										
+
+
+
+Share This Article:
+ 
+
+
+
+
+
+
+Vijay Kanade
+
+				                  AI Researcher	                          
+
+
+ opens a new window 
+
+
+
+ opens a new window
+  	
+					Vijay A. Kanade is a computer science graduate with 7+ years of corporate experience in Intellectual Property Research. He is an academician with research interest in multiple research domains. His research work spans from Computer Science, AI, Bio-inspired Algorithms to Neuroscience, Biophysics, Biology, Biochemistry, Theoretical Physics, Electronics, Telecommunication, Bioacoustics, Wireless Technology, Biomedicine, etc. He has published about 30+ research papers in Springer, ACM, IEEE & many other Scopus indexed International Journals & Conferences. Through his research work, he has represented India at top Universities like Massachusetts Institute of Technology (Cambridge, USA), University of California (Santa Barbara, California), National University of Singapore (Singapore), Cambridge University (Cambridge, UK). In addition to this, he is currently serving as an 'IEEE Reviewer' for the IEEE Internet of Things (IoT) Journal.			
+
+
+
+
+
+
+
+
+								Do you still have questions? Head over to the Spiceworks Community to find answers.
+							
+
+Take me to Community
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiiAFodHRwczovL2VuLm1lcmNvcHJlc3MuY29tLzIwMjIvMDYvMTYvc2F0ZWxsaXRlLWltYWdlcy1hbmQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utc3lzdGVtcy1mYWNpbGl0YXRlLXdoYWxlcy1jZW5zdXMtYW5kLWNvbnNlcnZhdGlvbi13b3Jr0gEA?oc=5,Satellite images and artificial intelligence systems facilitate whales census and conservation work - MercoPress,2022-06-16,MercoPress,https://en.mercopress.com,A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work.,,A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work.,A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work.,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9uZXh0LzIwMjIvMDYvMjAvaG93LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWlzLXJldm9sdXRpb25pc2luZy1oZWFsdGhjYXJl0gEA?oc=5,How Artificial Intelligence is revolutionising healthcare - Euronews,2022-06-20,Euronews,https://www.euronews.com,Artificial Intelligence may never be able to adopt the comforting ‘bedside manner’ that good doctors are known for – but it may be better equipped to accurately diagnose your ailments.,"Disease Prevention,Health,Diabetes,eye diseases,Artificial intelligence,healthcare",Artificial Intelligence may never be able to adopt the comforting ‘bedside manner’ that good doctors are known for – but it may be better equipped to accurately diagnose your ailments.,Artificial Intelligence may never be able to adopt the comforting ‘bedside manner’ that good doctors are known for – but it may be better equipped to accurately diagnose your ailments.,https://schema.org/,,,,,,,,,N/A,N/A,"
+                Now playing
+                
+              Next
+          
+                          Partner content
+                        
+                                                    
+                              Flying cars… “It's like taking an elevator”
+                          PARTNER CONTENT PRESENTED BY DEPARTMENT OF TOURISM AND COMMERCE MARKETING DUBAI",,,,,,"[{'@type': 'NewsArticle', 'mainEntityOfPage': {'@type': 'Webpage', 'url': 'https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare'}, 'headline': 'How Artificial Intelligence is revolutionising healthcare', 'description': 'Artificial Intelligence may never be able to adopt the comforting ‘bedside manner’ that good doctors are known for – but it may be better equipped to accurately diagnose your ailments.', 'articleBody': 'Artificial Intelligence (AI) may never be able to adopt the comforting \'bedside manner\' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately. Machine Learning (ML) is a subdivision of AI. ML is the system of ""training"" computers by feeding them vast amounts of data and images and programming them to detect signs of potential danger, such as harmful cells shown in a scan. Already used extensively in the fields of pathology and oncology, ML diagnosis has been shown to have comparable levels of accuracy to that of experienced physicians. In some studies, ML has even been shown to surpass humans\' ability to diagnose diseases correctly. ""There are a lot of different uses of AI,"" says Ali Hashemi, chairman and co-founder of GluCare Integrated Diabetes Center in Dubai. ""The key is how to put it all together in a way that makes sense and [gives] actionable insights to both the care team and the physician. AI isn\'t the endpoint. It\'s a tool in your toolkit. What matters is how you use these tools to drive actionable insights for clinicians and patients."" Both common and dangerous, diabetes is a metabolic disease that causes high blood sugar. Untreated, sustained levels of high blood sugar from diabetes can damage the nervous system, eyes and organs, most typically the kidneys. Today, wearable AI devices like wireless-enabled wearable monitors such as the Fitbit are helping patients monitor their blood sugar levels. The FreeStyle Libre 2 Flash Glucose Monitoring System, currently being issued to diabetics by the National Health Service (NHS) in the UK, is one example of a continuous glucose monitoring (CGM) device that issues real-time alarms to the wearer when sugar levels are about to drop or spike. ""The range of biometrics or digital biomarkers that wearable [devices] are able to collect is ever-expanding,"" notes Hashemi. ""Those insights give me superhuman abilities as a clinician to have an amazing impact on my patients."" AI is also being used to help prevent blindness in people with diabetes. In his clinic, Hashemi uses an AI-powered ophthalmoscope to detect a condition called diabetic retinopathy. ""Diabetics, especially those who have been poorly controlled for quite a while, can end up with diabetic retinopathy, which is a degeneration of the retina, which can lead to blindness,"" explains Hashemi. ""The accuracy level or the precision of this device is pretty much as good as having an ophthalmologist do the screening. It has a sensitivity of about 96%."" Hashemi also points out that, besides aiding in accurate diagnosis and detection of diseases, AI is often far more cost-efficient than manual healthcare. Its development could therefore make medical treatment and care possible for more people, including those in developing countries, at a lower cost. Data governance remains one of the greatest challenges to integrating AI and healthcare. AI relies on personal medical data and, in most countries, access remains forbidden to third parties. However, the outbreak of Covid-19 and the consequent need to prevent it from spreading has helped shift opinion regarding health data governance. According to a Wellcome Trust foundation survey in the UK, only 17% of the public are now against sharing their medical information in the post-pandemic world. Hashemi welcomes the change, saying: ""AI makes everyone more efficient and enables us to actually leverage humans better – and this is the really important point."" For more, please visit the Destination Dubai hub on  Euronews.com ', 'dateCreated': '2022-06-17 08:37:53 +02:00', 'dateModified': '2023-05-22 14:27:06 +02:00', 'datePublished': '2022-06-20 12:02:43 +02:00', 'image': {'@type': 'ImageObject', 'url': 'https://static.euronews.com/articles/stories/06/77/95/72/1440x810_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg', 'width': '1440px', 'height': '810px', 'caption': 'AI technology is being used to prevent blindness. ', 'thumbnail': 'https://static.euronews.com/articles/stories/06/77/95/72/385x202_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg', 'publisher': {'@type': 'Organization', 'name': 'euronews', 'url': 'https://static.euronews.com/website/images/euronews-logo-main-blue-403x60.png'}}, 'author': {'@type': 'Person', 'name': 'Evan Bourke', 'url': 'bourke', 'sameAs': 'https://twitter.com/euronews'}, 'publisher': {'@type': 'Organization', 'name': 'Euronews', 'legalName': 'Euronews', 'url': 'https://www.euronews.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://static.euronews.com/website/images/euronews-logo-main-blue-403x60.png', 'width': '403px', 'height': '60px'}, 'sameAs': ['https://www.facebook.com/euronews', 'https://twitter.com/euronews', 'https://flipboard.com/@euronews', 'https://www.instagram.com/euronews.tv/', 'https://www.linkedin.com/company/euronews']}, 'speakable': {'@type': 'SpeakableSpecification', 'xPath': ['/html/head/title', ""/html/head/meta[@name='description']/@content""], 'url': 'https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare'}}, {'@type': 'WebSite', 'name': 'Euronews.com', 'url': 'https://www.euronews.com/', 'potentialAction': {'@type': 'SearchAction', 'target': 'https://www.euronews.com/search?query={search_term_string}', 'query-input': 'required name=search_term_string'}, 'sameAs': ['https://www.facebook.com/euronews', 'https://twitter.com/euronews', 'https://flipboard.com/@euronews', 'https://www.instagram.com/euronews.tv/', 'https://www.linkedin.com/company/euronews']}]",,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wNi8xNi8xMTA1NTUyNDM1L2dvb2dsZS1haS1zZW50aWVudNIBAA?oc=5,Google AI researcher explains why the technology may be 'sentient' - NPR,2022-06-16,NPR,https://www.npr.org,The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has  come to life tells NPR how he formed his opinion.,N/A,The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has  come to life tells NPR how he formed his opinion.,N/A,http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.npr.org/2022/06/16/1105552435/google-ai-sentient'}",The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul,2022-06-16T16:31:34-04:00,2022-06-16T16:31:34-04:00,"{'@type': 'ImageObject', 'url': 'https://media.npr.org/assets/img/2022/06/16/gettyimages-1241233010_custom-46b0fbd5d0ad1f89371d1df7a8abfb555cfe3a48.jpg'}","{'@type': 'Person', 'name': ['Bobby Allyn']}","{'@type': 'Organization', 'name': 'NPR', 'logo': {'@type': 'ImageObject', 'url': 'https://media.npr.org/chrome/npr-logo.jpg'}}",N/A,N/A,WAMU 88.5The Politics Hour with Kojo Nnamdi,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjbXAuY29tL3ByZXNlbnRlZC90ZWNoL3RvcGljcy9pbnNwaXJpbmctZGlnaXRhbC10YWxlbnRzLXRvbW9ycm93L2FydGljbGUvMzE4MjA1Mi9ob3ctYXJ0aWZpY2lhbNIBAA?oc=5,How artificial intelligence will redefine the future of work - South China Morning Post,2022-06-20,South China Morning Post,https://www.scmp.com,"Artificial intelligence (AI) is affecting daily life at virtually every level, with robots increasingly carrying out tasks once executed by humans.","South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport","As the relationship between humans and machines develops, advances in AI tech are transforming the workplace. In response, the CoolThink@JC programme has integrated AI concepts into its curriculum for children.",N/A,https://schema.org,ImageObject,https://www.scmp.com/presented/tech/topics/inspiring-digital-talents-tomorrow/article/3182052/how-artificial,How artificial intelligence will redefine the future of work,2022-06-20T10:00:16+08:00,2022-06-20T10:00:16+08:00,"{'@type': 'ImageObject', 'height': {'@type': 'QuantitativeValue', 'value': 2730}, 'url': 'https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/06/17/04040e09-e042-41d1-bef9-6fae4ec0a79c_b50b8554.jpg', 'width': {'@type': 'QuantitativeValue', 'value': 4095}}","{'@type': 'Person', 'name': 'Advertising partner', 'sameAs': 'https://www.scmp.com/author/advertising-partner'}","{'@type': 'NewsMediaOrganization', 'logo': {'@type': 'ImageObject', 'height': {'@type': 'QuantitativeValue', 'value': 512}, 'url': 'https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png', 'width': {'@type': 'QuantitativeValue', 'value': 512}}, 'name': 'South China Morning Post', 'noBylinesPolicy': 'https://www.scmp.com/policies-and-standards#no-byline-policy-explanation'}",Tech,N/A,"AdvertisementAdvertisementInspiring digital talents of tomorrow+ FOLLOWGet more with myNEWSA personalised news feed of stories that matter to youLearn more The CoolThink@JC co-curricular teaching units integrate AI into STEM activities, which gives students a chance to experience how AI works in physical STEM objects. Photo: HKJCTechHow artificial intelligence will redefine the future of work
+Advances in AI technology are transforming the workplace, as the relationship between humans and machines continues to develop
+The CoolThink@JC programme, created and funded by The Hong Kong Jockey Club Charities Trust, integrates AI concepts into its curriculum for children
+Paid Post:CoolThink@JCInspiring digital talents of tomorrow+ FOLLOWAdvertising partnerPublished: 10:00am, 20 Jun 2022Why you can trust SCMPListen to this article [Sponsored article]Artificial intelligence (AI) is affecting daily life at virtually every level, with robots increasingly carrying out tasks once executed by humans.Given that advances in AI will continue to redefine the way we shop, work and socialise, and that workplaces will allocate more resources to innovation and job automation, an AI-literate workforce will be necessary.Computational thinking can help develop AI literacyAI is a branch of computer science devoted to building smart machines capable of performing tasks that usually require human intelligence. It is playing an increasingly important role in society and redefining the future of work, as the relationship between human beings and machines continues to develop.Computational thinking requires learners to think like computer scientists, who demonstrate abilities such as logical thinking, problem-solving and abstraction, and disaggregate complex problems into smaller, solvable parts.These skills will be vital to succeed in a future driven by AI, so today’s students will need to develop a better understanding of these concepts in order to become AI literate. It is with this background that CoolThink@JC – an education programme created and funded by The Hong Kong Jockey Club Charities Trust – has integrated AI into its curriculum, which is open to all primary schools in Hong Kong.Students work on AI algorithmic problem-solving and utilise computational thinking methods, which can help students develop critical thinking skills, and also help them to avoid data bias, a common pitfall in AI where systems develop biases that stem from programming and data sources, and which can result in the under-representation of certain groups of people, genders or ethnicities.Preparing the AI thinkers of tomorrowAn increasing number of AI-related professions signals the impending rise of AI in the workplace.Saturday
+Inside China Tech NewsletterYour weekly round-up of the biggest trending tech stories from China.
+By submitting, you consent to receiving marketing emails from SCMP. If you don't want these, tick hereGET OUR NEWSLETTERBy registering, you agree to ourT&CandPrivacy PolicyProfessor Kong Siu-cheung, a member of the CoolThink@JC Steering Committee and Director of the Centre for Learning, Teaching and Technology at The Education University of Hong Kong, says: “AI is a tool to extend human intelligence. For the future of jobs, it is necessary for people from all walks of life to acquire some knowledge of AI, as it helps people to enhance the effectiveness of operations and to automate. Everyone should have an understanding of the concepts of how AI works, and how to use AI in their profession.”Professor Kong Siu-cheung, a member of the CoolThink@JC Steering Committee and Director of the Centre for Learning, Teaching and Technology at The Education University of Hong Kong, says the programme’s curriculum has integrated AI concepts to equip students with the skills necessary for the future workplace. Photo: EdUHKLessons are delivered by instructors based on a pedagogy that encourages students to play, to think, to code and to reflect. Students first try out AI-incorporated applications, and then deconstruct the process of building the applications into subtasks, before testing the partially built applications step by step through coding. Finally, students reflect on what they learned from the process in terms of computational thinking concepts, practices and perspectives. These lessons emphasise hands-on experiences such as data model training, which helps students to understand the widespread use of AI they currently see in their daily lives, and will also encounter in their future workplaces.Two of CoolThink@JC’s co-creators, The Education University of Hong Kong and Massachusetts Institute of Technology (MIT), developed the programme’s two teaching units on AI for upper primary students.“Students gain first-hand experience in data training to build an AI model,” Kong says. “Through the guidance of trained teachers in working with carefully designed worksheets and playing around with AI applications, students will acquire an understanding of how AI works, and the five big ideas of AI, as well as develop their problem-solving and digital creativity skills.”Inspiring the younger generation with AI-powered creationsIn addition to developing an understanding of the core concepts of AI, students need to be made aware of ethical practices and understand the responsible use of AI – not only as users, but also as potential creators.The annual CoolThink@JC Competition, in which students develop creative inventions to tackle social problems, helps students advance their knowledge of AI and apply it to their creations.“The future AI workforce needs to be trained to develop responsible solutions using AI, and students need to engage in collaborative computational action with their AI-powered creations to benefit others,” says Cynthia Breazeal, Professor of Media Arts and Sciences and Dean for Digital Learning at MIT. She is also Associate Director of the MIT Media Lab, where she founded and directs the Personal Robots group, and Director of the MIT-wide Initiative on Responsible AI for Social Empowerment and Education (RAISE).“The major issue to think about is how to cultivate the future designers of these technologies that are responsible and ethical in their designs, but also a far more diverse and inclusive future workforce,” she adds. “At the end of the day, it’s not about building machines that look like people and act like people. It’s about building machines that dovetail with us in a way that we can bring forth all of ourselves to help us achieve the goals that are really important to us. Computational thinking education plays a vital role in this.”Cynthia Breazeal, Professor of Media Arts and Sciences and Dean for Digital Learning at MIT, which is a co-creator of CoolThink@JC, and Associate Director of the MIT Media Lab, says the future workforce needs to be trained to develop responsible solutions using AI, and that computational thinking education plays a vital role. Photo: MIT Media LabWith proper training, the younger generation can acquire a computational thinking mindset, AI literacy and the ethical awareness needed to effectively utilise AI for the right purposes in a new, innovation-led work world.Seeking to inspire digital creativity among students and nurture their proactive use of technologies for social good from a young age, CoolThink@JC is a computational thinking education initiative created and funded by The Hong Kong Jockey Club Charities Trust, and co-created by The Education University of Hong Kong, the Massachusetts Institute of Technology and City University of Hong Kong.Since its launch in 2016, the CoolThink@JC project has developed a three-year curriculum for upper primary school pupils with 14 class hours per school year. It has supported 131 primary schools and 810 teachers in Hong Kong, and targets to enable almost 100,000 upper primary school students to benefit from computational thinking learning.AdvertisementListenPostAdvertisementAdvertisementAdvertisementAdvertisement",South China Morning Post,https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/06/17/b256c65b-77ef-40f4-9d70-33eefed103be_2443b012.jpg,https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png,"['https://www.facebook.com/southchinamorningpost/', 'https://twitter.com/SCMPNews', 'https://www.youtube.com/southchinamorningpost', 'https://www.linkedin.com/company/south-china-morning-post', 'https://www.instagram.com/scmpnews', 'https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP']",,,https://www.scmp.com/presented/tech/topics/inspiring-digital-talents-tomorrow/article/3182052/how-artificial,"{'@type': 'ContactPoint', 'contactType': 'customer support', 'telephone': '+852-2680-8888'}","19/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong",+852-2680-8888,"[{'@type': 'ListItem', 'item': {'@id': 'https://www.scmp.com/tech', 'name': 'Tech'}, 'position': 1}]",How artificial intelligence will redefine the future of work,"[Sponsored article]
+Artificial intelligence (AI) is affecting daily life at virtually every level, with robots increasingly carrying out tasks once executed by humans.
+Given that advances in AI will continue to redefine the way we shop, work and socialise, and that workplaces will allocate more resources to innovation and job automation, an AI-literate workforce will be necessary.
+Computational thinking can help develop AI literacy
+AI is a branch of computer science devoted to building smart machines capable of performing tasks that usually require human intelligence. It is playing an increasingly important role in society and redefining the future of work, as the relationship between human beings and machines continues to develop.
+Computational thinking requires learners to think like computer scientists, who demonstrate abilities such as logical thinking, problem-solving and abstraction, and disaggregate complex problems into smaller, solvable parts.
+These skills will be vital to succeed in a future driven by AI, so today’s students will need to develop a better understanding of these concepts in order to become AI literate. It is with this background that CoolThink@JC – an education programme created and funded by The Hong Kong Jockey Club Charities Trust – has integrated AI into its curriculum, which is open to all primary schools in Hong Kong.
+Students work on AI algorithmic problem-solving and utilise computational thinking methods, which can help students develop critical thinking skills, and also help them to avoid data bias, a common pitfall in AI where systems develop biases that stem from programming and data sources, and which can result in the under-representation of certain groups of people, genders or ethnicities.
+Preparing the AI thinkers of tomorrow
+An increasing number of AI-related professions signals the impending rise of AI in the workplace.
+Professor Kong Siu-cheung, a member of the CoolThink@JC Steering Committee and Director of the Centre for Learning, Teaching and Technology at The Education University of Hong Kong, says: “AI is a tool to extend human intelligence. For the future of jobs, it is necessary for people from all walks of life to acquire some knowledge of AI, as it helps people to enhance the effectiveness of operations and to automate. Everyone should have an understanding of the concepts of how AI works, and how to use AI in their profession.”
+
+Lessons are delivered by instructors based on a pedagogy that encourages students to play, to think, to code and to reflect. Students first try out AI-incorporated applications, and then deconstruct the process of building the applications into subtasks, before testing the partially built applications step by step through coding. Finally, students reflect on what they learned from the process in terms of computational thinking concepts, practices and perspectives. These lessons emphasise hands-on experiences such as data model training, which helps students to understand the widespread use of AI they currently see in their daily lives, and will also encounter in their future workplaces.
+Two of CoolThink@JC’s co-creators, The Education University of Hong Kong and Massachusetts Institute of Technology (MIT), developed the programme’s two teaching units on AI for upper primary students.
+“Students gain first-hand experience in data training to build an AI model,” Kong says. “Through the guidance of trained teachers in working with carefully designed worksheets and playing around with AI applications, students will acquire an understanding of how AI works, and the five big ideas of AI, as well as develop their problem-solving and digital creativity skills.”
+Inspiring the younger generation with AI-powered creations
+In addition to developing an understanding of the core concepts of AI, students need to be made aware of ethical practices and understand the responsible use of AI – not only as users, but also as potential creators.
+The annual CoolThink@JC Competition, in which students develop creative inventions to tackle social problems, helps students advance their knowledge of AI and apply it to their creations.
+“The future AI workforce needs to be trained to develop responsible solutions using AI, and students need to engage in collaborative computational action with their AI-powered creations to benefit others,” says Cynthia Breazeal, Professor of Media Arts and Sciences and Dean for Digital Learning at MIT. She is also Associate Director of the MIT Media Lab, where she founded and directs the Personal Robots group, and Director of the MIT-wide Initiative on Responsible AI for Social Empowerment and Education (RAISE).
+“The major issue to think about is how to cultivate the future designers of these technologies that are responsible and ethical in their designs, but also a far more diverse and inclusive future workforce,” she adds. “At the end of the day, it’s not about building machines that look like people and act like people. It’s about building machines that dovetail with us in a way that we can bring forth all of ourselves to help us achieve the goals that are really important to us. Computational thinking education plays a vital role in this.”
+
+With proper training, the younger generation can acquire a computational thinking mindset, AI literacy and the ethical awareness needed to effectively utilise AI for the right purposes in a new, innovation-led work world.
+Seeking to inspire digital creativity among students and nurture their proactive use of technologies for social good from a young age, CoolThink@JC is a computational thinking education initiative created and funded by The Hong Kong Jockey Club Charities Trust, and co-created by The Education University of Hong Kong, the Massachusetts Institute of Technology and City University of Hong Kong.
+Since its launch in 2016, the CoolThink@JC project has developed a three-year curriculum for upper primary school pupils with 14 class hours per school year. It has supported 131 primary schools and 810 teachers in Hong Kong, and targets to enable almost 100,000 upper primary school students to benefit from computational thinking learning.
+",Tech,2022-06-17T14:11:18+08:00,Tech,en-GB,True,"{'@type': 'Place', 'name': 'Hong Kong'}",https://www.scmp.com/policies-and-standards,"Cynthia Breazeal, Professor of Media Arts and Sciences and Dean for Digital Learning at MIT, which is a co-creator of CoolThink@JC, and Associate Director of the MIT Media Lab, says the future workforce needs to be trained to develop responsible solutions using AI, and that computational thinking education plays a vital role. Photo: MIT Media Lab",,,,,
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRlbGVtYXRpY3N3aXJlLm5ldC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hbmQtaXRzLXVzZS1jYXNlcy1pbi1hdXRvbW90aXZlLWluZHVzdHJ5L9IBAA?oc=5,Artificial Intelligence and its use cases in Automotive Industry - Telematics Wire,2022-06-17,Telematics Wire,https://www.telematicswire.net,"Artificial Intelligence has been a blessing for multiple industries, hence the automotive industry is no exception. To accelerate automotive operations, AI is the key to unlock a sustainable future an","Artificial Intelligence,Shaip","Driverless cars around the nook and corner of the city might seem like a fool’s paradise in the past, but the advancement in technology...",N/A,http://schema.org,Article,"{'@type': 'WebPage', '@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/', 'breadcrumb': {'@id': '#Breadcrumb'}}",Artificial Intelligence and its use cases in Automotive Industry,2022-06-17T14:06:43+05:30,2022-06-17T14:06:46+05:30,"{'@type': 'ImageObject', 'url': 'https://www.telematicswire.net/wp-content/uploads/2022/06/1.jpg', 'width': 1200, 'height': 408}","{'@type': 'Person', 'name': 'admin', 'url': 'https://www.telematicswire.net/author/admin/'}","{'@id': '#Publisher', '@type': 'Organization', 'name': 'Telematics Wire', 'logo': {'@type': 'ImageObject', 'url': 'https://www.telematicswire.net/wp-content/uploads/2021/02/TW-logo.png'}}",N/A,N/A,"
+
+ Home/Views/Emerging Technologies/Artificial Intelligence and its use cases in Automotive Industry
+
+Emerging Technologies
+Artificial Intelligence and its use cases in Automotive Industry
+
+
+
+
+adminJune 17, 2022 6 minutes read  
+
+
+
+Artificial Intelligence has been a blessing for multiple industries, hence the automotive industry is no exception. To accelerate automotive operations, AI is the key to unlock a sustainable future and enhancing productive customer experience.
+Driverless cars around the nook and corner of the city might seem like a fool’s paradise in the past, but the advancement in technology and widespread use of AI all across the world have made it possible somehow. For instance, the biggest automotive leaders including Tesla, Volvo, BMW, Volkswagen, and others are including AI to change the automotive workforce and make driving more convenient for users. Do you know, why?
+ In the hyper-digital era, customers’ convenience and experience are the top priority to scale, And if your organization lags behind in the same, it’s high time to reimagine the automotive industry.
+And advancements in AI have made a huge contribution to the growth of the automotive industry. 
+As per Statista report, ” The global automotive intelligence market expected to reach at the size of 74.5 Billion US dollars in 2030”
+Despite the revolution, artificial intelligence is bringing across the automotive industry, the automotive workforce needs to be tech-savvy within 5–50 years which is quite a challenge for the automotive industry in terms of upskilling the workforce. 
+To add more to the figure, Elon Musk 2017 stated that “There will be an autonomous vehicle in the next 10 years without any steering wheel”. If believe the prediction, we are pretty much closer to the future of autonomous vehicles in the time frame of 5 more years.
+Let’s get rolled and understand where we can use AI in the automotive business operations and processes for a better driving experience and improved quality control.
+Top 7 Use Cases of AI and Machine Learning in the Automotive Industry
+Manufacturing
+Manufacturing is the core part of an automotive industry supply chain. A single error in the system can make or break the production process. But, using AI and Machine Learning algorithms can help automotive manufacturers to make the car-making process better and more efficient. For example, manual labour would pick parts from conveyer belts to complete the car-making process which leads to higher turnaround time and inefficiency. With AI-based systems and machine learning algorithms, robots can autonomously determine which part to pick, how to pick, and in which sequence, that’s makes the manufacturing process faster and better. Also, it reduces the amount of workforce required to complete the car-making process, And if there is any unexpected machine failure happen, robots can keep the humans in the loop for assistance and save any mishappening.
+Design
+To make the car driving experience user-friendly, manufacturers have to handle a lot of work right from brainstorming the car model to designing it exactly in the same way. With AI in space and computer modeling, automotive architects can perform real-time tracking, and programmable shading to transform the traditional design process. With faster real-time tracing and better design workflow, AI reduces the time spent on design approval and sanction. Also, Machine learning and AI image datasets help architects to generate hundreds of potential designs for better workflow and product ideas for autonomous vehicles.
+Quality Control 
+Manually done the vehicle inspection leads to higher turnaround time, slow error-prone, and sluggish process. And maintaining quality control is the topmost priority for keeping a higher customer count. AI-based data annotation and object detection help manufacturers keep an eye to detect the defect in the vehicles. By generating data collected from the AI sensors, the AI system can tell users and architects both which part requires maintenance and which part needs to be changed with immediate effect. In addition, AI-powered quality control systems also detect the possible flaws in parts before they get installed in vehicles. Isn’t it amazing like the future in hand?
+Supply Chain
+When it comes to the supply chain, the automotive industry is one of the most complex to handle with. Want to know why? On average, a single vehicle has almost 30000 distinct parts that arrive from different parts of the world across the globe. That makes the whole supply chain disruptive and the car-making process a struggle. Moreover, it’s vital for automotive manufacturers to monitor every stage of a component’s journey, and know exactly when to expect its arrival at the destination point. In this scenario, using an AI and Machine Learning powered supply chain can help manufacturers to create a fully automated system to make supply chain management decisions, adjusting routes and volumes to the predicted demand spikes for parts. 
+Driver Experience
+To stay competitive on the edge, automotive manufacturers are highly focused on the driving experience of a user. And to make it more effective, AI and training data can be a great help. Using an AI-powered Advanced Driver Assistance System (ADAS) gives a major boost to the driving experience by helping with car locks, auto door locks, hands-free calls, and others. The benefits are not just stopped her. Using the ADAS system also helps drivers to gain insights on traffic and weather changes, the best routes on maps, and so much more. And all these benefits are highly possible by using object detection, training data models, and natural language processing techniques. With the ADAS system, an exciting time is ahead for autonomous vehicles.
+Automotive Insurance
+AI has a huge potential in the automotive industry for both insurers and drivers side together in case of an accident. The application of AI algorithms can speed up the process of insurance claims during an accident and mishap. On the driver’s side, AI capabilities like image datasets, and object detection can help drivers to gather incident data and fill out claims efficiently. On the other hand, insurers can use image processing and AI capability to do the vehicle damage analysis better to get rid of discrepancies and process the claims faster. 
+Passenger Experience
+In the digital era, customers today expect convenience in whatever they put their hand to. Considering passenger safety on road, automotive manufacturers are enhancing their vehicles with all kinds of AI-powered capabilities like image data, object identification, and NLP to upgrade their experience. With the image recognition model, drivers can easily scan the state of the driver and get their full information with a click. Also, by using speck commands passengers can easily listen to music, watch movies, order food, and others while being on the road. 
+Benefits of AI in the Automotive Industry
+Implementation of Artificial Intelligence in the automotive industry benefits not only the vehicle manufacturers but gives a boost to vehicle part suppliers, vehicle rental enterprises, and all the businesses that are related to the automotive and supply chain domain. Some of Ai’s benefits are listed below, have a look-
+Predictive maintenance is accelerated
+Using AI-based systems automotive industry can use the full potential of AI and collect data from multiple resources, and sensors to cover workforce management, inventory management, operational planning, and safe driving assistance to users. By leveraging Machine Learning technologies, automotive industries can also predict malfunctions in autonomous vehicles and take corrective action before any casualty and mishap. All in all, this helps the automotive industry to work at prime performance levels, and save time & money both together. 
+Vehicle maintenance recommendations get improved
+On average, a person takes the vehicle maintenance in an emergency or when an issue erupts. But, what if they get an early sign of a predictive issue. The machine learning algorithms collect data from the AI sensors in-built into the vehicle and keep track of a vehicle’s part health and raise a concern when it requires maintenance. This way driver can take precautionary measures by getting the vehicle maintained and inspected to avoid a breakdown.
+Driver Behavior Analytics is accelerated
+AI and deep learning models based on automotive applications offer a plethora of valuable insights and analytics to detect driver’s behavior accurately. Using these AI sensors and systems can easily detect drive behavior and provide warning signals to avoid accidents. In addition, if the driver is distracted by any circumstances, AI signals can also alert drivers and give them early signs for protection by leveraging real-time driver distraction detection techniques.
+High Time to give AI a front seat in Automotive Industry
+The automotive industry is seeing increased competition, cost pressure, and volatility, Evan a small disruption can make or break an enterprise’s image. The inclusion of AI and machine learning capabilities can be a game-changer for the automotive industry. It is possible for automotive manufacturers to deploy AI technologies for designing and building new prototypes, improving supply chain efficiency, and enabling efficient maintenance of both factory equipment and vehicles on the road. And the high time to adopt these AI technologies is now. If you have an opportunity to leverage the same, act on it before it’s too late. 
+Author:
+
+Vatsal Ghiya
+Co-Founder
+Shaip
+
+Vatsal Ghiya is a serial entrepreneur with more than 20 years of experience in healthcare AI software and services. He is the CEO and co-founder of Shaip, which enables the on-demand scaling of our platform, processes, and people for companies with the most demanding machine learning and artificial intelligence initiatives.
+Published in Telematics Wire
+ TagsArtificial Intelligence Shaip
+
+
+
+
+
+
+
+adminJune 17, 2022 6 minutes read  
+
+
+
+
+
+
+ Twitter
+
+
+ LinkedIn
+
+
+ Share via Email
+
+
+ Print
+ 
+
+",Artificial Intelligence and its use cases in Automotive Industry,https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/,,,,"[{'@type': 'Article', '@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#article', 'isPartOf': {'@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/'}, 'author': {'name': 'admin', '@id': 'https://www.telematicswire.net/#/schema/person/f50be179f67fa622d47da2c192070bf0'}, 'headline': 'Artificial Intelligence and its use cases in Automotive Industry', 'datePublished': '2022-06-17T08:36:43+00:00', 'dateModified': '2022-06-17T08:36:46+00:00', 'mainEntityOfPage': {'@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/'}, 'wordCount': 1538, 'publisher': {'@id': 'https://www.telematicswire.net/#organization'}, 'image': {'@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#primaryimage'}, 'thumbnailUrl': 'https://www.telematicswire.net/wp-content/uploads/2022/06/1.jpg', 'keywords': ['Artificial Intelligence', 'Shaip'], 'articleSection': ['Emerging Technologies'], 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/', 'url': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/', 'name': 'Artificial Intelligence and its use cases in Automotive Industry', 'isPartOf': {'@id': 'https://www.telematicswire.net/#website'}, 'primaryImageOfPage': {'@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#primaryimage'}, 'image': {'@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#primaryimage'}, 'thumbnailUrl': 'https://www.telematicswire.net/wp-content/uploads/2022/06/1.jpg', 'datePublished': '2022-06-17T08:36:43+00:00', 'dateModified': '2022-06-17T08:36:46+00:00', 'description': 'Driverless cars around the nook and corner of the city might seem like a fool’s paradise in the past, but the advancement in technology...', 'breadcrumb': {'@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/']}]}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#primaryimage', 'url': 'https://www.telematicswire.net/wp-content/uploads/2022/06/1.jpg', 'contentUrl': 'https://www.telematicswire.net/wp-content/uploads/2022/06/1.jpg', 'width': 644, 'height': 408, 'caption': 'Artificial Intelligence and its use cases in Automotive Industry'}, {'@type': 'BreadcrumbList', '@id': 'https://www.telematicswire.net/artificial-intelligence-and-its-use-cases-in-automotive-industry/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.telematicswire.net/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence and its use cases in Automotive Industry'}]}, {'@type': 'WebSite', '@id': 'https://www.telematicswire.net/#website', 'url': 'https://www.telematicswire.net/', 'name': 'Telematics Wire', 'description': 'Technology Driven - Futuristic Vehicle', 'publisher': {'@id': 'https://www.telematicswire.net/#organization'}, 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.telematicswire.net/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'Organization', '@id': 'https://www.telematicswire.net/#organization', 'name': 'Telematics Wire Private Limited', 'url': 'https://www.telematicswire.net/', 'logo': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.telematicswire.net/#/schema/logo/image/', 'url': 'https://www.telematicswire.net/wp-content/uploads/2020/05/Telematics_Wire_Logo_2.jpg', 'contentUrl': 'https://www.telematicswire.net/wp-content/uploads/2020/05/Telematics_Wire_Logo_2.jpg', 'width': 1721, 'height': 180, 'caption': 'Telematics Wire Private Limited'}, 'image': {'@id': 'https://www.telematicswire.net/#/schema/logo/image/'}, 'sameAs': ['https://www.facebook.com/telematicswire/', 'https://twitter.com/telematicswire']}, {'@type': 'Person', '@id': 'https://www.telematicswire.net/#/schema/person/f50be179f67fa622d47da2c192070bf0', 'name': 'admin', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.telematicswire.net/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/7a6aeae6daf581fb4982ea8f75769a64?s=96&d=mm&r=g', 'contentUrl': 'https://secure.gravatar.com/avatar/7a6aeae6daf581fb4982ea8f75769a64?s=96&d=mm&r=g', 'caption': 'admin'}, 'sameAs': ['https://www.telematicswire.net/']}]",#Breadcrumb,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'name': 'Home', '@id': 'https://www.telematicswire.net/'}}, {'@type': 'ListItem', 'position': 2, 'item': {'name': 'Views', '@id': 'https://www.telematicswire.net/category/interviews/'}}, {'@type': 'ListItem', 'position': 3, 'item': {'name': 'Emerging Technologies', '@id': 'https://www.telematicswire.net/category/interviews/emergingtech-interviews/'}}]",,"
+Artificial Intelligence has been a blessing for multiple industries, hence the automotive industry is no exception. To accelerate automotive operations, AI is the key to unlock a sustainable future and enhancing productive customer experience.
+
+
+
+Driverless cars around the nook and corner of the city might seem like a fool’s paradise in the past, but the advancement in technology and widespread use of AI all across the world have made it possible somehow. For instance, the biggest automotive leaders including Tesla, Volvo, BMW, Volkswagen, and others are including AI to change the automotive workforce and make driving more convenient for users. Do you know, why?
+
+
+
+&nbsp;In the hyper-digital era, customers' convenience and experience are the top priority to scale, And if your organization lags behind in the same, it's high time to reimagine the automotive industry.
+
+
+
+And advancements in AI have made a huge contribution to the growth of the automotive industry.&nbsp;
+
+
+
+As per Statista report, ” The global automotive intelligence market expected to reach at the size of 74.5 Billion US dollars in 2030”
+
+
+
+Despite the revolution, artificial intelligence is bringing across the automotive industry, the automotive workforce needs to be tech-savvy within 5–50 years which is quite a challenge for the automotive industry in terms of upskilling the workforce.&nbsp;
+
+
+
+To add more to the figure, Elon Musk 2017 stated that “There will be an autonomous vehicle in the next 10 years without any steering wheel”. If believe the prediction, we are pretty much closer to the future of autonomous vehicles in the time frame of 5 more years.
+
+
+
+Let’s get rolled and understand where we can use AI in the automotive business operations and processes for a better driving experience and improved quality control.
+
+
+
+Top 7 Use Cases of AI and Machine Learning in the Automotive Industry
+
+
+
+Manufacturing
+
+
+
+Manufacturing is the core part of an automotive industry supply chain. A single error in the system can make or break the production process. But, using AI and Machine Learning algorithms can help automotive manufacturers to make the car-making process better and more efficient. For example, manual labour would pick parts from conveyer belts to complete the car-making process which leads to higher turnaround time and inefficiency. With AI-based systems and machine learning algorithms, robots can autonomously determine which part to pick, how to pick, and in which sequence, that's makes the manufacturing process faster and better. Also, it reduces the amount of workforce required to complete the car-making process, And if there is any unexpected machine failure happen, robots can keep the humans in the loop for assistance and save any mishappening.
+
+
+
+Design
+
+
+
+To make the car driving experience user-friendly, manufacturers have to handle a lot of work right from brainstorming the car model to designing it exactly in the same way. With AI in space and computer modeling, automotive architects can perform real-time tracking, and programmable shading to transform the traditional design process. With faster real-time tracing and better design workflow, AI reduces the time spent on design approval and sanction. Also, Machine learning and AI image datasets help architects to generate hundreds of potential designs for better workflow and product ideas for autonomous vehicles.
+
+
+
+Quality Control 
+
+
+
+Manually done the vehicle inspection leads to higher turnaround time, slow error-prone, and sluggish process. And maintaining quality control is the topmost priority for keeping a higher customer count. AI-based data annotation and object detection help manufacturers keep an eye to detect the defect in the vehicles. By generating data collected from the AI sensors, the AI system can tell users and architects both which part requires maintenance and which part needs to be changed with immediate effect. In addition, AI-powered quality control systems also detect the possible flaws in parts before they get installed in vehicles. Isn’t it amazing like the future in hand?
+
+
+
+Supply Chain
+
+
+
+When it comes to the supply chain, the automotive industry is one of the most complex to handle with. Want to know why? On average, a single vehicle has almost 30000 distinct parts that arrive from different parts of the world across the globe. That makes the whole supply chain disruptive and the car-making process a struggle. Moreover, it's vital for automotive manufacturers to monitor every stage of a component's journey, and know exactly when to expect its arrival at the destination point. In this scenario, using an AI and Machine Learning powered supply chain can help manufacturers to create a fully automated system to make supply chain management decisions, adjusting routes and volumes to the predicted demand spikes for parts.&nbsp;
+
+
+
+Driver Experience
+
+
+
+To stay competitive on the edge, automotive manufacturers are highly focused on the driving experience of a user. And to make it more effective, AI and training data can be a great help. Using an AI-powered Advanced Driver Assistance System (ADAS) gives a major boost to the driving experience by helping with car locks, auto door locks, hands-free calls, and others. The benefits are not just stopped her. Using the ADAS system also helps drivers to gain insights on traffic and weather changes, the best routes on maps, and so much more. And all these benefits are highly possible by using object detection, training data models, and natural language processing techniques. With the ADAS system, an exciting time is ahead for autonomous vehicles.
+
+
+
+Automotive Insurance
+
+
+
+AI has a huge potential in the automotive industry for both insurers and drivers side together in case of an accident. The application of AI algorithms can speed up the process of insurance claims during an accident and mishap. On the driver’s side, AI capabilities like image datasets, and object detection can help drivers to gather incident data and fill out claims efficiently. On the other hand, insurers can use image processing and AI capability to do the vehicle damage analysis better to get rid of discrepancies and process the claims faster.&nbsp;
+
+
+
+Passenger Experience
+
+
+
+In the digital era, customers today expect convenience in whatever they put their hand to. Considering passenger safety on road, automotive manufacturers are enhancing their vehicles with all kinds of AI-powered capabilities like image data, object identification, and NLP to upgrade their experience. With the image recognition model, drivers can easily scan the state of the driver and get their full information with a click. Also, by using speck commands passengers can easily listen to music, watch movies, order food, and others while being on the road.&nbsp;
+
+
+
+Benefits of AI in the Automotive Industry
+
+
+
+Implementation of Artificial Intelligence in the automotive industry benefits not only the vehicle manufacturers but gives a boost to vehicle part suppliers, vehicle rental enterprises, and all the businesses that are related to the automotive and supply chain domain. Some of Ai's benefits are listed below, have a look-
+
+
+
+Predictive maintenance is accelerated
+
+
+
+Using AI-based systems automotive industry can use the full potential of AI and collect data from multiple resources, and sensors to cover workforce management, inventory management, operational planning, and safe driving assistance to users. By leveraging Machine Learning technologies, automotive industries can also predict malfunctions in autonomous vehicles and take corrective action before any casualty and mishap. All in all, this helps the automotive industry to work at prime performance levels, and save time &amp; money both together.&nbsp;
+
+
+
+Vehicle maintenance recommendations get improved
+
+
+
+On average, a person takes the vehicle maintenance in an emergency or when an issue erupts. But, what if they get an early sign of a predictive issue. The machine learning algorithms collect data from the AI sensors in-built into the vehicle and keep track of a vehicle's part health and raise a concern when it requires maintenance. This way driver can take precautionary measures by getting the vehicle maintained and inspected to avoid a breakdown.
+
+
+
+Driver Behavior Analytics is accelerated
+
+
+
+AI and deep learning models based on automotive applications offer a plethora of valuable insights and analytics to detect driver’s behavior accurately. Using these AI sensors and systems can easily detect drive behavior and provide warning signals to avoid accidents. In addition, if the driver is distracted by any circumstances, AI signals can also alert drivers and give them early signs for protection by leveraging real-time driver distraction detection techniques.
+
+
+
+High Time to give AI a front seat in Automotive Industry
+
+
+
+The automotive industry is seeing increased competition, cost pressure, and volatility, Evan a small disruption can make or break an enterprise's image. The inclusion of AI and machine learning capabilities can be a game-changer for the automotive industry. It is possible for automotive manufacturers to deploy AI technologies for designing and building new prototypes, improving supply chain efficiency, and enabling efficient maintenance of both factory equipment and vehicles on the road. And the high time to adopt these AI technologies is now. If you have an opportunity to leverage the same, act on it before it's too late.&nbsp;
+
+
+
+Author:
+
+
+
+
+Vatsal Ghiya
+
+
+
+Co-Founder
+
+
+
+Shaip
+
+
+
+
+Vatsal Ghiya is a serial entrepreneur with more than 20 years of experience in healthcare AI software and services. He is the CEO and co-founder of Shaip, which enables the on-demand scaling of our platform, processes, and people for companies with the most demanding machine learning and artificial intelligence initiatives.
+
+
+
+Published in Telematics Wire
+",Emerging Technologies,2022-06-17T14:06:43+05:30,,,,,,,2022,{'@id': '#Publisher'},{'@id': '#Publisher'},,
+https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcHJvdG8ubGlmZS8yMDIyLzA2L3doYXQtd2lsbC1pdC10YWtlLXRvLWRlY29sb25pemUtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Uv0gEA?oc=5,What Will It Take to Decolonize Artificial Intelligence? - proto.life,2022-06-16,proto.life,https://proto.life,"Workforce diversity, collective oversight, and day-to-day algorithm monitoring are all necessary to mitigate inherent bias.",N/A,"Workforce diversity, collective oversight, and day-to-day algorithm monitoring are all necessary to mitigate inherent bias.","Workforce diversity, collective oversight, and day-to-day algorithm monitoring are all necessary to mitigate inherent bias.",https://schema.org,,,,,,,,,Artificial Intelligence,N/A,"
+
+
+
+
+          What Will It Take to Decolonize Artificial Intelligence?
+            
+
+
+
+
+
+Dylan Leeder, Jimmy Fermin, Jessica Radanavong, ziphaus, Art Hauntington, Julian Wan
+
+
+
+
+Workforce diversity, collective oversight, and day-to-day algorithm monitoring are all necessary to mitigate inherent bias.
+
+
+By
+Robin Donovan
+
+Illustration by Tyler Comrie
+
+
+
+Share
+
+
+
+Share on Twitter
+
+
+
+
+
+Share on Facebook
+
+
+
+
+
+
+
+Go Deeper
+
+
+Artificial Intelligence
+
+
+Business
+
+
+Ethics
+
+
+
+
+There’s a joke in Silicon Valley about how AI was developed: Privileged coders were building machine learning algorithms to replace their own doting parents with apps that deliver their meals, drive them to work, automate their shopping, manage their schedules, and tuck them in at bedtime.
+As whimsical as that may sound, AI-driven services often target a demographic that mirrors its creators: white, male workers with little time and more disposable income than they know what to do with. “People living in very different circumstances have very different needs and wants that may or may not be helped by this technology,” says Kanta Dihal at the University of Cambridge’s Leverhulme Centre for the Future of Intelligence in England. She is an expert in an emerging effort to decolonize AI by promoting an intersectional definition of intelligent machines that is created for and relevant to a diverse population. Such a shift requires not only diversifying Silicon Valley, but the understanding of AI’s potential, who it stands to help, and how people want to be helped.
+
+
+
+
+ 
+
+
+
+
+
+
+Subscribe to our Newsletter
+Weekly updates from the frontlines of neuroscience, genetics, longevity, synthetic biology, the future of food, and more.
+
+
+
+
+
+
+
+
+
+
+
+
+Biased algorithms have made headlines in many industries. Apple Health failed to include a menstrual cycle tracking feature until 2015. Leaders at Amazon, where automation reigns supreme, scrapped efforts to harness AI to sift through resumes in 2018 after discovering their algorithm favored men, downvoting resumes with all-female colleges or mentions of women’s sports teams. In 2019, researchers discovered that a popular algorithm used to determine whether medical care was required was racially biased, recommending less care for Black patients than equally ill white patients because it calculated patient risk scores based on individuals’ annual medical costs. Because Black patients had, on average, less access to medical care, their costs were artificially low, and the algorithm faultily associated Blackness with less need for medical treatment. 
+Industries like banking have been more successful than others in implementing equitable AI (think: creating new standards for the use of AI and developing systems of internal checks and balances against bias), according to Anjana Susarla, the Omura-Saxena Professor in Responsible AI at Michigan State University. Health care and criminal justice, where algorithms have shown racial bias in predicting recidivism, are more troubling examples. Susarla says decolonizing AI will require the collective oversight of boards of directors, legislators, and regulators, not to mention those who implement and monitor the day-to-day outcomes of AI in every industry—not just the techies behind the tools.
+“You have to have some separation between the person who created the AI and the person who can take some responsibility for the consequences that will arise when they are implementing it,” Susarla says.
+The myth of the lone genius
+Science fiction films and TV shows and even stock images portray AI as white, plastic robots, often created by a white male protagonist. (Try a Google search for “intelligent machines” to test this.) Instead of showing legions of engineers and developers behind the scenes working toward new technologies, Dihal says tech heroes are painted as workaholic loner-heroes.
+
+Joy Buolamwini founded the Algorithmic Justice League to spotlight and rectify bias in facial recognition algorithms. Niccolò Caranti
+In a 2020 study, Dihal and her University of Cambridge co-author Stephen Cave found that these media portrayals perpetuate racial stereotypes, threaten to position white robots above people of color, and situate AI in the public consciousness as a white-collar issue. As AI touches nearly every facet of our society, decolonizing it will require widespread changes to everyday narratives, including fictional ones, as well as the tech itself.
+When it comes to tasks like content moderation or image recognition, “people often don’t know how many hours of manual labor have gone into it, or how many hours are still going into it,” Dihal says. Instead, users wrongly attribute unseen human labor to intelligent machines.  
+But tech giants require huge workforces, and often “reinforce or reawaken colonial power structures” in the process of engaging their workforces, Dihal continues. She points to tech leaders who employ legions of low-paid “click workers” in India, China, or the United States, where they complete micro tasks like labeling or verifying images online to train AI algorithms. The work is low-paid, often below minimum wage, and can be sporadic, with micro tasks popping online at odd hours, according to online reviewers of Clickworker, a firm that matches online workers with these tasks. Companies like Clickworker promise work-from-home freedom, though a 2017 study found clickworkers netted just $3.31 per hour.
+There are also people, like delivery workers, who are part of AI whether they like it or not. “Those people don’t have power or don’t have the authority to either buck the system or not be part of it,” says Amber Thompson, founder of de-bias, an AI-driven public review platform that measures business outcomes against a range of social issues.
+Higher-paid workers, like software developers, software engineers, and UX (user experience) engineers may come from all over the world, Dihal says. “But still, in the C-suite, higher up in the pipeline, the gender balance and the ethnicity balance very quickly skew toward white male.” 
+AI needs a human touch
+Fortunately, for now, an all-knowing AI that can efficiently solve problems without human intervention is more media construct than reality, according to Dihal. AI needs human oversight.
+“Efficiency is very important, but efficiency means cutting corners,” says Susarla, who consults with companies implementing AI. When the focus is solely on tactical performance, she says, “we should understand that it’s not always going to make things better.” Sometimes, simple algorithms yield the most accurate AI. 
+ “There will always be bias. De-biasing is the process to mitigate those biases before they happen.”
+But merely replacing white software developers with techies of color isn’t a fix, according to Thompson. “If your actual process doesn’t mean you have to listen, respond, or include [people], then it’s the same thing only it’s worse because now you’ve tokenized people and you’ve probably created a more biased product.”
+At de-bias, that means gathering data about the impacts of a company’s actions from leadership, employees, board members, community members, and other stakeholders, then creating a rubric to measure equity efforts, employee wellbeing (everything from health insurance to homeownership), community development, advocacy efforts, and more, with an eye to change. “There will always be bias,” Thompson says. “De-biasing is the process to mitigate those biases before they happen.” Like so much of decolonizing AI, it requires a ton of input from a wide range of people.
+Thompson says truly decolonized AI is impossible without collective action to topple tech giants like Google or Twitter, particularly when shareholder ROI has so much sway, so she’s currently focusing de-bias on smaller startups. Susarla hopes that a combination of compliance with existing civil rights legislation, new governmental regulations, and corporate self-governance (think: boards of directors that provide oversight to AI initiatives, gauging outcomes against the company’s mission and values) will aid AI’s evolution.
+Ultimately, Susarla says, equitable AI is explainable. It’s not a white robot that mysteriously announces its findings. If an algorithm determines you’re not eligible for a mortgage, a loan officer should be able to explain why. If a stack of resumes never makes it to HR, hiring agents should be able to articulate how candidates are evaluated. “How much does a person have to change themselves to function with technological systems that increasingly govern our lives?” wrote computer scientist and poet Joy Buolamwini in a 2019 Time editorial. Buolamwini founded the Algorithmic Justice League to spotlight and rectify bias in facial recognition algorithms. In a world increasingly laced with AI everything, it will take a growing number of voices—and especially those from marginalized groups—to determine when, how, and whether we correct it.
+
+
+
+
+
+
+
+By
+Robin Donovan
+on Jun 16, 2022
+Robin Donovan is an independent science journalist based in Portland, OR. Her work focuses on the intersection between life science advances and everyday intrigue.
+
+
+",,,,,,"[{'@type': 'Organization', '@id': 'https://proto.life/#organization', 'name': 'proto.life', 'sameAs': ['https://www.facebook.com/protolifemedia/', 'https://twitter.com/protolifemedia'], 'logo': {'@type': 'ImageObject', '@id': 'https://proto.life/#logo', 'url': 'https://proto.life/wp-content/uploads/2023/04/protolife-logo.png', 'contentUrl': 'https://proto.life/wp-content/uploads/2023/04/protolife-logo.png', 'caption': 'proto.life', 'inLanguage': 'en-US', 'width': '2010', 'height': '494'}}, {'@type': 'WebSite', '@id': 'https://proto.life/#website', 'url': 'https://proto.life', 'name': 'proto.life', 'alternateName': 'NEO.LIFE', 'publisher': {'@id': 'https://proto.life/#organization'}, 'inLanguage': 'en-US'}, {'@type': 'ImageObject', '@id': 'https://proto.life/wp-content/uploads/2022/06/ethics-race-facial-recognition-bias.jpg', 'url': 'https://proto.life/wp-content/uploads/2022/06/ethics-race-facial-recognition-bias.jpg', 'width': '770', 'height': '968', 'inLanguage': 'en-US'}, {'@type': 'WebPage', '@id': 'https://proto.life/2022/06/what-will-it-take-to-decolonize-artificial-intelligence/#webpage', 'url': 'https://proto.life/2022/06/what-will-it-take-to-decolonize-artificial-intelligence/', 'name': 'What Will It Take to Decolonize Artificial Intelligence?', 'datePublished': '2022-06-16T13:14:00-07:00', 'dateModified': '2023-06-14T08:38:03-07:00', 'isPartOf': {'@id': 'https://proto.life/#website'}, 'primaryImageOfPage': {'@id': 'https://proto.life/wp-content/uploads/2022/06/ethics-race-facial-recognition-bias.jpg'}, 'inLanguage': 'en-US'}, {'@type': 'Article', 'headline': 'What Will It Take to Decolonize Artificial Intelligence?', 'keywords': 'AI', 'datePublished': '2022-06-16T13:14:00-07:00', 'dateModified': '2023-06-14T08:38:03-07:00', 'author': [{'@type': 'Person', 'name': 'Robin Donovan'}], 'publisher': {'@id': 'https://proto.life/#organization'}, 'description': 'Workforce diversity, collective oversight, and day-to-day algorithm monitoring are all necessary to mitigate inherent bias.', 'name': 'What Will It Take to Decolonize Artificial Intelligence?', '@id': 'https://proto.life/2022/06/what-will-it-take-to-decolonize-artificial-intelligence/#richSnippet', 'image': {'@id': 'https://proto.life/wp-content/uploads/2022/06/ethics-race-facial-recognition-bias.jpg'}, 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://proto.life/2022/06/what-will-it-take-to-decolonize-artificial-intelligence/#webpage'}}]",,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJvd2RvaW4uZWR1L25ld3MvMjAyMi8wNi9ib3dkb2luLXNlbGVjdGVkLWZvci1uYXRpb25hbC1pbml0aWF0aXZlLW9uLWFpLWV0aGljcy5odG1s0gEA?oc=5,Bowdoin Selected for National Initiative on AI Ethics - Bowdoin College,2022-06-17,Bowdoin College,https://www.bowdoin.edu,N/A,N/A,,N/A,,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9lZHVjYXRpb24vcHJvZmVzc2lvbmFsLWRldmVsb3BtZW50L3JlbW90ZS13b3JrLW9yLWh5YnJpZC13aHktZW1wbG95ZXJzLWhhdmUtY2hhbmdlZC10aGVpci1taW5kcy_SAQA?oc=5,Remote work or hybrid? Why employers have changed their minds - ZDNet,2022-06-16,ZDNet,https://www.zdnet.com,"Hybrid working offers a better balance and benefits junior employees in particular, say employers.",N/A,"Hybrid working offers a better balance and benefits junior employees in particular, say employers.","Hybrid working offers a better balance and benefits junior employees in particular, say employers.",,,,,,,,,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL3RvcC0xMC1haS10ZWFjaGluZy1qb2JzLXRvLWFwcGx5LWZvci1pbi1qdW5lLTIwMjLSAXRodHRwczovL3d3dy5hbmFseXRpY3NpbnNpZ2h0Lm5ldC9hbXAvc3RvcnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvdG9wLTEwLWFpLXRlYWNoaW5nLWpvYnMtdG8tYXBwbHktZm9yLWluLWp1bmUtMjAyMg?oc=5,Top 10 AI Teaching Jobs to Apply for in June 2022 - Analytics Insight,2022-06-18,Analytics Insight,https://www.analyticsinsight.net,,"AI,AI teaching,AI teaching jobs,Data analytics,Machine learning","If you are an expert in the field of artificial intelligence, these top 10 AI teaching jobs are for you. AI is continuously evolving to benefit many different i","If you are an expert in the field of artificial intelligence, these top 10 AI teaching jobs are for you. AI is continuously evolving to benefit many different i",http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-teaching-jobs-to-apply-for-in-june-2022'}",Top 10 AI Teaching Jobs to Apply for in June 2022,2022-06-18T01:00:00Z,2022-06-18T01:00:00Z,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/06/Top-10-AI-Teaching-Jobs-to-Apply-for-in-June-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'Satavisa Pati', 'name': 'Satavisa Pati', 'url': 'https://www.analyticsinsight.net/author/satavisa-pati'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",N/A,N/A,"Number of ChatGPT Users and Statistics
+",Top 10 AI Teaching Jobs to Apply for in June 2022,https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-teaching-jobs-to-apply-for-in-june-2022,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': 'Top 10 AI Teaching Jobs to Apply for in June 2022', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-teaching-jobs-to-apply-for-in-june-2022'}]",,"If you are an expert in the field of artificial intelligence, these top 10 AI teaching jobs are for you..AI is continuously evolving to benefit many different industries. Machines are wired using a cross-disciplinary approach based on mathematics, computer science, linguistics, psychology, and more. Here are the top 10 AI teaching jobs one can apply for in June 2022..DigitalBCG | Trainer/ Lead Trainer in Data Analytics and AI at Boston Consulting Group (BCG).Location: New Delhi, Delhi, India On-site.The trainer/lead trainer will play a leading role in developing, scaling up, and delivering high-quality training in reskilling and upskilling across the Asia Pacific and driving the curriculum &amp; content development on core digital topics including Data Analytics &amp; AI..Apply here..Machine Learning Instructor at Fusemachines.Location: Pune, Maharashtra, India Remote.Fusemachines is looking for enthusiastic individuals who are passionate about teaching and training and can deliver these courses to students and professionals. As of now, these courses will be remote, so you can be located anywhere as long as you can take classes in Nepal time..Apply here..Technical Trainer at AI School of India.Location: Bengaluru, Karnataka, India On-site.The selected candidate for this job should teach STEM education (topics like robotics, AI &amp; coding, engineering design, etc.,) by developing the training areas under the robotics platform with lesson plans and curriculum-Based teaching levels. The candidate will be coordinating with learning areas over the different methodology of teaching and training activities &amp; overall responsibility for content delivery with effective communication basics..Apply here..Deep Learning Instructor at Fusemachines.Location: Pune, Maharashtra, India Remote.The selected candidate will work closely with the academic team to deliver the courses and training sessions that have been developed. You will be responsible for facilitating live class sessions using the provided syllabus, preparing class materials, and providing feedback to all individuals enrolled in this program..Apply here..CODING – STEM – ROBOTICS -AI TRAINER at ROBOSMART LABS.Location: Jaipur, Rajasthan, India On-site.Robosmart is looking for comprehensive robotics education trainers to teach school/college/vocational students both at our upcoming Robotics learning centers in schools as well as privately stand-alone centers. Knowledge, exposure, and experience of teaching all or a few skills viz. Coding (Java, HTML, Python, Scratch, C++, Arduino, etc), Animation, Machine learning, STEM, Electro-Mechanical Projects, 3 D Printing, App/Web development, Database SQL, Cloud Computing &amp; AI tools, etc..Apply here..FACULTY for CSE – GITAM (Deemed to be University) at GITAM Deemed University.Location: Hyderabad, Telangana, India On-site.GITAM is looking for applicants with a passion for teaching and demonstrated excellence in research. The candidates should have specializations like AI &amp; ML, IoT, cyber security, and data science and are expected to teach undergraduate &amp; postgraduate courses, conduct independent research, and provide services to the university. GITAM is looking to expand its computer science faculty to global standards in the field of teaching and research. The faculty is expected to publish in Scopus indexed/Web of science journals..Apply here..Assistant Professor- CSE at Chitkara University.Location: Rajpura, Punjab, India On-site.The suitable candidate should be aware of the technologies like Python, C#, Microsoft Azure, AWS, Big Data, PowerBi, etc. and should be able to work in new technologies of Computer Science like Artificial Intelligence &amp; Machine Learning, Internet of Things, Data Science, Cloud computing, Block Chain or AR/VR..Apply here..Faculty – Technology Training at Wadhwani Foundation.Location: Bengaluru, Karnataka, India On-site.The candidate will be responsible for researching, collating, providing subject matter expertise, and conducting high-quality learning and training courses to achieve the goals of increasing awareness, knowledge, and skills of government officials in myriad domains of technology and related policy..Apply here..Curriculum Developer-Computer science at MNR Solutions Pvt. Ltd.Location: Jaipur, Rajasthan, India On-site.The selected candidate for this job will have to conduct research and develop quality curricula and learning resources. He will create stimulating lesson plans and recommend interesting additional resources and develop a range of digital resources to optimize classroom learning. It is also his responsibility to write engaging content that allows learners to meet their learning goals. He must visualize and conceptualize graphics that suit the target audience and create high-quality assessment questions for evaluating students' skills..Apple here..Teaching (STEM/Robotics) Internship at LearningBix.Location: Jaipur, Rajasthan, India On-site.The Intern's responsibilities are imparting STEM education to school students and creating an interactive learning environment by engaging students to learn via educational kits or platforms like LEGO, Arduino, MIT App Inventor, etc. He would be building new and innovative platforms (hardware &amp; software) on IoT, AI, and ML for teaching/training/learning purposes. It is also his responsibility to assist the R&amp;D team in developing education courses &amp; products. Apply here..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",Artificial Intelligence,2022-06-18T01:00:00Z,,,,,,,,,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/06/Top-10-AI-Teaching-Jobs-to-Apply-for-in-June-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-teaching-jobs-to-apply-for-in-june-2022', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/06/Top-10-AI-Teaching-Jobs-to-Apply-for-in-June-2022.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}"
+https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzgtd2F5cy1haS1pcy11c2VkLWluLWVkdWNhdGlvbtIBYWh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L2FtcC9zdG9yeS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS84LXdheXMtYWktaXMtdXNlZC1pbi1lZHVjYXRpb24?oc=5,8 Ways AI is Used in Education - Analytics Insight,2022-06-16,Analytics Insight,https://www.analyticsinsight.net,,"AI,Education technology,Virtual learning,Artificial intelligence,Automation ","While AI has been in the education technology space for a while, adoption has been slow. However, during the COVID-19 pandemic, virtual learning forced the indu","While AI has been in the education technology space for a while, adoption has been slow. However, during the COVID-19 pandemic, virtual learning forced the indu",http://schema.org,NewsArticle,"{'@type': 'WebPage', '@id': 'https://www.analyticsinsight.net/artificial-intelligence/8-ways-ai-is-used-in-education'}",8 Ways AI is Used in Education,2022-06-16T06:11:55Z,2022-06-16T06:11:55Z,"{'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/06/8-Ways-AI-is-Used-in-Education.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}","[{'@type': 'Person', 'givenName': 'IndustryTrends', 'name': 'IndustryTrends', 'url': 'https://www.analyticsinsight.net/author/industrytrends'}]","{'@type': 'Organization', '@context': 'http://schema.org', 'name': 'Analytics Insight', 'url': 'https://www.analyticsinsight.net', 'logo': {'@context': 'http://schema.org', '@type': 'ImageObject', 'author': 'analyticsinsight', 'contentUrl': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'url': 'https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png', 'name': 'logo', 'width': '', 'height': ''}, 'sameAs': ['https://whatsapp.com/channel/0029VafDe8HCBtxLV2PpRA2l', 'https://twitter.com/analyticsinme', 'https://in.pinterest.com/analyticsinsightsubmissions/_created/', 'https://www.instagram.com/analyticsinsightmagazine/', 'https://www.facebook.com/analyticsinsight.net', 'https://news.google.com/publications/CAAiEDD0Ze78owxVdNti611RNvQqFAgKIhAw9GXu_KMMVXTbYutdUTb0?hl=en-IN&gl=IN&ceid=IN%3Aen', 'https://t.me/analyticsinsightmag', 'https://www.youtube.com/channel/UCgF2J0b46YP0vvVEbgL_GuQ', 'https://www.linkedin.com/company/analytics-insight/'], 'id': 'https://www.analyticsinsight.net'}",N/A,N/A,"Number of ChatGPT Users and Statistics
+",8 Ways AI is Used in Education,https://www.analyticsinsight.net/artificial-intelligence/8-ways-ai-is-used-in-education,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.analyticsinsight.net'}, {'@type': 'ListItem', 'position': 2, 'name': 'Artificial Intelligence', 'item': 'https://www.analyticsinsight.net/artificial-intelligence'}, {'@type': 'ListItem', 'position': 3, 'name': '8 Ways AI is Used in Education', 'item': 'https://www.analyticsinsight.net/artificial-intelligence/8-ways-ai-is-used-in-education'}]",,"While AI has been in the education technology space for a while, adoption has been slow. However, during the COVID-19 pandemic, virtual learning forced the industry to shift. AI helps streamline the student education process by offering access to suitable courses, bettering communication with tutors, and giving them more time to focus on other life aspects..AI enhances the personalization of student learning programs and courses, promotes tutoring by helping students improve their weak spots and sharpen their skills, ensures quick responses between teachers and students, and enhances universal 24/7 learning access. Educators can use AI for task automation, including administrative work, evaluating learning patterns, grading papers, responding to general queries, and more. Here are eight ways AI is used in education..1. Creating courses.A lot of time and money goes into creating learning courses via a central department. The use of AI streamlines the course creation process, speeding up the process and reducing costs. Whether you're using premade templates or starting from scratch, AI software for creating courses can help create interactive content seamlessly. You can efficiently work with your entire team via in-app comments from reviewers and co-authors to create perfect training material..AI simplifies and accelerates course development. By assessing student learning history and abilities, AI gives teachers a clear picture of the lessons and subjects requiring reevaluation. Teachers alter their courses by evaluating every student's specific needs to address common knowledge gaps. This enables teachers to develop the best learning programs for all students..2. Offering personalized learning.Personalization is a significant trend in education. AI gives students a customized learning approach depending on their unique preferences and experiences. AI can adjust to every student's knowledge level, desired goals, and learning speed to help get the most out of their learning. Additionally, AI-powered solutions can assess a student's learning history, pinpoint weaknesses, and provide courses suitable for improvement, offering many opportunities for personalized learning experiences..3. Enabling universal access.AI breaks down the silos between schools and traditional grade levels. Through AI tools, classrooms are now globally available to students, including those with visual or hearing impairment or who use different languages. Using a PowerPoint plugin like Presentation Translator, learners get real-time subtitles for all the teacher says, opening up new possibilities for the learners who have to learn at varying levels, want to learn subjects that aren't in their school, or are absent from school..4.  Pinpointing where courses should be improved.Teachers may not always know the gaps in their educational materials and lectures, which can confuse learners regarding particular concepts. AI provides a way to solve this issue. For instance, Coursera is already applying this. When many students give the wrong answers to their homework assignments, the system alerts the professor and offers future students customized messages that provide hints to the correct answer..This kind of system fills the gaps in explanation in courses and ensures every student is building a similar conceptual foundation. Instead of waiting to hear from the teacher, students receive immediate feedback to help them understand concepts better..5. Automation tasks.Teachers usually have a lot to manage, including classes and other administrative and organizational tasks. They grade tests, evaluate homework, fill the needed paperwork, make progress reports, organize lecture resources and materials, manage teaching materials, and more. This means they might spend too much time on non-teaching activities, leaving them overwhelmed. With the help of automation tools and solutions, educators can automate manual processes giving them more time to concentrate on teaching key competencies..6. Providing tutoring support.Intelligent tutoring systems, including AI chatbots and tutors, and tutoring programs are designed to handle customized feedback and guidelines for one-on-one teaching. Nonetheless, they can't replace teachers because they aren't advanced enough to teach the way humans can. They help in cases where teachers aren't available for subjects that can be taught and assessed online..AI is an effective tool that e-learning platforms can use to teach geography, languages, circuits, computer programming, medical diagnosis, physics, mathematics, chemistry, genetics, and more. They're equipped to consider engagement, grading metrics, and comprehension. AI tools help students sharpen their skills while improving weak areas outside the classroom..7. Promoting virtual learning.A virtual learning environment can provide group educational experiences, offer counseling services to students, and facilitate immersive learning experiences. With VR technologies, learners can directly connect their laptops or mobile devices to access the content. Using VR headsets, students with ADHD/ ADD can block distractions and increase concentration spans. In addition, students can help others in soft skill coaching, self-development, and life skills with interactive simulations..8. Creating smart content.Smart content may include digital guides, textbooks, videos, instructional snippets, and AI, which develop customized environments for learning organizations depending on goals and strategies. Personalization in the education sector is a future world trend that can be achieved by pinpointing the areas where AI solutions can play a role. For instance, an educational institution can establish an AR/VR-based learning environment and web-based lessons to go with it..Endnote.AI has revolutionized the education industry. Familiarize yourself with these ways AI is used in education..Disclaimer: Analytics Insight does not provide financial advice or guidance. Also note that the cryptocurrencies mentioned/listed on the website could potentially be scams, i.e. designed to induce you to invest financial resources that may be lost forever and not be recoverable once investments are made. You are responsible for conducting your own research (DYOR) before making any investments. Read more here.",Artificial Intelligence,2022-06-16T06:11:55Z,,,,,,,,,,https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/06/8-Ways-AI-is-Used-in-Education.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true,"{'@type': 'WebPage', 'url': 'https://www.analyticsinsight.net/artificial-intelligence/8-ways-ai-is-used-in-education', 'primaryImageOfPage': {'@type': 'ImageObject', 'url': 'https://media.assettype.com/analyticsinsight/import/wp-content/uploads/2022/06/8-Ways-AI-is-Used-in-Education.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true', 'width': '1200', 'height': '675'}}"

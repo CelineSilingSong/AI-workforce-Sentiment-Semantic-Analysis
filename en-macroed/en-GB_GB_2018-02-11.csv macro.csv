@@ -1,0 +1,1557 @@
+URL link,Title,Date,Source,Source Link,description,keywords,og:description,twitter:description,article:section,article:summary,article text,@context,@type,url,image,author,publisher,headline,datePublished,dateModified,articleSection,name,isAccessibleForFree,itemListElement,mainEntityOfPage,video,hasPart,copyrightHolder,sourceOrganization,copyrightYear,isPartOf,logo,@id,diversityPolicy,ethicsPolicy,masthead,foundingDate,sameAs,thumbnailUrl,embedUrl,contentUrl,uploadDate,transcript,duration,dateCreated,heading,legalName,contactPoint,potentialAction,inLanguage,articleBody,speakable,alternateName,@graph,alternativeHeadline,creator,telephone,address
+https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5taXQuZWR1LzIwMTgvc3R1ZHktZmluZHMtZ2VuZGVyLXNraW4tdHlwZS1iaWFzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXN5c3RlbXMtMDIxMtIBAA?oc=5,Study finds gender and skin-type bias in commercial artificial-intelligence systems - MIT News,2018-02-11,MIT News,https://news.mit.edu,"A new paper from the MIT Media Lab&#039;s Joy Buolamwini shows that three commercial facial-analysis programs demonstrate gender and skin-type biases, and suggests a new, more accurate method for evaluating the performance of such machine-learning systems.","MIT, facial analysis software, face recognition, gender bias, skin-type bias, skin color bias, racial bias, racial profiling, benchmarking, evaluation standards, Fitzpatrick skin-type scale, Joy Buolamwini, Gender Shades, Media Lab, racism","A new paper from the MIT Media Lab&#039;s Joy Buolamwini shows that three commercial facial-analysis programs demonstrate gender and skin-type biases, and suggests a new, more accurate method for evaluating the performance of such machine-learning systems.",N/A,N/A,N/A,"
+
+
+Examination of facial-analysis software shows error rate of 0.8 percent for light-skinned men, 34.7 percent for dark-skinned women.
+
+
+
+
+
+
+
+
+
+
+Watch Video
+
+
+
+Larry Hardesty
+|
+MIT News Office
+
+
+ Publication Date:
+ February 11, 2018
+
+
+
+
+
+Press Inquiries
+
+  Press Contact:
+
+
+
+      
+            Sara        
+
+            Remus        
+
+  
+
+      Email:
+     expertrequests@mit.edu
+
+
+      Phone:
+              617-253-2709      
+  
+
+      
+            MIT News Office        
+
+  
+
+
+ Media Download
+
+
+
+ 
+
+
+          ↓ Download Image
+
+
+
+ Caption:
+        
+              Joy Buolamwini,  a researcher in the MIT Media Lab's Civic Media group      
+ Credits:
+        
+              Photo: Bryce Vickmark      
+
+
+
+
+
+
+ 
+
+
+          ↓ Download Image
+
+
+
+ Caption:
+        
+              Joy Buolamwini, a researcher in the Media Lab's Civic Media group      
+ Credits:
+        
+              Photo: Bryce Vickmark      
+
+
+
+
+
+*Terms of Use:
+
+    Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a 
+    Creative Commons Attribution Non-Commercial No Derivatives license.
+    You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided 
+    below, credit the images to ""MIT."" 
+  
+
+
+
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Caption:
+          Joy Buolamwini,  a researcher in the MIT Media Lab's Civic Media group      
+          
+
+ Credits:
+          Photo: Bryce Vickmark      
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous image
+Next image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three commercially released facial-analysis programs from major technology companies demonstrate both skin-type and gender biases, according to a new paper researchers from MIT and Stanford University will present later this month at the Conference on Fairness, Accountability, and Transparency.In the researchers’ experiments, the three programs’ error rates in determining the gender of light-skinned men were never worse than 0.8 percent. For darker-skinned women, however, the error rates ballooned — to more than 20 percent in one case and more than 34 percent in the other two.The findings raise questions about how today’s neural networks, which learn to perform computational tasks by looking for patterns in huge data sets, are trained and evaluated. For instance, according to the paper, researchers at a major U.S. technology company claimed an accuracy rate of more than 97 percent for a face-recognition system they’d designed. But the data set used to assess its performance was more than 77 percent male and more than 83 percent white.
+
+
+
+
+
+
+
+
+
+
+“What’s really important here is the method and how that method applies to other applications,” says Joy Buolamwini, a researcher in the MIT Media Lab’s Civic Media group and first author on the new paper. “The same data-centric techniques that can be used to try to determine somebody’s gender are also used to identify a person when you’re looking for a criminal suspect or to unlock your phone. And it’s not just about computer vision. I’m really hopeful that this will spur more work into looking at [other] disparities.”Buolamwini is joined on the paper by Timnit Gebru, who was a graduate student at Stanford when the work was done and is now a postdoc at Microsoft Research.Chance discoveriesThe three programs that Buolamwini and Gebru investigated were general-purpose facial-analysis systems, which could be used to match faces in different photos as well as to assess characteristics such as gender, age, and mood. All three systems treated gender classification as a binary decision — male or female — which made their performance on that task particularly easy to assess statistically. But the same types of bias probably afflict the programs’ performance on other tasks, too.Indeed, it was the chance discovery of apparent bias in face-tracking by one of the programs that prompted Buolamwini’s investigation in the first place.Several years ago, as a graduate student at the Media Lab, Buolamwini was working on a system she called Upbeat Walls, an interactive, multimedia art installation that allowed users to control colorful patterns projected on a reflective surface by moving their heads. To track the user’s movements, the system used a commercial facial-analysis program.The team that Buolamwini assembled to work on the project was ethnically diverse, but the researchers found that, when it came time to present the device in public, they had to rely on one of the lighter-skinned team members to demonstrate it. The system just didn’t seem to work reliably with darker-skinned users.Curious, Buolamwini, who is black, began submitting photos of herself to commercial facial-recognition programs. In several cases, the programs failed to recognize the photos as featuring a human face at all. When they did, they consistently misclassified Buolamwini’s gender.Quantitative standardsTo begin investigating the programs’ biases systematically, Buolamwini first assembled a set of images in which women and people with dark skin are much better-represented than they are in the data sets typically used to evaluate face-analysis systems. The final set contained more than 1,200 images.Next, she worked with a dermatologic surgeon to code the images according to the Fitzpatrick scale of skin tones, a six-point scale, from light to dark, originally developed by dermatologists as a means of assessing risk of sunburn.Then she applied three commercial facial-analysis systems from major technology companies to her newly constructed data set. Across all three, the error rates for gender classification were consistently higher for females than they were for males, and for darker-skinned subjects than for lighter-skinned subjects.For darker-skinned women — those assigned scores of IV, V, or VI on the Fitzpatrick scale — the error rates were 20.8 percent, 34.5 percent, and 34.7. But with two of the systems, the error rates for the darkest-skinned women in the data set — those assigned a score of VI — were worse still: 46.5 percent and 46.8 percent. Essentially, for those women, the system might as well have been guessing gender at random.“To fail on one in three, in a commercial system, on something that’s been reduced to a binary classification task, you have to ask, would that have been permitted if those failure rates were in a different subgroup?” Buolamwini says. “The other big lesson ... is that our benchmarks, the standards by which we measure success, themselves can give us a false sense of progress.”“This is an area where the data sets have a large influence on what happens to the model,” says Ruchir Puri, chief architect of IBM’s Watson artificial-intelligence system. “We have a new model now that we brought out that is much more balanced in terms of accuracy across the benchmark that Joy was looking at. It has a half a million images with balanced types, and we have a different underlying neural network that is much more robust.”“It takes time for us to do these things,” he adds. “We’ve been working on this roughly eight to nine months. The model isn’t specifically a response to her paper, but we took it upon ourselves to address the questions she had raised directly, including her benchmark. She was bringing up some very important points, and we should look at how our new work stands up to them.”
+
+
+
+
+
+
+
+
+Share this news article on:
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+Press Mentions
+
+
+MashableMashable reporter Adele Walton spotlights Joy Buolamwini PhD '22 and her work in uncovering racial bias in digital technology. “Buolamwini created what she called the Aspire Mirror, which used face-tracking software to register the movements of the user and overlay them onto an aspirational figure,” explains Walton. “When she realised the facial recognition wouldn’t detect her until she was holding a white mask over her face, she was confronted face on with what she termed the ‘coded gaze.’ She soon founded the Algorithmic Justice League, which exists to prevent AI harms and increase accountability.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via Mashable →
+The Boston GlobeJoy Buolamwini PhD '22 speaks with Brian Bergstein of The Boston Globe’s “Say More” podcast about her academic and professional career studying bias in AI. “As I learned more and also became familiar with the negative impacts of things like facial recognition technologies, it wasn’t just the call to say let’s make systems more accurate but a call to say let’s reexamine the ways in which we create AI in the first place and let’s reexamine our measures of progress because so far they have been misleading,” says Buolamwini
+
+
+
+
+
+
+
+
+ Full story via The Boston Globe →
+Los Angeles TimesLos Angeles Times reporter Brian Merchant spotlights Joy Buolamwini PhD '22 and her new book, “Unmasking AI: My Mission to Protect What is Human in a World of Machines.” “Buolamwini’s book recounts her journey to become one of the nation’s preeminent scholars and critics of artificial intelligence — she recently advised President Biden before the release of his executive order on AI — and offers readers a compelling, digestible guide to some of the most pressing issues in the field,” writes Merchant.
+
+
+
+
+
+
+
+
+
+
+
+Full story via Los Angeles Times →
+The Boston GlobeJoy Buolamwini PhD '22 writes for The Boston Globe about her experience uncovering bias in artificial intelligence through her academic and professional career. “I critique AI from a place of having been enamored with its promise, as an engineer more eager to work with machines than with people at times, as an aspiring academic turned into an accidental advocate, and also as an artist awakened to the power of the personal when addressing the seemingly technical,” writes Buolamwini. “The option to say no, the option to halt a project, the option to admit to the creation of dangerous and harmful though well-intentioned tools must always be on the table.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via The Boston Globe →
+Diverse Issues in Higher EducationJoy Buolamwini PhD ’22 has been named one of Diverse: Issues in Higher Education’s Top Women for 2023 for her work in developing “more equitable and accountable technology.” Buolamwini “uncovered racial and gender bias in AI services from high profile companies such as Microsoft, IBM and Amazon. Now a sought-after international speaker, Buolamwini continues to advocate for algorithmic justice,” writes Diverse: Issues in Higher Education.
+
+
+
+
+
+
+
+
+
+
+
+Full story via Diverse Issues in Higher Education →
+New York TimesGraduate student Joy Buolamwini joins Kara Swisher on The New York Times' “Sway” podcast to discuss her crusade against bias in facial recognition technologies. “If you have a face, you have a place in this conversation,” says Buolamwini.
+
+
+
+
+
+
+
+
+ Full story via New York Times →
+NBC NewsNBC News reporters Lindsay Hoffman and Caroline Kim spotlight graduate student Joy Buolamwini’s work uncovering racial and gender bias in AI systems in a piece highlighting women who are “shattering ceilings, making groundbreaking discoveries, and spreading public awareness during the global pandemic.” Hoffman and Kim note that Buolamwini’s research ""helped persuade these companies to put a hold on facial recognition technology until federal regulations were passed.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via NBC News →
+Fast CompanyFast Company reporter Amy Farley spotlights graduate student Joy Buolamwini and her work battling bias in artificial intelligence systems, noting that “when it comes to AI injustices, her voice resonates.” Buolamwini emphasizes that “we have a voice and a choice in the kind of future we have.”
+
+
+
+
+
+
+
+
+
+
+
+Learn more  →
+The VergeVerge reporter Nick Statt notes that, “Much of the foundational work showing the flaws of modern facial recognition tech with regard to racial bias is thanks to Joy Buolamwini, a researcher at the MIT Media Lab, and Timnit Gebru, a member at Microsoft Research.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via The Verge →
+QuartzQuartz reporter Nicolas Rivero notes that IBM’s decision to end its facial recognition program was inspired by “one influential piece of research: the Gender Shades project, from MIT Media Lab’s Joy Buolamwini and Microsoft Research’s Timnit Gebru.” Buolamwini and Gebru found that “commercial facial recognition software was significantly less accurate for darker-skinned women than for lighter-skinned men. “
+
+
+
+
+
+
+
+
+
+
+
+Full story via Quartz →
+Financial TimesGraduate student Joy Buolamwini has been named to the Financial Times’ list of change-makers, which highlights “30 of the planet’s most exciting young people.” Financial Times reporter India Ross notes that Buolamwini, “identified gender and racial biases in artificial intelligence, and her efforts have prompted technology companies such as IBM to upgrade their software accordingly.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via Financial Times →
+TimeGraduate student Joy Buolamwini writes for TIME about the need to tackle gender and racial bias in AI systems. “By working to reduce the exclusion overhead and enabling marginalized communities to engage in the development and governance of AI, we can work toward creating systems that embrace full spectrum inclusion,” writes Buolamwini.
+
+
+
+
+
+
+
+
+
+
+
+Full story via Time →
+Fortune- CNNFortune reporters Aaron Pressman and Adam Lashinsky highlight graduate student Joy Buolamwini’s work aimed at eliminating bias in AI and machine learning systems. Pressman and Lashinsky note that Buolamwini believes that “who codes matters,” as more diverse teams of programmers could help prevent algorithmic bias. 
+
+
+
+
+
+
+
+
+
+
+
+Full story via Fortune- CNN →
+BloombergIn a recent blog post, Microsoft’s president and chief legal officer, Brad Smith, references research by MIT graduate student Joy Buolamwini while calling for government to regulate the use of facial recognition software. Buolamwini’s work “showed error rates of as much as 35% for systems classifying darker skinned women,” reports Dina Bass for Bloomberg.
+
+
+
+
+
+
+
+
+
+
+
+Full story via Bloomberg →
+co.designKatharine Schwab of Co.Design highlights graduate student Joy Buolamwini and Visiting Scholar J. Nathan Matias as “design heroes” for their commitment to keep technology fair. Schwab writes that Buolamwini has forced companies “to develop better, more equitable technology” while Matias helped “reduced the prevalence of fake news.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via co.design →
+New York TimesIn an article for The New York Times, graduate student Joy Buolamwini writes about how AI systems can often reinforce existing racial biases and exclusions. Buolamwini writes that, “Everyday people should support lawmakers, activists and public-interest technologists in demanding transparency, equity and accountability in the use of artificial intelligence that governs our lives.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via New York Times →
+WGBHA recent study from Media Lab graduate student Joy Buolamwini addresses errors in facial recognition software that create concern for civil liberties. “If programmers are training artificial intelligence on a set of images primarily made up of white male faces, their systems will reflect that bias,” writes Cristina Quinn for WGBH.
+
+
+
+
+
+
+
+
+
+
+
+Full story via WGBH →
+Boston MagazineSpencer Buell of Boston Magazine speaks with graduate student Joy Buolamwini, whose research shows that many AI programs are unable to recognize non-white faces. “‘We have blind faith in these systems,’ she says. ‘We risk perpetuating inequality in the guise of machine neutrality if we’re not paying attention.’”
+
+
+
+
+
+
+
+
+
+
+
+Full story via Boston Magazine →
+QuartzDave Gershgorn writes for Quartz, highlighting congress’ concerns around the dangers of inaccurate facial recognition programs. He cites Joy Buolamwini’s Media Lab research on facial recognition, which he says “maintains that facial recognition is still significantly worse for people of color.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via Quartz →
+The EconomistAn article in The Economist states that new research by MIT grad student Joy Buolamwini supports the suspicion that facial recognition software is better at processing white faces than those of other people. The bias probably arises “from the sets of data the firms concerned used to train their software,” the article suggests.
+
+
+
+
+
+
+
+
+
+
+
+Full story via The Economist →
+co.designRecent research from graduate student Joy Buolamwini shows that facial recognition programs, which are increasingly being used by law enforcement, are failing to identify non-white faces. “When these systems can’t recognize darker faces with as much accuracy as lighter faces, there’s a higher likelihood that innocent people will be targeted by law enforcement,” writes Katharine Schwab for Co. Design. 
+
+
+
+
+
+
+
+
+
+
+
+Full story via co.design →
+New ScientistGraduate student Joy Buolamwini tested three different face-recognition systems and found that the accuracy is best when the subject is a lighter skinned man, reports Timothy Revell for New Scientist. With facial recognition software being used by police to identify suspects, “this means inaccuracies could have consequences, such as systematically ingraining biases in police stop and searches,” writes Revell.
+
+
+
+
+
+
+
+
+
+
+
+Full story via New Scientist →
+MarketplaceMolly Wood at Marketplace speaks with Media Lab graduate student Joy Buolamwini about the findings of her recent research, which examined widespread bias in AI-supported facial recognition programs. “At the end of the day, data reflects our history, and our history has been very biased to date,” Buolamwini said.
+
+
+
+
+
+
+
+
+ Full story via Marketplace →
+QuartzA study co-authored by MIT graduate student Joy Buolamwini finds that facial-recognition software is less accurate when identifying darker skin tones, especially those of women, writes Josh Horwitz of Quartz. According to the study, these errors could cause AI services to “treat individuals differently based on factors such as skin color or gender,” explains Horwitz.
+
+
+
+
+
+
+
+
+
+
+
+Full story via Quartz →
+GizmodoWriting for Gizmodo, Sidney Fussell explains that a new Media Lab study finds facial-recognition software is most accurate when identifying men with lighter skin and least accurate for women with darker skin. The software analyzed by graduate student Joy Buolamwini “misidentified the gender of dark-skinned females 35 percent of the time,” explains Fussell.
+
+
+
+
+
+
+
+
+
+
+
+Full story via Gizmodo →
+The New York TimesSteve Lohr writes for the New York Times about graduate student Joy Buolamwini’s findings on the biases of artificial intelligence in facial recognition. “You can’t have ethical A.I. that’s not inclusive,” Buolamwini said. “And whoever is creating the technology is setting the standards.”
+
+
+
+
+
+
+
+
+
+
+
+Full story via The New York Times →
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Links
+
+Paper: "" Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.""Gender Shades project websiteJoy BuolamwiniCenter for Civic MediaMedia LabSchool of Architecture and Planning
+
+
+
+
+
+
+Related Topics
+
+Research
+School of Architecture and Planning
+Media Lab
+Center for Civic Media
+Artificial intelligence
+Computer science and technology
+Diversity and inclusion
+Machine learning
+Technology and society
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+Cornel West advocates the “examined life” on campus
+
+
+
+
+
+
+
+
+
+
+
+
+
+Joy Buolamwini wins national contest for her work fighting bias in machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+Institute launches the MIT Intelligence Quest 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designing virtual identities for empowerment and social change
+
+
+
+
+
+
+
+
+
+
+
+
+
+President Obama discusses artificial intelligence with Media Lab Director Joi Ito
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Jlcm5hcmRtYXJyLzIwMTgvMDIvMTQvdGhlLWtleS1kZWZpbml0aW9ucy1vZi1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS10aGF0LWV4cGxhaW4taXRzLWltcG9ydGFuY2Uv0gEA?oc=5,The Key Definitions Of Artificial Intelligence (AI) That Explain Its Importance - Forbes,2018-02-14,Forbes,https://www.forbes.com,"Since the first use of the term artificial intelligence in 1956, the field of AI has grown and has the attention of all industries, splintered into specialized areas and evolved into creating AI tools and services that complement humans. Here are 6 definitions of AI and a look at.",,"Since the first use of the term artificial intelligence in 1956, the field of AI has grown and has the attention of all industries, splintered into specialized areas and evolved into creating AI tools and services that complement humans. Here are 6 definitions of AI and a look at.","Since the first use of the term artificial intelligence in 1956, the field of AI has grown and has the attention of all industries, splintered into specialized areas and evolved into creating AI tools and services that complement humans. Here are 6 definitions of AI and a look at.",Tech,N/A,"More From ForbesMar 15, 2024,07:08am EDTUK And Germany Double Down On Joint AI, Clean Energy R&D EffortsNov 28, 2023,01:05am ESTDecarbonizing Heavy Transportation: Quantron's Michael Perschke On Pioneering Hydrogen SolutionsNov 20, 2023,01:59am ESTBridging The Digital Divide In The AI Era - The UNDP WayOct 15, 2023,01:36pm EDTBig Tech Ramps Up Content Moderation Amid EU PressureOct 10, 2023,01:34pm EDTSpain's Successful Miura 1 Launch Reignites Europe's Hopes For Space ExplorationOct 7, 2023,02:39am EDTUNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AISep 23, 2023,04:47am EDTEurope's Bid To Become A Semiconductor SuperpowerEdit StoryForbesInnovationEnterprise TechThe Key Definitions Of Artificial Intelligence (AI) That Explain Its ImportanceBernard MarrContributorOpinions expressed by Forbes Contributors are their own.FollowingFollowClick to save this article.You'll be asked to sign into your Forbes account.Got itFeb 14, 2018,01:27am ESTUpdated Dec 10, 2021, 08:30am ESTThis article is more than 6 years old.Share to FacebookShare to TwitterShare to LinkedinDiscussions of artificial intelligence (AI) have created a certain amount of unease by those who fear it will quickly evolve from being a benefit to human society to taking over. Even Stephen Hawking and Elon Musk have warned of AI’s threats. However, we’re not all operating from the same definition of the term and while the foundation is generally the same, the focus of artificial intelligence shifts depending on the entity that provides the definition. Let’s look at 6 definitions of artificial intelligence and see how some of the industry’s leaders are focusing their AI research efforts.
+
+
+
+
+
+
+
+
+Adobe Stock
+Adobe Stock
+
+
+
+
+
+
+John McCarthy first coined the term artificial intelligence in 1956 when he invited a group of researchers from a variety of disciplines including language simulation, neuron nets, complexity theory and more to a summer workshop called the Dartmouth Summer Research Project on Artificial Intelligence to discuss what would ultimately become the field of AI. At that time, the researchers came together to clarify and develop the concepts around “thinking machines” which up to this point had been quite divergent. McCarthy is said to have picked the name artificial intelligence for its neutrality; to avoid highlighting one of the tracks being pursued at the time for the field of “thinking machines” that included cybernetics, automata theory and complex information processing. The proposal for the conference said, “The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.”
+Today, modern dictionary definitions focus on AI being a sub-field of computer science and how machines can imitate human intelligence (being human-like rather than becoming human). The English Oxford Living Dictionary gives this definition: “The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.”
+PROMOTED
+Merriam-Webster defines artificial intelligence this way:
+
+      A branch of computer science dealing with the simulation of intelligent behavior in computers.
+      The capability of a machine to imitate intelligent human behavior.
+
+The Encyclopedia Britannica states, “artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.” Intelligent beings are those that can adapt to changing circumstances.
+
+
+
+
+
+
+
+
+
+DailyDozen
+US
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+
+
+
+                Sign Up
+            
+
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our Terms of Service (including resolving disputes on an individual basis via arbitration), and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+You’re all set! Enjoy the Daily!
+
+
+                More Newsletters
+            
+
+
+You’re all set! Enjoy the Daily!
+
+                More Newsletters
+            
+
+
+
+Definitions of artificial intelligence begin to shift based upon the goals that are trying to be achieved with an AI system. Generally, people invest in AI development for one of these three objectives:
+
+      Build systems that think exactly like humans do (“strong AI”)
+      Just get systems to work without figuring out how human reasoning works (“weak AI”)
+      Use human reasoning as a model but not necessarily the end goal
+
+Turns out that the bulk of the AI development happening today by industry leaders falls under the third objective and uses human reasoning as a guide to provide better services or create better products rather trying to achieve a perfect replica of the human mind.
+Amazon builds a lot of its business on machine-learning systems (as a subset of AI) and defines AI as “the field of computer science dedicated to solving cognitive problems commonly associated with human intelligence, such as learning, problem solving, and pattern recognition.” Machine learning is so important to Amazon, they stated, “Without ML, Amazon.com couldn’t grow its business, improve its customer experience and selection, and optimize its logistic speed and quality.”
+While some of the major tech companies haven’t published a dictionary-type definition for AI, we can extrapolate how they define the importance of AI by reviewing their research areas.
+Machine and deep learning are the priority for Google AI and its tools to “create smarter, more useful technology and help as many people as possible” from translations to healthcare to making our smartphones even smarter. Facebook AI Research is committed to “advancing the file of machine intelligence and are creating new technologies to give people better ways to communicate.” IBM’s three areas of focus include AI Engineering, building scalable AI models and tools; AI Tech where the core capabilities of AI such as natural language processing, speech and image recognition and reasoning are explored and AI Science, where expanding the frontiers of AI is the focus.
+In 2016, several industry leaders including Amazon, Apple, DeepMind, Google, IBM and Microsoft joined together to create Partnership on AI to Benefit People and Society to develop and share best practices, advance public understanding, provide an open platform for discussion and to identify aspirational effort in AI for socially beneficial purposes.
+Those working with AI today make it a priority to define the field for the problems it will solve and the benefits the technology can have for society. It’s no longer a primary objective for most to get to AI that operates just like a human brain, but to use its unique capabilities to enhance our world.Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. Bernard MarrFollowingFollowBernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is... Read MoreEditorial StandardsPrintReprints & Permissions
+1/100:00Miley Cyrus Explains Why Growing With Her Audience Means So Much To Her
+
+
+
+
+
+Skip Ad
+ 
+Continue watchingMiley Cyrus Explains Why Growing With Her Audience Means So Much To Herafter the adVisit Advertiser websiteGO TO PAGE",http://schema.org,BreadcrumbList,https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/,"{'@type': 'ImageObject', 'url': 'https://imageio.forbes.com/blogs-images/bernardmarr/files/2018/02/AdobeStock_99172804-1200x848.jpeg?format=jpg&height=900&width=1600&fit=bounds', 'width': 542.79, 'height': 304.6}","{'@type': 'Person', 'name': 'Bernard Marr', 'url': 'https://www.forbes.com/sites/bernardmarr/', 'description': 'Bernard Marr is a world-renowned futurist, board advisor and author of Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society. He has written over 20 best-selling and award-winning books and advises and coaches many of the world’s best-known organisations. He has a combined following of 4 million people across his social media channels and newsletters and was ranked by LinkedIn as one of the top 5 business influencers in the world. Follow Bernard on LinkedIn, X (Twitter) or YouTube. Join his newsletter, check out his website and books.', 'sameAs': ['https://www.linkedin.com/in/bernardmarr/', 'https://www.twitter.com/BernardMarr', 'https://bernardmarr.com/']}","{'@type': 'NewsMediaOrganization', 'name': 'Forbes', 'url': 'https://www.forbes.com/', 'ethicsPolicy': 'https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/', 'logo': 'https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=455&width=650&fit=bounds'}",The Key Definitions Of Artificial Intelligence (AI) That Explain Its Importance,2018-02-14T01:27:00-05:00,2021-12-10T08:30:37-05:00,Tech,The Key Definitions Of Artificial Intelligence (AI) That Explain Its Importance,False,"[{'@type': 'ListItem', 'position': 1, 'name': 'Forbes Homepage', 'item': 'https://www.forbes.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Innovation', 'item': 'https://www.forbes.com/innovation/'}, {'@type': 'ListItem', 'position': 3, 'name': 'Enterprise Tech', 'item': 'https://www.forbes.com/enterprise-tech/'}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiigFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbm8tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utd29udC1zdGVhbC15b3VyLWNoaWxkcmVucy1qb2JzLWl0LXdpbGwtbWFrZS10aGVtLW1vcmUtY3JlYXRpdmUtYW5kLXByb2R1Y3RpdmUtOTE2NzLSAQA?oc=5,"No, artificial intelligence won't steal your children's jobs – it will make them more creative and productive - The Conversation",2018-02-13,The Conversation,https://theconversation.com,"The history of human-machine collaboration suggests that AI will evolve into a “cognitive partner” to humankind rather than as all-powerful, all-knowing, labour replacing robots.",N/A,"The history of human-machine collaboration suggests that AI will evolve into a “cognitive partner” to humankind rather than as all-powerful, all-knowing, labour replacing robots.",N/A,N/A,N/A,"
+
+
+
+
+
+
+
+            No, artificial intelligence won’t steal your children’s jobs – it will make them more creative and productive
+          
+
+
+
+
+Published: February 13, 2018 3:22pm EST
+•Updated: February 26, 2018 4:42pm EST
+
+
+
+
+
+
+
+
+
+
+
+Marcos Lima, Pôle Léonard de Vinci
+
+
+
+Author
+
+
+
+
+
+        Marcos Lima
+      
+
+
+      Responsable de la filière Marketing Innovation and Distribution, EMLV (Ecole de Management Léonard de Vinci), Pôle Léonard de Vinci
+    
+
+
+
+
+
+Disclosure statement
+Marcos Lima does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+
+
+Partners
+
+Pôle Léonard de Vinci provides funding as a member of The Conversation FR.
+View all partners
+
+We believe in the free flow of informationRepublish our articles for free, online or in print, under a Creative Commons license.Republish this article
+
+
+
+
+
+      The South Korean go player Lee Sedol after a 2016 match against Google’s artificial-intelligence program AlphaGo. Sedol, ranked 9th in the world, lost 4-1.
+      Lee Jin-man/Flickr, CC BY
+
+
+
+
+
+ Email
+
+
+ X (Twitter)29
+
+
+ Facebook168
+
+
+ LinkedIn
+
+
+ WhatsApp
+
+
+ Messenger
+
+ Print
+
+
+
+“Whatever your job is, the chances are that one of these machines can do it faster or better than you can.”
+
+No, this is not a 2018 headline about self-driving cars or one of IBM’s new supercomputers. Instead, it was published by the Daily Mirror in 1955, when a computer took as much space as a large kitchen and had less power than a pocket calculator. They were called “electronic brains” back then, and evoked both hope and fear. And more than 20 years later, little had changed: In a 1978 BBC documentary about silicon chips, one commentator argued that “They are the reason why Japan is abandoning its shipbuilding and why our children will grow up without jobs to go to”.
+Artificial intelligence hype is not new
+If one types “artificial intelligence” (AI) on Google Books’ Ngram Viewer – a tool that allows us to check how often a term was printed in a book between 1800 and 2008 – we can clearly see that our modern-day hype, optimism and deep concern about AI are by no means a novelty.
+
+
+
+Searches for the term ‘artificial intelligence’ on Google Books’ Ngram viewer.
+Author provided
+
+
+The history of AI is a long series of booms and busts. The first “AI spring” took place between 1956 and 1974, with pioneers such as the young Marvin Minsky. This was followed by the “first AI winter” (1974-1980), when disillusion with the gap between machine learning and human cognitive capacities first led to disinvestment and disinterest in the topic. A second boom (1980-1987) was followed by another “winter” (1987-2001). Since the 2000s we’ve been surfing the third “AI spring”.
+There’s plenty of reasons to believe this latest wave of interest for AI is going to be more durable. According to Gartner Research, technologies typically go from a “peak of inflated expectations” through a “trough of disillusionment” until they finally reach a “plateau of productivity”. AI-intensive technologies such as virtual assistants, the Internet of Things, smart robots and augmented data discovery are about to reach the peak. Deep learning, machine learning and cognitive expert advisors are expected to reach the plateau of mainstream applications in two to five years.
+Narrow intelligence
+We finally seem to have enough computing power to credibly develop what is called “narrow AI”, of which all the aforementioned technologies are an example. These are not to be confused with “artificial general intelligence” (AGI), which scientist and futurologist Ray Kurzweil called “strong AI”. Some of the most advanced AI systems to date, such as IBM’s Watson supercomputer or Google’s AlphaGo, are examples of narrow AI. They can be trained to perform complex tasks such as identifying cancerous skin patterns or playing the ancient Chinese strategy game of Go. They are very far, however, from being capable to do everyday general intelligence tasks such as gardening, arguing or inventing a children’s story. 
+The cautionary prophecies of visionaries like Elon Musk, Bill Gates and Stephen Hawking against AI really are meant as an early warning against the dangers of AGI, but that is not something our children will be confronted with. Their immediate partners will be of the narrow AI kind. The future of labour depends on how well we equip them to use computers as cognitive partners .
+
+
+
+Hype cycle for emerging technologies.
+Gartner Research
+
+
+Better together
+Garry Kasparov – the chess grandmaster who was defeated by IBM’s Deep Blue computer in 1997 – calls this human-machine cooperation “augmented intelligence”. He compares this “augmentation” to the mythic image of a centaur: combine a quadruped’s horsepower with the intuition of a human mind. To illustrate the potential of centaurs, he describes a freestyle chess tournament in 2005 in which any combination of human-machine teams was possible. In his words:
+
+“The winner was revealed to be not a grandmaster with a state-of-the-art PC but a pair of amateur American chess players using three computers at the same time. Their skill at manipulating and ‘coaching’ their computers to look very deeply into positions effectively counteracted the superior chess understanding of their grand-master opponents and the greater computational power of other participants. Weak human + machine + better process was superior to a strong computer alone and, more remarkably, superior to a strong human + machine + inferior process. Human strategic guidance combined with the tactical acuity of a computer was overwhelming.”
+
+Human-machine cognitive partnerships can amplify what each partner does best: humans are great at making intuitive and creative decisions based on knowledge while computers are good at sifting through large amounts of data to produce information that will feed into human knowledge and decision making. We use this combination of narrow AI and human unique cognitive and motor skills every day, often without realising it. A few examples:
+
+Using Internet search engines to find content (videos, images, articles) that will be helpful in preparing for a school assignment. Then combining them in creative ways in a multimedia slide presentation. 
+Using a translation algorithm to produce a first draft of a document in a different language, then manually improving the style and grammar of the final document.
+Driving a car to an unknown destination using a smartphone GPS application to navigate through alternative routes based on real-time traffic information;
+Relying on a movie-streaming platform to shortlist films you are going to appreciate based on your recent history; making the final choice based on mood, social context, serendipity.
+
+Netflix is a great example of this collaboration at its best. By using machine-learning algorithms to analyse how often and how long people watch their content, they can determine how engaging each story component is to certain audiences. This information is used by screenwriters, producers and directors to better understand what and how to create new content. Virtual-reality technology allows content creators to experiment with different storytelling perspectives before they ever shoot a single scene. 
+Likewise, architects can rely on computers to adjust the functional aspects of their work. Software engineers can focus on the overall systems structure while machines provide ready-to-use code snippets and libraries to speed up the process. Marketers rely on big data and visualisation tools to determine how to better understand customer needs and develop better products and services. None of these tasks could be accomplished by AI without human guidance. Conversely, human creativity and productivity have been enormously leveraged by this AI support, allowing to achieve better quality solutions at lower costs.
+Losses and gains
+As innovation accelerates, thousands of jobs will disappear, just as it has happened in the previous cycles of industrial revolutions. Machines powered by narrow AI algorithms can already perform certain 3D tasks (“dull, dirty and dangerous”) much better than humans. This may create enormous pain for those who are losing their jobs over the next few years, particularly if they don’t acquire the computer-related skills that would enable them to find more creative opportunities. We must learn from the previous waves of creative destruction if we are to mitigate human suffering and increasing inequality. 
+For example, some statistics indicate that as much as 3% of the population in developed countries work as drivers. When automated cars become a reality in the next 15 to 25 years, we must offer people who will be “structurally unemployed” some sort of compensation income, training and re-positioning opportunities.
+Fortunately, the Schumpeterian waves of destructive innovation also create jobs. History has shown that disruptive innovations are not always a zero-sum game. On the long run, the loss of low-added-value jobs to machines can have a positive impact in the overall quality of life of most workers. The ATM paradox is a good example of this. As the use of automatic teller machines spread in the 1980s and ‘90s, many predicted massive unemployment in the banking sector. Instead, ATMs created more jobs as the cost of opening new agencies decreased. The number of agencies multiplied, as did the portfolio of banking products. Thanks to automation, going to the bank offers a much better customer experience than in previous decades. And the jobs in the industry became better paid and were of better quality. 
+A similar phenomenon happened with the textile industry in the 19th century. Better human-machine coordination leveraged productivity and created customer value, increasing the overall market size and creating new employment opportunities. Likewise, we may predict that as low-quality jobs continue to disappear, AI-assisted jobs will emerge to fulfil the increasing demand for more productive, ecological and creative products. More productivity may mean shorter work weeks and more time for family and entertainment, which may lead to more sustainable forms of value creation and, ultimately, more jobs. 
+Adapting to the future
+This optimist scenario assumes, however, that education systems will do a better job of preparing our children to become good at what humans do best: creative and critical thinking. Less learning-by-heart (after all, most information is one Google search away) and more learning-by-doing. Fewer clerical skills and more philosophical insights about human nature and how to cater to its infinite needs for art and culture. As Apple founder and CEO Steve Jobs famously said:
+
+“What made the Macintosh great was that the people working on it were musicians and poets and artists and zoologists and historians who also happened to be the best computer scientists in the world.” 
+
+
+
+
+Apple founder and CEO Steve Jobs.
+
+
+To become creative and critical thinkers, our children will need knowledge and wisdom more than raw data points. They need to ask “why?”, “how?” and “what if?” more often than “what?”, who?“ and ""when?”  And they must construct this knowledge by relying on databases as cognitive partners as soon as they learn how to read and write. Constructivist methods such as the “flipped classroom” approach are a good step in that direction. In flipped classrooms, students are told to search for specific contents on the web at home and to come to class ready to apply what they learned in a collaborative project supervised by the teacher. Thus they do their “homework” (exercise) in class and they have web “lectures” at home, optimising class time to do what computers cannot help them to do: create, develop and apply complex ideas collaboratively with their peers.
+Thus, the future of human-machine collaboration looks less like the scenario in the Terminator movies and more like a Minority Report-style of “augmented intelligence”. There will be jobs if we adapt the education system to equip our children to do what humans are good at: to think critically and creatively, to develop knowledge and wisdom, to appreciate and create beautiful works of art. That does not mean it will be a painless transition. Machines and automation will likely take away millions of low-quality jobs as it has happened in the past. But better-quality jobs will likely replace them, requiring less physical effort and shorter hours to deliver better results. At least until artificial general intelligence becomes a reality – then all bets are off. But this will likely be our great-grandchildren’s problem.
+
+
+
+
+
+Autonomous vehicles
+
+
+Netflix
+
+
+Chess
+
+
+Machine learning
+
+
+Automated Teller Machine
+
+
+The Conversation France
+
+
+Hype
+
+
+Garry Kasparov
+
+
+AlphaGo
+
+
+IBM Watson
+
+
+artifical intelligence
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDIvMTIvdGVjaG5vbG9neS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1uZXctd29yay1zdW1taXQuaHRtbNIBAA?oc=5,How Artificial Intelligence Is Edging Its Way Into Our Lives (Published 2018) - The New York Times,2018-02-12,The New York Times,https://www.nytimes.com,"Leading innovators, investors and policymakers offered their visions for artificial intelligence at the New York Times's New Work Summit conference.",N/A,"Artificial intelligence is here, and its effects are being felt across how we work. The New York Times examines the impact at its New Work Summit on Feb. 12 and 13.","Artificial intelligence is here, and its effects are being felt across how we work. The New York Times examines the impact at its New Work Summit on Feb. 12 and 13.",Technology,N/A,"Artificial IntelligenceFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingHumane’s A.I. Device FlopAdvertisementSKIP ADVERTISEMENTSupported bySKIP ADVERTISEMENTHow Artificial Intelligence Is Edging Its Way Into Our LivesShare full articleRead in appVideotranscriptBackbars0:00/2:38-0:00transcriptThe Future of A.I., in 3 MinutesLeading innovators, investors and policymakers offered their visions for artificial intelligence at the New York Times's New Work Summit conference.“Imagine that you had 1,000 interns that you could just throw at a business problem. In a lot of cases, the A.I.s can do the work of 1,000 interns.” “A.I. is the new electricity. About 100 years ago, here in the United States, the rise of electrification transformed every major industry.” “There’s nothing artificial about it. After all, A.I. is made by humans, intended to behave like humans, and ultimately, to impact human lives and human society.” “It’s usually not true that technology change eliminates work. It changes work. So, I think our objective has to be to make sure that we have education systems that can take care of people who thought they were going to be doing one thing for a very long time, and now have to figure out how to do something else.” “I think a universal basic income is inevitable. I just don’t think it’s inevitable soon.” “A lot of emerging technologies in the U.S. are currently being powered, and continue to be powered, by artificial intelligence. And for us, it’s key to get ahead of those regulatory hurdles.” “The American products are simply uncompetitive in the China market. And I mean uncompetitive both in not localized right for the local needs, and also just on a product to product, feature per feature level not competitive.” “I think from a society perspective, we have to not fight it. We have to embrace it. As Jim was talking about China, what struck me is China is investing billions of dollars a year into A.I., while the U.S. is still fighting to keep coal-fired power plants alive. There’s got to be something wrong with this picture, no, people?” “A lot of companies look to us, and the first question they ask us is do they trust us. In today’s world, especially in the tech world, I think that’s the first question that everybody asks. We’re in a crisis of trust.” “This is the most important thing we’re working on right now, which is just keeping the community safe, making sure that content that shouldn’t be on Facebook isn’t there. I honestly think if we didn’t have the advances in A.I., we’d be in — this would be hard to solve at the scale we’re operating at.” “I think that the road to making autonomous vehicles a reality might be shorter than most people think.” “And why is that?” “I think I know some things that aren’t publicly known.” “There will be speed bumps, but that can’t deter us from getting this right, because the world’s been waiting such a long time.” “So some of these big challenges that we have, climate change, things like that, now with A.I. and big data, we can put those together in a recipe that I think will have some very palpable impact in five years.”
+
+
+
+
+
+
+
+Advertisement
+
+LIVE
+      
+
+
+00:00
+
+
+
+
+
+
+
+
+
+2:38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Future of A.I., in 3 Minutes2:38Leading innovators, investors and policymakers offered their visions for artificial intelligence at the New York Times's New Work Summit conference.CreditCredit...Mike Cohen for The New York TimesBy The New York TimesFeb. 12, 2018阅读简体中文版閱讀繁體中文版See how this article appeared when it was originally published on NYTimes.com.In Phoenix, cars are self-navigating the streets. In many homes, people are barking commands at tiny machines, with the machines responding. On our smartphones, apps can now recognize faces in photos and translate from one language to another.Artificial intelligence is here — and it’s bringing new possibilities, while also raising questions. Do these gadgets and services really behave as advertised? How will they evolve in the years ahead? How quickly will they overhaul the way we live and change the way we do business?The Times is exploring these matters this week at our annual New Work Summit, featuring technology executives, A.I. researchers, investors and others. Here are some of the key moments coming out of the conference, plus a rundown of some of our recent A.I. stories. — Cade MetzHuawei still eager to do business in the United StatesA month after the Chinese electronics giant Huawei suffered a big setback in its quest to sell its high-end smartphones to Americans, the company’s chief for consumer devices, Richard Yu, said he was still optimistic about Huawei’s prospects in the United States.AdvertisementSKIP ADVERTISEMENT“We have won global consumers’ trust, in over 170 countries,” Mr. Yu said at the New Work Summit. “We very strictly protect consumers’ privacy.”Huawei is the world’s third-largest seller of smartphones and one of the planet’s biggest suppliers of telecommunications equipment. But it has struggled for years to break into the United States.A 2012 congressional report said that Huawei’s network gear could be used by Beijing to spy on Americans, effectively cutting the company off from big buyers in the United States. In January, after lawmakers reiterated those concerns in a letter to the Federal Communications Commission, AT&T and Verizon walked away from deals to sell Huawei’s latest phones.At the conference on Tuesday, Mr. Yu said that Huawei had no ties to the Chinese government. “We are a globalized company, just headquartered in China,” he said. “We are not part of any government. We have to be a company that is independent from every country.”Huawei would not be able to do business in so many places around the world without that independence, he said. “If we do something for one government, we will lose the trust of all governments.” — Raymond ZhongAdvertisementSKIP ADVERTISEMENTHow Facebook is using A.I. to fight troublemakersMike Schroepfer, Facebook’s chief technology officer, offered a glimpse of how the social network is applying artificial intelligence to ward off bad actors and keep its platform free of toxicity.Calling the fight against rules violators a “cat and mouse game,” Mr. Schroepfer said at the New Work Summit on Tuesday that Facebook’s A.I. efforts had succeeded at certain types of content moderation, such as image classifier algorithms that find and automatically remove nude photos and videos.Now on Facebook, he said, “the vast majority of nudity and pornography reporting is automatic.”But what about using A.I. to curb the spread of fake news? Facebook’s director of artificial intelligence, Yann LeCun, said in 2016 that machine learning algorithms would one day be able to weed out false news on Facebook.But the company has since added thousands of human content moderators and struck partnerships with human fact-checking organizations. Mr. Schroepfer implied Facebook has learned that A.I. alone would not do the trick, given the sophistication of bad actors who find ways around the platform’s filters.Mr. Schroepfer also said that human judgment would be required in certain situations, like a comment (“nice jacket”) that could be either an earnest compliment or a sarcastic insult, depending on the context. And when it comes to some of Facebook’s thornier problems, like trying to enforce consistent hate speech policies, human intervention may always be necessary.AdvertisementSKIP ADVERTISEMENT“Whenever you are debating what your policy is, you’re unlikely to build an A.I. that works well for that,” he said. — Kevin RooseA call for regulators to stand downMichael Kratsios, a deputy chief technology officer at the White House, said at the New Work Summit on Tuesday that regulators should get out of the way of advances in emerging technologies.He cited progress toward a repeal of some regulations on commercial drones, such as rules prohibiting them from flying at night.“For us, it’s key to get ahead of those regulatory hurdles,” said Mr. Kratsios, who previously worked as chief of staff to Peter Thiel, the libertarian venture capitalist. These regulations, he said, are “putting us at a disadvantage.”Unlike some experts who believe China is poised to dominate the A.I. age, Mr. Kratsios said he wasn’t worried about overseas competition. The United States, he said, has a “30-year head start” in A.I. development.AdvertisementSKIP ADVERTISEMENTAnd despite the White House’s reputation for chaos and tumult, he maintained that it was “a great place to work.” — Kevin RooseImageMarc Benioff, the chief executive of Salesforce, speaking Tuesday at The New York Times’s New Work Summit. His discussion, at the Ritz-Carlton in Half Moon Bay, Calif., was conducted by Rebecca Blumenstein, a deputy managing editor at The Times.Credit...Mike Cohen for The New York TimesTech giants face a ‘crisis of trust’Marc Benioff, the chief executive of Salesforce, blasted companies like Facebook on Tuesday for addicting children to their products and renewed his calls for more government regulation of the tech industry.Mr. Benioff compared a new Facebook Messenger product for children to candy cigarettes, which he used to pretend to smoke as a boy.“What do you think they were trying to get us to do with those?” Mr. Benioff asked onstage at the New Work Summit. “I don’t think this is any different now. They’re focused on the addictive nature of these user interfaces. At some point, we have to say, ‘Hold on.’”AdvertisementSKIP ADVERTISEMENTSilicon Valley is nearing the point where moral lines will have to be drawn by the government since the industry is not regulating itself and does not seem to be guided by a “strong hand of ethics,” he said.There is a “crisis of trust,” he added, that will become a “tidal wave” among American consumers who are growing wary of tech giants.“I’m trying to protect our industry,” said Mr. Benioff, whose company sells access to business software over the internet. “If companies aren’t able to regulate themselves, they should have external regulations.”One of the solutions he suggested was to move decision-making away from algorithms and back toward humans. He cited Facebook’s decision to disband its trending news curation team as an example.“Facebook had a team promoting, sorting and focusing stories, 100 curators that they removed and put an algorithm in their place, and that started the downward spiral that they’re in today,” Mr. Benioff said.AdvertisementSKIP ADVERTISEMENTHe also spoke about the recent ban on kegs of beer at Salesforce offices after he recently stumbled across one while visiting a company he had acquired.“I view alcohol as a drug,” he said. “The keg is not there anymore — well, actually who knows, but I hope it’s not. I took a photo of the keg and put it on our social network and said, ‘This is not who we are.’” — Nellie BowlesImageFei-Fei Li, a chief scientist at Google, stressed at the New Work Summit on Tuesday that artificial intelligence needed to enhance, not undercut, humanity.Credit...Mike Cohen for The New York TimesShould A.I. be more ‘human’?Fei-Fei Li, a chief scientist at Google and a Stanford professor, has called on technologists to take a more “human centered” approach to the creation of artificial intelligence. On Tuesday at the New Work Summit, Ms. Li said that researchers must work to ensure that A.I. embodied human qualities and that it would ultimately operate alongside humans, not replace them.AdvertisementSKIP ADVERTISEMENT“I often tell my students not to be misled by the name ‘artificial intelligence’ — there is nothing artificial about it,” she said. “A.I. is made by humans, intended to behave by humans and, ultimately, to impact humans lives and human society.”At Stanford, Ms. Li was instrumental in the recent rise of “computer vision” systems that can recognize people and objects entirely on their own. At Google, she is working to package and sell these and other systems as cloud computing services, delivering the latest A.I. technology to a wide range of businesses.But she said that as Google and other internet giants pushed these techniques forward, academia and the government must help ensure that A.I. evolved into something that enhanced our humanity, created as many jobs as it replaced and operated in safe and predictable ways.In particular, Ms. Li said, academic institutions can help ensure that computer scientists work alongside social scientists in building this new breed of technology.“A.I. has outgrown its origin in computer science,” she said.Ultimately, said Ms. Li, who was born in China, A.I. reflects the people who build it more than other technologies do. For that reason and others, she said, A.I. researchers must work in a way that spans not only many industries but many cultures as well.AdvertisementSKIP ADVERTISEMENT“I really believe there are no borders for science,” she said. — Cade MetzWhy American tech companies struggle in ChinaTuesday’s first speaker at the New Work Summit was Kai-Fu Lee, who used to lead Google in China and knows a thing or two about American tech giants in China. His prognosis about whether companies like Facebook will ever be able to crack the world’s largest internet market?“The American products are simply uncompetitive in the China market,” said Mr. Lee, who is now chief executive of Sinovation Ventures, a venture capital firm focused on Chinese technology. Even if internet titans from the United States could operate in China, he said, the local competition means they would have a hard time thriving.“Messenger is a much worse product than WeChat,” he said, referring to Facebook’s messaging app and Tencent’s ubiquitous app for chatting, social networking, making payments and other tasks.ImageA health care robot on display during the IFlyTek conference on A.I., held in Beijing in November.Credit...Giulia Marchi for The New York Times“Amazon in China is substantially worse than Taobao, JD and Tmall,” he said, referring to three leading Chinese e-commerce sites. And, he said, “Apple Pay is much narrower and much harder to use than WeChat or Alipay.”AdvertisementSKIP ADVERTISEMENTMr. Lee sees other issues that augur against a big Facebook or Google renaissance in China. Multinational companies tend not to hire local managers to lead their China operations. “They’re not concerned about winning in the local market,” he said.Also, young Chinese these days would rather work for national champions like Alibaba or Tencent. Pitted against Chinese start-ups and big companies, where the hours tend to be long and the work culture cutthroat, the leading lights of American tech would get “get eaten for lunch.” — Raymond ZhongTrump administration silent on A.I.Last year, the Chinese government unveiled a plan to become the world leader in artificial intelligence by 2030, vowing to create a domestic industry worth $150 billion. This manifesto read like a challenge to the United States, and in many ways it echoed policies laid down by the Obama administration in 2016.But as China pushes ahead in this area, many experts are concerned that the Trump administration is not doing enough to keep the United States ahead in the future. Although the big United States internet giants are leading the A.I. race, these experts believe the country as a whole could fall behind if does not do more to nurture research inside universities and government labs. — Cade MetzWaymo C.E.O. ‘really happy’ with Uber settlementJohn Krafcik, chief executive of the self-driving car company Waymo, took the stage at the New Work Summit on Monday night and spoke out for the first time since his company reached a settlement last week with Uber in a lawsuit over trade secrets that riveted Silicon Valley.AdvertisementSKIP ADVERTISEMENT“We were really happy with the outcome that we engineered,” Mr. Krafcik said. “We spent a lot of time in that case talking about the hardware, but the extra benefit we got from that suit was the ability to understand and ensure that Uber wasn’t using any of our software.”He called the software Waymo’s “secret sauce.”Waymo and Uber spent only four days at trial last week before settling, with Uber agreeing to provide Waymo 0.34 percent of its stock, worth about $245 million. The dispute between the companies started in 2016 when Uber bought Otto, a start-up founded by Anthony Levandowski, an early member of Google’s self-driving car program. Waymo, which was spun out of Google, accused Mr. Levandowski of stealing technology before leaving and accused Uber of using the misappropriated knowledge.“This was a really special case with a really special set of circumstances,” Mr. Krafcik said. “For us, this was always about, and really just about, the fact that we needed to ensure Uber wasn’t using our trade secrets.” He added that he did not foresee Waymo suing other former employees.Mr. Krafcik also discussed how Waymo was looking to start a ride-hailing service, which it is testing in Phoenix with thousands of driverless Pacifica minivans.AdvertisementSKIP ADVERTISEMENT“We have a plan to move from city to city,” he said. “We’re not going to be launching with a 25 mile-per-hour product. We’re talking about a full-speed service that will serve a very large geographic area with essentially unlimited pickup and drop-off points.” — Nellie BowlesNo, Amazon isn’t using A.I. to cut jobsJeff Wilke, Amazon’s chief executive of its consumer business, which includes its e-commerce operations, doesn’t often make public appearances. But on Monday night, he joined the New Work Summit to discuss the internet retailer’s move into artificial intelligence.His key message: A.I. is everywhere, but that doesn’t mean it will take our jobs.“If you look at the evolution of technology over the course of decades, tech doesn’t eliminate work; it changes work,” Mr. Wilke said.ImageJeff Wilke, the chief executive of Amazon’s consumer business, talked with Ms. Blumenstein on Monday about Amazon’s move into artificial intelligence.Credit...Mike Cohen for The New York TimesHe said that over the last five years, since Amazon bought a robot maker called Kiva Systems, it had built 100,000 of the robots — and also hired 300,000 people. “We still need human judgment,” he said.AdvertisementSKIP ADVERTISEMENTAmazon has also embedded A.I. throughout the company, he added, with technologists working together with people who run businesses. The company is using machine learning and deep learnings, which are different flavors of A.I., to upgrade internal algorithms, he said.As to how Amazon might use A.I. at Whole Foods, the grocery store chain that it said it would acquire last year, Mr. Wilke said little. When asked whether Amazon would integrate its cashier-less and A.I.-driven convenience store concept, called Amazon Go, with Whole Foods, he said, “I don’t foresee the format of Whole Foods changing very much.” — Pui-Wing TamA.I. has become a campaign issueAs A.I. technology barrels ahead in Silicon Valley, it’s also starting to pick up steam as a political issue in Washington.Over the weekend, I wrote about Andrew Yang, a former tech executive who has decided to run for president in 2020 as a Democrat on a “beware the robots” platform. He thinks that with innovations like self-driving cars and grocery stores without cashiers just around the corner, we’re about to move into a frightening new era of mass unemployment and social unrest.So he’s proposing a universal basic income plan called the “Freedom Dividend,” which would give every American adult $1,000 a month to guarantee them a minimum standard of living while they retrain themselves for new kinds of work.AdvertisementSKIP ADVERTISEMENTMr. Yang’s campaign is a long shot, and there are significant hurdles to making universal basic income politically feasible. But the conversation about automation’s social and economic consequences is long overdue. Even if he doesn’t win the election, Mr. Yang may have hit on the next big political wedge issue. — Kevin RooseArtificial intelligence may be biasedIn modern artificial intelligence, data rules. A.I. software is only as smart as the data used to train it, as Steve Lohr recently wrote, and that means that some of the biases in the real world can seep into A.I.ImageJoy Buolamwini, a researcher at the M.I.T. Media Lab, found that a subject’s race and sex can affect the success of facial recognition software.Credit...Tony Luong for The New York TimesIf there are many more white men than black women in the system, for example, it will be worse at identifying the black women. That appears to be the case with some popular commercial facial recognition software.Joy Buolamwini, a researcher at the M.I.T. Media Lab, found that the software can now tell if a white man in a photograph is male or female 99 percent of the time. But for darker skinned women, it is wrong nearly 35 percent of the time. — Joseph PlambeckSee more on: The New York TimesShare full articleRead in appAdvertisementSKIP ADVERTISEMENTEnjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://schema.org,VideoObject,https://www.nytimes.com/video/business/100000005739135/the-future-of-ai-in-3-minutes.html,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-videoSixteenByNineJumbo1600.jpg', 'height': 899, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Mike Cohen for The New York Times'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-superJumbo.jpg', 'height': 1438, 'width': 2048, 'contentUrl': 'https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-superJumbo.jpg', 'creditText': 'Mike Cohen for The New York Times'}]","[{'@context': 'https://schema.org', '@type': 'Person', 'url': '', 'name': 'The New York Times'}]","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",How Artificial Intelligence Is Edging Its Way Into Our Lives,2018-02-12T22:25:02.000Z,2018-02-14T15:33:22.000Z,,"The Future of A.I., in 3 Minutes",False,,https://www.nytimes.com/2018/02/12/technology/artificial-intelligence-new-work-summit.html,[{'@id': 'https://www.nytimes.com/video/business/100000005739135/the-future-of-ai-in-3-minutes.html'}],"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}","{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/video/business/100000005739135/the-future-of-ai-in-3-minutes.html,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,"['https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-videoSixteenByNine1050.jpg', 'https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-superJumbo.jpg', 'https://static01.nyt.com/images/2018/02/13/business/nws-robot/nws-robot-square640.jpg']",https://www.nytimes.com/video/players/offsite/index.html?videoId=100000005739135,https://vp.nyt.com/video/2018/02/13/75495_1_NWS-wrappackage_wg_240p.mp4,2018-02-14T15:33:17.000Z,"“Imagine that you had 1,000 interns that you could just throw at a business problem. In a lot of cases, the A.I.s can do the work of 1,000 interns.” “A.I. is the new electricity. About 100 years ago, here in the United States, the rise of electrification transformed every major industry.” “There’s nothing artificial about it. After all, A.I. is made by humans, intended to behave like humans, and ultimately, to impact human lives and human society.” “It’s usually not true that technology change eliminates work. It changes work. So, I think our objective has to be to make sure that we have education systems that can take care of people who thought they were going to be doing one thing for a very long time, and now have to figure out how to do something else.” “I think a universal basic income is inevitable. I just don’t think it’s inevitable soon.” “A lot of emerging technologies in the U.S. are currently being powered, and continue to be powered, by artificial intelligence. And for us, it’s key to get ahead of those regulatory hurdles.” “The American products are simply uncompetitive in the China market. And I mean uncompetitive both in not localized right for the local needs, and also just on a product to product, feature per feature level not competitive.” “I think from a society perspective, we have to not fight it. We have to embrace it. As Jim was talking about China, what struck me is China is investing billions of dollars a year into A.I., while the U.S. is still fighting to keep coal-fired power plants alive. There’s got to be something wrong with this picture, no, people?” “A lot of companies look to us, and the first question they ask us is do they trust us. In today’s world, especially in the tech world, I think that’s the first question that everybody asks. We’re in a crisis of trust.” “This is the most important thing we’re working on right now, which is just keeping the community safe, making sure that content that shouldn’t be on Facebook isn’t there. I honestly think if we didn’t have the advances in A.I., we’d be in — this would be hard to solve at the scale we’re operating at.” “I think that the road to making autonomous vehicles a reality might be shorter than most people think.” “And why is that?” “I think I know some things that aren’t publicly known.” “There will be speed bumps, but that can’t deter us from getting this right, because the world’s been waiting such a long time.” “So some of these big challenges that we have, climate change, things like that, now with A.I. and big data, we can put those together in a recipe that I think will have some very palpable impact in five years.”",PT2M38.492S,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmF4YS5jb20vZW4vbmV3cy9za2lsbHMtb2YtdGhlLWZ1dHVyZdIBAA?oc=5,Skills of the future: the must haves to build a career in insurtech and fintech - AXA.com,2018-02-15,AXA.com,https://www.axa.com,What if the insurtech and fintech worlds were nothing like you had in mind?,N/A,What if the insurtech and fintech worlds were nothing like you had in mind?,What if the insurtech and fintech worlds were nothing like you had in mind?,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3RlY2hub2xvZ3ktNDMwNjEyMDfSATJodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy90ZWNobm9sb2d5LTQzMDYxMjA3LmFtcA?oc=5,AI does grunt work on China's pig farms - BBC,2018-02-14,BBC,https://www.bbc.co.uk,Alibaba rolls out a system that analyses pig squeals and coughs to improve pork production.,N/A,Alibaba rolls out a system that analyses pig squeals and coughs to improve pork production.,Alibaba rolls out a system that analyses pig squeals and coughs to improve pork production.,N/A,N/A,"AI does grunt work on China's pig farms14 February 2018ShareGetty ImagesAlibaba is trying to entice Chinese pig farmers to trial its techArtificial intelligence technology has been developed to help piglets survive their first months - and then to decide which sows to kill.The scheme is being rolled out in China, the world's biggest producer and consumer of pork.It marks the latest deployment of tech giant Alibaba's ET Brain cloud computing service.China's pig industry is notoriously inefficient, but one expert said the tech could also prove useful elsewhere. Getty ImagesChina consumers more than 40 million tonnes of pork a yearFor now, the trial is limited to the country's Sichuan province.Alibaba teamed up with local feed provider Sichuan Tequ and the farming group Dekon to develop the solution.It claims that it should on average lead a sow to rear three additional offspring a year, and reduce the death rate by 3%.The system is designed to maintain a profile of each animal, including details of their weight, age, food intake and exercise, among other details.Vision recognition software - which relies on a number tattooed onto each swine's side - is used to keep track of each pig.  The sounds of their squeals are analysed to try to determine if any of the young ones are at risk of being suffocated under their mothers' weight.The AI tech also listens out for coughs, which along with infrared temperature readings are used to act as an early warning system for disease outbreaks. This should help farmers know when to provide specialised vaccinations.Getty ImagesThe AI system can supposedly increase a piglet's chance of survival in its early weeksAnd when the technology detects a sow's productivity rate has fallen below the norm it suggests she is slaughtered.As China's meat consumption continues to rise, Tequ said the tech was necessary to help farmers keep track of their livestock.""If you have 10 million pigs to raise, you can barely count how many piglets were born on a daily basis when the due date comes,"" said chief information officer, Zhang Haifeng.Tag-freeChina's Synced Review news site has reported that tens of millions of pounds-worth of investment has been committed to the project, and a promotional campaign is already underway. Slogans are being painted on rural walls, including the claim: ""Excel in intelligent pig farming, marry a pretty wife early!""Getty ImagesChina has about 40 million pig farmers, according to an estimate from The Economist Intelligence UnitTulip Agriculture, one of the UK's leading pig farmers, told the BBC that there was also an appetite in the west for further efficiency gains.""We actively investigate, trial and commercialise novel technologies to improve the health and welfare of the pigs we produce,"" commented agriculture director, Andrew Saunders.He gave his firm's use of RFID (radio frequency identification) tags in pigs' ears as one example of how Tulip had already sped up data collection.But Alibaba suggests that its system is cheaper to run as it avoids the need to attach and then scan such tags, which can be tricky to do in practice.Getty ImagesMany farms already use RFID ear tags to track pigsOne expert from the UK's National Pig Association, however, cautioned that there were limits to what technology alone could achieve.""There are some concerns in the British pig industry about our access to sufficient labour, because we are quite reliant on migrants both on farms and in slaughter houses,"" Dr Georgina Crayford told the BBC.""So, ways in which production can become more automated are obviously of interest,"" she said.""But I don't think we'll ever see a time when stockmen aren't needed on farms for good husbandry and the welfare of the pigs.""When artificial intelligence met peachesIn the future, will farming be fully automated?",http://schema.org,ReportageNewsArticle,https://www.bbc.com/news/technology-43061207,"{'@type': 'ImageObject', 'width': 1024, 'height': 576, 'url': 'https://ichef.bbci.co.uk/news/1024/branded_news/F251/production/_100033026_mediaitem100033025.jpg'}","{'@type': 'NewsMediaOrganization', 'name': 'BBC News', 'noBylinesPolicy': 'http://www.bbc.co.uk/news/help-41670342#authorexpertise', 'logo': {'@type': 'ImageObject', 'url': 'https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png'}}","{'@type': 'NewsMediaOrganization', 'name': 'BBC News', 'publishingPrinciples': 'http://www.bbc.co.uk/news/help-41670342', 'logo': {'@type': 'ImageObject', 'url': 'https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png'}}",AI does grunt work on China's pig farms,2018-02-14T17:19:35.000Z,2018-02-14T17:19:35.000Z,,,,,https://www.bbc.com/news/technology-43061207,,,,,,,,,,,,,,https://ichef.bbci.co.uk/news/1024/branded_news/F251/production/_100033026_mediaitem100033025.jpg,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lml0c25pY2V0aGF0LmNvbS9hcnRpY2xlcy9jaW5keS1rdXRpa292YS1ncmFwaGljLWRlc2lnbi0xNTAyMTjSAQA?oc=5,Cindy Kutikova creates a visual identity exploring fashion and artificial intelligence - It's Nice That,2018-02-15,It's Nice That,https://www.itsnicethat.com,,N/A,,,N/A,N/A,"Cindy Kutikova creates a visual identity exploring fashion and artificial intelligence WordsLucy Bourton—Date15 February 2018WorkGraphic DesignAISustainabilityThe speedy development and use of artificial intelligence is in equal parts exciting and slightly terrifying. While the Twitter-sphere panics about a robot dog being able to open a door this week, we became fascinated with the idea of how graphic design can visualise artificial intelligence stylistically, particularly through the work of Prague-based designer Cindy Kutikova.
+Cindy’s work regularly encompasses research and technology, combining her brilliant eye for layouts and a knack for typography. Her portfolio also regularly picks upon other areas of the creative industry, creating a graphic look that showcases the practice at hand. This approach is the case for her latest work, a visual identity for an exhibition by Umprum’s fashion design studio run by Pavel Ivančic (at the Academy of Arts in Prague), on the theme of AI. “Fashion design has always been a very interesting field to me, and I enjoyed my cooperation with the designers immensely,” Cindy tells It’s Nice That.
+Umprum’s exhibition covers a range of thoughts around the topic of AI “from the perspective of millennials, a native digital generation that is naturally driven by responsibility and sustainability,” looking at multiple interests including “digital therapy, healthcare, gaming, wellbeing, social mapping, augmented reality and mixed reality”. In considering these different parts of AI, the exhibition serves as an opportunity for the students to display their “unique creative vision supported with relevant visual project descriptions including original methods, techniques and applications,” Cindy explains.
+As a result, the designer’s visual identity for the exhibition incorporates particular students work displaying photographic visions or illustrated digital renders made by Jan Kolsky and Vojtěch Rada, of artificial intelligence. In terms of Cindy’s design choices, a futuristic graphic approach is applied in a colour palette of green, black and grey and blocked, impactful sans serif fonts in a contrasting white. By showcasing the student’s work featured on the posters advertising the exhibition, Cindy not only entices possible visitors but recognises “AI as a tool that can augment human perception and creativity and help us to become more human”.
+Fashion is increasingly becoming a part of Cindy’s portfolio too, branching into editorial design for fashion designer Adam Kost and working with the Umprum students again on the visual identity for a curators choice of the best work. This year the exhibition will be hosted at the Applied Arts Museum in Prague and Cindy is excitingly working with another brilliant designer, Jiri Mocek, on the project too.AboveCindy Kutikova: Artificial IntelligenceAboveCindy Kutikova: Artificial IntelligenceAboveCindy Kutikova: Artificial IntelligenceAboveCindy Kutikova: Artificial IntelligenceAboveCindy Kutikova: Artificial IntelligenceAboveJak kolskyAbovePetr FaboAboveCindy KutikovaAboveCindy Kutikova: Adam KostThe LatestView more fromGraphic DesignThe View From LA: exploring the cultural impact of Boyz n the Hood, and its iconic title graphicsHow Figma built the identity for its mammoth design conference, ConfigStudio Chris Bolton’s identity for a Finnish shop is all about circlesHow do you craft a typeface that reflects a design studio? XYZ Type shares its wisdomBianca Forischi’s work might be excessive and imperfect – but that’s what makes it so goodShare ArticleFurther Infowww.cindykutikova.comAbout the AuthorLucy Bourton—Lucy (she/her) is the senior editor at Insights, a research-driven department with It's Nice That. Get in contact with her for potential Insights collaborations or to discuss Insights' fortnightly column, POV. Lucy has been a part of the team at It's Nice That since 2016, first joining as a staff writer after graduating from Chelsea College of Art with a degree in Graphic Design Communication.lb@itsnicethat.comRelated contentThis AI compass for “wandering” moves tech into gorpcore territory8 April 2024WorkGraphic Design...Khyati Trehan on refusing to stick to one pathway, medium or style27 March 2024Nicer TuesdaysWork...Elizabeth Goodspeed on the importance of taste – and how to acquire it28 February 2024OpinionWork...POV: AI-generated album covers prioritise virality over creativity22 February 2024OpinionInsights...It's Nice That NewslettersFancy a bit of It's Nice That in your inbox? Sign up to our newsletters and we'll keep you in the loop with everything good going on in the creative world.Email address:Daily Round-upWeekly EditNicer TuesdaysSubscribe",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1ja2luc2V5LmNvbS9mZWF0dXJlZC1pbnNpZ2h0cy9mdXR1cmUtb2Ytd29yay9ob3ctd2lsbC1hdXRvbWF0aW9uLWFmZmVjdC1lY29ub21pZXMtYXJvdW5kLXRoZS13b3JsZNIBAA?oc=5,How will automation affect economies around the world? - McKinsey,2018-02-14,McKinsey,https://www.mckinsey.com,"All countries will feel the impact of automation, but at different speeds and in different ways. In this podcast, McKinsey Global Institute looks at its likely impact in China, Europe, and India.",N/A,"All countries will feel the impact of automation, but at different speeds and in different ways. In this podcast, McKinsey Global Institute looks at its likely impact in China, Europe, and India.","All countries will feel the impact of automation, but at different speeds and in different ways. In this podcast, McKinsey Global Institute looks at its likely impact in China, Europe, and India.",N/A,N/A,N/A,https://schema.org,Podcast,https://www.mckinsey.com,https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/how%20will%20automation%20affect%20economies%20around%20the%20world/how-automation-will-affect_1536x1536_585856657.jpg,,"{'@type': 'Organization', 'name': 'McKinsey & Company', 'logo': {'@type': 'ImageObject', 'url': 'https://www.mckinsey.com/~/media/Thumbnails/Mck_Logo'}}",,2018-02-14T00:00:00Z,2018-02-14T00:00:00Z,,,,,"{'@type': 'WebPage', '@id': 'https://www.mckinsey.com/featured-insights/future-of-work/how-will-automation-affect-economies-around-the-world'}",,,,,,,,,,,,,,,,,,,,2018-02-12T04:23:29Z,How will automation affect economies around the world?,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnByaW5jZXRvbi5lZHUvbmV3cy8yMDE4LzAyLzE1L2NoZW1pc3RzLWhhcm5lc3MtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtcHJlZGljdC1mdXR1cmUtY2hlbWljYWwtcmVhY3Rpb25z0gEA?oc=5,Chemists harness artificial intelligence to predict the future of chemical reactions - Princeton University,2018-02-15,Princeton University,https://www.princeton.edu,"Chemistry professor Abigail Doyle led a team of researchers who have developed state-of-the-art software to predict reaction yields while varying up to four components, a powerful tool in expediting the synthesis of new medicines.",N/A,"Chemistry professor Abigail Doyle led a team of researchers who have developed state-of-the-art software to predict reaction yields while varying up to four components, a powerful tool in expediting the synthesis of new medicines.","Chemistry professor Abigail Doyle led a team of researchers who have developed state-of-the-art software to predict reaction yields while varying up to four components, a powerful tool in expediting the synthesis of new medicines.",N/A,N/A,"
+
+
+
+Chemists harness artificial intelligence to predict the future of chemical reactions
+
+
+
+
+
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Email
+Print
+
+
+By 
+
+Liz Fuller-Wright, Office of Communications
+
+    on 
+            Feb. 15, 2018, 2 p.m.
+       
+
+
+
+Abigail Doyle, the A. Barton Hepburn Professor of Chemistry, led a team of researchers from Princeton University and Merck who have developed state-of-the-art software to predict reaction yields while varying up to four components. Their software is designed to work for any reaction on any substrate, making it a powerful tool in expediting the synthesis of new medicines.Photo byFrank Wojciechowski
+To manufacture medicines, chemists must find the right combinations of chemicals to make the necessary chemical structures. This is more complicated than it sounds, as typical chemical reactions employ several different components, and each chemical involved adds another dimension to the calculations.
+Derek Ahneman, a 2017 Ph.D. graduate, proposed using machine learning to model reaction yield while modifying four different reaction components, an exponentially more difficult endeavor than modifying one variable at a time. “At the outset, we knew there would be many challenges to overcome,” he said. “We weren’t sure it was even possible.”Photo byC. Todd Reichart, Department of Chemistry
+In an ideal world, chemists would like to predict which combination of chemicals would deliver the highest yield of product and avoid unintended by-products or other losses, but predicting the outcome of these multi-dimensional reactions has proven challenging.
+Jesús Estrada, a graduate student in Doyle’s lab, finished developing the software that uses a “random forest” machine learning approach to predict chemical yields. Photo byC. Todd Reichart, Department of Chemistry
+A group of researchers led by Abigail Doyle(link is external), the A. Barton Hepburn Professor of Chemistry(link is external) at Princeton University, and Spencer Dreher of Merck Research Laboratories, has found a way to predict reaction yields accurately while varying up to four reaction components by using an application of artificial intelligence known as machine learning. They have turned their method into software that they have made available to other chemists. They published their research Feb. 15(link is external) in the journal Science.
+“The software that we developed is designed to accommodate any reaction or substrate type,” said Doyle. “The idea was to let someone apply this tool and hopefully build on it with other reactions.”
+Vast resources and time are expended to make synthetic molecules, often in a largely ad hoc manner, she said. Using this new software, chemists can identify high-yielding combinations of chemicals and substrates more cheaply and efficiently. 
+“We hope this will be a valuable tool in expediting the synthesis of new medicines,” said Derek Ahneman, who completed his chemistry Ph.D. in Doyle’s lab in 2017 and works for IBM.
+“Many of these machine learning algorithms have been around for quite some time,” said Jesús Estrada(link is external), a graduate student in Doyle’s lab who contributed to the research and the paper. “However, within the synthetic organic chemistry community, we really haven’t tapped into the exciting opportunities that machine learning offers.”
+“As chemists, we’ve traditionally veered away from multi-dimensional analysis,” said Doyle. “We only look at one variable at a time, or a single set of conditions for a range of substrates.”
+When Ahneman told Doyle that he wanted to use machine learning to tackle the multi-dimensional problem, she encouraged him. “I always — especially for my most talented students — try to give them free rein in the last year of their Ph.D.,” she said. “This is the project he proposed to me.”
+Doyle and Ahneman set out to model reaction yield while modifying four reaction components, an exponentially more difficult endeavor than modifying one variable at a time.
+“At the outset, we knew there would be many challenges to overcome,” Ahneman said. “We weren’t sure it was even possible.”
+Historically, one obstacle to developing multi-dimensional models has been collecting enough data on reaction yields to build an effective “training set,” he said. But recently, Merck has invented robotic systems that can run thousands of reactions on the order of days.
+“I’m thrilled that the data we generated together was of very high quality, and they were able to create effective models,” said Dreher, a principal scientist with Merck’s Chemistry Capabilities and Screening division. “Hopefully we can continue to develop this approach and can reduce our dependence on screening to make the designed molecules we need to make much faster.”
+Another challenge has been calculating quantitative descriptors for each chemical to use as inputs for the model. These descriptors have typically been calculated one by one, which would have been impractical for the large number of chemical combinations they wanted to use.
+They overcame this limitation by writing code that used an existing program, Spartan, to calculate and then extract descriptors for each chemical used in the model.
+Once they had their quantitative descriptors, they tried several statistical approaches. First, they used linear regression, the industry standard, but found that it failed to accurately predict reaction yield. They then explored multiple common machine learning models and found that one called “random forest” delivered startlingly accurate yield predictions.
+A random forest model works by randomly selecting small samples from the training data set and using that sample to build a decision tree. Each individual decision tree then predicts the yield for a given reaction, and then the result is averaged across the trees to generate an overall yield prediction.
+Another breakthrough came when the researchers discovered that with random forests, “reaction yields can be accurately predicted using the results of ‘only’ hundreds of reactions (instead of thousands), a number that chemists without robots can perform themselves,” Ahneman said.
+“Professor Doyle and her collaborators have applied artificial intelligence in a clever way to solve a problem that is poorly handled by simple linear models,” said Julie Mitchell, a professor of mathematics and biochemistry at the University of Wisconsin-Madison who was not involved in the research. “In chemical space, small changes can have dramatic results, and such phenomena are better captured by their random forest model.”
+Doyle’s team also found that random forest models can predict yields for chemical compounds not included in the training set.
+“The techniques used are completely state-of-the-art,” said Chloé-Agathe Azencott, a machine learning researcher at the Centre for Computational Biology of Paris Science and Letters University, who was not involved in this research. “The correlation plots in the paper are good enough that I think we can envision relying on these predictions in the future, which will limit the need for costly laboratory experiments.”
+“These results are exciting, because they suggest that this method can be used to predict the yield for reactions where the starting material has never been made, which would help minimize the consumption of chemicals that are time-consuming to make,” Ahneman said. “Overall, this methodology holds promise for (1) predicting the yield for reactions using as-yet-unmade starting materials and (2) predicting the optimal conditions for a reaction with a known starting material and product.”
+After Ahneman finished his degree, Estrada continued the research. The goal was to create software that was accessible not only to computer experts like Ahneman and Estrada but the broader synthetic chemistry community, said Doyle.
+She explained how the software works: “You draw out the structures — the starting materials, catalysts, bases — and the software will figure out shared descriptors between all of them. That’s your input. The outcome is the yields of the reactions. The machine learning matches all those descriptors to the yields, with the goal that you can put in any structure and it will tell you the outcome of the reaction.
+“The idea is to help people navigate the multi-dimensional space where you can’t intuit the outcomes,” said Doyle.
+The paper, “Predicting reaction performance in C–N cross-coupling using machine learning(link is external)” by Derek Ahneman, Jesús Estrada, Shishi Lin, Spencer Dreher and Abigail Doyle, was published Feb. 15 in the journal Science. Financial support was provided by Princeton University, an Amgen Young Investigator Award and a Camille-Dreyfus Teacher Scholar Award.
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBwZGV2ZWxvcGVybWFnYXppbmUuY29tL2xlYXJuaW5nLWFpLXRvLXN0b3AtdGhlLXRlcm1pbmF0b3ItZnJvbS10YWtpbmcteW91ci1qb2Iv0gEA?oc=5,Learning AI to stop the Terminator from taking your job - App Developer Magazine,2018-02-13,App Developer Magazine,https://appdevelopermagazine.com,"Learning AI (artificial intelligence), machine learning, and other skills can help you as a programmer while technology marches into the 21st century.
+",N/A,"Learning AI (artificial intelligence), machine learning, and other skills can help you as a programmer while technology marches into the 21st century.
+","Learning AI (artificial intelligence), machine learning, and other skills can help you as a programmer while technology marches into the 21st century.
+",N/A,N/A,"
+
+
+
+Richard Harris
+2/13/2018 9:32:40 AM
+2/13/2018 9:32:40 AM
+Learning AI to stop the Terminator from taking your job
+Learning AI,Developer Skills,Machine Learning
+https://news-cdn.moonbeam.co/Learning-AI-and-Terminator-App-Developer-Magazine_96yd609h.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial Intelligence
+Learning AI to stop the Terminator from taking your job
+
+Tuesday, February 13, 2018
+
+
+
+
+
+
+
+
+
+
+Richard Harris
+
+
+
+
+
+
+
+Learning AI (artificial intelligence), machine learning, and other skills can help you as a programmer while technology marches into the 21st century.
+
+
+
+
+For me the mention of AI and machine learning shoots my thoughts right into the “Terminator” movies, and the great struggle to maintain human existence in the year 2029. The film series is based around a giant AI computing superintelligence named “Skynet”, which is essentially in control of the entire Earth, and a legion of robots that want to destroy anything that threatens it’s existence.While it’s easy to toss AI and other tech into film imagination and the world of tomorrow, it’s equally as frightening to realize the ramifications it’s actually going to have on our every day lives. What it might look like to go to work in the morning, and how we spend our time earning a living. AI makes way for machine automation, which opens the door to a machine taking your job. But as a programmer, it’s easy to bunker yourself into the mindset of “I can’t be replaced”. To which I offer that in 2017 a Microsoft AI was able to write code on its own by stealing from other programs. And Google's Deepmind was able to mirror the way the human brain learns. It’s coming my fellow programmers, so you need to be ready.There has always been a lag in what we can learn, and what is trending in technology that’s already been applied somewhere, this week, or even this year. The curriculum and training just can’t keep up with the emergence of spectacular discoveries and uses for technology that seems to evolve overnight. They call this a “skills gap”, and it’s just a polite way of saying “I don’t know how to do that yet”.Companies are experiencing an acute skills gap in tech fields and are struggling to find qualified candidates that can not only provide the technical insights they need, but also have communications skills and high levels of creative problem-solving. Ongoing learning is necessary to keep from becoming irrelevant as the pace of change continues to accelerate. We recently had a conversation with P.K. Agarwal, who serves as the Dean and CEO of Northeastern University–Silicon Valley. He gives us some insight into the skills gap and AI, how machine automation is going to change the workforce, and what skills you likely need to be preparing for now to stay relevant.ADM: What type of skills gaps are you seeing in the workforce when it comes to AI?Agarwal: Finding enough qualified people to handle the new technological challenges of data science, machine learning/AI presents a data issue at its core. First, data must be handled ethically and in a socially meaningful context that understands the humanity of us all. However, to accomplish this you must be a change agent. Secondly, you need to hire candidates that possess the latest skills for AI programming. Therefore, hiring data scientists and experts in machine learning/AI presents a special challenge of unearthing an individual with a hard STEM exterior, yet also with a soft relational center.ADM: How do you think machine automation and AI will change the way we need to educate the workforce?Agarwal: The elimination of repeatable and predicable tasks due to AI and machine learning presents an opportunity for us in the education business. We are also on the cusp of a major change in our workforce. The elimination of many job classes means that we have the possibility to reshape our workloads and potentially shift to a more rewarding work/life balance moving forward. Every challenge also presents an opportunity for growth and re-invention. As today’s workers meet these challenges, it is refreshing that industry leaders are re-imagining the role of education within the workplace, rather than apart from it.ADM: In what ways can we help employees to ensure that they won’t lose their jobs to automation?Agarwal: We can’t guarantee that any one particular job title won’t be lost to automation, but we can teach skills that are transferable to other occupations. By focusing on skills like critical thinking, communication, and collaboration, we can ensure that for dedicated employees, when one door closes, another will surely be open to them.ADM: What opportunities are out there for highly skilled professionals to sharpen their skills or learn a new skill set?Agarwal: There are many new opportunities for employees looking to bolster their skills. Boot camps, advanced degrees and micro-credential programs are all great ways for professionals to enhance their knowledge and learn the latest new developments. Many of these programs are offered online or during the evening so that full-time employees can participate on their own time.P.K. Agarwal, Dean and CEO of Northeastern University-Silicon ValleyADM: What skills are most important for the 21st century workforce?Agarwal: We’re seeing today that transferable skills are even more in-demand than many technical skills. In a Northeastern University-Silicon Valley survey last summer, we found remarkable insights about the skills gap challenge. 38% of those surveyed stated that data aggregation and analysis ranked as the biggest challenge. Surprisingly, the career strength chosen as most relevant for success was the need for communications skills, including an ability to explain ideas or concepts clearly and effectively. As technical jobs rapidly change, the ability to learn new skills and adapt tend to be more important than specific technical know-how. Emotional intelligence, people management, negotiation skills and creativity are becoming more important as we embrace new technological changes.ADM: Do you think recent graduates are being well prepared for the new reality that is AI?Agarwal: Some students are obviously being better prepared than others. Clearly having an up-to-date curriculum on the latest technologies is a big differentiator, however, the ones who will be successful in this disruptive transition are those who are genuinely curious and have learned how to learn, i.e., adapted a lifelong learning model. Combine this lifelong learning attitude with a good dose of soft skills, you have a student who most employable students in the future. About P.K. AgarwalP.K. Agarwal serves as the Dean and CEO of Northeastern University–Silicon Valley. He also serves as the Chairman of Future 500, a Bay Area-based pioneer in the area of global sustainability. Formerly, he was the CEO of TiE Global, an organization dedicated to fostering entrepreneurship across 61 cities in 18 countries. Prior to TiE, P.K served as Governor Arnold Schwarzenegger’s Chief Technology Officer for the State of California. He has also been in executive and management roles with ACS (now Xerox), NIC Inc., and EDS (now HP). PK helped pioneer the use of Internet in government and shaped the national and state policy in this area, dating back to Al Gore’s National Information Infrastructure Advisory Council in 1995. He had the unique distinction of having a U.S. national annual award named as the “P.K. Agarwal Award for Leadership in Electronic Government.” He also served as the president of the National Association of State CIOs and the National Electronic Commerce Coordinating Council (ec3). He is a fellow of the National Academy of Public Administration and an adjunct faculty at USC and USF. 
+
+
+
+
+Become a subscriber of App Developer Magazine for just $5.99 a month and take advantage of all these perks.
+
+MEMBERS GET ACCESS TO- Exclusive content from leaders in the industry- Q&A articles from industry leaders- Tips and tricks from the most successful developers weekly- Monthly issues, including all 90+ back-issues since 2012- Event discounts and early-bird signups- Gain insight from top achievers in the app store- Learn what tools to use, what SDK's to use, and more
+
+Subscribe here
+
+
+
+
+Learning AI to stop the Terminator from taking your job, Learning AI, Developer Skills, Machine Learning
+
+
+
+  share 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",http://schema.org,Organization,https://appdevelopermagazine.com/,,,,,,,,App Developer Magazine,,,,,,,,,,https://appdevelopermagazine.com/images/adm-logo-small.png,,,,,,"['http://facebook.com/appdevelopermagazine', 'https://www.linkedin.com/company/app-developer-magazine', 'http://www.youtube.com/user/AppDeveloperMagazine', 'http://pinterest.com/appdevelopermag/app-developer-magazine/', 'http://twitter.com/appdevelopermag']",,,,,,,,,App Developer Magazine,"[{'@type': 'ContactPoint', 'telephone': '1-844-277-3386', 'contactType': 'customer service'}]",,,,,,,,,,
+https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vaGJyLm9yZy8yMDE4LzAyL2hvdy1haS1pcy1jaGFuZ2luZy1jb250cmFjdHPSAQA?oc=5,How AI Is Changing Contracts - Harvard Business Review,2018-02-12,Harvard Business Review,https://hbr.org,"Many companies struggle to develop and maintain contracts in an effective, efficient manner. But the rising popularity of AI contracting software has the potential to improve how all firms contract in three important ways: First, it can change the tools firms use to contract. Second, it can influence the content of contracts. Finally, it can improve the processes by which firms develop and execute contracts. These new technologies have the potential to significantly reduce the manpower required to manage both contracts themselves and the entire contracting process, adding significant value to the entire organization.",N/A,"Many companies struggle to develop and maintain contracts in an effective, efficient manner. But the rising popularity of AI contracting software has the potential to improve how all firms contract in three important ways: First, it can change the tools firms use to contract. Second, it can influence the content of contracts. Finally, it can improve the processes by which firms develop and execute contracts. These new technologies have the potential to significantly reduce the manpower required to manage both contracts themselves and the entire contracting process, adding significant value to the entire organization.",N/A,Technology and analytics,N/A,N/A,https://schema.org,WebSite,https://hbr.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{'@type': 'SearchAction', 'target': 'https://hbr.org/search?term={search_term_string}', 'query-input': 'required name=search_term_string'}",,,,,,,,,
+https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlbmV4dHdlYi5jb20vbmV3cy9ldmVuLXVuZGVycGFpZC1jaGluZXNlLWZhY3Rvcnktd29ya2Vycy1sb3Npbmctam9icy1yb2JvdHPSAQA?oc=5,Even underpaid Foxconn workers are losing their jobs to robots - TNW,2018-02-12,TNW,https://thenextweb.com,"Chinese iPhone manufacturer Foxconn plans to slash more than 10,000 jobs this year as part of an aggressive robot takeover. Innolux, Foxconn’s LCD-display arm is said to bear the brunt of the lost jobs. According to Honorary Chairman Tuan H",N/A,"Chinese iPhone manufacturer Foxconn plans to slash more than 10,000 jobs this year as part of an aggressive robot takeover. Innolux, Foxconn’s LCD-display arm is said to bear the brunt of the lost jobs. According to Honorary Chairman Tuan H","Chinese iPhone manufacturer Foxconn plans to slash more than 10,000 jobs this year as part of an aggressive robot takeover. Innolux, Foxconn’s LCD-display arm is said to bear the brunt of the lost jobs. According to Honorary Chairman Tuan H",Artificial Intelligence,N/A,"
+
+
+
+
+
+
+
+
+
+
+
+Chinese iPhone manufacturer Foxconn plans to slash more than 10,000 jobs this year as part of an aggressive robot takeover. Innolux, Foxconn’s LCD-display arm is said to bear the brunt of the lost jobs. According to Honorary Chairman Tuan Hsing-Chien:
+We will reduce our total workforce to less than 50,000 people by the end of this year, from the 60,000 staff at the end of 2017.
+This just days after Foxconn Chairmain Terry Gou reported the company would invest some $342 million into processes and equipment to make better use of artificial intelligence in its manufacturing process.
+Innolux doesn’t supply Apple with LCD displays, but the cuts would affect a number of customers, including Samsung, Dell, HP, LG, Hitachi, and Sharp (among others).
+While manufacturing in China has grown more expensive in recent years, it’s still one of the cheapest places to manufacture and assemble hardware. Workers at Foxconn, on average, earn about $400 a month and often work 12 hour shifts. The idea that robots can serve as a cost-effective replacement for some of the cheapest human labor on the planet just goes to show the impact AI will have on laborers in the coming years.
+
+
+
+
+
+
+
+
+
+
+
+                                        Story by
+                                    
+
+
+                                            Bryan Clark
+                                        
+
+
+
+                                        Former Managing Editor, TNW
+                                    
+
+
+
+                                            Bryan is a freelance journalist.
+
+                                                                                    
+
+                                            Bryan is a freelance journalist.
+                                        
+
+
+
+
+Get the TNW newsletter
+Get the most important tech news in your inbox each week.
+Your email address*I agree to TNW storing and processing my personal data to receive the requested newsletter(s). For more information check out TNW's Privacy Policy.*
+
+
+
+                                Published February 12, 2018 - 9:06 pm UTC
+
+Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story by
+Bryan Clark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVERTISEMENT
+
+
+Jobs For You BY Amply
+
+
+
+
+ 
+SAP Solution Architect (m/w/d)
+DPD Deutschland GmbH
+Germany
+ 
+
+
+
+ 
+Medewerker procesuitvoering
+De Belastingdienst
+Apeldoorn
+€ 3.246 - € 4.340 per maand
+ 
+
+
+
+ 
+Werkstudent:in (m/w/d) Digitale Transformation eines Gesundheitsnetzwerks
+Contilia GmbH
+Essen
+ 
+
+
+
+ 
+Bankkaufmann / Versicherungskaufmann (w/m/d) Bergheim / Eschweiler / Jülich Vollzeit/Teilzeit
+Targobank AG
+Bergheim
+ 
+
+
+
+ 
+Projektleiter IT (m/w/d) Tax & Accounting Software Rollout - Bundesweit remote möglich
+Wolters Kluwer Tax & Accounting Deutschland GmbH
+Germany
+ 
+
+
+Search More Roles
+
+
+
+
+
+
+",http://schema.org,BreadcrumbList,,,,,,,,,,,"[{'@type': 'ListItem', 'position': 1, 'item': {'@id': 'https://thenextweb.com', 'name': 'Home'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@id': 'https://thenextweb.com/artificial-intelligence', 'name': 'Artificial-intelligence'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@id': 'https://thenextweb.com/news/even-underpaid-chinese-factory-workers-losing-jobs-robots', 'name': 'Even underpaid Foxconn workers are losing their jobs to robots'}}]",,,,,,,,,#Breadcrumb,,,,,,,,,,,,,,,,,,,,,,,,,
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9qb2JzL2JlbmVmaXRzLW9mLWFpLW9uLWVtcGxveW1lbnQtb3V0d2VpZ2gtY29uY2VybnMtcmVwb3J0L2FydGljbGVzaG93LzYyOTMwNzQzLmNtc9IBc2h0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9qb2JzL2JlbmVmaXRzLW9mLWFpLW9uLWVtcGxveW1lbnQtb3V0d2VpZ2gtY29uY2VybnMtcmVwb3J0L2FtcF9hcnRpY2xlc2hvdy82MjkzMDc0My5jbXM?oc=5,Benefits of AI on employment outweigh concerns: Report - The Economic Times,2018-02-15,The Economic Times,https://m.economictimes.com,"Companies should also focus those areas which would provide the most tangible and immediate returns in terms of improved efficiency, cost savings and customer reach.","['artificial intelligence', 'Jobs', 'AI', 'upskilling', 'employment']","Companies should also focus those areas which would provide the most tangible and immediate returns in terms of improved efficiency, cost savings and customer reach.","Companies should also focus those areas which would provide the most tangible and immediate returns in terms of improved efficiency, cost savings and customer reach.",N/A,N/A,"ThinkStock PhotosGiven that AI integration requires significant time and investment, the report also suggests that organisations would do well to prioritise.The impact of artificial intelligence (AI) on employment is expected to be severe, but the benefits outweigh its concerns as it would lead to improved efficiency and cost saving, says a PwC India report.According to the report titled ""Artificial Intelligence- Hype or Reality"", about 68 per cent of Indian business decision-makers believe AI will help their business in various ways such as boosting productivity, generating growth and addressing societal issues.Explore courses from Top Institutes inSelect a Course Category PGDM  MBA  Leadership Healthcare Management Strategic Management  Healthcare  MCA Supply Chain Data Science Product Management HR Management Project Management Public Policy  CXO Data Analytics Digital Marketing  Degree   Skills you’ll gain:  Financial Analysis & Decision MakingQuantitative & Analytical SkillsOrganizational Management & LeadershipInnovation & Entrepreneurship Duration: 24 Months    IMI Delhi Post Graduate Diploma in Management (Online)   Starts on Sep 1, 2024 Get Details  ""While 65 per cent of participants agreed that AI is likely to have a severe impact on employment in India, a majority believed the benefits outweigh any employment concerns as AI will open up opportunities for people to do more value-added work, apart from allowing for greater flexibility and work-life balance,"" the report said.    by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links You May LikeG4 By GolpaNew and Permanent Teeth in 24 Hours - Life Changing!G4 By GolpaLearn MoreUndoGiven that AI integration requires significant time and investment, the report also suggests that organisations would do well to prioritise those areas that could be automated with relative ease and with ready availability of data.Moreover, companies should also focus those areas which would provide the most tangible and immediate returns in terms of improved efficiency, cost savings and customer reach.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 50:00Loaded: 0.51%00:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -50:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Advertisement""While AI holds the potential to truly transform our lives as individuals and enterprises, its growth and adoption are wholly dependent on overcoming challenges related to reducing costs, securing the right talent and data, and addressing concerns around privacy and trust,"" said Sudipta Ghosh, Partner and Leader, Data & Analytics, PwC India.Ghosh further said ""the market reality we exist in today demands that we not only work towards upskilling our people, but also produce the smartest machines that can work with us"". Read More News onartificial intelligenceJobsAIupskillingemployment",https://schema.org/,WebPage,https://economictimes.indiatimes.com/jobs/benefits-of-ai-on-employment-outweigh-concerns-report/articleshow/62930743.cms,"{'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-62930743,resizemode-4,width-1200,height-900,imgsize-241756,overlay-etcareers/photo.jpg', 'width': 1200, 'height': 900}","{'@type': 'Thing', 'name': 'PTI'}","{'@type': 'NewsMediaOrganization', 'name': 'Economic Times', 'logo': {'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg', 'width': 600, 'height': 60}}",Benefits of AI on employment outweigh concerns: Report,2018-02-15T15:35:00+05:30,2018-02-15T15:35:00+05:30,Careers,Benefits of AI on employment outweigh concerns: Report,,,https://economictimes.indiatimes.com/jobs/benefits-of-ai-on-employment-outweigh-concerns-report/articleshow/62930743.cms,,,,,,,"{'@type': 'ImageObject', 'url': 'https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg', 'width': 600, 'height': 60}",,,,,,,,,,,,,,,,,,en,"The impact of artificial intelligence (AI) on employment is expected to be severe, but the benefits outweigh its concerns as it would lead to improved efficiency and cost saving, says a PwC India report.According to the report titled  Artificial Intelligence- Hype or Reality , about 68 per cent of Indian business decision-makers believe AI will help their business in various ways such as boosting productivity, generating growth and addressing societal issues. While 65 per cent of participants agreed that AI is likely to have a severe impact on employment in India, a majority believed the benefits outweigh any employment concerns as AI will open up opportunities for people to do more value-added work, apart from allowing for greater flexibility and work-life balance,  the report said.Given that AI integration requires significant time and investment, the report also suggests that organisations would do well to prioritise those areas that could be automated with relative ease and with ready availability of data.Moreover, companies should also focus those areas which would provide the most tangible and immediate returns in terms of improved efficiency, cost savings and customer reach. While AI holds the potential to truly transform our lives as individuals and enterprises, its growth and adoption are wholly dependent on overcoming challenges related to reducing costs, securing the right talent and data, and addressing concerns around privacy and trust,  said Sudipta Ghosh, Partner and Leader, Data & Analytics, PwC India.Ghosh further said  the market reality we exist in today demands that we not only work towards upskilling our people, but also produce the smartest machines that can work with us . ","{'@type': 'SpeakableSpecification', 'cssSelector': ['.article_wrap h1', '.artSyn h2']}",,,,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3dvcmxkL2pvYi1raWxsaW5nLXJvYm90cy1haS11bmRlci1zY3J1dGlueS1pbi1kYXZvcy0zMDgxMNIBVWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3dvcmxkL2pvYi1raWxsaW5nLXJvYm90cy1haS11bmRlci1zY3J1dGlueS1pbi1kYXZvcy0zMDgxMC9hbXA?oc=5,"`Job-killing` robots, Artificial intelligence under scrutiny in Davos - WION",2018-02-12,WION,https://www.wionews.com,"The rise of AI -- its huge potential and fears over its potentially negative consequences -- is just one of the big issues discussed at the World Economic Forum in Davos, along with breaches of personal data and fake news.","Job-killing robots,artificial intelligence,kill jobs,Jack Ma,World Economic Forum,Davos","The rise of AI -- its huge potential and fears over its potentially negative consequences -- is just one of the big issues discussed at the World Economic Forum in Davos, along with breaches of personal data and fake news.","The rise of AI -- its huge potential and fears over its potentially negative consequences -- is just one of the big issues discussed at the World Economic Forum in Davos, along with breaches of personal data and fake news.",N/A,N/A,N/A,https://schema.org,NewsArticle,https://www.wionews.com/,"{'@type': 'ImageObject', 'url': 'https://cdn.wionews.com/sites/default/files/styles/medium/public/2024/07/12/443198-pexels-pixabay-532001.jpg', 'height': 506, 'width': 918}","{'@type': 'Person', 'name': 'WION Web Team'}","{'@type': 'Organization', 'name': 'WION', 'logo': {'@type': 'ImageObject', 'url': 'https://cdn.wionews.com/images/wion-logo-600-60.png', 'width': 120, 'height': 40}}","Job-killing robots, Artificial intelligence under scrutiny in Davos",2018-01-26T04:32:48+05:30,2018-02-12T11:56:52+05:30,,WION,,"[{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.wionews.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'World', 'item': 'https://www.wionews.com/world'}, {'@type': 'ListItem', 'position': 3, 'name': ""'Job-killing' robots, Artificial intelligence under scrutiny in Davos"", 'item': 'https://www.wionews.com/world/job-killing-robots-ai-under-scrutiny-in-davos-30810'}]","{'@type': 'WebPage', '@id': 'https://www.wionews.com/world/job-killing-robots-ai-under-scrutiny-in-davos-30810'}",,,,,,,,,,,,,,,,,,,,,,,,,,,,WIONews,"[{'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Home', 'url': 'https://www.wionews.com'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'World', 'url': 'https://www.wionews.com/world'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Sports', 'url': 'https://www.wionews.com/sports'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Entertainment', 'url': 'https://www.wionews.com/entertainment'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Videos', 'url': 'https://www.wionews.com/videos'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Photos', 'url': 'https://www.wionews.com/photos'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Science', 'url': 'https://www.wionews.com/science'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'India', 'url': 'https://www.wionews.com/india-news'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Gravitas', 'url': 'https://www.wionews.com/gravitas'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'Wion Community', 'url': 'https://www.wionews.com/topics/wion-community'}, {'@context': 'https://schema.org', '@type': 'SiteNavigationElement', '@id': '#table-of-contents', 'name': 'T20 World Cup', 'url': 'https://www.wionews.com/cricket/t20-world-cup'}]",,,,
+https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTgvMDIvMTIvdGVjaG5vbG9neS9jaGluYS10cnVtcC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1s0gEA?oc=5,"As China Marches Forward on A.I., the White House Is Silent (Published 2018) - The New York Times",2018-02-12,The New York Times,https://www.nytimes.com,"Last summer, China unveiled a plan to become the world’s leader in artificial intelligence, challenging the longtime role of the United States.",N/A,"Last summer, China unveiled a plan to become the world’s leader in artificial intelligence, challenging the longtime role of the United States.","Last summer, China unveiled a plan to become the world’s leader in artificial intelligence, challenging the longtime role of the United States.",Technology,N/A,"Artificial IntelligenceFine Print ChangesQuiz: Fake or Real Images?Apple Enters A.I. FrayMeta’s A.I. ScrapingHumane’s A.I. Device FlopCredit...Zach MeyerSkip to contentSkip to site indexSearch & Section NavigationSection NavigationAs China Marches Forward on A.I., the White House Is SilentLast summer, China unveiled a plan to become the world’s leader in artificial intelligence, challenging the longtime role of the United States.Credit...Zach MeyerSupported bySKIP ADVERTISEMENTShare full articleRead in appBy Cade MetzFeb. 12, 2018阅读简体中文版閱讀繁體中文版SAN FRANCISCO — In July, China unveiled a plan to become the world leader in artificial intelligence and create an industry worth $150 billion to its economy by 2030.To technologists working on A.I. in the United States, the statement, which was 28 pages long in its English translation, was a direct challenge to America’s lead in arguably the most important tech research to come along in decades. It outlined the Chinese government’s aggressive plan to treat A.I. like the country’s own version of the Apollo 11 lunar mission — an all-in effort that could stoke national pride and spark agenda-setting technology breakthroughs.The manifesto was also remarkably similar to several reports on the future of artificial intelligence released by the Obama administration at the end of 2016.“It is remarkable to see how A.I. has emerged as a top priority for the Chinese leadership and how quickly things have been set into motion,” said Elsa Kania, an adjunct fellow at the Center for a New American Security who helped translate the manifesto and follows China’s work on artificial intelligence. “The U.S. plans and policies released in 2016 were seemingly the impetus for the formulation of China’s national A.I. strategy.”AdvertisementSKIP ADVERTISEMENTBut six months after China seemed to mimic that Obama-era road map, A.I. experts in industry and academia in the United States say that the Trump White House has done little to follow through on the previous administration’s economic call to arms.“We are still waiting on the White House to provide some direction” on how to respond to the competition, said Tim Hwang, who worked on A.I. policy at Google and is now the director of the Ethics and Governance of AI Initiative, a new organization created by the LinkedIn founder Reid Hoffman and others to fund ethical research in artificial intelligence.China’s embrace of A.I. comes at a crucial time in the development of the technology and just as the lead long enjoyed by the United States has started to dwindle.For decades, artificial intelligence was more fiction than science. In the past few years, however, dramatic improvements have prompted some of the biggest companies in Silicon Valley and Detroit — and China — to invest billions on everything from self-driving cars to home appliances that can have a conversation with a human.A.I. has also become a significant part of national defense policy as military leaders and ethicists debate how much autonomy we should give to weapons that can think for themselves.AdvertisementSKIP ADVERTISEMENTAmerican companies like Amazon and Google have done more than anyone to turn A.I. concepts into real products. But for a number of reasons, including concerns that the Trump administration will limit the number of immigrant engineers allowed into the United States, much of the critical research being done on artificial intelligence is already migrating to other countries, including tech hot spots like Toronto, London and Beijing.ImageDoctors at the radiology department of Zhejiang Provincial People’s Hospital in China use an A.I. system to view CT scans as a way to diagnose lung cancers early on.Credit...Yue Wu for The New York TimesTo China’s growing tech community, driving the industry’s next big thing — a mantra of Silicon Valley — is becoming a tantalizing possibility.“Thanks to the size of the market and the rapid experimentation, China is going to become one of the most powerful — if not the most powerful — A.I. countries in the world,” said Kai-Fu Lee, a former Microsoft and Google executive who now runs a prominent Chinese venture capital firm dedicated to artificial intelligence.The 2016 A.I. reports were shepherded by President Barack Obama’s Office of Science and Technology Policy.AdvertisementSKIP ADVERTISEMENTThe O.S.T.P., which has overseen science and technology activities across the federal government for more than four decades, is now run by the deputy chief technology officer Michael Kratsios. He had worked as a Wall Street analyst before serving as chief of staff for an investment fund run by Peter Thiel, a venture capitalist who supported Mr. Trump’s presidential run. The administration has yet to name an office director or fill four other assistant posts.In a recent interview, Mr. Kratsios was adamant that any concerns over the administration’s approach to A.I. were unfounded.“Artificial intelligence has been a priority for the Trump administration since Day 1,” he said. Mr. Kratsios added that the administration was particularly concerned with the development of A.I. in national security and as a way of encouraging economic prosperity.Many staff members in Mr. Kratsios’s office are exploring issues related to artificial intelligence, he said. Mr. Kratsios also meets with a committee, set up by the Obama administration, that coordinates A.I. policy across the government.“The key thing to remember is that the front line of A.I. policy is at the agencies,” he said. “The White House is a convener and a coordinator.”AdvertisementSKIP ADVERTISEMENTIn an echo of plans laid out by the Obama administration, China’s government said it intended to significantly increase long-term funding for A.I. research and develop a much larger community of A.I. researchers.There are several ways to do that, according to the Obama administration and China. First, educate more students in these technologies. Second, recruit experts from other countries.At the same time, both policy statements urged companies to share more technology and data. Huge pools of data are need to “train” A.I. systems, and in the United States much of this is locked up inside companies like Facebook and Google. Mr. Lee said China already has an enormous advantage here because its large population will generate more data and its companies are more willing to share.ImageGeoffrey Hinton, a computer scientist and leading expert in artificial intelligence, has helped make the University of Toronto a center of innovation in A.I. technology.Credit...Aaron Vincent Elkaim for The New York TimesArtificial intelligence has been a focus of Chinese technologists for some time. By 2013, China was already producing more research papers than the United States in the area of “deep learning,” the main technology driving the rise of A.I., according to the Obama reports. Deep learning, which allows machines to learn tasks by analyzing vast amounts of data, is one of the main technologies driving the rise of artificial intelligence.AdvertisementSKIP ADVERTISEMENTIt is unclear how much China as a whole is spending. But one Chinese state has promised to invest $5 billion in A.I., and the government of Beijing has committed $2 billion to an A.I. development park in the city. South Korea has set aside close to $1 billion of its own. Canada, already home to many of the top researchers in the field, has also committed $125 million to, in part, attract new talent from other countries.It is also difficult to say just how much the government of the United States is spending. Government organizations like the Intelligence Advanced Research Projects Activity, the National Institute of Standards and Technology, and the National Science Foundation continue to fund new research in universities and the private sector. According to an O.S.T.P report, the federal government spent about $1 billion a year in 2015. The Trump administration says that spending jumped to $3 billion in 2017. But the current administration said that was not an apples-to-apples comparison to the 2015 tally, because it was not certain how the Obama administration made it calculations.“We may have a bunch of small initiatives inside the government that are doing good, but we don’t have a central national strategy,” said Jack Clark, a former journalist who now oversees policy efforts at OpenAI, the artificial intelligence lab co-founded by Elon Musk, Tesla’s chief executive. “It is confusing that we have this technology of such obvious power and merit and we are not hearing full-throated support, including financial support.”The Trump administration’s budget for 2018 aims to cut science and technology research funding across the government by 15 percent, according to a report from the American Association for the Advancement of Science.AdvertisementSKIP ADVERTISEMENT“They are headed in precisely the wrong direction,” said Thomas Kalil, who led O.S.T.P’s Technology and Innovation Division under President Obama. “That is particularly concerning given that China has identified this as a strategic priority.”Over the past five years, much of the progress in A.I. technology has been led by American companies like Google, Microsoft, Amazon and Facebook. But these companies don’t need A.I. technologists to work in the United States in order to employ them.Take Geoffrey Hinton, a major figure in the rise of A.I. at Google and across the tech industry. He recently moved back to Toronto, where he was a professor for many years. He now runs a new Google lab in that city. Last year, he took on an Iranian researcher who was denied a visa by the United States government.Google operates another important lab in Montreal. Its London lab, DeepMind, may be home to more top-notch A.I. researchers than any other lab on earth. And Google recently unveiled new labs in both Paris and Beijing. Facebook, after creating its own lab in Canada, recently pumped 10 million euros, or more than $12 million, into its existing operation in Paris. And Amazon is opening a lab in Germany.Inside these facilities, researchers still create technology for their American employers. As the labs grow and the products get better, some employees can be expected to leave to start their own companies and hire their own employees.AdvertisementSKIP ADVERTISEMENTGoogle’s and Microsoft’s work in China has already led to Chinese start-ups like Malong, which is building image recognition systems, and a major A.I. investment fund run by Mr. Lee.“When it is close to you, something like Microsoft Research has real economic value,” said Mr. Clark, of OpenAI.Follow Cade Metz on Twitter: @CadeMetz A version of this article appears in print on Feb. 13, 2018, Section B, Page 1 of the New York edition with the headline: China’s Blitz to Dominate A.I.. Order Reprints | Today’s Paper | SubscribeSee more on: Alphabet Inc., Barack Obama, Donald Trump, U.S. PoliticsShare full articleRead in appAdvertisementSKIP ADVERTISEMENTEnjoy unlimited access to all of The Times.6-month Welcome Offeroriginal price:   $6.25sale price:   $1/weekLearn more",https://schema.org,NewsMediaOrganization,https://www.nytimes.com/,"[{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2018/03/02/business/mutfund/AIVacuum-sub/AIVacuum-sub-videoSixteenByNineJumbo1600.jpg', 'height': 900, 'width': 1600, 'contentUrl': 'https://static01.nyt.com/images/2018/03/02/business/mutfund/AIVacuum-sub/AIVacuum-sub-videoSixteenByNineJumbo1600.jpg', 'creditText': 'Zach Meyer'}, {'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/2018/03/02/business/mutfund/AIVacuum-sub/AIVacuum-sub-superJumbo.jpg', 'height': 2048, 'width': 1671, 'contentUrl': 'https://static01.nyt.com/images/2018/03/02/business/mutfund/AIVacuum-sub/AIVacuum-sub-superJumbo.jpg', 'creditText': 'Zach Meyer'}]","[{'@context': 'https://schema.org', '@type': 'Person', 'url': 'https://www.nytimes.com/by/cade-metz', 'name': 'Cade Metz'}]","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","As China Marches Forward on A.I., the White House Is Silent",2018-02-12T23:33:35.000Z,2018-02-26T17:41:35.000Z,,The New York Times,False,,https://www.nytimes.com/2018/02/12/technology/china-trump-artificial-intelligence.html,,"{'@type': 'WebPageElement', 'isAccessibleForFree': False, 'cssSelector': '.meteredContent'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}","{'@id': 'https://www.nytimes.com/#publisher', 'name': 'The New York Times'}",2024.0,"{'@type': ['CreativeWork', 'Product'], 'name': 'The New York Times', 'productID': 'nytimes.com:basic'}","{'@context': 'https://schema.org', '@type': 'ImageObject', 'url': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'height': 291, 'width': 291, 'contentUrl': 'https://static01.nyt.com/images/icons/t_logo_291_black.png', 'creditText': 'The New York Times'}",https://www.nytimes.com/#publisher,https://www.nytco.com/company/diversity-and-inclusion/,https://www.nytco.com/company/standards-ethics/,https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html,1851-09-18,https://en.wikipedia.org/wiki/The_New_York_Times,,,,,,,,,,,,,,,,,China’s Blitz to Dominate A.I.,,,
+https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRlc2xhcmF0aS5jb20vYWktZm9zdGVyLWVyYS1zdXBlcmh1bWFuLXdvcmtlcnMtc2F5cy1nb29nbGUteC1mb3VuZGVyL9IBVWh0dHBzOi8vd3d3LnRlc2xhcmF0aS5jb20vYWktZm9zdGVyLWVyYS1zdXBlcmh1bWFuLXdvcmtlcnMtc2F5cy1nb29nbGUteC1mb3VuZGVyL2FtcC8?oc=5,"AI will foster an era of ‘superhuman’ workers, says Google X founder - TESLARATI",2018-02-13,TESLARATI,https://www.teslarati.com,N/A,N/A,"During the 2018 World Government Summit in Dubai this week, Google X co-founder Sebastian Thurn stated that artificial intelligence innovations would usher in an era of “superhuman” workers who are capable of doing far more work than what is conventionally possible. Thurn asserted that AI-based solutions, no matter how advanced, are tools designed to augment […]",N/A,N/A,N/A,"
+
+
+
+
+
+
+
+
+ 
+
+
+
+By Simon Alvarez  
+
+Posted on February 13, 2018
+
+
+
+
+
+
+
+During the 2018 World Government Summit in Dubai this week, Google X co-founder Sebastian Thurn stated that artificial intelligence innovations would usher in an era of “superhuman” workers who are capable of doing far more work than what is conventionally possible. 
+Thurn asserted that AI-based solutions, no matter how advanced, are tools designed to augment the productivity of humans. Thus, instead of rendering human workers obsolete, AI would likely help humans achieve greater work efficiency. 
+“AI is a tool and what AI can do really, really well is getting rid of repetitive work. So, if you are a worker, say a medical doctor or a lawyer who spends day in and day out doing the same thing, then having AI look over your shoulder and learn those skills from you will make you a superhuman, a more powerful person,” he said, according to a Futurism report. 
+
+Thurn, however, did admit that some trades in the workforce are bound to be adversely affected by the incoming AI revolution. The Google X executive believes that this change would present an opportunity for humanity to transition into a creative society. 
+“Now, that means that some jobs will go away, very repetitive work, of course. But it will be replaced by created work, so we have to move from a repetitive working society into a creative society where we invent new things,” he said. 
+The Google X co-founder’s optimistic outlook mirrors that of futurist Ray Kurzweil, who issued equally optimistic expectations for AI during a discussion held at the Council of Foreign Relations last November. During his talk, Kurzweil stated that artificial intelligence has the potential to “enhance” humanity. 
+“My view is not that AI is going to displace us. It’s going to enhance us. It does already,” Kurzweil said. 
+The idea of AI-powered technologies becoming mainstream has become a particularly tricky issue among many notable voices in the scientific field, with individuals such as physicist Stephen Hawking and SpaceX CEO Elon Musk issuing warnings about the dangers of unregulated AI solutions. For Musk, the race towards AI superiority among the world’s superpowers would likely be the trigger for a global armed conflict. Other critics of AI believe that intelligent technologies would be the end of entry-level jobs as we know it. 
+If the Google X co-founder’s viewpoints are proven right, however, a lot of these reservations and fears are unwarranted. 
+Considering that artificial intelligence has the potential to be both beneficial and detrimental to society, a number of AI-based initiatives have been started over the past few years. Among these is OpenAI, a research firm co-founded by Tesla and SpaceX CEO Elon Musk that aims to ensure that bleeding edge AI is used for the benefit of society as a whole. As we stated in a previous report, OpenAI has recently increased its hiring efforts, seemingly as a way to further its push to build safe, intelligent solutions.
+
+AI will foster an era of ‘superhuman’ workers, says Google X founder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+Comments
+
+
+
+
+
+",https://schema.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{'@type': 'WebSite', '@id': 'https://www.teslarati.com/#website', 'url': 'https://www.teslarati.com/', 'name': 'TESLARATI', 'description': 'Tesla news, rumors and reviews. SpaceX, Elon Musk, batteries, energy, premium EV market.', 'potentialAction': [{'@type': 'SearchAction', 'target': {'@type': 'EntryPoint', 'urlTemplate': 'https://www.teslarati.com/?s={search_term_string}'}, 'query-input': 'required name=search_term_string'}], 'inLanguage': 'en-US'}, {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/#primaryimage', 'url': 'https://www.teslarati.com/wp-content/uploads/2018/02/ai-superhuman-worker-city.jpg', 'contentUrl': 'https://www.teslarati.com/wp-content/uploads/2018/02/ai-superhuman-worker-city.jpg', 'width': 770, 'height': 577, 'caption': 'AI will foster an era of ‘superhuman’ workers, says Google X founder [Photo credit: iStockPhoto]'}, {'@type': 'WebPage', '@id': 'https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/#webpage', 'url': 'https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/', 'name': ""AI will foster an era of 'superhuman' workers, says Google X founder"", 'isPartOf': {'@id': 'https://www.teslarati.com/#website'}, 'primaryImageOfPage': {'@id': 'https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/#primaryimage'}, 'datePublished': '2018-02-13T16:26:22+00:00', 'dateModified': '2018-02-14T01:51:16+00:00', 'author': {'@id': 'https://www.teslarati.com/#/schema/person/3c54d23a7cb95c3dfd9c1731720bc68f'}, 'breadcrumb': {'@id': 'https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/#breadcrumb'}, 'inLanguage': 'en-US', 'potentialAction': [{'@type': 'ReadAction', 'target': ['https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/']}]}, {'@type': 'BreadcrumbList', '@id': 'https://www.teslarati.com/ai-foster-era-superhuman-workers-says-google-x-founder/#breadcrumb', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.teslarati.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'News', 'item': 'https://www.teslarati.com/category/news/'}, {'@type': 'ListItem', 'position': 3, 'name': 'AI will foster an era of &#8216;superhuman&#8217; workers, says Google X founder'}]}, {'@type': 'Person', '@id': 'https://www.teslarati.com/#/schema/person/3c54d23a7cb95c3dfd9c1731720bc68f', 'name': 'Simon Alvarez', 'image': {'@type': 'ImageObject', 'inLanguage': 'en-US', '@id': 'https://www.teslarati.com/#/schema/person/image/', 'url': 'https://secure.gravatar.com/avatar/d2f2ae7ba56c7a1974ce6b39f1467eca?s=96&r=pg', 'contentUrl': 'https://secure.gravatar.com/avatar/d2f2ae7ba56c7a1974ce6b39f1467eca?s=96&r=pg', 'caption': 'Simon Alvarez'}, 'description': 'Simon is a reporter with a passion for electric cars and clean energy. Fascinated by the world envisioned by Elon Musk, he hopes to make it to Mars (at least as a tourist) someday.', 'sameAs': ['https://www.teslarati.com', 'https://www.facebook.com/sim.alva', 'https://twitter.com/https://twitter.com/ResidentSponge'], 'url': 'https://www.teslarati.com/author/simon-alvarez/'}]",,,,
+https://news.google.com/rss/articles/CBMilgFodHRwczovL2ZlZGVyYWxuZXdzbmV0d29yay5jb20vZmVkZXJhbC1pbnNpZ2h0cy8yMDE4LzAyL25ldy1mcm9udGllcnMtaW4tbWlsaXRhcnktaW50ZWxsaWdlbmNlLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW1hY2hpbmUtbGVhcm5pbmctYW5kLXRoZS1jbG91ZC_SAQA?oc=5,"New frontiers in military intelligence: Artificial intelligence, machine learning and the cloud - Federal News Network",2018-02-15,Federal News Network,https://federalnewsnetwork.com,"For the DoD, AI and machine learning in the cloud have the potential to do more than just basic back-office work.","['andrew mansfield', 'cloud', 'jack shanahan', 'leigh madden', 'machine learning', 'margie palmieri', 'microsoft', 'military intelligence']","For the DoD, AI and machine learning in the cloud have the potential to do more than just basic back-office work.","For the DoD, AI and machine learning in the cloud have the potential to do more than just basic back-office work.",N/A,N/A,"
+
+Competing global supply chain approaches
+
+
+Commentary
+Read more
+
+",http://schema.org,NewsArticle,https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/,"{'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/uploads/2018/02/military-technology-1880x1250.jpg', 'width': 1880, 'height': 1250}","[{'@type': 'Person', 'name': 'Federal News Network Staff'}]","{'@type': 'Organization', 'name': 'Federal News Network', 'logo': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/themes/wfed/assets/img/icons/logo.png'}}","New frontiers in military intelligence: Artificial intelligence, machine learning and the cloud",2018-02-15T20:52:27Z,2018-02-21T18:51:15Z,Federal Insights,,,,"{'@type': 'WebPage', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/'}",,,,,,,,,,,,,,https://federalnewsnetwork.com/wp-content/uploads/2018/02/military-technology-150x150.jpg,,,,,,2018-02-15T20:52:27Z,,,,,,,"{'@type': 'SpeakableSpecification', 'cssSelector': ['.schema-title', '.schema-summary']}",,"[{'@type': 'BreadcrumbList', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#breadcrumblist', 'itemListElement': [{'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/#listItem', 'position': 1, 'name': 'Home', 'item': 'https://federalnewsnetwork.com/', 'nextItem': 'https://federalnewsnetwork.com/federal-insights/2018/#listItem'}, {'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/#listItem', 'position': 2, 'name': '2018', 'item': 'https://federalnewsnetwork.com/federal-insights/2018/', 'nextItem': 'https://federalnewsnetwork.com/federal-insights/2018/02/#listItem', 'previousItem': 'https://federalnewsnetwork.com/#listItem'}, {'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/#listItem', 'position': 3, 'name': 'February', 'item': 'https://federalnewsnetwork.com/federal-insights/2018/02/', 'nextItem': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#listItem', 'previousItem': 'https://federalnewsnetwork.com/federal-insights/2018/#listItem'}, {'@type': 'ListItem', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#listItem', 'position': 4, 'name': 'New frontiers in military intelligence: Artificial intelligence, machine learning and the cloud', 'previousItem': 'https://federalnewsnetwork.com/federal-insights/2018/02/#listItem'}]}, {'@type': 'NewsArticle', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#newsarticle', 'name': 'New frontiers in military intelligence: Artificial intelligence, machine learning and the cloud', 'headline': 'New frontiers in military intelligence: Artificial intelligence, machine learning and the cloud', 'author': {'@id': 'https://federalnewsnetwork.com/author/wfedstaff/#author'}, 'publisher': {'@id': 'https://federalnewsnetwork.com/#organization'}, 'image': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/uploads/2018/02/military-technology.jpg', 'width': 2124, 'height': 1412}, 'datePublished': '2018-02-15T20:52:27-05:00', 'dateModified': '2018-02-21T18:51:15-05:00', 'inLanguage': 'en-US', 'mainEntityOfPage': {'@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#webpage'}, 'isPartOf': {'@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#webpage'}, 'articleSection': 'All News, Artificial Intelligence, Cloud Computing, Federal Insights, Roundtables, Technology, Andrew Mansfield, cloud, Jack Shanahan, Leigh Madden, machine learning, Margie Palmieri, Microsoft, military intelligence, wfedstaff', 'dateline': 'Published on February 15, 2018.'}, {'@type': 'Organization', '@id': 'https://federalnewsnetwork.com/#organization', 'name': 'Federal News Network', 'url': 'https://federalnewsnetwork.com/', 'logo': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/themes/wfed/assets/img/media_kit/JPG/fnn-logo-hor-small.jpg', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#organizationLogo'}, 'image': {'@id': 'https://federalnewsnetwork.com/#organizationLogo'}, 'sameAs': ['https://twitter.com/FederalNewsNet', 'https://www.instagram.com/federalnewsnet/', 'https://www.youtube.com/@federalnewsnetwork', 'https://www.linkedin.com/company/federal-news-network', 'https://en.wikipedia.org/wiki/WFED'], 'contactPoint': {'@type': 'ContactPoint', 'telephone': '+12028955086', 'contactType': 'Newsroom'}}, {'@type': 'Person', '@id': 'https://federalnewsnetwork.com/author/wfedstaff/#author', 'url': 'https://federalnewsnetwork.com/author/wfedstaff/', 'name': 'wfedstaff'}, {'@type': 'WebPage', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#webpage', 'url': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/', 'name': 'New frontiers in military intelligence: Artificial intelligence, machine learning and the cloud', 'description': 'For the DoD, AI and machine learning in the cloud have the potential to do more than just basic back-office work.', 'inLanguage': 'en-US', 'isPartOf': {'@id': 'https://federalnewsnetwork.com/#website'}, 'breadcrumb': {'@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#breadcrumblist'}, 'author': {'@id': 'https://federalnewsnetwork.com/author/wfedstaff/#author'}, 'creator': {'@id': 'https://federalnewsnetwork.com/author/wfedstaff/#author'}, 'image': {'@type': 'ImageObject', 'url': 'https://federalnewsnetwork.com/wp-content/uploads/2018/02/military-technology.jpg', '@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#mainImage', 'width': 2124, 'height': 1412}, 'primaryImageOfPage': {'@id': 'https://federalnewsnetwork.com/federal-insights/2018/02/new-frontiers-in-military-intelligence-artificial-intelligence-machine-learning-and-the-cloud/#mainImage'}, 'datePublished': '2018-02-15T20:52:27-05:00', 'dateModified': '2018-02-21T18:51:15-05:00'}, {'@type': 'WebSite', '@id': 'https://federalnewsnetwork.com/#website', 'url': 'https://federalnewsnetwork.com/', 'name': 'Federal News Network', 'alternateName': 'WFED', 'description': 'Helping feds meet their mission.', 'inLanguage': 'en-US', 'publisher': {'@id': 'https://federalnewsnetwork.com/#organization'}}]",,['Federal News Network Staff'],,
+https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmphbWFpY2FvYnNlcnZlci5jb20vMjAxOC8wMi8xNS9ieS0yMDE5LTIwLW9mLWpvYnMtaW4tamFtYWljYS1tYXktYmUtZG9uZS1ieS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS_SAQA?oc=5,"By 2019, 20% of jobs in Jamaica may be done by artificial intelligence - Jamaica Observer",2018-02-15,Jamaica Observer,https://www.jamaicaobserver.com,"Get ready for the rise of machines in the Jamaican workforce. Recently the National Commercial Bank Group (NCBG) laid off 200 workers. Speaking in previous media reports, Dennis Cohen, deputy CEO...",,Get ready for the rise of machines in the Jamaican workforce. Recently the National Commercial Bank Group (NCBG) laid off 200 workers. Speaking in previous m...,Get ready for the rise of machines in the Jamaican workforce. Recently the National Commercial Bank Group (NCBG) laid off 200 workers. Speaking in previous m...,N/A,N/A,"NewsPolice seize AK-47, military gear in Westmoreland operation",http://schema.org,BreadcrumbList,https://www.jamaicaobserver.com/,https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2017/12/11721de8e65a27f3f898986336f6134e.jpg,"[{'@type': 'Person', 'name': 'BY DENNISE WILLIAMS Contributor', 'url': 'https://www.jamaicaobserver.com/author/by-dennise-williams-contributor/'}]",,"By 2019, 20% of jobs in Jamaica may be done by artificial intelligence",2018-02-16T00:00:00-05:00,2018-02-16T00:00:00-05:00,['Business'],Jamaica Observer,True,"[{'@type': 'ListItem', 'position': 1, 'name': 'Business', 'item': 'https://www.jamaicaobserver.com/category/business/'}]","{'@type': 'WebPage', '@id': 'https://www.jamaicaobserver.com/2018/02/15/by-2019-20-of-jobs-in-jamaica-may-be-done-by-artificial-intelligence/'}",,,,,,,"{'@type': 'ImageObject', 'url': 'https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2023/09/jol_color_logo.png', 'width': '1000', 'height': '320'}",,,https://www.jamaicaobserver.com/privacy-policy/,,,"['https://www.facebook.com/jamaicaobserver', 'https://twitter.com/jamaicaobserver', 'https://www.instagram.com/jamaicaobserver/']",,,,,,,,,,"[{'@type': 'ContactPoint', 'contactType': 'Public Engagement', 'url': 'https://www.jamaicaobserver.com/contact-us/'}]",,,,,,,,,876-926-7655,"{'@type': 'PostalAddress', 'streetAddress': 'Kingston 40-42 1/2 Beechwood Avenue', 'addressLocality': 'Kingston', 'postalCode': '5', 'addressCountry': 'JM'}"
