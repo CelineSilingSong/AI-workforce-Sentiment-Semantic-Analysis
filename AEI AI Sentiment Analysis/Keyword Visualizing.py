@@ -70,7 +70,7 @@ for file in sorted_files:
     article_list = df['Preprocessed Text'].to_list()
     compiled_list.append(article_list)
 
-exclude_phrase = ['artificial intelligence', 'ai', 'u', 'artificial', 'intelligence', 'generative', 'work','job', 'nan', 'could']
+exclude_phrase = ['artificial intelligence', 'ai', 'u', 'artificial', 'intelligence', 'generative', 'work','job', 'nan', 'could', 'many']
 keywordextractor.visualize_key_concept_sklearn(compiled_list, exclude_phrase)
 
 

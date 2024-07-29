@@ -146,7 +146,7 @@ class keywordExtractor:
         print(flattened_articles)
 
         # Initialize TfidfVectorizer to get unigrams and bigrams
-        vectorizer = TfidfVectorizer(max_df=0.8,max_features=10000, ngram_range=(1, 2))
+        vectorizer = TfidfVectorizer(max_df=0.7,max_features=10000, ngram_range=(1, 2))
         X = vectorizer.fit_transform(flattened_articles)
         keywords = vectorizer.get_feature_names_out()
 
