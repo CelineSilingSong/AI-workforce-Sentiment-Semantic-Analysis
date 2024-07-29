@@ -23,11 +23,11 @@ def combine_files(directory):
             combined_df = pd.concat([combined_df, df])
         
         # Save the combined file
-        combined_filename = f"/Users/LindaSong/Desktop/test 2 reorganized/{group_key}.csv"
+        combined_filename = f"/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/reorganized-en/{group_key}.csv"
         combined_filepath = os.path.join(directory, combined_filename)
         combined_df.to_csv(combined_filepath, index=False)
         print(f"Combined files for {group_key} into {combined_filename}")
 
 # Usage
-directory = '/Users/LindaSong/Desktop/test 2'
+directory = '/Users/LindaSong/Desktop/AI-workforce-Sentiment-Semantic-Analysis/en-macroed'
 combine_files(directory)

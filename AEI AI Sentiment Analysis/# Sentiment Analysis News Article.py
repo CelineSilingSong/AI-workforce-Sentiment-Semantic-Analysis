@@ -69,6 +69,5 @@ for filename in os.listdir(directory):
         df['Preprocessed Title'] = df['Title'].apply(preprocess_text)
         df['Value'] = df['Preprocessed Title'].apply(Return_Score)
         df['Sentiment'] = df['Value'].apply(Return_Sentiment)
-
         df.to_csv(f'/Users/LindaSong/Desktop/AI Sentiment Results 3/sentiment analyzed {filename}')
 
