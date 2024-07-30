@@ -23,6 +23,7 @@ from flair.data import Sentence
 from transformers import pipeline
 from transformers import DistilBertTokenizer
 import numpy as np
+from collections import Counter
 
 import torch
 print(torch.backends.mps.is_available())
@@ -159,6 +160,51 @@ class keywordExtractor:
 
         # Filter out specific phrases
         filtered_ngrams = {ngram: count for ngram, count in ngram_counts.items() if ngram not in exclude_phrases}
+
+        # Optional: Filter out long phrases (e.g., keep only unigrams and bigrams)
+        filtered_ngrams = {ngram: count for ngram, count in filtered_ngrams.items() if len(ngram.split()) <= 2}
+
+        # Get the 20 most common ngrams after filtering
+        common_ngrams = sorted(filtered_ngrams.items(), key=lambda x: x[1], reverse=True)[:20]
+        ngrams, counts = zip(*common_ngrams)
+
+        # Bar plot
+        plt.figure(figsize=(10, 6))
+        sns.barplot(x=list(counts), y=list(ngrams))
+        plt.xlabel('Frequency')
+        plt.ylabel('Keywords')
+        plt.title('Top Keywords in News Articles')
+
+        # Wordcloud visualization
+        wordcloud = WordCloud(width=800, height=400, background_color='white').generate_from_frequencies(filtered_ngrams)
+        plt.figure(figsize=(10, 6))
+        plt.imshow(wordcloud, interpolation='bilinear')
+        plt.axis('off')
+        plt.title('Word Cloud of Keywords')
+        plt.savefig(graph_path)
+
+    def visualize_key_concept_sklearn_without_common(self, processed_articles, exclude_phrases, graph_path, overall_keyword_freq):
+        # Initialize exclude_phrases if not provided
+        if exclude_phrases is None:
+            exclude_phrases = []
+
+        # Flatten processed articles into strings
+        flattened_articles = processed_articles
+
+        # Initialize TfidfVectorizer to get unigrams and bigrams
+        vectorizer = TfidfVectorizer(max_df=0.7, max_features=10000, ngram_range=(1, 2))
+        X = vectorizer.fit_transform(flattened_articles)
+
+        # Frequency analysis for unigrams and bigrams
+        all_ngrams = [ngram for article in flattened_articles for ngram in article.split()]
+        ngram_counts = Counter(all_ngrams)
+
+        # Filter out specific phrases
+        filtered_ngrams = {ngram: count for ngram, count in ngram_counts.items() if ngram not in exclude_phrases}
+
+        # Filter out common keywords by comparing with overall frequencies
+        filtered_ngrams = {ngram: count for ngram, count in filtered_ngrams.items()
+                           if ngram not in overall_keyword_freq or abs(overall_keyword_freq[ngram] - count) <= 300}
 
         # Optional: Filter out long phrases (e.g., keep only unigrams and bigrams)
         filtered_ngrams = {ngram: count for ngram, count in filtered_ngrams.items() if len(ngram.split()) <= 2}
